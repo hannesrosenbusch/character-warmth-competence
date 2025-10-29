@@ -3,3 +3,7 @@ data/*/
 .venv
 # Ignore Python cache files
 __pycache__
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints
+# Ignore system files
+.DS_Store
