@@ -1,5 +1,8 @@
-# Ignore subfolders in data folder
-data/*/
+# Ignore subfolders in data folder except chunks and annotations
+data/movie_characters/
+data/screenplay_data/
+data/movie_metadata/
+
 .venv
 # Ignore Python cache files
 __pycache__
