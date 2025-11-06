@@ -1,2448 +1,1923 @@
 {
   "Howard": [
     {
-      "Action": "Provides medical attention to Michelle and ensures she is placed in a secure room away from immediate harm.",
+      "Action": "Raises his hands and pleads for Michelle to stop attacking him, tries to communicate calmly despite being assaulted.",
       "Warmth": 1,
-      "Chunk": 1
+      "Chunk": 2
     },
     {
-      "Action": "Leaves Michelle alone for an undetermined period of time, causing her fear and panic.",
+      "Action": "Enters the locked room uninvited, causing Michelle to panic and attack him.",
       "Warmth": -1,
-      "Chunk": 1
+      "Chunk": 2
     },
     {
-      "Action": "Kidnaps Michelle and tends to her injuries with basic medical supplies",
+      "Action": "Calmly raises his hands and verbally tries to de-escalate the situation when attacked.",
       "Competence": 1,
-      "Chunk": 1
+      "Chunk": 2
     },
     {
-      "Action": "Keeps Michelle in a small, windowless room indicating a lack of proper facilities",
+      "Action": "Rolls out of the way to avoid a potentially serious blow, then disarms Michelle by grabbing the two-by-four.",
+      "Competence": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Allows himself to be hit in the forearm by Michelle's initial attack, showing some physical resilience but also a moment of vulnerability.",
       "Competence": 0,
-      "Chunk": 1
+      "Chunk": 2
     },
     {
-      "Action": "Michelle wakes up confused and panicked, indicating Howard has no clear plan in communicating or reassuring her",
-      "Competence": -1,
-      "Chunk": 1
-    },
-    {
-      "Action": "Brings a tray of food to Michelle.",
+      "Action": "Says 'I’m only trying to help you!' while blocking the doorway and holding a two-by-four, then drops the weapon and later provides food and bandages Michelle's injury.",
       "Warmth": 1,
-      "Chunk": 2
+      "Chunk": 3
     },
     {
-      "Action": "Raises hands and asks Michelle to stop, attempts to communicate.",
-      "Warmth": 1,
-      "Chunk": 2
-    },
-    {
-      "Action": "Protects himself from Michelle’s aggressive actions.",
-      "Warmth": 0,
-      "Chunk": 2
-    },
-    {
-      "Action": "Successfully disarms Michelle by grabbing the two-by-four and jerking it from her hands.",
-      "Competence": 1,
-      "Chunk": 2
-    },
-    {
-      "Action": "Gets hit by a two-by-four because he walks into the room without anticipating Michelle's defensive action.",
-      "Competence": -1,
-      "Chunk": 2
-    },
-    {
-      "Action": "Blocks the doorway, gripped tightly to a two-by-four and stares down at Michelle, expression between surprise and anger.",
+      "Action": "Blocks Michelle's escape and pursues her despite her pleas to stay away, causing her to black out from pain.",
       "Warmth": -1,
       "Chunk": 3
     },
     {
-      "Action": "Steps after Michelle who is frantically trying to crawl away.",
+      "Action": "Sits quietly by the door, bandaged from injury, and advises Michelle to eat the food he provided, showing concern for her well-being.",
+      "Warmth": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Dismisses Michelle's call to the police and insists she doesn't understand the situation, maintaining control over her.",
       "Warmth": -1,
       "Chunk": 3
     },
     {
-      "Action": "Drops the two-by-four and says he is not going to hurt Michelle.",
-      "Warmth": 0,
+      "Action": "Blocks the doorway to prevent Michelle from escaping, showing physical control and assertiveness.",
+      "Competence": 1,
       "Chunk": 3
     },
     {
-      "Action": "Places Michelle back on the mattress and provides a tray of food.",
+      "Action": "Drops the two-by-four when Michelle reaches for the shovel, then takes the shovel himself, demonstrating adaptability and control of the situation.",
+      "Competence": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Provides food and tends to his own injury with a bandage, indicating self-care and preparedness.",
+      "Competence": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Speaks with intelligence and a weary, hard-to-read demeanor, suggesting mental acuity and experience.",
+      "Competence": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Fails to effectively communicate or convince Michelle of his intentions, leading to increased panic and distrust.",
+      "Competence": -1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Uses intimidation and physical dominance rather than clear explanation or reassurance, which may undermine his credibility.",
+      "Competence": -1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Came across Michelle's wrecked car and did not leave her there.",
       "Warmth": 1,
-      "Chunk": 3
+      "Chunk": 4
     },
     {
-      "Action": "Sits on a folding chair by the door with bandages on his forearm.",
+      "Action": "Spent all night setting Michelle's leg and closing her head wound.",
+      "Warmth": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Explains he locked Michelle up for her own safety and to prevent her from wandering off or hurting him.",
       "Warmth": 0,
-      "Chunk": 3
+      "Chunk": 4
     },
     {
-      "Action": "Encourages Michelle to eat the eggs and talks about the food situation in a detached voice.",
+      "Action": "Tells Michelle she can't leave because of poisonous chemicals outside and offers a filtration system for protection.",
+      "Warmth": 0,
+      "Chunk": 4
+    },
+    {
+      "Action": "Offers Michelle painkillers and leaves the choice up to her.",
+      "Warmth": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Uses humor to lighten the mood despite tense situation.",
+      "Warmth": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Sets Michelle's leg and closes her head wound, showing medical skill and care.",
+      "Competence": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Explains the presence of poisonous chemicals outside and the filtration system protecting the bunker.",
+      "Competence": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Admits to being a veterinarian when Michelle questions his medical credentials, showing honesty and some confidence.",
+      "Competence": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Locks Michelle in the room against her will, indicating controlling behavior and possibly poor judgment in trust-building.",
+      "Competence": -1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Fails to convincingly reassure Michelle, who remains highly suspicious and distrustful.",
+      "Competence": -1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Offers Ketamine as a painkiller and leaves the choice to Michelle, showing some respect for her autonomy.",
+      "Competence": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Rubs his bandaged arm and mentions needing sleep, which may indicate vulnerability or distraction.",
+      "Competence": 0,
+      "Chunk": 4
+    },
+    {
+      "Action": "Acknowledges he went too far after making a disturbing comment and encourages Michelle to eat and sleep, offering to be nearby if she needs anything.",
+      "Warmth": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Makes a threatening and unsettling comment about drugging Michelle and controlling her, causing her distress.",
       "Warmth": -1,
-      "Chunk": 3
+      "Chunk": 5
     },
     {
-      "Action": "Blocks door with body, holds two-by-four threateningly but then drops it.",
-      "Competence": -1,
-      "Chunk": 3
-    },
-    {
-      "Action": "Takes care of Michelle despite her attempts to escape, provides food.",
-      "Competence": 1,
-      "Chunk": 3
-    },
-    {
-      "Action": "Gives information about situation, mentions the attack and destruction.",
-      "Competence": 1,
-      "Chunk": 3
-    },
-    {
-      "Action": "Rushes back and helps an injured woman in a car wreck.",
-      "Warmth": 1,
-      "Chunk": 4
-    },
-    {
-      "Action": "Locks the woman in a room for safety reasons after setting her leg and treating her wound.",
-      "Warmth": 1,
-      "Chunk": 4
-    },
-    {
-      "Action": "Explains he didn’t want the woman to wander off and possibly harm him.",
-      "Warmth": 0,
-      "Chunk": 4
-    },
-    {
-      "Action": "Denies being capable of harm and explains his perspective logically.",
-      "Warmth": 1,
-      "Chunk": 4
-    },
-    {
-      "Action": "Defends removing the woman’s jeans to set her knee as a medical necessity.",
-      "Warmth": 1,
-      "Chunk": 4
-    },
-    {
-      "Action": "Describes the outside world as dangerous and uninhabitable due to poisonous chemicals.",
-      "Warmth": 0,
-      "Chunk": 4
-    },
-    {
-      "Action": "Offers pain medication and leaves the choice up to the woman.",
-      "Warmth": 1,
-      "Chunk": 4
-    },
-    {
-      "Action": "Uses humor to lighten the mood regarding her injury.",
-      "Warmth": 1,
-      "Chunk": 4
-    },
-    {
-      "Action": "Sets Michelle's leg and closes the wound on her head successfully.",
-      "Competence": 1,
-      "Chunk": 4
-    },
-    {
-      "Action": "Knows Michelle might try to harm him and takes precautions by locking her in.",
-      "Competence": 1,
-      "Chunk": 4
-    },
-    {
-      "Action": "Fails to convincingly explain the situation to Michelle, leading her to doubt his intentions.",
-      "Competence": -1,
-      "Chunk": 4
-    },
-    {
-      "Action": "Uses his medical knowledge to provide pain relief with Ketamine and recommends it to Michelle.",
-      "Competence": 1,
-      "Chunk": 4
-    },
-    {
-      "Action": "Misleadingly states he is a doctor when he is a veterinarian, which leads to confusion and distrust.",
-      "Competence": -1,
-      "Chunk": 4
-    },
-    {
-      "Action": "Acknowledges he might have gone too far with his previous statement.",
+      "Action": "Explains his method of drugging logically and calmly, showing awareness of how to control the situation.",
       "Competence": 1,
       "Chunk": 5
     },
     {
-      "Action": "Gives a detailed explanation of how he could have drugged Michelle.",
+      "Action": "Recognizes he went too far and attempts to de-escalate by telling Michelle to eat and sleep, showing some emotional intelligence and control.",
       "Competence": 1,
       "Chunk": 5
     },
     {
-      "Action": "Leaves Michelle alone in the room.",
-      "Competence": -1,
+      "Action": "Leaves the door open and tells Michelle to call if she needs anything, indicating some confidence and control over the environment.",
+      "Competence": 1,
       "Chunk": 5
     },
     {
-      "Action": "Provides clean clothes for Michelle when she wakes up.",
-      "Warmth": 1,
-      "Chunk": 6
-    },
-    {
-      "Action": "Removes the butter knife while Michelle is asleep.",
-      "Warmth": -1,
-      "Chunk": 6
-    },
-    {
-      "Action": "Carries crutches and offers assistance.",
+      "Action": "Carries and provides rudimentary but functional crutches to Michelle.",
       "Warmth": 1,
       "Chunk": 7
     },
     {
-      "Action": "Offers to help, respects Michelle's request for privacy.",
+      "Action": "Reaches to steady Michelle but respects her pulling away by not forcing contact and leading the way out.",
       "Warmth": 1,
       "Chunk": 7
     },
     {
-      "Action": "Leads Michelle to a bathroom.",
+      "Action": "Shows Michelle the bathroom and accommodations, allowing her some privacy by leaving the room when she requests it.",
       "Warmth": 1,
       "Chunk": 7
     },
     {
-      "Action": "Has women's clothes in his drawer.",
+      "Action": "Stands just outside the bathroom curtain instead of leaving immediately, potentially invading privacy.",
       "Warmth": -1,
       "Chunk": 7
     },
     {
-      "Action": "Builds crutches from nailed together pieces of wood.",
+      "Action": "Constructs functional crutches from rudimentary materials that are nonetheless impressive.",
       "Competence": 1,
       "Chunk": 7
     },
     {
-      "Action": "Steadies Michelle as she gets up on the crutches.",
+      "Action": "Leads Michelle through the bunker, showing her the rooms and facilities including a bathroom.",
       "Competence": 1,
       "Chunk": 7
     },
     {
-      "Action": "Leads Michelle through the main living area to show her the bathroom.",
+      "Action": "Respects Michelle's request for privacy by closing the door when exiting the bathroom.",
       "Competence": 1,
       "Chunk": 7
     },
     {
-      "Action": "Stands outside the bathroom curtain instead of providing privacy.",
-      "Competence": -1,
+      "Action": "Attempts to steady Michelle by reaching for her arm despite her pulling away.",
+      "Competence": 0,
       "Chunk": 7
     },
     {
-      "Action": "Exits the room when asked by Michelle.",
-      "Competence": 1,
-      "Chunk": 7
-    },
-    {
-      "Action": "Falls into the room, having his ear against the door.",
-      "Warmth": 0,
-      "Chunk": 8
-    },
-    {
-      "Action": "Admits to looking in Michelle's purse to learn her name.",
-      "Warmth": -1,
-      "Chunk": 8
-    },
-    {
-      "Action": "Explains the fallout shelter setup and its self-sufficiency.",
-      "Warmth": 0,
-      "Chunk": 8
-    },
-    {
-      "Action": "References survival magazines and weapons.",
-      "Warmth": 0,
-      "Chunk": 8
-    },
-    {
-      "Action": "Cracks a small joke about the shelter making a decent wine cellar.",
+      "Action": "Looks in Michelle's purse to find her name and calls her by it, showing attentiveness and a desire to connect.",
       "Warmth": 1,
       "Chunk": 8
     },
     {
-      "Action": "Converts his cellar into a fallout shelter with self-contained utilities after 9/11.",
+      "Action": "Watches Michelle silently without intervening or explaining when she tries the locked door, showing restraint and respect for her space.",
+      "Warmth": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Provides detailed information about the shelter and its provisions, demonstrating transparency and a willingness to share important information.",
+      "Warmth": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Converted his cellar into a fully self-contained fallout shelter with solar power, water filtration, and stocked supplies.",
       "Competence": 1,
       "Chunk": 8
     },
     {
-      "Action": "Leans against the table idly.",
+      "Action": "Knows Michelle's name by looking in her purse, indicating resourcefulness but also a breach of privacy.",
       "Competence": 0,
       "Chunk": 8
     },
     {
-      "Action": "Figured out Michelle's name by looking in her purse.",
-      "Competence": 1,
+      "Action": "Listens at the door and almost tumbles in, showing eagerness but a lack of subtlety.",
+      "Competence": 0,
       "Chunk": 8
     },
     {
-      "Action": "Listens at the door before entering.",
-      "Competence": 1,
-      "Chunk": 8
-    },
-    {
-      "Action": "Fights back his own emotions while talking about his daughter in Washington, D.C.",
+      "Action": "Reaches out to comfort Michelle when she is upset about her mother, showing empathy.",
       "Warmth": 1,
       "Chunk": 9
     },
     {
-      "Action": "Reaches out to comfort Michelle.",
+      "Action": "Fights back his own emotions when talking about his daughter, indicating vulnerability and sincerity.",
       "Warmth": 1,
       "Chunk": 9
     },
     {
-      "Action": "Expresses uncertainty about his daughter's safety.",
+      "Action": "Tries to stop Michelle from going outside for safety reasons, showing concern.",
       "Warmth": 1,
       "Chunk": 9
     },
     {
-      "Action": "Faces Michelle's accusations silently with a flash of anger.",
+      "Action": "After Michelle accuses him, he shows a flash of anger and pulls the couch to block the stairs, creating a physical barrier.",
       "Warmth": -1,
       "Chunk": 9
     },
     {
-      "Action": "Offers to show Michelle what’s outside.",
+      "Action": "Keeps his distance but allows Michelle to go upstairs and look outside, showing some trust or willingness to let her see for herself.",
       "Warmth": 0,
       "Chunk": 9
     },
     {
-      "Action": "Predicts that the TV station from Chicago would give him enough info to act quickly",
+      "Action": "Able to pick up a distant radio station to gather information about the outside world and decide to get to the bunker quickly.",
       "Competence": 1,
       "Chunk": 9
     },
     {
-      "Action": "Fights back his own emotions while talking about his daughter in Washington, D.C.",
+      "Action": "Shows emotional restraint by fighting back his own emotions when discussing his daughter and the situation.",
       "Competence": 1,
       "Chunk": 9
     },
     {
-      "Action": "Looks not sure what to do or say when Michelle tears up",
+      "Action": "Attempts to comfort Michelle despite the tense situation, showing some social awareness and control.",
       "Competence": 0,
       "Chunk": 9
     },
     {
-      "Action": "Pulls the couch away from the stairs to prove his point to Michelle",
+      "Action": "Pulls the couch away from the stairs to block Michelle, maintaining control of the environment and preventing her from leaving easily.",
       "Competence": 1,
       "Chunk": 9
     },
     {
-      "Action": "Warns about external danger to protect Michelle, suggests God grant serenity.",
+      "Action": "Keeps his distance while letting Michelle investigate the door and window, showing cautiousness and control.",
+      "Competence": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "His face shows a blank slate and then anger when confronted, indicating some loss of emotional control.",
+      "Competence": 0,
+      "Chunk": 9
+    },
+    {
+      "Action": "Shows Michelle the outside damage and explains the danger calmly and informatively, using a Geiger counter to assess the situation.",
       "Warmth": 1,
       "Chunk": 10
     },
     {
-      "Action": "Locks door to prevent Michelle from leaving safety.",
+      "Action": "Expresses uncertainty about what happened to Mildred and Frank, admits he does not know.",
       "Warmth": 1,
       "Chunk": 10
     },
     {
-      "Action": "Falls when pushed by Michelle, shows frustration.",
+      "Action": "Mentions a prayer quietly to himself ('God grant me the serenity...'), indicating internal struggle or seeking calm.",
+      "Warmth": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Warns Michelle firmly that they cannot open the door due to chemical danger, showing concern for her safety.",
+      "Warmth": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Uses a Geiger counter and other makeshift equipment to detect radiation and chemical agents, demonstrating technical knowledge and caution.",
+      "Competence": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Admits uncertainty about what caused the gruesome deaths, showing honesty and realistic assessment of his knowledge.",
+      "Competence": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Warns Michelle about the danger outside and insists the door must not be opened, showing prudence and protective instincts.",
+      "Competence": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Mumbles a prayer to himself, which may indicate stress or lack of full control in the situation.",
+      "Competence": 0,
+      "Chunk": 10
+    },
+    {
+      "Action": "Is shoved down the stairs by Michelle, losing physical control momentarily.",
+      "Competence": 0,
+      "Chunk": 10
+    },
+    {
+      "Action": "Blocks the stairwell, preventing Michelle from leaving, responds angrily to her pleas for help.",
+      "Warmth": -1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Leans in close to Michelle, breathes in her ear, causing her to cower; his hand reaches toward her but does not touch her.",
+      "Warmth": -1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Switches off the Geiger counter after approaching Michelle, possibly to calm her or reduce her distress.",
       "Warmth": 0,
-      "Chunk": 10
-    },
-    {
-      "Action": "Uses a Geiger counter skillfully to assess the situation.",
-      "Competence": 1,
-      "Chunk": 10
-    },
-    {
-      "Action": "Fails to provide a definite explanation for the pigs' condition.",
-      "Competence": -1,
-      "Chunk": 10
-    },
-    {
-      "Action": "Infers dangerous chemical presence outside confidently.",
-      "Competence": 1,
-      "Chunk": 10
-    },
-    {
-      "Action": "Yells angrily at Michelle, blocks her escape",
-      "Warmth": -1,
       "Chunk": 11
     },
     {
-      "Action": "Speaks in a creepy manner, breathes into Michelle's ear",
-      "Warmth": -1,
-      "Chunk": 11
-    },
-    {
-      "Action": "Switches off the Geiger counter, speaks about her health",
+      "Action": "Warns Michelle that opening the door will let in danger and possibly kill her, showing concern for her safety despite his controlling behavior.",
       "Warmth": 0,
       "Chunk": 11
     },
     {
-      "Action": "Speaks ominously about dangers outside",
-      "Warmth": -1,
-      "Chunk": 11
-    },
-    {
-      "Action": "Fiddles with the radio while Michelle struggles for assistance",
-      "Warmth": -1,
-      "Chunk": 11
-    },
-    {
-      "Action": "Blocks the stairway and commands Michelle angrily.",
+      "Action": "Blocks the stairwell to prevent Michelle from escaping, showing physical control and awareness of his environment.",
       "Competence": 1,
       "Chunk": 11
     },
     {
-      "Action": "Uses Geiger counter and provides reasoning for keeping the door closed.",
+      "Action": "Calmly switches off the Geiger counter to avoid alarming Michelle, demonstrating situational awareness and control.",
       "Competence": 1,
       "Chunk": 11
     },
     {
-      "Action": "Displays knowledge about the outside danger potentially affecting them.",
+      "Action": "Uses psychological tactics to intimidate Michelle into compliance, indicating strategic thinking.",
       "Competence": 1,
       "Chunk": 11
     },
     {
-      "Action": "Makes sure Michelle is not thinking straight due to injury and shock.",
-      "Competence": 1,
-      "Chunk": 11
-    },
-    {
-      "Action": "Fiddles with a radio but it’s broken.",
+      "Action": "Fiddles with a broken radio but fails to get it working, showing limited technical success.",
       "Competence": 0,
       "Chunk": 11
     },
     {
-      "Action": "Stands silently in the doorway and walks away without saying a word.",
+      "Action": "Expresses anger and frustration vocally, which may undermine his authoritative presence.",
+      "Competence": 0,
+      "Chunk": 11
+    },
+    {
+      "Action": "Stands silently in the doorway watching Michelle sleep, then leaves without speaking.",
       "Warmth": 0,
       "Chunk": 12
     },
     {
-      "Action": "Makes a small effort for conversation by asking 'What were you doing in Milwaukee?' but bites his tongue when conversation fails.",
+      "Action": "Checks on Michelle in the bathroom by asking if she is alright.",
+      "Warmth": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Attempts small talk during dinner to engage Michelle.",
+      "Warmth": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Bites his tongue and pushes away from the table after Michelle's cold response.",
       "Warmth": 0,
       "Chunk": 12
     },
     {
-      "Action": "Stands silently in the doorway while Michelle wakes up.",
+      "Action": "Stands silently in the doorway observing Michelle without confrontation, then walks away without escalating tension.",
+      "Competence": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Attempts small talk with Michelle to ease tension, but stops when conversation turns uncomfortable.",
+      "Competence": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Keeps a watchful presence over Michelle, asking if she is alright in the bathroom, showing attentiveness.",
+      "Competence": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Does not engage or respond when Michelle is distant or uncooperative, possibly missing an opportunity to connect or assert control.",
       "Competence": 0,
       "Chunk": 12
     },
     {
-      "Action": "Walks away without a word, failing to communicate or act.",
-      "Competence": -1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Attempts small talk but fails to keep the conversation going.",
-      "Competence": -1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Bites his tongue and pushes away from the table after a failed conversation attempt.",
-      "Competence": -1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Ignores Michelle's request to go to a hospital.",
-      "Warmth": -1,
-      "Chunk": 13
-    },
-    {
-      "Action": "Threatens Michelle with amputation.",
-      "Warmth": -1,
-      "Chunk": 13
-    },
-    {
-      "Action": "Forces Michelle to take antibiotics.",
-      "Warmth": -1,
-      "Chunk": 13
-    },
-    {
-      "Action": "Rewraps Michelle’s knee with a clean bandage.",
+      "Action": "Carefully unwraps Michelle's bandage despite her pain and rewraps her wound with a clean bandage.",
       "Warmth": 1,
       "Chunk": 13
     },
     {
-      "Action": "Acknowledges his own predicament being stuck down in the bunker.",
+      "Action": "Insists Michelle take antibiotics to prevent her wound from worsening, showing concern for her health.",
+      "Warmth": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Ignores Michelle's plea to go to a hospital and dismisses her need for a real doctor.",
+      "Warmth": -1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Uses a threatening tone implying he might have to amputate her leg if she refuses medicine.",
+      "Warmth": -1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Mentions he is 'stuck down here too' when leaving, indicating a shared predicament.",
       "Warmth": 0,
       "Chunk": 13
     },
     {
-      "Action": "Howard notices Michelle's wound and knows that she needs antibiotics, separates them into necessary and optional piles.",
+      "Action": "Inspects and treats Michelle's wound carefully, rewraps it with a clean bandage.",
       "Competence": 1,
       "Chunk": 13
     },
     {
-      "Action": "Successfully persuades Michelle to take necessary antibiotics through logical reasoning about the consequences.",
+      "Action": "Pressures Michelle to take antibiotics, showing awareness of medical risks like gangrene and amputation.",
       "Competence": 1,
       "Chunk": 13
     },
     {
-      "Action": "Disregards Michelle's request to go to a hospital and have a real doctor treat her wound.",
-      "Competence": -1,
+      "Action": "Ignores Michelle's insistence on going to a hospital, possibly indicating overconfidence or controlling behavior.",
+      "Competence": 0,
       "Chunk": 13
     },
     {
-      "Action": "Sleeping while Michelle explores ways to fool the ventilation system and moves around the compound.",
+      "Action": "Questions Michelle about hiding antibiotics, demonstrating vigilance and control over resources.",
+      "Competence": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Leaves Michelle alone after bandaging her, showing some trust or confidence in her ability to manage.",
+      "Competence": 0,
+      "Chunk": 13
+    },
+    {
+      "Action": "Snores loudly and is unaware of Michelle's actions around him, indicating a lack of vigilance or alertness.",
       "Competence": -1,
       "Chunk": 14
     },
     {
-      "Action": "Did not notice Michelle sharpening her crutch into a point or removing pillow stuffing.",
-      "Competence": -1,
-      "Chunk": 14
-    },
-    {
-      "Action": "Awakens after Michelle makes noise banging the vent, indicating light sleep or responsiveness to sounds.",
-      "Competence": 0,
-      "Chunk": 14
-    },
-    {
-      "Action": "Warns about ventilation system failing and takes action to conserve airflow.",
+      "Action": "Explains the ventilation problem clearly and tries to manage limited resources to keep everyone safe.",
       "Warmth": 1,
       "Chunk": 15
     },
     {
-      "Action": "Shuts down bedroom flow to conserve oxygen, suggests an alternative for bathroom use.",
+      "Action": "Acknowledges the difficulty of the situation with a somber tone and shares the burden of survival with Michelle.",
       "Warmth": 1,
       "Chunk": 15
     },
     {
-      "Action": "Dismissing desire for chocolate by prioritizing essentials for survival.",
+      "Action": "Makes a small joke about buying candy bars next time, attempting to lighten the mood.",
+      "Warmth": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Stares at the tape on Michelle’s crutches while speaking, possibly indicating a moment of silent judgment or discomfort.",
       "Warmth": 0,
       "Chunk": 15
     },
     {
-      "Action": "Offers to make sure to buy candy bars next time when planning for apocalypse.",
-      "Warmth": 1,
-      "Chunk": 15
-    },
-    {
-      "Action": "Expresses concern about oxygen levels and considers going outside to fix the problem despite the danger.",
-      "Warmth": 1,
-      "Chunk": 15
-    },
-    {
-      "Action": "Recognizes the ventilation system is failing and takes steps to manage airflow.",
-      "Competence": 1,
-      "Chunk": 15
-    },
-    {
-      "Action": "Acknowledges inability to repair solar panels due to dangers outside.",
-      "Competence": 1,
-      "Chunk": 15
-    },
-    {
-      "Action": "Decides to shut down bedroom airflow and limit to main room to improve ventilation.",
-      "Competence": 1,
-      "Chunk": 15
-    },
-    {
-      "Action": "Implements practical solutions like using a bucket for bathroom needs during ventilation issues.",
-      "Competence": 1,
-      "Chunk": 15
-    },
-    {
-      "Action": "Acknowledges the necessity over luxury during survival, deflecting Michelle's comment about chocolates.",
-      "Competence": 1,
-      "Chunk": 15
-    },
-    {
-      "Action": "Considers the possibility of going outside to fix the ventilation system despite risks.",
-      "Competence": 1,
-      "Chunk": 15
-    },
-    {
-      "Action": "Creates an actionable plan to manage carbon dioxide poisoning.",
-      "Competence": 1,
-      "Chunk": 15
-    },
-    {
-      "Action": "Acknowledges the critical situation and considers dangerous external action.",
-      "Competence": 1,
-      "Chunk": 15
-    },
-    {
-      "Action": "Saves Michelle from a car crash and provides shelter in the bunker.",
+      "Action": "Stops Michelle from drinking alcohol, saying 'You’re not old enough for that' and refuses to drink himself.",
       "Warmth": 1,
       "Chunk": 16
     },
     {
-      "Action": "Warns Michelle about the dangers outside and the need for caution.",
-      "Warmth": 1,
-      "Chunk": 16
-    },
-    {
-      "Action": "Refuses to let Michelle drink alcohol despite her insistence.",
+      "Action": "Eats his meal quietly while Michelle struggles to open the wine, showing little engagement or encouragement.",
       "Warmth": 0,
       "Chunk": 16
     },
     {
-      "Action": "Mentions that he no longer drinks alcohol after smelling it on Michelle the night of the crash.",
-      "Warmth": -1,
+      "Action": "Holds his hand over the glass when Michelle tries to pour him wine, indicating he does not want to drink.",
+      "Warmth": 0,
       "Chunk": 16
     },
     {
-      "Action": "Picks up a fork and starts eating, largely ignoring Michelle's discomfort.",
-      "Warmth": -1,
-      "Chunk": 16
-    },
-    {
-      "Action": "Stares at his plate and avoids Michelle's attempts to engage him about the wine.",
-      "Warmth": -1,
-      "Chunk": 16
-    },
-    {
-      "Action": "Expresses concern over insufficient oxygen in the bunker.",
+      "Action": "Tells Michelle 'You’ve had enough' when she is tipsy, showing concern for her well-being.",
       "Warmth": 1,
       "Chunk": 16
     },
     {
-      "Action": "Stops Michelle from drinking more wine, indicating concern for her well-being.",
-      "Warmth": 1,
-      "Chunk": 16
-    },
-    {
-      "Action": "Acknowledges that they are facing carbon dioxide poisoning and implies urgency for action.",
+      "Action": "Recognizes the danger of carbon dioxide poisoning and explains it.",
       "Competence": 1,
       "Chunk": 16
     },
     {
-      "Action": "Returns to eating instead of taking immediate action regarding the urgent problem (carbon dioxide poisoning).",
-      "Competence": -1,
-      "Chunk": 16
-    },
-    {
-      "Action": "Points out Michelle's alcohol consumption on the night of her crash.",
+      "Action": "Picks up a fork and starts eating calmly despite the tense situation.",
       "Competence": 1,
       "Chunk": 16
     },
     {
-      "Action": "Admits he doesn't have a corkscrew in a potentially critical survival environment.",
-      "Competence": -1,
+      "Action": "Refuses to drink wine and maintains self-control when Michelle drinks.",
+      "Competence": 1,
       "Chunk": 16
     },
     {
-      "Action": "Reveals he doesn't drink despite having accumulated a large wine rack.",
+      "Action": "Admits he has never opened a bottle of wine down there and does not have a corkscrew.",
       "Competence": 0,
       "Chunk": 16
     },
     {
-      "Action": "Shrugs when Michelle is sarcastic about his long story.",
-      "Warmth": 0,
-      "Chunk": 17
+      "Action": "Does not intervene effectively when Michelle is trying to open the wine bottle unconventionally.",
+      "Competence": 0,
+      "Chunk": 16
     },
     {
-      "Action": "Suspiciously comments on Michelle's knee improving.",
-      "Warmth": -1,
-      "Chunk": 17
+      "Action": "Warns Michelle she has had enough to drink, showing some awareness of the situation.",
+      "Competence": 1,
+      "Chunk": 16
     },
     {
-      "Action": "Nods dubiously when Michelle says alcohol numbs the pain.",
-      "Warmth": -1,
-      "Chunk": 17
-    },
-    {
-      "Action": "Locks the closet after retrieving a shovel suspiciously.",
-      "Warmth": -1,
-      "Chunk": 17
-    },
-    {
-      "Action": "Displays frustration towards Michelle when uncovering her deception.",
-      "Warmth": -1,
-      "Chunk": 17
-    },
-    {
-      "Action": "Reminds Michelle of rescuing her and providing care.",
+      "Action": "Watches Michelle intently as she struggles without her crutches, showing concern.",
       "Warmth": 1,
       "Chunk": 17
     },
     {
-      "Action": "Inspects the duct carefully and identifies the obstruction.",
+      "Action": "Gets up and removes the blockage in the air vent to improve air flow, despite being furious.",
+      "Warmth": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Expresses suspicion and frustration toward Michelle, implying distrust.",
+      "Warmth": -1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Mentions his past help and sacrifices to Michelle in a frustrated tone.",
+      "Warmth": 0,
+      "Chunk": 17
+    },
+    {
+      "Action": "Uses a shovel to tap and investigate the air duct, finds a blockage, and removes it to restore airflow.",
       "Competence": 1,
       "Chunk": 17
     },
     {
-      "Action": "Disapproves of Michelle's behavior and responds suspiciously.",
+      "Action": "Keeps a locked closet with a shovel and other supplies, indicating preparedness and resourcefulness.",
       "Competence": 1,
       "Chunk": 17
     },
     {
-      "Action": "Locks the closet door to secure the shovel and key ring.",
+      "Action": "Expresses suspicion and frustration when Michelle acts against his instructions, showing awareness and control over the environment.",
       "Competence": 1,
       "Chunk": 17
     },
     {
-      "Action": "Shows emotional frustration over being misled by Michelle.",
+      "Action": "Shrugs off questions about his past and avoids sharing information, which may indicate evasiveness or lack of transparency.",
       "Competence": 0,
       "Chunk": 17
     },
     {
-      "Action": "Shakes the edge of the shovel at Michelle",
-      "Warmth": -1,
-      "Chunk": 18
-    },
-    {
-      "Action": "Mentions he owed Michelle nothing but still helped her",
+      "Action": "Pulled Michelle from a crushed car, kept her safe, gave her antibiotics despite limited supply.",
       "Warmth": 1,
       "Chunk": 18
     },
     {
-      "Action": "Speaks coldly about Michelle trying to kill them",
+      "Action": "Expresses resentment that Michelle tries to kill them despite his help.",
       "Warmth": -1,
       "Chunk": 18
     },
     {
-      "Action": "Takes a step towards Michelle in a threatening manner",
+      "Action": "Knocks aside Michelle's crutch when she threatens him, escalating confrontation.",
       "Warmth": -1,
       "Chunk": 18
     },
     {
-      "Action": "Knocks aside Michelle's crutch with a shovel",
-      "Warmth": -1,
-      "Chunk": 18
-    },
-    {
-      "Action": "Throws the shovel down, encourages Michelle to hurt herself",
-      "Warmth": -1,
-      "Chunk": 18
-    },
-    {
-      "Action": "Sets his key ring on the table, allowing Michelle to leave",
+      "Action": "Throws down the shovel and offers Michelle the key to leave, effectively freeing her.",
       "Warmth": 1,
       "Chunk": 18
     },
     {
-      "Action": "Drags the couch away from the stairwell, providing a path for Michelle",
-      "Warmth": 1,
-      "Chunk": 18
-    },
-    {
-      "Action": "Warns Michelle of the dangers outside and her choice",
-      "Warmth": -1,
-      "Chunk": 18
-    },
-    {
-      "Action": "Displays wavering emotions between menace and regret",
+      "Action": "Warns Michelle she cannot return and that leaving will likely kill her, showing concern for his own safety but also giving her a choice.",
       "Warmth": 0,
       "Chunk": 18
     },
     {
-      "Action": "Explains his actions and offers Michelle an option to leave while considering the consequences of her actions outside.",
+      "Action": "Rescues Michelle from a crushed car, provides antibiotics from limited supplies, and keeps her safe from outside dangers.",
       "Competence": 1,
       "Chunk": 18
     },
     {
-      "Action": "Knocks aside Michelle's crutch with his shovel.",
+      "Action": "Knocks aside Michelle's crutch with a shovel confidently during confrontation, showing physical control and assertiveness.",
       "Competence": 1,
       "Chunk": 18
     },
     {
-      "Action": "Throws the shovel down and decides to let Michelle harm herself instead of attacking her.",
+      "Action": "Offers Michelle the key to leave the bunker, demonstrating control over the situation and a calculated decision to let her go on his terms.",
       "Competence": 1,
       "Chunk": 18
     },
     {
-      "Action": "Pulls out his key ring and sets it on the table to give Michelle the choice to leave.",
+      "Action": "Warns Michelle about the dangers outside and sets clear boundaries, showing awareness and strategic thinking.",
       "Competence": 1,
       "Chunk": 18
     },
     {
-      "Action": "Drag the couch away from the stairwell to clear Michelle's way.",
-      "Competence": 1,
-      "Chunk": 18
-    },
-    {
-      "Action": "Warnings Michelle about the hazards outside and the irreversible nature of her decision.",
-      "Competence": 1,
-      "Chunk": 18
-    },
-    {
-      "Action": "Does not offer assistance or plead with Michelle to stay, reveals a menace and regret in his voice.",
+      "Action": "His voice wavers between menace and regret when telling Michelle she can't come back, indicating some emotional conflict but maintaining control.",
       "Competence": 0,
       "Chunk": 18
     },
     {
-      "Action": "Not seen by Michelle as she decides to unlock the exit and leave.",
-      "Competence": 0,
-      "Chunk": 18
-    },
-    {
-      "Action": "Rushes to the bottom of the stairs to assess the situation.",
+      "Action": "Urgently warns Michelle not to open the door to a stranger in a hazmat suit, showing concern for her safety.",
       "Warmth": 1,
       "Chunk": 19
     },
     {
-      "Action": "Orders Michelle not to open the door.",
+      "Action": "Turns valves on the ducts to clean the suit off, taking practical steps to protect others.",
+      "Warmth": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Nods unhappily when asked about Nate, indicating some discomfort or distrust but not hostility.",
       "Warmth": 0,
       "Chunk": 19
     },
     {
-      "Action": "Disappears down the stairwell without further explanation.",
-      "Warmth": -1,
-      "Chunk": 19
-    },
-    {
-      "Action": "Stands on a chair under the vent to turn the valves.",
+      "Action": "Disappears down the stairwell after Nate enters, avoiding confrontation or explanation.",
       "Warmth": 0,
       "Chunk": 19
     },
     {
-      "Action": "Shows concern, explains the man is Nate.",
-      "Warmth": 1,
-      "Chunk": 19
-    },
-    {
-      "Action": "Avoids further dialogue, heads for his bedroom.",
-      "Warmth": -1,
-      "Chunk": 19
-    },
-    {
-      "Action": "Begins cleaning off Nate's suit.",
-      "Warmth": 1,
-      "Chunk": 19
-    },
-    {
-      "Action": "Rushes to the bottom of the stairs and warns Michelle not to open the door.",
+      "Action": "Rushes to warn Michelle not to open the door when a suspicious man appears outside.",
       "Competence": 1,
       "Chunk": 19
     },
     {
-      "Action": "Disappears down the stairwell when the man enters.",
+      "Action": "Immediately takes action to clean the contaminated suit by running water over it, showing knowledge of contamination protocols.",
+      "Competence": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Disappears down the stairwell after Nate enters, not intervening further in the immediate confrontation.",
       "Competence": 0,
       "Chunk": 19
     },
     {
-      "Action": "Stands on a chair under the vent, turning valves on ducts to address the situation.",
-      "Competence": 1,
-      "Chunk": 19
-    },
-    {
-      "Action": "Acknowledges knowing Nate but not happily, showing concern.",
-      "Competence": 1,
-      "Chunk": 19
-    },
-    {
-      "Action": "Starts running water over the hazmat suit in the tub.",
-      "Competence": 1,
-      "Chunk": 19
-    },
-    {
-      "Action": "Scrubs hazmat suit to ensure safety, closes faucet to prevent contamination.",
+      "Action": "Runs water over the suit and scrubs it carefully, showing concern about contamination.",
       "Warmth": 1,
       "Chunk": 20
     },
     {
-      "Action": "Ignores Michelle while she strips to clean herself, focused solely on suit.",
+      "Action": "Closes the faucet to prevent contamination and instructs to try the sink instead.",
+      "Warmth": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Pays no attention to Michelle while she washes herself down, focusing solely on cleaning the suit.",
       "Warmth": 0,
       "Chunk": 20
     },
     {
-      "Action": "Has tense whisper conversation with Nate, indicating underlying conflict.",
+      "Action": "Stares tensely at the name inside the suit, showing a moment of emotional reaction.",
+      "Warmth": 0,
+      "Chunk": 20
+    },
+    {
+      "Action": "Speaks in tense whispers with Nate, indicating strained relations and possible distrust.",
       "Warmth": -1,
       "Chunk": 20
     },
     {
-      "Action": "Shows visible anger upon realizing suit belongs to someone else.",
+      "Action": "Says 'Got some nerve showing up here now' to Nate, showing hostility.",
       "Warmth": -1,
       "Chunk": 20
     },
     {
-      "Action": "Starts running water over contaminated suit.",
+      "Action": "Recognizes potential contamination in the water and shuts off the faucet to prevent further exposure.",
       "Competence": 1,
       "Chunk": 20
     },
     {
-      "Action": "Closes the faucet to prevent contamination.",
+      "Action": "Suggests trying the sink as an alternative water source when the tub faucet is closed.",
       "Competence": 1,
       "Chunk": 20
     },
     {
-      "Action": "Suggests using the sink for clean water.",
+      "Action": "Focuses on thoroughly cleaning the hazmat suit, turning it inside out to scrub all parts.",
       "Competence": 1,
       "Chunk": 20
     },
     {
-      "Action": "Cleans the hazmat suit thoroughly.",
-      "Competence": 1,
+      "Action": "Does not intervene or assist when Michelle is hesitant or confused about washing herself down, showing some detachment.",
+      "Competence": 0,
       "Chunk": 20
     },
     {
-      "Action": "Recognizes and reacts to new information (name on suit).",
-      "Competence": 1,
+      "Action": "Shows tension and discomfort upon seeing the name inside the hazmat suit, indicating possible emotional distraction.",
+      "Competence": 0,
       "Chunk": 20
     },
     {
-      "Action": "Shows strong emotion (tense whisper) while discussing changes and past welcomes.",
-      "Competence": 1,
-      "Chunk": 20
-    },
-    {
-      "Action": "Displays suspicion and caution towards Nate.",
-      "Competence": 1,
-      "Chunk": 20
-    },
-    {
-      "Action": "Under his breath, implies Michelle should be happy with ignorance.",
+      "Action": "Stares at Nate suspiciously and makes a sarcastic underbreath comment about Michelle being 'ecstatic' about ignorance.",
       "Warmth": -1,
       "Chunk": 21
     },
     {
-      "Action": "Interrupts Michelle and Nate's introduction.",
-      "Warmth": -1,
+      "Action": "Acknowledges Nate's help in building the place, despite Nate ignoring him.",
+      "Warmth": 1,
       "Chunk": 21
     },
     {
-      "Action": "Stares at Nate, expresses skepticism.",
+      "Action": "Interrupts a moment of connection between Michelle and Nate with a question about conditions outside.",
       "Warmth": 0,
       "Chunk": 21
     },
     {
-      "Action": "Deflects Michelle's accusation, gives no reassuring responses.",
-      "Warmth": 0,
-      "Chunk": 21
-    },
-    {
-      "Action": "Acknowledges that a hazmat suit is necessary to stay safe outside",
+      "Action": "Acknowledges Nate's contribution to building the bunker, showing awareness and giving credit.",
       "Competence": 1,
       "Chunk": 21
     },
     {
-      "Action": "Deflects Michelle's accusation and explains Nate's presence with logical reasoning",
+      "Action": "Expresses doubt and suspicion about Nate and Michelle's story, indicating cautiousness and critical thinking.",
       "Competence": 1,
       "Chunk": 21
     },
     {
-      "Action": "Displays mild sarcasm under his breath towards Michelle",
+      "Action": "Under his breath, makes a sarcastic comment about Michelle's ignorance, showing some emotional control but also a negative attitude.",
+      "Competence": 0,
+      "Chunk": 21
+    },
+    {
+      "Action": "Interrupts a social moment between Nate and Michelle, possibly undermining social tact and confidence.",
       "Competence": -1,
       "Chunk": 21
     },
     {
-      "Action": "Attempts to correct Nate's assertion about building the place",
-      "Competence": 1,
-      "Chunk": 21
-    },
-    {
-      "Action": "Saves Michelle from outside threat.",
+      "Action": "Rescues Michelle and keeps her safe.",
       "Warmth": 1,
       "Chunk": 22
     },
     {
-      "Action": "Expresses frustration when his rescue efforts seem unappreciated.",
+      "Action": "Expresses frustration that Michelle refuses to believe him but trusts a stranger's story.",
       "Warmth": -1,
       "Chunk": 22
     },
     {
-      "Action": "Refuses to let Michelle go outside to fix ventilation system.",
+      "Action": "Strongly forbids Michelle from going outside to fix the ventilation system, citing safety concerns.",
       "Warmth": 1,
       "Chunk": 22
     },
     {
-      "Action": "Blames Michelle for damaging the ventilation system.",
-      "Warmth": -1,
-      "Chunk": 22
-    },
-    {
-      "Action": "Asserts that he will fix the ventilation system himself.",
+      "Action": "Shows concern about limited resources and safety of the group.",
       "Warmth": 1,
       "Chunk": 22
     },
     {
-      "Action": "Shows anger towards Michelle and Nate being too close to each other.",
+      "Action": "Grits his teeth and looks at Michelle and Nate closely, possibly indicating jealousy or distrust.",
       "Warmth": -1,
       "Chunk": 22
     },
     {
-      "Action": "Kept others safe in a survival situation",
-      "Competence": 1,
-      "Chunk": 22
-    },
-    {
-      "Action": "Rescued people",
-      "Competence": 1,
-      "Chunk": 22
-    },
-    {
-      "Action": "Accuses Michelle of refusing to believe him",
-      "Competence": 0,
-      "Chunk": 22
-    },
-    {
-      "Action": "Attributes damage to ventilation system to Michelle, indicates he knows fixing requires going outside",
-      "Competence": 1,
-      "Chunk": 22
-    },
-    {
-      "Action": "Willing to go outside to fix the ventilation system",
-      "Competence": 1,
-      "Chunk": 22
-    },
-    {
-      "Action": "Dresses in hazmat suit, preparing effectively for external hazards",
-      "Competence": 1,
-      "Chunk": 22
-    },
-    {
-      "Action": "Criticizes Michelle, appears controlling",
-      "Competence": 0,
-      "Chunk": 22
-    },
-    {
-      "Action": "Not willing to help people outside due to resources being strained",
-      "Competence": 1,
-      "Chunk": 22
-    },
-    {
-      "Action": "Makes a statement implying he has control over who stays in the cellar without offering assurance.",
+      "Action": "Insists that he decides who stays in the cellar, asserting control over others' presence.",
       "Warmth": -1,
       "Chunk": 23
     },
     {
-      "Action": "Exhales irritably and closes the mask without responding to Nate's comment about fresh air.",
+      "Action": "Exhales irritably and closes the mask without responding to Nate's suggestion to get fresh air.",
       "Warmth": -1,
       "Chunk": 23
     },
     {
-      "Action": "Begins climbing the ladder despite hazardous conditions.",
+      "Action": "Looks back as the cellar door slams shut after he leaves, showing a moment of hesitation or concern.",
       "Warmth": 0,
       "Chunk": 23
     },
     {
-      "Action": "States it's his cellar and he decides who stays.",
+      "Action": "Carefully frees himself from a bent nail on the roof, showing caution and self-preservation but no direct warmth toward others.",
+      "Warmth": 0,
+      "Chunk": 23
+    },
+    {
+      "Action": "Insists on making decisions about who can stay in the cellar, asserting control over the situation.",
       "Competence": 1,
       "Chunk": 23
     },
     {
-      "Action": "Closes the mask irritably without responding to Nate's taunts.",
+      "Action": "Is described by Nate as 'good with machines' and capable of fixing the problem in the cellar.",
+      "Competence": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Climbs carefully on the barn roof, notices a hazard (bent nail) and avoids damaging his suit, showing caution and awareness.",
+      "Competence": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Exhales irritably and closes the mask without responding to Nate's provocation, showing emotional control but possibly avoidance.",
       "Competence": 0,
       "Chunk": 23
     },
     {
-      "Action": "Steps out to inspect the external environment.",
-      "Competence": 1,
-      "Chunk": 23
-    },
-    {
-      "Action": "Carefully releases himself from a bent nail and moves across the roof.",
-      "Competence": 1,
-      "Chunk": 23
-    },
-    {
-      "Action": "Gives Nate and Michelle a thumbs up.",
+      "Action": "Shoves a fallen tree branch off the solar panels to maintain their function.",
       "Warmth": 1,
       "Chunk": 24
     },
     {
-      "Action": "Considers his answer before stating he saw nothing.",
+      "Action": "Locks a revolver and ammo in a safe, then hides them in a trash bag and later wraps the gun in a towel before hiding it in the bathtub.",
+      "Warmth": 0,
+      "Chunk": 24
+    },
+    {
+      "Action": "Gives Nate and Michelle a thumbs up as he rushes past them.",
+      "Warmth": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Responds to Michelle's question about seeing anything outside with a brief, possibly evasive 'Nope... Nothing...'.",
       "Warmth": -1,
       "Chunk": 24
     },
     {
-      "Action": "Stuffs a revolver and ammo into a trash bag.",
-      "Warmth": -1,
-      "Chunk": 24
-    },
-    {
-      "Action": "Moves the tree branch off the solar panels.",
+      "Action": "Carefully removes a branch blocking solar panels and inspects damage, showing awareness and caution.",
       "Competence": 1,
       "Chunk": 24
     },
     {
-      "Action": "Notices potential threat and investigates.",
+      "Action": "Freezes and looks around after making noise, showing alertness and situational awareness.",
       "Competence": 1,
       "Chunk": 24
     },
     {
-      "Action": "Plans ahead by securing a gun and ammo.",
+      "Action": "Wipes fog from mask to improve vision and attempts to identify distant object, demonstrating practical problem-solving.",
       "Competence": 1,
       "Chunk": 24
     },
     {
-      "Action": "Gives a thumbs up without explaining situation.",
+      "Action": "Retrieves revolver and ammo from safe, then hides them in a trash bag and later wraps the gun in a towel before hiding it in the tub, indicating careful planning and concealment.",
+      "Competence": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Locks cellar door behind him when entering, showing security awareness.",
+      "Competence": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Gives Nate and Michelle a thumbs up while rushing past, possibly to reassure them despite tense situation, showing some confidence.",
+      "Competence": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "When asked if he sees anything outside, he pauses and then says 'Nope... Nothing....' which may indicate cautious withholding of information or uncertainty.",
       "Competence": 0,
       "Chunk": 24
     },
     {
-      "Action": "Tells Michelle he saw nothing despite noticing potential threat.",
-      "Competence": -1,
-      "Chunk": 24
-    },
-    {
-      "Action": "Throws a bag of chocolates to Michelle with a smile.",
+      "Action": "Wipes the bag of chocolates clean and throws it to Michelle with a smile, calling it dessert.",
       "Warmth": 1,
       "Chunk": 25
     },
     {
-      "Action": "Watches Michelle fill glasses with wine with a look of disappointment.",
+      "Action": "Watches Michelle fill wine glasses with disappointment, showing some emotional expression but no direct interaction.",
       "Warmth": 0,
       "Chunk": 25
     },
     {
-      "Action": "Rolls his eyes and turns a suspicious eye to Nate.",
+      "Action": "Rolls his eyes and looks suspiciously at Nate's food presentation, showing skepticism rather than friendliness.",
       "Warmth": -1,
       "Chunk": 25
     },
     {
-      "Action": "Keeps his eyes on Nate in a suspicious manner.",
+      "Action": "Engages in tense eye contact and a subtle power struggle with Nate, indicating guardedness and possible distrust.",
       "Warmth": -1,
       "Chunk": 25
     },
     {
-      "Action": "Locks eyes with Nate, creating tension.",
-      "Warmth": -1,
-      "Chunk": 25
-    },
-    {
-      "Action": "Purposely avoids Nate's question about the hazmat suit.",
-      "Competence": 0,
-      "Chunk": 25
-    },
-    {
-      "Action": "Invents an intimidating veiled threat when interrogating Nate, showing awareness of potential deception.",
+      "Action": "Pulls out chocolates from a sealed bag, cleans them, and offers them as dessert with a smile.",
       "Competence": 1,
       "Chunk": 25
     },
     {
-      "Action": "Rolls his eyes at Nate’s efforts to make the canned food look appealing.",
-      "Competence": 0,
-      "Chunk": 25
-    },
-    {
-      "Action": "Carefully watches Nate's response to his interrogation, demonstrating vigilance.",
+      "Action": "Rolls his eyes and watches Nate suspiciously, questioning him about the hazmat suit and probing his story.",
       "Competence": 1,
       "Chunk": 25
     },
     {
-      "Action": "Maintains tension with Nate without escalating the situation.",
+      "Action": "Engages in a tense stare-down with Nate, showing awareness and caution.",
       "Competence": 1,
       "Chunk": 25
     },
     {
-      "Action": "Ignores Nate's question, stares at him.",
+      "Action": "Buys dinner and insists Nate wash the dishes.",
+      "Warmth": 0,
+      "Chunk": 26
+    },
+    {
+      "Action": "Quietly reminds Nate that he is a guest in his cellar and that the wine belongs to him.",
       "Warmth": -1,
       "Chunk": 26
     },
     {
-      "Action": "Pushes plate and silverware toward Nate, asks him to wash up.",
+      "Action": "Avoids engaging with Nate's challenge and walks away to his room.",
       "Warmth": -1,
       "Chunk": 26
     },
     {
-      "Action": "Quietly reminds Nate this is his cellar, and his wine.",
-      "Warmth": -1,
-      "Chunk": 26
-    },
-    {
-      "Action": "Leaves the room and closes the door without further communication.",
-      "Warmth": -1,
-      "Chunk": 26
-    },
-    {
-      "Action": "Lied about having a daughter.",
-      "Warmth": -1,
-      "Chunk": 26
-    },
-    {
-      "Action": "Ignores Nate's question and just stares at him.",
-      "Competence": 0,
-      "Chunk": 26
-    },
-    {
-      "Action": "Struggles to cover up his irritation when Nate argues with him.",
-      "Competence": 0,
-      "Chunk": 26
-    },
-    {
-      "Action": "Pushes his dish and silverware towards Nate expecting him to wash up because Howard bought dinner.",
-      "Competence": -1,
-      "Chunk": 26
-    },
-    {
-      "Action": "Reminds Nate that it's his cellar and his wine, asserting control.",
-      "Competence": 1,
-      "Chunk": 26
-    },
-    {
-      "Action": "Walks into his room and closes the door during a confrontation with Nate.",
-      "Competence": -1,
+      "Action": "Revealed to have a tragic past involving his wife's death and possible suspicious circumstances.",
+      "Warmth": 0,
       "Chunk": 26
     },
     {
       "Action": "Lies about having a daughter in Washington, D.C.",
-      "Competence": -1,
+      "Warmth": -1,
       "Chunk": 26
     },
     {
-      "Action": "Stares daggers at Nate while eating crackers.",
-      "Warmth": -1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Notices Nate wincing with each strike while hammering, smiles at Nate's discomfort.",
-      "Warmth": -1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Responds dismissively to Nate's question about the time.",
-      "Warmth": -1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Informs Nate that Michelle is throwing up, implies a sense of pride in Nate's discomposure.",
-      "Warmth": -1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Stops hammering when Nate asks.",
-      "Warmth": 1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Opens his door, comes into the room.",
+      "Action": "Insists on ownership and control of the wine cellar, asserting boundaries with Nate quietly but firmly.",
       "Competence": 1,
-      "Chunk": 27
+      "Chunk": 26
     },
     {
-      "Action": "Grabs some crackers out of the cupboard and stares daggers at Nate.",
-      "Competence": 1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Saws and hammers on a piece of wood.",
-      "Competence": 1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Responds 'Does it matter?' when asked about the time.",
-      "Competence": 1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Confirms Michelle is in the bathroom throwing up.",
-      "Competence": 1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Smiles each time Nate winces from the hammering.",
-      "Competence": 1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Acknowledges Michelle’s belief about stuff seeping in.",
-      "Competence": 1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Stops hammering when asked",
-      "Warmth": 1,
-      "Chunk": 28
-    },
-    {
-      "Action": "Asserts Nate needs to earn his keep",
-      "Warmth": 0,
-      "Chunk": 28
-    },
-    {
-      "Action": "Locks the door behind Nate",
-      "Warmth": -1,
-      "Chunk": 28
-    },
-    {
-      "Action": "Sits down next to Michelle and shares concerns about Nate's trustworthiness",
-      "Warmth": 0,
-      "Chunk": 28
-    },
-    {
-      "Action": "Warns Michelle about Nate's violent streak",
-      "Warmth": 1,
-      "Chunk": 28
-    },
-    {
-      "Action": "Does not move immediately when Nate pounds on the door",
-      "Warmth": -1,
-      "Chunk": 28
-    },
-    {
-      "Action": "Gets up to let Nate in when Michelle insists",
-      "Warmth": 0,
-      "Chunk": 28
-    },
-    {
-      "Action": "Remarks that they're using too much water",
-      "Warmth": 0,
-      "Chunk": 28
-    },
-    {
-      "Action": "Fixes the frame on the solar panel.",
-      "Competence": 1,
-      "Chunk": 28
-    },
-    {
-      "Action": "Locks the door behind Nate without informing him.",
-      "Competence": 1,
-      "Chunk": 28
-    },
-    {
-      "Action": "Recognizes discrepancies with the fire chief's name and the hazmat suit.",
-      "Competence": 1,
-      "Chunk": 28
-    },
-    {
-      "Action": "Sits down, not reacting immediately to pounding from the stairwell.",
+      "Action": "Avoids direct confrontation by walking away and closing his door instead of addressing the tension openly.",
       "Competence": 0,
-      "Chunk": 28
+      "Chunk": 26
     },
     {
-      "Action": "Warns Michelle about Nate’s violent history.",
-      "Competence": 1,
-      "Chunk": 28
-    },
-    {
-      "Action": "Does not instantly obey Michelle’s demand to let Nate in.",
-      "Competence": -1,
-      "Chunk": 28
-    },
-    {
-      "Action": "Gets up to let Nate in after Michelle insists.",
+      "Action": "Struggles to cover up irritation when challenged about the wine tasting, showing some emotional vulnerability.",
       "Competence": 0,
+      "Chunk": 26
+    },
+    {
+      "Action": "Grabs crackers and sits quietly, staring daggers at Nate, showing protective vigilance over Michelle.",
+      "Warmth": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Eats crackers while staring at Michelle after she passes out, indicating concern or watchfulness.",
+      "Warmth": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Smiles each time Nate winces while hammering nails, showing possible sadistic pleasure or hostility.",
+      "Warmth": -1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Tells Nate Michelle is throwing up and sarcastically says 'You must be proud of yourself,' indicating bitterness or resentment.",
+      "Warmth": -1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Says 'So you finally believe me' to Michelle, implying a desire to be trusted or validated.",
+      "Warmth": 0,
+      "Chunk": 27
+    },
+    {
+      "Action": "Opens his door and calmly enters the room, grabs crackers, and sits down while maintaining a hostile stare at Nate.",
+      "Competence": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Continues hammering nails despite Nate's obvious discomfort and requests to stop, showing focus and persistence.",
+      "Competence": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Responds to Nate's question about time with a dismissive answer, 'Does it matter?,' indicating possible disregard for situational awareness.",
+      "Competence": -1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Keeps a big smile on his face while hammering nails as Nate winces, suggesting emotional detachment or possible sadism rather than practical focus.",
+      "Competence": 0,
+      "Chunk": 27
+    },
+    {
+      "Action": "Repairs the broken frame on a solar panel to make it functional temporarily.",
+      "Competence": 1,
       "Chunk": 28
     },
     {
-      "Action": "Acknowledges the issue with water usage.",
+      "Action": "Locks Nate in the stairwell after sending him out in a hazmat suit, showing control and caution.",
       "Competence": 1,
       "Chunk": 28
     },
     {
-      "Action": "Pushes back his chair loudly, grabbing attention.",
-      "Warmth": -1,
-      "Chunk": 29
-    },
-    {
-      "Action": "Uses profanity while selecting a wine bottle.",
-      "Warmth": -1,
-      "Chunk": 29
-    },
-    {
-      "Action": "Offers wine to Michelle but makes a derogatory comment about them being 'heathens'.",
-      "Warmth": -1,
-      "Chunk": 29
-    },
-    {
-      "Action": "Clinks glasses despite Michelle not engaging.",
-      "Warmth": -1,
-      "Chunk": 29
-    },
-    {
-      "Action": "Chugs wine ignoring Nate's advice to savor it.",
-      "Warmth": -1,
-      "Chunk": 29
-    },
-    {
-      "Action": "Encourages Michelle to try the wine but glares at her after she hesitates.",
-      "Warmth": -1,
-      "Chunk": 29
-    },
-    {
-      "Action": "Makes a crude comment to Michelle, calling her 'princess'.",
-      "Warmth": -1,
-      "Chunk": 29
-    },
-    {
-      "Action": "Selects a high-value bottle of wine from the wine rack.",
+      "Action": "Identifies inconsistencies in Nate’s story and questions his trustworthiness based on knowledge and observation.",
       "Competence": 1,
-      "Chunk": 29
+      "Chunk": 28
     },
     {
-      "Action": "Handing the wine bottle to Michelle and having her open it.",
+      "Action": "Warns Michelle about Nate’s violent past and advises caution.",
       "Competence": 1,
-      "Chunk": 29
+      "Chunk": 28
     },
     {
-      "Action": "Pouring two small portions of the wine and describing its value and flavor.",
+      "Action": "Does not immediately respond to pounding at the stairwell, showing restraint and awareness of potential danger.",
       "Competence": 1,
-      "Chunk": 29
+      "Chunk": 28
     },
     {
-      "Action": "Setting one glass in front of Michelle and tasting the wine himself.",
+      "Action": "Acknowledges water usage problem and attempts to manage resources.",
       "Competence": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Eventually gets up to open the stairwell door despite warnings, potentially compromising safety.",
+      "Competence": -1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Offers Michelle an expensive bottle of wine to share, smiles, and toasts with her.",
+      "Warmth": 1,
       "Chunk": 29
     },
     {
-      "Action": "Ignoring Nate's suggestion to savor the wine and then chugging it.",
-      "Competence": -1,
-      "Chunk": 29
-    },
-    {
-      "Action": "Commanding Michelle to try the wine aggressively.",
-      "Competence": -1,
-      "Chunk": 29
-    },
-    {
-      "Action": "Pounding the wine and glaring at Michelle.",
-      "Competence": -1,
-      "Chunk": 29
-    },
-    {
-      "Action": "Responding rudely and antagonistically to Nate",
-      "Competence": -1,
-      "Chunk": 29
-    },
-    {
-      "Action": "Makes derogatory comments about Michelle’s previous boyfriends.",
-      "Warmth": -1,
-      "Chunk": 30
-    },
-    {
-      "Action": "Insists on being thanked for providing charity.",
-      "Warmth": -1,
-      "Chunk": 30
-    },
-    {
-      "Action": "Throws a wine glass at Nate and instigates a physical fight.",
-      "Warmth": -1,
-      "Chunk": 30
-    },
-    {
-      "Action": "Engages in a physical fight and loses control.",
-      "Competence": -1,
-      "Chunk": 30
-    },
-    {
-      "Action": "Throws wine glass in anger.",
-      "Competence": -1,
-      "Chunk": 30
-    },
-    {
-      "Action": "Fails to maintain initiative in the fight.",
-      "Competence": -1,
-      "Chunk": 30
-    },
-    {
-      "Action": "Ends up getting beaten and causes wine bottles to shatter.",
-      "Competence": -1,
-      "Chunk": 30
-    },
-    {
-      "Action": "Groggily looks up from the ground, encircled by broken glass and Cabernet",
+      "Action": "Chugs expensive wine quickly, ignores Nate's suggestion to savor it.",
       "Warmth": 0,
-      "Chunk": 31
+      "Chunk": 29
     },
     {
-      "Action": "Picks shards of glass from his back",
+      "Action": "Glares at Michelle and calls her 'princess' in a confrontational tone after she suggests he slow down.",
+      "Warmth": -1,
+      "Chunk": 29
+    },
+    {
+      "Action": "Selects an expensive, rare wine from the cellar and describes it knowledgeably, showing appreciation and confidence in his choice.",
+      "Competence": 1,
+      "Chunk": 29
+    },
+    {
+      "Action": "Pours and drinks the wine quickly, ignoring social cues and advice to savor it, which may indicate poor self-control or lack of social tact.",
+      "Competence": -1,
+      "Chunk": 29
+    },
+    {
+      "Action": "Interrupts a social moment by loudly scraping his chair and abruptly changing the atmosphere, showing poor timing and social awareness.",
+      "Competence": -1,
+      "Chunk": 29
+    },
+    {
+      "Action": "Claims his help is charity and expects gratitude.",
       "Warmth": 0,
-      "Chunk": 31
+      "Chunk": 30
     },
     {
-      "Action": "Bandaged up, climbs into bed with cuts and bruises",
-      "Warmth": 0,
-      "Chunk": 31
+      "Action": "Flings wine glass at Nate and physically attacks him after insults.",
+      "Warmth": -1,
+      "Chunk": 30
     },
     {
-      "Action": "Comes over to have a look at the faucet problem",
+      "Action": "Claims credit for building the shelter and expects gratitude, showing confidence in his accomplishment.",
+      "Competence": 1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Admits he could have hired a less competent person and expresses regret, showing some self-awareness.",
+      "Competence": 0,
+      "Chunk": 30
+    },
+    {
+      "Action": "Loses control and initiates a physical fight while drunk, leading to losing the initiative and getting hurt.",
+      "Competence": -1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Throws a wine glass aggressively, escalating conflict instead of resolving it calmly.",
+      "Competence": -1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Allows Michelle to intervene and stop Nate from further violence.",
       "Warmth": 1,
       "Chunk": 31
     },
     {
-      "Action": "States he is in charge and threatens Nate with a gun",
+      "Action": "Looks at himself in the mirror and tends to his wounds quietly.",
+      "Warmth": 0,
+      "Chunk": 31
+    },
+    {
+      "Action": "Claims authority over the cellar and threatens Nate with a gun to enforce order.",
       "Warmth": -1,
       "Chunk": 31
     },
     {
-      "Action": "Gets attacked and beaten severely.",
+      "Action": "Shows concern about limited resources ('Too damn many of us down here').",
+      "Warmth": 0,
+      "Chunk": 31
+    },
+    {
+      "Action": "Maintains control and asserts authority by confronting Nate with a revolver and clearly stating he is in charge of the cellar.",
+      "Competence": 1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Suffers physical harm (glass cuts, bruises) and is unable to prevent Nate's aggression, indicating vulnerability in physical confrontation.",
       "Competence": -1,
       "Chunk": 31
     },
     {
-      "Action": "Looks up groggily from the ground surrounded by broken glass.",
+      "Action": "Observes the non-functioning faucet and expresses concern, showing situational awareness and attention to critical survival details.",
+      "Competence": 1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Retreats to bed after being attacked, possibly indicating a momentary lapse in resilience or inability to immediately respond.",
       "Competence": 0,
       "Chunk": 31
     },
     {
-      "Action": "Bandages himself up and picks glass shards from his back.",
-      "Competence": 1,
-      "Chunk": 31
-    },
-    {
-      "Action": "Holsters his revolver and asserts control over the cellar.",
-      "Competence": 1,
-      "Chunk": 31
-    },
-    {
-      "Action": "Turns his attention to the malfunctioning faucet and acknowledges the overpopulation issue.",
-      "Competence": 1,
-      "Chunk": 31
-    },
-    {
-      "Action": "Mumbles about too many people in the shelter",
-      "Warmth": -1,
-      "Chunk": 32
-    },
-    {
-      "Action": "Hands Nate a flashlight and lets him go first into the narrow crawl space",
-      "Warmth": 0,
-      "Chunk": 32
-    },
-    {
-      "Action": "Instructs Michelle to watch for water and report immediately",
+      "Action": "Hands Nate a flashlight and tells him to go first into the crawl space, then instructs Michelle to stay by the door and alert him if she sees water running through the yard.",
       "Warmth": 1,
       "Chunk": 32
     },
     {
-      "Action": "Proceeds into the crawl space without hesitation",
-      "Warmth": 0,
-      "Chunk": 32
-    },
-    {
-      "Action": "Removes a throw rug to reveal a hidden trap door and assigns tasks to others.",
+      "Action": "Removes a throw rug to reveal a hidden trap door, directs Nate to enter first with a flashlight, and assigns Michelle a lookout position.",
       "Competence": 1,
       "Chunk": 32
     },
     {
-      "Action": "Drops down into the crawl space himself after sending Nate first.",
-      "Competence": 1,
-      "Chunk": 32
-    },
-    {
-      "Action": "Asks Michelle if she's alright.",
+      "Action": "Hands Michelle a bottle of wine and a glass, attempting a small gesture of hospitality.",
       "Warmth": 1,
       "Chunk": 33
     },
     {
-      "Action": "Hands Michelle a bottle of wine and a wine glass without saying a word.",
-      "Warmth": 0,
+      "Action": "Comments on the wine being 'a little off' and tries to make light of the situation, showing some social awareness.",
+      "Warmth": 1,
       "Chunk": 33
     },
     {
-      "Action": "Expresses concern about resources.",
-      "Warmth": 0,
-      "Chunk": 33
-    },
-    {
-      "Action": "Set unconscious after drinking, potentially proving he planned to bring Michelle there as a 'plaything'.",
+      "Action": "Does not engage in conversation or show concern when Michelle and Nate discuss his past actions and instability, remaining silent and unconscious after drinking.",
       "Warmth": -1,
       "Chunk": 33
     },
     {
-      "Action": "Understood that the wine might be corked.",
+      "Action": "His past behavior as described by Michelle and Nate includes running Michelle off the road and planning to bring her to the bunker as a 'plaything,' indicating controlling and abusive tendencies.",
+      "Warmth": -1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Identifies the pump as busted and acknowledges the problem with the engine.",
       "Competence": 1,
       "Chunk": 33
     },
     {
-      "Action": "Falls for Michelle's deception with the Ketamine.",
+      "Action": "Calmly offers wine to Michelle, maintaining composure despite tense situation.",
+      "Competence": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Detects that the wine might be corked by smelling and tasting it.",
+      "Competence": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Fails to notice Michelle slipping Ketamine into his wine, leading to him becoming unconscious.",
       "Competence": -1,
       "Chunk": 33
     },
     {
-      "Action": "Creates suspicion and fear due to his potential instability and actions.",
+      "Action": "Becomes unconscious after drinking the drugged wine, losing control of the situation.",
       "Competence": -1,
       "Chunk": 33
     },
     {
-      "Action": "Passes out from the Ketamine in the wine.",
-      "Competence": -1,
-      "Chunk": 33
-    },
-    {
-      "Action": "Allows Nate to take the gun from his holster while unconscious.",
-      "Competence": -1,
-      "Chunk": 33
-    },
-    {
-      "Action": "Feigns unconsciousness to watch Michelle pass.",
+      "Action": "Watches Michelle covertly as she passes by in her panties.",
       "Warmth": -1,
       "Chunk": 34
     },
     {
-      "Action": "Reacts with a chilling look when realizing his gun is missing.",
-      "Warmth": -1,
-      "Chunk": 34
-    },
-    {
-      "Action": "Demands that Nate returns his gun.",
+      "Action": "Drinks wine alone, appears withdrawn and brooding.",
       "Warmth": 0,
       "Chunk": 34
     },
     {
-      "Action": "Drinks wine while forced to listen to Nate in the bathroom.",
-      "Warmth": 0,
-      "Chunk": 34
-    },
-    {
-      "Action": "Feigns being passed out to covertly watch Michelle",
+      "Action": "Feigns being unconscious to covertly observe Michelle.",
       "Competence": 1,
       "Chunk": 34
     },
     {
-      "Action": "His gun is missing, pieces together the situation",
+      "Action": "Realizes his gun is missing and pieces together what happened.",
       "Competence": 1,
       "Chunk": 34
     },
     {
-      "Action": "Drinks wine and demands his gun back from Nate unsuccessfully",
+      "Action": "Passively drinks wine and does not confront Nate directly when his gun is taken.",
       "Competence": -1,
       "Chunk": 34
     },
     {
-      "Action": "Shows limited reaction as Nate refuses to give the gun back",
-      "Competence": -1,
-      "Chunk": 34
-    },
-    {
-      "Action": "Takes a drink, refuses to give his keys.",
-      "Warmth": -1,
-      "Chunk": 35
-    },
-    {
-      "Action": "Expresses anger, accuses Michelle.",
-      "Warmth": -1,
-      "Chunk": 35
-    },
-    {
-      "Action": "Hands over his keys under duress.",
+      "Action": "Hands over keys to Nate under threat of gun despite tension.",
       "Warmth": 0,
       "Chunk": 35
     },
     {
-      "Action": "Takes another drink instead of physically defending himself or thinking of a strategy to get out of the situation.",
+      "Action": "Accuses Nate of lying to Michelle and tries to defend himself as having 'done a lot' for her.",
+      "Warmth": -1,
+      "Chunk": 35
+    },
+    {
+      "Action": "Shows anger and frustration when confronted by Michelle about his actions.",
+      "Warmth": -1,
+      "Chunk": 35
+    },
+    {
+      "Action": "Refuses to give keys initially, shows defiance under threat.",
+      "Competence": 0,
+      "Chunk": 35
+    },
+    {
+      "Action": "Eventually hands over keys when threatened with gun, avoiding immediate harm.",
+      "Competence": 1,
+      "Chunk": 35
+    },
+    {
+      "Action": "Attempts to manipulate Michelle by appealing to past favors and denying wrongdoing.",
+      "Competence": 0,
+      "Chunk": 35
+    },
+    {
+      "Action": "Fails to maintain control of situation as Nate escalates and gains upper hand.",
       "Competence": -1,
       "Chunk": 35
     },
     {
-      "Action": "Hands over his keys when threatened with a gun.",
-      "Competence": 0,
-      "Chunk": 35
-    },
-    {
-      "Action": "Attempts to discredit Michelle's accusations logically by claiming he saved her.",
-      "Competence": 1,
-      "Chunk": 35
-    },
-    {
-      "Action": "Sneers at Nate who smiles cheerfully.",
+      "Action": "Sneers at Nate and calls him a bastard for taking over the shelter.",
       "Warmth": -1,
       "Chunk": 36
     },
     {
-      "Action": "Accuses Nate of coming in and taking over.",
-      "Warmth": -1,
-      "Chunk": 36
-    },
-    {
-      "Action": "Concerned about being kicked out.",
+      "Action": "Pulls himself up through the trap door and closes it, maintaining the shelter's order.",
       "Warmth": 0,
       "Chunk": 36
     },
     {
-      "Action": "Appears emotionally affected by Nate's words.",
-      "Warmth": 1,
+      "Action": "Sits with Nate and Michelle to share a meal, drinking wine with them.",
+      "Warmth": 0,
       "Chunk": 36
     },
     {
-      "Action": "Sneers at Nate",
-      "Competence": -1,
-      "Chunk": 36
-    },
-    {
-      "Action": "Howard pulls himself up through the trap door and closes it, drags the throw rug back over it",
+      "Action": "Inspects the water system by going down into the crawl space and confirms it should be working.",
       "Competence": 1,
       "Chunk": 36
     },
     {
-      "Action": "Processes Nate’s words, his face is ashen",
+      "Action": "Sneers at Nate and shows hostility instead of cooperating.",
+      "Competence": 0,
+      "Chunk": 36
+    },
+    {
+      "Action": "Drinks wine during a tense meal, possibly indicating poor judgment or coping mechanism.",
       "Competence": -1,
       "Chunk": 36
     },
     {
-      "Action": "Howard’s halfway through another bottle of wine",
-      "Competence": -1,
-      "Chunk": 36
-    },
-    {
-      "Action": "Admits jealousy and manipulation.",
-      "Warmth": -1,
-      "Chunk": 37
-    },
-    {
-      "Action": "Offers to call the police and get Michelle out.",
+      "Action": "Admits to jealousy and reveals the truth about the staged attack to Michelle, offering to help her escape by calling the police if she gives him the keys.",
       "Warmth": 1,
       "Chunk": 37
     },
     {
-      "Action": "Speaks in a hushed whisper and leans in close to Michelle.",
-      "Warmth": 0,
+      "Action": "Leans in close to Michelle and speaks in a hushed whisper, creating an intense and somewhat threatening atmosphere.",
+      "Warmth": -1,
       "Chunk": 37
     },
     {
-      "Action": "Admits the staged attack and elaborate manipulation plan.",
+      "Action": "Admits the truth about the fake attack and tries to convince Michelle to help him escape by offering a plan to call the police.",
       "Competence": 1,
       "Chunk": 37
     },
     {
-      "Action": "Expresses jealousy and makes manipulative, emotionally charged statements to Michelle.",
+      "Action": "Reveals jealousy and personal motives that may undermine trust and cooperation.",
       "Competence": -1,
       "Chunk": 37
     },
     {
-      "Action": "Suggests calling the police and finding help after obtaining keys from Michelle.",
+      "Action": "Attempts to negotiate and strategize with Michelle, showing some level of planning and persuasion.",
       "Competence": 1,
       "Chunk": 37
     },
     {
-      "Action": "Successfully convinces Michelle to give him the keys.",
-      "Competence": 1,
+      "Action": "Relies on Michelle to take action first, showing some passivity or dependence on others to execute plans.",
+      "Competence": 0,
       "Chunk": 37
     },
     {
-      "Action": "Peers at Michelle, observing her reaction closely.",
-      "Competence": 1,
-      "Chunk": 37
-    },
-    {
-      "Action": "Wearing a hazmat suit.",
-      "Warmth": 0,
-      "Chunk": 38
-    },
-    {
-      "Action": "Tells Nate he needs to check the panels.",
-      "Warmth": 0,
-      "Chunk": 38
-    },
-    {
-      "Action": "Complies with Nate's demand to leave the keys on the table.",
+      "Action": "Complies with Nate's order to leave the keys on the table without argument.",
       "Warmth": 1,
       "Chunk": 38
     },
     {
-      "Action": "Heads back towards his bedroom without confrontation.",
+      "Action": "Attempts to leave the bunker wearing a hazmat suit, indicating concern for safety and responsibility.",
       "Warmth": 1,
       "Chunk": 38
     },
     {
-      "Action": "Snoring loudly with empty wine bottles next to his bed.",
-      "Warmth": 0,
+      "Action": "Does not confront Nate or Michelle aggressively when stopped, instead turns back quietly.",
+      "Warmth": 1,
       "Chunk": 38
     },
     {
-      "Action": "Plans to check on solar panels and comes out dressed in a hazmat suit, showing preparedness and foresight.",
+      "Action": "Wears a hazmat suit and attempts to check the solar panels despite Nate's hostility, showing awareness of potential danger and a plan to maintain cover story.",
       "Competence": 1,
       "Chunk": 38
     },
     {
-      "Action": "Tells Michelle he needs to check the panels and plans a story to cover his actions if Nate wakes up.",
-      "Competence": 1,
-      "Chunk": 38
-    },
-    {
-      "Action": "Complies with Nate's demands to leave the keys and the suit despite his intention to check the panels.",
+      "Action": "Complies with Nate's demand to leave the keys on the table and abandons the suit, indicating submission and avoidance of direct conflict.",
       "Competence": 0,
       "Chunk": 38
     },
     {
-      "Action": "Snores loudly with two empty wine bottles next to his bed, showing possible irresponsibility or lack of awareness.",
+      "Action": "Snores loudly and has two empty wine bottles next to his bed, suggesting possible neglect of self-discipline or impaired alertness.",
       "Competence": -1,
       "Chunk": 38
     },
     {
-      "Action": "Stands there leering at Michelle with drunken eyes.",
+      "Action": "Leers at Michelle with drunken eyes and blocks her path to the door.",
       "Warmth": -1,
       "Chunk": 39
     },
     {
-      "Action": "Steps in front of Michelle to block her.",
+      "Action": "Verbally abuses Michelle, calling her a 'bitch' and blaming her for trouble.",
       "Warmth": -1,
       "Chunk": 39
     },
     {
-      "Action": "Accuses Michelle of causing him trouble and says he should've left her in a ditch.",
+      "Action": "Physically grabs Michelle around the neck with a crazed look.",
       "Warmth": -1,
       "Chunk": 39
     },
     {
-      "Action": "Calls Michelle a bitch.",
+      "Action": "Does not show remorse or attempt to de-escalate after being hit and knocked down.",
       "Warmth": -1,
       "Chunk": 39
     },
     {
-      "Action": "Grabs Michelle around the neck with a crazed look in his eyes.",
+      "Action": "Attempts to grab a wine bottle from Michelle after she pours out bottles, ignoring her command not to touch her.",
       "Warmth": -1,
       "Chunk": 39
     },
     {
-      "Action": "Gets knocked unconscious and collapses forward onto Michelle.",
-      "Warmth": 0,
-      "Chunk": 39
-    },
-    {
-      "Action": "Wakes up and finds his head crusted with blood.",
-      "Warmth": 0,
-      "Chunk": 39
-    },
-    {
-      "Action": "Asks Michelle what she is doing while she pours out full wine bottles.",
-      "Warmth": 0,
-      "Chunk": 39
-    },
-    {
-      "Action": "Hurries over and grabs a wine bottle out of Michelle’s hand.",
-      "Warmth": -1,
-      "Chunk": 39
-    },
-    {
-      "Action": "Leers at Michelle with drunken eyes.",
-      "Competence": -1,
-      "Chunk": 39
-    },
-    {
-      "Action": "Blocks Michelle's path to the door and harasses her.",
-      "Competence": -1,
-      "Chunk": 39
-    },
-    {
-      "Action": "Avoids impact from Michelle's wine bottle swing.",
+      "Action": "Avoids impact of wine bottle swung at him by Michelle.",
       "Competence": 1,
       "Chunk": 39
     },
     {
-      "Action": "Gets smashed in the back of the head with a revolver.",
+      "Action": "Blocks Michelle’s path to the door, physically restraining her.",
+      "Competence": 1,
+      "Chunk": 39
+    },
+    {
+      "Action": "Leers at Michelle with drunken eyes, showing impaired judgment.",
       "Competence": -1,
       "Chunk": 39
     },
     {
-      "Action": "Comes to with his head crusted with blood and wobbles to his feet.",
-      "Competence": 0,
-      "Chunk": 39
-    },
-    {
-      "Action": "Hurries to grab a wine bottle out of Michelle's hand.",
+      "Action": "Grabs Michelle around the neck in a crazed manner, escalating violence irrationally.",
       "Competence": -1,
       "Chunk": 39
     },
     {
-      "Action": "Confronts Nate with the revolver held against his skull.",
+      "Action": "Wobbles to his feet after being hit on the head, showing physical resilience but unsteady.",
       "Competence": 0,
       "Chunk": 39
     },
     {
-      "Action": "Begs Nate not to hurt him and tries to stay out of harm's way.",
+      "Action": "Hurries to grab a wine bottle from Michelle’s hand, attempting to control the situation.",
+      "Competence": 0,
+      "Chunk": 39
+    },
+    {
+      "Action": "Says he would never attack Michelle and apologizes for getting emotional.",
       "Warmth": 1,
       "Chunk": 40
     },
     {
-      "Action": "Claims he did not attack Michelle and apologizes for getting emotional.",
+      "Action": "Reaches out to Michelle but she backs away, indicating a lack of trust or warmth perceived by her.",
+      "Warmth": 0,
+      "Chunk": 40
+    },
+    {
+      "Action": "Pleading with Nate not to hurt him, sobbing hysterically and promising to do anything to avoid conflict.",
       "Warmth": 1,
       "Chunk": 40
     },
     {
-      "Action": "Tells Michelle not to leave as she is told to go in the other room.",
+      "Action": "Does not assert himself or protect Michelle, instead begging and showing fear under Nate's aggression.",
+      "Warmth": 0,
+      "Chunk": 40
+    },
+    {
+      "Action": "Tries to de-escalate the situation by apologizing and denying accusations, attempts to reach out to Michelle.",
+      "Competence": 0,
+      "Chunk": 40
+    },
+    {
+      "Action": "Begs and pleads hysterically when threatened with violence, shows emotional breakdown and inability to control the situation.",
+      "Competence": -1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Backs away and stumbles under pressure, fails to assert himself or take control.",
+      "Competence": -1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Looks up to Nate with pleading eyes, says thank you after being pushed down stairs.",
       "Warmth": 1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Sobs hysterically and pleads with Nate as he is pushed up the stairs.",
-      "Warmth": 0,
-      "Chunk": 40
-    },
-    {
-      "Action": "Desperately tries to convince Nate not to murder him.",
-      "Warmth": 0,
-      "Chunk": 40
-    },
-    {
-      "Action": "Lets go of the bottle and backs away when threatened.",
-      "Competence": -1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Denies attacking someone.",
-      "Competence": 0,
-      "Chunk": 40
-    },
-    {
-      "Action": "Reaches out to comfort someone but is rejected.",
-      "Competence": 0,
-      "Chunk": 40
-    },
-    {
-      "Action": "Begging Nate to stop and pleading.",
-      "Competence": -1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Stumbling and falling at the bottom of the stairs.",
-      "Competence": -1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Sobbing hysterically and pleading for mercy.",
-      "Competence": -1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Offering to stay out of Nate's way.",
-      "Competence": -1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Looks up to Nate with pleading eyes and thanks him after being pushed down the stairs.",
-      "Warmth": 0,
       "Chunk": 41
     },
     {
-      "Action": "Gives an empty look after being told to shut up.",
+      "Action": "Sits at edge of bed with a feral look in his eyes, not moving an inch after confrontation.",
       "Warmth": -1,
       "Chunk": 41
     },
     {
-      "Action": "Sits at the edge of his bed with a feral look in his eyes.",
+      "Action": "Mulls over his answer when Michelle asks about Nate's whereabouts, then gives a vague response.",
       "Warmth": -1,
       "Chunk": 41
     },
     {
-      "Action": "Fiddles with the radio in the main room.",
-      "Warmth": 0,
-      "Chunk": 41
-    },
-    {
-      "Action": "Takes a long beat to respond to Michelle and tells her where Nate is.",
-      "Warmth": 0,
-      "Chunk": 41
-    },
-    {
-      "Action": "Pleading with Nate while being pushed down the stairs",
-      "Competence": -1,
-      "Chunk": 41
-    },
-    {
-      "Action": "Accepting Nate's oppressive rules without objection",
-      "Competence": -1,
-      "Chunk": 41
-    },
-    {
-      "Action": "Returns an empty look after being verbally assaulted",
-      "Competence": 0,
-      "Chunk": 41
-    },
-    {
-      "Action": "Sits idly at the edge of his bed with a feral look",
-      "Competence": -1,
-      "Chunk": 41
-    },
-    {
-      "Action": "Fiddling with the radio",
+      "Action": "Looks up to Nate with pleading eyes and thanks him after being pushed down the stairs, showing awareness of social dynamics and restraint.",
       "Competence": 1,
       "Chunk": 41
     },
     {
-      "Action": "Mulls over answer before speaking to Michelle",
+      "Action": "Sits at the edge of his bed motionless with a feral look in his eyes, indicating internal turmoil and lack of control.",
+      "Competence": -1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Fiddles with the radio in the morning, demonstrating engagement with his environment and some technical skill.",
       "Competence": 1,
       "Chunk": 41
     },
     {
-      "Action": "Expresses pessimistic and cynical views about the nature of humanity and politicians, warning Michelle about facing harsh realities.",
+      "Action": "Mulls over his answer when Michelle asks about Nate's whereabouts, showing cautiousness and thoughtfulness in communication.",
+      "Competence": 1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Explains his worldview about human nature and the attack, emphasizing harsh truths and selfishness of people.",
       "Warmth": -1,
       "Chunk": 42
     },
     {
-      "Action": "Tells Michelle he would never hurt her, likens her to his own daughter.",
+      "Action": "Warns Michelle that denial puts her in danger, trying to make her face reality.",
+      "Warmth": 0,
+      "Chunk": 42
+    },
+    {
+      "Action": "Explains the rationale behind his preparations and worldview, showing awareness of societal issues and anticipating crisis scenarios.",
+      "Competence": 1,
+      "Chunk": 42
+    },
+    {
+      "Action": "Responds vaguely about the missing person outside, giving no clear plan or timeline, which may indicate uncertainty or lack of control.",
+      "Competence": 0,
+      "Chunk": 42
+    },
+    {
+      "Action": "Says to Michelle 'I’m not going to do anything to you. I’d never hurt you. You’re like my own daughter.'",
       "Warmth": 1,
       "Chunk": 43
     },
     {
-      "Action": "Lies to Michelle earlier to get the keys, admits his deceit.",
+      "Action": "Tells Michelle to stop crying and says 'I’m trying to help you. That’s all I’ve ever done...'",
+      "Warmth": 1,
+      "Chunk": 43
+    },
+    {
+      "Action": "Lies to Michelle about Nate and his intentions, admits to lying to get keys and escape.",
       "Warmth": -1,
       "Chunk": 43
     },
     {
-      "Action": "Tries to calm Michelle, comforts her by saying it's going to be alright.",
-      "Warmth": 1,
+      "Action": "Avoids physical comfort when Michelle cries, knowing better than to approach.",
+      "Warmth": 0,
       "Chunk": 43
     },
     {
-      "Action": "Flips off the lights to protect them from potential danger.",
-      "Warmth": 1,
+      "Action": "Flips off the lights and instructs Michelle to be quiet when danger approaches.",
+      "Warmth": 0,
       "Chunk": 43
     },
     {
-      "Action": "Reading on the couch",
+      "Action": "Calmly reads on the couch and responds to Michelle's questions with controlled answers.",
+      "Competence": 1,
+      "Chunk": 43
+    },
+    {
+      "Action": "Admits to lying earlier to Michelle in order to get the keys and escape a threat.",
+      "Competence": 1,
+      "Chunk": 43
+    },
+    {
+      "Action": "Reassures Michelle he won't hurt her and tries to comfort her despite her distress.",
+      "Competence": 1,
+      "Chunk": 43
+    },
+    {
+      "Action": "Flips off the lights and instructs Michelle to stay quiet when a vehicle approaches, showing situational awareness.",
+      "Competence": 1,
+      "Chunk": 43
+    },
+    {
+      "Action": "Fails to fully convince Michelle of his intentions, leading to her emotional breakdown and distrust.",
       "Competence": 0,
       "Chunk": 43
     },
     {
-      "Action": "Told Michelle it will never happen again and thanked her",
-      "Competence": 1,
-      "Chunk": 43
+      "Action": "Tackles Michelle to prevent her from calling for help, forcibly restrains her, and injects her with a sedative despite her resistance.",
+      "Warmth": -1,
+      "Chunk": 44
     },
     {
-      "Action": "Lied to Michelle about needing the keys to survive",
-      "Competence": -1,
-      "Chunk": 43
-    },
-    {
-      "Action": "Flipped off the lights when something big was approaching",
-      "Competence": 1,
-      "Chunk": 43
-    },
-    {
-      "Action": "Whispered 'Don't make a noise'",
-      "Competence": 1,
-      "Chunk": 43
-    },
-    {
-      "Action": "Moves closer to Michelle, speaks quietly and methodically.",
+      "Action": "Watches Michelle with a sad look on his face after sedating her.",
       "Warmth": 0,
       "Chunk": 44
     },
     {
-      "Action": "Tackles Michelle, covers her mouth.",
-      "Warmth": -1,
+      "Action": "Moves slowly and methodically toward Michelle, anticipating danger and controlling the situation by silencing her and restraining her when she tries to call for help.",
+      "Competence": 1,
       "Chunk": 44
     },
     {
-      "Action": "Holds Michelle down, struggles with her.",
-      "Warmth": -1,
+      "Action": "Uses a syringe to sedate Michelle effectively during a tense moment, preventing her from alerting whoever is outside.",
+      "Competence": 1,
       "Chunk": 44
     },
     {
-      "Action": "Plunges a syringe into Michelle's arm.",
-      "Warmth": -1,
+      "Action": "Maintains composure and control under pressure, watching Michelle with a sad look but not losing focus on the situation.",
+      "Competence": 1,
       "Chunk": 44
     },
     {
-      "Action": "Watches Michelle with a sad look on his face.",
+      "Action": "Reassures Michelle after rescuing her from the car crash, saying 'Don't worry. Everything's going to be alright.'",
+      "Warmth": 1,
+      "Chunk": 45
+    },
+    {
+      "Action": "Locks Michelle in the room, requiring her to bang on the door to be let out.",
+      "Warmth": -1,
+      "Chunk": 45
+    },
+    {
+      "Action": "Questions Michelle about opening wine on her birthday and takes the bottle from her, showing some restraint.",
       "Warmth": 0,
-      "Chunk": 44
+      "Chunk": 45
     },
     {
-      "Action": "Standing above injured Michelle with a hard-to-read expression, but assures her everything's going to be alright.",
+      "Action": "Lets go of the wine bottle when Michelle puts her hand over his, indicating some respect for her wishes.",
       "Warmth": 1,
       "Chunk": 45
     },
     {
-      "Action": "Unlocks the door for Michelle to use the bathroom after she bangs on it.",
-      "Warmth": 1,
-      "Chunk": 45
-    },
-    {
-      "Action": "Calls out Michelle's birthday as a special occasion, takes wine bottle from her but lets go eventually.",
-      "Warmth": -1,
-      "Chunk": 45
-    },
-    {
-      "Action": "Rescues a seriously injured person from a car accident.",
+      "Action": "Successfully pries open the car door to rescue Michelle despite difficult conditions.",
       "Competence": 1,
       "Chunk": 45
     },
     {
-      "Action": "Attempts to comfort Michelle by saying everything's going to be alright.",
+      "Action": "Keeps Michelle locked in a room with a deadbolt, showing control over the environment.",
       "Competence": 1,
       "Chunk": 45
     },
     {
-      "Action": "Locks Michelle in a room, restricting her freedom.",
-      "Competence": -1,
+      "Action": "Notices the wine bottles Michelle pulls out and questions their origin, showing awareness.",
+      "Competence": 1,
       "Chunk": 45
     },
     {
-      "Action": "Sees bottles of wine lined up and seems tempted but refrains initially.",
+      "Action": "Tempted by the wine but restrains himself when Michelle asserts herself, showing self-control and social awareness.",
+      "Competence": 1,
+      "Chunk": 45
+    },
+    {
+      "Action": "Expression is hard to read when rescuing Michelle, possibly indicating emotional ambiguity or lack of clear communication.",
       "Competence": 0,
       "Chunk": 45
     },
     {
-      "Action": "Accepts a drink offer because it's Michelle's birthday.",
+      "Action": "Agrees to have a drink with Michelle on her birthday despite initial reluctance.",
       "Warmth": 1,
       "Chunk": 46
     },
     {
-      "Action": "Suggests opening another bottle after Michelle expresses dislike for the current one.",
+      "Action": "Encourages Michelle to open another bottle when she dislikes the wine.",
       "Warmth": 1,
       "Chunk": 46
     },
     {
-      "Action": "Warns Michelle to be careful because she might have had too much to drink.",
+      "Action": "Comments humorously about the mixed wine making a decent rose, sharing a light moment with Michelle.",
       "Warmth": 1,
       "Chunk": 46
     },
     {
-      "Action": "Jokes lightheartedly about mixing wines.",
+      "Action": "Gently warns Michelle about drinking too much, showing concern for her wellbeing.",
       "Warmth": 1,
       "Chunk": 46
     },
     {
-      "Action": "Engages in conversation and clinks glasses with Michelle.",
+      "Action": "Takes Michelle to her room and helps her lie down when she is too drunk to stay awake, showing care and attentiveness.",
       "Warmth": 1,
       "Chunk": 46
     },
     {
-      "Action": "Offers to find freeze dried lasagna when Michelle expresses missing certain foods.",
-      "Warmth": 1,
-      "Chunk": 46
-    },
-    {
-      "Action": "Suggests Michelle take a nap when she's visibly fading.",
-      "Warmth": 1,
-      "Chunk": 46
-    },
-    {
-      "Action": "Helps Michelle to her room and ensures she lies down to sleep.",
-      "Warmth": 1,
-      "Chunk": 46
-    },
-    {
-      "Action": "Initially refuses more wine and exhibits restraint",
+      "Action": "Resists temptation to drink initially, then drinks moderately and responsibly.",
       "Competence": 1,
       "Chunk": 46
     },
     {
-      "Action": "Enables Michelle to drink more and participates",
+      "Action": "Encourages Michelle to open another bottle when she dislikes the wine, showing decisiveness.",
+      "Competence": 1,
+      "Chunk": 46
+    },
+    {
+      "Action": "Observes Michelle carefully and warns her when she stumbles, showing attentiveness and care.",
+      "Competence": 1,
+      "Chunk": 46
+    },
+    {
+      "Action": "Demonstrates knowledge about wine by mixing Chardonnay and Shiraz and commenting on the result.",
+      "Competence": 1,
+      "Chunk": 46
+    },
+    {
+      "Action": "Takes responsibility to help Michelle to bed when she is too intoxicated, maintaining control despite being slightly wobbly.",
+      "Competence": 1,
+      "Chunk": 46
+    },
+    {
+      "Action": "Appears a bit wobbly himself after drinking, indicating some loss of control.",
       "Competence": -1,
       "Chunk": 46
     },
     {
-      "Action": "Discusses wine mixing knowledgeably",
-      "Competence": 1,
-      "Chunk": 46
-    },
-    {
-      "Action": "Handles Michelle carefully and ensures she is put to bed safely",
-      "Competence": 1,
-      "Chunk": 46
-    },
-    {
-      "Action": "Gently pulls a blanket over Michelle as she sinks into the bed.",
+      "Action": "Gently pulls a blanket over Michelle as she sinks into bed, watches her with a soft, wistful look.",
       "Warmth": 1,
       "Chunk": 47
     },
     {
-      "Action": "Reaches into Michelle's purse and pulls out her wallet and driver’s license.",
-      "Warmth": 0,
-      "Chunk": 47
-    },
-    {
-      "Action": "Makes a cold remark about doing this again in six months for Michelle's real birthday.",
+      "Action": "Takes Michelle's driver’s license from her purse without permission and coldly comments about her birthday and wine.",
       "Warmth": -1,
       "Chunk": 47
     },
     {
-      "Action": "Locks Michelle in her room.",
+      "Action": "Locks Michelle’s door from outside, restricting her freedom.",
       "Warmth": -1,
       "Chunk": 47
     },
     {
-      "Action": "Sits at the table, pours himself another glass of wine, takes a big gulp, and shakes his head disappointedly.",
+      "Action": "Sits alone drinking wine, appearing disappointed and despondent.",
       "Warmth": 0,
       "Chunk": 47
     },
     {
-      "Action": "Falls asleep face down on the table, snoring.",
-      "Warmth": 0,
-      "Chunk": 47
-    },
-    {
-      "Action": "Searches Michelle's purse and retrieves her driver's license",
+      "Action": "Gently pulls a blanket over Michelle as she sinks into bed, showing care and attentiveness.",
       "Competence": 1,
       "Chunk": 47
     },
     {
-      "Action": "Locks Michelle's room with his key",
+      "Action": "Takes Michelle's driver's license and coldly comments on the situation, indicating control and awareness of the circumstances.",
       "Competence": 1,
       "Chunk": 47
     },
     {
-      "Action": "Takes a big gulp of wine and shakes his head disappointedly",
-      "Competence": 0,
+      "Action": "Locks Michelle's door securely with a deadbolt, demonstrating precaution and planning.",
+      "Competence": 1,
       "Chunk": 47
     },
     {
-      "Action": "Falls asleep face down on the table, snoring",
+      "Action": "Sits down and drinks wine alone, eventually falling asleep and snoring at the table, leaving Michelle unattended.",
       "Competence": -1,
       "Chunk": 47
     },
     {
-      "Action": "Passes out while Michelle attempts to escape.",
+      "Action": "Lies passed out and half-asleep while Michelle frantically searches for the key and tries to escape.",
+      "Warmth": -1,
+      "Chunk": 48
+    },
+    {
+      "Action": "Wakes up and notices the vent being kicked out but does not immediately intervene or help.",
+      "Warmth": -1,
+      "Chunk": 48
+    },
+    {
+      "Action": "Is passed out and half-asleep while Michelle searches for the key and tries to escape.",
       "Competence": -1,
       "Chunk": 48
     },
     {
-      "Action": "Wakes up and reacts to Michelle's attempts at escape.",
+      "Action": "Wakes up fully upon hearing the vent being kicked and quickly locates the kicked out vent in the trap door area.",
       "Competence": 1,
       "Chunk": 48
     },
     {
-      "Action": "Finds the kicked out vent quickly after waking up.",
+      "Action": "Urgently calls Michelle back inside, warning her it’s not safe.",
+      "Warmth": 1,
+      "Chunk": 49
+    },
+    {
+      "Action": "Hesitates when seeing the dead pigs outside, showing a moment of pause.",
+      "Warmth": 0,
+      "Chunk": 49
+    },
+    {
+      "Action": "Scrambles quickly to find the closet door open and notices the missing gun and hazmat suit, showing alertness and situational awareness.",
       "Competence": 1,
-      "Chunk": 48
-    },
-    {
-      "Action": "Scrambles to find missing gun and hazmat suit.",
-      "Warmth": 0,
       "Chunk": 49
     },
     {
-      "Action": "Breaks into the house wrapped in a blanket to get Michelle back inside.",
-      "Warmth": 1,
+      "Action": "Finds the cellar door key quickly by searching under the mattress, demonstrating resourcefulness and quick thinking.",
+      "Competence": 1,
       "Chunk": 49
     },
     {
-      "Action": "Hesitates while looking at dead pigs.",
-      "Warmth": 0,
+      "Action": "Opens the cellar door and exits wrapped in a blanket, then scans the yard carefully, showing caution and awareness.",
+      "Competence": 1,
       "Chunk": 49
     },
     {
-      "Action": "Calls out to Michelle with urgency to ensure her safety.",
-      "Warmth": 1,
-      "Chunk": 49
-    },
-    {
-      "Action": "Finds the closet door wide open with gun and hazmat suit missing.",
+      "Action": "Hesitates for a long moment after seeing the dead pigs, indicating possible uncertainty or fear.",
       "Competence": 0,
       "Chunk": 49
     },
     {
-      "Action": "Scrambles and finds the cellar door key beneath the mattress.",
+      "Action": "Calls out to Michelle urgently to get back inside, showing leadership and concern for safety.",
       "Competence": 1,
       "Chunk": 49
     },
     {
-      "Action": "Climbs out of the stairwell wrapped head to toe in a blanket and scans the yard.",
+      "Action": "Glances briefly at Nate’s corpse before making for the house, indicating a momentary distraction but prioritizing action.",
       "Competence": 0,
       "Chunk": 49
     },
     {
-      "Action": "Advises Michelle to get back inside because it's not safe.",
-      "Competence": 1,
-      "Chunk": 49
-    },
-    {
-      "Action": "Rushes to the farm house after seeing Michelle run inside.",
-      "Competence": 1,
-      "Chunk": 49
-    },
-    {
-      "Action": "Throws himself into the back door continuously to break into the house.",
-      "Warmth": -1,
-      "Chunk": 50
-    },
-    {
-      "Action": "Kicks the door hard to break in.",
-      "Warmth": -1,
-      "Chunk": 50
-    },
-    {
-      "Action": "Stands in the doorway with face hidden beneath a wet blanket.",
+      "Action": "Throws himself repeatedly against the back door to get inside, showing persistence.",
       "Warmth": 0,
       "Chunk": 50
     },
     {
-      "Action": "Picks up the gun and puts it in his pocket.",
-      "Warmth": -1,
+      "Action": "After forcing the door open, picks up Michelle’s dropped gun and puts it in his pocket instead of using it against her.",
+      "Warmth": 1,
       "Chunk": 50
     },
     {
-      "Action": "Follows Michelle’s muddy footprints out of the room.",
-      "Warmth": 0,
+      "Action": "Calls out to Michelle to stop and warns her she’s not safe, indicating concern for her safety.",
+      "Warmth": 1,
       "Chunk": 50
     },
     {
-      "Action": "Yells from the hallway that Michelle isn’t safe.",
-      "Warmth": 0,
+      "Action": "Explains that he killed Nate because Nate was dangerous and that he did it for their safety, attempting to justify his actions and protectiveness.",
+      "Warmth": 1,
       "Chunk": 50
     },
     {
-      "Action": "Watches Michelle frantically move with her back to him.",
-      "Warmth": 0,
-      "Chunk": 50
-    },
-    {
-      "Action": "States he didn’t have a choice and did it for their safety.",
-      "Warmth": -1,
-      "Chunk": 50
-    },
-    {
-      "Action": "Throws himself into the back door repeatedly without success initially",
-      "Competence": -1,
-      "Chunk": 50
-    },
-    {
-      "Action": "Takes a step back and kicks hard just below the door handle, successfully breaking the door jamb",
+      "Action": "Kicks the door hard enough to splinter the door jamb and force entry after repeated attempts.",
       "Competence": 1,
       "Chunk": 50
     },
     {
-      "Action": "Picks up the gun Michelle dropped and shoves it in his pocket",
+      "Action": "Quickly retrieves the gun Michelle drops and secures it in his pocket.",
       "Competence": 1,
       "Chunk": 50
     },
     {
-      "Action": "Closes the door behind him and follows Michelle’s muddy footprints",
+      "Action": "Follows Michelle’s muddy footprints to keep track of her movements.",
       "Competence": 1,
       "Chunk": 50
     },
     {
-      "Action": "Yells 'You’re not safe!' and 'I didn’t have a choice. You didn’t know Nate like I did. He was dangerous... I did it for us'",
+      "Action": "Yells warnings to Michelle about danger, showing awareness and attempt to control the situation.",
+      "Competence": 1,
+      "Chunk": 50
+    },
+    {
+      "Action": "His face is hidden beneath a wet blanket, which may impair his vision and situational awareness.",
       "Competence": 0,
       "Chunk": 50
     },
     {
-      "Action": "Moves slowly, talks calmly.",
-      "Warmth": 0,
-      "Chunk": 51
-    },
-    {
-      "Action": "Says 'I did it for us.'",
+      "Action": "Says 'You don’t have to love me. You don’t even have to like me, but please. Don’t leave me. I don’t want to be alone. I’ll never hurt you. You can trust me.'",
       "Warmth": 1,
       "Chunk": 51
     },
     {
-      "Action": "Says 'You don't have to love me, you don't even have to like me, but please. Don't leave me. I don't want to be alone. I'll never hurt you. You can trust me.'",
-      "Warmth": 1,
+      "Action": "Approaches Michelle from behind and reaches out to stop her from leaving, despite her resistance.",
+      "Warmth": -1,
       "Chunk": 51
     },
     {
-      "Action": "Insists it was self-defense.",
+      "Action": "Claims self-defense after being called a murderer.",
       "Warmth": 0,
       "Chunk": 51
     },
     {
-      "Action": "Says 'I won't let you leave.'",
-      "Warmth": -1,
-      "Chunk": 51
-    },
-    {
-      "Action": "Pulls a gun from his pocket after being sliced.",
-      "Warmth": -1,
-      "Chunk": 51
-    },
-    {
-      "Action": "Talks calmly despite tense situation.",
+      "Action": "Moves slowly and talks calmly, attempts to reason with Michelle, showing controlled behavior under stress.",
       "Competence": 1,
       "Chunk": 51
     },
     {
-      "Action": "Claims previous violent actions were in self-defense.",
+      "Action": "Approaches Michelle from behind to prevent her escape, showing tactical awareness.",
+      "Competence": 1,
+      "Chunk": 51
+    },
+    {
+      "Action": "Is grazed by a knife but quickly recovers and pulls a gun, demonstrating physical resilience and readiness.",
+      "Competence": 1,
+      "Chunk": 51
+    },
+    {
+      "Action": "Chases Michelle up the stairs with a revolver, showing persistence and determination.",
+      "Competence": 1,
+      "Chunk": 51
+    },
+    {
+      "Action": "Is forced to retreat when Michelle topples a cabinet down the stairs, indicating a failure to anticipate or prevent this defensive move.",
+      "Competence": -1,
+      "Chunk": 51
+    },
+    {
+      "Action": "Admits that pulling the trigger was the hardest thing he's ever done and reflects on feeling emotionally numb since losing his daughter.",
+      "Warmth": 1,
+      "Chunk": 52
+    },
+    {
+      "Action": "Stalks into the bedroom with a gun, searches the house aggressively, and attempts to physically grab Michelle.",
+      "Warmth": -1,
+      "Chunk": 52
+    },
+    {
+      "Action": "Systematically searches the bedroom, checking the closet and bathroom for Michelle.",
+      "Competence": 1,
+      "Chunk": 52
+    },
+    {
+      "Action": "Gets temporarily blinded by tile cleaner sprayed in his face, drops his revolver.",
+      "Competence": -1,
+      "Chunk": 52
+    },
+    {
+      "Action": "Wipes his eyes and manages to regain partial vision despite being blinded.",
+      "Competence": 1,
+      "Chunk": 52
+    },
+    {
+      "Action": "Momentarily distracted and emotionally vulnerable, reflecting on his daughter while confronted by Michelle.",
+      "Competence": -1,
+      "Chunk": 52
+    },
+    {
+      "Action": "Shares painful personal history honestly, showing vulnerability about losing his wife and daughter.",
+      "Warmth": 1,
+      "Chunk": 53
+    },
+    {
+      "Action": "Expresses desire not to lose Michelle, takes small steps toward her, tries to reassure her 'It’s going to be okay.'",
+      "Warmth": 1,
+      "Chunk": 53
+    },
+    {
+      "Action": "Despite Michelle’s hostility and threat, he remains calm and attempts to connect.",
+      "Warmth": 1,
+      "Chunk": 53
+    },
+    {
+      "Action": "Previously accused of kidnapping and violence, and Michelle clearly distrusts him, calling him 'batshit crazy' and accusing him of lies.",
+      "Warmth": -1,
+      "Chunk": 53
+    },
+    {
+      "Action": "Calmly tries to de-escalate a tense confrontation with Michelle by speaking softly and stepping closer to reassure her.",
+      "Competence": 1,
+      "Chunk": 53
+    },
+    {
+      "Action": "Reveals personal tragic backstory to explain his behavior, showing emotional vulnerability but also an attempt to justify his actions.",
       "Competence": 0,
-      "Chunk": 51
-    },
-    {
-      "Action": "Reaches out to Michelle offering reassurance and trust.",
-      "Competence": 1,
-      "Chunk": 51
-    },
-    {
-      "Action": "Allows Michelle to get the upper hand with a knife.",
-      "Competence": -1,
-      "Chunk": 51
-    },
-    {
-      "Action": "Falls to the ground after being sliced, taking the knife with him.",
-      "Competence": 0,
-      "Chunk": 51
-    },
-    {
-      "Action": "Pulls a gun from his pocket and starts chasing Michelle.",
-      "Competence": 1,
-      "Chunk": 51
-    },
-    {
-      "Action": "Gets forced back down the stairs by a falling cabinet.",
-      "Competence": -1,
-      "Chunk": 51
-    },
-    {
-      "Action": "Marches up the main stairway with gun in hand",
-      "Warmth": -1,
-      "Chunk": 52
-    },
-    {
-      "Action": "Stalks into the bedroom, looks out the window, notices the shower curtain",
-      "Warmth": -1,
-      "Chunk": 52
-    },
-    {
-      "Action": "Blinded by cleaning solution, grabs for Michelle, then puts his hands up",
-      "Warmth": 0,
-      "Chunk": 52
-    },
-    {
-      "Action": "Admits that killing someone was the hardest thing he's done, mentions feelings for his daughter",
-      "Warmth": 1,
-      "Chunk": 52
-    },
-    {
-      "Action": "Marches up the stairway with a gun in hand.",
-      "Competence": 1,
-      "Chunk": 52
-    },
-    {
-      "Action": "Crosses the room cautiously, checking potential hiding places.",
-      "Competence": 1,
-      "Chunk": 52
-    },
-    {
-      "Action": "Gets temporarily blinded and loses control over the situation.",
-      "Competence": -1,
-      "Chunk": 52
-    },
-    {
-      "Action": "Wipes his eyes, regains partial vision, but loses focus momentarily during a critical situation.",
-      "Competence": -1,
-      "Chunk": 52
-    },
-    {
-      "Action": "Raises hands to Michelle, tries to communicate in a vulnerable moment.",
-      "Competence": 0,
-      "Chunk": 52
-    },
-    {
-      "Action": "Shows a forlorn look and expresses sorrow over his past actions.",
-      "Warmth": 1,
       "Chunk": 53
     },
     {
-      "Action": "Begins to share emotional story about his wife and daughter, eyes water up.",
-      "Warmth": 1,
-      "Chunk": 53
-    },
-    {
-      "Action": "Admits to his mistakes and expresses vulnerability.",
-      "Warmth": 1,
-      "Chunk": 53
-    },
-    {
-      "Action": "Takes a small step toward Michelle despite her aggressive stance.",
-      "Warmth": 0,
-      "Chunk": 53
-    },
-    {
-      "Action": "Says 'I can't lose you too.'",
-      "Warmth": 1,
-      "Chunk": 53
-    },
-    {
-      "Action": "Smiles and takes another step toward Michelle.",
-      "Warmth": 0,
-      "Chunk": 53
-    },
-    {
-      "Action": "Says 'It's going to be okay.'",
-      "Warmth": 1,
-      "Chunk": 53
-    },
-    {
-      "Action": "Stands with a forlorn look, admits to hitting a tree while drunk resulting in his wife's death.",
+      "Action": "Underestimates Michelle's resolve and fails to anticipate her shooting him, resulting in a severe injury.",
       "Competence": -1,
       "Chunk": 53
     },
     {
-      "Action": "Explains his past and how he lost custody of his daughter, acknowledging Nate lied about him.",
-      "Competence": 1,
-      "Chunk": 53
-    },
-    {
-      "Action": "Steps towards Michelle despite her pointing a gun at him, showing confidence she won't shoot.",
-      "Competence": 1,
-      "Chunk": 53
-    },
-    {
-      "Action": "Predicts Michelle won't have the nerve to shoot, but she does, and he screams in pain.",
-      "Competence": -1,
-      "Chunk": 53
-    },
-    {
-      "Action": "Howard’s screams snap Michelle out of it and she continues down the steps.",
-      "Warmth": -1,
+      "Action": "Screams a warning to Michelle to be careful as she escapes.",
+      "Warmth": 1,
       "Chunk": 54
     },
     {
-      "Action": "Howard calls out to Michelle to be careful.",
-      "Warmth": 1,
+      "Action": "Screams to warn Michelle to be careful as she escapes.",
+      "Competence": 1,
       "Chunk": 54
     }
   ]
