@@ -1,42 +1,52 @@
 {
-  "Bob": [
+  "Bob Hughes": [
     {
-      "Action": "Cracks a smile and winks absentmindedly while lying in the back seat.",
+      "Action": "Eeks out a giggle or inspired laugh while reflecting on his erratic thoughts, shows some light-heartedness and self-awareness.",
       "Warmth": 1,
       "Chunk": 1
     },
     {
-      "Action": "Sawing a hole in the roof of a closed pharmacy to steal drugs.",
+      "Action": "Talks about writing a book with creativity, artistry, and honest poetry, showing some sincerity and openness.",
+      "Warmth": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Sawing holes in roofs and breaking into pharmacies to steal drugs, indicating illegal and untrustworthy behavior.",
       "Warmth": -1,
       "Chunk": 1
     },
     {
-      "Action": "Sawing a hole in the roof of a closed pharmacy to gain access.",
+      "Action": "Cracks a smile and winks absentmindedly while lying in the back seat, suggesting a friendly or approachable demeanor.",
+      "Warmth": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Reflects on writing a book about drug stores indicating self-awareness and creative thinking.",
       "Competence": 1,
       "Chunk": 1
     },
     {
-      "Action": "Considers himself a 'half-assed carpenter' while working with hand drills and saws.",
+      "Action": "Skillfully picking locks and sawing holes in roofs of pharmacies to steal drugs.",
+      "Competence": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Describes himself as a half-assed carpenter while working with tools, suggesting moderate skill but limited professionalism.",
       "Competence": 0,
       "Chunk": 1
     },
     {
-      "Action": "Lying in the back seat, giggling and with racing thoughts, appearing wired and distracted.",
+      "Action": "Lies passively in the back seat giggling and displaying erratic behavior possibly due to drug influence.",
       "Competence": -1,
       "Chunk": 1
     },
     {
-      "Action": "Smiles and greets an old woman walking her poodle with a friendly comment.",
+      "Action": "Smiles and politely greets an old woman walking her dog with a friendly comment.",
       "Warmth": 1,
       "Chunk": 2
     },
     {
-      "Action": "Casually walks down the sidewalk as if window shopping to avoid suspicion during a getaway.",
-      "Warmth": 0,
-      "Chunk": 2
-    },
-    {
-      "Action": "Leads a group in a deceptive pharmacy robbery using signals and orchestrated distractions.",
+      "Action": "Nonchalantly initiates a coordinated pharmacy theft by signaling accomplices, showing disregard for others.",
       "Warmth": -1,
       "Chunk": 2
     },
@@ -46,77 +56,52 @@
       "Chunk": 2
     },
     {
-      "Action": "Uses subtle signals to coordinate with his team inside the pharmacy.",
+      "Action": "Leads a coordinated distraction inside the pharmacy with signals to his partners.",
       "Competence": 1,
       "Chunk": 2
     },
     {
-      "Action": "Allows others to take the lead in distracting the pharmacist while he observes.",
+      "Action": "Engages in casual conversation with an old woman during the operation to maintain cover.",
       "Competence": 1,
       "Chunk": 2
     },
     {
-      "Action": "Quickly ducks behind the counter and searches for a locked drawer to access drugs during the staged seizure.",
-      "Warmth": -1,
-      "Chunk": 3
-    },
-    {
-      "Action": "Responds promptly to Dianne's signal and acts with urgency to avoid detection.",
+      "Action": "Quickly ducks behind the counter and looks for a locked drawer to help the group escape.",
       "Warmth": 0,
       "Chunk": 3
     },
     {
-      "Action": "Sweats and shows physical signs of nervousness while committing the theft.",
+      "Action": "Responds promptly to Dianne's cough signal, showing coordination and attentiveness.",
       "Warmth": 0,
       "Chunk": 3
     },
     {
-      "Action": "Quietly removes the locked back door to escape unnoticed.",
-      "Warmth": -1,
+      "Action": "Sweats and shows physical signs of nervousness while rifling through drawer, indicating tension but no direct hostility or warmth.",
+      "Warmth": 0,
       "Chunk": 3
     },
     {
-      "Action": "Quickly ducks behind the counter and drops to his knees to avoid detection.",
+      "Action": "Silently removes locked back door hinges with a screwdriver to facilitate escape.",
+      "Warmth": 0,
+      "Chunk": 3
+    },
+    {
+      "Action": "Quickly ducks behind the counter, finds and opens a locked drawer, responds promptly to signal from Dianne, and skillfully unscrews the locked back door quietly to escape.",
       "Competence": 1,
       "Chunk": 3
     },
     {
-      "Action": "Finds a locked drawer and opens it, showing resourcefulness.",
-      "Competence": 1,
-      "Chunk": 3
-    },
-    {
-      "Action": "Responds promptly to Dianne's cough signal, demonstrating good communication and situational awareness.",
-      "Competence": 1,
-      "Chunk": 3
-    },
-    {
-      "Action": "Scurries back to check if the situation is safe before continuing, showing caution and prudence.",
-      "Competence": 1,
-      "Chunk": 3
-    },
-    {
-      "Action": "Sweats and his hands shake, indicating nervousness under pressure.",
-      "Competence": 0,
-      "Chunk": 3
-    },
-    {
-      "Action": "Tries the back door but finds it locked, then quietly and smoothly removes the door from its hinges with a screwdriver, showing skill and calm under pressure.",
-      "Competence": 1,
-      "Chunk": 3
-    },
-    {
-      "Action": "Raises concern about Dianne's language, telling her to watch her language.",
+      "Action": "Raises a mild protest about using strong language, showing concern for decorum.",
       "Warmth": 1,
       "Chunk": 4
     },
     {
-      "Action": "Opens the car door and encourages Rick and Nadine to hurry up, saying 'Come on, come on, I said walk not crawl.'",
-      "Warmth": 0,
+      "Action": "Calls out to Rick and Nadine to hurry up and get into the car, using a somewhat playful tone.",
+      "Warmth": 1,
       "Chunk": 4
     },
     {
-      "Action": "Makes a teasing comment to Nadine about window shopping while walking.",
+      "Action": "Teases Nadine about 'window shopping' along the way, engaging in light-hearted banter.",
       "Warmth": 1,
       "Chunk": 4
     },
@@ -126,1207 +111,977 @@
       "Chunk": 4
     },
     {
-      "Action": "Lies down in the back seat and gives a quick assessment of their haul ('So, 80...').",
+      "Action": "Sits up and spots Rick and Nadine walking casually, then opens the car door and calls them out to hurry.",
       "Competence": 1,
       "Chunk": 4
     },
     {
-      "Action": "Keeps calm and observant, spots Rick and Nadine walking casually toward the car.",
+      "Action": "Raises up to look out the back window and calmly advises Dianne to watch her language.",
       "Competence": 1,
       "Chunk": 4
     },
     {
-      "Action": "Calls out to Rick and Nadine to hurry up and get in the car, showing leadership and control.",
-      "Competence": 1,
-      "Chunk": 4
-    },
-    {
-      "Action": "Engages in a light argument with Dianne about language and behavior, showing some confidence but also a bit of distraction.",
+      "Action": "Engages in a minor argument over language with Dianne, showing some loss of composure.",
       "Competence": 0,
       "Chunk": 4
     },
     {
-      "Action": "Does not intervene when Dianne turns completely around disregarding traffic, potentially risking safety.",
-      "Competence": -1,
+      "Action": "Observes and manages the group getting into the car, keeping control during the getaway.",
+      "Competence": 1,
       "Chunk": 4
     },
     {
-      "Action": "Tells Dianne to 'shut up and watch your driving' and mocks her for being bitchy.",
+      "Action": "Tells Dianne to 'shut up and watch your driving' in a blunt way.",
       "Warmth": -1,
       "Chunk": 5
     },
     {
-      "Action": "Teases Dianne about setting a bad example and sarcastically comments on her driving.",
-      "Warmth": -1,
+      "Action": "Resentfully calls the group 'bitchy' and criticizes Dianne for setting a bad example, indicating frustration but also concern.",
+      "Warmth": 0,
       "Chunk": 5
     },
     {
-      "Action": "Reflects internally on the warm, pleasurable feeling drugs give him, noting a softened view of enemies and the world.",
-      "Warmth": 1,
+      "Action": "Engages in teasing banter with Dianne about her driving and possible strangling him, showing informal familiarity.",
+      "Warmth": 0,
       "Chunk": 5
     },
     {
-      "Action": "Sits quietly looking out the window, indulging in drug use and making sarcastic remarks to Dianne instead of addressing the dangerous driving.",
-      "Competence": -1,
-      "Chunk": 5
-    },
-    {
-      "Action": "Criticizes Dianne's driving and behavior but does not take any constructive action to improve the situation or ensure safety.",
-      "Competence": -1,
-      "Chunk": 5
-    },
-    {
-      "Action": "Tells the crew to act cool and believable to avoid suspicion, showing consideration for their safety.",
-      "Warmth": 1,
-      "Chunk": 6
-    },
-    {
-      "Action": "Smiles while denying Nadine's request for drugs, indicating a playful or teasing interaction rather than harshness.",
-      "Warmth": 1,
-      "Chunk": 6
-    },
-    {
-      "Action": "Instructs the crew to act cool and believable, showing awareness of how to avoid suspicion.",
+      "Action": "Instructs the crew to 'act cool' and appear as if coming from church to avoid suspicion, showing foresight and strategic thinking.",
       "Competence": 1,
       "Chunk": 6
     },
     {
-      "Action": "Demonstrates detailed knowledge of how others detect drug possession, indicating experience and insight.",
+      "Action": "Observes and narrates details about how others detect drug possession, demonstrating awareness and understanding of his environment.",
       "Competence": 1,
       "Chunk": 6
     },
     {
-      "Action": "Carefully manages the drug distribution among the group, showing control and organization.",
+      "Action": "Fish out drugs efficiently and controls distribution among the group, suggesting organized and controlled handling of resources.",
       "Competence": 1,
       "Chunk": 6
     },
     {
-      "Action": "Refuses to give Nadine an equal share, belittles her efforts and contribution.",
+      "Action": "No evidence of confusion, hesitation, or mistakes in the excerpt; his behavior is calm and informed.",
+      "Competence": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Refuses Nadine's demand for equal drug share, telling her she hasn't earned it and belittling her contribution",
       "Warmth": -1,
       "Chunk": 7
     },
     {
-      "Action": "Acknowledges Nadine's request for fairness by giving her a quarter share but sets strict conditions and rejects her as an apprentice.",
+      "Action": "Offers Nadine a smaller share fairly, but insists she not become an apprentice or equal partner",
       "Warmth": 0,
       "Chunk": 7
     },
     {
-      "Action": "Draws a gun cautiously when someone knocks on the door, showing protective behavior toward the group.",
+      "Action": "Explains clearly to Nadine the rules and hierarchy of the group, asserting that he is taking the big risk and limiting her share accordingly.",
+      "Competence": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Refuses to give Nadine equal share or treat her as an equal apprentice, showing control over the situation and distribution.",
+      "Competence": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Quickly draws a pistol and cautiously checks the door upon hearing a knock, showing alertness and situational awareness.",
+      "Competence": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Commands Rick and Nadine firmly to prepare for potential conflict by arming and readying themselves.",
+      "Warmth": -1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Lowers his gun and tries to appear innocent when greeting David, attempts casual interaction.",
+      "Warmth": 0,
+      "Chunk": 8
+    },
+    {
+      "Action": "Engages David in conversation about drugs with a grin and mild skepticism, showing some informal friendliness.",
+      "Warmth": 0,
+      "Chunk": 8
+    },
+    {
+      "Action": "Grins sheepishly at Dianne, tries to cajole her into doing drugs together with a playful, excited tone.",
+      "Warmth": 0,
+      "Chunk": 9
+    },
+    {
+      "Action": "Uses a lighthearted, affectionate nickname 'baby' and engages in a joint plan with Dianne.",
       "Warmth": 1,
-      "Chunk": 7
+      "Chunk": 9
     },
     {
-      "Action": "Explains the rules of their group clearly to Nadine, asserting his role and the risks he takes, showing understanding of group dynamics and boundaries.",
+      "Action": "Turns away in disgust when Dianne suggests making love, showing impatience or frustration.",
+      "Warmth": -1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Slams the bedroom door and shows irritation when Dianne brings up intimacy during planning to steal.",
+      "Warmth": -1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Admits to struggling with addiction openly and talks vulnerably with Dianne about his difficulty.",
+      "Warmth": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Attempts to rally Dianne into stealing drugs by expressing excitement and confidence about their upcoming heist.",
       "Competence": 1,
-      "Chunk": 7
+      "Chunk": 9
     },
     {
-      "Action": "Draws a pistol and cautiously approaches the door to check on an intruder, demonstrating alertness and preparedness.",
-      "Competence": 1,
-      "Chunk": 7
+      "Action": "Miscommunicates his intentions to Dianne, causing a misunderstanding about his priorities, and reacts with disgust when confronted.",
+      "Competence": -1,
+      "Chunk": 9
     },
     {
-      "Action": "Refuses to share full benefits with Nadine, showing a protective and pragmatic attitude toward his own interests.",
-      "Competence": 1,
-      "Chunk": 7
+      "Action": "Quickly moves away and slams the door after an awkward interaction, showing a lack of emotional control in a tense moment.",
+      "Competence": -1,
+      "Chunk": 9
     },
     {
-      "Action": "Uses harsh language and dismisses Nadine's complaints without negotiation, which may indicate a lack of empathy or flexibility.",
+      "Action": "Looks around the room searching for a solution when faced with difficulty, indicating awareness and problem-solving attempt.",
       "Competence": 0,
-      "Chunk": 7
-    },
-    {
-      "Action": "Orders Nadine and Rick to pick up spoons and get guns to back him up, showing distrust and readiness for conflict.",
-      "Warmth": -1,
-      "Chunk": 8
-    },
-    {
-      "Action": "Lowers his gun and tries to look innocent when confronted by David, indicating a non-aggressive approach despite suspicion.",
-      "Warmth": 0,
-      "Chunk": 8
-    },
-    {
-      "Action": "Engages in casual banter with David about the drugs, showing some tolerance and familiarity.",
-      "Warmth": 0,
-      "Chunk": 8
-    },
-    {
-      "Action": "Orders Nadine and Rick to prepare and back him up when confronting David, showing leadership and tactical awareness.",
-      "Competence": 1,
-      "Chunk": 8
-    },
-    {
-      "Action": "Points a cocked gun at David and controls the situation at the door, demonstrating confidence and control.",
-      "Competence": 1,
-      "Chunk": 8
-    },
-    {
-      "Action": "Lowers his gun and tries to appear innocent when questioned, showing some social skill and adaptability.",
-      "Competence": 1,
-      "Chunk": 8
-    },
-    {
-      "Action": "Is skeptical about David's drug quality and asks for details, indicating critical thinking and caution.",
-      "Competence": 1,
-      "Chunk": 8
-    },
-    {
-      "Action": "Pauses to talk to Dianne before proceeding, showing prudence and consideration.",
-      "Competence": 1,
-      "Chunk": 8
-    },
-    {
-      "Action": "Grins sheepishly at Dianne, tries to include her in plans despite her objections.",
-      "Warmth": 1,
       "Chunk": 9
     },
     {
-      "Action": "Dismisses Dianne's concerns about speed and drug effects, pushing for stealing instead.",
-      "Warmth": -1,
-      "Chunk": 9
-    },
-    {
-      "Action": "Turns away in disgust when Dianne suggests intimacy, showing discomfort with emotional connection.",
-      "Warmth": -1,
-      "Chunk": 9
-    },
-    {
-      "Action": "Expresses frustration and vulnerability about his addiction openly to Dianne.",
-      "Warmth": 1,
-      "Chunk": 9
-    },
-    {
-      "Action": "Attempts to persuade Dianne to get speed and plan a pharmacy robbery, showing some confidence and initiative.",
-      "Competence": 1,
-      "Chunk": 9
-    },
-    {
-      "Action": "Misunderstands Dianne's sarcastic suggestion about making love, reacting with disgust and frustration.",
-      "Competence": -1,
-      "Chunk": 9
-    },
-    {
-      "Action": "Expresses frustration and desperation about his addiction and current situation, showing lack of control and clarity.",
-      "Competence": -1,
-      "Chunk": 9
-    },
-    {
-      "Action": "Relaxes and grins when Dianne threatens him, responding with 'I know you will, baby, I know you will.'",
-      "Warmth": 1,
-      "Chunk": 10
-    },
-    {
-      "Action": "Engages in honest conversation about the drugs he has and does not try to deceive David about availability.",
-      "Warmth": 1,
-      "Chunk": 10
-    },
-    {
-      "Action": "Shrugs and gives up when accused of lying by David, showing no attempt to escalate conflict or argue.",
-      "Warmth": 0,
-      "Chunk": 10
-    },
-    {
-      "Action": "Explains how to remove atropine from morphine tablets using a drop of water on ink blotters, demonstrating detailed drug knowledge and preparation skill.",
-      "Competence": 1,
-      "Chunk": 10
-    },
-    {
-      "Action": "Claims to have morphine quarters and halves but no other drugs, despite suspicion from David, and shrugs off the accusation without convincing explanation.",
-      "Competence": -1,
-      "Chunk": 10
-    },
-    {
-      "Action": "Responds to Dianne's threat with a relaxed grin and confident reassurance, showing social ease and confidence.",
-      "Competence": 1,
-      "Chunk": 10
-    },
-    {
-      "Action": "Appears perplexed when asked about blues, indicating some uncertainty or lack of preparedness.",
+      "Action": "Admits his addiction openly to Dianne, acknowledging his struggles honestly.",
       "Competence": 0,
+      "Chunk": 9
+    },
+    {
+      "Action": "Grins and responds playfully to Dianne's threat, showing a relaxed, affectionate attitude.",
+      "Warmth": 1,
       "Chunk": 10
     },
     {
-      "Action": "Offers David a better deal because he is 'feeling good' and calls him a 'real standup dude,' showing generosity and friendliness.",
+      "Action": "Explains in detail how to use morphine with some humor and openness to David.",
       "Warmth": 1,
-      "Chunk": 11
+      "Chunk": 10
     },
     {
-      "Action": "Refuses to sell Nadine to David and threatens to kill her rather than violate her dignity, expressing respect and protection toward her.",
-      "Warmth": 1,
-      "Chunk": 11
-    },
-    {
-      "Action": "Grins at David after a tense exchange, indicating a relaxed and possibly friendly demeanor.",
-      "Warmth": 1,
-      "Chunk": 11
-    },
-    {
-      "Action": "Negotiates drug deal confidently, sets firm boundaries regarding Nadine, uses humor and intimidation effectively.",
-      "Competence": 1,
-      "Chunk": 11
-    },
-    {
-      "Action": "Miscalculates total price (says seventy-five instead of ninety), corrected by others.",
-      "Competence": -1,
-      "Chunk": 11
-    },
-    {
-      "Action": "Threatens to sell Nadine to a stranger as a joke after she helps him with arithmetic.",
-      "Warmth": -1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Warns Rick not to give Nadine a heavy dose because they have work to do, showing some concern.",
-      "Warmth": 1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Throws his gun on the couch and quickly inspects the goods, showing focus and practical skill.",
-      "Competence": 1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Uses a harsh but strategic threat to Nadine to maintain control and assert authority, indicating confidence and tactical thinking.",
-      "Competence": 1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Does not physically escalate the conflict with David, allowing Dianne to defuse the situation, showing restraint and situational awareness.",
-      "Competence": 1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Refers to Nadine dismissively and threatens to sell her, which could be seen as callous and potentially damaging to group cohesion.",
-      "Competence": -1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Is described by Rick as someone who would literally die for his friends and crew, showing deep loyalty and protectiveness.",
-      "Warmth": 1,
-      "Chunk": 13
-    },
-    {
-      "Action": "Acts tough and mean to hide his softness and vulnerability, indicating a fear of being taken advantage of.",
-      "Warmth": 1,
-      "Chunk": 13
-    },
-    {
-      "Action": "Refuses to give in and insists on continuing to work despite others wanting to rest, showing determination but also a lack of consideration for others' needs.",
+      "Action": "Shrugs and gives up when accused of lying about his drug supply, showing a resigned honesty.",
       "Warmth": 0,
-      "Chunk": 13
+      "Chunk": 10
     },
     {
-      "Action": "Uses harsh language towards Dianne and dismisses her concerns, showing impatience and possible insensitivity.",
+      "Action": "Makes a harsh joke threatening to sell Nadine for chewing gum after she complains, showing a lack of sensitivity.",
       "Warmth": -1,
-      "Chunk": 13
+      "Chunk": 12
     },
     {
-      "Action": "Hides his gun inside a golf bag to avoid detection.",
+      "Action": "Expresses protective concern through Rick not to harshly blame Nadine, emphasizing the need to focus on work.",
+      "Warmth": 0,
+      "Chunk": 12
+    },
+    {
+      "Action": "By implication in Rick's defense, Bob is described as fiercely loyal and protective of his crew, willing to 'literally die' for them.",
+      "Warmth": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Throws his gun on the couch and inspects the goods carefully.",
       "Competence": 1,
-      "Chunk": 13
+      "Chunk": 12
     },
     {
-      "Action": "Insists on continuing to work and take risks despite recent success, showing drive and knowledge of potential targets.",
+      "Action": "Uses a sarcastic threat to Nadine to chide her about unfavorable arithmetic during a deal.",
       "Competence": 1,
-      "Chunk": 13
+      "Chunk": 12
     },
     {
-      "Action": "Expresses confidence in knowing a hospital with zero security, indicating insider knowledge and planning ability.",
+      "Action": "Commands Rick to avoid giving Nadine a heavy load because they have work to do that night, showing strategic awareness and concern for team efficiency.",
       "Competence": 1,
-      "Chunk": 13
+      "Chunk": 12
     },
     {
-      "Action": "Engages in a physical struggle with Dianne and shows frustration, which may indicate impulsiveness or poor emotional control.",
+      "Action": "Engages in a risky verbal exchange with Nadine involving a crude joke about selling her, reflecting poor interpersonal skill and possible insensitivity.",
       "Competence": -1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Hides his gun carefully inside a golf bag to avoid detection.",
+      "Competence": 1,
       "Chunk": 13
     },
     {
-      "Action": "Refuses to comfort Dianne when she asks to be held, focuses on the drug heist instead.",
+      "Action": "Insists on continuing to work despite others wanting to rest, showing persistence and dedication.",
+      "Competence": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Knows details about a hospital with zero security, indicating good reconnaissance and planning skills.",
+      "Competence": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Rejects others' input and disregards alternative ideas (e.g., Dianne wanting to dive), suggesting possible overconfidence or stubbornness.",
+      "Competence": 0,
+      "Chunk": 13
+    },
+    {
+      "Action": "Acts emotionally charged and verbally aggressive during the wrestling/undressing scene.",
+      "Competence": 0,
+      "Chunk": 13
+    },
+    {
+      "Action": "Responds to Dianne's emotional request by suggesting they hurry to rob the hospital instead of holding her or comforting her.",
       "Warmth": -1,
       "Chunk": 14
     },
     {
-      "Action": "Tries to include Dianne in the plan by suggesting they go to the hospital together and letting her 'hacksaw some on the bars'.",
+      "Action": "Shows some playful teasing and sharing of a story with Dianne about the hospital heist, engaging with her humorously.",
       "Warmth": 1,
       "Chunk": 14
     },
     {
-      "Action": "Plans a drug theft at a hospital, showing knowledge of the target and excitement about the haul.",
-      "Competence": 1,
-      "Chunk": 14
-    },
-    {
-      "Action": "Dismisses Dianne's emotional needs and focuses on the heist, showing poor interpersonal awareness.",
-      "Competence": -1,
-      "Chunk": 14
-    },
-    {
-      "Action": "Fails to notice or prevent the police raid, resulting in being caught.",
-      "Competence": -1,
-      "Chunk": 14
-    },
-    {
-      "Action": "Complies with officers' commands without resistance.",
+      "Action": "Responds calmly and with slight humor to Dianne's teasing about her breasts.",
       "Warmth": 1,
       "Chunk": 15
     },
     {
-      "Action": "Responds to accusations with humor and calmness rather than aggression.",
-      "Warmth": 1,
-      "Chunk": 15
-    },
-    {
-      "Action": "Denies involvement in recent crimes and tries to maintain innocence.",
+      "Action": "Denies recent drug use but does so defensively and somewhat evasively when questioned by the detective.",
       "Warmth": 0,
       "Chunk": 15
     },
     {
-      "Action": "Denies involvement in recent pharmacy robbery and tries to appear innocent despite obvious signs of drug use.",
+      "Action": "Complies quietly and calmly with officers' commands during raid, maintaining composure.",
+      "Competence": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Claims innocence confidently when accused, demonstrating presence of mind under pressure.",
+      "Competence": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Appears visibly hooked on drugs despite denying it, undermining his credibility.",
       "Competence": -1,
       "Chunk": 15
     },
     {
-      "Action": "Attempts to deflect suspicion by questioning the officers about their warrant and acting confident.",
-      "Competence": 0,
+      "Action": "Responds sarcastically and somewhat evasively to officers about warrants, showing some street-smart confidence.",
+      "Competence": 1,
       "Chunk": 15
     },
     {
-      "Action": "Uses humor and friendly banter with Gentry, tries to lighten the mood during a tense situation.",
-      "Warmth": 1,
-      "Chunk": 16
-    },
-    {
-      "Action": "Smiles at Gentry's joke, showing some social engagement and tolerance.",
-      "Warmth": 1,
-      "Chunk": 16
-    },
-    {
-      "Action": "Feigns helplessness about broken golf clubs to gain sympathy from Gentry.",
-      "Warmth": 0,
-      "Chunk": 16
-    },
-    {
-      "Action": "Does not resist or argue when detectives threaten to tear the apartment apart, showing resignation rather than confrontation.",
-      "Warmth": 0,
-      "Chunk": 16
-    },
-    {
-      "Action": "Attempts to use humor and sympathy to influence the detectives, successfully getting them to stop breaking the golf clubs.",
-      "Competence": 1,
-      "Chunk": 16
-    },
-    {
-      "Action": "Responds to accusations with sarcasm and tries to call his attorney, showing some confidence but possibly naive about the situation.",
-      "Competence": 0,
-      "Chunk": 16
-    },
-    {
-      "Action": "Does not resist or attempt to hide evidence, passively allowing the detectives to search and tear apart the apartment.",
+      "Action": "Fails to convincingly deny drug use due to physical appearance and demeanor.",
       "Competence": -1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Uses humor and friendly banter to defuse tension with Gentry and officers.",
+      "Warmth": 1,
       "Chunk": 16
     },
     {
-      "Action": "Refuses to sue the agents despite the damage, showing a laid-back and forgiving attitude.",
+      "Action": "Smiles in response to Gentry’s teasing and maintains a calm demeanor.",
+      "Warmth": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Attempts a sympathy play about broken clubs to influence the officers.",
+      "Warmth": 0,
+      "Chunk": 16
+    },
+    {
+      "Action": "Allows the detectives to trash the apartment without resistance, shows resignation.",
+      "Warmth": 0,
+      "Chunk": 16
+    },
+    {
+      "Action": "Uses humor and calmness to defuse tension during a police search, talks casually with detectives to manipulate the situation (sympathy play with broken golf clubs).",
+      "Competence": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Shows awareness of legal rights, attempts to call attorney immediately.",
+      "Competence": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Allows detectives to trash the apartment and break golf clubs without intervening physically or aggressively, maintaining composure.",
+      "Competence": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Passively accepts the destruction ('Tear away...') without resistance, indicating limited control or active strategy.",
+      "Competence": 0,
+      "Chunk": 16
+    },
+    {
+      "Action": "Refuses to sue the agents despite the destructive search and downplays the loss of clothes, showing a forgiving and pragmatic attitude.",
       "Warmth": 1,
       "Chunk": 17
     },
     {
-      "Action": "Dismisses the loss of clothes casually and encourages others to get more, showing a practical and unbothered demeanor.",
+      "Action": "Tries to ease tension by jokingly saying 'Shit, I love them cops' after the agents wrecked their apartment.",
+      "Warmth": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Tells Dianne to call her sister to bring clothes for everyone, showing concern for group needs and cooperation.",
+      "Warmth": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Responds to Dianne's complaint about calling her sister by sarcastically correcting himself to say 'smart sister' instead of 'stupid sister,' reflecting a somewhat teasing but not hostile attitude.",
       "Warmth": 0,
       "Chunk": 17
     },
     {
-      "Action": "Jokingly says 'Shit, I love them cops' after the agents' destructive search, indicating a sarcastic but non-hostile attitude.",
+      "Action": "Calmly accepts the destructive search of the apartment without resistance, calculating that suing would be pointless because the place is rented and insured.",
+      "Competence": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Dismisses the loss of clothes and suggests shoplifting replacements rather casually despite the stressful situation.",
+      "Competence": 0,
+      "Chunk": 17
+    },
+    {
+      "Action": "Shows leadership by instructing Dianne to get more clothes, demonstrating practical problem-solving under pressure.",
+      "Competence": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Agrees to Dianne's conditions without argument ('OK, I'm an easy rider').",
+      "Warmth": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Defends Dianne by telling her to remove her sister when she insults him and Dianne ('Get her out of here, Dianne, get her out!').",
+      "Warmth": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Avoids escalating conflict by quickly leaving the room to escape insults.",
       "Warmth": 0,
-      "Chunk": 17
-    },
-    {
-      "Action": "Encourages Dianne to call her sister for help, showing some concern for the group's needs.",
-      "Warmth": 1,
-      "Chunk": 17
-    },
-    {
-      "Action": "Responds to Dianne's complaint about calling her 'stupid sister' by quickly changing to 'smart sister,' showing a willingness to avoid conflict and be accommodating.",
-      "Warmth": 1,
-      "Chunk": 17
-    },
-    {
-      "Action": "Calmly accepts the search and destruction of the apartment without resistance, showing awareness that the place is rented and insured, and refuses to sue, demonstrating practical understanding of the situation.",
-      "Competence": 1,
-      "Chunk": 17
-    },
-    {
-      "Action": "Dismisses the loss of clothes casually and suggests shoplifting more, showing resourcefulness and confidence in handling setbacks.",
-      "Competence": 1,
-      "Chunk": 17
-    },
-    {
-      "Action": "Delegates the task of getting clothes to Dianne, showing leadership and problem-solving skills.",
-      "Competence": 1,
-      "Chunk": 17
-    },
-    {
-      "Action": "Uses dismissive language ('stupid sister') but quickly amends it to 'smart sister' to avoid conflict, indicating social awareness and adaptability.",
-      "Competence": 1,
-      "Chunk": 17
-    },
-    {
-      "Action": "Agrees to Dianne's demands without argument ('OK, I'm an easy rider.')",
-      "Warmth": 1,
       "Chunk": 18
     },
     {
-      "Action": "Blows up at Dianne's sister's insults and asks Dianne to get her out, then removes himself from the situation to avoid further conflict",
-      "Warmth": 1,
-      "Chunk": 18
-    },
-    {
-      "Action": "Agrees to Dianne's demands without resistance, saying 'OK, I'm an easy rider.'",
-      "Competence": 0,
-      "Chunk": 18
-    },
-    {
-      "Action": "Laughs off sister's insult about his drug use instead of addressing it seriously.",
-      "Competence": -1,
-      "Chunk": 18
-    },
-    {
-      "Action": "Blows up at sister's insults but then quickly retreats to the bathroom to avoid confrontation.",
-      "Competence": 0,
-      "Chunk": 18
-    },
-    {
-      "Action": "Avoids standing up to sister's verbal attacks and runs away, which sister mocks as cowardice.",
+      "Action": "Laughs off insult about his condition and behavior, showing a lack of assertiveness or ability to handle confrontation effectively.",
       "Competence": -1,
       "Chunk": 18
     },
     {
-      "Action": "Hands Rick the car keys and gives practical advice about finding an apartment, showing concern for comfort and safety.",
+      "Action": "Blows up at Dianne's sister and then quickly leaves the room to avoid further confrontation, indicating avoidance rather than confident handling of conflict.",
+      "Competence": -1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Is described by Dianne's sister as someone who won't stand to lose and runs away every time, implying a tendency to avoid problems rather than face them.",
+      "Competence": -1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Hands Rick the keys to the car and instructs him to find an apartment, showing concern for group's living situation.",
       "Warmth": 1,
       "Chunk": 19
     },
     {
-      "Action": "Tells Rick 'Don't fuck it up.'",
-      "Warmth": -1,
-      "Chunk": 19
-    },
-    {
-      "Action": "Hugs his mom and greets her warmly.",
+      "Action": "Tells Rick not to 'fuck it up' but then encourages him to get a comfortable place, demonstrating protective but caring behavior.",
       "Warmth": 1,
       "Chunk": 19
     },
     {
-      "Action": "Hands Rick the car keys and gives clear instructions about looking for an apartment, including strategic advice about location and comfort.",
+      "Action": "Decides to take a taxi with Dianne to get clothes from his mom's house, showing consideration for the others' comfort.",
+      "Warmth": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Hugs his mom upon arrival, indicating affectionate and sincere behavior.",
+      "Warmth": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Delegates the task of finding an apartment to Rick, giving clear instructions about preferred location and caution about quality.",
       "Competence": 1,
       "Chunk": 19
     },
     {
-      "Action": "Plans to retrieve clothes from his mom's house, showing forethought and organization.",
+      "Action": "Makes a light threat/demand to Rick (‘Don’t fuck it up’) but follows it with supportive remarks.",
+      "Competence": 0,
+      "Chunk": 19
+    },
+    {
+      "Action": "Plans to retrieve clothes from his mother's house using a taxi, indicating some resource management.",
       "Competence": 1,
       "Chunk": 19
     },
     {
-      "Action": "Hugs his mom.",
+      "Action": "No signs of panic or hesitation when dealing with his mother or group, showing calm and confidence.",
+      "Competence": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Hugs his mom when greeting her.",
       "Warmth": 1,
       "Chunk": 20
     },
     {
-      "Action": "Asks mom about clothes he left behind, tries to engage despite tension.",
+      "Action": "Attempts to engage his mom about old clothes and past events despite her harsh words.",
       "Warmth": 1,
       "Chunk": 20
     },
     {
-      "Action": "Nods absent mindedly to harsh accusations from mom without defending himself or arguing.",
+      "Action": "Responds absent mindedly and does not directly confront his mom’s harsh accusations.",
       "Warmth": 0,
       "Chunk": 20
     },
     {
-      "Action": "Asks his mom if she still has clothes he left behind, showing some foresight and planning.",
+      "Action": "Calmly asks his mom about clothes he left behind, showing practical thinking and awareness of his past situation.",
       "Competence": 1,
       "Chunk": 20
     },
     {
-      "Action": "Nods absent mindedly when his mom accuses him of being a thief and dope fiend, showing disengagement and lack of assertiveness.",
+      "Action": "Nods absent-mindedly when accused by his mom of being a thief and drug addict, showing lack of engagement or resistance.",
       "Competence": -1,
       "Chunk": 20
     },
     {
-      "Action": "Tells his mom to give away anything else that belongs to him, saying he can always get more.",
+      "Action": "Goes inside the house after a tense, emotionally charged encounter with his mom without reacting defensively or aggressively.",
+      "Competence": 0,
+      "Chunk": 20
+    },
+    {
+      "Action": "Tells his mom to give away anything else that belongs to him upstairs, saying he can always get more.",
       "Warmth": -1,
       "Chunk": 21
     },
     {
-      "Action": "Says goodbye to his mom with a somewhat caring tone: 'See you again soon. You be good now. And don't do anything I wouldn't do.'",
+      "Action": "Says goodbye to his mom saying 'See you again soon. You be good now. And don't do anything I wouldn't do.'",
       "Warmth": 1,
       "Chunk": 21
     },
     {
-      "Action": "Responds to his mom's sarcastic remark about stealing with a casual acceptance, showing no remorse.",
-      "Warmth": -1,
-      "Chunk": 21
-    },
-    {
-      "Action": "Responds to his mother about belongings with a pragmatic attitude, saying 'If there is, give it away. I can always get some more.'",
+      "Action": "Decides to give away remaining belongings instead of keeping or protecting them, showing a practical attitude toward possessions.",
       "Competence": 1,
       "Chunk": 21
     },
     {
-      "Action": "Leaves his mother's home somewhat depressed, showing emotional vulnerability but still manages to maintain composure.",
+      "Action": "Responds to his mother's criticism with calm humor and light sarcasm, demonstrating emotional control and social awareness.",
+      "Competence": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Leaves his mother's apartment somewhat depressed but proceeds to join friends and move on, indicating resilience and forward momentum.",
+      "Competence": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Does not challenge his mother's harsh judgments or attempt to change the situation, potentially reflecting avoidance or passivity.",
       "Competence": 0,
       "Chunk": 21
     },
     {
-      "Action": "Greets Rick with a positive and confident remark about their new place, 'Hey, Rick, nice work. This looks like a fucking comfortable place.'",
-      "Competence": 1,
-      "Chunk": 21
-    },
-    {
-      "Action": "Invites Nadine to stay and relax instead of going out, showing consideration.",
-      "Warmth": 1,
-      "Chunk": 22
-    },
-    {
-      "Action": "Firmly refuses to get a dog despite Nadine's hopeful request, showing inflexibility and lack of empathy.",
-      "Warmth": -1,
-      "Chunk": 22
-    },
-    {
-      "Action": "Avoids talking about the lost dog and defers to Dianne to explain, indicating emotional withdrawal or discomfort.",
-      "Warmth": -1,
-      "Chunk": 22
-    },
-    {
-      "Action": "Turns on the television and tries to manage the situation calmly by telling Nadine to relax and watch TV.",
+      "Action": "Turns on the television to settle the atmosphere and tries to get Nadine to relax; shows some situational awareness.",
       "Competence": 1,
       "Chunk": 22
     },
     {
-      "Action": "Firmly refuses to allow a dog in the apartment, showing decisiveness.",
+      "Action": "Refuses to allow a dog in the apartment and holds a firm boundary.",
       "Competence": 1,
       "Chunk": 22
     },
     {
-      "Action": "Avoids discussing the past incident with the dog, deferring to Dianne instead of addressing it himself.",
-      "Competence": 0,
+      "Action": "Avoids discussing the fate of the previous dog and defers explanation to Dianne, indicating some discomfort or possible avoidance.",
+      "Competence": -1,
       "Chunk": 22
     },
     {
-      "Action": "Expresses frustration and anger about the dog leading police to them, shouting and blaming Nadine for mentioning dogs.",
+      "Action": "Expresses anger and frustration about the dog leading the police to them, loses temper and blames Nadine for mentioning dogs.",
       "Warmth": -1,
       "Chunk": 23
     },
     {
-      "Action": "Hides on the other side of his car when police cruise by, showing caution and awareness.",
+      "Action": "Hides on the other side of his car when police cruise by, indicating caution under pressure.",
       "Competence": 1,
       "Chunk": 23
     },
     {
-      "Action": "Turns off the TV in anger and declares they won't go anywhere, reacting emotionally and superstitiously to the mention of dogs.",
+      "Action": "Turns off the TV aggressively after seeing a dog show, expressing frustration and superstitious belief that dogs bring bad luck.",
       "Competence": -1,
       "Chunk": 23
     },
     {
-      "Action": "Explains the superstition about dogs putting a hex on them, showing some awareness of group beliefs but no practical problem-solving.",
-      "Competence": 0,
+      "Action": "Reacting intensely and emotionally to the mention of dogs, interpreting it as a hex, showing irrational thinking.",
+      "Competence": -1,
       "Chunk": 23
     },
     {
-      "Action": "Shares superstitions and tries to explain them sincerely despite confusion.",
+      "Action": "Acknowledges the police following the dog and the danger it brings, indicating awareness of their precarious situation.",
+      "Competence": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Shares superstitions with others, using familiar and gentle language, and tries to explain his reasoning despite confusion.",
       "Warmth": 1,
       "Chunk": 24
     },
     {
-      "Action": "Uses affectionate terms like 'sweetie' when addressing Nadine.",
-      "Warmth": 1,
-      "Chunk": 24
-    },
-    {
-      "Action": "Expresses concern for others by warning about bad luck and future consequences.",
-      "Warmth": 1,
-      "Chunk": 24
-    },
-    {
-      "Action": "Shows erratic behavior that causes others to remain silent or confused.",
+      "Action": "Expresses strong personal boundaries about hats and other superstitions in a firm but non-hostile manner.",
       "Warmth": 0,
       "Chunk": 24
     },
     {
-      "Action": "Explains superstitions with conviction despite confusion and inconsistency.",
+      "Action": "Gives a confusing and superstitious explanation about hats, mirrors, and cats affecting the future; appears confused at his own explanation.",
       "Competence": -1,
       "Chunk": 24
     },
     {
-      "Action": "Attempts to lead a discussion and set rules during downtime.",
+      "Action": "Attempts to establish rules and boundaries during downtime, showing some effort at organizing or managing the group's situation.",
       "Competence": 0,
       "Chunk": 24
     },
     {
-      "Action": "Dianne snuggles up next to Bob in bed, showing closeness and comfort.",
+      "Action": "Dianne snuggles up to him and encourages him gently after his mistake with the lamp.",
       "Warmth": 1,
       "Chunk": 25
     },
     {
-      "Action": "Bob philosophizes about luck and signs, showing a reflective and sincere side.",
+      "Action": "Reflects philosophically about signs and luck, showing a thoughtful and sincere side.",
       "Warmth": 1,
       "Chunk": 25
     },
     {
-      "Action": "Gentry states Bob 'isn't really all that bad a guy' and 'does have a little class,' indicating some respect despite negative feelings.",
+      "Action": "Police acknowledge he isn't 'all that bad a guy' and note he 'has a little class,' showing respect despite his flaws.",
       "Warmth": 1,
       "Chunk": 25
     },
     {
-      "Action": "Has years of experience and knows what signs to look for to avoid trouble and seize opportunities.",
+      "Action": "Bob demonstrates experience by recognizing signs and knowing what to avoid during their activities, showing a skillful, intuitive understanding.",
       "Competence": 1,
       "Chunk": 25
     },
     {
-      "Action": "Mistakenly hits a bedroom lamp with a golf club.",
+      "Action": "Bob mistakenly hits a bedroom lamp with a golf club, showing a moment of clumsiness.",
       "Competence": -1,
       "Chunk": 25
     },
     {
-      "Action": "Responds quickly and cautiously to a knock at his door, checks carefully through peephole, and listens to an old lady's concern about a suspicious man in the neighborhood.",
-      "Warmth": 1,
-      "Chunk": 26
-    },
-    {
-      "Action": "Has been a professional criminal since age thirteen, knows how to 'smell heat,' and effectively evades capture by laying low when necessary.",
+      "Action": "Bob is described by others (Gentry) as having little class but being respected and difficult to catch on trivial charges, implying competence in evading law enforcement.",
       "Competence": 1,
-      "Chunk": 26
+      "Chunk": 25
     },
     {
-      "Action": "Responds quickly and cautiously to a knock at the door by arming himself and checking through the peephole before opening.",
-      "Competence": 1,
-      "Chunk": 26
-    },
-    {
-      "Action": "Shows confusion and lets Rick take over looking through the door, indicating some hesitation or uncertainty.",
-      "Competence": 0,
-      "Chunk": 26
-    },
-    {
-      "Action": "Assures the lady he will check outside promptly when she is afraid.",
-      "Warmth": 1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Thinks seriously about the lady's concern and decides to take action to protect the neighborhood.",
-      "Warmth": 1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Writes a letter to the narcotics division exposing a local arrangement to avoid drug possession charges.",
-      "Warmth": 0,
-      "Chunk": 27
-    },
-    {
-      "Action": "Assures the lady he will promptly check outside for the suspicious man, showing willingness to take responsibility.",
-      "Competence": 1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Thinks carefully about the situation and decides they need to teach the followers a lesson, demonstrating strategic thinking.",
-      "Competence": 1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Takes a neighborly walk to inspect the neighborhood and gather information, showing initiative and observational skills.",
-      "Competence": 1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Writes a detailed letter to the narcotics division explaining a clever method of drug exchange using a fishing line, indicating intelligence and planning.",
-      "Competence": 1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Throws fishing line over to neighbor's house to facilitate the drug exchange, showing practical application of his plan.",
-      "Competence": 1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Initiates friendly small talk with Gus, complimenting his pickup truck and commenting on the weather.",
+      "Action": "Initiates friendly small talk with Gus, commenting on the weather and complimenting his pickup truck.",
       "Warmth": 1,
       "Chunk": 28
     },
     {
-      "Action": "Warns Gus about a suspicious person lurking around his house at night.",
+      "Action": "Warns Gus about a suspicious person spying on his house at night, showing concern for his neighbor's safety.",
       "Warmth": 1,
       "Chunk": 28
     },
     {
-      "Action": "Attempts to de-escalate the situation by telling Gus he doesn't want any part of shooting.",
+      "Action": "Expresses desire to avoid violence despite Gus's anger and willingness to shoot the intruder.",
       "Warmth": 1,
       "Chunk": 28
     },
     {
-      "Action": "Initiates conversation with Gus, notices details like the daughters and the suspicious man on the ladder, and warns Gus about the intruder.",
+      "Action": "Engages Gus in casual conversation to gain trust and gather information, noticing details like Gus' daughters and the suspicious lunch sack.",
       "Competence": 1,
       "Chunk": 28
     },
     {
-      "Action": "Tries to de-escalate the situation by backing up and stating he doesn't want any part of shooting.",
+      "Action": "Observes suspicious activity (man on ladder at night) and informs Gus, which incites Gus to violent intentions but keeps himself physically back to avoid conflict.",
       "Competence": 1,
       "Chunk": 28
     },
     {
-      "Action": "His plan to warn Gus about the intruder seems to provoke anger rather than calm, indicating a possible misjudgment in approach.",
-      "Competence": -1,
+      "Action": "Tries to de-escalate Gus' violent reaction by explicitly stating he wants no part of shooting.",
+      "Competence": 1,
       "Chunk": 28
     },
     {
-      "Action": "Expresses concern about a dangerous situation and suggests calling the police.",
+      "Action": "Expresses concern about telling others and considers going to the police.",
       "Warmth": 1,
       "Chunk": 29
     },
     {
-      "Action": "Turns away and hurries down the sidewalk when threatened by Gus.",
+      "Action": "Turns away and hurries down the sidewalk to avoid confrontation.",
       "Warmth": 0,
       "Chunk": 29
     },
     {
-      "Action": "Peeks out the window and giggles, does a funny dance to himself.",
-      "Warmth": 1,
+      "Action": "Peeks out the window and giggles, then performs a little funny dance by himself.",
+      "Warmth": 0,
       "Chunk": 29
     },
     {
-      "Action": "Places chairs in a semicircle for others but won't let them peek through the curtains while he does.",
+      "Action": "Arranges chairs in a semicircle for others but does not allow them to peek out the window, periodically peeking himself and laughing.",
       "Warmth": -1,
       "Chunk": 29
     },
     {
-      "Action": "Expresses reluctance to get involved in a shooting and suggests calling the police instead.",
+      "Action": "Considers contacting the police upon learning about a threat, showing prudence and concern for safety.",
       "Competence": 1,
       "Chunk": 29
     },
     {
-      "Action": "Turns away and hurries down the sidewalk like he had someplace to go after being threatened.",
-      "Competence": 0,
+      "Action": "Allows himself to be intimidated by Gus and does not confront or assert himself effectively.",
+      "Competence": -1,
       "Chunk": 29
     },
     {
-      "Action": "Peeks out the window, giggles, does a funny dance, and laughs to himself.",
-      "Competence": 0,
+      "Action": "Hurries away from the confrontation, appearing evasive rather than confident.",
+      "Competence": -1,
       "Chunk": 29
     },
     {
-      "Action": "Arranges chairs in a semicircle and controls others from peeking through the curtains, regularly peeking himself.",
+      "Action": "Sets up a private observation spot with chairs and curtains and controls who can see out, showing planning and control.",
       "Competence": 1,
       "Chunk": 29
     },
     {
-      "Action": "Watches violent confrontation outside with amusement, laughs above blasts and confusion.",
-      "Warmth": -1,
-      "Chunk": 30
+      "Action": "Keeps looking out the curtains secretly while not letting others peek, indicating a cautious and strategic approach.",
+      "Competence": 1,
+      "Chunk": 29
     },
     {
-      "Action": "Observes the break-in from inside, watches the events unfold calmly, and comments 'It's showtime, folks.'",
+      "Action": "Observes the unfolding violent confrontation calmly from behind the curtains and maintains a confident demeanor, even laughing at the chaos outside.",
       "Competence": 1,
       "Chunk": 30
     },
     {
-      "Action": "Laughs during a dangerous situation and steps behind the curtains, showing detachment and lack of intervention.",
+      "Action": "Passively watches the struggle instead of intervening or taking control of the situation.",
       "Competence": -1,
       "Chunk": 30
     },
     {
-      "Action": "Laughs above the blasts and confusion, showing a lighthearted side.",
+      "Action": "Laughs amid blasts and confusion, showing composure and ability to keep morale.",
       "Warmth": 1,
       "Chunk": 31
     },
     {
-      "Action": "Gives clear instructions to Rick and Dianne to prepare for their move, demonstrating responsibility and care for the group.",
+      "Action": "Gives clear instructions to Rick and Dianne for their escape plan, demonstrating care and leadership.",
       "Warmth": 1,
       "Chunk": 31
     },
     {
-      "Action": "Refuses to cooperate with police and insults them, showing defiance but also hostility.",
+      "Action": "Confronts Gentry and resists police intimidation with defiance and harsh language.",
       "Warmth": -1,
       "Chunk": 31
     },
     {
-      "Action": "Attempts to punch an officer after being confronted, showing aggression.",
-      "Warmth": -1,
+      "Action": "Attempts to physically fight the officers despite being outnumbered, showing courage but aggressive behavior.",
+      "Warmth": 0,
       "Chunk": 31
     },
     {
-      "Action": "Organizes a quick escape plan, delegates tasks to others to prepare for leaving.",
+      "Action": "Organizes a quick escape plan with clear delegation of tasks after the police arrive.",
       "Competence": 1,
       "Chunk": 31
     },
     {
-      "Action": "Sneaks out but is immediately caught and overpowered by police.",
+      "Action": "Attempts to physically fight off multiple police officers despite being outnumbered and is immediately defeated.",
       "Competence": -1,
       "Chunk": 31
     },
     {
-      "Action": "Refuses to cooperate with police and verbally stands up to them, showing confidence but poor tactical judgment.",
-      "Competence": 0,
+      "Action": "Confidently asserts control and refuses to be intimidated by police, showing mental resilience.",
+      "Competence": 1,
       "Chunk": 31
     },
     {
-      "Action": "Expresses harsh feelings toward Gentry but is physically helped up by others.",
-      "Warmth": 0,
-      "Chunk": 32
-    },
-    {
-      "Action": "Responds to Nadine's question about talking nicely to cops with a cynical but honest explanation of past experiences.",
-      "Warmth": 1,
-      "Chunk": 32
-    },
-    {
-      "Action": "Shows loyalty and defiance by refusing to be run out of town by police, indicating protective attitude toward his group.",
-      "Warmth": 1,
-      "Chunk": 32
-    },
-    {
-      "Action": "Plans the move out of the apartment carefully, thinking through the intricacies all night.",
-      "Competence": 1,
-      "Chunk": 32
-    },
-    {
-      "Action": "Expresses defiance toward police and refuses to be intimidated, showing confidence in his decisions.",
-      "Competence": 1,
-      "Chunk": 32
-    },
-    {
-      "Action": "Uses harsh language and antagonizes cops, which provokes violence but he accepts it knowingly.",
-      "Competence": 0,
-      "Chunk": 32
-    },
-    {
-      "Action": "Plans and organizes complex drug smuggling operation with others.",
-      "Warmth": 0,
-      "Chunk": 33
-    },
-    {
-      "Action": "Gives the police officer a very wide, cheerful smile when stopped.",
-      "Warmth": 1,
-      "Chunk": 33
-    },
-    {
-      "Action": "Plans a complex drug transport system using bus shipments to avoid carrying all narcotics at once.",
-      "Competence": 1,
-      "Chunk": 33
-    },
-    {
-      "Action": "Prepares a hidden compartment in the car floorboards to conceal drugs.",
-      "Competence": 1,
-      "Chunk": 33
-    },
-    {
-      "Action": "When chased by police, calmly instructs dumping drugs through the hole to avoid detection.",
-      "Competence": 1,
-      "Chunk": 33
-    },
-    {
-      "Action": "Maintains a calm and friendly demeanor with the police officer during the stop, attempting to defuse suspicion.",
-      "Competence": 1,
-      "Chunk": 33
-    },
-    {
-      "Action": "Encourages the group to take action and work together to find morphine, assigning roles to each person.",
-      "Warmth": 1,
-      "Chunk": 34
-    },
-    {
-      "Action": "Paces anxiously while others are visibly distressed, showing some detachment from their emotional state.",
-      "Warmth": 0,
-      "Chunk": 34
-    },
-    {
-      "Action": "Paces the floor reading the yellow pages to find pharmacies, organizes the group with clear roles and a plan to acquire drugs.",
-      "Competence": 1,
-      "Chunk": 34
-    },
-    {
-      "Action": "Uses a practical approach by instructing Dianne to feign headache to get prescriptions, showing strategic thinking.",
-      "Competence": 1,
-      "Chunk": 34
-    },
-    {
-      "Action": "Politely calls the pharmacist to inquire about a prescription.",
-      "Warmth": 1,
-      "Chunk": 35
-    },
-    {
-      "Action": "Uses deception to get the pharmacist to reveal where drugs are hidden.",
-      "Warmth": -1,
-      "Chunk": 35
-    },
-    {
-      "Action": "Driving while holding torn Yellow Pages and searching for an address, showing multitasking and navigation effort.",
-      "Competence": 1,
-      "Chunk": 35
-    },
-    {
-      "Action": "Pulls to the side of the street to explain the plan to get the pharmacist to reveal where dilaudid is hidden, demonstrating strategic thinking.",
-      "Competence": 1,
-      "Chunk": 35
-    },
-    {
-      "Action": "Politely calls the pharmacist to inquire about a dilaudid prescription, showing social tact and planning.",
-      "Competence": 1,
-      "Chunk": 35
-    },
-    {
-      "Action": "Asks the pharmacist for dilaudid despite the risk of rejection, indicating confidence and willingness to take calculated risks.",
-      "Competence": 1,
-      "Chunk": 35
-    },
-    {
-      "Action": "Tries to reassure Nadine and Rick by telling them not to look so glum and explaining the situation calmly.",
-      "Warmth": 1,
-      "Chunk": 37
-    },
-    {
-      "Action": "Lectures Nadine and Rick about the utility of the truck and how to avoid suspicion.",
-      "Warmth": 0,
-      "Chunk": 37
-    },
-    {
-      "Action": "Keeps the group alert and observant, encouraging vigilance.",
-      "Warmth": 0,
-      "Chunk": 37
-    },
-    {
-      "Action": "Shows no reaction or concern when others do not respond to his question about seeing something.",
-      "Warmth": -1,
-      "Chunk": 37
-    },
-    {
-      "Action": "Confidently asserts that the pharmacy is holding dilaudid despite others' doubts, showing knowledge and confidence.",
-      "Competence": 1,
-      "Chunk": 37
-    },
-    {
-      "Action": "Checks another pharmacy on the yellow pages list, demonstrating resourcefulness and planning.",
-      "Competence": 1,
-      "Chunk": 37
-    },
-    {
-      "Action": "Buys a red pickup truck and explains its strategic use for mobility and disguise, showing foresight and tactical thinking.",
-      "Competence": 1,
-      "Chunk": 37
-    },
-    {
-      "Action": "Lectures Nadine and Rick on keeping eyes open to opportunities, indicating awareness and skill.",
-      "Competence": 1,
-      "Chunk": 37
-    },
-    {
-      "Action": "Points out something to the group but they ignore it, suggesting he notices details others miss, indicating perceptiveness.",
-      "Competence": 1,
-      "Chunk": 37
-    },
-    {
-      "Action": "Explains what transoms are to Rick and Nadine, encouraging them to keep their eyes open.",
-      "Warmth": 1,
-      "Chunk": 38
-    },
-    {
-      "Action": "Flirts with Nadine and walks arm in arm with her.",
-      "Warmth": 1,
-      "Chunk": 38
-    },
-    {
-      "Action": "Instructs Rick clearly and cooperates with him to break into the pharmacy.",
-      "Warmth": 0,
-      "Chunk": 38
-    },
-    {
-      "Action": "Notices open transoms that others miss, points them out and explains their significance.",
-      "Competence": 1,
-      "Chunk": 38
-    },
-    {
-      "Action": "Formulates a clear plan for breaking into the pharmacy involving coordinated teamwork with Rick.",
-      "Competence": 1,
-      "Chunk": 38
-    },
-    {
-      "Action": "Executes the break-in quickly and skillfully, including deftly opening a locked door in seconds.",
-      "Competence": 1,
-      "Chunk": 38
-    },
-    {
-      "Action": "Hands Nadine the drawer and instructs her to fake it and put it in the truck.",
-      "Warmth": 0,
-      "Chunk": 39
-    },
-    {
-      "Action": "Watches Nadine and the truck while she struggles with the drawer, showing disbelief but no intervention.",
-      "Warmth": -1,
-      "Chunk": 39
-    },
-    {
-      "Action": "Springs open a locked door in a matter of seconds with a deft movement.",
-      "Competence": 1,
-      "Chunk": 39
-    },
-    {
-      "Action": "Tears off a padlock to ensure a quick exit.",
-      "Competence": 1,
-      "Chunk": 39
-    },
-    {
-      "Action": "Finds and opens a locked drawer filled with valuable bottles, then quickly escapes with it.",
-      "Competence": 1,
-      "Chunk": 39
-    },
-    {
-      "Action": "Instructs Rick to check the safes and Nadine to fake the drawer and put it in the truck, showing leadership and planning.",
-      "Competence": 1,
-      "Chunk": 39
-    },
-    {
-      "Action": "Observes Nadine mishandling the drawer, spilling bottles, and appears unable to intervene effectively.",
+      "Action": "Fails to avoid capture despite attempts to sneak out, indicating a lack of caution or foresight.",
       "Competence": -1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Expresses harsh anger toward Gentry after being helped up by him, saying 'Fuck you Gentry, fuck you. I just wish that it had been you out there that caught some of the buckshot.'",
+      "Warmth": -1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Responds candidly and with bitter humor to Nadine's question about talking nicely to cops, explaining his negative experiences honestly.",
+      "Warmth": 0,
+      "Chunk": 32
+    },
+    {
+      "Action": "Shows practical reasoning about leaving town, emphasizing it is a smart decision rather than being intimidated by police.",
+      "Warmth": 0,
+      "Chunk": 32
+    },
+    {
+      "Action": "Acknowledges the need to leave town as the smart thing to do rather than being driven out by the cops.",
+      "Competence": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Displays a well-planned strategy for moving out of the apartment, considering intricacies throughout the night.",
+      "Competence": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Uses pragmatic, blunt language with cops, showing awareness of likely consequences from either respectful or nasty behavior.",
+      "Competence": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Expresses anger and hostility impulsively toward Gentry immediately after being caught by police.",
+      "Competence": -1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Encourages the group to actively search for morphine, tries to motivate them by making light of their situation and assigning roles.",
+      "Warmth": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Paces anxiously while others are distressed; focuses on practical steps and planning rather than expressing empathy.",
+      "Warmth": 0,
+      "Chunk": 34
+    },
+    {
+      "Action": "Reads from the yellow pages to identify potential pharmacies; organizes the group with specific roles to acquire drugs.",
+      "Competence": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Paces nervously while planning, appears anxious but focused.",
+      "Competence": 0,
+      "Chunk": 34
+    },
+    {
+      "Action": "Uses strategic planning to disguise group actions by having Dianne pose as a patient to get prescriptions.",
+      "Competence": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Politely calls pharmacist asking for prescription help.",
+      "Warmth": 1,
+      "Chunk": 35
+    },
+    {
+      "Action": "Strategizes to get pharmacist to reveal stash location.",
+      "Warmth": 0,
+      "Chunk": 35
+    },
+    {
+      "Action": "Politely calls the pharmacist to inquire about acquiring dilaudid with a prescription, demonstrating strategic thinking by using a direct approach to locate the drug.",
+      "Competence": 1,
+      "Chunk": 35
+    },
+    {
+      "Action": "Is driving and simultaneously searching the Yellow Pages for the address, suggesting multitasking but showing some uncertainty with the question 'Are we lost?'.",
+      "Competence": 0,
+      "Chunk": 35
+    },
+    {
+      "Action": "Tries to reassure Nadine and Rick by telling them not to look so glum and confidently asserting 'The bastard's holding all right.'",
+      "Warmth": 1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Checks another pharmacy on the list to find pills after others seem unavailable.",
+      "Warmth": 1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Explains the practical reasons for buying the truck to Nadine and Rick, showing consideration and leadership.",
+      "Warmth": 1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Lectures Nadine and Rick about being observant and cautious in a somewhat authoritative, instructive tone.",
+      "Warmth": 0,
+      "Chunk": 37
+    },
+    {
+      "Action": "Makes a skeptical comment about the pharmacist putting them on regarding the availability of dilaudid.",
+      "Warmth": 0,
+      "Chunk": 37
+    },
+    {
+      "Action": "Claims knowledge about availability of dilaudid despite others' doubts, checks another pharmacy proactively.",
+      "Competence": 1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Buys a red pickup truck for strategic reasons to enhance mobility and disguise the group’s activities.",
+      "Competence": 1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Lectures companions on staying alert to opportunities and details, showing awareness and leadership.",
+      "Competence": 1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Shows confidence in planning and executing trips to find drugs, maintains cautious optimism.",
+      "Competence": 1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Explains what transoms are to Rick and Nadine, pointing out details they missed.",
+      "Warmth": 1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Walks arm in arm with Nadine and flirts with her.",
+      "Warmth": 1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Includes Rick in the plan, gives him clear instructions, and works cooperatively with him.",
+      "Warmth": 1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Insults the pharmacist with harsh language.",
+      "Warmth": -1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Notices the open transoms that others miss and explains their importance, showing awareness and observational skill.",
+      "Competence": 1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Formulates a clear plan for breaking into the pharmacy and delegates roles to Rick confidently.",
+      "Competence": 1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Executes the break-in efficiently, quickly opening a locked door with a deft movement.",
+      "Competence": 1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Hands Nadine the drawer and instructs her to fake the contents and put it in the truck, shows leadership and trust in his partner.",
+      "Warmth": 1,
       "Chunk": 39
     },
     {
-      "Action": "Pulls Nadine into the pickup quickly to protect her from oncoming cars.",
-      "Warmth": 1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Sits silently on a pile of bottles, showing restraint and calm.",
-      "Warmth": 1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Gives Nadine instructions to protect her from leaving fingerprints and potential trouble, showing care and concern.",
-      "Warmth": 1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Does not intervene or comfort Nadine when she slams the door shut after returning to the motel.",
+      "Action": "Grins upon finding the drawer full of pills, indicating pleasure in the theft without remorse.",
       "Warmth": -1,
-      "Chunk": 40
+      "Chunk": 39
     },
     {
-      "Action": "Tells Rick to forget about the safes, focusing on the immediate task.",
-      "Competence": 1,
-      "Chunk": 40
+      "Action": "Tears off the padlock for a quick exit, showing focus on efficiency rather than concern for damage or consequences.",
+      "Warmth": -1,
+      "Chunk": 39
     },
     {
-      "Action": "Quickly organizes the bottles and instructs Nadine on how to avoid leaving fingerprints on the drawer.",
-      "Competence": 1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Sits silently on a pile of bottles during the escape, showing restraint and calm.",
-      "Competence": 1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Takes a willing Dianne in his arms and whirls her around the room, as she squeals and shrieks in delight.",
+      "Action": "Watches Nadine and the truck carefully, showing concern or vigilance for partner’s safety.",
       "Warmth": 1,
-      "Chunk": 41
+      "Chunk": 39
     },
     {
-      "Action": "Shakes his head and paws through the pile of small bottles without engaging with Dianne's question about Nadine.",
+      "Action": "Takes charge calmly after the pharmacy run, organizes clean-up and is considerate about Nadine's fingerprints and safety.",
+      "Warmth": 1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Says absolutely nothing sitting on a pile of bottles after the run, possibly indicating silence or detachment.",
       "Warmth": 0,
-      "Chunk": 41
+      "Chunk": 40
     },
     {
-      "Action": "Inspects and categorizes the stolen bottles carefully, calculates the value of the powdered dilaudid accurately, and confidently explains its worth to the group.",
+      "Action": "Suggests forgetting about the safes to simplify their escape.",
       "Competence": 1,
-      "Chunk": 41
+      "Chunk": 40
     },
     {
-      "Action": "Shows excitement and joy with the find, engaging positively with others and taking initiative to plan how to hide the items.",
+      "Action": "Organizes the stolen bottles carefully and directs Nadine to avoid leaving fingerprints by having her wait in bushes with the sack.",
       "Competence": 1,
-      "Chunk": 41
+      "Chunk": 40
     },
     {
-      "Action": "Shows leadership by instructing how to hide the stuff in motels and organizing the stash plan.",
+      "Action": "Remains silent during tense moments instead of panicking or escalating the situation.",
+      "Competence": 1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Leaves Nadine at home because she is feeling bad, showing awareness and consideration of her emotional state.",
+      "Warmth": 1,
+      "Chunk": 42
+    },
+    {
+      "Action": "Shows others how to hide stuff in motels by using trap doors and stashing goods over other rooms, demonstrating tactical knowledge and planning.",
       "Competence": 1,
       "Chunk": 42
     },
     {
-      "Action": "Decides to leave Nadine home because she is feeling bad, showing awareness of group dynamics and emotional states.",
-      "Competence": 1,
+      "Action": "Leaves Nadine home because she is feeling bad, showing some sensitivity but potentially a lack of ability to manage group morale or individual needs during setbacks.",
+      "Competence": 0,
       "Chunk": 42
     },
     {
-      "Action": "Kisses Dianne before Rick takes off, showing calmness and confidence in a tense situation.",
-      "Competence": 1,
-      "Chunk": 43
+      "Action": "Watches chaos unfold quietly from a hidden spot, comments with detached amusement.",
+      "Warmth": -1,
+      "Chunk": 44
     },
     {
-      "Action": "Smiles at the chaos outside, comments that 'They'll probably talk about this one for years.'",
+      "Action": "Smashes a window to gain entry to a vacant office to hide or avoid confrontation.",
       "Warmth": 0,
       "Chunk": 44
     },
     {
-      "Action": "Quickly smashes out a window and climbs into a vacant office to hide.",
-      "Warmth": -1,
+      "Action": "Takes a careful, cautious approach by checking the corridor and the locked pharmacy door without alerting anyone.",
+      "Warmth": 0,
       "Chunk": 44
     },
     {
-      "Action": "Observes the chaotic scene calmly from a hiding spot and quickly breaks into a vacant office to avoid detection.",
+      "Action": "Observes chaotic scene calmly from hiding spot, comments wryly on the event, then quickly breaks a window and enters a vacant office, moves cautiously and checks the corridor before approaching the locked pharmacy entrance.",
       "Competence": 1,
       "Chunk": 44
     },
     {
-      "Action": "Carefully checks the corridor and approaches the locked pharmacy door without alerting anyone.",
-      "Competence": 1,
-      "Chunk": 44
-    },
-    {
-      "Action": "Breaks into the pharmacy to steal narcotics despite risk and causing alarm.",
+      "Action": "Breaks into the pharmacy by prying open a door and attempts to steal narcotics.",
       "Warmth": -1,
       "Chunk": 45
     },
     {
-      "Action": "Successfully breaks into the locked pharmacy door using a pry bar with a loud, effective technique.",
-      "Competence": 1,
-      "Chunk": 45
-    },
-    {
-      "Action": "Struggles repeatedly and unsuccessfully to open the narcotics cabinets, showing frustration and physical signs of stress.",
-      "Competence": -1,
-      "Chunk": 45
-    },
-    {
-      "Action": "Attempts multiple methods to open the cabinets, including wedging, lifting, and cutting the metal, demonstrating persistence and problem-solving.",
-      "Competence": 0,
-      "Chunk": 45
-    },
-    {
-      "Action": "Fails to open the cabinet quickly and efficiently, leading to noise that alerts a nurse and results in his capture.",
-      "Competence": -1,
-      "Chunk": 45
-    },
-    {
-      "Action": "Gives a mild bop on the head to the attendant trying to climb out the window, causing him to retreat instead of harming him further.",
+      "Action": "Gives a mild bop on the head to an attendant trying to pursue him rather than using excessive force",
       "Warmth": 1,
       "Chunk": 46
     },
     {
-      "Action": "Wipes up the sink and mirror after tending to his own wound in the restroom.",
-      "Warmth": 1,
-      "Chunk": 46
-    },
-    {
-      "Action": "Swings a pry-bar aggressively at the attendants pursuing him.",
+      "Action": "Smashes pharmacy cabinets and breaks windows to escape",
       "Warmth": -1,
       "Chunk": 46
     },
     {
-      "Action": "Swings his pry-bar effectively to escape two burly attendants, smashes a window, rolls on landing, and bops an attendant on the head to prevent pursuit.",
+      "Action": "Washes up and cleans the area around him to avoid leaving a mess",
+      "Warmth": 1,
+      "Chunk": 46
+    },
+    {
+      "Action": "Avoids confrontation by hiding in a restroom and remaining quiet until safe",
+      "Warmth": 0,
+      "Chunk": 46
+    },
+    {
+      "Action": "Fights off two burly attendants by swinging a pry-bar and escaping through a smashed window, rolls on landing, and cleverly disables a pursuer by bopping him on the head.",
       "Competence": 1,
       "Chunk": 46
     },
     {
-      "Action": "Smashes glass on a locked exit door, opens it from inside, and navigates down the corridor despite injury.",
+      "Action": "Recovers quickly by smashing glass to unlock an exit door and proceeds down the corridor despite injury.",
       "Competence": 1,
       "Chunk": 46
     },
     {
-      "Action": "Cleans up his blood, tends to his wound, and hides carefully in a toilet stall to avoid detection.",
+      "Action": "Cares for his head wound with improvised first aid, cleans the area to avoid detection, then strategically retreats to a toilet to wait quietly.",
+      "Competence": 1,
+      "Chunk": 46
+    },
+    {
+      "Action": "Avoids being seen by a woman entering the restroom by discreetly positioning himself on the toilet.",
+      "Competence": 1,
+      "Chunk": 46
+    },
+    {
+      "Action": "Waits silently and patiently in hiding, despite bleeding and stress, showing endurance and situational control.",
       "Competence": 1,
       "Chunk": 46
     },
@@ -1336,727 +1091,647 @@
       "Chunk": 47
     },
     {
-      "Action": "Questions about Nadine's hat and her actions, showing concern.",
+      "Action": "Asks what is going on and notices Nadine's condition with concern.",
       "Warmth": 1,
       "Chunk": 47
     },
     {
-      "Action": "Comes home whistling despite being injured and bandaged, showing a confident and unbothered demeanor.",
-      "Competence": 1,
-      "Chunk": 47
-    },
-    {
-      "Action": "Questions the situation and notices details (the hat on the bed), indicating awareness and engagement.",
-      "Competence": 1,
-      "Chunk": 47
-    },
-    {
-      "Action": "Appears somewhat oblivious or detached from the gravity of the situation (Nadine's death) initially, which may suggest a lack of emotional processing or situational grasp.",
+      "Action": "Comes home whistling and seemingly unconcerned despite being injured, with medical bandages on face and arm.",
       "Competence": 0,
       "Chunk": 47
     },
     {
-      "Action": "Calls the deceased woman a 'stupid conniving bitch' and blames her harshly for their troubles.",
+      "Action": "Questions presence of hat on the bed, showing attention to detail in chaotic situation.",
+      "Competence": 1,
+      "Chunk": 47
+    },
+    {
+      "Action": "Upon seeing Nadine's condition, appears confused and not immediately proactive.",
+      "Competence": -1,
+      "Chunk": 47
+    },
+    {
+      "Action": "Calls the deceased woman a 'stupid conniving bitch' and 'dumb bitch', showing disdain and harshness.",
       "Warmth": -1,
       "Chunk": 48
     },
     {
-      "Action": "Kicks the hat off the bed and slams the door, distancing himself from Rick's anger and grief.",
-      "Warmth": -1,
+      "Action": "Kicks the hat off the bed and backs out of the room to avoid escalating conflict with Rick.",
+      "Warmth": 1,
       "Chunk": 48
     },
     {
-      "Action": "Protects himself by hiding in a woman's restroom and fabricating a story to a nurse to get help.",
+      "Action": "Describes his own actions of hiding in a woman's restroom and lying to a nurse to get help, showing some resourcefulness and reluctance to cause trouble.",
       "Warmth": 0,
       "Chunk": 48
     },
     {
-      "Action": "Allows Dianne to cling to his arm, showing some tolerance or acceptance of her presence.",
-      "Warmth": 1,
-      "Chunk": 48
-    },
-    {
-      "Action": "Identifies the source of the drug bottle and deduces how it was obtained, showing awareness and insight.",
-      "Competence": 1,
-      "Chunk": 48
-    },
-    {
-      "Action": "Kicks the hat off the bed and removes himself from a volatile situation, demonstrating practical judgment and self-control.",
-      "Competence": 1,
-      "Chunk": 48
-    },
-    {
-      "Action": "Hides in a woman's restroom and fabricates a story to a nurse to get medical help, showing resourcefulness and quick thinking.",
-      "Competence": 1,
-      "Chunk": 48
-    },
-    {
-      "Action": "Calls the deceased woman derogatory names and expresses anger in a way that escalates tension with Rick.",
-      "Competence": -1,
-      "Chunk": 48
-    },
-    {
-      "Action": "Hugs Rick gently and helps him to bed when Rick is disoriented and exhausted.",
+      "Action": "Takes Rick by the shoulders, stands him up, hugs him, and gently removes him from the room when Rick is clearly distressed and confused.",
       "Warmth": 1,
       "Chunk": 49
     },
     {
-      "Action": "Complains about the difficulties of managing younger people, comparing them to children with petty jealousies and lack of sense.",
-      "Warmth": -1,
+      "Action": "Complains to Dianne about having to manage and 'raise' the younger crew, comparing it to raising difficult children but showing concern over their behavior.",
+      "Warmth": 1,
       "Chunk": 49
     },
     {
-      "Action": "Acknowledges Dianne's idea as the best she's had in years, showing recognition of good ideas.",
-      "Competence": 1,
+      "Action": "Expresses frustration about younger people being influenced negatively by TV violence but does so with understanding rather than harsh judgment.",
+      "Warmth": 1,
       "Chunk": 49
     },
     {
-      "Action": "Cautiously approaches Rick, physically supports him, and removes him from the room to get him to rest, demonstrating situational awareness and care.",
-      "Competence": 1,
-      "Chunk": 49
+      "Action": "Checks the peephole before opening the door, shows caution.",
+      "Warmth": 0,
+      "Chunk": 50
     },
     {
-      "Action": "Carries Nadine's body out of the crawlspace using a fireman's lift, indicating physical capability and practical skill.",
-      "Competence": 1,
-      "Chunk": 49
-    },
-    {
-      "Action": "Comments on the difficulty of managing younger accomplices, showing insight into group dynamics and leadership challenges.",
-      "Competence": 1,
-      "Chunk": 49
-    },
-    {
-      "Action": "Expresses frustration and generalizes about younger people lacking sense due to TV influence, which may indicate a defeatist or overly critical attitude.",
-      "Competence": -1,
-      "Chunk": 49
-    },
-    {
-      "Action": "Expresses concern for a sick colleague and resists moving to avoid spreading illness.",
+      "Action": "Explains to the motel manager the serious health condition of a sick colleague and his reluctance to move him.",
       "Warmth": 1,
       "Chunk": 50
     },
     {
-      "Action": "Uses threat of a lawsuit to pressure motel manager.",
+      "Action": "Uses a threat of a lawsuit to persuade the motel manager not to enforce the eviction immediately.",
       "Warmth": -1,
       "Chunk": 50
     },
     {
-      "Action": "Checks the peephole before opening the door, cautiously assesses the situation.",
+      "Action": "Negotiates with the motel manager to delay moving despite the reservation conflict, demonstrating awareness of potential consequences and attempting to assert influence.",
       "Competence": 1,
       "Chunk": 50
     },
     {
-      "Action": "Negotiates with the motel manager to delay moving out by explaining the health situation of a sick colleague.",
-      "Competence": 1,
-      "Chunk": 50
-    },
-    {
-      "Action": "Appears unprepared for the motel's reservation conflict and is caught off guard by the manager's insistence.",
+      "Action": "Fails to communicate intended length of stay accurately when registering, leading to conflict with motel management.",
       "Competence": -1,
       "Chunk": 50
     },
     {
-      "Action": "Uses a threat of a lawsuit to try to influence the manager's decision, showing some strategic thinking.",
-      "Competence": 1,
-      "Chunk": 50
-    },
-    {
-      "Action": "Does not seem to have informed the motel of his extended stay in advance, leading to the conflict.",
-      "Competence": -1,
-      "Chunk": 50
-    },
-    {
-      "Action": "Insists on getting Nadine out of the attic despite the risks, showing concern for her well-being.",
+      "Action": "Insists on taking responsibility for getting the person out of the attic despite risks and inconvenience",
       "Warmth": 1,
       "Chunk": 51
     },
     {
-      "Action": "Shows signs of wear and emotional impact from the situation, indicating sincerity and emotional involvement.",
+      "Action": "Shows signs of wear and silent contemplation when discussing the difficult situation with Dianne",
       "Warmth": 1,
       "Chunk": 51
     },
     {
-      "Action": "Walks out of the office after negotiating for one more night, showing responsibility toward the group.",
+      "Action": "Considers and acknowledges the emotional impact Nadine has had on him",
       "Warmth": 1,
       "Chunk": 51
     },
     {
-      "Action": "Negotiates with motel manager to keep the room for one more night despite complications.",
+      "Action": "Negotiates with motel manager to keep the room for one more night despite difficult circumstances.",
       "Competence": 1,
       "Chunk": 51
     },
     {
-      "Action": "Acknowledges the difficulty of extracting Nadine from the crawlspace but does not propose a clear plan.",
+      "Action": "Expresses concern about getting Nadine, who is hiding in the attic, out safely despite presence of many cops.",
+      "Competence": 1,
+      "Chunk": 51
+    },
+    {
+      "Action": "Feels astounded and dismisses Dianne's suggestion to leave Nadine behind, showing protective instincts but no clear plan.",
       "Competence": 0,
       "Chunk": 51
     },
     {
-      "Action": "Rejects Dianne's suggestion to leave Nadine behind, showing awareness of consequences and responsibility.",
-      "Competence": 1,
-      "Chunk": 51
-    },
-    {
-      "Action": "Shows signs of wear and appears uncertain or overwhelmed, looking at the floor and not speaking.",
+      "Action": "Shows signs of wear and remains silent when discussing difficulty of getting Nadine out, indicating possible uncertainty or lack of immediate solution.",
       "Competence": -1,
       "Chunk": 51
     },
     {
-      "Action": "Admits fear and vulnerability about cops raiding their room.",
+      "Action": "Finally looks Dianne in the eye and admits Nadine 'got to him', showing emotional vulnerability.",
+      "Competence": 0,
+      "Chunk": 51
+    },
+    {
+      "Action": "Expresses fear about cops interrupting, showing vulnerability.",
       "Warmth": 1,
       "Chunk": 52
     },
     {
-      "Action": "Handles Nadine's body with a sense of burden and discomfort, showing no callousness.",
+      "Action": "Instructs Dianne to check outside first before leaving, showing concern for safety.",
       "Warmth": 1,
       "Chunk": 52
     },
     {
-      "Action": "Instructs Dianne to check surroundings first, showing concern for her safety.",
-      "Warmth": 1,
+      "Action": "Refers to handling Nadine's body as 'God what a hassle' after witnessing burden on Dianne.",
+      "Warmth": -1,
       "Chunk": 52
     },
     {
-      "Action": "Expresses frustration with the situation ('God what a hassle').",
-      "Warmth": 0,
-      "Chunk": 52
-    },
-    {
-      "Action": "Carefully handles the stiff body of Nadine, coordinating with Dianne to lower her into the crawlspace despite the difficulty.",
+      "Action": "Handles Nadine's stiff body carefully and manages to lower it headfirst into the crawlspace despite the difficulty.",
       "Competence": 1,
       "Chunk": 52
     },
     {
-      "Action": "Plans the escape by instructing Dianne to unlock the car and scout for cops before they leave, showing situational awareness.",
+      "Action": "Plans the exit strategically by having Dianne unlock the car and check for lurking cops first.",
       "Competence": 1,
       "Chunk": 52
     },
     {
-      "Action": "Expresses fear and anxiety about cops raiding the room, indicating a lack of confidence in the situation.",
+      "Action": "Expresses clear fear of getting caught which makes him visibly anxious and less confident.",
       "Competence": -1,
       "Chunk": 52
     },
     {
-      "Action": "Fidgets nervously in front of the curtains instead of watching Dianne as she checks the parking lot, showing unease and distraction.",
+      "Action": "Wipes his brow and calls moving Nadine down the crawlspace 'a hassle', showing some frustration but continuing the task.",
+      "Competence": 0,
+      "Chunk": 52
+    },
+    {
+      "Action": "Fidgets in front of the curtains instead of watching Dianne as she goes out to unlock the car and check the area, showing nervousness or lack of focus.",
       "Competence": -1,
       "Chunk": 52
     },
     {
-      "Action": "Crosses the parking lot carrying Nadine over his shoulder, making it seem like she doesn't weigh a thing.",
+      "Action": "Crosses parking lot carrying Nadine over his shoulder, making it seem light, and puts her in the trunk.",
       "Warmth": 1,
       "Chunk": 53
     },
     {
-      "Action": "Ad libs to suspicious cop, trying to defuse situation with a casual question about diapers.",
+      "Action": "Ad libs to suspicious cop, pretending to be concerned about diapers, showing presence of mind and protectiveness.",
       "Warmth": 1,
       "Chunk": 53
     },
     {
-      "Action": "Makes a grim joke about Nadine being heavy and fat, then tries to grin but fails, looking vulnerable.",
+      "Action": "Makes a somewhat callous joke about Nadine’s weight and future pregnancy but immediately shows vulnerability with a failed grin and looks like a child about to cry.",
       "Warmth": 0,
       "Chunk": 53
     },
     {
-      "Action": "Suggests dividing up their stuff fairly and giving Rick the big end, showing consideration for others.",
+      "Action": "Suggests dividing up possessions fairly and giving Rick the bigger share, indicating fairness and consideration.",
       "Warmth": 1,
       "Chunk": 53
     },
     {
-      "Action": "Avoids eye contact and hesitates when asked about his plans, showing evasiveness.",
-      "Warmth": -1,
-      "Chunk": 53
-    },
-    {
-      "Action": "Expresses desire to go on methadone withdrawal program to get his head together, showing self-awareness and responsibility.",
-      "Warmth": 1,
-      "Chunk": 53
-    },
-    {
-      "Action": "Asks Dianne why she can't come along on withdrawal program, showing concern and willingness to include her.",
-      "Warmth": 1,
-      "Chunk": 53
-    },
-    {
-      "Action": "Responds to Dianne's refusal with 'Do whatever you want, Dianne....' indicating resignation and possible detachment.",
+      "Action": "Evasive and silent when asked about his thoughts, struggling to communicate honestly with Dianne.",
       "Warmth": 0,
       "Chunk": 53
     },
     {
-      "Action": "Crosses the parking lot carrying Nadine over his shoulder effortlessly and puts her in the trunk, then returns to the room.",
+      "Action": "Expresses desire to enter a methadone withdrawal program to get his life together, showing self-awareness and desire for improvement.",
+      "Warmth": 1,
+      "Chunk": 53
+    },
+    {
+      "Action": "Gently invites Dianne to join the withdrawal program despite her refusal, showing tolerance and respect for her choice.",
+      "Warmth": 1,
+      "Chunk": 53
+    },
+    {
+      "Action": "Says 'Do whatever you want, Dianne....' with resignation, potentially indicating frustration or detachment.",
+      "Warmth": 0,
+      "Chunk": 53
+    },
+    {
+      "Action": "Crosses the parking lot carrying Nadine over his shoulder, making it seem effortless; puts Nadine in the trunk and returns without attracting suspicion.",
       "Competence": 1,
       "Chunk": 53
     },
     {
-      "Action": "Ad libs a casual remark to a suspicious cop to deflect attention.",
+      "Action": "Ad libs with suspicious cop in front of their room, smoothly making small talk to avoid drawing attention.",
       "Competence": 1,
       "Chunk": 53
     },
     {
-      "Action": "Attempts to grin but fails, appearing vulnerable and like a child about to cry.",
+      "Action": "Suggests dividing possessions logically and giving Rick the bigger share, demonstrating strategic planning and fairness.",
+      "Competence": 1,
+      "Chunk": 53
+    },
+    {
+      "Action": "Struggles to speak openly about his plans and intentions; avoids eye contact; appears evasive and uncertain.",
       "Competence": -1,
       "Chunk": 53
     },
     {
-      "Action": "Suggests dividing up their stuff and giving Rick the car and other items, showing some planning and fairness.",
+      "Action": "Expresses desire to enter methadone withdrawal program, showing self-awareness and willingness to change.",
       "Competence": 1,
       "Chunk": 53
     },
     {
-      "Action": "Avoids direct eye contact and speaks evasively when asked about his plans.",
+      "Action": "Accepts Dianne's refusal without strong persuasion or leadership; appears passive about her rejection of withdrawal.",
       "Competence": -1,
       "Chunk": 53
     },
     {
-      "Action": "Expresses a serious intention to enter a methadone withdrawal program to get his life together.",
-      "Competence": 1,
-      "Chunk": 53
-    },
-    {
-      "Action": "Accepts Dianne's refusal to join the withdrawal program without pushing or negotiating.",
-      "Competence": 0,
-      "Chunk": 53
-    },
-    {
-      "Action": "Offers Dianne to take whatever she needs or whatever they have, showing some generosity.",
+      "Action": "Offers Dianne to take whatever she needs from their supplies, showing some generosity despite their troubled relationship.",
       "Warmth": 1,
       "Chunk": 54
     },
     {
-      "Action": "Takes responsibility to handle Nadine's burial, showing a sense of duty and care.",
+      "Action": "Takes responsibility to handle Nadine's burial himself, showing a sense of respect and sincerity.",
       "Warmth": 1,
       "Chunk": 54
     },
     {
-      "Action": "Apologizes to Nadine for letting her come along, expressing regret and empathy.",
+      "Action": "Expresses regret and sorrow aloud for Nadine's fate while burying her, revealing sensitivity and remorse.",
       "Warmth": 1,
       "Chunk": 54
     },
     {
-      "Action": "Instructs Rick to stay and watch for others, showing some protectiveness but also a bit of suspicion.",
+      "Action": "Instructs Rick to stay in the truck and keep watch, showing some care about privacy but delegating responsibility without warmth.",
       "Warmth": 0,
       "Chunk": 54
     },
     {
-      "Action": "Drags Nadine's body in a clothing bag after carrying her, which may indicate a lack of tenderness.",
+      "Action": "Physically drags Nadine's body in the clothing bag, a harsh and possibly insensitive action.",
       "Warmth": -1,
       "Chunk": 54
     },
     {
-      "Action": "Remarks cynically that it's every man and woman for themselves, indicating a hardened or distrustful attitude.",
+      "Action": "Makes a somewhat cynical remark about survival and change, indicating emotional distance and self-protection.",
       "Warmth": -1,
       "Chunk": 54
     },
     {
-      "Action": "Organizes the group by assigning Rick to watch for interruptions while he handles the burial task.",
+      "Action": "Takes charge of the situation by assigning Rick to keep watch and personally handling the digging and burial of Nadine.",
       "Competence": 1,
       "Chunk": 54
     },
     {
-      "Action": "Carries Nadine through the woods and digs a difficult grave despite stubborn roots, showing physical capability and determination.",
+      "Action": "Carefully examines Nadine’s body before burial, showing attention to detail and respect.",
       "Competence": 1,
       "Chunk": 54
     },
     {
-      "Action": "Expresses regret and emotional vulnerability about the situation, indicating self-awareness but also possible emotional distraction.",
+      "Action": "Expresses regret about letting Nadine come along, showing some reflection but possibly questioning his prior judgment.",
       "Competence": 0,
       "Chunk": 54
     },
     {
-      "Action": "Plans to leave after the burial, showing awareness of consequences and self-preservation.",
-      "Competence": 1,
-      "Chunk": 54
-    },
-    {
-      "Action": "Allows Dianne to take whatever they have and only takes enough to get to the coast, showing some practical planning but also possible resignation.",
+      "Action": "Decides to take 'enough to get to the coast' indicating planning to escape or move on, but the plan seems vague.",
       "Competence": 0,
       "Chunk": 54
     },
     {
-      "Action": "Breaks sticks and things in a temper, then calms himself and leaves the woods without engaging with others.",
-      "Warmth": -1,
-      "Chunk": 55
+      "Action": "Shows emotional vulnerability by apologizing aloud to Nadine and reflecting on his life decisions, which may indicate doubt or emotional instability.",
+      "Competence": 0,
+      "Chunk": 54
     },
     {
-      "Action": "Avoids looking at Dianne and Rick, aware they are watching him but does not respond or interact.",
-      "Warmth": -1,
-      "Chunk": 55
-    },
-    {
-      "Action": "Quietly packs his clothes and leaves, showing no hostility or confrontation.",
+      "Action": "Breaks sticks and things in a temper but then calms himself and gathers his thoughts.",
       "Warmth": 0,
       "Chunk": 55
     },
     {
-      "Action": "Calms himself after a temper outburst and gathers his thoughts before leaving the woods.",
+      "Action": "Avoids looking at Dianne or Rick but is aware they are watching him; cannot look back at Dianne.",
+      "Warmth": -1,
+      "Chunk": 55
+    },
+    {
+      "Action": "Calms himself after temper tantrum and gathers his thoughts before leaving the woods.",
       "Competence": 1,
       "Chunk": 55
     },
     {
-      "Action": "Packs his clothes efficiently into the truck without engaging emotionally with others watching him.",
+      "Action": "Moves deliberately to pack clothes and gets into the truck without engaging with others, showing focus and self-control.",
       "Competence": 1,
       "Chunk": 55
     },
     {
-      "Action": "Avoids looking back at Dianne, showing emotional restraint but possibly indicating avoidance.",
+      "Action": "Avoids looking at Dianne despite awareness of her presence, indicating discomfort or emotional avoidance rather than assertive interaction.",
       "Competence": 0,
       "Chunk": 55
     },
     {
-      "Action": "Smiles at the countryside and mouths the name Dianne, showing affection.",
+      "Action": "Smiles at the countryside, softly mouths the name Dianne, shows affectionate thoughts about her",
       "Warmth": 1,
       "Chunk": 56
     },
     {
-      "Action": "Makes a sarcastic comment about Dianne tolerating anything as long as he is a successful drug thief.",
+      "Action": "Describes Dianne as fearless and loving with great intensity, suggesting respect and admiration",
+      "Warmth": 1,
+      "Chunk": 56
+    },
+    {
+      "Action": "Cynically remarks that Dianne only cares that her man produces, dismissing deeper emotional considerations",
       "Warmth": -1,
       "Chunk": 56
     },
     {
-      "Action": "Describes Dianne as fearless and loving with great intensity, indicating respect for her loyalty.",
-      "Warmth": 1,
-      "Chunk": 56
-    },
-    {
-      "Action": "Dismisses Dianne's feelings if he doesn't produce, implying conditional love.",
-      "Warmth": -1,
-      "Chunk": 56
-    },
-    {
-      "Action": "Smiles calmly despite being under police surveillance and facing a thirty day hex (legal trouble).",
+      "Action": "Smiles confidently despite police surveillance and recognizes the importance of success in his relationship, indicating awareness and self-assurance.",
       "Competence": 1,
       "Chunk": 56
     },
     {
-      "Action": "Confidently asserts that Dianne values a man who can produce (be successful), indicating his awareness of what matters in his environment.",
+      "Action": "Does not react visibly to police warnings or threats, possibly suggesting calm under pressure.",
       "Competence": 1,
       "Chunk": 56
     },
     {
-      "Action": "No visible panic or rash behavior despite the threat of witnesses and police attention.",
+      "Action": "Focuses on providing for Dianne as the key to their relationship, showing practical understanding of priorities.",
       "Competence": 1,
       "Chunk": 56
     },
     {
-      "Action": "Observes and imagines backstories for fellow passengers with a mix of humor and empathy, recognizing complexity in people.",
+      "Action": "Observes and imagines detailed and humanizing backstories for strangers on the bus, including an old grandma and a rumpled drunk guy, showing empathy and tolerance.",
       "Warmth": 1,
       "Chunk": 57
     },
     {
-      "Action": "Grins at his own dark fantasies about others, showing detachment rather than judgment.",
-      "Warmth": 0,
-      "Chunk": 57
-    },
-    {
-      "Action": "Seeks help by signing up for a withdrawal program, showing responsibility and openness.",
-      "Warmth": 1,
-      "Chunk": 57
-    },
-    {
-      "Action": "Shows imaginative and reflective thinking about people around him, indicating mental engagement despite withdrawal.",
+      "Action": "Observes his surroundings and people thoughtfully, demonstrating awareness and reflective thinking.",
       "Competence": 1,
       "Chunk": 57
     },
     {
-      "Action": "Approaches the methadone center and requests to sign up for the withdrawal program, showing initiative and self-awareness.",
+      "Action": "Seeks help at the methadone center and openly states his desire to enter a withdrawal program.",
       "Competence": 1,
       "Chunk": 57
     },
     {
-      "Action": "Appears physically sick and uncomfortable during the meeting, indicating vulnerability but also persistence.",
+      "Action": "Appears uncomfortable and sick while in the center but follows through with the process.",
+      "Competence": 1,
+      "Chunk": 57
+    },
+    {
+      "Action": "Engages in fantasizing about others rather than focusing on immediate problem-solving.",
       "Competence": 0,
       "Chunk": 57
     },
     {
-      "Action": "Shrugs and grins when asked why he wants to quit, showing a casual, somewhat sincere openness about his curiosity.",
+      "Action": "Shrugs and grins when asked why he wants to quit drugs, showing a casual, somewhat sincere openness about his curiosity to try quitting.",
       "Warmth": 1,
       "Chunk": 58
     },
     {
-      "Action": "Responds to Mrs. Watermaker with a somewhat dismissive and sarcastic tone ('Well, lady, you just found you one of those people what ain't got any other way to turn'), which can come off as defensive and less warm.",
-      "Warmth": -1,
-      "Chunk": 58
-    },
-    {
-      "Action": "Admits honestly to Mrs. Watermaker about his drug use history and withdrawal experience, showing straightforwardness and self-awareness.",
-      "Competence": 1,
-      "Chunk": 58
-    },
-    {
-      "Action": "Shrugs and grins when asked why he wants to quit, giving a vague and noncommittal answer ('curiosity I guess'), indicating a lack of clear motivation or planning.",
-      "Competence": -1,
-      "Chunk": 58
-    },
-    {
-      "Action": "Responds to Mrs. Watermaker's skepticism with a somewhat flippant and resigned attitude ('Well, lady, you just found you one of those people what ain't got any other way to turn'), showing a lack of confidence and seriousness about the process.",
-      "Competence": -1,
-      "Chunk": 58
-    },
-    {
-      "Action": "Grins and throws up on the floor when confronted with bureaucratic obstacles.",
-      "Warmth": -1,
-      "Chunk": 59
-    },
-    {
-      "Action": "Answers Mrs. Watermaker's questions honestly about his personal and criminal history.",
+      "Action": "Responds to Mrs. Watermaker with a somewhat defensive but frank acknowledgment that he is 'one of those people what ain't got any other way to turn,' appealing for help.",
       "Warmth": 1,
-      "Chunk": 59
+      "Chunk": 58
     },
     {
-      "Action": "Shows detachment or lack of concern when admitting he does not know where his wife is.",
-      "Warmth": -1,
-      "Chunk": 59
-    },
-    {
-      "Action": "Grins and throws up on the floor when told he has to get sick first to get help.",
-      "Competence": -1,
-      "Chunk": 59
-    },
-    {
-      "Action": "Responds honestly and directly to Mrs. Watermaker's questions about his background and criminal record.",
+      "Action": "Admits to lifelong drug use and expresses curiosity about quitting despite long addiction.",
       "Competence": 0,
-      "Chunk": 59
+      "Chunk": 58
     },
     {
-      "Action": "Appears passive and unprepared for the bureaucratic process of getting help, lacking a social security number, job, or clear plan.",
+      "Action": "Displays awareness of withdrawal stages and methadone treatment although new to this method.",
+      "Competence": 1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Shrugs off serious questioning with a grin and a somewhat dismissive attitude.",
       "Competence": -1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Recognizes that the process isn't easy and is willing to begin formal procedures despite apparent reluctance.",
+      "Competence": 0,
+      "Chunk": 58
+    },
+    {
+      "Action": "Grins and throws up on the floor in response to Mrs. Watermaker's bureaucratic comments.",
+      "Warmth": 0,
       "Chunk": 59
     },
     {
-      "Action": "Responds honestly and directly to Mrs. Watermaker's questions about his addiction and life story.",
+      "Action": "Answers Mrs. Watermaker honestly and directly about his personal history, including marriage, children, job status, social security, felonies, and prison time.",
       "Warmth": 1,
-      "Chunk": 60
+      "Chunk": 59
     },
     {
-      "Action": "Dismisses the idea of counseling other addicts, stating no one can talk a junkie out of using.",
+      "Action": "Admits to being addicted to drugs in prison inconsistently ('not all the time'), showing some guardedness.",
       "Warmth": 0,
-      "Chunk": 60
+      "Chunk": 59
     },
     {
-      "Action": "Shows some discomfort and vulnerability when asked why he used narcotics, indicating sincerity.",
+      "Action": "Responds frankly and candidly to Mrs. Watermaker's questions about addiction, admits complexity of his feelings.",
       "Warmth": 1,
       "Chunk": 60
     },
     {
-      "Action": "Explains addiction with clear, confident analogies (e.g., comparing drug need to diabetic's insulin), showing insight and understanding.",
+      "Action": "Dismisses counseling as ineffective and refuses the idea of becoming a counselor, shows no interest in helping others recover.",
+      "Warmth": -1,
+      "Chunk": 60
+    },
+    {
+      "Action": "Explains his addiction and lifestyle with clear, confident reasoning, demonstrating insight into the nature of addiction.",
       "Competence": 1,
       "Chunk": 60
     },
     {
-      "Action": "Refuses to consider becoming a counselor, dismissing the possibility without hesitation.",
+      "Action": "Refuses the suggestion of becoming a counselor without hesitation, arguing logically why counseling is ineffective for addicts like himself.",
+      "Competence": 1,
+      "Chunk": 60
+    },
+    {
+      "Action": "Shows difficulty in articulating why he uses narcotics, indicating some uncertainty or introspective struggle.",
       "Competence": 0,
       "Chunk": 60
     },
     {
-      "Action": "Avoids directly answering why he used narcotics, squirms and looks away, showing uncertainty or discomfort.",
-      "Competence": -1,
-      "Chunk": 60
-    },
-    {
-      "Action": "Greets Tom warmly after a long time, initiates friendly conversation.",
+      "Action": "Greets Tom warmly and acknowledges their past acquaintance; offers to keep Tom company though he declines to use drugs.",
       "Warmth": 1,
       "Chunk": 61
     },
     {
-      "Action": "Refuses to score drugs but offers to keep Tom company.",
+      "Action": "Recognizes Tom’s difficult situation and engages in conversation without judgment.",
       "Warmth": 1,
       "Chunk": 61
     },
     {
-      "Action": "Recognizes Tom and initiates conversation, shows awareness of surroundings.",
+      "Action": "Refuses to score drugs with Tom, indicating some boundary setting.",
+      "Warmth": 1,
+      "Chunk": 61
+    },
+    {
+      "Action": "Keeps conversation calm and friendly with Tom despite difficult circumstances.",
       "Competence": 1,
       "Chunk": 61
     },
     {
-      "Action": "Is currently kicking heroin but is aware of the methadone clinic's requirements and expresses frustration with the process.",
+      "Action": "Open about his struggle with methadone clinic delays but does not give in to immediate temptation.",
       "Competence": 1,
       "Chunk": 61
     },
     {
-      "Action": "Refuses to score drugs despite temptation, indicating self-control and decision-making.",
+      "Action": "Does not hold or use drugs when offered by Tom, demonstrating self-control.",
       "Competence": 1,
       "Chunk": 61
     },
     {
-      "Action": "Passively sits and watches people and cars, showing no active engagement or initiative.",
+      "Action": "Expresses surprise that the little guy standing up for himself didn’t get beaten, showing empathy and interest in others’ well-being.",
+      "Warmth": 1,
+      "Chunk": 62
+    },
+    {
+      "Action": "Compliments Tom by saying he should have been a philosopher, indicating respect and friendliness.",
+      "Warmth": 1,
+      "Chunk": 62
+    },
+    {
+      "Action": "Walking cheerily down the street wearing new clothes, suggesting a positive and approachable demeanor.",
+      "Warmth": 1,
+      "Chunk": 62
+    },
+    {
+      "Action": "Drills holes into a metal plate, measures the holes, and checks for burrs.",
+      "Competence": 1,
+      "Chunk": 62
+    },
+    {
+      "Action": "Responds to story about drug culture with interest, makes a lighthearted comment to Tom.",
       "Competence": 0,
-      "Chunk": 61
-    },
-    {
-      "Action": "Expresses surprise that the little guy was not attacked, showing empathy for the underdog.",
-      "Warmth": 1,
       "Chunk": 62
-    },
-    {
-      "Action": "Compliments Tom by saying he should have been a philosopher, showing friendliness and appreciation.",
-      "Warmth": 1,
-      "Chunk": 62
-    },
-    {
-      "Action": "Walks cheerily down the street wearing new clothes, indicating a positive and friendly demeanor.",
-      "Warmth": 1,
-      "Chunk": 62
-    },
-    {
-      "Action": "Drilling holes into a metal plate, measuring the holes, and checking for burrs.",
-      "Competence": 1,
-      "Chunk": 62
-    },
-    {
-      "Action": "Asks Tom if they didn't kick the little guy's ass, showing some naivety about the situation.",
-      "Competence": -1,
-      "Chunk": 62
-    },
-    {
-      "Action": "Walking cheerily down the street, wearing new clothes.",
-      "Warmth": 1,
-      "Chunk": 63
-    },
-    {
-      "Action": "Cooking soup from a can and eating quietly alone.",
-      "Warmth": 0,
-      "Chunk": 63
-    },
-    {
-      "Action": "Smoothly takes off coat and hangs it up, showing nothing to hide.",
-      "Warmth": 1,
-      "Chunk": 63
-    },
-    {
-      "Action": "Responds to Detective Gentry's warnings calmly and without hostility.",
-      "Warmth": 1,
-      "Chunk": 63
-    },
-    {
-      "Action": "Does not engage in conversation about threats or show fear, maintains composure.",
-      "Warmth": 0,
-      "Chunk": 63
-    },
-    {
-      "Action": "Drills holes into a metal plate, measures holes, checks for burrs.",
-      "Competence": 1,
-      "Chunk": 63
     },
     {
       "Action": "Walks cheerily down the street wearing new clothes.",
-      "Competence": 0,
+      "Warmth": 1,
       "Chunk": 63
     },
     {
-      "Action": "Cooks soup directly from the can.",
-      "Competence": 0,
+      "Action": "Cooked soup from a can alone, ate under a small light in his room.",
+      "Warmth": 0,
       "Chunk": 63
     },
     {
-      "Action": "Sits calmly in a group discussion at methadone clinic.",
-      "Competence": 0,
+      "Action": "Responds smoothly and calmly to Detective Gentry in private, makes casual remarks without hostility.",
+      "Warmth": 1,
       "Chunk": 63
     },
     {
-      "Action": "Plays handball on outside court.",
-      "Competence": 0,
+      "Action": "Displays no visible hostility or defensiveness when warned about potential threats from Halamer.",
+      "Warmth": 1,
       "Chunk": 63
     },
     {
-      "Action": "Unlocks and locks his door smoothly, acts with a 'nothing to hide' attitude when Detective Gentry is present.",
+      "Action": "Does not engage or react strongly to Detective Gentry's warnings, maintains neutral attitude.",
+      "Warmth": 0,
+      "Chunk": 63
+    },
+    {
+      "Action": "Drilling holes carefully and measuring them, checking for burrs.",
       "Competence": 1,
       "Chunk": 63
     },
     {
-      "Action": "Responds to Gentry's warnings about threats calmly and without apparent concern.",
+      "Action": "Walking cheerily in new clothes, indicating self-care and confidence.",
       "Competence": 0,
       "Chunk": 63
     },
     {
-      "Action": "Admits he hasn't thought much about potential threats from Halamer.",
+      "Action": "Cooking soup directly from the can, a simple but practical action.",
+      "Competence": 0,
+      "Chunk": 63
+    },
+    {
+      "Action": "Sitting calmly in a group discussion at the methadone clinic.",
+      "Competence": 0,
+      "Chunk": 63
+    },
+    {
+      "Action": "Playing handball on the outside court.",
+      "Competence": 0,
+      "Chunk": 63
+    },
+    {
+      "Action": "Unlocking and locking his door smoothly and confidently.",
+      "Competence": 1,
+      "Chunk": 63
+    },
+    {
+      "Action": "Reacting with casual attitude to Detective Gentry's presence, showing no signs of nervousness.",
+      "Competence": 1,
+      "Chunk": 63
+    },
+    {
+      "Action": "Giving a brief, non-revelatory answer when questioned about recent events (\"Nothing happened\").",
+      "Competence": 1,
+      "Chunk": 63
+    },
+    {
+      "Action": "Admitting he has not considered the risks of being targeted after joining methadone program.",
       "Competence": -1,
       "Chunk": 63
     },
     {
-      "Action": "Smiles and warmly opens the door when Dianne arrives unexpectedly.",
+      "Action": "Responding with a practical focus on finding and keeping a job despite threats.",
+      "Competence": 1,
+      "Chunk": 63
+    },
+    {
+      "Action": "Smiles warmly and opens the door immediately when Dianne knocks and comes back.",
       "Warmth": 1,
       "Chunk": 64
     },
     {
-      "Action": "Makes a somewhat dismissive comment about Dianne chasing another man.",
+      "Action": "Refers to Dianne's behavior with a mildly dismissive remark ('You know how whimsical women are. She finally found another dude to chase after.'), showing a lack of understanding and tolerance.",
       "Warmth": -1,
       "Chunk": 64
     },
     {
-      "Action": "Compliments Dianne on how good she looks, trying to be sincere.",
+      "Action": "Tries to compliment Dianne by saying she looks good, showing an attempt at sincerity and friendliness despite their tense interaction.",
       "Warmth": 1,
       "Chunk": 64
     },
     {
-      "Action": "Responds to Dianne's harsh remarks with a calm, non-confrontational attitude.",
-      "Warmth": 1,
-      "Chunk": 64
-    },
-    {
-      "Action": "Starts a new job and tries to maintain a steady life despite personal difficulties.",
+      "Action": "States he has a job and is starting work tomorrow, indicating intention to be responsible.",
       "Competence": 1,
       "Chunk": 64
     },
     {
-      "Action": "Responds to Gentry's skepticism with vague excuses about Dianne, showing avoidance rather than clear communication.",
-      "Competence": -1,
-      "Chunk": 64
-    },
-    {
-      "Action": "Welcomes Dianne back with a smile despite the poor state of his living conditions, showing some emotional resilience but little practical improvement.",
+      "Action": "Responds casually and cynically about Dianne's behavior without apparent emotional upset or reflection.",
       "Competence": 0,
       "Chunk": 64
     },
     {
-      "Action": "Lives in a dismal hotel room and does not appear to have improved his circumstances materially or socially.",
+      "Action": "Lives in a dismal hotel room, indicating a neglected personal environment.",
       "Competence": -1,
       "Chunk": 64
     },
     {
-      "Action": "Invites Dianne to sit down and stay awhile, showing openness and friendliness.",
+      "Action": "Responds with a quick, confident smile and openness when Dianne visits, showing social ease.",
+      "Competence": 1,
+      "Chunk": 64
+    },
+    {
+      "Action": "Engages in a defensive and somewhat evasive exchange with Dianne, described as 'slipperier than an eel' and staying off balance to stay on feet.",
+      "Competence": 0,
+      "Chunk": 64
+    },
+    {
+      "Action": "Invites Dianne to sit down and stay awhile, expresses appreciation for gifts.",
       "Warmth": 1,
       "Chunk": 65
     },
     {
-      "Action": "Thanks Dianne sincerely for the package from friends, showing appreciation and gratitude.",
+      "Action": "Jokes about his job being a drag but clearly engages in conversation sincerely.",
       "Warmth": 1,
       "Chunk": 65
     },
     {
-      "Action": "Responds honestly about his struggles and reasons for change, showing sincerity and vulnerability.",
+      "Action": "Explains honestly about his turnaround and fears, showing vulnerability.",
       "Warmth": 1,
       "Chunk": 65
     },
     {
-      "Action": "Questions Dianne about whether he did something wrong, indicating insecurity but also a desire for honest connection.",
-      "Warmth": 1,
-      "Chunk": 65
-    },
-    {
-      "Action": "Mentions panicking and praying, revealing emotional openness and a moment of sincere self-reflection.",
-      "Warmth": 1,
-      "Chunk": 65
-    },
-    {
-      "Action": "Gets a job at a machine shop and talks about his work, showing some initiative and responsibility.",
+      "Action": "Got a job drilling holes at a machine shop, showing effort to hold steady work despite not liking it.",
       "Competence": 1,
       "Chunk": 65
     },
     {
-      "Action": "Admits that the job is a drag and seems somewhat unenthusiastic, indicating a lack of engagement or passion.",
+      "Action": "Admits that the job is a drag and expresses some negativity about it.",
       "Competence": 0,
       "Chunk": 65
     },
     {
-      "Action": "Expresses gratitude for support from friends, showing social awareness and appreciation.",
+      "Action": "Acknowledges his methadone treatment and attempts to maintain sobriety, indicating self-awareness and willingness to change.",
       "Competence": 1,
       "Chunk": 65
     },
     {
-      "Action": "Describes panicking and feeling doomed when seeing cop cars, indicating a moment of fear and loss of control.",
-      "Competence": -1,
+      "Action": "Shows gratitude for support from friends, indicating emotional intelligence and humility.",
+      "Competence": 1,
       "Chunk": 65
     },
     {
-      "Action": "Prays sincerely for mercy and promises to change his life, showing remorse and hope.",
+      "Action": "Appears uncertain and somewhat defensive when asked about what led to his change, hinting at internal confusion about his motivations.",
+      "Competence": 0,
+      "Chunk": 65
+    },
+    {
+      "Action": "Prays for help and promises to live a better life, showing sincerity and hope for redemption.",
       "Warmth": 1,
       "Chunk": 66
     },
@@ -2066,169 +1741,134 @@
       "Chunk": 66
     },
     {
-      "Action": "Accepts Dianne's refusal without anger or resentment, managing a smile and a long pause.",
+      "Action": "Acknowledges Dianne's situation without judgment, nods in understanding.",
       "Warmth": 1,
       "Chunk": 66
     },
     {
-      "Action": "Prays sincerely and makes a concrete plan to reform by going on methadone, getting a job, and living a stable life.",
+      "Action": "Manages a smile after Dianne declines his invitation, showing patience and kindness.",
+      "Warmth": 1,
+      "Chunk": 66
+    },
+    {
+      "Action": "Prays sincerely to avoid prison and vows to change his life, then follows through by getting a job, entering a methadone program, and living a stable, regular life.",
       "Competence": 1,
       "Chunk": 66
     },
     {
-      "Action": "Successfully stays out of prison and follows through on his promise to live a 'good life' despite boredom and modest circumstances.",
+      "Action": "Accepts a modest and 'crummy' life without complaint, showing realistic adjustment and responsible behavior.",
       "Competence": 1,
       "Chunk": 66
     },
     {
-      "Action": "Invites Dianne to stay with him, showing confidence and emotional openness.",
+      "Action": "Invites Dianne to stay with him, showing emotional openness and confidence in personal relationships.",
       "Competence": 1,
       "Chunk": 66
     },
     {
-      "Action": "Accepts Dianne's refusal gracefully and manages a smile despite the emotional difficulty.",
+      "Action": "Does not show any impulsive or reckless behavior in this excerpt, nor does he resist change; demonstrates self-control and maturity.",
       "Competence": 1,
       "Chunk": 66
     },
     {
-      "Action": "Waves and warmly compliments Dianne, expressing sincere good wishes for her.",
+      "Action": "Waves goodbye to Dianne warmly, compliments her appearance sincerely.",
       "Warmth": 1,
       "Chunk": 67
     },
     {
-      "Action": "Carries groceries while whistling, appearing content and approachable.",
+      "Action": "Hands a mysterious package left by Dianne to Tom as a gift, showing trust and consideration.",
       "Warmth": 1,
       "Chunk": 67
     },
     {
-      "Action": "Gives a package left by Dianne to Tom, sharing something without expecting anything in return.",
-      "Warmth": 1,
-      "Chunk": 67
-    },
-    {
-      "Action": "Leads Dianne out the door politely and engages in a warm farewell, showing social confidence.",
-      "Competence": 1,
-      "Chunk": 67
-    },
-    {
-      "Action": "Sits down slowly and thinks after Dianne leaves, indicating reflective and thoughtful behavior.",
-      "Competence": 1,
-      "Chunk": 67
-    },
-    {
-      "Action": "Drills holes at his workplace, demonstrating practical skill and steady work habits.",
-      "Competence": 1,
-      "Chunk": 67
-    },
-    {
-      "Action": "Carries groceries while whistling, showing a calm and capable demeanor in everyday tasks.",
-      "Competence": 1,
-      "Chunk": 67
-    },
-    {
-      "Action": "Finds the package left by Dianne and decides not to use it, instead giving it to Tom, showing good judgment and self-control.",
-      "Competence": 1,
-      "Chunk": 67
-    },
-    {
-      "Action": "Knocks on Tom's door and hands over the package with explanation, demonstrating responsibility and clear communication.",
-      "Competence": 1,
-      "Chunk": 67
-    },
-    {
-      "Action": "Reflects honestly on his past mistakes and expresses a desire to change and leave behind harmful behaviors.",
+      "Action": "Reflects honestly on his troubled past and expresses a desire to change and leave harmful behaviors behind.",
       "Warmth": 1,
       "Chunk": 68
     },
     {
-      "Action": "Responds calmly and denies having drugs when threatened by a masked man with a gun.",
-      "Warmth": 0,
+      "Action": "Conceals information and denies having drugs when confronted by an armed criminal.",
+      "Warmth": -1,
       "Chunk": 68
     },
     {
-      "Action": "Reflects on his past mistakes and acknowledges the harm caused, showing self-awareness and a desire to change.",
+      "Action": "Reflects maturely on his past drug use and expresses a desire to change, showing insight and self-awareness.",
       "Competence": 1,
       "Chunk": 68
     },
     {
-      "Action": "Strides lightly down the stairs confidently after leaving Tom's room.",
+      "Action": "Quickly responds to the masked intruder with denial and tries to stay calm, indicating presence of mind under pressure.",
       "Competence": 1,
       "Chunk": 68
     },
     {
-      "Action": "Is caught off guard by a masked man with a gun in his own closet, showing a lack of situational awareness or security.",
+      "Action": "Is caught off guard by the masked man hiding in his closet and is physically overpowered.",
       "Competence": -1,
       "Chunk": 68
     },
     {
-      "Action": "Denies having dope under threat, trying to talk his way out of a dangerous situation, indicating quick thinking under pressure.",
-      "Competence": 1,
-      "Chunk": 68
-    },
-    {
-      "Action": "Claims he is on the methadone program and trying to go straight, suggests others try it too.",
+      "Action": "Claims he is on methadone program and trying to go straight, urges others to try it for their soul.",
       "Warmth": 1,
       "Chunk": 69
     },
     {
-      "Action": "Denies having dope and tries to reason with attackers despite being beaten.",
-      "Warmth": 1,
+      "Action": "Laughs awkwardly when trying to deflect accusations to avoid violence.",
+      "Warmth": 0,
       "Chunk": 69
     },
     {
-      "Action": "Mentally criticizes society and 'TV babies' in voice-over, showing cynicism and bitterness.",
+      "Action": "Refers to attackers as 'TV babies' and expresses bitter internal thoughts about the world and the people around him.",
       "Warmth": -1,
       "Chunk": 69
     },
     {
-      "Action": "Attempts to talk his way out of a dangerous situation by denying possession of dope and claiming to be on methadone, but his laugh sounds unnatural and ineffective.",
+      "Action": "Does not retaliate physically despite being attacked and tied up.",
+      "Warmth": 1,
+      "Chunk": 69
+    },
+    {
+      "Action": "Attempts to talk his way out of a violent situation by denying possession of dope and claiming to be on methadone program, but his laugh sounds unnatural and his attempts fail.",
       "Competence": -1,
       "Chunk": 69
     },
     {
-      "Action": "Recognizes the voice of one attacker (David) and tries to reason with him, claiming he is going straight and advising David to do the same.",
+      "Action": "Recognizes a voice during the attack, showing awareness of his assailants.",
       "Competence": 0,
       "Chunk": 69
     },
     {
-      "Action": "Fails to escape or defend himself when attacked and tied up, showing inability to avoid harm despite physical struggle.",
+      "Action": "Tolerates physical assault without effectively escaping or resisting, ultimately unable to convince attackers or avoid harm.",
       "Competence": -1,
       "Chunk": 69
     },
     {
-      "Action": "Internally reflects on his situation with some insight, acknowledging that cleaning up his act did not protect him from consequences.",
+      "Action": "Internally reflects that he should have stayed on the road and that trying to clean up his life was naïve, showing some self-awareness.",
       "Competence": 0,
       "Chunk": 69
     },
     {
-      "Action": "Opens his eyes and smiles despite being shot and badly hurt.",
+      "Action": "Opens his eyes and smiles despite being badly hurt.",
       "Warmth": 1,
       "Chunk": 70
     },
     {
-      "Action": "Insists that Gentry tell Dianne to watch out for the hat, showing concern for someone else even while injured.",
+      "Action": "Shows concern by asking Gentry to tell Dianne to watch out for the hat.",
       "Warmth": 1,
       "Chunk": 70
     },
     {
-      "Action": "Laughs at Gentry's confusion, showing a lighthearted and friendly demeanor.",
+      "Action": "Laughs at Gentry's confusion in a lighthearted manner.",
       "Warmth": 1,
       "Chunk": 70
     },
     {
-      "Action": "Gets shot in the back and is seriously hurt, but manages to get up and communicate cryptically with Detective Gentry.",
-      "Competence": 0,
-      "Chunk": 70
-    },
-    {
-      "Action": "Fails to clearly communicate the identity of his attacker, giving confusing and unclear information ('The hat', 'The TV baby').",
-      "Competence": -1,
-      "Chunk": 70
-    },
-    {
-      "Action": "Laughs at Gentry and takes initiative to tell her himself, showing confidence and taking control of the situation.",
+      "Action": "Survives being shot in the back and manages to communicate important information to Detective Gentry despite his injuries.",
       "Competence": 1,
-      "Chunk": 71
+      "Chunk": 70
+    },
+    {
+      "Action": "Is shot from behind, indicating lack of situational awareness or failure to avoid danger.",
+      "Competence": -1,
+      "Chunk": 70
     }
   ]
 }

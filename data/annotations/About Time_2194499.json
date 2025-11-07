@@ -1,183 +1,118 @@
 {
-  "Tim": [
+  "Tim Lake": [
     {
-      "Action": "Remembers family members fondly and describes childhood as pretty good with repeated family activities and rituals.",
+      "Action": "Remembers his family with affection and appreciation, highlighting small, loving details about each member.",
       "Warmth": 1,
       "Chunk": 2
     },
     {
-      "Action": "Mentions always losing at charades and croquet but continues to participate in family games and rituals.",
+      "Action": "Describes family rituals like daily tea on the beach regardless of weather, showing appreciation for closeness and shared moments.",
       "Warmth": 1,
       "Chunk": 2
     },
     {
-      "Action": "Loses repeatedly at charades and croquet, accepts losing gracefully.",
-      "Competence": 0,
-      "Chunk": 2
-    },
-    {
-      "Action": "Maintains long-standing family traditions like daily tea on the beach regardless of weather, showing commitment and consistency.",
+      "Action": "Remembers and appreciates the stable, predictable family routines and interactions, showing awareness and emotional intelligence.",
       "Competence": 1,
       "Chunk": 2
     },
     {
-      "Action": "Smiles hopefully at a pretty girl despite being ignored.",
-      "Warmth": 1,
+      "Action": "Describes frequent losing at games like charades and croquet, indicating limited competitive skill.",
+      "Competence": -1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Participates in family activities despite difficulties (e.g. making tea in harsh weather), showing persistence and adaptability.",
+      "Competence": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Tries to get through an awkward party without causing trouble, avoids drunk people.",
+      "Competence": 1,
       "Chunk": 3
     },
     {
-      "Action": "Dances with Polly, who is twice his size, and receives a welcoming smile.",
-      "Warmth": 1,
-      "Chunk": 3
-    },
-    {
-      "Action": "Avoids drunk people and tries to get through the awkward party quietly.",
-      "Warmth": 0,
-      "Chunk": 3
-    },
-    {
-      "Action": "Panics and awkwardly shakes Polly's hand instead of kissing her at midnight.",
-      "Warmth": 0,
-      "Chunk": 3
-    },
-    {
-      "Action": "Smiles hopefully at a pretty girl but is ignored; ends up dancing with a girl twice his size who is welcoming.",
-      "Competence": 0,
-      "Chunk": 3
-    },
-    {
-      "Action": "Tries to get through the awkward New Year's party by avoiding drunk people and chaos.",
-      "Competence": 0,
-      "Chunk": 3
-    },
-    {
-      "Action": "Panics when a girl leans in for a New Year kiss and awkwardly shakes her hand instead.",
+      "Action": "Panics when a girl leans in for a kiss and awkwardly shakes her hand instead.",
       "Competence": -1,
       "Chunk": 3
     },
     {
-      "Action": "Holds Polly's hand at midnight, notices her tear and is mortified when she walks away.",
+      "Action": "Holds Polly's hand when she is sad, feels mortified when she walks away.",
       "Warmth": 1,
       "Chunk": 4
     },
     {
-      "Action": "Shakes Polly's hand firmly instead of kissing her at midnight, says 'Happy New Year. Sorry.'",
-      "Warmth": 0,
-      "Chunk": 4
+      "Action": "Listens patiently and respectfully to his dad revealing a strange family secret, responds with a mix of skepticism and curiosity.",
+      "Warmth": 1,
+      "Chunk": 5
     },
     {
-      "Action": "Takes Polly's hand and shakes it firmly at midnight, despite social pressure to kiss.",
+      "Action": "Jokes about the time travel story being a joke, showing disbelief but staying engaged and polite.",
+      "Warmth": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Responds to incredible and unbelievable news with skepticism and humor, but listens carefully and asks clarifying questions.",
       "Competence": 1,
-      "Chunk": 4
+      "Chunk": 5
     },
     {
-      "Action": "Feels mortified and ashamed after Polly walks away sad, shakes his head in disappointment.",
+      "Action": "Initially denies the possibility of time travel despite evidence from Dad, showing open-mindedness but also critical thinking.",
+      "Competence": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Asks for a moment to think about a serious matter and shows respect by not rushing his dad.",
+      "Warmth": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Jokes about making dad 'in so much trouble' but keeps the interaction light-hearted.",
+      "Warmth": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Stops the spill of wine bottles to prevent a mess, showing consideration.",
+      "Warmth": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Avoids engaging directly or openly with Polly and Kit Kat's interactions, instead observes silently.",
+      "Warmth": 0,
+      "Chunk": 6
+    },
+    {
+      "Action": "Takes a few moments to think about a difficult situation before acting.",
+      "Competence": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Plans to deliberately cause trouble for his dad after time traveling back.",
+      "Competence": 0,
+      "Chunk": 6
+    },
+    {
+      "Action": "Remembers detail about 27 wine bottles and stops spillage, showing keen observation and quick reflexes.",
+      "Competence": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Appears utterly stunned and disoriented by the strangeness of reliving a moment.",
       "Competence": -1,
-      "Chunk": 4
-    },
-    {
-      "Action": "Wakes up hungover and ashamed, not realizing the significance of the day.",
-      "Competence": -1,
-      "Chunk": 4
-    },
-    {
-      "Action": "Responds to his dad's formal invitation to sit down with a light, ironic comment.",
-      "Competence": 0,
-      "Chunk": 4
-    },
-    {
-      "Action": "Listens quietly and respectfully to his dad's strange story without dismissing him outright.",
-      "Warmth": 1,
-      "Chunk": 5
-    },
-    {
-      "Action": "Responds with skepticism and disbelief repeatedly, calling the story a joke.",
-      "Warmth": -1,
-      "Chunk": 5
-    },
-    {
-      "Action": "Listens carefully and asks clarifying questions about the time travel ability, showing curiosity and engagement.",
-      "Competence": 1,
-      "Chunk": 5
-    },
-    {
-      "Action": "Initially dismisses the idea of time travel as a joke, showing skepticism but also a cautious approach to unbelievable information.",
-      "Competence": 0,
-      "Chunk": 5
-    },
-    {
-      "Action": "Struggles to fully accept the truth of the family secret, repeatedly hedging his statements with 'if it was' and 'which it isn’t', indicating some difficulty in processing or accepting new, complex information.",
-      "Competence": 0,
-      "Chunk": 5
-    },
-    {
-      "Action": "Asks for a moment to think before reacting, showing consideration.",
-      "Warmth": 1,
       "Chunk": 6
     },
     {
-      "Action": "Threatens Dad with 'so much trouble' after standing in a cupboard with clenched fists, indicating frustration but also a playful tone.",
+      "Action": "Kisses Polly instead of shaking her hand, making her very happy.",
+      "Warmth": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Responds awkwardly but respectfully to Polly's advance about losing her virginity, and excuses himself politely ('man stuff').",
+      "Warmth": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Returns to the party after excusing himself, showing hesitation and discomfort in an intimate situation.",
       "Warmth": 0,
-      "Chunk": 6
-    },
-    {
-      "Action": "Responds to friend Jay's concern with a polite 'Yes. Good, good.'",
-      "Warmth": 1,
-      "Chunk": 6
-    },
-    {
-      "Action": "Asks for a moment to think before reacting, showing thoughtfulness and self-control.",
-      "Competence": 1,
-      "Chunk": 6
-    },
-    {
-      "Action": "Acknowledges the seriousness of the situation and plans to confront it, indicating confidence and decisiveness.",
-      "Competence": 1,
-      "Chunk": 6
-    },
-    {
-      "Action": "Cunningly stops the spillage of 27 wine bottles he remembers from the night before, demonstrating foresight and skill.",
-      "Competence": 1,
-      "Chunk": 6
-    },
-    {
-      "Action": "Appears utterly stunned by the strangeness of living something for the second time, showing some initial confusion or overwhelm.",
-      "Competence": 0,
-      "Chunk": 6
-    },
-    {
-      "Action": "Kisses Polly instead of shaking her hand, making her happy.",
-      "Warmth": 1,
-      "Chunk": 7
-    },
-    {
-      "Action": "Responds politely and sincerely to Polly's thanks.",
-      "Warmth": 1,
-      "Chunk": 7
-    },
-    {
-      "Action": "Is shocked but respectful when Polly enters his bedroom in a towel.",
-      "Warmth": 1,
-      "Chunk": 7
-    },
-    {
-      "Action": "Acknowledges Polly's vulnerability and expresses polite surprise.",
-      "Warmth": 1,
-      "Chunk": 7
-    },
-    {
-      "Action": "Says 'Great news' and 'Great. Great.' showing awkward but positive acceptance.",
-      "Warmth": 1,
-      "Chunk": 7
-    },
-    {
-      "Action": "Takes a moment alone to compose himself before returning to the party.",
-      "Warmth": 0,
-      "Chunk": 7
-    },
-    {
-      "Action": "Sincerely apologizes to Polly, showing remorse and care.",
-      "Warmth": 1,
       "Chunk": 7
     },
     {
@@ -186,552 +121,392 @@
       "Chunk": 7
     },
     {
-      "Action": "Is shocked and dazed by Polly's unexpected presence and proposition, but handles it with some composure.",
+      "Action": "Becomes stunned and shocked when Polly comes into his bedroom unexpectedly.",
       "Competence": 0,
       "Chunk": 7
     },
     {
-      "Action": "Responds awkwardly but politely to Polly's advance, asking for a moment to collect himself.",
-      "Competence": 0,
-      "Chunk": 7
-    },
-    {
-      "Action": "Expresses genuine apology to Polly at midnight, showing emotional awareness.",
+      "Action": "Calmly asks for a moment to himself before interacting with Polly intimately, showing some self-control.",
       "Competence": 1,
       "Chunk": 7
     },
     {
-      "Action": "Engages in a thoughtful conversation with his dad about family and life, showing concern about the impact of actions on others.",
+      "Action": "Returns to the party after a moment alone, indicating some decisiveness and composure.",
+      "Competence": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Engages in a sincere and thoughtful conversation with his dad about life, love, and the implications of time travel.",
       "Warmth": 1,
       "Chunk": 8
     },
     {
-      "Action": "Expresses a desire not to have to work, showing some self-interest but not in a negative way.",
-      "Warmth": 0,
+      "Action": "Expresses vulnerability and openness by discussing his uncertainties about how to use time travel and about his future.",
+      "Warmth": 1,
       "Chunk": 8
     },
     {
-      "Action": "Asks urgent and thoughtful questions about the situation, showing curiosity and engagement.",
+      "Action": "Heads into his dad's study with curiosity and amazement, showing engagement and an active approach to learning about his family's situation.",
       "Competence": 1,
       "Chunk": 8
     },
     {
-      "Action": "Considers practical uses of the time travel ability, such as money and changing his haircut, indicating some strategic thinking.",
+      "Action": "Asks urgent and thoughtful questions about the situation and its implications, indicating intelligence and proactive thinking.",
       "Competence": 1,
       "Chunk": 8
     },
     {
-      "Action": "Appears lost in amazement and thought while walking on the beach, which may indicate being overwhelmed or distracted.",
+      "Action": "Admits that using the ability will take a lot of thinking, showing self-awareness and realistic understanding of complexity.",
+      "Competence": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Jokes about changing his haircut, which is somewhat trivial compared to larger issues, showing a lighthearted side but not undermining competence.",
       "Competence": 0,
       "Chunk": 8
     },
     {
-      "Action": "Admits honestly that he hopes to get a girlfriend, showing vulnerability.",
+      "Action": "Expresses desire not to work because of money from time-traveling ability, which could indicate some naivety about consequences.",
+      "Competence": 0,
+      "Chunk": 8
+    },
+    {
+      "Action": "Honest admission that his main hope is to find a girlfriend (warm, sincere desire).",
       "Warmth": 1,
       "Chunk": 9
     },
     {
-      "Action": "Insults the tutor harshly and sarcastically in front of the class.",
+      "Action": "Responds to arrogant tutor by mocking him with a sharp insult and sarcasm.",
       "Warmth": -1,
       "Chunk": 9
     },
     {
-      "Action": "Raises his hand confidently in class and delivers a sharp, witty, and bold retort to the arrogant tutor, showing quick thinking and verbal skill.",
+      "Action": "Raises his hand in class and boldly confronts an arrogant tutor with a sharp, clever retort.",
       "Competence": 1,
       "Chunk": 9
     },
     {
-      "Action": "Uses a sarcastic and confrontational approach toward the tutor, risking trouble but managing to deflect it by leaving the room, showing some social savvy.",
+      "Action": "Appears casual and relaxed in dress and demeanor, showing confidence in himself.",
       "Competence": 1,
       "Chunk": 9
     },
     {
-      "Action": "Expresses a somewhat naive or simplistic goal of hoping to get a girlfriend as his main use of time travel, indicating a lack of serious planning or strategic thinking.",
+      "Action": "Rushes to change outfits, shave, and modify appearance to look cool before meeting Charlotte.",
       "Competence": -1,
-      "Chunk": 9
-    },
-    {
-      "Action": "Tries to look cool and presentable for Charlotte, showing effort to make a good impression.",
-      "Warmth": 1,
       "Chunk": 10
     },
     {
-      "Action": "Expresses dislike for Charlotte's brother Jimmy Kincade, calling him a character and an old bastard.",
-      "Warmth": -1,
+      "Action": "Initially stammers and freezes when introduced to Charlotte, showing nervousness.",
+      "Competence": -1,
       "Chunk": 10
     },
     {
-      "Action": "Admits he can do better than Jimmy Kincade, showing confidence but also a dismissive attitude.",
-      "Warmth": 0,
-      "Chunk": 10
-    },
-    {
-      "Action": "Rushes to change outfits multiple times, shaves, cuts hair slightly, plucks nose to look cool before meeting Charlotte.",
+      "Action": "Quickly recovers from embarrassment to engage in conversation with Charlotte.",
       "Competence": 0,
       "Chunk": 10
     },
     {
-      "Action": "Freezes and is unable to act confidently when meeting Charlotte for the first time.",
-      "Competence": -1,
-      "Chunk": 10
-    },
-    {
-      "Action": "Attempts to recover social awkwardness by making a sarcastic comment about Jimmy Kincade.",
+      "Action": "Shows social awareness by distancing himself from Jimmy Kincade, reflecting personal judgment.",
       "Competence": 0,
       "Chunk": 10
     },
     {
-      "Action": "Shows some social awareness by trying to appear casual and confident after initial freezing.",
-      "Competence": 0,
-      "Chunk": 10
-    },
-    {
-      "Action": "Responds to Charlotte's comment about pyjamas with light humor and engages in casual conversation.",
-      "Warmth": 1,
-      "Chunk": 11
-    },
-    {
-      "Action": "Hides his pyjamas when Charlotte knocks on the door, showing embarrassment or insecurity.",
-      "Warmth": 0,
-      "Chunk": 11
-    },
-    {
-      "Action": "Agrees to go to the beach with the girls promptly.",
-      "Warmth": 1,
-      "Chunk": 11
-    },
-    {
-      "Action": "Volunteers to apply suncream on Charlotte's back, showing willingness to help.",
-      "Warmth": 1,
-      "Chunk": 11
-    },
-    {
-      "Action": "Is embarrassed after accidentally squirting too much suncream on Charlotte.",
-      "Warmth": 0,
-      "Chunk": 11
-    },
-    {
-      "Action": "Quickly changes out of pyjamas to avoid embarrassment when Charlotte and Kit Kat comment on them.",
-      "Competence": 1,
-      "Chunk": 11
-    },
-    {
-      "Action": "Hides under the duvet to conceal his pyjamas when Charlotte knocks on the door unexpectedly.",
-      "Competence": 1,
-      "Chunk": 11
-    },
-    {
-      "Action": "Says 'Yup. Be right there.' to Charlotte but does not move immediately.",
-      "Competence": -1,
-      "Chunk": 11
-    },
-    {
-      "Action": "Attempts to apply suncream to Charlotte's back but squirts a huge dollop causing her to scream.",
-      "Competence": -1,
-      "Chunk": 11
-    },
-    {
-      "Action": "Carefully applies cream to Charlotte's back when she asks for help.",
+      "Action": "Rubs cream carefully and smoothly on Charlotte's back after she asks for help.",
       "Warmth": 1,
       "Chunk": 12
     },
     {
-      "Action": "Focuses entirely on Charlotte during dinner, showing attentive interest.",
+      "Action": "Focuses entirely on Charlotte during dinner, engaging with her.",
       "Warmth": 1,
       "Chunk": 12
     },
     {
-      "Action": "Repeats Dad's joke about cauliflower soup, trying to be humorous and engage.",
+      "Action": "Repeats father's joke about cauliflower to make Charlotte laugh.",
       "Warmth": 1,
       "Chunk": 12
     },
     {
-      "Action": "Invites his friend Teddy over for tennis to boost his own image.",
-      "Warmth": -1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Acknowledges Charlotte's skill in tennis despite his own embarrassment.",
+      "Action": "Invites his friend Teddy to play tennis, hoping to look good but also inclusive.",
       "Warmth": 1,
       "Chunk": 12
     },
     {
-      "Action": "Takes time to carefully apply cream on Charlotte's back, showing patience and attention to detail.",
-      "Competence": 1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Repeats a joke about cauliflower tasting like cauliflower, but it falls flat and he scratches his head, showing a moment of social awkwardness or lack of wit.",
-      "Competence": -1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Invites a friend over for tennis to boost his own image, demonstrating strategic thinking and confidence.",
-      "Competence": 1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Despite being a better tennis player, is made to look bad because of Charlotte's poor performance, indicating a lack of control over the situation.",
-      "Competence": 0,
-      "Chunk": 12
-    },
-    {
-      "Action": "Approaches Charlotte respectfully on her last night and tries to ask a sensitive question, showing consideration for timing and context.",
+      "Action": "Respectfully approaches Charlotte to ask a sensitive question on her last night, showing consideration of her feelings and boundaries.",
       "Warmth": 1,
       "Chunk": 13
     },
     {
-      "Action": "Acknowledges Charlotte's warning about treating her like a sister and not being stupid, indicating awareness of boundaries.",
+      "Action": "Acknowledges Charlotte's warnings and hesitation without pressuring her.",
       "Warmth": 1,
       "Chunk": 13
     },
     {
-      "Action": "Tries to ask Charlotte a serious question despite awkwardness and potential rejection.",
-      "Competence": 1,
+      "Action": "Tries to have a meaningful conversation with Charlotte on the last night, despite her warning to treat her like a sister and not be stupid.",
+      "Competence": 0,
       "Chunk": 13
     },
     {
-      "Action": "Appears unsure and hesitant, almost embarrassed by the situation with Charlotte.",
+      "Action": "Struggles to focus on his tennis game with distractions going on around him.",
       "Competence": -1,
       "Chunk": 13
     },
     {
-      "Action": "Confesses his love sincerely and respectfully to Charlotte, expressing deep admiration beyond superficial qualities.",
+      "Action": "Confesses his genuine, deep feelings to Charlotte honestly and vulnerably.",
       "Warmth": 1,
       "Chunk": 14
     },
     {
-      "Action": "Accepts Charlotte's suggestion to wait until the last night without protest or pressure.",
+      "Action": "Respects Charlotte's request to wait and ask again on the last night without protest or pressure.",
       "Warmth": 1,
       "Chunk": 14
     },
     {
-      "Action": "Accepts Charlotte's feedback about timing and acknowledges that last night was a bad idea without argument.",
+      "Action": "Watches Charlotte leave with gentle attention and acceptance of loss.",
+      "Warmth": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Acknowledges inability to help Charlotte despite his powers.",
+      "Warmth": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Accepts help from family and friends; interacts warmly with family and old friends.",
+      "Warmth": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Calmly introduces himself to Harry despite Harry’s rude and aggressive behavior.",
+      "Warmth": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Calmly approaches and negotiates a difficult situation at Harry's house, despite Harry's aggressive and off-putting behavior.",
       "Competence": 1,
-      "Chunk": 14
+      "Chunk": 15
     },
     {
-      "Action": "Walks straight into a nearby door after the conversation.",
-      "Competence": -1,
-      "Chunk": 14
-    },
-    {
-      "Action": "Gently opens Charlotte's door and expresses his feelings clearly and sincerely.",
+      "Action": "Observes situation (fans at Abbey Road) without getting distracted or engaging in risky behavior, choosing to continue toward his goal.",
       "Competence": 1,
-      "Chunk": 14
+      "Chunk": 15
     },
     {
-      "Action": "Uses somewhat awkward and overly elaborate language to confess love, which may reduce clarity and confidence.",
+      "Action": "Unable to use time travel to prevent Charlotte from leaving, demonstrates limits of his abilities but accepts reality.",
       "Competence": 0,
-      "Chunk": 14
-    },
-    {
-      "Action": "Agrees to delay his confession until the last night as suggested by Charlotte, showing adaptability and patience.",
-      "Competence": 1,
-      "Chunk": 14
-    },
-    {
-      "Action": "Watches Charlotte leave with a gentle wave, showing quiet affection and acceptance.",
-      "Warmth": 1,
       "Chunk": 15
     },
     {
-      "Action": "Interacts warmly with family: receives a hug from Kit Kat and a wink from Uncle D.",
-      "Warmth": 1,
-      "Chunk": 15
-    },
-    {
-      "Action": "Approaches Harry politely despite Harry's rude greeting, calmly states his purpose.",
-      "Warmth": 1,
-      "Chunk": 15
-    },
-    {
-      "Action": "Quietly follows instructions to wait without making a sound when entering Harry's house, showing patience and composure.",
-      "Competence": 1,
-      "Chunk": 15
-    },
-    {
-      "Action": "Passively watches Charlotte leave without attempting to intervene or change the situation, indicating a lack of control or confidence.",
-      "Competence": -1,
-      "Chunk": 15
-    },
-    {
-      "Action": "Says sorry to Harry after being called a 'little shit'.",
+      "Action": "Apologizes promptly when Harry curses at him ('Sorry').",
       "Warmth": 1,
       "Chunk": 16
     },
     {
-      "Action": "Responds politely and does not retaliate to Harry's insults.",
+      "Action": "Shows restraint and respect by not making noise in the shared house, especially during intimate moments as Harry requested.",
       "Warmth": 1,
       "Chunk": 16
     },
     {
-      "Action": "Creeps down quietly in the morning and leaves without disturbing Harry.",
+      "Action": "Leaves quietly early in the morning without disturbing anyone.",
       "Warmth": 1,
       "Chunk": 16
     },
     {
-      "Action": "Apologizes promptly when Harry expresses frustration.",
+      "Action": "Sits quietly in the sitting room and apologizes when Harry makes a sarcastic comment.",
       "Competence": 0,
       "Chunk": 16
     },
     {
-      "Action": "Creeps down early in the morning dressed in a suit and heads out to legal chambers, showing preparation and professionalism.",
+      "Action": "Leaves Harry's house early in the morning dressed in a suit, prepared for his day at the legal chambers.",
       "Competence": 1,
       "Chunk": 16
     },
     {
-      "Action": "Responds politely and clearly when introduced by his boss, calmly states his name.",
-      "Warmth": 0,
-      "Chunk": 17
-    },
-    {
-      "Action": "Raises his hand during the exam, signaling engagement and willingness to participate.",
-      "Warmth": 0,
-      "Chunk": 17
-    },
-    {
-      "Action": "Gives a happy thumbs up to Rory after gaining confidence in the exam, showing friendly encouragement.",
+      "Action": "Responds calmly to rude comments from his arrogant boss without apparent anger or confrontation.",
       "Warmth": 1,
       "Chunk": 17
     },
     {
-      "Action": "Raises his hand during an exam despite being flummoxed, showing initiative to seek help or clarification.",
-      "Competence": 1,
+      "Action": "Shares a supportive happy thumbs up to Rory during a stressful exam situation.",
+      "Warmth": 1,
       "Chunk": 17
     },
     {
-      "Action": "Clenches his fists in frustration in the exam toilet, indicating stress and possible self-doubt.",
-      "Competence": -1,
-      "Chunk": 17
-    },
-    {
-      "Action": "Looks up something specific in a book in his attic room to prepare for the exam.",
-      "Competence": 1,
-      "Chunk": 17
-    },
-    {
-      "Action": "Initially looks flummoxed and confused when first seeing the exam paper.",
-      "Competence": -1,
-      "Chunk": 17
-    },
-    {
-      "Action": "Returns to the exam with confidence and gives a happy thumbs up to Rory, indicating improved confidence and competence.",
-      "Competence": 1,
-      "Chunk": 17
-    },
-    {
-      "Action": "Declines Harry's invitation to support his play because he has a birthday celebration for a male friend, showing loyalty and consideration.",
+      "Action": "Declines Harry's invitation to a play in order to celebrate his male friend's birthday.",
       "Warmth": 1,
       "Chunk": 18
     },
     {
-      "Action": "Responds to Harry's teasing about his friend being a 'pervert' without anger, maintaining calm and tolerance.",
-      "Warmth": 1,
-      "Chunk": 18
-    },
-    {
-      "Action": "Looks quite confident with a happy thumbs up before turning over the exam paper.",
+      "Action": "Looks confident turning over exam paper with a happy thumbs up.",
       "Competence": 1,
       "Chunk": 18
     },
     {
-      "Action": "Wears a badly fitting suit and appears unpromising in the mirror before exams.",
-      "Competence": -1,
-      "Chunk": 18
-    },
-    {
-      "Action": "Politely declines Harry's invitation to the play due to a prior commitment to a friend's birthday.",
+      "Action": "Tries to find a proper job after struggling to find love, acknowledging the difficulty.",
       "Competence": 1,
       "Chunk": 18
     },
     {
-      "Action": "Engages in casual banter with Harry, showing some social ease but no clear indication of skill or confidence.",
+      "Action": "Dresses in a badly fitting suit and feels unremarkable among others.",
       "Competence": 0,
       "Chunk": 18
     },
     {
-      "Action": "Expresses surprise and disbelief at Jay's unusual birthday dinner plan, showing openness but no particular competence.",
-      "Competence": 0,
+      "Action": "Politely declines friend's invitation to the play for a birthday celebration, asserting personal priorities.",
+      "Competence": 1,
       "Chunk": 18
     },
     {
-      "Action": "Politely orders the meat menu without fuss.",
-      "Warmth": 0,
-      "Chunk": 19
+      "Action": "Engages in friendly banter with Harry but stands his ground without escalating.",
+      "Competence": 1,
+      "Chunk": 18
     },
     {
-      "Action": "Responds to a flirtatious greeting with embarrassment and a gentle introduction.",
+      "Action": "Expresses disbelief humorously at Jay's unusual party plans but remains open minded.",
+      "Competence": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Politely offers to share his table with two young ladies when they have no other seating.",
       "Warmth": 1,
       "Chunk": 19
     },
     {
-      "Action": "Orders the meat menu confidently without hesitation.",
+      "Action": "Embarrassed rather than boastful or rude when friend flirts loudly and humorously.",
+      "Warmth": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Engages in sincere, gentle initial conversation with Mary, showing interest and friendliness.",
+      "Warmth": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Selects the meat menu confidently at the restaurant.",
       "Competence": 1,
       "Chunk": 19
     },
     {
-      "Action": "Feels embarrassed and awkward when greeted by Joanna, showing social discomfort.",
+      "Action": "Embarrassed by flirtatious exchanges, shows discomfort.",
       "Competence": -1,
       "Chunk": 19
     },
     {
-      "Action": "Laughs at Mary's blunt comment about Joanna being a prostitute.",
-      "Warmth": -1,
-      "Chunk": 20
+      "Action": "Responds politely and engages in conversation with Mary.",
+      "Competence": 1,
+      "Chunk": 19
     },
     {
-      "Action": "Offers Mary some strawberry mousse and playfully interacts about where her mouth is.",
+      "Action": "Engages in light teasing and playful banter with Mary about names and appearances.",
       "Warmth": 1,
       "Chunk": 20
     },
     {
-      "Action": "Admits he hates Jay, showing honesty but also negativity.",
+      "Action": "Laughs when Mary calls Joanna a prostitute, indicating a relaxed and accepting attitude toward Mary’s bluntness.",
+      "Warmth": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Offers Mary some strawberry mousse in a considerate and casual manner.",
+      "Warmth": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Participates in friendly, humorous conversation despite some awkwardness.",
+      "Warmth": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Makes no evident effort to calm or redirect Jay who dominates with noisy anecdotes.",
       "Warmth": 0,
       "Chunk": 20
     },
     {
-      "Action": "Engages in light, humorous conversation and responds quickly to awkward topics without losing composure.",
+      "Action": "Makes a slightly teasing comment about someone's appearance ('wish she looked a bit more like a mouse'), but shared a laugh with her, indicating playful warmth.",
+      "Warmth": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Feels tense and shy meeting Mary for the first time, but is polite, sincere, and respectful.",
+      "Warmth": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Asks Mary for her number in a respectful, lightly humorous way, showing considerate and genuine interest.",
+      "Warmth": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Deliberately saves Mary's phone number under a nickname, 'Mary X', indicating he values the connection, showing sincerity and care.",
+      "Warmth": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Deliberately saves Mary's phone number under a discreet name on his phone.",
       "Competence": 1,
-      "Chunk": 20
+      "Chunk": 21
     },
     {
-      "Action": "Fails to pick up on social cues about the awkwardness of the conversation or the discomfort of others.",
-      "Competence": -1,
-      "Chunk": 20
-    },
-    {
-      "Action": "Shows confidence in social interaction by initiating sharing of food and playful teasing.",
-      "Competence": 1,
-      "Chunk": 20
-    },
-    {
-      "Action": "Does not demonstrate any clear skill or intelligence in the conversation beyond casual banter.",
+      "Action": "Appears tense and unsure in a high-pressure social situation (meeting Mary for the first time).",
       "Competence": 0,
-      "Chunk": 20
+      "Chunk": 21
     },
     {
-      "Action": "Makes a somewhat teasing comment about a girl's looks ('wish she looked a bit more like a mouse'), but laughs with her.",
+      "Action": "Engages politely and successfully initiates contact with Mary, handling the moment with charm despite nervousness.",
+      "Competence": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Politely tries to help an old actor by offering to help with difficult lines before the scene.",
+      "Warmth": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Persists kindly despite being brusquely rejected and kicked out by the actor.",
+      "Warmth": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Notices that an old actor might be struggling with his lines and tactfully tries to offer help backstage despite initial rejection.",
+      "Competence": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Is hustled out rudely but his intervention leads the actor to pick up the script and ultimately perform a strong defense in the play.",
+      "Competence": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Applauds loudly and looks around, utterly delighted to support Sir John’s speech.",
+      "Warmth": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Gets up and leaves his seat during a stressful moment, retreats to the theatre toilet with fists clenched.",
       "Warmth": 0,
-      "Chunk": 21
-    },
-    {
-      "Action": "Greets Mary shyly and sincerely, smiles, and expresses that meeting her was lovely.",
-      "Warmth": 1,
-      "Chunk": 21
-    },
-    {
-      "Action": "Asks Mary politely for her number 'just in case' in a considerate and respectful manner.",
-      "Warmth": 1,
-      "Chunk": 21
-    },
-    {
-      "Action": "Deliberately saves Mary's number under a special name, showing thoughtfulness and care.",
-      "Warmth": 1,
-      "Chunk": 21
-    },
-    {
-      "Action": "Deliberately saves Mary's number under a discreet name on his phone, showing forethought and carefulness.",
-      "Competence": 1,
-      "Chunk": 21
-    },
-    {
-      "Action": "Appears tense and unsure when meeting Mary for the first time, hesitates in conversation.",
-      "Competence": -1,
-      "Chunk": 21
-    },
-    {
-      "Action": "Promises to protect Mary's phone and number with a big smile.",
-      "Warmth": 1,
-      "Chunk": 22
-    },
-    {
-      "Action": "Nods silently when Mary asks if he likes her, then walks away.",
-      "Warmth": 0,
-      "Chunk": 22
-    },
-    {
-      "Action": "Shows concern when Harry shouts about his injury and asks what's wrong.",
-      "Warmth": 1,
-      "Chunk": 22
-    },
-    {
-      "Action": "Responds supportively and tries to help Harry after the disastrous play opening.",
-      "Warmth": 1,
-      "Chunk": 22
-    },
-    {
-      "Action": "Confidently asserts he would protect his phone and Mary's number, showing decisiveness and confidence.",
-      "Competence": 1,
-      "Chunk": 22
-    },
-    {
-      "Action": "Responds calmly to Harry's theatrical disaster and says 'Okay. I'll see what I can do.', indicating willingness to take responsibility and problem-solve.",
-      "Competence": 1,
-      "Chunk": 22
-    },
-    {
-      "Action": "Runs upstairs, fists clenched, showing emotional reaction but no immediate plan or action described yet.",
-      "Competence": 0,
-      "Chunk": 22
-    },
-    {
-      "Action": "Approaches an old actor backstage to help with forgotten lines, showing concern and helpfulness.",
-      "Warmth": 1,
-      "Chunk": 23
-    },
-    {
-      "Action": "Politely accepts rejection and leaves without argument despite rude dismissal.",
-      "Warmth": 1,
-      "Chunk": 23
-    },
-    {
-      "Action": "Notices the old actor struggling with lines and attempts to help by suggesting a last-minute refresher.",
-      "Competence": 1,
-      "Chunk": 23
-    },
-    {
-      "Action": "Approaches the actor diplomatically, identifying himself as a friend and trying to be helpful.",
-      "Competence": 1,
-      "Chunk": 23
-    },
-    {
-      "Action": "Is brusquely rejected and hustled out by the actor, but his intervention indirectly prompts the actor to pick up the script and improve performance.",
-      "Competence": 1,
-      "Chunk": 23
-    },
-    {
-      "Action": "Applauds loudest, looking round, utterly delighted at Sir John's speech.",
-      "Warmth": 1,
       "Chunk": 24
     },
     {
-      "Action": "Gets up and leaves his seat quietly during the forgetful actor's struggle, goes to the toilet with clenched fists.",
-      "Warmth": -1,
-      "Chunk": 24
-    },
-    {
-      "Action": "Applauds loudly and looks utterly delighted at a successful moment in the proceedings.",
+      "Action": "Applauds loudly and shows delight at a successful moment in the play.",
       "Competence": 1,
       "Chunk": 24
     },
     {
-      "Action": "Gets up and leaves his seat during a critical moment when the forgetful actor is struggling, going to the toilet and clenching his fists.",
-      "Competence": -1,
+      "Action": "Quickly recognizes the problem when the forgetful actor breaks down and then leaves his seat to move toward the exit, showing awareness and urgency in response to a critical situation.",
+      "Competence": 1,
       "Chunk": 24
     },
     {
-      "Action": "Stands in the wings with cue cards to help the forgetful actor deliver his speech successfully.",
+      "Action": "Stands in the wings during the play, helping the forgetful actor by holding cue cards with the speech written on them, enabling the actor to deliver a cracking speech.",
       "Warmth": 1,
       "Chunk": 25
     },
     {
-      "Action": "Walks off alone after being insulted by Harry, showing no confrontation or retaliation.",
-      "Warmth": 0,
+      "Action": "Walks off alone after being insulted by Harry and seems to erase 'Mary X' from his phone, indicating distancing from a past relationship.",
+      "Warmth": -1,
       "Chunk": 25
     },
     {
-      "Action": "Stands in the wings with cue cards and helps the actor deliver a cracking speech just in time, enabling the performance to succeed.",
+      "Action": "Carries huge cardboard cue cards offstage with the speech written on them, enabling the forgetful actor to deliver a cracking speech and avoid an embarrassing dry.",
       "Competence": 1,
       "Chunk": 25
     },
@@ -741,627 +516,407 @@
       "Chunk": 25
     },
     {
-      "Action": "Accepts the maitre d's apology calmly when he cannot provide information about the two girls.",
-      "Warmth": 1,
-      "Chunk": 26
+      "Action": "Attempts to find 'Mary X' in his phone's address book but realizes she has been wiped from his past, showing a lack of anticipation or preparedness for this emotional moment.",
+      "Competence": -1,
+      "Chunk": 25
     },
     {
-      "Action": "Expresses utter sorrow and walks out accompanied by a woeful song, showing vulnerability.",
+      "Action": "Responds sympathetically to Kit Kat's troubles at work and with Jimmy, calls her bosses 'Idiots', offers to get coffee and muffins for her.",
       "Warmth": 1,
-      "Chunk": 26
+      "Chunk": 27
     },
     {
-      "Action": "Glances at Harry's supportive gesture (newspaper review) but shows hate in his eyes, indicating difficulty accepting kindness.",
+      "Action": "Describes Mary as 'the prettiest girl in the world' with softness and brightness, viewed with affection.",
+      "Warmth": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Approaches Mary with a friendly greeting despite being a stranger, maintaining a polite and warm tone.",
+      "Warmth": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Fumbles awkwardly and makes a weak attempt to explain how he knows Mary's name, showing sincerity but slight social discomfort.",
+      "Warmth": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Charges over towards Mary confidently when he recognizes her, attempts to greet her despite awkwardness.",
+      "Competence": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Fails to recognize Mary is a stranger and awkwardly tries to convince her he knows her, leading to an embarrassing interaction.",
+      "Competence": -1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Admits feeling lonely and vulnerably asks if he can walk around with Mary despite her initial suspicion.",
+      "Warmth": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Responds politely and sincerely to Mary's questions, maintains friendly dialogue.",
+      "Warmth": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Turns in despair to Kit Kat after the awkward exchange with Mary, showing self-awareness and emotional sincerity.",
+      "Warmth": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Uses a light-hearted, self-deprecating comment about being a Kate Moss fan to ease tension.",
+      "Warmth": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Acknowledges his poor social interaction with Mary and Kit Kat but confidently offers to handle the situation from here.",
+      "Competence": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Approaches Mary and Joanna despite initial awkwardness and the warning from Mary about potential risks.",
+      "Competence": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Explains his loneliness honestly and attempts to connect genuinely by talking about his sister and family.",
+      "Competence": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Responds appropriately and agrees thoughtfully to Mary's comment about Kate Moss, showing listening skills and cultural awareness.",
+      "Competence": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Displays some social awkwardness and low confidence at first, indicating a struggle to engage smoothly.",
+      "Competence": -1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Expresses jealousy and discomfort upon meeting Mary's new boyfriend, but continues to engage politely in conversation.",
       "Warmth": 0,
-      "Chunk": 26
+      "Chunk": 29
     },
     {
-      "Action": "Spends multiple days sitting quietly at the gallery, seemingly withdrawn and not engaging with others.",
-      "Warmth": -1,
-      "Chunk": 26
-    },
-    {
-      "Action": "Acknowledges Kit Kat's company with appreciation, showing some friendliness and gratitude.",
-      "Warmth": 1,
-      "Chunk": 26
-    },
-    {
-      "Action": "Rushes into the restaurant to ask about two girls seen earlier, showing urgency and initiative.",
-      "Competence": 1,
-      "Chunk": 26
-    },
-    {
-      "Action": "Accepts the maitre d's inability to help without further questioning or alternative plans, showing resignation.",
-      "Competence": -1,
-      "Chunk": 26
-    },
-    {
-      "Action": "Notices an advert for a Kate Moss exhibition and immediately decides to go, demonstrating quick thinking and decisiveness.",
-      "Competence": 1,
-      "Chunk": 26
-    },
-    {
-      "Action": "Sits passively in the gallery for multiple days, waiting and looking without taking further action to find what he wants.",
-      "Competence": -1,
-      "Chunk": 26
-    },
-    {
-      "Action": "Calls Jimmy and work idiots and offers Kit Kat coffee and muffins to cheer her up.",
-      "Warmth": 1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Describes his future wife with affectionate and admiring words.",
-      "Warmth": 1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Approaches Mary to greet her despite awkwardness and tries to engage in friendly conversation.",
-      "Warmth": 1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Fumbles and gives a vague, odd explanation for knowing Mary's name, showing awkwardness but no hostility.",
-      "Warmth": 0,
-      "Chunk": 27
-    },
-    {
-      "Action": "Calls people idiots for being sacked but offers coffee and muffins to cheer up Kit Kat.",
-      "Competence": 0,
-      "Chunk": 27
-    },
-    {
-      "Action": "Describes his future wife with confidence and affection.",
-      "Competence": 1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Charges over to Mary and initiates conversation despite awkwardness.",
-      "Competence": 1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Fails to recognize Mary and makes an awkward, unconvincing attempt to identify her.",
-      "Competence": -1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Responds nervously and inconsistently when confronted by Mary about not knowing her.",
-      "Competence": -1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Compliments Mary sincerely by saying she is much prettier than his mother.",
-      "Warmth": 1,
-      "Chunk": 28
-    },
-    {
-      "Action": "Admits to feeling lonely and asks to walk with Mary and Joanna.",
-      "Warmth": 1,
-      "Chunk": 28
-    },
-    {
-      "Action": "Responds honestly and lightheartedly when asked if he is a lunatic, stalker, or bore.",
-      "Warmth": 1,
-      "Chunk": 28
-    },
-    {
-      "Action": "Turns to Kit Kat in despair after a poor social interaction, showing vulnerability.",
-      "Warmth": 1,
-      "Chunk": 28
-    },
-    {
-      "Action": "Admits he is not doing well and shows awareness of his poor social interaction ('HE ISN'T DOING WELL - AND KNOWS IT').",
-      "Competence": 0,
-      "Chunk": 28
-    },
-    {
-      "Action": "Attempts to recover social situation by taking initiative to handle it ('But let me handle it from here').",
-      "Competence": 1,
-      "Chunk": 28
-    },
-    {
-      "Action": "Approaches Mary and Joanna despite their skepticism and potential danger, showing some social courage.",
-      "Competence": 1,
-      "Chunk": 28
-    },
-    {
-      "Action": "Fails to convincingly explain his situation or make a strong impression, leading Mary and Joanna to be wary and reject him.",
-      "Competence": -1,
-      "Chunk": 28
-    },
-    {
-      "Action": "Engages in small talk about Kate Moss and agrees thoughtfully, showing some social awareness and ability to connect.",
-      "Competence": 1,
-      "Chunk": 28
-    },
-    {
-      "Action": "Tries to engage politely with Rupert despite feeling jealous and uncomfortable.",
+      "Action": "Asks Rupert questions about his relationship with Mary, showing interest despite personal discomfort.",
       "Warmth": 1,
       "Chunk": 29
     },
     {
-      "Action": "Expresses dislike and jealousy openly, making faces and showing internal bitterness.",
-      "Warmth": -1,
-      "Chunk": 29
-    },
-    {
-      "Action": "Engages in conversation with Rupert and Mary, asks questions about their relationship, and tries to maintain composure despite discomfort.",
+      "Action": "Engages in a social situation with Mary and Rupert, asking questions and following the conversation with interest, showing social awareness and composure even though he is visibly uncomfortable.",
       "Competence": 1,
       "Chunk": 29
     },
     {
-      "Action": "Shows visible discomfort and jealousy but manages to mask it with humor and curiosity.",
+      "Action": "Experiences internal discomfort and jealousy but manages to stay polite and inquisitive instead of reacting negatively or impulsively.",
       "Competence": 1,
       "Chunk": 29
     },
     {
-      "Action": "Does not confront Rupert aggressively or lose control despite feeling hurt.",
-      "Competence": 1,
-      "Chunk": 29
-    },
-    {
-      "Action": "Tries to warn Rupert about his father's trouble despite awkwardness and Rupert's suspicion.",
+      "Action": "Tries to warn Rupert about his father's trouble even though Rupert is distant and suspicious.",
       "Warmth": 1,
       "Chunk": 30
     },
     {
-      "Action": "Suddenly claims a tummy ache and rushes to the toilet, possibly avoiding social interaction.",
+      "Action": "Feigns a tummy ache to excuse himself, showing slight evasiveness rather than directness.",
       "Warmth": 0,
       "Chunk": 30
     },
     {
-      "Action": "Uses a visual imagination to understand a situation and quickly adapts by excusing himself to handle a sudden physical discomfort.",
+      "Action": "Uses a visual imagination to think ahead and fabricates a plausible reason to leave the room temporarily (tummy ache) in order to handle an urgent situation.",
       "Competence": 1,
       "Chunk": 30
     },
     {
-      "Action": "Sprints to a toilet and clenches his fist, showing physical control and composure under pressure.",
+      "Action": "Acts quickly upon seeing Rupert, improvises a serious yet vague warning about Rupert's father to provoke immediate action.",
       "Competence": 1,
       "Chunk": 30
     },
     {
-      "Action": "Arrives at a location and immediately assesses a social situation involving Rupert and others, showing situational awareness.",
+      "Action": "Anticipates Rupert might call and tries to prevent it by advising against phone contact, showing strategic thinking.",
       "Competence": 1,
       "Chunk": 30
     },
     {
-      "Action": "Realizes he should have thought through the situation more carefully, indicating a momentary lapse in foresight.",
+      "Action": "Fails to initially consider the social context fully, leading to a rushed and slightly awkward interaction where his credibility is questioned (being taken for a lunatic).",
       "Competence": -1,
       "Chunk": 30
     },
     {
-      "Action": "Communicates carefully with Rupert about sensitive information, balancing secrecy and urgency.",
-      "Competence": 1,
-      "Chunk": 30
-    },
-    {
-      "Action": "Acts quickly to prevent Rupert from calling the father, showing quick thinking and control of the situation.",
-      "Competence": 1,
-      "Chunk": 30
-    },
-    {
-      "Action": "Faces skepticism from Rupert and prepares to explain himself calmly and clearly.",
-      "Competence": 1,
-      "Chunk": 30
-    },
-    {
-      "Action": "Warns Rupert about the serious consequences and urges him to do the right thing despite personal risk.",
+      "Action": "Risks his career to help Rupert by urging him to support his father in jail, showing concern for the wellbeing of others.",
       "Warmth": 1,
       "Chunk": 31
     },
     {
-      "Action": "Shakes his head to Rupert to keep the situation confidential, showing trust and discretion.",
+      "Action": "Shakes his head to Rupert to keep information private, indicating respect and discretion.",
       "Warmth": 1,
       "Chunk": 31
     },
     {
-      "Action": "Responds humbly to Rupert's thanks by saying 'Just doing my job, friend.'",
+      "Action": "Responds modestly to Rupert's thanks by downplaying his role ('Just doing my job, friend').",
       "Warmth": 1,
       "Chunk": 31
     },
     {
-      "Action": "Approaches Mary directly and politely invites her to dinner, showing friendliness and sincerity.",
-      "Warmth": 1,
-      "Chunk": 31
-    },
-    {
-      "Action": "Clearly explains the serious situation to Rupert, taking a personal risk by revealing sensitive information and urging him to act responsibly.",
+      "Action": "Calmly explains a serious situation to Rupert despite tension; advises Rupert to act responsibly by going to the police station, showing awareness and concern for others.",
       "Competence": 1,
       "Chunk": 31
     },
     {
-      "Action": "Shakes his head to Rupert to silently instruct him not to reveal sensitive information, showing situational awareness and discretion.",
+      "Action": "Controls the situation with Rupert, signaling him not to reveal information to onlookers, demonstrating discretion and situational awareness.",
       "Competence": 1,
       "Chunk": 31
     },
     {
-      "Action": "Responds calmly and professionally when Rupert thanks him, maintaining composure under pressure.",
-      "Competence": 1,
-      "Chunk": 31
-    },
-    {
-      "Action": "Shows slight worry when Rupert says 'back in an hour,' indicating concern but also awareness of the gravity of the situation.",
+      "Action": "Shows some worry about Rupert's promise to be back in an hour, indicating emotional investment but also potential concern about lack of control over outcome.",
       "Competence": 0,
       "Chunk": 31
     },
     {
-      "Action": "Charges into a party and awkwardly introduces himself to Mary, making a somewhat forced or awkward attempt at social interaction.",
-      "Competence": 0,
+      "Action": "Approaches Mary confidently and initiates conversation smoothly, showing social ease and confidence.",
+      "Competence": 1,
       "Chunk": 31
     },
     {
-      "Action": "Compliments Mary sincerely, saying he likes her look more and prefers her generally.",
+      "Action": "Compliments Mary sincerely, showing preference for her over her friend.",
       "Warmth": 1,
       "Chunk": 32
     },
     {
-      "Action": "Engages in playful, friendly banter with Mary about Kate Moss and her job.",
+      "Action": "Engages in playful, friendly banter showing genuine interest in Mary’s job and personality.",
       "Warmth": 1,
       "Chunk": 32
     },
     {
-      "Action": "Shows genuine surprise and openness when Mary calls his job sexy.",
+      "Action": "Uses irony and humor lightly without being dismissive or cruel.",
       "Warmth": 1,
       "Chunk": 32
     },
     {
-      "Action": "Engages Mary in witty, confident conversation, showing quick thinking and social ease.",
+      "Action": "Engages in witty, intelligent banter showing quick thinking and confidence.",
       "Competence": 1,
       "Chunk": 32
     },
     {
-      "Action": "Uses irony and humor effectively to keep the conversation lively and interesting.",
-      "Competence": 1,
-      "Chunk": 32
-    },
-    {
-      "Action": "Admits uncertainty about the sexiness of his profession, showing some humility but also slight lack of confidence.",
+      "Action": "Displays genuine surprise at being called sexy, indicating some social self-awareness but also mild naivety.",
       "Competence": 0,
       "Chunk": 32
     },
     {
-      "Action": "Engages in light-hearted, playful conversation with Mary, showing ease and humor.",
+      "Action": "Engages in playful, self-deprecating banter with Mary, showing comfort and humor.",
       "Warmth": 1,
       "Chunk": 33
     },
     {
-      "Action": "Shows attentiveness and care by helping Mary with her pyjamas despite minor awkwardness.",
+      "Action": "Is careful and considerate when helping Mary with her pyjamas, noting the difficulty and thanking her.",
       "Warmth": 1,
       "Chunk": 33
     },
     {
-      "Action": "Asks what PWIDJKRALB means, showing curiosity and willingness to learn.",
-      "Competence": 1,
-      "Chunk": 33
-    },
-    {
-      "Action": "Makes a somewhat awkward analogy comparing reading for work to prostitution, showing a lack of tact and social skill.",
-      "Competence": -1,
-      "Chunk": 33
-    },
-    {
-      "Action": "Jokes about worrying sometimes, indicating some self-awareness and humor.",
-      "Competence": 0,
-      "Chunk": 33
-    },
-    {
-      "Action": "Trips over shoes when entering the bedroom, showing clumsiness.",
-      "Competence": -1,
-      "Chunk": 33
-    },
-    {
-      "Action": "Recognizes the front-opening bra and thanks Mary, showing attentiveness and adaptability.",
-      "Competence": 1,
-      "Chunk": 33
-    },
-    {
-      "Action": "Expresses modesty and self-awareness about his performance, saying 'Sorry. I'm sure it'll be better second time.'",
+      "Action": "Shows attentiveness and care in intimate moments with Mary, joking lightly and creating a comfortable atmosphere.",
       "Warmth": 1,
       "Chunk": 34
     },
     {
-      "Action": "Engages tenderly and attentively with Mary, carefully removing her pyjama top and bra with practiced ease, showing consideration and intimacy.",
+      "Action": "Repeatedly undresses Mary with practiced ease, indicating familiarity and consideration rather than clumsiness or awkwardness.",
       "Warmth": 1,
       "Chunk": 34
     },
     {
-      "Action": "Uses light humor and confidence ('Pah - amateurs.') to ease the situation, indicating a friendly and relaxed demeanor.",
+      "Action": "Apologizes modestly after their first intimate encounter, indicating sensitivity to partner's experience.",
       "Warmth": 1,
       "Chunk": 34
     },
     {
-      "Action": "Shares sincere emotional connection, calling the night 'Best night of my adult life' and showing vulnerability.",
+      "Action": "Makes light-hearted jokes to ease tension, showing friendly and sincere demeanor.",
       "Warmth": 1,
       "Chunk": 34
     },
     {
-      "Action": "Undoes Mary's bra with a practised flick, showing skill and confidence.",
+      "Action": "Practically and skillfully undoes Mary's bra with a practiced flick, showing confidence and capability in an intimate situation.",
       "Competence": 1,
       "Chunk": 34
     },
     {
-      "Action": "Acknowledges the first time was not perfect but confident it will be better next time.",
+      "Action": "Repeats actions (such as removing her pyjama top multiple times) to improve the experience, demonstrating awareness and conscientiousness.",
       "Competence": 1,
       "Chunk": 34
     },
     {
-      "Action": "Avoids her shoes when sitting down, showing attentiveness and consideration.",
+      "Action": "Asks for a moment to regroup and do better the second time, indicating self-awareness and desire to improve.",
       "Competence": 1,
       "Chunk": 34
     },
     {
-      "Action": "Refers to amateurs making a mess first time, implying his own competence in the situation.",
+      "Action": "Shows confidence in his sexual ability, jokingly dismissing others as 'amateurs'.",
       "Competence": 1,
       "Chunk": 34
     },
     {
-      "Action": "Repeatedly removes her pyjama top smoothly and confidently.",
-      "Competence": 1,
-      "Chunk": 34
-    },
-    {
-      "Action": "Expresses satisfaction and confidence about the experience and sleep afterwards.",
-      "Competence": 1,
-      "Chunk": 34
-    },
-    {
-      "Action": "Laughs when Mary misses the train and swears in frustration.",
+      "Action": "Laughs when Mary misses the train and curses in frustration.",
       "Warmth": -1,
       "Chunk": 35
     },
     {
-      "Action": "Shares tender moments with Mary over six months: carrying her when she falls asleep, dancing together, hugging, wearing matching concert T-shirts, and sharing affectionate kisses.",
+      "Action": "Shares intimate, playful moments with Mary, including dancing, carrying her when she falls asleep, and hugging Kit Kat.",
       "Warmth": 1,
       "Chunk": 35
     },
     {
-      "Action": "Sees Mary miss the train and laughs instead of helping or showing concern.",
-      "Competence": -1,
-      "Chunk": 35
-    },
-    {
-      "Action": "Manages a long-term relationship with Mary, sharing many moments and adapting to various situations over six months.",
+      "Action": "Not sure if 4 AM kiss is completely fair, shows consideration.",
       "Competence": 1,
       "Chunk": 35
     },
     {
-      "Action": "Throws a coin to the buskers, showing generosity.",
-      "Warmth": 1,
-      "Chunk": 36
-    },
-    {
-      "Action": "Engages in playful, light-hearted banter with Mary about awkward topics, showing openness and friendliness.",
-      "Warmth": 1,
-      "Chunk": 36
-    },
-    {
-      "Action": "Politely greets Mary's parents despite awkwardness, showing respect and sincerity.",
-      "Warmth": 1,
-      "Chunk": 36
-    },
-    {
-      "Action": "Throws a coin to the buskers, then allows Mary to give them a larger note, showing awareness and generosity.",
+      "Action": "Laughs when Mary misses the train, shows relaxed confidence and good humor.",
       "Competence": 1,
+      "Chunk": 35
+    },
+    {
+      "Action": "Throws a coin to the buskers, showing generosity; lets Mary handle the negotiation by giving a larger note after she pulls a face.",
+      "Warmth": 1,
       "Chunk": 36
     },
     {
-      "Action": "Responds quickly and humorously to Mary's bad news about her parents arriving unexpectedly, showing social ease and quick thinking.",
-      "Competence": 1,
+      "Action": "Responds to Mary's nervous disclosure about her parents visiting with humor and light teasing (about sex and oral sex), helping to ease tension.",
+      "Warmth": 1,
       "Chunk": 36
     },
     {
-      "Action": "Engages in light banter about awkward topics with Mary and her parents, maintaining composure and politeness.",
-      "Competence": 1,
+      "Action": "Politely greets Mary's parents despite the awkwardness of the situation, showing respect and friendliness.",
+      "Warmth": 1,
       "Chunk": 36
     },
     {
-      "Action": "Promises no oral sex to Mary's parents in an awkward attempt to be honest, which backfires and causes embarrassment.",
-      "Competence": -1,
-      "Chunk": 36
-    },
-    {
-      "Action": "Appears unsure about his living situation and relationship status when questioned by Mary and her parents.",
-      "Competence": 0,
-      "Chunk": 36
-    },
-    {
-      "Action": "Explains his living situation honestly and with a touch of humor about the 'spare bit' of the room.",
-      "Warmth": 1,
-      "Chunk": 37
-    },
-    {
-      "Action": "Invites Mary to the theatre, showing thoughtfulness and desire to share experiences.",
-      "Warmth": 1,
-      "Chunk": 37
-    },
-    {
-      "Action": "Insists on Mary not missing the theatre despite her reluctance, showing persistence but also a lack of sensitivity to her wishes.",
-      "Warmth": 0,
-      "Chunk": 37
-    },
-    {
-      "Action": "Shows excitement and openness by sharing with Rory about seeing his first real love, Charlotte.",
-      "Warmth": 1,
-      "Chunk": 37
-    },
-    {
-      "Action": "Explains his living situation clearly despite the awkwardness.",
-      "Competence": 1,
-      "Chunk": 37
-    },
-    {
-      "Action": "Invites Mary to the theatre with tickets he has already obtained, showing initiative and planning.",
-      "Competence": 1,
-      "Chunk": 37
-    },
-    {
-      "Action": "Tries to convince Mary to come out despite her reluctance, showing persistence but also a lack of sensitivity to her wishes.",
-      "Competence": 0,
-      "Chunk": 37
-    },
-    {
-      "Action": "Recognizes and identifies his first love in the theatre audience, showing observational skills and emotional awareness.",
-      "Competence": 1,
-      "Chunk": 37
-    },
-    {
-      "Action": "Gets confused about hair color when describing Charlotte, showing a minor lapse in clarity.",
-      "Competence": 0,
-      "Chunk": 37
-    },
-    {
-      "Action": "Approaches Charlotte despite initial nervousness and greets her warmly.",
-      "Warmth": 1,
-      "Chunk": 38
-    },
-    {
-      "Action": "Admits to being scarred by Charlotte's rejection and expresses relief about her having a girlfriend, showing vulnerability and honesty.",
-      "Warmth": 1,
-      "Chunk": 38
-    },
-    {
-      "Action": "Misunderstands the meaning of 'girlfriend' and awkwardly clarifies, showing some social awkwardness but no malice.",
-      "Warmth": 0,
-      "Chunk": 38
-    },
-    {
-      "Action": "Tells Tina she should be careful calling her 'girlfriend' because of old-fashioned assumptions, which could be seen as insensitive or outdated.",
+      "Action": "Jokes about oral sex in front of Mary's parents, potentially risking embarrassment for Mary and her family.",
       "Warmth": -1,
-      "Chunk": 38
+      "Chunk": 36
     },
     {
-      "Action": "Responds to Tina's coming out by saying 'No, I don't. Love that stuff....' indicating acceptance and friendliness.",
-      "Warmth": 1,
-      "Chunk": 38
+      "Action": "Throws a coin to buskers but Mary gives them a larger note instead, showing a lack of attention to handling money generously himself.",
+      "Competence": 0,
+      "Chunk": 36
     },
     {
-      "Action": "Approaches Charlotte despite almost losing his nerve, showing persistence.",
+      "Action": "Immediately tries to gauge the seriousness of Mary's 'bad news' and humorously escalates it, showing quick thinking and emotional intelligence.",
       "Competence": 1,
-      "Chunk": 38
+      "Chunk": 36
     },
     {
-      "Action": "Misunderstands the meaning of 'girlfriend' and assumes Charlotte is gay, showing a lack of social awareness.",
+      "Action": "Engages in a quick, witty, and socially aware dialogue about an awkward topic with Mary, indicating social competence and confidence.",
+      "Competence": 1,
+      "Chunk": 36
+    },
+    {
+      "Action": "Responds awkwardly and directly to Mary's parents, making a socially inappropriate joke about oral sex, which may undermine social tact.",
       "Competence": -1,
-      "Chunk": 38
+      "Chunk": 36
     },
     {
-      "Action": "Quickly tries to recover from his misunderstanding and clarifies his intent, showing adaptability.",
+      "Action": "Apologizes and excuses himself promptly after offending Mary's father, showing awareness and damage control ability.",
       "Competence": 1,
-      "Chunk": 38
+      "Chunk": 36
     },
     {
-      "Action": "Makes awkward comments about sexuality and social labels, indicating poor social tact.",
-      "Competence": -1,
-      "Chunk": 38
+      "Action": "Jokes about living arrangements with Mary in a playful, self-deprecating manner.",
+      "Warmth": 1,
+      "Chunk": 37
     },
     {
-      "Action": "Shuts down Rory's suggestion to greet the girl who broke his heart, saying 'best let sleeping dogs lie.'",
+      "Action": "Invites Mary to the theatre despite her reluctance; tries to be considerate but persists.",
+      "Warmth": 1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Shows interest in reconnecting with his first love in front of Rory, teasingly demanding she stay put.",
       "Warmth": 0,
-      "Chunk": 39
+      "Chunk": 37
     },
     {
-      "Action": "Greets Tina politely despite Rory's rude whisper, saying 'Shut up. Hello, Tina.'",
+      "Action": "Explains clearly where he lives, using humor and clarity despite confusion about the spare room.",
+      "Competence": 1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Arranges tickets for the National Theatre and invites Mary, showing planning and social initiative.",
+      "Competence": 1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Tries to convince Mary to attend theatre despite her resistance, demonstrating persistence and social confidence.",
+      "Competence": 1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Identifies his first love in the theatre audience and tells Rory to stay put, indicating quick recognition and assertiveness.",
+      "Competence": 1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Uses awkward or slightly fumbling language ('no sex. Of any kind. Especially not...') when trying to explain about living arrangements.",
+      "Competence": 0,
+      "Chunk": 37
+    },
+    {
+      "Action": "Declines to approach the girl who broke his heart three years ago, choosing to 'let sleeping dogs lie.'",
       "Warmth": 1,
       "Chunk": 39
     },
     {
-      "Action": "Responds to Charlotte's mention of seeing Kit Kat with visible displeasure ('Not happy').",
-      "Warmth": 0,
-      "Chunk": 39
-    },
-    {
-      "Action": "Engages politely with Charlotte and Rory, showing social courtesy.",
+      "Action": "Politely greets Tina, Charlotte's girlfriend, despite Rory's rude whisper.",
       "Warmth": 1,
       "Chunk": 39
     },
     {
-      "Action": "Comments on Charlotte not giving him her number, showing some insecurity but no hostility.",
+      "Action": "Responds unhappily when learning about Kit Kat seeing Jimmy, showing concern for a friend's well-being.",
+      "Warmth": 1,
+      "Chunk": 39
+    },
+    {
+      "Action": "Teases Rory with sarcasm after Rory’s crude comments about Charlotte.",
       "Warmth": 0,
       "Chunk": 39
     },
     {
-      "Action": "Decides not to approach the girl who broke his heart, saying 'best let sleeping dogs lie.'",
+      "Action": "Chooses not to approach Charlotte despite the opportunity, saying 'best let sleeping dogs lie.'",
       "Competence": 1,
       "Chunk": 39
     },
     {
-      "Action": "Responds politely and confidently when introduced to Charlotte's girlfriend Tina and when Charlotte suggests hanging out.",
+      "Action": "Responds politely and confidently to Charlotte's unexpected encounter.",
       "Competence": 1,
       "Chunk": 39
     },
     {
-      "Action": "Shows some discomfort and surprise when hearing about Kit Kat's situation and Jimmy seeing her, but asks for clarification.",
+      "Action": "Allows Rory to make awkward comments about Charlotte without correcting him immediately.",
       "Competence": 0,
       "Chunk": 39
     },
     {
-      "Action": "Engages in light, somewhat witty banter with Rory about Charlotte, showing social awareness.",
+      "Action": "Reacts with some discomfort when Charlotte mentions seeing Kit Kat via Jimmy, showing awareness and vigilance.",
       "Competence": 1,
       "Chunk": 39
     },
     {
-      "Action": "Notes that Charlotte did not give him her number, indicating awareness of social cues.",
-      "Competence": 1,
+      "Action": "Recognizes missed social cue that Charlotte does not give him her number.",
+      "Competence": 0,
       "Chunk": 39
     },
     {
-      "Action": "Responds rudely to Rory with 'Sod off'",
-      "Warmth": -1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Enjoys laughing and sharing a light moment with Charlotte about past holiday",
-      "Warmth": 1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Shows vulnerability by admitting his confidence died for a decade",
-      "Warmth": 1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Politely declines Charlotte's invitation to come up, kisses her cheek, and leaves",
-      "Warmth": 1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Runs away joyfully to avoid sex, showing self-control and respect",
-      "Warmth": 1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Correctly recalls Charlotte's reaction as laughter, not a refusal, showing attention to detail and self-awareness.",
-      "Competence": 1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Hesitates and is indecisive about whether to go up to Charlotte's hotel room despite the opportunity, showing lack of confidence and decisiveness.",
-      "Competence": -1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Decides to leave Charlotte's hotel politely and quickly, prioritizing his own important task, demonstrating self-control and clear priorities.",
-      "Competence": 1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Runs away from a sexual opportunity with visible excitement about not having sex, indicating unusual or awkward behavior that may reflect social discomfort or lack of typical confidence.",
-      "Competence": -1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Rushes to see Mary and tries to propose multiple times despite her being tired and busy.",
+      "Action": "Rushes to Mary’s flat excitedly and tries to propose multiple times, showing eagerness to commit and share a significant moment with her.",
       "Warmth": 1,
       "Chunk": 41
     },
     {
-      "Action": "Dives on top of Mary while she is sleepy, interrupting her rest.",
+      "Action": "Proposes marriage to Mary when she is clearly tired, distracted, or in inconvenient moments, showing a lack of sensitivity to her state.",
       "Warmth": -1,
       "Chunk": 41
     },
     {
-      "Action": "Shows patience and understanding when Mary is too tired or busy to respond to his proposal.",
+      "Action": "Laughs off the failed proposals with good-natured acceptance and patience, not showing frustration or anger.",
       "Warmth": 1,
       "Chunk": 41
     },
@@ -1371,1047 +926,982 @@
       "Chunk": 41
     },
     {
-      "Action": "Rushes home and lets himself into Mary's flat quickly.",
-      "Competence": 1,
-      "Chunk": 41
-    },
-    {
-      "Action": "Proposes to Mary impulsively while she is sleepy and not receptive.",
+      "Action": "Rushes excessively, displaying impatience and lack of planning.",
       "Competence": -1,
       "Chunk": 41
     },
     {
-      "Action": "Attempts to propose again at breakfast despite Mary's obvious stress and lateness.",
+      "Action": "Attempts to propose marriage multiple times despite poor timing and interruptions.",
+      "Competence": 0,
+      "Chunk": 41
+    },
+    {
+      "Action": "Shows persistence and determination in pursuing his goal to propose.",
+      "Competence": 1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Waits nervously outside while Mary showers, respecting her request for privacy.",
+      "Warmth": 1,
+      "Chunk": 42
+    },
+    {
+      "Action": "Responds promptly and politely when Mary asks for another towel.",
+      "Warmth": 1,
+      "Chunk": 42
+    },
+    {
+      "Action": "Shows nervous humor under his breath about the timing of the proposal.",
+      "Warmth": 1,
+      "Chunk": 42
+    },
+    {
+      "Action": "Proposes marriage in an unromantic but sincere and direct way.",
+      "Warmth": 1,
+      "Chunk": 42
+    },
+    {
+      "Action": "Acknowledges Mary’s desire for a more romantic proposal and accepts it with a smile.",
+      "Warmth": 1,
+      "Chunk": 42
+    },
+    {
+      "Action": "Returns to the shower to further discuss plans and improve the proposal experience.",
+      "Warmth": 1,
+      "Chunk": 42
+    },
+    {
+      "Action": "Creates a beautiful, intimate setting for the proposal, showing care and effort.",
+      "Warmth": 1,
+      "Chunk": 42
+    },
+    {
+      "Action": "Waits nervously outside the shower, showing patience and respect for Mary's privacy.",
+      "Competence": 1,
+      "Chunk": 42
+    },
+    {
+      "Action": "Proposes marriage in a blunt, unromantic manner, showing lack of social grace in a sensitive moment.",
       "Competence": -1,
-      "Chunk": 41
-    },
-    {
-      "Action": "Recognizes the poor timing of his proposal and leaves politely.",
-      "Competence": 0,
-      "Chunk": 41
-    },
-    {
-      "Action": "Waits nervously and poised to propose again despite repeated poor timing.",
-      "Competence": 0,
-      "Chunk": 41
-    },
-    {
-      "Action": "Waits nervously outside the shower, respects Mary's request for privacy.",
-      "Warmth": 1,
       "Chunk": 42
     },
     {
-      "Action": "Makes a rough, unromantic marriage proposal but shows sincerity and vulnerability.",
-      "Warmth": 1,
-      "Chunk": 42
-    },
-    {
-      "Action": "Jokes under his breath about timing of proposal, showing a playful, informal side.",
-      "Warmth": 1,
-      "Chunk": 42
-    },
-    {
-      "Action": "Gets frustrated with hair dryer noise but quickly moves on to serious proposal.",
-      "Warmth": 0,
-      "Chunk": 42
-    },
-    {
-      "Action": "Invites Mary to dinner and appreciates the beauty of the surroundings, showing thoughtfulness.",
-      "Warmth": 1,
-      "Chunk": 42
-    },
-    {
-      "Action": "Waits nervously outside the shower, shows patience and respect for Mary's privacy.",
+      "Action": "Recognizes the need to be more romantic and tries to improve the proposal by planning a better setting at the restaurant.",
       "Competence": 1,
       "Chunk": 42
     },
     {
-      "Action": "Proposes marriage in a blunt, unromantic way but follows through confidently.",
-      "Competence": 1,
-      "Chunk": 42
-    },
-    {
-      "Action": "Gets frustrated with the hair dryer noise but quickly redirects to the proposal.",
-      "Competence": 0,
-      "Chunk": 42
-    },
-    {
-      "Action": "Opens the shower curtain to suggest going out to dinner, showing initiative.",
-      "Competence": 1,
-      "Chunk": 42
-    },
-    {
-      "Action": "Works with the restaurant manager to plan the perfect proposal, demonstrating planning and effort.",
-      "Competence": 1,
-      "Chunk": 42
-    },
-    {
-      "Action": "Arranges a romantic, thoughtful proposal with attention to detail and creates a magical atmosphere for Mary.",
+      "Action": "Organizes a romantic, carefully planned and thoughtful proposal with personalized touches, including arranging coats, lights, and live music.",
       "Warmth": 1,
       "Chunk": 43
     },
     {
-      "Action": "Engages sincerely and playfully with Mary during the proposal, showing care and affection.",
+      "Action": "Smiles and nods sincerely when Mary realizes the proposal, showing openness and genuine emotion.",
       "Warmth": 1,
       "Chunk": 43
     },
     {
-      "Action": "Organizes a perfectly planned romantic proposal with attention to detail (lights, coats, music).",
+      "Action": "Tries to create a special, memorable experience tailored to Mary's preferences and reacts warmly to her comments.",
+      "Warmth": 1,
+      "Chunk": 43
+    },
+    {
+      "Action": "Organizes a thoughtful, well-planned romantic proposal involving coordination with the manager, lighting, coats, and live music to create a perfect atmosphere.",
       "Competence": 1,
       "Chunk": 43
     },
     {
-      "Action": "Uses a creative and confident approach to surprise Mary with the engagement ring and live music.",
+      "Action": "Adjusts the situation subtly with a time reversal to add live music and create an even more memorable proposal moment.",
       "Competence": 1,
       "Chunk": 43
     },
     {
-      "Action": "Responds to Mary's comment about the song choice with humor and confidence.",
-      "Competence": 1,
-      "Chunk": 43
-    },
-    {
-      "Action": "Tries to ask Mary about marriage, shows interest in her pregnancy, introduces Mary to his mother politely.",
+      "Action": "Responds with surprise and excitement to Mary’s pregnancy news.",
       "Warmth": 1,
       "Chunk": 44
     },
     {
-      "Action": "Jokes about refusing tea offered to Mary, showing mild impatience.",
-      "Warmth": 0,
+      "Action": "Introduces Mary to his mother warmly despite her nervousness.",
+      "Warmth": 1,
       "Chunk": 44
     },
     {
-      "Action": "Tries to ask Mary about an important topic but does so indirectly and hesitantly.",
+      "Action": "Makes a lighthearted comment about tea with his mother and Mary, showing casual friendliness.",
+      "Warmth": 1,
+      "Chunk": 44
+    },
+    {
+      "Action": "Engages positively and with interest in family conversation about his parents’ proposal story.",
+      "Warmth": 1,
+      "Chunk": 44
+    },
+    {
+      "Action": "Correctly advises Mary to refuse tea from his mother knowing it will take up the whole day, showing social awareness and practical knowledge.",
+      "Competence": 1,
+      "Chunk": 44
+    },
+    {
+      "Action": "Responds with surprise and engagement to Mary's pregnancy news, but does not show clear next steps or planning in this excerpt.",
       "Competence": 0,
       "Chunk": 44
     },
     {
-      "Action": "Advises Mary to refuse a cup of tea from his mother to avoid wasting the day, showing awareness of social dynamics and time management.",
+      "Action": "Displays casual, easygoing demeanor in conversations with parents and Mary, maintaining social ease without mistakes or awkwardness.",
       "Competence": 1,
       "Chunk": 44
     },
     {
-      "Action": "Introduces Mary to his mother, handling the social situation calmly.",
-      "Competence": 1,
-      "Chunk": 44
-    },
-    {
-      "Action": "Expresses frustration when Mary accepts tea, indicating a lack of control over the situation.",
+      "Action": "Leaves the situation about the proposal question somewhat open-ended without pushing for clarity, indicating passiveness.",
       "Competence": 0,
       "Chunk": 44
     },
     {
-      "Action": "Engages in casual conversation with his father, showing curiosity and interest.",
-      "Competence": 1,
-      "Chunk": 44
-    },
-    {
-      "Action": "Shares a nostalgic moment with Dad by recognizing an old Italian record and expressing surprise.",
+      "Action": "Enjoys nostalgic moment with Dad over old Italian record, shares light-hearted humor.",
       "Warmth": 1,
       "Chunk": 45
     },
     {
-      "Action": "Corrects Dad gently when he suggests Mary is crying, showing care and attentiveness.",
+      "Action": "Plays table tennis with Dad, engaging in friendly competition despite teasing.",
       "Warmth": 1,
       "Chunk": 45
     },
     {
-      "Action": "Confidently denies being upset during a tense moment in a high-stakes table tennis match with his dad.",
+      "Action": "Dismisses Dad’s teasing about tearing up with simple denial without escalating tension.",
+      "Warmth": 1,
+      "Chunk": 45
+    },
+    {
+      "Action": "Forgets an old Italian record by Jimmy Fontana but recalls it when prompted, showing some mental flexibility.",
+      "Competence": 0,
+      "Chunk": 45
+    },
+    {
+      "Action": "Confidently asserts there are no tears in his eyes despite suggestion otherwise, demonstrating emotional control.",
       "Competence": 1,
       "Chunk": 45
     },
     {
-      "Action": "Forgets about an old Italian record, showing some absent-mindedness.",
-      "Competence": -1,
-      "Chunk": 45
-    },
-    {
-      "Action": "Calls after Kit Kat to 'be gentle' when she rushes to Mary, showing concern for others' feelings.",
+      "Action": "Calls after Kit Kat to 'be gentle' before she rushes at Mary, showing concern for others' feelings.",
       "Warmth": 1,
       "Chunk": 46
     },
     {
-      "Action": "Makes a joyful announcement about marrying Mary, sharing happiness with family.",
+      "Action": "Announces his decision to marry Mary in front of family, sharing joyful news openly.",
       "Warmth": 1,
       "Chunk": 46
     },
     {
-      "Action": "Calmly announces his engagement to Mary in front of family, handling the situation with confidence.",
+      "Action": "Initiates sharing an important personal announcement confidently at a family dinner.",
       "Competence": 1,
       "Chunk": 46
     },
     {
-      "Action": "Calls after Kit Kat to be gentle but fails to prevent her from charging at Mary and causing a scene.",
-      "Competence": -1,
+      "Action": "Calls after Kit Kat to be gentle in a tense moment, showing some awareness but unable to prevent escalation.",
+      "Competence": 0,
       "Chunk": 46
     },
     {
-      "Action": "Shares news of expecting a baby with Mary, showing openness and commitment.",
-      "Warmth": 1,
-      "Chunk": 47
-    },
-    {
-      "Action": "Engages playfully with Mary’s striptease negotiation to make wedding decisions, showing humor and affection.",
-      "Warmth": 1,
-      "Chunk": 47
-    },
-    {
-      "Action": "Expresses preference to marry at home, indicating sincerity and personal attachment.",
-      "Warmth": 1,
-      "Chunk": 47
-    },
-    {
-      "Action": "Shows reluctance and lack of engagement in important wedding decisions, needing to be prompted by Mary.",
-      "Competence": -1,
-      "Chunk": 47
-    },
-    {
-      "Action": "Responds with humor and some decisiveness when pushed, e.g., choosing to marry at home and selecting a local priest.",
+      "Action": "Acknowledges impending fatherhood and upcoming wedding with calm acceptance.",
       "Competence": 1,
       "Chunk": 47
     },
     {
-      "Action": "Engages in playful banter with Mary, showing hesitation and consideration in choosing the best man.",
+      "Action": "Is largely passive and reluctant to engage in important wedding decisions.",
+      "Competence": -1,
+      "Chunk": 47
+    },
+    {
+      "Action": "Responds humorously and lightheartedly to Mary's ultimatum, showing social ease.",
+      "Competence": 1,
+      "Chunk": 47
+    },
+    {
+      "Action": "Initially unaware of the lack of wedding decisions made.",
+      "Competence": -1,
+      "Chunk": 47
+    },
+    {
+      "Action": "Openly discusses the difficult decision of choosing the best man, acknowledges flaws and strengths of friends honestly but tactfully.",
       "Warmth": 1,
       "Chunk": 48
     },
     {
-      "Action": "Calls his best friend Jay a moron but acknowledges their friendship.",
-      "Warmth": 0,
-      "Chunk": 48
-    },
-    {
-      "Action": "Shows excitement and enthusiasm about honeymoon plans, expressing willingness to go anywhere.",
+      "Action": "Struggles with indecision and honesty in front of Mary, shows vulnerability.",
       "Warmth": 1,
       "Chunk": 48
     },
     {
-      "Action": "Struggles to make a clear decision about the best man, vacillating between choices and showing indecisiveness.",
+      "Action": "Struggles to make a clear decision about the best man, flip-flopping between candidates and showing uncertainty.",
       "Competence": -1,
       "Chunk": 48
     },
     {
-      "Action": "Acknowledges the flaws of his friends honestly (e.g., calling Jay a moron, Rory boring but trying hard).",
+      "Action": "Engages in light-hearted banter and shows awareness of others' personalities (e.g., best friend's flaws, Rory's boring but effortful nature).",
       "Competence": 0,
       "Chunk": 48
     },
     {
-      "Action": "Attempts to manage a difficult social situation (choosing best man) with some humor and awareness of consequences.",
-      "Competence": 0,
+      "Action": "Demonstrates some decisiveness by ultimately selecting Rory as best man despite indecision earlier.",
+      "Competence": 1,
       "Chunk": 48
     },
     {
-      "Action": "Requests the Italian love ballad 'Il Mondo' to be played at the wedding, showing enthusiasm and joy as the bride walks down the aisle.",
+      "Action": "Chooses and requests a huge epic Italian love ballad to be played at the wedding, showing thoughtfulness and affection.",
       "Warmth": 1,
       "Chunk": 49
     },
     {
-      "Action": "Dances groovily along with his dad and the bride during the song, displaying a friendly and good-natured demeanor.",
+      "Action": "Dances groovily along with his dad and the bride during the wedding song, expressing joy and shared happiness.",
       "Warmth": 1,
       "Chunk": 49
     },
     {
-      "Action": "Chooses his dad to give a toast, smiles warmly at him, and shares a sincere moment about expressing love.",
-      "Warmth": 1,
-      "Chunk": 51
+      "Action": "Chooses and requests a meaningful, dramatic song ('Il Mondo') for the wedding, showing thoughtfulness and emotional insight.",
+      "Competence": 1,
+      "Chunk": 49
     },
     {
-      "Action": "Refers to Jay as funny and believes they can 'rein him in' during a game, showing tolerance and friendliness.",
-      "Warmth": 1,
-      "Chunk": 51
+      "Action": "Dances groovily with enthusiasm at the wedding, joining in despite potential social awkwardness.",
+      "Competence": 0,
+      "Chunk": 49
     },
     {
-      "Action": "Engages in a stripping game and allows potentially embarrassing jokes about his teenage romantic history.",
-      "Warmth": 0,
-      "Chunk": 51
+      "Action": "Manages to navigate the chaotic and dangerous wedding situation without exacerbating the chaos or causing harm.",
+      "Competence": 1,
+      "Chunk": 50
     },
     {
-      "Action": "Chooses Jay for best man speech, showing some confidence in judgment.",
+      "Action": "Relies on others (like Rory) to handle important tasks such as the best man speech, showing delegation.",
+      "Competence": 1,
+      "Chunk": 50
+    },
+    {
+      "Action": "No direct action described to indicate active leadership or problem-solving in the crisis.",
+      "Competence": 0,
+      "Chunk": 50
+    },
+    {
+      "Action": "Chooses Jay for the best man speech because he thinks Jay might be funny and manageable, showing some social judgment and planning.",
       "Competence": 1,
       "Chunk": 51
     },
     {
-      "Action": "Acknowledges his dad's toast with a smile and a light comment, showing social awareness.",
+      "Action": "Smiles appreciatively at his dad's toast, showing emotional intelligence and acknowledgement.",
       "Competence": 1,
       "Chunk": 51
     },
     {
-      "Action": "Appears nervous about the best man speech and relies on others to handle it.",
-      "Competence": -1,
+      "Action": "Responds 'You did, Dad - it was implied...' to his dad's wish that he had said 'I love you' outright, demonstrating some emotional restraint but potentially avoiding deeper communication.",
+      "Competence": 0,
       "Chunk": 51
     },
     {
-      "Action": "Tells Dad not to do something because he is happy with how it is.",
+      "Action": "Tells his dad not to make a fuss and that he is happy with things as they are.",
       "Warmth": 1,
       "Chunk": 52
     },
     {
-      "Action": "Tells his dad not to change something, expressing contentment and confidence in his own judgment.",
+      "Action": "Accepts his father's decision gracefully and reassures him it's fine as it is.",
       "Competence": 1,
       "Chunk": 52
     },
     {
-      "Action": "Makes a lighthearted comment about his mother-in-law to Harry, diffusing tension.",
+      "Action": "Does not intervene when Kit Kat is upset and getting drunk, allowing the situation to unfold without managing it.",
+      "Competence": -1,
+      "Chunk": 52
+    },
+    {
+      "Action": "Responds to Harry's rude behavior about his mother-in-law with a calm, matter-of-fact comment.",
       "Warmth": 1,
       "Chunk": 53
     },
     {
-      "Action": "Smiles at his comatose wife, showing affection and tenderness.",
+      "Action": "Smiles at his comatose wife, expressing love and devotion despite her condition.",
       "Warmth": 1,
       "Chunk": 53
     },
     {
-      "Action": "Calmly interacts with Mary at the wedding, showing confidence and composure.",
+      "Action": "Recognizes social discomfort and awkwardness around his mother-in-law's interaction with Harry and responds with light humor to ease tension.",
       "Competence": 1,
       "Chunk": 53
     },
     {
-      "Action": "Smiles at his comatose wife, showing emotional steadiness in a difficult situation.",
+      "Action": "Remains calm and attentive during Mary’s vulnerable moment when she is comatose, showing emotional presence rather than anxious or panicked behavior.",
       "Competence": 1,
       "Chunk": 53
     },
     {
-      "Action": "Nervously drives Mary to the hospital despite confusion and lack of preparation.",
+      "Action": "Tries to help by driving Mary to the hospital despite being clearly unprepared and nervous.",
       "Warmth": 1,
       "Chunk": 54
     },
     {
-      "Action": "Fails to know or confirm the hospital name despite it being his one job, causing stress to Mary.",
+      "Action": "Fails to remember the hospital name or plan the trip properly, causing frustration to Mary.",
       "Warmth": -1,
       "Chunk": 54
     },
     {
-      "Action": "Leaps out of the car to help Mary when she is about to give birth.",
+      "Action": "Listens and obeys Mary’s urgent instructions to drive despite confusion and pressure.",
       "Warmth": 1,
       "Chunk": 54
     },
     {
-      "Action": "Nervously drives in the wrong direction to the hospital despite being told the destination.",
+      "Action": "Fails to remember the hospital name and drives initially in the wrong direction despite the urgency.",
       "Competence": -1,
       "Chunk": 54
     },
     {
-      "Action": "Fails to recall the name of the hospital when asked directly.",
+      "Action": "Quickly agrees to help and attempts to drive Mary to the hospital, showing willingness to act under pressure.",
+      "Competence": 1,
+      "Chunk": 54
+    },
+    {
+      "Action": "Leaps out of the car when traffic delays them during Mary's labor.",
+      "Competence": 1,
+      "Chunk": 54
+    },
+    {
+      "Action": "Approaches strangers politely to ask them to hurry up for a photo, despite being nervous.",
+      "Warmth": 1,
+      "Chunk": 55
+    },
+    {
+      "Action": "Offers to take the photo himself to help others cooperate.",
+      "Warmth": 1,
+      "Chunk": 55
+    },
+    {
+      "Action": "Explains to grumpy teens that his wife is having a baby, trying to appeal to their sympathy.",
+      "Warmth": 1,
+      "Chunk": 55
+    },
+    {
+      "Action": "Follows the teens' unusual request to take off his shoes for the photo, showing patience and willingness to engage.",
+      "Warmth": 1,
+      "Chunk": 55
+    },
+    {
+      "Action": "Approaches and tries to manage a chaotic crowd politely despite nervousness and lack of confrontation skills.",
+      "Competence": 1,
+      "Chunk": 55
+    },
+    {
+      "Action": "Offers to take the photo himself to resolve the impasse, showing initiative and problem solving.",
+      "Competence": 1,
+      "Chunk": 55
+    },
+    {
+      "Action": "Nearly gets run over while taking the photo, indicating some risk but also dedication to task.",
+      "Competence": 0,
+      "Chunk": 55
+    },
+    {
+      "Action": "Complies with quirky demands of the teens (taking off shoes) to achieve the goal despite personal panic.",
+      "Competence": 1,
+      "Chunk": 55
+    },
+    {
+      "Action": "Runs enthusiastically to help Mary during her labor, trying to take control of the situation by finalizing the route to the hospital and preparing logistics.",
+      "Warmth": 1,
+      "Chunk": 56
+    },
+    {
+      "Action": "Calls his newborn daughter 'the most beautiful girl in the world' and reflects on the overwhelming love and fear that come with parenthood.",
+      "Warmth": 1,
+      "Chunk": 56
+    },
+    {
+      "Action": "Watches uncle hold his baby with pride and looks at his father and son, showing quiet appreciation and connection.",
+      "Warmth": 1,
+      "Chunk": 57
+    },
+    {
+      "Action": "Offers to change the baby's nappy to help Mary.",
+      "Warmth": 1,
+      "Chunk": 57
+    },
+    {
+      "Action": "Defers changing the baby to Mary, citing his work commitments without protest.",
+      "Warmth": 0,
+      "Chunk": 57
+    },
+    {
+      "Action": "Watches his baby and family with pride and care.",
+      "Competence": 1,
+      "Chunk": 57
+    },
+    {
+      "Action": "Nervously offers baby to Uncle D, showing uncertainty but willingness to try.",
+      "Competence": 0,
+      "Chunk": 57
+    },
+    {
+      "Action": "Volunteers to change the baby's nappy but reels back in shock, showing lack of readiness for practical childcare.",
       "Competence": -1,
-      "Chunk": 54
-    },
-    {
-      "Action": "Acknowledges his nervousness and tries to comply with Mary's instructions under pressure.",
-      "Competence": 0,
-      "Chunk": 54
-    },
-    {
-      "Action": "Approaches strangers nervously and politely asks them to hurry up for a photo.",
-      "Warmth": 1,
-      "Chunk": 55
-    },
-    {
-      "Action": "Offers to take the photo himself to help the group.",
-      "Warmth": 1,
-      "Chunk": 55
-    },
-    {
-      "Action": "Explains to the teens that his wife is having a baby to encourage cooperation.",
-      "Warmth": 1,
-      "Chunk": 55
-    },
-    {
-      "Action": "Complies with the teens' request to take off his shoes despite panicking.",
-      "Warmth": 1,
-      "Chunk": 55
-    },
-    {
-      "Action": "Leaps out of the car immediately when prompted to act.",
-      "Competence": 1,
-      "Chunk": 55
-    },
-    {
-      "Action": "Approaches strangers nervously and tries to expedite the photo-taking process despite not being comfortable accosting strangers.",
-      "Competence": 0,
-      "Chunk": 55
-    },
-    {
-      "Action": "Offers to take the photo himself when others refuse, successfully completing the task despite nearly getting run over.",
-      "Competence": 1,
-      "Chunk": 55
-    },
-    {
-      "Action": "Tries to explain the urgency of the situation to the grumpy teens but is ignored and panics when asked to take off his shoes.",
-      "Competence": 0,
-      "Chunk": 55
-    },
-    {
-      "Action": "Calls the baby 'the most beautiful girl in the world' and reflects sincerely on the love and fear of parenthood.",
-      "Warmth": 1,
-      "Chunk": 56
-    },
-    {
-      "Action": "Tries to quickly find the right room but apologizes politely for the mistake.",
-      "Warmth": 1,
-      "Chunk": 56
-    },
-    {
-      "Action": "Finalises the route and plans logistics carefully to avoid Abbey Road, showing preparation and foresight.",
-      "Competence": 1,
-      "Chunk": 56
-    },
-    {
-      "Action": "Mistakenly enters the wrong room at Abbey Road studios but quickly corrects himself.",
-      "Competence": 0,
-      "Chunk": 56
-    },
-    {
-      "Action": "Watches uncle hold his baby with pride and glances at his dad, showing a tender family moment.",
-      "Warmth": 1,
       "Chunk": 57
     },
     {
-      "Action": "Offers to change the baby's nappy despite being shocked and uncomfortable.",
-      "Warmth": 1,
+      "Action": "Avoids changing another nappy due to big case tomorrow, delegating responsibility.",
+      "Competence": -1,
       "Chunk": 57
     },
     {
-      "Action": "Suggests Mary change the nappy instead because he has a big case tomorrow, avoiding the unpleasant task.",
+      "Action": "Gently asks Kit Kat if she's sure she's okay before going out to dinner.",
+      "Warmth": 1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Welcomes his family warmly at the door, greeting them by name and expressing pleasure in seeing them.",
+      "Warmth": 1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Calmly opens the door to greet family and friends warmly and naturally during a social gathering.",
+      "Competence": 1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Shows awareness of practical life changes (e.g., moving to a smaller home, dealing with babies), indicating adaptability.",
+      "Competence": 1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Feels surprised and unprepared for emotional and social changes around parenthood, indicating some uncertainty.",
+      "Competence": 0,
+      "Chunk": 58
+    },
+    {
+      "Action": "Tries to keep the first birthday party small and intimate with family and close friends.",
+      "Warmth": 1,
+      "Chunk": 59
+    },
+    {
+      "Action": "Opens the door to Jimmy Kincade and immediately tries to find out about his missing sister, showing concern.",
+      "Warmth": 1,
+      "Chunk": 59
+    },
+    {
+      "Action": "Decides against having a clown at the party, recognizing it would not be successful and opts for a smaller, more appropriate gathering.",
+      "Competence": 1,
+      "Chunk": 59
+    },
+    {
+      "Action": "Opens the door to Jimmy Kincade and quickly assesses the situation regarding his missing sister Kit Kat, responding with concern and seeking clarification.",
+      "Competence": 1,
+      "Chunk": 59
+    },
+    {
+      "Action": "Reacts with visible confusion and dazed behavior when told 'that's not good' about his sister's absence, indicating momentary disorientation.",
+      "Competence": -1,
+      "Chunk": 59
+    },
+    {
+      "Action": "Requests exact details about the time and place Kit Kat left Jimmy to understand the situation fully.",
+      "Competence": 1,
+      "Chunk": 60
+    },
+    {
+      "Action": "Rushes to hospital quickly in response to emergency, showing prompt and decisive action.",
+      "Competence": 1,
+      "Chunk": 60
+    },
+    {
+      "Action": "Shows emotional response by storming past Jimmy but maintains focus on the situation.",
+      "Competence": 0,
+      "Chunk": 60
+    },
+    {
+      "Action": "Expresses worry about Kit Kat and wants to help her despite Mary advising otherwise.",
+      "Warmth": 1,
+      "Chunk": 61
+    },
+    {
+      "Action": "Acknowledges Kit Kat’s struggles gently and tries to understand her situation without judgment.",
+      "Warmth": 1,
+      "Chunk": 61
+    },
+    {
+      "Action": "Expresses concern for Kit Kat and acknowledges the problem, tries to comfort her.",
+      "Competence": 1,
+      "Chunk": 61
+    },
+    {
+      "Action": "Says 'We have to do fix it' but accepts Mary's point that Kit Kat must fix it herself.",
+      "Competence": 1,
+      "Chunk": 61
+    },
+    {
+      "Action": "Does not have a plan or concrete steps to help Kit Kat despite recognizing the issue.",
+      "Competence": -1,
+      "Chunk": 61
+    },
+    {
+      "Action": "Is mortified upon learning about Kit Kat's abortion and breakup.",
+      "Warmth": 1,
+      "Chunk": 62
+    },
+    {
+      "Action": "Admits he has mocked Kit Kat's beliefs but acknowledges he may have been wrong.",
+      "Warmth": 1,
+      "Chunk": 62
+    },
+    {
+      "Action": "Shares a secret with Kit Kat and asks her to keep it, showing trust and intimacy.",
+      "Warmth": 1,
+      "Chunk": 62
+    },
+    {
+      "Action": "Feels mortified and remains silent when Kit Kat reveals her abortion and breakup with Marcus.",
+      "Competence": 0,
+      "Chunk": 62
+    },
+    {
+      "Action": "Openly admits his skepticism about Kit Kat’s beliefs but later acknowledges they might have merit, showing openness to reconsideration.",
+      "Competence": 1,
+      "Chunk": 62
+    },
+    {
+      "Action": "Shares a secret with Kit Kat and asks for her discretion, demonstrating trust and social intelligence.",
+      "Competence": 1,
+      "Chunk": 62
+    },
+    {
+      "Action": "Stays lying awake in bed with eyes wide open, potentially indicating anxiety or inability to act decisively.",
+      "Competence": 0,
+      "Chunk": 62
+    },
+    {
+      "Action": "Shares his secret time-travel ability with Kit Kat and takes her hand to travel in time together.",
+      "Warmth": 1,
+      "Chunk": 63
+    },
+    {
+      "Action": "Brings Kit Kat back to what he calls the worst party of all time but acknowledges Jimmy is there, showing attentiveness to her experience.",
+      "Warmth": 1,
+      "Chunk": 63
+    },
+    {
+      "Action": "Sidles Kit Kat away quickly to prevent her meeting Jimmy Kincade, showing protective behavior.",
+      "Warmth": 1,
+      "Chunk": 63
+    },
+    {
+      "Action": "Confidently demonstrates time travel to Kit Kat and explains the plan to avoid her meeting Jimmy.",
+      "Competence": 1,
+      "Chunk": 63
+    },
+    {
+      "Action": "Brings Kit Kat back to a less desirable time (worst party) despite her enthusiasm for time travel.",
+      "Competence": 0,
+      "Chunk": 63
+    },
+    {
+      "Action": "Shows quick thinking by sidling Kit Kat away to prevent her meeting Jimmy as planned.",
+      "Competence": 1,
+      "Chunk": 63
+    },
+    {
+      "Action": "Sidles Kit Kat into the next room to avoid Jimmy Kincade, showing protective behavior.",
+      "Warmth": 1,
+      "Chunk": 64
+    },
+    {
+      "Action": "Watches Jimmy's predatory behavior with concern, indicating awareness and tacit support for Kit Kat.",
+      "Warmth": 1,
+      "Chunk": 64
+    },
+    {
+      "Action": "Does not intervene directly in Jimmy's inappropriate behavior, opting to watch instead.",
       "Warmth": -1,
-      "Chunk": 57
-    },
-    {
-      "Action": "Watches his baby with pride and offers to change the baby's nappy, showing willingness to take responsibility.",
-      "Competence": 1,
-      "Chunk": 57
-    },
-    {
-      "Action": "Reels back in shock at the unpleasantness of changing the nappy and quickly delegates the task to Mary, citing work commitments.",
-      "Competence": -1,
-      "Chunk": 57
-    },
-    {
-      "Action": "Shows concern by asking 'Are you sure you're okay?'",
-      "Warmth": 1,
-      "Chunk": 58
-    },
-    {
-      "Action": "Welcomes family warmly at the door with friendly greetings and humor",
-      "Warmth": 1,
-      "Chunk": 58
-    },
-    {
-      "Action": "Opens the door warmly to family and friends arriving for the birthday party, greeting them with enthusiasm and familiarity.",
-      "Competence": 1,
-      "Chunk": 58
-    },
-    {
-      "Action": "Reflects thoughtfully on the challenges and changes brought by having a baby, showing awareness but no direct action.",
-      "Competence": 0,
-      "Chunk": 58
-    },
-    {
-      "Action": "Shows no visible signs of managing or organizing the baby-related chaos beyond observation.",
-      "Competence": 0,
-      "Chunk": 58
-    },
-    {
-      "Action": "Decides against having a clown to keep the first birthday small and intimate with family and close friends.",
-      "Warmth": 1,
-      "Chunk": 59
-    },
-    {
-      "Action": "Opens the door for Jimmy Kincade and inquires politely about his sister's whereabouts.",
-      "Warmth": 1,
-      "Chunk": 59
-    },
-    {
-      "Action": "Responds with confusion and concern when Jimmy says 'that's not good' about his sister not arriving.",
-      "Warmth": 1,
-      "Chunk": 59
-    },
-    {
-      "Action": "Decides against having a clown at the party after seeing how badly it goes, opting for a smaller, more intimate gathering.",
-      "Competence": 1,
-      "Chunk": 59
-    },
-    {
-      "Action": "Opens the door to Jimmy Kincade and immediately questions him about his sister's whereabouts, showing concern and attentiveness.",
-      "Competence": 1,
-      "Chunk": 59
-    },
-    {
-      "Action": "Appears dazed and confused after Jimmy's vague warning about his sister not arriving, indicating a momentary lapse in composure or understanding.",
-      "Competence": -1,
-      "Chunk": 59
-    },
-    {
-      "Action": "Races to the hospital with Mary to be with Kit Kat after her accident.",
-      "Warmth": 1,
-      "Chunk": 60
-    },
-    {
-      "Action": "Asks Kit Kat what happened and listens to her explanation despite her condition.",
-      "Warmth": 1,
-      "Chunk": 60
-    },
-    {
-      "Action": "Blames Jimmy for the accident but allows Kit Kat to defend him.",
-      "Warmth": 0,
-      "Chunk": 60
-    },
-    {
-      "Action": "Storms past Jimmy and demands exact details about Kit Kat's departure and location, showing concern and urgency.",
-      "Warmth": 1,
-      "Chunk": 60
-    },
-    {
-      "Action": "Jokes with a nurse about the broom cupboard, showing lightheartedness in a tense situation.",
-      "Warmth": 1,
-      "Chunk": 60
-    },
-    {
-      "Action": "Asks precise questions about the accident details, demanding exact time and address.",
-      "Competence": 1,
-      "Chunk": 60
-    },
-    {
-      "Action": "Storms out past Jimmy without apparent confrontation, showing controlled but assertive behavior.",
-      "Competence": 1,
-      "Chunk": 60
-    },
-    {
-      "Action": "Quotes a thoughtful line from a song about worrying and problem-solving, indicating reflective intelligence.",
-      "Competence": 1,
-      "Chunk": 60
-    },
-    {
-      "Action": "Jokes with a nurse about a broom cupboard, showing lightheartedness and social ease.",
-      "Competence": 1,
-      "Chunk": 60
-    },
-    {
-      "Action": "Admits to cutting it fine and having to pick up Kit Kat, implying some poor time management.",
-      "Competence": -1,
-      "Chunk": 60
-    },
-    {
-      "Action": "Expresses worry about Kit Kat and wants to help her despite others' reluctance.",
-      "Warmth": 1,
-      "Chunk": 61
-    },
-    {
-      "Action": "Gently tries to talk to Kit Kat about her struggles without being harsh.",
-      "Warmth": 1,
-      "Chunk": 61
-    },
-    {
-      "Action": "Acknowledges Kit Kat as 'the best person in the world' and compares her favorably to his wife and dog.",
-      "Warmth": 1,
-      "Chunk": 61
-    },
-    {
-      "Action": "Insists on fixing Kit Kat's problems himself despite Mary saying she has to fix it herself.",
-      "Warmth": 0,
-      "Chunk": 61
-    },
-    {
-      "Action": "Expresses concern for Kit Kat and attempts to address the problem by talking to Mary and Kit Kat directly.",
-      "Competence": 1,
-      "Chunk": 61
-    },
-    {
-      "Action": "Insists on fixing Kit Kat's problems himself despite Mary's caution that she must fix it herself.",
-      "Competence": 0,
-      "Chunk": 61
-    },
-    {
-      "Action": "Shows some confusion and lack of understanding about Kit Kat's situation and struggles.",
-      "Competence": -1,
-      "Chunk": 61
-    },
-    {
-      "Action": "Is mortified upon hearing about Kit Kat's abortion and breakup, showing emotional sensitivity.",
-      "Warmth": 1,
-      "Chunk": 62
-    },
-    {
-      "Action": "Admits to teasing Kit Kat about her beliefs but does so in a playful, affectionate manner.",
-      "Warmth": 1,
-      "Chunk": 62
-    },
-    {
-      "Action": "Shares a personal secret with Kit Kat and asks her to keep it confidential, indicating trust and sincerity.",
-      "Warmth": 1,
-      "Chunk": 62
-    },
-    {
-      "Action": "Shows emotional sensitivity and mortification upon hearing about Kit Kat's abortion and breakup, indicating empathy but not necessarily competence.",
-      "Competence": 0,
-      "Chunk": 62
-    },
-    {
-      "Action": "Lies awake at night, seemingly troubled and reflective, showing self-awareness but no clear action or solution.",
-      "Competence": 0,
-      "Chunk": 62
-    },
-    {
-      "Action": "Engages in a playful yet insightful exchange with Kit Kat, acknowledging the irrationality of her beliefs but also admitting she might have a point, showing open-mindedness and intellectual flexibility.",
-      "Competence": 1,
-      "Chunk": 62
-    },
-    {
-      "Action": "Confides a secret to Kit Kat and trusts her to keep it, demonstrating social intelligence and confidence in interpersonal relationships.",
-      "Competence": 1,
-      "Chunk": 62
-    },
-    {
-      "Action": "Admits to a past mistake (relationship with Jenny Arbuthnot) and thanks Kit Kat for discretion, showing accountability and maturity.",
-      "Competence": 1,
-      "Chunk": 62
-    },
-    {
-      "Action": "Invites Kit Kat to hold his hand as they travel in time together, sharing a moment of trust and connection.",
-      "Warmth": 1,
-      "Chunk": 63
-    },
-    {
-      "Action": "Acknowledges the worst party of all time but points out a positive outcome (Kit Kat meeting Jimmy), showing a lighthearted and understanding attitude.",
-      "Warmth": 1,
-      "Chunk": 63
-    },
-    {
-      "Action": "Shows slight awkwardness when greeted by Jenny, indicating some unresolved or complicated feelings but does not act coldly.",
-      "Warmth": 0,
-      "Chunk": 63
-    },
-    {
-      "Action": "Takes initiative to help Kit Kat avoid meeting Jimmy, demonstrating care and protective behavior.",
-      "Warmth": 1,
-      "Chunk": 63
-    },
-    {
-      "Action": "Confidently explains time travel to Kit Kat and initiates the time travel experience.",
-      "Competence": 1,
-      "Chunk": 63
-    },
-    {
-      "Action": "Quickly reacts to prevent Kit Kat from meeting Jimmy Kincade by sidling her into another room.",
-      "Competence": 1,
-      "Chunk": 63
-    },
-    {
-      "Action": "Brings Kit Kat back to the worst party of all time despite her expectation of going anywhere in time.",
-      "Competence": 0,
-      "Chunk": 63
-    },
-    {
-      "Action": "Sidles Kit Kat into the next room to avoid Jimmy Kincade.",
-      "Warmth": 1,
       "Chunk": 64
     },
     {
-      "Action": "Tells Kit Kat 'Not this time you don’t' when she mentions having sex later.",
-      "Warmth": 0,
-      "Chunk": 64
-    },
-    {
-      "Action": "Watches Jimmy's inappropriate behavior and supports Kit Kat's discomfort.",
-      "Warmth": 1,
-      "Chunk": 64
-    },
-    {
-      "Action": "Leads Kit Kat away from Jimmy and avoids confrontation directly.",
-      "Warmth": 0,
-      "Chunk": 64
-    },
-    {
-      "Action": "Sidles Kit Kat into the next room quickly to avoid meeting Jimmy Kincade.",
+      "Action": "Sidles Kit Kat into the next room to avoid meeting Jimmy Kincade.",
       "Competence": 1,
       "Chunk": 64
     },
     {
-      "Action": "Firmly tells Kit Kat 'Not this time you don’t' when she suggests having sex later, showing control and decisiveness.",
+      "Action": "Watches Jimmy's behavior closely and analyzes the situation with awareness.",
       "Competence": 1,
       "Chunk": 64
     },
     {
-      "Action": "Directs Kit Kat and himself to retreat into the next room to avoid Jimmy's gaze and potential trouble.",
+      "Action": "Quickly redirects Kit Kat away from Jimmy and defuses potential social conflict by moving to the next room.",
       "Competence": 1,
       "Chunk": 64
     },
     {
-      "Action": "Watches Jimmy carefully and assesses the situation as Jimmy approaches a girl, showing awareness and caution.",
-      "Competence": 1,
-      "Chunk": 64
-    },
-    {
-      "Action": "Does not intervene directly when Jimmy behaves inappropriately but stays observant and lets Kit Kat handle the confrontation.",
+      "Action": "Lets Kit Kat confront Jimmy while he remains mostly passive in the situation.",
       "Competence": 0,
       "Chunk": 64
     },
     {
-      "Action": "Expresses genuine concern for Kit Kat's future and wellbeing, hoping she avoids bad influences and a miserable life.",
+      "Action": "Expresses genuine concern for Kit Kat's future, hoping she avoids bad influences and unhappy circumstances.",
       "Warmth": 1,
       "Chunk": 65
     },
     {
-      "Action": "Shows sincere emotional vulnerability by admitting he might lose Kit Kat.",
+      "Action": "Acknowledges possibility of losing Kit Kat, showing vulnerability and sincere care.",
       "Warmth": 1,
       "Chunk": 65
     },
     {
-      "Action": "Thanks the sweeper politely and acknowledges the situation with light humor.",
+      "Action": "Politely asks the cleaner to wait briefly, showing consideration despite the unusual situation.",
       "Warmth": 1,
       "Chunk": 65
     },
     {
-      "Action": "Clenches Kit Kat’s hand, showing physical affection and connection.",
-      "Warmth": 1,
-      "Chunk": 65
-    },
-    {
-      "Action": "Takes decisive action to leave immediately after a tense moment, showing confidence and control.",
+      "Action": "Speaks seriously about avoiding bad situations and people to improve life circumstances, showing foresight and concern.",
       "Competence": 1,
       "Chunk": 65
     },
     {
-      "Action": "Expresses serious concern and hopes for a better future, demonstrating thoughtful insight and emotional intelligence.",
+      "Action": "Leads Kit Kat confidently to a hidden location and manages an unusual situation (hiding in a broom cupboard) with calmness.",
       "Competence": 1,
       "Chunk": 65
     },
     {
-      "Action": "Navigates a potentially awkward situation in the pizza restaurant by calmly acknowledging the cleaner and asking for a moment, showing social awareness and composure.",
+      "Action": "Responds politely yet firmly to the cleaner, managing a social interaction smoothly despite the odd setting.",
       "Competence": 1,
       "Chunk": 65
     },
     {
-      "Action": "Beams with happiness after completing a task, showing genuine delight.",
+      "Action": "Expresses uncertainty about the future with 'God only knows', indicating some lack of control or knowledge about upcoming events.",
+      "Competence": 0,
+      "Chunk": 65
+    },
+    {
+      "Action": "Beams with happiness after resolving a situation, showing sincere joy.",
       "Warmth": 1,
       "Chunk": 66
     },
     {
-      "Action": "Greets Mary warmly and expresses eagerness to help with dinner.",
+      "Action": "Greeted warmly by Mary, responds with affectionate banter about feeding his child, indicating fondness and care.",
       "Warmth": 1,
       "Chunk": 66
     },
     {
-      "Action": "Welcomes and embraces a child who is not his own, showing openness and affection despite initial shock.",
+      "Action": "Holds out his arms in shock to a child who hugs him, responding gently despite confusion.",
       "Warmth": 1,
       "Chunk": 66
     },
     {
-      "Action": "Heads back on the train to London beaming with happiness, indicating a successful completion of a task ('Job done').",
+      "Action": "Heads back up on the train beaming with happiness after completing his task; clearly satisfied with his progress.",
       "Competence": 1,
       "Chunk": 66
     },
     {
-      "Action": "Responds to Mary’s request to do dinner with enthusiasm and willingness ('I can't think of anything I'd love to do more').",
+      "Action": "Responds warmly and supportively to Mary when asked to do dinner, showing willingness and attentiveness to family needs.",
       "Competence": 1,
       "Chunk": 66
     },
     {
-      "Action": "Shows affectionate and confident behavior towards the child, despite the shock of the child not being his own, by holding out his arms to comfort the child.",
+      "Action": "Catches the unexpected and potentially shocking moment of a child who is not his own but behaves calmly and kindly, holding out his arms in a welcoming way.",
       "Competence": 1,
       "Chunk": 66
     },
     {
-      "Action": "Holds the child tightly despite horror, puts him down gently, and tells him to stay put while he gathers himself.",
+      "Action": "Holds the child who calls him 'Dad' tightly despite being horrified, then puts him down gently and talks calmly to him.",
       "Warmth": 1,
       "Chunk": 67
     },
     {
-      "Action": "Clenches fists alone in bathroom, showing internal struggle but no outward anger or blame.",
-      "Warmth": 0,
-      "Chunk": 67
-    },
-    {
-      "Action": "Speaks sincerely and openly with his dad about difficult realities, ends with 'Love you, Dad.'",
+      "Action": "Clenches his fists in private, showing internal struggle and emotional vulnerability.",
       "Warmth": 1,
       "Chunk": 67
     },
     {
-      "Action": "Expresses worry about Kit Kat and Jimmy, showing concern for others.",
+      "Action": "Conveys concern and worry to Kit Kat about their relationships, showing care and openness.",
       "Warmth": 1,
       "Chunk": 67
     },
     {
-      "Action": "Holds the child tightly despite being horrified, tries to manage the situation calmly by putting the child down and instructing him to stay put.",
+      "Action": "Handles the situation with the unexpected child by staying calm enough to hold the child and put him down gently before excusing himself to collect his thoughts.",
       "Competence": 1,
       "Chunk": 67
     },
     {
-      "Action": "Responds to Mary’s question with contradictory answers ('Yes. No. I’m great.') and then isolates himself in the bathroom clenching his fists, showing internal struggle and lack of emotional control.",
+      "Action": "Expresses visible horror and distress at the situation, needing to isolate himself to regain composure.",
       "Competence": -1,
       "Chunk": 67
     },
     {
-      "Action": "Has a serious conversation with his dad about the impossibility of changing the past, showing understanding and acceptance of complex information.",
+      "Action": "Initiates a serious conversation with his dad about time travel rules and understands the consequences, showing insight and acceptance of difficult realities.",
       "Competence": 1,
       "Chunk": 67
     },
     {
-      "Action": "Expresses worry about people close to him (Kit Kat and Jimmy) and initiates conversations about difficult topics, showing awareness and proactive concern.",
+      "Action": "Acknowledges the limitations of time travel with a realistic and measured attitude, not overestimating his capabilities.",
       "Competence": 1,
       "Chunk": 67
     },
     {
-      "Action": "Sits by Kit Kat’s hospital bed all night, refusing to leave until they find a way to prevent the accident from happening again.",
+      "Action": "Expresses worry about friends and relationships, showing concern but no clear action or solution yet.",
+      "Competence": 0,
+      "Chunk": 67
+    },
+    {
+      "Action": "Sits by Kit Kat’s hospital bed all night, refuses to leave until they find a way to prevent her crash happening again.",
       "Warmth": 1,
       "Chunk": 68
     },
     {
-      "Action": "Encourages Kit Kat to be more careful and responsible about her driving and drinking, showing concern for her well-being.",
+      "Action": "Insists Kit Kat reflect on and improve her behavior to avoid future accidents, showing care and concern.",
       "Warmth": 1,
       "Chunk": 68
     },
     {
-      "Action": "Grimaces and does not join in the family gathering fully, indicating internal turmoil but not withdrawing completely.",
+      "Action": "Grimaces and withholds immediate involvement with the group when Kit Kat is missing, showing internal turmoil.",
       "Warmth": 0,
       "Chunk": 68
     },
     {
-      "Action": "Sits vigilantly by Kit Kat's hospital bed all night, refuses to leave until a solution is found to prevent the car crash from happening again, engages Kit Kat in a serious conversation about changing her behavior.",
+      "Action": "Sits vigil at Kit Kat's hospital bed, refuses to leave until a solution is found to prevent future accidents.",
       "Competence": 1,
       "Chunk": 68
     },
     {
-      "Action": "Grimaces and appears to be in turmoil, does not join in the party conversation fully, indicating internal struggle or hesitation.",
+      "Action": "Encourages Kit Kat to think through and take responsibility for avoiding future accidents rather than providing a quick fix.",
+      "Competence": 1,
+      "Chunk": 68
+    },
+    {
+      "Action": "Lets Kit Kat’s car crash happen again instead of preventing it.",
+      "Competence": -1,
+      "Chunk": 68
+    },
+    {
+      "Action": "Gives Kit Kat reasonable but challenging advice (stop drinking before teatime) and pushes for more comprehensive change.",
+      "Competence": 1,
+      "Chunk": 68
+    },
+    {
+      "Action": "Remains in turmoil and doesn't participate fully in social settings (baby’s party).",
       "Competence": 0,
       "Chunk": 68
     },
     {
-      "Action": "Smiles warmly and encourages Kit Kat to consider dating someone nice, showing support and kindness.",
-      "Warmth": 1,
-      "Chunk": 69
-    },
-    {
-      "Action": "Invites Kit Kat to dinner with a potential date, demonstrating thoughtfulness and friendliness.",
-      "Warmth": 1,
-      "Chunk": 69
-    },
-    {
-      "Action": "Firmly tells Jimmy he is out of the picture, using strong language but protecting Kit Kat's boundaries.",
-      "Warmth": 0,
-      "Chunk": 69
-    },
-    {
-      "Action": "Hugs Posy with all his power and expresses desire for another child, showing affection and family warmth.",
-      "Warmth": 1,
-      "Chunk": 69
-    },
-    {
-      "Action": "Sits patiently in his chair, listens attentively to Kit Kat, and engages thoughtfully in conversation about her future and potential partners.",
+      "Action": "Sits patiently in his chair, listens carefully, jokes intelligently about Matt Damon and his family to ease Kit Kat's concerns, and proposes a plan to set her up with someone.",
       "Competence": 1,
       "Chunk": 69
     },
     {
-      "Action": "Uses humor and knowledge (e.g., joking about Matt Damon and his brothers) to ease tension and connect with Kit Kat.",
+      "Action": "Assertively and decisively tells Jimmy to stay out of the picture, showing clear boundaries and control of the situation.",
       "Competence": 1,
       "Chunk": 69
     },
     {
-      "Action": "Takes initiative by suggesting asking Teddy Frankman to dinner, showing social confidence and decisiveness.",
+      "Action": "Rushing in to hug Posy with vigor when he arrives home, demonstrating warmth and emotional connection rather than hesitation or awkwardness.",
       "Competence": 1,
       "Chunk": 69
     },
     {
-      "Action": "Firmly tells Jimmy to leave the hospital corridor, asserting boundaries clearly and confidently.",
-      "Competence": 1,
-      "Chunk": 69
-    },
-    {
-      "Action": "Rushes in and hugs Posy with all his power, showing emotional warmth but no direct indication of competence in this action.",
-      "Competence": 0,
-      "Chunk": 69
-    },
-    {
-      "Action": "Expresses deep love and affection for his children and wife, showing appreciation for the limitless nature of love.",
+      "Action": "Plays affectionately with his children, expresses deep and limitless love for his family.",
       "Warmth": 1,
       "Chunk": 70
     },
     {
-      "Action": "Engages playfully with his children, swinging his son around and making lighthearted comments about Posy.",
+      "Action": "Reassures and compliments Mary while she struggles with her dress choices.",
       "Warmth": 1,
       "Chunk": 70
     },
     {
-      "Action": "Supports Mary’s outfit choices with compliments and humor, showing attentiveness and encouragement.",
-      "Warmth": 1,
-      "Chunk": 70
-    },
-    {
-      "Action": "Encourages Mary confidently about her dress choices, providing clear and decisive feedback.",
+      "Action": "Comforts Mary who is nervous about dressing for a dinner with a famous author, helps her decide on an outfit by giving clear, concise opinions.",
       "Competence": 1,
       "Chunk": 70
     },
     {
-      "Action": "Shows understanding of social situations by helping Mary prepare for an important dinner.",
-      "Competence": 1,
-      "Chunk": 70
-    },
-    {
-      "Action": "Makes lighthearted comments about Posy’s trousers falling down, showing attentiveness but not intervening to prevent the fall.",
+      "Action": "Jokes about Posy breaking a record despite her trousers falling down, showing playful engagement but no obvious skill or intelligence.",
       "Competence": 0,
       "Chunk": 70
     },
     {
-      "Action": "Supports Mary's choice about high heels, says 'whatever makes you feel good.'",
+      "Action": "Supports Mary’s choice about high heels to make her feel good.",
       "Warmth": 1,
       "Chunk": 71
     },
     {
-      "Action": "Compliments Mary's dress choices sincerely.",
+      "Action": "Compliments Mary sincerely on her dress choices.",
       "Warmth": 1,
       "Chunk": 71
     },
     {
-      "Action": "Leaves children unattended with the only copy of the manuscript, causing distress.",
+      "Action": "Leaves the children alone with the only copy of the manuscript, causing a big mess.",
       "Warmth": -1,
       "Chunk": 71
     },
     {
-      "Action": "Attempts to leave the room when Mary is upset, but then tries to calm the situation and help reconstruct the manuscript.",
+      "Action": "Tries to leave the room when Mary is upset, but then stops.",
       "Warmth": 0,
       "Chunk": 71
     },
     {
-      "Action": "Supports Mary's choice about high heels and tries to boost her confidence.",
+      "Action": "Attempts to calm Mary and suggests reconstructing the manuscript after the mess.",
+      "Warmth": 1,
+      "Chunk": 71
+    },
+    {
+      "Action": "Supports Mary's outfit decisions positively and tries to boost her confidence.",
       "Competence": 1,
       "Chunk": 71
     },
     {
-      "Action": "Admits confusion and frustration about dress choices ('starting to go a bit mad').",
-      "Competence": 0,
-      "Chunk": 71
-    },
-    {
-      "Action": "Leaves children unattended in a room with the only copy of an important manuscript, causing a crisis.",
+      "Action": "Leaves the children unattended in a room full of important papers, showing poor judgment and irresponsibility.",
       "Competence": -1,
       "Chunk": 71
     },
     {
-      "Action": "Attempts to leave the room during a crisis despite Mary's insistence to stay and face the problem.",
-      "Competence": -1,
-      "Chunk": 71
-    },
-    {
-      "Action": "Tries to calm Mary down and suggests reconstructing the manuscript after the disaster.",
+      "Action": "Attempts to calm Mary down and suggests reconstructing the destroyed manuscript, showing some problem-solving inclination under pressure.",
       "Competence": 0,
       "Chunk": 71
     },
     {
-      "Action": "Refuses to answer the phone to avoid interrupting Mary, showing consideration.",
+      "Action": "Respects Mary's demand and does not answer the phone despite ringing persistently.",
       "Warmth": 1,
       "Chunk": 72
     },
     {
-      "Action": "Listens quietly on the phone and calmly informs Mary about their father's condition.",
+      "Action": "Takes the phone calmly and listens before explaining the situation to Mary.",
       "Warmth": 1,
       "Chunk": 72
     },
     {
-      "Action": "Engages politely with his mother and uncle despite the tense situation.",
+      "Action": "Shows concern by promptly deciding to visit after hearing about his father’s condition and calling Kit Kat.",
       "Warmth": 1,
       "Chunk": 72
     },
     {
-      "Action": "Acknowledges difficulty in reconstructing the chewed page and downplays its importance, showing realistic assessment.",
+      "Action": "Recognizes the difficulty of reconstructing the chewed page and does not make unrealistic promises about it.",
       "Competence": 1,
       "Chunk": 72
     },
     {
-      "Action": "Insists on going to the little room despite the phone ringing, showing focus and determination.",
+      "Action": "Refrains from answering the ringing phone despite pressure, showing self-control.",
       "Competence": 1,
       "Chunk": 72
     },
     {
-      "Action": "Listens calmly on the phone and quickly decides to visit his father and call Kit Kat, showing decisiveness and responsibility.",
+      "Action": "Takes the phone and listens calmly when it is finally answered, then coordinates next steps (calling Kit Kat, going up to check on Dad).",
       "Competence": 1,
       "Chunk": 72
     },
     {
-      "Action": "Admits the truth about his mother's illness to his father despite the awkwardness.",
+      "Action": "Initially suggests reconstructing the page without strong confidence that it will be easy or successful.",
+      "Competence": 0,
+      "Chunk": 72
+    },
+    {
+      "Action": "Admits painful truth about his mother's illness to his father, initiates a serious conversation despite awkwardness.",
       "Warmth": 1,
       "Chunk": 73
     },
     {
-      "Action": "Initiates a hug with his father after a difficult conversation.",
+      "Action": "Walks toward his father and embraces him despite previous tension.",
       "Warmth": 1,
       "Chunk": 73
     },
     {
-      "Action": "Engages in a sincere and honest conversation with his father about a painful family issue.",
+      "Action": "Acknowledges the repeated and difficult conversations with his father about the illness.",
       "Warmth": 1,
       "Chunk": 73
     },
     {
-      "Action": "Confronts his father honestly about the cancer diagnosis and insists on hearing the truth despite the emotional difficulty.",
+      "Action": "Discusses his father's illness candidly and seeks to understand the situation clearly, displaying emotional intelligence and openness.",
       "Competence": 1,
       "Chunk": 73
     },
     {
-      "Action": "Acknowledges the repeated difficult conversations with his father and maintains composure, showing emotional intelligence and maturity.",
+      "Action": "Remembers past conversations and attempts to improve communication with his father.",
       "Competence": 1,
       "Chunk": 73
     },
     {
-      "Action": "Does not avoid the painful reality and initiates a meaningful, if awkward, dialogue with his father.",
+      "Action": "Accepts the emotional awkwardness and offers a hug to his father, showing maturity and confidence in handling difficult emotional moments.",
       "Competence": 1,
       "Chunk": 73
     },
     {
-      "Action": "Expresses feeling cheated about life circumstances, showing vulnerability.",
+      "Action": "Expresses feeling 'a bit cheated' about life despite understanding its difficulties.",
       "Warmth": 1,
       "Chunk": 74
     },
     {
-      "Action": "Offers to help his father and mother with their difficult situation.",
+      "Action": "Asks his dad if there is anything he can do to help with his illness.",
       "Warmth": 1,
       "Chunk": 74
     },
     {
-      "Action": "Asks if there is anything he can do to help when his father reveals the illness.",
+      "Action": "Offers to help his sick father by asking if there is anything he can do.",
       "Competence": 1,
       "Chunk": 74
     },
     {
-      "Action": "Expresses feeling cheated about life despite understanding the situation.",
+      "Action": "Decides to listen and learn from his father's advice to save time on learning a secret.",
+      "Competence": 1,
+      "Chunk": 74
+    },
+    {
+      "Action": "Expresses feeling cheated about life circumstances but continues to engage constructively.",
       "Competence": 0,
       "Chunk": 74
     },
     {
-      "Action": "Decides to hear the secret directly from his father instead of trying to find it out himself, to save time.",
-      "Competence": 1,
-      "Chunk": 74
-    },
-    {
-      "Action": "Says to Mary, 'You’re such a wonderful woman. I’m so lucky to have you.' with a tear falling down her cheek.",
+      "Action": "Comforts Mary by calling her a wonderful woman and expressing he is lucky to have her.",
       "Warmth": 1,
       "Chunk": 75
     },
     {
-      "Action": "Is impatient on the phone with Kit Kat, trying to get off the call quickly.",
+      "Action": "Is impatient and tries to quickly end a phone call with Kit Kat during work.",
       "Warmth": -1,
       "Chunk": 75
     },
     {
-      "Action": "Smiles warmly at Rory and acknowledges a clever point made by another lawyer.",
+      "Action": "Listens carefully to his father’s advice and thanks him politely.",
+      "Competence": 1,
+      "Chunk": 75
+    },
+    {
+      "Action": "Thinks deeply about what his father said on the train, showing reflection and consideration.",
+      "Competence": 1,
+      "Chunk": 75
+    },
+    {
+      "Action": "Manages a difficult legal case, attends long meetings, and handles work responsibilities despite monotony.",
+      "Competence": 1,
+      "Chunk": 75
+    },
+    {
+      "Action": "Rushes lunch and impatiently tries to end a phone call while walking to court.",
+      "Competence": 0,
+      "Chunk": 75
+    },
+    {
+      "Action": "Smiles at Rory and receives a warm smile back, acknowledging him with a friendly gesture (secret yawn mime)",
       "Warmth": 1,
       "Chunk": 76
     },
     {
-      "Action": "Is tired, bored, and eager to go to bed after a tough day, showing little engagement with Mary beyond brief answers.",
+      "Action": "Says to the jury that something was a very good point, showing respect and consideration for others' ideas",
+      "Warmth": 1,
+      "Chunk": 76
+    },
+    {
+      "Action": "Appears tired, bored, and eager to go to bed after a tough day, showing minimal engagement with Mary beyond brief answers",
       "Warmth": 0,
       "Chunk": 76
     },
     {
-      "Action": "Successfully sums up in court and achieves a 'not guilty' verdict for his client despite tension and worry.",
+      "Action": "Successfully sums up his case in court under pressure and obtains a not guilty verdict for his client.",
       "Competence": 1,
       "Chunk": 76
     },
     {
-      "Action": "Acknowledges a clever point made by another lawyer during a meeting, showing attentiveness and professional respect.",
+      "Action": "Manages to recognize a clever point made by the opposing lawyer and acknowledges it.",
       "Competence": 1,
       "Chunk": 76
     },
     {
-      "Action": "Rushes lunch, indicating possible poor time management or stress.",
+      "Action": "Appears bored, tired, and rushed during the day, showing some signs of fatigue but still functioning.",
       "Competence": 0,
       "Chunk": 76
     },
@@ -2421,202 +1911,167 @@
       "Chunk": 77
     },
     {
-      "Action": "Takes a phone call from Kit Kat despite being in a rush, speaks warmly and supportively.",
+      "Action": "Takes an important phone call despite being late, speaks warmly and encouragingly to Kit Kat.",
       "Warmth": 1,
       "Chunk": 77
     },
     {
-      "Action": "Looks into the jury's eyes to see them as real people and shows care for his client.",
+      "Action": "Looks at the jury as real people and cares about his client during the courtroom summary.",
       "Warmth": 1,
       "Chunk": 77
     },
     {
-      "Action": "Responds positively and civilly to the girl serving him, showing social awareness and confidence.",
+      "Action": "Enjoys scanning the food and picks out something nice, responds positively and civilly to the girl serving him.",
       "Competence": 1,
       "Chunk": 77
     },
     {
-      "Action": "Takes an important phone call despite being late, manages to communicate effectively and maintain composure.",
+      "Action": "Takes a phone call from Kit Kat despite being pressed for time, manages the conversation well, confirms availability quickly, and promises to call back later.",
       "Competence": 1,
       "Chunk": 77
     },
     {
-      "Action": "Sprints with Rory to court, showing urgency and commitment to responsibilities.",
+      "Action": "Sprints with Rory to the courtroom to be on time despite being late, showing urgency and commitment.",
       "Competence": 1,
       "Chunk": 77
     },
     {
-      "Action": "Shifts perspective to appreciate the courtroom's grandeur and treats jury and client with respect and seriousness.",
+      "Action": "Shifts perspective in court to appreciate the environment and the jury, shows empathy and seriousness towards clients and jury.",
       "Competence": 1,
       "Chunk": 77
     },
     {
-      "Action": "Shares a warm handshake and a huge smile with his overjoyed client after a not guilty verdict, showing genuine care and pride in others' correct decisions.",
+      "Action": "Shares a warm handshake and a huge smile with his overjoyed client after a not guilty verdict.",
       "Warmth": 1,
       "Chunk": 78
     },
     {
-      "Action": "Looks into the jury's eyes seeing them as real people seriously doing their job, demonstrating respect and sincerity.",
+      "Action": "Looks into the jurors’ eyes seeing them as real people, respecting their role seriously.",
       "Warmth": 1,
       "Chunk": 78
     },
     {
-      "Action": "Gives Mary a big smile after describing a terrible day ironically, showing a playful and affectionate side.",
+      "Action": "Gives Mary a big smile despite describing a terrible day with dark humor.",
       "Warmth": 1,
       "Chunk": 78
     },
     {
-      "Action": "Sees the courtroom as grand and civilized, connects sincerely with jury and client, delivers his summary with power and relish, and shows genuine relief and pride at the verdict.",
+      "Action": "Delivers a courtroom summary with genuine care for the client and jury, seeing jurors as real people and engaging them effectively.",
       "Competence": 1,
       "Chunk": 78
     },
     {
-      "Action": "Looks at his watch, accepts it's late, relaxes and enjoys music on the train home, showing calm composure after a stressful day.",
+      "Action": "Shows appropriate and sincere emotional response after the verdict, balancing relief with professionalism.",
       "Competence": 1,
       "Chunk": 78
     },
     {
-      "Action": "Responds to Mary’s teasing with a big smile and ironic exaggeration about a bad day, showing emotional resilience and a positive attitude despite difficulties.",
+      "Action": "After a long and challenging day, relaxes and appreciates simple pleasures like music, indicating emotional resilience and self-awareness.",
       "Competence": 1,
       "Chunk": 78
     },
     {
-      "Action": "Sits with his dad during a difficult moment, listens attentively as his dad reads aloud, responds supportively about family members' appearances and preparations.",
-      "Warmth": 1,
-      "Chunk": 79
-    },
-    {
-      "Action": "Shows visible emotion with tears in his eyes, indicating sincerity and vulnerability.",
-      "Warmth": 1,
-      "Chunk": 79
-    },
-    {
-      "Action": "Changes out of his suit into normal clothes before joining his dad, possibly indicating discomfort or a need for privacy.",
-      "Warmth": 0,
-      "Chunk": 79
-    },
-    {
-      "Action": "Changes from a suit into normal clothes before facing his dad, showing emotional preparation and self-awareness.",
+      "Action": "Changes from suit to normal clothes to compose himself before facing his father, showing emotional regulation and presence of mind.",
       "Competence": 1,
       "Chunk": 79
     },
     {
-      "Action": "Responds calmly and supportively to his dad's reading and conversation, indicating emotional intelligence and presence.",
+      "Action": "Engages attentively with his father by listening and responding appropriately during their final moments together.",
       "Competence": 1,
       "Chunk": 79
     },
     {
-      "Action": "Shows tears in his eyes but maintains composure during a difficult moment, demonstrating emotional resilience.",
+      "Action": "Provides reassuring and confident remarks about others' appearances and arrangements (e.g., Uncle D's suit, Mary's dress, the music), indicating careful attention to detail and reliability.",
       "Competence": 1,
       "Chunk": 79
     },
     {
-      "Action": "Keeps track of details like Uncle D's suit, Mary’s dress, and the Stevie Wonder track, showing attentiveness and reliability.",
-      "Competence": 1,
-      "Chunk": 79
-    },
-    {
-      "Action": "Says 'Tough...' thoughtfully after the funeral, indicating reflective thinking but also possible emotional struggle.",
+      "Action": "Appears overwhelmed emotionally (tears in eyes) but still manages to show up and participate in difficult family moments.",
       "Competence": 0,
       "Chunk": 79
     },
     {
-      "Action": "Helps lay the kids to bed and shares a quiet moment with Mary after a long day.",
+      "Action": "Says little during the crucial emotional moments, which might suggest a reserved or passive approach rather than proactive engagement.",
+      "Competence": 0,
+      "Chunk": 79
+    },
+    {
+      "Action": "Comfortably discusses family planning with Mary, listens to her thoughts and acknowledges the significance of the decision.",
       "Warmth": 1,
       "Chunk": 80
     },
     {
-      "Action": "Engages in a lighthearted conversation with Mary about having another child, showing openness and consideration.",
+      "Action": "Leads the bedtime routine with the kids, showing involvement and care.",
       "Warmth": 1,
       "Chunk": 80
     },
     {
-      "Action": "Expresses knowledge and preparedness about the hospital route, indicating responsibility and care.",
-      "Warmth": 1,
-      "Chunk": 80
-    },
-    {
-      "Action": "Leaves Mary momentarily to finish something in the dark with clenched fists, suggesting internal tension or stress.",
-      "Warmth": 0,
-      "Chunk": 80
-    },
-    {
-      "Action": "Engages thoughtfully in conversation about family planning, showing awareness of the significance of decisions.",
+      "Action": "Comforts Mary calmly when discussing family planning and children; engages thoughtfully in a big life decision.",
       "Competence": 1,
       "Chunk": 80
     },
     {
-      "Action": "Knows the route to the hospital in detail and prepares calmly for the birth, demonstrating foresight and readiness.",
+      "Action": "Knows in great detail the route to the hospital, showing preparedness for an important event.",
       "Competence": 1,
       "Chunk": 80
     },
     {
-      "Action": "Responds to Mary's suggestion about having another child with a mix of humor and acceptance, showing emotional intelligence and confidence.",
+      "Action": "Leaves Mary mid-conversation to go finish something in the dark, showing focus and determination.",
       "Competence": 1,
       "Chunk": 80
     },
     {
-      "Action": "Kisses his father gently on the cheek after a game, sharing a tender moment.",
+      "Action": "Kisses his father gently on the cheek after a playful game; shares a warm, sincere moment acknowledging it might be their last time playing.",
       "Warmth": 1,
       "Chunk": 81
     },
     {
-      "Action": "Compliments his mum's knitted Santa hat to delight her, despite it being hideous.",
+      "Action": "Gives a thoughtful gift to his mother and compliments her (a modern gift) sincerely.",
       "Warmth": 1,
       "Chunk": 81
     },
     {
-      "Action": "Responds to his dad's win with good-natured humor and confidence, kisses his dad gently, showing emotional intelligence and confidence in a meaningful moment.",
-      "Competence": 1,
+      "Action": "Pretends the silly Santa hat is 'gorgeous' to avoid hurting his mother's feelings.",
+      "Warmth": 1,
       "Chunk": 81
     },
     {
-      "Action": "Jokes confidently about his dad's chances of winning again, showing self-assurance.",
-      "Competence": 1,
-      "Chunk": 81
-    },
-    {
-      "Action": "Compliments his mum's gift taste sincerely and tactfully, then skillfully redirects attention to the iPad gift, showing social awareness and tact.",
-      "Competence": 1,
-      "Chunk": 81
-    },
-    {
-      "Action": "Offers to do the kids instead of Mary, despite her calling him lazy.",
-      "Warmth": 1,
-      "Chunk": 82
-    },
-    {
-      "Action": "Laughs warmly at his naughty son after a failed pancake flip.",
-      "Warmth": 1,
-      "Chunk": 82
-    },
-    {
-      "Action": "Looks at Mary with love after she goes back to sleep.",
-      "Warmth": 1,
-      "Chunk": 82
-    },
-    {
-      "Action": "Volunteers to do the kids in the morning, showing responsibility and care.",
+      "Action": "Decides not to time travel anymore and chooses to live each day fully in the present moment.",
       "Competence": 1,
       "Chunk": 82
     },
     {
-      "Action": "Flips a pancake utterly badly, showing lack of skill in cooking.",
+      "Action": "Takes responsibility to get the kids ready instead of leaving it to Mary.",
+      "Competence": 1,
+      "Chunk": 82
+    },
+    {
+      "Action": "Attempts to make breakfast but flips a pancake very badly.",
+      "Competence": 0,
+      "Chunk": 82
+    },
+    {
+      "Action": "Offers reassurance to Rory at work ('We'll get through it').",
+      "Warmth": 1,
+      "Chunk": 83
+    },
+    {
+      "Action": "Engages warmly in a casual dinner conversation with Mary, expressing affection and shared pleasure in ordinary moments.",
+      "Warmth": 1,
+      "Chunk": 83
+    },
+    {
+      "Action": "Reassures Rory at work by saying 'We'll get through it' during a chaotic day.",
+      "Competence": 1,
+      "Chunk": 83
+    },
+    {
+      "Action": "Is late and rushing with Rory, indicating difficulty managing time effectively.",
       "Competence": -1,
-      "Chunk": 82
-    },
-    {
-      "Action": "Encourages Rory with 'We'll get through it' during a chaotic workday.",
-      "Warmth": 1,
       "Chunk": 83
     },
     {
-      "Action": "Engages in a warm, loving phone conversation with Mary about dinner plans.",
-      "Warmth": 1,
-      "Chunk": 83
-    },
-    {
-      "Action": "Runs and catches a bus despite being in a rush, remains calm and optimistic at work, handles a chaotic day with Rory, communicates clearly and affectionately with Mary.",
+      "Action": "Engages in a normal routine calmly and thoughtfully, appreciating ordinary moments.",
       "Competence": 1,
       "Chunk": 83
     }

@@ -1,1292 +1,942 @@
 {
   "Zain": [
     {
-      "Action": "Keeps his head down while trying to avoid Rahil’s heavy gaze.",
+      "Action": "Stands silently and appears lost in an unsanitary police detention center, unable to respond actively to his situation.",
       "Competence": -1,
-      "Chunk": 2
+      "Chunk": 1
     },
     {
-      "Action": "Follows his lawyer Nadine into the courtroom and complies with court procedures (standing up, approaching the bench when asked).",
+      "Action": "Complies passively with examination and police procedures without resistance or confusion.",
       "Competence": 0,
-      "Chunk": 2
+      "Chunk": 1
     },
     {
-      "Action": "Admits to stabbing someone but shows bitterness and sadness about his situation.",
+      "Action": "Shows bitterness about his imprisonment and openly admits to stabbing someone, revealing raw honesty and straightforwardness.",
       "Warmth": 0,
       "Chunk": 3
     },
     {
-      "Action": "Expresses desire to sue his parents 'because I was born' with a sad look in his eyes.",
-      "Warmth": 0,
+      "Action": "Expresses desire to sue his parents with a sad look, indicating deep emotional pain and vulnerability.",
+      "Warmth": 1,
       "Chunk": 3
     },
     {
-      "Action": "Insists on the truth about stabbing someone despite courtroom pressure and laughter.",
+      "Action": "Greets the pharmacist politely with 'Hello.'",
+      "Warmth": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Clearly states he stabbed someone when questioned in court, showing directness and confidence in facing the judge.",
       "Competence": 1,
       "Chunk": 3
     },
     {
-      "Action": "Does not know or refuses to state his exact age, showing lack of awareness or record keeping.",
+      "Action": "Refuses to give his exact age when asked, demonstrating evasiveness or lack of knowledge.",
       "Competence": -1,
       "Chunk": 3
     },
     {
-      "Action": "Clearly states his reason for suing his parents, showing a clear goal and understanding of his situation.",
+      "Action": "States he lives in Roumieh Prison for Juveniles without hesitation, showing awareness of his situation.",
       "Competence": 1,
       "Chunk": 3
     },
     {
-      "Action": "Goes to the pharmacy and requests Tramadol, indicating knowledge of medication and how to obtain it.",
-      "Competence": 1,
-      "Chunk": 3
-    },
-    {
-      "Action": "Responds bitterly and with sadness about his life circumstances, showing emotional burden but not necessarily competence.",
+      "Action": "Expresses bitterness and sadness when explaining his motivations, demonstrating emotional expression but not necessarily skill or confidence.",
       "Competence": 0,
       "Chunk": 3
     },
     {
-      "Action": "Gives a wrinkled prescription to the pharmacist and lies about his mother's condition to obtain medicine.",
-      "Warmth": -1,
-      "Chunk": 4
-    },
-    {
-      "Action": "Helps his family by preparing the medicine (mincing Tramal, soaking clothes) and caring for his little sister.",
-      "Warmth": 1,
-      "Chunk": 4
-    },
-    {
-      "Action": "Looks at his mother while she smokes on the bus, showing silent presence and concern.",
-      "Warmth": 1,
-      "Chunk": 4
-    },
-    {
-      "Action": "Endures exhaustion while accompanying his mother to the prison entrance.",
-      "Warmth": 1,
-      "Chunk": 4
-    },
-    {
-      "Action": "Uses a wrinkled prescription and gives multiple excuses to obtain Tramadol from pharmacies.",
+      "Action": "Plans to sue his parents, indicating a calculated and purposeful decision to seek justice or redress.",
       "Competence": 1,
-      "Chunk": 4
+      "Chunk": 3
     },
     {
-      "Action": "Runs between pharmacies to secure medicine despite obstacles.",
-      "Competence": 1,
-      "Chunk": 4
-    },
-    {
-      "Action": "Helps prepare the medicine by mincing and soaking it in water, showing practical skill.",
-      "Competence": 1,
-      "Chunk": 4
-    },
-    {
-      "Action": "Does not question or challenge the pharmacist's suspicion, simply provides excuses.",
-      "Competence": 0,
-      "Chunk": 4
-    },
-    {
-      "Action": "Appears exhausted and overwhelmed when accompanying his mother to the prison, showing limits to his capability.",
-      "Competence": 0,
-      "Chunk": 4
-    },
-    {
-      "Action": "Smiles and waves warmly at his cousin Massoud during a brief family interaction in prison.",
-      "Warmth": 1,
-      "Chunk": 5
-    },
-    {
-      "Action": "Stands quietly next to Souad while she smokes and talks on the phone, appearing sad and lost in thought.",
-      "Warmth": 0,
-      "Chunk": 5
-    },
-    {
-      "Action": "Waves confidently to his cousin, engaging socially despite the prison environment.",
-      "Competence": 1,
-      "Chunk": 5
-    },
-    {
-      "Action": "Stands next to Souad quietly while she smokes, appearing sad and lost in thought, showing passivity and lack of engagement.",
+      "Action": "Claims bitterly to want to sue parents 'because I was born,' showing existential frustration but lacking coherent justification.",
       "Competence": -1,
-      "Chunk": 5
+      "Chunk": 3
     },
     {
-      "Action": "Struggles to unload heavy gallons from a little truck in the midday heat, demonstrating physical effort but possible difficulty.",
+      "Action": "Uses a wrinkled prescription and gives multiple excuses to obtain Tramadol from pharmacists.",
+      "Competence": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Quickly changes pharmacies and adapts excuses to get the medicine despite obstacles.",
+      "Competence": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Helps prepare the drugs by mincing them and soaking clothes, showing resourcefulness.",
+      "Competence": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Does not openly challenge the pharmacist's demands or escalate the situation, showing measured responses.",
+      "Competence": 0,
+      "Chunk": 4
+    },
+    {
+      "Action": "No evident overt leadership or confident communication in other interactions; mostly reactive and subdued.",
+      "Competence": 0,
+      "Chunk": 4
+    },
+    {
+      "Action": "Waves at his cousin when prompted, engaging politely.",
       "Competence": 0,
       "Chunk": 5
     },
     {
-      "Action": "Carries heavy gallons and multiple bags skillfully despite difficult conditions.",
-      "Competence": 1,
-      "Chunk": 6
-    },
-    {
-      "Action": "Uses an old stroller to transport heavy water gallons, showing resourcefulness.",
-      "Competence": 1,
-      "Chunk": 6
-    },
-    {
-      "Action": "Angrily throws away snacks in the street, possibly wasting resources.",
+      "Action": "Stands quietly next to Souad while she smokes, appearing lost in his thoughts and sad, showing limited active engagement.",
       "Competence": -1,
-      "Chunk": 6
+      "Chunk": 5
     },
     {
-      "Action": "Navigates a dangerous, crowded neighborhood and a decrepit building to get home.",
-      "Competence": 1,
-      "Chunk": 6
-    },
-    {
-      "Action": "Knocks on the door using his head while holding grocery bags, indicating adaptability but also possible lack of better options.",
+      "Action": "Struggles to unload heavy gallons from a little truck in mid-day heat.",
       "Competence": 0,
-      "Chunk": 6
+      "Chunk": 5
     },
     {
-      "Action": "Unties his little sister’s chained foot and comforts her, stopping her crying.",
-      "Warmth": 1,
-      "Chunk": 7
-    },
-    {
-      "Action": "Signals his sister not to speak during parents' intimate moment, showing protective behavior.",
-      "Warmth": 1,
-      "Chunk": 7
-    },
-    {
-      "Action": "Responds irritably to his little sister waking him up, telling her off harshly.",
-      "Warmth": -1,
-      "Chunk": 7
-    },
-    {
-      "Action": "Unties his little sister’s chained foot and comforts her, stopping her crying.",
+      "Action": "Knocks on a door using his head while holding grocery bags with his hands.",
       "Competence": 1,
       "Chunk": 7
     },
     {
-      "Action": "Knocks on the door using his head while holding grocery bags with his hands.",
+      "Action": "Stands up and unties his little sister’s chained foot, holds her and takes her to another room to stop her crying.",
+      "Competence": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Smells a bloodstain on the mattress, checks whether he injured himself, becomes worried and lost in thought.",
+      "Competence": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Responds with irritation to his little sister’s repeated calls to wake up using harsh language.",
       "Competence": 0,
       "Chunk": 7
     },
     {
-      "Action": "Wakes up to a bloodstain on the mattress, checks himself carefully and becomes worried and thoughtful.",
-      "Competence": 1,
+      "Action": "No indication of solving the rotten vegetables issue or addressing why Assaad might be upset.",
+      "Competence": 0,
       "Chunk": 7
     },
     {
-      "Action": "Responds irritably to his little sister waking him up, telling her off harshly.",
-      "Competence": -1,
-      "Chunk": 7
-    },
-    {
-      "Action": "Sings to promote the juice he is selling, showing engagement and effort.",
+      "Action": "Sings to promote juice, engages in street sales with siblings.",
       "Warmth": 1,
       "Chunk": 8
     },
     {
-      "Action": "Notices blood on his sister Sahar's shorts and immediately shows concern.",
+      "Action": "Notices blood on sister's shorts and immediately intervenes.",
       "Warmth": 1,
       "Chunk": 8
     },
     {
-      "Action": "Drags his sister to a public restroom to clean her underwear, showing protective behavior.",
+      "Action": "Drags sister Sahar to public restroom to clean her underwear discreetly.",
       "Warmth": 1,
       "Chunk": 8
     },
     {
-      "Action": "Warns Sahar about the dangers of their mother and Assaad, trying to protect her from harm.",
+      "Action": "Warns sister about dangers of Assaad and tries to protect her.",
       "Warmth": 1,
       "Chunk": 8
     },
     {
-      "Action": "Tries to comfort Sahar by giving her his t-shirt to wear after cleaning her underwear.",
+      "Action": "Gives his own t-shirt to his sister to use, showing care and sacrifice.",
       "Warmth": 1,
       "Chunk": 8
     },
     {
-      "Action": "Squeezes lemon juice and sells cups of juice on a crowded street, promoting his product by singing.",
+      "Action": "Squeezes lemon in cups to sell juice, promoting it by singing to attract customers.",
       "Competence": 1,
       "Chunk": 8
     },
     {
-      "Action": "Notices blood on his sister's shorts and takes immediate action by dragging her to a public restroom to clean her underwear.",
-      "Competence": 1,
-      "Chunk": 8
-    },
-    {
-      "Action": "Warns his sister about the dangers of their mother and Assaad, showing awareness and protective instincts.",
-      "Competence": 1,
-      "Chunk": 8
-    },
-    {
-      "Action": "Uses his own t-shirt to help his sister by drying her underwear and providing it to her.",
-      "Competence": 1,
-      "Chunk": 8
-    },
-    {
-      "Action": "Sits and is lost in his thoughts while others are working.",
+      "Action": "Not attentive, sits lost in thoughts while other siblings continue to work.",
       "Competence": -1,
       "Chunk": 8
     },
     {
-      "Action": "Hides sanitary napkins for his sister and advises her on how to hide them properly.",
-      "Warmth": 1,
-      "Chunk": 9
+      "Action": "Notices blood on sister's shorts and promptly moves her to a restroom for cleaning, showing awareness and protective behavior.",
+      "Competence": 1,
+      "Chunk": 8
     },
     {
-      "Action": "Comforts his sister by allowing her to rest her head on his shoulder and sings with her.",
-      "Warmth": 1,
-      "Chunk": 9
+      "Action": "Cleans sister's underwear in a dirty public restroom, creatively using his own t-shirt to help her.",
+      "Competence": 1,
+      "Chunk": 8
     },
     {
-      "Action": "Watches over his sister while she sells juice and sings funny rhymes to attract customers.",
-      "Warmth": 1,
-      "Chunk": 9
+      "Action": "Warns sister about danger from Assaad and mother in a vivid, convincing manner to protect her, demonstrating knowledge and concern.",
+      "Competence": 1,
+      "Chunk": 8
     },
     {
-      "Action": "Hides a box of sanitary napkins skillfully under his clothes to help his sister.",
+      "Action": "Uses harsh language and fear tactics with sister, which could indicate emotional instability or lack of tact.",
+      "Competence": -1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Hides a box of sanitary napkins stealthily while sister is distracted.",
       "Competence": 1,
       "Chunk": 9
     },
     {
-      "Action": "Instructs Sahar carefully on how to hide the pads properly, showing awareness and guidance.",
+      "Action": "Instructs Sahar on how to properly hide pads and be careful.",
       "Competence": 1,
       "Chunk": 9
     },
     {
-      "Action": "Manages selling vegetable juice in a crowded street while engaging customers with rhymes, demonstrating confidence and skill.",
+      "Action": "Sings funny Arabic rhymes to promote vegetable juice, engaging customers.",
       "Competence": 1,
       "Chunk": 9
     },
     {
-      "Action": "Sings funny rhymes promoting the juices they are selling, helping his little sister sell juice.",
+      "Action": "Allows Sahar to eat noodles while walking, and notices her discomfort but does not immediately act to resolve it.",
+      "Competence": 0,
+      "Chunk": 9
+    },
+    {
+      "Action": "Sings funny rhymes to promote juice sales while his little sister also sells, showing a cooperative family effort.",
       "Warmth": 1,
       "Chunk": 10
     },
     {
-      "Action": "Offers two pieces of gum to a customer instead of one.",
+      "Action": "Offers two pieces of gum to a customer when Sahar sells gum, demonstrating generosity.",
       "Warmth": 1,
       "Chunk": 10
     },
     {
-      "Action": "Watches over his scared sister Sahar when a man approaches her.",
+      "Action": "Watches over his scared sister Sahar cautiously when a man approaches her, indicating protective and caring behavior.",
       "Warmth": 1,
       "Chunk": 10
     },
     {
-      "Action": "Hits an older teenager who is presumably threatening or bothering them.",
+      "Action": "Hits an older teenager to possibly protect his sister despite the public scene, showing fierce loyalty and protectiveness.",
+      "Warmth": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Grabs Sahar’s arm roughly to take her away from danger, indicative of protective instincts but also some possible harshness.",
       "Warmth": 0,
       "Chunk": 10
     },
     {
-      "Action": "Grabs Sahar’s arm and takes her home to protect her.",
+      "Action": "Politely offers to negotiate with Assaad to allow him to both work and go to school, showing responsibility and sincerity.",
       "Warmth": 1,
       "Chunk": 10
     },
     {
-      "Action": "Expresses willingness to go to school in the morning and work in the afternoon to help his family.",
-      "Warmth": 1,
-      "Chunk": 10
-    },
-    {
-      "Action": "Sings funny rhymes promoting the juices they are selling, actively participates in selling to customers, offers extra gum to a customer.",
+      "Action": "Sings catchy promotional rhymes to sell juice, actively engages in selling alongside his sister.",
       "Competence": 1,
       "Chunk": 10
     },
     {
-      "Action": "Observes his scared sister from a distance without intervening when a man approaches her.",
-      "Competence": -1,
-      "Chunk": 10
-    },
-    {
-      "Action": "Physically confronts an older teenager who is threatening or provoking him, then takes his sister home to safety.",
+      "Action": "Keeps calm and watches over his scared sister Sahar when a man approaches her.",
       "Competence": 1,
       "Chunk": 10
     },
     {
-      "Action": "Negotiates a plan to attend school in the morning and work in the afternoon, showing initiative and problem-solving.",
+      "Action": "Physically confronts an older teenager in defense of his sister despite possible risks.",
       "Competence": 1,
       "Chunk": 10
     },
     {
-      "Action": "Mocks Assad behind his back.",
+      "Action": "Communicates a practical plan to attend school in the morning and work in the afternoon, showing foresight and negotiation skills.",
+      "Competence": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Shows no hesitation when grabbing Sahar's arm and leading her home to protect her.",
+      "Competence": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Mocks Assad behind his back despite Assad being in an annoyed tone towards him.",
       "Warmth": -1,
       "Chunk": 11
     },
     {
-      "Action": "Struggles to deliver gas tanks and groceries despite difficult conditions.",
-      "Warmth": 1,
-      "Chunk": 11
-    },
-    {
-      "Action": "Mocks Assad behind his back, showing disrespect and lack of professionalism.",
-      "Competence": -1,
-      "Chunk": 11
-    },
-    {
-      "Action": "Struggles to drag heavy gas tanks through busy streets but completes deliveries despite difficulties.",
-      "Competence": 0,
-      "Chunk": 11
-    },
-    {
-      "Action": "Fixes the gas tank at Bahia’s snack, showing some practical skill and responsibility.",
-      "Competence": 1,
-      "Chunk": 11
-    },
-    {
-      "Action": "Washes up but gets soap in his eyes, indicating clumsiness or lack of attention.",
-      "Competence": -1,
-      "Chunk": 11
-    },
-    {
-      "Action": "Continues to work under difficult conditions (rain, thirst, minimal clothing), demonstrating perseverance but not necessarily skill.",
-      "Competence": 0,
-      "Chunk": 11
-    },
-    {
-      "Action": "Accepts help from a veiled woman who rushes to assist him with heavy grocery bags.",
-      "Warmth": 1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Forcefully removes a man’s head who tries to kiss him and tells him to get his hands off.",
-      "Warmth": -1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Shows concern about the chaotic environment and questions his little sister about the chickens.",
-      "Warmth": 1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Rushes to see his siblings playing with chickens, indicating involvement with family.",
-      "Warmth": 1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Angrily confronts his mother about Assaad’s presence and accuses Assaad of trading chickens for his sister Sahar.",
-      "Warmth": -1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Removes the man's head from him firmly and asserts boundaries by telling him to get his hands off.",
-      "Competence": 1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Rushes upstairs to check on the situation with Assad and his siblings, showing awareness and concern.",
-      "Competence": 1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Confronts his mother angrily about Assad's presence and the suspicious chicken trade, indicating protective instincts but reacting emotionally.",
-      "Competence": 0,
-      "Chunk": 12
-    },
-    {
-      "Action": "Removes lipstick from Sahar's face, calls her 'witch' in that dress.",
-      "Warmth": -1,
-      "Chunk": 13
-    },
-    {
-      "Action": "Looks very sad while eavesdropping on the discussion.",
-      "Warmth": 1,
-      "Chunk": 13
-    },
-    {
-      "Action": "Threatens to confront Assad directly to resolve the issue.",
-      "Competence": 1,
-      "Chunk": 13
-    },
-    {
-      "Action": "Attempts to eavesdrop on the adult conversation to gain information.",
-      "Competence": 1,
-      "Chunk": 13
-    },
-    {
-      "Action": "Removes lipstick from Sahar's face, showing protective and decisive behavior.",
-      "Competence": 1,
-      "Chunk": 13
-    },
-    {
-      "Action": "Shows anger and sadness but does not effectively communicate or resolve the conflict.",
-      "Competence": 0,
-      "Chunk": 13
-    },
-    {
-      "Action": "Relies on threats rather than strategic dialogue or negotiation.",
-      "Competence": 0,
-      "Chunk": 13
-    },
-    {
-      "Action": "Lies down next to Sahar and siblings, unable to sleep and deeply pensive, showing concern for family.",
-      "Warmth": 1,
-      "Chunk": 14
-    },
-    {
-      "Action": "Sitting on the ground with tears filling his eyes, deeply thinking, indicating emotional sensitivity and sincerity.",
-      "Warmth": 1,
-      "Chunk": 14
-    },
-    {
-      "Action": "Signals a little girl eating powder milk to stay quiet so no one wakes up, showing care and protectiveness.",
-      "Warmth": 1,
-      "Chunk": 14
-    },
-    {
-      "Action": "Signals the little girl to stay quiet and not make noise so no one wakes up, removes slippers carefully, and holds a garbage bag, showing awareness and caution.",
-      "Competence": 1,
-      "Chunk": 14
-    },
-    {
-      "Action": "Lies down unable to sleep, deeply pensive and sad, showing emotional distress and lack of active problem-solving.",
-      "Competence": -1,
-      "Chunk": 14
-    },
-    {
-      "Action": "Sits on the ground with tears filling his eyes, deeply thinking but not taking visible action.",
-      "Competence": -1,
-      "Chunk": 14
-    },
-    {
-      "Action": "Carefully climbs to avoid waking his sisters, quietly wakes Sahar, and plans to take her away for her safety.",
-      "Warmth": 1,
-      "Chunk": 15
-    },
-    {
-      "Action": "Takes clothes and food for Sahar, including sanitary napkins, showing thoughtfulness and care.",
-      "Warmth": 1,
-      "Chunk": 15
-    },
-    {
-      "Action": "Discreetly uses money from his father’s wallet without explicit permission.",
+      "Action": "Struggles while doing hard physical labor delivering gas tanks and groceries in harsh conditions.",
       "Warmth": 0,
-      "Chunk": 15
+      "Chunk": 11
     },
     {
-      "Action": "Negotiates with bus driver to take his sister for a low price, showing resourcefulness and concern.",
+      "Action": "Addresses Mrs. Bahia politely and reports completing his work.",
       "Warmth": 1,
-      "Chunk": 15
+      "Chunk": 11
     },
     {
-      "Action": "Leaves home to get Sahar despite hearing her distress and family conflict.",
-      "Warmth": 1,
-      "Chunk": 15
+      "Action": "Mocks Assad behind his back while receiving instructions.",
+      "Competence": -1,
+      "Chunk": 11
     },
     {
-      "Action": "Climbs carefully so he doesn’t wake his sisters, quietly gathers clothes and food, and plans an escape without alerting others.",
-      "Competence": 1,
-      "Chunk": 15
-    },
-    {
-      "Action": "Negotiates with the bus driver to secure transportation for himself and his sister within a limited budget.",
-      "Competence": 1,
-      "Chunk": 15
-    },
-    {
-      "Action": "Takes money from his father’s wallet without permission to fund the escape.",
+      "Action": "Struggles to drag the gas tank down the street but completes deliveries.",
       "Competence": 0,
-      "Chunk": 15
+      "Chunk": 11
     },
     {
-      "Action": "Fails to anticipate or prevent the emotional breakdown and resistance from Sahar when trying to leave.",
-      "Competence": -1,
-      "Chunk": 15
-    },
-    {
-      "Action": "Shouts at his mother to protect his sister from being sent away as a maid, physically intervenes by holding his sister's hand and running back to the house to keep her safe.",
-      "Warmth": 1,
-      "Chunk": 16
-    },
-    {
-      "Action": "Engages in a physical fight with his mother on the stairway to protect his sister.",
-      "Warmth": 1,
-      "Chunk": 16
-    },
-    {
-      "Action": "Refuses to let his sister be sent to Assaad despite threats and physical violence from his mother.",
-      "Warmth": 1,
-      "Chunk": 16
-    },
-    {
-      "Action": "Confronts his mother aggressively to protect his sister, physically intervenes by holding Sahar's hand and running back to the house to keep her safe.",
+      "Action": "Fixes the gas tank before handing it over to Bahia, showing initiative to solve a problem.",
       "Competence": 1,
-      "Chunk": 16
+      "Chunk": 11
     },
     {
-      "Action": "Despite being hit and threatened, persists in trying to stop his mother and protect Sahar, showing resilience and determination.",
-      "Competence": 1,
-      "Chunk": 16
+      "Action": "Drinks rain water out of thirst while walking in heavy rain wearing inadequate clothing.",
+      "Competence": 0,
+      "Chunk": 11
     },
     {
-      "Action": "Engages in a physical and verbal fight with his mother but ultimately fails to prevent Sahar from being taken away.",
-      "Competence": -1,
-      "Chunk": 16
-    },
-    {
-      "Action": "Runs after Sahar crying and screaming her name, tries to stop the moped.",
+      "Action": "Allows a veiled woman to help him with heavy grocery bags.",
       "Warmth": 1,
-      "Chunk": 17
+      "Chunk": 12
     },
     {
-      "Action": "Has tears in his eyes and a lump in his throat witnessing Sahar being taken away.",
-      "Warmth": 1,
-      "Chunk": 17
-    },
-    {
-      "Action": "Tries to break a wooden door in desperation.",
-      "Warmth": 1,
-      "Chunk": 17
-    },
-    {
-      "Action": "Runs away after being hit and shouted at by his mother.",
+      "Action": "Forcefully removes a man's head who tries to kiss him and angrily tells him to get his hands off.",
       "Warmth": 0,
-      "Chunk": 17
+      "Chunk": 12
     },
     {
-      "Action": "Tries to stop the moped to prevent Sahar from being taken away, runs after them screaming her name, tries to break a wooden door in desperation.",
-      "Competence": 1,
-      "Chunk": 17
-    },
-    {
-      "Action": "Runs away when his mother hits and shouts at him, does not effectively confront or resolve the situation.",
-      "Competence": -1,
-      "Chunk": 17
-    },
-    {
-      "Action": "Looks at Harout with surprise and listens to him patiently on the bus.",
+      "Action": "Shows concern and queries about the chickens and his siblings' activities at home.",
       "Warmth": 1,
-      "Chunk": 18
+      "Chunk": 12
     },
     {
-      "Action": "Speaks clearly and respectfully to Harout, repeating his destination when asked.",
-      "Warmth": 1,
-      "Chunk": 18
+      "Action": "Rushes up to see family situation and is angry about Assad's presence and his sister Sahar's behavior.",
+      "Warmth": 0,
+      "Chunk": 12
     },
     {
-      "Action": "Does not react negatively or dismissively to Harout's odd behavior or costume.",
-      "Warmth": 1,
-      "Chunk": 18
-    },
-    {
-      "Action": "Engages in a calm, somewhat humorous conversation with Harout, showing social awareness and the ability to interact thoughtfully.",
-      "Competence": 1,
-      "Chunk": 18
-    },
-    {
-      "Action": "Sits lost in thought with a sad look, appearing passive and withdrawn rather than actively addressing his problems.",
-      "Competence": -1,
-      "Chunk": 18
-    },
-    {
-      "Action": "Sneaks on Harout’s destination and insists on getting off at the same place.",
-      "Warmth": 1,
-      "Chunk": 19
-    },
-    {
-      "Action": "Sits on the ferris wheel with tears in his eyes, showing vulnerability.",
-      "Warmth": 1,
-      "Chunk": 19
-    },
-    {
-      "Action": "Sleeps on the floor under a ride, eats leftover noodles, and litters by throwing the empty packet on the ground.",
+      "Action": "Angrily threatens and speaks harshly about Assad, telling his mother to tell Assad he has no business there.",
       "Warmth": -1,
-      "Chunk": 19
+      "Chunk": 12
     },
     {
-      "Action": "Unbuttons the shirt of a large woman statue and exposes her breasts, then steps back to observe.",
-      "Warmth": -1,
-      "Chunk": 19
-    },
-    {
-      "Action": "Sneaks on Harout’s destination and gets off at the same stop to follow him.",
+      "Action": "Stands up firmly and removes the man’s head when the man, who is high, tries to kiss him, saying 'Get your fucking hands off me!'",
       "Competence": 1,
-      "Chunk": 19
+      "Chunk": 12
     },
     {
-      "Action": "Searches for Harout around the amusement park, observing surroundings carefully.",
+      "Action": "Asks clearly and directly about the chickens and their origin in the chaotic stairway environment, showing situational awareness.",
       "Competence": 1,
-      "Chunk": 19
+      "Chunk": 12
     },
     {
-      "Action": "Sits on the ferris wheel ride, showing emotional vulnerability (tears).",
+      "Action": "Rushes to confront Assad and Abou Assad in the dark room and expresses anger and suspicion about the chickens being traded for his sister Sahar.",
+      "Competence": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Allows himself to be distracted by chaotic and dirty surroundings (e.g., stairway with chickens clucking) without immediately taking control or cleaning up.",
       "Competence": 0,
-      "Chunk": 19
+      "Chunk": 12
     },
     {
-      "Action": "Sleeps on the floor under a ride, eating leftover ramen noodles and discarding the packet carelessly.",
+      "Action": "Shows aggressive anger and threat ('I'd bet my arm... Tell that sonofabitch he has no business here') rather than calmly managing family conflict.",
+      "Competence": 0,
+      "Chunk": 12
+    },
+    {
+      "Action": "Removes lipstick from Sahar's face, calls her 'witch' but shows underlying sadness.",
+      "Warmth": 0,
+      "Chunk": 13
+    },
+    {
+      "Action": "Threatens to kick out the children after juice, insists on confronting Assad.",
+      "Warmth": 0,
+      "Chunk": 13
+    },
+    {
+      "Action": "Signals the little girl to stay quiet so no one wakes up, removes slippers carefully, and prepares a garbage bag, showing consideration and planning.",
+      "Competence": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Lies down thoughtful, sad, and unable to sleep but shows no proactive action.",
       "Competence": -1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Carefully climbs so he doesn’t wake his sisters, takes clothes and food to prepare for escape with Sahar, whispers to Sahar to keep plan secret and protect her.",
+      "Warmth": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Takes money from his father’s wallet without permission.",
+      "Warmth": -1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Shouts at his mother to stop her from sending his sister away and protects Sahar by holding her hand and closing the door to keep her safe.",
+      "Warmth": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Confronts his abusive mother despite being hit, showing concern and protectiveness for his sister.",
+      "Warmth": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Runs after Selim and Sahar trying to stop them despite being hit and shouted at by his mother, yelling Sahar's name with tears in his eyes.",
+      "Warmth": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Tries to break a wooden door in desperation as his mother shouts and hits him.",
+      "Warmth": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Runs away crying and enraged, showing emotional vulnerability.",
+      "Warmth": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Looks at Harout with surprise and listens to his story, engages briefly in conversation.",
+      "Warmth": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Does not respond harshly or dismissively to Harout’s odd behavior or cigarette despite bus driver’s intervention.",
+      "Warmth": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Mostly silent and introspective, showing no overt friendliness or warmth in this scene.",
+      "Warmth": 0,
+      "Chunk": 18
+    },
+    {
+      "Action": "Sneaks on Harout’s destination and insists on getting off at the same stop.",
+      "Warmth": 1,
       "Chunk": 19
     },
     {
-      "Action": "Unbuttons the shirt of a large woman statue and steps back to observe it.",
-      "Competence": -1,
+      "Action": "Sits on the ferris wheel ride with tears in his eyes, showing emotional vulnerability and possibly longing for connection.",
+      "Warmth": 1,
       "Chunk": 19
     },
     {
-      "Action": "Accepts food from Rahil who kindly gave it to him.",
+      "Action": "Throws empty ramen packet on the ground after eating, showing disregard for cleanliness.",
+      "Warmth": -1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Unbuttons the woman’s shirt statue and exposes her breasts, acting disrespectfully toward the statue and others’ property.",
+      "Warmth": -1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Eats food offered by Rahil who kindly gave him food.",
       "Warmth": 1,
       "Chunk": 20
     },
     {
-      "Action": "Politely asks various people if they have work for him, showing persistence and humility.",
+      "Action": "Politely asks various people for work, offering specific help (mopping floor, doing dishes, holding fishing rod).",
       "Warmth": 1,
       "Chunk": 20
     },
     {
-      "Action": "Refuses free food from a snack employee despite hunger, indicating pride or self-respect.",
-      "Warmth": 1,
-      "Chunk": 20
-    },
-    {
-      "Action": "Avoids answering the fisherman’s question about his parents and looks away.",
+      "Action": "Refuses food from snack employee, focusing on finding work rather than accepting charity.",
       "Warmth": 0,
       "Chunk": 20
     },
     {
-      "Action": "Stares silently at food he cannot afford, showing vulnerability but no interaction.",
-      "Warmth": 0,
+      "Action": "Does not respond to fisherman’s question about his parents and looks away.",
+      "Warmth": -1,
       "Chunk": 20
     },
     {
-      "Action": "Follows Rahil quietly while she struggles with her child and belongings, attempts to ask for food politely.",
+      "Action": "Engages respectfully and patiently with people despite repeated rejections.",
+      "Warmth": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Follows Rahil quietly while she carries her child and belongings, calls out asking for food.",
+      "Warmth": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Follows Rahil quietly while she struggles with her child and belongings, seemingly offering help or seeking food.",
       "Competence": 0,
       "Chunk": 21
     },
     {
-      "Action": "Turns on a toy emitting sound and lights to distract Yonas, who then starts moving and dancing.",
+      "Action": "Turns on a toy to distract Yonas, making him happy and playful.",
       "Warmth": 1,
       "Chunk": 22
     },
     {
-      "Action": "Wears a jacket and eats dinner quietly without engaging much.",
+      "Action": "Wears jacket, eats dinner quietly without engaging actively.",
       "Warmth": 0,
       "Chunk": 22
     },
     {
-      "Action": "Observes Rahil counting money with eyes half open without her knowing.",
+      "Action": "Observes Rahil thoughtfully and quietly without interrupting.",
       "Warmth": 0,
       "Chunk": 22
     },
     {
-      "Action": "Observes Rahil counting money quietly and thoughtfully without interrupting or revealing his awareness.",
+      "Action": "Observes Rahil counting money carefully and thoughtfully without her knowing, indicating awareness and caution.",
       "Competence": 1,
       "Chunk": 22
     },
     {
-      "Action": "Uses a toy that emits sound and lights to successfully distract Yonas and engage him in play.",
+      "Action": "Turns on a sound and light toy to distract Yonas, effectively managing the child’s behavior.",
       "Competence": 1,
       "Chunk": 22
     },
     {
-      "Action": "Sits quietly and appears annoyed but does not take any disruptive action.",
-      "Competence": 0,
-      "Chunk": 22
-    },
-    {
-      "Action": "Comfortably holds Yonas and shares biscuits with him, feeding him milk later.",
-      "Warmth": 1,
-      "Chunk": 23
-    },
-    {
-      "Action": "Looks away while Rahil breastfeeds Yonas, possibly indicating discomfort or avoidance.",
-      "Warmth": -1,
-      "Chunk": 23
-    },
-    {
-      "Action": "Comfortably holds and cares for Yonas, follows Rahil's instructions to feed him milk at specific times, shares biscuits with Yonas, and feeds him milk later.",
-      "Competence": 1,
-      "Chunk": 23
-    },
-    {
-      "Action": "Looks away while Rahil breastfeeds Yonas and does not engage or show initiative in soothing the crying child before Rahil leaves.",
+      "Action": "Sits annoyed on the couch in Rahil’s house, showing passivity and lack of active engagement.",
       "Competence": -1,
-      "Chunk": 23
+      "Chunk": 22
     },
     {
-      "Action": "Tries to change Yonas’s diapers despite disgust, attempts to entertain Yonas by drumming and singing to him.",
+      "Action": "Tries to change Yonas's diapers despite disgust and difficulty.",
       "Warmth": 1,
       "Chunk": 24
     },
     {
-      "Action": "Uses harsh language towards Yonas ('You smell like shit, you little shit'), shows frustration and impatience.",
+      "Action": "Uses harsh language towards Yonas: 'You smell like shit, you little shit.'",
       "Warmth": -1,
       "Chunk": 24
     },
     {
-      "Action": "Tries to change Yonas’s diaper despite difficulty and disgust, uses a toy to calm the child, attempts to entertain and soothe Yonas by drumming and singing.",
-      "Competence": 1,
+      "Action": "Turns on toy and drums on cooker to entertain Yonas and make him dance.",
+      "Warmth": 1,
       "Chunk": 24
     },
     {
-      "Action": "Falls asleep inside the inflatable pool while Yonas remains awake, showing a lapse in attentiveness.",
-      "Competence": -1,
+      "Action": "Sings and swings Yonas to try to put him to sleep.",
+      "Warmth": 1,
       "Chunk": 24
     },
     {
-      "Action": "Smiles at Rahil when she claps for him and eats a piece of cake she prepared.",
+      "Action": "Falls asleep in the inflatable pool while Yonas stays awake (lack of vigilance).",
+      "Warmth": 0,
+      "Chunk": 24
+    },
+    {
+      "Action": "Smiles at Rahil when she claps for him, shares a piece of cake, and shows some engagement in a quiet, tender moment.",
       "Warmth": 1,
       "Chunk": 25
     },
     {
-      "Action": "Shows neither a happy nor sad expression when the cake candles are lit, but responds to Rahil's encouragement.",
+      "Action": "Responds sarcastically when asked about siblings ('Alot'), but then opens up about missing his sister Sahar.",
       "Warmth": 0,
       "Chunk": 25
     },
     {
-      "Action": "Answers Rahil's questions about his family with some sarcasm but also shares that he misses his sister.",
-      "Warmth": 0,
-      "Chunk": 25
-    },
-    {
-      "Action": "Takes care of Yonas when Rahil leaves to work, gaining her trust over time.",
-      "Competence": 1,
-      "Chunk": 26
-    },
-    {
-      "Action": "Commits an unspecified harmful act against Yonas, which Rahil did not expect.",
-      "Competence": -1,
-      "Chunk": 26
-    },
-    {
-      "Action": "Adjusts the window so Yonas can watch the TV show through the reflection, helping to calm him down.",
+      "Action": "Adjusts the window so Yonas can watch the show through the reflection, helping to calm him down.",
       "Warmth": 1,
       "Chunk": 28
     },
     {
-      "Action": "Sits next to Yonas and makes funny voices, creating a humorous scenario to entertain him.",
+      "Action": "Sits next to Yonas and creates a funny dialogue inspired by daily life to entertain him.",
       "Warmth": 1,
       "Chunk": 28
     },
     {
-      "Action": "Adjusts the window so Yonas can watch the TV show through the reflection, calming him down.",
+      "Action": "Adjusts the window to let Yonas watch the TV show through reflection to calm him down.",
       "Competence": 1,
       "Chunk": 28
     },
     {
-      "Action": "Creates a funny dialogue and scenario inspired by their difficult life to entertain Yonas.",
+      "Action": "Creates a funny dialogue using voices to entertain and distract Yonas from their harsh reality.",
       "Competence": 1,
       "Chunk": 28
     },
     {
-      "Action": "Threatens the neighbor with violent language and insults, uses derogatory terms.",
+      "Action": "Threatens neighbor with violence and uses aggressive, offensive language but stops when Rahil signals to keep quiet; giggles with Rahil.",
       "Warmth": -1,
       "Chunk": 29
     },
     {
-      "Action": "Stops himself from escalating conflict when Rahil signals him to keep quiet.",
-      "Warmth": 1,
-      "Chunk": 29
-    },
-    {
-      "Action": "Threatens the neighbor aggressively and uses vulgar language, but is stopped by Rahil before causing trouble.",
+      "Action": "Threatens the neighbor aggressively and uses vulgar language but continues despite being told to stop by Rahil, risking trouble.",
       "Competence": -1,
       "Chunk": 29
     },
     {
-      "Action": "Shows awareness of potential consequences by allowing Rahil to stop him from escalating the conflict.",
+      "Action": "Keeps quiet when Rahil signals him to avoid escalating the situation, showing some restraint.",
       "Competence": 1,
       "Chunk": 29
     },
     {
-      "Action": "Sings a funny song to entertain Yonas during dinner, creating a lighthearted atmosphere.",
+      "Action": "Giggling along with Rahil after nearly causing trouble, indicating a lack of serious judgment.",
+      "Competence": -1,
+      "Chunk": 29
+    },
+    {
+      "Action": "Sings a funny song to entertain Yonas and Rahil during dinner, creating a lighthearted atmosphere.",
       "Warmth": 1,
       "Chunk": 30
     },
     {
-      "Action": "Lies down next to Rahil and Yonas, physically close and present with them.",
+      "Action": "Lies quietly next to Rahil and Yonas, sharing a tender moment, showing closeness and affection.",
       "Warmth": 1,
       "Chunk": 30
     },
     {
-      "Action": "Stares out the window with tears in his eyes, showing emotional sensitivity but not verbally expressing feelings.",
+      "Action": "Stares out the window with tears in his eyes, possibly indicating internal struggle but does not express or share feelings openly.",
       "Warmth": 0,
       "Chunk": 30
     },
     {
-      "Action": "Sings a funny song to entertain Yonas during dinner, creating a lighthearted moment.",
+      "Action": "Sings a funny song to entertain Yonas and lighten the mood during dinner.",
       "Competence": 1,
       "Chunk": 30
     },
     {
-      "Action": "Lies quietly next to Rahil and Yonas, staring out the window with tears in his eyes, showing emotional vulnerability but no active problem-solving.",
-      "Competence": 0,
+      "Action": "Lies quietly staring out the window with tears in his eyes, reflecting emotional distress but not taking any proactive action.",
+      "Competence": -1,
       "Chunk": 30
     },
     {
-      "Action": "Remembers a joyful moment with his sister Sahar, laughing and chatting together.",
+      "Action": "Remembers laughing and chatting warmly with his sister Sahar by the window.",
       "Warmth": 1,
       "Chunk": 31
     },
     {
-      "Action": "Makes funny faces to entertain Yonas while sitting at the table.",
+      "Action": "Makes funny faces to entertain Yonas while he is sitting in the inflatable pool.",
       "Warmth": 1,
       "Chunk": 31
     },
     {
-      "Action": "Quickly checks Rahil’s bed for money after she leaves, then sits angrily when he doesn’t find any.",
-      "Warmth": -1,
+      "Action": "Gets angry and sits silently after not finding the money Rahil hid and which he looked for.",
+      "Warmth": 0,
       "Chunk": 31
     },
     {
-      "Action": "Makes funny faces to entertain Yonas, showing social awareness and ability to engage others positively.",
+      "Action": "Makes funny faces to entertain Yonas, showing social awareness and confidence.",
       "Competence": 1,
       "Chunk": 31
     },
     {
-      "Action": "Quickly checks Rahil’s bed to find hidden money after she leaves, demonstrating initiative and attentiveness.",
+      "Action": "Quickly checks Rahil's bed bar to find the money she hid, demonstrating curiosity and some sense of resourcefulness.",
       "Competence": 1,
       "Chunk": 31
     },
     {
-      "Action": "Does not find the money and reacts by angrily sitting down instead of seeking alternative solutions or asking questions.",
+      "Action": "Does not find the money and sits angrily on the chair instead of exploring further options.",
       "Competence": -1,
       "Chunk": 31
     },
     {
-      "Action": "Covers Yonas with a blanket before going back to bed, showing care and protection.",
+      "Action": "Covers Yonas with a blanket to keep him warm before going back to bed.",
       "Warmth": 1,
       "Chunk": 32
     },
     {
-      "Action": "Wakes Yonas up and dresses him, taking responsibility for his care.",
+      "Action": "Wakes Yonas up and dresses him, taking care of his needs.",
       "Warmth": 1,
       "Chunk": 32
     },
     {
-      "Action": "Holds Yonas in his arms while struggling to walk and actively searches for Rahil, showing dedication and concern.",
+      "Action": "Holds Yonas in his arms while struggling to walk and actively searches for Rahil, showing concern and responsibility.",
       "Warmth": 1,
       "Chunk": 32
     },
     {
-      "Action": "Asks Rahil’s colleague about her whereabouts while keeping Yonas on his lap, demonstrating responsibility and attentiveness.",
+      "Action": "Engages with Rahil’s colleague politely to inquire about Rahil’s absence, keeping Yonas on his lap.",
       "Warmth": 1,
       "Chunk": 32
     },
     {
-      "Action": "Wakes up, notices Rahil is missing, takes care to cover Yonas with a blanket before thinking.",
-      "Competence": 1,
+      "Action": "Breaks a cassette angrily (expression of frustration but not directed at others).",
+      "Warmth": 0,
       "Chunk": 32
     },
     {
-      "Action": "Angrily breaks a cassette on the couch.",
-      "Competence": -1,
-      "Chunk": 32
-    },
-    {
-      "Action": "Wakes Yonas up and dresses him, showing responsibility and care.",
-      "Competence": 1,
-      "Chunk": 32
-    },
-    {
-      "Action": "Holds Yonas and navigates the street and bus to find Rahil's workplace, asks the bus driver for directions.",
-      "Competence": 1,
-      "Chunk": 32
-    },
-    {
-      "Action": "Asks Rahil’s colleague about her whereabouts, gathers information actively.",
-      "Competence": 1,
-      "Chunk": 32
-    },
-    {
-      "Action": "Expresses confusion about 'Aspro' when mentioned by the colleague, indicating a gap in knowledge.",
-      "Competence": 0,
-      "Chunk": 32
-    },
-    {
-      "Action": "Decides to walk on the highway towards Souk Al Ahad with Yonas in his arms, continuing the search.",
-      "Competence": 1,
-      "Chunk": 32
-    },
-    {
-      "Action": "Refuses to give Yonas to Aspro despite her insistence, showing protectiveness and caution.",
+      "Action": "Refuses to give Yonas to Aspro, protecting the child despite Aspro's insistence.",
       "Warmth": 1,
       "Chunk": 33
     },
     {
-      "Action": "Politely declines Aspro's offer to eat inside, maintaining boundaries but not rude.",
+      "Action": "Rejects Aspro's invitation to eat inside and ignores the suggestion to wait for Rahil at the stand.",
       "Warmth": 0,
       "Chunk": 33
     },
     {
-      "Action": "Takes responsibility for Yonas and actively looks for Rahil, showing care and concern.",
+      "Action": "Shows concern about Rahil's absence and attempts to look for her to reunite with Yonas.",
       "Warmth": 1,
       "Chunk": 33
     },
     {
-      "Action": "Leaves Aspro's suggestion to wait for Rahil without responding, possibly indicating discomfort or distrust.",
-      "Warmth": 0,
-      "Chunk": 33
-    },
-    {
-      "Action": "Asks vendor clearly for Aspro's location and finds the stand successfully.",
+      "Action": "Asks the vendor about Aspro’s location to find Rahil’s stand.",
       "Competence": 1,
       "Chunk": 33
     },
     {
-      "Action": "Engages Aspro in conversation to gather information about Rahil and Yonas.",
+      "Action": "Refuses to let Aspro hold Yonas despite pressure.",
       "Competence": 1,
       "Chunk": 33
     },
     {
-      "Action": "Refuses to give Yonas to Aspro despite pressure, showing protective judgment.",
-      "Competence": 1,
-      "Chunk": 33
-    },
-    {
-      "Action": "Does not have a phone to contact Rahil, limiting his ability to communicate effectively.",
+      "Action": "Does not have a phone to contact Rahil.",
       "Competence": -1,
       "Chunk": 33
     },
     {
-      "Action": "Declines Aspro's offer to eat inside and to wait for Rahil, choosing instead to leave without a clear plan.",
-      "Competence": -1,
+      "Action": "Refuses Aspro’s offer to eat inside and to wait for Rahil there, leaves without replying.",
+      "Competence": 0,
       "Chunk": 33
     },
     {
-      "Action": "Takes Yonas and falafel sandwiches and sits on the sidewalk, appearing uncertain or passive.",
-      "Competence": -1,
-      "Chunk": 33
-    },
-    {
-      "Action": "Hands his Pepsi bottle to a girl and thanks her when she helps open it.",
+      "Action": "Hands his Pepsi bottle to Maysoun when she asks, thanks her politely.",
       "Warmth": 1,
       "Chunk": 34
     },
     {
-      "Action": "Sits next to Yonas and the girl, engages in friendly conversation.",
+      "Action": "Sits close to Maysoun and offers to share food by asking if she is hungry.",
       "Warmth": 1,
       "Chunk": 34
     },
     {
-      "Action": "Creates a fake name for Yonas to protect him.",
+      "Action": "Creates a fake name for Yonas, shows playfulness and protects him.",
       "Warmth": 1,
       "Chunk": 34
     },
     {
-      "Action": "Corrects Yonas gently when he licks his dirty hands.",
+      "Action": "Quickly corrects Yonas to stop licking his dirty hands, showing care for hygiene.",
       "Warmth": 1,
       "Chunk": 34
     },
     {
-      "Action": "Claims Yonas as his brother in response to suspicion.",
+      "Action": "Responds to Maysoun's suspicion about Yonas with a lighthearted, inclusive remark about their family.",
       "Warmth": 1,
       "Chunk": 34
     },
     {
-      "Action": "Shows care by holding Yonas close while sleeping on the street.",
-      "Warmth": 1,
-      "Chunk": 34
-    },
-    {
-      "Action": "Creates a fake name for Yonas to avoid revealing true identity.",
+      "Action": "Calls a girl to help open the Pepsi bottle and politely thanks her.",
       "Competence": 1,
       "Chunk": 34
     },
     {
-      "Action": "Engages in conversation with Maysoun to learn how to sell tissue boxes effectively.",
+      "Action": "Creates a fake name for Yonas when asked, indicating awareness and adaptability.",
       "Competence": 1,
       "Chunk": 34
     },
     {
-      "Action": "Keeps Yonas close and tries to maintain his hygiene by telling him to stop licking dirty hands.",
-      "Competence": 1,
-      "Chunk": 34
-    },
-    {
-      "Action": "Calls a girl to help open a Pepsi bottle, showing resourcefulness.",
-      "Competence": 1,
-      "Chunk": 34
-    },
-    {
-      "Action": "Allows Yonas to put his hand inside his shirt without reacting strongly.",
+      "Action": "Explains Yonas is his brother despite suspicion, showing some protective instinct but lacks a convincing story.",
       "Competence": 0,
       "Chunk": 34
     },
     {
-      "Action": "Sleeps on the street with Yonas at night, indicating limited options but also resilience.",
-      "Competence": 0,
+      "Action": "Gives detailed instructions about selling tissue boxes, demonstrating street smarts and skill in negotiation.",
+      "Competence": 1,
       "Chunk": 34
     },
     {
-      "Action": "Sleeps on the floor while sitting down, with Yonas lying between his legs, showing care and protection despite exhaustion.",
+      "Action": "Corrects Yonas for licking dirty hands, showing attentiveness and responsibility.",
+      "Competence": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Despite the end of day and closed shops, remains at the flea market without apparent plan to leave or secure shelter.",
+      "Competence": -1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Sleeps on the stairway floor holding Yonas at night, showing vulnerability and limited capacity to protect himself and Yonas reliably.",
+      "Competence": -1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Allows Yonas to sit on his lap and comforts him despite his own exhaustion.",
       "Warmth": 1,
       "Chunk": 35
     },
     {
-      "Action": "Carries Yonas in his arms while the child is sobbing, indicating tenderness and concern.",
+      "Action": "Carries crying Yonas in his arms, heading home, showing patience.",
       "Warmth": 1,
       "Chunk": 35
     },
     {
-      "Action": "Looks very tired but continues to care for Yonas, demonstrating dedication and patience.",
+      "Action": "Enters home exhausted but continues to attend to the crying child.",
       "Warmth": 1,
       "Chunk": 35
     },
     {
-      "Action": "Sleeps sitting on the floor while caring for Yonas, looks very tired but continues to carry the child and head home.",
+      "Action": "Sleeps sitting on the floor while taking care of Yonas, showing resilience despite exhaustion.",
       "Competence": 0,
       "Chunk": 35
     },
     {
-      "Action": "Puts the crying child in the inflatable pool to calm him down.",
+      "Action": "Carries a sobbing child while tired and heads home, demonstrating persistence and care under difficult circumstances.",
+      "Competence": 1,
+      "Chunk": 35
+    },
+    {
+      "Action": "Appears very tired and unable to soothe the crying child, suggesting limited ability to effectively manage the situation.",
+      "Competence": -1,
+      "Chunk": 35
+    },
+    {
+      "Action": "Puts the crying child in the inflatable pool to ease discomfort.",
       "Warmth": 1,
       "Chunk": 36
     },
     {
-      "Action": "Buys food for the baby from a kiosk, showing concern for the child's needs.",
+      "Action": "Buys the cheapest food suitable for a baby at the kiosk.",
       "Warmth": 1,
       "Chunk": 36
     },
     {
-      "Action": "Steals a bottle of milk from a sleeping little girl and hides it while the baby cries.",
+      "Action": "Notices a little girl sleeping alone holding a bottle of milk, but steals the bottle and walks away, ignoring the crying baby.",
       "Warmth": -1,
       "Chunk": 36
     },
     {
-      "Action": "Tries to feed Yonas the stolen milk despite initial rejection, encouraging him gently.",
+      "Action": "Attempts to feed Yonas the stolen milk despite initial rejection, encouraging him patiently.",
       "Warmth": 1,
       "Chunk": 36
     },
     {
-      "Action": "Watches TV with Yonas lying on his lap and touching his face, showing closeness and care.",
+      "Action": "Cares for Yonas by watching TV with him and allowing him to touch his face.",
       "Warmth": 1,
       "Chunk": 36
     },
     {
-      "Action": "Searches the old refrigerator for food despite poor conditions, trying to provide for Yonas.",
+      "Action": "Searches the old dirty refrigerator for food, showing his concern for providing.",
       "Warmth": 1,
       "Chunk": 36
     },
     {
-      "Action": "Feeds Yonas ice cubes with sugar to comfort him when no proper food is available.",
+      "Action": "Feeds Yonas ice cubes with sugar to substitute for food, demonstrating resourcefulness and care.",
       "Warmth": 1,
       "Chunk": 36
     },
     {
-      "Action": "Sprinkles sugar on ice cubes and shares them with Yonas.",
+      "Action": "Carries Yonas, puts him down gently to walk, holds his hand.",
       "Warmth": 1,
       "Chunk": 37
     },
     {
-      "Action": "Carries Yonas, puts him down to walk, and holds his hand.",
+      "Action": "Feeds Yonas grilled fish happily and encourages him to eat more.",
       "Warmth": 1,
       "Chunk": 37
     },
     {
-      "Action": "Holds Yonas and observes cats eating a dead animal’s meat.",
-      "Warmth": 0,
-      "Chunk": 37
-    },
-    {
-      "Action": "Mentally and physically exhausted, sits with hands covering face while Yonas moves around.",
-      "Warmth": 0,
-      "Chunk": 37
-    },
-    {
-      "Action": "Carries Yonas and stares at fish at a vendor’s kiosk.",
-      "Warmth": 0,
-      "Chunk": 37
-    },
-    {
-      "Action": "Grills fish on an old metal box with Yonas happily sitting nearby.",
+      "Action": "Shows concern about Yonas eating dirt and warns him not to swallow ice cubes whole.",
       "Warmth": 1,
       "Chunk": 37
     },
     {
-      "Action": "Happily eats grilled fish with Yonas on his lap and encourages him to eat.",
+      "Action": "Mentally and physically exhausted but still attentive with Yonas moving around.",
       "Warmth": 1,
       "Chunk": 37
     },
     {
-      "Action": "Checks the water faucet and reacts with frustration to no water.",
-      "Warmth": 0,
-      "Chunk": 37
-    },
-    {
-      "Action": "Holds measuring tape and questions Rahil’s care for her son, comparing her unfavorably to his own mother.",
+      "Action": "Mentally comments that Rahil doesn't care about her son and compares her negatively to his own mother.",
       "Warmth": -1,
       "Chunk": 37
     },
     {
-      "Action": "Exhausted, holds Yonas and walks around Rahil’s home.",
-      "Warmth": 1,
-      "Chunk": 37
-    },
-    {
-      "Action": "Steals the skateboard from the little girl and runs away while the boy screams.",
+      "Action": "Steals the skateboard from the girl and runs away when her brother screams.",
       "Warmth": -1,
       "Chunk": 38
     },
     {
-      "Action": "Lets Yonas go inside first, addressing him politely despite irritation.",
+      "Action": "Irritated but polite to Yonas, letting him go inside first despite own frustration.",
       "Warmth": 1,
       "Chunk": 38
     },
     {
-      "Action": "Engages in playful banter and a friendly bet with Maysoun over food.",
+      "Action": "Engages in playful banter and friendly betting with Maysoun over food.",
       "Warmth": 1,
       "Chunk": 38
     },
     {
-      "Action": "Responds rudely to a man commenting on Yonas, telling him to mind his own business.",
+      "Action": "Rudely tells a man to 'mind your own shit' when he comments on Yonas.",
       "Warmth": -1,
       "Chunk": 38
     },
     {
-      "Action": "Expresses anger aggressively ('Can you fuck off? Wanna eat my fist?')",
-      "Warmth": -1,
-      "Chunk": 39
-    },
-    {
-      "Action": "Shows desire to escape hardship and improve life by wanting to go with Maysoun to Sweden",
+      "Action": "Wants to take his brother Assaad with him on the trip and offers to teach him how to swim.",
       "Warmth": 1,
       "Chunk": 39
     },
     {
-      "Action": "Wants to take his brother Assaad with him and offers to teach him to swim",
-      "Warmth": 1,
-      "Chunk": 39
-    },
-    {
-      "Action": "Mocks Maysoun by correcting her pronunciation ('Aspro, not Ospro')",
+      "Action": "Mocks Maysoun by teasing the pronunciation of Aspro/Ospro.",
       "Warmth": -1,
       "Chunk": 39
     },
     {
-      "Action": "Negotiates and gathers information about a complex plan to leave the country, including asking about costs and contacts.",
+      "Action": "Expresses a desire to leave with Maysoun to a safer place.",
+      "Warmth": 0,
+      "Chunk": 39
+    },
+    {
+      "Action": "Practices Syrian accent in front of the mirror to prepare for getting food dispensary, showing proactive skill-building and preparation.",
       "Competence": 1,
       "Chunk": 39
     },
     {
-      "Action": "Practices a Syrian accent in front of the mirror to prepare for a job interview at the food dispensary.",
+      "Action": "Wants to bring his brother Assaad on the trip and plans to teach him to swim, showing resourcefulness and responsibility.",
       "Competence": 1,
       "Chunk": 39
     },
     {
-      "Action": "Mocks Maysoun by mispronouncing a name deliberately.",
+      "Action": "Mocks Maysoun by mispronouncing 'Aspro' as 'Ospro', indicating a dismissive or careless attitude.",
       "Competence": -1,
       "Chunk": 39
     },
     {
-      "Action": "Practices Syrian and Lebanese accents to communicate effectively and gain access to food dispensary.",
-      "Warmth": 1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Carries Yonas with difficulty through a crowded refugee camp to get food.",
-      "Warmth": 1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Expresses concern for his brother Nawras who hasn't eaten or drunk anything for two days.",
-      "Warmth": 1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Suspects neighbor of betraying them but refrains from direct accusation, showing some restraint.",
-      "Warmth": 0,
-      "Chunk": 40
-    },
-    {
-      "Action": "Practices Syrian and Lebanese accents in front of the mirror to prepare for getting food at the dispensary, holding a conversation with himself to train.",
+      "Action": "Practices Syrian and Lebanese accents in front of the mirror, holding a conversation with himself to prepare for interactions at the food dispensary.",
       "Competence": 1,
       "Chunk": 40
     },
     {
-      "Action": "Carries Yonas with difficulty through a crowded UN camp to get food.",
+      "Action": "Carries Yonas with difficulty through a crowded UN camp to get food aid, showing persistence despite challenges.",
       "Competence": 1,
       "Chunk": 40
     },
     {
-      "Action": "Engages volunteers with a plausible story about losing his ration card and how he got to the camp, showing some quick thinking and adaptability.",
-      "Competence": 1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Appears uncertain when questioned by the volunteer about losing the ration card.",
+      "Action": "Explains his lost ration card story to the volunteer with honesty but uncertainty, showing some social adaptability but also some nervousness.",
       "Competence": 0,
       "Chunk": 40
     },
     {
-      "Action": "Asks for milk and diapers, showing concern for basic needs.",
+      "Action": "Asks for milk, diapers, and food to care for Yonas and his family.",
       "Warmth": 1,
       "Chunk": 41
     },
     {
-      "Action": "Drags weak and exhausted Yonas, helping and supporting him despite difficulty.",
+      "Action": "Drags weak and exhausted Yonas, who cannot move, showing care and responsibility.",
       "Warmth": 1,
       "Chunk": 41
     },
     {
-      "Action": "Feeds Yonas powder milk carefully, showing care and nurturing behavior.",
+      "Action": "Feeds Yonas powder milk, recalling care for his little sister, indicating nurturing behavior.",
       "Warmth": 1,
       "Chunk": 41
     },
     {
-      "Action": "Commands Yonas harshly to get up, 'Get up. What are you looking at? Get up!'",
-      "Warmth": -1,
+      "Action": "Responds to sarcastic remarks with calm and straightforward answers, showing tolerance.",
+      "Warmth": 1,
       "Chunk": 41
     },
     {
-      "Action": "Starts crawling like a soldier to protect himself during a bomb attack.",
-      "Competence": 1,
-      "Chunk": 41
-    },
-    {
-      "Action": "Clearly communicates his needs to the volunteer, specifying milk, diapers, and snacks.",
-      "Competence": 1,
-      "Chunk": 41
-    },
-    {
-      "Action": "Drags a skateboard with a grocery bag and a weak, exhausted Yonas, showing physical effort and responsibility.",
-      "Competence": 1,
-      "Chunk": 41
-    },
-    {
-      "Action": "Feeds Yonas powder milk carefully, showing care and knowledge about what Yonas needs.",
-      "Competence": 1,
-      "Chunk": 41
-    },
-    {
-      "Action": "Unscrews the top of a hot water tank with a wrench, demonstrating practical skill and resourcefulness.",
-      "Competence": 1,
-      "Chunk": 41
-    },
-    {
-      "Action": "Attempts to drag a heavy hot water tank tied behind a skateboard with a rope, showing determination but possibly poor planning or inefficient method.",
-      "Competence": 0,
-      "Chunk": 41
-    },
-    {
-      "Action": "Sets a high price (20,000) for the water tank, possibly indicating confidence or lack of market knowledge.",
-      "Competence": 0,
-      "Chunk": 41
-    },
-    {
-      "Action": "Drags Yonas behind him and helps wash Yonas’s hair and clothes at the gas station, laughs and enjoys the moment, dresses Yonas up afterward.",
+      "Action": "Drags Yonas behind him, washes Yonas’s hair and clothes carefully, dresses him, and involves him in hanging laundry.",
       "Warmth": 1,
       "Chunk": 42
     },
     {
-      "Action": "Engages Yonas in helping hang laundry, speaks to him gently by asking for a clothespin.",
+      "Action": "Interacts with workers in a friendly way, laughs loudly, and enjoys playful moments despite hardship.",
       "Warmth": 1,
       "Chunk": 42
     },
     {
-      "Action": "Negotiates with Aspro about helping Yonas and traveling, showing awareness of options and willingness to engage in plans.",
+      "Action": "Engages in arranging care and clothing for Yonas, manages a small laundry task skillfully and seeks assistance from others, such as talking to gas station workers and Rahil about Yonas's future.",
       "Competence": 1,
       "Chunk": 42
     },
     {
-      "Action": "Takes care of Yonas by washing him and doing laundry skillfully and attentively, demonstrating practical caregiving skills.",
-      "Competence": 1,
+      "Action": "Appears unsure about destinations like Turkey or Sweden and asks which is prettier, showing some naivety or lack of knowledge about travel destinations.",
+      "Competence": -1,
       "Chunk": 42
     },
     {
-      "Action": "Follows through on instructions to talk to Rahil and deliver messages, showing reliability and responsibility.",
-      "Competence": 1,
-      "Chunk": 42
-    },
-    {
-      "Action": "Blows in his hands to warm them up, then shows Yonas how to warm his hands the same way.",
+      "Action": "Blows in his hands to warm them and teaches Yonas to do the same.",
       "Warmth": 1,
       "Chunk": 43
     },
@@ -1296,138 +946,83 @@
       "Chunk": 43
     },
     {
-      "Action": "Asks the pharmacist for two packets of medicine instead of one, showing concern for his family’s needs.",
+      "Action": "Asks the pharmacist if he can have two packets instead of one.",
+      "Warmth": 0,
+      "Chunk": 43
+    },
+    {
+      "Action": "Drags two gallons of water home, presumably to help with the household.",
       "Warmth": 1,
       "Chunk": 43
     },
     {
-      "Action": "Drags two gallons of sea water home despite difficulty, showing dedication to helping his family.",
-      "Warmth": 1,
-      "Chunk": 43
-    },
-    {
-      "Action": "Shouts at Yonas to stop him from eating the crushed pills and tells him to go away when he comes closer, tying Yonas’s leg to the bed.",
+      "Action": "Shouts at Yonas and orders him back into the inflatable pool, telling him to go away and asserts he is not blind.",
       "Warmth": -1,
       "Chunk": 43
     },
     {
-      "Action": "Shows resourcefulness by finding the wrinkled prescription and attempting to use it despite its condition.",
+      "Action": "Ties Yonas’s leg with a rope to the bed; Yonas cries while Zain prepares the crushed pills dissolved in water to give to his mother.",
+      "Warmth": -1,
+      "Chunk": 43
+    },
+    {
+      "Action": "Shows skill and resourcefulness by realizing the medical prescription is still in his pants and finds a way to prepare the medicine.",
       "Competence": 1,
       "Chunk": 43
     },
     {
-      "Action": "Negotiates with the pharmacist to get more medicine than initially offered.",
+      "Action": "Negotiates with the pharmacist to get more medicine despite lacking full payment.",
       "Competence": 1,
       "Chunk": 43
     },
     {
-      "Action": "Fills two gallons with sea water and carries them home despite difficulty, showing determination and practical effort.",
+      "Action": "Fetches seawater and physically struggles to carry heavy gallons back home, demonstrating determination and endurance.",
       "Competence": 1,
       "Chunk": 43
     },
     {
-      "Action": "Crushes the TRAMAL pills and prepares the medicine carefully, preventing Yonas from ingesting pills directly.",
+      "Action": "Crushes the pills and prepares the medicine mixture carefully.",
       "Competence": 1,
       "Chunk": 43
     },
     {
-      "Action": "Shouts at Yonas and ties him to the bed, which may indicate a lack of patience or harshness rather than skill.",
+      "Action": "Strictly prevents Yonas from eating the pills wrongly, showing awareness and responsibility.",
+      "Competence": 1,
+      "Chunk": 43
+    },
+    {
+      "Action": "Ties Yonas’s leg to the bed and shouts at him, demonstrating a lack of emotional intelligence and possibly poor judgment in caregiving.",
       "Competence": -1,
       "Chunk": 43
     },
     {
-      "Action": "Calls out to teenagers for help and tries to negotiate a deal with a friendly tone ('Brother, for you I can make a deal')",
-      "Warmth": 1,
-      "Chunk": 44
-    },
-    {
-      "Action": "Sells Tramadol shots to teenagers and old men, including deceiving one by selling saltwater as medicine",
+      "Action": "Approaches teenagers and old men to sell Tramadol shots, persistently pushing a harmful substance in a joking manner.",
       "Warmth": -1,
       "Chunk": 44
     },
     {
-      "Action": "Jokes with teenagers about the saltwater being better than seawater",
-      "Warmth": 0,
+      "Action": "Whispers to a teenager to make a secret deal, showing manipulative behavior.",
+      "Warmth": -1,
       "Chunk": 44
     },
     {
-      "Action": "Shares a hopeful plan with Yonas about going to Sweden, smiling together.",
-      "Warmth": 1,
-      "Chunk": 45
-    },
-    {
-      "Action": "Protects Yonas by angrily throwing a stone at a teenager who kicked Yonas' basin and warns him not to go near the kid.",
-      "Warmth": 1,
-      "Chunk": 45
-    },
-    {
-      "Action": "Responds to insults and provocation with aggressive language and shouting.",
+      "Action": "Shares the Tramadol shots with others despite potential harm, prioritizing his business over others' well-being.",
       "Warmth": -1,
-      "Chunk": 45
+      "Chunk": 44
     },
     {
-      "Action": "Keeps money hidden carefully, imitating Rahil’s behavior (neutral, no clear warmth indicator).",
-      "Warmth": 0,
-      "Chunk": 45
-    },
-    {
-      "Action": "Walks away from conflict after confrontation, despite being provoked.",
-      "Warmth": 0,
-      "Chunk": 45
-    },
-    {
-      "Action": "Counts his money and hides it in the metal bar of the bed like Rahil used to do.",
-      "Competence": 1,
-      "Chunk": 45
-    },
-    {
-      "Action": "Offers to choose a country to go to and confidently suggests Sweden, showing some planning and optimism.",
-      "Competence": 1,
-      "Chunk": 45
-    },
-    {
-      "Action": "Talks to himself about life in Sweden, showing some imaginative thinking and desire for a better life.",
+      "Action": "Attempts to break into the locked door using physical force and tools like a rock and a piece of wood.",
       "Competence": 0,
-      "Chunk": 45
+      "Chunk": 46
     },
     {
-      "Action": "Stares back at teenagers giving him looks and calmly keeps walking despite provocation.",
-      "Competence": 1,
-      "Chunk": 45
-    },
-    {
-      "Action": "Shouts an insult at a guy on the street, escalating conflict.",
+      "Action": "Unable to successfully break the lock despite repeated efforts, becomes flustered and resorts to destructive behavior (breaking neighbor's house items).",
       "Competence": -1,
-      "Chunk": 45
+      "Chunk": 46
     },
     {
-      "Action": "Throws a stone at a teenager threatening Yonas, trying to protect him but provoking violence.",
+      "Action": "Expresses clear intentions and demands (wants his belongings and money), shows persistence in the face of obstacles.",
       "Competence": 0,
-      "Chunk": 45
-    },
-    {
-      "Action": "Leaves the scene with Yonas after being hit, showing some restraint and prioritizing safety.",
-      "Competence": 1,
-      "Chunk": 45
-    },
-    {
-      "Action": "Gets flustered and angry when locked out, tries to break into the house, threatens to break neighbor's house, uses aggressive and insulting language toward neighbor.",
-      "Warmth": -1,
-      "Chunk": 46
-    },
-    {
-      "Action": "Tries to break into the locked door by kicking and using a rock, but fails to break the lock.",
-      "Competence": -1,
-      "Chunk": 46
-    },
-    {
-      "Action": "Gets flustered and angry, escalating the situation by threatening and breaking things at the neighbor's house.",
-      "Competence": -1,
-      "Chunk": 46
-    },
-    {
-      "Action": "Attempts to assert his claim by demanding his belongings and money, but does so in a confrontational and ineffective manner.",
-      "Competence": -1,
       "Chunk": 46
     },
     {
@@ -1436,27 +1031,27 @@
       "Chunk": 47
     },
     {
-      "Action": "Tries to keep Yonas safe by instructing him where to stay and following him closely.",
+      "Action": "Tries to keep Yonas safe by telling him to stay and not move.",
       "Warmth": 1,
       "Chunk": 47
     },
     {
-      "Action": "Feels bad when Yonas falls and picks him up, showing concern.",
-      "Warmth": 1,
-      "Chunk": 47
-    },
-    {
-      "Action": "Ties Yonas’s leg with a rope to prevent him from moving and potentially getting hurt.",
+      "Action": "Feels bad when Yonas falls and picks him up, then ties his leg to the wall to prevent him from running into danger.",
       "Warmth": 0,
       "Chunk": 47
     },
     {
-      "Action": "Sits nearby watching Yonas with a miserable look, wipes his tears, unties him, and gives him food.",
+      "Action": "Walks away but keeps looking back at Yonas, showing care and concern.",
       "Warmth": 1,
       "Chunk": 47
     },
     {
-      "Action": "Looks helpless and exhausted but allows Yonas to caress his face, showing a tender moment.",
+      "Action": "Notices Yonas sobbing, wipes his tears, unties him, and gives him food.",
+      "Warmth": 1,
+      "Chunk": 47
+    },
+    {
+      "Action": "Sits helplessly with Yonas on his lap, allowing the child to caress his face.",
       "Warmth": 1,
       "Chunk": 47
     },
@@ -1466,337 +1061,267 @@
       "Chunk": 48
     },
     {
-      "Action": "Hugs and kisses Yonas before leaving, showing affection and care.",
+      "Action": "Hugs and kisses Yonas before leaving, demonstrating affection and care.",
       "Warmth": 1,
       "Chunk": 48
     },
     {
-      "Action": "Does not confront Aspro after being hit and shortchanged on money, showing tolerance or resignation.",
+      "Action": "Does not confront Aspro when hit and cheated out of promised money, showing tolerance but also passivity.",
       "Warmth": 0,
       "Chunk": 48
     },
     {
-      "Action": "Nods to Aspro's request to bring papers, showing understanding of the plan and what is needed.",
+      "Action": "Nods to Aspro when asked if he can bring papers, showing understanding and willingness to comply.",
       "Competence": 1,
       "Chunk": 48
     },
     {
-      "Action": "Cries and wipes his tears when talking to Aspro, showing emotional vulnerability.",
+      "Action": "Cries and hides his emotions when asked about his sadness and papers, indicating vulnerability and lack of control.",
       "Competence": -1,
       "Chunk": 48
     },
     {
-      "Action": "Accepts less money than promised without protest after Aspro hits him, indicating low assertiveness and possible lack of confidence.",
+      "Action": "Tries to hold Aspro accountable for promised money, demonstrating awareness and assertiveness.",
+      "Competence": 1,
+      "Chunk": 48
+    },
+    {
+      "Action": "Allows himself to be hit and whispers, showing passivity and limited ability to stand up for himself.",
       "Competence": -1,
       "Chunk": 48
     },
     {
-      "Action": "Hugs and kisses Yonas before leaving, showing emotional connection but no direct action toward solving his problems.",
+      "Action": "Accepts instructions about getting a barber and bringing documents, indicating some ability to follow directions and plan next steps.",
+      "Competence": 1,
+      "Chunk": 48
+    },
+    {
+      "Action": "Drags an empty basin/skateboard behind him while walking away, showing physical effort but possibly suggesting burden or low status rather than competence.",
       "Competence": 0,
       "Chunk": 48
     },
     {
-      "Action": "Drags the empty basin/skateboard behind him as he walks away, indicating persistence and ability to manage his belongings despite hardship.",
-      "Competence": 1,
+      "Action": "Looks sadly at Yonas's pacifier on the bus, nails dirty, showing emotional distress and possibly negligence of self-care.",
+      "Competence": -1,
       "Chunk": 48
     },
     {
-      "Action": "Looks at himself in the mirror and wipes his tears while getting a haircut.",
-      "Warmth": 1,
-      "Chunk": 49
-    },
-    {
-      "Action": "Throws away the basin as if getting rid of a chapter in his life.",
-      "Warmth": 0,
-      "Chunk": 49
-    },
-    {
-      "Action": "Observes the misery of his old home with a new eye.",
-      "Warmth": 0,
-      "Chunk": 49
-    },
-    {
-      "Action": "Turns off his father's cigarette while he is sleeping.",
-      "Warmth": 1,
-      "Chunk": 49
-    },
-    {
-      "Action": "Responds to his sister Souad's questions with hostility and refuses to engage sincerely.",
-      "Warmth": -1,
-      "Chunk": 49
-    },
-    {
-      "Action": "Insists on getting his papers without showing concern for family dynamics or emotions.",
-      "Warmth": -1,
-      "Chunk": 49
-    },
-    {
-      "Action": "Throws away the basin as if getting rid of a chapter in his life, showing symbolic decisiveness.",
-      "Competence": 1,
-      "Chunk": 49
-    },
-    {
-      "Action": "Enters his old apartment cautiously and observes the misery he left behind, indicating awareness and reflection.",
-      "Competence": 1,
-      "Chunk": 49
-    },
-    {
-      "Action": "Turns off the cigarette on the table, showing some control over his environment.",
-      "Competence": 1,
-      "Chunk": 49
-    },
-    {
-      "Action": "Searches for his papers in the drawer, demonstrating purposeful action and focus.",
-      "Competence": 1,
-      "Chunk": 49
-    },
-    {
-      "Action": "Responds to family confrontations with sarcasm and hostility rather than calm or strategic communication.",
-      "Competence": -1,
-      "Chunk": 49
-    },
-    {
-      "Action": "Refuses to explain his absence and avoids engagement with family, potentially undermining his goals.",
-      "Competence": -1,
-      "Chunk": 49
-    },
-    {
-      "Action": "Angrily demands his papers and ID from Selim.",
+      "Action": "Angrily demands his papers and walks away annoyed when Selim tries to show him a hospital paper.",
       "Warmth": 0,
       "Chunk": 50
     },
     {
-      "Action": "Walks away annoyed when Selim shows him painful documents.",
-      "Warmth": 0,
-      "Chunk": 50
-    },
-    {
-      "Action": "Angrily demands his papers and ID, showing persistence and focus on an important goal.",
-      "Competence": 1,
-      "Chunk": 50
-    },
-    {
-      "Action": "Walks away annoyed when Selim tries to show him a hospital paper, indicating possible avoidance or lack of engagement.",
+      "Action": "Angrily throws something on the ground in frustration.",
       "Competence": -1,
       "Chunk": 50
     },
     {
-      "Action": "Repeatedly asks who went to the hospital, showing concern and desperation for a family member's wellbeing.",
+      "Action": "Demands his papers and ID persistently despite Selim's hostility.",
+      "Competence": 1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Walks away annoyed when Selim tries to show him important papers.",
+      "Competence": 0,
+      "Chunk": 50
+    },
+    {
+      "Action": "Puts intense effort into finding out who went to the hospital; repeatedly asks family members despite their silence.",
       "Warmth": 1,
       "Chunk": 51
     },
     {
-      "Action": "Cries openly and shows emotional vulnerability about the situation.",
+      "Action": "Cries and shows visible emotional pain, indicating care and concern.",
       "Warmth": 1,
       "Chunk": 51
     },
     {
-      "Action": "Grabs his mother’s arm and demands answers, indicating urgency and emotional connection.",
-      "Warmth": 1,
-      "Chunk": 51
-    },
-    {
-      "Action": "Hits his father in anger after learning about Sahar’s condition.",
+      "Action": "Physically hits his father out of anger and distress.",
       "Warmth": -1,
       "Chunk": 51
     },
     {
-      "Action": "Takes a knife and runs out in rage, threatening violence.",
+      "Action": "Takes a knife and runs toward a public place in a rage threatening violence.",
       "Warmth": -1,
       "Chunk": 51
     },
     {
-      "Action": "Repeatedly demands to know who went to the hospital despite others' silence, showing persistence and focus.",
+      "Action": "Demonstrates fierce protective instincts and emotional investment in his family’s wellbeing.",
+      "Warmth": 1,
+      "Chunk": 51
+    },
+    {
+      "Action": "Repeatedly asks who went to the hospital despite silence and hostility, showing persistence and urgency.",
       "Competence": 1,
       "Chunk": 51
     },
     {
-      "Action": "Grabs a knife and runs towards the market in a rage, threatening others impulsively.",
+      "Action": "Grabs a knife and runs towards the market in rage, threatening others and escalating violence impulsively.",
       "Competence": -1,
       "Chunk": 51
     },
     {
-      "Action": "Wipes his tears and confronts his father directly, showing emotional resilience and assertiveness.",
-      "Competence": 1,
+      "Action": "Shows emotional breakdown by crying and wiping tears but continues to seek answers.",
+      "Competence": 0,
       "Chunk": 51
     },
     {
-      "Action": "Fails to control his anger leading to a dangerous situation and police intervention.",
+      "Action": "Ignores consequences of violent actions leading to police arrest, indicating a lack of control or strategic thinking.",
       "Competence": -1,
       "Chunk": 51
     },
     {
-      "Action": "Expresses anger and frustration in court about child marriage and the death of Sahar, challenging Assad's justification.",
+      "Action": "Angrily challenges Assad's justification for child marriage, showing concern for the girl Sahar.",
       "Warmth": 1,
       "Chunk": 52
     },
     {
-      "Action": "Expresses anger and challenges Assad's justification of child marriage with a sharp, sarcastic retort.",
+      "Action": "Speaks out angrily and sharply with a sarcastic remark to challenge Assad's justification of child marriage.",
       "Competence": 1,
       "Chunk": 52
     },
     {
-      "Action": "Loses temper in court, raising voice despite judge's request to calm down.",
+      "Action": "Expresses emotional intelligence by connecting the issue to his own community experience and showing awareness of societal norms, attempting to reason about the tragedy.",
+      "Competence": 1,
+      "Chunk": 52
+    },
+    {
+      "Action": "Loses temper in court and raises voice despite judge's request to calm down, indicating a possible lack of control in the setting.",
       "Competence": -1,
       "Chunk": 52
     },
     {
-      "Action": "Sits quietly in his cell, looking outside and eating an apple while others are engaged in activities around him.",
+      "Action": "Listens silently to the musicians and the nun trying to cheer him up in prison.",
+      "Warmth": 1,
+      "Chunk": 53
+    },
+    {
+      "Action": "Remains speechless and does not engage with the people visiting or the music.",
+      "Warmth": 0,
+      "Chunk": 53
+    },
+    {
+      "Action": "Sits quietly in his cell, looking outside and eating an apple while others are interacting and engaging with visitors.",
       "Competence": 0,
       "Chunk": 53
     },
     {
-      "Action": "Sits and stares indifferently at praying male prisoners.",
-      "Warmth": -1,
-      "Chunk": 54
-    },
-    {
-      "Action": "Lies down staring into the void with a sad look in his eyes.",
-      "Warmth": 0,
-      "Chunk": 54
-    },
-    {
-      "Action": "Is speechless at the absurd spectacle of overcrowded female detainees.",
-      "Warmth": 0,
-      "Chunk": 54
-    },
-    {
-      "Action": "Sits and stares indifferently at praying prisoners, appears speechless at the absurd spectacle, lies down staring into the void with a sad look.",
+      "Action": "Sits and stares indifferently at praying prisoners, lies down staring into the void with a sad look.",
       "Competence": -1,
       "Chunk": 54
     },
     {
-      "Action": "Responds promptly when called by the officer and prepares for transfer without resistance or confusion.",
+      "Action": "Is speechless at the absurd spectacle of overcrowded cells and detainees.",
       "Competence": 0,
       "Chunk": 54
     },
     {
-      "Action": "Looks back at Rahil with a miserable look when she calls out to him desperately.",
+      "Action": "Responds promptly to the officer's call and prepares for transfer when ordered.",
+      "Competence": 1,
+      "Chunk": 54
+    },
+    {
+      "Action": "Looks back at Rahil in despair as she calls out to him desperately",
       "Warmth": 1,
       "Chunk": 55
     },
     {
-      "Action": "Sits quietly watching the talk show with other prisoners, not engaging or causing trouble.",
+      "Action": "Sits quietly and watches the talk show with other prisoners without causing disturbance",
       "Warmth": 0,
       "Chunk": 55
     },
     {
-      "Action": "Describes Aspro's eye color clearly and accurately to the officer.",
+      "Action": "Remains silent and detached while Rahil panics about her son",
+      "Warmth": -1,
+      "Chunk": 55
+    },
+    {
+      "Action": "Describes Aspro's eye color clearly to the officer despite confusion.",
       "Competence": 1,
       "Chunk": 55
     },
     {
-      "Action": "Sits quietly and watches the talk show without engaging or reacting.",
-      "Competence": 0,
+      "Action": "Sits quietly, watching a talk show attentively and calmly in prison.",
+      "Competence": 1,
       "Chunk": 55
     },
     {
-      "Action": "Sits alone on the ground while other children play football, showing passivity.",
-      "Competence": 0,
+      "Action": "Does not respond or provide information when Rahil urgently asks about Yonas.",
+      "Competence": -1,
       "Chunk": 55
     },
     {
-      "Action": "Rejects Souad's attempt at reconciliation, expresses disgust and anger, throws away gifts she brought.",
+      "Action": "Rejects Souad's attempt at reconciliation, speaks with disgust, throws her gift in the garbage, tells her he doesn't want to see her again, accuses her of having no heart.",
       "Warmth": -1,
       "Chunk": 56
     },
     {
-      "Action": "Throws the bags his mother brought in the garbage angrily, rejects her attempts at reconciliation.",
-      "Competence": -1,
-      "Chunk": 56
-    },
-    {
-      "Action": "Demands to be let go and to go outside while escorted by a guard.",
-      "Competence": 0,
-      "Chunk": 56
-    },
-    {
-      "Action": "Listens attentively to a TV show about child abuse while lying in bed.",
-      "Competence": 0,
-      "Chunk": 56
-    },
-    {
-      "Action": "Calls a TV show from jail to speak out and seek help, showing openness and trust in others.",
+      "Action": "Calls a live TV show from juvenile prison to expose his situation and seek help.",
       "Warmth": 1,
       "Chunk": 57
     },
     {
-      "Action": "Expresses desire to sue his parents, indicating a serious grievance but also a willingness to confront issues rather than hide them.",
-      "Warmth": 0,
-      "Chunk": 57
-    },
-    {
-      "Action": "Calls a live TV show from jail to publicly state he wants to sue his parents and have grown-ups hear his voice.",
-      "Competence": 1,
-      "Chunk": 57
-    },
-    {
-      "Action": "Uses the opportunity to bring attention to his situation and advocate for himself despite being in juvenile prison.",
-      "Competence": 1,
-      "Chunk": 57
-    },
-    {
-      "Action": "Addresses his mother with a miserable look, expressing a desire for his parents to stop having children, indicating frustration but also a sincere expression of his feelings.",
-      "Warmth": 0,
-      "Chunk": 58
-    },
-    {
-      "Action": "Greets Nadine who stands up and extends her hand with a smile, showing a moment of polite interaction.",
+      "Action": "States he wants to sue his parents, indicating a desire for justice rather than revenge or blame.",
       "Warmth": 1,
-      "Chunk": 58
+      "Chunk": 57
     },
     {
-      "Action": "Speaks harshly about life and his suffering, using strong language and insults reflecting bitterness and anger.",
-      "Warmth": -1,
-      "Chunk": 58
-    },
-    {
-      "Action": "Clearly and confidently states his demands in court, speaking louder when asked to speak up.",
+      "Action": "Clearly expresses his feelings and demands assertively in court despite emotional difficulty.",
       "Competence": 1,
       "Chunk": 58
     },
     {
-      "Action": "Expresses deep frustration and hopelessness about his life situation, using harsh language and negative self-assessment.",
+      "Action": "Uses strong, coarse language in public and official settings, which may undermine his message.",
       "Competence": -1,
       "Chunk": 58
     },
     {
-      "Action": "Engages with the TV presenter via phone call to share his perspective, showing willingness to communicate his story publicly.",
-      "Competence": 0,
-      "Chunk": 58
-    },
-    {
-      "Action": "Does not attempt to soften or strategically frame his message to the judge or others, potentially limiting his influence.",
+      "Action": "Avoids confrontation or fails to persuade his mother or the judge effectively beyond his demand.",
       "Competence": -1,
       "Chunk": 58
     },
     {
-      "Action": "Asks a direct question about the unborn child, showing awareness and engagement in the situation.",
+      "Action": "Maintains composure enough to deliver a direct and impactful speech evidencing self-awareness of his situation.",
+      "Competence": 1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Clarifies directions when asked to position himself for a photo, showing awareness and attention to detail.",
       "Competence": 1,
       "Chunk": 59
     },
     {
-      "Action": "Follows the photographer's instructions carefully and corrects them when confused about directions, demonstrating attentiveness and clarity.",
+      "Action": "Stands still and cooperates with authority figures (guards, photographer) without resistance, indicating composure and situational understanding.",
       "Competence": 1,
       "Chunk": 59
     },
     {
-      "Action": "Is escorted handcuffed by a guard, indicating lack of freedom or control in the situation.",
+      "Action": "Asks a pointed question about an unborn child ('And what about that one?'), indicating thoughtfulness and engagement.",
+      "Competence": 1,
+      "Chunk": 59
+    },
+    {
+      "Action": "No significant negative indicators of competence present in the excerpt; silent reactions or non-action are not evident for judgment.",
       "Competence": 0,
       "Chunk": 59
     },
     {
-      "Action": "Does not smile initially, looks sad; finally shows a little smile when encouraged.",
+      "Action": "Does not smile initially, looks sad.",
+      "Warmth": 0,
+      "Chunk": 60
+    },
+    {
+      "Action": "Finally shows a little smile on his face.",
       "Warmth": 1,
       "Chunk": 60
     },
     {
-      "Action": "Initially does not smile when asked, showing sadness instead.",
+      "Action": "Initially does not smile when instructed, appearing sad.",
       "Competence": -1,
       "Chunk": 60
     },
     {
-      "Action": "Eventually manages to show a little smile on his face after encouragement.",
+      "Action": "Eventually manages to show a little smile on his face as requested.",
       "Competence": 1,
       "Chunk": 60
     }

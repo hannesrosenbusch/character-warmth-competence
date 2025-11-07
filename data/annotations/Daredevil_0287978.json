@@ -1,609 +1,1319 @@
 {
-  "Elektra Natchios": [
+  "Matt Murdock": [
     {
-      "Action": "Is described by Fisk as neither foolish nor weak, implying she is competent and formidable.",
+      "Action": "Donning the Daredevil costume and operating in the real world without superpowers but relying on skill and determination.",
       "Competence": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Bleeding to death and collapsing in a church, showing physical vulnerability and possible failure in the immediate situation.",
+      "Competence": -1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Pries a beer bottle from his father's fingers and helps him to his feet.",
+      "Warmth": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Dismisses his own injury to avoid worrying his father (cut lip, says 'Nothin').",
+      "Warmth": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Pulls a beer bottle from his passed-out father's hand and helps him to his feet, showing calmness and responsibility despite his own injury.",
+      "Competence": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Understands and correctly reports the boxing match outcome to his father, demonstrating awareness and clarity.",
+      "Competence": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Tries to walk away from fighting as advised, showing self-control and good judgment.",
+      "Competence": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Admits he ‘gets beat up’ instead of fighting back, suggesting a lack of confidence or skill in physical confrontation at this moment.",
+      "Competence": -1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Smiles relieved after his father defends him, showing trust and a warm connection.",
+      "Warmth": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Promises his father to keep hitting the books and do well, demonstrating sincerity and respect.",
+      "Warmth": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Searches for his father at the docks despite knowing it's dangerous, showing concern and care.",
+      "Warmth": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Freezes and shows emotional reaction to hearing his father’s voice in danger, indicating empathy and attachment.",
+      "Warmth": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Turns and runs off down the alley crying when confronted with his father, showing vulnerability and emotional openness.",
+      "Warmth": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Holds his father in his arms, comforting him as the father breaks down in guilt, showing empathy and tenderness.",
+      "Warmth": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Reassures his father by saying 'I’m not afraid' despite his blindness, demonstrating acceptance and perhaps a reassuring sincerity.",
+      "Warmth": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Silently asks for quiet and shares his heightened perception of sound with his father, indicating openness and a willingness to connect.",
+      "Warmth": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Turns and runs off down the alley, blinded by tears after seeing his father, showing an emotional reaction rather than measured control.",
+      "Competence": -1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Listens attentively and demonstrates awareness by knowing he is blind and sensing conversations in the doctor's office despite not seeing, showing intellectual and sensory attunement.",
+      "Competence": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Calmly tells his father he hears everything and is not afraid despite his blindness, showing confidence and acceptance of his condition.",
+      "Competence": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Holds his father and comforts him even while blind and emotionally vulnerable, demonstrating emotional maturity and capacity to support others.",
+      "Competence": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Comforts a bigger fighter while holding him in his arms, showing empathy and support.",
+      "Warmth": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Perseveres through the painful process of learning braille, demonstrating patience and personal resilience but no explicit warmth.",
+      "Warmth": 0,
+      "Chunk": 5
+    },
+    {
+      "Action": "Falls and curses after stepping in front of a taxi, reflecting frustration and vulnerability but not necessarily warmth.",
+      "Warmth": 0,
+      "Chunk": 5
+    },
+    {
+      "Action": "Allows the harsh, painful sounds to enter and uses anger productively against the speed bag, showing acceptance and self-regulation without direct social warmth.",
+      "Warmth": 0,
+      "Chunk": 5
+    },
+    {
+      "Action": "Whips out his cane to stop an old man from stepping into traffic and getting hit by a bus.",
+      "Warmth": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Smiles warmly after performing athletic feats on the rooftop, responding to imagined cheers.",
+      "Warmth": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Whips out his cane just in time to stop an old man from stepping into danger, preventing a bus accident.",
+      "Competence": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Performs complex gymnastic maneuvers on rooftops confidently, demonstrating physical skill and spatial awareness despite blindness.",
+      "Competence": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Calls out encouragingly to his father during the fight, showing care and support.",
+      "Warmth": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Rushes to his father's side after hearing violence, holds his lifeless body and sobs, showing deep sorrow and love.",
+      "Warmth": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Uses his hyperacute hearing to detect violence nearby, attempts to find and help his father.",
+      "Competence": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Unable to prevent his father's murder despite his senses and proximity.",
+      "Competence": -1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Shows emotional breakdown and sobbing, struggling to cope with trauma.",
+      "Competence": 0,
+      "Chunk": 7
+    },
+    {
+      "Action": "Addresses the jury sincerely about seeking truth and justice for the victim without monetary gain.",
+      "Warmth": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Addresses the courtroom with confidence and persuasive speech seeking justice.",
+      "Competence": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Explains the legal background about the dismissal of the criminal case due to procedural failure, demonstrating knowledge and strategic thinking.",
+      "Competence": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Rebukes Quesada for perjury and defends the victim during the trial, showing moral integrity and care.",
+      "Warmth": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Restrains himself from physically attacking Quesada despite anger at his cruelty.",
+      "Warmth": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Expresses deep concern for the victim's suffering and questions societal judgment against her.",
+      "Warmth": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Rejects idea of drinking to numb pain, choosing to focus on work despite frustration.",
+      "Warmth": 0,
+      "Chunk": 9
+    },
+    {
+      "Action": "Smiles as he falls ten stories street below, showing fearless attitude despite his blindness.",
+      "Warmth": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Enters Josie's Bar, a rough place frequented by questionable characters, showing willingness to engage with all kinds of people.",
+      "Warmth": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Transforms his cane into a versatile weapon (the billy club) with skill.",
+      "Competence": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Performs daring acrobatic feats such as leaping across rooftops and safely plunging ten stories to the street, guided by his senses.",
+      "Competence": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Confidently uses specialized gear (high-impact boots, wire-mesh gloves) optimized for his abilities.",
+      "Competence": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Smiles as he falls from a great height, showing fearless confidence.",
+      "Competence": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Confronts armed mobsters in a bar despite danger, tries to get them to admit guilt before fighting.",
+      "Warmth": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Leaps into a violent mob fight with aggressive martial arts and street fighting techniques, using lethal force.",
+      "Warmth": -1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Uses extraordinary senses and precision to disarm and neutralize threats quickly, but in a harsh and brutal manner.",
+      "Warmth": 0,
+      "Chunk": 12
+    },
+    {
+      "Action": "Unintentionally causes harm to several bystanders (bikers and skinheads) in the course of fighting.",
+      "Warmth": -1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Uses a hybrid fighting style combining martial arts and street fighting, effectively taking on multiple opponents with brutal kicks, punches, and elbows.",
+      "Competence": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Utilizes his extraordinary senses to maintain situational awareness in a chaotic, strobe-lit, smoky melee, showing skill and intelligence.",
+      "Competence": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Reacts instantly to a gunman drawing a Casull .454 by throwing his billy club precisely to disarm and incapacitate the threat.",
+      "Competence": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Uses his billy club as a tool to run along the wall while bullets fire hundreds of rounds at him, skillfully evading harm.",
+      "Competence": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Collateral damage occurs as some bikers and skinheads are accidentally shot during the chaos.",
+      "Competence": 0,
+      "Chunk": 12
+    },
+    {
+      "Action": "Confronts and threatens Quesada for raping a girl in Hell's Kitchen, asserting his role as protector of his neighborhood.",
+      "Warmth": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Acts as a relentless avenger with a 'madman' demeanor showing intense anger and willingness to use violence.",
+      "Warmth": 0,
+      "Chunk": 13
+    },
+    {
+      "Action": "Uses his hyperacute senses to track and confront a dangerous criminal with determination and precision.",
+      "Competence": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Is momentarily overwhelmed by sensory overload when a subway train roars nearby, causing him to stumble and become vulnerable.",
+      "Competence": -1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Recovers quickly from sensory overload and successfully disarms and incapacitates his attacker with a precise strike.",
+      "Competence": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Lashes out precisely to break Quesada's leg, displaying skill and timing in combat.",
+      "Competence": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Uses billy club to hook the end railing of the train and propel himself down the tunnel, demonstrating resourcefulness and confident physical control.",
+      "Competence": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Raises hands when confronted by transit cops but escapes unexpectedly, showing situational awareness and calm under pressure.",
+      "Competence": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Keeps his apartment spare and impersonal, with no personal photos or decorations visible.",
+      "Warmth": -1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Does not answer Heather’s message and is physically absent despite her emotional call.",
+      "Warmth": -1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Treats his wounds quietly and alone, showing self-care but also isolation.",
+      "Warmth": 0,
+      "Chunk": 15
+    },
+    {
+      "Action": "Carefully tends to his wounds using disinfectants and painkillers, showing practical self-care and preparedness.",
+      "Competence": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Ignores personal relationships as evidenced by the woman's message about his absence, showing emotional neglect or social omission.",
+      "Competence": -1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Avoids confrontation by retreating into a flotation tank to find peace.",
+      "Warmth": 0,
+      "Chunk": 16
+    },
+    {
+      "Action": "Dismisses a woman’s hopes for emotional connection by not engaging and instead hides away.",
+      "Warmth": -1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Methodically selects painkillers to manage his physical pain, showing deliberate control over his options.",
+      "Competence": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Prepares and uses a flotation tank with Epsom salts to find mental peace, demonstrating self-awareness and knowledge of unconventional coping mechanisms.",
+      "Competence": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Withdraws into isolation to cope with stress and pain, closing sensory inputs to gain calm, indicating intelligent self-regulation.",
+      "Competence": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Relies heavily on medication (Vicodin) and substances which may indicate dependency or avoidance rather than more proactive coping.",
+      "Competence": -1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Has no direct action or presence in this excerpt; the scene focuses entirely on Fisk and Urich with no indication of Matt's involvement or competence.",
+      "Competence": 0,
       "Chunk": 18
     },
     {
-      "Action": "Responds politely to Matt's accidental bump and helps him by handing over the sugar.",
+      "Action": "Sits with Foggy and calmly listens to the news about Daredevil, showing tolerance and calm composure.",
       "Warmth": 1,
-      "Chunk": 22
+      "Chunk": 20
     },
     {
-      "Action": "Initially does not look up or acknowledge Matt, showing some detachment.",
-      "Warmth": -1,
-      "Chunk": 22
-    },
-    {
-      "Action": "Responds promptly to Matt's request for sugar and places it in his hands without hesitation.",
+      "Action": "Shows calm and composed reaction while reading about the latest Daredevil-related incident with Foggy, indicating his awareness and readiness to handle public perception and ongoing threats.",
       "Competence": 1,
-      "Chunk": 22
+      "Chunk": 20
     },
     {
-      "Action": "Initially does not look up from her paper when Matt bumps into her, showing calm composure and focus.",
-      "Competence": 1,
-      "Chunk": 22
-    },
-    {
-      "Action": "Freezes and is momentarily caught off guard when Matt reveals he is blind.",
+      "Action": "No direct action taken in this excerpt to counter or address the situation, merely a resigned acceptance ('Here we go again...'), which may indicate passivity or lack of immediate intervention.",
       "Competence": 0,
+      "Chunk": 20
+    },
+    {
+      "Action": "Engages in light-hearted banter with Foggy despite financial stress, shares a nostalgic memory about their idealism in college.",
+      "Warmth": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Attempts to change subject when uncomfortable about receiving a payment in fluke fish, showing avoidance rather than openness.",
+      "Warmth": 0,
+      "Chunk": 21
+    },
+    {
+      "Action": "Pours salt into his coffee and later ketchup into creamer, demonstrating tolerance for humor and harmless jokes from a friend.",
+      "Warmth": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Knows the reputation of the Post compared to tabloids like the National Enquirer, showing awareness of information reliability.",
+      "Competence": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Tries to change the subject when payment issues arise, possibly avoiding confrontation or responsibility.",
+      "Competence": -1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Engages in light banter with Foggy about their financial struggles and ideals, demonstrating social awareness and teamwork.",
+      "Competence": 0,
+      "Chunk": 21
+    },
+    {
+      "Action": "Suddenly sniffs the air before drinking the suspiciously mixed coffee, indicating alertness and caution.",
+      "Competence": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Playfully teases Elektra with a flirtatious line and smiles warmly as he touches her hand.",
+      "Warmth": 1,
       "Chunk": 22
     },
     {
-      "Action": "Laughs briefly when asked about a friend, but refuses to give her name and leaves abruptly.",
-      "Warmth": -1,
-      "Chunk": 23
+      "Action": "Uses his cane and bumps into Elektra's table but politely apologizes.",
+      "Warmth": 1,
+      "Chunk": 22
     },
     {
-      "Action": "Confronts Matt directly and angrily when he follows her, telling him she doesn’t like being followed or touched.",
-      "Warmth": -1,
-      "Chunk": 23
+      "Action": "Grins knowingly when Foggy lies to him about Elektra's appearance, showing friendly camaraderie.",
+      "Warmth": 1,
+      "Chunk": 22
     },
     {
-      "Action": "Engages in a physical sparring moment with Matt, showing surprise and some engagement.",
-      "Warmth": 0,
-      "Chunk": 23
-    },
-    {
-      "Action": "Expertly snatches Matt's wrist in a Kenpo lock when he reaches for her arm.",
-      "Competence": 1,
-      "Chunk": 23
-    },
-    {
-      "Action": "Refuses to give her name and leaves abruptly, maintaining control of the interaction.",
-      "Competence": 1,
-      "Chunk": 23
-    },
-    {
-      "Action": "Looks pissed and warns Matt not to follow her, showing awareness and assertiveness.",
-      "Competence": 1,
-      "Chunk": 23
-    },
-    {
-      "Action": "Laughs playfully during a sparring match with Matt, engages in a teasing, flirtatious manner.",
+      "Action": "Engages in a playful, intense sparring session with Elektra, shows respect and interest in her skills, accepts her handshake despite being immediately overpowered.",
       "Warmth": 1,
       "Chunk": 24
     },
     {
-      "Action": "Flips Matt to the ground and holds a strike to his windpipe after shaking his hand, showing a sudden aggressive move despite friendly gesture.",
-      "Warmth": -1,
-      "Chunk": 24
-    },
-    {
-      "Action": "Offers her hand to Matt after the fight, initiating a formal introduction.",
+      "Action": "In conversation, listens attentively and responds with curiosity and humor.",
       "Warmth": 1,
       "Chunk": 24
     },
     {
-      "Action": "Acknowledges her training was to avoid being a victim, implying resilience but not necessarily warmth.",
-      "Warmth": 0,
-      "Chunk": 24
-    },
-    {
-      "Action": "Deflects Matt's guard and counters with an iron claw strike, demonstrating advanced martial arts skill.",
+      "Action": "Cross-blocks an iron claw attack using a Shao-lin technique and reads Elektra's fighting style accurately.",
       "Competence": 1,
       "Chunk": 24
     },
     {
-      "Action": "Uses a graceful and deadly fighting style combining ballet and Kung Fu, showing refined and effective combat ability.",
+      "Action": "Senses that Elektra is holding back and encourages her to continue, showing confidence and perceptiveness.",
       "Competence": 1,
       "Chunk": 24
     },
     {
-      "Action": "Acknowledges holding back during the fight but then intensifies her attack confidently.",
+      "Action": "Pushes off a park bench to gain an advantage and successfully wraps Elektra's arms to gain upper hand.",
       "Competence": 1,
       "Chunk": 24
     },
     {
-      "Action": "Recognizes Matt's advantage and admits she knows she is beaten in that moment, showing situational awareness.",
-      "Competence": 1,
+      "Action": "Is flipped to the ground in a surprise move and held at a vulnerable position, indicating a momentary lapse in defense.",
+      "Competence": -1,
       "Chunk": 24
     },
     {
-      "Action": "Never falls for the same move twice, indicating quick learning and adaptability.",
-      "Competence": 1,
-      "Chunk": 24
-    },
-    {
-      "Action": "Flips Matt to the ground and holds a precise two-fingered strike to his windpipe, demonstrating control and precision.",
-      "Competence": 1,
-      "Chunk": 24
-    },
-    {
-      "Action": "Laughs and maintains playful confidence after the fight, showing emotional control and self-assurance.",
-      "Competence": 1,
-      "Chunk": 24
-    },
-    {
-      "Action": "Trained by different senseis every year since age five, indicating a broad and diverse martial arts education.",
-      "Competence": 1,
-      "Chunk": 24
-    },
-    {
-      "Action": "Laughs and playfully punches Matt in the arm, shares a light moment.",
+      "Action": "Responds to Elektra’s teasing with good-natured humor ('Wax on...wax off...') and tolerates her playful punch.",
       "Warmth": 1,
       "Chunk": 25
     },
     {
-      "Action": "Leans over and kisses Matt's cheek, promising to find him.",
+      "Action": "Asks Elektra about needing a bodyguard and shows interest in her family, indicating friendly curiosity and sincerity.",
       "Warmth": 1,
       "Chunk": 25
     },
     {
-      "Action": "Refuses to give Matt her number, saying 'You won’t.'",
-      "Warmth": 0,
+      "Action": "Expresses concern about how he will find Elektra without her number, showing a desire to maintain connection.",
+      "Warmth": 1,
       "Chunk": 25
     },
     {
-      "Action": "Muttering 'Malakas' about her bodyguard Stavros.",
-      "Warmth": 0,
+      "Action": "Smiles after Elektra kisses his cheek, showing warmth and openness to the interaction.",
+      "Warmth": 1,
       "Chunk": 25
     },
     {
-      "Action": "Laughs confidently and playfully punches Matt, showing physical strength and ease in interaction.",
+      "Action": "Feels pain and frustration privately after Elektra leaves, indicating vulnerability and sincerity.",
+      "Warmth": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Apologizes to Foggy but is met with frustration; his apology and attempt at reconciliation show good-natured and sincere behavior.",
+      "Warmth": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Uses humor to deflect and maintain confidence despite blindness (e.g., ‘Wax on... wax off...’)",
       "Competence": 1,
       "Chunk": 25
     },
     {
-      "Action": "Acknowledges the presence of her bodyguard Stavros and handles the situation with calm and slight irritation, indicating control over her environment.",
+      "Action": "Shows awareness of Elektra’s protective situation and connects dots intelligently (recognizing her father’s name)",
       "Competence": 1,
       "Chunk": 25
     },
     {
-      "Action": "Refuses to give Matt her number but promises to find him, showing confidence and control over her personal boundaries.",
-      "Competence": 1,
+      "Action": "Unable to secure Elektra's contact information and relies on her promise to find him",
+      "Competence": -1,
       "Chunk": 25
     },
     {
-      "Action": "Sighs upon seeing the limousine and Stavros, indicating possible frustration or resignation but still manages the situation without panic.",
+      "Action": "Checks his braille watch and winces, implying frustration or a problem",
+      "Competence": -1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Apologizes to Foggy for being late but acknowledges friend waited",
       "Competence": 0,
       "Chunk": 25
     },
     {
-      "Action": "No direct actions or statements by Elektra in this excerpt; she is absent from the scene and does not contribute to the investigation.",
-      "Competence": 0,
+      "Action": "Expresses belief in Cordoza's innocence despite his criminal appearance and history.",
+      "Warmth": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Offers his hand to Cordoza encouraging trust and support.",
+      "Warmth": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Corrects Foggy with playful humor about Elektra’s name and background.",
+      "Warmth": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Insists on defending a questionable client when others might not.",
+      "Warmth": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Collaborates closely with Foggy, sharing observations and listening to input.",
+      "Warmth": 1,
       "Chunk": 27
     },
     {
-      "Action": "Surprises Matt with a friendly visit, smiles, laughs, and shares a casual walk and pizza with him.",
-      "Warmth": 1,
-      "Chunk": 31
-    },
-    {
-      "Action": "Surprises Matt by appearing unexpectedly and confidently approaches him, showing awareness and control of the situation.",
-      "Competence": 1,
-      "Chunk": 31
-    },
-    {
-      "Action": "Engages Matt in casual conversation while walking through the neighborhood, demonstrating social ease and confidence.",
-      "Competence": 1,
-      "Chunk": 31
-    },
-    {
-      "Action": "Takes Matt's arm to help him avoid a hazard, smiles warmly, and shares personal feelings about her family obligations.",
-      "Warmth": 1,
-      "Chunk": 32
-    },
-    {
-      "Action": "Laughs and ducks under awning to avoid rain but shows concern for Matt getting soaked.",
-      "Warmth": 1,
-      "Chunk": 32
-    },
-    {
-      "Action": "Thanks Matt for warning her about the open sewer grate, showing awareness and quick reaction to a hazard.",
-      "Competence": 1,
-      "Chunk": 32
-    },
-    {
-      "Action": "Fails to bring an umbrella despite the obvious threat of rain, indicating a lack of preparation.",
-      "Competence": -1,
-      "Chunk": 32
-    },
-    {
-      "Action": "Steps closer to Matt, takes his hand and places it on her face, sharing an intimate moment.",
-      "Warmth": 1,
-      "Chunk": 33
-    },
-    {
-      "Action": "Asks Matt what is wrong when he grimaces and tries to hide his distress.",
-      "Warmth": 1,
-      "Chunk": 33
-    },
-    {
-      "Action": "Remains puzzled but does not press Matt further when he abruptly leaves.",
-      "Warmth": 0,
-      "Chunk": 33
-    },
-    {
-      "Action": "Listens attentively and shows concern when Matt is distracted by voices only he can hear.",
-      "Competence": 1,
-      "Chunk": 33
-    },
-    {
-      "Action": "Does not press Matt for details when he says 'Nothing...' despite sensing something is wrong.",
-      "Competence": 0,
-      "Chunk": 33
-    },
-    {
-      "Action": "Approaches Matt looking breath-taking, smiles warmly, compliments him, and reassures him by taking his hands and saying 'You're here now. That’s all that matters.'",
-      "Warmth": 1,
-      "Chunk": 38
-    },
-    {
-      "Action": "Walks through a crowd commanding attention and admiration, appearing confident and composed.",
-      "Competence": 1,
-      "Chunk": 38
-    },
-    {
-      "Action": "Comforts Matt by taking his hands and reassuring him when he is struggling emotionally.",
-      "Competence": 1,
-      "Chunk": 38
-    },
-    {
-      "Action": "Laughs warmly with her father and introduces her friend Matt to him.",
-      "Warmth": 1,
-      "Chunk": 39
-    },
-    {
-      "Action": "Watches in amazement as her father warmly accepts Matt's joke and offers him food.",
-      "Warmth": 1,
-      "Chunk": 39
-    },
-    {
-      "Action": "Expresses surprise and appreciation that her father offered food to Matt, something he has never done before.",
-      "Warmth": 1,
-      "Chunk": 39
-    },
-    {
-      "Action": "Introduces her friend Matt Murdock to her father in a high-stakes social setting, showing social confidence and composure.",
-      "Competence": 1,
-      "Chunk": 39
-    },
-    {
-      "Action": "Is visibly amazed and floored when her father offers Matt food, indicating surprise at a social interaction she did not anticipate.",
-      "Competence": 0,
-      "Chunk": 39
-    },
-    {
-      "Action": "Dances with Matt and appears happy, sharing a moment of lightness.",
-      "Warmth": 1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Goes pale and horrified when Fisk gives her a rose and ominously says goodbye, showing vulnerability and emotional reaction.",
-      "Warmth": 1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Responds tersely to Fisk's mention of tragedy, indicating discomfort and emotional pain.",
-      "Warmth": 0,
-      "Chunk": 40
-    },
-    {
-      "Action": "Dances confidently with Matt while maintaining composure despite sensing danger (hearing the bass heartbeat of Wilson Fisk).",
-      "Competence": 1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Shows visible fear and pale reaction when Fisk places a rose on her lapel and cryptically says goodbye, indicating emotional vulnerability.",
-      "Competence": -1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Kisses Matt and apologizes before leaving abruptly due to urgent family matter.",
-      "Warmth": 1,
-      "Chunk": 41
-    },
-    {
-      "Action": "Leaves Matt without explanation, showing urgency but limited communication.",
-      "Warmth": 0,
-      "Chunk": 41
-    },
-    {
-      "Action": "Recognizes something is wrong quickly and immediately leaves to address it, showing situational awareness and decisiveness.",
-      "Competence": 1,
-      "Chunk": 41
-    },
-    {
-      "Action": "Hurries off without explaining details to Matt, which could indicate a lack of communication or withholding information.",
-      "Competence": 0,
-      "Chunk": 41
-    },
-    {
-      "Action": "Comforts her father after the crash despite the danger around them.",
-      "Warmth": 1,
-      "Chunk": 44
-    },
-    {
-      "Action": "Tumbles out the back of the limousine with her father during a violent chase and immediately comforts him despite the chaos.",
-      "Competence": 1,
-      "Chunk": 44
-    },
-    {
-      "Action": "Is present during a high-risk situation but does not take direct action to prevent or counter Bullseye's attack, resulting in her father being fatally stabbed.",
-      "Competence": -1,
-      "Chunk": 44
-    },
-    {
-      "Action": "Cradles her dying father, tries to stop his bleeding with her hands, shows deep emotional pain.",
-      "Warmth": 1,
-      "Chunk": 45
-    },
-    {
-      "Action": "Calls Daredevil a murderer and opens fire on him repeatedly, showing violent retaliation.",
+      "Action": "Picks a lock to enter Lisa Tazio's apartment without apparent hesitation or concern for legality.",
       "Warmth": -1,
-      "Chunk": 45
+      "Chunk": 27
     },
     {
-      "Action": "Drops to her knees and sobs after emptying the gun, revealing vulnerability and sorrow.",
+      "Action": "Displays patience and thoroughness by examining the environment carefully and investigating subtle clues.",
       "Warmth": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Assumes the computer's contents are erased and is dismissive of Foggy's suggestion to turn it on.",
+      "Warmth": 0,
+      "Chunk": 27
+    },
+    {
+      "Action": "Picks the lock to enter the apartment skillfully and quickly.",
+      "Competence": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Detects the presence of ammonia indicating someone cleaned the place, demonstrating keen sensory perception and deduction.",
+      "Competence": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Refuses to waste time turning on the computer, correctly assumes data is erased, showing informed judgment and efficiency.",
+      "Competence": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Uses touch to detect indentation on the desk to reconstruct a written note, showcasing creative problem-solving and sensory skill.",
+      "Competence": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Smirks in response to a situation that might cause embarrassment to others.",
+      "Warmth": 0,
+      "Chunk": 28
+    },
+    {
+      "Action": "Keeps quiet when Foggy reacts humorously to the wrong house break-in.",
+      "Warmth": 0,
+      "Chunk": 28
+    },
+    {
+      "Action": "Focuses on investigation details without showing dismissiveness or judgment.",
+      "Warmth": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Uses a marker to reveal an indented note effectively, deducing a name and phone number, showing resourcefulness and skill.",
+      "Competence": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Recognizes that Lisa Tazio wasn’t coming home late, inferring she was going out and that someone was waiting, demonstrating good deductive reasoning.",
+      "Competence": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Uses humor to engage the jury and ease tension in the courtroom.",
+      "Warmth": 1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Acknowledges the difficult past of the defendant with empathy and stresses fairness over character judgment.",
+      "Warmth": 1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Uses humor and unconventional approach in courtroom to engage jury and make a strong point, winning their favor and attention.",
+      "Competence": 1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Initially faces the jury the wrong way but then skillfully turns it into a rhetorical device to illustrate his argument.",
+      "Competence": 1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Shares a light, friendly moment with Elektra, showing familiarity and warmth.",
+      "Warmth": 1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Expresses affection for his neighborhood, calling it 'like family'.",
+      "Warmth": 1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Initially tense when followed, but quickly relaxes and engages warmly with Elektra.",
+      "Warmth": 1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Tenses and cautiously checks behind him when followed on the street, showing awareness and vigilance.",
+      "Competence": 1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Responds quickly and wittily to Elektra's presence, correctly identifying her by scent, indicating sharp perception and confidence.",
+      "Competence": 1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Appears rattled at the sight of Ben Urich in the courtroom, suggesting moments of unease or distraction.",
+      "Competence": -1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Takes Elektra's arm to help her avoid a hazard, watches out for her safety.",
+      "Warmth": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Smiles when Elektra holds his arm, showing appreciation of closeness.",
+      "Warmth": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Tells Elektra she doesn't have to attend the ball she dreads.",
+      "Warmth": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Stays in the rain, welcoming it, even as Elektra seeks shelter.",
+      "Warmth": 0,
+      "Chunk": 32
+    },
+    {
+      "Action": "Carefully watches out for hazards and guides Elektra around an open sewer grate, showing situational awareness and attentiveness.",
+      "Competence": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Offers practical advice about not attending a social event he senses Elektra dreads, showing social insight and confidence.",
+      "Competence": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Remains calm and accepting while getting caught in the rain, showing emotional control and an ability to find appreciation in adverse conditions.",
+      "Competence": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Stops a tender moment with Elektra to respond to the cries of an abused child, showing prioritization of others' suffering over personal happiness.",
+      "Warmth": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Says 'You are so beautiful' to Elektra and gently caresses her face, showing tenderness and sincerity.",
+      "Warmth": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Hurries off abruptly after apologizing, leaving Elektra puzzled and potentially hurt.",
+      "Warmth": 0,
+      "Chunk": 33
+    },
+    {
+      "Action": "Intervenes to stop the abusive father from harming the little boy by injuring the father’s arm.",
+      "Warmth": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Stops himself from further hurting the abusive father when the little boy pleads him to stop.",
+      "Warmth": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Leaves the scene feeling unsure after the incident, indicating internal conflict.",
+      "Warmth": 0,
+      "Chunk": 34
+    },
+    {
+      "Action": "Physically subdues the abusive father skillfully by twisting his arm and cracking it, showing physical capability and control.",
+      "Competence": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Uses the father’s own threatening words against him, demonstrating quick thinking and intimidation skills.",
+      "Competence": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Lets go and chooses not to continue the confrontation after the child intervenes, despite his obvious anger, showing self-control and restraint.",
+      "Competence": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Stands unsure after the encounter and utters a plea rather than a confident statement, indicating momentary hesitation or doubt in his role.",
+      "Competence": 0,
+      "Chunk": 34
+    },
+    {
+      "Action": "Thanks Karen politely for messages and invitation.",
+      "Warmth": 1,
+      "Chunk": 35
+    },
+    {
+      "Action": "Declines Karen's offer for coffee, saying 'I'm fine, thanks.'",
+      "Warmth": 0,
+      "Chunk": 35
+    },
+    {
+      "Action": "Refuses to attend the Black and White Ball despite encouragement from Foggy.",
+      "Warmth": 0,
+      "Chunk": 35
+    },
+    {
+      "Action": "Engages in light-hearted banter and playful Nerf basketball game with Foggy.",
+      "Warmth": 1,
+      "Chunk": 36
+    },
+    {
+      "Action": "Reluctant to share personal feelings with his best friend Foggy.",
+      "Warmth": -1,
+      "Chunk": 36
+    },
+    {
+      "Action": "Listens and responds with smirks and brief replies during friendly teasing.",
+      "Warmth": 0,
+      "Chunk": 36
+    },
+    {
+      "Action": "Throws a perfect swish with a Nerf basketball under casual circumstances, showing precise control and focus.",
+      "Competence": 1,
+      "Chunk": 36
+    },
+    {
+      "Action": "Admits to Foggy that he 'blew it last night' and is reluctant to talk about it, showing some self-awareness but also avoidance.",
+      "Competence": 0,
+      "Chunk": 36
+    },
+    {
+      "Action": "Catches the Nerf ball thoughtfully and responds with a calm, controlled demeanor in conversation with Foggy, showing social awareness and control.",
+      "Competence": 1,
+      "Chunk": 36
+    },
+    {
+      "Action": "Dismisses Foggy’s personal questioning quickly (only if for a second), indicating guardedness that may limit open communication.",
+      "Competence": 0,
+      "Chunk": 36
+    },
+    {
+      "Action": "Shakes hands with Ben Urich and introduces his partner sincerely.",
+      "Warmth": 1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Quickly takes back his cane after Urich knocks it down, evading comment.",
+      "Warmth": 0,
+      "Chunk": 37
+    },
+    {
+      "Action": "Politely shakes Wilson Fisk's hand and engages in civil conversation despite tension.",
+      "Warmth": 0,
+      "Chunk": 37
+    },
+    {
+      "Action": "Maintains composure and politeness when unexpectedly approached by a journalist (Ben Urich) and later by Wilson Fisk, engaging in conversation with both without showing fear or hesitation.",
+      "Competence": 1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Quickly retrieves his cane after Urich accidentally drops it, indicating alertness and control of his environment despite the potentially dangerous situation.",
+      "Competence": 1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Does not reveal the significance of his red cane when Urich comments on it, showing discretion and guardedness.",
+      "Competence": 1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Momentarily tenses when his cane is dropped, showing a brief lapse of outward confidence under pressure.",
+      "Competence": 0,
+      "Chunk": 37
+    },
+    {
+      "Action": "Jokes warmly and self-deprecatingly to Elektra’s father, breaking the ice and earning his laughter and approval.",
+      "Warmth": 1,
+      "Chunk": 39
+    },
+    {
+      "Action": "Politely declines food offered by Elektra’s father.",
+      "Warmth": 0,
+      "Chunk": 39
+    },
+    {
+      "Action": "Uses humor and wit to defuse a potentially tense social interaction with Elektra's father, successfully gaining his approval.",
+      "Competence": 1,
+      "Chunk": 39
+    },
+    {
+      "Action": "Maintains composure and confidence during an awkward moment, displaying social skill and charm.",
+      "Competence": 1,
+      "Chunk": 39
+    },
+    {
+      "Action": "Opts to politely refuse food offered by Natchios, showing self-control and awareness.",
+      "Competence": 1,
+      "Chunk": 39
+    },
+    {
+      "Action": "Invites Elektra to dance, engages in a relaxed, social moment.",
+      "Warmth": 1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Asks Elektra about her father and Wilson Fisk, shows curiosity but quickly dismisses it.",
+      "Warmth": 0,
+      "Chunk": 40
+    },
+    {
+      "Action": "Starts dancing with Elektra while simultaneously listening for and detecting the remote bass heartbeat of Wilson Fisk, showing focus and multitasking.",
+      "Competence": 1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Asks Elektra about her father’s connection to Wilson Fisk in a casual manner despite the tense circumstance, demonstrating subtle information gathering.",
+      "Competence": 1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Stays composed and attentive when Elektra senses danger and abruptly leaves.",
+      "Competence": 1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Shows concern and tries to question Elektra about the danger.",
+      "Competence": 1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Positions himself on rooftops, attentively listens to street sounds, and monitors the situation from a tactical vantage point.",
+      "Competence": 1,
+      "Chunk": 42
+    },
+    {
+      "Action": "Tracks the limousine and prepares to intercept danger approaching it with calm awareness.",
+      "Competence": 1,
+      "Chunk": 42
+    },
+    {
+      "Action": "Successfully leaps from building to building, landing precisely on the roof of a moving limousine.",
+      "Competence": 1,
+      "Chunk": 43
+    },
+    {
+      "Action": "Uses radar sense to accurately track incoming deadly shuriken and catches each one with his billy club.",
+      "Competence": 1,
+      "Chunk": 43
+    },
+    {
+      "Action": "Throws billy club skillfully to disable the enemy's motorcycle, causing it to crash.",
+      "Competence": 1,
+      "Chunk": 43
+    },
+    {
+      "Action": "Throws Bullseye off the limo to protect Natchios and Elektra.",
+      "Warmth": 1,
+      "Chunk": 44
+    },
+    {
+      "Action": "Burns his Daredevil costume and hangs up his gear, signaling withdrawal from vigilantism.",
+      "Warmth": 0,
       "Chunk": 45
     },
     {
-      "Action": "Lunges for Stavros’ gun and opens fire, forcing Daredevil to flee as police arrive.",
+      "Action": "Splashes face with cold water and uses medicine (Demerol) to treat wounds, showing self-care and awareness of injury.",
       "Competence": 1,
       "Chunk": 45
     },
     {
-      "Action": "Keeps pulling the trigger until the clip clicks empty, showing determination and focus under pressure.",
+      "Action": "Burns shredded Daredevil costume and stores weapons and spare costumes securely, demonstrating organization and foresight.",
       "Competence": 1,
       "Chunk": 45
     },
     {
-      "Action": "Breaks down and sobs after emptying the gun, indicating emotional overwhelm.",
+      "Action": "Walks away after hearing Elektra call him a murderer and being forced to flee police arrival, showing possible avoidance or retreat in a crisis.",
       "Competence": 0,
       "Chunk": 45
     },
     {
-      "Action": "Sits on the floor, rocking back and forth, arms wrapped around knees, nearly catatonic and feral-eyed while watching news about her father's death and criminal exposure.",
+      "Action": "Tries to get past police barricade by honestly stating his relationship to Elektra Natchios.",
+      "Warmth": 1,
+      "Chunk": 46
+    },
+    {
+      "Action": "Persistently seeks justice despite hostility and suspicion from police and media.",
+      "Warmth": 1,
+      "Chunk": 46
+    },
+    {
+      "Action": "Shakes his head and tells Foggy 'I'm sorry. You're on your own today.' when Foggy tries to get him to attend the funeral together, prioritizing his own agenda to get to Elektra.",
+      "Warmth": -1,
+      "Chunk": 48
+    },
+    {
+      "Action": "Acknowledges his doubts and vulnerabilities by saying 'What do I know about anything?' and shakes his head after Foggy affirms belief in justice.",
       "Warmth": 0,
-      "Chunk": 46
+      "Chunk": 48
     },
     {
-      "Action": "Sitting on the floor, rocking back and forth, nearly catatonic with wild, feral eyes while watching the news about her father's death and the chaos surrounding it.",
+      "Action": "Pours coffee using a specialized maker with braille and burn protection, demonstrating adaptation and skill in managing daily tasks despite blindness.",
+      "Competence": 1,
+      "Chunk": 48
+    },
+    {
+      "Action": "Shows hesitation and doubts his own knowledge and ability ('What do I know about anything?'), indicating a moment of self-doubt.",
       "Competence": -1,
-      "Chunk": 46
+      "Chunk": 48
     },
     {
-      "Action": "Practices expertly with razor sharp sais, demonstrating skill and control.",
+      "Action": "Decides to attend a funeral alone as a calculated means to get to Elektra, demonstrating strategic thinking and confident decision-making.",
+      "Competence": 1,
+      "Chunk": 48
+    },
+    {
+      "Action": "Refuses to engage with Foggy's plea for support and delays action ('Matt doesn’t move. A LONG BEAT.'), showing possible passivity or emotional paralysis.",
+      "Competence": -1,
+      "Chunk": 48
+    },
+    {
+      "Action": "Is implicated by Bullseye's attack despite no direct action in this scene, indicating others see him as a capable threat.",
       "Competence": 1,
       "Chunk": 49
     },
     {
-      "Action": "Pulls a hidden sai from her leg holster and throws it accurately to stick into the wall through a picture of Daredevil.",
-      "Competence": 1,
+      "Action": "Allows Foggy to stand in for him in court despite Foggy's visible struggle.",
+      "Warmth": 1,
       "Chunk": 50
     },
     {
-      "Action": "Watches her mother's burial without crying, eyes cold and dead, turns away from Matt's comfort and asks him to stay away.",
-      "Warmth": -1,
-      "Chunk": 51
+      "Action": "Allows Foggy to handle the courtroom cross-examination despite Foggy struggling under pressure and getting flustered, sweating, and winging it.",
+      "Competence": -1,
+      "Chunk": 50
     },
     {
-      "Action": "Kisses Matt on the cheek before leaving, showing a brief moment of affection despite pushing him away.",
+      "Action": "Steps over and holds Elektra in his arms, expresses understanding and offers support despite her rejection.",
       "Warmth": 1,
       "Chunk": 51
     },
     {
-      "Action": "Watches her mother's burial with cold, dead eyes and does not cry, showing emotional control and composure in a difficult moment.",
+      "Action": "Loses temper with Ben Urich, demanding answers harshly.",
+      "Warmth": -1,
+      "Chunk": 51
+    },
+    {
+      "Action": "Steps forward to comfort Elektra at the cemetery, shows emotional support and empathy despite her rejection.",
       "Competence": 1,
       "Chunk": 51
     },
     {
-      "Action": "Waves away Stavros to prevent interference, indicating situational awareness and control over the environment.",
+      "Action": "Keeps trying to reach out and support Elektra even when she clearly pushes him away.",
       "Competence": 1,
       "Chunk": 51
     },
     {
-      "Action": "Rejects Matt's support and insists on handling her pain alone, demonstrating confidence and self-reliance but also potential emotional isolation.",
-      "Competence": 0,
-      "Chunk": 51
-    },
-    {
-      "Action": "Expresses feeling 'split right down the middle' and fears losing control, revealing internal conflict and vulnerability.",
+      "Action": "Loses his temper quickly when confronted by Ben Urich, shows frustration and aggression.",
       "Competence": -1,
       "Chunk": 51
     },
     {
-      "Action": "Appears at Matt's apartment crying, says 'I don't want to be alone anymore,' falls into his arms, apologizes, and shares an intimate moment.",
+      "Action": "Immediately realizes he was wrong about Cordoza’s guilt once Urich speaks up, shows ability to reassess quickly.",
+      "Competence": 1,
+      "Chunk": 51
+    },
+    {
+      "Action": "Asks Urich if he can testify to help his client, showing concern for justice and client welfare.",
+      "Warmth": 1,
+      "Chunk": 52
+    },
+    {
+      "Action": "Appears slightly confused or lost in conversation ('You lost me...'), showing openness and humility.",
+      "Warmth": 1,
+      "Chunk": 52
+    },
+    {
+      "Action": "Asks Urich if he will testify and tries to get useful information for his client, showing persistence and focus on the case.",
+      "Competence": 1,
+      "Chunk": 52
+    },
+    {
+      "Action": "Appears confused when Urich talks about the New York Times story, indicating a momentary gap in understanding.",
+      "Competence": -1,
+      "Chunk": 52
+    },
+    {
+      "Action": "Comforts Elektra when she is crying and feeling alone, tells her she doesn’t have to be alone.",
       "Warmth": 1,
       "Chunk": 53
     },
     {
-      "Action": "Appears unexpectedly at Matt's apartment, showing emotional vulnerability and seeking comfort.",
+      "Action": "Kisses Elektra’s head and reciprocates affection despite scars and pain, showing tenderness and connection.",
+      "Warmth": 1,
+      "Chunk": 53
+    },
+    {
+      "Action": "Pops pills then stops, possibly showing self-control or hesitation.",
+      "Warmth": 0,
+      "Chunk": 53
+    },
+    {
+      "Action": "No direct interaction in the phone scene, no warmth-related behavior shown.",
+      "Warmth": 0,
+      "Chunk": 53
+    },
+    {
+      "Action": "Pops pills but then stops, showing self-awareness and restraint.",
+      "Competence": 1,
+      "Chunk": 53
+    },
+    {
+      "Action": "Provides comfort to Elektra effectively, showing emotional intelligence and steady presence.",
+      "Competence": 1,
+      "Chunk": 53
+    },
+    {
+      "Action": "No direct evidence of professional or problem-solving competence in this excerpt; mostly personal/emotional interaction.",
       "Competence": 0,
       "Chunk": 53
     },
     {
-      "Action": "Kisses Matt's cheek upon waking, showing a tender moment.",
+      "Action": "Hears a woman screaming for help, initially hesitates but ultimately turns towards the distress sound to assist her.",
       "Warmth": 1,
-      "Chunk": 54
+      "Chunk": 56
     },
     {
-      "Action": "Approaches hostile street punks looking for Daredevil, shows no fear but no friendliness either.",
+      "Action": "Whispers pleadingly to Elektra 'I'm not going to fight you' despite being attacked aggressively.",
+      "Warmth": 1,
+      "Chunk": 57
+    },
+    {
+      "Action": "Engages physically in self-defense against Elektra's violent attack.",
       "Warmth": 0,
-      "Chunk": 54
-    },
-    {
-      "Action": "Smiles in the face of threat and intimidation from punks, indicating a warrior mindset rather than warmth.",
-      "Warmth": -1,
-      "Chunk": 54
-    },
-    {
-      "Action": "Approaches a group of hostile street punks alone, dressed as a warrior and confident in her demeanor.",
-      "Competence": 1,
-      "Chunk": 54
-    },
-    {
-      "Action": "Smiles calmly in the face of imminent threat from multiple armed attackers.",
-      "Competence": 1,
-      "Chunk": 54
-    },
-    {
-      "Action": "Smiles confidently before engaging in violent combat against attackers.",
-      "Warmth": 0,
-      "Chunk": 55
-    },
-    {
-      "Action": "Effortlessly disables multiple attackers using precise martial arts techniques and weapons, demonstrating expert combat skills and situational awareness.",
-      "Competence": 1,
-      "Chunk": 55
-    },
-    {
-      "Action": "Smiles confidently in the face of danger, showing calm and control under pressure.",
-      "Competence": 1,
-      "Chunk": 55
-    },
-    {
-      "Action": "Ambushes Daredevil with violent attacks, showing no mercy or trust.",
-      "Warmth": -1,
       "Chunk": 57
     },
     {
-      "Action": "Calls Daredevil a liar and accuses him of murder without listening.",
-      "Warmth": -1,
-      "Chunk": 57
-    },
-    {
-      "Action": "Engages in a brutal fight, showing intense hostility and lack of tolerance.",
-      "Warmth": -1,
-      "Chunk": 57
-    },
-    {
-      "Action": "Sets a trap using a fake woman-shaped dress to ambush Daredevil.",
-      "Competence": 1,
-      "Chunk": 57
-    },
-    {
-      "Action": "Delivers a series of rapid, precise, and powerful attacks including kicks and sai strikes, showing expert combat skills.",
-      "Competence": 1,
-      "Chunk": 57
-    },
-    {
-      "Action": "Maintains aggressive confidence and control during the fight, circling and pressuring Daredevil.",
-      "Competence": 1,
-      "Chunk": 57
-    },
-    {
-      "Action": "Fails to recognize or accept Daredevil's claim about the real killer, showing possible emotional bias.",
-      "Competence": 0,
-      "Chunk": 57
-    },
-    {
-      "Action": "Despite skill, is caught in an ankle-lock and elbow lock by Daredevil, indicating a momentary lapse in defense.",
-      "Competence": 0,
-      "Chunk": 57
-    },
-    {
-      "Action": "Thrusts sai into her father's killer, showing intense anger and desire for revenge.",
-      "Warmth": -1,
-      "Chunk": 58
-    },
-    {
-      "Action": "Shakes her head in disbelief upon seeing the killer's face, indicating vulnerability and emotional conflict.",
+      "Action": "Tells Elektra 'It’s not too late' and says 'We‘ve all done bad things' to comfort her.",
       "Warmth": 1,
       "Chunk": 58
     },
     {
-      "Action": "Bends down and kisses Matt on the lips with passion, pain, and remorse, apologizing to him.",
+      "Action": "Asks Elektra not to go after Bullseye despite his weakening condition.",
       "Warmth": 1,
       "Chunk": 58
     },
     {
-      "Action": "Gently pulls Matt's hood back down over his face after he passes out.",
-      "Warmth": 1,
-      "Chunk": 58
-    },
-    {
-      "Action": "Leaps to attack Bullseye aggressively, driven by vengeance.",
-      "Warmth": -1,
-      "Chunk": 58
-    },
-    {
-      "Action": "Whips her sai out and thrusts it into her target's chest, showing decisive and skilled combat action.",
+      "Action": "Attempts to reason with Elektra while severely injured and losing strength, showing presence of mind despite blood loss.",
       "Competence": 1,
       "Chunk": 58
     },
     {
-      "Action": "Pounces on the wounded target with sai against his throat, demonstrating tactical aggression and control.",
-      "Competence": 1,
-      "Chunk": 58
-    },
-    {
-      "Action": "Freezes upon seeing something unexpected after pulling back the hood, indicating a momentary lapse or shock.",
+      "Action": "Passes out from blood loss after being stabbed, unable to continue fighting.",
       "Competence": -1,
       "Chunk": 58
     },
     {
-      "Action": "Narrows her eyes and prepares to confront Bullseye despite Matt's weakening condition, showing resolve and focus.",
-      "Competence": 1,
-      "Chunk": 58
-    },
-    {
-      "Action": "Leaps and kicks Bullseye while slashing with her sais, engaging in a skilled and aggressive fight.",
-      "Competence": 1,
-      "Chunk": 58
-    },
-    {
-      "Action": "Unsheathes her sais promptly upon Bullseye's arrival, indicating readiness and quick reaction.",
-      "Competence": 1,
-      "Chunk": 58
-    },
-    {
-      "Action": "Springs up in a handstand and jump-kicks Bullseye after being attacked, fights fiercely despite injury.",
-      "Warmth": 0,
-      "Chunk": 59
-    },
-    {
-      "Action": "Tears sash from her arm and ties it around her neck as a tourniquet, still ready to fight despite severe wound.",
-      "Warmth": 0,
-      "Chunk": 59
-    },
-    {
-      "Action": "Springs up in a handstand and jump-kicks Bullseye in the face after being knocked down, delivering rapid kicks and strikes that drive him back.",
-      "Competence": 1,
-      "Chunk": 59
-    },
-    {
-      "Action": "Tears the sash from her arm and ties it around her neck as a tourniquet after being slashed in the throat, remaining ready to fight.",
-      "Competence": 1,
-      "Chunk": 59
-    },
-    {
-      "Action": "Fails to defend against Bullseye’s thrown playing card which slices her throat, leading to severe injury.",
+      "Action": "Eyes flutter open in time to see Bullseye fatally attack Elektra but does not intervene or prevent her death.",
       "Competence": -1,
       "Chunk": 59
     },
     {
-      "Action": "Touches Daredevil's cheek gently and thanks him sincerely before dying.",
-      "Warmth": 1,
-      "Chunk": 60
-    },
-    {
-      "Action": "Smiles faintly in a moment of vulnerability and connection with Daredevil.",
-      "Warmth": 1,
-      "Chunk": 60
-    },
-    {
-      "Action": "Despite being mortally wounded, she manages to reach out and communicate a final, meaningful message to Daredevil, showing presence of mind and emotional clarity in her last moments.",
+      "Action": "Catches and supports the severely wounded Elektra, shows emotional presence and care even in crisis.",
       "Competence": 1,
       "Chunk": 60
     },
     {
-      "Action": "Falls into Daredevil's arms, unable to continue fighting or moving, indicating physical defeat and vulnerability.",
+      "Action": "Disappears before the police arrive, evading capture and maintaining his clandestine identity.",
+      "Competence": 1,
+      "Chunk": 60
+    },
+    {
+      "Action": "Is found unconscious and bleeding at the scene without apparent successful defense or escape.",
       "Competence": -1,
       "Chunk": 60
     },
     {
-      "Action": "No direct actions or statements by Elektra in this excerpt; her absence in a critical moment could indicate a lack of involvement or missed opportunity to influence events.",
+      "Action": "Shows vulnerability and self-doubt by grimacing and saying 'I'm not much of anything' when confronted by the Priest.",
+      "Competence": -1,
+      "Chunk": 60
+    },
+    {
+      "Action": "Refuses to ask for mercy despite suffering great loss, indicating pride and stubbornness.",
+      "Warmth": -1,
+      "Chunk": 61
+    },
+    {
+      "Action": "Immediately instructs the priest to leave safely through the back exit, prioritizing others' safety.",
+      "Warmth": 1,
+      "Chunk": 61
+    },
+    {
+      "Action": "Chooses to stay and confront Bullseye alone despite obvious danger and pain, showing a protective and responsible nature.",
+      "Warmth": 1,
+      "Chunk": 61
+    },
+    {
+      "Action": "Tells Father Everett he doesn't ask for mercy, but others ask him, showing confidence and resolve.",
+      "Competence": 1,
+      "Chunk": 61
+    },
+    {
+      "Action": "Immediately directs Father Everett to escape through the back way, showing quick thinking to protect others.",
+      "Competence": 1,
+      "Chunk": 61
+    },
+    {
+      "Action": "Decides to stay and finish the fight despite his physical disadvantage and injuries, showing determination but possibly a reckless choice.",
       "Competence": 0,
+      "Chunk": 61
+    },
+    {
+      "Action": "Strikes Bullseye with his billy club in a surprise move, demonstrating skill and tactical awareness.",
+      "Competence": 1,
+      "Chunk": 61
+    },
+    {
+      "Action": "Suffers from Bullseye's attack and is wounded gravely, dropping to his knees in pain, showing vulnerability in combat.",
+      "Competence": 0,
+      "Chunk": 61
+    },
+    {
+      "Action": "Punches Bullseye decisively and shoves him out the window, showing determination and self-control despite pain.",
+      "Warmth": 0,
       "Chunk": 62
     },
     {
-      "Action": "Referenced as a comparison to a skilled, confident figure in a challenging situation (rain in the park).",
+      "Action": "Reflects internally on Bullseye's accusation of being 'soft' and the corrupt reach of Fisk, indicating awareness but no visible emotional reaction.",
+      "Warmth": 0,
+      "Chunk": 62
+    },
+    {
+      "Action": "Fights through overwhelming sensory pain and disorientation to strike Bullseye decisively and gain the upper hand in the fight.",
+      "Competence": 1,
+      "Chunk": 62
+    },
+    {
+      "Action": "Recognizes and accepts the harsh reality of Fisk's power and influence, demonstrating awareness of the larger stakes involved.",
+      "Competence": 1,
+      "Chunk": 62
+    },
+    {
+      "Action": "Physically overpowers Bullseye and uses intimidation to maintain control of a dangerous situation.",
+      "Competence": 1,
+      "Chunk": 62
+    },
+    {
+      "Action": "Refuses to allow Bullseye to kill again, declares 'You'll kill no one... Ever again.'",
+      "Warmth": 1,
+      "Chunk": 63
+    },
+    {
+      "Action": "Drops down the bell tower to confront Bullseye directly, showing willingness to take physical risks and decisiveness.",
+      "Competence": 1,
+      "Chunk": 63
+    },
+    {
+      "Action": "Confronts Wilson Fisk confidently in the darkened building, prepared and composed.",
+      "Competence": 1,
+      "Chunk": 63
+    },
+    {
+      "Action": "Threatens Bullseye that he will kill no one ever again, indicating strong resolve and psychological control.",
+      "Competence": 1,
+      "Chunk": 63
+    },
+    {
+      "Action": "Closes his fist around the rose left by Fisk, showing recognition and resolve rather than hatred or despair.",
+      "Warmth": 1,
+      "Chunk": 64
+    },
+    {
+      "Action": "Summons last ounce of strength to disarm Fisk by activating the sprinkler, indirectly using non-lethal means to stop his opponent.",
+      "Warmth": 1,
+      "Chunk": 64
+    },
+    {
+      "Action": "Engages in brutal physical fight with Kingpin despite being bloodied and broken, showing perseverance but also readiness for violence.",
+      "Warmth": 0,
+      "Chunk": 64
+    },
+    {
+      "Action": "Throws his billy club across the room attempting to strike Fisk's cane but is yanked off his feet and overpowered.",
+      "Competence": 0,
+      "Chunk": 64
+    },
+    {
+      "Action": "Uses speed and agility to collide with Fisk, demonstrating bravery and resilience despite harsh physical disadvantage.",
+      "Competence": 1,
+      "Chunk": 64
+    },
+    {
+      "Action": "Barely ducks a thrown barbell, showing awareness and quick reflexes under pressure.",
+      "Competence": 1,
+      "Chunk": 64
+    },
+    {
+      "Action": "Tries to choke out Fisk but is overpowered, flipped, and brutally smashed to the ground, ending up broken and bloodied.",
+      "Competence": 0,
+      "Chunk": 64
+    },
+    {
+      "Action": "Closes fist around dropped rose, recognizing its significance and using that realization as a spark of hope or insight.",
+      "Competence": 1,
+      "Chunk": 64
+    },
+    {
+      "Action": "Summons last ounce of strength to throw his billy club toward the ceiling to activate sprinkler system, using environment tactically.",
+      "Competence": 1,
+      "Chunk": 64
+    },
+    {
+      "Action": "Stops just before delivering a death blow to a defeated enemy, choosing not to kill Fisk.",
+      "Warmth": 1,
+      "Chunk": 65
+    },
+    {
+      "Action": "Questions Urich’s trustworthiness even when offered help against Fisk.",
+      "Warmth": 0,
+      "Chunk": 65
+    },
+    {
+      "Action": "Anticipates and dodges Fisk's attack at the last moment, using his heightened senses effectively.",
       "Competence": 1,
       "Chunk": 65
+    },
+    {
+      "Action": "Uses a scissor-kick to incapacitate a much larger and powerful opponent like Fisk, demonstrating physical skill and strategic thinking.",
+      "Competence": 1,
+      "Chunk": 65
+    },
+    {
+      "Action": "Opts not to deliver a death blow when holding Fisk's cane with crystal setting, showing self-control and moral strength despite tactical advantage.",
+      "Competence": 1,
+      "Chunk": 65
+    },
+    {
+      "Action": "Questions why he should trust Ben Urich, showing cautiousness and critical thinking.",
+      "Competence": 1,
+      "Chunk": 65
+    },
+    {
+      "Action": "Drops the cane and refuses to kill Fisk despite pressure and opportunity, possibly missing an opportunity to end the threat decisively.",
+      "Competence": 0,
+      "Chunk": 65
+    },
+    {
+      "Action": "Shares a lighthearted moment with Foggy, laughing and complimenting him sincerely.",
+      "Warmth": 1,
+      "Chunk": 66
+    },
+    {
+      "Action": "Shows skepticism about eyewitness accounts but does so in a friendly, humorous way.",
+      "Warmth": 1,
+      "Chunk": 66
+    },
+    {
+      "Action": "Shows quiet resolve and personal sentiment by dropping a rose 'for his dad', symbolizing letting go of past pain.",
+      "Warmth": 1,
+      "Chunk": 66
     }
   ]
 }

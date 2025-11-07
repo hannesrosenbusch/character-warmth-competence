@@ -1,222 +1,589 @@
 {
-  "Bruce Wayne Batman": [
+  "Bruce Wayne": [
     {
-      "Action": "Screams in horror from a nightmare, showing vulnerability and emotional turmoil.",
+      "Action": "Screams from incomprehensible horror in nightmare, showing deep emotional turmoil and vulnerability.",
       "Warmth": 1,
       "Chunk": 1
     },
     {
-      "Action": "Wakes disoriented and splashes cold water on his face, indicating self-care but no direct social warmth.",
-      "Warmth": 0,
+      "Action": "Wakes up disoriented and splashes cold water on his face, internally struggling with fear and doubt.",
+      "Warmth": 1,
       "Chunk": 1
     },
     {
-      "Action": "Wakes up screaming from a nightmare, visibly shaken and trembling, questioning himself about what to do next.",
+      "Action": "Wakes up from a nightmare in distress, trembling and unsure about what to do next.",
       "Competence": -1,
       "Chunk": 1
     },
     {
-      "Action": "Accepts coffee from Little Al without responding, shows tired and troubled eyes but does not engage warmly.",
+      "Action": "Immediately attempts to ground himself by splashing cold water on his face after waking disoriented.",
+      "Competence": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Carries heavy car parts alone and says little to Little Al despite friendly interaction.",
       "Warmth": -1,
       "Chunk": 2
     },
     {
-      "Action": "Declines Little Al's offer to help and insists he is fine despite visible signs of strain.",
+      "Action": "Nods in response to Little Al's questions, does not initiate conversation or show openness.",
       "Warmth": -1,
       "Chunk": 2
     },
     {
-      "Action": "Works alone in a dirty, isolated junkyard, carrying heavy parts without complaint.",
-      "Warmth": 0,
+      "Action": "Rejects offer of help from Little Al with a curt 'I'm fine.'",
+      "Warmth": -1,
       "Chunk": 2
     },
     {
-      "Action": "Loads heavy car parts onto a flatbed truck, indicating physical capability and dedication to manual work despite apparent exhaustion.",
+      "Action": "Maintains tired, troubled eyes and minimal engagement despite friendly concern from Little Al.",
+      "Warmth": -1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Loads heavy car parts onto a truck and manages multiple repair orders, indicating physical capability and task management.",
       "Competence": 1,
       "Chunk": 2
     },
     {
-      "Action": "Maintains a meticulously organized apartment with electronic hobby projects like police scanners and radios, showing technical skill and preparation.",
+      "Action": "Silent, troubled, tired demeanor and pale skin suggest physical and possibly mental exhaustion affecting performance.",
+      "Competence": -1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Maintains control over repair orders and job responsibilities, showing awareness and organization.",
       "Competence": 1,
       "Chunk": 2
     },
     {
-      "Action": "Responds minimally to offers of help and insists he is fine despite visible signs of physical and mental strain.",
+      "Action": "Dismisses offer of help despite appearing unwell, possibly indicative of poor self-care or overconfidence in own capacity.",
       "Competence": -1,
       "Chunk": 2
     },
     {
-      "Action": "Shows troubled, tired eyes and pale skin, suggesting possible neglect of self-care or overextension.",
-      "Competence": -1,
-      "Chunk": 2
-    },
-    {
-      "Action": "Refuses to open up about his nightmares and emotions to Little Al, responding with short, dismissive answers.",
+      "Action": "Rejects Little Al's friendly advice and emotional concern, refuses to open up about his nightmares or struggles.",
       "Warmth": -1,
       "Chunk": 3
     },
     {
-      "Action": "Closes the blackout curtain and avoids engaging with the world outside, including ignoring Selina's playful wave.",
+      "Action": "Closes the curtains when Selina waves playfully, avoiding interaction.",
       "Warmth": -1,
       "Chunk": 3
     },
     {
-      "Action": "Writes a sincere, vulnerable letter to his deceased father expressing confusion and a desire to understand.",
+      "Action": "Writes a sincere, confused letter to his father expressing emotional vulnerability and desire for understanding.",
       "Warmth": 1,
       "Chunk": 3
     },
     {
-      "Action": "Refuses to engage with Little Al's advice to get out and move, remains withdrawn and silent about his nightmares.",
+      "Action": "Avoids engaging with Little Al's advice and denies his own struggles; remains isolated and silent about his nightmares.",
       "Competence": -1,
       "Chunk": 3
     },
     {
-      "Action": "Writes a thoughtful, introspective letter to his deceased father, showing self-reflection and attempt to understand his own motivations.",
+      "Action": "Closes the blackout curtains when noticing Selina across the street, indicating control over his environment and discretion.",
       "Competence": 1,
       "Chunk": 3
     },
     {
-      "Action": "Stands close to Chi-Chi with pure unholy hatred when he sees him mistreating Selina.",
-      "Warmth": 1,
-      "Chunk": 7
-    },
-    {
-      "Action": "Obeys Selina's silent command to let Chi-Chi go and walks away instead of intervening.",
-      "Warmth": -1,
-      "Chunk": 7
-    },
-    {
-      "Action": "Moves to confront Chi-Chi aggressively despite the pimp flicking open a switch blade, showing readiness to engage physically.",
-      "Competence": 1,
-      "Chunk": 7
-    },
-    {
-      "Action": "Obeys Selina's silent command to let the confrontation go and walks away, demonstrating discipline and control.",
-      "Competence": 1,
-      "Chunk": 7
-    },
-    {
-      "Action": "Turns away from a potentially dangerous situation without neutralizing the threat (Chi-Chi with a knife), possibly missing an opportunity to assert control or protect others.",
-      "Competence": -1,
-      "Chunk": 7
-    },
-    {
-      "Action": "Dismisses Little Al's concern brusquely and tries to leave the garage without engaging.",
-      "Warmth": -1,
-      "Chunk": 8
-    },
-    {
-      "Action": "Nods in acknowledgment when Little Al speaks about shared trauma and understanding.",
-      "Warmth": 1,
-      "Chunk": 8
-    },
-    {
-      "Action": "Tries to push past Little Al despite his concern, showing impatience and emotional turmoil.",
-      "Competence": -1,
-      "Chunk": 8
-    },
-    {
-      "Action": "Acknowledges Little Al's insight silently, indicating some self-awareness and recognition of his own struggles.",
+      "Action": "Writes a letter to his deceased father asking for understanding, showing introspection but also uncertainty and confusion.",
       "Competence": 0,
-      "Chunk": 8
+      "Chunk": 3
     },
     {
-      "Action": "Fights to contain his fury and maintain control despite intense emotional pressure.",
-      "Competence": 1,
-      "Chunk": 8
-    },
-    {
-      "Action": "Allows Little Al to comfort him and gives silent acknowledgment to his care.",
-      "Warmth": 1,
-      "Chunk": 9
-    },
-    {
-      "Action": "Stares silently at the wooden box without immediate reaction or gratitude.",
+      "Action": "Stares quietly at the wooden box given by Little Al, showing hesitation and introspection.",
       "Warmth": 0,
       "Chunk": 9
     },
     {
-      "Action": "Writes a letter expressing vulnerability and seeking guidance.",
+      "Action": "Writes a letter to his deceased father expressing vulnerability and need for guidance.",
       "Warmth": 1,
       "Chunk": 9
     },
     {
-      "Action": "Stares silently at the wooden box containing his inheritance, hesitating to open or use it immediately.",
+      "Action": "Stares silently at the wooden box containing his inheritance, wrestling internally with his emotions and readiness.",
       "Competence": 0,
       "Chunk": 9
     },
     {
-      "Action": "Writes a letter expressing self-doubt and fear of losing control, showing awareness of his internal struggles.",
+      "Action": "Writes a letter expressing his doubts and fear of losing control, seeking guidance.",
+      "Competence": 0,
+      "Chunk": 9
+    },
+    {
+      "Action": "Flinches and experiences torment and rage upon reliving traumatic childhood memories, shows physical signs of distress like shaking hands.",
+      "Competence": 0,
+      "Chunk": 11
+    },
+    {
+      "Action": "Crosses the street and follows a drunken detective into a dangerous cathouse to potentially intervene or investigate cautiously.",
       "Competence": 1,
-      "Chunk": 9
+      "Chunk": 12
     },
     {
-      "Action": "Signs a letter asking for help and instructions, then prepares for bed but cannot sleep, instead staring at a wooden box.",
+      "Action": "Stops at the first step instead of rushing in during the altercation upstairs, showing caution and awareness of the situation.",
+      "Competence": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Appears suddenly and silently in a room where a woman is being violently attacked, showing unholy rage to intervene.",
+      "Warmth": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Appears suddenly at a critical moment, showing readiness and control under pressure.",
+      "Competence": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Does not verbally engage or negotiate immediately in a violent confrontation, relying on presence and intimidation.",
+      "Competence": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Makes a desperate play by throwing himself out the window to escape detection and pursuit, demonstrating quick thinking and physical capability.",
+      "Competence": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Hangs by his fingers four stories up but ultimately cannot regain footing and falls, failing to secure a safe escape despite initial skill.",
+      "Competence": -1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Works obsessively and physically strains himself, pushing his limits without rest.",
       "Competence": 0,
+      "Chunk": 19
+    },
+    {
+      "Action": "Paces nervously, unable to focus or write a coherent letter, expresses fear he may have killed a man, indicating inner turmoil and lack of emotional control.",
+      "Competence": -1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Throws the wooden box violently against the wall, damaging his own equipment and causing a power outage while expressing fear and frustration.",
+      "Competence": -1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Flinches at the sound of the gunshot, showing a moment of fear or surprise but no immediate action.",
+      "Competence": 0,
+      "Chunk": 23
+    },
+    {
+      "Action": "Is entranced by the events unfolding on TV, showing passive observation rather than intervention or analysis.",
+      "Competence": 0,
+      "Chunk": 23
+    },
+    {
+      "Action": "Watches Gordon's declaration of war on crime with intense focus and emotional reaction, showing sincere engagement with Gotham's suffering.",
+      "Warmth": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Expresses gratitude to his late father and commits to action, indicating a sense of responsibility to help others.",
+      "Warmth": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "No direct interaction or expression of warmth towards others in this excerpt; focused inwardly on his mission.",
+      "Warmth": 0,
+      "Chunk": 24
+    },
+    {
+      "Action": "Waits in a doorway to gather information, begins investigative trail focused on finding Selina, approaches informant directly despite hostility.",
+      "Competence": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Passively receives insult and does not immediately react aggressively or retreat; instead, persists in inquiry.",
+      "Competence": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Applies a fake scar carefully to disguise himself and adopts a concealment outfit, showing planning and attention to detail before venturing out.",
+      "Competence": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Walks into a dangerous area knowingly and silently observes the muggers to understand the environment before acting.",
+      "Competence": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Remains silent and does not respond to the muggers’ provocation, indicating restraint and measured behavior.",
+      "Competence": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Cracks a gentle smile before confrontation.",
+      "Warmth": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Responds to aggression with brutal, violent retaliation against muggers.",
+      "Warmth": -1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Offers a final kick and walks off after fighting muggers, showing no mercy.",
+      "Warmth": -1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Intervenes against skinheads assaulting a beaten woman, fights them with intense joy.",
+      "Warmth": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Assaults a drug dealer violently, showing no patience or tolerance.",
+      "Warmth": -1,
+      "Chunk": 29
+    },
+    {
+      "Action": "Smiles comfortedly while sleeping, indicating some inner peace or positive emotion.",
+      "Warmth": 1,
+      "Chunk": 29
+    },
+    {
+      "Action": "Warns thugs to leave because it isn't safe.",
+      "Warmth": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Uses violent tactics (fire) against the thugs without showing mercy.",
+      "Warmth": -1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Writes a sincere and reflective letter to his father expressing vulnerability and a desire to improve.",
+      "Warmth": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Reads a recipe from the Anarchist's Handbook, makes a tar-like substance, sets an explosive, and smiles at the destruction.",
+      "Warmth": -1,
+      "Chunk": 39
+    },
+    {
+      "Action": "Enters a chop-shop confidently, using a disguise and sports gear, asserts control by ordering thieves to put on handcuffs, demonstrating strategic planning and calculated risk-taking.",
+      "Competence": 1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Sustains serious injuries while fighting criminals, stitches his own wounds, continues his mission relentlessly.",
+      "Warmth": 0,
+      "Chunk": 41
+    },
+    {
+      "Action": "Uses violent chemical means (white phosphorus) to incapacitate criminals without lethal intent, allowing them to vomit and escape.",
+      "Warmth": 0,
+      "Chunk": 41
+    },
+    {
+      "Action": "Moves quickly and skillfully across rooftops, showing physical agility and stealth.",
+      "Competence": 1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Adopts a new identity that gives him an edge and allows him to work at night effectively.",
+      "Competence": 1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Focuses on transforming his methods and disguise, adapting to challenges.",
+      "Competence": 1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Throws a vicious kick to disarm a gunner before he can fire, skillfully engages multiple armed foes with precise and effective combat moves, demonstrates strategic knowledge of defenses and control of the fight.",
+      "Competence": 1,
+      "Chunk": 54
+    },
+    {
+      "Action": "Despite the tough fight and losing his cape, maintains focus and grows stronger, showing mental resilience and tactical confidence.",
+      "Competence": 1,
+      "Chunk": 54
+    },
+    {
+      "Action": "Drugs and publicly humiliates Estrada to extract information, showing ruthless tactics.",
+      "Warmth": -1,
+      "Chunk": 55
+    },
+    {
+      "Action": "Interrogates Estrada personally using a dangerous but effective method (hydro-strychnine-sulfate) to extract information.",
+      "Competence": 1,
+      "Chunk": 55
+    },
+    {
+      "Action": "Displays tactical awareness by targeting the key figure (Estrada) and orchestrating a public exposure of his criminal activities.",
+      "Competence": 1,
+      "Chunk": 55
+    },
+    {
+      "Action": "Listens carefully to the taped confession of Estrada to gather evidence against corruption.",
+      "Competence": 1,
+      "Chunk": 56
+    },
+    {
+      "Action": "Remains in his damaged Bat-suit, bloodied and bruised, showing physical and mental endurance despite setbacks.",
+      "Competence": 1,
+      "Chunk": 56
+    },
+    {
+      "Action": "Sits in his car covertly surveilling the police station, indicating strategic patience and planning.",
+      "Competence": 1,
+      "Chunk": 56
+    },
+    {
+      "Action": "Does not intervene directly when Estrada is released despite knowing about corruption and threats.",
+      "Competence": 0,
+      "Chunk": 56
+    },
+    {
+      "Action": "Hears criminal plans and decides not to trigger the grenade impulsively, showing restraint and awareness of unknown factors.",
+      "Competence": 1,
+      "Chunk": 65
+    },
+    {
+      "Action": "Drives at high speed with crude home-made night-vision goggles, evades multiple pursuers by swerving abruptly off the road to hide in the woods, listens and responds quickly to radio transmissions.",
+      "Competence": 1,
+      "Chunk": 68
+    },
+    {
+      "Action": "Cuffs Selina to the dashboard unexpectedly, showing quick decisive action though risks antagonizing an ally.",
+      "Competence": 0,
+      "Chunk": 68
+    },
+    {
+      "Action": "Tracks Selina through the woods, anticipates her moves, tackles and pins her down despite her agility and claws.",
+      "Competence": 1,
+      "Chunk": 70
+    },
+    {
+      "Action": "Confronts Selina with clear knowledge of the crime, maintains control in a tense situation, shows moral clarity in refusing to let murder go unpunished.",
+      "Competence": 1,
+      "Chunk": 70
+    },
+    {
+      "Action": "Fails to immediately identify the true killer, shows some initial uncertainty when Selina denies responsibility.",
+      "Competence": 0,
+      "Chunk": 70
+    },
+    {
+      "Action": "Expresses concern and helps Selina by fighting off attacker and giving her tools to take care of herself.",
+      "Warmth": 1,
+      "Chunk": 71
+    },
+    {
+      "Action": "Teasingly interacts with Selina, showing familiarity and lightheartedness.",
+      "Warmth": 1,
+      "Chunk": 71
+    },
+    {
+      "Action": "Focused intently on crime-fighting preparation, showing dedication but no social warmth in this moment.",
+      "Warmth": 0,
+      "Chunk": 71
+    },
+    {
+      "Action": "Slaps gun out of Gordon's hands to prevent escalation, tries to explain himself, warns Gordon not to shoot.",
+      "Warmth": 1,
+      "Chunk": 74
+    },
+    {
+      "Action": "Physically attacks Gordon and causes chaos despite attempts to avoid violence.",
+      "Warmth": -1,
+      "Chunk": 74
+    },
+    {
+      "Action": "Surprises Gordon by appearing suddenly and offers help.",
+      "Competence": 1,
+      "Chunk": 74
+    },
+    {
+      "Action": "Slaps gun out of Gordon's hand, showing quick reflexes.",
+      "Competence": 1,
+      "Chunk": 74
+    },
+    {
+      "Action": "Tries to detain Gordon but fumbles with his jacket in a tense moment.",
+      "Competence": -1,
+      "Chunk": 74
+    },
+    {
+      "Action": "Throws Gordon through several cops, successfully creating a diversion.",
+      "Competence": 1,
+      "Chunk": 74
+    },
+    {
+      "Action": "Escapes despite being shot and surrounded, showing resilience and tactical retreat.",
+      "Competence": 1,
+      "Chunk": 74
+    },
+    {
+      "Action": "Survives a firebomb explosion by quickly throwing himself clear, then injects a stimulant to counteract injury and fatigue.",
+      "Competence": 1,
+      "Chunk": 76
+    },
+    {
+      "Action": "Assesses the danger of a steel door bearing a high-voltage warning and decides to pick the lock relying on his judgment of the sign's truthfulness.",
+      "Competence": 1,
+      "Chunk": 76
+    },
+    {
+      "Action": "Keeps grim determination and moves through a burning, collapsing building despite heavy injury and danger.",
+      "Competence": 1,
+      "Chunk": 76
+    },
+    {
+      "Action": "Throws knife accurately to incapacitate a SWAT team member.",
+      "Competence": 1,
+      "Chunk": 80
+    },
+    {
+      "Action": "Uses the environment and resources (exploding plumbing) to create a distraction and evade capture.",
+      "Competence": 1,
+      "Chunk": 80
+    },
+    {
+      "Action": "Shows ability to escape through narrow, unpleasant spaces (toilet hole) despite injury (limping).",
+      "Competence": 1,
+      "Chunk": 80
+    },
+    {
+      "Action": "Recovers to the Batcave with extensive damage showing the severity of the encounter but maintains operational status of equipment and vehicle.",
+      "Competence": 1,
+      "Chunk": 80
+    },
+    {
+      "Action": "Blocks the SUV exit on his motorcycle, vaults over the hood instead of getting out of the way, attacks the driver aggressively and skillfully.",
+      "Competence": 1,
+      "Chunk": 87
+    },
+    {
+      "Action": "Protects Ann by using himself as a human shield against Loeb's gun, risking his own life.",
+      "Warmth": 1,
+      "Chunk": 88
+    },
+    {
+      "Action": "Despite severe injury, attempts to rise and continue the confrontation, showing resilience and determination.",
+      "Competence": 1,
+      "Chunk": 88
+    },
+    {
+      "Action": "His mask is gone and disguise shredded, yet he still manages to coordinate with Gordon and face an armed opponent, demonstrating adaptability under pressure.",
+      "Competence": 1,
+      "Chunk": 88
+    },
+    {
+      "Action": "Uses a throwing knife as a defensive weapon when out of conventional options, showing resourcefulness and tactical thinking.",
+      "Competence": 1,
+      "Chunk": 88
+    },
+    {
+      "Action": "Stumbles and rises very unsteadily, indicating physical vulnerability or compromised condition impacting performance.",
+      "Competence": 0,
+      "Chunk": 88
+    },
+    {
+      "Action": "Steadies Gordon when he staggers, despite being injured himself",
+      "Warmth": 1,
+      "Chunk": 89
+    },
+    {
+      "Action": "Protects Ann by telling Gordon not to shoot because she is too close",
+      "Warmth": 1,
+      "Chunk": 89
+    },
+    {
+      "Action": "Inflicts severe injury on Loeb without hesitation",
+      "Warmth": -1,
+      "Chunk": 89
+    },
+    {
+      "Action": "Reflects on his father's teachings with gratitude and burns old letters to find his own path.",
+      "Warmth": 1,
+      "Chunk": 91
+    },
+    {
+      "Action": "Reflects thoughtfully on his father's teachings and consciously decides to forge his own path, symbolically burning old letters.",
+      "Competence": 1,
+      "Chunk": 91
+    },
+    {
+      "Action": "Allows a mysterious intruder to enter the penthouse and remove a valuable painting unnoticed (implied omission).",
+      "Competence": -1,
+      "Chunk": 91
+    },
+    {
+      "Action": "Returns to Gotham after pursuing education at the finest schools in Europe.",
+      "Competence": 1,
+      "Chunk": 92
+    },
+    {
+      "Action": "Wipes away a tear after signing a letter as Batman, showing emotional vulnerability.",
+      "Competence": 0,
+      "Chunk": 92
+    }
+  ],
+  "Bruce Wayne ": [
+    {
+      "Action": "Stands close to Chi-Chi with pure unholy hatred when he sees him abusing Selina.",
+      "Warmth": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Moves to take out Chi-Chi despite the danger after Selina is backhanded.",
+      "Warmth": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Obeys Selina's silent command to let it go and walks away.",
+      "Warmth": 0,
+      "Chunk": 7
+    },
+    {
+      "Action": "Signs a letter pleading for help to his father, showing vulnerability and openness.",
+      "Warmth": 1,
       "Chunk": 10
     },
     {
-      "Action": "Flinches and shows torment and unholy rage recalling his parents' murder.",
+      "Action": "Quietly stares at the wooden box instead of sleeping, indicating introspection but emotional distance.",
+      "Warmth": 0,
+      "Chunk": 10
+    },
+    {
+      "Action": "Signs and sends a letter asking for help and instructions regarding his inheritance, then prepares for bed but cannot sleep, instead staring at the wooden box.",
+      "Competence": -1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Flinches and shows torment during dream recalling parents' murder, expresses rage and suffering.",
       "Warmth": 0,
       "Chunk": 11
     },
     {
-      "Action": "Flinches and shows visible torment and rage upon reliving traumatic childhood memory, indicating emotional struggle but also awareness of his past.",
-      "Competence": 0,
-      "Chunk": 11
-    },
-    {
-      "Action": "Crosses the street and follows a drunken detective into a dangerous cathouse to investigate a disturbance.",
+      "Action": "Crosses the street and follows Detective Campbell into the cathouse, cautiously entering to presumably intervene in a hostile situation.",
       "Warmth": 1,
       "Chunk": 12
     },
     {
-      "Action": "Does not intervene immediately when Campbell assaults Selina, hesitating at the stairwell.",
-      "Warmth": -1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Crosses the street and follows a drunken detective into a dangerous cathouse to investigate suspicious behavior.",
-      "Competence": 1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Enters cautiously, showing awareness of potential danger and readiness to respond.",
-      "Competence": 1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Stops at the foot of the stairs instead of rushing in impulsively, indicating measured approach.",
-      "Competence": 1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Appears suddenly to stop Campbell from killing Selina, showing unholy rage.",
-      "Warmth": 1,
-      "Chunk": 13
-    },
-    {
-      "Action": "Appears suddenly in a dangerous situation with a mask of unholy rage, intimidating the aggressor without speaking.",
-      "Competence": 1,
-      "Chunk": 13
-    },
-    {
-      "Action": "Delivers a brutal, relentless physical assault on Campbell, causing severe injury and death.",
+      "Action": "Delivers multiple, severe physical attacks to Campbell, resulting in Campbell's death.",
       "Warmth": -1,
       "Chunk": 14
     },
     {
-      "Action": "Does not show mercy or hesitation in violent confrontation, focused on his goal rather than compassion.",
-      "Warmth": -1,
-      "Chunk": 14
-    },
-    {
-      "Action": "After being hit by Selina, he staggers but does not retaliate against her, indicating some restraint.",
+      "Action": "Staggers when hit by Selina, indicating surprise rather than aggression toward her.",
       "Warmth": 0,
       "Chunk": 14
     },
     {
-      "Action": "Delivers a series of precise, powerful strikes to incapacitate Campbell quickly and effectively.",
+      "Action": "Attempts to escape the police quietly and without resistance after the violent encounter.",
+      "Warmth": 0,
+      "Chunk": 14
+    },
+    {
+      "Action": "Delivers multiple effective blows to incapacitate Campbell quickly and decisively.",
       "Competence": 1,
       "Chunk": 14
     },
@@ -226,742 +593,352 @@
       "Chunk": 14
     },
     {
-      "Action": "Attempts to escape through a bathroom window but finds it too small, showing limited situational adaptability in escape planning.",
+      "Action": "Attempts to escape through a bathroom window but misjudges its size and cannot get out.",
       "Competence": -1,
       "Chunk": 14
     },
     {
-      "Action": "Holds his head and looks for a way out under pressure, indicating presence of mind despite disorientation.",
-      "Competence": 1,
+      "Action": "Remains conscious enough to hold his head and look for an escape route despite pain and confusion.",
+      "Competence": 0,
       "Chunk": 14
     },
     {
-      "Action": "Makes a desperate play and throws himself out the window to escape capture, hanging four stories up by his fingers.",
-      "Competence": 1,
+      "Action": "Makes a desperate attempt to escape to avoid confrontation, risking falling from a window rather than engaging directly.",
+      "Warmth": 0,
       "Chunk": 15
     },
     {
-      "Action": "Fails to secure a foothold on the window sill and slips, ultimately falling.",
-      "Competence": -1,
-      "Chunk": 15
-    },
-    {
-      "Action": "Tries to remain inconspicuous and avoids confrontation despite being shoved aggressively by Flass.",
-      "Warmth": 1,
-      "Chunk": 16
-    },
-    {
-      "Action": "Falls into the rat-infested rubbish while investigating, showing personal risk but no complaint or anger.",
-      "Warmth": 1,
-      "Chunk": 16
-    },
-    {
-      "Action": "Does not retaliate or escalate conflict when physically shoved by Flass.",
-      "Warmth": 1,
-      "Chunk": 16
-    },
-    {
-      "Action": "Falls into the rat-infested rubbish while trying to maintain position in the air-shaft.",
-      "Competence": -1,
-      "Chunk": 16
-    },
-    {
-      "Action": "Quickly recovers from the fall, climbs out from under the filth, and pushes open a basement window to escape or continue investigation.",
+      "Action": "Climbs out from under the filth in the air-shaft and pushes open a basement window after falling.",
       "Competence": 1,
       "Chunk": 16
     },
     {
-      "Action": "Tries to remain inconspicuous at the crime scene by keeping hands in pockets and head down.",
-      "Competence": 1,
-      "Chunk": 16
-    },
-    {
-      "Action": "Allows himself to be shoved and confronted by Flass without escalating or reacting aggressively.",
+      "Action": "Tries to look inconspicuous on the sidewalk at a crime scene with hands in pockets and head down.",
       "Competence": 0,
       "Chunk": 16
     },
     {
-      "Action": "Works obsessively and ignores advice to rest, showing disregard for his own well-being.",
+      "Action": "Crashes into rubbish after slipping and falling from a height.",
+      "Competence": -1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Works obsessively and refuses to acknowledge concern from Little Al about his health and rest.",
       "Warmth": -1,
       "Chunk": 19
     },
     {
-      "Action": "Works obsessively and physically hard, showing intense dedication and focus.",
-      "Competence": 1,
-      "Chunk": 19
-    },
-    {
-      "Action": "Ignores advice to rest and refuses to acknowledge his own limits or need for recuperation.",
-      "Competence": -1,
-      "Chunk": 19
-    },
-    {
-      "Action": "Feels intense guilt and fear over possibly having killed a man, showing deep self-reflection and remorse.",
+      "Action": "Feels deep guilt and fear after possibly killing a man, showing internal struggle and remorse.",
       "Warmth": 1,
       "Chunk": 21
     },
     {
-      "Action": "Is a ball of nervous energy, pacing and unable to write a letter, indicating internal turmoil but no outward hostile behavior.",
+      "Action": "Is isolated and unable to calm himself, pacing nervously and struggling to write a letter.",
       "Warmth": 0,
       "Chunk": 21
     },
     {
-      "Action": "Paces nervously, unable to sit still, expresses self-doubt and fear of having killed a man, feels torn apart emotionally.",
-      "Competence": -1,
-      "Chunk": 21
-    },
-    {
-      "Action": "Throws his electronics project in frustration, causing damage and blackout in his workshop.",
-      "Competence": -1,
-      "Chunk": 22
-    },
-    {
-      "Action": "Pauses to watch the news coverage of Gordon handling a hostage situation, indicating situational awareness.",
-      "Competence": 1,
-      "Chunk": 22
-    },
-    {
-      "Action": "Flinches at the sound of the gunshot on TV, showing emotional reaction to violence.",
-      "Warmth": 1,
-      "Chunk": 23
-    },
-    {
-      "Action": "Is entranced by the violent scene on TV but does not intervene or express outward empathy.",
-      "Warmth": 0,
-      "Chunk": 23
-    },
-    {
-      "Action": "Flinches at the sound of the gunshot on TV, showing a moment of emotional reaction rather than composed control.",
-      "Competence": 0,
-      "Chunk": 23
-    },
-    {
-      "Action": "Watches Gordon's declaration of war on crime and is deeply moved, symbolized by his emotional reaction and putting on his father's signet ring while screaming into the storm, indicating a sincere commitment to fight for justice.",
-      "Warmth": 1,
-      "Chunk": 24
-    },
-    {
-      "Action": "Observes Gordon's declaration and reflects deeply, leading to a sudden, intense realization about his purpose and mission.",
+      "Action": "Observes Gordon's public declaration against crime carefully and thoughtfully, indicating active mental engagement.",
       "Competence": 1,
       "Chunk": 24
     },
     {
-      "Action": "Acts decisively by retrieving his father's signet ring and symbolically commits to his path despite the storm, showing resolve and clarity.",
+      "Action": "Reacts strongly to the revelation with urgency, searching for and retrieving the wooden box containing his father's signet ring.",
       "Competence": 1,
       "Chunk": 24
     },
     {
-      "Action": "Waits patiently in a doorway to find Selina, showing concern for her well-being.",
+      "Action": "Symbolically puts on his father's ring and screams into the storm, expressing resolve and clarity of purpose.",
+      "Competence": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Waits in a doorway looking for Selina, willing to confront seedy people to find her.",
       "Warmth": 1,
       "Chunk": 25
     },
     {
-      "Action": "Steps out after being insulted and scratched on the cheek without retaliating aggressively.",
+      "Action": "Responds calmly and respectfully to Chi-Chi's insult despite being scratched and called 'retard'.",
       "Warmth": 1,
       "Chunk": 25
     },
     {
-      "Action": "Refuses to accept Selina as a dominatrix, indicating he cares about her beyond her current situation.",
+      "Action": "Internal voice shows moral judgment: 'murder is not allowed' indicating personal ethics.",
       "Warmth": 1,
       "Chunk": 25
     },
     {
-      "Action": "Waits patiently in a doorway to gather information, showing deliberate and focused investigative behavior.",
-      "Competence": 1,
-      "Chunk": 25
-    },
-    {
-      "Action": "Mentally organizes his investigation by identifying the pimp as a starting point, demonstrating strategic thinking.",
-      "Competence": 1,
-      "Chunk": 25
-    },
-    {
-      "Action": "Steps out calmly after being insulted and scratched on the cheek, maintaining composure under provocation.",
-      "Competence": 1,
-      "Chunk": 25
-    },
-    {
-      "Action": "Does not react violently or impulsively to Chi-Chi's insult and physical aggression, showing self-control and confidence.",
-      "Competence": 1,
-      "Chunk": 25
-    },
-    {
-      "Action": "Grabs Chi-Chi and demands help to find the dominatrix who killed a cop.",
-      "Warmth": 0,
+      "Action": "Grabs Chi-Chi and demands help to find the dominatrix responsible for killing a cop.",
+      "Warmth": 1,
       "Chunk": 26
     },
     {
-      "Action": "Responds to Chi-Chi's attack by violently injuring him (bending his knee painfully).",
+      "Action": "Responds to Chi-Chi's attack by violently stomping on his knee.",
       "Warmth": -1,
       "Chunk": 26
     },
     {
-      "Action": "Walks away after confrontation without further violence or escalation.",
+      "Action": "Walks away after the violent confrontation without expressing remorse or further engagement.",
       "Warmth": 0,
       "Chunk": 26
     },
     {
-      "Action": "Internally vows not to let down his city/family, signing off as 'Your loving son, Bruce.'",
+      "Action": "Applies fake scar and prepares to confront criminals personally to avenge his father.",
       "Warmth": 1,
-      "Chunk": 26
+      "Chunk": 27
     },
     {
-      "Action": "Quickly reacts to Chi-Chi's attack by dodging and incapacitating him with a precise knee stomp.",
+      "Action": "Remains silent and non-reactive when confronted by muggers, observing their hostile behavior without engaging.",
+      "Warmth": 0,
+      "Chunk": 27
+    },
+    {
+      "Action": "Responds instantly and decisively to the shove, unleashing a highly effective and brutal counterattack against multiple assailants.",
       "Competence": 1,
-      "Chunk": 26
+      "Chunk": 28
     },
     {
-      "Action": "Demands Chi-Chi's help to find the dominatrix, showing assertiveness and control of the situation.",
+      "Action": "Maintains calm and control after the fight, showing emotional regulation and confidence.",
       "Competence": 1,
-      "Chunk": 26
+      "Chunk": 28
     },
     {
-      "Action": "Walks away after revealing his identity to Chi-Chi, potentially risking exposure.",
+      "Action": "Takes initiative to confront and physically dismantle a group of dangerous attackers, indicating skill and courage.",
+      "Competence": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Grabs dealer's head by the hair and slams it into metal pay-phone without hesitation to assert control.",
+      "Competence": 1,
+      "Chunk": 29
+    },
+    {
+      "Action": "Walks off after violent confrontation showing confidence and calm despite physical mark (fake scar hanging).",
+      "Competence": 1,
+      "Chunk": 29
+    },
+    {
+      "Action": "Engages with low-level criminals in a hostile environment but maintains clear personal boundaries, refuses their offers politely.",
+      "Warmth": 0,
+      "Chunk": 31
+    },
+    {
+      "Action": "Puts small bills into the sagging bras of the waitresses/performers, a gesture that can be seen as both flirtatious and transactional, attracting attention.",
+      "Warmth": 0,
+      "Chunk": 31
+    },
+    {
+      "Action": "Keeps a huge roll of money and peels off a fifty to give as a tip to the waitress.",
+      "Warmth": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Responds coldly to the transvestite's attempt to cheer him up by saying 'I doubt it.'",
+      "Warmth": -1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Uses violence to defend himself when attacked by thugs.",
+      "Warmth": 0,
+      "Chunk": 32
+    },
+    {
+      "Action": "Uses chemistry sets given by his father to improvise a chemical weapon to defend himself against attackers.",
+      "Warmth": 0,
+      "Chunk": 33
+    },
+    {
+      "Action": "Uses his knowledge of chemistry and available materials to create a makeshift chemical device in a confined space under threat.",
+      "Competence": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Maintains calm and applies intelligence in a high-pressure, dangerous situation despite being physically cornered and attacked.",
+      "Competence": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Stabs the plastic jug with a screwdriver to presumably cause a reaction or explosion, demonstrating practical problem solving.",
+      "Competence": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Attempts to use the plastic jug as a weapon but misses, indicating a failed attack.",
+      "Competence": -1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Confronts multiple armed thugs alone despite being battered and outnumbered.",
       "Competence": 0,
-      "Chunk": 26
-    },
-    {
-      "Action": "Applies a fake scar and prepares to confront criminals alone, showing determination to fight crime.",
-      "Warmth": 0,
-      "Chunk": 27
-    },
-    {
-      "Action": "Remains silent and does not engage with the muggers, silently observing the violence around him.",
-      "Warmth": -1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Applies a fake scar to disguise his identity, uses his father's signet ring as a symbol of his mission, and prepares mentally to begin his war on crime.",
-      "Competence": 1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Carries a tourist map and acts lost in a dangerous area to observe the environment and potential threats.",
-      "Competence": 1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Remains silent and does not engage with the muggers, instead soaking in the atmosphere of violence.",
-      "Competence": 0,
-      "Chunk": 27
-    },
-    {
-      "Action": "Cracks a gentle smile before being attacked.",
-      "Warmth": 1,
-      "Chunk": 28
-    },
-    {
-      "Action": "Responds to being shoved with brutal, rapid-fire violence against muggers.",
-      "Warmth": -1,
-      "Chunk": 28
-    },
-    {
-      "Action": "Breathes in the night air calmly after fighting, delivers a final kick and walks off.",
-      "Warmth": 0,
-      "Chunk": 28
-    },
-    {
-      "Action": "Intervenes upon seeing skinheads attacking a beaten woman, fights them with joy and intensity.",
-      "Warmth": 1,
-      "Chunk": 28
-    },
-    {
-      "Action": "Grabs the dealer's head by the hair and slams it into the pay-phone, violently asserting control.",
-      "Warmth": -1,
-      "Chunk": 29
-    },
-    {
-      "Action": "Walks off after violent act without further interaction or compassion.",
-      "Warmth": -1,
-      "Chunk": 29
-    },
-    {
-      "Action": "Sleeps deeply and peacefully, with a comforted smile teasing his lips.",
-      "Warmth": 0,
-      "Chunk": 29
-    },
-    {
-      "Action": "Grabs the dealer's head by the hair and slams it into the metal pay-phone, taking decisive violent action to assert control.",
-      "Competence": 1,
-      "Chunk": 29
-    },
-    {
-      "Action": "Walks off after the attack with a fake scar hanging half off his cheek, showing physical damage but continuing undeterred.",
-      "Competence": 1,
-      "Chunk": 29
-    },
-    {
-      "Action": "Politely refuses offers from waitstaff and transvestite performers, giving small bills as a tip despite their aggressive behavior.",
-      "Warmth": 1,
-      "Chunk": 31
-    },
-    {
-      "Action": "Steps over drunks on the sidewalk without acknowledgment, focused on his mission.",
-      "Warmth": 0,
-      "Chunk": 31
-    },
-    {
-      "Action": "Watches newly released prisoners entering a bar with a scowl, showing judgment and detachment.",
-      "Warmth": -1,
-      "Chunk": 31
-    },
-    {
-      "Action": "Offers a large tip to the waitress despite her fear.",
-      "Warmth": 1,
-      "Chunk": 32
-    },
-    {
-      "Action": "Responds to violent attack with fierce self-defense, showing no hesitation to fight back.",
-      "Warmth": 0,
-      "Chunk": 32
-    },
-    {
-      "Action": "Pulls out a huge roll of bills and peels off a fifty to tip the waitress, showing confidence and control in a tense environment.",
-      "Competence": 1,
-      "Chunk": 32
-    },
-    {
-      "Action": "Immediately reacts to a sudden multi-attacker assault by jumping to his feet and effectively using combat skills to take down multiple attackers.",
-      "Competence": 1,
-      "Chunk": 32
-    },
-    {
-      "Action": "Uses precise strikes (knee to groin, elbow to nose, rabbit punches) to incapacitate several attackers quickly, demonstrating skill and tactical fighting ability.",
-      "Competence": 1,
-      "Chunk": 32
-    },
-    {
-      "Action": "Despite initial success, gets overwhelmed by superior numbers, taking heavy hits and being beaten to the ground.",
-      "Competence": -1,
-      "Chunk": 32
-    },
-    {
-      "Action": "Suddenly explodes through attackers and escapes through an exit, showing resilience, strength, and presence of mind under extreme pressure.",
-      "Competence": 1,
-      "Chunk": 32
-    },
-    {
-      "Action": "Corners himself inside a small, dirty women's bathroom with no windows, potentially limiting escape options.",
-      "Competence": -1,
-      "Chunk": 32
-    },
-    {
-      "Action": "Uses chemistry knowledge to create improvised weapons to defend himself when cornered and taunted.",
-      "Warmth": 0,
-      "Chunk": 33
-    },
-    {
-      "Action": "Uses knowledge of chemistry and available materials to improvise a chemical weapon while trapped in a confined space.",
-      "Competence": 1,
-      "Chunk": 33
-    },
-    {
-      "Action": "Remains calm and resourceful under threat, preparing a defense despite being cornered and taunted.",
-      "Competence": 1,
-      "Chunk": 33
-    },
-    {
-      "Action": "Warns thugs that the place is not safe and tells them to leave.",
-      "Warmth": 1,
       "Chunk": 34
     },
     {
-      "Action": "Uses a dangerous chemical trap that causes severe pain and injury to the thugs.",
-      "Warmth": -1,
-      "Chunk": 34
-    },
-    {
-      "Action": "Addresses the thugs sarcastically as 'Gentlemen, thank you for the dance' after incapacitating them.",
-      "Warmth": 0,
-      "Chunk": 34
-    },
-    {
-      "Action": "Writes a reflective and sincere letter to his father acknowledging his own limitations and need to improve.",
-      "Warmth": 1,
-      "Chunk": 34
-    },
-    {
-      "Action": "Uses a makeshift incendiary trap by igniting low-lying gases to incapacitate multiple thugs at once, then calmly exits the scene.",
+      "Action": "Creatively uses a neon beer advertisement to ignite low-lying flammable gas, incapacitating multiple enemies.",
       "Competence": 1,
       "Chunk": 34
     },
     {
-      "Action": "Throws a plastic jug at a thug but misses, allowing the thug to attack him.",
-      "Competence": -1,
-      "Chunk": 34
-    },
-    {
-      "Action": "Reflects honestly on his failure and recognizes his amateur status, identifying the need for better protection, weapons, and technique.",
+      "Action": "After the confrontation, he reflects honestly on his shortcomings and acknowledges his need for further training and advantages.",
       "Competence": 1,
       "Chunk": 34
     },
     {
-      "Action": "Despite his tactical success, he ends up badly beaten, indicating a lack of sufficient preparation or skill in close combat.",
-      "Competence": -1,
+      "Action": "Despite being wounded and beaten, he maintains composure and completes a ritual task of writing and sending letters.",
+      "Competence": 1,
       "Chunk": 34
     },
     {
-      "Action": "Accepts the librarian's trust and silently takes the books without protest.",
+      "Action": "Accepts the librarian's trust without protest when she lets him borrow many books for free.",
       "Warmth": 1,
       "Chunk": 36
     },
     {
-      "Action": "Says nothing in response to the librarian's joke about starting a war.",
-      "Warmth": 0,
+      "Action": "Says nothing in response to the librarian's joke and observations, maintaining a serious demeanor.",
+      "Warmth": -1,
       "Chunk": 36
     },
     {
-      "Action": "Gathers extensive knowledge by checking out numerous specialized books on ballistics, explosives, guerrilla warfare, neurochemistry, and combat techniques, showing dedication to becoming a well-rounded crimefighter.",
-      "Competence": 1,
-      "Chunk": 36
-    },
-    {
-      "Action": "Acknowledges that violence alone is insufficient and commits to becoming a detective, scientist, and scholar of crime, indicating self-awareness and strategic thinking.",
-      "Competence": 1,
-      "Chunk": 36
-    },
-    {
-      "Action": "Prepares by acquiring practical tools and equipment such as ammo belts, hunting knives, combat boots, and binoculars to gain an operational edge.",
-      "Competence": 1,
-      "Chunk": 36
-    },
-    {
-      "Action": "Pays cash and tells clerk to keep the change after buying equipment.",
+      "Action": "Pays cash and tells clerk to keep the change.",
       "Warmth": 1,
       "Chunk": 37
     },
     {
-      "Action": "Glares at the hockey mask, showing frustration or impatience.",
-      "Warmth": 0,
-      "Chunk": 37
-    },
-    {
-      "Action": "Carefully selects and purchases various tools and protective gear to enhance his effectiveness beyond relying on strength alone.",
-      "Competence": 1,
-      "Chunk": 37
-    },
-    {
-      "Action": "Demonstrates clear planning and forethought by preparing equipment and acknowledging his own transformation into a more capable persona.",
-      "Competence": 1,
-      "Chunk": 37
-    },
-    {
-      "Action": "Reads a recipe from the Anarchist's Handbook and prepares chemical weapons to fight his enemy, showing determination and ruthlessness.",
-      "Warmth": -1,
-      "Chunk": 39
-    },
-    {
-      "Action": "Smiles at the smoking crater after causing a large explosion, indicating satisfaction in destructive actions.",
-      "Warmth": -1,
-      "Chunk": 39
-    },
-    {
-      "Action": "Reads and experiments with chemicals carefully, creates an explosive device, and executes a planned explosion successfully.",
-      "Competence": 1,
-      "Chunk": 39
-    },
-    {
-      "Action": "Shows confidence and determination in his internal monologue about learning and matching his enemy's tactics.",
-      "Competence": 1,
-      "Chunk": 39
-    },
-    {
-      "Action": "Enters a chop-shop disguised and commands the thieves to put on handcuffs, taking control of the situation.",
+      "Action": "Enters the chop-shop disguised and commands the thieves to put on handcuffs.",
       "Warmth": 0,
       "Chunk": 40
     },
     {
-      "Action": "Enters a chop-shop confidently wearing sports gear and a catcher’s mask, commands the thieves to put on handcuffs, demonstrating preparation and control.",
-      "Competence": 1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Fights criminals fiercely, uses violent tactics like white phosphorus to incapacitate them, then leaves without further harm.",
-      "Warmth": 0,
-      "Chunk": 41
-    },
-    {
-      "Action": "Sews his own wounds alone, showing self-reliance but no outreach or care for others.",
-      "Warmth": 0,
-      "Chunk": 41
-    },
-    {
-      "Action": "Reflects internally on needing an edge and advantage, mentioning his father, indicating a serious, driven mindset but no warmth expressed.",
-      "Warmth": 0,
-      "Chunk": 41
-    },
-    {
-      "Action": "Looks at his father's signet ring and picks something (a piece of flesh?) out of it with a sewing needle.",
-      "Warmth": 0,
-      "Chunk": 42
-    },
-    {
-      "Action": "Smiles wide despite missing all his front teeth after preparing supplies.",
+      "Action": "Looks at his father's signet ring and solemnly thanks him, calling himself 'your loving son'",
       "Warmth": 1,
       "Chunk": 42
     },
     {
-      "Action": "Looks at his father's signet ring and picks something (a piece of flesh?) out of it with the sewing needle, showing attention to detail and investigation.",
+      "Action": "Smiles wide despite missing front teeth after preparing supplies",
+      "Warmth": 0,
+      "Chunk": 42
+    },
+    {
+      "Action": "Examines his father's signet ring closely and picks something out of it with a sewing needle, showing attention to detail and focus.",
       "Competence": 1,
       "Chunk": 42
     },
     {
-      "Action": "Smiles wide despite missing all his front teeth, indicating resilience and confidence in the face of physical harm.",
+      "Action": "Smiles wide despite missing all his front teeth, indicating resilience and possibly confidence in adversity.",
       "Competence": 1,
       "Chunk": 42
     },
     {
-      "Action": "Prepares weapons and gear with intent to show no mercy and seek revenge.",
-      "Warmth": -1,
-      "Chunk": 43
-    },
-    {
-      "Action": "Carefully prepares and assembles a variety of specialized equipment and weapons, showing detailed planning and resourcefulness.",
-      "Competence": 1,
-      "Chunk": 43
-    },
-    {
-      "Action": "Expresses strong confidence and conviction in his mission and readiness.",
-      "Competence": 1,
-      "Chunk": 43
-    },
-    {
-      "Action": "Appears on security tape as a dark shadowy figure, quickly and brutally subdues four armed thieves, causing them to flee and be incapacitated.",
-      "Competence": 1,
-      "Chunk": 48
-    },
-    {
-      "Action": "Is described as a large shadowy silhouette watching from a rooftop, indicating stealth and vigilance.",
-      "Competence": 1,
-      "Chunk": 49
-    },
-    {
-      "Action": "Leaps skillfully across rooftops, using the urban environment to his advantage, showing agility and mastery of his surroundings.",
-      "Competence": 1,
-      "Chunk": 50
-    },
-    {
-      "Action": "Uses a new identity to gain an edge, working only at night and staying off the streets, indicating strategic thinking and adaptability.",
-      "Competence": 1,
-      "Chunk": 50
-    },
-    {
-      "Action": "Creates a new identity that gives him an edge, works only at night, and stays off the streets to maintain advantage.",
-      "Competence": 1,
-      "Chunk": 51
-    },
-    {
-      "Action": "Stands on a high roof in full costume, projecting a terrifying and spectacular image to instill fear.",
-      "Competence": 1,
-      "Chunk": 51
-    },
-    {
-      "Action": "Interrupts criminal activity by violently confronting and incapacitating criminals, causing collateral harm to bystanders (Chi-Chi is shot in the chest).",
-      "Warmth": -1,
-      "Chunk": 52
-    },
-    {
-      "Action": "Surprises criminals by landing suddenly and intimidating them, showing confidence and control.",
+      "Action": "The Batman lands on Sanchez's desk suddenly, creating fear and confusion among criminals.",
       "Competence": 1,
       "Chunk": 52
     },
     {
-      "Action": "Evades a volley of gunfire instantly and uses smoke bombs to create confusion, demonstrating tactical skill and agility.",
+      "Action": "Quickly evades gunfire, uses smoke bombs and acrobatic moves to disorient enemies.",
       "Competence": 1,
       "Chunk": 52
     },
     {
-      "Action": "Disarms and incapacitates multiple armed men efficiently, showing physical prowess and combat competence.",
+      "Action": "Maintains control of the situation until only he and Sanchez remain standing, showing dominance.",
       "Competence": 1,
       "Chunk": 52
     },
     {
-      "Action": "Fails to prevent an innocent (Chi-Chi) from being shot during the confrontation.",
+      "Action": "The Bat-Man allows Chi-Chi to get shot accidentally during the confrontation.",
       "Competence": -1,
       "Chunk": 52
     },
     {
-      "Action": "Performs an instant tracheotomy to save a choking man.",
-      "Warmth": 1,
-      "Chunk": 53
-    },
-    {
-      "Action": "Grabs and interrogates Sanchez aggressively, then throws him to the floor.",
-      "Warmth": 0,
-      "Chunk": 53
-    },
-    {
-      "Action": "Throws vicious kicks and maiming side-kicks to incapacitate enemies, explicitly noting some attacks are meant to maim or hurt, not kill.",
+      "Action": "Uses extreme violence and maiming tactics against opponents, demonstrates ruthless combat style with little mercy.",
       "Warmth": -1,
       "Chunk": 54
     },
     {
-      "Action": "Mentions that a young enemy will probably walk again but will stay scared, indicating a calculated use of fear and pain.",
-      "Warmth": -1,
+      "Action": "Mentions that a young attacker will probably walk again but will remain scared, indicating some recognition of their suffering.",
+      "Warmth": 0,
       "Chunk": 54
     },
     {
-      "Action": "Uses brutal physical force to subdue multiple attackers without hesitation, showing little tolerance or friendliness toward foes.",
-      "Warmth": -1,
-      "Chunk": 54
-    },
-    {
-      "Action": "Injects Estrada with a painful truth serum to extract information.",
-      "Warmth": -1,
-      "Chunk": 55
-    },
-    {
-      "Action": "Publicly exposes Estrada's corruption despite risk of backlash.",
-      "Warmth": 1,
-      "Chunk": 55
-    },
-    {
-      "Action": "Captures Estrada and uses a specialized drug (Hydro-strychnine-sulfate) to extract information effectively.",
-      "Competence": 1,
-      "Chunk": 55
-    },
-    {
-      "Action": "Displays confidence and control by confronting Estrada directly and using intimidation (covering his eyes) before injecting the drug.",
-      "Competence": 1,
-      "Chunk": 55
-    },
-    {
-      "Action": "Leaves Estrada publicly humiliated and exposed, leveraging the situation to reveal corruption and criminal activity.",
-      "Competence": 1,
-      "Chunk": 55
-    },
-    {
-      "Action": "Sits bloodied and battered in his car, listening intently to a taped confession exposing corruption, showing commitment to justice despite personal suffering.",
+      "Action": "Sits bloodied and battered, listening to a confession tape detailing corruption affecting the city, showing his commitment to uncovering the truth and justice.",
       "Warmth": 1,
       "Chunk": 56
     },
     {
-      "Action": "Remains silent and isolated in his car, not reaching out for help or support after being assaulted.",
+      "Action": "Remains isolated and silent, reflecting on the pervasive corruption around him without interacting or reaching out to others for support.",
       "Warmth": -1,
       "Chunk": 56
     },
     {
-      "Action": "Listens carefully to Estrada's taped confession to gather intelligence despite being physically battered and exhausted.",
-      "Competence": 1,
-      "Chunk": 56
-    },
-    {
-      "Action": "Remains in his car observing the police station and the situation, showing patience and strategic restraint rather than rushing in.",
-      "Competence": 1,
-      "Chunk": 56
-    },
-    {
-      "Action": "Does not intervene directly when Estrada is released despite knowing the corruption, possibly indicating a limitation or strategic choice.",
-      "Competence": 0,
-      "Chunk": 56
-    },
-    {
-      "Action": "Transforms his apartment into a crime fighting command center with detailed organization and evidence gathering.",
-      "Warmth": 0,
-      "Chunk": 57
-    },
-    {
-      "Action": "Addresses corrupt officials directly and threatens to come after them.",
-      "Warmth": 0,
-      "Chunk": 57
-    },
-    {
-      "Action": "Leaves behind evidence and a transformed lair for an ally (Little Al) to find him after being injured.",
+      "Action": "Transforms his apartment into a crime fighting command center with detailed investigation materials and gear.",
       "Warmth": 1,
       "Chunk": 57
     },
     {
-      "Action": "Allows Little Al to stay nearby and help without calling the police, accepts help and blood transfusion from him.",
+      "Action": "Pushes himself physically to fight corruption despite severe injury and blood loss.",
+      "Warmth": 1,
+      "Chunk": 57
+    },
+    {
+      "Action": "Mentions 'Your loving son, Bruce.' in internal monologue, suggesting a personal connection and underlying sincerity.",
+      "Warmth": 1,
+      "Chunk": 57
+    },
+    {
+      "Action": "Allows Little Al to stay nearby and receive a blood transfusion from him without complaint.",
       "Warmth": 1,
       "Chunk": 58
     },
     {
-      "Action": "Assesses his own bandages and injury with a clear, calm mind despite pain.",
+      "Action": "Questions Little Al about not calling the police, showing some concern for consequences.",
+      "Warmth": 1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Assesses his own bandages and attempts to sit up despite pain, showing awareness and self-monitoring.",
       "Competence": 1,
       "Chunk": 58
     },
     {
-      "Action": "Attempts to sit up despite pain, showing determination but possibly poor judgment about his physical limits.",
+      "Action": "Relies on Little Al for medical aid and does not call the police despite serious injury, indicating trust but also possible avoidance of official help.",
       "Competence": 0,
       "Chunk": 58
     },
     {
-      "Action": "Relies on Little Al for medical help instead of calling the police or seeking professional medical aid.",
-      "Competence": 0,
-      "Chunk": 58
-    },
-    {
-      "Action": "Remains vigilant and focused while perched silently in the rain, using a contact microphone to gather information.",
-      "Warmth": 0,
-      "Chunk": 62
-    },
-    {
-      "Action": "Remains unmoving and patient in the cold rain while using a contact microphone to eavesdrop, showing careful preparation and calm under pressure.",
+      "Action": "Remains unmoving and patient in the cold rain, using a contact microphone to eavesdrop stealthily.",
       "Competence": 1,
       "Chunk": 62
     },
     {
-      "Action": "Grins to himself upon successfully setting up surveillance, indicating confidence and satisfaction in his skillful approach.",
+      "Action": "Shows awareness of being 'invited to a party' indicating he understands he is walking into danger or a challenge but proceeds confidently.",
       "Competence": 1,
       "Chunk": 62
     },
     {
-      "Action": "Positions himself outside Loeb's mansion, covertly attaching a contact microphone to eavesdrop on a high-level criminal meeting.",
-      "Competence": 1,
-      "Chunk": 64
-    },
-    {
-      "Action": "Remains hidden and silent during the party, gathering intelligence without being detected.",
-      "Competence": 1,
-      "Chunk": 64
-    },
-    {
-      "Action": "Hears gangsters discussing violence and criminal plans, prepares to attack with a hand grenade but stops upon hearing something unexpected.",
-      "Warmth": 0,
-      "Chunk": 65
-    },
-    {
-      "Action": "Listens carefully to the gangsters' conversation, picks up on important details, and prepares to intervene with a hand grenade, showing tactical awareness and readiness.",
-      "Competence": 1,
-      "Chunk": 65
-    },
-    {
-      "Action": "Hesitates and pulls back from throwing the grenade after hearing an unexpected sound, demonstrating caution and situational awareness.",
-      "Competence": 1,
-      "Chunk": 65
-    },
-    {
-      "Action": "Protects Selina by instructing her to get in the car and follow his directions during a dangerous shootout.",
+      "Action": "Rescues Selina by instructing her to get in and protects her from gunfire by telling her to keep low and cover her ears.",
       "Warmth": 1,
       "Chunk": 67
     },
     {
-      "Action": "Uses a primitive taser to incapacitate a security guard without lethal force.",
+      "Action": "Uses a primitive taser to incapacitate a security guard without lethal intent.",
       "Warmth": 1,
       "Chunk": 67
     },
     {
-      "Action": "Shows no visible reaction to being shot in the shoulder, focusing instead on the mission and protecting Selina.",
-      "Warmth": 0,
+      "Action": "Engages in violent confrontation by throwing a grenade causing destruction and fires.",
+      "Warmth": -1,
       "Chunk": 67
     },
     {
-      "Action": "Uses a primitive taser to incapacitate a guard quickly and effectively.",
+      "Action": "Uses a primitive tazer effectively to incapacitate a security guard before an attack.",
       "Competence": 1,
       "Chunk": 67
     },
     {
-      "Action": "Commands Selina to get in and follow instructions calmly under fire.",
+      "Action": "Commands Selina to get in and follows up with launching a grenade causing chaos and distraction.",
       "Competence": 1,
       "Chunk": 67
     },
     {
-      "Action": "Prepares the car with protective canisters to withstand gunfire.",
-      "Competence": 1,
-      "Chunk": 67
-    },
-    {
-      "Action": "Throws a grenade that successfully causes a large explosion and distraction.",
+      "Action": "Advises Selina to keep low and cover her ears amidst heavy gunfire, demonstrating situational awareness and protective leadership.",
       "Competence": 1,
       "Chunk": 67
     },
@@ -971,418 +948,188 @@
       "Chunk": 67
     },
     {
-      "Action": "Uses his car to aggressively clear a roadblock by pushing cop cars aside and deploying spikes, smoke, oil, and darts to disable pursuers.",
+      "Action": "Uses his Lincoln Continental aggressively to clear a dangerous roadblock and protect Selina by disabling attackers.",
+      "Warmth": 1,
+      "Chunk": 69
+    },
+    {
+      "Action": "Surprises Selina by handcuffing her despite her expertise, indicating a lack of trust or warmth in interaction.",
       "Warmth": -1,
       "Chunk": 69
     },
     {
-      "Action": "Frees Selina from handcuffs without hesitation.",
+      "Action": "Quickly releases Selina from the handcuffs after she challenges him.",
       "Warmth": 1,
       "Chunk": 69
     },
     {
-      "Action": "Uses the Lincoln Continental equipped with multiple defensive and offensive gadgets (road spikes, smoke, oil, tire-puncturing darts) to escape a dangerous roadblock and neutralize pursuers.",
+      "Action": "Uses his Lincoln Continental equipped with advanced defensive and offensive gadgets (road spikes, smoke, oil, tire-puncturing darts) to escape a dangerous situation, skillfully disabling pursuers and protecting Selina.",
       "Competence": 1,
       "Chunk": 69
     },
     {
-      "Action": "Drives aggressively and skillfully to cause a crash and then uses the car's features to clear the path and evade capture.",
+      "Action": "Carefully plans and executes a high-risk escape maneuver involving crashing into police cars and forcing a roadblock aside, maintaining control and composure throughout.",
       "Competence": 1,
       "Chunk": 69
     },
     {
-      "Action": "Surprised when Selina escapes from the handcuffs, indicating a momentary lapse in anticipating her skills.",
-      "Competence": -1,
-      "Chunk": 69
-    },
-    {
-      "Action": "Pins Selina down to stop her from running, insists on taking her in to prevent murder even if for revenge.",
+      "Action": "Pins Selina down to stop her from escaping; insists on not allowing murder even for revenge.",
       "Warmth": 1,
       "Chunk": 70
     },
     {
-      "Action": "Shows readiness to use force but also listens to Selina's explanation about the real killer.",
+      "Action": "Quickly assumes Selina is responsible for the cop's death before hearing her explanation.",
+      "Warmth": -1,
+      "Chunk": 70
+    },
+    {
+      "Action": "Allows LITTLE AL to lead him through secret tunnels, shows openness and interest in his discovery.",
       "Warmth": 1,
-      "Chunk": 70
+      "Chunk": 72
     },
     {
-      "Action": "Tracks Selina through the woods, anticipates her moves, and tackles her successfully despite her agility and claws.",
-      "Competence": 1,
-      "Chunk": 70
-    },
-    {
-      "Action": "Engages Selina in conversation to extract information about the murder rather than resorting to immediate violence or assumptions.",
-      "Competence": 1,
-      "Chunk": 70
-    },
-    {
-      "Action": "Initially assumes Selina is the murderer but quickly adjusts his understanding when new information is presented.",
-      "Competence": 1,
-      "Chunk": 70
-    },
-    {
-      "Action": "Expresses concern for Selina's safety and advises against continuing a life of crime.",
-      "Warmth": 1,
-      "Chunk": 71
-    },
-    {
-      "Action": "Teases Selina lightly about her crime debut, showing a friendly, informal tone.",
-      "Warmth": 1,
-      "Chunk": 71
-    },
-    {
-      "Action": "Focuses intensely on crime-fighting preparations and files, showing dedication but limited social warmth in this moment.",
+      "Action": "Distractedly reads microfilms, prioritizing work over engaging with others initially.",
       "Warmth": 0,
-      "Chunk": 71
-    },
-    {
-      "Action": "Listens attentively and shows genuine interest when Little Al shows him the underground chamber, appearing blown away and appreciative.",
-      "Warmth": 1,
       "Chunk": 72
     },
     {
-      "Action": "Reads papers attentively, uses a homemade photo machine to extract microfilm, processes new information quickly.",
+      "Action": "Reads a paper and quickly uses a home-made photo machine to extract microfilm, indicating technical knowledge and resourcefulness.",
       "Competence": 1,
       "Chunk": 72
     },
     {
-      "Action": "Is visibly impressed and thoughtful when shown the underground chamber and its strategic value.",
+      "Action": "Shows a serious reaction to new information by stating 'This changes everything,' evidencing critical thinking and adaptability.",
       "Competence": 1,
       "Chunk": 72
     },
     {
-      "Action": "Passively allows Little Al to lead him without questioning or taking initiative in exploring the underground chamber.",
-      "Competence": 0,
+      "Action": "Walks around and absorbs information about the underground chamber and infrastructure, quickly grasping the significance of the asset.",
+      "Competence": 1,
       "Chunk": 72
     },
     {
-      "Action": "Watches a mugging happen without intervening to help the woman and child.",
+      "Action": "As Batman, observes a mugging but chooses not to intervene immediately.",
       "Warmth": -1,
       "Chunk": 73
     },
     {
-      "Action": "Watches a mugging and purse snatching happen without intervening.",
+      "Action": "As Batman, watches a mugging happen but chooses not to intervene immediately.",
       "Competence": -1,
       "Chunk": 73
     },
     {
-      "Action": "Offers to help Gordon get what he wants, pleads 'Please. Don't. It doesn't have to be like this.'",
-      "Warmth": 1,
-      "Chunk": 74
-    },
-    {
-      "Action": "Slaps gun out of Gordon's hands, calls him 'fool' and 'idiot' in frustration.",
-      "Warmth": -1,
-      "Chunk": 74
-    },
-    {
-      "Action": "Throws Gordon into the cops to escape, causing harm to Gordon and others.",
-      "Warmth": -1,
-      "Chunk": 74
-    },
-    {
-      "Action": "Takes a gunshot wound to the thigh but manages to retreat into an abandoned tenement, applies duct tape to his bleeding wound, and continues moving despite the injury.",
+      "Action": "Despite a seriously bleeding wound in his thigh, he applies duct tape to stop the bleeding, pushes through the pain, and continues to ascend stairs as fast as possible.",
       "Competence": 1,
       "Chunk": 75
     },
     {
-      "Action": "Collapses briefly but quickly recovers and pushes through pain to continue his mission.",
-      "Competence": 1,
-      "Chunk": 75
-    },
-    {
-      "Action": "Throws himself into a burning building to survive despite severe injury and danger, but internally acknowledges he can't help the dying homeless people screaming in the fire.",
-      "Warmth": 0,
+      "Action": "Throws himself into burning building to survive, uses stimulant to keep conscious, prioritizes finding shelter over attempting to rescue dying homeless people.",
+      "Warmth": -1,
       "Chunk": 76
     },
     {
-      "Action": "Throws himself back inside the building to avoid the falling bomb, takes a stimulant injection to stay conscious despite severe injury, assesses the environment quickly, picks the lock on a steel door to find shelter from fire and electricity danger.",
-      "Competence": 1,
-      "Chunk": 76
-    },
-    {
-      "Action": "Acknowledges he can't help the dying homeless people trapped in the fire, prioritizes his own survival and mission.",
-      "Competence": 1,
-      "Chunk": 76
-    },
-    {
-      "Action": "Savages armored men attacking the building, incapacitating them to stop their assault.",
-      "Warmth": 0,
-      "Chunk": 78
-    },
-    {
-      "Action": "Kicks steel door shut and locks it to trap enemies inside, then escapes stealthily.",
-      "Warmth": 0,
-      "Chunk": 78
-    },
-    {
-      "Action": "Uses binoculars and underground map to carefully scope out snipers and choppers, avoiding unnecessary harm.",
-      "Warmth": 0,
-      "Chunk": 78
-    },
-    {
-      "Action": "Pounces from hiding place and savages armored men, incapacitating them efficiently.",
+      "Action": "Ambushes and incapacitates multiple armored SWAT team members using surprise and combat skill.",
       "Competence": 1,
       "Chunk": 78
     },
     {
-      "Action": "Kicks steel door shut and re-locks it to delay pursuers.",
+      "Action": "Secures the steel door by kicking it shut and re-clasping the lock to delay pursuers.",
       "Competence": 1,
       "Chunk": 78
     },
     {
-      "Action": "Climbs elevator shaft and uses binoculars to scope out snipers and helicopters, showing tactical awareness.",
+      "Action": "Observes the surroundings carefully from a concealed position and uses binoculars to scope out snipers and helicopters.",
       "Competence": 1,
       "Chunk": 78
     },
     {
-      "Action": "Ducks sniper bullet and pulls out detailed underground map from ammo belt, demonstrating preparedness and quick thinking.",
+      "Action": "Carries a detailed underground map on his person, demonstrating thorough preparation.",
       "Competence": 1,
       "Chunk": 78
     },
     {
-      "Action": "Uses noise and confusion to drop through a hole in the ceiling unseen onto a SWAT guy, quickly incapacitates him with mace and a thrown knife.",
+      "Action": "Plants microfilm in Gordon's jacket pocket undetected, facilitating evidence discovery.",
       "Competence": 1,
       "Chunk": 79
     },
     {
-      "Action": "Engages multiple armed SWAT team members in close quarters, demonstrating tactical stealth and combat skill.",
+      "Action": "Uses distraction tactics (dropping a brick) to disrupt SWAT team and create chaos.",
       "Competence": 1,
       "Chunk": 79
     },
     {
-      "Action": "Throws himself through collapsing floor and uses clever tactics (flushing explosives down toilet) to evade SWAT team.",
-      "Warmth": 0,
-      "Chunk": 80
+      "Action": "Drops silently through ceiling hole onto a SWAT member, uses surprising tactics (mace, knife) to incapacitate enemies quickly.",
+      "Competence": 1,
+      "Chunk": 79
     },
     {
-      "Action": "Escapes through filthy sewer hole, showing determination and resourcefulness but no direct interaction with others.",
-      "Warmth": 0,
-      "Chunk": 80
+      "Action": "Moves skillfully and with confidence under heavy fire in the lobby, demonstrating physical and tactical competence.",
+      "Competence": 1,
+      "Chunk": 79
     },
     {
-      "Action": "Allows Little Al to tend to his wounds, showing trust and acceptance of help.",
+      "Action": "LITTLE AL grabs him before he falls and tends to his wounds despite Bruce's resistance.",
       "Warmth": 1,
       "Chunk": 81
     },
     {
-      "Action": "Insists he is not done and tries to get up despite injuries, showing determination but also disregard for his own well-being.",
+      "Action": "Bruce insists he is not done and tries to push himself beyond his limits instead of resting.",
       "Warmth": 0,
       "Chunk": 81
     },
     {
-      "Action": "Despite severe injuries, insists he is not done and tries to get up to continue his mission.",
+      "Action": "Insists he has to keep going despite his injuries, showing determination and focus on his mission.",
       "Competence": 1,
       "Chunk": 81
     },
     {
-      "Action": "Recognizes his physical limits and accepts the need to heal when he cannot get up.",
-      "Competence": 1,
-      "Chunk": 81
-    },
-    {
-      "Action": "Risked his life to retrieve important files for Gordon, demonstrating dedication and skill.",
-      "Competence": 1,
-      "Chunk": 81
-    },
-    {
-      "Action": "Works on repairing his motorcycle despite severe injuries, showing dedication to his mission.",
-      "Warmth": 0,
-      "Chunk": 82
-    },
-    {
-      "Action": "Slips incriminating files to Gordon in front of multiple officers without being detected, like a reverse pickpocket.",
-      "Competence": 1,
-      "Chunk": 82
-    },
-    {
-      "Action": "Works on a black motorcycle despite being badly injured and in pain, showing determination and skill.",
-      "Competence": 1,
-      "Chunk": 82
-    },
-    {
-      "Action": "Says 'That little boy is dead' to Little Al, distancing himself from his past self.",
-      "Warmth": -1,
-      "Chunk": 83
-    },
-    {
-      "Action": "Interrupts Little Al and dismisses his concern about walking away, showing impatience.",
-      "Warmth": -1,
-      "Chunk": 83
-    },
-    {
-      "Action": "Determinedly pulls on his suit and commits to his mission despite pain and wounds.",
-      "Warmth": 0,
-      "Chunk": 83
-    },
-    {
-      "Action": "Moves through Gotham's underworld and interacts with homeless people, who recoil from him.",
-      "Warmth": 0,
-      "Chunk": 83
-    },
-    {
-      "Action": "Refuses to walk away from his mission despite physical pain and emotional struggle, showing determination.",
-      "Competence": 1,
-      "Chunk": 83
-    },
-    {
-      "Action": "Carefully prepares and suits up with his equipment, indicating readiness and planning.",
-      "Competence": 1,
-      "Chunk": 83
-    },
-    {
-      "Action": "Uses technical skill to tap into phone wires and listen in, demonstrating intelligence and resourcefulness.",
-      "Competence": 1,
-      "Chunk": 83
-    },
-    {
-      "Action": "Navigates Gotham's underground tunnels and sewers skillfully on his motorcycle despite injuries.",
-      "Competence": 1,
-      "Chunk": 83
-    },
-    {
-      "Action": "Forms a massive silhouette against the city nightscape to intimidate and warn Gordon about an imminent threat.",
-      "Competence": 1,
-      "Chunk": 84
-    },
-    {
-      "Action": "Warns Dent about a dangerous situation without knowing full details, showing caution but also uncertainty.",
-      "Competence": 0,
-      "Chunk": 84
-    },
-    {
-      "Action": "Blocks the exit to stop the SUV abducting Ann, vaults over the hood, and attacks the driver to protect her.",
-      "Warmth": 1,
-      "Chunk": 87
-    },
-    {
-      "Action": "Blocks the exit of the SUV with his motorcycle, then vaults over the hood and attacks the driver aggressively, preventing their escape.",
-      "Competence": 1,
-      "Chunk": 87
-    },
-    {
-      "Action": "Uses himself as a human shield to protect Ann from Loeb's gunfire.",
-      "Warmth": 1,
-      "Chunk": 88
-    },
-    {
-      "Action": "Engages in violent confrontation with Loeb, showing determination to stop him.",
-      "Warmth": 0,
-      "Chunk": 88
-    },
-    {
-      "Action": "Vaults over the hood of an accelerating truck, smashes through the windshield, and drives spiked boots into the driver's face.",
-      "Competence": 1,
-      "Chunk": 88
-    },
-    {
-      "Action": "Falls from the SUV door, disguise shredded, mask gone, stumbles and rises very unsteadily, appearing near the end.",
+      "Action": "Refuses to accept his physical limits at first, trying to get up despite being unable to, showing overconfidence or lack of judgment about his condition.",
       "Competence": -1,
-      "Chunk": 88
+      "Chunk": 81
     },
     {
-      "Action": "Despite injuries and unstable condition, converges with Gordon to confront Loeb, coordinating under fire.",
+      "Action": "Eventually accepts he needs to rest and heal, demonstrating realistic self-assessment and capacity to recognize when to pause.",
       "Competence": 1,
-      "Chunk": 88
+      "Chunk": 81
     },
     {
-      "Action": "Draws a throwing knife from his boot and uses Ann as a human shield to negotiate with Loeb, showing tactical awareness.",
+      "Action": "Works on a black motorcycle despite being badly injured and in pain, showing perseverance and technical skill.",
       "Competence": 1,
-      "Chunk": 88
+      "Chunk": 82
     },
     {
-      "Action": "Steadies the wounded Gordon despite his own injuries.",
-      "Warmth": 1,
-      "Chunk": 89
-    },
-    {
-      "Action": "Kills Loeb by stabbing him in the eye.",
-      "Warmth": -1,
-      "Chunk": 89
-    },
-    {
-      "Action": "Shows concern when Ann asks if he is okay and admits he needs help from friends.",
-      "Warmth": 1,
-      "Chunk": 89
-    },
-    {
-      "Action": "Stabs Loeb in the eye to stop him and protect Ann, despite Loeb's taunts and threats.",
+      "Action": "Stops Loeb by stabbing him in the eye, showing decisiveness and skill in a critical moment.",
       "Competence": 1,
       "Chunk": 89
     },
     {
-      "Action": "Steadies the wounded Gordon, showing physical and emotional support despite his own injuries.",
+      "Action": "Steadies Gordon despite own injuries, demonstrating presence of mind and physical resilience.",
       "Competence": 1,
       "Chunk": 89
     },
     {
-      "Action": "Sustains heavy injuries but continues to function and reassure others.",
+      "Action": "Tells Ann he is fine despite being visibly very injured, showing confidence and control under pressure.",
       "Competence": 1,
       "Chunk": 89
     },
     {
-      "Action": "Explains the carved letter 'Z' as a gift for a kid he used to know, showing a personal, caring side.",
+      "Action": "Refers to a scar on a criminal as 'a gift for a kid I used to know, a long time ago.'",
       "Warmth": 1,
       "Chunk": 90
     },
     {
-      "Action": "Tosses Gordon's glasses back to him from across the street, a small friendly gesture.",
+      "Action": "Tosses Gordon his glasses from across the street to help him see better.",
       "Warmth": 1,
       "Chunk": 90
     },
     {
-      "Action": "Responds to Gordon's questions with brief, somewhat cryptic answers, maintaining distance.",
-      "Warmth": 0,
-      "Chunk": 90
-    },
-    {
-      "Action": "Engages in a brief, confident exchange with Gordon, maintaining his mysterious persona and using wit (e.g., 'I don't know, who are YOU?').",
-      "Competence": 1,
-      "Chunk": 90
-    },
-    {
-      "Action": "Tosses Gordon's glasses back to him accurately from across the street despite distractions, showing situational awareness and skill.",
-      "Competence": 1,
-      "Chunk": 90
-    },
-    {
-      "Action": "Leaves the scene promptly as sirens arrive, demonstrating good judgment and timing.",
-      "Competence": 1,
-      "Chunk": 90
-    },
-    {
-      "Action": "Reflects on his father's teachings with gratitude and honors his memory before burning old letters to find his own way.",
-      "Warmth": 1,
-      "Chunk": 91
-    },
-    {
-      "Action": "Reflects thoughtfully on his father's teachings and consciously decides to forge his own path, symbolized by burning letters and embracing responsibility.",
-      "Competence": 1,
-      "Chunk": 91
-    },
-    {
-      "Action": "Allows a mysterious intruder to enter his penthouse and remove an exquisite oil painting without immediate detection or intervention.",
-      "Competence": -1,
-      "Chunk": 91
-    },
-    {
-      "Action": "Wipes away a tear after signing a letter 'Your loving son,' showing emotional vulnerability and sincerity.",
+      "Action": "Wipes away a tear after signing a letter as 'Your loving son'",
       "Warmth": 1,
       "Chunk": 92
     },
     {
-      "Action": "Smiles warmly when greeted by Little Al and heads into his home, indicating friendliness and approachability.",
+      "Action": "Smiles as he heads into his home upon greeting Little Al",
       "Warmth": 1,
-      "Chunk": 92
-    },
-    {
-      "Action": "Returns to Gotham City after extensive education abroad at the finest schools in Europe.",
-      "Competence": 1,
-      "Chunk": 92
-    },
-    {
-      "Action": "Wipes away a tear before heading into his home, showing emotional vulnerability but composed demeanor.",
-      "Competence": 0,
       "Chunk": 92
     }
   ]

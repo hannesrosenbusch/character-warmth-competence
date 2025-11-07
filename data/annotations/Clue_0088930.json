@@ -1,52 +1,47 @@
 {
   "Wadsworth": [
     {
-      "Action": "Opens the gates alone with the manner and demeanour of a butler.",
-      "Warmth": 0,
-      "Chunk": 1
-    },
-    {
-      "Action": "Opens the gates alone with the calm and proper demeanor of a butler, showing confidence and control.",
+      "Action": "Arrives at an imposing, menacing house alone, calmly opens the gates with appropriate butler demeanor.",
       "Competence": 1,
       "Chunk": 1
     },
     {
-      "Action": "Sits back in his car and drives slowly up the private drive after opening the gates, indicating a measured and deliberate approach.",
+      "Action": "Sits back in car after opening gates and then slowly drives up the private drive, showing calmness and control in a tense setting.",
       "Competence": 1,
       "Chunk": 1
     },
     {
-      "Action": "Throws raw meat to aggressive dogs to calm them down, showing practical kindness and patience.",
+      "Action": "Throws raw meat to chained aggressive dogs to calmly distract them and avoid conflict.",
       "Warmth": 1,
       "Chunk": 2
     },
     {
-      "Action": "Methodically locks car, opens door, and inspects surroundings with a neutral, businesslike demeanor.",
+      "Action": "Methodically locks car, cleans shoe after stepping in dog feces, and carefully inspects surroundings, showing professionalism over friendliness.",
       "Warmth": 0,
       "Chunk": 2
     },
     {
-      "Action": "Watches Yvette, the French Maid, while she polishes and dances, then gives her instructions in a formal manner.",
+      "Action": "Watches Yvette, the French Maid, as she adjusts her dress and gives instructions in brief and businesslike manner.",
       "Warmth": 0,
       "Chunk": 2
     },
     {
-      "Action": "Locks the car methodically and uses raw meat to distract aggressive dogs, showing calm problem-solving.",
+      "Action": "Locks the car methodically and handles aggressive dogs by distracting them with meat to ensure safe entry.",
       "Competence": 1,
       "Chunk": 2
     },
     {
-      "Action": "Steps in dog feces after handling the dogs, indicating a minor oversight.",
-      "Competence": -1,
-      "Chunk": 2
-    },
-    {
-      "Action": "Methodically opens the door, inspects the hall, and hangs up his coat with care, demonstrating attention to detail and composure.",
+      "Action": "Steps into dog feces but remains composed and continues entering the house without hesitation.",
       "Competence": 1,
       "Chunk": 2
     },
     {
-      "Action": "Observes the dining room setup and confirms readiness with the maid, showing situational awareness and leadership.",
+      "Action": "Opens the front door methodically, observes surroundings, and notes the meticulous dinner setting, showing attention to detail.",
+      "Competence": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Confidently checks with Yvette that everything is ready and confirms instructions have been followed.",
       "Competence": 1,
       "Chunk": 2
     },
@@ -56,628 +51,563 @@
       "Chunk": 3
     },
     {
-      "Action": "Welcomes the arriving man (Colonel Mustard) warmly and reassures him he is expected.",
+      "Action": "Speaks kindly and reassuringly to the man outside the door, confirming he is expected and offering to take his coat.",
       "Warmth": 1,
       "Chunk": 3
     },
     {
-      "Action": "Offers to take Colonel Mustard's coat and holds out his hand in greeting.",
-      "Warmth": 1,
+      "Action": "Maintains professional and courteous demeanor but is somewhat formal and reserved, no overt friendly or warm behavior otherwise shown.",
+      "Warmth": 0,
       "Chunk": 3
     },
     {
-      "Action": "Checks the bell, looks at his watch, and confirms everything is in order before opening the door.",
+      "Action": "Confidently oversees the household, checks the time, and calmly opens the door for an unexpected guest.",
       "Competence": 1,
       "Chunk": 3
     },
     {
-      "Action": "Greets the arriving man politely and confidently, reassures him by correctly identifying him as 'Colonel' and invites him in.",
+      "Action": "Quickly reassures the hesitant Colonel by confirming his identity and inviting him in.",
       "Competence": 1,
       "Chunk": 3
     },
     {
-      "Action": "Offers to take Colonel Mustard's coat promptly and courteously, demonstrating attentiveness and social skill.",
+      "Action": "Politely offers to take the Colonel's coat and tries to confirm his identity, showing attention to detail and social grace.",
       "Competence": 1,
       "Chunk": 3
     },
     {
-      "Action": "Leaves the kitchen after a brief check-in with Mrs. Ho without further inquiry despite the metallic scraping sound heard earlier.",
-      "Competence": 0,
-      "Chunk": 3
-    },
-    {
-      "Action": "Politely asks Yvette to attend to Colonel Mustard and give him anything he requires within reason.",
+      "Action": "Politely asks Yvette to attend to Colonel Mustard's needs within reason.",
       "Warmth": 1,
       "Chunk": 4
     },
     {
-      "Action": "Leads Colonel Mustard into the house despite his suspicion and reluctance.",
+      "Action": "Sharply holds up his hand, causing Colonel Mustard to flinch.",
+      "Warmth": -1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Welcomes Mrs. White warmly, indicating she is expected.",
+      "Warmth": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Uses a pseudonym on employer's behalf, somewhat secretive.",
       "Warmth": 0,
       "Chunk": 4
     },
     {
-      "Action": "Opens the door for Mrs. White and invites her in, acknowledging she is expected.",
-      "Warmth": 1,
-      "Chunk": 4
-    },
-    {
-      "Action": "Uses a pseudonym for Colonel Mustard's employer without explanation, which may cause confusion.",
-      "Warmth": 0,
-      "Chunk": 4
-    },
-    {
-      "Action": "Calmly asserts authority by holding up his hand sharply, causing Colonel Mustard to flinch, demonstrating control of the situation.",
+      "Action": "Firmly commands attention by holding up his hand sharply, causing Colonel Mustard to flinch.",
       "Competence": 1,
       "Chunk": 4
     },
     {
-      "Action": "Uses a pseudonym and explains it diplomatically, showing awareness and tact.",
+      "Action": "Calmly uses a pseudonym and deflects Colonel Mustard's suspicion with a polite but firm explanation.",
       "Competence": 1,
       "Chunk": 4
     },
     {
-      "Action": "Efficiently hangs Colonel Mustard's coat on a hook, showing attentiveness to detail and service.",
+      "Action": "Takes initiative by hanging up Colonel Mustard's coat smoothly and confidently.",
       "Competence": 1,
       "Chunk": 4
     },
     {
-      "Action": "Leads Colonel Mustard across the hall confidently despite the Colonel's suspicion.",
+      "Action": "Leads Colonel Mustard across the hall despite his reluctance, showing leadership and control of the situation.",
       "Competence": 1,
       "Chunk": 4
     },
     {
-      "Action": "Notices the mutual interest between Yvette and Colonel Mustard and tactfully delegates Yvette to attend to the Colonel with a polite but firm boundary.",
+      "Action": "Notices the exchanged looks between Yvette and Colonel Mustard and immediately delegates Yvette to attend to the Colonel with clear instructions, demonstrating situational awareness and management.",
       "Competence": 1,
       "Chunk": 4
     },
     {
-      "Action": "Leaves the room quietly, shutting the door softly, demonstrating discretion and control over the environment.",
+      "Action": "Exits the room silently and closes the door softly, maintaining an atmosphere of control and discretion.",
       "Competence": 1,
       "Chunk": 4
     },
     {
-      "Action": "Opens the door to Mrs. White and welcomes her politely, showing preparedness and social grace.",
+      "Action": "Disappears from sight in a way that even obscures the door location from Colonel Mustard, suggesting skillful and subtle movement.",
       "Competence": 1,
       "Chunk": 4
     },
     {
-      "Action": "Politely invites Mrs. White in and helps her off with her coat, hanging it up for her.",
+      "Action": "Opens the door to Mrs. White politely and confidently, indicating that her arrival was expected and under his control.",
+      "Competence": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Politely opens the door and invites Mrs. White in, saying 'Do come in, Madam, you are expected.'",
       "Warmth": 1,
       "Chunk": 5
     },
     {
-      "Action": "Introduces Mrs. White to Yvette, acknowledging the tension between them and showing concern for Colonel Mustard's wellbeing.",
+      "Action": "Helps Mrs. White off with her coat and hangs it up for her.",
       "Warmth": 1,
       "Chunk": 5
     },
     {
-      "Action": "Opens the door promptly and welcomes Mrs. White, showing preparedness and awareness of guests.",
-      "Competence": 1,
+      "Action": "Introduces Mrs. White to Yvette the maid, noting the tension between them and acknowledging it calmly.",
+      "Warmth": 1,
       "Chunk": 5
     },
     {
-      "Action": "Helps Mrs. White off with her coat and hangs it up, demonstrating attentiveness and courteous behavior.",
-      "Competence": 1,
+      "Action": "Asks Colonel Mustard if he is all right after the door flattens him against the wall.",
+      "Warmth": 1,
       "Chunk": 5
     },
     {
-      "Action": "Introduces Mrs. White to Yvette and notices their mutual discomfort, showing social awareness and control of the situation.",
-      "Competence": 1,
-      "Chunk": 5
-    },
-    {
-      "Action": "Checks on Colonel Mustard's wellbeing after the door incident, indicating responsibility and quick reaction.",
-      "Competence": 1,
-      "Chunk": 5
-    },
-    {
-      "Action": "Introduces guests politely and facilitates social interaction.",
+      "Action": "Introduces guests politely and ensures the dinner will be ready after all arrive.",
       "Warmth": 1,
       "Chunk": 6
     },
     {
-      "Action": "Instructs servant Yvette to prepare dinner promptly after guests arrive.",
-      "Warmth": 0,
-      "Chunk": 6
-    },
-    {
-      "Action": "Introduces guests politely and manages the arrival process smoothly.",
+      "Action": "Introduces guests properly and directs the servant to prepare dinner at the appropriate time.",
       "Competence": 1,
       "Chunk": 6
     },
     {
-      "Action": "Delegates tasks clearly by asking Yvette to check on dinner timing.",
-      "Competence": 1,
+      "Action": "Allows Mrs. Peacock to watch Yvette with slight incredulity but does not intervene or explain, potentially missing a chance to manage perceptions better.",
+      "Competence": -1,
       "Chunk": 6
     },
     {
-      "Action": "Politely opens the door and admits Mr. Green, attempts to clarify a misunderstanding calmly and firmly.",
-      "Warmth": 1,
-      "Chunk": 7
-    },
-    {
-      "Action": "Opens the door for guests arriving at the house, correctly identifies Mr. Green, and commands a dog to sit with firm authority.",
+      "Action": "Calmly opens the door for guests, correctly identifies Mr. Green and instructs him to 'Sit!' demonstrating control and attention to detail.",
       "Competence": 1,
       "Chunk": 7
     },
     {
-      "Action": "Mistakenly tells Mr. Green to sit when the dog is the one straining at the leash, then quickly corrects himself.",
-      "Competence": 0,
+      "Action": "Mistakenly tells Mr. Green to sit on the floor instead of the chair, needing correction, indicating a minor social or observational slip.",
+      "Competence": -1,
       "Chunk": 7
     },
     {
-      "Action": "Opens the door promptly to Professor Plum and Miss Scarlet despite the storm, showing attentiveness and politeness.",
+      "Action": "Opens door to drenched guests immediately, displays polite surprise",
       "Warmth": 1,
       "Chunk": 8
     },
     {
-      "Action": "Surprised by the arrival of Professor Plum and Miss Scarlet, but still welcomes them and offers drinks to all guests.",
+      "Action": "Offers drinks to guests courteously using a silver salver",
       "Warmth": 1,
       "Chunk": 8
     },
     {
-      "Action": "Formally introduces guests to each other, maintaining a courteous atmosphere.",
-      "Warmth": 1,
-      "Chunk": 8
-    },
-    {
-      "Action": "Mentions the use of pseudonyms, which increases suspicion among guests, potentially causing discomfort.",
+      "Action": "Makes a slightly teasing or cynical remark about pseudonyms, heightening suspicion",
       "Warmth": -1,
       "Chunk": 8
     },
     {
-      "Action": "Opens the door promptly for arriving guests despite the storm, shows awareness of guests' identities and social dynamics, offers drinks politely, and calmly addresses the group about their pseudonyms, maintaining composure during a tense moment.",
+      "Action": "Opens the door promptly to Professor Plum and Miss Scarlet despite the storm, showing attentiveness and responsiveness.",
       "Competence": 1,
       "Chunk": 8
     },
     {
-      "Action": "Expresses surprise at the acquaintance between Professor Plum and Miss Scarlet, which may indicate a slight lapse in social awareness or information gathering.",
+      "Action": "Surprised to see Professor Plum and Miss Scarlet acquainted, indicates awareness but also a momentary lapse in knowledge of guests' relationships.",
       "Competence": 0,
       "Chunk": 8
     },
     {
-      "Action": "Leads everyone politely to the dining room and arranges seating with name cards.",
+      "Action": "Politely introduces guests and offers drinks efficiently, demonstrating courteous and organized behavior.",
+      "Competence": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Comments on use of pseudonyms to maintain secrecy, indicating strategic awareness and control of the environment.",
+      "Competence": 1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Leads guests courteously into the dining room and provides place settings with names, facilitating the dinner arrangement.",
       "Warmth": 1,
       "Chunk": 9
     },
     {
-      "Action": "Responds to Colonel Mustard's questions with calm, modest humor and patience.",
+      "Action": "Responds to Colonel Mustard with a calm, slightly humorous explanation of his role, maintaining politeness and composure.",
       "Warmth": 1,
       "Chunk": 9
     },
     {
-      "Action": "Quotes a poem referencing death but reassures Professor Plum with a smile.",
+      "Action": "Quotes Tennyson with a reassuring smile to ease Professor Plum's anxiety about the word 'die'.",
       "Warmth": 1,
       "Chunk": 9
     },
     {
-      "Action": "Leads the group confidently from the library to the dining room, managing the situation smoothly.",
-      "Competence": 1,
-      "Chunk": 9
-    },
-    {
-      "Action": "Sets the dining table with names and seating arrangements, demonstrating organization and preparation.",
-      "Competence": 1,
-      "Chunk": 9
-    },
-    {
-      "Action": "Responds to Colonel Mustard's questions about his role with clear, concise explanations.",
-      "Competence": 1,
-      "Chunk": 9
-    },
-    {
-      "Action": "Quotes poetry to deflect tension, maintaining calm and control in the room.",
-      "Competence": 1,
-      "Chunk": 9
-    },
-    {
-      "Action": "Downplays his own importance by calling himself a 'humble butler' despite clearly managing the event.",
-      "Competence": 0,
-      "Chunk": 9
-    },
-    {
-      "Action": "Smiles reassuringly while quoting poetry.",
+      "Action": "Smiles reassuringly while quoting Tennyson",
       "Warmth": 1,
       "Chunk": 10
     },
     {
-      "Action": "Ignores question about who the host is, continues pouring wine as if not hearing.",
+      "Action": "Ignores the question about who the host is and continues pouring wine",
       "Warmth": -1,
       "Chunk": 10
     },
     {
-      "Action": "Smiles reassuringly and quotes Alfred Lord Tennyson confidently.",
+      "Action": "Calmly corrects Colonel Mustard by stating the soup is for the seventh guest, showing awareness of the situation.",
       "Competence": 1,
       "Chunk": 10
     },
     {
-      "Action": "Answers Colonel Mustard's question about the host with a clear, informative statement identifying Mr. Boddy as the seventh guest.",
-      "Competence": 1,
+      "Action": "Ignores direct question about who the host is, while pouring wine, possibly avoiding conflict or uncomfortable topic.",
+      "Competence": 0,
       "Chunk": 10
     },
     {
-      "Action": "Ignores Mrs. White's direct question about who the host is, possibly indicating evasiveness or lack of transparency.",
-      "Competence": -1,
-      "Chunk": 10
-    },
-    {
-      "Action": "Continues pouring wine despite the question being asked, suggesting either inattentiveness or deliberate avoidance.",
-      "Competence": -1,
-      "Chunk": 10
-    },
-    {
-      "Action": "Follows Yvette to the kitchen quietly, does not interrupt or dominate conversation.",
+      "Action": "Follows Yvette to the kitchen quietly without causing a disturbance.",
       "Warmth": 0,
       "Chunk": 11
     },
     {
-      "Action": "Follows Yvette out to the kitchen quietly, not interrupting the tense atmosphere.",
-      "Competence": 0,
+      "Action": "Follows Yvette out to the kitchen calmly and without causing disturbance.",
+      "Competence": 1,
       "Chunk": 11
     },
     {
-      "Action": "Indicates Yvette to collect soup bowls and closes the door behind them, maintaining order quietly.",
+      "Action": "Indicates Yvette to collect soup bowls and closes door behind them quietly, maintaining controlled and orderly environment.",
       "Warmth": 0,
       "Chunk": 12
     },
     {
-      "Action": "Comes into the Dining Room and starts placing the main course in front of each guest.",
+      "Action": "Comes in to place main course in front of guests, showing attentiveness and service.",
       "Warmth": 1,
       "Chunk": 12
     },
     {
-      "Action": "Edges in front of the pass-through to block Mrs. Peacock from seeing the cook.",
+      "Action": "Edges in front of pass-through to obscure Mrs. Peacock's view of the cook, suggesting secretiveness or withholding information.",
       "Warmth": -1,
       "Chunk": 12
     },
     {
-      "Action": "Calmly enters the room and directs Yvette to clear the soup bowls, maintaining order and control.",
+      "Action": "Calmly enters the room and discreetly instructs Yvette to collect the soup bowls, ensuring a smooth transition without disrupting conversation.",
       "Competence": 1,
       "Chunk": 12
     },
     {
-      "Action": "Places the main course in front of each guest efficiently, showing attentiveness to his duties.",
+      "Action": "Efficiently brings in and serves the main course to each guest in an orderly manner.",
       "Competence": 1,
       "Chunk": 12
     },
     {
-      "Action": "Edges in front of the pass-through to block Mrs. Peacock's view of the cook, suggesting a deliberate attempt to conceal something.",
+      "Action": "Edges in front of the pass-through to subtly block Mrs. Peacock from seeing the cook, possibly to conceal something.",
       "Competence": 1,
       "Chunk": 12
     },
     {
-      "Action": "Edges in front of the pass-through to block Mrs. Peacock from seeing the cook.",
+      "Action": "Edges in front of the pass-through to prevent Mrs. Peacock from seeing the cook.",
       "Warmth": -1,
       "Chunk": 13
     },
     {
-      "Action": "Pours wine, topping up one or two glasses.",
+      "Action": "Starts to pour wine, topping up one or two glasses.",
       "Warmth": 1,
       "Chunk": 13
     },
     {
-      "Action": "Edges in front of the pass-through to block Mrs. Peacock from seeing the cook.",
+      "Action": "Edges in front of the pass-through to prevent Mrs. Peacock from seeing the cook.",
       "Competence": 1,
       "Chunk": 13
     },
     {
-      "Action": "Starts to pour wine, topping up one or two glasses calmly and appropriately.",
+      "Action": "Pours wine, topping up one or two glasses, maintaining social grace.",
       "Competence": 1,
       "Chunk": 13
     },
     {
-      "Action": "Responds briefly to Mrs. Peacock's curiosity with 'I know, Madam.' without elaboration.",
+      "Action": "Responds to Mrs. Peacock's admiring glance with a calm, brief acknowledgment ('I know, Madam').",
+      "Competence": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Smiles enigmatically upon seeing Mr. Boddy and politely allows him to enter, despite the tense atmosphere.",
+      "Warmth": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Responds to Mr. Boddy's sneering and unpleasant demeanor with measured politeness but with a biting remark, indicating limited tolerance.",
+      "Warmth": 0,
+      "Chunk": 15
+    },
+    {
+      "Action": "Calmly answers Colonel Mustard's question and handles the arrival of Mr. Boddy with composure and politeness, despite Mr. Boddy's unpleasant demeanor.",
+      "Competence": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Responds to Mr. Boddy's sneer with a controlled, sharp-witted reply, maintaining control of the situation.",
+      "Competence": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Allows Mr. Boddy to enter despite his suspicious nature and hostile attitude without visible hesitation or defensive measures.",
       "Competence": 0,
-      "Chunk": 13
-    },
-    {
-      "Action": "Smiles enigmatically and politely welcomes Mr. Boddy despite his unpleasant demeanor.",
-      "Warmth": 1,
       "Chunk": 15
     },
     {
-      "Action": "Responds to Mr. Boddy's sneer with a sarcastic remark about politeness being difficult.",
-      "Warmth": 0,
-      "Chunk": 15
-    },
-    {
-      "Action": "Calmly opens the door to an unexpected visitor during a storm, greets him with controlled politeness despite underlying tension.",
-      "Competence": 1,
-      "Chunk": 15
-    },
-    {
-      "Action": "Maintains composure and manages the entry of Mr. Boddy, including taking his belongings and controlling the situation.",
-      "Competence": 1,
-      "Chunk": 15
-    },
-    {
-      "Action": "Responds to Mr. Boddy's sneer with a witty but controlled retort, showing confidence and social skill.",
-      "Competence": 1,
-      "Chunk": 15
-    },
-    {
-      "Action": "Does not reveal his true identity or intentions despite Mr. Boddy's threat, maintaining an air of mystery and control.",
-      "Competence": 1,
-      "Chunk": 15
-    },
-    {
-      "Action": "Offers to take Mr. Boddy's bag, showing attentiveness.",
+      "Action": "Offers to take Mr. Boddy's bag to help him.",
       "Warmth": 1,
       "Chunk": 16
     },
     {
-      "Action": "Refuses to give Mr. Boddy the key, asserting boundaries firmly.",
-      "Warmth": 0,
+      "Action": "Refuses to hand over the key to Mr. Boddy, indicating a protective or mistrustful stance.",
+      "Warmth": -1,
       "Chunk": 16
     },
     {
-      "Action": "Engages in polite conversation about the house and Mr. Boddy's arrival.",
+      "Action": "Engages Mr. Boddy in light, somewhat friendly conversation about the house and his travel.",
       "Warmth": 1,
       "Chunk": 16
     },
     {
-      "Action": "Locks the front door with a deadlock, possibly to ensure safety or control.",
-      "Warmth": 0,
-      "Chunk": 16
-    },
-    {
-      "Action": "Locks the front door with a deadlock to secure the premises.",
+      "Action": "Locks the front door with a deadlock to prevent unexpected exits or entries.",
       "Competence": 1,
       "Chunk": 16
     },
     {
-      "Action": "Refuses to hand over the key to Mr. Boddy, showing control and assertiveness.",
+      "Action": "Refuses to hand over the key to Mr. Boddy, indicating control over a critical item.",
       "Competence": 1,
       "Chunk": 16
     },
     {
-      "Action": "Engages Mr. Boddy in conversation while maintaining awareness of surroundings.",
+      "Action": "Engages in calm, controlled conversation despite tension with Mr. Boddy.",
       "Competence": 1,
       "Chunk": 16
     },
     {
-      "Action": "Offers to take Mr. Boddy's bag, showing attentiveness and readiness to assist.",
+      "Action": "Offers to take Mr. Boddy's bag, anticipating it contains important evidence.",
       "Competence": 1,
       "Chunk": 16
     },
     {
-      "Action": "Politely offers fruit or dessert despite no one accepting, then suggests moving to the Study for coffee and brandy, facilitating the group's next step.",
+      "Action": "Does not reveal internal thoughts or emotions despite the stress of the situation, maintaining professional composure.",
+      "Competence": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Signals to Yvette to start clearing the table, lets the men stand aside to let the ladies out first.",
       "Warmth": 1,
       "Chunk": 17
     },
     {
-      "Action": "Signals Yvette to start clearing the table, showing consideration for order and respect for the ladies by allowing them to exit first.",
+      "Action": "Offers fruit or dessert politely after noticing no one is interested in main course.",
       "Warmth": 1,
       "Chunk": 17
     },
     {
-      "Action": "Maintains a calm and courteous demeanor while managing the guests, but does not engage personally or warmly with them beyond formal politeness.",
-      "Warmth": 0,
+      "Action": "Invites guests to join him for coffee and brandy in the Study, tries to maintain a hospitable atmosphere.",
+      "Warmth": 1,
       "Chunk": 17
     },
     {
-      "Action": "Suggests moving to the Study for coffee and brandy to await the host's intentions, showing initiative and control of the situation.",
+      "Action": "Does not comment on Mr. Boddy sliding his hand up Yvette’s skirt or her discomfort.",
+      "Warmth": -1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Recognizes and adapts quickly to social dynamics by suggesting to adjourn to the Study for coffee and brandy, showing leadership and forward planning.",
       "Competence": 1,
       "Chunk": 17
     },
     {
-      "Action": "Politely offers fruit or dessert despite no one being interested, demonstrating attentiveness and good hosting skills.",
+      "Action": "Offers fruit or dessert despite knowing no one is interested, showing attentiveness but slight detachment from guests’ moods.",
+      "Competence": 0,
+      "Chunk": 17
+    },
+    {
+      "Action": "Signals Yvette to start clearing the table efficiently, demonstrating good control over the situation and staff coordination.",
       "Competence": 1,
       "Chunk": 17
     },
     {
-      "Action": "Signals Yvette to start clearing the table, effectively managing the staff and flow of the evening.",
+      "Action": "Immediately takes initiative to lead the guests from the Dining Room to the Study, showing confident direction and control.",
       "Competence": 1,
       "Chunk": 17
     },
     {
-      "Action": "Leads the guests from the Dining Room to the Study confidently, maintaining order and direction.",
+      "Action": "Invites guests to help themselves to coffee and brandy and to be seated, maintaining calm and order in uncertain circumstances.",
       "Competence": 1,
       "Chunk": 17
     },
     {
-      "Action": "Does not react to the empty Study or the guests' surprise, maintaining composure and control.",
-      "Competence": 1,
-      "Chunk": 17
-    },
-    {
-      "Action": "Offers coffee and brandy to guests and invites them to be seated.",
+      "Action": "Offers coffee and brandy politely to guests.",
       "Warmth": 1,
       "Chunk": 18
     },
     {
-      "Action": "Calmly reads a letter and explains the situation to the guests.",
+      "Action": "Calmly reads a letter explaining the situation, maintaining composure.",
       "Warmth": 0,
       "Chunk": 18
     },
     {
-      "Action": "Prevents Mr. Boddy from leaving the house by locking the door and stating there is no way out.",
+      "Action": "Refuses to let Mr. Boddy leave the house, locking the door to prevent exit.",
       "Warmth": -1,
       "Chunk": 18
     },
     {
-      "Action": "Calmly opens a mysterious envelope and reads its contents before addressing the group, showing control and composure.",
-      "Competence": 1,
-      "Chunk": 18
-    },
-    {
-      "Action": "Confidently informs the guests they cannot leave the house and physically blocks Mr. Boddy from exiting, demonstrating authority and control over the situation.",
-      "Competence": 1,
-      "Chunk": 18
-    },
-    {
-      "Action": "Quiets down the agitated guests and asks them to return to the Study to explain the situation calmly.",
+      "Action": "Quietens the agitated guests with polite authority and asks them to return to the Study to explain the situation",
       "Warmth": 1,
       "Chunk": 19
     },
     {
-      "Action": "Pursues Mr. Boddy to prevent him from escaping through the Conservatory, warning him about the danger of the dog.",
+      "Action": "Pursues Mr. Boddy when he ignores instructions, showing concern for controlling the situation",
+      "Warmth": 0,
+      "Chunk": 19
+    },
+    {
+      "Action": "Warns Mr. Boddy that he cannot escape through the Conservatory due to the presence of a dangerous dog",
       "Warmth": 1,
       "Chunk": 19
     },
     {
-      "Action": "Quiets down the agitated guests and commands attention effectively.",
+      "Action": "Calms down the agitated guests effectively by quieting them and asking them to return to the Study for explanations.",
       "Competence": 1,
       "Chunk": 19
     },
     {
-      "Action": "Attempts to redirect Mr. Boddy away from the Conservatory exit, showing awareness of the situation.",
+      "Action": "Attempts to direct Mr. Boddy away from the Conservatory exit, indicating knowledge of the house layout and potential dangers.",
       "Competence": 1,
       "Chunk": 19
     },
     {
-      "Action": "Hastens in pursuit of Mr. Boddy when he ignores instructions, demonstrating quick response.",
+      "Action": "Hastens in pursuit of Mr. Boddy when he ignores directions, showing attentiveness and quick response.",
       "Competence": 1,
       "Chunk": 19
     },
     {
-      "Action": "Warns Mr. Boddy that he cannot escape through the glass conservatory due to the dog, showing situational knowledge.",
+      "Action": "Warns about the Doberman Pinscher guarding the Conservatory exit, demonstrating awareness of threats and ability to prevent escape.",
       "Competence": 1,
       "Chunk": 19
     },
     {
-      "Action": "Calmly reveals the blackmail situation to everyone, maintaining control and transparency.",
+      "Action": "Fails to physically prevent Mr. Boddy from heading toward the Conservatory despite giving verbal instructions initially.",
+      "Competence": 0,
+      "Chunk": 19
+    },
+    {
+      "Action": "Calmly reveals the uncomfortable truth that everyone is being blackmailed, allowing honesty and transparency.",
       "Warmth": 1,
       "Chunk": 20
     },
     {
-      "Action": "Dismisses Mrs. Peacock's denial and continues to press the uncomfortable truth.",
+      "Action": "Dismisses Mrs. Peacock’s denial with a patronizing tone, potentially making her feel condescended to.",
       "Warmth": -1,
       "Chunk": 20
     },
     {
-      "Action": "Shows some respect and mild humor when addressing Professor Plum, indicating familiarity and a non-hostile attitude.",
+      "Action": "Shows respect to Professor Plum by referencing his professional background before proceeding with a difficult topic.",
       "Warmth": 1,
       "Chunk": 20
     },
     {
-      "Action": "Calmly reveals the blackmail situation to the group, demonstrating control and knowledge of the facts.",
-      "Competence": 1,
+      "Action": "Insists on revealing blackmail details despite protests, risking causing humiliation to others.",
+      "Warmth": -1,
       "Chunk": 20
     },
     {
-      "Action": "Uses knowledge of Professor Plum's background to assert authority and maintain control of the conversation.",
-      "Competence": 1,
-      "Chunk": 20
+      "Action": "Calls out Mrs. Peacock's corrupt behavior and hypocrisy, challenging her moral judgments.",
+      "Warmth": 1,
+      "Chunk": 21
     },
     {
-      "Action": "Allows Yvette to leave the room after instructing her, showing strategic awareness of privacy and control.",
-      "Competence": 1,
-      "Chunk": 20
-    },
-    {
-      "Action": "Does not respond to Mrs. Peacock's denial with aggression but maintains composure, showing confidence and skill in handling objections.",
-      "Competence": 1,
-      "Chunk": 20
-    },
-    {
-      "Action": "Points out hypocrisy in others' moral judgments, exposing Mrs. Peacock's bribery while she criticizes another's misconduct.",
+      "Action": "Uses information about others' misdeeds to confront and expose them.",
       "Warmth": 0,
       "Chunk": 21
     },
     {
-      "Action": "Engages others in revealing secrets and blackmail situations, maintaining a smooth and somewhat confrontational tone.",
+      "Action": "Surprised by Miss Scarlet's attitude toward blackmail, showing some engagement and responsiveness.",
+      "Warmth": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Calmly explains the logic behind the double negative, helping clarify the situation.",
+      "Warmth": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Smoothly deflects Colonel Mustard's accusation without escalating conflict.",
+      "Warmth": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Uses wit to subtly point out Colonel Mustard's mistake, risking embarrassment.",
       "Warmth": 0,
-      "Chunk": 21
-    },
-    {
-      "Action": "Skillfully exposes Mrs. Peacock's corrupt bribery scheme with pointed questions and smooth delivery.",
-      "Competence": 1,
-      "Chunk": 21
-    },
-    {
-      "Action": "Surprised by Miss Scarlet's revelation about being blackmailed, showing a momentary lapse in awareness.",
-      "Competence": -1,
-      "Chunk": 21
-    },
-    {
-      "Action": "Points out the logical flaw in Colonel Mustard's statement with a light, smooth tone.",
-      "Warmth": 1,
       "Chunk": 22
     },
     {
-      "Action": "Uses wit to highlight Colonel Mustard's mistake without being overtly confrontational.",
-      "Warmth": 1,
-      "Chunk": 22
-    },
-    {
-      "Action": "Refuses to escalate conflict by declining to make Colonel Mustard look stupid.",
-      "Warmth": 1,
-      "Chunk": 22
-    },
-    {
-      "Action": "Correctly identifies the logical implication of a double negative and uses it to expose Colonel Mustard's inadvertent confession.",
+      "Action": "Correctly identifies the logical implication of a double negative, turning it into a confession.",
       "Competence": 1,
       "Chunk": 22
     },
     {
-      "Action": "Responds smoothly and confidently to Colonel Mustard's defensive question, maintaining control of the situation.",
+      "Action": "Uses calm and smooth language to handle Colonel Mustard's defensive question, maintaining control of the situation.",
       "Competence": 1,
       "Chunk": 22
     },
     {
-      "Action": "Smoothly corrects a misunderstanding to clarify Mrs. White's statement about a threat made in public.",
-      "Warmth": 1,
+      "Action": "Smoothly redirects conversation and maintains control in tense discussion.",
+      "Warmth": 0,
       "Chunk": 23
     },
     {
-      "Action": "Accuses Mrs. White of paying a blackmailer and questions Colonel Mustard about his finances and family death, showing suspicion and pressure.",
+      "Action": "Questions Colonel Mustard about personal loss in a direct and somewhat insensitive manner.",
       "Warmth": -1,
       "Chunk": 23
     },
     {
-      "Action": "Maintains a calm and controlled demeanor while confronting others about sensitive issues without overt hostility.",
-      "Warmth": 0,
+      "Action": "Points out Mrs. White's payments to a blackmailer, indirectly accusing her.",
+      "Warmth": -1,
       "Chunk": 23
     },
     {
-      "Action": "Refers to notes from the brown envelope to challenge Colonel Mustard's story about his income and security post, showing attention to detail and use of evidence.",
+      "Action": "Clarifies Miss Scarlet's misunderstanding to maintain accuracy.",
+      "Warmth": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Mockingly reminds Mrs. White that her husband died, emphasizing irony rather than comforting her.",
+      "Warmth": -1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Refers to notes for accurate information, challenges Colonel Mustard with inconsistencies about his wealth and status.",
       "Competence": 1,
       "Chunk": 23
     },
     {
-      "Action": "Questions Colonel Mustard about reporting the loss of his parents to the police, demonstrating logical thinking and probing inconsistencies.",
+      "Action": "Interprets Mrs. White's payments to a blackmailer and points out contradictions in her statements confidently.",
       "Competence": 1,
       "Chunk": 23
     },
     {
-      "Action": "Accuses Mrs. White of paying a blackmailer since her husband's mysterious death, indicating insight and ability to connect facts.",
+      "Action": "Corrects Miss Scarlet's misunderstanding of Mrs. White's meaning regarding a public threat, showing attention to detail and insight.",
       "Competence": 1,
       "Chunk": 23
     },
     {
-      "Action": "Clarifies Miss Scarlet's misunderstanding about Mrs. White's statement, showing careful listening and precise communication.",
-      "Competence": 1,
-      "Chunk": 23
-    },
-    {
-      "Action": "Engages in a verbal exchange that reveals contradictions and pressures characters to reveal truths, reflecting skillful interrogation.",
-      "Competence": 1,
-      "Chunk": 23
-    },
-    {
-      "Action": "Engages in conversation about Mrs. White's past husbands with a calm, factual tone.",
-      "Warmth": 0,
-      "Chunk": 24
-    },
-    {
-      "Action": "Acknowledges Mrs. White's difficult history without judgment.",
+      "Action": "Engages in conversation patiently, showing some attentiveness to Mrs. White’s story.",
       "Warmth": 1,
       "Chunk": 24
     },
     {
-      "Action": "Engages in the conversation by asking relevant questions about Mrs. White's past husbands, showing attentiveness and control of the dialogue.",
+      "Action": "Asks pointed questions about Mrs. White’s deceased husbands in a somewhat clinical manner.",
+      "Warmth": 0,
+      "Chunk": 24
+    },
+    {
+      "Action": "Demonstrates knowledge of details about Mrs. White's husbands and clarifies points calmly.",
       "Competence": 1,
       "Chunk": 24
     },
     {
-      "Action": "Does not interrupt or dominate the conversation unnecessarily, allowing others to speak and reveal information.",
+      "Action": "Listens attentively and does not interrupt despite others’ rambling or nervousness.",
       "Competence": 1,
       "Chunk": 24
     },
     {
-      "Action": "Fails to immediately detect or prevent the nervousness and tension in the room, as indicated by Mr. Green's nervousness and Mrs. Green's cough.",
-      "Competence": -1,
+      "Action": "Does not jump to conclusions or make rash statements when controversial topics arise.",
+      "Competence": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "No visible sign of losing control or becoming flustered in tense conversations.",
+      "Competence": 1,
       "Chunk": 24
     },
     {
@@ -686,267 +616,252 @@
       "Chunk": 25
     },
     {
-      "Action": "Identifies Mr. Boddy as the blackmailer, revealing critical information to the group.",
+      "Action": "Identifies Mr. Boddy as the blackmailer, revealing important information to the group.",
       "Competence": 1,
       "Chunk": 25
     },
     {
-      "Action": "Intervenes to stop Colonel Mustard from attacking Mr. Boddy, attempting to de-escalate the situation.",
+      "Action": "Intervenes to prevent Colonel Mustard from doing anything rough, attempting to control a tense situation.",
       "Competence": 1,
       "Chunk": 25
     },
     {
-      "Action": "Shouts to stop the brawl and warns that the police are coming.",
+      "Action": "Stops the violent brawl by shouting and warning about the police coming.",
       "Warmth": 1,
       "Chunk": 26
     },
     {
-      "Action": "Encourages the guests to tell the police the truth to end their blackmail troubles.",
+      "Action": "Encourages the guests to tell the police the truth to end their blackmail trouble.",
       "Warmth": 1,
       "Chunk": 26
     },
     {
-      "Action": "Insists he will turn in evidence and has the conversation recorded to ensure justice.",
+      "Action": "Insists on involving the police despite the guests’ protests and fears, showing concern for justice.",
+      "Warmth": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Threatens to expose evidence and records the conversation, displaying a more authoritative and controlling approach.",
       "Warmth": 0,
       "Chunk": 26
     },
     {
-      "Action": "Is puzzled and worried when Mr. Boddy moves about suspiciously.",
+      "Action": "Shouts above the brawl to gain control and stop the fight.",
+      "Competence": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Persuades the guests that telling the police is their best course of action by explaining blackmail depends on secrecy.",
+      "Competence": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Firmly declares he has evidence and is tape recording the conversation, demonstrating preparedness and strategic thinking.",
+      "Competence": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Remains calm and assertive amid panic and disbelief of guests, maintaining control of situation.",
+      "Competence": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Continues to encourage truth-telling even when guests are horrified and resistant.",
+      "Competence": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Is puzzled and worried when Mr. Boddy moves unexpectedly.",
       "Warmth": 1,
       "Chunk": 27
     },
     {
-      "Action": "Does not intervene or warn others about Mr. Boddy's suspicious behavior.",
-      "Warmth": -1,
+      "Action": "Is puzzled and worried about Mr. Boddy's movements and intentions.",
+      "Competence": 0,
       "Chunk": 27
     },
     {
-      "Action": "Is puzzled and worried when Mr. Boddy moves to get his bag, showing awareness of potential danger or unexpected developments.",
-      "Competence": 1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Does not intervene or prevent Mr. Boddy from leaving the room and returning with the case, potentially missing an opportunity to control the situation.",
-      "Competence": -1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Reacts appalled when Mr. Boddy suggests killing him to avoid exposure.",
+      "Action": "Reacts appalled when Mr. Boddy suggests someone kill him to keep everyone secret.",
       "Warmth": 1,
       "Chunk": 28
     },
     {
-      "Action": "Reacts appalled when Mr. Boddy suggests killing him, showing awareness and emotional control in a tense situation.",
+      "Action": "Reacts appalled when threatened by Mr. Boddy, maintaining composure amid threats and suspicion.",
       "Competence": 1,
       "Chunk": 28
     },
     {
-      "Action": "Is identified by Mr. Boddy as the only one with the key to the front door, implying a position of responsibility and trust.",
+      "Action": "Is singled out as key holder for the locked front door, implying trust and responsibility.",
       "Competence": 1,
       "Chunk": 28
     },
     {
-      "Action": "Does not immediately respond aggressively or panic when threatened, maintaining composure.",
+      "Action": "Faces suspicion and threat without visibly panicking or faltering.",
       "Competence": 1,
       "Chunk": 28
     },
     {
-      "Action": "Switches off the lights abruptly, causing panic and confusion.",
+      "Action": "No clear action taken in response to the threat or chaos; omits any direct countermeasures in this excerpt.",
+      "Competence": 0,
+      "Chunk": 28
+    },
+    {
+      "Action": "Switches off the lights abruptly before chaos ensues, causing fear and confusion.",
       "Warmth": -1,
       "Chunk": 29
     },
     {
-      "Action": "Switches off the lights deliberately to create a controlled environment for the staged event.",
-      "Competence": 1,
-      "Chunk": 29
-    },
-    {
-      "Action": "Does not intervene or clarify the confusion immediately after the shooting and chaos.",
-      "Competence": -1,
-      "Chunk": 29
-    },
-    {
-      "Action": "Does not intervene or take control during escalating chaos and violence among the guests.",
-      "Competence": -1,
-      "Chunk": 30
-    },
-    {
-      "Action": "Remains silent and passive while others panic and accuse each other, showing no visible leadership or problem-solving.",
-      "Competence": -1,
-      "Chunk": 30
-    },
-    {
-      "Action": "Calmly assesses Yvette's condition and acknowledges she is alive despite the chaos.",
-      "Competence": 1,
-      "Chunk": 31
-    },
-    {
-      "Action": "Fails to prevent Yvette from being locked up with a murderer, leading to her anger.",
-      "Competence": -1,
-      "Chunk": 31
-    },
-    {
-      "Action": "Switches off the tape recorder to stop the noise, possibly to calm the group.",
+      "Action": "Expresses genuine distress about the murder, stating 'This is terrible. This is absolutely terrible. This is not what I'd intended. OH MY GOD!'",
       "Warmth": 1,
       "Chunk": 32
     },
     {
-      "Action": "Expresses genuine distress and shock about the murder, saying 'This is terrible. This is absolutely terrible. This is not what I'd intended. OH MY GOD!'",
+      "Action": "Admits to being the butler and reveals he wrote the invitation letters, taking responsibility for gathering everyone.",
       "Warmth": 1,
       "Chunk": 32
     },
     {
-      "Action": "Admits he is not the butler but was the butler, and that he invited everyone by writing the letters, taking responsibility for the gathering.",
-      "Warmth": 1,
-      "Chunk": 32
-    },
-    {
-      "Action": "Switches off the tape recorder at a key moment, showing control over the situation.",
-      "Competence": 1,
-      "Chunk": 32
-    },
-    {
-      "Action": "Expresses distress openly ('This is terrible. This is absolutely terrible. This is not what I'd intended. OH MY GOD!'), showing emotional reaction rather than calm control.",
-      "Competence": -1,
-      "Chunk": 32
-    },
-    {
-      "Action": "Sits down after the shocking discovery, possibly indicating momentary overwhelm or contemplation.",
-      "Competence": 0,
-      "Chunk": 32
-    },
-    {
-      "Action": "Clarifies his role and involvement clearly and confidently when questioned, admitting he is not the butler but was the butler and that he wrote the invitation letters.",
-      "Competence": 1,
-      "Chunk": 32
-    },
-    {
-      "Action": "Calmly asks everyone to sit down to explain the situation, attempting to maintain order and clarity.",
+      "Action": "Calmly asks everyone to sit down to explain the situation, showing consideration for order and others' attention.",
       "Warmth": 1,
       "Chunk": 33
     },
     {
-      "Action": "Reveals personal tragedy about his wife’s suicide and blackmail, showing vulnerability and sincerity.",
-      "Warmth": 1,
-      "Chunk": 33
-    },
-    {
-      "Action": "Uses misleading information about his role as butler, potentially to manipulate or withhold full truth.",
+      "Action": "Admits to being misleading about his current employment status, which might reduce trustworthiness.",
       "Warmth": -1,
       "Chunk": 33
     },
     {
-      "Action": "Calmly asks everyone to sit down to explain the situation despite the tension.",
+      "Action": "Reveals personal tragedy (his wife's suicide) connected to the blackmailer, displaying vulnerability and sincerity.",
+      "Warmth": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Calmly asks everyone to sit down despite growing tension, attempts to maintain control of the situation.",
       "Competence": 1,
       "Chunk": 33
     },
     {
-      "Action": "Builds himself up into an emotional state, a panic attack.",
+      "Action": "Acknowledges his past employment status honestly and explains complex backstory clearly to others.",
+      "Competence": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Builds himself up emotionally, approaching a panic attack, showing vulnerability under stress.",
       "Competence": -1,
       "Chunk": 33
     },
     {
-      "Action": "Provides a clear and detailed explanation about his past employment and the circumstances surrounding the blackmail and death.",
-      "Competence": 1,
+      "Action": "Fails to anticipate or prevent the physical disturbance when Mr. Green’s table collapses, leading to disruption.",
+      "Competence": -1,
       "Chunk": 33
     },
     {
-      "Action": "Tries to understand others sincerely and without irony.",
+      "Action": "Tries to understand others sincerely and shows self-awareness.",
       "Warmth": 1,
       "Chunk": 34
     },
     {
-      "Action": "Becomes tearful and accepts Mrs. White's offer of a handkerchief.",
+      "Action": "Is tearful and shows vulnerability; accepts help from Mrs. White.",
       "Warmth": 1,
       "Chunk": 34
     },
     {
-      "Action": "Admits to being a victim and shares personal pain about his wife’s suicide.",
+      "Action": "Describes his wife’s suffering and their victimization openly and sincerely.",
       "Warmth": 1,
       "Chunk": 34
     },
     {
-      "Action": "Resolves to confront Mr. Boddy to free others from blackmail and injustice.",
+      "Action": "Takes initiative to confront the blackmailer to protect others and free them from burden.",
       "Warmth": 1,
       "Chunk": 34
     },
     {
-      "Action": "Explains the situation clearly and logically, showing understanding of the blackmail scheme and motives.",
+      "Action": "Explains the motivations and corrupt nature of Mr. Boddy clearly and insightfully.",
       "Competence": 1,
       "Chunk": 34
     },
     {
-      "Action": "Formulates a plan to confront Mr. Boddy and extract a confession to free everyone from blackmail.",
+      "Action": "Shows sincere empathy and attempts to understand others' situations.",
       "Competence": 1,
       "Chunk": 34
     },
     {
-      "Action": "Shows emotional vulnerability by becoming tearful and wiping his eye, but continues to lead the conversation.",
+      "Action": "Reveals personal involvement and stakes, presenting himself as a victim as well.",
+      "Competence": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Formulates a plan to confront Mr. Boddy and extract a confession to resolve the blackmail issue.",
+      "Competence": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Becomes tearful and emotional during the explanation.",
       "Competence": 0,
       "Chunk": 34
     },
     {
-      "Action": "Admits to being a victim and having no money, implying some lack of control over circumstances.",
-      "Competence": 0,
-      "Chunk": 34
-    },
-    {
-      "Action": "Insists on finding out the truth before the police arrive, emphasizing collective responsibility.",
+      "Action": "States the urgency to find out the culprit before the police arrive, emphasizing group responsibility.",
       "Warmth": 1,
       "Chunk": 35
     },
     {
-      "Action": "Points out that all had motive and opportunity, implying suspicion on everyone equally.",
-      "Warmth": 0,
+      "Action": "Points out that all present had opportunity and motive, fostering transparency.",
+      "Warmth": 1,
       "Chunk": 35
     },
     {
-      "Action": "States the urgency to find out the culprit before the police arrive, showing awareness of time constraints and situation gravity.",
+      "Action": "Collaborates with Yvette to identify that only the cook could be the other suspect, including others in reasoning.",
+      "Warmth": 1,
+      "Chunk": 35
+    },
+    {
+      "Action": "States the necessity to find out the culprit within a limited time before the police arrive, showing awareness of time sensitivity and stakes.",
       "Competence": 1,
       "Chunk": 35
     },
     {
-      "Action": "Acknowledges that all present had opportunity and motive, demonstrating logical reasoning about the suspects.",
+      "Action": "Precisely points out that all guests had motive and opportunity, demonstrating logical reasoning.",
       "Competence": 1,
       "Chunk": 35
     },
     {
-      "Action": "Joins in the group rush to the kitchen without apparent caution or strategic planning.",
+      "Action": "Identifies only the cook as another possible suspect in the house, showing knowledge of the situation and the environment.",
+      "Competence": 1,
+      "Chunk": 35
+    },
+    {
+      "Action": "Does not prevent or control the chaotic search by the guests, which could be seen as a lack of control over the situation.",
       "Competence": -1,
       "Chunk": 35
     },
     {
-      "Action": "Takes charge of the situation by instructing others not to touch the evidence and emphasizing the need to find the killer without contaminating fingerprints.",
+      "Action": "Advises not to touch the knife as it is evidence, tries to control the situation calmly.",
       "Warmth": 1,
       "Chunk": 36
     },
     {
-      "Action": "Responds gravely and somewhat coldly to the death of the Cook, implying she deserved her fate.",
+      "Action": "Responds gravely that the Cook has received just desserts, shows little empathy.",
       "Warmth": -1,
       "Chunk": 36
     },
     {
-      "Action": "Recognizes the importance of not contaminating evidence by preventing fingerprints from being taken on the murder weapon.",
+      "Action": "Insists on investigating the murder method despite others' panic; warns about evidence contamination by fingerprints.",
       "Competence": 1,
       "Chunk": 36
     },
     {
-      "Action": "Responds calmly and gravely to the situation, showing control and seriousness.",
+      "Action": "Responds calmly when accused, maintains composure.",
       "Competence": 1,
       "Chunk": 36
     },
     {
-      "Action": "Does not immediately explain himself when accused, instead deflects with a question.",
-      "Competence": 0,
-      "Chunk": 36
-    },
-    {
-      "Action": "Suggests moving the Cook's body into the Study to manage the situation calmly.",
+      "Action": "Suggests moving the Cook's body into the Study to manage the situation.",
       "Warmth": 1,
       "Chunk": 37
     },
     {
-      "Action": "Suggests moving the Cook's body into the Study to manage the situation.",
+      "Action": "Suggests moving the Cook's body into the Study to manage the situation logically.",
       "Competence": 1,
       "Chunk": 37
     },
@@ -956,268 +871,208 @@
       "Chunk": 38
     },
     {
-      "Action": "Helps physically carry the Cook's body with others.",
+      "Action": "Steps forward to help carry the heavy Cook's body, taking an arm.",
       "Warmth": 1,
       "Chunk": 38
     },
     {
-      "Action": "Lets go of the Cook's arm in panic, causing her head to hit the floor, but does not notice or react to it.",
+      "Action": "Lets go of the Cook's arm in panic without noticing her head hitting the floor.",
       "Warmth": 0,
       "Chunk": 38
     },
     {
-      "Action": "Admits panic and fear openly when the body disappears.",
-      "Warmth": 1,
-      "Chunk": 38
-    },
-    {
-      "Action": "Suggests moving the Cook's body into the Study to keep the Kitchen tidy.",
+      "Action": "Suggests moving the Cook's body to keep the kitchen tidy, takes charge and initiates action.",
       "Competence": 1,
       "Chunk": 38
     },
     {
-      "Action": "Helps lift and carry the Cook's heavy body with others, showing physical capability and cooperation.",
+      "Action": "Helps carry the Cook's heavy body along with others, showing physical capability and willingness to act.",
       "Competence": 1,
       "Chunk": 38
     },
     {
-      "Action": "Reacts with fear and panic when the body of Mr. Boddy disappears, showing loss of composure.",
+      "Action": "Lets go of the Cook's arm in panic, causing her head to hit the floor without noticing, indicating a lapse in focus or control.",
       "Competence": -1,
       "Chunk": 38
     },
     {
-      "Action": "Lets go of the Cook's arm in panic, causing her head to hit the floor unnoticed.",
+      "Action": "Expresses panic when realizing the body has disappeared, showing fear and loss of composure.",
       "Competence": -1,
       "Chunk": 38
     },
     {
-      "Action": "Suggests they look for the missing body and acknowledges the seriousness of the situation calmly.",
+      "Action": "Suggests organizing the search for the missing body, tries to keep group focused.",
       "Warmth": 1,
       "Chunk": 39
     },
     {
-      "Action": "Maintains control and focus despite the group's confusion and tension.",
-      "Warmth": 1,
-      "Chunk": 39
-    },
-    {
-      "Action": "Does not engage in the sarcastic or angry exchanges among others, remaining neutral and composed.",
+      "Action": "States the urgency about the police arrival and another corpse calmly.",
       "Warmth": 0,
       "Chunk": 39
     },
     {
-      "Action": "Suggests looking for the missing body promptly and acknowledges the urgency of the situation by checking the time and noting the arrival of the police.",
+      "Action": "Suggests they look for the missing body promptly and keeps track of time until the police arrive, indicating situational awareness and initiative.",
       "Competence": 1,
       "Chunk": 39
     },
     {
-      "Action": "Fails to immediately solve the mystery of the missing body or explain how the Cook was killed, showing some uncertainty.",
+      "Action": "Fails to provide a clear explanation when questioned about how the Cook might have been killed, showing some uncertainty or lack of immediate insight.",
       "Competence": -1,
       "Chunk": 39
     },
     {
-      "Action": "Expresses appall at the idea of blackmail, clarifies he intended to return the negatives to Colonel Mustard.",
+      "Action": "Appalled at the idea of blackmail, states he intended to return the negatives to Colonel Mustard when Mr. Boddy was unmasked.",
       "Warmth": 1,
       "Chunk": 40
     },
     {
-      "Action": "Attempts to reclaim the photographic negatives politely when Miss Scarlet picks them up.",
-      "Warmth": 1,
+      "Action": "Attempts to reclaim the photographic negatives from Miss Scarlet calmly and with authority.",
+      "Warmth": 0,
       "Chunk": 40
     },
     {
-      "Action": "Steps forward to reclaim the photographic negatives and explains their origin calmly and clearly.",
-      "Competence": 1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Expresses appalled reaction to the suggestion of blackmail, showing integrity and control.",
+      "Action": "Reclaims photographic negatives calmly and explains their purpose clearly to others.",
       "Competence": 1,
       "Chunk": 40
     },
     {
-      "Action": "Had obtained the negatives for Colonel Mustard and planned to return them after Mr. Boddy was unmasked, indicating foresight and responsibility.",
+      "Action": "Expresses appall at suggestion of blackmail, showing moral clarity and awareness of consequences.",
       "Competence": 1,
       "Chunk": 40
     },
     {
-      "Action": "Rushes to the hall upon hearing screams, takes charge by grabbing negatives and dumping them on the table to organize the situation.",
+      "Action": "Rushing to assist Mrs. Peacock upon hearing her scream.",
       "Warmth": 1,
       "Chunk": 41
     },
     {
-      "Action": "Helps pull Mr. Boddy off Mrs. Peacock, showing concern and physical assistance.",
+      "Action": "Helping to pull Mr. Boddy off Mrs. Peacock, showing concern for her safety.",
       "Warmth": 1,
       "Chunk": 41
     },
     {
-      "Action": "Notices Mrs. Peacock is going to faint and offers to catch her, showing attentiveness and care.",
+      "Action": "Noticing Mrs. Peacock is fainting and trying to catch her, offering physical support.",
       "Warmth": 1,
       "Chunk": 41
     },
     {
-      "Action": "Mrs. Peacock faints through his arms and falls to the floor; Wadsworth apologizes, showing sincerity and concern.",
+      "Action": "Mrs. Peacock faints through his arms and he apologizes sincerely.",
       "Warmth": 1,
       "Chunk": 41
     },
     {
-      "Action": "Rushes out to investigate the scream, takes the negatives from Miss Scarlet and dumps them on the table to organize evidence.",
+      "Action": "Rushes out into the Hall immediately after hearing screaming and takes control by grabbing negatives from Miss Scarlet and dumping them on the table.",
       "Competence": 1,
       "Chunk": 41
     },
     {
-      "Action": "Helps pull Mr. Boddy off Mrs. Peacock and assesses the situation quickly, noting visible injuries and confirming death.",
+      "Action": "Helps pull Mr. Boddy off Mrs. Peacock, assessing the situation quickly.",
       "Competence": 1,
       "Chunk": 41
     },
     {
-      "Action": "Attempts to catch Mrs. Peacock as she faints but fails, resulting in her falling to the floor.",
+      "Action": "Quickly recognizes Mrs. Peacock is going to faint and attempts to catch her.",
+      "Competence": 1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Fails to catch Mrs. Peacock properly as she faints through his arms and ends up on the floor in a heap.",
       "Competence": -1,
       "Chunk": 41
     },
     {
-      "Action": "Attempts to investigate the murder by looking for clues and trying to understand the situation.",
+      "Action": "Tries to clarify the situation and focuses on finding out who killed the victim, showing a goal to resolve conflict and seek truth.",
       "Warmth": 1,
       "Chunk": 42
     },
     {
-      "Action": "Shouts at others in frustration and glares defiantly, causing a scene.",
+      "Action": "Shouts at the others, becomes purple in the face and glares defiantly.",
       "Warmth": -1,
       "Chunk": 42
     },
     {
-      "Action": "Analyzes the situation logically, looks for clues in the toilet, tries to understand the nature of the murder (overkill, psychotic behavior), and insists on finding out who, where, and with what.",
+      "Action": "Analyzes the bloodied hands and questions the necessity of the killing, showing investigatory initiative by looking for clues in the toilet.",
       "Competence": 1,
       "Chunk": 42
     },
     {
-      "Action": "Becomes overly emotional and shouts, loses composure, and accidentally injures himself with the candlestick.",
+      "Action": "Expresses frustration loudly and shouts to assert authority and urgency in the investigation, but then inadvertently injures himself by knocking a heavy candlestick on his head.",
       "Competence": -1,
       "Chunk": 42
     },
     {
-      "Action": "Cautions others to be careful not to get blood on the sofa, showing concern for cleanliness and order.",
-      "Warmth": 1,
+      "Action": "Advises careful handling to avoid blood on the sofa and suggests locking all weapons in a cupboard due to the danger.",
+      "Competence": 1,
       "Chunk": 43
     },
     {
-      "Action": "Suggests locking up all the weapons to prevent further harm, demonstrating responsibility and care for others' safety.",
-      "Warmth": 1,
+      "Action": "Does not take command despite colonel mustard stepping up, remains observant and pragmatic about the situation.",
+      "Competence": 0,
       "Chunk": 43
     },
     {
-      "Action": "Puts all weapons in a cupboard and locks it to keep everyone safe.",
+      "Action": "Puts the weapons away and locks the cupboard, taking responsibility for the key to keep it safe.",
       "Warmth": 1,
       "Chunk": 44
     },
     {
-      "Action": "Keeps the key to the locked cupboard in his pocket to ensure safety and control.",
-      "Warmth": 0,
-      "Chunk": 44
-    },
-    {
-      "Action": "Responds calmly and apologetically to the Motorist when mistaken for aggression.",
+      "Action": "Responds calmly and sincerely denies being the murderer when questioned.",
       "Warmth": 1,
       "Chunk": 44
     },
     {
-      "Action": "Organizes the locking of all weapons in a cupboard to ensure safety.",
-      "Competence": 1,
-      "Chunk": 44
-    },
-    {
-      "Action": "Keeps the key to the locked cupboard in his pocket to maintain control and security.",
-      "Competence": 1,
-      "Chunk": 44
-    },
-    {
-      "Action": "Responds calmly and logically to concerns about the key's security and potential misuse.",
-      "Competence": 1,
-      "Chunk": 44
-    },
-    {
-      "Action": "Considers and rejects a poor suggestion (leaving the key in the lock) with scorn, showing critical thinking.",
-      "Competence": 1,
-      "Chunk": 44
-    },
-    {
-      "Action": "Attempts to dispose of the key by throwing it away to prevent access, showing proactive problem-solving.",
-      "Competence": 1,
-      "Chunk": 44
-    },
-    {
-      "Action": "Freezes and apologizes awkwardly when unexpectedly confronted by the Motorist, showing a momentary lapse in confidence.",
-      "Competence": -1,
-      "Chunk": 44
-    },
-    {
-      "Action": "Allows the motorist to use the phone despite others' suspicion and fear.",
-      "Warmth": 1,
-      "Chunk": 45
-    },
-    {
-      "Action": "Tries to maintain dignity and normalcy in a tense situation.",
-      "Warmth": 0,
-      "Chunk": 45
-    },
-    {
-      "Action": "Misleads the motorist about the location of the bodies to avoid panic.",
-      "Warmth": 0,
-      "Chunk": 45
-    },
-    {
-      "Action": "Calmly manages a tense situation by allowing the motorist inside despite others' suspicion, maintaining dignity and control.",
-      "Competence": 1,
-      "Chunk": 45
-    },
-    {
-      "Action": "Accidentally reveals the existence of bodies by slipping up when responding to the motorist's question.",
-      "Competence": -1,
-      "Chunk": 45
-    },
-    {
-      "Action": "Quickly recovers from the slip-up by redirecting the motorist to the lounge phone and maintaining composure.",
-      "Competence": 1,
-      "Chunk": 45
-    },
-    {
-      "Action": "Leads the motorist confidently and keeps the group under control by instructing the motorist to wait in the lounge.",
-      "Competence": 1,
-      "Chunk": 45
-    },
-    {
-      "Action": "Locks the motorist in the lounge, preventing his freedom.",
+      "Action": "Dismisses Yvette's suggestion to leave the key in the lock as 'Brilliant!' sarcastically.",
       "Warmth": -1,
-      "Chunk": 46
+      "Chunk": 44
     },
     {
-      "Action": "Throws away the key to the weapons cupboard as requested by the guests, showing cooperation.",
+      "Action": "Apologizes immediately to the Motorist after startling him, offering help.",
+      "Warmth": 1,
+      "Chunk": 44
+    },
+    {
+      "Action": "Allows the motorist to use the phone despite initial hesitation from others, speaks politely and helps him find the phone.",
+      "Warmth": 1,
+      "Chunk": 45
+    },
+    {
+      "Action": "Maintains dignified, somewhat formal demeanor; deflects the motorist’s confused question about the body with reassurance.",
       "Warmth": 0,
-      "Chunk": 46
+      "Chunk": 45
     },
     {
-      "Action": "Acknowledges the time left until police arrive and engages with the group.",
-      "Warmth": 0,
-      "Chunk": 46
+      "Action": "Calmly manages a tense and suspicious household by diplomatically allowing the motorist inside to use the phone, maintaining dignity and control.",
+      "Competence": 1,
+      "Chunk": 45
     },
     {
-      "Action": "Locks the motorist in the lounge by turning the key in the mortice lock, controlling the situation.",
+      "Action": "Inadvertently reveals the existence of bodies by mentioning 'the body' when asked about the phone, risking suspicion or panic.",
+      "Competence": -1,
+      "Chunk": 45
+    },
+    {
+      "Action": "Quickly recovers from the slip-up by redirecting the motorist to a disconnected phone and then to another phone, showing adaptability.",
+      "Competence": 1,
+      "Chunk": 45
+    },
+    {
+      "Action": "Locks the Lounge door and leaves the key in the lock to control access and maintain security.",
       "Competence": 1,
       "Chunk": 46
     },
     {
-      "Action": "Keeps the key to the weapons cupboard and agrees to throw it away, showing control over access to weapons.",
+      "Action": "Acknowledges and complies with the group's decision to dispose of the cupboard key, then effectively throws it away out of sight.",
       "Competence": 1,
       "Chunk": 46
     },
     {
-      "Action": "Throws the key far away so it cannot be retrieved, preventing easy access to weapons and maintaining order.",
+      "Action": "Checks the time remaining until the police arrive to manage the situation practically.",
       "Competence": 1,
       "Chunk": 46
     },
     {
-      "Action": "Checks the time remaining until the police arrive, indicating awareness and planning.",
-      "Competence": 1,
+      "Action": "Leaves the motorist locked in the Lounge and does not intervene immediately to alleviate his anxiety or communicate clearly.",
+      "Competence": -1,
       "Chunk": 46
     },
     {
@@ -1226,362 +1081,277 @@
       "Chunk": 47
     },
     {
-      "Action": "Gets angry when others are confused about the situation, tries to clarify calmly.",
-      "Warmth": 1,
+      "Action": "Becomes angry when there is confusion about the situation, insists there is nobody else in the house.",
+      "Warmth": 0,
       "Chunk": 47
     },
     {
-      "Action": "Speaks incredulously to himself about the situation, indicating awareness and skepticism.",
-      "Competence": 1,
-      "Chunk": 47
-    },
-    {
-      "Action": "Gets angry when others are confused or not understanding the situation, showing frustration but also insistence on clarity.",
-      "Competence": 1,
-      "Chunk": 47
-    },
-    {
-      "Action": "Fails to give a clear answer immediately when pressed by Colonel Mustard, showing some confusion or hesitation.",
-      "Competence": -1,
-      "Chunk": 47
-    },
-    {
-      "Action": "Responds clearly to Colonel Mustard's question without evasion.",
+      "Action": "Answers Colonel Mustard's question clearly and promptly.",
       "Warmth": 1,
       "Chunk": 48
     },
     {
-      "Action": "Does not intervene to calm the group or address their panic when Colonel Mustard suggests splitting up.",
+      "Action": "Does not challenge Colonel Mustard's risky plan to split up despite potential danger to the group.",
       "Warmth": -1,
       "Chunk": 48
     },
     {
-      "Action": "Remains silent or passive while others express fear and concern about the plan to split up.",
-      "Warmth": -1,
+      "Action": "Keeps calm and composed when under suspicion (implied by Colonel Mustard's steely eye), maintaining group cohesion.",
+      "Warmth": 0,
       "Chunk": 48
     },
     {
-      "Action": "Responds promptly and clearly to Colonel Mustard's question.",
+      "Action": "Answers Colonel Mustard promptly and confidently when asked a question.",
       "Competence": 1,
       "Chunk": 48
     },
     {
-      "Action": "Fails to provide additional guidance or assert control when Colonel Mustard suggests splitting up despite obvious risks.",
+      "Action": "Fails to provide clear or additional information about anyone else in the house, leading to continued uncertainty among the group.",
       "Competence": -1,
       "Chunk": 48
     },
     {
-      "Action": "Does not challenge or mitigate the dangerous plan to split up, allowing panic to spread among the group.",
-      "Competence": -1,
-      "Chunk": 48
-    },
-    {
-      "Action": "Volunteers to accompany Yvette who is frightened of the dark.",
+      "Action": "Volunteers to go upstairs with Yvette who is afraid of the dark.",
       "Warmth": 1,
       "Chunk": 49
     },
     {
-      "Action": "Suggests drawing lots for partners to ensure fairness.",
+      "Action": "Suggests drawing lots to decide partners fairly.",
       "Warmth": 1,
       "Chunk": 49
     },
     {
-      "Action": "Carefully cuts matches into different lengths and distributes them fairly without revealing information.",
+      "Action": "Carefully cuts matches into different lengths and conceals them to ensure a fair selection process.",
       "Warmth": 1,
       "Chunk": 49
     },
     {
-      "Action": "Suggests drawing lots for partners to organize the group fairly and efficiently.",
-      "Competence": 1,
-      "Chunk": 49
-    },
-    {
-      "Action": "Takes matches and cuts them into different lengths secretly to ensure fairness in the draw.",
-      "Competence": 1,
-      "Chunk": 49
-    },
-    {
-      "Action": "Leads the group confidently from the Library to the Kitchen and takes initiative in organizing the search.",
-      "Competence": 1,
-      "Chunk": 49
-    },
-    {
-      "Action": "Turns abruptly with a knife in hand, unaware that others are startled, showing a slight lack of social awareness.",
-      "Competence": 0,
-      "Chunk": 49
-    },
-    {
-      "Action": "Offers to accompany Mrs. White into a dark bedroom for safety.",
+      "Action": "Suggests dividing up to search the house and leads a group up the stairs.",
       "Warmth": 1,
       "Chunk": 50
     },
     {
-      "Action": "Feels the need to explain his hesitation about entering the dark room.",
+      "Action": "Appears anxious and hesitant to enter dark bedrooms but encourages Mrs. White to proceed.",
+      "Warmth": 0,
+      "Chunk": 50
+    },
+    {
+      "Action": "Feels the need to explain his hesitation about entering due to lack of visible light switches, showing consideration.",
       "Warmth": 1,
       "Chunk": 50
     },
     {
-      "Action": "Insists on moving on quickly without allowing group consensus.",
-      "Warmth": -1,
+      "Action": "Offers to accompany Mrs. White into a dark bedroom for support; she declines.",
+      "Warmth": 1,
       "Chunk": 50
     },
     {
-      "Action": "Glances at his watch and insists they don't have time to search the house together, pushing the group to move forward efficiently.",
-      "Competence": 1,
-      "Chunk": 50
-    },
-    {
-      "Action": "Leads a group up the main stairs to search the bedrooms, showing initiative and leadership.",
-      "Competence": 1,
-      "Chunk": 50
-    },
-    {
-      "Action": "Hesitates to enter dark bedrooms due to lack of light switch, showing caution but also some uncertainty.",
-      "Competence": 0,
-      "Chunk": 50
-    },
-    {
-      "Action": "Decisively agrees to enter the bedroom despite hesitation, demonstrating resolve.",
-      "Competence": 1,
-      "Chunk": 50
-    },
-    {
-      "Action": "Feels the need to explain his hesitation about the light switch, indicating slight insecurity or lack of confidence in the moment.",
-      "Competence": 0,
-      "Chunk": 50
-    },
-    {
-      "Action": "Gropes around fearfully in the dark, warns anyone present to look out.",
+      "Action": "Gropes around in the dark to find a lamp and warns anyone in the room to look out, showing concern for others' safety.",
       "Warmth": 1,
       "Chunk": 52
     },
     {
-      "Action": "Searches for a lamp to provide light, enabling others to see.",
-      "Warmth": 1,
-      "Chunk": 52
-    },
-    {
-      "Action": "Gropes around in the dark to find a lamp, showing initiative to improve visibility.",
+      "Action": "Gropes around the first bedroom trying to find a lamp while visibly terrified, but successfully locates and switches on the lamp.",
       "Competence": 1,
       "Chunk": 52
     },
     {
-      "Action": "Warns others to look out if they are in the room, indicating awareness and caution.",
-      "Competence": 1,
-      "Chunk": 52
-    },
-    {
-      "Action": "Withdraws the letter from the envelope and reads it to all the guests, demonstrating control of information and leadership.",
+      "Action": "Withdrew important letter from the envelope and read it to all the guests, indicating control over crucial information.",
       "Competence": 1,
       "Chunk": 53
     },
     {
-      "Action": "Inserts key into lock and opens cupboard to reveal weapons.",
-      "Competence": 1,
-      "Chunk": 54
-    },
-    {
-      "Action": "Allows important evidence (photographs and letters) to be burned in the fire.",
-      "Competence": -1,
-      "Chunk": 54
-    },
-    {
-      "Action": "No direct action or statement in this excerpt; remains offstage or silent while others explore the secret passage and encounter difficulties.",
+      "Action": "No direct action or decision by Wadsworth is shown in this excerpt; key details indicate others discovering clues and events unfolding without his intervention.",
       "Competence": 0,
+      "Chunk": 54
+    },
+    {
+      "Action": "Does not lead exploration of secret passage; other characters take initiative instead.",
+      "Competence": -1,
       "Chunk": 55
     },
     {
-      "Action": "Emerges promptly from bedroom upon hearing a scream and moves quickly with others toward the source of distress.",
+      "Action": "No direct action or guidance displayed during discovery of the secret passage or encounter with the body.",
+      "Competence": -1,
+      "Chunk": 55
+    },
+    {
+      "Action": "Emerges from his bedroom promptly upon hearing a scream, runs towards the main hall along with others to respond to the emergency.",
       "Competence": 1,
       "Chunk": 56
     },
     {
-      "Action": "Attempts to open the locked door to help others trapped inside.",
-      "Warmth": 1,
-      "Chunk": 57
-    },
-    {
-      "Action": "Decides to break down the door to free those trapped, showing determination to help.",
-      "Warmth": 1,
-      "Chunk": 57
-    },
-    {
-      "Action": "Is accidentally tripped over and writhes on the floor but does not express anger or frustration.",
-      "Warmth": 1,
-      "Chunk": 57
-    },
-    {
-      "Action": "Attempts to open the locked door and then decides to break it down when unable to open it.",
+      "Action": "No indication of confusion or hesitation when reacting to the scream; shows decisiveness.",
       "Competence": 1,
+      "Chunk": 56
+    },
+    {
+      "Action": "Attempts to open locked door to help others trapped inside.",
+      "Warmth": 1,
       "Chunk": 57
     },
     {
-      "Action": "Is accidentally tripped over and ends up writhing on the floor, causing a gun to go off and a chandelier to nearly fall.",
-      "Competence": -1,
+      "Action": "Decides to break down the door to free others, showing protective and decisive behavior.",
+      "Warmth": 1,
       "Chunk": 57
     },
     {
-      "Action": "No direct action or statement in this excerpt to evaluate warmth.",
+      "Action": "Does not directly react to or comfort those in distress vocally, focused on action rather than empathy.",
+      "Warmth": 0,
+      "Chunk": 57
+    },
+    {
+      "Action": "Does not directly intervene or show concern during the dangerous situation with the chandelier and gunfire.",
+      "Warmth": -1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Remains composed and lets others take action without panicking, allowing Yvette to free them.",
       "Warmth": 0,
       "Chunk": 58
     },
     {
-      "Action": "Maintains composure and leads others despite tense and confusing situation with the unlocked cupboard and unexpected visitor.",
+      "Action": "No direct action or intervention observed in this excerpt; others handle the situation.",
+      "Competence": 0,
+      "Chunk": 58
+    },
+    {
+      "Action": "Demonstrates alertness and quick reflexes by stepping away just before the chandelier crashes down, preventing injury.",
+      "Competence": 1,
+      "Chunk": 59
+    },
+    {
+      "Action": "Fails to clearly take charge of the escalating dangerous situation despite his presence.",
+      "Competence": -1,
+      "Chunk": 59
+    },
+    {
+      "Action": "Maintains calm leadership and directs group to investigate cupboard and front door bell situation.",
       "Competence": 1,
       "Chunk": 60
     },
     {
-      "Action": "Does not immediately react to the doorbell ringing, allowing others to hesitate and freeze in terror.",
+      "Action": "Does not intervene when Mr. Green slams and repeatedly opens door to cop, allowing escalation.",
       "Competence": -1,
       "Chunk": 60
     },
     {
-      "Action": "Struggles to regain composure but politely allows the COP to use the phone and offers a drink.",
+      "Action": "Offers the COP to use the phone and politely shows him into the Library.",
       "Warmth": 1,
       "Chunk": 61
     },
     {
-      "Action": "Locks the COP in the Library abruptly and leaves the key in the lock while in a hurry.",
-      "Warmth": -1,
+      "Action": "Offers the COP a drink, showing hospitality.",
+      "Warmth": 1,
       "Chunk": 61
     },
     {
-      "Action": "Struggles to regain composure and hesitates while directing the COP to the phone.",
-      "Competence": -1,
+      "Action": "Tells the COP not to drink the cognac for safety reasons, showing concern.",
+      "Warmth": 1,
       "Chunk": 61
     },
     {
-      "Action": "Politely shows the COP into the Library and offers a drink, maintaining social decorum.",
-      "Competence": 1,
+      "Action": "Shuts and locks the Library door hurriedly and leaves the key in the lock, suggesting urgency and possibly mistrust.",
+      "Warmth": 0,
       "Chunk": 61
     },
     {
-      "Action": "Warns the COP not to drink the cognac, showing awareness of potential danger.",
-      "Competence": 1,
+      "Action": "Struggles to regain composure under the COP’s questioning, indicating stress but no clear warmth or coldness.",
+      "Warmth": 0,
       "Chunk": 61
     },
     {
-      "Action": "Locks the COP in the Library but leaves the key in the lock and appears hurried.",
-      "Competence": 0,
-      "Chunk": 61
-    },
-    {
-      "Action": "Hurries back to the panic-stricken guests to address the situation.",
+      "Action": "Hurries back to the group to assess the panic situation.",
       "Warmth": 1,
       "Chunk": 62
     },
     {
-      "Action": "Shows concern and alertness when the phone rings and the cop is locked in the library.",
+      "Action": "Shows concern when the telephone rings and the locked door situation unfolds.",
       "Warmth": 1,
       "Chunk": 62
     },
     {
-      "Action": "Shuts and locks the door in a hurry but leaves the key in the lock.",
-      "Competence": 0,
+      "Action": "Locks the door in a hurry but leaves the key in the lock.",
+      "Warmth": 0,
       "Chunk": 62
     },
     {
-      "Action": "Quickly assesses the situation when the phone rings and suggests the cop answered it, showing awareness.",
-      "Competence": 1,
-      "Chunk": 62
-    },
-    {
-      "Action": "Freezes along with the group when the phone rings, showing hesitation or uncertainty.",
-      "Competence": 0,
-      "Chunk": 62
-    },
-    {
-      "Action": "Speaks with innocence to deflect suspicion, hesitates before locking the door and prudently removes the key from the lock before shutting it.",
+      "Action": "Speaks with innocence and answers questions calmly despite suspicion.",
       "Warmth": 1,
       "Chunk": 63
     },
     {
-      "Action": "Avoids directly answering questions about suspicious phone calls and locked doors, showing evasiveness.",
+      "Action": "Hesitates and prudently removes the key from the lock before shutting the door, showing consideration for safety.",
+      "Warmth": 1,
+      "Chunk": 63
+    },
+    {
+      "Action": "Avoids directly explaining why the door was locked and appears evasive when questioned about phone calls from J. Edgar Hoover.",
       "Warmth": -1,
       "Chunk": 63
     },
     {
-      "Action": "Responds to the COP's questions with feigned innocence and attempts to deflect suspicion.",
-      "Competence": 1,
-      "Chunk": 63
-    },
-    {
-      "Action": "Is floored and momentarily stunned by the mention of J. Edgar Hoover on the phone, showing a lapse in composure.",
-      "Competence": -1,
-      "Chunk": 63
-    },
-    {
-      "Action": "Prudently removes the key from the lock before shutting the door, showing cautious and thoughtful behavior.",
-      "Competence": 1,
-      "Chunk": 63
-    },
-    {
-      "Action": "Claims ignorance about the FBI calls but tries to rationalize it quickly, indicating quick thinking under pressure.",
-      "Competence": 1,
-      "Chunk": 63
-    },
-    {
-      "Action": "Pulls himself together and lowers his voice to lead the officer confidently to the Dining Room, Kitchen, or Ballroom.",
+      "Action": "Pulls himself together and lowers his voice to lead the officer confidently to another room, managing the situation calmly.",
       "Competence": 1,
       "Chunk": 64
     },
     {
-      "Action": "Hurries out into the Hall after a phone call, showing concern about the situation.",
+      "Action": "Does not appear in this excerpt taking any specific action of skill or failure, mostly other characters interact; no indication of incompetence or failure.",
+      "Competence": 0,
+      "Chunk": 64
+    },
+    {
+      "Action": "Hurries out into the Hall after a phone call, indicating promptness and responsibility.",
+      "Warmth": 0,
+      "Chunk": 66
+    },
+    {
+      "Action": "Tries to explain the situation to the COP, showing a willingness to communicate and be transparent.",
       "Warmth": 1,
       "Chunk": 66
     },
     {
-      "Action": "Expresses despair and willingness to explain everything to the COP, indicating sincerity and openness.",
+      "Action": "Is shattered and dazed by the COP's statement, showing vulnerability and sincerity.",
       "Warmth": 1,
       "Chunk": 66
     },
     {
-      "Action": "Shows dazed confusion but remains engaged in conversation with the COP, demonstrating tolerance and patience.",
-      "Warmth": 1,
-      "Chunk": 66
-    },
-    {
-      "Action": "Uses the phone quickly and then hurries out into the hall, showing awareness of the situation and urgency.",
+      "Action": "Is on the phone and then quickly moves to engage with the COP and MR. GREEN, showing urgency and awareness.",
       "Competence": 1,
       "Chunk": 66
     },
     {
-      "Action": "Appears shattered and dazed when the COP says he has seen everything, showing a momentary loss of composure.",
+      "Action": "Is shattered and dazed by the COP's statement 'You're too late. I've seen everything.'",
       "Competence": -1,
       "Chunk": 66
     },
     {
-      "Action": "Attempts to explain the situation to the COP despite being in despair, indicating persistence and willingness to manage the situation.",
+      "Action": "Attempts to explain the situation to the COP despite feeling overwhelmed, showing presence of mind under pressure.",
       "Competence": 1,
       "Chunk": 66
     },
     {
-      "Action": "Questions the COP about legality, showing some uncertainty and lack of confidence.",
-      "Competence": -1,
-      "Chunk": 66
-    },
-    {
-      "Action": "Locks the COP in the Library to continue searching the house, explaining the reason calmly.",
+      "Action": "Locks the COP in the Library again but leaves the key in the lock, explaining the house search is unfinished.",
       "Warmth": 0,
       "Chunk": 67
     },
     {
-      "Action": "Locks the COP in the Library to continue searching the house, showing control of the situation.",
+      "Action": "Follows the group upstairs without conflict, showing cooperation and attentiveness.",
+      "Warmth": 1,
+      "Chunk": 67
+    },
+    {
+      "Action": "Locks the police officer in the Library to prevent interference until the search of the house is complete.",
       "Competence": 1,
       "Chunk": 67
     },
     {
-      "Action": "Leaves the key in the lock after locking the door, which could be seen as a security oversight.",
-      "Competence": -1,
-      "Chunk": 67
-    },
-    {
-      "Action": "Explains the reason for locking the COP in the Library clearly and confidently.",
+      "Action": "Leaves the key in the lock after securing the door, indicating foresight and readiness to unlock quickly if needed.",
       "Competence": 1,
       "Chunk": 67
     },
     {
-      "Action": "Moves efficiently with the group to search the house, delegating or organizing the search.",
+      "Action": "Insists on continuing the search despite concerns about time and police arrival, demonstrating confidence and decisiveness.",
       "Competence": 1,
       "Chunk": 67
     }

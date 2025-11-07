@@ -1,938 +1,743 @@
 {
   "Jack": [
     {
-      "Action": "Attempts to brush off stress by smiling and speaks positively to his family upon arriving home.",
+      "Action": "Attempts to brush off stress and greet family warmly with a smile and positive words after a long day at work.",
       "Warmth": 1,
       "Chunk": 1
     },
     {
-      "Action": "Shows care and attentiveness by noticing details like rose petals and acknowledging his wife's effort to arrange a sitter.",
+      "Action": "Expresses appreciation for wife's effort in arranging a sitter and a romantic setting, showing awareness and acknowledgment.",
       "Warmth": 1,
       "Chunk": 1
     },
     {
-      "Action": "Accepts a beer offered by Quentin despite it being morning, thanks him politely, and sits down with the group.",
+      "Action": "Accepts beer from friends despite it being morning, thanks Quentin sincerely, joins group at campfire.",
       "Warmth": 1,
       "Chunk": 2
     },
     {
-      "Action": "Seems to drift off and not engage actively in Joe's story, showing some detachment from the group interaction.",
-      "Warmth": 0,
+      "Action": "Seems to drift off and zone out during friend's story, showing disinterest.",
+      "Warmth": -1,
       "Chunk": 2
     },
     {
-      "Action": "Catches and opens a beer offered by Quentin despite it being morning, then sits down and listens to the story.",
+      "Action": "Catches and opens a beer despite it being morning, engages casually with friends.",
       "Competence": 0,
       "Chunk": 2
     },
     {
-      "Action": "Remains silent and does not join in the laughter at Joe's story, showing sensitivity to others' feelings.",
+      "Action": "Falls back trying to avoid his rabid wife Marcy's violent lunge.",
+      "Competence": 0,
+      "Chunk": 2
+    },
+    {
+      "Action": "Breathes heavy and consciously takes in surroundings to remember the situation after waking up in a tent.",
+      "Competence": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Seems to drift off and not fully engage while Joe excitedly tells his story.",
+      "Competence": -1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Remains silent and does not laugh along when others mock Joe's story",
       "Warmth": 1,
       "Chunk": 3
     },
     {
-      "Action": "Abruptly jumps into the conversation demanding to know who messed with his watch, showing distrust and irritability.",
+      "Action": "Abruptly jumps into conversation, questioning who changed his watch time and acts visibly displeased",
+      "Warmth": 0,
+      "Chunk": 3
+    },
+    {
+      "Action": "Looks upset when Joe and Quentin argue",
+      "Warmth": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Does not engage in teasing or mocking others",
+      "Warmth": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Admits to having a nightmare and expresses displeasure when teased by Quentin, asks Quentin to stop making fun of him.",
+      "Warmth": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Initially does nothing to help with packing, zones out while others work.",
       "Warmth": -1,
-      "Chunk": 3
+      "Chunk": 4
     },
     {
-      "Action": "Looks upset when Joe and Quentin argue, indicating emotional sensitivity and possible concern for group harmony.",
-      "Warmth": 1,
-      "Chunk": 3
-    },
-    {
-      "Action": "Is visually displeased and insists on the watch time being wrong despite others dismissing his concern, showing stubbornness and lack of tolerance.",
-      "Warmth": -1,
-      "Chunk": 3
-    },
-    {
-      "Action": "Notices the time on his watch is incorrect and questions others about it, showing attention to detail and concern for accuracy.",
-      "Competence": 1,
-      "Chunk": 3
-    },
-    {
-      "Action": "Becomes uneasy and insists repeatedly that his watch was tampered with despite others dismissing his concern, potentially showing paranoia or lack of social tact.",
-      "Competence": -1,
-      "Chunk": 3
-    },
-    {
-      "Action": "Is silent and does not engage in the group's laughter about the story, indicating possible social discomfort or lack of confidence in group settings.",
-      "Competence": -1,
-      "Chunk": 3
-    },
-    {
-      "Action": "Appears visibly displeased and upset when others dismiss his concerns, but does not effectively communicate or resolve the issue.",
-      "Competence": -1,
-      "Chunk": 3
-    },
-    {
-      "Action": "Is described as 'a little out of it' and having not slept much, which may impair his functioning but is not a direct indicator of competence.",
-      "Competence": 0,
-      "Chunk": 3
-    },
-    {
-      "Action": "Admits to zoning out and having a nightmare, shows vulnerability.",
+      "Action": "Eventually resumes helping with packing after confrontation.",
       "Warmth": 1,
       "Chunk": 4
     },
     {
-      "Action": "Responds to Quentin's teasing with displeasure and asks him to stop, setting a boundary.",
+      "Action": "Zones out and does nothing while others are packing, showing inattentiveness.",
+      "Competence": -1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Admits to not having slept well due to nightmares but still joins the group to finish packing and move forward.",
+      "Competence": 0,
+      "Chunk": 4
+    },
+    {
+      "Action": "Pushes back against Quentin’s teasing and asserts a boundary, then proceeds to help with packing.",
+      "Competence": 0,
+      "Chunk": 4
+    },
+    {
+      "Action": "Shares personal information about his divorce and daughter.",
+      "Warmth": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Responds with a glare when Quentin teases him.",
       "Warmth": 0,
-      "Chunk": 4
+      "Chunk": 5
     },
     {
-      "Action": "Pushes Quentin’s arm down to stop his teasing, indicating irritation but not hostility.",
+      "Action": "Joins in light teasing and jokes with the group about the clocks and strange time.",
+      "Warmth": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Warns Quentin about road kill to avoid accident.",
+      "Warmth": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Turns away from Quentin after being teased.",
       "Warmth": 0,
-      "Chunk": 4
-    },
-    {
-      "Action": "Despite being upset, helps finish packing without complaint.",
-      "Warmth": 1,
-      "Chunk": 4
-    },
-    {
-      "Action": "Zones out and does nothing while others are packing.",
-      "Competence": -1,
-      "Chunk": 4
-    },
-    {
-      "Action": "Admits to being tired and having a nightmare, showing self-awareness but also distraction.",
-      "Competence": 0,
-      "Chunk": 4
-    },
-    {
-      "Action": "Responds to Quentin's teasing with displeasure and sets a boundary, then proceeds to help finish packing.",
-      "Competence": 1,
-      "Chunk": 4
-    },
-    {
-      "Action": "Shares personal information about his divorce and child.",
-      "Warmth": 1,
       "Chunk": 5
     },
     {
-      "Action": "Responds to Quentin's teasing with a glare and turns his head away.",
-      "Warmth": -1,
-      "Chunk": 5
-    },
-    {
-      "Action": "Warns Quentin about road kill on the road.",
-      "Warmth": 1,
-      "Chunk": 5
-    },
-    {
-      "Action": "Notices the odd time on the clock and comments on it, showing awareness of details.",
-      "Competence": 1,
-      "Chunk": 5
-    },
-    {
-      "Action": "Warns Quentin about roadkill on the road, demonstrating alertness and quick reaction.",
-      "Competence": 1,
-      "Chunk": 5
-    },
-    {
-      "Action": "Freezes his hand when reaching to turn on the radio, showing hesitation or uncertainty.",
-      "Competence": 0,
-      "Chunk": 5
-    },
-    {
-      "Action": "Does not take control of the situation when Quentin swerves and hits the roadkill, merely looks disgusted.",
-      "Competence": 0,
-      "Chunk": 5
-    },
-    {
-      "Action": "Greets Kendra warmly and engages with her and the guys in a friendly manner.",
+      "Action": "Greets Kendra and asks about 'mommy' inside; the group greets Kendra warmly",
       "Warmth": 1,
       "Chunk": 6
     },
     {
-      "Action": "Offers drinks to his friends and shares beer with them.",
+      "Action": "Offers drinks to his friends and invites Marcy to join, despite her ignoring him initially",
       "Warmth": 1,
       "Chunk": 6
     },
     {
-      "Action": "Invites Marcy to join the group multiple times despite her ignoring him initially.",
+      "Action": "Visibly upset by Marcy's lack of acknowledgment but quickly shakes it off",
       "Warmth": 1,
       "Chunk": 6
     },
     {
-      "Action": "Visibly upset by Marcy's lack of acknowledgment but quickly shakes it off, showing patience.",
-      "Warmth": 1,
-      "Chunk": 6
-    },
-    {
-      "Action": "Politely offers drinks to friends and tries to engage Marcy in conversation despite her ignoring him.",
+      "Action": "Greets everyone warmly and offers drinks to his friends, organizes giving beers efficiently.",
       "Competence": 1,
       "Chunk": 6
     },
     {
-      "Action": "Visibly upset when Marcy ignores him but quickly shakes it off and continues social interaction.",
+      "Action": "Attempts to engage Marcy in conversation and social interaction despite her being distracted and unresponsive.",
       "Competence": 1,
       "Chunk": 6
     },
     {
-      "Action": "Fails to effectively address Marcy's apparent distress or disengagement beyond repeated verbal invitations.",
+      "Action": "Does not insist or escalate when Marcy ignores his invitations, quickly shakes off visible upset, shows emotional self-regulation.",
+      "Competence": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Fails to effectively address or resolve underlying tension with Marcy despite noticing her mood and being ignored.",
       "Competence": -1,
       "Chunk": 6
     },
     {
-      "Action": "Invites the guys to stay for dinner, showing inclusiveness.",
+      "Action": "Invites the guys to stay for dinner.",
       "Warmth": 1,
       "Chunk": 7
     },
     {
-      "Action": "Responds calmly to Joe spilling beer on him, does not get angry.",
+      "Action": "Responds calmly and forgivingly when beer is spilled on him.",
       "Warmth": 1,
       "Chunk": 7
     },
     {
-      "Action": "Gently tries to engage with his wife Marcy when she is muttering and distressed.",
+      "Action": "Shows concern for his wife Marcy, repeatedly asks her what is wrong.",
       "Warmth": 1,
       "Chunk": 7
     },
     {
-      "Action": "Physically comforts Marcy by hugging and kissing her on the cheek without looking down, showing tenderness and reassurance.",
+      "Action": "Physically comforts his wife by hugging and kissing her on the cheek without looking down, reassures her.",
       "Warmth": 1,
       "Chunk": 7
     },
     {
-      "Action": "Calmly handles a minor accident (beer spill) without anger, offers to clean it up and get paper towels.",
-      "Competence": 1,
-      "Chunk": 7
-    },
-    {
-      "Action": "Attempts to communicate with his wife Marcy who is muttering and distressed, shows patience and care.",
-      "Competence": 1,
-      "Chunk": 7
-    },
-    {
-      "Action": "Physically comforts Marcy by hugging and kissing her on the cheek without looking down, showing emotional support.",
-      "Competence": 1,
-      "Chunk": 7
-    },
-    {
-      "Action": "Zones out and tunes out the bickering between Joe and Quentin, showing some distraction or lack of engagement.",
-      "Competence": 0,
-      "Chunk": 7
-    },
-    {
-      "Action": "Tries to stop Marcy from scratching her arm and hurting herself, wraps her wound with a washcloth, calls for an ambulance urgently.",
+      "Action": "Tries to stop Marcy from harming herself and quickly calls for an ambulance, wrapping her wound to help her.",
       "Warmth": 1,
       "Chunk": 8
     },
     {
-      "Action": "Holds Marcy tightly to prevent her from struggling and causing further harm.",
+      "Action": "Holds Marcy tightly to prevent her from struggling while she is in distress.",
       "Warmth": 1,
       "Chunk": 8
     },
     {
-      "Action": "Chases after Marcy's hospital gurney and insists on staying with her despite hospital staff instructions.",
+      "Action": "Shows concern and desperation by chasing after Marcy’s gurney at the hospital and insisting he is her husband wanting to be with her.",
       "Warmth": 1,
       "Chunk": 8
     },
     {
-      "Action": "Quickly tries to stop Marcy from scratching her wounded arm and wraps a washcloth around it.",
-      "Competence": 1,
-      "Chunk": 8
-    },
-    {
-      "Action": "Urgently calls for an ambulance and takes charge of the emergency situation.",
-      "Competence": 1,
-      "Chunk": 8
-    },
-    {
-      "Action": "Holds Marcy tightly to prevent her from struggling and worsening her injury.",
-      "Competence": 1,
-      "Chunk": 8
-    },
-    {
-      "Action": "Waits in the hospital hallway after being told to wait, showing patience and respect for hospital protocol.",
-      "Competence": 1,
-      "Chunk": 8
-    },
-    {
-      "Action": "Calmly observes a tense situation in the waiting room without escalating it.",
+      "Action": "Calmly intervenes by telling the orderly not to be rude after the orderly lashes out",
       "Warmth": 1,
       "Chunk": 9
     },
     {
-      "Action": "Politely tells the rude orderly 'No need to be so rude.'",
-      "Warmth": 1,
-      "Chunk": 9
-    },
-    {
-      "Action": "Pushes past the orderly and walks out without confrontation.",
+      "Action": "Pushes past the orderly to see his wife despite the tense situation",
       "Warmth": 0,
       "Chunk": 9
     },
     {
-      "Action": "Turns to look at the rowdy situation in the waiting room, showing awareness of his surroundings.",
+      "Action": "Turns to look at the situation involving Alex becoming rowdy, showing awareness.",
       "Competence": 1,
       "Chunk": 9
     },
     {
-      "Action": "Appears startled when tapped on the shoulder by Orderly #2, indicating a momentary lapse in composure.",
+      "Action": "Is startled when tapped on the shoulder by the orderly, indicating a moment of distraction or lack of alertness.",
       "Competence": -1,
       "Chunk": 9
     },
     {
-      "Action": "Questions the hospital's use of room 13, making a light comment despite the tense situation, showing some social awareness but possibly poor judgment in timing.",
-      "Competence": 0,
+      "Action": "Questions the unlucky number of the hospital room out loud, displaying a somewhat superstitious or naive reaction instead of focusing on the urgency of the situation.",
+      "Competence": -1,
       "Chunk": 9
     },
     {
-      "Action": "Pushes past the rude orderly to go see his wife, demonstrating determination and decisiveness.",
+      "Action": "Pushes past the rude orderly despite the tension, showing resolve and confidence in acting for his own purpose.",
       "Competence": 1,
       "Chunk": 9
     },
     {
-      "Action": "Responds to burned man’s plea for help but is unable to assist before he dies.",
+      "Action": "Responds with concern and inquiry about hospital casualties.",
       "Warmth": 1,
       "Chunk": 10
     },
     {
-      "Action": "Asks doctors about the situation and his wife’s location, showing concern and persistence.",
-      "Warmth": 1,
-      "Chunk": 10
-    },
-    {
-      "Action": "Backs away from doctor’s jacket, possibly indicating discomfort or respect for the doctor’s role.",
+      "Action": "Bumps into a gurney with a dead woman but keeps walking without reacting strongly.",
       "Warmth": 0,
       "Chunk": 10
     },
     {
-      "Action": "Keeps walking after seeing dead woman with number 13 carved on forehead, showing emotional restraint or detachment.",
+      "Action": "Politely asks Doctor Palumbo about his wife's location despite the doctor's rudeness.",
+      "Warmth": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Explains his wife's injury calmly when questioned mockingly.",
+      "Warmth": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Politely asks the receptionist for help finding his wife's room despite being upset.",
+      "Warmth": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Uses sarcasm with the receptionist but does not escalate conflict, then quickly walks away.",
       "Warmth": 0,
-      "Chunk": 10
-    },
-    {
-      "Action": "Faces rude and dismissive behavior from doctors without responding aggressively.",
-      "Warmth": 1,
-      "Chunk": 10
-    },
-    {
-      "Action": "Does his best not to get angry despite being insulted by Doctor Palumbo.",
-      "Warmth": 1,
       "Chunk": 11
     },
     {
-      "Action": "Thanks the receptionist despite her rude behavior.",
-      "Warmth": 1,
-      "Chunk": 11
-    },
-    {
-      "Action": "Calls everyone in the hospital an asshole after being treated rudely.",
-      "Warmth": -1,
-      "Chunk": 11
-    },
-    {
-      "Action": "Calmly follows directions to the correct floor despite being insulted and provoked by Doctor Palumbo.",
+      "Action": "Pinpoints the correct floor after being insulted and confused, finds and approaches the receptionist to get precise location for his wife’s room.",
       "Competence": 1,
       "Chunk": 11
     },
     {
-      "Action": "Seeks out information by asking the receptionist where his wife's room is, showing initiative and focus.",
+      "Action": "After being verbally abused by medical staff, he controls his anger, holds himself together, and continues to accomplish his goal without confrontation.",
       "Competence": 1,
       "Chunk": 11
     },
     {
-      "Action": "Shows emotional vulnerability and is visibly upset but still manages to hold himself together and continue his task.",
-      "Competence": 1,
-      "Chunk": 11
-    },
-    {
-      "Action": "Engages in sarcastic banter with the receptionist, which does not escalate the situation but may reflect some social awkwardness.",
-      "Competence": 0,
-      "Chunk": 11
-    },
-    {
-      "Action": "Kisses his sedated wife on the forehead with a long and lingering kiss.",
-      "Warmth": 1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Locks the hospital room door behind him, ensuring privacy and security.",
-      "Warmth": 1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Hesitates before entering the room, showing emotional struggle but still chooses to enter.",
-      "Warmth": 1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Hesitates before entering the hospital room but ultimately enters and locks the door behind him, showing cautiousness and respect for privacy.",
-      "Competence": 1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Kisses his sedated wife on the forehead and sits down, then drifts off to sleep despite the stressful situation.",
-      "Competence": 0,
-      "Chunk": 12
-    },
-    {
-      "Action": "Falls into a full sleep while in a hospital room with his sedated wife, potentially neglecting the seriousness of the situation.",
+      "Action": "Makes sarcastic remarks about hospital staff and the receptionist, which might reduce the possibility of gaining their goodwill or cooperation.",
       "Competence": -1,
-      "Chunk": 12
+      "Chunk": 11
     },
     {
-      "Action": "Reaches out his hand to Candace, trying to help her.",
+      "Action": "Reaches out his hand to Candace when she asks for help but is physically unable to move forward due to unseen forces.",
       "Warmth": 1,
       "Chunk": 13
     },
     {
-      "Action": "Feels held back and unable to physically reach Candace despite wanting to help.",
-      "Warmth": 1,
-      "Chunk": 13
-    },
-    {
-      "Action": "Looks uneasy when someone tries to enter the hospital room and cautiously approaches the door.",
+      "Action": "Looks uneasy when someone tries to enter the hospital room where Marcy is, then cautiously approaches the door.",
       "Warmth": 0,
       "Chunk": 13
     },
     {
-      "Action": "Returns to sit by Marcy after realizing the room is not his, showing concern for her.",
+      "Action": "Returns to sit by Marcy with relief when the door stops jiggling.",
       "Warmth": 1,
       "Chunk": 13
     },
     {
-      "Action": "Reaches out to help Candace despite the supernatural force holding him back.",
+      "Action": "Reaches out to help Candace despite mysterious forces holding him back, showing intention and concern.",
       "Competence": 1,
       "Chunk": 13
     },
     {
-      "Action": "Notices the mob banging on the windows and turns to look, showing situational awareness.",
+      "Action": "Notices the mob banging on the windows and reacts by waking up and cautiously approaching the door when disturbed in the hospital.",
       "Competence": 1,
       "Chunk": 13
     },
     {
-      "Action": "Wakes up in hospital and cautiously approaches the door to investigate the noise.",
+      "Action": "Returns to Marcy's side after confirming the visitor can't enter, showing situational awareness and restraint.",
       "Competence": 1,
       "Chunk": 13
     },
     {
-      "Action": "Returns to his seat by Marcy after realizing the door is locked and no threat is present, showing calmness and good judgment.",
-      "Competence": 1,
+      "Action": "Appears uneasy in the hospital room and approaches unknown threat slowly, demonstrating caution but possibly hesitance.",
+      "Competence": 0,
       "Chunk": 13
     },
     {
-      "Action": "No direct actions or statements present in the excerpt; no interaction or response to violent events occurring nearby.",
-      "Warmth": 0,
-      "Chunk": 16
+      "Action": "No direct actions or statements from Jack present in the excerpt to evaluate competence.",
+      "Competence": 0,
+      "Chunk": 14
     },
     {
-      "Action": "No direct actions or statements from Jack in this excerpt; he is absent or inactive during critical events.",
+      "Action": "Not present in the excerpt; no actions or decisions shown.",
       "Competence": 0,
       "Chunk": 16
     },
     {
-      "Action": "Sits attentively watching his wife in the hospital, expresses relief and concern when she wakes up, kisses her on the lips, and tries to connect her with their daughter.",
+      "Action": "Sits watching his wife in hospital, shows excitement and relief when she wakes up, calls family to keep wife connected",
       "Warmth": 1,
       "Chunk": 17
     },
     {
-      "Action": "Sits attentively by his wife's hospital bed, shows concern and affection, attempts to keep family connected by calling others.",
+      "Action": "Sits calmly by his wife's hospital bed, shows concern, tries to reassure her, attempts to contact family to keep everyone informed.",
       "Competence": 1,
       "Chunk": 17
     },
     {
-      "Action": "Assumes the EMT's suggestion about heat stroke without apparent further inquiry or urgency.",
+      "Action": "Assumes Kendra is worried without confirming, proceeds to call others before confirming condition or prioritizing medical updates.",
       "Competence": 0,
       "Chunk": 17
     },
     {
-      "Action": "Tries to calm Marcy during her violent rampage, calls her 'baby' and asks why she is doing this.",
+      "Action": "Attempts to calm Marcy by calling her 'Baby' and asking her to stop hurting him, shows concern and care despite being attacked.",
       "Warmth": 1,
       "Chunk": 18
     },
     {
-      "Action": "Wraps his arms around Marcy in a bear hug to immobilize her arms, attempting to restrain her without hurting her.",
+      "Action": "Apologizes to Marcy after pushing her away, expresses regret and desire to get her help.",
       "Warmth": 1,
       "Chunk": 18
     },
     {
-      "Action": "Apologizes after pushing Marcy away with force, expresses concern and suggests getting her help.",
+      "Action": "Screams and hits the ground in anguish after Marcy's death, showing deep emotional pain and vulnerability.",
       "Warmth": 1,
       "Chunk": 18
     },
     {
-      "Action": "Runs to the window and calls out to Marcy after she jumps, showing desperation and care.",
-      "Warmth": 1,
+      "Action": "Irritated or suspicious reaction to the door knob jiggling without answer, wipes tears and blood off himself, acts tense and puzzled.",
+      "Warmth": 0,
       "Chunk": 18
     },
     {
-      "Action": "Collapses and screams in grief after Marcy's death, showing emotional vulnerability and sincere sorrow.",
+      "Action": "Calms himself down despite panic, tries to investigate the door cautiously.",
       "Warmth": 1,
-      "Chunk": 18
+      "Chunk": 19
     },
     {
-      "Action": "Wipes tears from his face despite the blood, showing self-care and composure in distress.",
+      "Action": "Calls for help when approached by the mob, showing vulnerability and trust in others.",
       "Warmth": 1,
-      "Chunk": 18
+      "Chunk": 19
     },
     {
-      "Action": "Tries to defend himself against Marcy's violent attack by blocking scratches and punches, then immobilizes her arms with a bear hug.",
+      "Action": "Initially grabs a stool defensively when surprised by Candace.",
+      "Warmth": 0,
+      "Chunk": 19
+    },
+    {
+      "Action": "Responds with concern about the dead boy, indicating empathy.",
+      "Warmth": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Expresses concern for his daughter and insists on rescuing her despite dangers.",
+      "Warmth": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Comforts Candace as she cries about her nephew.",
+      "Warmth": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Recognizes Candace from his dream and communicates clearly about his daughter Kendra’s situation.",
       "Competence": 1,
-      "Chunk": 18
+      "Chunk": 20
     },
     {
-      "Action": "Notices Marcy trying to bite him and moves his hand to block the bite, but this frees her other hand allowing her to grab his throat.",
+      "Action": "Shows concern for his daughter and makes a decision to go rescue her despite uncertain conditions.",
+      "Competence": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Questions Candace about the epidemic, showing willingness to understand the situation.",
+      "Competence": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Appears confused when Candace explains the danger, indicating some lack of situational awareness.",
+      "Competence": 0,
+      "Chunk": 20
+    },
+    {
+      "Action": "Comforts Candace when she breaks down crying, demonstrating emotional support but not necessarily competence in handling the crisis itself.",
+      "Competence": 0,
+      "Chunk": 20
+    },
+    {
+      "Action": "Listens intently to Candace's traumatic experience and reassures her by saying 'That ain't your fault.'",
+      "Warmth": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Expresses determination to try to save his daughter despite risks, stating 'What kind of father would I be if I didn’t try? I have to do this....'",
+      "Warmth": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Listens intently to Candace's story, shows empathy and understanding.",
+      "Competence": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Decides to take responsibility and go get his daughter despite the apparent danger.",
+      "Competence": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Pauses momentarily when warned about possible danger to his daughter, indicating consideration.",
+      "Competence": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Insists on making a plan and emphasizes needing to get his daughter.",
+      "Warmth": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Challenges Candace’s fear by trying to rationalize and encourage escape, showing concern for safety.",
+      "Warmth": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Directly contradicts Candace and demands immediate action despite her objections.",
+      "Warmth": 0,
+      "Chunk": 23
+    },
+    {
+      "Action": "Responds with a rhetorical question 'Who are you to define crazy?' in a tense situation.",
+      "Warmth": 0,
+      "Chunk": 23
+    },
+    {
+      "Action": "Insists on making a plan to get his daughter and escape the dangerous situation despite Candace's refusal.",
+      "Competence": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Pushes for leaving the supposedly unsafe hospital environment while questioning Candace’s judgments.",
+      "Competence": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Argues with Candace but does not listen to or address her specific safety concerns, showing some inflexibility.",
+      "Competence": 0,
+      "Chunk": 23
+    },
+    {
+      "Action": "Asks Candace if she is okay when she shivers, then notices the cold and adjusts the thermostat for comfort.",
+      "Warmth": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Dismisses Candace's caution about the effects of the madness by saying 'I’m not crazy so obviously it doesn't affect everyone.'",
+      "Warmth": -1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Expresses concern about the security of their shelter and acknowledges the danger ('It’s not going to hold long. We need to figure out how to get out of here.').",
+      "Warmth": 0,
+      "Chunk": 24
+    },
+    {
+      "Action": "Says he would have killed Candace by now if he was crazy, suggesting a dismissive attitude toward her fears.",
+      "Warmth": -1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Maintains calm under pressure and focuses on immediate threats (pacing, assessing the door situation).",
+      "Competence": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Dismisses Candace’s warning about the effects of the condition and claims he is not affected, showing some denial or overconfidence.",
       "Competence": -1,
-      "Chunk": 18
-    },
-    {
-      "Action": "Pushes Marcy away with enough force to send her crashing into a window, showing physical assertiveness and quick reaction.",
-      "Competence": 1,
-      "Chunk": 18
-    },
-    {
-      "Action": "Expresses regret and attempts to calm Marcy, showing emotional intelligence but possibly lacking control over the situation.",
-      "Competence": 0,
-      "Chunk": 18
-    },
-    {
-      "Action": "Runs to the window after Marcy jumps out but is too late to prevent her death.",
-      "Competence": 0,
-      "Chunk": 18
-    },
-    {
-      "Action": "Collapses and screams in grief immediately after Marcy's death, showing emotional overwhelm and loss of composure.",
-      "Competence": -1,
-      "Chunk": 18
-    },
-    {
-      "Action": "Pulls himself together after initial breakdown, wipes tears and blood from his face, and responds verbally to the doorknob jiggling, showing some recovery of composure and situational awareness.",
-      "Competence": 1,
-      "Chunk": 18
-    },
-    {
-      "Action": "Calms himself down despite panic and tries to open the door to understand the situation.",
-      "Warmth": 1,
-      "Chunk": 19
-    },
-    {
-      "Action": "Calls for help when threatened by the mob.",
-      "Warmth": 1,
-      "Chunk": 19
-    },
-    {
-      "Action": "Initially tries to fend off Candace with a stool out of fear.",
-      "Warmth": 0,
-      "Chunk": 19
-    },
-    {
-      "Action": "Stops defending himself and listens to Candace, showing trust and willingness to cooperate.",
-      "Warmth": 1,
-      "Chunk": 19
-    },
-    {
-      "Action": "Calms himself down and cautiously approaches the door despite the danger, showing presence of mind.",
-      "Competence": 1,
-      "Chunk": 19
-    },
-    {
-      "Action": "Quickly tries to barricade himself after seeing the mob, but finds the door locked, indicating a reactive but limited preparedness.",
-      "Competence": 0,
-      "Chunk": 19
-    },
-    {
-      "Action": "Backs away slowly and then picks up speed to find another room, showing situational awareness and attempt to escape.",
-      "Competence": 1,
-      "Chunk": 19
-    },
-    {
-      "Action": "Initially tries to fend off Candace with a stool, showing mistrust and defensive instincts, but quickly lowers it when reassured, indicating adaptability.",
-      "Competence": 0,
-      "Chunk": 19
-    },
-    {
-      "Action": "Questions Candace about the dead boy and the situation, showing curiosity and desire to understand the crisis.",
-      "Competence": 1,
-      "Chunk": 19
-    },
-    {
-      "Action": "Expresses concern for his daughter Kendra and insists on rescuing her despite the danger.",
-      "Warmth": 1,
-      "Chunk": 20
-    },
-    {
-      "Action": "Comforts Candace when she starts to cry about her nephew.",
-      "Warmth": 1,
-      "Chunk": 20
-    },
-    {
-      "Action": "Recognizes Candace from his dream and tries to connect the dots.",
-      "Competence": 1,
-      "Chunk": 20
-    },
-    {
-      "Action": "Insists on rescuing his daughter despite warnings about the danger.",
-      "Competence": 0,
-      "Chunk": 20
-    },
-    {
-      "Action": "Shows concern for his daughter and listens to Candace's information.",
-      "Competence": 1,
-      "Chunk": 20
-    },
-    {
-      "Action": "Appears confused and asks for clarification multiple times.",
-      "Competence": 0,
-      "Chunk": 20
-    },
-    {
-      "Action": "Comforts Candace when she starts crying.",
-      "Competence": 1,
-      "Chunk": 20
-    },
-    {
-      "Action": "Listens intently to Candace's traumatic story, offers reassurance by saying 'That ain’t your fault.'",
-      "Warmth": 1,
-      "Chunk": 21
-    },
-    {
-      "Action": "Expresses determination to get his daughter despite the danger, showing responsibility and care.",
-      "Warmth": 1,
-      "Chunk": 21
-    },
-    {
-      "Action": "Listens intently to Candace's story and acknowledges her feelings by saying 'That ain’t your fault.'",
-      "Competence": 1,
-      "Chunk": 21
-    },
-    {
-      "Action": "Pauses thoughtfully before responding to Candace's concern about his daughter being affected.",
-      "Competence": 1,
-      "Chunk": 21
-    },
-    {
-      "Action": "Expresses determination to retrieve his daughter despite potential risks, showing resolve and responsibility.",
-      "Competence": 1,
-      "Chunk": 21
-    },
-    {
-      "Action": "Outstretches his hand to Candace and thanks her sincerely for saving him.",
-      "Warmth": 1,
-      "Chunk": 22
-    },
-    {
-      "Action": "Shows a worried look when discussing the safety of his daughter and her friends.",
-      "Warmth": 1,
-      "Chunk": 22
-    },
-    {
-      "Action": "Paces nervously and insists he is not crazy, showing vulnerability and a desire to be understood.",
-      "Warmth": 1,
-      "Chunk": 22
-    },
-    {
-      "Action": "Attempts to approach Candace but is told to get away, indicating possible boundary issues or misreading social cues.",
-      "Warmth": 0,
-      "Chunk": 22
-    },
-    {
-      "Action": "Introduces himself confidently to Candace and thanks her for saving him.",
-      "Competence": 1,
-      "Chunk": 22
-    },
-    {
-      "Action": "Agrees with Candace that they need a plan to save his daughter.",
-      "Competence": 1,
-      "Chunk": 22
-    },
-    {
-      "Action": "Shows a worried look when asked about his friends' access to weapons.",
-      "Competence": 0,
-      "Chunk": 22
-    },
-    {
-      "Action": "Paces nervously in the hospital room and argues about sanity with Candace.",
-      "Competence": -1,
-      "Chunk": 22
-    },
-    {
-      "Action": "Insists he is not crazy and that they need to get out of there despite Candace's warning.",
-      "Competence": 0,
-      "Chunk": 22
-    },
-    {
-      "Action": "Insists on making a plan and expresses a desire to get his daughter, showing concern for family.",
-      "Warmth": 1,
-      "Chunk": 23
-    },
-    {
-      "Action": "Dismisses Candace's fears and questions her judgment by saying 'Who are you to define crazy?'",
-      "Warmth": -1,
-      "Chunk": 23
-    },
-    {
-      "Action": "Insists on making a plan and emphasizes the need to get his daughter and escape the dangerous situation.",
-      "Competence": 1,
-      "Chunk": 23
-    },
-    {
-      "Action": "Challenges Candace's definition of safety and craziness, showing critical thinking and confidence.",
-      "Competence": 1,
-      "Chunk": 23
-    },
-    {
-      "Action": "Repeats the urgency to leave immediately despite Candace's objections, showing decisiveness.",
-      "Competence": 1,
-      "Chunk": 23
-    },
-    {
-      "Action": "Shows concern for Candace when she shivers and asks if she is okay.",
-      "Warmth": 1,
       "Chunk": 24
     },
     {
-      "Action": "Fixes the thermostat to make Candace more comfortable.",
-      "Warmth": 1,
-      "Chunk": 24
-    },
-    {
-      "Action": "Dismisses Candace's warning about the effects of the condition by saying he is not crazy and therefore unaffected.",
-      "Warmth": -1,
-      "Chunk": 24
-    },
-    {
-      "Action": "Uses sarcasm and a threatening joke about killing Candace if he were crazy.",
-      "Warmth": -1,
-      "Chunk": 24
-    },
-    {
-      "Action": "Expresses openness to believe unusual explanations when he says 'I’d believe just about anything.'",
-      "Warmth": 0,
-      "Chunk": 24
-    },
-    {
-      "Action": "Paces anxiously but remains engaged in conversation, tries to rationalize the situation by dismissing the news and asserting he is not crazy.",
-      "Competence": 0,
-      "Chunk": 24
-    },
-    {
-      "Action": "Notices the thermostat temperature and connects it to the recurring number 13, showing pattern recognition.",
+      "Action": "Notices the unusual repetition of the number 13 and takes action to adjust the thermostat, showing awareness and responsiveness.",
       "Competence": 1,
       "Chunk": 24
     },
     {
-      "Action": "Fixes the thermostat despite it being set in Celsius, demonstrating practical action and attention to detail.",
-      "Competence": 1,
-      "Chunk": 24
-    },
-    {
-      "Action": "Acknowledges the danger as the door is being attacked and admits the door won't hold long, showing realistic assessment of the situation.",
-      "Competence": 1,
-      "Chunk": 24
-    },
-    {
-      "Action": "Asks Candace for ideas on how to escape, indicating openness to collaboration but no immediate plan presented by himself.",
+      "Action": "Shows some skepticism but remains open-minded about Candace’s information once he admits he’d believe anything at this point.",
       "Competence": 0,
       "Chunk": 24
     },
     {
-      "Action": "Insists on fighting their way through the door despite Candace's concerns.",
-      "Warmth": -1,
-      "Chunk": 25
+      "Action": "Recognizes the door won’t hold and understands they need a plan to escape, demonstrating situational awareness.",
+      "Competence": 1,
+      "Chunk": 24
     },
     {
-      "Action": "Acknowledges Candace's suggestion to wait and agrees to wait until they know it is safe.",
-      "Warmth": 1,
-      "Chunk": 25
-    },
-    {
-      "Action": "Expresses urgency to get to his daughter, showing personal motivation.",
+      "Action": "Insists they must fight their way through the door and get out, expresses strong concern to reach his daughter.",
       "Warmth": 0,
       "Chunk": 25
     },
     {
-      "Action": "Tries to silence Candace gently with a 'shh' gesture after startling her.",
+      "Action": "Observes environment carefully to find a way to see if the coast is clear, tries to protect Candace by signaling her to be quiet.",
       "Warmth": 1,
       "Chunk": 25
     },
     {
-      "Action": "Suggests making a break through the door despite danger, showing decisiveness but possibly underestimating risk.",
+      "Action": "Formulates a plan to get out despite the dangerous situation, considers fighting through or waiting, weighs options with Candace.",
+      "Competence": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Observes the door carefully, notices it is slightly off the ground, uses a broken mirror piece to look out.",
+      "Competence": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Acts quickly and decisively by breaking the mirror to get a vantage point, signaling Candace to be quiet to avoid detection.",
+      "Competence": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Pushes for action driven by emotional need (getting to his daughter) but still listens to Candace’s suggestion to wait.",
       "Competence": 0,
       "Chunk": 25
     },
     {
-      "Action": "Acknowledges Candace's suggestion to wait and agrees to wait until they know the door is clear, showing adaptability and caution.",
-      "Competence": 1,
-      "Chunk": 25
-    },
-    {
-      "Action": "Notices the door is slightly off the ground by using the mirror reflection, demonstrating observational skill and situational awareness.",
-      "Competence": 1,
-      "Chunk": 25
-    },
-    {
-      "Action": "Breaks the mirror to get a piece to see under the door, showing resourcefulness and quick thinking.",
-      "Competence": 1,
-      "Chunk": 25
-    },
-    {
-      "Action": "Tries to silence Candace after breaking the mirror, indicating awareness of stealth and control over the situation.",
-      "Competence": 1,
-      "Chunk": 25
-    },
-    {
-      "Action": "Slides mirror under door to check if coast is clear, tries to protect Candace and insists she come with him to save his daughter.",
+      "Action": "Slides piece of mirror under door to check if coast is clear, shares information with Candace",
       "Warmth": 1,
       "Chunk": 26
     },
     {
-      "Action": "Cuts off Candace when she hesitates, prioritizes his daughter over Candace, threatens to leave Candace behind if she doesn't follow.",
-      "Warmth": -1,
+      "Action": "Insists Candace come with him to be protected, expresses need to save his daughter but does not want to leave Candace behind",
+      "Warmth": 1,
       "Chunk": 26
     },
     {
-      "Action": "Slides a piece of mirror under the door to check if the coast is clear and correctly interprets the reflection.",
+      "Action": "Cuts Candace off when she hesitates, insisting on leaving now and urging her to come",
+      "Warmth": 0,
+      "Chunk": 26
+    },
+    {
+      "Action": "Uses a piece of broken mirror to check if the coast is clear before moving.",
       "Competence": 1,
       "Chunk": 26
     },
     {
-      "Action": "Decisively tells Candace they must leave and insists on protecting her while prioritizing saving his daughter.",
+      "Action": "Confidently tells Candace that the coast is clear and insists she come with him to protect her and save his daughter.",
       "Competence": 1,
       "Chunk": 26
     },
     {
-      "Action": "No direct actions or statements by Jack in this excerpt; Jack is absent from the scene.",
+      "Action": "No direct actions or statements from Jack present in the excerpt.",
       "Warmth": 0,
       "Chunk": 27
     },
     {
-      "Action": "No direct actions or statements by Jack in the excerpt; Jack is absent from the scene.",
+      "Action": "No direct actions or statements from Jack in the excerpt to evaluate competence.",
       "Competence": 0,
       "Chunk": 27
     },
     {
-      "Action": "Reassures Candace and promises to protect her because she saved him.",
+      "Action": "Takes a moment to calm himself down after Candace backs away.",
       "Warmth": 1,
-      "Chunk": 28
+      "Chunk": 29
     },
     {
-      "Action": "Tries to hold it together to be a leader and support Candace despite his own fear.",
+      "Action": "Laughs and shares a friendly moment with Candace about their leap year birthdays.",
       "Warmth": 1,
-      "Chunk": 28
+      "Chunk": 29
     },
     {
-      "Action": "Formulates a plan to open the door and take enemies out one by one, tries to lead and protect Candace despite nervousness.",
+      "Action": "Expresses frustration with the number 13 repeatedly appearing.",
+      "Warmth": 0,
+      "Chunk": 29
+    },
+    {
+      "Action": "Calms himself down after getting upset.",
       "Competence": 1,
-      "Chunk": 28
+      "Chunk": 29
     },
     {
-      "Action": "Shows visible nervousness and hesitation, shivers and gets distracted by the thermostat before opening the door.",
+      "Action": "Engages thoughtfully with Candace's detailed explanation about the calendar.",
+      "Competence": 1,
+      "Chunk": 29
+    },
+    {
+      "Action": "Asks logical questions to better understand the situation (about leap year).",
+      "Competence": 1,
+      "Chunk": 29
+    },
+    {
+      "Action": "Laughs off his own misfortune (birthday on leap year) showing good humor and adaptability.",
+      "Competence": 1,
+      "Chunk": 29
+    },
+    {
+      "Action": "Tells Candace 'Coast is clear. Let’s go,' showing a desire to protect and reassure her.",
+      "Warmth": 1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Urgently tells Candace to close the door to keep her safe during the attack.",
+      "Warmth": 1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Tries to use a scalpel to defend himself and protect Candace.",
+      "Warmth": 1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Commands Candace to help him during the fight to protect them both.",
+      "Warmth": 1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Physically struggles to shield Candace from Alex's attack, telling Alex to 'Leave her alone.'",
+      "Warmth": 1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Carefully checks outside the door before proceeding and confidently states 'Coast is clear.'",
+      "Competence": 1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Immediately responds to sudden attack by pulling Alex into the room, attempting to control the situation.",
+      "Competence": 1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Commands Candace to close the door to secure the room.",
+      "Competence": 1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Fails to block effectively when Alex punches him in the face and loses control of the scalpel.",
       "Competence": -1,
-      "Chunk": 28
+      "Chunk": 30
     },
     {
-      "Action": "Takes a moment to calm himself down after getting upset.",
-      "Warmth": 1,
-      "Chunk": 29
-    },
-    {
-      "Action": "Laughs and shares a light moment with Candace about their leap year birthdays, smiles together.",
-      "Warmth": 1,
-      "Chunk": 29
-    },
-    {
-      "Action": "Questions Candace about the calendar and listens to her explanation sincerely.",
-      "Warmth": 1,
-      "Chunk": 29
-    },
-    {
-      "Action": "Takes a moment to calm himself down after getting upset.",
+      "Action": "Attempts to strike Alex's throat or head with the scalpel during the struggle.",
       "Competence": 1,
-      "Chunk": 29
+      "Chunk": 30
     },
     {
-      "Action": "Asks questions to understand Candace's explanation about the calendar and the significance of 13/13/13.",
-      "Competence": 1,
-      "Chunk": 29
-    },
-    {
-      "Action": "Laughs and makes light of the situation, showing social ease and confidence.",
-      "Competence": 1,
-      "Chunk": 29
-    },
-    {
-      "Action": "Expresses frustration about the recurring number 13 but does not lose control.",
-      "Competence": 1,
-      "Chunk": 29
-    },
-    {
-      "Action": "Does not challenge or critically analyze Candace's detailed explanation about the calendar, accepting it at face value.",
+      "Action": "Calls out to Candace for help during the fight, showing reliance on others in a critical moment.",
       "Competence": 0,
-      "Chunk": 29
-    },
-    {
-      "Action": "Tells Candace to close the door to protect her from Alex.",
-      "Warmth": 1,
       "Chunk": 30
     },
     {
-      "Action": "Tries to defend himself and Candace from Alex's attack, including asking Candace for help.",
-      "Warmth": 1,
+      "Action": "Manages to wiggle free from Alex's chokehold while Alex is distracted.",
+      "Competence": 1,
       "Chunk": 30
     },
     {
-      "Action": "Tells Alex to leave Candace alone during the struggle.",
-      "Warmth": 1,
-      "Chunk": 30
-    },
-    {
-      "Action": "Commands Alex to leave Candace alone and threatens to kill him to protect her.",
+      "Action": "Commands Alex to leave Candace alone and confronts him to protect her.",
       "Warmth": 1,
       "Chunk": 31
     },
     {
-      "Action": "Physically defends Candace by overpowering Alex and stopping his attack.",
+      "Action": "Uses violent force to subdue Alex, repeatedly slamming a door on his head until Alex is incapacitated.",
+      "Warmth": 0,
+      "Chunk": 31
+    },
+    {
+      "Action": "Checks on Candace's well-being after the violent encounter.",
       "Warmth": 1,
       "Chunk": 31
     },
     {
-      "Action": "Shows concern for Candace's wellbeing by asking if she is okay after the fight.",
+      "Action": "Instructs Candace to keep close behind him while navigating a dangerous hospital hallway.",
       "Warmth": 1,
       "Chunk": 31
     },
     {
-      "Action": "Leads Candace safely out of the dangerous hospital area, instructing her to stay close.",
-      "Warmth": 1,
-      "Chunk": 31
-    },
-    {
-      "Action": "Calmly threatens Alex to leave Candace alone, showing confidence in a dangerous situation.",
+      "Action": "Confronts Alex and threatens him confidently to protect Candace.",
       "Competence": 1,
       "Chunk": 31
     },
     {
-      "Action": "Anticipates Alex's attack and counters effectively by launching him back with his knees.",
+      "Action": "Anticipates Alex's attack and uses his knees to launch Alex backwards.",
       "Competence": 1,
       "Chunk": 31
     },
     {
-      "Action": "Pins Alex down and uses the environment (door) as a weapon to neutralize the threat decisively.",
+      "Action": "Effectively pins Alex down and blocks his attack despite the threat of a scalpel.",
       "Competence": 1,
       "Chunk": 31
     },
     {
-      "Action": "Checks on Candace's wellbeing immediately after the fight, showing situational awareness and care.",
+      "Action": "Uses environment (door) cleverly as a weapon to overpower Alex.",
       "Competence": 1,
       "Chunk": 31
     },
     {
-      "Action": "Instructs Candace to keep close while navigating a dangerous, uncertain environment.",
+      "Action": "Checks on Candace’s wellbeing immediately after the fight.",
       "Competence": 1,
       "Chunk": 31
     },
     {
-      "Action": "Waves for Candace to hold position and not follow him into the room, ensuring her safety.",
+      "Action": "Leads Candace out cautiously through the hospital, instructing her to stay close and moving carefully.",
+      "Competence": 1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Waves Candace to hold position and not follow into the room to keep her safe.",
       "Warmth": 1,
       "Chunk": 32
     },
     {
-      "Action": "Communicates clearly with Candace about the room being clear and instructs her to cover him while he retrieves a better weapon.",
+      "Action": "Communicates clearly with Candace about the room being clear.",
       "Warmth": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Asks Candace to cover him while he gets a better weapon, showing trust and teamwork.",
+      "Warmth": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Waves Candace to hold position and not follow him into the room, carefully surveys the room before entering.",
+      "Competence": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Clearly communicates that the room is clear and coordinates with Candace to cover him while he retrieves a better weapon.",
+      "Competence": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Moves cautiously, uses the axe to open a slightly ajar door, checks corners thoroughly.",
+      "Competence": 1,
       "Chunk": 32
     },
     {
@@ -941,167 +746,157 @@
       "Chunk": 33
     },
     {
-      "Action": "Kills Meredith quickly to end her suffering and threat.",
+      "Action": "Kills Meredith quickly to end the threat.",
       "Warmth": 0,
       "Chunk": 33
     },
     {
-      "Action": "Puts Meredith’s knife in his pocket after killing her.",
+      "Action": "Presses the elevator stop button to possibly protect or control the situation.",
       "Warmth": 0,
       "Chunk": 33
     },
     {
-      "Action": "Shows concern and urgency about their escape plan, thinks carefully about the situation, and tries to reassure Candace by explaining his reasoning.",
+      "Action": "Reacted quickly to Meredith's attack, attempted to defend himself, and ultimately killed her decisively.",
+      "Competence": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Retrieves and pockets Meredith's knife after the encounter, showing foresight.",
+      "Competence": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Acknowledges Candace's help and collaborates with her, indicating situational awareness.",
+      "Competence": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Stops the elevator by hitting the stop button after Candace has already chosen the floor, demonstrating quick thinking.",
+      "Competence": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Shows concern and urgency about their escape plan, acknowledges Candace's predicament, and thinks strategically about how to survive together.",
       "Warmth": 1,
       "Chunk": 34
     },
     {
-      "Action": "Expresses upset feelings when learning Candace arrived in an ambulance, indicating empathy.",
+      "Action": "Takes initiative in leading the way and suggesting a cautious plan to protect both of them.",
       "Warmth": 1,
       "Chunk": 34
     },
     {
-      "Action": "Takes initiative to devise a practical plan to collect car keys and escape, showing responsibility and care for both of them.",
-      "Warmth": 1,
-      "Chunk": 34
-    },
-    {
-      "Action": "Stops the elevator to prevent moving into an unknown and potentially dangerous area.",
+      "Action": "Stops the elevator to avoid danger and insists on having a plan first.",
       "Competence": 1,
       "Chunk": 34
     },
     {
-      "Action": "Suggests making a plan before proceeding.",
+      "Action": "Thinks quickly to suggest collecting car keys from the dead doctors to find cars in the parking garage.",
       "Competence": 1,
       "Chunk": 34
     },
     {
-      "Action": "Thinks through the problem of transportation given Candace's injury and comes up with a plan to collect car keys from dead doctors to access their cars.",
+      "Action": "Chooses to take the stairs and sneak through the hospital on foot rather than using the elevator to avoid large groups.",
       "Competence": 1,
       "Chunk": 34
     },
     {
-      "Action": "Chooses to take the stairs and sneak through the hospital to avoid large groups of people, showing caution and strategic thinking.",
-      "Competence": 1,
-      "Chunk": 34
-    },
-    {
-      "Action": "Initially looks upset and frustrated when realizing the problem with transportation, showing emotional reaction but quickly regains composure to think of a solution.",
+      "Action": "Admits he came in an ambulance and is upset realizing their mobility is limited.",
       "Competence": 0,
       "Chunk": 34
     },
     {
-      "Action": "Hands Candace the fire axe and advises her on how to defend herself, showing concern for her safety.",
+      "Action": "Hands Candace the fire axe for protection and gives safety instructions, showing concern for her well-being.",
       "Warmth": 1,
       "Chunk": 35
     },
     {
-      "Action": "Smiles and shares a light moment with Candace, showing friendly and sincere interaction.",
+      "Action": "Apologizes to the dead receptionist when grabbing her to search for keys.",
       "Warmth": 1,
       "Chunk": 35
     },
     {
-      "Action": "Apologizes silently to the dead receptionist while searching her pockets, showing respect and remorse.",
+      "Action": "Feels embarrassed for missing to check the receptionist’s purse initially but listens to Candace’s suggestion.",
       "Warmth": 1,
       "Chunk": 35
     },
     {
-      "Action": "Feels like an idiot for not checking the purse initially, showing self-awareness and openness to correction.",
-      "Warmth": 1,
-      "Chunk": 35
-    },
-    {
-      "Action": "Hands Candace the fire axe for defense and instructs her on safety measures, showing foresight and planning.",
+      "Action": "Formulates a plan to get keys from receptionist and instructs Candace on defense and safety measures, showing foresight and leadership.",
       "Competence": 1,
       "Chunk": 35
     },
     {
-      "Action": "Confidently carries a knife found earlier and reassures Candace about his safety.",
+      "Action": "Remembers to bring a knife for protection and advises Candace to hold a fire axe, showing preparedness.",
       "Competence": 1,
       "Chunk": 35
     },
     {
-      "Action": "Attempts to pickpocket keys from the receptionist but fails to check the purse initially, showing a lapse in thoroughness.",
+      "Action": "Fails to immediately check the receptionist's purse for keys, showing a momentary lapse in thoroughness and situational awareness.",
       "Competence": -1,
       "Chunk": 35
     },
     {
-      "Action": "Looks under the desk and checks drawers after Candace suggests it, showing willingness to follow advice and problem-solve.",
+      "Action": "Accepts Candace’s suggestion to check under the desk and drawers after initial failure to find the keys, demonstrating willingness to reconsider and continue searching.",
       "Competence": 0,
       "Chunk": 35
     },
     {
-      "Action": "Takes the purse and mace from the drawer to protect himself and Candace.",
+      "Action": "Takes the purse and its mace for protection, instructs Candace to stick behind him and leads the way down the stairs, showing protective behavior.",
       "Warmth": 1,
       "Chunk": 36
     },
     {
-      "Action": "Tells Candace to stick behind him and leads the way down the stairs to ensure her safety.",
-      "Warmth": 1,
-      "Chunk": 36
-    },
-    {
-      "Action": "Warns Candace to run when danger approaches.",
-      "Warmth": 1,
-      "Chunk": 36
-    },
-    {
-      "Action": "Finds a purse in the drawer, takes keys and mace, and prepares to lead Candace down the stairs cautiously.",
+      "Action": "Finds and takes useful items (keys, mace) from the purse, showing awareness and preparation.",
       "Competence": 1,
       "Chunk": 36
     },
     {
-      "Action": "Pauses before opening the door and instructs Candace to stick behind him, showing caution and leadership.",
+      "Action": "Takes the lead entering the staircase and instructs Candace to stay behind him, showing confidence and protective instincts.",
       "Competence": 1,
       "Chunk": 36
     },
     {
-      "Action": "Checks the staircase carefully before proceeding and closes the door behind Candace.",
+      "Action": "Carefully assesses the staircase (looks up and down) before proceeding, indicating caution and situational awareness.",
       "Competence": 1,
       "Chunk": 36
     },
     {
-      "Action": "Peers over the ledge to check for danger below before continuing down the stairs.",
+      "Action": "Warns Candace to run as danger approaches, showing quick reactions and good judgment.",
       "Competence": 1,
       "Chunk": 36
     },
     {
-      "Action": "Warns Candace to run when he hears approaching danger and starts running with her.",
-      "Competence": 1,
-      "Chunk": 36
-    },
-    {
-      "Action": "Uses pepper spray to protect himself and Candace from attackers, effectively immobilizing them.",
+      "Action": "Uses pepper spray to defend himself and Candace from aggressive pursuers, effectively immobilizing all of them to escape danger.",
       "Warmth": 1,
       "Chunk": 37
     },
     {
-      "Action": "Holds Candace against the wall to protect her from danger.",
+      "Action": "Holds Candace close to protect her from a violent woman stabbing a doctor, showing protective behavior.",
       "Warmth": 1,
       "Chunk": 37
     },
     {
-      "Action": "Focuses on survival and escape, instructs Candace to collect car keys from dead doctors.",
+      "Action": "Directs Candace to collect the car keys from dead doctors, showing pragmatic survival focus without hesitation.",
       "Warmth": 0,
       "Chunk": 37
     },
     {
-      "Action": "Uses pepper spray effectively to immobilize multiple attackers and escape with Candace.",
+      "Action": "Uses pepper spray effectively to immobilize multiple threats and quickly escapes with Candace, showing tactical thinking and quick reflexes.",
       "Competence": 1,
       "Chunk": 37
     },
     {
-      "Action": "Presses his body against the wall and carefully scouts the lobby before moving forward.",
+      "Action": "Presses his body against the wall, cautiously scouts the area, and protects Candace from a threatening woman, demonstrating situational awareness and protective behavior.",
       "Competence": 1,
       "Chunk": 37
     },
     {
-      "Action": "Quickly instructs Candace to gather car keys from the doctors to facilitate their escape.",
+      "Action": "Immediately instructs Candace to retrieve car keys from dead doctors to facilitate escape, showing quick problem-solving and forward planning.",
       "Competence": 1,
       "Chunk": 37
     },
     {
-      "Action": "Tosses keys to Candace and compliments her with 'Nice catch.'",
+      "Action": "Tosses keys to Candace and compliments her catching them.",
       "Warmth": 1,
       "Chunk": 38
     },
@@ -1111,669 +906,531 @@
       "Chunk": 38
     },
     {
-      "Action": "Refuses to change the subject when Candace presses him to talk.",
+      "Action": "Acknowledges the difficulty of talking about his past but still opens up to Candace.",
       "Warmth": 1,
       "Chunk": 38
     },
     {
-      "Action": "Focuses on practical survival actions (grabbing keys from dead doctors) without showing emotional connection beyond brief moments.",
-      "Warmth": 0,
-      "Chunk": 38
-    },
-    {
-      "Action": "Rejects Candace's attempt to get to know him, laughs off her effort, causing her displeasure.",
+      "Action": "Rejects Candace's attempt to get close, laughs off her sincerity, causing her to be displeased.",
       "Warmth": -1,
       "Chunk": 39
     },
     {
-      "Action": "Shares a personal story about risking his safety to help a woman in danger despite consequences.",
-      "Warmth": 1,
-      "Chunk": 39
-    },
-    {
-      "Action": "Decides to check out a suspicious situation despite partner's warning, runs towards the house with gun drawn to intervene in a possible crime.",
-      "Competence": 1,
-      "Chunk": 39
-    },
-    {
-      "Action": "Was kicked off the police force due to excessive force, indicating poor judgment or inability to control actions.",
-      "Competence": -1,
-      "Chunk": 39
-    },
-    {
-      "Action": "Laughs off Candace's attempt to connect, rejecting emotional openness which may indicate social or emotional incompetence.",
-      "Competence": -1,
-      "Chunk": 39
-    },
-    {
-      "Action": "Surveys Candace carefully while she searches the doctor’s pockets, showing situational awareness and observational skills.",
-      "Competence": 1,
-      "Chunk": 39
-    },
-    {
-      "Action": "Pulled the perp off the woman and physically defended her despite personal consequences.",
-      "Warmth": 1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Expressed regret over losing his job and wife but justified his violent action to protect the victim.",
-      "Warmth": 1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Approaches the house with gun drawn and cautiously hugs the wall to avoid detection.",
-      "Competence": 1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Identifies and intervenes to stop the perp attacking the woman, physically subdues and kills him.",
-      "Competence": 1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Reflects on the consequences of his actions (losing job and wife) but accepts them as fair trade.",
-      "Competence": 0,
-      "Chunk": 40
-    },
-    {
-      "Action": "Decides they have enough keys and initiates moving towards the garage to exit.",
-      "Competence": 1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Expresses frustration verbally when confronted by a man running out towards them.",
-      "Competence": 0,
-      "Chunk": 40
-    },
-    {
-      "Action": "Turns to assess the threat of three crazed people running towards them, showing situational awareness.",
-      "Competence": 1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Tells Candace to run and tries to protect her from the crazies.",
-      "Warmth": 1,
-      "Chunk": 41
-    },
-    {
-      "Action": "Uses mace to stop the crazies from following them.",
+      "Action": "Shows signs of cautiousness about emotional intimacy ('Wouldn’t it be easier if we didn’t know too much about each other').",
       "Warmth": 0,
-      "Chunk": 41
+      "Chunk": 39
     },
     {
-      "Action": "Encourages Candace to use car alarms to confuse the crazies and keep them safe.",
+      "Action": "Tells Candace a personal story about being kicked off the force for excessive force, demonstrating some openness.",
+      "Warmth": 1,
+      "Chunk": 39
+    },
+    {
+      "Action": "Risked personal safety by intervening when he heard a woman scream despite the risk of blowing a police operation.",
+      "Warmth": 1,
+      "Chunk": 39
+    },
+    {
+      "Action": "Approaches a dangerous situation cautiously by hugging the wall before confronting the perp.",
+      "Competence": 1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Intervenes decisively and physically to stop the perp attacking the woman, successfully neutralizing the threat.",
+      "Competence": 1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Recognizes consequences of his actions rationally (losing job and wife) but values saving the victim more.",
+      "Competence": 1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Quickly decides to move on to the garage with Candace after securing keys, showing forward planning.",
+      "Competence": 1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Exhibits momentary frustration or disbelief ('You have got to be shitting me.') at sudden new threat, suggesting some surprise or loss of composure.",
+      "Competence": 0,
+      "Chunk": 40
+    },
+    {
+      "Action": "Urges Candace to run and helps by leading and trying to slow down the pursuers; uses mace as a defensive tool and guides Candace calmly through the parking garage.",
       "Warmth": 1,
       "Chunk": 41
     },
     {
-      "Action": "Shakes his head disapprovingly at aggressive behavior, tries to devise a plan to help Candace.",
+      "Action": "Commands Candace to run and leads the escape, uses mace to stop pursuers, strategically moves into the parking garage and instructs Candace to trigger car alarms to confuse enemies.",
+      "Competence": 1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Runs in a panic into the parking garage, indicating stress but maintains tactical thinking under pressure.",
+      "Competence": 1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Shakes his head disapprovingly at the crazies' behavior and intently stares at the situation, trying to devise a plan to help Candace.",
       "Warmth": 1,
       "Chunk": 42
     },
     {
-      "Action": "Does not intervene immediately when Candace is grabbed and dragged by the crazies.",
+      "Action": "Tries to devise a plan while surveying the situation carefully.",
+      "Competence": 1,
+      "Chunk": 42
+    },
+    {
+      "Action": "Is about to move out from behind the car after Candace is captured, indicating readiness to act.",
+      "Competence": 1,
+      "Chunk": 42
+    },
+    {
+      "Action": "Hugs Staircase Crazy #4 and repeatedly stabs him to death.",
       "Warmth": -1,
-      "Chunk": 42
+      "Chunk": 43
     },
     {
-      "Action": "Shakes his head at the escalating situation, intently stares at the approaching threat, tries to devise a plan while surveying the situation.",
-      "Competence": 1,
-      "Chunk": 42
-    },
-    {
-      "Action": "Is about to move out from behind the car despite the hostage situation, indicating readiness to act.",
-      "Competence": 1,
-      "Chunk": 42
-    },
-    {
-      "Action": "Emerges from behind the car and starts walking towards Candace while holding his knife tightly, indicating readiness to act.",
+      "Action": "Emerges from behind the car and starts walking towards Candace while holding a knife tightly, showing readiness to intervene.",
       "Competence": 1,
       "Chunk": 43
     },
     {
-      "Action": "Sneaks up behind Staircase Crazy #2 and kills him to protect Candace and himself.",
+      "Action": "Sneaks up behind Staircase Crazy #2 and fatally stabs him to protect Candace and Staircase Crazy #3.",
       "Warmth": 1,
       "Chunk": 44
     },
     {
-      "Action": "Acknowledges Candace saved him twice and insists on reciprocating.",
+      "Action": "Acknowledges Candace saved him twice and expresses gratitude.",
       "Warmth": 1,
       "Chunk": 44
     },
     {
-      "Action": "Offers to drive because of his experience as a cop to get them to safety faster.",
+      "Action": "Offers to drive and recalls being a cop, demonstrating responsibility to ensure safety.",
       "Warmth": 1,
       "Chunk": 44
     },
     {
-      "Action": "Sneaks up behind Staircase Crazy #2 and kills him efficiently with a knife.",
+      "Action": "Sneaks up behind Staircase Crazy #2 while he is distracted and successfully kills him with a knife to save Candace.",
       "Competence": 1,
       "Chunk": 44
     },
     {
-      "Action": "Grabs the enemy's knife and pockets it after the kill.",
+      "Action": "Catches keys thrown by Candace and confidently takes the wheel, stating he was a cop and can get them out faster.",
       "Competence": 1,
       "Chunk": 44
     },
     {
-      "Action": "Confidently offers to drive, citing his experience as a cop.",
+      "Action": "Drives away quickly and aggressively, running over a dead body in the parking lot while escaping.",
       "Competence": 1,
       "Chunk": 44
     },
     {
-      "Action": "Catches the keys thrown to him without hesitation.",
-      "Competence": 1,
-      "Chunk": 44
-    },
-    {
-      "Action": "Drives quickly and decisively to escape the dangerous situation.",
-      "Competence": 1,
-      "Chunk": 44
-    },
-    {
-      "Action": "Plans to pick up his daughter Kendra and find a safe place, showing concern for family and others' safety.",
+      "Action": "Plans to pick up his daughter Kendra and find a safe place to survive the chaos, showing concern and hope.",
       "Warmth": 1,
       "Chunk": 45
     },
     {
-      "Action": "Cuts off Candace when she expresses worry, indicating impatience or intolerance.",
+      "Action": "Cuts off Candace when she expresses worry, saying 'We can’t think like that... I can’t think like that.'",
       "Warmth": -1,
       "Chunk": 45
     },
     {
-      "Action": "Swerves the car skillfully multiple times to avoid accidents in chaotic traffic.",
-      "Competence": 1,
+      "Action": "Expresses determination to protect his family and find safety despite the dangerous circumstances.",
+      "Warmth": 1,
       "Chunk": 45
     },
     {
-      "Action": "Formulates a clear plan to get Kendra and then move to safer locations, showing foresight and adaptability.",
-      "Competence": 1,
-      "Chunk": 45
-    },
-    {
-      "Action": "Cuts off Candace to maintain focus and control over the situation, demonstrating decisiveness.",
-      "Competence": 1,
-      "Chunk": 45
-    },
-    {
-      "Action": "Stops the car at his house despite it being surrounded and dangerous, showing willingness to confront difficult situations.",
-      "Competence": 1,
-      "Chunk": 45
-    },
-    {
-      "Action": "Does not immediately panic or give up despite the house being boarded up and surrounded, indicating mental resilience and situational awareness.",
-      "Competence": 1,
-      "Chunk": 45
-    },
-    {
-      "Action": "Insists on getting his daughter despite danger, moves cautiously to protect others.",
+      "Action": "Insists on retrieving his daughter despite danger, tries to protect friends inside house.",
       "Warmth": 1,
       "Chunk": 46
     },
     {
-      "Action": "Keeps watchful and careful to avoid detection, showing concern for safety.",
+      "Action": "Approaches a potentially threatening homeless man cautiously without aggression.",
       "Warmth": 1,
       "Chunk": 46
     },
     {
-      "Action": "Keeps eyes continuously shifting to monitor threats while moving stealthily around the house.",
+      "Action": "Carefully scouts the area around his house, remains undetected while assessing threats, notices important details like chalk drawings, locates friends inside the house, and cautiously approaches a suspicious armed stranger.",
       "Competence": 1,
       "Chunk": 46
     },
     {
-      "Action": "Ducks down quickly and moves cautiously to avoid detection.",
-      "Competence": 1,
-      "Chunk": 46
-    },
-    {
-      "Action": "Approaches a potentially dangerous armed stranger cautiously.",
-      "Competence": 1,
-      "Chunk": 46
-    },
-    {
-      "Action": "Calls out for his daughter despite Candace warning not to attract attention.",
+      "Action": "Calls out loudly for his daughter despite the risk of alerting enemies, potentially compromising stealth.",
       "Competence": -1,
       "Chunk": 46
     },
     {
-      "Action": "Holds his knife tightly and raises it when confronted by Homeless Man Jake, showing readiness to defend but also tension.",
+      "Action": "Holds knife tightly and raises it defensively when confronted by Homeless Man Jake",
       "Warmth": 0,
       "Chunk": 47
     },
     {
-      "Action": "Pauses before using the key to the back door, indicating caution or hesitation.",
+      "Action": "Pauses before using the key at the back door, suggesting caution",
       "Warmth": 0,
       "Chunk": 47
     },
     {
-      "Action": "Holds his knife tightly and raises it when threatened, showing readiness to defend himself.",
-      "Competence": 1,
-      "Chunk": 47
+      "Action": "Smiles back at Candace after she winks at him, sharing a lingering stare.",
+      "Warmth": 1,
+      "Chunk": 48
     },
     {
-      "Action": "Pauses before using the key on the back door, indicating caution and thoughtfulness.",
-      "Competence": 1,
-      "Chunk": 47
+      "Action": "Walks up to Joe and Quentin with weapons ready, showing cautiousness but no overt hostility.",
+      "Warmth": 0,
+      "Chunk": 48
     },
     {
-      "Action": "Questions the homeless man Jake about the situation, showing some confusion about what to do.",
+      "Action": "Finds and uses the key to enter the back door confidently.",
+      "Competence": 1,
+      "Chunk": 48
+    },
+    {
+      "Action": "Approaches Joe and Quentin with weapons at the ready, demonstrating alertness but underestimates the danger by saying 'They look okay' despite Candace's warning.",
       "Competence": 0,
-      "Chunk": 47
-    },
-    {
-      "Action": "Smiles back at Candace after a lingering stare and wink, showing friendly and warm interaction.",
-      "Warmth": 1,
       "Chunk": 48
     },
     {
-      "Action": "Enters the house calmly and cautiously with Candace, showing trust and cooperation.",
-      "Warmth": 1,
-      "Chunk": 48
-    },
-    {
-      "Action": "Approaches wounded Joe and Quentin with weapons ready but does not act aggressively, indicating cautious concern.",
-      "Warmth": 0,
-      "Chunk": 48
-    },
-    {
-      "Action": "Takes the key from the rock and uses it to open the back door of the house, showing initiative and practical problem-solving.",
-      "Competence": 1,
-      "Chunk": 48
-    },
-    {
-      "Action": "Responds confidently to Candace's question with 'Yeah, Everything’s fine,' maintaining composure.",
-      "Competence": 1,
-      "Chunk": 48
-    },
-    {
-      "Action": "Enters the house cautiously with Candace, weapons at the ready when approaching Quentin and Joe, showing situational awareness.",
-      "Competence": 1,
-      "Chunk": 48
-    },
-    {
-      "Action": "Dismisses Candace's warning about Quentin and Joe being affected, saying 'They look okay,' which may indicate underestimating a potential threat.",
-      "Competence": -1,
-      "Chunk": 48
-    },
-    {
-      "Action": "Calmly asks Quentin to put down the gun, trying to de-escalate the situation.",
+      "Action": "Calmly asks Quentin to put down the gun pointed at Candace.",
       "Warmth": 1,
       "Chunk": 49
     },
     {
-      "Action": "Shows concern for Joe's health by asking what happened to him.",
+      "Action": "Shows concern for Joe's health after hearing him cough.",
       "Warmth": 1,
       "Chunk": 49
     },
     {
-      "Action": "Questions Quentin's false war story, showing skepticism but not hostility.",
-      "Warmth": 0,
+      "Action": "Questions Quentin about his story gently, indicating care and disbelief but no hostility.",
+      "Warmth": 1,
       "Chunk": 49
     },
     {
-      "Action": "Calmly asks Quentin to put down the gun, successfully de-escalating a tense situation.",
-      "Competence": 1,
-      "Chunk": 49
-    },
-    {
-      "Action": "Confidently asserts ownership of the house and explains how he entered, showing awareness and control.",
-      "Competence": 1,
-      "Chunk": 49
-    },
-    {
-      "Action": "Questions the validity of Quentin and Joe's war stories, showing critical thinking and skepticism.",
-      "Competence": 1,
-      "Chunk": 49
-    },
-    {
-      "Action": "Surveys the room and notices the ominous 13’s painted in blood, indicating alertness and attention to detail.",
-      "Competence": 1,
-      "Chunk": 49
-    },
-    {
-      "Action": "Appears concerned but does not take immediate action regarding Joe's coughing or the gunshot at the door.",
-      "Competence": 0,
-      "Chunk": 49
-    },
-    {
-      "Action": "Asks about everyone's condition and shows concern for others' wellbeing.",
+      "Action": "Asks about the wellbeing of others (Joe, Kendra), showing concern.",
       "Warmth": 1,
       "Chunk": 50
     },
     {
-      "Action": "Expresses deep worry and urgency about finding his daughter.",
-      "Warmth": 1,
-      "Chunk": 50
-    },
-    {
-      "Action": "Pushes Candace away when she tries to comfort him, showing emotional struggle.",
-      "Warmth": 0,
-      "Chunk": 50
-    },
-    {
-      "Action": "Snatches Quentin’s gun away to assert control and protect himself and others.",
-      "Warmth": 0,
-      "Chunk": 50
-    },
-    {
-      "Action": "Points a gun at Quentin and threatens to kill him if he doesn’t calm down.",
+      "Action": "Pushes Candace away when she tries to comfort him during his distress about his daughter.",
       "Warmth": -1,
       "Chunk": 50
     },
     {
-      "Action": "Warns Quentin about the front door being breached, attempts to coordinate defense and protect others.",
-      "Warmth": 1,
-      "Chunk": 51
+      "Action": "Snatches gun from Quentin to prevent further escalation, trying to control the situation.",
+      "Warmth": 0,
+      "Chunk": 50
     },
     {
-      "Action": "Shoots intruders to protect the house and people inside.",
+      "Action": "Points a gun at Quentin and demands he calm down.",
+      "Warmth": -1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Quickly snatches Quentin’s gun away when Quentin becomes a threat.",
+      "Competence": 1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Points gun at Quentin and attempts to calm him down, showing control in a tense situation.",
+      "Competence": 1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Pushes Candace away when she tries to comfort him, indicating emotional instability under stress.",
+      "Competence": -1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Repeatedly shows emotional distress and breaks down about his daughter, showing difficulty maintaining composure.",
+      "Competence": -1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Directly threatens Quentin with lethal force as a last resort to control the situation.",
+      "Competence": 0,
+      "Chunk": 50
+    },
+    {
+      "Action": "Warns Quentin clearly about the gun and threats.",
       "Warmth": 0,
       "Chunk": 51
     },
     {
-      "Action": "Tells Candace it is too dangerous to close the door, showing concern for her safety.",
+      "Action": "Shoots multiple intruders, including a woman through the throat, without hesitation.",
+      "Warmth": -1,
+      "Chunk": 51
+    },
+    {
+      "Action": "Attempts to provide cover fire so Candace can close the door safely.",
       "Warmth": 1,
       "Chunk": 51
     },
     {
-      "Action": "Offers to lay down cover fire to protect Candace while she closes the door.",
+      "Action": "Calls Candace back when out of ammo to protect her.",
       "Warmth": 1,
       "Chunk": 51
     },
     {
-      "Action": "Calls Candace back when out of ammo, trying to prevent her from being harmed.",
-      "Warmth": 1,
-      "Chunk": 51
-    },
-    {
-      "Action": "Shoots a dead body multiple times, possibly out of caution or aggression.",
+      "Action": "Unloads remaining bullets into a dead body, possibly to prevent a threat.",
       "Warmth": 0,
       "Chunk": 51
     },
     {
-      "Action": "Shoots an intruder in the face accurately during a sudden attack.",
+      "Action": "Accurately shoots an intruder in the face quickly during a sudden attack.",
       "Competence": 1,
       "Chunk": 51
     },
     {
-      "Action": "Recognizes the danger of the front door being open and alerts others.",
+      "Action": "Recognizes the threat posed by people flooding in through the front door immediately.",
       "Competence": 1,
       "Chunk": 51
     },
     {
-      "Action": "Instructs others to close the door and coordinate cover fire.",
+      "Action": "Orders to lay down cover fire to protect Candace while she attempts to close the door.",
       "Competence": 1,
       "Chunk": 51
     },
     {
-      "Action": "Runs out of ammo during a critical moment and cannot maintain cover fire.",
+      "Action": "Runs out of ammunition and cannot continue providing cover fire.",
       "Competence": -1,
       "Chunk": 51
     },
     {
-      "Action": "Unloads remaining bullets into a dead body, possibly wasting ammo.",
+      "Action": "Unloads remaining bullets into a dead body, potentially wasting ammo instead of saving for live threats.",
       "Competence": -1,
       "Chunk": 51
     },
     {
-      "Action": "Runs towards Candace to protect her from danger, throws knife to stop attacker.",
+      "Action": "Communicates clearly and tries to coordinate with Candace and Quentin.",
+      "Competence": 1,
+      "Chunk": 51
+    },
+    {
+      "Action": "Shouts a warning to Candace to duck and throws his knife to protect her from the approaching crazy person.",
       "Warmth": 1,
       "Chunk": 52
     },
     {
-      "Action": "Encourages Candace and Quentin to help barricade the door, showing concern for group safety.",
+      "Action": "Encourages Candace and others to push furniture to barricade the door against attacking crazies, showing concern for group safety.",
       "Warmth": 1,
       "Chunk": 52
     },
     {
-      "Action": "Presses down on dead person's face to stabilize knife and cleans blade on shirt, showing practical but somewhat callous behavior.",
+      "Action": "Urgently calls out to Quentin for help despite Quentin being affected, showing persistence and reliance on group members.",
+      "Warmth": 1,
+      "Chunk": 52
+    },
+    {
+      "Action": "Presses down on a dead person's face to remove a lodged knife and cleans it on his shirt without visible disgust or hesitation.",
       "Warmth": 0,
       "Chunk": 52
     },
     {
-      "Action": "Frustrated and demanding Quentin to help despite Quentin being affected, showing urgency but little tolerance.",
-      "Warmth": 0,
+      "Action": "Throws knife accurately, hitting a charging attacker in the head and neutralizing threat.",
+      "Competence": 1,
       "Chunk": 52
     },
     {
-      "Action": "Rushes to help Joe, refuses to leave him behind despite Joe's urging.",
-      "Warmth": 1,
-      "Chunk": 53
-    },
-    {
-      "Action": "Attempts to stop Quentin from killing Joe, shows concern for others' safety.",
-      "Warmth": 1,
-      "Chunk": 53
-    },
-    {
-      "Action": "Says 'I’m sorry about this, Quentin' after being slashed, showing remorse or regret.",
-      "Warmth": 1,
-      "Chunk": 53
-    },
-    {
-      "Action": "Draws his knife and approaches Quentin after Joe's death, escalating confrontation.",
-      "Warmth": 0,
-      "Chunk": 53
-    },
-    {
-      "Action": "Tells Quentin 'It doesn’t have to be like this,' trying to de-escalate the situation.",
-      "Warmth": 1,
-      "Chunk": 53
-    },
-    {
-      "Action": "Moves furniture in front of the door just in time to block attackers.",
+      "Action": "Quickly recognizes danger at the door and takes immediate action to block it with furniture.",
       "Competence": 1,
-      "Chunk": 53
+      "Chunk": 52
     },
     {
-      "Action": "Rushes to help Joe and attempts to put pressure on his wound.",
+      "Action": "Encourages others to act quickly under pressure, showing leadership and decisiveness.",
       "Competence": 1,
-      "Chunk": 53
+      "Chunk": 52
     },
     {
-      "Action": "Lunges at Quentin after Joe is killed but gets slashed and wounded.",
+      "Action": "Fails to get Quentin to assist, possibly indicating overreliance or failure to effectively communicate in critical moments.",
       "Competence": 0,
-      "Chunk": 53
+      "Chunk": 52
     },
     {
-      "Action": "Takes out his knife and approaches Quentin to de-escalate the situation verbally.",
-      "Competence": 1,
-      "Chunk": 53
-    },
-    {
-      "Action": "Cradles his wounded arm and apologizes to Quentin despite being attacked.",
+      "Action": "Grimaces and verbally expresses frustration in response to ammo shortage and growing danger.",
       "Competence": 0,
+      "Chunk": 52
+    },
+    {
+      "Action": "Moves furniture to barricade door against attackers.",
+      "Warmth": 1,
       "Chunk": 53
     },
     {
-      "Action": "Tries to reason with Quentin and de-escalate the situation by telling him to put the knife down.",
+      "Action": "Rushes to help Joe who is injured, refuses to leave him behind.",
+      "Warmth": 1,
+      "Chunk": 53
+    },
+    {
+      "Action": "Tries to stop Quentin from killing Joe and de-escalate the situation.",
+      "Warmth": 1,
+      "Chunk": 53
+    },
+    {
+      "Action": "Attempts to physically confront Quentin to prevent further harm, despite being injured.",
+      "Warmth": 1,
+      "Chunk": 53
+    },
+    {
+      "Action": "Expresses distress and sorrow over Kendra's death, calls Quentin a 'bastard' for killing his daughter.",
       "Warmth": 1,
       "Chunk": 54
     },
     {
-      "Action": "Shows deep emotional pain and anger after Quentin kills his daughter Kendra, calling out Quentin's actions.",
+      "Action": "Attempts to de-escalate by telling Quentin to put the knife down.",
       "Warmth": 1,
       "Chunk": 54
     },
     {
-      "Action": "Freezes when threatened with a gun but still confronts Quentin, showing concern and protective instincts.",
+      "Action": "Freezes when seeing Kendra trying to enter, shows protective concern ('Kendra, baby it’s going to be okay').",
       "Warmth": 1,
       "Chunk": 54
     },
     {
-      "Action": "Calls Quentin 'bastard' and threatens to kill him, showing intense anger and aggression.",
+      "Action": "Threatens to kill Quentin after Kendra's death and during confrontation.",
       "Warmth": -1,
       "Chunk": 54
     },
     {
-      "Action": "Commands Quentin to leave Candace alone and intervenes to protect her from assault.",
+      "Action": "Commands Quentin to leave Candace alone and attempts to protect her despite his own injury.",
       "Warmth": 1,
       "Chunk": 55
     },
     {
-      "Action": "Shows strong emotional response to Candace's cries and struggles to get up despite injury to help her.",
+      "Action": "Shows strong emotional response to Candace's suffering and tries to intervene physically to stop the violence.",
       "Warmth": 1,
       "Chunk": 55
     },
     {
-      "Action": "Checks on Candace's wellbeing after rescuing her.",
+      "Action": "Checks on Candace's condition with concern after the attack.",
       "Warmth": 1,
       "Chunk": 55
     },
     {
-      "Action": "Swings his knife at Quentin but Quentin blocks and knocks it away; Jack is stabbed in the stomach and groans.",
-      "Competence": -1,
-      "Chunk": 55
-    },
-    {
-      "Action": "Despite being stabbed and injured, Jack tries to get up and is motivated by Candace's cries to struggle.",
-      "Competence": 1,
-      "Chunk": 55
-    },
-    {
-      "Action": "Throws Quentin off Candace, protecting her from further harm.",
-      "Competence": 1,
-      "Chunk": 55
-    },
-    {
-      "Action": "Checks on Candace to ensure she is okay after the attack.",
-      "Competence": 1,
-      "Chunk": 55
-    },
-    {
-      "Action": "Uses a wrestling move to throw Quentin to the ground and gains a dominant position.",
-      "Competence": 1,
-      "Chunk": 55
-    },
-    {
-      "Action": "Is vulnerable to Quentin's finger digging into his wound, causing him to scream and lose composure.",
-      "Competence": -1,
-      "Chunk": 55
-    },
-    {
-      "Action": "Swats Quentin’s hand away from his wound, then violently attacks Quentin after he is dead.",
+      "Action": "Swats Quentin’s hand away from his wound, then relentlessly punches Quentin’s lifeless face.",
       "Warmth": -1,
       "Chunk": 56
     },
     {
-      "Action": "Calms down after Candace puts her hand on his shoulder and listens to her.",
+      "Action": "Allows Candace to put a hand on his shoulder and eventually throws his arm around her for support.",
       "Warmth": 1,
       "Chunk": 56
     },
     {
-      "Action": "Throws his arm around Candace to be helped to walk despite his weakness.",
+      "Action": "Tells Candace to grab the axe and knife to defend themselves, showing concern for their safety.",
       "Warmth": 1,
       "Chunk": 56
     },
     {
-      "Action": "Encourages Candace to grab weapons for their safety, showing concern for their survival.",
+      "Action": "Tells Candace he is fine to prevent her worry despite being very weak.",
       "Warmth": 1,
       "Chunk": 56
     },
     {
-      "Action": "Downplays his own pain and weakness to avoid slowing Candace down.",
-      "Warmth": 1,
-      "Chunk": 56
-    },
-    {
-      "Action": "Allows Candace to help him up despite his pain and weakness.",
-      "Warmth": 1,
-      "Chunk": 57
-    },
-    {
-      "Action": "Expresses concern about slowing Candace down and suggests she leave him behind.",
-      "Warmth": 0,
-      "Chunk": 57
-    },
-    {
-      "Action": "Reluctantly gives Candace the car keys and accepts her help getting into the car.",
-      "Warmth": 1,
-      "Chunk": 57
-    },
-    {
-      "Action": "Despite being injured and slow, Jack stays focused on escaping and does not panic.",
+      "Action": "Remains calm under pressure, assesses situation and cooperates with Candace to escape undetected.",
       "Competence": 1,
       "Chunk": 57
     },
     {
-      "Action": "Acknowledges his physical limitations and allows Candace to take over driving, showing good judgment.",
+      "Action": "Acknowledges his physical limitations and willingly hands over the car keys trusting Candace to drive.",
       "Competence": 1,
       "Chunk": 57
     },
     {
-      "Action": "Initially resists help getting into the car but ultimately accepts it, showing some stubbornness but also adaptability.",
+      "Action": "Initially insists he can manage getting into the car by himself despite being hurt and slow.",
       "Competence": 0,
       "Chunk": 57
     },
     {
-      "Action": "Suggests Candace leave him behind, showing a lack of confidence in his own usefulness at the moment.",
+      "Action": "Expresses self-doubt and suggests leaving behind, indicating a momentary loss of confidence.",
       "Competence": -1,
       "Chunk": 57
     },
     {
-      "Action": "Encourages Candace to keep trying to start the car despite the danger.",
+      "Action": "Encourages Candace to keep trying to start the car despite the danger, showing support and urgency.",
       "Warmth": 1,
       "Chunk": 58
     },
     {
-      "Action": "Shows concern for Candace's wellbeing by responding to her laughter and asking if she is okay.",
+      "Action": "Shows concern when Candace laughs after driving off, asking if she is okay.",
       "Warmth": 1,
       "Chunk": 58
     },
     {
-      "Action": "Focuses on memories of his past life, showing introspection but no direct interaction or comfort towards Candace in that moment.",
+      "Action": "Internally reflects on the life he left behind, indicating emotional depth and vulnerability.",
+      "Warmth": 1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Responds slowly and thoughtfully to Candace's hope that the events were just for one day, showing reflective engagement.",
+      "Warmth": 1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Expresses regret and self-criticism for killing his wife and others, acknowledging impatience.",
+      "Warmth": 1,
+      "Chunk": 59
+    },
+    {
+      "Action": "Agrees to try the next town over with Candace, participates in lighthearted banter and smiles.",
+      "Warmth": 1,
+      "Chunk": 59
+    },
+    {
+      "Action": "Withdraws and becomes unresponsive while seriously wounded without engaging Candace's attempts to comfort him.",
       "Warmth": 0,
-      "Chunk": 58
-    },
-    {
-      "Action": "Encourages Candace to keep trying to start the car under pressure, remains calm and focused as danger approaches.",
-      "Competence": 1,
-      "Chunk": 58
-    },
-    {
-      "Action": "Does not attempt to start the car himself or suggest alternative escape plans, relies solely on Candace.",
-      "Competence": -1,
-      "Chunk": 58
-    },
-    {
-      "Action": "Expresses regret and self-blame for killing his wife and others, showing remorse and reflection.",
-      "Warmth": 1,
       "Chunk": 59
     },
     {
-      "Action": "Admits impatience and acknowledges that waiting could have avoided tragedy.",
-      "Warmth": 1,
-      "Chunk": 59
-    },
-    {
-      "Action": "Engages in lighthearted banter with Candace, sharing a laugh and a hopeful attitude about the next town.",
-      "Warmth": 1,
-      "Chunk": 59
-    },
-    {
-      "Action": "Withdraws and becomes unresponsive after injury, showing no interaction or reassurance to Candace in a critical moment.",
-      "Warmth": -1,
-      "Chunk": 59
-    },
-    {
-      "Action": "Reflects on the consequences of his actions and expresses regret about killing people unnecessarily.",
+      "Action": "Expresses regret over killing people out of impatience rather than necessity, showing thoughtful reflection.",
       "Competence": 1,
       "Chunk": 59
     },
     {
-      "Action": "Admits impatience led to violence instead of waiting, showing self-awareness but also poor judgment.",
+      "Action": "Thinks about the situation and suggests moving to a different town potentially unaffected by the disaster.",
+      "Competence": 1,
+      "Chunk": 59
+    },
+    {
+      "Action": "Draws something on the car window, appears distracted or preoccupied.",
       "Competence": 0,
       "Chunk": 59
     },
     {
-      "Action": "Thinks about next steps and suggests leaving the current location, showing some planning ability.",
-      "Competence": 1,
-      "Chunk": 59
-    },
-    {
-      "Action": "Draws something on the window and then becomes unresponsive due to severe injury, failing to communicate or act further.",
+      "Action": "Loses consciousness due to injury and is unresponsive, failing to take care of himself.",
       "Competence": -1,
       "Chunk": 59
+    }
+  ],
+  "Jack ": [
+    {
+      "Action": "Calms himself down despite panic and moves cautiously toward the door.",
+      "Competence": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Turns the doorknob slowly despite unsure circumstances, showing initiative.",
+      "Competence": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Tries to barricade himself when the door locks behind him, attempting to protect himself.",
+      "Competence": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Reacts with panic and slowly backs away from danger instead of quickly escaping or fighting.",
+      "Competence": 0,
+      "Chunk": 19
+    },
+    {
+      "Action": "Fends off Candace with a stool initially before realizing she is not a threat, showing momentary mistrust but cautious behavior.",
+      "Competence": 0,
+      "Chunk": 19
+    },
+    {
+      "Action": "Asks logical questions about the situation (about the dead boy and the chaos), showing analytical thinking.",
+      "Competence": 1,
+      "Chunk": 19
     }
   ]
 }

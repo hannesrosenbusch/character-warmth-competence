@@ -1,432 +1,442 @@
 {
-  "Irena Dubrovna Reed": [
+  "Irena Dubrovna": [
     {
-      "Action": "Smiles and drops the wad of paper into Oliver's hand, thanks him politely.",
+      "Action": "Smiles politely and thanks Oliver when he catches the wad of paper for her.",
       "Warmth": 1,
       "Chunk": 2
     },
     {
-      "Action": "Focused on sketching and observing the panther, does not notice Oliver approaching.",
+      "Action": "Focuses intently on sketching and does not notice Oliver approaching.",
       "Warmth": 0,
       "Chunk": 2
     },
     {
-      "Action": "Focuses intently on sketching the panther, showing concentration and dedication to her task.",
+      "Action": "Is busily sketching the panther with intent and focus on its movements.",
       "Competence": 1,
       "Chunk": 2
     },
     {
-      "Action": "Frowns at her drawing and discards it, indicating self-criticism and possible dissatisfaction with her skill.",
+      "Action": "Frowns at her drawing, crumples it into a ball, and passes it to Oliver instead of discarding it herself.",
+      "Competence": 0,
+      "Chunk": 2
+    },
+    {
+      "Action": "Does not notice Oliver approaching and stepping aside, indicating some inattentiveness to social cues.",
       "Competence": -1,
       "Chunk": 2
     },
     {
-      "Action": "Does not notice Oliver approaching, suggesting a lack of situational awareness.",
-      "Competence": -1,
-      "Chunk": 2
-    },
-    {
-      "Action": "Politely thanks Oliver and drops the wad of paper into his hand, showing social grace and composure.",
-      "Competence": 1,
-      "Chunk": 2
-    },
-    {
-      "Action": "Smiles at Oliver and laughs during their interaction, showing a friendly and lighthearted demeanor.",
+      "Action": "Smiles at Oliver before tearing her drawing, expressing modesty and vulnerability about her art.",
       "Warmth": 1,
       "Chunk": 3
     },
     {
-      "Action": "Shakes her head and tears up her drawing to avoid showing it, citing self-deprecation and insecurity.",
+      "Action": "Shrugs and laughs lightly when a gust of wind scatters her torn drawing, showing a relaxed, tolerant attitude toward minor misfortunes.",
+      "Warmth": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Declines to show her drawing to Oliver, possibly to avoid criticism, indicating insecurity more than lack of warmth.",
       "Warmth": 0,
       "Chunk": 3
     },
     {
-      "Action": "Shrugs and accepts Oliver's help in gathering her things without hesitation.",
+      "Action": "Responds to Oliver's attempts at conversation with amusement and a teasing smile.",
       "Warmth": 1,
-      "Chunk": 3
+      "Chunk": 4
     },
     {
-      "Action": "Tears up her drawing and refuses to show it, citing lack of quality.",
-      "Competence": -1,
-      "Chunk": 3
+      "Action": "Invites Oliver charmingly to have tea in her apartment, gently touching his coat sleeve.",
+      "Warmth": 1,
+      "Chunk": 4
     },
     {
-      "Action": "Smiles and interacts playfully with Oliver, showing social ease.",
+      "Action": "Creates a smart and imaginative fashion sketch with a creative twist combining human and feline features.",
+      "Competence": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Engages playfully and confidently in conversation with Oliver, subtly leading him to accept her invitation.",
+      "Competence": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Omits directly inviting Oliver until the right moment, making him work to ask her out, then smoothly extends an invitation herself.",
+      "Competence": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Admits to Oliver that he might be her first real friend in America and looks at him with sincerity.",
+      "Warmth": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Invites Oliver to her apartment, showing openness to friendship.",
+      "Competence": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Pauses before opening the door and looks at Oliver with vulnerability.",
       "Competence": 0,
-      "Chunk": 3
-    },
-    {
-      "Action": "Begins to fold up her campstool and gather her things efficiently after the drawing is lost.",
-      "Competence": 1,
-      "Chunk": 3
-    },
-    {
-      "Action": "Smiles charmingly, gently touches Oliver's coat sleeve, and invites him to tea in her apartment.",
-      "Warmth": 1,
-      "Chunk": 4
-    },
-    {
-      "Action": "Teases Oliver by shaking her head at his letter-writing attempts but remains friendly and amused.",
-      "Warmth": 1,
-      "Chunk": 4
-    },
-    {
-      "Action": "Creates a smart, skillful fashion sketch blending artistic creativity with symbolic imagery (black panther face and talon hands).",
-      "Competence": 1,
-      "Chunk": 4
-    },
-    {
-      "Action": "Engages in light, playful conversation with Oliver, showing social ease and control of the interaction.",
-      "Competence": 1,
-      "Chunk": 4
-    },
-    {
-      "Action": "Subtly takes initiative by inviting Oliver for tea, demonstrating social confidence and assertiveness.",
-      "Competence": 1,
-      "Chunk": 4
-    },
-    {
-      "Action": "Admits to Oliver that he might be her first real friend in America and looks at him with a meaningful expression before opening her door.",
-      "Warmth": 1,
       "Chunk": 5
     },
     {
-      "Action": "Invites Oliver to her apartment, showing social initiative and openness.",
-      "Competence": 1,
-      "Chunk": 5
-    },
-    {
-      "Action": "Hesitates before opening the door and looks at Oliver with a complex expression, indicating emotional vulnerability or uncertainty.",
-      "Competence": -1,
-      "Chunk": 5
-    },
-    {
-      "Action": "Expresses that Oliver is her first real friend in America, showing self-awareness and honesty about her social situation.",
-      "Competence": 1,
-      "Chunk": 5
-    },
-    {
-      "Action": "Shares personal detail about her perfume and living alone, showing openness.",
+      "Action": "Shares personal preference about her perfume and hints at loneliness.",
       "Warmth": 1,
       "Chunk": 6
     },
     {
-      "Action": "Explains the lion's roaring as natural and soothing, showing tolerance and calmness.",
+      "Action": "Sings softly for Oliver and sits quietly with him, creating a calm, intimate moment.",
       "Warmth": 1,
       "Chunk": 6
     },
     {
-      "Action": "Explains the perfume she uses and reflects on her own habits thoughtfully.",
+      "Action": "Expresses tolerance and kindness by not minding the lions' roaring, contrasting with neighbors' complaints.",
+      "Warmth": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Explains the perfume she uses with clear and confident words, showing awareness and comfort in her solitude.",
       "Competence": 1,
       "Chunk": 6
     },
     {
-      "Action": "Responds calmly and knowledgeably about the lions' roaring and its effect on others.",
+      "Action": "Displays calm and thoughtful demeanor by humming a classical piece softly and appreciating ambient sounds like lions roaring, indicating emotional regulation and situational awareness.",
       "Competence": 1,
       "Chunk": 6
     },
     {
-      "Action": "Sings a complex piece by Stravinsky, demonstrating cultural and artistic skill.",
+      "Action": "Able to interpret and share a personal perspective that contrasts with others (finding the lions' roar soothing rather than disturbing), suggesting self-knowledge and confidence.",
       "Competence": 1,
       "Chunk": 6
     },
     {
-      "Action": "Smiles at Oliver in the match light, politely refuses his help with cleaning up after tea, asking him to sit still instead.",
+      "Action": "Smiles at Oliver in the dim light, showing friendly behavior.",
       "Warmth": 1,
       "Chunk": 7
     },
     {
-      "Action": "Turns on the lamp to illuminate the room, organizes and clears the tea tray herself, politely stops Oliver from helping her to maintain order.",
-      "Competence": 1,
+      "Action": "Gently asks Oliver to sit still while she cleans up the tea cups herself, showing consideration.",
+      "Warmth": 1,
       "Chunk": 7
     },
     {
-      "Action": "Expresses discomfort about the panther's scream but does not take any action to address her fear or unease.",
-      "Competence": -1,
-      "Chunk": 7
-    },
-    {
-      "Action": "Eagerly shares the story and significance of the statue from her homeland, showing pride and a desire to connect.",
+      "Action": "Eagerly shows Oliver the statue from her village and explains its historical and personal significance sincerely.",
       "Warmth": 1,
       "Chunk": 8
     },
     {
-      "Action": "Responds patiently and informatively to Oliver's skepticism and questions about the statue.",
+      "Action": "Patiently answers Oliver’s skeptical questions about the statue’s meaning, demonstrating tolerance and openness.",
       "Warmth": 1,
       "Chunk": 8
     },
     {
-      "Action": "Eagerly explains the significance of the statue and its cultural/historical background, showing knowledge and pride in her heritage.",
+      "Action": "Explains the historical and personal significance of the statue with enthusiasm and knowledge, connecting it to her heritage and village history.",
       "Competence": 1,
       "Chunk": 8
     },
     {
-      "Action": "Responds patiently and informatively to Oliver's skepticism, demonstrating confidence and clarity in communication.",
+      "Action": "Shows eagerness and patience in responding to Oliver's skeptical questions without losing composure.",
       "Competence": 1,
       "Chunk": 8
     },
     {
-      "Action": "Shares a haunting personal history with Oliver, showing trust and openness.",
+      "Action": "Shares a haunting and personal story about her village's dark past, showing trust and sincerity.",
       "Warmth": 1,
       "Chunk": 9
     },
     {
-      "Action": "Consciously stops herself from oversharing, indicating social awareness and respect for boundaries.",
+      "Action": "Stops herself from oversharing, showing sensitivity to others' comfort.",
       "Warmth": 1,
       "Chunk": 9
     },
     {
-      "Action": "Smiles and agrees to meet Oliver again, showing friendliness and warmth.",
+      "Action": "Welcomes Oliver's company, arranges to see him again, and smiles warmly.",
       "Warmth": 1,
       "Chunk": 9
     },
     {
-      "Action": "Explains the historical and supernatural background of her village clearly and with detail, showing knowledge and control of the narrative.",
+      "Action": "Speaks knowledgeably about her village's dark history and its connection to present fears.",
       "Competence": 1,
       "Chunk": 9
     },
     {
-      "Action": "Realizes she has spoken too much and too frankly, and welcomes the interruption to end the conversation, indicating self-awareness and social tact.",
+      "Action": "Realizes she has spoken too much and allows a natural interruption to end the conversation.",
       "Competence": 1,
       "Chunk": 9
     },
     {
-      "Action": "Shrugs when asked about the time for their next meeting, showing some vagueness or lack of decisiveness.",
+      "Action": "Responds noncommittally to Oliver's question about when to meet again, shrugging instead of giving a clear answer.",
       "Competence": 0,
       "Chunk": 9
     },
     {
-      "Action": "Smiles warmly at Oliver when he brings a kitten as a present, tries to coax the kitten to come to her despite its hostile reaction.",
+      "Action": "Smiles and nods at Oliver's invitations, showing social grace and polite engagement.",
+      "Competence": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Smiles warmly at Oliver when he brings her a kitten as a present.",
       "Warmth": 1,
       "Chunk": 12
     },
     {
-      "Action": "Acknowledges that cats don't seem to like her but remains calm and gentle.",
+      "Action": "Leans forward, smiling, to coax the kitten to come to her despite its hostile reaction.",
       "Warmth": 1,
       "Chunk": 12
     },
     {
-      "Action": "Smiles and tries to coax the kitten to come to her despite it reacting aggressively.",
+      "Action": "Explains gently that cats don't like her, showing candidness and acceptance.",
+      "Warmth": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Tries to calmly coax a hostile kitten to come to her despite its aggressiveness.",
       "Competence": 1,
       "Chunk": 12
     },
     {
-      "Action": "Acknowledges that cats don't seem to like her but remains calm and composed.",
+      "Action": "Acknowledges cats don't seem to like her, showing awareness of the situation.",
       "Competence": 1,
       "Chunk": 12
     },
     {
-      "Action": "Smiles uncomfortably and admits cats don't like her, but gently puts her hand on Oliver's arm to comfort him.",
+      "Action": "Shows no signs of frustration or panic when the kitten snarls and spits at her.",
+      "Competence": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Smiles uncomfortably and admits that cats don't like her.",
       "Warmth": 1,
       "Chunk": 13
     },
     {
-      "Action": "Suggests exchanging the kitten for another pet to cheer Oliver up and offers to get her coat and hat to go with him.",
+      "Action": "Puts hand on Oliver's arm, showing physical comfort and connection.",
       "Warmth": 1,
       "Chunk": 13
     },
     {
-      "Action": "Suggests exchanging the kitten for another pet and promptly offers to get her coat and hat to do so.",
+      "Action": "Suggests exchanging the kitten for another pet to make Oliver happy.",
+      "Warmth": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Takes initiative to get her coat and hat to go to the pet store with Oliver.",
+      "Warmth": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Suggests exchanging the unfriendly kitten for another pet and promptly takes action by going to get her coat and hat to do so.",
       "Competence": 1,
       "Chunk": 13
     },
     {
-      "Action": "Touches Oliver's arm gently to suggest going outside to avoid the noise.",
+      "Action": "Touches Oliver's arm to suggest going outside away from noise, and defers to Oliver to choose a bird.",
       "Warmth": 1,
       "Chunk": 14
     },
     {
-      "Action": "Politely defers to Oliver to choose the bird, saying 'You go, please, Oliver. Pick the one you like...'",
-      "Warmth": 1,
-      "Chunk": 14
-    },
-    {
-      "Action": "Touches Oliver's arm to suggest moving outside to better communicate, showing situational awareness and calm problem-solving.",
+      "Action": "Touches Oliver's arm to suggest moving outside for a quieter conversation.",
       "Competence": 1,
       "Chunk": 14
     },
     {
-      "Action": "Defers the choice of bird to Oliver, saying 'You go, please, Oliver. Pick the one you like,' indicating a lack of assertiveness or decisiveness in this situation.",
+      "Action": "Defers decision-making to Oliver by asking him to pick the bird he likes.",
+      "Competence": 0,
+      "Chunk": 14
+    },
+    {
+      "Action": "Tenderly holds the bird cage and coos, smiles up at Oliver saying 'He will like me very much. You will see. I like to be liked.'",
+      "Warmth": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Nods eagerly in response to the bird selection, holds the bird cage tenderly, expresses positive feelings toward the bird, and shows openness to connection.",
+      "Competence": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Chooses not to enter the pet store herself, preferring to stay outside in the heat, and allows others to act on her behalf.",
       "Competence": -1,
-      "Chunk": 14
-    },
-    {
-      "Action": "Tenderly holds the bird cage, coos to the bird, smiles warmly at Oliver, expresses desire to be liked.",
-      "Warmth": 1,
       "Chunk": 15
     },
     {
-      "Action": "Chooses to stay outside the pet store due to discomfort with the heat, showing self-awareness and practical decision-making.",
-      "Competence": 1,
-      "Chunk": 15
-    },
-    {
-      "Action": "Nods eagerly to the bird chosen by Oliver and Miss Plunkett, showing trust and positive engagement.",
-      "Competence": 1,
-      "Chunk": 15
-    },
-    {
-      "Action": "Tenderly holds the bird cage and expresses affection, indicating emotional sensitivity but not necessarily competence.",
-      "Competence": 0,
-      "Chunk": 15
-    },
-    {
-      "Action": "States 'I like to be liked,' showing social awareness but also a possible need for external validation.",
-      "Competence": 0,
-      "Chunk": 15
-    },
-    {
-      "Action": "Links arm with Alice upon greeting, expresses desire to be good friends, shares personal feelings about drawing cats and her difficulty connecting with them.",
+      "Action": "Links her arm warmly through Alice's and expresses that she will like her very much, indicating a desire for friendship.",
       "Warmth": 1,
       "Chunk": 18
     },
     {
-      "Action": "Explains her artistic challenges and motivations clearly and thoughtfully, showing self-awareness and insight.",
+      "Action": "Engages Alice in a personal conversation about drawing cats, revealing vulnerability about her difficulty connecting with cats and her artistic efforts.",
+      "Warmth": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Does not wait for Alice’s answer before continuing to share, showing an eagerness to connect but possibly a slight disregard for conversational reciprocity.",
+      "Warmth": 0,
+      "Chunk": 18
+    },
+    {
+      "Action": "Engages warmly and confidently with Alice, shares her personal artistic challenges and motivations, and explains her artistic focus thoughtfully.",
       "Competence": 1,
       "Chunk": 18
     },
     {
-      "Action": "Engages warmly and confidently with a new acquaintance, demonstrating social ease and control of the situation.",
+      "Action": "Does not seem to hesitate in conversation, indicates a clear self-awareness and reflective understanding of her skills and limitations.",
       "Competence": 1,
       "Chunk": 18
     },
     {
-      "Action": "Shares her fashion drawings openly with Alice, explaining her process honestly.",
+      "Action": "Shows consideration by preparing cocktails and hors d'oeuvres for guests.",
       "Warmth": 1,
       "Chunk": 19
     },
     {
-      "Action": "Prepares cocktails for the group and tries to engage with the canary by coaxing it to sing.",
+      "Action": "Tries to coax the bird to sing with gentle cooing and whistling, engaging warmly with the environment and others.",
       "Warmth": 1,
       "Chunk": 19
     },
     {
-      "Action": "Explains her artistic process clearly and confidently to Alice, showing understanding of her own work.",
+      "Action": "Mentions altering her drawings by rubbing out the cat's face to a regular face, possibly indicating a guarded or reserved nature about her true self or work.",
+      "Warmth": 0,
+      "Chunk": 19
+    },
+    {
+      "Action": "Explains how she completes her drawings with clarity and demonstrates her own artistic method.",
       "Competence": 1,
       "Chunk": 19
     },
     {
-      "Action": "Has all the cocktails mixed and ready without prompting, demonstrating preparedness and efficiency.",
+      "Action": "Prepares drinks promptly and efficiently without needing assistance.",
       "Competence": 1,
       "Chunk": 19
     },
     {
-      "Action": "Attempts to coax the bird into singing with gentle noises, showing patience and attentiveness.",
+      "Action": "Attempts to coax the bird into singing by making noises, showing care and attentiveness.",
       "Competence": 1,
       "Chunk": 19
     },
     {
-      "Action": "Coaxes the bird gently with little cooing and whistling noises.",
+      "Action": "Coaxes the bird with gentle cooing and whistling to encourage it to sing.",
       "Warmth": 1,
       "Chunk": 20
     },
     {
-      "Action": "Refers to the bird as 'naughty' but in a gentle, playful manner.",
+      "Action": "Tries to change the subject lightly by offering martinis after an eerie panther scream, maintaining social grace.",
       "Warmth": 1,
       "Chunk": 20
     },
     {
-      "Action": "Suddenly changes the subject to offer martinis, facilitating social interaction.",
+      "Action": "Sits beside Oliver, strokes his brow regularly, and smiles at him with genuine care.",
       "Warmth": 1,
       "Chunk": 20
     },
     {
-      "Action": "Sits beside Oliver and strokes his brow regularly, smiling down at him.",
-      "Warmth": 1,
-      "Chunk": 20
-    },
-    {
-      "Action": "Attempts to coax the bird into singing using gentle cooing and whistling noises.",
+      "Action": "Attempts to coax the bird into singing with gentle cooing and whistling noises.",
       "Competence": 1,
       "Chunk": 20
     },
     {
-      "Action": "Suddenly changes the subject to suggest having martinis, possibly to ease tension or discomfort.",
+      "Action": "Suddenly changes the subject to suggest having martinis, showing social awareness and control of the interaction.",
+      "Competence": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Sits beside Oliver and soothes him by stroking his brows and smiling, demonstrating emotional intelligence and confidence in caregiving.",
+      "Competence": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Caresses Oliver's brow gently, stays close as he sleeps, nestles her cheek against his hand like a cat showing affection, smiles contentedly.",
+      "Warmth": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Does not move when Oliver wakes, quietly keeps watch over him, responds with a soft murmur.",
+      "Warmth": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Caresses Oliver's brow to soothe him and stays quietly attentive while he sleeps",
+      "Competence": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Does not respond verbally or engage actively when Oliver wakes and speaks to her, remaining still and quiet",
       "Competence": 0,
-      "Chunk": 20
-    },
-    {
-      "Action": "Turns down the music to a background level and attentively cares for Oliver by stroking his brow and smiling, showing emotional intelligence and attentiveness.",
-      "Competence": 1,
-      "Chunk": 20
-    },
-    {
-      "Action": "Caresses Oliver's brow, watches over him as he sleeps, cuddles against his hand with a contented smile, makes a purring murmur of assent.",
-      "Warmth": 1,
       "Chunk": 21
     },
     {
-      "Action": "Caresses Oliver's brow to comfort him and stays quietly attentive while he sleeps, showing emotional sensitivity and calm presence.",
-      "Competence": 1,
-      "Chunk": 21
+      "Action": "Gently withdraws from Oliver and moves into the shadows when he attempts to kiss her.",
+      "Warmth": 0,
+      "Chunk": 22
     },
     {
-      "Action": "Does not engage in conversation or take action when Oliver wakes, simply responds minimally and remains still.",
-      "Competence": 0,
-      "Chunk": 21
-    },
-    {
-      "Action": "Admits to loving Oliver despite her fear and anguish, showing vulnerability and sincerity.",
+      "Action": "Professes love to Oliver despite inner anguish and fear.",
       "Warmth": 1,
       "Chunk": 22
     },
     {
-      "Action": "Withdraws physically from Oliver and avoids eye contact, indicating emotional distance or fear.",
-      "Warmth": -1,
+      "Action": "Lays her cheek against Oliver’s knee and sobs, expressing vulnerability and emotional depth.",
+      "Warmth": 1,
       "Chunk": 22
     },
     {
-      "Action": "Withdraws gently from Oliver and moves back into the shadows, showing hesitation and emotional restraint.",
+      "Action": "Admits to living in dread, keeping away from people, and not wanting to love, reflecting emotional guardedness but not hostility.",
+      "Warmth": 0,
+      "Chunk": 22
+    },
+    {
+      "Action": "Withdraws gently into the shadows when Oliver attempts intimacy, showing restraint and awareness of her own limits.",
+      "Competence": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Admits to loving Oliver despite her dread and emotional turmoil, demonstrating emotional honesty and self-awareness.",
+      "Competence": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Breaks down emotionally and sobs uncontrollably, unable to manage her distress in the moment.",
       "Competence": -1,
       "Chunk": 22
     },
     {
-      "Action": "Admits her love for Oliver despite intense internal anguish and fear, showing emotional honesty and courage.",
-      "Competence": 1,
-      "Chunk": 22
-    },
-    {
-      "Action": "Lays her cheek against Oliver's knee and sobs, unable to communicate clearly or assertively.",
-      "Competence": -1,
-      "Chunk": 22
-    },
-    {
-      "Action": "Withdraws from Oliver's attempt to kiss her, expresses fear and sorrow about her past, sobbing openly.",
-      "Warmth": 1,
-      "Chunk": 23
-    },
-    {
-      "Action": "Cuddles down by Oliver's feet, pressing her cheek against his knee, showing trust and seeking comfort.",
-      "Warmth": 1,
-      "Chunk": 23
-    },
-    {
-      "Action": "Withholds physical affection and resists intimacy despite Oliver's gentle advances.",
+      "Action": "Withdraws from Oliver's attempt to draw her up and refuses to be kissed, expressing deep emotional distress stemming from her past and fears.",
       "Warmth": 0,
       "Chunk": 23
     },
     {
-      "Action": "Withdraws from Oliver's attempt to comfort and kiss her, expressing fear and emotional distress related to her past.",
+      "Action": "Cuddles down by Oliver's feet, pressing her cheek against his knee, showing vulnerability and trust despite her fears.",
+      "Warmth": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Utters a murmur of happiness and delight when Oliver speaks of normal life and future children, indicating her warmth and desire for normal loving connection.",
+      "Warmth": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Withdraws physically and emotionally from Oliver, indicating fear and inability to confront or explain her past, breaking into sobs.",
       "Competence": -1,
       "Chunk": 23
     },
     {
-      "Action": "Eventually calms down and shows a small sign of happiness and delight, indicating some emotional regulation.",
-      "Competence": 0,
+      "Action": "Ultimately shows some capacity to connect emotionally by cuddling down by Oliver's feet and showing a murmur of happiness and delight, indicating some emotional intelligence and responsiveness.",
+      "Competence": 1,
       "Chunk": 23
     },
     {
-      "Action": "Laughs merrily at Jim Carver's joke despite its potential to offend the proprietor, gently warns him about the meaning of 'Comitaji'.",
+      "Action": "Laughs naturally and merrily at the wedding party, gently corrects Jim Carver about the meaning of 'Comitaji' to avoid insulting the proprietor.",
       "Warmth": 1,
       "Chunk": 24
     },
     {
-      "Action": "Corrects Jim Carver about the meaning of 'Comitaji' to prevent insult, showing cultural awareness and social tact.",
+      "Action": "Corrects Jim Carver politely about the meaning of 'Comitaji' to prevent an insult to the proprietor.",
       "Competence": 1,
       "Chunk": 24
     },
     {
-      "Action": "Laughs merrily and naturally at the wedding party, displaying social ease and confidence in a group setting.",
+      "Action": "Laughs naturally and merrily at the wedding party, showing relaxed social confidence.",
       "Competence": 1,
       "Chunk": 24
     },
@@ -436,927 +446,807 @@
       "Chunk": 25
     },
     {
-      "Action": "Stares at the Cat Woman with a haunted fascination, smile fading.",
+      "Action": "Looks at the Cat Woman with a haunted fascination, not responding with friendliness or interaction.",
       "Warmth": 0,
       "Chunk": 25
     },
     {
-      "Action": "Thanks Alice graciously for the party and engages politely in conversation, showing social ease and awareness.",
+      "Action": "Thanks Alice kindly and engages socially during the party, showing polite conversation and awareness of her surroundings.",
       "Competence": 1,
       "Chunk": 25
     },
     {
-      "Action": "Smiles initially but then her smile fades to a haunted fascination when looking at the Cat Woman, indicating possible unease or distraction.",
+      "Action": "Fades from a smile to a haunted fascination when noticing the Cat Woman's intense stare, indicating internal disturbance or distraction.",
       "Competence": -1,
       "Chunk": 25
     },
     {
-      "Action": "Seizes Oliver's hands and seriously confides the significance of the Cat Woman's greeting, showing vulnerability and trust.",
+      "Action": "Seizes Oliver's hands and looks up at him sincerely when explaining the significance of being called 'sister' by the Cat Woman.",
       "Warmth": 1,
       "Chunk": 26
     },
     {
-      "Action": "Shrinks back in fear and makes the sign of the Cross when confronted by the Cat Woman, indicating anxiety and withdrawal rather than openness.",
-      "Warmth": -1,
+      "Action": "Shrinks back into her chair and makes the sign of the Cross, showing fear and vulnerability.",
+      "Warmth": 0,
       "Chunk": 26
     },
     {
-      "Action": "Laughs hysterically and forces a smile to mask her fear, showing difficulty in expressing genuine warmth or ease in social interaction.",
-      "Warmth": -1,
+      "Action": "Laughs with Oliver, but the laughter is forced and flat, indicating emotional distress rather than genuine enjoyment.",
+      "Warmth": 0,
       "Chunk": 26
     },
     {
-      "Action": "Makes the sign of the Cross when frightened by the Cat Woman's words and presence.",
+      "Action": "Makes the sign of the Cross when frightened, showing a coping ritual but no active problem-solving.",
       "Competence": 0,
       "Chunk": 26
     },
     {
-      "Action": "Refuses to reveal the meaning of the Cat Woman's words to Oliver, showing discretion and seriousness.",
+      "Action": "Refuses to explain a cryptic message on her wedding night, demonstrating restraint and seriousness.",
       "Competence": 1,
       "Chunk": 26
     },
     {
-      "Action": "Appears shaken, frightened, and emotionally overwhelmed by the encounter, showing vulnerability.",
+      "Action": "Appears visibly shaken and frightened, laughs hysterically with forced flatness, indicating emotional overwhelm and lack of composure.",
       "Competence": -1,
       "Chunk": 26
     },
     {
-      "Action": "Laughs hysterically and forces laughter despite inner fear and distress.",
-      "Competence": -1,
-      "Chunk": 26
-    },
-    {
-      "Action": "Laughs hysterically at an unfunny joke, masking her true feelings.",
+      "Action": "Laughs hysterically at an unfunny joke, revealing emotional distress, yet tries to maintain social interaction.",
       "Warmth": 0,
       "Chunk": 27
     },
     {
-      "Action": "Struggles to express a hard request to Oliver, showing vulnerability and trust.",
+      "Action": "Struggles to make a hard request to Oliver, showing vulnerability and trust.",
       "Warmth": 1,
       "Chunk": 27
     },
     {
-      "Action": "Laughs hysterically at an unfunny joke, showing forced and near-hysterical laughter rather than genuine amusement.",
+      "Action": "Laughs hysterically at an unfunny joke, displaying forced, flat laughter indicating near hysteria.",
       "Competence": -1,
       "Chunk": 27
     },
     {
-      "Action": "Struggles to put a hard request into reasonable words, breaks off unable to speak, showing difficulty in expressing herself clearly.",
+      "Action": "Struggles to put a hard request into reasonable words and breaks off unable to speak.",
       "Competence": -1,
       "Chunk": 27
     },
     {
-      "Action": "Puts her hands tenderly against Oliver's chest, expresses desire to be a good wife, asks for kindness and patience, kisses his hand.",
+      "Action": "Puts hands tenderly against Oliver's chest, expresses desire to be truly Mrs. Reed, seizes his hands pleading for kindness and patience, kisses his hand lovingly.",
       "Warmth": 1,
       "Chunk": 28
     },
     {
-      "Action": "Seizes Oliver's hands while asking for patience and kindness, showing vulnerability and trust.",
+      "Action": "Struggles with internal fears about something evil in her, showing vulnerability and seeking support rather than shutting others out.",
       "Warmth": 1,
       "Chunk": 28
     },
     {
-      "Action": "Expresses vulnerability and asks for patience and time to overcome her fears.",
-      "Competence": 0,
-      "Chunk": 28
-    },
-    {
-      "Action": "Shows emotional openness and communicates her needs clearly to Oliver.",
+      "Action": "Expresses vulnerability and asks for patience and time to overcome her fears, showing self-awareness and willingness to seek help.",
       "Competence": 1,
       "Chunk": 28
     },
     {
-      "Action": "Appears overwhelmed by internal fears and unable to immediately overcome them.",
+      "Action": "Seizes Oliver's hands emotionally and pleads, revealing emotional fragility and a sense of helplessness.",
       "Competence": -1,
       "Chunk": 28
     },
     {
-      "Action": "Sinks to her knees beside the door, lonely and desirous, almost opens the door to Oliver but restrains herself.",
+      "Action": "Presses herself against the door, yearning to open it and connect with Oliver, then restrains herself out of fear.",
       "Warmth": 1,
       "Chunk": 29
     },
     {
-      "Action": "Whispers 'Good night, Oliver' showing gentle and sincere farewell despite her inner conflict.",
+      "Action": "Whispers good night softly to Oliver, showing gentle and sincere affection despite distance.",
       "Warmth": 1,
       "Chunk": 29
     },
     {
-      "Action": "Stops at the guard rail and interacts politely with the keeper, responding to his greeting and sharing personal information about her marriage.",
+      "Action": "Stops to greet the keeper at the panther cage and engages politely in brief conversation, revealing courteous and friendly demeanor.",
       "Warmth": 1,
       "Chunk": 29
     },
     {
-      "Action": "Intends to open the door to Oliver but stops herself after hearing the panther's scream, showing self-control and awareness of danger.",
+      "Action": "Attempts to open the door but stops herself and removes her hand from the doorknob upon hearing the panther's scream, showing self-control and awareness of danger.",
       "Competence": 1,
       "Chunk": 29
     },
     {
-      "Action": "Sinks to her knees and crouches lonely and desirous, indicating emotional vulnerability and hesitation rather than confident behavior.",
+      "Action": "Sinks down to her knees beside the door, lonely and desirous, showing emotional vulnerability and hesitation rather than confident action.",
       "Competence": -1,
       "Chunk": 29
     },
     {
-      "Action": "Leans over the guard rail to observe the leopard, admiring its beauty despite warnings.",
+      "Action": "Leans over the guard rail admiring the leopard despite the keeper calling it evil.",
       "Warmth": 1,
       "Chunk": 30
     },
     {
-      "Action": "Turns and waves to the old keeper after he wishes her well on her marriage.",
+      "Action": "Turns and waves back kindly to the old keeper wishing her best for her marriage.",
       "Warmth": 1,
       "Chunk": 30
     },
     {
-      "Action": "Tries to encourage the frightened bird in its cage to sing.",
+      "Action": "Tries to encourage the frightened caged bird to sing.",
       "Warmth": 1,
       "Chunk": 30
     },
     {
-      "Action": "Leans over the guard rail to observe the leopard closely and admires its beauty despite warnings.",
+      "Action": "Leans over the guard rail to observe the leopard and admires its beauty despite warnings from the keeper.",
       "Competence": 0,
       "Chunk": 30
     },
     {
-      "Action": "Pauses thoughtfully after hearing the keeper's ominous description, showing reflection.",
+      "Action": "Pauses thoughtfully reflecting on the keeper's ominous words before moving on.",
+      "Competence": 0,
+      "Chunk": 30
+    },
+    {
+      "Action": "Turns and waves politely to the keeper after he wishes her well for her marriage.",
+      "Competence": 0,
+      "Chunk": 30
+    },
+    {
+      "Action": "Works on a sketch at her desk and then tries to encourage a frightened bird to sing.",
       "Competence": 1,
       "Chunk": 30
     },
     {
-      "Action": "Waves politely to the keeper after his well wishes, demonstrating social grace.",
-      "Competence": 1,
-      "Chunk": 30
-    },
-    {
-      "Action": "Works on a sketch at her desk, then tries to encourage a frightened bird to sing.",
-      "Competence": 1,
-      "Chunk": 30
-    },
-    {
-      "Action": "Picks up the dead bird tenderly, carefully places it in a box with a ribbon, and buries it in the park.",
+      "Action": "Picks up the dead bird tenderly, carefully places it in a box, and prepares to bury it.",
       "Warmth": 1,
       "Chunk": 31
     },
     {
-      "Action": "Swiftly avoids interaction with a friendly whistling policeman by pushing her purse back and continuing walking.",
-      "Warmth": 0,
+      "Action": "Walks along the park path looking for a suitable spot to bury the bird, showing respect for life.",
+      "Warmth": 1,
       "Chunk": 31
     },
     {
-      "Action": "Throws the dead canary into the panther cage abruptly and hurriedly, as if compelled by an outside force.",
+      "Action": "Rather than showing hostility, calmly interacts with others (policeman) without confrontation.",
+      "Warmth": 1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Disposes of the dead bird by throwing it into the panther's cage abruptly and perhaps with hostile intent.",
       "Warmth": -1,
       "Chunk": 31
     },
     {
-      "Action": "Carefully places the dead bird in a box, prepares to bury it, and takes a trowel to do so.",
-      "Competence": 1,
-      "Chunk": 31
-    },
-    {
-      "Action": "Swiftly pushes her purse back and continues walking past the policeman without drawing attention.",
-      "Competence": 1,
-      "Chunk": 31
-    },
-    {
-      "Action": "Suddenly and hurriedly throws the dead bird into the panther cage, seemingly under compulsion.",
-      "Competence": -1,
-      "Chunk": 31
-    },
-    {
-      "Action": "Throws the dead canary into the panther's cage, then shudders and quickly walks away.",
+      "Action": "Throws the dead canary into the panther's cage, seemingly compelled and uneasy.",
       "Warmth": 0,
       "Chunk": 32
     },
     {
-      "Action": "Does not respond to Oliver's offer of sherry, appears withdrawn and thoughtful.",
+      "Action": "Shudders watching the panther play with the dead bird and walks away quickly.",
       "Warmth": 0,
       "Chunk": 32
     },
     {
-      "Action": "Admits envy of other women who are happy and free, expresses vulnerability and self-awareness.",
+      "Action": "Expresses envy of other women who seem happy and free, showing vulnerability and sincerity.",
       "Warmth": 1,
       "Chunk": 32
     },
     {
-      "Action": "Engages in a sincere conversation with Oliver about her feelings and the bird's death.",
-      "Warmth": 1,
+      "Action": "Drinks sherry silently while staring thoughtfully into her glass, suggesting inward reflection and emotional distance.",
+      "Warmth": 0,
       "Chunk": 32
     },
     {
-      "Action": "Hurriedly takes the box, tears off the lid, and throws the dead canary into the panther's cage under some compulsion.",
+      "Action": "Tears off the lid and throws the dead canary into the panther's cage almost involuntarily, as if compelled by an outside desire.",
       "Competence": -1,
       "Chunk": 32
     },
     {
-      "Action": "Shudders and quickly walks away after watching the panther play with the dead bird, showing emotional disturbance and lack of control.",
-      "Competence": -1,
-      "Chunk": 32
-    },
-    {
-      "Action": "Stands looking out the window silently, does not respond to Oliver's offer of sherry, indicating withdrawal and lack of engagement.",
-      "Competence": -1,
-      "Chunk": 32
-    },
-    {
-      "Action": "Thoughtfully sips wine and expresses deep envy and self-awareness about her unhappiness and difference from other women.",
+      "Action": "Shudders and walks away quickly after watching the panther play with the dead bird, seemingly trying to recover herself.",
       "Competence": 0,
       "Chunk": 32
     },
     {
-      "Action": "Admits fear and vulnerability about her actions with the panther and the bird, showing openness.",
+      "Action": "Stands silently, does not respond to Oliver's question and invitation to drink, showing inward distraction.",
+      "Competence": -1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Expresses envy and feelings of unhappiness and lack of freedom compared to other women, revealing emotional vulnerability and self-doubt.",
+      "Competence": -1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Takes a small sip of wine but remains thoughtful and introspective rather than engaging actively with Oliver's attempts to comfort her.",
+      "Competence": 0,
+      "Chunk": 32
+    },
+    {
+      "Action": "Admits fear and inner conflict about her actions with the bird and panther, showing vulnerability.",
       "Warmth": 1,
       "Chunk": 33
     },
     {
-      "Action": "Takes Oliver's hand and acknowledges his gentleness and patience.",
+      "Action": "Takes Oliver's hand and acknowledges his gentleness and patience, showing appreciation and trust.",
       "Warmth": 1,
       "Chunk": 33
     },
     {
-      "Action": "Eagerly accepts Oliver's suggestion to seek psychiatric help, showing trust and hope.",
+      "Action": "Eagerly seeks help and trusts Oliver to find the best psychiatrist for her, showing openness and sincerity.",
       "Warmth": 1,
       "Chunk": 33
     },
     {
-      "Action": "Admits her fear and compulsion honestly to Oliver, acknowledging her troubling behavior and seeking help.",
+      "Action": "Recognizes her disturbing impulses and expresses the need to confront them by seeking help.",
       "Competence": 1,
       "Chunk": 33
     },
     {
-      "Action": "Expresses eagerness and hopefulness to find the best psychiatrist, showing proactive attitude toward resolving her issues.",
-      "Competence": 1,
-      "Chunk": 33
-    },
-    {
-      "Action": "Shows emotional intensity and compulsion (throwing the bird to the panther) which frightens her, indicating a lack of control over her impulses.",
+      "Action": "Acts out of a compulsive, uncontrollable impulse by feeding the panther, despite knowing the risks.",
       "Competence": -1,
       "Chunk": 33
     },
     {
-      "Action": "Expresses deep emotional pain and vulnerability through tears and words about torment.",
+      "Action": "Shows openness and eagerness to find competent psychiatric help.",
+      "Competence": 1,
+      "Chunk": 33
+    },
+    {
+      "Action": "Expresses torment and pain openly, shedding tears while describing her inner struggle.",
       "Warmth": 1,
       "Chunk": 34
     },
     {
-      "Action": "Responds quietly and uncertainly with a gentle smile when spoken to, showing openness and sincerity.",
+      "Action": "Responds to Judd's pat and inquiries with a gentle, uncertain smile.",
       "Warmth": 1,
       "Chunk": 34
     },
     {
-      "Action": "Speaks about her torment and inner struggle with a calm, controlled voice despite evident pain and tears.",
-      "Competence": 1,
-      "Chunk": 34
-    },
-    {
-      "Action": "Remains still and silent under hypnosis, showing no active resistance or engagement.",
+      "Action": "Speaks poetically and reveals emotional torment under hypnosis, showing vulnerability and lack of control.",
       "Competence": -1,
       "Chunk": 34
     },
     {
-      "Action": "Responds quietly and uncertainly to Judd's comment about tiredness, showing limited assertiveness or confidence.",
+      "Action": "Closes eyes and remains unresponsive to probing questions, demonstrating passivity during the session.",
       "Competence": -1,
       "Chunk": 34
     },
     {
-      "Action": "Admits to feeling ashamed and anxious about her beliefs and stories from her village.",
+      "Action": "Appears to accept the hypnotic state and sleeps through the bright light without resistance.",
+      "Competence": -1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Smiles uncertainly when questioned about her tiredness, indicating lack of confidence or certainty.",
+      "Competence": 0,
+      "Chunk": 34
+    },
+    {
+      "Action": "Expresses shame and anxiety about her beliefs and tales from her village.",
       "Warmth": 1,
       "Chunk": 35
     },
     {
-      "Action": "Nods but avoids eye contact when confronted about her fears.",
+      "Action": "Nods but does not raise her eyes when confronted about her fears.",
       "Warmth": 0,
       "Chunk": 35
     },
     {
-      "Action": "Takes the glass given to her calmly and listens to Judd's recounting of her story without interruption.",
+      "Action": "Acknowledges her memory loss and expresses anxiety about what she revealed during hypnosis.",
       "Competence": 0,
       "Chunk": 35
     },
     {
-      "Action": "Expresses anxiety and shame about her own memories and beliefs, indicating emotional vulnerability.",
+      "Action": "Seems unable to confront or rationalize her fears and superstitions related to her village and its beliefs.",
       "Competence": -1,
       "Chunk": 35
     },
     {
-      "Action": "Nods in agreement but avoids eye contact when confronted with her fears, showing a lack of confidence or assertiveness.",
+      "Action": "Nods without making eye contact, showing passive acceptance but possibly lack of confidence or assertiveness.",
       "Competence": -1,
       "Chunk": 35
     },
     {
-      "Action": "Does not challenge or question Judd's psychological interpretation, passively accepting his authority.",
-      "Competence": -1,
+      "Action": "Shows self-awareness and shame about her beliefs being perceived as childish.",
+      "Competence": 0,
       "Chunk": 35
     },
     {
-      "Action": "Rises and gives Dr. Judd her hand, accepts his support with trust and calmness.",
+      "Action": "Rises and gives Dr. Judd her hand; follows him calmly and cooperatively to the door.",
       "Warmth": 1,
       "Chunk": 36
     },
     {
-      "Action": "Runs lightly up the stairs humming a little snatch of song, showing a moment of lightness and joy.",
+      "Action": "Expresses concern for her husband’s anxiety and wants to communicate with him.",
       "Warmth": 1,
       "Chunk": 36
     },
     {
-      "Action": "Enters her apartment and closes the door calmly despite seeing Oliver and Alice together, showing restraint and tolerance.",
+      "Action": "Runs lightly up the stairs humming a little snatch of song; joyously opens her apartment door.",
+      "Warmth": 1,
+      "Chunk": 36
+    },
+    {
+      "Action": "Does not react negatively or suspiciously upon seeing Oliver and Alice together on the sofa.",
       "Warmth": 0,
       "Chunk": 36
     },
     {
-      "Action": "Rises and gives Dr. Judd her hand, follows him calmly to the door, nods in agreement to the appointment, and leaves without protest.",
-      "Competence": 1,
-      "Chunk": 36
-    },
-    {
-      "Action": "Asks what she should tell her husband, showing concern about managing social/family dynamics.",
-      "Competence": 1,
-      "Chunk": 36
-    },
-    {
-      "Action": "Runs lightly up the stairs humming joyously, showing a moment of lightness and normalcy despite underlying troubles.",
-      "Competence": 0,
-      "Chunk": 36
-    },
-    {
-      "Action": "Enters her apartment and finds Oliver and Alice together, but no immediate reaction or confrontation is described.",
-      "Competence": 0,
-      "Chunk": 36
-    },
-    {
-      "Action": "Greets Alice warmly at first, saying 'it's so nice to see you!'",
+      "Action": "Greets Alice warmly at first ('Alice, it's so nice to see you!')",
       "Warmth": 1,
       "Chunk": 37
     },
     {
-      "Action": "Becomes cold and distant after learning Alice knows about her psychiatric visit, giving a long cold look and turning her back to them",
+      "Action": "Feels puzzled and hurt that Oliver discussed her psychiatric visit with Alice without her consent",
+      "Warmth": 0,
+      "Chunk": 37
+    },
+    {
+      "Action": "Responds coldly and with anger to Alice and Oliver after learning they know about her psychiatric visit, turning her back on them",
       "Warmth": -1,
       "Chunk": 37
     },
     {
-      "Action": "Responds coldly and curtly with 'Good-bye, Alice...' despite Alice's apology",
-      "Warmth": -1,
-      "Chunk": 37
-    },
-    {
-      "Action": "Responds coldly and with controlled emotion to Alice and Oliver's breach of privacy, maintaining composure despite feeling hurt and angered.",
+      "Action": "Responds coldly and with controlled restraint when confronted with an embarrassing situation involving her private matters disclosed without her consent.",
       "Competence": 1,
       "Chunk": 37
     },
     {
-      "Action": "Does not confront Alice and Oliver directly or assertively about their breach of confidentiality, instead withdrawing and turning her back to them.",
+      "Action": "Is puzzled and emotionally hurt upon realizing Oliver spoke of her psychiatric visit, indicating possible vulnerability or lack of control over private information.",
       "Competence": -1,
       "Chunk": 37
     },
     {
-      "Action": "Responds coldly and hurt when Oliver shares intimate details about her with Alice, indicating a boundary for privacy and trust.",
-      "Warmth": 0,
-      "Chunk": 38
+      "Action": "Maintains a dignified silence and chooses to walk away rather than escalate the conflict, showing emotional control.",
+      "Competence": 1,
+      "Chunk": 37
     },
     {
-      "Action": "Turns away from Oliver and closes the bedroom door firmly after confrontation, showing emotional withdrawal and hurt.",
+      "Action": "Responds coldly to Alice's apology, saying 'Good-bye, Alice' with a half-turn.",
       "Warmth": -1,
       "Chunk": 38
     },
     {
-      "Action": "Unable to sleep, she shows vulnerability and emotional turmoil, indicating sincerity and depth of feeling.",
+      "Action": "Expresses hurt and offense to Oliver about discussing intimate matters with Alice.",
+      "Warmth": -1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Closes bedroom door firmly to Oliver after confrontation, showing emotional withdrawal.",
+      "Warmth": -1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Sleeps restlessly, trembles with some unexplained emotion, indicating vulnerability and internal conflict.",
       "Warmth": 1,
       "Chunk": 38
     },
     {
-      "Action": "Quietly checks on Oliver while he sleeps, showing concern and care despite earlier conflict.",
+      "Action": "Silently observes Oliver sleeping peacefully without disturbing him.",
       "Warmth": 1,
       "Chunk": 38
     },
     {
-      "Action": "Turns coldly and firmly ends conversation with Alice after feeling offended, showing control over her emotions and boundaries.",
-      "Competence": 1,
-      "Chunk": 38
-    },
-    {
-      "Action": "Expresses clear emotional boundaries to Oliver about discussing intimate matters, demonstrating assertiveness and self-awareness.",
-      "Competence": 1,
-      "Chunk": 38
-    },
-    {
-      "Action": "Unable to sleep, she quietly and deliberately dresses and leaves her room to investigate or confront her feelings, showing decisiveness and purposeful action.",
-      "Competence": 1,
-      "Chunk": 38
-    },
-    {
-      "Action": "Hesitates and tiptoes through her apartment, indicating caution and awareness of her environment.",
-      "Competence": 1,
-      "Chunk": 38
-    },
-    {
-      "Action": "Quietly leaves Oliver's bedroom to avoid disturbing him, showing consideration.",
+      "Action": "Confides in Oliver about her need to avoid jealousy and anger, expresses emotional vulnerability and need for support.",
       "Warmth": 1,
       "Chunk": 39
     },
     {
-      "Action": "Expresses need for Oliver's support and asks him to help her avoid jealousy and anger, showing vulnerability and trust.",
+      "Action": "Quietly leaves Oliver's room at night after he falls asleep, without waking him or causing disturbance.",
       "Warmth": 1,
       "Chunk": 39
     },
     {
-      "Action": "Engages in a gentle, intimate moment with Oliver, allowing closeness and connection.",
-      "Warmth": 1,
-      "Chunk": 39
-    },
-    {
-      "Action": "Closes Oliver's bedroom door softly, tiptoes to the main door, quietly lets herself out.",
-      "Competence": 1,
-      "Chunk": 39
-    },
-    {
-      "Action": "Responds to Oliver's questions with brief, somewhat evasive answers ('Just walked').",
-      "Competence": 0,
-      "Chunk": 39
-    },
-    {
-      "Action": "Expresses emotional vulnerability and asks Oliver for help to control her feelings.",
-      "Competence": 0,
-      "Chunk": 39
-    },
-    {
-      "Action": "Returns the forgotten key to the keeper, showing honesty and consideration.",
+      "Action": "Finds the keeper's forgotten key and returns it to him promptly.",
       "Warmth": 1,
       "Chunk": 40
     },
     {
-      "Action": "Holds the key for a moment before returning it, indicating hesitation or internal conflict.",
+      "Action": "Holds the key for a moment, possibly tempted, but ultimately chooses to do the right thing.",
+      "Warmth": 1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Looks away when Dr. Judd mentions she told him many things, indicating discomfort or reluctance to share.",
       "Warmth": 0,
       "Chunk": 40
     },
     {
-      "Action": "Looks away when Dr. Judd mentions she told him many things, suggesting discomfort or guardedness.",
+      "Action": "Does not act on temptation despite an opportunity to cause harm.",
+      "Warmth": 1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Is bewildered and somewhat distant when interacting with Dr. Judd, suggesting emotional guardedness.",
       "Warmth": 0,
       "Chunk": 40
     },
     {
-      "Action": "Notices the keeper left the key in the panther cage lock and promptly retrieves it, then responsibly returns it to him.",
+      "Action": "Notices that the keeper has left the key in the panther cage lock and returns it to him promptly and honestly.",
       "Competence": 1,
       "Chunk": 40
     },
     {
-      "Action": "Hesitates momentarily holding the key before running after the keeper, showing some caution or uncertainty.",
-      "Competence": 0,
+      "Action": "Hesitates after taking the key, then chooses not to use it for any dangerous or reckless action.",
+      "Competence": 1,
       "Chunk": 40
     },
     {
-      "Action": "Engages in conversation with Dr. Judd, showing some confusion and lack of understanding about his intentions and insights.",
+      "Action": "Appears bewildered and confused when questioned by Dr. Judd about her behavior and choices, indicating a lack of clarity or control.",
       "Competence": -1,
       "Chunk": 40
     },
     {
-      "Action": "Does not come back to see Dr. Judd as expected, requiring him to seek her out instead.",
+      "Action": "Does not return to see Dr. Judd as planned, causing him to come to her instead, demonstrating possible avoidance or indecision.",
       "Competence": -1,
       "Chunk": 40
     },
     {
-      "Action": "Admits to feeling troubled beyond the mind, shows vulnerability and openness in conversation with Judd.",
+      "Action": "Lets herself out of the cage area calmly and stands with Dr. Judd, showing some composure.",
+      "Competence": 0,
+      "Chunk": 40
+    },
+    {
+      "Action": "Admits to feeling troubled with her soul rather than her mind, showing vulnerability and sincerity.",
       "Warmth": 1,
       "Chunk": 41
     },
     {
-      "Action": "Turns away apologetically when feeling presumptuous, indicating humility and sincerity.",
+      "Action": "Turns away apologetically when speaking with Judd, indicating modesty and perhaps reticence.",
       "Warmth": 1,
       "Chunk": 41
     },
     {
-      "Action": "Responds to Judd's kindness and interest in her background by sharing personal details about her mother.",
+      "Action": "Engages with Judd by recalling and speaking gently of her mother, showing respect and warmth towards family memories.",
       "Warmth": 1,
       "Chunk": 41
     },
     {
-      "Action": "Acknowledges her own limitations by saying she doesn't feel Judd can help her and apologizes for seeming presumptuous.",
+      "Action": "Declines Judd's help initially, stating she doesn't feel he can help her.",
       "Competence": 0,
       "Chunk": 41
     },
     {
-      "Action": "Demonstrates insight by distinguishing between mind and soul, showing thoughtful self-awareness.",
+      "Action": "Engages in reflective and insightful conversation distinguishing between mind and soul.",
       "Competence": 1,
       "Chunk": 41
     },
     {
-      "Action": "Turns away from Judd abruptly, indicating possible avoidance or discomfort in confronting her issues directly.",
+      "Action": "Turns away apologetically calling herself presumptuous.",
       "Competence": -1,
       "Chunk": 41
     },
     {
-      "Action": "Quietly shares a deeply personal and painful memory about her mother's death, showing vulnerability and sincerity.",
+      "Action": "Responds thoughtfully and recalls personal history when questioned by Judd.",
+      "Competence": 1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Quietly admits to holding her mother’s hand at death and describes the terrifying transformation she witnessed, showing vulnerability and sincerity.",
       "Warmth": 1,
       "Chunk": 42
     },
     {
-      "Action": "Challenges Dr. Judd's rational explanations with a subtle note of triumph, indicating a defensive or confrontational stance.",
-      "Warmth": -1,
+      "Action": "Challenges Judd’s skeptical explanation about her mother’s death with quiet firmness, showing a sincere need to be understood but also a guarded defensive stance.",
+      "Warmth": 0,
       "Chunk": 42
     },
     {
-      "Action": "Pauses thoughtfully before responding to Judd's questions, showing careful consideration.",
+      "Action": "Pauses thoughtfully before responding, clearly recollects and describes the surreal and disturbing transformation of her mother's hand, maintaining composure and making a pointed challenge to Judd's rational explanations.",
       "Competence": 1,
       "Chunk": 42
     },
     {
-      "Action": "Describes her mother's death with vivid, unusual sensory details, indicating strong perception and memory.",
+      "Action": "Engages in a calm, clear conversation with Judd about traumatic memories, demonstrates strong memory and presence of mind in detail about the events of her mother’s death.",
       "Competence": 1,
       "Chunk": 42
     },
     {
-      "Action": "Challenges Judd's rational explanations calmly and confidently, demonstrating assertiveness and critical thinking.",
+      "Action": "Challenges Judd’s rationalizations effectively, showing confidence and firmness about her experience.",
       "Competence": 1,
       "Chunk": 42
     },
     {
-      "Action": "Does not provide concrete evidence beyond personal experience and feelings, which may limit her persuasive power.",
+      "Action": "Expresses feelings and experiences that suggest possible psychological or emotional vulnerabilities (e.g., insistence on the supernatural aspect without visible critical filtering).",
       "Competence": 0,
       "Chunk": 42
     },
     {
-      "Action": "Gives a scornful look of disbelief and turns away from Judd's attempt to rationalize phenomena.",
-      "Warmth": -1,
-      "Chunk": 43
-    },
-    {
-      "Action": "Gives Dr. Judd a scornful look of disbelief and turns away, showing skepticism and emotional distance.",
+      "Action": "Gives a scornful look of disbelief and turns away from Judd's optimistic statement about finding a reasonable explanation.",
       "Competence": 0,
       "Chunk": 43
     },
     {
-      "Action": "Engages quietly in washing paint brushes, focused on a solitary task without interaction.",
+      "Action": "Is described as having a warmth that pulls others toward her, causing Oliver to feel drawn to her and want to watch and touch her when near.",
+      "Warmth": 1,
+      "Chunk": 45
+    },
+    {
+      "Action": "Remains preoccupied with washing paint brushes, absorbed in a task and not interacting with others in the scene.",
       "Warmth": 0,
       "Chunk": 45
     },
     {
-      "Action": "Expresses love to Oliver simply and sincerely.",
+      "Action": "Busily engaged in washing her paint brushes, carefully twirling them between her palms to get the water out.",
+      "Competence": 1,
+      "Chunk": 45
+    },
+    {
+      "Action": "Says 'I love you, Oliver' simply and sincerely when he expresses worry.",
       "Warmth": 1,
       "Chunk": 46
     },
     {
-      "Action": "Refuses to seek help from Dr. Judd despite Oliver's concern.",
+      "Action": "Interrupts Oliver to insist she has never lied to him.",
+      "Warmth": 1,
+      "Chunk": 46
+    },
+    {
+      "Action": "Refuses to see Dr. Judd or accept help, indicating emotional withdrawal and resistance.",
       "Warmth": -1,
       "Chunk": 46
     },
     {
-      "Action": "Shows anger and fury at the mention of Alice, interrupting communication.",
+      "Action": "Reacts with concentrated fury and anger at mention of Alice, loudly repeating her name savagely.",
       "Warmth": -1,
       "Chunk": 46
     },
     {
-      "Action": "Continues washing paint brushes calmly despite Oliver's worries, speaks simply and directly to express love, refuses to see Dr. Judd or accept help.",
-      "Competence": 0,
-      "Chunk": 46
-    },
-    {
-      "Action": "Refuses to accept help from a doctor and from her husband, shows anger and emotional outburst at mention of Alice, does not engage in open communication.",
+      "Action": "Continues to twirl the brush and respond simply to Oliver's concerns, indicating avoidance rather than addressing the underlying problems.",
       "Competence": -1,
       "Chunk": 46
     },
     {
-      "Action": "Quietly hangs up the phone after no response from Alice.",
-      "Warmth": 0,
-      "Chunk": 48
+      "Action": "Insists she has never lied to Oliver, showing a straightforward defense but possibly lacking deeper engagement.",
+      "Competence": 0,
+      "Chunk": 46
     },
     {
-      "Action": "Seen praying sincerely to the statue of King John of Serbia, showing vulnerability and devotion.",
-      "Warmth": 1,
-      "Chunk": 49
+      "Action": "Refuses help from Dr. Judd and Oliver, demonstrating a reluctance to seek or accept assistance even when needed.",
+      "Competence": -1,
+      "Chunk": 46
     },
     {
-      "Action": "Suddenly rises and violently sweeps the statue to the floor, frightening the cats.",
-      "Warmth": -1,
-      "Chunk": 49
+      "Action": "Displays intense anger and fury internally when discussed with Oliver, indicating emotional turmoil that may impact rational decision-making.",
+      "Competence": -1,
+      "Chunk": 46
     },
     {
-      "Action": "Prays earnestly and then suddenly destroys the statue of King John of Serbia, causing the cats to flee.",
+      "Action": "Prays earnestly in front of a statue, showing emotional vulnerability but not practical agency.",
       "Competence": 0,
       "Chunk": 49
     },
     {
-      "Action": "Watches Oliver and Alice from a distance silently, then follows Alice alone down a dark, wet street.",
-      "Warmth": -1,
+      "Action": "Suddenly rises and violently sweeps the statue to the floor, causing cats to flee.",
+      "Competence": 0,
+      "Chunk": 49
+    },
+    {
+      "Action": "Watches Oliver and Alice from an alcove, then follows Alice at a distance on a dark, deserted street.",
+      "Warmth": 0,
       "Chunk": 51
     },
     {
-      "Action": "Watches Oliver and Alice attentively from an alcove, then follows Alice discreetly along a dark, wet transverse walk.",
-      "Competence": 1,
+      "Action": "Stands watching Oliver and Alice from an alcove, then follows Alice alone along a dark, wet transverse walk at night.",
+      "Competence": 0,
       "Chunk": 51
     },
     {
-      "Action": "Increases her pace and runs through a dark area, showing fear and panic, but does not take decisive or skillful action to protect herself or confront the situation.",
-      "Competence": -1,
-      "Chunk": 53
+      "Action": "Dabs at her lips with a handkerchief, appears dazed and bewildered after a stressful event.",
+      "Warmth": 0,
+      "Chunk": 55
     },
     {
-      "Action": "Appears dazed and bewildered after the caretaker discovers slain lambs and animal prints near her; she responds to the whistle and takes a taxi home quietly without protest or defensiveness.",
+      "Action": "Lets herself into Oliver's home despite her disheveled, dirty appearance, showing trust and openness.",
       "Warmth": 1,
       "Chunk": 55
     },
     {
-      "Action": "Lets herself into Oliver's home late at night, appearing vulnerable and disheveled, showing trust and openness toward him.",
-      "Warmth": 1,
+      "Action": "Lets herself into her home unaided despite being visibly distressed and disheveled.",
+      "Competence": 1,
       "Chunk": 55
     },
     {
-      "Action": "Appears dazed, bewildered, and puzzled at the scene of the slain lambs; shows irresolution and confusion.",
+      "Action": "Appears dazed, bewildered, and puzzled after the caretaker whistles and investigates the lambs' deaths.",
       "Competence": -1,
       "Chunk": 55
     },
     {
-      "Action": "Responds to the caretaker's whistle by getting into a taxi promptly, indicating some situational awareness.",
+      "Action": "Responds to the caretaker's whistle by taking a taxi, showing some initiative to leave the scene.",
       "Competence": 0,
       "Chunk": 55
     },
     {
-      "Action": "Lets herself into her home quietly and closes the door behind her, showing some control over her immediate environment despite her disheveled state.",
-      "Competence": 0,
-      "Chunk": 55
-    },
-    {
-      "Action": "Draws away from Oliver's supportive touch and asks him not to come near her.",
+      "Action": "Draws away from Oliver’s supportive touch and asks him not to come near her despite his concern.",
       "Warmth": -1,
       "Chunk": 56
     },
     {
-      "Action": "Mumbles 'I forgive you' to Oliver despite her evident distress.",
+      "Action": "Mumbling brokenly that she forgives Oliver after he apologizes.",
       "Warmth": 1,
       "Chunk": 56
     },
     {
-      "Action": "Draws away from Oliver's support despite exhaustion, insists on being left alone, and manages to get to her room and start filling the tub with water and undressing rapidly.",
-      "Competence": 1,
-      "Chunk": 56
+      "Action": "Smiles and politely compliments the animal keeper on his attentive feeding.",
+      "Warmth": 1,
+      "Chunk": 57
     },
     {
-      "Action": "Appears extremely exhausted and on the verge of collapse, showing physical and emotional vulnerability.",
+      "Action": "Sits very still in the tub trying to control her hysteria, indicating a self-awareness and attempt to manage emotions.",
+      "Competence": 1,
+      "Chunk": 57
+    },
+    {
+      "Action": "Moves slightly in her sleep and tries to speak, showing some subconscious struggle but no failure of basic functions.",
+      "Competence": 0,
+      "Chunk": 57
+    },
+    {
+      "Action": "Is depicted in a dreamlike/supernatural imagery dominated by external suggestion (Judd's voice and key pressing down), indicating vulnerability to suggestion and a potential lack of mental control.",
       "Competence": -1,
-      "Chunk": 56
-    },
-    {
-      "Action": "Stands at the guard rail watching the panther cage, speaks kindly to the keeper, complimenting his care for the animals.",
-      "Warmth": 1,
       "Chunk": 57
     },
     {
-      "Action": "Sits very still in the tub trying to control her hysteria.",
-      "Competence": 0,
-      "Chunk": 57
-    },
-    {
-      "Action": "Moves slightly in her sleep, lips moving as if trying to speak.",
-      "Competence": 0,
-      "Chunk": 57
-    },
-    {
-      "Action": "Stands calmly at the guard rail in the rain and speaks politely to the keeper.",
+      "Action": "Engages pleasantly and confidently with the animal keeper, making light, social comment about animals loving him, suggesting calmness and sociability.",
       "Competence": 1,
       "Chunk": 57
     },
     {
-      "Action": "Laughs kindly at the keeper's joke about animals and digestion.",
+      "Action": "Laughs gently at the keeper's self-deprecating joke, making him chuckle and feel at ease.",
       "Warmth": 1,
       "Chunk": 58
     },
     {
-      "Action": "Smiles at the keeper while he chuckles.",
-      "Warmth": 1,
-      "Chunk": 58
-    },
-    {
-      "Action": "Secretly takes the key to the panther's cage without informing the keeper or others.",
+      "Action": "Quietly takes the key from the panther's cage without informing the keeper or anyone else.",
       "Warmth": -1,
       "Chunk": 58
     },
     {
-      "Action": "Quietly notices the key left in the panther's cage lock, takes it without being seen, and secures it in her purse, showing awareness and discretion.",
-      "Competence": 1,
-      "Chunk": 58
-    },
-    {
-      "Action": "Smiles at the keeper who is distracted and chuckling, maintaining composure and social grace.",
-      "Competence": 1,
-      "Chunk": 58
-    },
-    {
-      "Action": "Shows fascination with the cat's face on the model ship, indicating curiosity but no direct action related to competence.",
-      "Competence": 0,
-      "Chunk": 58
-    },
-    {
-      "Action": "Expresses desire to stay with Oliver and not be sent away, showing vulnerability and attachment.",
+      "Action": "Expresses desire to stay with Oliver and resists being sent away, shows vulnerability.",
       "Warmth": 1,
       "Chunk": 59
     },
     {
-      "Action": "Feels sulky and angry, walks off alone, perceiving others want to be rid of her.",
-      "Warmth": 0,
+      "Action": "Feels sulky and angered, walks off alone, does not engage with others.",
+      "Warmth": -1,
       "Chunk": 59
     },
     {
-      "Action": "Shows absorption and interest in the quaint cat face on the 'Royal Harry' model, indicating focus and engagement.",
+      "Action": "Looks absorbed and interested in quaint objects (cat face on the 'Royal Harry'), showing focused attention.",
       "Competence": 1,
       "Chunk": 59
     },
     {
-      "Action": "Responds to Oliver's suggestion with a pout and desire to stay, showing emotional expression but some lack of assertiveness or confidence in social interaction.",
-      "Competence": 0,
-      "Chunk": 59
-    },
-    {
-      "Action": "Feels that others want to be rid of her and walks off, indicating sensitivity and possible insecurity rather than confident behavior.",
+      "Action": "Shows pouting and a desire to cling to Oliver rather than explore or engage on her own.",
       "Competence": -1,
       "Chunk": 59
     },
     {
-      "Action": "Paces the museum corridors alone with a sullen, sulky expression, showing emotional turmoil but no active problem-solving or constructive action.",
+      "Action": "Walks off after feeling unwanted, displaying sulkiness and emotional upset rather than addressing the situation.",
       "Competence": -1,
       "Chunk": 59
     },
     {
-      "Action": "Glances only briefly at the terra cotta figurines of the goddess Bubastis, indicating lack of curiosity or engagement with surroundings.",
+      "Action": "Paces the museum corridor alone with a sullen look, barely noticing artifacts (only a glance at figurines) while her stride lengthens with anger.",
       "Competence": -1,
       "Chunk": 59
     },
     {
-      "Action": "Stops and looks up at the effigy of the goddess Bubastis, seeming to reach a resolve, which suggests a moment of internal decision or determination.",
+      "Action": "Stops and looks up reflectively at the effigy of goddess Bubastis, seemingly reaching a resolve.",
       "Competence": 1,
       "Chunk": 59
     },
     {
-      "Action": "Pauses briefly to look toward Alice and Oliver before quietly leaving the museum without interaction.",
+      "Action": "Pauses briefly to look toward Alice and Oliver, then quietly leaves the building without interaction.",
       "Warmth": 0,
       "Chunk": 60
     },
     {
-      "Action": "Stands irresolutely under the hotel marquee after arriving, showing hesitation but no direct engagement.",
+      "Action": "Stands irresolutely under the hotel marquee after arriving, showing hesitation or inner conflict.",
       "Warmth": 0,
       "Chunk": 60
     },
     {
-      "Action": "Her expression grows grim, resolute. She turns, and walks quickly away.",
+      "Action": "Her expression grows grim, resolute; she turns and walks quickly away.",
       "Competence": 1,
       "Chunk": 60
     },
     {
-      "Action": "Pauses for a moment beside a bronze statue, looks toward the ship exhibit room, then looks at Alice and Oliver before turning and walking out of the building.",
+      "Action": "Pauses to look toward the ship exhibit room but then turns and walks out of the building without interacting.",
       "Competence": 0,
       "Chunk": 60
     },
     {
-      "Action": "Gets out of a cab, pays the driver, then stands irresolutely under the marquee.",
+      "Action": "Gets out of a cab and pays the driver promptly, then stands irresolutely under the marquee.",
       "Competence": -1,
       "Chunk": 60
     },
     {
-      "Action": "Walks irresolutely back and forth, hesitating before making a decision to enter the hotel.",
-      "Competence": -1,
-      "Chunk": 61
-    },
-    {
-      "Action": "Approaches the front desk quietly and politely asks to see Miss Moore, then follows directions to the swimming pool.",
-      "Competence": 1,
-      "Chunk": 61
-    },
-    {
-      "Action": "Calmly enters the room, dressed immaculately, and asks Alice what is the matter, showing concern.",
+      "Action": "Stands calm and poised when Alice is frightened, smiles reassuringly at others, apologizes for disturbing Alice, expresses concern by saying she missed Alice and Oliver and inquires about Oliver's whereabouts.",
       "Warmth": 1,
       "Chunk": 64
     },
     {
-      "Action": "Smiles at Mrs. Hanson and the blonde, then looks back toward Alice, indicating a friendly demeanor.",
-      "Warmth": 1,
-      "Chunk": 64
-    },
-    {
-      "Action": "Apologizes to Alice for disturbing her and expresses that she missed Alice and Oliver, showing sincerity and warmth.",
-      "Warmth": 1,
-      "Chunk": 64
-    },
-    {
-      "Action": "Decides to leave promptly after the brief interaction, respecting Alice's space.",
-      "Warmth": 1,
-      "Chunk": 64
-    },
-    {
-      "Action": "Stands calm and poised by the electric switch, dressed immaculately, and handles the situation with a composed demeanor.",
+      "Action": "Calmly stands by the electric switch, dressed immaculately, maintaining composure, and politely inquires about Alice's condition.",
       "Competence": 1,
       "Chunk": 64
     },
     {
-      "Action": "Smiles reassuringly at others and politely excuses herself after a brief interaction, showing social grace and control.",
+      "Action": "Smiles at others to reassure them and efficiently excuses herself after a brief social interaction.",
       "Competence": 1,
       "Chunk": 64
     },
     {
-      "Action": "Interrupts Alice unexpectedly, causing her distress, which may indicate a lack of sensitivity or awareness.",
+      "Action": "Does not take any direct action to assist Alice who is weak in the pool, instead starts toward the stairs without intervening.",
       "Competence": -1,
       "Chunk": 64
     },
     {
-      "Action": "Disappears quietly without confrontation when Alice looks for her",
-      "Warmth": 0,
-      "Chunk": 65
-    },
-    {
-      "Action": "Leaves the scene promptly when conversation ends, showing awareness of social cues and timing.",
+      "Action": "Leaves the conversation politely and promptly to run on when asked, demonstrating social grace and decisiveness.",
       "Competence": 1,
       "Chunk": 65
     },
     {
-      "Action": "Disappears up the stairs without further interaction or explanation, potentially avoiding confrontation or engagement.",
-      "Competence": 0,
+      "Action": "Disappears up the stairs without further engagement or demonstration of addressing the threat or problem directly.",
+      "Competence": -1,
       "Chunk": 65
     },
     {
-      "Action": "Fears the past and is implied to have a very strong imagination that affects her perception of reality.",
-      "Competence": -1,
-      "Chunk": 66
-    },
-    {
-      "Action": "Answers the phone calmly and recognizes Alice's voice, showing concern.",
+      "Action": "Answers the phone kindly, with concern when Alice calls.",
       "Warmth": 1,
       "Chunk": 67
     },
     {
-      "Action": "Reacting with dread and horror to Alice's accusations, imploring her not to say such things.",
+      "Action": "Responds with horror and imploring tone when accused by Alice, showing distress and denial.",
       "Warmth": 1,
       "Chunk": 67
     },
     {
-      "Action": "Answers the telephone promptly and engages in conversation despite emotional difficulty.",
+      "Action": "Answers the phone calmly and recognizes the caller, initially shows control and composure.",
       "Competence": 1,
       "Chunk": 67
     },
     {
-      "Action": "Shows a look of dread and horror, leans on the table for support, and denies remembering events that implicate her in attempted harm.",
-      "Competence": -1,
+      "Action": "Responds to serious accusations with denial and plea, shows distress and possible confusion.",
+      "Competence": 0,
       "Chunk": 67
     },
     {
-      "Action": "Leans forward troubled, brushes hair back, shows vulnerability and seeks help from Dr. Judd.",
+      "Action": "Leans forward with a troubled hand, showing vulnerability and concern.",
       "Warmth": 1,
       "Chunk": 68
     },
     {
-      "Action": "Imploringly asks Dr. Judd for help, showing trust and openness.",
+      "Action": "Imploringly asks Dr. Judd for help, showing trust and sincerity.",
       "Warmth": 1,
       "Chunk": 68
     },
     {
-      "Action": "Admits fear and uncertainty about her condition, showing sincerity and vulnerability.",
+      "Action": "Admits uncertainty and fear openly to Dr. Judd.",
       "Warmth": 1,
       "Chunk": 68
     },
     {
-      "Action": "Leans forward, troubled, contemplates her situation, then decisively rises and leaves the apartment to seek help.",
-      "Competence": 1,
-      "Chunk": 68
-    },
-    {
-      "Action": "Appears confused and fearful about her condition, admits uncertainty about her own nature.",
-      "Competence": -1,
-      "Chunk": 68
-    },
-    {
-      "Action": "Seeks professional help from Dr. Judd despite her fears and confusion.",
-      "Competence": 1,
-      "Chunk": 68
-    },
-    {
-      "Action": "Fails to convince Dr. Judd of her truthfulness, showing possible lack of clarity or openness.",
-      "Competence": -1,
-      "Chunk": 68
-    },
-    {
-      "Action": "Moves away from Judd when he tries to touch her, expressing discomfort with his advances.",
+      "Action": "Begs Dr. Judd to believe her and insists she has no secrets, seeking help sincerely.",
       "Warmth": 1,
       "Chunk": 69
     },
     {
-      "Action": "Desperately pleads with Dr. Judd to believe her and insists she has told him everything and not lied.",
+      "Action": "Moves away when Dr. Judd tries to kiss her, rejecting his advance politely.",
       "Warmth": 1,
       "Chunk": 69
     },
     {
-      "Action": "Does not confide fully or openly with Dr. Judd despite his insistence, withholding her secret.",
-      "Warmth": 0,
-      "Chunk": 69
-    },
-    {
-      "Action": "Moves away from Judd when he tries to touch her, showing clear boundaries and self-protection.",
+      "Action": "Moves away from Judd's attempt to touch her; clearly sets personal boundary.",
       "Competence": 1,
       "Chunk": 69
     },
     {
-      "Action": "Desperately pleads with Dr. Judd to believe her and help her, showing honesty and willingness to seek help.",
+      "Action": "Desperately insists she has no secrets and pleads for help, showing openness and honesty.",
       "Competence": 1,
       "Chunk": 69
     },
     {
-      "Action": "Refuses to confide fully in Dr. Judd, withholding some information or emotions.",
+      "Action": "Appears shaken and frightened after Judd's warning about insanity, indicating emotional vulnerability.",
       "Competence": -1,
       "Chunk": 69
     },
     {
-      "Action": "Appears shaken and frightened when confronted with the possibility of insanity, indicating vulnerability and lack of control.",
+      "Action": "Fails to fully confide in her doctor or actively follow his advice to help herself.",
       "Competence": -1,
       "Chunk": 69
     },
@@ -1366,172 +1256,162 @@
       "Chunk": 70
     },
     {
-      "Action": "Sits attentively with Oliver, watches him with concern.",
+      "Action": "Watches Oliver thoughtfully, demonstrates concern and attentiveness.",
       "Warmth": 1,
       "Chunk": 70
     },
     {
-      "Action": "Shares personal information about visiting Dr. Judd and overcoming fear.",
+      "Action": "Tells Oliver she is no longer afraid, showing openness and trust.",
       "Warmth": 1,
       "Chunk": 70
     },
     {
-      "Action": "Smiles expectantly at Oliver despite his emotional distance.",
-      "Warmth": 1,
+      "Action": "Stands smiling expectantly for Oliver's kiss despite emotional tension.",
+      "Warmth": 0,
       "Chunk": 70
     },
     {
-      "Action": "Tells Oliver she is no longer afraid after visiting Dr. Judd, indicating a step toward confronting her fears and seeking help.",
+      "Action": "Tells Oliver she is no longer afraid after visiting Dr. Judd.",
       "Competence": 1,
       "Chunk": 70
     },
     {
-      "Action": "Removes cat-related objects from her living space, symbolizing an attempt to lead a normal life and exert control over her environment.",
-      "Competence": 1,
+      "Action": "Watches Oliver thoughtfully and waits expectantly but with inquiry.",
+      "Competence": 0,
       "Chunk": 70
     },
     {
-      "Action": "Waits expectantly for Oliver's kiss despite his emotional distance and eventual rejection, showing possible emotional vulnerability or lack of awareness.",
-      "Competence": -1,
-      "Chunk": 70
-    },
-    {
-      "Action": "Expresses sorrow and vulnerability by admitting she is being left alone and shows tears in her eyes.",
+      "Action": "Acknowledges the end of the relationship with tears and sorrow, expressing vulnerability and sincere emotion.",
       "Warmth": 1,
       "Chunk": 71
     },
     {
-      "Action": "Acknowledges the happiness given by Oliver despite their troubles.",
+      "Action": "Expresses feeling left alone brokenly, indirectly showing openness about her pain and need for connection.",
       "Warmth": 1,
       "Chunk": 71
     },
     {
-      "Action": "Turns to anger and intensity, showing a harsh, almost hostile tone toward Oliver.",
+      "Action": "Turns anger towards Oliver, voice tense and intense, indicating emotional turmoil that distances warmth momentarily.",
       "Warmth": -1,
       "Chunk": 71
     },
     {
-      "Action": "Expresses deep emotional pain and vulnerability, sinks down on the edge of the sofa, shows difficulty in responding effectively to the situation.",
-      "Competence": -1,
-      "Chunk": 71
-    },
-    {
-      "Action": "Confronts Oliver with intense emotion and anger, showing a moment of assertiveness and emotional intensity.",
+      "Action": "Voices her deep emotional pain clearly and confronts Oliver with a keen intensity, showing emotional depth but lacking control.",
       "Competence": 0,
       "Chunk": 71
     },
     {
-      "Action": "Turns away from Oliver, hides her face, speaks incoherently, and asks him to leave despite his concern.",
-      "Warmth": -1,
-      "Chunk": 72
+      "Action": "Falls into a flood of anger that relaxes her grasp on reality and sanity, losing composure and control.",
+      "Competence": -1,
+      "Chunk": 71
     },
     {
-      "Action": "Attempts to maintain self-control despite emotional turmoil, asks Oliver to leave to protect herself or the situation.",
-      "Competence": 1,
-      "Chunk": 72
-    },
-    {
-      "Action": "Becomes incoherent and pours forth meaningless words, showing loss of composure and clarity.",
+      "Action": "Hides face, speaks incoherently, loses self-control momentarily, asks Oliver to leave despite his concern.",
       "Competence": -1,
       "Chunk": 72
     },
     {
-      "Action": "No direct action or statement in this excerpt; others discuss her condition and possible institutionalization or annulment of marriage.",
+      "Action": "Fights to regain self-control, speaks with a throaty and vibrant voice indicating attempted control.",
+      "Competence": 0,
+      "Chunk": 72
+    },
+    {
+      "Action": "No direct action or statement by Irena in this excerpt; she is discussed by others but does not participate.",
       "Competence": 0,
       "Chunk": 73
     },
     {
-      "Action": "Does not show up for the arranged interview, possibly avoiding confrontation or responsibility.",
+      "Action": "Does not show up for the scheduled interview and apparently avoids contact, possibly walking in the park instead.",
       "Competence": -1,
       "Chunk": 74
     },
     {
-      "Action": "Calls on the telephone in a way that causes fear and suspicion, possibly stalking or threatening behavior.",
-      "Competence": -1,
-      "Chunk": 76
-    },
-    {
-      "Action": "No direct action or statement by Irena in this excerpt; she is the subject of Oliver's calls and pleas but remains unseen and silent.",
-      "Competence": 0,
-      "Chunk": 78
-    },
-    {
-      "Action": "Stands calmly and measures her stare at Dr. Judd after he hangs up the phone, showing controlled and composed demeanor.",
-      "Warmth": 0,
+      "Action": "Calmly faces Dr. Judd with a measured stare when he comes to her, showing composure and sincerity.",
+      "Warmth": 1,
       "Chunk": 80
     },
     {
-      "Action": "Stands calmly and measures her stare at Dr. Judd, maintaining composure when confronted.",
+      "Action": "Closes the door behind her upon entry, potentially signaling guardedness or distance.",
+      "Warmth": -1,
+      "Chunk": 80
+    },
+    {
+      "Action": "Maintains a calm, measuring stare when confronted by Dr. Judd, showing controlled demeanor in a tense moment.",
       "Competence": 1,
       "Chunk": 80
     },
     {
-      "Action": "Remains expressionless and emotionally blank during intimate moment with Judd, showing no warmth or affection.",
+      "Action": "Comes into the room quietly and closes the door behind her, indicating awareness of surroundings.",
+      "Competence": 1,
+      "Chunk": 80
+    },
+    {
+      "Action": "Allows Judd to kiss her silently without showing any reciprocal emotion or warmth.",
       "Warmth": -1,
       "Chunk": 81
     },
     {
-      "Action": "Maintains a calm, expressionless, and controlled demeanor even during an intense and intimate moment, showing emotional restraint and composure.",
+      "Action": "Maintains an expressionless, blank, and vacant face during an intimate moment, showing no visible warmth or affection.",
+      "Warmth": -1,
+      "Chunk": 81
+    },
+    {
+      "Action": "Maintains a calm, measuring, and expressionless demeanor despite Judd's intimidating actions and advances.",
       "Competence": 1,
       "Chunk": 81
     },
     {
-      "Action": "Does not struggle or react physically when Judd embraces and kisses her, remaining passive and unresponsive.",
+      "Action": "Does not struggle or resist when Judd embraces and kisses her, showing no visible emotional reaction or defense.",
       "Competence": -1,
       "Chunk": 81
     },
     {
-      "Action": "Moves stealthily to avoid being seen by Alice and Oliver, hides a hurt under her coat, watches Oliver with quiet attention, softly calls his name, and makes a gesture of farewell before leaving.",
+      "Action": "Moves stealthily into shadows to avoid being seen by Alice and Oliver, while watching Oliver intently.",
+      "Warmth": -1,
+      "Chunk": 83
+    },
+    {
+      "Action": "Calls softly for Oliver, indicating a desire to connect despite hiding.",
       "Warmth": 1,
       "Chunk": 83
     },
     {
-      "Action": "Moves stealthily and hides in shadows to avoid being seen by Alice and Oliver.",
+      "Action": "Makes a gesture of farewell to Oliver before turning away toward the street door.",
+      "Warmth": 1,
+      "Chunk": 83
+    },
+    {
+      "Action": "Moves stealthily into shadows to avoid detection while partially injured and holds her coat as if hiding a hurt, showing awareness and control of the situation.",
       "Competence": 1,
       "Chunk": 83
     },
     {
-      "Action": "Calls Oliver softly from a distance, but he does not hear her name clearly.",
-      "Competence": 0,
+      "Action": "Calls Oliver softly and makes a gesture of farewell from the stairwell, communicating nonverbally and subtly influencing his behavior despite her hidden position.",
+      "Competence": 1,
       "Chunk": 83
     },
     {
-      "Action": "Makes a gesture of farewell to Oliver and turns away toward the street door, not engaging further.",
-      "Competence": 0,
-      "Chunk": 83
-    },
-    {
-      "Action": "Apartment shows signs of a violent struggle, suggesting she was involved in a traumatic event but no direct hostile behavior shown.",
-      "Warmth": 0,
-      "Chunk": 84
-    },
-    {
-      "Action": "The scene shows aftermath of a struggle in her apartment, but Irena herself is not shown taking any direct action or demonstrating control in this excerpt.",
+      "Action": "Scene shows aftermath of a struggle in Irena's apartment implying possible involvement but no direct action or clear evidence of competence in handling the situation.",
       "Competence": 0,
       "Chunk": 84
     },
     {
-      "Action": "Opens the panther cage door and faces the panther calmly, showing trust and fearlessness.",
+      "Action": "Opens the panther's cage and stands facing the beast calmly, showing no fear.",
       "Warmth": 1,
       "Chunk": 85
     },
     {
-      "Action": "Allows a dangerous animal to be freed, resulting in her own death.",
+      "Action": "Does not attempt to flee or defend herself aggressively when attacked, but rather seems resigned or accepting, with a slight smile before dying.",
       "Warmth": 0,
       "Chunk": 85
     },
     {
-      "Action": "Opens the panther cage by unlocking it with a key from her purse, showing deliberate and calm action.",
+      "Action": "Opens the panther cage and faces the dangerous animal calmly with head up and arms at sides, showing confidence and composure.",
       "Competence": 1,
       "Chunk": 85
     },
     {
-      "Action": "Stands facing a dangerous panther with arms at her side and wide eyes, showing calmness and confidence in a threatening situation.",
-      "Competence": 1,
-      "Chunk": 85
-    },
-    {
-      "Action": "Is attacked and killed by the panther after opening the cage, indicating a fatal misjudgment or underestimation of danger.",
+      "Action": "Allows the panther to attack and kill her, failing to defend or escape, indicating inability to handle the situation effectively.",
       "Competence": -1,
       "Chunk": 85
     }

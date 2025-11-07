@@ -1,932 +1,837 @@
 {
-  "Kit": [
+  "Kit Carruthers": [
     {
       "Action": "Kneels beside a dead dog and inspects it briefly.",
       "Warmth": 1,
       "Chunk": 1
     },
     {
-      "Action": "Jokes about eating the dead dog to his friend Cato.",
+      "Action": "Jokes with his friend offering a dollar to eat the dog.",
+      "Warmth": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Mocks the indifferent behavior of Woody who won’t give a cigarette.",
       "Warmth": 0,
       "Chunk": 1
     },
     {
-      "Action": "Shrugs off Woody's refusal to give him a cigarette and comments on Woody's silence.",
-      "Warmth": 0,
-      "Chunk": 1
-    },
-    {
-      "Action": "Makes a terrible racket with Cato, showing no regard for neighbors' sleep.",
+      "Action": "Makes loud noise with Cato without regard for neighbors' sleep.",
       "Warmth": -1,
       "Chunk": 1
     },
     {
-      "Action": "Inspects a dead dog briefly and makes a joke about eating it, showing casual observational skills and humor.",
+      "Action": "Kneels beside a dead dog to inspect it briefly before making a joke about eating it.",
+      "Competence": 1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Bangs on the driver's door demanding a cigarette and shrugs off being denied.",
       "Competence": 0,
       "Chunk": 1
     },
     {
-      "Action": "Bangs on the driver's door to ask for a cigarette, but is ignored and shrugs it off, showing some social awareness but no assertiveness.",
-      "Competence": 0,
-      "Chunk": 1
-    },
-    {
-      "Action": "Makes a comment about Woody not talking much, indicating some perceptiveness about others.",
-      "Competence": 0,
-      "Chunk": 1
-    },
-    {
-      "Action": "Tries to sell shoes to a bum, encourages Cato to try them instead.",
-      "Warmth": 1,
-      "Chunk": 2
-    },
-    {
-      "Action": "Reads other people's mail and searches through trash for valuables.",
-      "Warmth": -1,
-      "Chunk": 2
-    },
-    {
-      "Action": "Slaps Cato on the back and engages in playful loaf-throwing exchange.",
-      "Warmth": 1,
-      "Chunk": 2
-    },
-    {
-      "Action": "Approaches Holly politely, introduces himself with a smile, and tries to start a friendly conversation.",
-      "Warmth": 1,
-      "Chunk": 2
-    },
-    {
-      "Action": "Tries to sell shoes to a bum, attempts to negotiate a sale despite rejection.",
-      "Competence": 1,
-      "Chunk": 2
-    },
-    {
-      "Action": "Searches through trash and reads mail to find useful information about a neighbor's unpaid bills.",
-      "Competence": 1,
-      "Chunk": 2
-    },
-    {
-      "Action": "Strips off apron and decides to stop working for the day, showing awareness of limits.",
-      "Competence": 0,
-      "Chunk": 2
-    },
-    {
-      "Action": "Engages in playful behavior like balancing a stolen mop and stomping a can, looking around to avoid being seen.",
-      "Competence": 1,
-      "Chunk": 2
-    },
-    {
-      "Action": "Approaches Holly politely and introduces himself, showing social confidence.",
-      "Competence": 1,
-      "Chunk": 2
-    },
-    {
-      "Action": "Invites Holly to take a walk and tries to engage her in conversation, sharing personal details about his job and name.",
-      "Warmth": 1,
-      "Chunk": 3
-    },
-    {
-      "Action": "Responds supportively when Holly expresses concern about her father's disapproval of Kit's job.",
-      "Warmth": 1,
-      "Chunk": 3
-    },
-    {
-      "Action": "Presses Holly to see him again despite her hesitation and the social stigma she mentions.",
-      "Warmth": 0,
-      "Chunk": 3
-    },
-    {
-      "Action": "Initiates conversation with Holly confidently and tries to engage her in a walk despite her initial suspicion.",
-      "Competence": 1,
-      "Chunk": 3
-    },
-    {
-      "Action": "Shares personal information openly and uses humor to ease the interaction (comment about last name).",
-      "Competence": 1,
-      "Chunk": 3
-    },
-    {
-      "Action": "Admits to having a low-status job without embarrassment and tries to frame it positively.",
-      "Competence": 1,
-      "Chunk": 3
-    },
-    {
-      "Action": "Pushes for a future meeting despite Holly's hesitation and social pressure.",
-      "Competence": 0,
-      "Chunk": 3
-    },
-    {
-      "Action": "Responds to Holly's father's disapproval with a dismissive attitude rather than addressing the concern seriously.",
+      "Action": "Makes a loud racket with no regard for others' sleep.",
       "Competence": -1,
+      "Chunk": 1
+    },
+    {
+      "Action": "Tries to sell shoes to a bum despite the bum's disinterest.",
+      "Warmth": 0,
+      "Chunk": 2
+    },
+    {
+      "Action": "Warns Cato about a neighbor who doesn't pay bills.",
+      "Warmth": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Shares playful interaction with Cato throwing bread back and forth.",
+      "Warmth": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Introduces himself politely to Holly and tries to engage in friendly conversation.",
+      "Warmth": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Tries to sell a pair of shoes to a bum who refuses to even try them on, and pitches them to Cato without much success.",
+      "Competence": -1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Searches through trash for valuables and reads other people's mail to find useful information.",
+      "Competence": 1,
+      "Chunk": 2
+    },
+    {
+      "Action": "Strips off his apron and ends his trash-collecting activity for the day confidently.",
+      "Competence": 0,
+      "Chunk": 2
+    },
+    {
+      "Action": "Balances a stolen mop on his finger and stomps a can playfully while watching for being spotted.",
+      "Competence": 0,
+      "Chunk": 2
+    },
+    {
+      "Action": "Approaches Holly, initiates conversation with a friendly and open attitude.",
+      "Competence": 0,
+      "Chunk": 2
+    },
+    {
+      "Action": "Approaches Holly, initiates conversation, and invites her to take a walk.",
+      "Warmth": 1,
       "Chunk": 3
     },
     {
-      "Action": "Flicks paint teasingly at Holly's feet, causing her to giggle.",
+      "Action": "Engages Holly in light, self-deprecating humor to ease tension.",
       "Warmth": 1,
-      "Chunk": 4
+      "Chunk": 3
     },
     {
-      "Action": "Offers Holly a cigarette, despite her declining.",
-      "Warmth": 0,
-      "Chunk": 4
-    },
-    {
-      "Action": "Engages Holly in casual conversation, showing openness about quitting his job and future plans.",
+      "Action": "Encourages honesty from Holly and listens sincerely to her concerns.",
       "Warmth": 1,
-      "Chunk": 4
+      "Chunk": 3
     },
     {
-      "Action": "Pulls himself up onto the bannister beside Holly, making her watch him intently but feeling uncomfortable himself.",
+      "Action": "Defends his job and challenges social prejudice when Holly mentions her father's disapproval.",
+      "Warmth": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Persistently asks when he'll see Holly again despite her reluctance.",
       "Warmth": 0,
-      "Chunk": 4
+      "Chunk": 3
     },
     {
-      "Action": "Admits he lost his previous job and is unsure about what work he is qualified for.",
-      "Competence": -1,
-      "Chunk": 4
-    },
-    {
-      "Action": "Proactively goes to an employment agency to seek work and obtains a slip for proof of visit.",
+      "Action": "Initiates conversation with Holly confidently, proposes a walk despite her suspicion.",
       "Competence": 1,
-      "Chunk": 4
+      "Chunk": 3
     },
     {
-      "Action": "Decides to quit his job and consider working as a cowboy, showing willingness to change and adapt.",
+      "Action": "Casually shares personal information like his last name and job, showing openness in communication.",
+      "Competence": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Continues engaging Holly even after her reluctance and apparent social barriers (her father's disapproval).",
+      "Competence": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Does not challenge or handle the social risk or underlying power dynamics (Holly's father's disapproval) beyond a surface-level retort.",
       "Competence": 0,
+      "Chunk": 3
+    },
+    {
+      "Action": "Teases Holly playfully with paint and flirts lightly.",
+      "Warmth": 1,
       "Chunk": 4
     },
     {
-      "Action": "Engages in casual conversation and attempts to connect with Holly, but shows some discomfort when she watches him.",
-      "Competence": 0,
+      "Action": "Seeks employment and honestly discusses past job loss.",
+      "Warmth": 1,
       "Chunk": 4
     },
     {
-      "Action": "Invites Holly to go for a ride and offers to let her bring homework along.",
+      "Action": "Offers Holly a cigarette despite her declining it, attempts casual friendly interaction.",
       "Warmth": 1,
-      "Chunk": 5
+      "Chunk": 4
     },
     {
-      "Action": "Greets a passing stranger with a friendly 'Hi.'",
-      "Warmth": 1,
-      "Chunk": 5
-    },
-    {
-      "Action": "Engages Holly in conversation, showing interest in her feelings about being called 'Red'.",
-      "Warmth": 1,
-      "Chunk": 5
-    },
-    {
-      "Action": "Asks Holly if he can come see her tomorrow, showing interest and respect for her response.",
-      "Warmth": 1,
-      "Chunk": 5
-    },
-    {
-      "Action": "Works diligently at the feedlot, showing responsibility and steadiness.",
+      "Action": "Expresses discomfort when Holly watches him intently, indicating some social awkwardness.",
       "Warmth": 0,
-      "Chunk": 5
+      "Chunk": 4
     },
     {
-      "Action": "Expresses sincere compliments to Holly, emphasizing non-sexual affection and acceptance of her personality.",
+      "Action": "Invites Holly to go for a ride and offers to help with her homework.",
       "Warmth": 1,
       "Chunk": 5
     },
     {
-      "Action": "Does not pressure Holly to be more outgoing or change her personality.",
+      "Action": "Greets a stranger warmly on the street.",
       "Warmth": 1,
       "Chunk": 5
     },
     {
-      "Action": "Invites Holly to go for a ride and confidently suggests she bring her homework, showing forwardness and ease in social interaction.",
+      "Action": "Engages Holly gently despite her discomfort and nervousness.",
+      "Warmth": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Expresses sincere interest in Holly and makes her feel accepted and liked regardless of others' opinions.",
+      "Warmth": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Invites Holly for a ride spontaneously and confidently, showing forwardness that surprises her.",
       "Competence": 1,
       "Chunk": 5
     },
     {
-      "Action": "Greets a passing stranger casually and notices small details like a dropped paper bag, indicating awareness and social ease.",
+      "Action": "Greets a passing stranger casually and engages Holly in conversation smoothly, indicating social ease and confidence.",
       "Competence": 1,
       "Chunk": 5
     },
     {
-      "Action": "Steers Holly toward his car and asks to see her again, demonstrating confidence and initiative in pursuing a relationship.",
+      "Action": "Works productively at the feedlot performing multiple tasks like throwing hay and feeding pills to cattle, showing practical skill and reliability.",
       "Competence": 1,
       "Chunk": 5
     },
     {
-      "Action": "Works at the feedlot performing various tasks like throwing hay and feeding pills, showing responsibility and capability in his job.",
+      "Action": "Does not exert pressure on Holly despite their young age and his apparent popularity, showing emotional intelligence and a controlled demeanor.",
       "Competence": 1,
       "Chunk": 5
     },
     {
-      "Action": "Does not show any hesitation or awkwardness in social situations, maintaining composure and confidence.",
-      "Competence": 1,
-      "Chunk": 5
-    },
-    {
-      "Action": "Offers Holly an old Fudgesicle when her stomach is growling, laughs with her.",
+      "Action": "Offers Holly an old Fudgesicle to eat when her stomach is growling, tries to make her laugh.",
       "Warmth": 1,
       "Chunk": 6
     },
     {
-      "Action": "Absorbed in the card game, responds briefly to Holly's comment about the flowers.",
+      "Action": "Absorbed in a card game, minimal verbal engagement with Holly beyond brief affirmations.",
       "Warmth": 0,
       "Chunk": 6
     },
     {
-      "Action": "Engages in a relaxed card game and casual conversation, showing ease and confidence in social interaction.",
-      "Competence": 1,
+      "Action": "Makes a serious comment about kids eating candy in Korea, showing some empathy or awareness of hardship.",
+      "Warmth": 1,
       "Chunk": 6
     },
     {
-      "Action": "Offers an old Fudgesicle to Holly and makes a culturally informed comment about kids in Korea eating such treats, showing some worldly knowledge and ability to lighten the mood.",
-      "Competence": 1,
-      "Chunk": 6
-    },
-    {
-      "Action": "Appears absorbed in the game and somewhat passive in the conversation, not taking initiative or demonstrating problem-solving or leadership.",
+      "Action": "Shows attentiveness and engagement in simple activities like playing cards and interacting playfully with Holly, demonstrating social ease and some confidence.",
       "Competence": 0,
       "Chunk": 6
     },
     {
-      "Action": "Consoles Holly about her lost fish, listens to her problems.",
+      "Action": "Offers a Fudgesicle as a joke and laughs, then makes a culturally aware remark about kids in Korea eating such treats, showing some observational intelligence and an attempt at connecting.",
+      "Competence": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Appears absorbed in the card game and surroundings but does not take initiative or show problem-solving or proactive skills in these excerpts.",
+      "Competence": 0,
+      "Chunk": 6
+    },
+    {
+      "Action": "Keeps the mood light and playful with Holly, but no explicit indication of skill or capability beyond social ease is present here.",
+      "Competence": 0,
+      "Chunk": 6
+    },
+    {
+      "Action": "Consoles Holly about her dead fish, listens to her worries.",
       "Warmth": 1,
       "Chunk": 7
     },
     {
-      "Action": "Fakes his signature to prevent forgery.",
-      "Warmth": 0,
-      "Chunk": 7
-    },
-    {
-      "Action": "Responds tersely and avoids Holly's questions about an event, making himself uncomfortable.",
+      "Action": "Avoids answering Holly's persistent questions directly, appears uncomfortable.",
       "Warmth": -1,
       "Chunk": 7
     },
     {
-      "Action": "Fakes his signature to prevent others from forging important papers with his name.",
+      "Action": "Engages in a quiet moment with Holly by the riverbank, shares a simple observation.",
+      "Warmth": 0,
+      "Chunk": 7
+    },
+    {
+      "Action": "Consoles Holly about the loss of her fish, showing emotional support and confidence.",
       "Competence": 1,
       "Chunk": 7
     },
     {
-      "Action": "Steps on a dead cow to convince himself it is dead.",
-      "Competence": 0,
+      "Action": "Fakes his signature to prevent forgery, demonstrating cleverness and foresight.",
+      "Competence": 1,
       "Chunk": 7
     },
     {
-      "Action": "Responds briefly and uncomfortably to Holly's questions about an event, showing reluctance or evasiveness.",
+      "Action": "Acts warily and evasively when asked direct questions about events, showing reluctance to communicate clearly.",
       "Competence": -1,
       "Chunk": 7
     },
     {
-      "Action": "Suggests a symbolic act to remember the day, showing a desire to create shared meaning.",
-      "Warmth": 1,
-      "Chunk": 8
+      "Action": "Points out the uprooted tree as an explanation to Holly's worries, indicating observational awareness and an attempt to reassure.",
+      "Competence": 1,
+      "Chunk": 7
     },
     {
-      "Action": "Calls Holly 'stupid' but quickly apologizes and softens his approach.",
+      "Action": "Lies in bed hearing strange noises and seeing visions, possibly indicating confusion or hallucinations.",
+      "Competence": -1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Suggests they 'crunch their hands' together to remember the day, showing an odd attempt at bonding.",
       "Warmth": 0,
       "Chunk": 8
     },
     {
-      "Action": "Makes a solemn vow to always stand beside Holly and sends a balloon with tokens, showing sincerity and commitment.",
-      "Warmth": 1,
-      "Chunk": 8
-    },
-    {
-      "Action": "Suggests a symbolic act of crushing their hands with a stone to remember the day, showing thoughtfulness and emotional intelligence.",
-      "Competence": 1,
-      "Chunk": 8
-    },
-    {
-      "Action": "Adjusts his idea by choosing a lighter stone and discards the large one, showing flexibility and practical thinking.",
-      "Competence": 1,
-      "Chunk": 8
-    },
-    {
-      "Action": "Sends a box with written vows and tokens off in a balloon, demonstrating creativity and commitment.",
-      "Competence": 1,
-      "Chunk": 8
-    },
-    {
-      "Action": "Expresses sincere respect and care for Holly to her father, admits he had no girl before her, and shows willingness to let her leave if unhappy.",
-      "Warmth": 1,
-      "Chunk": 9
-    },
-    {
-      "Action": "Attempts to engage Holly's father in conversation despite cold reception, showing persistence and openness.",
-      "Warmth": 1,
-      "Chunk": 9
-    },
-    {
-      "Action": "Leans on Holly's father's truck without permission and ignores the father's clear rejection to leave.",
-      "Warmth": -1,
-      "Chunk": 9
-    },
-    {
-      "Action": "Attempts to engage Holly's father respectfully and honestly, showing emotional intelligence and confidence in a difficult conversation.",
-      "Competence": 1,
-      "Chunk": 9
-    },
-    {
-      "Action": "Fails to persuade Holly's father or change his mind, indicating limited influence or strategic skill in this interaction.",
-      "Competence": -1,
-      "Chunk": 9
-    },
-    {
-      "Action": "Enters Holly's house without permission and packs her belongings while armed with a pistol.",
-      "Warmth": -1,
-      "Chunk": 10
-    },
-    {
-      "Action": "Attempts to confront Holly's father to prevent him from calling authorities, showing protectiveness over Holly.",
-      "Warmth": 1,
-      "Chunk": 10
-    },
-    {
-      "Action": "Fires a gunshot into the stairs to intimidate Holly's father.",
-      "Warmth": -1,
-      "Chunk": 10
-    },
-    {
-      "Action": "Enters Holly's house without permission and confronts her father with a gun, showing readiness and a plan to take Holly away.",
-      "Competence": 1,
-      "Chunk": 10
-    },
-    {
-      "Action": "Is visibly shaken when confronted by Holly's father, indicating some emotional disturbance despite the planned action.",
-      "Competence": 0,
-      "Chunk": 10
-    },
-    {
-      "Action": "Uses a gun to intimidate Holly's father by firing a shot into the stairs, demonstrating decisiveness and control of the situation.",
-      "Competence": 1,
-      "Chunk": 10
-    },
-    {
-      "Action": "Engages in a tense standoff but does not escalate to violence beyond the warning shot, showing some restraint and situational awareness.",
-      "Competence": 1,
-      "Chunk": 10
-    },
-    {
-      "Action": "Fires two shots into Holly's father, causing serious harm.",
-      "Warmth": -1,
-      "Chunk": 11
-    },
-    {
-      "Action": "Avoids Holly's gaze after shooting her father.",
-      "Warmth": -1,
-      "Chunk": 11
-    },
-    {
-      "Action": "Gently sets Holly's father down in the cellar after dragging him there.",
-      "Warmth": 1,
-      "Chunk": 11
-    },
-    {
-      "Action": "Follows Holly into the kitchen and tries to communicate calmly despite tension.",
+      "Action": "Calls Holly 'stupid' but then immediately stops when she objects.",
       "Warmth": 0,
-      "Chunk": 11
+      "Chunk": 8
     },
     {
-      "Action": "Acknowledges Holly's suggestion to call a doctor but discourages it, showing a pragmatic but cold attitude.",
-      "Warmth": -1,
-      "Chunk": 11
-    },
-    {
-      "Action": "Sits quietly at the piano after being slapped, not retaliating or escalating conflict.",
+      "Action": "Makes a solemn vow to always stand beside Holly, writes it down, and sends it away in a balloon with tokens.",
       "Warmth": 1,
-      "Chunk": 11
+      "Chunk": 8
     },
     {
-      "Action": "Expresses resignation about telling others, indicating a lack of trust or hope in others' support.",
-      "Warmth": -1,
-      "Chunk": 11
-    },
-    {
-      "Action": "Fires two shots decisively to stop Holly's father, showing quick and confident action in a tense situation.",
+      "Action": "Makes a symbolic vow by releasing a balloon with written tokens, showing thoughtful intent and emotional depth.",
       "Competence": 1,
-      "Chunk": 11
+      "Chunk": 8
     },
     {
-      "Action": "Assesses Holly's father's condition and confidently declares no need for a doctor, demonstrating medical or situational judgment.",
-      "Competence": 1,
-      "Chunk": 11
-    },
-    {
-      "Action": "Drags Holly's father into the cellar and takes a toaster with him, indicating purposeful and possibly strategic behavior.",
-      "Competence": 1,
-      "Chunk": 11
-    },
-    {
-      "Action": "Avoids Holly's gaze after shooting her father, suggesting discomfort or lack of emotional control.",
+      "Action": "Suggests physically hurting themselves to remember an event, but then reconsidering and choosing a lighter stone, showing some reflection and adjustment.",
       "Competence": 0,
-      "Chunk": 11
+      "Chunk": 8
     },
     {
-      "Action": "Dismisses Holly's suggestion to tell someone and expresses cynicism about being listened to, showing a defeatist or resigned attitude.",
-      "Competence": 0,
-      "Chunk": 11
-    },
-    {
-      "Action": "Leaves Holly alone after a tense moment, despite her tears and distress.",
-      "Warmth": -1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Records a candid, somewhat dark message explaining his and Holly's decision, showing openness and a degree of sincerity.",
-      "Warmth": 1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Pours gasoline inside Holly's house aggressively, showing destructive behavior without regard for consequences or others' feelings.",
-      "Warmth": -1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Decides to leave despite Holly's distress and potential danger, showing awareness of consequences.",
-      "Competence": 1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Records a message in a gramophone booth, clearly planning and executing a final statement within a strict time limit.",
-      "Competence": 1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Pours gasoline inside the house aggressively, indicating a destructive plan but with purposeful action.",
-      "Competence": 1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Does not attempt to de-escalate the situation or seek help, potentially missing opportunities to resolve conflict more safely.",
+      "Action": "Throws large stone away impulsively, switches to a smaller one, possibly indicating indecisiveness or lack of focus.",
       "Competence": -1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Expresses respect and care for Holly to her father, tries to reassure him sincerely.",
+      "Warmth": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Accepts rejection silently and leaves without confrontation.",
+      "Warmth": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Uses casual, somewhat defiant language ('Takes all kinds, sir.') after being told to stay away.",
+      "Warmth": 0,
+      "Chunk": 9
+    },
+    {
+      "Action": "Attempts to reason respectfully and express genuine feelings to Holly's father, maintaining composure despite rejection.",
+      "Competence": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Fails to convince Holly's father or change his mind, indicating limited influence or persuasive skill.",
+      "Competence": -1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Demonstrates social awareness by recognizing when to remain silent and when to speak.",
+      "Competence": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Dismisses father's rejection with a casual remark rather than addressing the underlying concerns seriously.",
+      "Competence": -1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Enters Holly's house uninvited and throws her belongings into a suitcase while carrying a pistol.",
+      "Warmth": -1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Tries to confront Holly's father aggressively with a gun and fires a shot at the stairs to intimidate him.",
+      "Warmth": -1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Speaks briefly and directly with Holly's father without any attempt at diplomacy or friendliness.",
+      "Warmth": -1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Enters Holly's house without permission and aggressively confronts her father with a pistol.",
+      "Competence": -1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Maintains some control of the situation by forcing Holly's father to hesitate and backing him down at the moment.",
+      "Competence": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Shows hesitation and shaken demeanor despite preparing for confrontation, indicating emotional unsteadiness.",
+      "Competence": -1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Responds to Holly's tears with silence and leaves the house without comforting her.",
+      "Warmth": -1,
       "Chunk": 12
     },
     {
-      "Action": "Sets up a lamp and plays a record outdoors for the District Attorney to find, gambling for time.",
+      "Action": "Records a message reflecting on their troubled relationship and the mutual harm involved, showing some honesty about their situation.",
+      "Warmth": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Pours gasoline throughout the house in a destructive manner.",
+      "Warmth": -1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Leaves calmly when confronted by Holly about police involvement, showing control of the situation.",
+      "Competence": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Records a message on the gramophone booth, managing time carefully to finish before the record ends.",
+      "Competence": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Pours gasoline inside the house with determination and without hesitation, preparing for a destructive act.",
+      "Competence": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Sets fire to the house to destroy evidence and protect himself and Holly, showing strategic care for their future.",
       "Warmth": 0,
       "Chunk": 13
     },
     {
-      "Action": "Pours gasoline inside the house and sets it on fire, forcing Holly to flee.",
-      "Warmth": -1,
-      "Chunk": 13
-    },
-    {
-      "Action": "Encourages Holly to keep up with schoolwork and plans a new life together with new identities.",
+      "Action": "Prepares for a new life with Holly, reassuring her about changing names and hiding out, indicating a protective and somewhat sincere attitude.",
       "Warmth": 1,
       "Chunk": 13
     },
     {
-      "Action": "Waits alone for Holly at the car, indicating patience and presence.",
-      "Warmth": 1,
-      "Chunk": 14
+      "Action": "Sets a record player to continuously play a recorded message to mislead the District Attorney, gambles for time.",
+      "Competence": 1,
+      "Chunk": 13
     },
     {
-      "Action": "Studies Holly for signs of her mood and asks how she is doing.",
-      "Warmth": 1,
-      "Chunk": 14
+      "Action": "Plans and executes arson to destroy evidence and cover tracks by burning down the house.",
+      "Competence": 1,
+      "Chunk": 13
     },
     {
-      "Action": "Works collaboratively with Holly to build a treehouse, sharing labor and effort.",
-      "Warmth": 1,
-      "Chunk": 14
+      "Action": "Runs toward the car carrying a lamp and is caught off guard by the force of the flames.",
+      "Competence": 0,
+      "Chunk": 13
     },
     {
-      "Action": "Builds a complex treehouse using natural materials, pounds logs with a tomahawk, weaves branches skillfully.",
+      "Action": "Builds a complex treehouse using natural materials, including pounding logs with a tomahawk and weaving branches through the frame.",
       "Competence": 1,
       "Chunk": 14
     },
     {
-      "Action": "Studies Holly for signs of her mood, showing awareness and attentiveness.",
+      "Action": "Collaborates with Holly to plan and execute a network of tunnels and establish daily passwords, showing strategic thinking and practical survival skills.",
       "Competence": 1,
       "Chunk": 14
     },
     {
-      "Action": "Drops an egg down from a bird's nest to Holly below.",
+      "Action": "Drives off calmly with Holly and checks on her mood in a composed manner.",
+      "Competence": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Drops an egg gently down to Holly from a bird's nest high up in a tree.",
       "Warmth": 1,
       "Chunk": 15
     },
     {
-      "Action": "Gives Holly lectures on how to use and maintain a gun to protect herself.",
+      "Action": "Gives Holly lectures on how to use and maintain a gun, preparing her to survive without him.",
       "Warmth": 1,
       "Chunk": 15
     },
     {
-      "Action": "Trains himself rigorously to be prepared for danger.",
+      "Action": "Dances with Holly despite her having a better sense of rhythm, sharing a moment of lightness.",
+      "Warmth": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Sleeps with his pistol beside him.",
       "Warmth": 0,
       "Chunk": 15
     },
     {
-      "Action": "Dances with Holly despite lacking rhythm.",
-      "Warmth": 1,
-      "Chunk": 15
-    },
-    {
-      "Action": "Struggles to catch a fish while Holly watches.",
+      "Action": "Sets up a lethal trap on the trail but ducks out of the way himself.",
       "Warmth": 0,
       "Chunk": 15
     },
     {
-      "Action": "Drops an egg from a high tree to Holly below, demonstrating careful coordination and trust.",
+      "Action": "Attempts to catch a fish for Holly but struggles and fails.",
+      "Warmth": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Cuts a piece of twine rigged to trigger a deadly spike trap and ducks out of the way in time.",
       "Competence": 1,
       "Chunk": 15
     },
     {
-      "Action": "Cuts a twine trap and quickly ducks to avoid a lethal spike ball, showing alertness and quick reflexes.",
+      "Action": "Wakes up with his pistol beside him, showing vigilance and preparedness.",
       "Competence": 1,
       "Chunk": 15
     },
     {
-      "Action": "Runs laps through the woods with a dew rag on his forehead, pushing himself physically and mentally.",
+      "Action": "Runs laps through the woods as physical and mental training, pushing himself to improve.",
       "Competence": 1,
       "Chunk": 15
     },
     {
-      "Action": "Gives Holly detailed lectures on gun mechanics and survival skills, preparing her to act independently.",
+      "Action": "Lectures Holly on gun mechanics and survival skills, demonstrating knowledge and leadership.",
       "Competence": 1,
       "Chunk": 15
     },
     {
-      "Action": "Attempts to catch a fish with a crude net but fails to secure it, showing a lack of skill or experience in fishing.",
+      "Action": "Lifts an egg from a bird's nest high in a tree and drops it down carefully to Holly.",
+      "Competence": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Fails to catch the fish when it wriggles free, struggling in vain to retrieve it.",
       "Competence": -1,
       "Chunk": 15
     },
     {
-      "Action": "Throws his net down in disgust, partly at Holly, and tells her to take a break.",
+      "Action": "Throws his net down in disgust, partly at Holly.",
+      "Warmth": -1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Tells Holly to take a break in a teasing or casual manner.",
       "Warmth": 0,
       "Chunk": 16
     },
     {
-      "Action": "Interrupts Holly's reading with a simple comment 'He was nervous.' showing engagement and attentiveness.",
+      "Action": "Engages with Holly while she reads aloud; attempts to comment or connect by saying 'He was nervous.'",
       "Warmth": 1,
       "Chunk": 16
     },
     {
-      "Action": "Throws his net down in disgust, partly at Holly, and walks off instead of trying to fix the problem or communicate constructively.",
+      "Action": "Throws his net down in disgust, partly at Holly.",
       "Competence": -1,
       "Chunk": 16
     },
     {
-      "Action": "Tells Holly to take a break, showing some awareness of the situation and suggesting a pause.",
-      "Competence": 0,
+      "Action": "Walks off rather than addressing the issue or trying again after failing to catch the fish.",
+      "Competence": -1,
       "Chunk": 16
     },
     {
-      "Action": "Shaving calmly in the morning, indicating routine and self-care in a survival setting.",
-      "Competence": 0,
-      "Chunk": 16
-    },
-    {
-      "Action": "Looks around to find somebody to share his amusement with from National Geographic.",
+      "Action": "Looks around to find somebody to share something amusing with (National Geographic)",
       "Warmth": 1,
       "Chunk": 17
     },
     {
-      "Action": "Greets Holly as he walks by carrying a log.",
+      "Action": "Greets Holly as he walks by carrying a log",
       "Warmth": 1,
       "Chunk": 17
     },
     {
-      "Action": "Browses through National Geographic, showing curiosity and desire to share knowledge.",
+      "Action": "Carrying a heavy log with apparent ease while passing by Holly, showing physical capability and purposeful action.",
       "Competence": 1,
       "Chunk": 17
     },
     {
-      "Action": "Carries a log over his shoulder while greeting Holly, demonstrating physical capability and awareness of surroundings.",
+      "Action": "Fishing with a crude net, demonstrating practical survival skills.",
       "Competence": 1,
       "Chunk": 17
     },
     {
-      "Action": "Fishes with a crude net near civilization, showing practical survival skills and focus despite potential danger.",
-      "Competence": 1,
+      "Action": "Browsing a National Geographic magazine alone in a crow's nest and looking to share it, showing curiosity and a desire to engage but no evident deeper understanding or application.",
+      "Competence": 0,
       "Chunk": 17
     },
     {
-      "Action": "Shouts a code word to warn Holly of approaching hunters, instructs her to hide, and takes cover himself.",
+      "Action": "Warns Holly with a code word of approaching hunters, instructs her to hide, and takes protective action by hiding and confronting danger.",
       "Warmth": 1,
       "Chunk": 18
     },
     {
-      "Action": "Gives a gentlemanly word of warning before shooting the hunters in the back.",
-      "Warmth": 0,
+      "Action": "Shoots three hunters in the back after they pass over his hiding spot.",
+      "Warmth": -1,
       "Chunk": 18
     },
     {
-      "Action": "Frees the rooster by flipping over its wicker cover, allowing it to walk off free.",
-      "Warmth": 1,
-      "Chunk": 18
-    },
-    {
-      "Action": "Feels bad about shooting the men in the backs.",
+      "Action": "Frees the rooster by flipping over the wicker covering so it can walk off.",
       "Warmth": 1,
       "Chunk": 18
     },
     {
-      "Action": "Offers a chicken to Cato with a friendly tone despite keeping a safe distance.",
+      "Action": "Slams the trunk of the car in frustration.",
+      "Warmth": 0,
+      "Chunk": 18
+    },
+    {
+      "Action": "Throws away a bird cage from the roof of the car stating they don't need it.",
+      "Warmth": 0,
+      "Chunk": 18
+    },
+    {
+      "Action": "Offers a chicken to Cato with a friendly gesture despite keeping a safe distance.",
       "Warmth": 1,
       "Chunk": 19
     },
     {
-      "Action": "Introduces Holly to Cato, showing inclusiveness and openness.",
+      "Action": "Introduces Holly sincerely to Cato.",
       "Warmth": 1,
       "Chunk": 19
     },
     {
-      "Action": "Keeps a safe distance and carries a rifle when approaching Cato, indicating caution or mistrust.",
-      "Warmth": -1,
+      "Action": "Keeps a safe distance and holds a rifle when meeting Cato.",
+      "Warmth": 0,
       "Chunk": 19
     },
     {
-      "Action": "Keeps a safe distance when approaching Cato, showing caution and awareness.",
+      "Action": "Keeps a safe distance when meeting Cato and cautiously approaches with rifle in hand, showing awareness and caution.",
       "Competence": 1,
       "Chunk": 19
     },
     {
-      "Action": "Inspects the interior of Cato's house, demonstrating attentiveness and curiosity.",
+      "Action": "Inspects the interior of Cato's house and asks about the antlers, indicating observation and information gathering.",
       "Competence": 1,
       "Chunk": 19
     },
     {
-      "Action": "Offers a chicken to Cato as a gesture, indicating social skill and thoughtfulness.",
+      "Action": "Introduces Holly to Cato smoothly during the meeting, demonstrating social ease and situational management.",
       "Competence": 1,
       "Chunk": 19
     },
     {
-      "Action": "Introduces Holly to Cato, facilitating social connections.",
-      "Competence": 1,
-      "Chunk": 19
+      "Action": "Conceals his feelings about a potential fortune, showing carefulness rather than openness.",
+      "Warmth": 0,
+      "Chunk": 20
     },
     {
-      "Action": "Conceals excitement about potential fortune, careful not to reveal feelings.",
+      "Action": "Refuses to let Holly keep a found pot lid by calling it dirty.",
       "Warmth": -1,
       "Chunk": 20
     },
     {
-      "Action": "Engages in playful dirt-throwing game with Holly, causing her to squeal and dodge.",
+      "Action": "Engages in playful dirt throwing with Holly, making her squeal and dodge.",
       "Warmth": 1,
       "Chunk": 20
     },
     {
-      "Action": "Sees the chance to make a fortune with the coins but carefully conceals his feelings.",
+      "Action": "Conceals his feelings about the chance to make a fortune from old coins, showing carefulness and control.",
       "Competence": 1,
       "Chunk": 20
     },
     {
-      "Action": "Engages in playful behavior by throwing dirt clods at Holly, showing a lack of seriousness in a potentially important situation.",
-      "Competence": -1,
+      "Action": "Plans future travel with Holly, indicating a degree of forward thinking and decision-making.",
+      "Competence": 1,
       "Chunk": 20
     },
     {
-      "Action": "Shoots Cato through the belly but then opens the door for him and follows him inside, showing a complex mix of violence and care.",
+      "Action": "Tells Holly to put down a dirty pot lid, showing practical awareness and consideration.",
+      "Competence": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Engages in throwing dirt clods with Holly, acting playfully but potentially immature.",
+      "Competence": 0,
+      "Chunk": 20
+    },
+    {
+      "Action": "Shoots Cato without warning but follows him and opens the door for him, allowing him inside.",
       "Warmth": 0,
       "Chunk": 21
     },
     {
-      "Action": "Calmly picks up a photo and asks Holly about it, showing some curiosity and engagement.",
+      "Action": "Calmly picks up a photo on the bureau and shows some curiosity about someone's past by asking about 'her'.",
       "Warmth": 1,
       "Chunk": 21
     },
     {
-      "Action": "Shrugs off Cato's injury and does not express concern or empathy explicitly.",
+      "Action": "Shrugs off Cato's injury and shows no verbal concern when Holly asks if Cato is upset.",
       "Warmth": -1,
       "Chunk": 21
     },
     {
-      "Action": "Offers Holly a cigarette and engages in casual conversation, indicating some friendliness.",
+      "Action": "Gives Holly a cigarette, sharing it with her.",
       "Warmth": 1,
       "Chunk": 21
     },
     {
-      "Action": "Accuses Cato of stealing a cage, showing distrust and suspicion.",
-      "Warmth": -1,
-      "Chunk": 21
-    },
-    {
-      "Action": "Suggests Holly keep Cato company, indicating some consideration for Cato's wellbeing.",
-      "Warmth": 1,
-      "Chunk": 21
-    },
-    {
-      "Action": "Shoots Cato through the belly decisively and follows him calmly, then opens the door for him, showing control of the situation.",
-      "Competence": 1,
-      "Chunk": 21
-    },
-    {
-      "Action": "Calmly surveys the cluttered room and assesses Cato's condition without panic.",
-      "Competence": 1,
-      "Chunk": 21
-    },
-    {
-      "Action": "Engages in casual conversation and distraction (looking through catalogue) while monitoring Cato, indicating composed multitasking.",
-      "Competence": 1,
-      "Chunk": 21
-    },
-    {
-      "Action": "Admits uncertainty about Cato's emotional state and shrugs when asked, showing limited insight or emotional intelligence.",
-      "Competence": 0,
-      "Chunk": 21
-    },
-    {
-      "Action": "Expresses desire for the shooting to be seen as an execution rather than murder, indicating some strategic thinking about consequences.",
-      "Competence": 1,
-      "Chunk": 21
-    },
-    {
-      "Action": "Dismisses the catalogue items as unaffordable without further consideration, possibly showing practical judgment.",
-      "Competence": 1,
-      "Chunk": 21
-    },
-    {
-      "Action": "Does not explain why he shot Cato, citing superstition about bad luck, which may indicate avoidance or secrecy.",
-      "Competence": 0,
-      "Chunk": 21
-    },
-    {
-      "Action": "Refuses to let the Boy enter the house, draws his gun to protect the group.",
-      "Warmth": 1,
-      "Chunk": 22
-    },
-    {
-      "Action": "Keeps a wary but polite attitude toward the Boy and Girl, asks if they mind being watched.",
-      "Warmth": 1,
-      "Chunk": 22
-    },
-    {
-      "Action": "Draws his gun on the Boy and Girl to control the situation and prevent them from entering the house uninvited.",
-      "Competence": 1,
-      "Chunk": 22
-    },
-    {
-      "Action": "Insists on keeping a close watch on the Boy and Girl, showing caution and control.",
-      "Competence": 1,
-      "Chunk": 22
-    },
-    {
-      "Action": "Refuses to reveal Cato's whereabouts, maintaining secrecy and loyalty.",
-      "Competence": 1,
-      "Chunk": 22
-    },
-    {
-      "Action": "Guides the couple into the storm cellar and insists the Boy stay down for an hour, showing some protective behavior.",
-      "Warmth": 1,
-      "Chunk": 23
-    },
-    {
-      "Action": "Fires two shots into the cellar to ensure safety, then retreats instead of checking himself, showing hesitation and some concern.",
+      "Action": "Remarks negatively about the clutter in the house but not directly at people.",
       "Warmth": 0,
-      "Chunk": 23
+      "Chunk": 21
     },
     {
-      "Action": "Offers Holly his hand as they run from the storm, indicating a caring gesture, though Holly does not see it.",
+      "Action": "Reveals that Cato stole a cage and indicates a desire for the shooting to be an execution not murder, indicating some moral boundary.",
+      "Warmth": 0,
+      "Chunk": 21
+    },
+    {
+      "Action": "Suggests Holly go keep Cato company while he is injured.",
       "Warmth": 1,
-      "Chunk": 23
+      "Chunk": 21
     },
     {
-      "Action": "Carries Cato to a box car and checks his shoes to confirm identity, showing attention to detail and responsibility.",
-      "Warmth": 1,
-      "Chunk": 23
+      "Action": "Shoots Cato through the belly and follows him calmly while opening the door for him.",
+      "Competence": 1,
+      "Chunk": 21
     },
     {
-      "Action": "Is described as 'the most trigger happy person' who believes in shooting all witnesses when playing for keeps, showing ruthless and cold behavior.",
+      "Action": "Calmly surveys the cluttered room and discusses practical concerns with Holly.",
+      "Competence": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Shows contradictory behavior wanting the shooting to be seen as an execution rather than a murder, indicating conflicted intentions.",
+      "Competence": 0,
+      "Chunk": 21
+    },
+    {
+      "Action": "Leaves Cato partially conscious and unattended, only suggesting Holly keep him company later.",
+      "Competence": -1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Draws his gun on the boy and girl, threatening to kill the boy if he enters the house, saying 'Can't afford to take chances.'",
+      "Warmth": -1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Waves the boy and girl out into the neighboring field and keeps an eye on them rather than harming them directly.",
+      "Warmth": 0,
+      "Chunk": 22
+    },
+    {
+      "Action": "Draws his gun to control the situation when suspicious of strangers trying to enter the house, insists on handling it cautiously.",
+      "Competence": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Communicates uncertainty but takes charge effectively by keeping the boy and girl at a distance and controlling their movements.",
+      "Competence": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Uses verbal commands and presence of mind to manage a potentially threatening situation without escalating violence.",
+      "Competence": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Asks the Boy to promise to stay down in the cellar, then shoots down through the cellar seam to prevent escape, hesitates but follows through, retreats to Holly's side afterwards.",
       "Warmth": -1,
       "Chunk": 23
     },
     {
-      "Action": "Guides the couple into the storm cellar and ensures the Boy promises to stay down there for an hour, showing control and caution.",
-      "Competence": 1,
-      "Chunk": 23
-    },
-    {
-      "Action": "Fires two shots down into the cellar to check for threats but then refuses to go down himself, showing hesitation and avoidance.",
-      "Competence": -1,
-      "Chunk": 23
-    },
-    {
-      "Action": "Carries Cato over his shoulder and secures him in the box car, checking details like Cato's shoes, demonstrating thoroughness and practical skill.",
-      "Competence": 1,
-      "Chunk": 23
-    },
-    {
-      "Action": "Runs away from the cellar after shooting, showing a lack of confidence or courage in following through.",
-      "Competence": -1,
-      "Chunk": 23
-    },
-    {
-      "Action": "Checks Cato's shoes after locking him in the box car to ensure he has the ones Kit gave him.",
+      "Action": "Offers his hand to Holly as they run from the cellar, although she does not see it.",
       "Warmth": 1,
-      "Chunk": 24
+      "Chunk": 23
     },
     {
-      "Action": "Shrugs off Holly's question about putting Cato in the box car, saying it was just to keep him out of the sun.",
-      "Warmth": 0,
-      "Chunk": 24
-    },
-    {
-      "Action": "Shows concern for Holly by asking if she is tired and promising to buy her a steak after their troubles.",
+      "Action": "Carries an injured Cato to a boxcar and checks that Cato still has the shoes Kit gave him.",
       "Warmth": 1,
-      "Chunk": 24
+      "Chunk": 23
     },
     {
-      "Action": "Makes a sarcastic comment about being blamed for a wrecked car.",
-      "Warmth": 0,
-      "Chunk": 24
-    },
-    {
-      "Action": "Checks Cato's shoes to ensure they are the ones he gave him before closing the box car doors.",
+      "Action": "Guides the couple into the storm cellar to protect them.",
       "Competence": 1,
-      "Chunk": 24
+      "Chunk": 23
     },
     {
-      "Action": "Shrugs off Holly's question about putting Cato in the box car, giving a weak excuse 'Just to keep him out of the sun.'",
-      "Competence": -1,
-      "Chunk": 24
+      "Action": "Asks the boy to promise to stay down in the cellar and tests his resolve.",
+      "Competence": 1,
+      "Chunk": 23
     },
     {
-      "Action": "Walks up and down the box car, talking under his breath and throwing his rifle from hand to hand, appearing agitated and unsettled.",
-      "Competence": -1,
-      "Chunk": 24
-    },
-    {
-      "Action": "Drives the car and tries to comfort Holly by offering a steak and making light conversation despite the tense situation.",
+      "Action": "Shoots into the cellar to potentially eliminate witnesses but hesitates and shows some uncertainty afterward.",
       "Competence": 0,
-      "Chunk": 24
+      "Chunk": 23
     },
     {
-      "Action": "Acknowledges the possibility of being blamed for a wrecked car, showing awareness of consequences.",
+      "Action": "Runs away from the cellar after shooting instead of confirming the result, indicating reluctance or fear.",
+      "Competence": -1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Carries Cato and secures him in a box car, checking details like his shoes to confirm identity.",
       "Competence": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Puts Cato in the boxcar 'just to keep him out of the sun' rather than harsher reasons.",
+      "Warmth": 1,
       "Chunk": 24
     },
     {
-      "Action": "Introduces Holly to the maid and winks at her, showing a friendly and inclusive attitude.",
+      "Action": "Shrugs off Holly's question about putting Cato in the boxcar, showing defensiveness and avoidance.",
+      "Warmth": -1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Offers Holly reassurance by acknowledging her tiredness and promising to buy her a big steak after their troubles.",
+      "Warmth": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Shows frustration and bitterness, blaming others sarcastically for a wrecked car.",
+      "Warmth": -1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Introduces Holly to the maid and winks at her, showing casual friendliness.",
       "Warmth": 1,
       "Chunk": 25
     },
     {
-      "Action": "Deceives the maid by pretending to be a meter reader to gain entry into the rich man's house.",
+      "Action": "Deceives the maid and the rich man to gain entry by pretending to be a meter reader.",
       "Warmth": -1,
       "Chunk": 25
     },
     {
-      "Action": "Politely asks the rich man if they can stay for a while, showing respect despite the situation.",
+      "Action": "Politely says 'Excuse me' when passing through the house, showing manners.",
       "Warmth": 1,
       "Chunk": 25
     },
     {
-      "Action": "Poses as a meter reader to gain entry into a rich man's house, using a plausible cover story and carrying tools as props.",
+      "Action": "Asks the rich man if anyone else is home and requests to stay for a couple of hours, showing some respect despite the situation.",
+      "Warmth": 0,
+      "Chunk": 25
+    },
+    {
+      "Action": "Poses as a meter reader and carries a suitcase with tools to enter a rich man's house undetected.",
       "Competence": 1,
       "Chunk": 25
     },
     {
-      "Action": "Winks at Holly and casually interacts with the maid without realizing she is deaf, showing a slight lack of attention to detail.",
-      "Competence": 0,
-      "Chunk": 25
-    },
-    {
-      "Action": "Appears overwhelmed by the luxury of the mansion, indicating some discomfort or unfamiliarity with the environment.",
-      "Competence": 0,
-      "Chunk": 25
-    },
-    {
-      "Action": "Forgets to explain himself clearly to the rich man, which could have raised suspicion.",
+      "Action": "Forgets to convincingly explain himself clearly once inside the house, appearing somewhat overwhelmed and hesitant.",
       "Competence": -1,
       "Chunk": 25
     },
     {
-      "Action": "Successfully convinces the rich man to let them stay for a couple of hours despite being on the run, demonstrating social skill and confidence.",
+      "Action": "Uses a casual wink to reassure Holly while maintaining the facade, showing confidence in the deception.",
       "Competence": 1,
       "Chunk": 25
     },
     {
-      "Action": "Rings dinner bell to signal time to clear out, regards Holly solemnly.",
+      "Action": "Fails to detect that the maid is deaf despite interacting with her, indicating a lack of full situational awareness.",
+      "Competence": -1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Rings dinner bell, sets a clear boundary by saying it means time to clear out.",
       "Warmth": 0,
       "Chunk": 26
     },
     {
-      "Action": "Studies a picture thoughtfully, shows reflective behavior.",
+      "Action": "Studies a picture thoughtfully, showing contemplative behavior.",
+      "Warmth": 0,
+      "Chunk": 26
+    },
+    {
+      "Action": "Gives advice on the dictaphone to listen to parents and teachers, keep an open mind and understand others' viewpoints.",
       "Warmth": 1,
       "Chunk": 26
     },
     {
-      "Action": "Records advice for young people encouraging respect for parents and teachers and understanding others' viewpoints.",
-      "Warmth": 1,
-      "Chunk": 26
-    },
-    {
-      "Action": "Rings the dinner bell to signal time to clear out, showing awareness and control of the situation.",
+      "Action": "Rings the dinner bell to signal time to clear out, then calmly studies the room and objects like a picture on the mantel, demonstrating awareness and composed observation.",
       "Competence": 1,
       "Chunk": 26
     },
     {
-      "Action": "Sniffs the sherry and studies a picture thoughtfully, indicating careful observation and reflection.",
+      "Action": "Sits thoughtfully in the chair the Rich Man occupied, takes initiative to record advice on a dictaphone, showing reflective and communicative skills.",
       "Competence": 1,
       "Chunk": 26
     },
     {
-      "Action": "Sits in the chair of the Rich Man with a thoughtful look, suggesting confidence and composure.",
-      "Competence": 1,
-      "Chunk": 26
-    },
-    {
-      "Action": "Records advice on the dictaphone encouraging listening and open-mindedness, demonstrating intelligence and maturity.",
+      "Action": "Speaks into the dictaphone, giving practical advice about listening to others and keeping an open mind, indicating intelligence and awareness.",
       "Competence": 1,
       "Chunk": 26
     },
@@ -936,112 +841,122 @@
       "Chunk": 27
     },
     {
-      "Action": "Politely informs visitor that Scarborough is sick and declines to invite him inside to avoid contagion.",
+      "Action": "Acknowledges fun with Holly and their relationship is 'doing fine'.",
       "Warmth": 1,
       "Chunk": 27
     },
     {
-      "Action": "Checks the chamber of his pistol before leaving the room, showing attention to safety and preparedness.",
+      "Action": "Politely greets a visitor and explains Scarborough is sick to avoid contagion.",
+      "Warmth": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Sets gun aside and re-hides picture before answering door, suggesting caution.",
+      "Warmth": 0,
+      "Chunk": 27
+    },
+    {
+      "Action": "Checks the chamber of his pistol before leaving the room, puts a picture back that he had moved, indicating attention to detail and caution.",
       "Competence": 1,
       "Chunk": 27
     },
     {
-      "Action": "Remembers to put a picture back in place after moving it, indicating awareness of surroundings and carefulness.",
+      "Action": "Answers the door for the visitor and gives a plausible excuse about Mister Scarborough being sick to avoid letting the visitor inside.",
       "Competence": 1,
       "Chunk": 27
     },
     {
-      "Action": "Answers the door calmly and explains the situation about Mister Scarborough's illness clearly to the visitor, demonstrating clear communication and control of the situation.",
-      "Competence": 1,
+      "Action": "Leans back in chair lost in reflection after setting down the dictaphone and cigarette, showing a moment of thoughtfulness.",
+      "Competence": 0,
       "Chunk": 27
     },
     {
-      "Action": "Allows the Visitor to leave a message and politely excuses himself.",
+      "Action": "Allows Visitor to leave a message and politely excuses himself.",
       "Warmth": 1,
       "Chunk": 28
     },
     {
-      "Action": "Gives the Rich Man a list of borrowed items including the car, showing honesty.",
+      "Action": "Tells Rich Man and Maid they can take the Cadillac and provides a list of borrowed items.",
       "Warmth": 1,
       "Chunk": 28
     },
     {
-      "Action": "Asks the Rich Man if he is a friend and requests no monkey business, indicating a desire for trust and fairness.",
-      "Warmth": 1,
-      "Chunk": 28
-    },
-    {
-      "Action": "Locks the Rich Man and Maid in a closet and wipes fingerprints off the door handle, showing distrust and secretiveness.",
+      "Action": "Points a pistol at the Maid while asking if she is okay.",
       "Warmth": -1,
       "Chunk": 28
     },
     {
-      "Action": "Hides the Visitor's note in a vase to keep it secret.",
+      "Action": "Locks Rich Man and Maid in a closet but reassures Rich Man by calling him a friend and requesting no trouble.",
+      "Warmth": 0,
+      "Chunk": 28
+    },
+    {
+      "Action": "Wipes fingerprints from door handle to avoid detection.",
+      "Warmth": 0,
+      "Chunk": 28
+    },
+    {
+      "Action": "Accepts a note from the Visitor and discreetly hides it in a vase, showing awareness and caution.",
       "Competence": 1,
       "Chunk": 28
     },
     {
-      "Action": "Takes a hat and coat from the rack to disguise or prepare for leaving.",
+      "Action": "Takes the hat and coat found on a rack to presumably aid his disguise or escape.",
       "Competence": 1,
       "Chunk": 28
     },
     {
-      "Action": "Communicates clearly with the Rich Man and Maid about borrowing the Cadillac and provides a list of borrowed items.",
+      "Action": "Communicates clearly with the Rich Man about taking the Cadillac and reassures him regarding Holly's driving, demonstrating leadership and control.",
       "Competence": 1,
       "Chunk": 28
     },
     {
-      "Action": "Locks the Rich Man and Maid in a closet to control the situation.",
+      "Action": "Locks the Rich Man and Maid in a closet and wipes fingerprints off the door handle, showing careful planning and skill.",
       "Competence": 1,
       "Chunk": 28
     },
     {
-      "Action": "Wipes fingerprints off the door handle to avoid leaving evidence.",
+      "Action": "Leaving a list of borrowed items including the car with the Rich Man, displaying an unusual honesty and organization in a criminal situation.",
       "Competence": 1,
       "Chunk": 28
     },
     {
-      "Action": "Points a pistol at the Maid to ensure compliance.",
-      "Competence": 1,
-      "Chunk": 28
+      "Action": "Grabs the seat of Holly's pants playfully but respects her boundary when she says 'Don't.'",
+      "Warmth": 0,
+      "Chunk": 29
     },
     {
-      "Action": "Hurries back to open the car door for Holly after forgetting, showing consideration.",
+      "Action": "Keeps an eye on propriety by hurrying back to open the car door for Holly after forgetting.",
       "Warmth": 1,
       "Chunk": 29
     },
     {
-      "Action": "Grabs the seat of Holly's pants playfully despite her telling him not to.",
-      "Warmth": -1,
-      "Chunk": 29
-    },
-    {
-      "Action": "Engages in light teasing and conversation with Holly, showing friendly interaction.",
+      "Action": "Tells Holly to enjoy the scenery during their escape across the Great Plains.",
       "Warmth": 1,
       "Chunk": 29
     },
     {
-      "Action": "Steals a silver trophy from the house, indicating disregard for others' property.",
-      "Warmth": -1,
-      "Chunk": 29
-    },
-    {
-      "Action": "Disguises himself and Holly to avoid detection, carries stolen items, and navigates the property carefully.",
+      "Action": "Carries groceries, rifle, and a stolen trophy, and deliberately chooses a Cadillac over a Rolls Royce, showing awareness of practicality and style.",
       "Competence": 1,
       "Chunk": 29
     },
     {
-      "Action": "Forgets to open the car door for Holly initially but quickly corrects himself.",
+      "Action": "Forgets to open the car door for Holly but quickly recovers and does so, showing some social awareness but a slight lapse.",
       "Competence": 0,
       "Chunk": 29
     },
     {
-      "Action": "Chooses the Cadillac over a more luxurious Rolls Royce, indicating practical decision-making.",
+      "Action": "Tells Holly to enjoy the scenery while taking an indirect route across the Great Plains to avoid roadblocks, indicating strategic thinking and cautious planning.",
       "Competence": 1,
       "Chunk": 29
     },
     {
-      "Action": "Chuckles at Holly's joke, pleasing her.",
+      "Action": "Engages in casual, somewhat awkward banter with Holly (grabbing her pants, questioning her past experiences) that suggests social discomfort or lack of emotional intelligence.",
+      "Competence": 0,
+      "Chunk": 29
+    },
+    {
+      "Action": "Chuckles at Holly's comment, which pleases her.",
       "Warmth": 1,
       "Chunk": 30
     },
@@ -1051,443 +966,423 @@
       "Chunk": 30
     },
     {
-      "Action": "Glad to leave South Dakota behind and curses its name harshly.",
+      "Action": "Curses the name of South Dakota and wishes atomic bomb on Rapid City.",
       "Warmth": -1,
       "Chunk": 30
     },
     {
-      "Action": "Rams a cow to save on ammo for food, showing resourcefulness and practical survival skills.",
-      "Competence": 1,
-      "Chunk": 30
-    },
-    {
-      "Action": "Taps gas from pipeline valves to fuel the Cadillac, demonstrating ingenuity and mechanical savvy.",
-      "Competence": 1,
-      "Chunk": 30
-    },
-    {
-      "Action": "Expresses strong negative feelings about South Dakota but does not take constructive action, indicating frustration without productive response.",
-      "Competence": 0,
-      "Chunk": 30
-    },
-    {
-      "Action": "Offers to catch a big trout for Holly to improve their food situation.",
+      "Action": "Cooks meat over a fire for the group at the campsite.",
       "Warmth": 1,
       "Chunk": 31
     },
     {
-      "Action": "Dismisses Holly's discomfort by saying he's having fun and not complaining.",
-      "Warmth": -1,
+      "Action": "Responds to Holly's concerns about their loneliness and harsh conditions with lighthearted teasing and optimism.",
+      "Warmth": 0,
       "Chunk": 31
     },
     {
-      "Action": "Cooks some meat over a fire while camping in the badlands.",
+      "Action": "Cooks meat over a fire while camping in the badlands.",
       "Competence": 1,
       "Chunk": 31
     },
     {
-      "Action": "Carries his rifle over his shoulders confidently, taking in the surroundings.",
+      "Action": "Carries his rifle confidently, emulating James Dean’s posture from 'Giant'.",
       "Competence": 1,
       "Chunk": 31
     },
     {
-      "Action": "Shows limited knowledge about Montana, having never been there or had reason to go.",
+      "Action": "Admits to never having been to Montana and not having any particular reason to go.",
       "Competence": 0,
       "Chunk": 31
     },
     {
-      "Action": "Responds to Holly's complaints about living conditions by promising to catch trout, showing some practical problem-solving.",
+      "Action": "Responds to Holly’s discomfort about their living conditions by promising to catch a big trout.",
       "Competence": 1,
       "Chunk": 31
     },
     {
-      "Action": "Appears somewhat indifferent to Holly's discomfort, focusing on having fun rather than addressing her concerns seriously.",
-      "Competence": 0,
-      "Chunk": 31
-    },
-    {
-      "Action": "Buries some of Holly's things in a bucket to keep them safe and preserve memories for the future.",
+      "Action": "Buries some of their belongings carefully so they might be found in the future, showing a sentimental and thoughtful gesture.",
       "Warmth": 1,
       "Chunk": 32
     },
     {
-      "Action": "Shoots a football he considers excess baggage, showing a practical but somewhat indifferent attitude.",
+      "Action": "Shoots a football he considers excess baggage to lighten their load, indicating practicality without overt consideration for others' feelings about the items.",
       "Warmth": 0,
       "Chunk": 32
     },
     {
-      "Action": "Suggests they might want to be stuck here, showing openness and a reflective, sincere side.",
+      "Action": "Discusses possibly being stuck in the Badlands with a hint of vulnerability or uncertainty, suggesting openness.",
       "Warmth": 1,
       "Chunk": 32
     },
     {
-      "Action": "Shoots a hole through a football with a pistol, then pounds it flat when it doesn't deflate.",
+      "Action": "Shoots a football from several feet away and then pounds it flat after noticing it didn't deflate.",
       "Competence": 1,
       "Chunk": 32
     },
     {
-      "Action": "Buries some of their belongings in a bucket to hide them for future retrieval or discovery.",
+      "Action": "Buries some belongings in a bucket to hide them for possible future retrieval or for someone to find far in the future.",
       "Competence": 1,
       "Chunk": 32
     },
     {
-      "Action": "Suggests pulling the car onto the train tracks to slow down the train, showing a risky and impractical idea.",
+      "Action": "Considers and verbalizes the idea of pulling the car onto the train tracks to slow the train down, showing some strategic thinking, though it is immediately countered by Holly.",
+      "Competence": 0,
+      "Chunk": 32
+    },
+    {
+      "Action": "Expresses uncertainty about what to do next and ambivalence about being stuck, indicating some lack of clear direction or decisiveness.",
       "Competence": -1,
       "Chunk": 32
     },
     {
-      "Action": "Spins a bottle to decide direction, then dismisses the method and expresses self-doubt openly.",
+      "Action": "Spins bottle to decide direction, attempts to find a fair way to choose path.",
       "Warmth": 1,
       "Chunk": 33
     },
     {
-      "Action": "Decides to keep heading toward the mountain despite doubts, showing persistence.",
+      "Action": "Expresses self-doubt about choosing the right direction, tells Holly he doesn't care if he's not worth a damn.",
       "Warmth": 1,
       "Chunk": 33
     },
     {
-      "Action": "Does not engage with Holly's suggestion and changes his mind abruptly, then withdraws emotionally.",
-      "Warmth": -1,
+      "Action": "Changes mind after starting toward Holly, heads back to tracks showing indecision and distance.",
+      "Warmth": 0,
       "Chunk": 33
     },
     {
-      "Action": "Spins a bottle to decide direction but questions the validity of the method and considers environmental factors affecting the result.",
+      "Action": "Uses the spin of a bottle to decide direction but doubts the accuracy and questions the conditions affecting the spin.",
       "Competence": 1,
       "Chunk": 33
     },
     {
-      "Action": "Decides to rely on his own judgment rather than the bottle's result, showing confidence in his decision-making.",
-      "Competence": 1,
+      "Action": "Decides ultimately that if he is competent he will pick the right direction and expresses a fatalistic attitude if not.",
+      "Competence": 0,
       "Chunk": 33
     },
     {
-      "Action": "Expresses doubt about his own abilities and downplays expectations, showing a lack of confidence.",
+      "Action": "Acknowledges uncertainty about the quality of his decisions and expresses that he shouldn't expect miracles.",
       "Competence": -1,
       "Chunk": 33
     },
     {
-      "Action": "Reaches over and takes the cigarette out of Holly's mouth in a playful, familiar gesture.",
+      "Action": "Reaches over and takes cigarette from Holly's mouth in a playful, familiar manner.",
       "Warmth": 1,
       "Chunk": 34
     },
     {
-      "Action": "Responds to Holly's concerns about their future with optimism and determination, trying to reassure her.",
+      "Action": "Responds with casual humor and openness about trying to get a job with the Mounties.",
       "Warmth": 1,
       "Chunk": 34
     },
     {
-      "Action": "Dismisses Holly's comment about driver's license with a lighthearted attitude, showing a casual, friendly demeanor.",
+      "Action": "Dismisses Holly's apology for not listening without resentment.",
       "Warmth": 1,
       "Chunk": 34
     },
     {
-      "Action": "Confidently claims he has all the qualifications to get a job with the Mounties, listing relevant skills like riding and shooting, and expresses liking the cold.",
+      "Action": "Confidently claims he can get a job with the Mounties and lists his relevant skills (ride, shoot, tolerate cold).",
       "Competence": 1,
       "Chunk": 34
     },
     {
-      "Action": "Admits to 'running off at the mouth' and downplays his own statements, showing some self-awareness but also a lack of full confidence.",
+      "Action": "Dismisses a practical obstacle (needing a driver's license) but remains confident he will overcome it.",
       "Competence": 0,
       "Chunk": 34
     },
     {
-      "Action": "Dismisses a practical obstacle (driver's license) to getting hired with a casual 'I'm not going to let that stop me,' showing determination but possibly underestimating real barriers.",
-      "Competence": 0,
+      "Action": "Admits he often talks without thinking ('running off at the mouth'), which suggests a lack of self-discipline or awareness.",
+      "Competence": -1,
       "Chunk": 34
     },
     {
-      "Action": "Playfully takes Holly's cigarette and reacts with surprise to her choice of brand, showing attentiveness and a lighter, confident social interaction.",
-      "Competence": 1,
-      "Chunk": 34
-    },
-    {
-      "Action": "Pats her hand away gently to keep the radio on Nat King Cole, then whispers a sincere compliment about singing a song expressing his feelings.",
+      "Action": "Pats her hand away to prevent changing the radio station, then dances with her and whispers about singing a song to express his feelings.",
       "Warmth": 1,
       "Chunk": 35
     },
     {
-      "Action": "Shakes his head with admiration and wonder at the mountains, engaging Holly in a warm, inclusive conversation.",
+      "Action": "Shakes his head with admiration and wonder at the sight of the mountains, engaging Holly by asking her opinion.",
       "Warmth": 1,
       "Chunk": 35
     },
     {
-      "Action": "Politely asks the roughneck for gas despite the roughneck's uncertain response, showing respect and courtesy.",
+      "Action": "Politely asks the roughneck for gas despite the roughneck's uncertain response.",
       "Warmth": 1,
       "Chunk": 35
     },
     {
-      "Action": "Stops Holly from changing the radio station, showing control over the situation and attention to detail.",
+      "Action": "Patting Holly's hand away to keep the radio on Nat King Cole, showing control in a subtle situation.",
       "Competence": 1,
       "Chunk": 35
     },
     {
-      "Action": "Whispers about singing a song, expressing emotion but not demonstrating skill or action.",
-      "Competence": 0,
-      "Chunk": 35
-    },
-    {
-      "Action": "Shakes his head with admiration at the mountains, showing appreciation but no direct competence.",
-      "Competence": 0,
-      "Chunk": 35
-    },
-    {
-      "Action": "Approaches the oil rig and confidently asks for gas despite the roughneck's uncertain response, showing initiative and assertiveness.",
+      "Action": "Engages Holly with charm and emotionally connects by whispering about singing a song, demonstrating social skill and confidence.",
       "Competence": 1,
       "Chunk": 35
     },
     {
-      "Action": "Offers to swap his Cadillac for the Roughneck's truck, trying to make a fair deal.",
+      "Action": "Observes the mountains at dawn with admiration and uses the moment to connect with Holly, showing awareness and emotional intelligence.",
+      "Competence": 1,
+      "Chunk": 35
+    },
+    {
+      "Action": "Approaches the oil rig alone, confidently initiating contact with the roughneck and requesting gas despite uncertain reception.",
+      "Competence": 1,
+      "Chunk": 35
+    },
+    {
+      "Action": "Admits he has no time to explain their need for gas, indicating a sense of urgency but also showing straightforwardness.",
+      "Competence": 1,
+      "Chunk": 35
+    },
+    {
+      "Action": "Offers to swap his Cadillac for the Roughneck's truck, attempting a fair deal.",
       "Warmth": 1,
       "Chunk": 36
     },
     {
-      "Action": "Draws his gun and tells the Roughneck to start running, showing a protective but firm attitude.",
+      "Action": "Points out he shoots people sometimes, implying toughness but not a medal-worthy hero—somewhat self-deprecating honesty.",
       "Warmth": 0,
       "Chunk": 36
     },
     {
-      "Action": "Joins Holly and tries to encourage her to run from the helicopter, showing concern for her safety.",
+      "Action": "Encourages the Roughneck to run and tries to protect Holly by urging her to get in the car.",
       "Warmth": 1,
       "Chunk": 36
     },
     {
-      "Action": "Expresses surprise and frustration when Holly refuses to go, then kicks dust and questions her repeatedly.",
+      "Action": "Shows frustration when Holly refuses to run, kicks dust, and questions her insistently.",
       "Warmth": -1,
       "Chunk": 36
     },
     {
-      "Action": "After Holly refuses to go, he walks off a distance and then returns closer to her, indicating a conflicted but caring stance.",
-      "Warmth": 1,
+      "Action": "After Holly refuses to go, he responds with a mixture of surprise and concern but ultimately walks off somewhat withdrawn.",
+      "Warmth": 0,
       "Chunk": 36
     },
     {
-      "Action": "Attempts to negotiate a vehicle swap with the Roughneck, showing confidence and quick thinking.",
+      "Action": "Attempts to swap his Cadillac for the truck, showing negotiation skills and confidence.",
       "Competence": 1,
       "Chunk": 36
     },
     {
-      "Action": "Recognizes the approaching helicopter and draws his gun, preparing for confrontation.",
+      "Action": "Identifies the approaching helicopter quickly and draws his gun without hesitation.",
       "Competence": 1,
       "Chunk": 36
     },
     {
-      "Action": "Tries to get Holly to run with him, showing leadership and decisiveness.",
+      "Action": "Tries to take charge and motivates roughneck to run, indicating decisiveness under pressure.",
       "Competence": 1,
       "Chunk": 36
     },
     {
-      "Action": "Becomes frustrated and confused by Holly's refusal to leave, showing some emotional loss of control.",
-      "Competence": -1,
+      "Action": "Reacting with frustration and confusion at Holly’s refusal, possibly losing composure.",
+      "Competence": 0,
       "Chunk": 36
     },
     {
-      "Action": "Offers Holly a second chance and arranges a meeting.",
+      "Action": "Ultimately bows head and walks off after Holly’s refusal, showing some emotional vulnerability but no clear strategic action.",
+      "Competence": 0,
+      "Chunk": 36
+    },
+    {
+      "Action": "Offers to let the attendant take any of Holly's discarded belongings from the trash can, indicating a small gesture of sharing.",
       "Warmth": 1,
       "Chunk": 37
     },
     {
-      "Action": "Throws Holly's belongings into the trash but offers them to the attendant if wanted.",
+      "Action": "Kicks at the rigs in frustration and is involved in a violent shootout with police.",
+      "Warmth": -1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Says to Holly, 'You want a second chance, then listen,' setting a meeting but in a commanding, tough manner.",
       "Warmth": 0,
       "Chunk": 37
     },
     {
-      "Action": "Makes a stack of rocks to mark the site of his capture for posterity, finishing just as the police arrive.",
+      "Action": "Uses a discarded fender as a shield and successfully outguns a State Trooper, then escapes in a car.",
+      "Competence": 1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Approaches a gas station and requests ammunition clearly, then methodically sorts through and discards another person's belongings to lighten his load or remove unnecessary items.",
+      "Competence": 1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Notices the approaching police car simultaneously as they spot him, quickly hides evidence (the book) in the car and escapes, leading police on a chase using dirt roads and gunfire to lose them.",
+      "Competence": 1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Greets the police calmly with a casual 'Hi' and cooperates by throwing up his hands and walking toward them.",
       "Warmth": 1,
       "Chunk": 38
     },
     {
-      "Action": "Greets the police with a simple 'Hi' and engages in casual banter about his capture location.",
+      "Action": "Makes a stack of rocks to mark the site of his capture for posterity.",
       "Warmth": 1,
       "Chunk": 38
     },
     {
-      "Action": "Throws up his hands and surrenders without resistance when police arrive with guns drawn.",
-      "Warmth": 1,
+      "Action": "Mocks the police by boasting about holding off an army.",
+      "Warmth": -1,
       "Chunk": 38
     },
     {
-      "Action": "Successfully evades police by using terrain and driving skillfully, causing police car to lose control and stall.",
+      "Action": "Skillfully evades police by swerving off road, causing police car to lose control and stall, then successfully losing pursuers.",
       "Competence": 1,
       "Chunk": 38
     },
     {
-      "Action": "Checks his pulse and calmly prepares a rock stack to mark his capture spot, showing presence of mind even when caught.",
+      "Action": "Calmly checks his pulse and marks the site of his capture with a stack of rocks just before surrendering.",
       "Competence": 1,
       "Chunk": 38
     },
     {
-      "Action": "Does not attempt to flee when police arrive despite having a chance, possibly indicating resignation or poor tactical decision.",
-      "Competence": -1,
+      "Action": "Demonstrates self-awareness by checking appearance and demeanor in the mirror during escape.",
+      "Competence": 1,
       "Chunk": 38
     },
     {
-      "Action": "Complies with Sheriff's instructions without resistance.",
-      "Warmth": 0,
-      "Chunk": 39
-    },
-    {
-      "Action": "Makes a lighthearted comment about getting a cauliflower ear after being shoved.",
-      "Warmth": 1,
-      "Chunk": 39
-    },
-    {
-      "Action": "Reassures the Deputy by complimenting their performance and promises to share the story in town.",
-      "Warmth": 1,
-      "Chunk": 39
-    },
-    {
-      "Action": "Responds calmly and without complaint when the Sheriff tosses his hat out the window.",
-      "Warmth": 0,
-      "Chunk": 39
-    },
-    {
-      "Action": "Answers the Deputy's question about liking people with a neutral 'They're okay.'",
-      "Warmth": 0,
-      "Chunk": 39
-    },
-    {
-      "Action": "Admits to the Deputy that he wanted to be a criminal but not a big one, showing some self-awareness and openness.",
-      "Warmth": 1,
-      "Chunk": 39
-    },
-    {
-      "Action": "Follows the Sheriff's instructions to handcuff himself without resistance.",
+      "Action": "Claims to have a flat tire as an excuse for capture, possibly deceiving but also indicating acceptance of situation.",
       "Competence": 0,
+      "Chunk": 38
+    },
+    {
+      "Action": "Reassures the Deputy with 'Well, you boys have performed like a couple of heroes...'",
+      "Warmth": 1,
       "Chunk": 39
     },
     {
-      "Action": "Engages the Deputy in conversation, showing calmness and a degree of social intelligence despite being captured.",
-      "Competence": 1,
+      "Action": "Responds casually and without complaint when his hat is tossed out of the window",
+      "Warmth": 0,
       "Chunk": 39
     },
     {
-      "Action": "Considers taking the juice (presumably a weapon or tool) while in police custody, indicating quick thinking and situational awareness.",
-      "Competence": 1,
+      "Action": "Replies tersely and dispassionately to the Deputy's question about liking people ('They're okay.')",
+      "Warmth": 0,
       "Chunk": 39
     },
     {
-      "Action": "Does not attempt to escape or resist despite opportunity, possibly showing lack of assertiveness or missed chance to act.",
-      "Competence": -1,
+      "Action": "Admits uncertainty and self-awareness in his reasoning for crime: 'I don't know... Takes all kinds though.'",
+      "Warmth": 0,
       "Chunk": 39
     },
     {
-      "Action": "Responds to the Deputy's questions with casual honesty and humor, demonstrating confidence and composure.",
-      "Competence": 1,
-      "Chunk": 39
-    },
-    {
-      "Action": "Tosses souvenirs and small items like a cigarette lighter, comb, and pen to the crowd of troopers and guardsmen.",
+      "Action": "Tosses souvenirs and personal items to a crowd of guardsmen and troopers despite being shackled, briefly engages in light banter.",
       "Warmth": 1,
       "Chunk": 40
     },
     {
-      "Action": "Engages briefly in friendly banter about hometowns and favorite singers.",
-      "Warmth": 1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Ignores most of the questions coming at him from the crowd.",
+      "Action": "Ignores most of the questions being asked by the crowd, providing minimal engagement.",
       "Warmth": -1,
       "Chunk": 40
     },
     {
-      "Action": "Engages with guards by tossing out souvenirs and responding to questions with calm, casual confidence.",
+      "Action": "Interacts calmly and confidently with multiple people despite being restrained and under arrest, displaying poise and the ability to maintain control of the social situation.",
       "Competence": 1,
       "Chunk": 40
     },
     {
-      "Action": "Appears anxious to hear the Deputy's remark about James Dean, showing some insecurity.",
+      "Action": "Does not resist or attempt escape while shackled and surrounded by law enforcement, showing acceptance of circumstances rather than taking action to change them.",
       "Competence": -1,
       "Chunk": 40
     },
     {
-      "Action": "Asks the Deputy for a Coke while reading legal papers, showing casual politeness.",
+      "Action": "Asks the Deputy for a Coke while reading legal papers, making a small request politely.",
       "Warmth": 1,
       "Chunk": 41
     },
     {
-      "Action": "Tells the guardsmen to keep out of trouble, showing concern for others.",
+      "Action": "Tells the Guardsmen to keep out of trouble, showing concern for others' well-being.",
       "Warmth": 1,
       "Chunk": 41
     },
     {
-      "Action": "Reassures Holly that he will get her off the charges and that she will have fun, showing support and encouragement.",
+      "Action": "Reassures Holly he will get her off charges and that she will have fun later.",
       "Warmth": 1,
       "Chunk": 41
     },
     {
-      "Action": "Makes a dark joke about a man with a deaf maid, which Holly does not appreciate, then turns serious when he notices her reaction.",
-      "Warmth": 0,
+      "Action": "Makes a dark joke about 'the guy with the deaf maid,' which Holly does not appreciate.",
+      "Warmth": -1,
       "Chunk": 41
     },
     {
-      "Action": "Responds to Holly's silence and discomfort with seriousness and empathy about her father.",
+      "Action": "Notices Holly's reaction and becomes serious, indicating some sensitivity.",
       "Warmth": 1,
       "Chunk": 41
     },
     {
-      "Action": "Asks to read legal papers before signing and negotiates for a Coke while doing so.",
+      "Action": "Negotiates with the Deputy to read legal papers before signing and cleverly requests a Coke during the process.",
       "Competence": 1,
       "Chunk": 41
     },
     {
-      "Action": "Calmly interacts with guardsmen and law enforcement, maintaining composure and some control.",
+      "Action": "Interacts confidently with guardsmen and legal authorities, showing leadership by telling others to stay out of trouble.",
       "Competence": 1,
       "Chunk": 41
     },
     {
-      "Action": "Attempts to reassure Holly and shows confidence in getting her off charges.",
+      "Action": "Attempts to comfort Holly and assures her they will get her off charges, showing confidence and emotional intelligence.",
       "Competence": 1,
       "Chunk": 41
     },
     {
-      "Action": "Makes a dark joke about a serious situation that Holly does not appreciate, then quickly adjusts tone.",
+      "Action": "Makes a dark joke about a serious situation (the man with the deaf maid), but recognizes the misstep and shifts to a serious tone.",
       "Competence": 0,
       "Chunk": 41
     },
     {
-      "Action": "Does not show overt fear or panic when asked about death, responding thoughtfully.",
-      "Competence": 1,
-      "Chunk": 41
-    },
-    {
-      "Action": "Expresses sympathy about Holly's dad and suggests they talk about it sometime.",
+      "Action": "Thanks officials politely and wishes them good luck sincerely.",
       "Warmth": 1,
       "Chunk": 42
     },
     {
-      "Action": "Politely thanks Chief Sims and Deputy, apologizes for any inconvenience.",
+      "Action": "Calls Holly affectionately 'Red' when boarding the plane.",
       "Warmth": 1,
       "Chunk": 42
     },
     {
-      "Action": "Calls Holly affectionately 'Red' to come along.",
-      "Warmth": 1,
-      "Chunk": 42
-    },
-    {
-      "Action": "Signs extradition papers promptly and courteously thanks the Chief Trooper and Deputy, maintaining polite and confident demeanor.",
+      "Action": "Calmly signs extradition papers and thanks law enforcement politely, demonstrating composure and respect in a stressful situation.",
       "Competence": 1,
       "Chunk": 42
     },
     {
-      "Action": "Calls Holly to board the plane, showing leadership and decisiveness in a tense situation.",
+      "Action": "Calls Holly calmly to board the plane despite being under arrest and in custody.",
       "Competence": 1,
       "Chunk": 42
     },
     {
-      "Action": "Goes to sleep in the courtroom while his confession is being read, indicating disengagement or lack of control over the situation.",
-      "Competence": -1,
+      "Action": "Accepts extradition and impending punishment without protest or apparent strategic resistance.",
+      "Competence": 0,
       "Chunk": 42
     },
     {
-      "Action": "Engages in friendly, light-hearted conversation with the Trooper, showing interest and attempting to connect.",
+      "Action": "Engages in light, friendly conversation with the Trooper, expressing admiration and maintaining a cordial tone.",
       "Warmth": 1,
       "Chunk": 43
     },
     {
-      "Action": "Engages in light conversation with the Trooper, showing curiosity and social awareness by gauging Holly's reaction to the Trooper's remark.",
+      "Action": "Looks to Holly to check if his joking remark was received well, showing consideration for her feelings.",
+      "Warmth": 1,
+      "Chunk": 43
+    },
+    {
+      "Action": "Engages politely and with curiosity by asking the Trooper about the military hat, showing social attunement and awareness.",
       "Competence": 1,
+      "Chunk": 43
+    },
+    {
+      "Action": "Attempts to gauge the Trooper's attitude through conversation, indicating a degree of social intelligence and confidence.",
+      "Competence": 1,
+      "Chunk": 43
+    },
+    {
+      "Action": "Shows no evidence of taking the situation seriously or assertively acting on it, instead sits passively during the flight.",
+      "Competence": 0,
       "Chunk": 43
     }
   ]

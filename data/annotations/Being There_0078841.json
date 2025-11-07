@@ -1,262 +1,177 @@
 {
-  "Chance": [
+  "Chance (Chauncey Gardner)": [
     {
-      "Action": "Works slowly and precisely in the garden, carefully wiping dirt from his pitchfork, and methodically covering the car for the night.",
-      "Competence": 1,
+      "Action": "Works slowly and precisely in the garden, carefully wipes dirt from tools, covers the car thoughtfully before night.",
+      "Warmth": 1,
       "Chunk": 1
     },
     {
-      "Action": "Watches TV with a detached gaze, carefully unfolds napkin and puts it on lap before eating.",
+      "Action": "Carefully unfolds his napkin and puts it on his lap as he watches the TV at the dining table.",
       "Warmth": 1,
       "Chunk": 2
     },
     {
-      "Action": "Puts laundry bag down neatly and sits quietly at the table.",
-      "Warmth": 1,
-      "Chunk": 2
-    },
-    {
-      "Action": "No interaction or acknowledgment of Louise beyond accepting food and laundry.",
+      "Action": "Silently follows routine of putting away apron and pitchfork rag; does not interact with others or display emotion.",
       "Warmth": 0,
       "Chunk": 2
     },
     {
-      "Action": "Oils the tines of the pitchfork and puts it away carefully.",
+      "Action": "Accepts dinner from Louise without any explicit acknowledgment or words.",
+      "Warmth": 0,
+      "Chunk": 2
+    },
+    {
+      "Action": "Oils the tines of the pitchfork and puts it away before leaving the room.",
       "Competence": 1,
       "Chunk": 2
     },
     {
-      "Action": "Uses the remote control to change TV channels and operate the television set.",
+      "Action": "Changes the TV channels using the remote control while putting away cleaning items and clothing, showing familiarity with technology and routine.",
       "Competence": 1,
       "Chunk": 2
     },
     {
-      "Action": "Puts on a clean suit and carries laundry bag, showing attention to personal appearance and responsibility.",
+      "Action": "Clothes are of like quality and neatly hung, indicating orderly personal habits.",
       "Competence": 1,
       "Chunk": 2
     },
     {
-      "Action": "Sits at the dining table, unfolds napkin carefully, and watches TV while waiting for dinner.",
+      "Action": "Passive and detached gaze at the television, no active engagement with content or situation.",
+      "Competence": 0,
+      "Chunk": 2
+    },
+    {
+      "Action": "Sits at dining table, turns on TV, carefully unfolds napkin and puts it on lap before eating, showing an understanding of social dining conventions.",
       "Competence": 1,
       "Chunk": 2
     },
     {
-      "Action": "No books, magazines, or reading material in his room, indicating possible lack of intellectual engagement or self-education.",
+      "Action": "No books, magazines, newspapers, or reading matter in his room, indicating lack of active intellectual engagement or curiosity.",
       "Competence": -1,
       "Chunk": 2
     },
     {
-      "Action": "Greets Louise politely with perfect diction and no accent.",
+      "Action": "Greets Louise politely and with perfect diction.",
       "Warmth": 1,
       "Chunk": 3
     },
     {
-      "Action": "Responds minimally to Louise's concerns about the Old Man's health, showing little engagement beyond a brief question.",
-      "Warmth": 0,
-      "Chunk": 3
-    },
-    {
-      "Action": "Continues to eat and watch TV without further interaction when Louise expresses worry and frustration.",
+      "Action": "Responds minimally and passively to Louise's concerns about the Old Man's health, without offering comfort or engagement.",
       "Warmth": -1,
       "Chunk": 3
     },
     {
-      "Action": "Greets Louise politely with perfect diction and no accent.",
-      "Competence": 1,
+      "Action": "Continues to watch TV and eat, showing little emotional involvement during Louise's worries.",
+      "Warmth": -1,
       "Chunk": 3
     },
     {
-      "Action": "Responds to Louise's concerns about the Old Man with minimal engagement, simply saying 'I see' and continuing to eat while watching TV.",
+      "Action": "Asks briefly about the Old Man's back, showing minimal but some attention to others' wellbeing.",
+      "Warmth": 0,
+      "Chunk": 3
+    },
+    {
+      "Action": "Looks up and smiles at Louise when she enters distraught.",
+      "Warmth": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Responds flatly and minimally to news of death, then turns back to TV.",
+      "Warmth": -1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Takes cover off touring car, folds it neatly, and stores it properly on a shelf.",
+      "Competence": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Changes TV channels, hangs robe and umbrella in appropriate places, performs routine daily habits methodically.",
+      "Competence": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Peeks out at light snow, then returns to fetch an umbrella before going out, indicating cautiousness and preparedness.",
+      "Competence": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Responds to news of Old Man's death with flat, minimal acknowledgment, without apparent comprehension or emotional engagement.",
       "Competence": -1,
-      "Chunk": 3
-    },
-    {
-      "Action": "Asks if the Old Man's back is feeling better, showing some attempt at interaction but misunderstanding the situation.",
-      "Competence": 0,
-      "Chunk": 3
-    },
-    {
-      "Action": "Maintains impeccable manners and calm demeanor despite Louise's frustration and cryptic comments.",
-      "Competence": 1,
-      "Chunk": 3
-    },
-    {
-      "Action": "Performs morning routine actions (waking up, turning on TV, checking time, dressing) without distraction, showing orderly behavior.",
-      "Competence": 1,
-      "Chunk": 3
-    },
-    {
-      "Action": "Waters plants in the potting room while the TV is on, demonstrating a simple task done methodically.",
-      "Competence": 1,
-      "Chunk": 3
-    },
-    {
-      "Action": "Smiles and greets Louise warmly when she enters distressed.",
-      "Warmth": 1,
       "Chunk": 4
     },
     {
-      "Action": "Responds flatly and unemotionally to news of the Old Man's death, turning back to TV.",
-      "Warmth": -1,
+      "Action": "Smiles when Louise is distraught, but shows no evidence of understanding or effective response to serious news.",
+      "Competence": -1,
       "Chunk": 4
     },
     {
-      "Action": "Takes care to fold the car cover and put it away neatly.",
-      "Competence": 1,
-      "Chunk": 4
-    },
-    {
-      "Action": "Changes TV channels, hangs up robe properly, uses umbrella when going out in snow, hangs umbrella neatly.",
-      "Competence": 1,
-      "Chunk": 4
-    },
-    {
-      "Action": "Performs dining ritual carefully: sits, turns on TV, spreads napkin on lap.",
-      "Competence": 1,
-      "Chunk": 4
-    },
-    {
-      "Action": "Responds flatly and minimally to Louise's distressing news about the Old Man's death.",
-      "Competence": 0,
-      "Chunk": 4
-    },
-    {
-      "Action": "Responds calmly and with acceptance to Louise's anger about the old man's death, smiling and acknowledging death as a natural occurrence.",
+      "Action": "Acknowledges death calmly and simply, responding to Louise's anger with gentle acceptance.",
       "Warmth": 1,
       "Chunk": 5
     },
     {
-      "Action": "Does not engage emotionally or verbally when Louise expresses frustration and anger, remaining silent and watching TV.",
-      "Warmth": -1,
-      "Chunk": 5
-    },
-    {
-      "Action": "Politely accepts Louise's offer of breakfast and expresses hunger, showing basic social courtesy.",
+      "Action": "Smiles and remains silent when Louise lashes out angrily at him.",
       "Warmth": 1,
       "Chunk": 5
     },
     {
-      "Action": "Responds to Louise's anger and grief with calm, simple, and accepting statements about death, showing emotional steadiness but no active problem-solving or engagement.",
+      "Action": "Does not respond verbally to Louise's apology and softening but turns to her to express hunger, showing basic engagement.",
+      "Warmth": 0,
+      "Chunk": 5
+    },
+    {
+      "Action": "Responds calmly and acceptingly to news of death, showing emotional composure but not addressing the situation practically or offering help.",
       "Competence": 0,
       "Chunk": 5
     },
     {
-      "Action": "Smiles and remains silent when confronted with frustration, not escalating conflict but also not addressing the underlying issue.",
+      "Action": "Speaks about the snow and observes surroundings but fails to engage meaningfully with Louise's distress or the gravity of the event.",
+      "Competence": -1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Expresses hunger politely and acknowledges Louise's care, showing basic social awareness and communication.",
       "Competence": 0,
       "Chunk": 5
     },
     {
-      "Action": "Expresses hunger and accepts Louise's offer of breakfast, showing basic self-care and social interaction.",
-      "Competence": 0,
-      "Chunk": 5
-    },
-    {
-      "Action": "Nods in approval when Louise offers to get eggs.",
+      "Action": "Gently pulls the sheet back from the Old Man's face, touches his forehead lightly, then replaces the sheet; sits by his side and watches a movie with him, resting an arm on him.",
       "Warmth": 1,
       "Chunk": 6
     },
     {
-      "Action": "Gently pulls back the sheet from the Old Man's face, touches his forehead lightly and briefly, then replaces the sheet.",
+      "Action": "Takes a long respectful look at Louise and nods approval when she offers eggs.",
       "Warmth": 1,
       "Chunk": 6
     },
     {
-      "Action": "Sits next to the Old Man's bed, rests an arm on his covered body while watching TV.",
+      "Action": "Tips his hat to Louise in the garden in the polite manner seen on TV.",
       "Warmth": 1,
       "Chunk": 6
     },
     {
-      "Action": "Tips his hat to Louise in the garden, imitating a gentlemanly gesture from a movie.",
-      "Warmth": 1,
-      "Chunk": 6
-    },
-    {
-      "Action": "Nods in approval and changes the TV channel, showing basic familiarity with the remote control.",
-      "Competence": 1,
-      "Chunk": 6
-    },
-    {
-      "Action": "Enters the Old Man's room respectfully, gently checks his forehead, and sits quietly watching a movie, showing sensitivity and calm behavior.",
-      "Competence": 1,
-      "Chunk": 6
-    },
-    {
-      "Action": "Absorbs the scene of a gentleman tipping his hat on TV and later imitates the gesture correctly to Louise.",
-      "Competence": 1,
-      "Chunk": 6
-    },
-    {
-      "Action": "Moves slowly and deliberately through the house and garden, showing no signs of confusion or hesitation.",
-      "Competence": 1,
-      "Chunk": 6
-    },
-    {
-      "Action": "Tips his hat politely to Louise twice, says goodbye sincerely.",
+      "Action": "Tips his hat politely to Louise twice during their interaction.",
       "Warmth": 1,
       "Chunk": 7
     },
     {
-      "Action": "Keeps working and does not verbally respond to Louise's caring advice and physical touch.",
+      "Action": "Responds simply and respectfully to Louise's caring comments but does not engage emotionally or verbally beyond brief replies.",
       "Warmth": 0,
       "Chunk": 7
     },
     {
-      "Action": "Tips his hat politely to Louise, responds briefly but appropriately, and resumes working without distraction.",
-      "Competence": 1,
-      "Chunk": 7
-    },
-    {
-      "Action": "Keeps working steadily despite Louise's emotional comments and physical touch, showing focus and calmness.",
-      "Competence": 1,
-      "Chunk": 7
-    },
-    {
-      "Action": "Responds with a simple 'Yes' and 'Goodbye' without elaboration or engagement in conversation.",
-      "Competence": 0,
-      "Chunk": 7
-    },
-    {
-      "Action": "Turns off the television and leaves the room after washing up, showing a quiet, unobtrusive behavior.",
+      "Action": "Keeps working silently while Louise expresses concern and offers advice, showing no evident warmth but also no coldness.",
       "Warmth": 0,
-      "Chunk": 8
+      "Chunk": 7
     },
     {
-      "Action": "Looks for Louise after sitting down to watch TV, indicating some awareness or concern for others' presence.",
-      "Warmth": 1,
-      "Chunk": 8
-    },
-    {
-      "Action": "Unconsciously imitates the President's two-handed handshake seen on TV, suggesting a subtle desire for connection or social warmth.",
-      "Warmth": 1,
-      "Chunk": 8
-    },
-    {
-      "Action": "Washes up, changes into slippers, turns off TV, leaves room calmly and deliberately.",
-      "Competence": 1,
-      "Chunk": 8
-    },
-    {
-      "Action": "Crosses through fresh snow carrying slippers without hesitation or difficulty.",
-      "Competence": 1,
-      "Chunk": 8
-    },
-    {
-      "Action": "Sits at dining table, turns on TV, watches various programs including football and presidential news, appears to absorb subtle social cues like the two-handed handshake.",
-      "Competence": 1,
-      "Chunk": 8
-    },
-    {
-      "Action": "Looks for Louise but does not react strongly when she is not present, simply resumes watching TV.",
-      "Competence": 0,
-      "Chunk": 8
-    },
-    {
-      "Action": "Takes Franklin's hand warmly in both of his like the President did on TV.",
+      "Action": "Takes Franklin's hand warmly in both of his hands like the President did on TV.",
       "Warmth": 1,
       "Chunk": 9
     },
     {
-      "Action": "Doesn't rise but shakes Hayes' hand with both hands.",
+      "Action": "Shakes Hayes' hand with both hands but does not rise.",
       "Warmth": 0,
       "Chunk": 9
     },
@@ -266,1153 +181,1048 @@
       "Chunk": 9
     },
     {
-      "Action": "Shakes hands warmly and confidently with Franklin and Hayes without rising, remains at ease and smiles while responding appropriately to their questions.",
+      "Action": "Shakes hands warmly and confidently, calmly responds to unexpected visitors with ease and politeness, remains composed while others are perplexed.",
       "Competence": 1,
       "Chunk": 9
     },
     {
-      "Action": "Does not clarify confusion or assert himself beyond simple answers, allowing others to be perplexed by his behavior.",
-      "Competence": 0,
+      "Action": "Does not rise to greet guests formally, continues watching TV ignoring social cues, provides vague or odd explanations (waiting for lunch), causing confusion in others.",
+      "Competence": -1,
       "Chunk": 9
     },
     {
-      "Action": "Smiles at Hayes when questioned.",
+      "Action": "Smiles politely at Hayes.",
       "Warmth": 1,
       "Chunk": 10
     },
     {
-      "Action": "Responds politely and calmly to skeptical questions about his living situation and employment.",
+      "Action": "Responds calmly and simply about his life and situation without defensiveness or hostility.",
       "Warmth": 1,
       "Chunk": 10
     },
     {
-      "Action": "Thanks Hayes when complimented despite not fitting the expected appearance.",
+      "Action": "Does not argue or become irritated when doubted or questioned by Franklin and Hayes.",
       "Warmth": 1,
       "Chunk": 10
     },
     {
-      "Action": "Does not become defensive or hostile when challenged about lack of proof or money.",
+      "Action": "States he never needed money and is content with meals and a home.",
       "Warmth": 1,
       "Chunk": 10
     },
     {
-      "Action": "Avoids confrontation and simply states facts without elaboration or argument.",
+      "Action": "Fails to provide any proof or typical identification when asked for it.",
       "Warmth": 0,
       "Chunk": 10
     },
     {
-      "Action": "Claims to live and work as a gardener at the estate since childhood, despite lacking any proof or documentation.",
+      "Action": "Claims to live and work as a gardener for a long time without any proof, shows no ability to provide documents or valid explanations.",
+      "Competence": -1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Responds calmly and politely to challenging questions, maintaining composure without confusion or agitation.",
       "Competence": 0,
       "Chunk": 10
     },
     {
-      "Action": "Responds calmly and politely to skeptical questioning without becoming defensive or flustered.",
-      "Competence": 1,
-      "Chunk": 10
-    },
-    {
-      "Action": "Fails to provide any identification, proof of employment, or evidence of compensation when asked.",
+      "Action": "Fails to produce any identification or proof of employment or payment, does not understand concept of monetary compensation.",
       "Competence": -1,
       "Chunk": 10
     },
     {
-      "Action": "Remembers and speaks about Joe Saracini, the mason who visited long ago, with some detail and apparent fondness.",
+      "Action": "Provides simple, honest answers about his lack of identification and medical records without defensiveness.",
       "Warmth": 1,
       "Chunk": 11
     },
     {
-      "Action": "Responds calmly and without hostility to probing questions about his identity and history.",
+      "Action": "Mentions Joe Saracini fondly and recalls details about him patiently.",
       "Warmth": 1,
       "Chunk": 11
     },
     {
-      "Action": "Turns the TV back on and changes channels during questioning, showing detachment or avoidance rather than engagement.",
+      "Action": "Turns TV back on and changes channels during questioning, showing a calm, non-confrontational attitude.",
       "Warmth": 0,
       "Chunk": 11
     },
     {
-      "Action": "Refuses to provide identification or proof of residence, responding with a simple assertion 'You have me, I am here.'",
-      "Warmth": 0,
+      "Action": "Responds to skepticism with gentle questions rather than irritation or anger.",
+      "Warmth": 1,
       "Chunk": 11
     },
     {
-      "Action": "Recalls detailed information about Joe Saracini and the year 1952, including physical description and events.",
-      "Competence": 1,
+      "Action": "Deflects demands for proof with a seemingly sincere but minimal assertion: 'You have me, I am here.'",
+      "Warmth": 1,
       "Chunk": 11
     },
     {
-      "Action": "Fails to provide any form of identification or proof of residence when asked.",
-      "Competence": -1,
-      "Chunk": 11
-    },
-    {
-      "Action": "Responds confidently and calmly to questioning despite lack of documentation.",
-      "Competence": 1,
-      "Chunk": 11
-    },
-    {
-      "Action": "Shows no understanding of the need for medical records or identification, indicating naivety or lack of practical knowledge.",
-      "Competence": -1,
-      "Chunk": 11
-    },
-    {
-      "Action": "Uses simple logic to assert his presence as proof of residence ('You have me, I am here').",
-      "Competence": 0,
-      "Chunk": 11
-    },
-    {
-      "Action": "Describes his garden with pride and points out details to visitors.",
+      "Action": "Describes his garden with pride and points out the work done by others like Joe.",
       "Warmth": 1,
       "Chunk": 12
     },
     {
-      "Action": "Leads the attorneys outside and shows them around without hesitation.",
+      "Action": "Answers questions honestly and simply, admits to never having been in an automobile and never paying taxes.",
       "Warmth": 1,
       "Chunk": 12
     },
     {
-      "Action": "Blushes slightly when admitting he has never been in a car, showing vulnerability.",
+      "Action": "Leads the attorneys outside in a cooperative manner without hesitation.",
       "Warmth": 1,
       "Chunk": 12
     },
     {
-      "Action": "Answers questions simply and honestly without evasion or defensiveness.",
+      "Action": "Blushes slightly when questioned about never having been in a car, showing modesty and perhaps some vulnerability.",
       "Warmth": 1,
       "Chunk": 12
     },
     {
-      "Action": "Describes his garden with pride and points out details about the trees, hedges, and flowers.",
-      "Competence": 1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Admits he has never driven or even been in an automobile, and lives inside the garage car.",
-      "Competence": -1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Uses a television remote control confidently to turn on the TV.",
-      "Competence": 1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Fails to provide basic personal documents like a birth certificate or tax records.",
-      "Competence": -1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Politely acknowledges lack of connection with deceased without argument.",
+      "Action": "Politely acknowledges lack of information about connection to deceased ('Yes, I understand.')",
       "Warmth": 1,
       "Chunk": 13
     },
     {
-      "Action": "Offers to take the Old Man's clothes, showing practical acceptance.",
+      "Action": "Offers to take the Old Man's suits and clothes without any sense of entitlement or complaint",
       "Warmth": 1,
       "Chunk": 13
     },
     {
-      "Action": "Expresses desire to stay and work in his garden, a simple and sincere wish.",
+      "Action": "Expresses simple wish to stay and work in his garden",
       "Warmth": 1,
       "Chunk": 13
     },
     {
-      "Action": "Responds to legal questions with confusion but remains calm and non-confrontational.",
+      "Action": "Responds to question about plans against the estate with seeming misunderstanding and no greed ('I'm fine, Thomas. The garden is a healthy one. There is no need for a claim')",
       "Warmth": 1,
       "Chunk": 13
     },
     {
-      "Action": "Refuses to sign a release form because he does not understand how to sign and insists he has no claim.",
+      "Action": "Refuses to sign the release because he says he does not know how to sign, smiling politely.",
       "Warmth": 1,
       "Chunk": 14
     },
     {
-      "Action": "Smiles politely and returns a greeting to Hayes.",
+      "Action": "Returns a smile when greeted by Hayes.",
       "Warmth": 1,
       "Chunk": 14
     },
     {
-      "Action": "Does not react with anger or frustration when told to move out, instead shows confusion and calmness.",
+      "Action": "Does not react with hostility or anger when told he must move out, instead expresses confusion.",
       "Warmth": 1,
       "Chunk": 14
     },
     {
-      "Action": "Puts Franklin's business card on the desk without looking at it and turns away to watch TV.",
+      "Action": "Puts Franklin's business card on the desk without looking at it and turns away silently.",
       "Warmth": 0,
       "Chunk": 14
     },
     {
-      "Action": "Refuses to sign a legal document because he does not know how to sign and insists he has no claim.",
+      "Action": "Refuses to sign the release paper because he does not know how to sign and claims he has no claim.",
       "Competence": -1,
       "Chunk": 14
     },
     {
-      "Action": "Does not take Franklin's business card or engage with the offer to call, instead placing it on the desk without looking at it.",
+      "Action": "Does not take Franklin's business card or pay attention to it, then turns back to stare idly at the television.",
       "Competence": -1,
       "Chunk": 14
     },
     {
-      "Action": "Calmly watches Franklin and Hayes leave, then turns to stare at the television without reacting to the situation.",
+      "Action": "Calmly smiles and politely responds to Hayes and Franklin despite tense situation.",
       "Competence": 0,
       "Chunk": 14
     },
     {
-      "Action": "Selects a fine leather suitcase and a handmade suit from the attic possessions, preparing to pack his belongings.",
+      "Action": "Gathers his belongings in an orderly and deliberate fashion, preparing to leave.",
       "Competence": 1,
       "Chunk": 14
     },
     {
-      "Action": "Stops to inspect his garden as he walks toward the townhouse.",
+      "Action": "Stops and smiles at group of Black people huddled for warmth, nods politely despite their unfriendly reception.",
       "Warmth": 1,
       "Chunk": 15
     },
     {
-      "Action": "Hesitates but then opens the front door and steps outside, showing courage.",
+      "Action": "Approaches a group of hard-core ghetto youths to ask politely for directions to a garden.",
+      "Warmth": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Hesitates and shows reluctance to leave safety of townhouse before venturing into harsh environment.",
       "Warmth": 0,
       "Chunk": 15
     },
     {
-      "Action": "Stands on the steps of a decaying ghetto, tries to return to safety but door is locked, then decides to move forward.",
-      "Warmth": 0,
-      "Chunk": 15
-    },
-    {
-      "Action": "Approaches a group of Black people huddled around a fire, stands by them and smiles, nods politely though they show no friendliness.",
-      "Warmth": 1,
-      "Chunk": 15
-    },
-    {
-      "Action": "Approaches a group of hard-core ghetto youths and politely asks for directions to a garden to work in.",
-      "Warmth": 1,
-      "Chunk": 15
-    },
-    {
-      "Action": "Inspects his garden carefully as he walks, showing attention to detail and care.",
-      "Competence": 1,
-      "Chunk": 15
-    },
-    {
-      "Action": "Hesitates and shows reluctance to open the front door, indicating lack of confidence or decisiveness.",
-      "Competence": -1,
-      "Chunk": 15
-    },
-    {
-      "Action": "After being locked out, pauses to consider which way to go and then makes a decision, showing some problem-solving ability.",
-      "Competence": 1,
-      "Chunk": 15
-    },
-    {
-      "Action": "Approaches a group of strangers in a hostile environment with a polite smile and nod, demonstrating social courage but possibly naivety.",
+      "Action": "Tries to defuse a dangerous confrontation with calm politeness and a non-threatening gesture (using his TV remote to try to communicate).",
       "Competence": 0,
-      "Chunk": 15
-    },
-    {
-      "Action": "Politely asks a group of intimidating youths for directions to a garden, showing initiative but also a lack of awareness of social cues and potential danger.",
-      "Competence": 0,
-      "Chunk": 15
-    },
-    {
-      "Action": "Smiles and tries to communicate peacefully with Abbaz despite the threat.",
-      "Warmth": 1,
       "Chunk": 16
     },
     {
-      "Action": "Does not react with anger or aggression when threatened with a knife, instead leaves calmly.",
-      "Warmth": 1,
-      "Chunk": 16
-    },
-    {
-      "Action": "Uses a TV remote control to try to change the subject or diffuse tension, showing innocence or naivety rather than hostility.",
-      "Warmth": 1,
-      "Chunk": 16
-    },
-    {
-      "Action": "Calmly explains his purpose and tries to communicate peacefully with a threatening gang leader.",
-      "Competence": 1,
-      "Chunk": 16
-    },
-    {
-      "Action": "Attempts to use a TV remote control as a tool to change the situation, showing misunderstanding of context and ineffectiveness.",
+      "Action": "Fails to recognize the danger escalation or take effective self-protection measures when threatened with a knife.",
       "Competence": -1,
       "Chunk": 16
     },
     {
-      "Action": "Maintains composure and leaves the dangerous situation without escalating conflict despite threat with a knife.",
-      "Competence": 1,
-      "Chunk": 16
-    },
-    {
-      "Action": "Smiles at the bulletin board with notes in Chinese before walking on.",
+      "Action": "Smiles after looking at notes on Chinatown bulletin board.",
       "Warmth": 1,
       "Chunk": 17
     },
     {
-      "Action": "Steps in front of an elderly Black woman and asks her to bring his lunch, frightening her.",
+      "Action": "Stops an elderly Black woman carrying groceries and asks her to bring him his lunch, causing her fear and flight.",
       "Warmth": -1,
       "Chunk": 17
     },
     {
-      "Action": "Bangs on fence and calls out to teenage boys, referencing a basketball player to engage them.",
+      "Action": "Bangs on fence and calls out to teenage boys playing basketball, referencing a famous player.",
       "Warmth": 1,
       "Chunk": 17
     },
     {
-      "Action": "Walks down the center of a busy street, oblivious to danger, showing naivety but no hostile intent.",
-      "Warmth": 0,
-      "Chunk": 17
-    },
-    {
-      "Action": "Looks confused about which way to go, then smiles and follows a statue's pointing direction.",
-      "Warmth": 0,
-      "Chunk": 17
-    },
-    {
-      "Action": "Gazes at notes written in Chinese on a bulletin board, then smiles and walks on without understanding.",
-      "Competence": -1,
-      "Chunk": 17
-    },
-    {
-      "Action": "Stops an elderly woman and asks her to bring his lunch, causing her to become frightened and run away.",
-      "Competence": -1,
-      "Chunk": 17
-    },
-    {
-      "Action": "Bangs on a fence and calls out to teenage boys about basketball, referencing a famous player, but is ignored.",
+      "Action": "Gazes at notes written in Chinese on a bulletin board and smiles before walking on.",
       "Competence": 0,
       "Chunk": 17
     },
     {
-      "Action": "Walks down the center meridian of a divided street, oblivious to passing automobiles.",
+      "Action": "Stops an elderly woman to ask for his lunch, causing her to become frightened and run away.",
       "Competence": -1,
       "Chunk": 17
     },
     {
-      "Action": "Appears stumped about which way to go, then chooses a direction based on a statue's pointing, smiling as he goes.",
+      "Action": "Attempts to engage with teenage boys by calling out knowledge about basketball and a famous player, but is ignored and walks away.",
       "Competence": 0,
       "Chunk": 17
     },
     {
-      "Action": "Notices a sick tree and politely informs a policeman, suggesting it should be cared for.",
+      "Action": "Walks down the center of a busy divided street, seemingly oblivious to the danger of passing automobiles.",
+      "Competence": -1,
+      "Chunk": 17
+    },
+    {
+      "Action": "When unsure which direction to go, looks at a statue pointing a direction and confidently follows that way.",
+      "Competence": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Points out the sick tree to the Policeman and suggests it should be cared for.",
       "Warmth": 1,
       "Chunk": 18
     },
     {
-      "Action": "Intrigued by his own image on TV, poses and smiles at himself.",
-      "Warmth": 0,
-      "Chunk": 18
-    },
-    {
-      "Action": "Accidentally pinned between two cars and cries out in pain.",
-      "Warmth": 0,
-      "Chunk": 18
-    },
-    {
-      "Action": "Points out that a tree is sick and suggests it should be cared for, successfully getting the policeman to agree to report it.",
+      "Action": "Points out that the tree is sick and suggests it should be cared for, leading the policeman to take action.",
       "Competence": 1,
       "Chunk": 18
     },
     {
-      "Action": "Interacts with the television store display, experimenting with his image on the screen and remote control, showing curiosity and some understanding of the technology.",
+      "Action": "Interacts with the TV shop window, experiments with how he appears on live video, showing curiosity and basic understanding of technology.",
       "Competence": 0,
       "Chunk": 18
     },
     {
-      "Action": "Fails to notice the backing limousine and gets pinned between cars, resulting in injury and dropping his belongings.",
+      "Action": "Fails to notice a backing limousine and gets pinned between two cars, resulting in physical injury.",
       "Competence": -1,
       "Chunk": 18
     },
     {
-      "Action": "Smiles and reassures bystanders that police are not needed despite his injury.",
+      "Action": "Smiles and reassures bystander that there is no need to call police after accident.",
       "Warmth": 1,
       "Chunk": 19
     },
     {
-      "Action": "Cooperates politely with Jeffrey examining his injury.",
+      "Action": "Cooperates patiently with Jeffrey examining his injury despite obvious pain.",
       "Warmth": 1,
       "Chunk": 19
     },
     {
-      "Action": "Calmly assesses his injury and declines police involvement despite pain and bystanders' concern.",
+      "Action": "Calmly assesses his injury and declines police involvement despite pain and confusion around him.",
       "Competence": 1,
       "Chunk": 19
     },
     {
-      "Action": "Unable to move initially due to being pinned between cars, cries out in pain.",
+      "Action": "Unable to move due to being pinned between cars; cries out in pain and drops belongings.",
       "Competence": -1,
       "Chunk": 19
     },
     {
-      "Action": "Smiles at Eve when she offers help and eventually agrees to get into the car despite hesitation.",
+      "Action": "Smiles at Eve when she offers help for his injury.",
       "Warmth": 1,
       "Chunk": 20
     },
     {
-      "Action": "Initially refuses hospital care for his injury, showing reluctance to accept help.",
-      "Warmth": 0,
+      "Action": "Initially hesitates about getting in the car but eventually accepts help from Jeffrey.",
+      "Warmth": 1,
       "Chunk": 20
     },
     {
-      "Action": "Refuses hospital treatment despite a significant bruise, showing reluctance to seek medical help.",
+      "Action": "Refuses hospital despite obvious injury, hesitates about getting in car due to unfamiliarity with automobiles.",
       "Competence": -1,
       "Chunk": 20
     },
     {
-      "Action": "Expresses unfamiliarity with riding in an automobile, indicating lack of experience with common activities.",
-      "Competence": -1,
-      "Chunk": 20
-    },
-    {
-      "Action": "Eventually decides to accept help and gets into the limo after hesitation, showing some adaptability and willingness to cooperate.",
+      "Action": "Eventually consents to get into the limo after consideration, accepts help from Jeffrey.",
       "Competence": 0,
       "Chunk": 20
     },
     {
-      "Action": "Responds politely and agrees to Eve's offer of a drink and medical care without complaint or resistance.",
+      "Action": "Responds politely to Eve's concern about comfort and injury, agrees calmly.",
       "Warmth": 1,
       "Chunk": 21
     },
     {
-      "Action": "Does not express any personal feelings or engage deeply in conversation, showing limited emotional expression or connection.",
-      "Warmth": 0,
+      "Action": "Does not question or resist Eve's suggestion to see her family doctor despite not fully understanding.",
+      "Warmth": 1,
       "Chunk": 21
     },
     {
-      "Action": "Responds calmly and politely to Eve's questions, agrees with her about the careful driver and the hospital situation, accepts the offer of a drink without hesitation.",
+      "Action": "Accepts a drink offered by Eve without hesitation or suspicion.",
+      "Warmth": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Responds calmly and politely to Eve's questions, shows no confusion about social cues, agrees that the driver is careful and leg is sore, consents to seeing the family doctor despite partial understanding.",
       "Competence": 1,
       "Chunk": 21
     },
     {
-      "Action": "Does not understand the concept of 'your family doctor' when Eve mentions it, indicating a lack of comprehension in a social context.",
+      "Action": "Does not fully grasp the implication or social context of seeing the family doctor or the suggestion of hospitality, indicates a lack of deeper understanding.",
       "Competence": -1,
       "Chunk": 21
     },
     {
-      "Action": "Politely accepts drink, thanks Eve, and responds calmly to questions.",
+      "Action": "Politely accepts drink, thanks Eve, and responds calmly to her questions.",
       "Warmth": 1,
       "Chunk": 22
     },
     {
-      "Action": "Coughs after drinking alcohol, showing vulnerability and sincerity.",
+      "Action": "Coughs after drinking cognac, showing vulnerability and sincerity.",
       "Warmth": 1,
       "Chunk": 22
     },
     {
-      "Action": "Admits to losing his remote control and searches for it openly.",
+      "Action": "Admits to losing remote control and openly searches pockets.",
       "Warmth": 1,
       "Chunk": 22
     },
     {
-      "Action": "Does not engage much in conversation, mostly silent and focused on TV.",
+      "Action": "Does not engage in small talk or social niceties beyond simple answers.",
       "Warmth": 0,
       "Chunk": 22
     },
     {
-      "Action": "Requests to watch television and successfully changes channels despite not having the remote control.",
-      "Competence": 1,
-      "Chunk": 22
-    },
-    {
-      "Action": "Coughs after drinking cognac, showing unfamiliarity with alcohol.",
-      "Competence": 0,
-      "Chunk": 22
-    },
-    {
-      "Action": "Responds clearly and politely to Eve's questions about his identity.",
-      "Competence": 1,
-      "Chunk": 22
-    },
-    {
-      "Action": "Does not clarify or elaborate beyond simple answers, showing limited engagement in conversation.",
-      "Competence": 0,
-      "Chunk": 22
-    },
-    {
-      "Action": "Nods politely during conversation with Eve, watches TV quietly without complaint.",
-      "Warmth": 1,
-      "Chunk": 23
-    },
-    {
-      "Action": "Switches TV channel to a cartoon, causing Eve to smile, indicating a subtle friendly interaction.",
-      "Warmth": 1,
-      "Chunk": 23
-    },
-    {
-      "Action": "Watches the news intently and switches channels, showing focused attention and interest in current events.",
-      "Competence": 1,
-      "Chunk": 23
-    },
-    {
-      "Action": "Watches a Mighty Mouse cartoon after watching the news, which confuses Eve but she interprets it as a joke.",
-      "Competence": 0,
-      "Chunk": 23
-    },
-    {
-      "Action": "Politely agrees that the doctor should examine his leg when Eve mentions it.",
-      "Warmth": 1,
-      "Chunk": 24
-    },
-    {
-      "Action": "Shows curiosity about the elevator and asks questions in a straightforward, sincere manner.",
-      "Warmth": 1,
-      "Chunk": 24
-    },
-    {
-      "Action": "Expresses curiosity about the elevator and asks if it has a television, showing observational interest but no clear understanding.",
-      "Competence": 0,
-      "Chunk": 24
-    },
-    {
-      "Action": "Acknowledges the need for a doctor to examine his leg without resistance or confusion.",
-      "Competence": 1,
-      "Chunk": 24
-    },
-    {
-      "Action": "No direct action or statement by Chance in this excerpt; mostly interactions between Rand and Eve.",
+      "Action": "Focuses on watching TV quietly without initiating further friendly interaction.",
       "Warmth": 0,
+      "Chunk": 22
+    },
+    {
+      "Action": "Asks to watch television and manages to change channels even without a remote.",
+      "Competence": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Coughs after sipping cognac, not accustomed to alcohol.",
+      "Competence": 0,
+      "Chunk": 22
+    },
+    {
+      "Action": "Responds politely and simply to questions about his identity without confusion.",
+      "Competence": 0,
+      "Chunk": 22
+    },
+    {
+      "Action": "Loses his remote control and searches pockets awkwardly.",
+      "Competence": -1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Nods and smiles at Eve when she admires his interest in news, quietly watches Mighty Mouse cartoon instead of serious news.",
+      "Warmth": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Watches the news attentively, changes TV channels including to a cartoon, shows no verbal indication of understanding complexity but maintains focus.",
+      "Competence": 0,
+      "Chunk": 23
+    },
+    {
+      "Action": "Allows others to wheel him into the house, does not assert himself or take control despite environment changes.",
+      "Competence": -1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Expresses curiosity about the elevator and the facilities around him by asking simple questions.",
+      "Warmth": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Passively accepts being wheeled around without complaint or resistance.",
+      "Warmth": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Shows no overtly dismissive or unfriendly behavior in the presence of others.",
+      "Warmth": 0,
+      "Chunk": 24
+    },
+    {
+      "Action": "Expresses curiosity and observes surroundings (mansion, elevator) without confusion; accepts being examined by doctor.",
+      "Competence": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Asks practical questions about unfamiliar devices (elevator, television) in a straightforward manner.",
+      "Competence": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Appears passive, accepts others' control (Wilson pushing wheelchair, not questioning), shows limited initiative.",
+      "Competence": 0,
+      "Chunk": 24
+    },
+    {
+      "Action": "Is described as reasonable by Eve in a stressful situation.",
+      "Competence": 1,
       "Chunk": 25
     },
     {
-      "Action": "No direct action or statement by Chance in this excerpt; mostly interactions between Rand and Eve.",
+      "Action": "Is indirectly involved in mitigating tension or conflict as noted by Eve.",
+      "Competence": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "No direct actions or statements from Chance in this excerpt.",
       "Competence": 0,
       "Chunk": 25
     },
     {
-      "Action": "Cooperates calmly with medical treatment, responds honestly about pain.",
+      "Action": "Speaks politely and cooperatively with Dr. Allenby during a medical procedure; acknowledges pain honestly.",
       "Warmth": 1,
       "Chunk": 26
     },
     {
-      "Action": "Focuses on the television rather than engaging with the doctor.",
-      "Warmth": 0,
-      "Chunk": 26
-    },
-    {
-      "Action": "Understands the injection procedure and acknowledges it, showing familiarity with medical treatment.",
+      "Action": "States 'I understand. I've seen it done before.' to the doctor, indicating familiarity with the procedure.",
       "Competence": 1,
       "Chunk": 26
     },
     {
-      "Action": "Reacts honestly to pain despite prior expectation it wouldn't hurt, showing awareness and realistic self-assessment.",
-      "Competence": 1,
-      "Chunk": 26
-    },
-    {
-      "Action": "Listens attentively to doctor's explanation about possible complications and responds appropriately.",
-      "Competence": 1,
-      "Chunk": 26
-    },
-    {
-      "Action": "Turns on the TV after noticing the remote, demonstrating initiative and basic functional skill.",
-      "Competence": 1,
-      "Chunk": 26
-    },
-    {
-      "Action": "Does not question or challenge medical advice, passively accepts recommendations without deeper engagement.",
+      "Action": "Reacts honestly to the injection pain by saying 'You were wrong, it did hurt.'",
       "Competence": 0,
       "Chunk": 26
     },
     {
-      "Action": "Politely declines to make a claim and reassures that the garden is healthy.",
+      "Action": "Listens quietly and responds with brief comments like 'Yes. I think so, too.' and 'I see.' when the doctor explains injury risks.",
+      "Competence": 0,
+      "Chunk": 26
+    },
+    {
+      "Action": "Turns on the TV after noticing the remote control, showing initiative in an unfamiliar environment.",
+      "Competence": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Responds calmly and politely to Allenby's questions without any hostility or defensiveness.",
       "Warmth": 1,
       "Chunk": 27
     },
     {
-      "Action": "Responds minimally and does not engage further when offered additional help or communication with a physician.",
+      "Action": "Does not elaborate or engage further when Allenby offers additional assistance (declines personal physician contact) and remains silent.",
       "Warmth": 0,
       "Chunk": 27
     },
     {
-      "Action": "Does not react to Allenby's direct questions, shows limited understanding of the situation, and gives minimal responses.",
-      "Competence": -1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Refers to Thomas Franklin, an attorney, indicating some awareness of legal matters but does not pursue or elaborate on the claim issue.",
-      "Competence": 0,
-      "Chunk": 27
-    },
-    {
-      "Action": "Calmly changes TV channels and sits on the bed after a tense exchange, showing composure but not engagement.",
-      "Competence": 0,
-      "Chunk": 27
-    },
-    {
-      "Action": "Agrees to stay at the hospital and declines Allenby's offer to contact his personal physician without explanation.",
-      "Competence": -1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Responds politely to Allenby's instructions with 'Yes, I will.'",
+      "Action": "Responds politely with 'Yes, I will' when offered assistance and permission to use telephone.",
       "Warmth": 1,
       "Chunk": 28
     },
     {
-      "Action": "Watches an old movie quietly, seemingly absorbing the scene without comment or interaction.",
+      "Action": "Watches an old movie quietly and seems to absorb the imagery without interaction.",
       "Warmth": 0,
       "Chunk": 28
     },
     {
-      "Action": "Responds politely and appropriately to Allenby's instructions about X-rays and telephone use.",
-      "Competence": 1,
-      "Chunk": 28
-    },
-    {
-      "Action": "Sits quietly watching an old movie, seemingly absorbing the scene of a man lighting and enjoying a cigar.",
+      "Action": "Responds politely to Allenby's instructions without question.",
       "Competence": 0,
       "Chunk": 28
     },
     {
-      "Action": "Wilson takes Chance as joking when he comments on the small elevator room, Chance glances around and agrees quietly.",
-      "Warmth": 0,
-      "Chunk": 29
-    },
-    {
-      "Action": "Chance's face brightens up when helped onto the X-Ray table, says 'I feel very good in here' and 'I like that very much' in response to Rand's comment about the ward.",
-      "Warmth": 1,
-      "Chunk": 29
-    },
-    {
-      "Action": "Comments on the size of the elevator room, showing observational awareness.",
-      "Competence": 1,
-      "Chunk": 29
-    },
-    {
-      "Action": "Looks around Rand's hospital room and responds with simple remarks, showing limited engagement or understanding.",
+      "Action": "Watches an old movie and lets the scene 'sink into' his mind without active engagement or commentary.",
       "Competence": 0,
-      "Chunk": 29
+      "Chunk": 28
     },
     {
-      "Action": "Expresses feeling good in the hospital environment, showing positive but passive acceptance.",
-      "Competence": 0,
-      "Chunk": 29
-    },
-    {
-      "Action": "Smiles at Rand despite grim diagnosis, acknowledges Rand's condition with a simple, sincere comment.",
-      "Warmth": 1,
-      "Chunk": 30
-    },
-    {
-      "Action": "Mentions a Black man gave him a message, showing awareness but no judgment or negativity.",
-      "Warmth": 0,
-      "Chunk": 30
-    },
-    {
-      "Action": "Expresses understanding about medical equipment by relating it to television experience, showing openness and engagement.",
-      "Warmth": 1,
-      "Chunk": 30
-    },
-    {
-      "Action": "Smiles at Rand despite grim diagnosis, responds with simple, somewhat appropriate comments like 'Yes. You look very sick.' and 'I understand. I've never seen anything like this on television.'",
-      "Competence": 0,
-      "Chunk": 30
-    },
-    {
-      "Action": "Attempts to communicate a message for Raphael but fails to provide any useful or clarifying information, showing limited understanding or initiative.",
+      "Action": "Does not offer additional information or assert himself when Allenby leaves, remaining passive.",
       "Competence": -1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Wilson takes Chance into a hospital room and helps him for an X-Ray. Chance's face brightens and he says, 'I feel very good in here.'",
+      "Warmth": 1,
+      "Chunk": 29
+    },
+    {
+      "Action": "Chance looks around and makes simple neutral comments about the rooms and surroundings, such as 'That is a very small room.' and 'I see.'",
+      "Warmth": 0,
+      "Chunk": 29
+    },
+    {
+      "Action": "Chance reacts silently to the Black technician Billings helping him during the X-Ray.",
+      "Warmth": 0,
+      "Chunk": 29
+    },
+    {
+      "Action": "Comments on the size of the elevator room and observes surroundings quietly without further engagement.",
+      "Competence": 0,
+      "Chunk": 29
+    },
+    {
+      "Action": "Brightens up in the hospital X-Ray room and states he feels good, showing comfort with the environment.",
+      "Competence": 0,
+      "Chunk": 29
+    },
+    {
+      "Action": "Smiles at Rand, acknowledges his illness with a simple empathetic comment 'You look very sick'",
+      "Warmth": 1,
       "Chunk": 30
     },
     {
-      "Action": "Agrees to join for dinner and expresses hunger, engaging politely with others.",
+      "Action": "Mentions a Black man gave him a message in a neutral but notable way, reacting to Billings being Black",
+      "Warmth": 0,
+      "Chunk": 30
+    },
+    {
+      "Action": "Responds to Rand's suffering and recognizes the situation as confining but does not elaborate or offer deeper sympathy",
+      "Warmth": 0,
+      "Chunk": 30
+    },
+    {
+      "Action": "Asks Billings if he knows Raphael and conveys a message from a Black man without further explanation or follow-up.",
+      "Competence": 0,
+      "Chunk": 30
+    },
+    {
+      "Action": "Smiles at Rand and responds briefly but appropriately to Rand's grim prognosis without showing distress or deeper understanding.",
+      "Competence": 0,
+      "Chunk": 30
+    },
+    {
+      "Action": "Says he understands Rand's medical equipment by comparing it to television experiences, indicating limited real comprehension.",
+      "Competence": 0,
+      "Chunk": 30
+    },
+    {
+      "Action": "Expresses agreement with Rand's statement about being prisoners of technology, reflecting a simple, literal acceptance without additional insight.",
+      "Competence": 0,
+      "Chunk": 30
+    },
+    {
+      "Action": "Agreeing simply to join Rand for dinner and expressing hunger.",
       "Warmth": 1,
       "Chunk": 31
     },
     {
-      "Action": "Responds to Eve's offer of help with brief, factual statements about his personal losses without elaboration or emotional expression.",
+      "Action": "Responding politely and clearly to Eve's concerns about his injury.",
+      "Warmth": 1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Declining offers of help (notification or secretary) calmly and without complaint.",
       "Warmth": 0,
       "Chunk": 31
     },
     {
-      "Action": "Declines offers of assistance (notification, secretary) politely but without warmth or elaboration.",
+      "Action": "Stating facts about his personal losses (Old Man died, Louise left) without emotional display or seeking sympathy.",
       "Warmth": 0,
       "Chunk": 31
     },
     {
-      "Action": "Responds calmly and clearly to Eve's question about his injury not preventing him from attending to business.",
-      "Competence": 1,
-      "Chunk": 31
-    },
-    {
-      "Action": "Declines offers of assistance (notification, secretary) without elaboration, indicating self-sufficiency or detachment.",
+      "Action": "Replies simply and positively to Eve's question about whether injury will prevent him from attending to business: 'No. It won't do that.'",
       "Competence": 0,
       "Chunk": 31
     },
     {
-      "Action": "Mentions personal losses (Old Man died, Louise left) without emotional display or seeking help.",
+      "Action": "Declines offers of help or assistance, such as notifying anyone for him or needing a secretary, with brief responses.",
       "Competence": 0,
       "Chunk": 31
     },
     {
-      "Action": "Agreeably accepts being called by his first name, Chauncey, and reciprocates by calling others by their first names.",
+      "Action": "Agreeably accepts informal address by others (e.g., 'Chauncey', 'Robert') and engages politely.",
       "Warmth": 1,
       "Chunk": 32
     },
     {
-      "Action": "Expresses liking to stay at the house and shows interest in working in the garden, engaging in friendly conversation.",
+      "Action": "Expresses liking for staying in a new place and shows interest in others' environment (inquiry about garden).",
       "Warmth": 1,
       "Chunk": 32
     },
     {
-      "Action": "Responds calmly and politely to questions about his closed business, agrees to informal address, and expresses interest in working in the garden.",
-      "Competence": 1,
+      "Action": "Makes a simple, sincere statement about being a good gardener without boastfulness.",
+      "Warmth": 1,
       "Chunk": 32
     },
     {
-      "Action": "Does not articulate any concrete plans beyond gardening, appears passive and somewhat vague when asked about future plans.",
+      "Action": "Responds simply to questions about his situation, agrees politely to being called by his first name, expresses liking to stay and desire to work in the garden.",
       "Competence": 0,
       "Chunk": 32
     },
     {
-      "Action": "Describes his garden as a place of personal labor and growth, acknowledges loss with calmness and a gentle smile.",
+      "Action": "Expresses gratitude sincerely, speaks of his garden with pride and simplicity, smiles at Rand after a serious conversation.",
       "Warmth": 1,
       "Chunk": 33
     },
     {
-      "Action": "Describes his gardening work as planting seeds, watering, and watching everything grow, showing a simple but clear understanding of his past labor.",
-      "Competence": 1,
-      "Chunk": 33
+      "Action": "Politely accepts a cigar and thanks Allenby for a compliment.",
+      "Warmth": 1,
+      "Chunk": 34
     },
     {
-      "Action": "Acknowledges loss of his garden and current confinement to 'the room upstairs' without protest or apparent struggle.",
+      "Action": "Struggles awkwardly to light a cigar but does not show frustration or rudeness.",
+      "Warmth": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Tries to light a cigar like he's seen on TV but fails to light it properly.",
       "Competence": -1,
-      "Chunk": 33
+      "Chunk": 34
     },
     {
-      "Action": "Responds to Rand's encouragement with a calm, pleasant smile and a positive comment about the 'room upstairs,' showing emotional composure and acceptance.",
+      "Action": "Politely accepts cigar and responds graciously to social interaction.",
       "Competence": 0,
-      "Chunk": 33
-    },
-    {
-      "Action": "Accepts cigar politely from Rand and thanks Allenby sincerely.",
-      "Warmth": 1,
       "Chunk": 34
     },
     {
-      "Action": "Tries to light cigar like on TV, showing naivety and trust in others' example.",
-      "Warmth": 1,
-      "Chunk": 34
-    },
-    {
-      "Action": "Politely accepts a cigar and thanks Rand, showing social grace and confidence.",
-      "Competence": 1,
-      "Chunk": 34
-    },
-    {
-      "Action": "Tries to light the cigar incorrectly by biting off the tip, demonstrating lack of practical knowledge or skill.",
-      "Competence": -1,
-      "Chunk": 34
-    },
-    {
-      "Action": "Smiles at Allenby before answering Rand, shows polite engagement.",
+      "Action": "Smiles at Allenby before answering Rand, showing courteous behavior.",
       "Warmth": 1,
       "Chunk": 35
     },
     {
-      "Action": "Agrees with Rand's joke about common foes, showing friendly rapport.",
+      "Action": "Politely agrees with Rand despite the sarcastic remark about common foes.",
       "Warmth": 1,
       "Chunk": 35
     },
     {
-      "Action": "Mentions his sore leg as a reason to not engage further, politely deflecting.",
+      "Action": "Mentions leg pain to avoid engaging in a difficult conversation.",
       "Warmth": 0,
       "Chunk": 35
     },
     {
-      "Action": "Answers a question briefly and directly despite social pressure, showing calmness and self-control.",
-      "Competence": 1,
-      "Chunk": 35
-    },
-    {
-      "Action": "Uses a physical ailment (sore leg) as a reason to avoid engaging in complex discussion, possibly indicating avoidance or lack of engagement.",
+      "Action": "Answers 'No' to Rand's question about the program and provides a simple reason related to his sore leg instead of engaging in complex discussion.",
       "Competence": 0,
       "Chunk": 35
     },
     {
-      "Action": "Agrees with Rand's joke about common foes, showing social adaptability and ability to maintain rapport.",
-      "Competence": 1,
+      "Action": "Agrees with Rand's joke about 'common foes,' demonstrating social adaptability without deep understanding.",
+      "Competence": 0,
       "Chunk": 35
     },
     {
-      "Action": "Glances inquisitively around the elevator, showing curiosity and awareness of surroundings.",
-      "Competence": 1,
-      "Chunk": 35
-    },
-    {
-      "Action": "Expresses appreciation for the house and concern for Ben's illness, showing sensitivity.",
+      "Action": "Expresses sympathy and concern for Ben by noting his illness and liking him very much.",
       "Warmth": 1,
       "Chunk": 36
     },
     {
-      "Action": "Asks Eve a personal question about closing the house after Ben dies, showing a sincere interest in others' feelings.",
+      "Action": "Asks Eve a personal question about closing the house when Ben dies, showing thoughtfulness about others' feelings.",
       "Warmth": 1,
       "Chunk": 36
     },
     {
-      "Action": "Smiles warmly at Eve and exchanges polite good nights, indicating friendliness and sincerity.",
+      "Action": "Responds politely and kindly to Eve, with simple, sincere statements and a smile.",
       "Warmth": 1,
       "Chunk": 36
     },
     {
-      "Action": "Engages in polite conversation with Eve, makes an insightful comment about Ben's illness, and asks a thoughtful question about the future of the house.",
-      "Competence": 1,
-      "Chunk": 36
-    },
-    {
-      "Action": "Shows limited understanding of social cues, as seen when Eve is unprepared for his question about closing the house.",
+      "Action": "Acknowledges and comments on the elevator stopping and door opening, showing simple awareness.",
       "Competence": 0,
       "Chunk": 36
     },
     {
-      "Action": "Politely responds to Lewis's offer of a car and thanks him when the limousine arrives.",
+      "Action": "Expresses sympathy for Ben’s illness and reminds Eve of Ben’s seriousness with a calm statement ('Ben is very ill, Eve - I've seen that before').",
+      "Competence": 1,
+      "Chunk": 36
+    },
+    {
+      "Action": "Asks Eve if she will leave and close the house when Ben dies, unexpectedly addressing a delicate topic with directness.",
+      "Competence": 1,
+      "Chunk": 36
+    },
+    {
+      "Action": "Does not elaborate or clarify when Eve is taken aback; maintains silence and simply smiles, potentially avoiding social awkwardness.",
+      "Competence": 0,
+      "Chunk": 36
+    },
+    {
+      "Action": "Politely responds to Lewis's offer of a car and thanks him for the limousine.",
       "Warmth": 1,
       "Chunk": 37
     },
     {
-      "Action": "Reassures Allenby about his leg condition without complaint or fuss.",
+      "Action": "Answers Allenby's questions about his leg with calm, minimal complaint and does not resist being put in the wheelchair.",
       "Warmth": 1,
       "Chunk": 37
     },
     {
-      "Action": "Does not assert himself or express any frustration when Allenby insists on examining his leg and pushing the wheelchair.",
+      "Action": "Does not assert desires or complain despite some pain, showing quiet tolerance.",
       "Warmth": 0,
       "Chunk": 37
     },
     {
-      "Action": "Requests a car politely and accepts assistance with the wheelchair without resistance.",
-      "Competence": 1,
-      "Chunk": 37
-    },
-    {
-      "Action": "Walks with a limp despite injury, but acknowledges pain realistically and cooperates with caretakers.",
-      "Competence": 1,
-      "Chunk": 37
-    },
-    {
-      "Action": "Responds to questions about his condition calmly and with minimal fuss.",
-      "Competence": 1,
-      "Chunk": 37
-    },
-    {
-      "Action": "Denies having plans or intentions despite a limousine waiting, showing passivity and lack of initiative.",
+      "Action": "Requests a car politely and accepts help with the wheelchair without resistance.",
       "Competence": 0,
       "Chunk": 37
     },
     {
-      "Action": "Politely thanks Allenby for the information and assistance.",
+      "Action": "Attempts to walk despite injury, indicating some self-assessment of physical ability.",
+      "Competence": 0,
+      "Chunk": 37
+    },
+    {
+      "Action": "Shows compliance and passivity when Allenby insists he use the wheelchair and accepts examination calmly.",
+      "Competence": 0,
+      "Chunk": 37
+    },
+    {
+      "Action": "Thanks Allenby politely after being informed about the meeting with the President.",
       "Warmth": 1,
       "Chunk": 38
     },
     {
-      "Action": "Smiles when asking a servant for help despite appearing confused.",
+      "Action": "Smiles when asking for directions to the hospital from a servant.",
       "Warmth": 1,
       "Chunk": 38
     },
     {
-      "Action": "Knows about the President and the meeting time, indicating awareness and memory.",
+      "Action": "Expresses confusion and limps aimlessly in the hallway.",
+      "Warmth": 0,
+      "Chunk": 38
+    },
+    {
+      "Action": "Accurately conveys information about the President and meeting time to Allenby without prompting or error.",
       "Competence": 1,
       "Chunk": 38
     },
     {
-      "Action": "Asks how to know when it's ten o'clock, showing lack of understanding of time.",
+      "Action": "Does not understand or know how to tell time, asking 'How do I know when it's ten o'clock?'.",
       "Competence": -1,
       "Chunk": 38
     },
     {
-      "Action": "Requests to walk instead of being pushed, showing some assertiveness and preference.",
-      "Competence": 0,
+      "Action": "Surprisingly confident and polite when requesting to walk instead of being pushed, asserting his own preference.",
+      "Competence": 1,
       "Chunk": 38
     },
     {
-      "Action": "Limps aimlessly and appears confused in the hallway, unsure of where to go.",
+      "Action": "Walks aimlessly and appears confused inside the mansion, unsure of where he is going.",
       "Competence": -1,
       "Chunk": 38
     },
     {
-      "Action": "Politely asks a servant for directions to the hospital, showing social grace but also uncertainty.",
-      "Competence": 0,
+      "Action": "Politely asks a servant for directions to the hospital despite his confusion.",
+      "Competence": 1,
       "Chunk": 38
     },
     {
-      "Action": "Greets Ben Rand warmly and compliments his appearance sincerely.",
+      "Action": "Greets Rand politely and compliments his improved look.",
       "Warmth": 1,
       "Chunk": 39
     },
     {
-      "Action": "Listens attentively and responds politely to Rand's remarks.",
+      "Action": "Responds calmly and sincerely to Rand's observations about death and balance.",
       "Warmth": 1,
       "Chunk": 39
     },
     {
-      "Action": "Politely requests to see Ben and follows directions without hesitation.",
+      "Action": "Politely requests to see Ben and follows Smythe without hesitation.",
       "Competence": 1,
       "Chunk": 39
     },
     {
-      "Action": "Engages in calm, measured conversation with Rand, showing understanding and composure.",
+      "Action": "Responds calmly and clearly when asked about his leg and Rand's condition, demonstrating composure.",
       "Competence": 1,
       "Chunk": 39
     },
     {
-      "Action": "Compliments the nurse's work, demonstrating observation and social awareness.",
+      "Action": "Acknowledges the nurse's work on Rand with a simple observation, showing attention to detail and social awareness.",
       "Competence": 1,
       "Chunk": 39
     },
     {
-      "Action": "Watches television quietly and responds minimally ('I see, Ben.') during Rand's serious conversation about influence and responsibility.",
+      "Action": "Does not engage in deeper conversation about death or Rand's fears; remains neutral and reserved.",
       "Competence": 0,
+      "Chunk": 39
+    },
+    {
+      "Action": "Changes TV channels while Rand speaks about serious matters and provides advice.",
+      "Competence": -1,
       "Chunk": 40
     },
     {
-      "Action": "Supports Rand physically by allowing him to cling to him for support as they walk together.",
+      "Action": "Accepts Rand's support with a friendly and cooperative response ('Yes, Ben. That's a good idea'), assisting Rand as they walk together.",
       "Warmth": 1,
       "Chunk": 41
     },
     {
-      "Action": "Responds affirmatively and politely to Rand's suggestion to go together.",
-      "Warmth": 1,
-      "Chunk": 41
-    },
-    {
-      "Action": "Supports Rand physically as he walks, responds affirmatively and calmly to Rand's suggestion to go see the President.",
+      "Action": "Responds calmly and affirmatively to Rand's suggestion to proceed with meeting the President, showing composure in a high-pressure situation.",
       "Competence": 1,
       "Chunk": 41
     },
     {
-      "Action": "Does not initiate conversation or show independent decision-making, follows Rand's lead without question.",
+      "Action": "Supports Rand physically by allowing him to cling to him while walking, indicating reliability and steady presence.",
+      "Competence": 1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Does not initiate or take charge in the situation; mostly follows cues from Rand and others without demonstrating explicit skill or understanding.",
       "Competence": 0,
       "Chunk": 41
     },
     {
-      "Action": "Smiles at the Secret Service men that they pass.",
+      "Action": "Smiles at the Secret Service men they pass.",
       "Warmth": 1,
       "Chunk": 42
     },
     {
-      "Action": "Politely thanks Woltz after the security check.",
+      "Action": "Politely thanks Woltz after security check.",
       "Warmth": 1,
       "Chunk": 42
     },
     {
-      "Action": "Approaches the President with both hands outstretched and greets him warmly.",
+      "Action": "Approaches the President with both hands outstretched in greeting.",
       "Warmth": 1,
       "Chunk": 42
     },
     {
-      "Action": "Politely agrees with Mrs. Aubrey's compliment without hesitation.",
-      "Competence": 0,
-      "Chunk": 42
-    },
-    {
-      "Action": "Smiles at Secret Service men as they pass, showing social ease.",
-      "Competence": 0,
-      "Chunk": 42
-    },
-    {
-      "Action": "Responds courteously to Woltz during security check, acknowledging the formality.",
-      "Competence": 0,
-      "Chunk": 42
-    },
-    {
-      "Action": "Approaches the President with both hands outstretched in greeting, demonstrating confidence and social grace.",
+      "Action": "Politely acknowledges Mrs. Aubrey and agrees with Rand about her being a good woman.",
       "Competence": 1,
       "Chunk": 42
     },
     {
-      "Action": "Exchanges a two-handed handshake with the President, makes a polite comment about the President's height on television.",
+      "Action": "Smiles at the Secret Service men as they pass by.",
+      "Competence": 0,
+      "Chunk": 42
+    },
+    {
+      "Action": "Passively allows metal detector check without comment, thanks Woltz politely.",
+      "Competence": 1,
+      "Chunk": 42
+    },
+    {
+      "Action": "Approaches the President with both hands outstretched in greeting.",
+      "Competence": 1,
+      "Chunk": 42
+    },
+    {
+      "Action": "Exchanges a friendly two-handed handshake with the President, makes a lighthearted comment about the President's height on television.",
       "Warmth": 1,
       "Chunk": 43
     },
     {
-      "Action": "Perks up and interrupts the President twice with simple 'Yes?' responses, showing eagerness to engage.",
+      "Action": "Responds politely and compliantly when asked to be seated, showing courteous behavior.",
+      "Warmth": 1,
+      "Chunk": 43
+    },
+    {
+      "Action": "Perks up and interrupts twice when hearing his name, showing eagerness to engage despite the slightly awkward social moment.",
       "Warmth": 0,
       "Chunk": 43
     },
     {
-      "Action": "Politely greets the President and engages in conversation with appropriate social cues, such as sitting when invited.",
+      "Action": "Politely greets the President and participates in the handshake, showing social grace.",
       "Competence": 1,
       "Chunk": 43
     },
     {
-      "Action": "Interrupts the President when his name is mentioned, showing attentiveness and engagement.",
+      "Action": "Makes a simple observational comment about the President's height on TV, pleasing the President.",
       "Competence": 1,
       "Chunk": 43
     },
     {
-      "Action": "Makes a simple, somewhat naive comment about the President's height on television, which could be seen as lacking sophistication.",
+      "Action": "Interrupts the President unexpectedly when his name is mentioned, showing engagement but possibly lack of social tact.",
       "Competence": 0,
       "Chunk": 43
     },
     {
-      "Action": "Fails to contribute meaningfully to the discussion about the President's speech, only responding with 'Yes?' when addressed.",
-      "Competence": 0,
+      "Action": "Sits down when asked, follows social cues appropriately.",
+      "Competence": 1,
       "Chunk": 43
     },
     {
-      "Action": "Smiles through the President's worry and serious discussion.",
+      "Action": "Fails to contribute meaningfully to the substantive discussion about the President’s speech, only responding with 'Yes?'.",
+      "Competence": -1,
+      "Chunk": 43
+    },
+    {
+      "Action": "Smiles calmly while others are worried, offers a peaceful and reassuring metaphor about growth in the garden.",
       "Warmth": 1,
       "Chunk": 44
     },
     {
-      "Action": "Responds to the President's question with a calm, metaphorical reassurance about growth and seasons.",
-      "Warmth": 1,
-      "Chunk": 44
-    },
-    {
-      "Action": "Responds to a serious economic discussion with a vague metaphor about gardens and growth seasons.",
+      "Action": "Responds to complex economic questions with simple garden metaphors that confuse but also prompt reflection.",
       "Competence": 0,
       "Chunk": 44
     },
     {
-      "Action": "Engages politely with the President, responds affirmatively to invitations, shakes hands respectfully.",
+      "Action": "Smiles calmly while others around him panic, showing calm demeanor but no clear understanding.",
+      "Competence": 0,
+      "Chunk": 44
+    },
+    {
+      "Action": "Shakes the President's hand politely and agrees to visit his family.",
       "Warmth": 1,
       "Chunk": 45
     },
     {
-      "Action": "Affirms the President's statements calmly and succinctly, reinforcing the metaphor about seasons and economy.",
+      "Action": "Responds simply and affirmatively without elaboration, showing a calm and sincere demeanor.",
+      "Warmth": 1,
+      "Chunk": 45
+    },
+    {
+      "Action": "Provides simple, nature-based metaphor statements about growth and seasons, which are interpreted as optimistic and insightful by others.",
       "Competence": 1,
       "Chunk": 45
     },
     {
-      "Action": "Appears absorbed in looking around the room rather than engaging actively during the President's speech.",
+      "Action": "Appears absorbed in looking around the room rather than actively engaging in the conversation, showing a lack of situational awareness.",
+      "Competence": -1,
+      "Chunk": 45
+    },
+    {
+      "Action": "Responds minimally and positively (e.g., 'Yes. That is correct.', 'Yes. It has.', 'Yes. I will.') but does not elaborate or display deeper understanding.",
       "Competence": 0,
       "Chunk": 45
     },
     {
-      "Action": "Politely shakes the President's hand and agrees to visit, demonstrating social grace and confidence.",
-      "Competence": 1,
-      "Chunk": 45
-    },
-    {
-      "Action": "Responds politely and appreciatively to Rand and the President, expressing gladness that the President came and that it was nice talking to him.",
+      "Action": "Responds affirmatively and politely to Rand about the President being a decent fellow",
       "Warmth": 1,
       "Chunk": 46
     },
     {
-      "Action": "Responds politely and simply to Rand and the President, showing calm and composed demeanor during a high-profile meeting.",
-      "Competence": 0,
+      "Action": "Expresses gladness that the President came and says it was nice talking to him",
+      "Warmth": 1,
       "Chunk": 46
     },
     {
-      "Action": "Sits back down quietly after the President leaves, not attempting to dominate the conversation or reveal ignorance.",
-      "Competence": 0,
-      "Chunk": 46
-    },
-    {
-      "Action": "Says 'I'm sorry that you are so sick, Ben.' to Rand as he is assisted into his hospital room.",
+      "Action": "Says 'I'm sorry that you are so sick, Ben.' to Rand.",
       "Warmth": 1,
       "Chunk": 47
     },
     {
-      "Action": "Understands and agrees to take charge of a financial assistance program as suggested by Rand, responding with 'I understand.'",
-      "Competence": 1,
+      "Action": "Replies blankly 'No, Ben.' when Rand refers to a previous conversation, showing a lack of engagement or understanding.",
+      "Warmth": 0,
       "Chunk": 47
     },
     {
-      "Action": "Fails to recall or acknowledge the previous conversation about the financial assistance program, responding blankly 'No, Ben.'",
+      "Action": "Replies with 'No, Ben' when asked if he remembers a key topic discussed the prior night, indicating lack of grasp or memory.",
       "Competence": -1,
       "Chunk": 47
     },
     {
-      "Action": "Responds politely and sincerely to Eve's inquiries, showing openness about his past and feelings.",
+      "Action": "Responds simply with 'I understand' and 'Thank you, Ben' to complex social and professional cues without elaboration, showing surface-level engagement.",
+      "Competence": 0,
+      "Chunk": 47
+    },
+    {
+      "Action": "Expresses sympathy for Rand's illness with a polite but minimal statement.",
+      "Competence": 0,
+      "Chunk": 47
+    },
+    {
+      "Action": "Greets Eve politely, responds sincerely about his leg and the President.",
       "Warmth": 1,
       "Chunk": 48
     },
     {
-      "Action": "Does not avoid or dismiss Eve's questions despite some hesitation, indicating trustworthiness and tolerance.",
+      "Action": "Responds briefly and with some uncertainty about personal past relationships.",
+      "Warmth": 0,
+      "Chunk": 48
+    },
+    {
+      "Action": "Admits he liked Louise very much, indicating fondness and sincerity.",
       "Warmth": 1,
       "Chunk": 48
     },
     {
-      "Action": "Responds calmly and politely to Eve's questions, showing social ease and composure.",
-      "Competence": 1,
-      "Chunk": 48
-    },
-    {
-      "Action": "Shows uncertainty about the meaning of the word 'mentor', indicating limited understanding of some social concepts.",
+      "Action": "Responds briefly and simply to Eve's questions, admitting uncertainty about the meaning of 'mentor'",
       "Competence": -1,
       "Chunk": 48
     },
     {
-      "Action": "Maintains a consistent and coherent narrative about the Old Man and Louise, demonstrating reliability in communication.",
-      "Competence": 1,
-      "Chunk": 48
-    },
-    {
-      "Action": "Does not elaborate or clarify when Eve misinterprets his uncertainty, potentially missing an opportunity to guide the conversation more skillfully.",
+      "Action": "Walks with a limp but continues to engage politely and calmly in social interaction",
       "Competence": 0,
       "Chunk": 48
     },
     {
-      "Action": "Expresses liking for the greenhouse and shows polite interest.",
+      "Action": "Answers Eve's questions candidly without elaboration or apparent strategic intent",
+      "Competence": 0,
+      "Chunk": 48
+    },
+    {
+      "Action": "Expresses liking for the maid who brought him meals.",
       "Warmth": 1,
       "Chunk": 49
     },
     {
-      "Action": "Responds simply and honestly about Louise being the maid who brought meals.",
+      "Action": "Shows polite interest and pleasure in the greenhouse by edging closer and commenting positively.",
       "Warmth": 1,
       "Chunk": 49
     },
     {
-      "Action": "Edges away slightly when Eve moves closer, showing some social reserve.",
+      "Action": "Enjoys the oxygen in the room calmly and quietly, showing no signs of impatience or rudeness.",
       "Warmth": 0,
       "Chunk": 49
     },
     {
-      "Action": "Enjoys the oxygen in the room quietly without drawing attention.",
-      "Warmth": 0,
+      "Action": "Inquires about the greenhouse, shows appreciation for it, and seems genuinely interested in his surroundings.",
+      "Competence": 1,
       "Chunk": 49
     },
     {
-      "Action": "Edges slightly closer to the greenhouse, is fascinated by it, peeks through one of the windows, and expresses liking it.",
+      "Action": "Passively enjoys oxygen and is described as fascinated by things but does not actively engage or contribute insight into the financial crisis or discussions around him.",
+      "Competence": -1,
+      "Chunk": 49
+    },
+    {
+      "Action": "Mentioned by the President alongside Rand as a close friend and advisor, enhancing his perceived stature despite his lack of visible expert input.",
+      "Competence": 1,
+      "Chunk": 49
+    },
+    {
+      "Action": "Sits silently with Eve on the patio as she cries, allowing her to express emotions and gently reciprocates her gratitude by saying 'So am I, Eve.'",
+      "Warmth": 1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Responds simply and appropriately to Eve's gratitude, expressing reciprocal appreciation calmly.",
+      "Competence": 1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Passively leaves the room when Rand has a medical emergency, exhibiting no apparent initiative or intervention.",
+      "Competence": -1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Sits silently with Eve during a stressful moment, offering quiet presence rather than action or advice.",
       "Competence": 0,
-      "Chunk": 49
-    },
-    {
-      "Action": "Inhales deeply and enjoys the oxygen in the room while others are concerned about Rand's health.",
-      "Competence": 0,
-      "Chunk": 49
-    },
-    {
-      "Action": "Sits silently with Eve while she is upset, responds simply and sincerely to her gratitude ('So am I, Eve.')",
-      "Warmth": 1,
       "Chunk": 50
     },
     {
-      "Action": "Sits quietly and provides calm presence to Eve during a stressful moment.",
-      "Competence": 1,
-      "Chunk": 50
-    },
-    {
-      "Action": "Responds simply and appropriately to Eve's gratitude with 'So am I, Eve.'",
-      "Competence": 1,
-      "Chunk": 50
-    },
-    {
-      "Action": "Leaves the room promptly when asked, showing awareness of social cues.",
-      "Competence": 1,
-      "Chunk": 50
-    },
-    {
-      "Action": "Allows Eve to put a hand on his shoulder and reassures her gently before leaving her behind.",
+      "Action": "Allows Eve to take the lead when she shows concern for herself, gently reassures her that she'll be all right.",
       "Warmth": 1,
       "Chunk": 51
     },
     {
-      "Action": "Responds politely and calmly to the phone call, greeting Sid Courtney warmly.",
+      "Action": "Responds calmly and politely to the telephone call, acknowledging the caller by name and engaging courteously.",
       "Warmth": 1,
       "Chunk": 51
     },
     {
-      "Action": "Politely accepts the phone call and responds calmly, showing social grace and composure.",
-      "Competence": 1,
-      "Chunk": 51
-    },
-    {
-      "Action": "Does not move initially when offered the phone, which could be seen as hesitation or lack of initiative.",
+      "Action": "Does not immediately respond to the phone call, remains motionless initially.",
       "Competence": -1,
       "Chunk": 51
     },
     {
-      "Action": "Engages in conversation on the phone without apparent confusion or difficulty, indicating basic communication competence.",
-      "Competence": 1,
+      "Action": "Politely accepts the phone call and eventually rises to follow Mrs. Aubrey, showing basic social responsiveness.",
+      "Competence": 0,
+      "Chunk": 51
+    },
+    {
+      "Action": "Answers phone greeting calmly while distracted by televisions, indicating limited situational focus but no clear mishandling of task.",
+      "Competence": 0,
       "Chunk": 51
     },
     {
@@ -1421,7 +1231,12 @@
       "Chunk": 52
     },
     {
-      "Action": "Refuses to provide information, repeatedly defers to Mr. Rand.",
+      "Action": "Refuses to give factual comments or engage with Courtney's questions, says 'I think you should ask Mr. Rand that.'",
+      "Warmth": 0,
+      "Chunk": 52
+    },
+    {
+      "Action": "Hangs up the phone abruptly after refusing to answer questions.",
       "Warmth": 0,
       "Chunk": 52
     },
@@ -1431,509 +1246,489 @@
       "Chunk": 52
     },
     {
-      "Action": "Responds to detailed questions with vague or deflective answers, such as suggesting to ask Mr. Rand and refusing to elaborate on his business.",
+      "Action": "Gives vague, irrelevant answers instead of providing facts about his relationship or business.",
       "Competence": -1,
       "Chunk": 52
     },
     {
-      "Action": "Hangs up the phone abruptly after refusing to provide information, showing a lack of engagement or skill in handling the interview.",
-      "Competence": -1,
+      "Action": "Decides to get in the elevator and presses a button, confidently exploring his environment.",
+      "Competence": 1,
       "Chunk": 52
     },
     {
-      "Action": "Notices the elevator, presses a button, and smiles as it moves, demonstrating simple curiosity and basic interaction with his environment.",
-      "Competence": 0,
-      "Chunk": 52
-    },
-    {
-      "Action": "Smiles at Jennifer and Mrs. Aubrey when he encounters them.",
+      "Action": "Smiles politely at Jennifer and Mrs. Aubrey despite being confused and lost in the basement.",
       "Warmth": 1,
       "Chunk": 53
     },
     {
-      "Action": "Responds briefly and non-engagingly to Jennifer's question ('No').",
+      "Action": "Answers 'No' when asked if he is looking for someone, without elaboration.",
       "Warmth": 0,
       "Chunk": 53
     },
     {
-      "Action": "Shows confusion about his location but remains polite and calm.",
-      "Warmth": 1,
-      "Chunk": 53
-    },
-    {
-      "Action": "Looks puzzled and confused about his location in the basement, expecting to be on the third floor.",
+      "Action": "Looks around confused after exiting the elevator, not knowing his location.",
       "Competence": -1,
       "Chunk": 53
     },
     {
-      "Action": "Responds simply and affirmatively to Mrs. Aubrey's mention of the TV show, expressing interest in appearing on it.",
+      "Action": "Smiles calmly and politely when approached by others despite confusion.",
       "Competence": 0,
       "Chunk": 53
     },
     {
-      "Action": "Nods silently when told he has close ties with the President and is a splendid choice, but does not elaborate or assert himself.",
+      "Action": "Agrees to appear on a television show when asked, showing willingness and confidence.",
+      "Competence": 1,
+      "Chunk": 53
+    },
+    {
+      "Action": "Nods silently when addressed, gives no additional input or direction.",
       "Competence": 0,
       "Chunk": 54
     },
     {
-      "Action": "Responds to Mrs. Aubrey's question with a simple statement of liking the attic, showing no initiative or engagement.",
+      "Action": "Responds simply and truthfully ('No. I like this attic very much.') when asked if he is looking for something, indicating a passive but clear communication.",
       "Competence": 0,
       "Chunk": 54
     },
     {
-      "Action": "Responds politely and warmly to Eve's visit and good wishes, smiles after she kisses him on the cheek.",
+      "Action": "Responds politely and sincerely to Eve's good wishes, asks about Ben's health, smiles warmly after Eve impulsively kisses him on the cheek.",
       "Warmth": 1,
       "Chunk": 55
     },
     {
-      "Action": "Focuses on watching TV and shows little active engagement beyond brief polite exchanges.",
-      "Warmth": 0,
+      "Action": "Responds politely and appropriately to Eve's greetings and good wishes, maintaining calm composure.",
+      "Competence": 1,
       "Chunk": 55
     },
     {
-      "Action": "Accepts the suit and clothing without comment, eyes on TV, shows little engagement with preparations.",
-      "Competence": 0,
+      "Action": "Sits back down and resumes watching TV after Eve leaves, showing passivity and lack of engagement with the important social situation.",
+      "Competence": -1,
       "Chunk": 55
     },
     {
-      "Action": "Responds politely and briefly to Eve's well wishes and questions, maintains calm demeanor.",
-      "Competence": 0,
-      "Chunk": 55
+      "Action": "Responds calmly and politely to Morton Hull, showing no signs of nervousness or confusion.",
+      "Competence": 1,
+      "Chunk": 56
     },
     {
-      "Action": "Smiles at Eve's impulsive kiss and returns to watching TV without reacting awkwardly or negatively.",
-      "Competence": 0,
-      "Chunk": 55
+      "Action": "Shows intrigue towards the television station surroundings, engaging with unfamiliar environment without hesitation.",
+      "Competence": 1,
+      "Chunk": 56
     },
     {
-      "Action": "Responds to Hull's statements with simple, vague remarks like 'I see' and 'Yes. It's a very good show.'",
+      "Action": "Provides minimal verbal responses (e.g., 'I see.', 'Yes. It's a very good show.') that may appear to acknowledge but do not demonstrate substantive understanding.",
       "Competence": 0,
       "Chunk": 56
     },
     {
-      "Action": "Appears intrigued by the TV station surroundings but does not demonstrate any specific knowledge or skill.",
+      "Action": "Lacks any concrete background or information on him, making his competence difficult to verify externally.",
       "Competence": 0,
       "Chunk": 56
     },
     {
-      "Action": "Shakes hands politely and engages in basic social interaction without showing deeper understanding or initiative.",
-      "Competence": 0,
-      "Chunk": 56
-    },
-    {
-      "Action": "Thanks Colson politely for the water, acknowledging his thirst.",
+      "Action": "Says 'Thank you. I'm very thirsty.' when given water, smiles and walks with a limp onto the stage, holds Dupont's hand with both of his own.",
       "Warmth": 1,
       "Chunk": 57
     },
     {
-      "Action": "Holds Dupont's hand with both of his own during the handshake.",
-      "Warmth": 1,
-      "Chunk": 57
-    },
-    {
-      "Action": "Watches the TV monitor attentively to learn how to respond during the show.",
+      "Action": "Watches the preceding guest on TV to prepare for his own appearance.",
       "Competence": 1,
       "Chunk": 57
     },
     {
-      "Action": "Follows Hull's instructions about when to stop and answer questions during the TV show.",
+      "Action": "Responds politely and appropriately when given water.",
       "Competence": 1,
       "Chunk": 57
     },
     {
-      "Action": "Politely accepts water and thanks Colson, showing social grace.",
+      "Action": "Follows Hull's instructions to respond when the host signals during the TV show.",
       "Competence": 1,
       "Chunk": 57
     },
     {
-      "Action": "Appears confident and composed walking on stage with a smile and limp, holding the host's hand with both hands.",
+      "Action": "Appears on stage calmly, smiling and confidently accepting applause.",
       "Competence": 1,
       "Chunk": 57
     },
     {
-      "Action": "Holds Dupont's hand with both of his own when shaking hands.",
+      "Action": "Shakes hand with Dupont and holds his hand with both hands",
       "Warmth": 1,
       "Chunk": 58
     },
     {
-      "Action": "Responds politely and simply to Dupont's questions without showing irritation or defensiveness.",
+      "Action": "Responds politely and simply to Dupont's questions without sarcasm or hostility",
       "Warmth": 1,
       "Chunk": 58
     },
     {
-      "Action": "Does not engage in small talk or elaborate responses, showing limited social warmth or friendliness.",
+      "Action": "Shows a lack of understanding of some social cues ('I hope so' about anonymity)",
       "Warmth": 0,
       "Chunk": 58
     },
     {
-      "Action": "Responds briefly and affirmatively to Dupont's questions without elaboration or clear understanding.",
+      "Action": "Does not engage in defensive or aggressive behavior when pressed by Dupont",
+      "Warmth": 1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Responds minimally and vaguely to complex political questions, does not demonstrate clear understanding of the topics discussed, asking 'Which view?'",
       "Competence": -1,
       "Chunk": 58
     },
     {
-      "Action": "Sits when shown to a chair and politely engages in the conversation despite not fully grasping the context.",
+      "Action": "Politely accepts the situation and remains calm and composed despite the tense interview setting, responding with simple affirmations and not objecting to direct questions.",
       "Competence": 0,
       "Chunk": 58
     },
     {
-      "Action": "Fails to understand the reference to the President's view of the economy and asks 'Which view?'",
-      "Competence": -1,
-      "Chunk": 58
-    },
-    {
-      "Action": "Describes the garden metaphor with care and optimism, emphasizing growth and health.",
+      "Action": "Expresses a gentle, optimistic view of the garden and economy, emphasizing care and room for new growth.",
       "Warmth": 1,
       "Chunk": 59
     },
     {
-      "Action": "Responds to a complex economic question using a simple garden metaphor, showing calmness and confidence that impresses the audience and interviewers.",
+      "Action": "Responds to complex political-economic questions with simple gardening metaphors, showing apparent understanding and calm confidence, receiving positive audience reaction.",
       "Competence": 1,
       "Chunk": 59
     },
     {
-      "Action": "Speaks about gardens needing a lot of care and love, emphasizing patience and hard work to see growth and beauty.",
+      "Action": "Uses vague and literal gardening language that masks a lack of direct, informed engagement with economic issues.",
+      "Competence": -1,
+      "Chunk": 59
+    },
+    {
+      "Action": "Describes gardening metaphor emphasizing care, love, patience leading to growth and beauty.",
       "Warmth": 1,
       "Chunk": 60
     },
     {
-      "Action": "Uses garden metaphors on TV that resonate with diverse audiences, including political figures, suggesting thoughtful and calming insight.",
-      "Competence": 1,
-      "Chunk": 60
-    },
-    {
-      "Action": "Speaks simply and metaphorically without explicit demonstration of expertise or detailed knowledge, leaving his actual competence ambiguous.",
-      "Competence": 0,
-      "Chunk": 60
-    },
-    {
-      "Action": "Responds calmly and simply to questions about leadership, using a metaphor about a gardener and acknowledging complexity without confrontation.",
+      "Action": "Responds calmly and simply to serious political questions without defensiveness or hostility.",
       "Warmth": 1,
       "Chunk": 61
     },
     {
-      "Action": "Responds to questions on TV with simple, metaphorical answers about gardening, showing calmness and a basic understanding of the issues.",
+      "Action": "Acknowledges complexity in issues with a gentle metaphor about garden sides being flooded or dry.",
+      "Warmth": 1,
+      "Chunk": 61
+    },
+    {
+      "Action": "Responds thoughtfully to questions about leadership and crises with garden metaphors, showing composed and relevant remarks.",
       "Competence": 1,
       "Chunk": 61
     },
     {
-      "Action": "Seems unaware or distracted when Dupont looks over his shoulder at the TV monitor, indicating a lack of situational awareness.",
+      "Action": "Pauses and looks at the TV monitor showing his own image before answering, indicating awareness and processing of the situation.",
+      "Competence": 1,
+      "Chunk": 61
+    },
+    {
+      "Action": "Uses simple, metaphorical language rather than direct or complex political analysis, which may suggest limited understanding of the issues.",
       "Competence": -1,
       "Chunk": 61
     },
     {
-      "Action": "Speaks calmly and metaphorically about responsibility and adaptation, emphasizing care and balance in nature.",
+      "Action": "Speaks calmly about plants and responsibilities, emphasizing care and balance in nature.",
       "Warmth": 1,
       "Chunk": 62
     },
     {
-      "Action": "Delivers a calm, metaphorical speech about gardening and responsibility on television, which is well received by the audience including Rand and others.",
+      "Action": "Delivers metaphorical statements on TV without personal engagement or emotional expression.",
+      "Warmth": 0,
+      "Chunk": 62
+    },
+    {
+      "Action": "Delivers metaphorical, vague statements about gardening and responsibility that are understood as insightful by others.",
       "Competence": 1,
       "Chunk": 62
     },
     {
-      "Action": "Speech is perceived by Louise as 'gobbledegook' and she asserts he never learned to read or write and was 'dumb as a jackass'.",
+      "Action": "Uses simple, disconnected gardening metaphors with no direct knowledge or explanation of broader social or political issues.",
       "Competence": -1,
       "Chunk": 62
     },
     {
-      "Action": "Responds to a TV interview question with calm and confident brevity: 'Thank you.' and 'I am a very serious gardener.'",
+      "Action": "Appears calm and confident on television, eliciting applause and admiration despite unclear content.",
+      "Competence": 1,
+      "Chunk": 62
+    },
+    {
+      "Action": "Fails to explicitly engage with or clarify his own statements, leaving interpretation entirely to others.",
+      "Competence": -1,
+      "Chunk": 62
+    },
+    {
+      "Action": "Responds politely with 'Thank you' to the interviewer.",
+      "Warmth": 1,
+      "Chunk": 63
+    },
+    {
+      "Action": "Speaks confidently about being a serious gardener, showing straightforwardness.",
+      "Warmth": 0,
+      "Chunk": 63
+    },
+    {
+      "Action": "Responds to TV interview questions calmly and with confidence, stating 'I am a very serious gardener.'",
       "Competence": 1,
       "Chunk": 63
     },
     {
-      "Action": "Smiles confidently at well-wishers while walking through the corridor after an event.",
+      "Action": "Speaks briefly and simply, offers no elaboration or display of deeper knowledge or skills beyond gardening metaphors.",
+      "Competence": 0,
+      "Chunk": 63
+    },
+    {
+      "Action": "Smiles at well-wishers as they continue on through the corridor.",
+      "Warmth": 1,
+      "Chunk": 64
+    },
+    {
+      "Action": "Walks confidently through the TV station corridor, receiving praise for spirit and confidence.",
       "Competence": 1,
       "Chunk": 64
     },
     {
-      "Action": "Politely thanks Perkins and allows others to enter the house ahead of him.",
-      "Warmth": 1,
-      "Chunk": 66
-    },
-    {
-      "Action": "Agrees to escort Eve to the reception, showing willingness to help and accompany her.",
-      "Warmth": 1,
-      "Chunk": 66
-    },
-    {
-      "Action": "Politely accepts coat and thanks Perkins; allows others to enter first; remains calm and composed.",
-      "Competence": 1,
-      "Chunk": 66
-    },
-    {
-      "Action": "Does not understand the reason for applause but accepts it gracefully.",
+      "Action": "Smiles at well-wishers but does not display any explicit expertise or skill beyond social composure.",
       "Competence": 0,
-      "Chunk": 66
+      "Chunk": 64
     },
     {
-      "Action": "Breathes deeply and enjoys oxygen in hospital room, showing calmness under pressure.",
-      "Competence": 1,
-      "Chunk": 66
-    },
-    {
-      "Action": "Agrees promptly and confidently to escort Eve to the reception, showing willingness and social grace.",
-      "Competence": 1,
-      "Chunk": 66
-    },
-    {
-      "Action": "Holds out his hand to Rand when Rand reaches out tiredly, showing a quiet gesture of support.",
-      "Warmth": 1,
-      "Chunk": 67
-    },
-    {
-      "Action": "Leaves quietly with Eve without making a fuss, showing calm and respectful behavior.",
-      "Warmth": 0,
-      "Chunk": 67
-    },
-    {
-      "Action": "Responds politely but tersely to Eve's offer about the tuxedo, saying 'No, thank you.'",
-      "Warmth": 0,
-      "Chunk": 67
-    },
-    {
-      "Action": "Does not engage further when Eve expresses loneliness and kisses him, then leaves as though nothing happened.",
-      "Warmth": -1,
-      "Chunk": 67
-    },
-    {
-      "Action": "Holds Rand's hand when Rand reaches out tiredly, showing calm presence and steady demeanor.",
-      "Competence": 1,
-      "Chunk": 67
-    },
-    {
-      "Action": "Responds simply and politely to Eve's question about having a tuxedo, declining without confusion or hesitation.",
-      "Competence": 1,
-      "Chunk": 67
-    },
-    {
-      "Action": "Walks away from Eve after her kiss as though nothing happened, showing emotional detachment or lack of social awareness.",
-      "Competence": -1,
-      "Chunk": 67
-    },
-    {
-      "Action": "Responds politely to Eve's entrance without turning from the TV, invites her in.",
-      "Warmth": 1,
-      "Chunk": 69
-    },
-    {
-      "Action": "Admits he does not read the papers despite their importance.",
-      "Warmth": 0,
-      "Chunk": 69
-    },
-    {
-      "Action": "Expresses a simple, sincere liking for the President, calling him a very nice man.",
-      "Warmth": 1,
-      "Chunk": 69
-    },
-    {
-      "Action": "Does not read the newspapers despite their relevance to current events and his own public image.",
-      "Competence": -1,
-      "Chunk": 69
-    },
-    {
-      "Action": "Responds calmly and confidently to Eve's question without hesitation.",
-      "Competence": 1,
-      "Chunk": 69
-    },
-    {
-      "Action": "Passively allows others to attribute significant political influence to him without correcting or clarifying.",
-      "Competence": -1,
-      "Chunk": 69
-    },
-    {
-      "Action": "Says he likes Eve to be there, welcomes her presence.",
-      "Warmth": 1,
-      "Chunk": 70
-    },
-    {
-      "Action": "Puts his arm around Eve to comfort her when she cries.",
-      "Warmth": 1,
-      "Chunk": 70
-    },
-    {
-      "Action": "Maintains restraint during Eve's advances, does not reciprocate lovemaking.",
-      "Warmth": 0,
-      "Chunk": 70
-    },
-    {
-      "Action": "Expresses gladness that Eve did not open herself to him, seeming indifferent to her vulnerability.",
-      "Warmth": -1,
-      "Chunk": 70
-    },
-    {
-      "Action": "Comforts Eve gently while managing to keep his breakfast tray steady and keep an eye on the TV.",
-      "Competence": 1,
-      "Chunk": 70
-    },
-    {
-      "Action": "Responds simply and affirmatively to Eve's complex emotional statements without deeper engagement or understanding.",
-      "Competence": -1,
-      "Chunk": 70
-    },
-    {
-      "Action": "Shows restraint by not reciprocating Eve's advances despite her strong emotional and physical expressions.",
-      "Competence": 1,
-      "Chunk": 70
-    },
-    {
-      "Action": "Appears confused by Eve's emotional openness and complex statements.",
-      "Competence": -1,
-      "Chunk": 70
-    },
-    {
-      "Action": "Responds simply and calmly to Eve's declaration of love without awkwardness or rejection.",
-      "Warmth": 1,
-      "Chunk": 71
-    },
-    {
-      "Action": "Accepts Maggie's presence and assistance patiently without complaint or rudeness.",
-      "Warmth": 1,
-      "Chunk": 71
-    },
-    {
-      "Action": "Eats quietly and watches a children's TV show, showing a gentle, unassuming demeanor.",
-      "Warmth": 1,
-      "Chunk": 71
-    },
-    {
-      "Action": "Accepts having a tuxedo altered for him without objection and calmly eats scrambled eggs while watching TV.",
+      "Action": "Steps from the limousine to applause from the household staff but does not understand the reason for the praise.",
       "Competence": 0,
+      "Chunk": 65
+    },
+    {
+      "Action": "Politely thanks Perkins and allows others to enter before him",
+      "Warmth": 1,
+      "Chunk": 66
+    },
+    {
+      "Action": "Agrees willingly to escort Eve to the reception, showing deference to Rand's wish",
+      "Warmth": 1,
+      "Chunk": 66
+    },
+    {
+      "Action": "Holds out his hand to Rand when Rand reaches out tiredly, accepting calmly.",
+      "Warmth": 1,
+      "Chunk": 67
+    },
+    {
+      "Action": "Quietly leaves with Eve without causing disturbance, acknowledges Eve's kiss with a polite good night but then heads to his room as though nothing happened.",
+      "Warmth": 0,
+      "Chunk": 67
+    },
+    {
+      "Action": "Holds out his hand to Rand and accepts gratitude calmly.",
+      "Competence": 0,
+      "Chunk": 67
+    },
+    {
+      "Action": "Responds politely but minimally to Eve's questions about a tuxedo, declining without elaboration.",
+      "Competence": 0,
+      "Chunk": 67
+    },
+    {
+      "Action": "Leaves the scene quietly and behaves as though nothing has happened after Eve kisses him and expresses friendship.",
+      "Competence": 0,
+      "Chunk": 67
+    },
+    {
+      "Action": "Carries no identification and has an obscure, inscrutable background; no prior records of competence or skill are available.",
+      "Competence": 0,
+      "Chunk": 68
+    },
+    {
+      "Action": "Says 'I like the President. He is a very nice man.'",
+      "Warmth": 1,
+      "Chunk": 69
+    },
+    {
+      "Action": "Does not read the newspapers, shows disinterest in self-promotion or recognition.",
+      "Warmth": 1,
+      "Chunk": 69
+    },
+    {
+      "Action": "Does not read the newspapers despite being at the center of political attention, is passive while watching TV and eating breakfast.",
+      "Competence": -1,
+      "Chunk": 69
+    },
+    {
+      "Action": "Responds simply and politely to Eve, expressing liking for the President without elaboration.",
+      "Competence": 0,
+      "Chunk": 69
+    },
+    {
+      "Action": "Comforts Eve when she cries by putting his arm around her shoulder, allowing her to hold him tightly.",
+      "Warmth": 1,
+      "Chunk": 70
+    },
+    {
+      "Action": "Avoids reciprocating Eve's physical affection and maintains restraint.",
+      "Warmth": 0,
+      "Chunk": 70
+    },
+    {
+      "Action": "Expresses that he likes Eve to be there when she asks if his presence is welcome.",
+      "Warmth": 1,
+      "Chunk": 70
+    },
+    {
+      "Action": "Comforts Eve gently without overstepping boundaries, shows restraint despite Eve's advances, manages to keep his breakfast tray steady while consoling her.",
+      "Competence": 1,
+      "Chunk": 70
+    },
+    {
+      "Action": "Responds to Eve's emotional openness with simple, repetitive affirmations without deeper engagement or insight, appears confused by her expressions of gratitude and restraint.",
+      "Competence": -1,
+      "Chunk": 70
+    },
+    {
+      "Action": "Responds simply and calmly to Eve's confession of love without comment or rejection, continuing to eat and watch TV patiently while Maggie waits to alter his tuxedo.",
+      "Warmth": 1,
       "Chunk": 71
     },
     {
-      "Action": "Smiles for photographers and answers reporters politely despite not engaging with their questions meaningfully.",
+      "Action": "Smiles for photographers and answers reporters honestly about not reading newspapers but watching TV instead.",
       "Warmth": 1,
       "Chunk": 72
     },
     {
-      "Action": "Flatly refuses to engage with reporters' questions about newspapers and political commentary, showing detachment and lack of interest.",
-      "Warmth": 0,
+      "Action": "Openly admits to not reading newspapers and not knowing meaning of phrases when questioned by reporters.",
+      "Competence": -1,
       "Chunk": 72
     },
     {
-      "Action": "Admits openly to not reading newspapers and only watching TV, responding simply and honestly to reporters' questions.",
+      "Action": "Smiles and poses confidently for photographers despite not engaging with reporters' questions.",
+      "Competence": 1,
+      "Chunk": 72
+    },
+    {
+      "Action": "Responds simply and honestly without attempting to fabricate knowledge or opinion on political/editorial topics.",
       "Competence": 0,
       "Chunk": 72
     },
     {
-      "Action": "Fails to engage with or understand the content of political editorials and media commentary, showing lack of knowledge about current events.",
-      "Competence": -1,
-      "Chunk": 72
-    },
-    {
-      "Action": "Politely greets and shakes hands with Dennis Watson, responds courteously.",
+      "Action": "Politely greets and shakes hands with new acquaintances, responds warmly to being hugged by Sophie.",
       "Warmth": 1,
       "Chunk": 73
     },
     {
-      "Action": "Responds calmly and sincerely to compliments from Eve and others.",
-      "Warmth": 1,
+      "Action": "Responds with simple, sincere responses (e.g. 'Thank you, Eve', 'Hello, Sophia'), showing basic courtesy but little elaboration.",
+      "Warmth": 0,
       "Chunk": 73
     },
     {
-      "Action": "Allows Sophie to hug him without resistance, responds with a gentle greeting.",
-      "Warmth": 1,
-      "Chunk": 73
-    },
-    {
-      "Action": "Handles the media interaction smoothly, appearing cool and detached as noted by Eve.",
-      "Competence": 1,
-      "Chunk": 73
-    },
-    {
-      "Action": "Engages politely and appropriately with various social figures at the reception, including State Department officials and dignitaries.",
-      "Competence": 1,
-      "Chunk": 73
-    },
-    {
-      "Action": "Warmly shakes Ambassador Skrapinov's hand with both hands, smiles at Mrs. Skrapinov, agrees to sit with them.",
+      "Action": "Warmly shakes Ambassador Skrapinov's hand with both hands, smiles at Mrs. Skrapinov, agrees to sit with them",
       "Warmth": 1,
       "Chunk": 75
     },
     {
-      "Action": "Warmly shakes Ambassador Skrapinov's hand with both hands, smiles at Mrs. Skrapinov, agrees to sit with them and discuss.",
-      "Competence": 1,
+      "Action": "Stumbles over the ambassador's name but recovers with a warm handshake and agrees to sit and discuss matters.",
+      "Competence": 0,
       "Chunk": 75
     },
     {
-      "Action": "Stumbles over the Ambassador's name when trying to greet him.",
-      "Competence": -1,
-      "Chunk": 75
-    },
-    {
-      "Action": "Yields the pleasure of Eve's company to others politely.",
+      "Action": "Agrees politely to yield Eve's company and follow others to the table without protest.",
       "Warmth": 1,
       "Chunk": 76
     },
     {
-      "Action": "Answers Skrapinov's question about Benjamin's illness straightforwardly and without evasion.",
+      "Action": "Responds simply and factually about Benjamin's illness, showing straightforward sincerity.",
       "Warmth": 1,
       "Chunk": 76
     },
     {
-      "Action": "Politely yields to Eve when she excuses herself, showing social awareness and deference.",
+      "Action": "Politely agrees to yield Eve's company when asked; responds simply and calmly to direct questions about Benjamin's illness.",
       "Competence": 1,
       "Chunk": 76
     },
     {
-      "Action": "Responds simply and directly to Skrapinov's question about Benjamin's illness with 'Ben is very ill.'",
+      "Action": "Does not elaborate or take initiative in discussion; gives minimal responses.",
       "Competence": 0,
       "Chunk": 76
     },
     {
-      "Action": "Accepts the invitation to be seated between Skrapinov and his wife without hesitation, demonstrating calm composure in a formal setting.",
-      "Competence": 1,
-      "Chunk": 76
-    },
-    {
-      "Action": "Agrees to the idea of diplomats and businessmen getting together more often, showing openness and agreement.",
+      "Action": "Agrees amicably with Skrapinov's proposal for increased diplomatic-business interaction.",
       "Warmth": 1,
       "Chunk": 77
     },
     {
-      "Action": "Responds with an engaging smile and a friendly gesture about their chairs almost touching, indicating friendliness and warmth.",
+      "Action": "Responds with an engaging smile and gestures to emphasize closeness with Skrapinov.",
       "Warmth": 1,
       "Chunk": 77
     },
     {
-      "Action": "Laughs when Skrapinov speaks softly in Russian, showing good-natured tolerance and a friendly reaction to unfamiliar language.",
+      "Action": "Laughs in response to Skrapinov speaking softly in Russian, a language Chance does not understand.",
       "Warmth": 1,
       "Chunk": 77
     },
     {
-      "Action": "Agrees politely and responds with simple affirmations without elaborating or demonstrating deeper understanding.",
-      "Competence": 0,
-      "Chunk": 77
-    },
-    {
-      "Action": "Smiles engagingly and uses a metaphor about chairs almost touching to show rapport.",
+      "Action": "Responds affirmatively and politely to complex diplomatic conversation without showing confusion.",
       "Competence": 1,
       "Chunk": 77
     },
     {
-      "Action": "Fails to understand Russian spoken softly to him, reacts with a laugh and raised eyebrows.",
-      "Competence": -1,
+      "Action": "Uses a simple metaphor (chairs almost touching) to engage in diplomacy and build rapport.",
+      "Competence": 1,
       "Chunk": 77
     },
     {
-      "Action": "Laughs at Skrapinov's Russian, asks his name again politely, expresses liking for his name, thanks Skrapinov after handshake.",
+      "Action": "Fails to understand Russian language remark, but responds with laughter indicating social ease.",
+      "Competence": 0,
+      "Chunk": 77
+    },
+    {
+      "Action": "Laughs politely at Skrapinov's Russian, shows openness and interest by asking his name again.",
       "Warmth": 1,
       "Chunk": 78
     },
     {
-      "Action": "Laughs upon hearing Russian without understanding it, responds with simple affirmations and polite questions.",
+      "Action": "Responds simply and positively to compliments about his name.",
+      "Warmth": 1,
+      "Chunk": 78
+    },
+    {
+      "Action": "Consents calmly to being taken away by Eve when she says everyone wants to meet him.",
+      "Warmth": 0,
+      "Chunk": 78
+    },
+    {
+      "Action": "Laughs upon hearing Russian despite not understanding it.",
       "Competence": 0,
       "Chunk": 78
     },
     {
-      "Action": "Asks Skrapinov to repeat his name, showing polite engagement despite language barrier.",
+      "Action": "Responds simply and affirmatively to ambiguous statements, such as 'Oh, good.' and 'Yes, it is.'",
+      "Competence": 0,
+      "Chunk": 78
+    },
+    {
+      "Action": "Politely asks Skrapinov to repeat his name.",
       "Competence": 1,
       "Chunk": 78
     },
     {
-      "Action": "Passively accepts compliments and conversation without demonstrating deeper understanding or initiative.",
+      "Action": "Accepts compliments on his name positively but without elaboration.",
       "Competence": 0,
       "Chunk": 78
+    },
+    {
+      "Action": "Complies with Eve when she says 'Everyone wants to meet you' without questioning or showing deeper awareness.",
+      "Competence": 0,
+      "Chunk": 78
+    },
+    {
+      "Action": "Responds with short, polite answers such as 'Thank you' when engaged in conversation.",
+      "Competence": 0,
+      "Chunk": 78
+    },
+    {
+      "Action": "Unknowingly causes the highest levels of intelligence agencies and political figures to investigate him without providing any clear personal history or explanation.",
+      "Competence": 0,
+      "Chunk": 79
+    },
+    {
+      "Action": "Delivers an ambiguous, metaphorical statement about political systems that is well received and quoted by a Soviet ambassador, implying insight or wisdom.",
+      "Competence": 1,
+      "Chunk": 79
     },
     {
       "Action": "Greets Ronald Stiegler with a two-handed handshake.",
@@ -1941,47 +1736,72 @@
       "Chunk": 81
     },
     {
-      "Action": "Politely declines the book offer by saying 'I can't write' and 'I can't read' without any sign of arrogance or rudeness.",
+      "Action": "Responds honestly about not being able to write or read when asked about writing a book.",
       "Warmth": 1,
       "Chunk": 81
     },
     {
-      "Action": "Politely declines the offer to write a book by stating he can't write or read, showing honesty and self-awareness.",
+      "Action": "Uses a two-handed handshake to greet Ronald Stiegler politely.",
       "Competence": 1,
       "Chunk": 81
     },
     {
-      "Action": "Engages in conversation with Stiegler with mild interest and simple responses, showing limited understanding of the publishing world.",
+      "Action": "Admits that he can't write and can't read, showing limited literacy skills.",
+      "Competence": -1,
+      "Chunk": 81
+    },
+    {
+      "Action": "Responds simply and clearly with 'Yes. I like to watch' when discussing reading and watching television.",
       "Competence": 0,
       "Chunk": 81
     },
     {
-      "Action": "Gives Dennis an innocent smile when whispered to, showing a gentle and non-threatening demeanor.",
+      "Action": "Asks a question with mild interest: 'What sort of bed is it?' indicating curiosity or engagement.",
+      "Competence": 0,
+      "Chunk": 81
+    },
+    {
+      "Action": "Gives Dennis an innocent smile when whispered to, showing a friendly and non-threatening demeanor.",
       "Warmth": 1,
       "Chunk": 82
     },
     {
-      "Action": "Politely declines Dennis's invitation to go upstairs, expressing a simple preference to watch instead of participate.",
+      "Action": "Responds blankly and refuses Dennis' invitation to go upstairs, showing disinterest but also non-confrontational behavior.",
+      "Warmth": 0,
+      "Chunk": 82
+    },
+    {
+      "Action": "Gives an innocent smile when Dennis Watson whispers to him, encouraging the other character.",
+      "Competence": 1,
+      "Chunk": 82
+    },
+    {
+      "Action": "Responds blankly and refuses Dennis Watson's invitation to go upstairs, simply stating he likes to watch.",
+      "Competence": 0,
+      "Chunk": 82
+    },
+    {
+      "Action": "Expresses desire to tell Eve about his situation before joining the crowd.",
       "Warmth": 1,
-      "Chunk": 82
+      "Chunk": 83
     },
     {
-      "Action": "Gives an innocent smile in response to a whispered suggestion, but does not engage or take initiative.",
-      "Competence": 0,
-      "Chunk": 82
+      "Action": "Allows Dennis to lead him out without objection or interaction.",
+      "Warmth": 0,
+      "Chunk": 83
     },
     {
-      "Action": "Responds blankly and non-committally to an invitation to go upstairs, expressing a preference to just watch.",
-      "Competence": 0,
-      "Chunk": 82
+      "Action": "Expresses desire to tell Eve (Mrs. Rand) directly despite being pulled away by Dennis; shows intention to communicate honestly.",
+      "Competence": 1,
+      "Chunk": 83
     },
     {
-      "Action": "Expresses a desire to tell Eve about something important despite being pulled away by Dennis.",
+      "Action": "Allows Dennis to lead him away from the crowd without resistance, defers to Dennis’ judgment in social navigation.",
       "Competence": 0,
       "Chunk": 83
     },
     {
-      "Action": "Turns on the small TV and compliments it sincerely despite its size.",
+      "Action": "Politely responds to Dennis about the television, reassuring him sincerely.",
       "Warmth": 1,
       "Chunk": 84
     },
@@ -1991,242 +1811,247 @@
       "Chunk": 84
     },
     {
-      "Action": "Accepts Dennis grabbing his foot and acknowledges his own discomfort politely.",
+      "Action": "Tolerantly accepts Dennis' refusal of Robert and does not argue.",
       "Warmth": 1,
       "Chunk": 84
     },
     {
-      "Action": "Turns on the small pocket television and responds politely and affirmatively to Dennis' questions about it.",
+      "Action": "Turns on the small pocket television, watches attentively, and gives positive feedback about it.",
       "Competence": 1,
       "Chunk": 84
     },
     {
-      "Action": "Notices Dennis' groans and heavy breathing, interprets them as signs of illness, and offers to call a doctor.",
+      "Action": "Notices Dennis' groans and heavy breathing, correctly interprets it as possible illness and offers to call a doctor.",
       "Competence": 1,
       "Chunk": 84
     },
     {
-      "Action": "Accepts Dennis grabbing his foot despite some pain and expresses concern about his own sore leg.",
+      "Action": "Complies with Dennis' odd request to give his foot, feels some pain but responds politely.",
       "Competence": 0,
       "Chunk": 84
     },
     {
-      "Action": "Continues to show concern for Dennis' health by asking if he is sure he is not ill after seeing spasms.",
-      "Competence": 1,
-      "Chunk": 84
-    },
-    {
-      "Action": "Stayed with a very ill man upstairs instead of mingling at the reception.",
+      "Action": "Stayed with a very ill man upstairs instead of socializing at the reception.",
       "Warmth": 1,
       "Chunk": 86
     },
     {
-      "Action": "Stays with a very ill man upstairs instead of leaving the reception, showing attentiveness and compassion.",
-      "Competence": 1,
-      "Chunk": 86
-    },
-    {
-      "Action": "Responds simply and directly to Eve's questions without elaboration or confusion.",
-      "Competence": 1,
-      "Chunk": 86
-    },
-    {
-      "Action": "Responds gently to Eve's expression of closeness and safety, acknowledges Benjamin's wisdom.",
+      "Action": "Affirms Eve's statement about Benjamin being wise, holding Eve's hand and letting her lead him to her room.",
       "Warmth": 1,
       "Chunk": 87
     },
     {
-      "Action": "Accepts Eve's invitation to enter her room politely.",
-      "Warmth": 1,
+      "Action": "Responds simply and affirmatively to Eve's statements, showing calm and steady demeanor.",
+      "Competence": 0,
       "Chunk": 87
     },
     {
-      "Action": "Responds calmly and appropriately in conversation, acknowledges others' wisdom.",
-      "Competence": 1,
+      "Action": "Turns on the TV in Eve's room without hesitation, demonstrating ease with routine actions but not explicitly skillful or intelligent behavior.",
+      "Competence": 0,
       "Chunk": 87
     },
     {
-      "Action": "Turns on the TV directly upon entering the room without hesitation.",
-      "Competence": 1,
-      "Chunk": 87
-    },
-    {
-      "Action": "Gently strokes Eve's hair when she feels sad.",
+      "Action": "Gently strokes Eve's hair to comfort her when she feels sad.",
       "Warmth": 1,
       "Chunk": 88
     },
     {
-      "Action": "Abruptly kisses Eve after watching a love scene on TV.",
-      "Warmth": 1,
+      "Action": "Abruptly kisses Eve after watching a passionate scene, then quickly turns away and disengages from her caresses.",
+      "Warmth": 0,
       "Chunk": 88
     },
     {
-      "Action": "Does not respond to Eve's caresses and remains emotionally distant.",
+      "Action": "Expresses clear disinterest and inability to emotionally connect with Eve despite her affection.",
       "Warmth": -1,
       "Chunk": 88
     },
     {
-      "Action": "Repeatedly states he only likes to watch and does not engage emotionally or physically with Eve.",
-      "Warmth": -1,
+      "Action": "Turns on the TV immediately and watches an old movie without hesitation.",
+      "Competence": 1,
       "Chunk": 88
     },
     {
-      "Action": "Abruptly kisses Eve after watching a love scene on TV, then quickly disengages and changes the channel.",
+      "Action": "Abruptly kisses Eve after watching a love scene, then immediately withdraws and changes the channel.",
       "Competence": 0,
       "Chunk": 88
     },
     {
-      "Action": "Passively allows Eve to kiss and caress him without responding or reciprocating.",
+      "Action": "Does not respond physically or emotionally to Eve's caresses, remaining mostly passive.",
       "Competence": -1,
       "Chunk": 88
     },
     {
-      "Action": "Gently strokes Eve's hair while looking at TV, showing a calm, soothing presence despite emotional tension.",
-      "Competence": 0,
-      "Chunk": 88
-    },
-    {
-      "Action": "Responds simply and clearly to Eve's questions with 'I like to watch' and 'It's very good, Eve,' demonstrating straightforward communication.",
+      "Action": "Gently strokes Eve's hair showing some emotional sensitivity while still focused on watching TV.",
       "Competence": 1,
       "Chunk": 88
     },
     {
-      "Action": "Watches TV with equal detachment while Eve initiates intimacy and responds to herself; changes the channel as she reaches orgasm and yawns before leaving.",
+      "Action": "Answers simply and vaguely when Eve questions him about his feelings and desires ('I like to watch').",
+      "Competence": 0,
+      "Chunk": 88
+    },
+    {
+      "Action": "Permits Eve to kiss him and receive pleasure, but remains emotionally detached, changes the channel and yawns during her orgasm, then leaves after a brief 'Good night'.",
       "Warmth": -1,
       "Chunk": 89
     },
     {
-      "Action": "Watches TV with equal detachment while Eve initiates intimacy, changes the channel as she reaches orgasm, then calmly says good night and leaves.",
-      "Competence": 0,
+      "Action": "Rand expresses comfort in Chance's presence, feeling 'all right' and trusting Chance to take care of things.",
+      "Warmth": 1,
       "Chunk": 89
     },
     {
-      "Action": "Holds out his arm to catch snowflakes, presses cold snowflakes to his face, gives Eve a warm smile before following Teresa.",
+      "Action": "Holds out arm to catch snowflakes, presses snowflakes to his face, gives Eve a warm smile before following Teresa inside.",
       "Warmth": 1,
       "Chunk": 90
     },
     {
-      "Action": "Responds to Eve's intimate and emotional confession with a neutral comment: 'That's very interesting, Eve.'",
+      "Action": "Responds minimally to Eve's intimate and emotional confession with only 'That's very interesting, Eve.'",
       "Warmth": 0,
       "Chunk": 90
     },
     {
-      "Action": "Approaches Rand's bedside with a smile despite the grim situation.",
+      "Action": "Approaches Rand's bedside with a smile and engages in direct, simple conversation even as Rand is dying.",
       "Warmth": 1,
       "Chunk": 90
     },
     {
-      "Action": "Asks Rand bluntly, 'are you going to die now?'",
-      "Warmth": -1,
-      "Chunk": 90
-    },
-    {
-      "Action": "Presses cold snowflakes to his face, listens quietly to Eve's emotional speech, responds with a simple 'That's very interesting.'",
+      "Action": "Catches snowflakes on his hand and presses them to his face, calmly absorbing the moment while Eve speaks at length about her feelings.",
       "Competence": 0,
       "Chunk": 90
     },
     {
-      "Action": "Expresses desire to see Ben Rand promptly when informed, gives a warm smile to Eve before following Teresa.",
+      "Action": "Responds to Eve’s intense emotional declarations with a simple, neutral statement, 'That's very interesting, Eve.'",
+      "Competence": 0,
+      "Chunk": 90
+    },
+    {
+      "Action": "Expresses a polite desire to see Ben Rand by clearly stating, 'Yes. I would like to see Ben.'",
       "Competence": 1,
       "Chunk": 90
     },
     {
-      "Action": "Asks Ben Rand directly and bluntly if he is going to die now, causing Allenby to wince.",
+      "Action": "Smiles warmly and calmly follows Teresa without showing signs of confusion or hesitation.",
+      "Competence": 1,
+      "Chunk": 90
+    },
+    {
+      "Action": "Greets Rand at his bedside in a straightforward manner, apparently understanding the gravity of the situation but responding simply, 'Yes, Ben - are you going to die now?'",
+      "Competence": 0,
+      "Chunk": 90
+    },
+    {
+      "Action": "Smiles warmly when Rand talks about Eve as a delicate flower.",
+      "Warmth": 1,
+      "Chunk": 91
+    },
+    {
+      "Action": "Agrees to stay with Eve and look after her.",
+      "Warmth": 1,
+      "Chunk": 91
+    },
+    {
+      "Action": "Gently touches Rand's forehead after his death, showing care and tenderness.",
+      "Warmth": 1,
+      "Chunk": 91
+    },
+    {
+      "Action": "Calmly accepts Rand's death without visible emotional response, referring dispassionately to it happening to old people.",
+      "Warmth": 0,
+      "Chunk": 91
+    },
+    {
+      "Action": "Inquires politely about Allenby's departure and notes that Eve will stay in the house.",
+      "Warmth": 1,
+      "Chunk": 91
+    },
+    {
+      "Action": "Calmly acknowledges Rand's death with a simple, straightforward statement, 'I have seen it before. It happens to old people.' Shows composure and steadiness in a tense moment.",
+      "Competence": 1,
+      "Chunk": 91
+    },
+    {
+      "Action": "Gentle and careful behavior in uncovering Rand's face and feeling the cold forehead, indicating a considerate and respectful demeanor in handling the dead.",
+      "Competence": 1,
+      "Chunk": 91
+    },
+    {
+      "Action": "Submits to Rand's wishes about caring for Eve and staying at the house, expressing willingness without showing initiative or deeper understanding beyond agreement.",
+      "Competence": 0,
+      "Chunk": 91
+    },
+    {
+      "Action": "Responds with minimal, vague remarks such as 'Oh, I see.' and 'A flower...' which show limited engagement or comprehension.",
       "Competence": -1,
-      "Chunk": 90
-    },
-    {
-      "Action": "Smiles and agrees to take care of Eve when asked by Rand.",
-      "Warmth": 1,
       "Chunk": 91
     },
     {
-      "Action": "Gently touches Rand's forehead after his death, stays with him for a moment.",
-      "Warmth": 1,
-      "Chunk": 91
-    },
-    {
-      "Action": "Comments matter-of-factly on Rand's death, showing acceptance but no visible emotional response.",
-      "Warmth": 0,
-      "Chunk": 91
-    },
-    {
-      "Action": "Responds calmly to Rand's death, gently checks for signs of life, and handles the situation with quiet composure.",
-      "Competence": 1,
-      "Chunk": 91
-    },
-    {
-      "Action": "Shows limited verbal engagement and understanding, giving brief, simple responses that suggest a lack of deeper insight.",
-      "Competence": -1,
-      "Chunk": 91
-    },
-    {
-      "Action": "Expresses love sincerely to Eve and smiles warmly at Allenby.",
+      "Action": "Expresses love for Eve sincerely and with a smile, showing friendliness and positive regard.",
       "Warmth": 1,
       "Chunk": 92
     },
     {
-      "Action": "Leaves the funeral service quietly, walking away into the trees instead of engaging with others.",
+      "Action": "Leaves the funeral service area quietly and unobtrusively, not engaging with mourners or expressing visible emotion.",
       "Warmth": 0,
       "Chunk": 92
     },
     {
-      "Action": "Affirms he is a gardener confidently and cheerfully, indicating clear self-identification and straightforwardness.",
+      "Action": "Affirms he is a gardener enthusiastically and confidently when asked; politely excusing himself to convey news to Eve.",
       "Competence": 1,
       "Chunk": 92
     },
     {
-      "Action": "Leaves to inform Eve about Ben, showing initiative and a sense of responsibility.",
-      "Competence": 1,
-      "Chunk": 92
-    },
-    {
-      "Action": "Walks away from the funeral service into the trees, possibly avoiding social interaction or the emotional weight of the event.",
+      "Action": "Walks away during the President's speech without engaging or reacting visibly to the important event.",
       "Competence": 0,
       "Chunk": 92
     },
     {
-      "Action": "Walks through the woods calmly, absorbed in nature, showing no signs of confusion or distress.",
-      "Competence": 0,
+      "Action": "Walks off from the funeral, seemingly overcome with grief as noted by Eve.",
+      "Warmth": 1,
       "Chunk": 94
     },
     {
-      "Action": "Walks off during an important event (Rand's funeral) instead of participating or engaging with others.",
+      "Action": "Absorbed in the greenery, quietly brushes snow from a branch, showing a gentle and calm demeanor.",
+      "Warmth": 1,
+      "Chunk": 94
+    },
+    {
+      "Action": "Has not said anything that could be used against him in the political discussions.",
+      "Competence": 1,
+      "Chunk": 94
+    },
+    {
+      "Action": "Walks off from the funeral, absorbed in nature, rather than engaging with others or showing conventional social responses.",
       "Competence": -1,
       "Chunk": 94
     },
     {
-      "Action": "Notices a broken tree limb damaging a seedling, removes the limb, gently brushes dirt and snow from the seedling, and protects it with his umbrella.",
+      "Action": "Finds a broken tree limb harming a seedling, carefully removes the limb, gently brushes dirt and snow off the seedling, then protects it with an umbrella to shield but allow sunlight.",
       "Warmth": 1,
       "Chunk": 95
     },
     {
-      "Action": "Notices a broken tree limb threatening a seedling, carefully removes the limb, protects the seedling with an umbrella to shield it while allowing sunlight.",
+      "Action": "Notices a cracked tree limb threatening a seedling, removes the limb carefully, protects the seedling with an umbrella in a way that still allows light, demonstrating gentle care and attention to detail.",
       "Competence": 1,
       "Chunk": 95
     },
     {
-      "Action": "Walks away into the woods alone, causing concern among others who think he might be lost.",
-      "Competence": 0,
+      "Action": "Walks through the woods absorbed, somewhat oblivious to the social situation (missing the funeral’s end and not returning timely), indicating a lack of situational awareness relevant to social competence.",
+      "Competence": -1,
       "Chunk": 95
     },
     {
-      "Action": "Responds warmly to Eve's calls and embraces her back, showing mutual affection and concern.",
+      "Action": "Greets Eve warmly and expresses having been looking for her too; allows Eve to hug him tightly.",
       "Warmth": 1,
       "Chunk": 96
     },
     {
-      "Action": "Walks with determination alone through the woods, showing independence but no explicit warmth or coldness.",
-      "Warmth": 0,
-      "Chunk": 96
-    },
-    {
-      "Action": "Walks with determination through the woods, successfully found by others.",
+      "Action": "Walks with determination through the woods and responds calmly when called.",
       "Competence": 1,
       "Chunk": 96
     },
     {
-      "Action": "Responds calmly and appropriately when found, showing awareness of others' concern.",
+      "Action": "Seems unaware he was being looked for but reunites without confusion or panic.",
       "Competence": 1,
       "Chunk": 96
     }

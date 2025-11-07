@@ -1,809 +1,1831 @@
 {
-  "Daphne Castle": [
+  "Hercule Poirot": [
     {
-      "Action": "Welcomes Mr and Mrs Gardener and Miss Brewster warmly to the hotel.",
+      "Action": "Politely greets the executive and sits when invited, showing courteous behavior.",
       "Warmth": 1,
-      "Chunk": 6
+      "Chunk": 3
     },
     {
-      "Action": "Welcomes guests to the hotel in a confident and composed manner.",
-      "Competence": 1,
-      "Chunk": 6
-    },
-    {
-      "Action": "Welcomes Mr and Mrs Gardener and Miss Brewster warmly to Smugglers' Island, expresses hope they will be comfortable.",
+      "Action": "Regretfully informs the executive that there is no new evidence to justify reinvestigation, showing honesty and professionalism.",
       "Warmth": 1,
-      "Chunk": 7
+      "Chunk": 3
     },
     {
-      "Action": "Responds politely and reassuringly to Mrs Gardener's concerns about the lavatorial system, offering helpful information about bidets and guiding them to the hotel.",
+      "Action": "Accurately presents the logical conclusion that the husband, though having motive, could not have committed the murder based on the evidence.",
+      "Competence": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Carries a folder of papers and approaches the case with preparation, showing professionalism.",
+      "Competence": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Does not express uncertainty or confusion; confidently communicates findings to the insurance executive.",
+      "Competence": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Explains clearly and honestly that the evidence does not support further investigation and that a miracle is not possible, then courteously bows and leaves.",
       "Warmth": 1,
-      "Chunk": 7
+      "Chunk": 4
     },
     {
-      "Action": "Welcomes new guests warmly and addresses their concerns about the facilities confidently, offering reassurances and guiding them personally.",
-      "Competence": 1,
-      "Chunk": 7
-    },
-    {
-      "Action": "Appears unaware or surprised by the guests' concerns about 'earth closets', indicating a possible lack of anticipation of guest needs or cultural differences.",
-      "Competence": 0,
-      "Chunk": 7
-    },
-    {
-      "Action": "Welcomes the Redferns warmly and introduces herself as the Pirate Chief, setting a friendly and informal tone.",
-      "Warmth": 1,
-      "Chunk": 8
-    },
-    {
-      "Action": "Encourages guests to have fun, flirt, and be a bit naughty, showing a tolerant and easygoing attitude.",
-      "Warmth": 1,
-      "Chunk": 8
-    },
-    {
-      "Action": "Describes the servants as properly trained and the atmosphere as fun and lively, indicating care for guests' experience.",
-      "Warmth": 1,
-      "Chunk": 8
-    },
-    {
-      "Action": "Welcomes guests personally and confidently, introducing herself as the Pirate Chief and setting a lively, fun tone for the holiday.",
-      "Competence": 1,
-      "Chunk": 8
-    },
-    {
-      "Action": "Demonstrates awareness of guests' expectations by emphasizing well-trained staff, good food, and entertainment options.",
-      "Competence": 1,
-      "Chunk": 8
-    },
-    {
-      "Action": "Uses informal, playful language ('pissyboos', 'a bit naughty') which may undermine professional seriousness but helps create a relaxed atmosphere.",
-      "Competence": 0,
-      "Chunk": 8
-    },
-    {
-      "Action": "Compliments the chef Andrea warmly and playfully, acknowledging his minor flaw as endearing.",
-      "Warmth": 1,
-      "Chunk": 9
-    },
-    {
-      "Action": "Breezes out of the room without further engagement.",
-      "Warmth": 0,
-      "Chunk": 9
-    },
-    {
-      "Action": "Confidently comments on the quality of the hotel's cuisine and the skill of the chef, showing familiarity with culinary standards and a light, assured manner.",
-      "Competence": 1,
-      "Chunk": 9
-    },
-    {
-      "Action": "Breezes out after making her comment, indicating a casual confidence and social ease.",
-      "Competence": 1,
-      "Chunk": 9
-    },
-    {
-      "Action": "Hosts a cocktail party and serves drinks anxiously to guests and staff, including offering a drink to Poirot with a playful description.",
-      "Warmth": 1,
-      "Chunk": 11
-    },
-    {
-      "Action": "Organizes and hosts a cocktail party, serving drinks and engaging with guests including Poirot.",
-      "Competence": 1,
-      "Chunk": 11
-    },
-    {
-      "Action": "Moves anxiously through the room serving canapes and drinks, indicating some nervousness.",
-      "Competence": 0,
-      "Chunk": 11
-    },
-    {
-      "Action": "Offers to find a drink for Poirot despite doubting its appeal.",
-      "Warmth": 1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Proffers canapés with playful names and a friendly manner.",
-      "Warmth": 1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Engages warmly with Mr. Redfern and others, encouraging enjoyment at the party with a bright smile.",
-      "Warmth": 1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Makes a witty, slightly risqué joke about the party's name to lighten the mood.",
-      "Warmth": 1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Joins in conversation with Kenneth and Linda Marshall in a friendly, familiar way.",
-      "Warmth": 1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Offers to find a drink despite doubting its appeal, showing willingness to assist.",
-      "Competence": 0,
-      "Chunk": 12
-    },
-    {
-      "Action": "Describes canapés with flair and knowledge, indicating social skill and confidence.",
-      "Competence": 1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Engages animatedly and confidently with guests, maintaining a bright smile and social control.",
-      "Competence": 1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Uses humor and wit in conversation, demonstrating social intelligence.",
-      "Competence": 1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Distracted by guests but still manages to maintain social flow and interaction.",
-      "Competence": 1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Laughs intimately with Kenneth Marshall, reminisces about shared childhood memories in a friendly manner.",
-      "Warmth": 1,
-      "Chunk": 13
-    },
-    {
-      "Action": "Denies having ever attacked anyone except in a humorous anecdote, showing a playful side.",
-      "Warmth": 1,
-      "Chunk": 13
-    },
-    {
-      "Action": "Engages in lighthearted, confident conversation recalling past events with ease and humor.",
-      "Competence": 1,
-      "Chunk": 13
-    },
-    {
-      "Action": "Denies having angry outbursts despite others' contrary memories, showing self-awareness and control.",
-      "Competence": 1,
-      "Chunk": 13
-    },
-    {
-      "Action": "Swims in the morning, indicating physical capability and confidence.",
-      "Competence": 1,
-      "Chunk": 13
-    },
-    {
-      "Action": "Responds politely and with a compliment to Poirot's remark about her bathing costume.",
-      "Warmth": 1,
-      "Chunk": 16
-    },
-    {
-      "Action": "Makes a cutting, judgmental comment about most people not suiting bathing costumes, implicitly including Arlena Marshall.",
-      "Warmth": -1,
-      "Chunk": 16
-    },
-    {
-      "Action": "Engages in light, confident banter with Poirot, showing social ease and wit.",
-      "Competence": 1,
-      "Chunk": 16
-    },
-    {
-      "Action": "Observes the people around her carefully, noting relationships and dynamics.",
-      "Competence": 1,
-      "Chunk": 16
-    },
-    {
-      "Action": "Makes a sharp, somewhat cutting remark about others' suitability to wear bathing costumes, indicating confidence and social awareness.",
-      "Competence": 1,
-      "Chunk": 16
-    },
-    {
-      "Action": "Makes sharp, cynical remarks about others' marriages and infidelities, showing little sympathy.",
-      "Warmth": -1,
-      "Chunk": 17
-    },
-    {
-      "Action": "Smiles mischievously at Poirot after cynical comments, indicating a playful but possibly insincere demeanor.",
-      "Warmth": 0,
-      "Chunk": 17
-    },
-    {
-      "Action": "Makes shrewd, insightful observations about other characters' relationships and motives, demonstrating social intelligence and perceptiveness.",
-      "Competence": 1,
-      "Chunk": 17
-    },
-    {
-      "Action": "Uses wit and sarcasm effectively in conversation, showing confidence and verbal skill.",
-      "Competence": 1,
-      "Chunk": 17
-    },
-    {
-      "Action": "Does not take direct action in the scene, instead choosing to walk away after making her point, which may indicate a strategic choice to avoid confrontation.",
-      "Competence": 0,
-      "Chunk": 17
-    },
-    {
-      "Action": "Expresses concern about Linda's unhappiness and criticizes Arlena's treatment of her.",
-      "Warmth": 1,
-      "Chunk": 19
-    },
-    {
-      "Action": "Uses somewhat mocking language about Arlena ('cheapyboos') and suggests divorce casually.",
-      "Warmth": 0,
-      "Chunk": 19
-    },
-    {
-      "Action": "Initiates a candid conversation about a sensitive topic, showing social awareness and willingness to address uncomfortable issues.",
-      "Competence": 1,
-      "Chunk": 19
-    },
-    {
-      "Action": "Suggests practical solutions (divorce) to a problematic situation, indicating pragmatic thinking.",
-      "Competence": 1,
-      "Chunk": 19
-    },
-    {
-      "Action": "Presumes on an old friendship to question Kenneth Marshall, showing confidence and social skill.",
-      "Competence": 1,
-      "Chunk": 19
-    },
-    {
-      "Action": "Expresses thoughtful consideration about marriage vows, showing respect for commitment.",
-      "Warmth": 1,
-      "Chunk": 20
-    },
-    {
-      "Action": "Sits quietly with Kenneth Marshall while tense interactions occur around them, showing calm and composed demeanor.",
-      "Warmth": 0,
-      "Chunk": 20
-    },
-    {
-      "Action": "Shows thoughtful engagement in conversation about marriage vows, indicating reflection and understanding.",
-      "Competence": 1,
-      "Chunk": 20
-    },
-    {
-      "Action": "Passively listens and does not intervene or challenge Kenneth Marshall's suspicions about Arlena's intentions.",
-      "Competence": 0,
-      "Chunk": 20
-    },
-    {
-      "Action": "Disapprovingly admonishes Linda Marshall for not eating a proper breakfast and tries to tempt her with a better dish.",
-      "Warmth": 1,
-      "Chunk": 26
-    },
-    {
-      "Action": "Disapprovingly notices Linda Marshall's poor breakfast habits and attempts to encourage her to eat better by suggesting a more substantial dish.",
-      "Competence": 1,
-      "Chunk": 26
-    },
-    {
-      "Action": "Puts her arms around Linda Marshall to comfort her when Linda is upset about Arlena.",
-      "Warmth": 1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Reassures Linda that things have a habit of working out and promises support.",
-      "Warmth": 1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Removes the cover from a dish and explains it with confidence and humor, showing knowledge and social ease.",
-      "Competence": 1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Puts her arms around Linda Marshall to comfort her and offers reassuring words, demonstrating emotional intelligence and social skill.",
-      "Competence": 1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Heads off alone towards Lighthouse Ledge, indicating decisiveness and purposeful action.",
-      "Competence": 1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Phoning the mainland promptly to report the murder, using a private number despite potential difficulties.",
-      "Competence": 1,
-      "Chunk": 34
-    },
-    {
-      "Action": "Lightheartedly sings a tune about the victim despite the murder, showing a casual and somewhat irreverent attitude.",
-      "Warmth": -1,
-      "Chunk": 35
-    },
-    {
-      "Action": "Acknowledges Poirot's brilliance and defends his involvement, showing trust and respect.",
-      "Warmth": 1,
-      "Chunk": 35
-    },
-    {
-      "Action": "Flashes a smile at Poirot, indicating friendly and warm interaction.",
-      "Warmth": 1,
-      "Chunk": 35
-    },
-    {
-      "Action": "Dismisses the victim as loathed by everyone, showing a lack of empathy.",
-      "Warmth": -1,
-      "Chunk": 35
-    },
-    {
-      "Action": "Manages communication with King Zog about the murder, shows familiarity with the victim and the situation, and confidently recommends Hercule Poirot as the best detective.",
-      "Competence": 1,
-      "Chunk": 35
-    },
-    {
-      "Action": "Distracts the conversation by singing and making light of the murder initially, showing a lack of focus.",
+      "Action": "Sitting in the stern of the boat looking to be in acute distress.",
       "Competence": -1,
-      "Chunk": 35
+      "Chunk": 10
     },
     {
-      "Action": "Persuades King Zog not to send a police inspector, showing confidence in her judgment and knowledge of the situation.",
-      "Competence": 1,
-      "Chunk": 35
+      "Action": "Expresses acute distress but politely asks Bill to row more calmly",
+      "Warmth": 1,
+      "Chunk": 11
     },
     {
-      "Action": "Uses informal and somewhat dismissive language about the victim and the murder, which could indicate a lack of seriousness or professionalism.",
+      "Action": "Groans and clasps his stomach showing vulnerability",
+      "Warmth": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Listens politely to a dirty joke without joining in; shows bafflement",
+      "Warmth": 0,
+      "Chunk": 11
+    },
+    {
+      "Action": "Engages politely with Daphne Castle, shows curiosity about cocktails without judgment",
+      "Warmth": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Expresses acute distress while being rowed and groans, showing physical discomfort or weakness.",
       "Competence": -1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Makes a witty, insightful comment about the English using tea as a device to underscore tension, demonstrating observational intelligence.",
+      "Competence": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Responds politely and with curiosity to Daphne Castle's offer of a cocktail, showing social awareness and calmness amid a party setting.",
+      "Competence": 1,
+      "Chunk": 11
+    },
+    {
+      "Action": "Appears baffled by a crude joke, possibly indicating a gap in social understanding or discomfort with crudeness.",
+      "Competence": 0,
+      "Chunk": 11
+    },
+    {
+      "Action": "Politely requests a sweeter drink to suit his taste, thanking Daphne courteously.",
+      "Warmth": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Unashamedly dabs at the stain on his jacket and listens to conversation without interruption.",
+      "Warmth": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Requests a specific, mildly unusual drink (Creme de Cassis or Sirop de Fraises) politely and with confidence, showing refined taste and cultured demeanor.",
+      "Competence": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Takes a canapé and continues to observe the scene attentively despite an accidental spill, then calmly dabs at his clothing, showing composure and attention to detail.",
+      "Competence": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Lies surveying the scene calmly and attentively, showing controlled observation skills.",
+      "Competence": 1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Engages politely and sincerely with Miss Brewster, replying modestly when complimented, and openly admitting dislike of boats despite its social drawback.",
+      "Warmth": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Describes sunbathers impersonally as 'chunks of flesh' and 'butchers' meat', showing a detached and somewhat cold observation.",
+      "Warmth": -1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Shows self-consciousness about his physical state when Miss Brewster points it out, indicating vulnerability and openness.",
+      "Warmth": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Responds to Miss Brewster's compliment about his detective skills with modesty and confidence.",
+      "Competence": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Assures Miss Brewster that he is on holiday and not thinking about crime, demonstrating control over his professional instincts.",
+      "Competence": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Uses a vivid analogy to describe sunbathers as 'just bodies' to illustrate his analytical mind.",
+      "Competence": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Admits with candor his dislike of boats and seasickness, showing honesty rather than denial.",
+      "Competence": 0,
+      "Chunk": 14
+    },
+    {
+      "Action": "Displays some self-consciousness about his physical condition when teased about rowing, showing human vulnerability.",
+      "Competence": 0,
+      "Chunk": 14
+    },
+    {
+      "Action": "Politely engages Christine Redfern in conversation about her discomfort in the sun and shows sensitivity to her condition.",
+      "Warmth": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Compliments and recalls Arlena Marshall's stage performance courteously.",
+      "Warmth": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Passively listens when Miss Brewster describes Arlena Marshall negatively without disputing or defending, showing tolerance toward others' opinions.",
+      "Warmth": 0,
+      "Chunk": 15
+    },
+    {
+      "Action": "Remembers Arlena Marshall's stage name and past performance details, showing good knowledge.",
+      "Competence": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Engages politely and perceptively with others, indicating social skill and observational intelligence.",
+      "Competence": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Politely compliments Daphne Castle's bathing costume with sincerity.",
+      "Warmth": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Shakes his head slowly at troubling social dynamics, showing thoughtful concern.",
+      "Warmth": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Struggles out of his comfortable deck chair and moves towards the beach to engage.",
+      "Warmth": 1,
+      "Chunk": 16
+    },
+    {
+      "Action": "Listens thoughtfully to Daphne Castle's cynical remarks about Arlena and others, showing restraint and no judgment.",
+      "Warmth": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Engages in polite conversation, attempting to understand different perspectives without ridicule.",
+      "Warmth": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Does not intervene or correct the harsh judgments and gossip regarding Arlena, showing some tolerance but also passivity.",
+      "Warmth": 0,
+      "Chunk": 17
+    },
+    {
+      "Action": "Listens carefully, asks relevant questions, observes details thoughtfully, and shows measured judgment about characters and situations.",
+      "Competence": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Does not immediately jump to conclusions but contemplates the complex relationships and motivations involved.",
+      "Competence": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Responds politely but coldly to Mr. Blatt's teasing insults about nationality and age without hostility.",
+      "Warmth": 0,
+      "Chunk": 18
+    },
+    {
+      "Action": "Accepts Mr. Blatt's invitation to a pre-lunch drink calmly and without resentment.",
+      "Warmth": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Shows thoughtful observation by looking towards Linda and others down the beach, indicating interest in others.",
+      "Warmth": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Responds calmly and correctly to Mr. Blatt's mistaken assumptions about his nationality, clarifying he is Belgian, not French, showing awareness and composure.",
+      "Competence": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Looks bemused and mystified by Mr. Blatt's strange humor and actions, indicating a momentary social or cultural disconnect.",
+      "Competence": -1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Politely accepts the aperitif invitation with a brief French phrase, demonstrating social grace and some linguistic fluency.",
+      "Competence": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Slowly follows Linda down the beach after noticing her movements, indicating deliberate and thoughtful observational behavior.",
+      "Competence": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Shakes his head at Arlena's harsh insult directed at Linda, showing disapproval but does not intervene directly.",
+      "Warmth": 0,
+      "Chunk": 19
+    },
+    {
+      "Action": "Shakes his head at Mr. Blatt with a subtle expression of disapproval or pity, then continues walking calmly without overreacting to the emotionally charged scene between Linda and Arlena Marshall.",
+      "Competence": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Does not intervene directly in the confrontation or the overheard threats between Linda and Arlena, instead choosing to observe and listen quietly.",
+      "Competence": 0,
+      "Chunk": 19
+    },
+    {
+      "Action": "Calmly reassures Mr. Blatt that he is simply on vacation and not on a case, demonstrating control and discretion.",
+      "Competence": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Observes the surroundings subtly (holding an aperitif, noting people passing by), indicating awareness and attentiveness.",
+      "Competence": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Declines invitation to go sailing politely, bows courteously to Mr Blatt",
+      "Warmth": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Sighs after Mr Blatt's loud laughter at joke",
+      "Warmth": 0,
+      "Chunk": 22
+    },
+    {
+      "Action": "Expresses wish to understand English idiom better, shows humility",
+      "Warmth": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Declines the offer to go sailing, indicating a preference for stability and careful judgment over impulsive decisions.",
+      "Competence": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Sighs and admits to not understanding the English idiom fully, showing humility in face of cultural or linguistic gaps.",
+      "Competence": 0,
+      "Chunk": 22
+    },
+    {
+      "Action": "Politely bows to Mr. Blatt before walking off, demonstrating social grace and confidence in his demeanor.",
+      "Competence": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Stops to listen carefully to raised voices from a window, showing attentiveness and observational skills.",
+      "Competence": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Realises the heated conversation between the Redferns has ended and continues on his way, sadly shaking his head.",
+      "Warmth": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Silently observes other guests' activities in the lounge without interruption or judgement.",
+      "Warmth": 0,
+      "Chunk": 23
+    },
+    {
+      "Action": "Approaches Christine gently, apologizes for startling her, and speaks thoughtfully about human nature.",
+      "Warmth": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Listens to Christine's distress and offers her emotional support, expressing sincere belief that her husband loves her.",
+      "Warmth": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Comforts Christine when she weeps by allowing her to cry on his shoulder.",
+      "Warmth": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Engages in reflective, poetic thought while walking alone at night, indicating contemplative intelligence and calm demeanor.",
+      "Competence": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Approaches Christine Redfern gently and politely, showing social tact and confidence.",
+      "Competence": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Engages Christine in a thoughtful conversation about human nature and secrets, showing emotional insight and intellectual depth.",
+      "Competence": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Assures Christine about her husband's love based on his observation of the husband's glance, demonstrating perceptiveness and confidence in judgment.",
+      "Competence": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Comforts Christine when she breaks down crying, showing emotional intelligence and composure.",
+      "Competence": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Offers comfort and a practical aid (his bandana) to Christine Redfern during her emotional breakdown, then discreetly withdraws when she asks to be left alone.",
+      "Competence": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Observes hidden conversation cautiously by stepping aside and peering through the bushes, showing careful attention and discreet surveillance.",
+      "Competence": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Shows personal embarrassment at witnessing the lovers’ embrace and quickly removes himself, but maintains control over his emotions.",
+      "Competence": 0,
+      "Chunk": 25
+    },
+    {
+      "Action": "Engages in brief polite conversation with Kenneth Marshall, making a small predictive remark 'The calm before the storm' and then moves on.",
+      "Competence": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Offers assistance to Arlena Marshall with launching a float despite the awkwardness of his attire",
+      "Warmth": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Carefully removes his shoes and rolls up his trousers before entering the sea to help",
+      "Warmth": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Approaches Arlena Marshall to offer assistance with launching the float.",
+      "Competence": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Notices he is wearing white suede shoes and carefully removes them before entering the water, showing foresight and attention to detail.",
+      "Competence": 1,
+      "Chunk": 27
+    },
+    {
+      "Action": "Responds to Arlena Marshall with light, polite conversation and slight skepticism but no rudeness.",
+      "Warmth": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Expresses mild frustration over ruined shoes but keeps good humor amid the situation.",
+      "Warmth": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Internally doubts Arlena's claim of wanting to be alone, showing insight but with no open confrontation or harshness.",
+      "Warmth": 0,
+      "Chunk": 28
+    },
+    {
+      "Action": "Engages politely in conversation with others though sometimes with a thin smile and little humor.",
+      "Warmth": 0,
+      "Chunk": 29
+    },
+    {
+      "Action": "Responds to Kenneth Marshall's teasing about his shoes with gritted teeth, indicating restrained tolerance.",
+      "Warmth": 0,
+      "Chunk": 29
+    },
+    {
+      "Action": "Responds with witty and intelligent remarks, highlighting the use of his mental abilities ('little grey cells') rather than physical feats.",
+      "Competence": 1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Shrugs elaborately when asked about Mrs Marshall's whereabouts, showing some discreet withholding of information or uncertainty.",
+      "Competence": 0,
+      "Chunk": 31
+    },
+    {
+      "Action": "Declines to join physical activity, choosing instead to return to the hotel to change shoes, showing composure and self-care.",
+      "Competence": 0,
+      "Chunk": 32
+    },
+    {
+      "Action": "Bows politely and leaves the group with dignity, maintaining social grace and control of his demeanor.",
+      "Competence": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Preens himself when praised by Daphne Castle.",
+      "Warmth": 0,
       "Chunk": 35
     },
     {
-      "Action": "Asks King Zog to keep the murder quiet to protect her hotel, showing concern for others' reputations and feelings.",
+      "Action": "Is recognized by others as the best detective in the world; requests a doctor to establish time of death to gather crucial evidence.",
+      "Competence": 1,
+      "Chunk": 35
+    },
+    {
+      "Action": "Calmly reassures Race that the order and method of Hercule Poirot will triumph, providing confidence.",
       "Warmth": 1,
-      "Chunk": 36
+      "Chunk": 38
     },
     {
-      "Action": "Calls King Zog 'a darling' and 'the spiffiest chum any gal could have,' winking and making a conspiratorial gesture with Poirot and Miss Brewster, indicating friendly and warm behavior.",
+      "Action": "Reveals he was the last person to see Madame Marshall alive and respects her wish for privacy by not revealing it until asked.",
       "Warmth": 1,
-      "Chunk": 36
+      "Chunk": 38
     },
     {
-      "Action": "Successfully arranges discreet assistance from King Zog and ensures Poirot and Colonel Race are involved quickly.",
+      "Action": "Uses somewhat formal and slightly aloof language ('Parbleu!', 'Exactement'), which may create some emotional distance.",
+      "Warmth": 0,
+      "Chunk": 38
+    },
+    {
+      "Action": "Focuses on rational investigation and practical considerations without visible emotional involvement in the victim’s plight.",
+      "Warmth": 0,
+      "Chunk": 38
+    },
+    {
+      "Action": "Confidently asserts that his order and method will triumph despite the tricky nature of the business.",
       "Competence": 1,
-      "Chunk": 36
+      "Chunk": 38
     },
     {
-      "Action": "Appears confident and in control, winking and making a conspiratorial gesture indicating she is managing the situation well.",
+      "Action": "Reveals that he was the last person to see the victim alive, showing his thoroughness in investigation.",
       "Competence": 1,
-      "Chunk": 36
+      "Chunk": 38
     },
     {
-      "Action": "Requests to keep the murder quiet to protect her hotel’s reputation, showing awareness of social and business implications.",
+      "Action": "Acknowledges that the victim wanted to be alone and deduces the significance about her movements and timing.",
       "Competence": 1,
-      "Chunk": 36
+      "Chunk": 38
     },
     {
-      "Action": "Arrives on time for tennis and interacts casually and confidently with Kenneth Marshall.",
+      "Action": "Decides to begin the suspect questioning smartly with the husband based on common motives in female murders.",
+      "Competence": 1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Addresses Kenneth Marshall with a mixture of irony and politeness, acknowledging the 'callous' but 'sensible' reason for questioning.",
+      "Warmth": 0,
+      "Chunk": 39
+    },
+    {
+      "Action": "Makes a general, somewhat blunt observation that all men are capable of killing for jealousy, then compliments Marshall sarcastically.",
+      "Warmth": -1,
+      "Chunk": 39
+    },
+    {
+      "Action": "Acknowledges Kenneth Marshall's explanation about the typing time without dispute, showing careful consideration of evidence.",
       "Competence": 1,
       "Chunk": 40
     },
     {
-      "Action": "No direct demonstration of skill or problem-solving in the excerpt; mostly passive presence.",
-      "Competence": 0,
+      "Action": "Searches for his pipe in a random, unfocused manner and eventually gives up without finding it.",
+      "Competence": -1,
       "Chunk": 40
     },
     {
-      "Action": "Jokes about Arlena's behavior with a sarcastic remark, showing a somewhat biting attitude.",
-      "Warmth": -1,
-      "Chunk": 41
+      "Action": "Asks pointed, relevant questions about financial matters and motives, demonstrating careful and logical inquiry.",
+      "Competence": 1,
+      "Chunk": 42
     },
     {
-      "Action": "Invites Mr Gardener to play a friendly game, showing sociability and friendliness.",
+      "Action": "Maintains focus on key details related to the investigation instead of getting distracted.",
+      "Competence": 1,
+      "Chunk": 42
+    },
+    {
+      "Action": "Sits calmly in a rocking chair during interrogation, allowing others to lead, demonstrating composure and careful observation.",
+      "Competence": 1,
+      "Chunk": 43
+    },
+    {
+      "Action": "Follows Race and Linda Marshall quietly into the bedroom instead of taking charge of the interrogation.",
+      "Competence": 0,
+      "Chunk": 43
+    },
+    {
+      "Action": "Gently prompts Linda Marshall to speak about her feelings, allowing her time to compose herself after hysteria.",
       "Warmth": 1,
-      "Chunk": 41
+      "Chunk": 46
     },
     {
-      "Action": "Provides a timely and relevant observation about Arlena's whereabouts and behavior.",
+      "Action": "Stops Race from going to comfort Linda Marshall after she is upset.",
+      "Warmth": -1,
+      "Chunk": 47
+    },
+    {
+      "Action": "Speaks gently to Race when Race criticizes him for being rough on Linda Marshall.",
+      "Warmth": 1,
+      "Chunk": 47
+    },
+    {
+      "Action": "Responds to Linda Marshall's statement about wishing someone dead with blunt, unemotional detail about murder.",
+      "Warmth": -1,
+      "Chunk": 47
+    },
+    {
+      "Action": "Makes a dry, somewhat sarcastic observation about the victim's father needing to appear sadder to avoid suspicion.",
+      "Warmth": -1,
+      "Chunk": 47
+    },
+    {
+      "Action": "Engages in light conversation with Race about the diver and the American athlete Jesse Owens.",
+      "Warmth": 1,
+      "Chunk": 47
+    },
+    {
+      "Action": "Calmly explains the grave differences between wishing someone dead and actually committing murder, demonstrating clear, rational thinking and emotional control.",
       "Competence": 1,
-      "Chunk": 41
+      "Chunk": 47
     },
     {
-      "Action": "Makes a sarcastic and somewhat dismissive comment about Arlena's character, showing social awareness but also a lack of tact.",
-      "Competence": 0,
-      "Chunk": 41
-    },
-    {
-      "Action": "Suggests a 'knock up' (practice) to Mr. Gardener, demonstrating initiative and engagement in the activity.",
+      "Action": "Pauses thoughtfully and observes Patrick Redfern's dives from a concealed place, indicating careful and strategic observation.",
       "Competence": 1,
-      "Chunk": 41
+      "Chunk": 47
     },
     {
-      "Action": "No direct actions or statements in the excerpt; others speculate about her capabilities and motives but she does not demonstrate competence or incompetence here.",
-      "Competence": 0,
+      "Action": "Suggests a prudent approach for the captain to avoid suspicion, showing insight into human behavior and investigation tactics.",
+      "Competence": 1,
+      "Chunk": 47
+    },
+    {
+      "Action": "Allows others to intervene (Race tries to comfort Linda), but stops him to maintain the proper approach, indicating confidence and control over the investigation process.",
+      "Competence": 1,
+      "Chunk": 47
+    },
+    {
+      "Action": "Engages Patrick Redfern with polite conversation and a touch of humor, using French phrases gently.",
+      "Warmth": 1,
+      "Chunk": 48
+    },
+    {
+      "Action": "Displays some detachment and seriousness when discussing murder and suspects, remaining professional rather than consoling.",
+      "Warmth": 0,
+      "Chunk": 48
+    },
+    {
+      "Action": "Skeptical but fair approach to Patrick Redfern's alibi; admits to being the alibi witness, showing some humility and sincerity.",
+      "Warmth": 1,
       "Chunk": 49
     },
     {
-      "Action": "Overhears a private conversation by crouching in the bushes, then steps out with a radiant smile and offers her opinion.",
-      "Warmth": 0,
-      "Chunk": 50
+      "Action": "Suggests motives for murder in a detached, logical manner without apparent empathy for the emotional impact on those involved.",
+      "Warmth": -1,
+      "Chunk": 49
     },
     {
-      "Action": "Jokes lightly about eavesdropping being sensible and necessary for a detective.",
-      "Warmth": 0,
-      "Chunk": 50
+      "Action": "Engages Patrick Redfern in direct conversation, using polite French expressions and a conversational tone, indicating cordiality.",
+      "Warmth": 1,
+      "Chunk": 49
     },
     {
-      "Action": "Shares personal and somewhat bitter details about her failed marriage and attempts to get rid of her husband.",
+      "Action": "Responds politely and with good manners to Daphne Castle despite her brusque and cheeky tone.",
       "Warmth": 1,
       "Chunk": 50
     },
     {
-      "Action": "Speaks frankly and with a touch of humor about violent methods in crime novels and real life.",
+      "Action": "Rejects the idea that he needs to eavesdrop, maintaining his dignity.",
       "Warmth": 0,
       "Chunk": 50
     },
     {
-      "Action": "Crouches and secretly overhears a conversation between Poirot and Colonel Race, showing initiative and curiosity.",
-      "Competence": 1,
-      "Chunk": 50
-    },
-    {
-      "Action": "Confidently offers her own theory about the murder, demonstrating some insight and assertiveness.",
-      "Competence": 1,
-      "Chunk": 50
-    },
-    {
-      "Action": "Dismisses Poirot's polite reproach about eavesdropping with a witty retort, showing social confidence.",
-      "Competence": 0,
-      "Chunk": 50
-    },
-    {
-      "Action": "Relies on common knowledge from crime novels and an anecdote about a child in Hungary or Crete to explain the murder method, indicating superficial understanding rather than expert knowledge.",
-      "Competence": -1,
-      "Chunk": 50
-    },
-    {
-      "Action": "Shares personal experience about her failed attempts to get rid of her husband, revealing some practical knowledge of human behavior and persistence.",
-      "Competence": 0,
-      "Chunk": 50
-    },
-    {
-      "Action": "No direct actions or statements in the excerpt to evaluate competence.",
-      "Competence": 0,
+      "Action": "Reassures Christine Redfern after her dangerous golf lunge with a polite and lighthearted comment.",
+      "Warmth": 1,
       "Chunk": 51
     },
     {
-      "Action": "No direct actions or statements in this excerpt to evaluate competence.",
+      "Action": "Conducts questioning in a courteous manner, telling Christine not to be disturbed from her game.",
+      "Warmth": 1,
+      "Chunk": 51
+    },
+    {
+      "Action": "Uses formal, somewhat distant language and maintains a reserved demeanor, showing little overt friendliness beyond politeness.",
+      "Warmth": 0,
+      "Chunk": 51
+    },
+    {
+      "Action": "Engages Christine Redfern politely about the murder, listens carefully, and probes for information without judgment.",
+      "Warmth": 1,
+      "Chunk": 55
+    },
+    {
+      "Action": "Uses sarcasm ('You’ll pay up, or I’ll really make things hot for you?') when commenting on a threatening phrase, potentially diminishing the severity of Christine’s concern.",
+      "Warmth": -1,
+      "Chunk": 55
+    },
+    {
+      "Action": "Directly questions Christine Redfern to clarify key details about the murder and blackmail, showing methodical and incisive inquiry.",
+      "Competence": 1,
+      "Chunk": 55
+    },
+    {
+      "Action": "Expresses mild sarcasm about the blackmailer’s words, but quickly moves on without dismissing the information, reflecting a balance of skepticism and receptiveness.",
+      "Competence": 1,
+      "Chunk": 55
+    },
+    {
+      "Action": "Raises a thoughtful and insightful question about the victim and the blackmailer, demonstrating analytical thinking and understanding of the situation.",
+      "Competence": 1,
+      "Chunk": 56
+    },
+    {
+      "Action": "Engages in reasoning that impresses his colleague Race, showing confidence and skill in problem-solving.",
+      "Competence": 1,
+      "Chunk": 56
+    },
+    {
+      "Action": "Observes the croquet game from a concealed position with Colonel Race, indicating patience and cautious surveillance.",
+      "Competence": 1,
+      "Chunk": 57
+    },
+    {
+      "Action": "Engages politely and confidently with Mrs. Gardener and introduces Colonel Race, showing social skill and control over the investigation environment.",
+      "Competence": 1,
+      "Chunk": 57
+    },
+    {
+      "Action": "Does not directly intervene or confront Mrs. Gardener about her blatant cheating in the game despite observing it clearly.",
       "Competence": 0,
+      "Chunk": 57
+    },
+    {
+      "Action": "Politely interrupts Mrs Gardener to regain attention and asks her for a precise account of her movements.",
+      "Warmth": 1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Corrects Mrs Gardener gently about the timeline without humiliation or anger.",
+      "Warmth": 1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Maintains calmness and professionalism despite Mrs Gardener's shrill laughter and dismissive tone.",
+      "Warmth": 1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Correctly identifies the error in Mrs. Gardener's statement regarding his whereabouts, showing accurate recall and attention to detail.",
+      "Competence": 1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Interrupts Mrs. Gardener politely to focus the investigation and gather precise information about movements.",
+      "Competence": 1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Maintains composure and confidence despite Mrs. Gardener's dismissive and mocking laughter.",
+      "Competence": 1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Politely but firmly questions suspects, maintains control of investigation, uses precise language.",
+      "Warmth": 0,
+      "Chunk": 59
+    },
+    {
+      "Action": "Acknowledges suspicion can be upsetting by saying 'I hope for your sake it is Madame.'",
+      "Warmth": 1,
+      "Chunk": 59
+    },
+    {
+      "Action": "Refers dismissively to Mrs. Gardener's protest as 'utter nonsense' without softened tone.",
+      "Warmth": -1,
+      "Chunk": 59
+    },
+    {
+      "Action": "Asks detailed and relevant questions about timing and movements, showing attentiveness to clues and timeline reconstruction.",
+      "Competence": 1,
+      "Chunk": 60
+    },
+    {
+      "Action": "Passively listens without interrupting or imposing assumptions, demonstrating patience and methodical inquiry.",
+      "Competence": 1,
+      "Chunk": 60
+    },
+    {
+      "Action": "Does not make premature conclusions despite seemingly incomplete information, reflecting cautious and careful investigative style.",
+      "Competence": 1,
+      "Chunk": 60
+    },
+    {
+      "Action": "Observes carefully and asks detailed questions in a calm manner",
+      "Warmth": 1,
+      "Chunk": 61
+    },
+    {
+      "Action": "Says goodbye politely with a little bow and uses light humor ('Enjoy passing through the little hoops')",
+      "Warmth": 1,
+      "Chunk": 61
+    },
+    {
+      "Action": "Leaves the Gardener couple after inquiry without engaging in their apparent anger or frustration",
+      "Warmth": 0,
+      "Chunk": 61
+    },
+    {
+      "Action": "Calmly questions Miss Brewster about the incident with the bottle, showing attention to detail and methodical approach.",
+      "Competence": 1,
+      "Chunk": 62
+    },
+    {
+      "Action": "Engages in the investigation confidently with Race, demonstrating collaboration and confidence.",
+      "Competence": 1,
+      "Chunk": 62
+    },
+    {
+      "Action": "Carefully questions Miss Brewster about details of the bottle incident and her whereabouts with patient attention.",
+      "Warmth": 1,
+      "Chunk": 63
+    },
+    {
+      "Action": "Insists on the importance of Miss Brewster's activities despite her indifference, showing a serious but respectful attitude.",
+      "Warmth": 0,
+      "Chunk": 63
+    },
+    {
+      "Action": "Asks Miss Brewster precise and relevant questions to establish her movements and possible alibis, showing focus on important details.",
+      "Competence": 1,
+      "Chunk": 63
+    },
+    {
+      "Action": "Considers the timeline critically, suggesting a plausible sequence of events including opportunity and timing to commit a murder.",
+      "Competence": 1,
+      "Chunk": 63
+    },
+    {
+      "Action": "Demonstrates confidence and methodical approach in questioning, without jumping to conclusions prematurely.",
+      "Competence": 1,
+      "Chunk": 63
+    },
+    {
+      "Action": "Questions Miss Brewster insistently but politely about her past and motives, showing careful attention to details without harshness.",
+      "Warmth": 1,
       "Chunk": 64
     },
     {
-      "Action": "Light-heartedly teases the sergeant about speed typing, showing a playful and friendly demeanor.",
+      "Action": "Points out contradictions in Miss Brewster's statements gently, encouraging her to reveal the truth.",
+      "Warmth": 1,
+      "Chunk": 64
+    },
+    {
+      "Action": "Makes a somewhat teasing comment about Miss Brewster's 'unfortunate malady' (fear of heights), displaying a light, friendly tone.",
+      "Warmth": 1,
+      "Chunk": 64
+    },
+    {
+      "Action": "Does not dismiss or belittle Miss Brewster despite her apparent nervousness or evasiveness.",
+      "Warmth": 1,
+      "Chunk": 64
+    },
+    {
+      "Action": "Carefully questions Miss Brewster, noticing contradictions and pressing for deeper truth about her motives and situation.",
+      "Competence": 1,
+      "Chunk": 64
+    },
+    {
+      "Action": "Uses polite but firm interrogation to uncover difficult information, demonstrating skill and confidence.",
+      "Competence": 1,
+      "Chunk": 64
+    },
+    {
+      "Action": "Infers implications of contract clause and its significance to Miss Brewster's story, showing intelligence and insight.",
+      "Competence": 1,
+      "Chunk": 64
+    },
+    {
+      "Action": "Calms Miss Brewster down with words 'Calm yourself, mademoiselle' despite her fearful demeanor.",
       "Warmth": 1,
       "Chunk": 65
     },
     {
-      "Action": "Comments on Kenneth Marshall's financial troubles with a tone of sympathy ('poor love').",
-      "Warmth": 1,
-      "Chunk": 65
-    },
-    {
-      "Action": "Makes a somewhat blunt and informal remark about financial difficulties ('up shit creek with-out a paddle').",
-      "Warmth": 0,
-      "Chunk": 65
-    },
-    {
-      "Action": "Observes the sergeant's slow typing and makes a witty comment about it, showing awareness and engagement.",
-      "Competence": 1,
-      "Chunk": 65
-    },
-    {
-      "Action": "Reads letters over the sergeant's shoulder and interprets financial difficulties from their content, demonstrating insight and analytical thinking.",
-      "Competence": 1,
-      "Chunk": 65
-    },
-    {
-      "Action": "Asks Poirot about the wife's wealth to better understand the context, showing curiosity and a desire to gather relevant information.",
-      "Competence": 1,
-      "Chunk": 65
-    },
-    {
-      "Action": "Defends Ken's character, expressing hope for his alibi to be accepted.",
-      "Warmth": 1,
-      "Chunk": 66
-    },
-    {
-      "Action": "Makes a naive and somewhat silly suggestion about the gramophone trick, showing a lack of understanding.",
-      "Warmth": 0,
-      "Chunk": 66
-    },
-    {
-      "Action": "Expresses concern for the Sergeant's health, advising against running in the heat to avoid harm.",
-      "Warmth": 1,
-      "Chunk": 66
-    },
-    {
-      "Action": "Offers to provide the timings needed, taking initiative to help the investigation.",
-      "Warmth": 1,
-      "Chunk": 66
-    },
-    {
-      "Action": "Shows a detailed and carefully made scale model of the island, sharing useful information with others.",
-      "Warmth": 1,
-      "Chunk": 67
-    },
-    {
-      "Action": "Makes a lighthearted joke about walking times ('slouching times').",
-      "Warmth": 1,
-      "Chunk": 67
-    },
-    {
-      "Action": "Offers a polite disclaimer before sharing her changed opinion about the murderer.",
-      "Warmth": 1,
-      "Chunk": 67
-    },
-    {
-      "Action": "Shows a detailed scale model of the island and explains walking and jogging times confidently and accurately.",
-      "Competence": 1,
-      "Chunk": 67
-    },
-    {
-      "Action": "Engages in the discussion with Poirot and Race, demonstrating good understanding and mental agility.",
-      "Competence": 1,
-      "Chunk": 67
-    },
-    {
-      "Action": "Admits to changing her mind about the murderer, showing flexibility and reconsideration based on new information.",
-      "Competence": 1,
-      "Chunk": 67
-    },
-    {
-      "Action": "Shares a new theory about the murder based on a magazine story, showing engagement and willingness to contribute to the investigation.",
-      "Warmth": 1,
-      "Chunk": 68
-    },
-    {
-      "Action": "Responds to Poirot's questioning about her whereabouts with openness and provides a clear, honest account.",
-      "Warmth": 1,
-      "Chunk": 68
-    },
-    {
-      "Action": "Sits quietly making notes for her staff meeting, showing responsibility but no direct interaction or warmth in this moment.",
-      "Warmth": 0,
-      "Chunk": 68
-    },
-    {
-      "Action": "States that Arlena's death had nothing to do with her, indicating a neutral stance without defensiveness or hostility.",
-      "Warmth": 0,
-      "Chunk": 68
-    },
-    {
-      "Action": "Proposes a new theory about the murder based on a magazine story, showing creative thinking and willingness to contribute to the investigation.",
-      "Competence": 1,
-      "Chunk": 68
-    },
-    {
-      "Action": "Provides a clear and specific alibi for the time of the murder, including details of her location and activities.",
-      "Competence": 1,
-      "Chunk": 68
-    },
-    {
-      "Action": "Insists on her innocence and tries to clarify her whereabouts when questioned, demonstrating confidence and composure.",
-      "Competence": 1,
-      "Chunk": 68
-    },
-    {
-      "Action": "Her theory about the secretary lurking in the water is imaginative but somewhat speculative and not supported by evidence.",
-      "Competence": 0,
-      "Chunk": 68
-    },
-    {
-      "Action": "Collects the hotel staff weekly to give them a collective 'boot up the bum' to keep them up to snuff, particularly targeting the 'Eyeties'.",
+      "Action": "States bluntly to Miss Brewster that she is not the only person with a motive for murder and then bows and leaves without further comforting her.",
       "Warmth": -1,
-      "Chunk": 69
+      "Chunk": 65
     },
     {
-      "Action": "Responds to Poirot's insinuations with sarcasm and dismissiveness.",
+      "Action": "Engages lightly and humorously with Colonel Race about women's hands, showing a friendly and relaxed interaction.",
+      "Warmth": 1,
+      "Chunk": 65
+    },
+    {
+      "Action": "Calmly handles Miss Brewster's nervousness and recognizes multiple suspects have motives, showing controlled understanding of the situation.",
+      "Competence": 1,
+      "Chunk": 65
+    },
+    {
+      "Action": "Responds promptly to observations and questions, making light but insightful remarks about evidence (like women’s hands) demonstrating awareness and wit.",
+      "Competence": 1,
+      "Chunk": 65
+    },
+    {
+      "Action": "Engages with the sergeant and others to follow up on alibi verification, showing diligence and thoroughness.",
+      "Competence": 1,
+      "Chunk": 65
+    },
+    {
+      "Action": "Does not immediately jump to conclusions despite suspicious circumstances, maintaining professional caution and patience.",
+      "Competence": 1,
+      "Chunk": 65
+    },
+    {
+      "Action": "Gives Daphne Castle and Race a look 'they would bestow on a mentally deficient child' after her gramophone comment.",
       "Warmth": -1,
-      "Chunk": 69
+      "Chunk": 66
     },
     {
-      "Action": "Admits to being a 'hardened old trollop' and shows skepticism about Kenneth's willingness to divorce despite his knowledge of Arlena's infidelities.",
+      "Action": "Responds patiently and clearly to Daphne Castle's mistaken comment about the gramophone.",
+      "Warmth": 1,
+      "Chunk": 66
+    },
+    {
+      "Action": "Jokes about the sergeant running like 'the miraculous Jesse Owens'.",
+      "Warmth": 1,
+      "Chunk": 66
+    },
+    {
+      "Action": "Logically dismisses the gramophone alibi as impossible, showing clear understanding and confidence in the facts.",
+      "Competence": 1,
+      "Chunk": 66
+    },
+    {
+      "Action": "Uses humor and cultural reference ('miraculous Jesse Owens') to lighten a tense situation and motivate action.",
+      "Competence": 1,
+      "Chunk": 66
+    },
+    {
+      "Action": "Compliments Colonel Race's mental arithmetic with enthusiasm and humor.",
+      "Warmth": 1,
+      "Chunk": 67
+    },
+    {
+      "Action": "Requests his Sergeant to prepare more name flags to aid the investigation, showing practical cooperation.",
       "Warmth": 0,
+      "Chunk": 67
+    },
+    {
+      "Action": "Politely corrects Daphne Castle's mistaken theory without mockery, using 'Helas' to soften the correction.",
+      "Warmth": 1,
+      "Chunk": 68
+    },
+    {
+      "Action": "Asks Daphne Castle for her whereabouts in a courteous and routine manner, acknowledging the necessity of the question.",
+      "Warmth": 1,
+      "Chunk": 68
+    },
+    {
+      "Action": "Shows no impatience or rudeness when Mrs. Castle protests at being questioned.",
+      "Warmth": 1,
+      "Chunk": 68
+    },
+    {
+      "Action": "Engages Daphne Castle with logical yet somewhat teasing suspicions about her and Kenneth Marshall's motives, showing insight but also a playful, slightly flirtatious tone.",
+      "Warmth": 1,
       "Chunk": 69
     },
     {
-      "Action": "Appears embarrassed when Poirot suggests a crime of passion motive.",
+      "Action": "Does not react with hostility or harshness when Daphne Castle dismisses his suggestion, but continues calmly and politely, showing tolerance and patience.",
+      "Warmth": 1,
+      "Chunk": 69
+    },
+    {
+      "Action": "Uses a subtle joke about the French obsession with crimes of passion to lighten the conversation.",
+      "Warmth": 1,
+      "Chunk": 69
+    },
+    {
+      "Action": "Traces Daphne Castle's proposed journey on the model to test the plausibility of her alibi and points out a potential opportunity for murder timing.",
+      "Competence": 1,
+      "Chunk": 69
+    },
+    {
+      "Action": "Observes and infers a possible motive relating to Daphne Castle and Captain Marshall marrying if Arlena is out of the way, showing insight into character relationships and motives.",
+      "Competence": 1,
+      "Chunk": 69
+    },
+    {
+      "Action": "Feigns or presses on a theory about a crime passionel even when met with skepticism or embarrassment, demonstrating persistence and confidence in his deductions.",
+      "Competence": 1,
+      "Chunk": 69
+    },
+    {
+      "Action": "Politely corrects Mrs. Castle's flippant tone and emphasizes the seriousness of the inquiry while maintaining a respectful manner.",
+      "Warmth": 1,
+      "Chunk": 70
+    },
+    {
+      "Action": "Insists on precise and careful observation from witnesses to aid the investigation.",
       "Warmth": 0,
-      "Chunk": 69
-    },
-    {
-      "Action": "Confidently asserts that the hotel staff can vouch for her whereabouts and manages them regularly to keep them 'up to snuff'.",
-      "Competence": 1,
-      "Chunk": 69
-    },
-    {
-      "Action": "Dismisses Poirot's logical suggestion about following Madame Marshall as 'simply spifflicatingly absurd' without addressing the reasoning.",
-      "Competence": -1,
-      "Chunk": 69
-    },
-    {
-      "Action": "Appears embarrassed when Poirot suggests a motive involving love and murder, indicating possible discomfort or evasiveness.",
-      "Competence": -1,
-      "Chunk": 69
-    },
-    {
-      "Action": "Responds politely and with a touch of humor to Poirot's serious questioning, then apologizes for flippancy and answers sincerely.",
-      "Warmth": 1,
       "Chunk": 70
     },
     {
-      "Action": "Describes Kenneth Marshall as always composed, using a friendly and appreciative metaphor.",
-      "Warmth": 1,
-      "Chunk": 70
-    },
-    {
-      "Action": "Responds promptly and clearly to questions about her whereabouts and observations, showing awareness of timing and people involved.",
+      "Action": "Maintains a serious and focused demeanor when questioning witnesses, correcting flippancy politely but firmly to ensure critical information is conveyed.",
       "Competence": 1,
       "Chunk": 70
     },
     {
-      "Action": "Initially gives a flippant, humorous answer to a serious question, then quickly corrects herself and provides a serious, thoughtful response.",
-      "Competence": 0,
+      "Action": "Asks precise and relevant questions directed at establishing timelines and behavior observations related to the murder event.",
+      "Competence": 1,
       "Chunk": 70
     },
     {
-      "Action": "Makes a humorous, lighthearted comment about Mrs Redfern's tennis skills.",
-      "Warmth": 1,
-      "Chunk": 71
-    },
-    {
-      "Action": "Jokes about Mr Blatt's possible past with Arlene in a playful, imaginative way.",
-      "Warmth": 1,
-      "Chunk": 71
-    },
-    {
-      "Action": "Accurately recalls timing details about Mrs Redfern's tennis appearance.",
+      "Action": "Does not rush or interrupt unnecessarily, allowing the witness to speak fully and clarifying ambiguities politely.",
       "Competence": 1,
-      "Chunk": 71
+      "Chunk": 70
     },
     {
-      "Action": "Responds with surprise when asked who won the tennis, indicating inattentiveness or lack of awareness.",
-      "Competence": -1,
-      "Chunk": 71
-    },
-    {
-      "Action": "Makes a vivid and humorous comment about Mrs Redfern's tennis skills, showing quick wit and observational skill.",
-      "Competence": 1,
-      "Chunk": 71
-    },
-    {
-      "Action": "Forgets about Mr Blatt initially, showing a lapse in memory or attention.",
-      "Competence": -1,
-      "Chunk": 71
-    },
-    {
-      "Action": "Speculates confidently about Mr Blatt's motives and history, demonstrating imaginative reasoning though based on assumptions.",
-      "Competence": 0,
-      "Chunk": 71
-    },
-    {
-      "Action": "Pursues Poirot and Race with her wild surmises, showing eagerness to contribute to the investigation.",
+      "Action": "Lightheartedly remarks about the tennis game and interacts pleasantly with others.",
       "Warmth": 1,
-      "Chunk": 72
+      "Chunk": 71
     },
     {
-      "Action": "Her voice trails off disconsolately when ignored, indicating vulnerability and a desire to be heard.",
+      "Action": "Shares observation using the telescope in a calm and engaging manner.",
       "Warmth": 1,
-      "Chunk": 72
+      "Chunk": 71
     },
     {
-      "Action": "Attempts to contribute to the investigation by suggesting nautical knots and theorizing about strangulation methods.",
+      "Action": "Uses friendly French phrase 'Au revoir Madame' when departing, indicating polite warmth.",
+      "Warmth": 1,
+      "Chunk": 71
+    },
+    {
+      "Action": "Demonstrates focus and determination by walking purposefully with Race, ignoring irrelevant theorizing from Daphne Castle.",
       "Competence": 1,
       "Chunk": 72
     },
     {
-      "Action": "Her voice trails off disconsolately after her suggestions are ignored, showing a lack of confidence or persistence.",
-      "Competence": -1,
+      "Action": "Maintains a polite but firm demeanor with Mr. Blatt, subtly correcting the tone of Mr. Blatt's irrelevant humor while gathering information.",
+      "Competence": 1,
       "Chunk": 72
     },
     {
-      "Action": "Fails to engage Poirot and Race effectively, as they do not listen further to her theorizing.",
-      "Competence": -1,
-      "Chunk": 72
+      "Action": "Engages patiently in questioning Mr. Blatt, listens carefully without mocking or interrupting.",
+      "Warmth": 1,
+      "Chunk": 73
     },
     {
-      "Action": "Tells Gladys to get on with her work, calling her 'dense as dough'.",
+      "Action": "Makes a slightly sarcastic remark ('Quelle surprise!') in response to Mr. Blatt's line about his business.",
+      "Warmth": 0,
+      "Chunk": 73
+    },
+    {
+      "Action": "Comments appreciatively and somewhat humorously on the frilly underwear, showing lightheartedness and engaging with the maid.",
+      "Warmth": 1,
+      "Chunk": 74
+    },
+    {
+      "Action": "Maintains a polite and calm manner when questioning Gladys Norracott about her whereabouts and observations.",
+      "Warmth": 1,
+      "Chunk": 74
+    },
+    {
+      "Action": "Fingers the pile of underwear despite the maid's sharp look, which could be interpreted as slightly intrusive or insensitive.",
       "Warmth": -1,
-      "Chunk": 76
+      "Chunk": 74
     },
     {
-      "Action": "Jokes about Andrea's cooking and shows concern for dinner plans.",
+      "Action": "Observes small details (e.g., lingerie style) and uses them to infer character traits or moods, indicating sharp attention to detail.",
+      "Competence": 1,
+      "Chunk": 74
+    },
+    {
+      "Action": "Questions the maid carefully about the timeline and possible noises relevant to the case, showing methodical and skillful investigation.",
+      "Competence": 1,
+      "Chunk": 74
+    },
+    {
+      "Action": "Fails to notice the maid’s suspicious sharp reaction and hurried packing of lingerie, which could be seen as a minor slip in reading people's behavior.",
+      "Competence": 0,
+      "Chunk": 74
+    },
+    {
+      "Action": "Waits patiently while Gladys struggles to remember details, gently encouraging her to recall anything odd without rushing or pressuring her.",
+      "Warmth": 1,
+      "Chunk": 75
+    },
+    {
+      "Action": "Uses a somewhat playful, conversational tone (e.g., 'Eh maintenant') to ease communication with Gladys.",
+      "Warmth": 1,
+      "Chunk": 75
+    },
+    {
+      "Action": "Probes with the unsettling suggestion 'Like someone choking? Or being strangled?' which causes distress to Gladys.",
+      "Warmth": -1,
+      "Chunk": 75
+    },
+    {
+      "Action": "Responds politely and respectfully to Daphne Castle despite her dismissiveness",
       "Warmth": 1,
       "Chunk": 76
     },
     {
-      "Action": "Tells Gladys to get on with her work, showing assertiveness and control over the situation.",
-      "Competence": 1,
+      "Action": "Reassures Race not to worry about Madame Castle and maintains calm",
+      "Warmth": 1,
       "Chunk": 76
     },
     {
-      "Action": "Dismisses Gladys as 'dense as dough' and claims to know the murderer, showing overconfidence and lack of insight into the investigation.",
-      "Competence": -1,
-      "Chunk": 76
-    },
-    {
-      "Action": "Admits she cannot stop to help Poirot and prioritizes watching Andrea cook, showing poor prioritization and distraction from the main issue.",
-      "Competence": -1,
-      "Chunk": 76
-    },
-    {
-      "Action": "Makes a light, somewhat teasing correction to Mrs Gardener about the type of toilet, smiling insouciantly.",
+      "Action": "Maintains focus on logical investigation despite others' impatience or skepticism",
       "Warmth": 0,
+      "Chunk": 76
+    },
+    {
+      "Action": "Responds clearly and politely to Race's questions, engaging thoughtfully.",
+      "Warmth": 1,
       "Chunk": 77
     },
     {
-      "Action": "Questions Mrs Gardener about the type of toilet used, showing attention to detail and willingness to engage in conversation.",
-      "Competence": 1,
+      "Action": "Leaves conversation courteously wishing to see Race at lunch, showing social attentiveness.",
+      "Warmth": 1,
       "Chunk": 77
     },
     {
-      "Action": "Smiles insouciantly after making a potentially pointed comment, indicating social confidence and control.",
-      "Competence": 1,
+      "Action": "Rises to his feet among guests possibly to speak or participate in social dining.",
+      "Warmth": 1,
       "Chunk": 77
     },
     {
-      "Action": "Makes a lighthearted comment about the Goose Pie and ants, showing a sense of humor and casualness.",
+      "Action": "Addresses the group politely to ask about their bathing, showing social tact and light humor about 'cleanliness is not next to truthfulness.'",
       "Warmth": 1,
-      "Chunk": 86
+      "Chunk": 78
     },
     {
-      "Action": "Supervises the unpacking of hampers, taking responsibility for the group’s meal arrangements.",
+      "Action": "Endures being lowered down a cliff in a bosun's chair despite obvious fear, showing vulnerability and trust in colleagues.",
       "Warmth": 1,
-      "Chunk": 86
+      "Chunk": 78
     },
     {
-      "Action": "Exchanges meaningful glances with Kenneth Marshall, indicating a friendly or close rapport.",
-      "Warmth": 1,
-      "Chunk": 86
-    },
-    {
-      "Action": "Supervises the unpacking of the hampers during the picnic.",
+      "Action": "Asks a pointed and logical question about who took a bath at midday to uncover a key detail in the murder mystery.",
       "Competence": 1,
-      "Chunk": 86
+      "Chunk": 78
     },
     {
-      "Action": "Makes a lighthearted comment about the food being ravished by ants, showing a casual attitude rather than concern.",
+      "Action": "Acknowledges the mystery of the missing bath logically and confidently resumes his investigation, demonstrating control over the situation.",
+      "Competence": 1,
+      "Chunk": 78
+    },
+    {
+      "Action": "Despite being strapped into a bosun's chair and suspended over a cliff, he endures the uncomfortable situation to pursue the investigation.",
+      "Competence": 1,
+      "Chunk": 78
+    },
+    {
+      "Action": "Shows almost fainting with terror when looking down from the cliff, revealing a moment of fear and vulnerability.",
+      "Competence": -1,
+      "Chunk": 78
+    },
+    {
+      "Action": "Expresses frustration with his mental state but recovers and studies the crime scene attentively and patiently with others.",
+      "Warmth": 1,
+      "Chunk": 79
+    },
+    {
+      "Action": "Recovers from physical disorientation and immediately refocuses attention on examining the crime scene carefully and thoughtfully, noting details like the wristwatch, bathing cap, and timing.",
+      "Competence": 1,
+      "Chunk": 79
+    },
+    {
+      "Action": "Comments that his 'little grey cells' have been paralysed rather than juiced, indicating momentary self-doubt or reduced mental acuity after a physical incident.",
+      "Competence": -1,
+      "Chunk": 79
+    },
+    {
+      "Action": "Sympathizes with Miss Brewster's inability to cope with the ladder",
+      "Warmth": 1,
+      "Chunk": 80
+    },
+    {
+      "Action": "Quietly observes the crime scene with great attention without emotional outburst",
+      "Warmth": 0,
+      "Chunk": 80
+    },
+    {
+      "Action": "Watches the reconstruction with great attention and walks thoughtfully examining the scene before taking further action.",
+      "Competence": 1,
+      "Chunk": 80
+    },
+    {
+      "Action": "Stops suddenly when noticing something specific and promptly calls for Colonel Race to examine the clue with him.",
+      "Competence": 1,
+      "Chunk": 80
+    },
+    {
+      "Action": "Sniffs the air delicately and identifies the scent poetically and accurately.",
+      "Competence": 1,
+      "Chunk": 80
+    },
+    {
+      "Action": "Engages cooperatively with Race in investigating the cache and shares thoughtful insights.",
+      "Warmth": 1,
+      "Chunk": 81
+    },
+    {
+      "Action": "Dismisses the idea of Mrs. Marshall being an addict firmly but respectfully, showing tolerance and kindness.",
+      "Warmth": 1,
+      "Chunk": 81
+    },
+    {
+      "Action": "Uses playful French expressions and gentle humor in conversation, indicating a friendly demeanor.",
+      "Warmth": 1,
+      "Chunk": 81
+    },
+    {
+      "Action": "Offers to take Patrick Redfern's place in the boat to spare him discomfort.",
+      "Warmth": 1,
+      "Chunk": 82
+    },
+    {
+      "Action": "Acknowledges others' kindness by calling Patrick 'too amiable'.",
+      "Warmth": 1,
+      "Chunk": 82
+    },
+    {
+      "Action": "Carefully organizes suspects' alibis and motives with precision, maintaining professionalism.",
+      "Warmth": 0,
+      "Chunk": 83
+    },
+    {
+      "Action": "Acknowledges complexity of the case without dismissing others' confusion, offers to explain by walking with Race.",
+      "Warmth": 1,
+      "Chunk": 83
+    },
+    {
+      "Action": "Systematically places suspects’ markers on the timeline and cross-checks alibis thoroughly, showing methodical and detailed analysis.",
+      "Competence": 1,
+      "Chunk": 83
+    },
+    {
+      "Action": "Identifies that almost everyone has a motive and notes nervousness of one suspect, indicating keen perception and insight.",
+      "Competence": 1,
+      "Chunk": 83
+    },
+    {
+      "Action": "Admits the crime is very slick and possibly not the first attempt, indicating cautious and realistic assessment of the criminal’s skill.",
+      "Competence": 1,
+      "Chunk": 83
+    },
+    {
+      "Action": "Admits to making a possible mistake in a previous investigation, looks crestfallen.",
+      "Warmth": 1,
+      "Chunk": 84
+    },
+    {
+      "Action": "Responds frostily to Race's teasing, implying frustration.",
+      "Warmth": -1,
+      "Chunk": 84
+    },
+    {
+      "Action": "Is mollified by Race's apology and graciously consents to explain further.",
+      "Warmth": 1,
+      "Chunk": 84
+    },
+    {
+      "Action": "Admits to having made a mistake in a previous investigation and reflects thoughtfully on it.",
+      "Competence": 1,
+      "Chunk": 84
+    },
+    {
+      "Action": "Shows confidence and assertiveness in explaining the importance of inquiry and investigation to Race.",
+      "Competence": 1,
+      "Chunk": 84
+    },
+    {
+      "Action": "Appears crestfallen and self-critical about his past error, showing some vulnerability.",
       "Competence": 0,
+      "Chunk": 84
+    },
+    {
+      "Action": "Calms Race by telling him 'Do not distress yourself' and proposes to amuse themselves while waiting",
+      "Warmth": 1,
+      "Chunk": 85
+    },
+    {
+      "Action": "Organizes a large picnic for the guests and servants to enjoy together",
+      "Warmth": 1,
+      "Chunk": 85
+    },
+    {
+      "Action": "Commands others with a tone of authority and focus on the case details without showing personal warmth",
+      "Warmth": 0,
+      "Chunk": 85
+    },
+    {
+      "Action": "Systematically requests detailed information relevant to the case (photos of witnesses, financial report), showing methodical and strategic thinking.",
+      "Competence": 1,
+      "Chunk": 85
+    },
+    {
+      "Action": "Displays calm confidence despite delays in obtaining information, reassures colleague Race not to be distressed.",
+      "Competence": 1,
+      "Chunk": 85
+    },
+    {
+      "Action": "Transitions from investigative work to organizing a picnic to amuse while waiting, showing ability to manage morale and maintain composure.",
+      "Competence": 1,
+      "Chunk": 85
+    },
+    {
+      "Action": "Invites guests to a pleasant outdoor lunch spot with enthusiasm.",
+      "Warmth": 1,
       "Chunk": 86
     },
     {
-      "Action": "No direct actions or statements by Daphne Castle in the excerpt to evaluate competence.",
+      "Action": "Engages Christine Redfern by calling her over to admire unusual flowers.",
+      "Warmth": 1,
+      "Chunk": 86
+    },
+    {
+      "Action": "Carefully surveys the venue and expresses satisfaction with the arrangement.",
+      "Competence": 1,
+      "Chunk": 86
+    },
+    {
+      "Action": "Notices and calls attention to the large spread of toxic Datura flowers, indicating attention to detail and awareness of danger.",
+      "Competence": 1,
+      "Chunk": 86
+    },
+    {
+      "Action": "Jokes about deadly flowers to Christine Redfern in a lighthearted way.",
+      "Warmth": 1,
+      "Chunk": 87
+    },
+    {
+      "Action": "Explains poisonous plants in detail to others in an educational and calm manner.",
+      "Warmth": 1,
+      "Chunk": 87
+    },
+    {
+      "Action": "Acknowledges need for solitude and refers to his moments of misanthropy openly.",
+      "Warmth": 0,
+      "Chunk": 87
+    },
+    {
+      "Action": "Engages in friendly conversation about a picnic and shares appreciation for the food.",
+      "Warmth": 1,
+      "Chunk": 87
+    },
+    {
+      "Action": "Takes interest in the investigation calmly and asks for updates from Race.",
+      "Warmth": 1,
+      "Chunk": 87
+    },
+    {
+      "Action": "Identifies the poisonous flower correctly and explains its lethal effect clearly and confidently.",
+      "Competence": 1,
+      "Chunk": 87
+    },
+    {
+      "Action": "Demonstrates thoughtful reflection by walking alone in Keelhaul Caves to repose his mind and stimulate his 'little grey cells'.",
+      "Competence": 1,
+      "Chunk": 87
+    },
+    {
+      "Action": "Maintains focus on the investigation by linking the financial information to the blackmail story and showing interest in the upcoming photographs.",
+      "Competence": 1,
+      "Chunk": 87
+    },
+    {
+      "Action": "Smiles disarmingly while giving a clue, speaks politely to Mr Blatt despite his capture.",
+      "Warmth": 1,
+      "Chunk": 88
+    },
+    {
+      "Action": "Detains Mr Blatt with some irony and sarcasm (e.g. 'It gives you a good motive for murdering Madame Marshall'), showing a somewhat teasing attitude.",
+      "Warmth": 0,
+      "Chunk": 88
+    },
+    {
+      "Action": "Confidently states he knows who the culprit is but waits for proof before revealing it.",
+      "Competence": 1,
+      "Chunk": 88
+    },
+    {
+      "Action": "Uses a tactical surprise by catching Mr. Blatt in the act at the cave, showing careful planning and good investigative skill.",
+      "Competence": 1,
+      "Chunk": 88
+    },
+    {
+      "Action": "Uses psychological insight, suggesting the murderer is the most likely person rather than the least likely, demonstrating clever reasoning.",
+      "Competence": 1,
+      "Chunk": 88
+    },
+    {
+      "Action": "Calmly advises holding the suspect until evidence is clear, avoiding rash judgment.",
+      "Warmth": 1,
+      "Chunk": 89
+    },
+    {
+      "Action": "Politely asks to be rowed back with stateliness, showing courteous behavior.",
+      "Warmth": 1,
+      "Chunk": 89
+    },
+    {
+      "Action": "Maintains composure and respect when addressing the guests, giving a small bow.",
+      "Warmth": 1,
+      "Chunk": 89
+    },
+    {
+      "Action": "Decides to hold a suspect (Mr Blatt) to gather more information and delay immediate judgment, showing methodical caution.",
+      "Competence": 1,
+      "Chunk": 89
+    },
+    {
+      "Action": "Acknowledges his own fatigue, demonstrating self-awareness and good judgment about his limits.",
+      "Competence": 1,
+      "Chunk": 89
+    },
+    {
+      "Action": "Calmly commands to be rowed back to the hotel with stateliness, showing confidence and composed demeanor.",
+      "Competence": 1,
+      "Chunk": 89
+    },
+    {
+      "Action": "Gathers all suspects in a structured setting to reveal his theory about the murderer, demonstrating leadership and control over the investigation.",
+      "Competence": 1,
+      "Chunk": 89
+    },
+    {
+      "Action": "Acknowledges and appreciates the assistance of colleague Colonel Race in the investigation.",
+      "Warmth": 1,
+      "Chunk": 90
+    },
+    {
+      "Action": "Politely requests permission from listeners before presenting his solution.",
+      "Warmth": 1,
+      "Chunk": 90
+    },
+    {
+      "Action": "Maintains focus on objective facts and logical reconstruction without displaying empathy or emotional engagement in this excerpt.",
+      "Warmth": 0,
+      "Chunk": 90
+    },
+    {
+      "Action": "Clearly explains his deductive theory to the gathered group despite it still being a theory, showing confidence and clarity.",
+      "Competence": 1,
+      "Chunk": 90
+    },
+    {
+      "Action": "Uses a detailed reconstruction of crime scene events, demonstrating methodical investigative skill and attention to detail.",
+      "Competence": 1,
+      "Chunk": 90
+    },
+    {
+      "Action": "Questions the incongruity of the victim lying in the shade despite a hat shielding her face from a non-existent sun, indicating perceptive insight.",
+      "Competence": 1,
+      "Chunk": 90
+    },
+    {
+      "Action": "Relies partially on upcoming proofs from a colleague rather than having all proof currently, showing some dependence rather than outright self-sufficiency.",
+      "Competence": 0,
+      "Chunk": 90
+    },
+    {
+      "Action": "Directly accuses Patrick Redfern of murder in a firm and confrontational manner.",
+      "Warmth": -1,
+      "Chunk": 91
+    },
+    {
+      "Action": "Confidently exposes Patrick Redfern by logically eliminating his and his wife's opportunity and building a motive, demonstrating clear understanding of the case and psychological insight.",
+      "Competence": 1,
+      "Chunk": 91
+    },
+    {
+      "Action": "Uses a model of the island to pinpoint locations and alibis, showing methodical and precise reasoning.",
+      "Competence": 1,
+      "Chunk": 91
+    },
+    {
+      "Action": "Firmly confronts the suspects with logic but remains polite and avoids insult.",
+      "Warmth": 1,
+      "Chunk": 92
+    },
+    {
+      "Action": "Uses precise and calm language even when accused and challenged.",
+      "Warmth": 1,
+      "Chunk": 92
+    },
+    {
+      "Action": "Emphasizes understanding the character of the victim and suspects to solve the case.",
+      "Warmth": 1,
+      "Chunk": 92
+    },
+    {
+      "Action": "Exposes deception and accuses the suspects clearly, unflinchingly but without cruelty.",
+      "Warmth": 0,
+      "Chunk": 92
+    },
+    {
+      "Action": "Clearly explains the method of the crime and confidently accuses the suspect with logical reasoning.",
+      "Competence": 1,
+      "Chunk": 92
+    },
+    {
+      "Action": "Demonstrates insight into victim's character and motives, identifying key psychological elements influencing the crime.",
+      "Competence": 1,
+      "Chunk": 92
+    },
+    {
+      "Action": "Maintains composure under suspects' hostility and challenges, continuing to present his case calmly and rationally.",
+      "Competence": 1,
+      "Chunk": 92
+    },
+    {
+      "Action": "Calmly presents logical reasoning to Patrick Redfern without losing composure or personal insult",
+      "Warmth": 1,
+      "Chunk": 93
+    },
+    {
+      "Action": "Exposes deceit and motivations of suspects clearly and fairly",
+      "Warmth": 1,
+      "Chunk": 93
+    },
+    {
+      "Action": "Uses a somewhat condescending tone when addressing Patrick's challenge ('d'you mind telling me why on earth I should kill her')",
+      "Warmth": 0,
+      "Chunk": 93
+    },
+    {
+      "Action": "Does not show overt hostility or aggression even during tense confrontations",
+      "Warmth": 1,
+      "Chunk": 93
+    },
+    {
+      "Action": "Confidently accuses Patrick Redfern of swindling Arlena Marshall out of money with calculated reasoning and knowledge of the situation.",
+      "Competence": 1,
+      "Chunk": 93
+    },
+    {
+      "Action": "Explains the motive behind the murder logically, connecting the financial motive to the need to silence Arlena before her husband asks questions.",
+      "Competence": 1,
+      "Chunk": 93
+    },
+    {
+      "Action": "Remains calm and composed when Patrick challenges him, showing confidence and control over the situation.",
+      "Competence": 1,
+      "Chunk": 93
+    },
+    {
+      "Action": "Observes and interprets the carefully rehearsed acts of the Redferns, indicating keen insight and skill at reading human behavior.",
+      "Competence": 1,
+      "Chunk": 93
+    },
+    {
+      "Action": "Comforts Christine Redfern when she is crying on his shoulder in the Arbour.",
+      "Warmth": 1,
+      "Chunk": 94
+    },
+    {
+      "Action": "Mocks Arlena Marshall's and Patrick Redfern’s romance in a somewhat sarcastic manner.",
+      "Warmth": -1,
+      "Chunk": 94
+    },
+    {
+      "Action": "Determines to expose a lie by arranging a picnic to observe and test Christine Redfern.",
+      "Warmth": 0,
+      "Chunk": 94
+    },
+    {
+      "Action": "Calmly confronts Christine Redfern about her dishonesty and insists on patience to explain, demonstrating control and tact.",
+      "Warmth": 1,
+      "Chunk": 95
+    },
+    {
+      "Action": "Accuses Christine Redfern of lying and exposes her without much apparent sympathy.",
+      "Warmth": -1,
+      "Chunk": 95
+    },
+    {
+      "Action": "Observes subtle behavioral inconsistencies (such as crossing the bridge without difficulty despite claimed fear), calls out lies confidently, explains reasoning calmly to others.",
+      "Competence": 1,
+      "Chunk": 95
+    },
+    {
+      "Action": "Displays patience and methodical explanation of complex events step-by-step, demonstrating thorough understanding and control of situation.",
+      "Competence": 1,
+      "Chunk": 95
+    },
+    {
+      "Action": "Carefully instructs Arlena Marshall about what to do if danger appears while waiting, showing foresight and attention to detail.",
+      "Competence": 1,
+      "Chunk": 96
+    },
+    {
+      "Action": "Narrates the sequence of events clearly and logically, demonstrating strong understanding of the unfolding plot and evidence.",
+      "Competence": 1,
+      "Chunk": 96
+    },
+    {
+      "Action": "Does not intervene directly or prevent suspicious actions by Patrick and Christine Redfern in this excerpt, showing possible restraint or calculated patience rather than incompetence.",
       "Competence": 0,
       "Chunk": 96
     },
     {
-      "Action": "No direct action or statement in the excerpt; remains passive and unmentioned during key investigative moments.",
-      "Competence": 0,
+      "Action": "Observes and reconstructs the sequence of events leading to the crime with careful attention to detail and timing, demonstrating methodical and logical reasoning.",
+      "Competence": 1,
+      "Chunk": 97
+    },
+    {
+      "Action": "Narrates multiple flashbacks and cross-references different scenes to clarify facts, showing his skill at piecing together complex evidence.",
+      "Competence": 1,
+      "Chunk": 97
+    },
+    {
+      "Action": "Approaches the mystery confidently and objectively without speculation, relying on observable facts.",
+      "Competence": 1,
+      "Chunk": 97
+    },
+    {
+      "Action": "Explains in detail the reasoning behind Christine Redfern's actions to protect Linda Marshall, demonstrating careful observation and concern for truth and justice.",
+      "Warmth": 1,
+      "Chunk": 98
+    },
+    {
+      "Action": "Observes and deduces minute details such as the manipulation of the watch hands and the timing of the chapel bell to reveal a deception.",
+      "Competence": 1,
+      "Chunk": 98
+    },
+    {
+      "Action": "Maintains clear, logical narration explaining complex timing and environmental factors affecting the investigation.",
+      "Competence": 1,
+      "Chunk": 98
+    },
+    {
+      "Action": "Accurately reconstructs Christine Redfern's movements and timing with detailed observations and logical deductions.",
+      "Competence": 1,
+      "Chunk": 99
+    },
+    {
+      "Action": "Narrates complex details in a clear, confident manner that demonstrates his skill in analysis.",
+      "Competence": 1,
+      "Chunk": 99
+    },
+    {
+      "Action": "Calmly explains to Mademoiselle Brewster the impersonal nature of dead bodies to help her understand the situation, showing patience and a desire to clarify without harshness.",
+      "Warmth": 1,
+      "Chunk": 100
+    },
+    {
+      "Action": "Detaches emotionally by referring to bodies as 'rows of butchers’ meat', indicating a clinical approach that could come across as insensitive or lacking warmth.",
+      "Warmth": -1,
+      "Chunk": 100
+    },
+    {
+      "Action": "Analyzes the situation calmly and logically from multiple perspectives, explaining why the initial observers could be fooled by appearances.",
+      "Competence": 1,
+      "Chunk": 100
+    },
+    {
+      "Action": "Demonstrates clear understanding of the importance of details such as the concealment of the face and identifies the reason behind it, showing insight into the murderer’s method.",
+      "Competence": 1,
+      "Chunk": 100
+    },
+    {
+      "Action": "Uses persuasive and confident language to explain his deductions to others, asserting control over the investigation.",
+      "Competence": 1,
+      "Chunk": 100
+    },
+    {
+      "Action": "Observes and analyses the situation with calm detachment, trusting others to carry out risky actions while he watches and interprets,",
+      "Warmth": 0,
+      "Chunk": 101
+    },
+    {
+      "Action": "Observes and narrates the suspects' actions with precise detail and insight, noting subtle clues such as discarded scissors and a broken pipe stem indicating an attempt to frame someone else.",
+      "Competence": 1,
+      "Chunk": 101
+    },
+    {
+      "Action": "Displays confidence in understanding the timing of the murder and the psychology behind the suspects' behaviors, demonstrating intellectual skill.",
+      "Competence": 1,
+      "Chunk": 101
+    },
+    {
+      "Action": "Carefully traces the course on the model while observing the timeline of Christine Redfern's movements.",
+      "Competence": 1,
+      "Chunk": 102
+    },
+    {
+      "Action": "Narrates and pieces together the timeline methodically and calmly despite complexity of events.",
+      "Competence": 1,
+      "Chunk": 102
+    },
+    {
+      "Action": "Observes and analyzes the situation with calm detachment and attention to detail, without displaying overt emotional involvement or judgment.",
+      "Warmth": 0,
+      "Chunk": 103
+    },
+    {
+      "Action": "Notices the subtle detail of the perfume scent left in the cave, linking it to Arlena, demonstrating his keen observation skills.",
+      "Competence": 1,
+      "Chunk": 103
+    },
+    {
+      "Action": "Thinks through the timeline and behavior of Patrick Redfern carefully, implying awareness of the murderer's attempt to stage the scene.",
+      "Competence": 1,
+      "Chunk": 103
+    },
+    {
+      "Action": "Arranges the body of Arlena Marshall respectfully to await the police.",
+      "Warmth": 1,
       "Chunk": 104
     },
     {
-      "Action": "Brings a specially prepared dish to Poirot to tempt an invalid, shows concern for his wellbeing.",
-      "Warmth": 1,
-      "Chunk": 107
+      "Action": "Delivers his accusation with theatrical bow expecting applause.",
+      "Warmth": -1,
+      "Chunk": 104
     },
     {
-      "Action": "Jokes lightly with Poirot about English food and amphibians, tries to reassure him.",
-      "Warmth": 1,
-      "Chunk": 107
+      "Action": "Smiles happily at the photographic evidence implicating the Redferns.",
+      "Warmth": -1,
+      "Chunk": 104
     },
     {
-      "Action": "Tucks Poirot's napkin into his scarf and cuts up the food carefully for him.",
-      "Warmth": 1,
-      "Chunk": 107
+      "Action": "Remains physically composed and unconscious after being attacked and nearly strangled by Patrick Redfern.",
+      "Competence": 0,
+      "Chunk": 105
     },
     {
-      "Action": "Brings a specially prepared dish to Poirot to care for him, shows attentiveness and consideration.",
+      "Action": "Holds the proof that implicates Patrick and Christine Redfern, confidently presenting it.",
+      "Competence": 1,
+      "Chunk": 105
+    },
+    {
+      "Action": "Smiles gratefully when someone laughs at his joke.",
+      "Warmth": 1,
+      "Chunk": 106
+    },
+    {
+      "Action": "Comically exaggerates his own peril but accepts words of praise graciously.",
+      "Warmth": 1,
+      "Chunk": 106
+    },
+    {
+      "Action": "Shows self-pity ('looks very sorry for himself') but allows a friend to sit solicitously nearby.",
+      "Warmth": 0,
+      "Chunk": 106
+    },
+    {
+      "Action": "Sits with Race and shares a light moment laughing, showing social ease and confidence despite being unwell.",
       "Competence": 1,
       "Chunk": 107
     },
     {
-      "Action": "Insists Poirot eat despite his clear discomfort and inability to swallow, showing some lack of sensitivity to his condition.",
-      "Competence": -1,
+      "Action": "Expresses clear and confident opinion about the dish 'Toad in the Hole' based on his tastes and condition, indicating self-awareness and assertiveness.",
+      "Competence": 1,
       "Chunk": 107
     },
     {
-      "Action": "Confidently asserts the correct culprit before Poirot, showing insight and decisiveness.",
+      "Action": "Indicates his inability to eat due to a sore throat, openly communicating his limitation.",
+      "Competence": 1,
+      "Chunk": 107
+    },
+    {
+      "Action": "Does not argue or create fuss when Daphne insists on feeding him despite his protest, showing restraint and control over the social situation.",
+      "Competence": 1,
+      "Chunk": 107
+    },
+    {
+      "Action": "Embraces Colonel Race on both cheeks with loud smacking kisses, despite Race's embarrassment",
+      "Warmth": 1,
+      "Chunk": 108
+    },
+    {
+      "Action": "Ignores Colonel Race's outstretched hand, choosing a more intimate greeting",
+      "Warmth": 0,
+      "Chunk": 108
+    },
+    {
+      "Action": "Shows confidence and familiarity by greeting Colonel Race with affectionate cheek kisses instead of a handshake, causing a strong, playful reaction but maintaining composure with a broad smile.",
       "Competence": 1,
       "Chunk": 108
+    },
+    {
+      "Action": "Is caught off guard by Daphne Castle's accusation and appears astonished and outraged, momentarily losing his usual composure.",
+      "Competence": -1,
+      "Chunk": 108
+    }
+  ],
+  "Hercule Poirot ": [
+    {
+      "Action": "Engages politely with Mr Blatt at the swimming pool bar, answering questions with courtesy and a touch of humor.",
+      "Warmth": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Displays no visible impatience or rudeness despite Mr Blatt's blunt and slightly provocative remarks.",
+      "Warmth": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Offers his bandana to the grieving Christine Redfern, who accepts it gratefully.",
+      "Warmth": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Bows courteously and leaves Christine alone when she requests privacy.",
+      "Warmth": 1,
+      "Chunk": 25
+    },
+    {
+      "Action": "Hurries away embarrassed upon overhearing lovers embrace.",
+      "Warmth": 0,
+      "Chunk": 25
+    },
+    {
+      "Action": "Engages in lighthearted banter with Miss Brewster, responding with a modest joke about miracles and his own intellect.",
+      "Warmth": 1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Shrugs elaborately when asked about Mrs Marshall's whereabouts, showing no concern or attempt to inform others.",
+      "Warmth": 0,
+      "Chunk": 31
+    },
+    {
+      "Action": "Confidently expected to solve the murder quickly as intimated by Daphne Castle's trust in his skills.",
+      "Competence": 1,
+      "Chunk": 36
+    },
+    {
+      "Action": "Involved in a serious and complex murder investigation alongside reliable allies like Colonel Race, indicating his role as a capable and trusted detective.",
+      "Competence": 1,
+      "Chunk": 36
+    },
+    {
+      "Action": "Considers and vocalizes multiple plausible motives and suspects, demonstrating thoroughness and logical reasoning.",
+      "Competence": 1,
+      "Chunk": 49
+    },
+    {
+      "Action": "Uses irony and humor (offering himself as alibi) to unsettle the suspect and elicit reactions.",
+      "Competence": 1,
+      "Chunk": 49
+    },
+    {
+      "Action": "Admits uncertainty by saying 'For the moment yes...', indicating awareness of the limits of current knowledge and readiness to gather more information.",
+      "Competence": 1,
+      "Chunk": 49
+    },
+    {
+      "Action": "Uses the detailed scale model to organize and plan the investigation by requesting to mark the locations of hotel guests, showing strategic thinking and methodical approach.",
+      "Competence": 1,
+      "Chunk": 67
+    },
+    {
+      "Action": "Compliments Race on his mental arithmetic, demonstrating his awareness and encouragement of others’ contributions while focusing himself on planning.",
+      "Competence": 1,
+      "Chunk": 67
+    },
+    {
+      "Action": "Systematically questions witnesses to gather detailed information about the crime scene and suspects.",
+      "Competence": 1,
+      "Chunk": 73
+    },
+    {
+      "Action": "Shows skepticism toward superficial explanations, insisting on confirming facts before accepting assumptions.",
+      "Competence": 1,
+      "Chunk": 73
+    },
+    {
+      "Action": "Responds calmly and quizzically to incongruent witness behavior (e.g. Mr Blatt's laughter), demonstrating observational skill.",
+      "Competence": 1,
+      "Chunk": 73
+    },
+    {
+      "Action": "Observes the unusual timing of a bath at a little after twelve o'clock and correlates it with the guests present, demonstrating attention to detail and logical inference.",
+      "Competence": 1,
+      "Chunk": 77
+    },
+    {
+      "Action": "Responds confidently and succinctly with 'Exactement' when Race suggests only someone wishing to disassociate from a bottle would throw it into the sea, showing assured understanding.",
+      "Competence": 1,
+      "Chunk": 77
+    },
+    {
+      "Action": "Leaves to change for dinner in a timely and composed manner, maintaining decorum and situational awareness.",
+      "Competence": 1,
+      "Chunk": 77
     }
   ]
 }

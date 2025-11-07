@@ -1,232 +1,222 @@
 {
-  "Monty Brogan": [
+  "Montgomery Brogan": [
     {
-      "Action": "Considers shooting the injured dog left to die on the highway.",
-      "Warmth": -1,
-      "Chunk": 1
-    },
-    {
-      "Action": "Acknowledges the dog's suffering and the cruelty of those who abandoned it.",
+      "Action": "Stops the car to check on a stranded dog left to die on the highway.",
       "Warmth": 1,
       "Chunk": 1
     },
     {
-      "Action": "Pulls the car onto the shoulder and backs up carefully to investigate the dog.",
+      "Action": "Considers shooting the dog but rethinks after Kostya objects.",
+      "Warmth": 0,
+      "Chunk": 1
+    },
+    {
+      "Action": "Recognizes the dog as a pit bull and comments insightfully about its likely reason for being abandoned (lost money).",
       "Competence": 1,
       "Chunk": 1
     },
     {
-      "Action": "Considers shooting the dog impulsively.",
+      "Action": "Considers shooting the dog impulsively without much reflection, which Kostya criticizes.",
       "Competence": -1,
       "Chunk": 1
     },
     {
-      "Action": "Inspects the badly abused dog and decides to help it despite the dog's aggression and poor condition.",
+      "Action": "Inspects and shows concern for a badly abused dog despite its aggression, decides to help it by taking it to a vet emergency room.",
       "Warmth": 1,
       "Chunk": 2
     },
     {
-      "Action": "Refuses to ignore the dog's suffering and insists on taking it to a vet emergency room.",
+      "Action": "Refuses to be deterred by warnings from Kostya and insists on helping the injured dog, showing empathy and care.",
       "Warmth": 1,
       "Chunk": 2
     },
     {
-      "Action": "Inspects the injured dog carefully and decides to help it despite the risk of being bitten.",
-      "Competence": 1,
+      "Action": "Uses profanity in expressing anger about the dog's abuse.",
+      "Warmth": 0,
       "Chunk": 2
     },
     {
-      "Action": "Underestimates the danger posed by the aggressive dog, almost getting bitten in the face.",
-      "Competence": -1,
-      "Chunk": 2
-    },
-    {
-      "Action": "Shows empathy and determination by choosing to take the dog to a vet emergency room, demonstrating problem-solving and care.",
-      "Competence": 1,
-      "Chunk": 2
-    },
-    {
-      "Action": "Ignores Kostya's warnings about the dog, potentially risking his own safety.",
-      "Competence": -1,
-      "Chunk": 2
-    },
-    {
-      "Action": "Attempts to save the dog from death despite the risk of being bitten.",
+      "Action": "Risked personal injury by wrestling a dangerous dog to protect it from suffering or death.",
       "Warmth": 1,
       "Chunk": 3
     },
     {
-      "Action": "Hurls the dog into the trunk after being bitten, showing practical but harsh handling.",
+      "Action": "Demonstrates a somewhat playful or dismissive attitude toward his own injury by grinning and downplaying the bleeding.",
       "Warmth": 0,
       "Chunk": 3
     },
     {
-      "Action": "Grins and jokes about his quickness despite bleeding from a dog bite, showing a lighthearted and resilient attitude.",
-      "Warmth": 1,
-      "Chunk": 3
-    },
-    {
-      "Action": "Carefully plans and executes a risky maneuver to capture a dangerous dog by distracting it and physically restraining it despite being bitten.",
+      "Action": "Throws a blanket over a dangerous dog, physically restrains it, and successfully puts it in the trunk despite being bitten.",
       "Competence": 1,
       "Chunk": 3
     },
     {
-      "Action": "Fails to notice he is bleeding from a dog bite, showing a lack of awareness about his own physical state.",
+      "Action": "Fails to notice he is bleeding from a bite wound on his neck.",
       "Competence": -1,
       "Chunk": 3
     },
     {
-      "Action": "Laughs despite bleeding and injury, showing a lighthearted attitude.",
+      "Action": "Displays calmness under pressure, quickly takes action to control a dangerous situation with the dog.",
+      "Competence": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Laughs lightly despite bleeding and acknowledges dog’s injury optimistically (says it'll be stitched at the vet)",
       "Warmth": 1,
       "Chunk": 4
     },
     {
-      "Action": "Tugs on his dog's leash to quiet the aggressive dog, showing care and control.",
+      "Action": "Controls his dog to prevent aggression toward others (pulls leash to quiet Doyle)",
       "Warmth": 1,
       "Chunk": 4
     },
     {
-      "Action": "Nods silently to greeting from young men but does not engage in conversation.",
+      "Action": "Responds to greeting from young men with a nod and silence, does not engage in friendly conversation",
       "Warmth": 0,
       "Chunk": 4
     },
     {
-      "Action": "Dismisses the seriousness of his bleeding wound by joking about getting it stitched at the vet's.",
-      "Competence": -1,
-      "Chunk": 4
-    },
-    {
-      "Action": "Correctly identifies 'Murphy's law' and gently corrects Kostya's mistake.",
-      "Competence": 1,
-      "Chunk": 4
-    },
-    {
-      "Action": "Calmly controls his dog when confronted by two tough young men and their dog.",
-      "Competence": 1,
-      "Chunk": 4
-    },
-    {
-      "Action": "Tells Simon to go away and refuses to help despite Simon's visible distress and hunger.",
-      "Warmth": -1,
-      "Chunk": 5
-    },
-    {
-      "Action": "Maintains distance and shows anger when Simon offers money, rejecting assistance.",
-      "Warmth": -1,
-      "Chunk": 5
-    },
-    {
-      "Action": "Firmly tells Simon to go away and refuses to engage despite Simon's persistence and attempts to bribe him.",
-      "Competence": 1,
-      "Chunk": 5
-    },
-    {
-      "Action": "Maintains control over his dog Doyle, preventing escalation despite Simon's provocations.",
-      "Competence": 1,
-      "Chunk": 5
-    },
-    {
-      "Action": "Avoids confrontation by not escalating the situation physically or verbally beyond necessary.",
-      "Competence": 1,
-      "Chunk": 5
-    },
-    {
-      "Action": "Does not offer help or assistance to Simon despite Simon's visible distress and pleas.",
-      "Competence": 0,
-      "Chunk": 5
-    },
-    {
-      "Action": "Tells Simon firmly to leave him alone and that he is out of business, showing a desire to avoid conflict.",
+      "Action": "Frowns correcting Kostya about Murphy’s law, showing mild impatience or correction",
       "Warmth": 0,
-      "Chunk": 6
+      "Chunk": 4
     },
     {
-      "Action": "Watches teens play basketball disdainfully and spits after a missed lay-up, indicating impatience and critical attitude.",
+      "Action": "Laughs off a serious injury and refers optimistically to a vet stitching him up.",
+      "Competence": -1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Corrects Kostya's misunderstanding about Murphy's law, showing clear knowledge.",
+      "Competence": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Maintains calm behavior when confronted by tough young men with aggressive dogs, pulling leash to calm his dog.",
+      "Competence": 1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Tells Simon to go away and refuses to help despite Simon's evident hunger and difficult situation.",
+      "Warmth": -1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Stands very close to Simon in a confrontational manner, reinforcing his refusal and desire to be left alone.",
+      "Warmth": -1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Tells Simon firmly to go away and refuses the money offered.",
+      "Competence": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Avoids confrontation by not engaging further despite Simon's persistence.",
+      "Competence": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Finally stands and approaches Simon to assert boundaries clearly.",
+      "Competence": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Tells Simon firmly to leave him alone and that he's out of the business, showing no patience for Simon's persistence.",
       "Warmth": -1,
       "Chunk": 6
     },
     {
-      "Action": "Smiles at an old photograph of himself and his basketball team, showing a moment of warmth and nostalgia.",
+      "Action": "Shakes his head disdainfully watching teens play basketball, indicating cynicism and possibly lack of encouragement or tolerance.",
+      "Warmth": -1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Smiles warmly when looking at an old photograph of his high school basketball team from his youth.",
       "Warmth": 1,
       "Chunk": 6
     },
     {
-      "Action": "Firmly tells Simon he is out of business and refuses to engage further.",
+      "Action": "Tells Simon firmly that he is out of business and wants to be left alone, showing clear boundaries and conviction.",
       "Competence": 1,
       "Chunk": 6
     },
     {
-      "Action": "Watches teens play basketball disdainfully and critiques their lack of skill.",
+      "Action": "Leaves the encounter with Simon after asserting himself, avoiding escalation or conflict.",
+      "Competence": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Observes and judges teens playing basketball disdainfully and accurately identifies a player's weak side.",
+      "Competence": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Watches the passing tenth grade girls and notices their behavior, showing awareness of surroundings.",
       "Competence": 0,
       "Chunk": 6
     },
     {
-      "Action": "Walks confidently through the school corridor with his dog, aware of others' attention.",
-      "Competence": 1,
-      "Chunk": 6
-    },
-    {
-      "Action": "Pauses to look at an old photograph of himself on the basketball team, reflecting on past.",
+      "Action": "Walks calmly through the school corridor with his dog, seemingly comfortable with the attention, showing composure.",
       "Competence": 0,
       "Chunk": 6
     },
     {
-      "Action": "Smiles politely at the administrator and engages in light, friendly conversation about his past.",
-      "Warmth": 1,
-      "Chunk": 7
-    },
-    {
-      "Action": "Shows nostalgia and openness by sharing personal memories about his high school basketball days.",
-      "Warmth": 1,
-      "Chunk": 7
-    },
-    {
-      "Action": "Does not argue or show hostility when asked to remove his dog despite his attachment to the place.",
-      "Warmth": 1,
-      "Chunk": 7
-    },
-    {
-      "Action": "Engages in a casual conversation with the administrator, recalls past achievements accurately, and confirms information before moving on.",
-      "Competence": 1,
-      "Chunk": 7
-    },
-    {
-      "Action": "Appears lost in a reverie and initially unresponsive to the administrator's question.",
-      "Competence": -1,
-      "Chunk": 7
-    },
-    {
-      "Action": "Calms down Doyle immediately and speaks kindly about the dog's affection for Jakob.",
-      "Warmth": 1,
-      "Chunk": 9
-    },
-    {
-      "Action": "Engages with Jakob's class in a friendly manner, apologizes for interrupting, and invites Jakob to a goodbye party.",
-      "Warmth": 1,
-      "Chunk": 9
-    },
-    {
-      "Action": "Leans closer to Jakob and whispers a playful comment about someone checking him out.",
-      "Warmth": 1,
-      "Chunk": 9
-    },
-    {
-      "Action": "Calms down an excited dog quickly and effectively, showing control and awareness.",
-      "Competence": 1,
-      "Chunk": 9
-    },
-    {
-      "Action": "Engages with Jakob and the class confidently, taking charge of the situation and redirecting plans smoothly.",
-      "Competence": 1,
-      "Chunk": 9
-    },
-    {
-      "Action": "Interrupts a class and causes some awkwardness for Jakob, who feels flustered and watched.",
+      "Action": "Stops to examine a photograph from his past and smiles reminiscing, revealing personal reflection but no direct indication of competence.",
       "Competence": 0,
+      "Chunk": 6
+    },
+    {
+      "Action": "Smiles and reminisces sincerely about his past to the administrator, showing a friendly and open demeanor.",
+      "Warmth": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Engages politely with the administrator despite being asked to remove the dog, showing tolerance and respect.",
+      "Warmth": 1,
+      "Chunk": 7
+    },
+    {
+      "Action": "Calms down Doyle, showing gentle control and care towards the dog.",
+      "Warmth": 1,
       "Chunk": 9
     },
     {
-      "Action": "Leads Doyle away confidently and gives clear instructions to Jakob about meeting Frank after midnight.",
+      "Action": "Reassures Jakob about Doyle’s affection, showing empathy and attempts to ease Jakob’s nervousness.",
+      "Warmth": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Engages with Jakob's class in a friendly manner, initiating a light social interaction.",
+      "Warmth": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Invites Jakob and Frank to a goodbye party, showing inclusiveness and social warmth.",
+      "Warmth": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Calms down a chaotic situation with Doyle quickly and effectively, demonstrating control and emotional intelligence.",
+      "Competence": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Engages with Jakob and the class confidently, initiating communication and managing the social dynamics smoothly.",
+      "Competence": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Invites Jakob and Frank to a goodbye party and arranges plans confidently, showing leadership and initiative.",
+      "Competence": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Leans close to whisper a personal observation about someone 'checking me out', indicating social awareness and confidence.",
+      "Competence": 1,
+      "Chunk": 9
+    },
+    {
+      "Action": "Nods affirmatively and makes plans to meet up with Frank after midnight, indicating decisiveness and control over his schedule.",
       "Competence": 1,
       "Chunk": 10
     },
@@ -236,678 +226,618 @@
       "Chunk": 15
     },
     {
-      "Action": "Abruptly ends the kiss and climbs the stairs without further interaction.",
+      "Action": "Abruptly ends the kiss and leaves without explanation.",
       "Warmth": -1,
       "Chunk": 15
     },
     {
-      "Action": "Abruptly ends a kiss with Naturelle and climbs the stairs without further interaction.",
+      "Action": "Kisses Naturelle briefly but abruptly ends the kiss and climbs the stairs without further interaction.",
       "Competence": 0,
       "Chunk": 15
     },
     {
-      "Action": "Smiles and holds the door open for Naturelle and Doyle.",
-      "Warmth": 1,
-      "Chunk": 16
-    },
-    {
-      "Action": "Closes and locks his apartment door with multiple locks, indicating a need for security.",
-      "Warmth": 0,
-      "Chunk": 16
-    },
-    {
-      "Action": "Allows Doyle to curl up and fall asleep comfortably by the radiator.",
-      "Warmth": 1,
-      "Chunk": 16
-    },
-    {
-      "Action": "Turns off the television and stares at the dead screen, showing introspection but no direct warmth.",
-      "Warmth": 0,
-      "Chunk": 16
-    },
-    {
-      "Action": "Opens a jar of honey for Naturelle and shares a quiet moment with her.",
-      "Warmth": 1,
-      "Chunk": 16
-    },
-    {
-      "Action": "Shows and fondly traces his gun holster with a personalized 'B', indicating attachment to his identity and possibly a guarded nature.",
-      "Warmth": 0,
-      "Chunk": 16
-    },
-    {
-      "Action": "Locks his apartment door with five locks and a heavy steel leadbolt, showing awareness of security.",
+      "Action": "Locks his apartment door with five locks and a heavy steel leadbolt for security.",
       "Competence": 1,
       "Chunk": 16
     },
     {
-      "Action": "Flicks on the television but quickly turns it off, indicating distraction or inability to focus.",
+      "Action": "Holds the door open for others and interacts calmly with Naturelle and Doyle.",
       "Competence": 0,
       "Chunk": 16
     },
     {
-      "Action": "Handles his gun holster with familiarity and care, showing comfort and skill with his weapon.",
+      "Action": "Handles his gun holster carefully and thoughtfully, showing familiarity and care.",
       "Competence": 1,
       "Chunk": 16
     },
     {
-      "Action": "Expresses a wish to be like a fictional character who can walk through walls, indicating escapist or unrealistic thinking.",
+      "Action": "Turns off the television upon hearing bad weather news and stares at the dead screen, indicating a moment of distraction or worry.",
+      "Competence": 0,
+      "Chunk": 16
+    },
+    {
+      "Action": "Expresses a childish wish to be like a superhero who can walk through walls rather than facing reality directly.",
       "Competence": -1,
       "Chunk": 16
     },
     {
-      "Action": "Allows Naturelle to kiss him and caress him despite his distant mood.",
+      "Action": "Allows Naturelle to be physically affectionate, kisses her back of the neck, massages her shoulders.",
       "Warmth": 1,
       "Chunk": 17
     },
     {
-      "Action": "Jokes about shooting himself, showing a dark, self-destructive side.",
+      "Action": "Dismisses Naturelle's advance to bathe with him, stays distant and mentally elsewhere.",
       "Warmth": -1,
       "Chunk": 17
     },
     {
-      "Action": "Reclines with arms spread wide, appearing open and relaxed in Naturelle's presence.",
-      "Warmth": 1,
-      "Chunk": 17
-    },
-    {
-      "Action": "Mentions Naturelle's 'nasty habit' of eating raw honey, teasing her in a familiar, affectionate way.",
-      "Warmth": 1,
-      "Chunk": 17
-    },
-    {
-      "Action": "Refuses to join Naturelle in the bath, showing emotional distance.",
+      "Action": "Jokes in a dark manner about suicide; does not acknowledge Naturelle's discomfort immediately.",
       "Warmth": -1,
       "Chunk": 17
     },
     {
-      "Action": "Massages Naturelle's shoulders and shares intimate moments with her six months ago.",
+      "Action": "Engages in teasing Naturelle about her habit of eating raw honey in a lighthearted way.",
       "Warmth": 1,
       "Chunk": 17
     },
     {
-      "Action": "Stops touching Naturelle's thigh when noticing her tattoo, initiating a sensitive conversation about identity.",
-      "Warmth": 1,
-      "Chunk": 17
-    },
-    {
-      "Action": "Contemplates suicide impulsively, expressing a fatalistic and desperate mindset.",
+      "Action": "Mentions suicidal ideation in a serious manner and appears distant during intimate moments, showing signs of mental unsteadiness.",
       "Competence": -1,
       "Chunk": 17
     },
     {
-      "Action": "Engages in intimate, tender moments with Naturelle, showing emotional connection and awareness of personal relationships.",
+      "Action": "Engages in casual conversation and shows some awareness of close relationships, such as noting Naturelle’s habits and recalling details about her background.",
       "Competence": 0,
       "Chunk": 17
     },
     {
-      "Action": "Reclines with arms spread wide, appearing distant and mentally elsewhere during a conversation, indicating distraction and lack of focus.",
-      "Competence": -1,
-      "Chunk": 17
-    },
-    {
-      "Action": "Playfully grabs Naturelle's butt, laughs with her.",
+      "Action": "Playfully grabs Naturelle's butt and laughs with her.",
       "Warmth": 1,
       "Chunk": 18
     },
     {
-      "Action": "Scratches Doyle's head to calm the dog when agents arrive.",
+      "Action": "Scratches Doyle's head to calm him down.",
       "Warmth": 1,
       "Chunk": 18
     },
     {
-      "Action": "Tells Naturelle to close the door calmly during a tense moment.",
+      "Action": "Tells Naturelle to close the door calmly during the DEA agents' arrival.",
       "Warmth": 0,
       "Chunk": 18
     },
     {
-      "Action": "Stares out the window quietly when agents arrive, showing restraint.",
-      "Warmth": 0,
+      "Action": "Maintains polite and calm interaction with DEA agents despite tense situation.",
+      "Warmth": 1,
       "Chunk": 18
     },
     {
-      "Action": "Recognizes the DEA agents immediately and remains calm, instructs Naturelle to close the door, scratches his dog to calm it down.",
-      "Competence": 1,
-      "Chunk": 18
+      "Action": "Crouches and strokes Doyle's neck reassuringly.",
+      "Warmth": 1,
+      "Chunk": 19
     },
     {
-      "Action": "Passively allows the agents to enter and search without resistance or attempt to hide anything.",
-      "Competence": 0,
-      "Chunk": 18
+      "Action": "Gives no sign or signal to Naturelle when agents question her, leaving her to feel uncomfortable and unsupported.",
+      "Warmth": -1,
+      "Chunk": 19
     },
     {
-      "Action": "Maintains calm and control during agents' search, gives no sign to Naturelle, does not panic or react impulsively.",
+      "Action": "Stares at Naturelle when agents interrogate her, possibly indicating silent support or connection.",
+      "Warmth": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Maintains calm and controlled demeanor under agent's questioning, carefully observes Naturelle without revealing much, and does not give any signs or signals.",
       "Competence": 1,
       "Chunk": 19
     },
     {
-      "Action": "Responds tersely with 'Get it over with' to agent's stalling behavior, showing impatience but also readiness to face situation.",
-      "Competence": 1,
-      "Chunk": 19
-    },
-    {
-      "Action": "Does not intervene or attempt to distract agents despite their suspicious behavior, possibly missing an opportunity to influence the search.",
+      "Action": "Shows reluctance or passivity by saying 'Get it over with' rather than actively managing or confronting the situation.",
       "Competence": -1,
       "Chunk": 19
     },
     {
-      "Action": "Kisses Naturelle quickly before leaving, then stops to ask her to wear the silver dress so he can remember her that way.",
+      "Action": "Kisses Naturelle quickly, asks her to wear the silver dress so he can remember her that way.",
       "Warmth": 1,
       "Chunk": 20
     },
     {
-      "Action": "Leaves Naturelle alone in the dark living room without turning on the lights.",
+      "Action": "Leaves Naturelle alone in a dark living room after a brief interaction without turning on the lights or engaging more.",
       "Warmth": 0,
       "Chunk": 20
     },
     {
-      "Action": "Calmly accepts the discovery of drugs hidden in his sofa without panic, showing awareness of his situation.",
+      "Action": "Stands and prepares to meet his dad, clips a holster on his belt, shows intention and readiness.",
       "Competence": 1,
       "Chunk": 20
     },
     {
-      "Action": "Sits in the dark without turning on the lights, possibly indicating avoidance or resignation.",
+      "Action": "Keeps the room dark and silent, does not turn on lights suggesting either caution or anxiety.",
       "Competence": 0,
       "Chunk": 20
     },
     {
-      "Action": "Prepares to meet his father for dinner, clips holster to belt, shows readiness and composure.",
-      "Competence": 1,
-      "Chunk": 20
-    },
-    {
-      "Action": "Asks Naturelle to wear a specific dress to remember her by, showing emotional awareness but possibly distraction from immediate practical concerns.",
+      "Action": "Asks Naturelle to wear a specific dress to remember her by, showing emotional awareness but not directly related to competence.",
       "Competence": 0,
       "Chunk": 20
     },
     {
-      "Action": "Stares down Kostya and questions his presence with a somewhat cold tone.",
+      "Action": "Invites Naturelle and friends to come with him to see Uncle Blue, showing consideration for social connections.",
+      "Warmth": 1,
+      "Chunk": 21
+    },
+    {
+      "Action": "Responds dismissively to Kostya's presence and concern, questioning why he came all the way to tell him something he could've learned by phone.",
       "Warmth": -1,
       "Chunk": 21
     },
     {
-      "Action": "Agrees to attend Uncle Blue's farewell gathering and plans to bring Naturelle and friends.",
-      "Warmth": 1,
+      "Action": "Shows patience and mild tolerance during the awkward interaction with Kostya despite Kostya's bothersome behavior.",
+      "Warmth": 0,
       "Chunk": 21
     },
     {
-      "Action": "Dismisses Kostya's effort to communicate by sarcastically mentioning telephones.",
+      "Action": "Dismisses Kostya's paranoid theory about Naturelle, showing trust in her intentions.",
+      "Warmth": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Engages playfully with boys on the subway platform by tossing a quarter and inviting them to try, sharing his money in a friendly manner.",
+      "Warmth": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Shakes his head at Kostya's speculative theory without probing further, then walks away after a brief stare, showing dismissal rather than investigation.",
+      "Competence": -1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Observes the environment closely at the subway station, noticing the behavior of the rats and the boys, indicating awareness.",
+      "Competence": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Successfully tosses a quarter into a narrow target smoothly, impressing the boys, demonstrating skill and confidence.",
+      "Competence": 1,
+      "Chunk": 22
+    },
+    {
+      "Action": "Encourages boys to play a coin tossing game and patiently gives shooting advice, mimicking the motion to help.",
+      "Warmth": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Cheerfully celebrates the boy's successful shot with fist bumps and grants a playful 'wish'.",
+      "Warmth": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Analyzes the boy's coin toss technique and offers clear, practical advice on improving the shot.",
+      "Competence": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Encourages the boys by celebrating their success and motivating them with positive reinforcement.",
+      "Competence": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Tries to greet old acquaintances with enthusiasm despite not recognizing them immediately.",
+      "Warmth": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Politely shakes Nancy's hand and offers her his seat on the train.",
+      "Warmth": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Makes an excuse to leave the subway car quickly, avoiding further social interaction.",
       "Warmth": -1,
-      "Chunk": 21
-    },
-    {
-      "Action": "Questions Kostya's presence and shows skepticism about the message delivery, indicating awareness and critical thinking.",
-      "Competence": 1,
-      "Chunk": 21
-    },
-    {
-      "Action": "Responds to Kostya's invitation with a plan to bring Naturelle and friends, showing social confidence and decisiveness.",
-      "Competence": 1,
-      "Chunk": 21
-    },
-    {
-      "Action": "Dismisses Kostya's concern about Naturelle potentially betraying him with casual confidence, possibly underestimating risks.",
-      "Competence": 0,
-      "Chunk": 21
-    },
-    {
-      "Action": "Shakes his head and walks away after Kostya suggests a negative possibility about Naturelle without confrontation.",
-      "Warmth": 0,
-      "Chunk": 22
-    },
-    {
-      "Action": "Interacts playfully and generously with two boys at the subway station by tossing a quarter and offering them change to try.",
-      "Warmth": 1,
-      "Chunk": 22
-    },
-    {
-      "Action": "Shakes his head and walks away after Kostya suggests a paranoid theory without confronting it directly.",
-      "Competence": 0,
-      "Chunk": 22
-    },
-    {
-      "Action": "Observes the boys and the rats on the subway tracks, then skillfully tosses a quarter with a smooth, confident motion impressing the boys.",
-      "Competence": 1,
-      "Chunk": 22
-    },
-    {
-      "Action": "Encourages boys to try coin tossing, gives constructive advice on technique.",
-      "Warmth": 1,
-      "Chunk": 23
-    },
-    {
-      "Action": "Celebrates boy's success with fist bump and praise.",
-      "Warmth": 1,
-      "Chunk": 23
-    },
-    {
-      "Action": "Grants a wish to Charlie after a good shot, showing generosity and kindness.",
-      "Warmth": 1,
-      "Chunk": 23
-    },
-    {
-      "Action": "Coaches the boys on how to throw coins skillfully, demonstrating the correct technique and encouraging them.",
-      "Competence": 1,
-      "Chunk": 23
-    },
-    {
-      "Action": "Recognizes and praises the boy's successful shot, reinforcing positive behavior.",
-      "Competence": 1,
-      "Chunk": 23
-    },
-    {
-      "Action": "Greets Trey and Nancy politely, shakes Nancy's hand, offers his seat to Nancy.",
-      "Warmth": 1,
       "Chunk": 24
     },
     {
-      "Action": "Quickly makes an excuse to leave the conversation and escape the interaction.",
-      "Warmth": 0,
-      "Chunk": 24
-    },
-    {
-      "Action": "Tries to appear enthusiastic and polite when unexpectedly meeting old acquaintances on the train, shakes hands, offers his seat, and makes a timely exit to catch his train.",
+      "Action": "Attempts polite small talk and tries to appear enthusiastic when meeting old acquaintances.",
       "Competence": 1,
       "Chunk": 24
     },
     {
-      "Action": "Avoids engaging deeply with Trey and Nancy, giving vague answers and quickly escaping the conversation.",
-      "Competence": 0,
-      "Chunk": 24
-    },
-    {
-      "Action": "Fails to recognize Trey and Nancy immediately, showing some social inattentiveness.",
+      "Action": "Does not recognize old acquaintances immediately, indicating some social awkwardness or disconnect.",
       "Competence": -1,
       "Chunk": 24
     },
     {
-      "Action": "Thanks Ruth politely when she brings food.",
+      "Action": "Takes initiative to offer his seat and leave the interaction quickly to catch the train.",
+      "Competence": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Avoids deeper engagement and conversation, escaping awkward social situation.",
+      "Competence": 0,
+      "Chunk": 24
+    },
+    {
+      "Action": "Thanks Ruth politely when she brings food, smiles and nods when she offers cookies.",
       "Warmth": 1,
       "Chunk": 25
     },
     {
-      "Action": "Smiles and nods in response to Ruth's offer of cookies.",
+      "Action": "Has a hard time looking directly at his father during their conversation.",
       "Warmth": 1,
       "Chunk": 25
     },
     {
-      "Action": "Has difficulty looking directly at his father during their conversation.",
-      "Warmth": 0,
+      "Action": "Leans back and surveys the bar thoughtfully, showing appreciation for the place.",
+      "Warmth": 1,
       "Chunk": 25
     },
     {
-      "Action": "Pays attention to the details of the bar's decor and engages in conversation about it, showing awareness and appreciation of his environment.",
+      "Action": "Pays attention to and appreciates the carefully maintained details of his bar, such as the antique decor and atmosphere.",
       "Competence": 1,
       "Chunk": 25
     },
     {
-      "Action": "Has difficulty looking directly at his father, indicating emotional discomfort or avoidance in a personal situation.",
+      "Action": "Has a hard time looking directly at his father, indicating emotional avoidance in a difficult moment.",
       "Competence": -1,
       "Chunk": 25
     },
     {
-      "Action": "Responds politely and acknowledges the waitress's kindness with a smile and nod, showing social grace and confidence.",
-      "Competence": 1,
-      "Chunk": 25
-    },
-    {
-      "Action": "Refuses to involve his father in his problems, asking him not to get involved.",
-      "Warmth": 0,
-      "Chunk": 26
-    },
-    {
-      "Action": "Admits to his father that he 'fucked up' and takes responsibility.",
+      "Action": "Asks his father not to get involved, showing a desire to handle his problems independently.",
       "Warmth": 1,
       "Chunk": 26
     },
     {
-      "Action": "Shows frustration and impatience with his father's advice and concern.",
+      "Action": "Acknowledges and admits he 'fucked up' to his father, showing honesty and responsibility.",
+      "Warmth": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Uses sarcasm and dismissiveness toward his father's suggestion about Sal, indicating impatience and somewhat cold attitude.",
       "Warmth": -1,
       "Chunk": 26
     },
     {
-      "Action": "Dismisses his father's suggestion to seek help from Sal, showing skepticism and reluctance to involve others.",
-      "Competence": 0,
+      "Action": "Lets his fork drop and wipes his mouth, a possible sign of irritation or emotional withdrawal during conversation with his father.",
+      "Warmth": -1,
       "Chunk": 26
     },
     {
-      "Action": "Acknowledges his mistakes openly to his father, saying 'I fucked up. Okay? What else can I tell you?'",
-      "Competence": 1,
-      "Chunk": 26
-    },
-    {
-      "Action": "Lets his fork drop and wipes his mouth with his napkin during a tense conversation, indicating frustration and loss of composure.",
+      "Action": "Dismisses his father's suggestion to reach out to Sal, showing skepticism about Sal's usefulness.",
       "Competence": -1,
       "Chunk": 26
     },
     {
-      "Action": "Stares at the mirror in the bathroom and later in the interrogation room, showing introspection and awareness of his situation.",
+      "Action": "Insists that he will be all right and asks his father not to get involved, attempting to maintain autonomy.",
+      "Competence": 0,
+      "Chunk": 26
+    },
+    {
+      "Action": "Expresses clear acknowledgment of his mistakes with honest admission: 'I fucked up. Okay? What else can I tell you?'",
       "Competence": 1,
       "Chunk": 26
     },
     {
-      "Action": "Observes Naturelle leaving escorted by agents and making eye contact, indicating alertness to his surroundings.",
-      "Competence": 1,
+      "Action": "Non-action: lets his fork drop and wipes his mouth, possibly indicating frustration or defeat rather than proactive behavior.",
+      "Competence": -1,
       "Chunk": 26
     },
     {
-      "Action": "Glares at Brzowski when he makes disrespectful comments about Naturelle, and tries to restrain his temper while confronting the agents.",
+      "Action": "Glares at Agent Brzowski when he makes lewd comments about Naturelle Rosario; restrains his temper and speaks quietly and deliberately.",
       "Warmth": 1,
       "Chunk": 27
     },
     {
-      "Action": "Glares at Brzowski and restrains his temper, speaks quietly and deliberately despite provocation.",
+      "Action": "Maintains a quiet and deliberate tone while restraining his temper despite provocation by agents.",
       "Competence": 1,
       "Chunk": 27
     },
     {
-      "Action": "Remains silent for a few seconds before responding, showing control over emotional reaction.",
+      "Action": "Glares at the agent and confronts him verbally about touching Naturelle.",
+      "Competence": 0,
+      "Chunk": 27
+    },
+    {
+      "Action": "Remains silent for several seconds before responding thoughtfully.",
       "Competence": 1,
       "Chunk": 27
     },
     {
-      "Action": "Challenges the agent's statement by saying 'You're lying to me.'",
-      "Competence": 1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Does not escalate the confrontation despite insults and provocations from agents.",
-      "Competence": 1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Uses crude and aggressive language toward Cunningham, mocking him.",
+      "Action": "Mocks Agent Cunningham and Brzowski with crude humor, displaying hostility.",
       "Warmth": -1,
       "Chunk": 28
     },
     {
-      "Action": "Attempts to erase 'Fuck you' written on his bathroom mirror, showing vulnerability.",
+      "Action": "Shows vulnerability by sharing his confusion and distress about his situation with his father.",
       "Warmth": 1,
       "Chunk": 28
     },
     {
-      "Action": "Engages in a sincere conversation with his father about trust and his girlfriend Naturelle.",
+      "Action": "Inquires sincerely about Naturelle and her trustworthiness, indicating concern for relationships.",
       "Warmth": 1,
       "Chunk": 28
     },
     {
-      "Action": "Expresses confusion and emotional vulnerability about his identity and situation.",
-      "Warmth": 1,
+      "Action": "Uses crude and aggressive language towards Agent Cunningham, attempting to unsettle or provoke him.",
+      "Competence": 0,
       "Chunk": 28
     },
     {
-      "Action": "Uses crude and confrontational language when questioning agents, showing a lack of tact and control.",
+      "Action": "Attempts to erase 'Fuck you' written on his bathroom mirror but fails, showing frustration.",
       "Competence": -1,
       "Chunk": 28
     },
     {
-      "Action": "Attempts to remove the 'Fuck you' written on his bathroom mirror but fails, indicating frustration and inability to control his environment.",
-      "Competence": -1,
-      "Chunk": 28
-    },
-    {
-      "Action": "Engages in a serious conversation with his father about trust and betrayal, showing awareness and concern about his situation.",
+      "Action": "Engages his father in a serious conversation about trust and concerns regarding Naturelle potentially betraying him.",
       "Competence": 1,
       "Chunk": 28
     },
     {
-      "Action": "Expresses confusion and disorientation about his identity and future, indicating internal uncertainty and lack of confidence.",
+      "Action": "Expresses confusion and uncertainty about his situation and identity, indicating internal turmoil and lack of clarity.",
       "Competence": -1,
       "Chunk": 28
     },
     {
-      "Action": "Expresses trust only in a few close friends from his past.",
+      "Action": "Asks direct and probing questions about loyalty and trust, indicating a thoughtful and cautious mindset.",
+      "Competence": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Expresses that he only trusts his childhood friends, shows emotional attachment to Naturelle.",
       "Warmth": 1,
       "Chunk": 29
     },
     {
-      "Action": "Says goodbye to his father respectfully, kisses his forehead, and carefully keeps a photo.",
-      "Warmth": 1,
-      "Chunk": 29
-    },
-    {
-      "Action": "Declines his father's offer to drive him, preferring to say goodbye there.",
+      "Action": "Rejects his father's offer to be driven, prefers to say goodbye on his own terms.",
       "Warmth": 0,
       "Chunk": 29
     },
     {
-      "Action": "Expresses distrust toward most people except a few close friends, showing selective trust and awareness.",
+      "Action": "Carefully handles and keeps a photograph from his father, kisses his father's forehead before leaving.",
+      "Warmth": 1,
+      "Chunk": 29
+    },
+    {
+      "Action": "Reflects thoughtfully on who he trusts and values his childhood friends and family.",
       "Competence": 1,
       "Chunk": 29
     },
     {
-      "Action": "Checks his watch and decides to leave, indicating awareness of time and situation.",
+      "Action": "Checks his watch and decides to leave, showing awareness of time and next steps.",
       "Competence": 1,
       "Chunk": 29
     },
     {
-      "Action": "Refuses his father's offer to drive him, preferring to say goodbye there, showing a controlled and deliberate choice.",
+      "Action": "Refuses his father's offer to be driven, preferring to say goodbye there, indicating a conscious boundary-setting and emotional control.",
       "Competence": 1,
       "Chunk": 29
     },
     {
-      "Action": "Carefully handles the photograph and inserts it into his wallet, showing emotional control and respect.",
+      "Action": "Handles a sentimental photo carefully and respectfully, showing emotional intelligence.",
       "Competence": 1,
       "Chunk": 29
     },
     {
-      "Action": "Avoids engaging in emotional conversation about his mother when asked by his father, indicating possible avoidance or emotional suppression.",
+      "Action": "Avoids engaging in emotional topics when asked ('Don't, Dad. Not now.'), possibly showing avoidance rather than confrontation.",
       "Competence": 0,
       "Chunk": 29
     },
     {
-      "Action": "Gedny reports Monty is 'hard to read' and 'not loving life right now,' indicating Monty is under stress and not clearly showing confidence or control.",
-      "Competence": 0,
+      "Action": "Meets with Uncle Blue and Gedny; does not flip under pressure, maintaining his position despite difficult circumstances.",
+      "Competence": 1,
       "Chunk": 30
     },
     {
-      "Action": "Uncle Blue and Valghobek express distrust and low respect for Gedny's assessment, implying Monty's situation is precarious and his competence is questionable in the eyes of others.",
-      "Competence": 0,
+      "Action": "Is described as hard to read, showing control over his emotions and intentions.",
+      "Competence": 1,
       "Chunk": 30
     },
     {
-      "Action": "Keeps his mouth shut despite pressure, showing awareness of consequences.",
+      "Action": "Keeps his mouth shut under pressure, avoiding becoming an informant despite risk.",
       "Competence": 1,
       "Chunk": 31
     },
     {
-      "Action": "Has a large amount of money found in his possession, implicating him as a dealer.",
+      "Action": "Is implicated by substantial evidence (650 grams found), suggesting poor operational security.",
       "Competence": -1,
       "Chunk": 31
     },
     {
-      "Action": "Remains on the street despite serious charges, indicating some ability to navigate the legal system temporarily.",
+      "Action": "Apparently manages to stay out of custody temporarily despite serious charges.",
       "Competence": 0,
       "Chunk": 31
     },
     {
-      "Action": "Smiles and beckons Naturelle to enter the closed boutique, nods to the clerk in a friendly manner.",
-      "Warmth": 1,
-      "Chunk": 32
-    },
-    {
-      "Action": "Watches passersby and surroundings intently while walking alone.",
+      "Action": "Observes people and surroundings attentively while walking alone.",
       "Warmth": 0,
       "Chunk": 32
     },
     {
-      "Action": "Walks down the street watching everything intently, showing awareness of his surroundings.",
-      "Competence": 1,
+      "Action": "Invites Naturelle to enter a closed store by persuading the clerk to open it for them, smiles and greets the clerk warmly.",
+      "Warmth": 1,
       "Chunk": 32
     },
     {
-      "Action": "Raps on the closed boutique window and convinces the clerk to open the store for Naturelle and himself.",
-      "Competence": 1,
-      "Chunk": 32
-    },
-    {
-      "Action": "Pays for Naturelle's expensive clothes as a birthday gift.",
+      "Action": "Pays for expensive clothes as a birthday gift for Naturelle.",
       "Warmth": 1,
       "Chunk": 33
     },
     {
-      "Action": "Offers to pay for expensive clothes for Naturelle's birthday, showing confidence in handling the situation.",
+      "Action": "Watches Naturelle with a reflective, somewhat distant gaze through the boutique window.",
+      "Warmth": 0,
+      "Chunk": 33
+    },
+    {
+      "Action": "Offers to pay for expensive clothes for Naturelle's birthday without hesitation, displaying confidence and responsibility in handling money.",
       "Competence": 1,
       "Chunk": 33
     },
     {
-      "Action": "Passively watches Naturelle and the clerk without intervening or directing the situation.",
+      "Action": "Passively watches Naturelle shop without much engagement or assertiveness, appearing somewhat detached or distracted.",
       "Competence": 0,
       "Chunk": 33
     },
     {
-      "Action": "Slattery suggests getting Monty drunk and going wherever he wants to go on his last night before prison.",
+      "Action": "JAKOB expresses worry about how to support Montgomery, comparing visiting him to visiting a friend with cancer; shows consideration for Montgomery's feelings about his impending prison sentence.",
       "Warmth": 1,
       "Chunk": 34
     },
     {
-      "Action": "Jakob expresses uncertainty about what to say to Monty before prison, indicating emotional difficulty and concern.",
+      "Action": "Slattery (friend) suggests avoiding serious talk, getting Montgomery drunk and going wherever he wants; indicates a supportive, tolerant attitude toward Montgomery, focusing on comfort.",
       "Warmth": 1,
       "Chunk": 34
     },
     {
-      "Action": "Jakob notes that they hardly ever see each other these days, implying some distance or neglect in maintaining friendships.",
+      "Action": "Slattery jokes about expensive skis and snow day, tries to lighten mood.",
+      "Warmth": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Presence primarily silent, allowing friends to worry and support him rather than speaking up himself, which may imply reserve or detachment.",
+      "Warmth": 0,
+      "Chunk": 34
+    },
+    {
+      "Action": "Reflects on impending prison sentence with some anxiety and lack of clear plan for confrontation or coping.",
+      "Competence": -1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Invites friends despite strained relationships, attempts to face consequences rather than avoiding them.",
+      "Competence": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Shows uncertainty about what to say or do regarding his situation, indicating lack of preparedness.",
+      "Competence": -1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Reflects on past friendships with Jakob and Slattery, sharing a nostalgic moment looking at an old photograph together.",
+      "Warmth": 1,
+      "Chunk": 35
+    },
+    {
+      "Action": "In flashback, shows friendly camaraderie and shared humor with Slattery and Jakob, engaging in youthful playful teasing.",
+      "Warmth": 1,
+      "Chunk": 35
+    },
+    {
+      "Action": "Reflects quietly on his impending imprisonment and past friendships, showing awareness but no visible panic or rashness.",
+      "Competence": 0,
+      "Chunk": 35
+    },
+    {
+      "Action": "Accepts money from Trey to buy drugs, remains noncommittal about attending the party.",
       "Warmth": -1,
-      "Chunk": 34
+      "Chunk": 36
     },
     {
-      "Action": "Does not appear directly in this excerpt; no clear demonstration of competence or incompetence.",
-      "Competence": 0,
-      "Chunk": 34
-    },
-    {
-      "Action": "Reflects on past friendship with Jakob and Slattery, showing nostalgia and connection.",
-      "Warmth": 1,
-      "Chunk": 35
-    },
-    {
-      "Action": "Begs off Slattery's gross 'brain flossing' prank with disgust but remains with friends.",
-      "Warmth": 0,
-      "Chunk": 35
-    },
-    {
-      "Action": "Reflects on his past with friends, showing awareness of his life trajectory and consequences of his actions.",
-      "Competence": 1,
-      "Chunk": 35
-    },
-    {
-      "Action": "Engages in juvenile behavior with friends (mugging for the camera, reacting to Slattery's antics) indicating immaturity.",
-      "Competence": -1,
-      "Chunk": 35
-    },
-    {
-      "Action": "Shrugs off expensive party invitation, showing indifference.",
+      "Action": "Shrugs off Jakob's skepticism and asserts his own social capital.",
       "Warmth": 0,
       "Chunk": 36
     },
     {
-      "Action": "Accepts money from Trey to buy drugs, keeps the change.",
-      "Warmth": -1,
-      "Chunk": 36
-    },
-    {
-      "Action": "Responds to Jakob's skepticism with a confident but somewhat dismissive remark about being 'born with sway'.",
-      "Warmth": 0,
-      "Chunk": 36
-    },
-    {
-      "Action": "Negotiates to get drugs for a lower price (seventy instead of two hundred dollars).",
+      "Action": "Negotiates price for drugs, offers to get half an ounce for seventy instead of two hundred dollars, showing knowledge and bargaining skill.",
       "Competence": 1,
       "Chunk": 36
     },
     {
-      "Action": "Accepts a hundred dollar bill from Trey to buy drugs, showing some confidence in handling the deal.",
+      "Action": "Shrugs when asked about cost, shows casual confidence and control over the situation.",
       "Competence": 1,
       "Chunk": 36
     },
     {
-      "Action": "Shrugs when asked about the price he pays, indicating some casualness or lack of concern about the cost.",
+      "Action": "Hesitates ('maybe') about attending a party, showing some indecision.",
       "Competence": 0,
       "Chunk": 36
     },
     {
-      "Action": "Jakob looks at Monty skeptically, questioning his status as a 'big player', suggesting Monty may be overestimating his influence or competence.",
-      "Competence": -1,
+      "Action": "Keeps hundred-dollar bill after being given it to buy drugs; assumes responsibility in a potentially risky transaction.",
+      "Competence": 1,
       "Chunk": 36
     },
     {
-      "Action": "Greets and interacts warmly with Julian and his friends, showing friendly interest and making jokes.",
+      "Action": "Shows friendly interest by engaging with Julian and classmates, compliments them, and shares lighthearted banter.",
       "Warmth": 1,
       "Chunk": 37
     },
     {
-      "Action": "Playfully grabs spaghetti from Slattery's nose, engaging in lighthearted teasing.",
-      "Warmth": 1,
+      "Action": "Playfully tries to grab spaghetti from Slattery's nose causing a minor conflict, though in a playful manner.",
+      "Warmth": 0,
       "Chunk": 37
     },
     {
-      "Action": "Interacts confidently and playfully with peers, borrows homework to check it, showing social ease and some intellectual engagement.",
+      "Action": "Engages with peers confidently, borrows and reviews math homework to ensure accuracy, interacts playfully but assertively.",
       "Competence": 1,
       "Chunk": 37
     },
     {
-      "Action": "Relies on others' work (homework) rather than doing it himself, indicating possible avoidance of direct effort or skill.",
-      "Competence": -1,
-      "Chunk": 37
+      "Action": "Jakob defends Monty saying he is tough and different, implying Monty’s resilience and inner strength.",
+      "Warmth": 1,
+      "Chunk": 38
     },
     {
-      "Action": "Jakob says Monty is tough and will be okay in prison, implying confidence in Monty's ability to handle difficult situations.",
+      "Action": "His options are described as bleak by others, with no indication Monty is considering running or suicide, suggesting he faces his fate sincerely and with some dignity.",
+      "Warmth": 1,
+      "Chunk": 38
+    },
+    {
+      "Action": "No direct speech or actions from Monty in this excerpt; presence is mostly through others’ dialogues.",
+      "Warmth": 0,
+      "Chunk": 38
+    },
+    {
+      "Action": "Jakob believes Monty is tough and will be okay in prison, indicating some perceived inner strength or resilience.",
       "Competence": 1,
       "Chunk": 38
     },
     {
-      "Action": "Slattery states that people like Monty don't do well in prison and outlines grim choices Monty faces, suggesting Monty is in a situation beyond his control and competence.",
+      "Action": "Slattery bluntly states Monty's choices are grim and implies Monty is likely to struggle or fail in prison.",
       "Competence": -1,
       "Chunk": 38
     },
     {
-      "Action": "Embraces Naturelle from behind and kisses her neck and ears, showing affection.",
+      "Action": "Embraces Naturelle from behind and kisses her neck and ears in a tender moment.",
       "Warmth": 1,
       "Chunk": 39
     },
     {
-      "Action": "Avoids Naturelle's sudden aggressive movement with the knife, indicating tension or fear.",
-      "Warmth": 0,
+      "Action": "Shows worry when Naturelle asks if anyone called for her, indicating concern and attentiveness.",
+      "Warmth": 1,
       "Chunk": 39
     },
     {
-      "Action": "Monty shows awareness and concern when Naturelle asks about calls, indicating attentiveness to his surroundings and relationships.",
+      "Action": "Monty begins to get worried when Naturelle asks if anyone called for her, showing awareness and concern about his surroundings.",
       "Competence": 1,
       "Chunk": 39
     },
     {
-      "Action": "Monty fails to anticipate Naturelle's sudden movement with the carving knife, nearly getting hurt.",
-      "Competence": -1,
+      "Action": "Monty has to jump back quickly to avoid being stabbed by Naturelle with the carving knife, showing quick reflexes and situational awareness.",
+      "Competence": 1,
       "Chunk": 39
     },
     {
-      "Action": "Responds to Naturelle's aggressive teasing with laughter and playfulness, showing tolerance and good-naturedness.",
-      "Warmth": 1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Asks Naturelle to put the knife away calmly, indicating a non-confrontational and sincere approach.",
-      "Warmth": 1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Engages in physical play with Naturelle, grabbing her wrist and pulling her down, showing friendly intimacy and trust.",
-      "Warmth": 1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Tries to apologize and explain himself when confronted by Naturelle about not leaving a message.",
-      "Competence": 1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Fails to avoid tripping over Doyle and falling on his back while backing away from Naturelle.",
-      "Competence": -1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Maintains a sense of humor and laughs hysterically despite the tense situation with Naturelle wielding a knife.",
+      "Action": "Monty answers Naturelle's questions with short, often non-informative responses (e.g., 'Nope.', 'Nah.'), which could indicate evasiveness or lack of clear communication.",
       "Competence": 0,
+      "Chunk": 39
+    },
+    {
+      "Action": "There is an implication of tension and potential danger in the interaction with Naturelle, suggesting a failure to maintain calm or stable relationships in personal life.",
+      "Competence": -1,
+      "Chunk": 39
+    },
+    {
+      "Action": "Responds to Naturelle's teasing threat with laughter and plays along despite the 'danger'",
+      "Warmth": 1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Smiles and engages in a playful, physical interaction with Naturelle, showing comfort and trust",
+      "Warmth": 1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Asks Naturelle kindly to put the knife away instead of reacting with anger or fear",
+      "Warmth": 1,
       "Chunk": 40
     },
     {
@@ -916,1134 +846,774 @@
       "Chunk": 41
     },
     {
-      "Action": "Kostya requests a party for Monty's last night and to get him a girl, showing care and respect for Monty.",
+      "Action": "Kostya insists on giving Monty a girl for the party, emphasizing not to be cheap, showing care for Monty's night",
       "Warmth": 1,
       "Chunk": 41
     },
     {
-      "Action": "Monty is described as liking 'everything' and being treated generously for his last night.",
-      "Warmth": 0,
-      "Chunk": 41
-    },
-    {
-      "Action": "Is the focus of a party planned by associates to celebrate his last night before prison, with no indication he is managing or influencing the event.",
-      "Competence": 0,
-      "Chunk": 41
-    },
-    {
-      "Action": "Is described as liking everything and being given a girl for the party, suggesting others are taking care of details rather than Monty himself.",
-      "Competence": 0,
-      "Chunk": 41
-    },
-    {
-      "Action": "Forces cheerful expressions and embraces friends upon arrival, initiating social interaction.",
+      "Action": "Forces a cheerful expression when seeing old friends and embraces them in turn.",
       "Warmth": 1,
       "Chunk": 43
     },
     {
-      "Action": "Monty notices Jakob and Slattery in the mirror and approaches them calmly, then quickly shifts the mood by suggesting they go to a party, showing social awareness and confidence.",
+      "Action": "Surveys the bar environment smoothly and engages casually with Jakob and Slattery upon entering, showing social awareness and confidence.",
       "Competence": 1,
       "Chunk": 43
     },
     {
-      "Action": "Monty uses a nickname 'Uncle Blue' and explains it casually, indicating familiarity and ease in social situations.",
-      "Competence": 1,
+      "Action": "Forces a cheerful expression despite underlying tension, indicating emotional control but possibly masking true feelings.",
+      "Competence": 0,
       "Chunk": 43
     },
     {
-      "Action": "Raises his glass to toast with others despite the morose mood.",
+      "Action": "Raises his glass and drinks along with others, participating in a communal toast despite the gloomy atmosphere.",
       "Warmth": 1,
       "Chunk": 44
     },
     {
-      "Action": "Rejects Jody's invitation to the Super Bowl gathering with a curt 'Fuck Sunday.'",
+      "Action": "Dismisses Jody's Super Bowl invitation brusquely with 'Fuck Sunday.'",
       "Warmth": -1,
       "Chunk": 44
     },
     {
-      "Action": "Acknowledges the crowd gathered to say goodbye, showing awareness of others' presence.",
+      "Action": "Acknowledges the crowd outside the club with a somewhat melancholic comment about the city's turnout to say goodbye.",
       "Warmth": 0,
       "Chunk": 44
     },
     {
-      "Action": "Slips through the crowd and interacts with Khari Greene with a teasing remark 'Nice coat, you bastard.'",
-      "Warmth": 0,
-      "Chunk": 44
-    },
-    {
-      "Action": "Raises his glass confidently and leads a toast despite others' hesitation.",
-      "Competence": 1,
-      "Chunk": 44
-    },
-    {
-      "Action": "Navigates through a crowd of teenagers to reach the velvet ropes with purpose and confidence.",
-      "Competence": 1,
-      "Chunk": 44
-    },
-    {
-      "Action": "Engages Khari Greene with a confident, teasing remark about their coats, showing social ease and assertiveness.",
-      "Competence": 1,
-      "Chunk": 44
-    },
-    {
-      "Action": "Shares a friendly, joking exchange with Khari, laughs, and accepts physical closeness (arm around shoulders).",
+      "Action": "Engages in light teasing with Khari Greene, calling him 'bastard' in a seemingly friendly manner.",
       "Warmth": 1,
-      "Chunk": 45
+      "Chunk": 44
     },
     {
-      "Action": "Offers to bring his people through the club and thanks Khari for help.",
-      "Warmth": 1,
-      "Chunk": 45
+      "Action": "Raises his glass confidently and leads the toast with a defiant statement 'Fuck Sunday'.",
+      "Competence": 1,
+      "Chunk": 44
     },
     {
-      "Action": "Engages in casual, respectful conversation and responds to advice from Khari.",
-      "Warmth": 1,
-      "Chunk": 45
+      "Action": "Navigates through a crowd of teenagers at the club entrance with ease and confidence.",
+      "Competence": 1,
+      "Chunk": 44
     },
     {
-      "Action": "Offers to bring his people through the club and coordinates with Khari to get the door opened, showing social awareness and leadership.",
+      "Action": "Offers his hand and shakes Khari's, engages in casual banter, negotiates entry through the club with his people, responds calmly to Khari's warning about temper.",
       "Competence": 1,
       "Chunk": 45
     },
     {
-      "Action": "Hesitates and laughs when Khari jokes about the coat, indicating some uncertainty or discomfort.",
+      "Action": "Hesitates briefly before laughing at Khari's coat comment, shows some uncertainty.",
       "Competence": 0,
       "Chunk": 45
     },
     {
-      "Action": "Mentions bus leaves at nine a.m., showing awareness of his schedule and impending incarceration.",
-      "Competence": 1,
-      "Chunk": 45
-    },
-    {
-      "Action": "Responds to Khari's advice about temper with agreement, showing willingness to listen and control emotions.",
-      "Competence": 1,
-      "Chunk": 45
-    },
-    {
-      "Action": "Signals for Slattery and Jakob to follow him and moves confidently through the crowd.",
-      "Competence": 1,
-      "Chunk": 46
-    },
-    {
-      "Action": "Recognizes Mary from the classroom and teases her about bedtime in a playful manner.",
+      "Action": "Welcomes Mary, Jakob, and friends into the club despite their youth and uncertainty, showing inclusiveness.",
       "Warmth": 1,
       "Chunk": 47
     },
     {
-      "Action": "Invites Mary and Jakob inside despite initial hesitation, showing inclusiveness.",
-      "Warmth": 1,
-      "Chunk": 47
-    },
-    {
-      "Action": "Uses the phrase 'Are you retarded?' to Mary when she mentions friends, which is insensitive and offensive.",
+      "Action": "Calls Mary 'retarded' when questioning whether to let more friends in.",
       "Warmth": -1,
       "Chunk": 47
     },
     {
-      "Action": "Leads Mary and Jakob around the corner to get inside, facilitating their entry.",
+      "Action": "Grins when Jakob closes his eyes and Mary claims to be lovers, indicating a playful, friendly attitude.",
       "Warmth": 1,
       "Chunk": 47
     },
     {
-      "Action": "Dismisses Jakob's concern about Mary's age and ID, allowing her in despite potential rules.",
-      "Warmth": 0,
-      "Chunk": 47
-    },
-    {
-      "Action": "Quickly recognizes Mary from the classroom and uses familiarity to gain entry for the group.",
-      "Competence": 1,
-      "Chunk": 47
-    },
-    {
-      "Action": "Leads the group confidently to the side door and navigates them inside despite obstacles.",
-      "Competence": 1,
-      "Chunk": 47
-    },
-    {
-      "Action": "Uses a sarcastic insult ('Are you retarded?') to dismiss Mary's objection and maintain control of the situation.",
-      "Competence": 0,
-      "Chunk": 47
-    },
-    {
-      "Action": "Ignores Jakob's concern about Mary's age and allows her inside the club.",
-      "Competence": -1,
-      "Chunk": 47
-    },
-    {
-      "Action": "Suggests making sure Mr. Elinsky has fun for once, showing consideration for others' enjoyment.",
+      "Action": "Suggests they make sure Mr. Elinsky has fun for once, showing consideration for others' enjoyment.",
       "Warmth": 1,
       "Chunk": 48
     },
     {
-      "Action": "Stands awkwardly and does not return Naturelle's hug, indicating emotional distance or discomfort.",
+      "Action": "Stands awkwardly and does not return Naturelle's hug, creating a moment of social discomfort.",
       "Warmth": -1,
       "Chunk": 48
     },
     {
-      "Action": "Leads Jakob and Mary into the VIP room confidently, attempts to ensure Mr. Elinsky has a good time.",
+      "Action": "Acknowledges Mr. Elinsky's behavior realistically and shows intent to support him having a good time.",
       "Competence": 1,
       "Chunk": 48
     },
     {
-      "Action": "Stands awkwardly in Naturelle's embrace and does not return the hug, causing an awkward social moment.",
+      "Action": "Stands awkwardly in an embrace without reciprocating, causing discomfort.",
       "Competence": -1,
       "Chunk": 48
     },
     {
-      "Action": "Raises a toast to 'real friends' and distinguishes them from 'sham friends'.",
-      "Warmth": 1,
-      "Chunk": 49
-    },
-    {
-      "Action": "Responds coldly to Mary's invitation to dance, saying 'Do what you want to do.'",
-      "Warmth": -1,
-      "Chunk": 49
-    },
-    {
-      "Action": "Comments on Jakob's student being 'cute' despite her talking too much, showing a casual, somewhat friendly attitude.",
+      "Action": "Raises a champagne toast to his 'real friends' but disparages 'sham friends'.",
       "Warmth": 0,
       "Chunk": 49
     },
     {
-      "Action": "Raises a toast with a confident, cutting remark distinguishing real friends from sham friends.",
+      "Action": "Responds coldly to Mary’s invitation to dance, telling her to do what she wants without enthusiasm.",
+      "Warmth": -1,
+      "Chunk": 49
+    },
+    {
+      "Action": "Comments that Jakob’s student is 'cute' despite Jakob's concern, showing a casual, somewhat familiar attitude.",
+      "Warmth": 0,
+      "Chunk": 49
+    },
+    {
+      "Action": "Raises a toast with a witty, sharp remark distinguishing real friends from sham friends, showing social awareness and confidence.",
       "Competence": 1,
       "Chunk": 49
     },
     {
-      "Action": "Responds coldly and tersely to others, showing emotional control and assertiveness.",
+      "Action": "Responds coldly and dismissively ('Do what you want to do') to Mary and Naturelle's plans, revealing emotional detachment but also control of the situation.",
       "Competence": 1,
       "Chunk": 49
     },
     {
-      "Action": "Allows Mary to lead others out to dance without objection, showing passivity or lack of control over the social situation.",
+      "Action": "Sits quietly on the sofa rather than engaging actively in the social interaction or attempting to moderate Mary's boisterous behavior.",
+      "Competence": 0,
+      "Chunk": 49
+    },
+    {
+      "Action": "Brings Jakob's student into a questionable social setting, risking Jakob's professional standing without apparent concern.",
       "Competence": -1,
       "Chunk": 49
     },
     {
-      "Action": "Sits down quietly while others take action (Slattery leaves to get whiskey), showing a more passive or resigned stance.",
-      "Competence": 0,
-      "Chunk": 49
-    },
-    {
-      "Action": "Dismisses Jakob's concern about bringing his student into the setting with a casual, somewhat flippant remark.",
-      "Competence": 0,
-      "Chunk": 49
-    },
-    {
-      "Action": "Encourages Jakob to make a toast and shares a moment of camaraderie.",
+      "Action": "Expresses deep care and responsibility for Doyle, the dog he rescued and saved from dying, showing gratitude and commitment to protect him.",
       "Warmth": 1,
-      "Chunk": 50
+      "Chunk": 51
     },
     {
-      "Action": "Offers to find a home for Doyle, showing concern for the dog’s well-being.",
+      "Action": "Asks Jake to take his dog home, showing trust and straightforward communication.",
+      "Competence": 1,
+      "Chunk": 52
+    },
+    {
+      "Action": "Engages in casual banter and camaraderie with friends, indicating social confidence.",
+      "Competence": 1,
+      "Chunk": 52
+    },
+    {
+      "Action": "Displays humor and quick retorts (e.g., with Kostya), suggesting social skill and presence of mind.",
+      "Competence": 1,
+      "Chunk": 52
+    },
+    {
+      "Action": "Light teasing Kostya about the girl he picked out with good-natured sarcasm.",
       "Warmth": 1,
-      "Chunk": 50
+      "Chunk": 53
     },
     {
-      "Action": "Makes a crude comment about liking 'little girls with tattoos.'",
-      "Warmth": -1,
-      "Chunk": 50
+      "Action": "Engages Slattery gently, putting his hand on his arm and inviting him to talk privately.",
+      "Warmth": 1,
+      "Chunk": 53
     },
     {
-      "Action": "Acknowledges the distance growing between him and Jakob but still expresses some respect.",
+      "Action": "Declines Kostya's pushiness to meet the girl, showing respect for his own and others' moods/boundaries.",
       "Warmth": 0,
-      "Chunk": 50
+      "Chunk": 53
     },
     {
-      "Action": "Engages in casual, somewhat inappropriate conversation about a minor and shows a cavalier attitude toward potential consequences.",
+      "Action": "Grins and punches Jakob's arm, showing a casual, confident demeanor in a tense environment.",
+      "Competence": 1,
+      "Chunk": 54
+    },
+    {
+      "Action": "Decides to meet Kostya downstairs but first intends to talk with Frank about something important, indicating a planned, purposeful approach.",
+      "Competence": 1,
+      "Chunk": 54
+    },
+    {
+      "Action": "Nods in response to Kostya's message about 'Uncle Blue' and the waiting girl, demonstrating awareness and readiness to handle social and potentially risky situations.",
+      "Competence": 1,
+      "Chunk": 54
+    },
+    {
+      "Action": "Closes eyes momentarily and appears tired or stressed, which might indicate fatigue or momentary lapse in focus.",
+      "Competence": 0,
+      "Chunk": 54
+    },
+    {
+      "Action": "Greets the hoodlums warmly, indicating friendly and sincere behavior.",
+      "Warmth": 1,
+      "Chunk": 55
+    },
+    {
+      "Action": "Presses forehead against window, emotionally withdrawn and doubtful about future plans.",
+      "Warmth": 0,
+      "Chunk": 55
+    },
+    {
+      "Action": "Rejects Slattery's hopeful idea lightheartedly but without rancor (hates green beer but appreciates the thought).",
+      "Warmth": 1,
+      "Chunk": 55
+    },
+    {
+      "Action": "Expresses doubt about friends' presence for support tomorrow despite Slattery's promise.",
+      "Warmth": -1,
+      "Chunk": 55
+    },
+    {
+      "Action": "Monty confidently greets the hoodlums and maintains connections with local figures indicating social competence and streetwise awareness.",
+      "Competence": 1,
+      "Chunk": 55
+    },
+    {
+      "Action": "Monty has studied his legal options seriously and realistically acknowledges his sentence and future, demonstrating thoughtful appraisal of his situation.",
+      "Competence": 1,
+      "Chunk": 55
+    },
+    {
+      "Action": "Monty expresses doubt about future plans such as opening a bar with Slattery, showing cautious realism but also a lack of optimistic initiative.",
+      "Competence": 0,
+      "Chunk": 55
+    },
+    {
+      "Action": "Monty questions Slattery's promise to be there for him after prison, showing skepticism and lack of emotional trust but also insight into reality of relationships.",
+      "Competence": 0,
+      "Chunk": 55
+    },
+    {
+      "Action": "Plans to meet Slattery privately to discuss a favor, shows trust in him.",
+      "Warmth": 1,
+      "Chunk": 56
+    },
+    {
+      "Action": "Hosts a crowded VIP room with friends and acquaintances, showing social inclusiveness.",
+      "Warmth": 1,
+      "Chunk": 56
+    },
+    {
+      "Action": "Points out Mary dancing wildly on a platform, acknowledging others' presence and perhaps their appeal.",
+      "Warmth": 0,
+      "Chunk": 56
+    },
+    {
+      "Action": "Plans to meet Slattery privately to discuss matters away from others, showing discretion and foresight.",
+      "Competence": 1,
+      "Chunk": 56
+    },
+    {
+      "Action": "Points out the situation with Jake and Mary, indicating awareness of his surroundings and social dynamics.",
+      "Competence": 1,
+      "Chunk": 56
+    },
+    {
+      "Action": "Sits passively on a bean bag drinking champagne while a prostitute attends to him, showing lack of engagement or proactive behavior.",
       "Competence": -1,
-      "Chunk": 50
+      "Chunk": 59
     },
     {
-      "Action": "Recognizes Jakob's intelligence and expresses a nostalgic respect, indicating social awareness and emotional insight.",
-      "Competence": 1,
-      "Chunk": 50
-    },
-    {
-      "Action": "Initiates a toast and attempts to create a meaningful moment despite impending separation, showing social skill and confidence.",
-      "Competence": 1,
-      "Chunk": 50
-    },
-    {
-      "Action": "Offers to take care of Jakob's dog Doyle, showing responsibility and practical problem-solving.",
-      "Competence": 1,
-      "Chunk": 50
-    },
-    {
-      "Action": "Dismisses concerns about Doyle's living conditions lightly, which may indicate a lack of thorough consideration.",
-      "Competence": 0,
-      "Chunk": 50
-    },
-    {
-      "Action": "Expresses deep care and responsibility for his dog Doyle, emphasizing he saved him and will protect him at all costs.",
-      "Warmth": 1,
-      "Chunk": 51
-    },
-    {
-      "Action": "Expresses deep responsibility and commitment to saving and caring for Doyle, showing emotional intelligence and a sense of accountability.",
-      "Competence": 1,
-      "Chunk": 51
-    },
-    {
-      "Action": "Threatens to take extreme action himself (put a bullet in the dog) if the dog is euthanized, indicating a willingness to take control in difficult situations.",
-      "Competence": 1,
-      "Chunk": 51
-    },
-    {
-      "Action": "Focuses on emotional attachment and personal responsibility rather than practical solutions for Doyle's future, which may limit his effectiveness.",
-      "Competence": 0,
-      "Chunk": 51
-    },
-    {
-      "Action": "Asks Jake to take his dog home as a favor, showing trust and vulnerability.",
-      "Warmth": 1,
-      "Chunk": 52
-    },
-    {
-      "Action": "Raps Slattery's knee and makes a friendly comment about Jake's girl, showing camaraderie and friendliness.",
-      "Warmth": 1,
-      "Chunk": 52
-    },
-    {
-      "Action": "Jokes insultingly with Kostya ('I should have shot you, you fat Russian fuck'), but in a context of close friendship and mutual teasing.",
-      "Warmth": 0,
-      "Chunk": 52
-    },
-    {
-      "Action": "Asks Jake to take his dog home, showing trust and clear communication.",
-      "Competence": 1,
-      "Chunk": 52
-    },
-    {
-      "Action": "Engages in casual banter and jokes with friends, maintaining social connections.",
-      "Competence": 1,
-      "Chunk": 52
-    },
-    {
-      "Action": "Crouches with a .40 caliber automatic in hand, prepared for confrontation.",
-      "Competence": 1,
-      "Chunk": 52
-    },
-    {
-      "Action": "Puts his hand on Slattery's arm and invites him to talk privately, showing concern for his friend.",
-      "Warmth": 1,
-      "Chunk": 53
-    },
-    {
-      "Action": "Jokes about the girl Kostya picked out having three teeth, teasing but in a lighthearted way.",
-      "Warmth": 0,
-      "Chunk": 53
-    },
-    {
-      "Action": "Declines Kostya's offer to meet the girl, showing some social reservation or moodiness.",
-      "Warmth": 0,
-      "Chunk": 53
-    },
-    {
-      "Action": "Asks if Kostya has someone nice for his friends, showing consideration for others.",
-      "Warmth": 1,
-      "Chunk": 53
-    },
-    {
-      "Action": "Engages in a somewhat awkward exchange about the phrase 'Funny you should say that,' showing a desire to understand and communicate clearly.",
-      "Warmth": 1,
-      "Chunk": 53
-    },
-    {
-      "Action": "Questions Kostya's ambiguous statement to clarify meaning, showing attention and desire to understand.",
-      "Competence": 1,
-      "Chunk": 53
-    },
-    {
-      "Action": "Decides not to meet the girl Kostya offers, citing a preference to see Naturelle dancing downstairs, showing some control over his choices.",
-      "Competence": 0,
-      "Chunk": 53
-    },
-    {
-      "Action": "Invites Slattery to come talk with him despite Slattery's reluctance, demonstrating initiative and social confidence.",
-      "Competence": 1,
-      "Chunk": 53
-    },
-    {
-      "Action": "Tells Jakob to stay behind while he talks to Slattery, indicating some leadership or control over the situation.",
-      "Competence": 1,
-      "Chunk": 53
-    },
-    {
-      "Action": "Grins and punches Jakob's arm in a friendly manner, invites friends to go back to his place after the party.",
-      "Warmth": 1,
-      "Chunk": 54
-    },
-    {
-      "Action": "Tells Jakob to tell Nat whatever he wants, showing a casual, tolerant attitude.",
-      "Warmth": 1,
-      "Chunk": 54
-    },
-    {
-      "Action": "Closes his eyes and remains silent for a while, not engaging in conversation with Slattery.",
-      "Warmth": 0,
-      "Chunk": 54
-    },
-    {
-      "Action": "Grins and punches Jakob's arm, shows casual confidence in social interaction.",
-      "Competence": 1,
-      "Chunk": 54
-    },
-    {
-      "Action": "Takes initiative to organize plans after the party, showing leadership and decisiveness.",
-      "Competence": 1,
-      "Chunk": 54
-    },
-    {
-      "Action": "Closes eyes briefly and appears momentarily withdrawn or tired, possibly indicating stress or distraction.",
-      "Competence": 0,
-      "Chunk": 54
-    },
-    {
-      "Action": "Presses his forehead against the window, showing vulnerability and contemplation about his future.",
-      "Warmth": 1,
-      "Chunk": 55
-    },
-    {
-      "Action": "Greets hoodlums warmly and acknowledges them as 'brother'.",
-      "Warmth": 1,
-      "Chunk": 55
-    },
-    {
-      "Action": "Rejects Slattery's optimistic plan with a negative comment about green beer, but calls it a nice thought.",
-      "Warmth": 0,
-      "Chunk": 55
-    },
-    {
-      "Action": "Admits to Slattery that he does not believe Slattery will be there tomorrow, showing distrust or doubt.",
-      "Warmth": -1,
-      "Chunk": 55
-    },
-    {
-      "Action": "Monty confidently greets the hoodlums and discusses the upcoming bid, showing familiarity and calmness in a tense environment.",
-      "Competence": 1,
-      "Chunk": 55
-    },
-    {
-      "Action": "Monty has studied his options and realistically assesses his seven-year sentence, showing thoughtful consideration and acceptance.",
-      "Competence": 1,
-      "Chunk": 55
-    },
-    {
-      "Action": "Monty presses his forehead against the window, indicating stress and possible resignation.",
-      "Competence": 0,
-      "Chunk": 55
-    },
-    {
-      "Action": "Monty dismisses Slattery's optimistic plans for the future, showing a lack of hope or confidence in positive outcomes.",
-      "Competence": 0,
-      "Chunk": 55
-    },
-    {
-      "Action": "Monty doubts Slattery will be there for him tomorrow, showing mistrust or emotional guardedness.",
-      "Competence": 0,
-      "Chunk": 55
-    },
-    {
-      "Action": "Invites Slattery to stick around and go uptown later, showing trust and inclusion.",
-      "Warmth": 1,
-      "Chunk": 56
-    },
-    {
-      "Action": "Points out Mary dancing wildly on a platform, indicating familiarity and casual acceptance of friends' behavior.",
-      "Warmth": 1,
-      "Chunk": 56
-    },
-    {
-      "Action": "Asks Slattery for a favor discreetly and plans to meet uptown later, showing awareness of surroundings and caution.",
-      "Competence": 1,
-      "Chunk": 56
-    },
-    {
-      "Action": "Points out Mary dancing wildly on a platform, indicating social awareness and control over his environment.",
-      "Competence": 1,
-      "Chunk": 56
-    },
-    {
-      "Action": "Sits calmly on a bean bag, drinks champagne, and allows a prostitute to attend to him without apparent concern or urgency.",
+      "Action": "Later sits contemplatively on a park bench alone, suggesting introspection and calmness.",
       "Competence": 0,
       "Chunk": 59
     },
     {
-      "Action": "Approaches two girls on the swings and politely asks to bum a smoke despite being ignored.",
+      "Action": "Approaches two girls smoking on swings and politely asks to bum a cigarette, tries to engage in friendly conversation despite their initial coldness.",
       "Warmth": 1,
       "Chunk": 60
     },
     {
-      "Action": "Does not recognize Lindsay but chooses to respond politely to avoid rudeness.",
+      "Action": "Does not recognize Lindsay but chooses to respond politely rather than rudely.",
       "Warmth": 1,
       "Chunk": 60
     },
     {
-      "Action": "Engages in light conversation with Naturelle, showing interest in her and her friend.",
+      "Action": "Seems curious and interested in Naturelle, compliments her name and asks about her friend in a casual, friendly way.",
       "Warmth": 1,
       "Chunk": 60
     },
     {
-      "Action": "Questions Naturelle about her friend's behavior in a casual, non-confrontational way.",
+      "Action": "Does not insist or pressure the girls when they avoid or dismiss him, shows tolerance and patience.",
       "Warmth": 1,
       "Chunk": 60
     },
     {
-      "Action": "Approaches two girls smoking and tries to engage them in conversation, asking for a cigarette politely.",
+      "Action": "Approaches and tries to engage with younger girls smoking in the park, asks to bum a smoke, cautiously responses to their evasiveness.",
       "Competence": 0,
       "Chunk": 60
     },
     {
-      "Action": "Does not recognize Lindsay but pretends to, to avoid being rude.",
+      "Action": "Doesn't recognize Lindsay even though she claims to have met him before but pretends to recognize her to avoid rudeness.",
       "Competence": 0,
       "Chunk": 60
     },
     {
-      "Action": "Fails to assert himself or command respect from the girls, who largely ignore or dismiss him.",
-      "Competence": -1,
-      "Chunk": 60
-    },
-    {
-      "Action": "Smiles and sits next to Naturelle on the swing, tries to engage in lighthearted activity despite awkwardness.",
+      "Action": "Smiles and sits next to Naturelle on the swing, tries to engage in a light moment despite awkwardness.",
       "Warmth": 1,
       "Chunk": 61
     },
     {
-      "Action": "Taps Marguerite on the shoulder gently and compliments her sincerely.",
+      "Action": "Acknowledges Marguerite's beauty sincerely and admits fault, showing self-awareness and respect.",
       "Warmth": 1,
       "Chunk": 61
     },
     {
-      "Action": "Zips his fly after Marguerite's flirtatious comment, showing a casual, somewhat dismissive attitude.",
-      "Warmth": 0,
+      "Action": "Zips his fly after Marguerite's flirtatious remark, indicating a potentially dismissive or guarded response.",
+      "Warmth": -1,
       "Chunk": 61
     },
     {
-      "Action": "Tries swinging on the swing but admits he never really got the hang of it.",
-      "Competence": 0,
-      "Chunk": 61
-    },
-    {
-      "Action": "Taps Marguerite on the shoulder to get her attention and engages in a brief, confident exchange.",
-      "Competence": 1,
-      "Chunk": 61
-    },
-    {
-      "Action": "Responds to Marguerite's question about being an actor with confident humor ('Yeah. I'ma star.'), showing self-assuredness.",
-      "Competence": 1,
-      "Chunk": 61
-    },
-    {
-      "Action": "Acts strangely and seems distrustful toward Naturelle, possibly pushing her away.",
+      "Action": "Behaves strangely and seems distrustful toward Naturelle, possibly pushing people away before prison.",
       "Warmth": -1,
       "Chunk": 62
     },
     {
-      "Action": "Says goodbye to everyone before going to prison, indicating some care for his social connections.",
+      "Action": "Says goodbye to everyone, implying a desire to connect one last time.",
       "Warmth": 1,
       "Chunk": 62
     },
     {
-      "Action": "Is acting really strange and scared before going to prison, not showing confidence or control.",
-      "Competence": -1,
-      "Chunk": 62
+      "Action": "Is described as selling pot to kids and ruining his own life, with no indication of remorse or warmth in this excerpt.",
+      "Warmth": -1,
+      "Chunk": 63
     },
     {
-      "Action": "Says goodbye to everyone, indicating awareness of his situation and social awareness.",
-      "Competence": 0,
-      "Chunk": 62
-    },
-    {
-      "Action": "Described by friends as someone they let down and watched ruin his life without intervention.",
+      "Action": "Responds simply and politely to Kostya, calling the girl 'very nice' indicating some basic cordiality.",
       "Warmth": 0,
       "Chunk": 63
     },
     {
-      "Action": "Responds simply and politely when asked about a girl, saying 'She's very nice.'",
-      "Warmth": 1,
-      "Chunk": 63
-    },
-    {
-      "Action": "Monty continues selling pot to kids despite knowing the risks and consequences.",
+      "Action": "Continues selling pot to kids despite risks, leading to law enforcement targeting him.",
       "Competence": -1,
       "Chunk": 63
     },
     {
-      "Action": "Walks slowly and calmly with Kostya, showing some composure in a tense situation.",
+      "Action": "Does not respond to friends' warnings or attempts to intervene to prevent his downfall.",
+      "Competence": -1,
+      "Chunk": 63
+    },
+    {
+      "Action": "Interacts calmly and politely (e.g., responding simply to Kostya about liking a girl).",
       "Competence": 0,
       "Chunk": 63
     },
     {
-      "Action": "Thanks Uncle Blue for setting up the party.",
+      "Action": "Thanks Uncle Blue for setting up the party, showing appreciation.",
       "Warmth": 1,
       "Chunk": 64
     },
     {
-      "Action": "Complies with security procedures without complaint (handing over guns, being searched).",
+      "Action": "Participates in a tense armed situation without showing hostility or aggression.",
       "Warmth": 0,
       "Chunk": 64
     },
     {
-      "Action": "Calmly follows security procedures by handing over guns and cooperating with searches without showing panic.",
+      "Action": "Calmly enters a tense situation, follows security protocols (handing guns, being searched) without hesitation.",
       "Competence": 1,
       "Chunk": 64
     },
     {
-      "Action": "Engages respectfully and confidently with Uncle Blue, showing social awareness and control in a tense environment.",
+      "Action": "Responds politely and acknowledges setup by Uncle Blue, indicating social awareness and respect.",
       "Competence": 1,
       "Chunk": 64
     },
     {
-      "Action": "Does not display overt signs of confusion or hesitation during the interaction, maintaining composure.",
+      "Action": "Shows patience and attentiveness by listening quietly to Uncle Blue’s story without interruption.",
       "Competence": 1,
       "Chunk": 64
     },
     {
-      "Action": "Stares at the floor when personal family details are revealed, showing discomfort but no hostility.",
+      "Action": "Remains silent and listens as others talk about his father and family, showing restraint and respect.",
+      "Warmth": 1,
+      "Chunk": 65
+    },
+    {
+      "Action": "Refuses to escalate situation by saying 'You don't need to do this,' indicating desire to protect his father.",
+      "Warmth": 1,
+      "Chunk": 65
+    },
+    {
+      "Action": "Acknowledges understanding of Uncle Blue's intentions without hostility.",
+      "Warmth": 1,
+      "Chunk": 65
+    },
+    {
+      "Action": "Stays silent and listens carefully during a tense conversation, avoiding escalating the situation.",
+      "Competence": 1,
+      "Chunk": 65
+    },
+    {
+      "Action": "Does not immediately refute or challenge the insinuations and offers related to his father, showing restraint and caution.",
+      "Competence": 1,
+      "Chunk": 65
+    },
+    {
+      "Action": "Appears to avoid eye contact and stares at the floor when confronted with specific details about his father's life, which may indicate discomfort or evasiveness.",
+      "Competence": -1,
+      "Chunk": 65
+    },
+    {
+      "Action": "Admits to never having fired the gun at someone, indicating reluctance to violence.",
+      "Warmth": 1,
+      "Chunk": 66
+    },
+    {
+      "Action": "Tells Uncle Blue he never said a word to anyone despite pressure, showing loyalty and trustworthiness.",
+      "Warmth": 1,
+      "Chunk": 66
+    },
+    {
+      "Action": "Turns away when confronted by the Zakharov twins, indicating fear or avoidance rather than aggression.",
       "Warmth": 0,
-      "Chunk": 65
-    },
-    {
-      "Action": "Politely refuses help for his father, saying 'You don't need to do this' and 'I never said a word to anyone.'",
-      "Warmth": 1,
-      "Chunk": 65
-    },
-    {
-      "Action": "Acknowledges understanding of Uncle Blue's intentions without confrontation.",
-      "Warmth": 1,
-      "Chunk": 65
-    },
-    {
-      "Action": "Stays silent and listens carefully during a tense conversation, showing restraint and awareness.",
-      "Competence": 1,
-      "Chunk": 65
-    },
-    {
-      "Action": "Acknowledges the implications of Uncle Blue's offer without resistance, indicating understanding of the situation.",
-      "Competence": 1,
-      "Chunk": 65
-    },
-    {
-      "Action": "Does not immediately refuse or challenge the offer involving his father, possibly showing passivity or lack of assertiveness.",
-      "Competence": -1,
-      "Chunk": 65
-    },
-    {
-      "Action": "Refuses to betray others despite pressure and threat.",
-      "Warmth": 1,
       "Chunk": 66
     },
     {
-      "Action": "Shows desperation and fear but maintains silence to protect others.",
-      "Warmth": 1,
-      "Chunk": 66
-    },
-    {
-      "Action": "Passively allows violence against Kostya without intervening.",
+      "Action": "Passively observes Kostya being attacked and does not intervene.",
       "Warmth": -1,
       "Chunk": 66
     },
     {
-      "Action": "Nods confidently when asked about the gun's accuracy and reliability, showing familiarity with the weapon.",
+      "Action": "Monty accurately assesses the gun's reliability and responds knowledgeably to Uncle Blue's questions about it.",
       "Competence": 1,
       "Chunk": 66
     },
     {
-      "Action": "Admits he has never fired the gun at someone, indicating lack of practical experience despite theoretical knowledge.",
+      "Action": "Monty remains calm and truthful under pressure when confronted by the Zakharov twins and Uncle Blue, refusing to betray others.",
+      "Competence": 1,
+      "Chunk": 66
+    },
+    {
+      "Action": "Monty appears hesitant and desperate when forced to confront armed men, suggesting uncertainty and lack of control.",
       "Competence": -1,
       "Chunk": 66
     },
     {
-      "Action": "Maintains silence under pressure and does not betray anyone despite threats and violence around him.",
+      "Action": "Monty listens carefully to Uncle Blue’s instructions about navigating dangerous social dynamics, demonstrating willingness to learn and adapt.",
       "Competence": 1,
       "Chunk": 66
     },
     {
-      "Action": "Appears desperate and turns repeatedly, showing signs of anxiety and lack of control in a dangerous situation.",
+      "Action": "Monty’s passive reactions and momentary turning away from danger could imply a momentary lack of confidence or initiative.",
       "Competence": -1,
       "Chunk": 66
     },
     {
-      "Action": "Refuses to take the pistol offered to him for revenge.",
+      "Action": "Refuses to shoot Kostya despite being offered a pistol to kill him for betrayal.",
       "Warmth": 1,
       "Chunk": 67
     },
     {
-      "Action": "Crouches down beside Kostya, who is injured, showing concern despite betrayal.",
-      "Warmth": 1,
+      "Action": "Grabs the pistol from Valghobek showing readiness but does not act aggressively.",
+      "Warmth": 0,
       "Chunk": 67
     },
     {
-      "Action": "Silences Kostya when he tries to explain, indicating a lack of tolerance or openness.",
-      "Warmth": -1,
-      "Chunk": 67
-    },
-    {
-      "Action": "Grabs the pistol from Valghobek and asserts he knows how to use it, showing readiness and control in a tense situation.",
+      "Action": "Grabs the pistol from Valghobek confidently and states 'I know how to use it.'",
       "Competence": 1,
       "Chunk": 67
     },
     {
-      "Action": "Refuses to take the pistol initially, showing hesitation or reluctance to engage in violence.",
-      "Competence": 0,
+      "Action": "Refuses to take the pistol when first offered, showing hesitation.",
+      "Competence": -1,
       "Chunk": 67
     },
     {
-      "Action": "Crouches beside Kostya after he is shot, indicating presence of mind and concern despite the danger.",
+      "Action": "Crouches down beside Kostya and silences him, maintaining control of the situation despite emotional stress.",
       "Competence": 1,
       "Chunk": 67
     },
     {
-      "Action": "Presses gun to Kostya's head but ultimately chooses not to shoot and puts the safety back on.",
-      "Warmth": 1,
+      "Action": "Flicks gun safety off, presses muzzle to friend's skull, but then chooses not to shoot and puts safety back on.",
+      "Warmth": 0,
       "Chunk": 68
     },
     {
-      "Action": "Expresses that nothing matters except protecting his father, showing loyalty and protective instincts.",
+      "Action": "Says to Kostya 'You were my friend' before sparing him.",
       "Warmth": 1,
       "Chunk": 68
     },
     {
-      "Action": "Walks away without looking back after the confrontation, showing restraint and possibly regret.",
+      "Action": "Threatens those who might hurt his father, showing fierce protective loyalty.",
       "Warmth": 1,
       "Chunk": 68
     },
     {
-      "Action": "Flicks off the safety and presses the gun to Kostya's skull, showing readiness to kill but ultimately chooses not to, demonstrating control and restraint.",
-      "Competence": 1,
+      "Action": "Does not struggle when restrained, and quietly walks away without looking back.",
+      "Warmth": 0,
       "Chunk": 68
     },
     {
-      "Action": "Does not struggle when grabbed by the Zakharov twins, maintaining composure and avoiding escalation.",
-      "Competence": 1,
-      "Chunk": 68
-    },
-    {
-      "Action": "Threatens to kill if his father is hurt, showing protective instincts but also potential recklessness.",
-      "Competence": 0,
-      "Chunk": 68
-    },
-    {
-      "Action": "Walks out without looking back after the confrontation, indicating emotional control and acceptance of the situation.",
-      "Competence": 1,
-      "Chunk": 68
-    },
-    {
-      "Action": "Appears mentally distant and unresponsive when Jakob asks the time, showing detachment from companions' concerns.",
-      "Warmth": -1,
-      "Chunk": 69
-    },
-    {
-      "Action": "Pulls out a photograph from his wallet given by his father, indicating sentimental value and connection to family.",
+      "Action": "Shares quiet, reflective moments with friends (Frank and Jakob) despite tense circumstances.",
       "Warmth": 1,
       "Chunk": 69
     },
     {
-      "Action": "Enters his apartment and closes the bedroom door behind him, separating himself from friends and dog who are present and engaged.",
-      "Warmth": -1,
+      "Action": "Pulls out and looks at a cherished photo from his father, showing a sentimental side.",
+      "Warmth": 1,
       "Chunk": 69
     },
     {
-      "Action": "Is mentally absent and dazed when asked a simple question about the time, responding vaguely and slowly.",
+      "Action": "Shows mental withdrawal and dazed behavior, not fully engaging with companions’ questions.",
+      "Warmth": 0,
+      "Chunk": 69
+    },
+    {
+      "Action": "Allows his dog Doyle to greet friends excitedly, implicitly showing care for the pet and a warm home environment.",
+      "Warmth": 1,
+      "Chunk": 69
+    },
+    {
+      "Action": "Withdraws alone into his bedroom, possibly isolating himself from his friends.",
+      "Warmth": 0,
+      "Chunk": 69
+    },
+    {
+      "Action": "Is mentally distracted and not fully present when Jakob asks for the time, responding only vaguely and after a pause.",
       "Competence": -1,
       "Chunk": 69
     },
     {
-      "Action": "Pulls out a meaningful photograph from his wallet, showing presence of mind and emotional grounding.",
+      "Action": "Finds and looks at a meaningful photograph from his past, showing reflective and calm behavior.",
       "Competence": 1,
       "Chunk": 69
     },
     {
-      "Action": "Kneels beside Naturelle, takes her hand, and expresses regret and concern about their relationship.",
-      "Warmth": 1,
-      "Chunk": 70
-    },
-    {
-      "Action": "Kisses Naturelle fiercely before leaving the room, indicating affection despite impending separation.",
-      "Warmth": 1,
-      "Chunk": 70
-    },
-    {
-      "Action": "Takes Doyle for one last walk, showing care and responsibility toward his dog.",
-      "Warmth": 1,
-      "Chunk": 70
-    },
-    {
-      "Action": "Kneels beside Naturelle, takes her hand, and expresses his feelings honestly and vulnerably.",
+      "Action": "Leads the group through the stairwell and into his apartment without apparent confusion or hesitation.",
       "Competence": 1,
+      "Chunk": 69
+    },
+    {
+      "Action": "Kneels beside Naturelle and takes her hand, expresses regret and sincerity about mistakes, asks not to be hated.",
+      "Warmth": 1,
       "Chunk": 70
     },
     {
-      "Action": "Decides to leave Naturelle despite her asking him to stay, stating he has one last thing to do.",
+      "Action": "Kisses Naturelle fiercely before leaving, shows affection despite impending separation.",
+      "Warmth": 1,
+      "Chunk": 70
+    },
+    {
+      "Action": "Takes the dog Doyle for one last walk, showing care and responsibility towards his pet.",
+      "Warmth": 1,
+      "Chunk": 70
+    },
+    {
+      "Action": "Expresses vulnerability and regret openly to Naturelle, admitting mistakes and emotional failings.",
       "Competence": 0,
       "Chunk": 70
     },
     {
-      "Action": "Grabs the leash and takes Doyle for one last walk, showing a sense of responsibility and calmness in a difficult moment.",
+      "Action": "Prioritizes spending meaningful last moments with loved ones, showing emotional intelligence and awareness of what matters.",
       "Competence": 1,
       "Chunk": 70
     },
     {
-      "Action": "Takes his dog Doyle for a walk in the snow, interacts gently with the dog, whistles for him to come, and shows a lighthearted, friendly demeanor.",
+      "Action": "Decides to take one last walk with his dog despite limited time, showing a moment of calm and control in a difficult situation.",
+      "Competence": 1,
+      "Chunk": 70
+    },
+    {
+      "Action": "Interrupts an intimate moment to state he has 'one last thing' to do, indicating careful planning and a sense of purpose even in limited time.",
+      "Competence": 1,
+      "Chunk": 70
+    },
+    {
+      "Action": "Follows along on a snowy walk, shows gentle interaction with his dog Doyle, whistles for him and reacts to his playful behavior.",
       "Warmth": 1,
       "Chunk": 71
     },
     {
-      "Action": "Engages in casual, sincere conversation with Jakob about simple pleasures like working on a tugboat, showing openness and friendliness.",
+      "Action": "Engages in casual friendly conversation with Jakob, shares a light-hearted wish about tugboat work.",
       "Warmth": 1,
       "Chunk": 71
     },
     {
-      "Action": "Follows the dog patiently through deep snow, engages in casual conversation, and plans ahead by asking for a favor.",
-      "Competence": 1,
-      "Chunk": 71
-    },
-    {
-      "Action": "Expresses a whimsical desire to work on a tugboat without clear follow-up or practical steps.",
+      "Action": "Talks about wanting to work on a tugboat, expressing a simple wish without concrete plans or action.",
       "Competence": 0,
       "Chunk": 71
     },
     {
-      "Action": "Asks Slattery to hit him to make him 'ugly' so he won't be recognized, pushing Slattery aggressively and accusing him of wanting to hit him for years.",
+      "Action": "Successfully calls his dog, Doyle, who responds promptly and obediently.",
+      "Competence": 1,
+      "Chunk": 71
+    },
+    {
+      "Action": "Asks Slattery to hit him to make him look tougher, insists repeatedly despite Slattery's refusal.",
       "Warmth": -1,
       "Chunk": 72
     },
     {
-      "Action": "Refastens the dog's leash securely and takes care to ensure the dog is safe before proceeding.",
-      "Warmth": 1,
-      "Chunk": 72
-    },
-    {
-      "Action": "Refastens the leash securely, checks the knot twice to ensure it is secure.",
+      "Action": "Refastens the leash securely and ties a double knot, checking it carefully.",
       "Competence": 1,
       "Chunk": 72
     },
     {
-      "Action": "Directly confronts Slattery and insists on being made 'ugly' to avoid recognition, showing strategic thinking about his appearance and situation.",
-      "Competence": 1,
+      "Action": "Asks Slattery to physically hurt him to make himself 'ugly' for protection, showing a calculated but desperate strategy.",
+      "Competence": 0,
       "Chunk": 72
     },
     {
-      "Action": "Pressures Slattery aggressively to hit him, despite Slattery's refusal and discomfort, escalating tension unnecessarily.",
+      "Action": "Pressures Slattery aggressively to comply with his request despite obvious discomfort and refusal, showing poor social tact and potential loss of control.",
       "Competence": -1,
       "Chunk": 72
     },
     {
-      "Action": "Clears snow off a bench and lays down his coat to prepare for the situation, showing practical preparation.",
-      "Competence": 1,
-      "Chunk": 72
-    },
-    {
-      "Action": "Ignores Jakob's attempt to intervene and dismisses others' concerns, potentially undermining social support or collaboration.",
-      "Competence": -1,
-      "Chunk": 72
-    },
-    {
-      "Action": "Shoves Slattery hard after accusing him of staring at Naturelle.",
+      "Action": "Shoves Slattery hard when accusing him of staring at Naturelle; punches Jakob repeatedly causing him to fall to his knees.",
       "Warmth": -1,
       "Chunk": 73
     },
     {
-      "Action": "Punches Jakob hard twice, causing him to fall and gasp in pain.",
-      "Warmth": -1,
-      "Chunk": 73
-    },
-    {
-      "Action": "Shoves Slattery hard and punches Jakob twice, showing physical assertiveness and control in a tense situation.",
-      "Competence": 1,
-      "Chunk": 73
-    },
-    {
-      "Action": "Engages in escalating physical violence that leads to being pinned down by Slattery and punched repeatedly.",
+      "Action": "Physically confronts Jakob by punching him repeatedly, escalating conflict rather than resolving it.",
       "Competence": -1,
       "Chunk": 73
     },
     {
-      "Action": "Despite severe injuries, tries to stand and insists 'It's okay' to others, showing concern for not worrying them.",
-      "Warmth": 1,
+      "Action": "Shoves Slattery and directly challenges him about his feelings towards Naturelle, demonstrating boldness but provoking tension.",
+      "Competence": 0,
+      "Chunk": 73
+    },
+    {
+      "Action": "Despite severe injury and weakness, insists it's okay and moves toward others refusing help.",
+      "Warmth": 0,
       "Chunk": 74
     },
     {
-      "Action": "Refuses to go to the hospital despite serious condition, possibly to avoid burdening others.",
-      "Warmth": 1,
-      "Chunk": 74
-    },
-    {
-      "Action": "Despite severe injuries and bleeding, Monty attempts to stand and crawl forward, showing physical resilience and determination.",
+      "Action": "Despite severe injuries and blood loss, attempts to stand and move forward, showing physical resilience and determination.",
       "Competence": 1,
       "Chunk": 74
     },
     {
-      "Action": "Refuses to go to the hospital despite serious injuries, indicating possible denial or poor judgment about his condition.",
+      "Action": "Refuses to go to the hospital despite critical condition, indicating possible poor judgment or denial.",
       "Competence": -1,
       "Chunk": 74
     },
     {
-      "Action": "Bends down unsteadily and scratches behind Doyle the dog's ear, speaks gently to him.",
-      "Warmth": 1,
-      "Chunk": 75
-    },
-    {
-      "Action": "Leans over and kisses Slattery's forehead while he sobs, expresses sorrow.",
-      "Warmth": 1,
-      "Chunk": 75
-    },
-    {
-      "Action": "Touches Jakob's shoulder and apologizes sincerely.",
-      "Warmth": 1,
-      "Chunk": 75
-    },
-    {
-      "Action": "Asks Jakob to take care of his dog before leaving.",
-      "Warmth": 1,
-      "Chunk": 75
-    },
-    {
-      "Action": "Smiles at Naturelle despite his pain, allowing a moment of connection.",
-      "Warmth": 1,
-      "Chunk": 75
-    },
-    {
-      "Action": "Tells Naturelle he doesn't want her to visit, despite her caring actions.",
-      "Warmth": -1,
-      "Chunk": 75
-    },
-    {
-      "Action": "Bends down unsteadily but gently scratches behind the dog's ear and speaks soothingly to it.",
+      "Action": "Bends down unsteadily to comfort the dog and expresses care and apology to those around him despite his injured and weakened state.",
       "Competence": 0,
       "Chunk": 75
     },
     {
-      "Action": "Leans over and kisses Slattery's forehead, showing empathy but not taking action to help.",
-      "Competence": 0,
+      "Action": "Touches others gently and makes short, meaningful requests (e.g., 'Take care of my dog') demonstrating some degree of clear thinking and responsibility in crisis.",
+      "Competence": 1,
       "Chunk": 75
     },
     {
-      "Action": "Touches Jakob's shoulder and apologizes, showing emotional awareness but no practical solution.",
-      "Competence": 0,
-      "Chunk": 75
-    },
-    {
-      "Action": "Instructs Jakob to take care of his dog before walking away limping and injured.",
-      "Competence": 0,
-      "Chunk": 75
-    },
-    {
-      "Action": "Walks away limping through the snow despite serious injuries, showing physical weakness and possible poor self-care.",
+      "Action": "Limps through snow badly injured, spits up blood, and shows physical weakness and diminished control over himself.",
       "Competence": -1,
       "Chunk": 75
     },
     {
-      "Action": "Smiles at Naturelle despite severe injuries and tries to speak but chokes and spits blood.",
+      "Action": "Refuses hospital assistance, despite obvious physical trauma, which could be seen as a misguided decision reflecting poor judgment.",
       "Competence": -1,
       "Chunk": 75
     },
     {
-      "Action": "Sits on sofa allowing Naturelle to tend to his wounds, resists her visiting him.",
-      "Competence": 0,
+      "Action": "Attempts to speak but chokes and suffers from impaired speech due to injury, indicating compromised capacity in the moment.",
+      "Competence": -1,
       "Chunk": 75
     },
     {
-      "Action": "Expresses vulnerability by asking why Naturelle stayed with him despite his situation.",
+      "Action": "Questions why Naturelle stayed with him despite his condition, expressing self-doubt and a sense of unworthiness.",
       "Warmth": 1,
       "Chunk": 76
     },
     {
-      "Action": "Refuses hospital help and insists on leaving despite injuries, showing self-reliance but potentially pushing others away.",
+      "Action": "Refuses to go to the hospital and pushes others away despite injury, showing reluctance to accept help.",
       "Warmth": 0,
       "Chunk": 76
     },
     {
-      "Action": "Prepares to leave quietly, packs suitcase, and plans to say goodbye, indicating a sincere and thoughtful farewell.",
-      "Warmth": 1,
-      "Chunk": 76
-    },
-    {
-      "Action": "Refuses to go to the hospital despite serious injury, insists on leaving immediately.",
-      "Competence": -1,
-      "Chunk": 76
-    },
-    {
-      "Action": "Has a packed suitcase ready, indicating prior preparation for departure.",
-      "Competence": 1,
-      "Chunk": 76
-    },
-    {
-      "Action": "Rejects his father's offer to drive him, insists on taking the subway despite difficulties.",
-      "Competence": 0,
-      "Chunk": 76
-    },
-    {
-      "Action": "Stares at the unmade bed before leaving, showing hesitation or emotional conflict.",
-      "Competence": -1,
-      "Chunk": 76
-    },
-    {
-      "Action": "Allows his father to drive him to the hospital despite initial resistance, showing trust and acceptance of help.",
-      "Warmth": 1,
-      "Chunk": 77
-    },
-    {
-      "Action": "Expresses sincere apology to Naturelle and shows emotional vulnerability.",
-      "Warmth": 1,
-      "Chunk": 77
-    },
-    {
-      "Action": "Tells Naturelle he wants her to be happy and asks her to do that for him, showing care and concern.",
-      "Warmth": 1,
-      "Chunk": 77
-    },
-    {
-      "Action": "Walks out and closes the door after emotional exchange, indicating a reserved or withdrawn behavior.",
+      "Action": "Prepares to leave quietly, pulls out rosary beads, says goodbye to his father calmly.",
       "Warmth": 0,
-      "Chunk": 77
+      "Chunk": 76
     },
     {
-      "Action": "Refuses hospital care despite injury, insists on walking away from help.",
+      "Action": "Insists on walking away instead of accepting offered help or practical solutions like hospital visit or ride, showing avoidance rather than effective problem-solving.",
       "Competence": -1,
       "Chunk": 77
     },
     {
-      "Action": "Acknowledges his emotional state and apologizes sincerely to Naturelle, showing self-awareness.",
-      "Competence": 1,
-      "Chunk": 77
-    },
-    {
-      "Action": "Allows his father to take charge of driving to the hospital despite his own objections, showing some trust and acceptance of help.",
+      "Action": "Communicates clearly his wishes and boundaries (e.g., 'No hospitals'), demonstrating some self-control and assertiveness.",
       "Competence": 0,
       "Chunk": 77
     },
     {
-      "Action": "Leans over to unlock the driver's door for his father, showing consideration.",
+      "Action": "Shows emotional intelligence by expressing heartfelt apologies and concern for Naturelle's happiness, indicating interpersonal competence.",
+      "Competence": 1,
+      "Chunk": 77
+    },
+    {
+      "Action": "Allows his father to drive and share concern about his injuries, remains silent but receptive.",
       "Warmth": 1,
       "Chunk": 78
     },
     {
-      "Action": "Says nothing in response to his father's concern and encouragement, remaining silent.",
+      "Action": "Does not respond verbally to his father's comforting comments, displays emotional reserve.",
       "Warmth": 0,
       "Chunk": 78
     },
     {
-      "Action": "Unknots the plastic bag and disposes of the ice carefully down the stairwell, showing awareness of surroundings and caution.",
+      "Action": "Unknots the plastic bag and dumps the ice down the stairwell carefully.",
       "Competence": 1,
       "Chunk": 78
     },
     {
-      "Action": "Eases carefully into the car and leans over to unlock the driver's door, demonstrating practical skill and attentiveness.",
+      "Action": "Eases carefully into the passenger seat, then leans over to unlock the driver's door.",
       "Competence": 1,
       "Chunk": 78
     },
     {
-      "Action": "Says nothing in response to his father's route plan and comments, showing passivity or lack of engagement in decision-making.",
-      "Competence": -1,
+      "Action": "Says nothing during Mr. Brogan's driving plan and silent moments, showing passivity rather than engagement.",
+      "Competence": 0,
       "Chunk": 78
     },
     {
-      "Action": "Admits uncertainty about how many attackers there were, indicating limited situational awareness or memory.",
-      "Competence": -1,
-      "Chunk": 78
-    },
-    {
-      "Action": "Waves back at a little boy on a bus and smiles, tries to connect by drawing his name on the frosted window.",
+      "Action": "Waves back at a little boy on a city bus, smiles and tries to write his name on the frosted window.",
       "Warmth": 1,
       "Chunk": 79
     },
     {
-      "Action": "Looks out the window and watches the city roll by, wanting to remember everything before leaving.",
-      "Warmth": 0,
-      "Chunk": 79
-    },
-    {
-      "Action": "Watches the city carefully, tries to remember everything during his last moments before incarceration.",
+      "Action": "Waves at a little boy on a bus, tries to connect by writing his name on the window.",
       "Competence": 1,
       "Chunk": 79
     },
     {
-      "Action": "Engages in a small, tender moment by waving back to a little boy and attempting to write his name on the frosted window.",
+      "Action": "Reflects quietly while watching the city, shows thoughtful awareness of his situation.",
+      "Competence": 1,
+      "Chunk": 79
+    },
+    {
+      "Action": "Struggles to complete writing his name before the bus pulls away.",
       "Competence": 0,
       "Chunk": 79
     },
     {
-      "Action": "Expresses a vulnerable, uncertain statement: 'I always thought I'd make you proud of me.'",
-      "Competence": 0,
-      "Chunk": 79
-    },
-    {
-      "Action": "Expresses a desire to make his father proud and imagines a warm, proud moment shared with his father and friends.",
+      "Action": "Shares a hopeful vision of making his father proud and imagines positive social interactions with his family and their friends.",
       "Warmth": 1,
       "Chunk": 80
     },
     {
-      "Action": "Listens quietly and contemplatively to his father's offer to escape and start over, showing openness and vulnerability.",
+      "Action": "Listens silently and reflects deeply on his father's offer to escape and start over, showing openness and vulnerability.",
       "Warmth": 1,
       "Chunk": 80
     },
     {
-      "Action": "Considers his father's offer to escape and start over, showing openness to alternative plans.",
+      "Action": "Stares at his father silently, closes his eyes while hearing his father's offer to escape and start anew.",
       "Competence": 0,
       "Chunk": 80
     },
     {
-      "Action": "Closes his eyes and reflects deeply on his situation, indicating internal processing but no decisive action.",
+      "Action": "Listens to his father's suggestion of fleeing and starting over without immediately reacting or refusing.",
       "Competence": 0,
       "Chunk": 80
     },
     {
-      "Action": "Raises a glass with Mr. Brogan in a gesture of camaraderie.",
+      "Action": "Raises a glass with Monty and shares a drink despite not having had one in nineteen years.",
       "Warmth": 1,
       "Chunk": 81
     },
     {
-      "Action": "Works efficiently and quickly behind the bar serving rowdy patrons.",
+      "Action": "Gives practical advice to Monty about starting a new life and avoiding past problems.",
       "Warmth": 1,
       "Chunk": 81
     },
     {
-      "Action": "Stands watching Mr. Brogan drive away, showing reflective or possibly distant behavior.",
-      "Warmth": 0,
+      "Action": "Tells Monty not to contact him or visit again, indicating emotional distance.",
+      "Warmth": -1,
       "Chunk": 81
     },
     {
-      "Action": "Reunites warmly with Naturelle at the bus station, embraces her despite the crowd.",
+      "Action": "Works efficiently serving a rowdy crowd, showing tolerance and patience.",
       "Warmth": 1,
-      "Chunk": 82
-    },
-    {
-      "Action": "Sits closely with Naturelle, sharing a quiet moment watching TV while she is pregnant.",
-      "Warmth": 1,
-      "Chunk": 82
-    },
-    {
-      "Action": "Addresses his family honestly about his past and encourages them to appreciate their life and luck.",
-      "Warmth": 1,
-      "Chunk": 82
-    },
-    {
-      "Action": "Looks at his family and Naturelle with awe and gratitude for the life he has created.",
-      "Warmth": 1,
-      "Chunk": 82
-    },
-    {
-      "Action": "Plans a future with Naturelle despite dangers, showing foresight and hope.",
-      "Competence": 1,
-      "Chunk": 82
-    },
-    {
-      "Action": "Accepts the reality of not returning to New York and the consequences, demonstrating realistic understanding.",
-      "Competence": 1,
-      "Chunk": 82
-    },
-    {
-      "Action": "Reflects on his life and legacy with his family, showing emotional intelligence and responsibility.",
-      "Competence": 1,
-      "Chunk": 82
-    },
-    {
-      "Action": "Sleeps in his car with a battered head, possibly indicating exhaustion or vulnerability.",
-      "Competence": 0,
-      "Chunk": 82
+      "Chunk": 81
     }
   ]
 }

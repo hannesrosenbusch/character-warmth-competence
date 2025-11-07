@@ -1,2049 +1,809 @@
 {
   "Jack Mosley": [
     {
-      "Action": "Accepts responsibility to babysit the crime scene until uniforms arrive, despite being out of shape and limping.",
+      "Action": "Accepts the responsibility to babysit the crime scene alone until uniformed officers arrive.",
       "Warmth": 1,
       "Chunk": 2
     },
     {
-      "Action": "Sits down with a bottle of whiskey and reads a newspaper while waiting at the crime scene.",
+      "Action": "Sits down calmly with a bottle of Cutty Sark and reads the news while waiting.",
       "Warmth": 0,
       "Chunk": 2
     },
     {
-      "Action": "Accepts responsibility to babysit the crime scene until uniforms arrive, follows instructions without leaving.",
+      "Action": "Follows orders to babysit the crime scene and does not leave until sealed, showing adherence to duty.",
       "Competence": 1,
       "Chunk": 2
     },
     {
-      "Action": "Appears out of shape, limping, and slightly buzzed when arriving at precinct, indicating physical decline and possible impaired state.",
+      "Action": "Arrives limping, out of shape and flushed from climbing stairs, indicating possible physical limitation but still completing the task.",
+      "Competence": 0,
+      "Chunk": 2
+    },
+    {
+      "Action": "Covers his nose with a handkerchief and methodically checks cabinets before settling down to wait with a bottle and newspaper.",
+      "Competence": 0,
+      "Chunk": 2
+    },
+    {
+      "Action": "Sits down and begins reading a newspaper while waiting, possibly showing patience or detachment rather than proactive vigilance.",
+      "Competence": 0,
+      "Chunk": 2
+    },
+    {
+      "Action": "Ignores an important remark about making sure to put the right dates on a wire request form, showing disregard for procedural detail.",
       "Competence": -1,
-      "Chunk": 2
-    },
-    {
-      "Action": "Covers his nose with a handkerchief and inspects the room, showing situational awareness and caution.",
-      "Competence": 1,
-      "Chunk": 2
-    },
-    {
-      "Action": "Sits down with a bottle of whiskey and a newspaper while waiting, which may suggest passivity or disengagement from active duty.",
-      "Competence": -1,
-      "Chunk": 2
-    },
-    {
-      "Action": "Jokes warmly and flirtatiously with Grace, showing familiarity and friendliness.",
-      "Warmth": 1,
       "Chunk": 3
     },
     {
-      "Action": "Ignores Grace’s reminder about the wire request details, showing some disregard for instructions.",
-      "Warmth": -1,
+      "Action": "Avoids Lieutenant Kincaid by slipping out of the coffee room and down the stairs like a kid without a hall pass, showing evasive and unprofessional behavior.",
+      "Competence": -1,
       "Chunk": 3
     },
     {
-      "Action": "Responds casually and with relief about work tasks, indicating a laid-back and approachable demeanor.",
-      "Warmth": 1,
+      "Action": "Shows casual confidence interacting with Grace, negotiating his schedule and handling minor tasks, indicating some basic workplace competence and comfort.",
+      "Competence": 1,
       "Chunk": 3
     },
     {
-      "Action": "Notices the elderly Chinese woman alone and retrieves her dog-eared photo album to return it to her.",
+      "Action": "Notices an elderly widow sitting alone; attempts to retrieve and preserve personal belongings (photo album) left behind.",
       "Warmth": 1,
       "Chunk": 4
     },
     {
-      "Action": "Attempts to avoid taking the assignment by suggesting others do it, citing being off the clock and tired.",
+      "Action": "Avoids eye contact after seeing the widow’s distress and walks away.",
       "Warmth": -1,
       "Chunk": 4
     },
     {
-      "Action": "Reluctantly accepts the assignment despite fatigue and frustration.",
-      "Warmth": 0,
+      "Action": "Argues with Lieutenant Kincaid about being assigned a minor task while off duty and fatigued.",
+      "Warmth": -1,
       "Chunk": 4
     },
     {
-      "Action": "Notices the elderly woman’s photo album slipping behind the bench and retrieves it, ensuring it gets to the detectives.",
+      "Action": "Notices the elderly woman’s photo album left behind and retrieves it, ensuring it is handed to a uniformed officer to return to the interview room.",
       "Competence": 1,
       "Chunk": 4
     },
     {
-      "Action": "Attempts to avoid taking the assignment by arguing with Kincaid and pointing out he is off the clock and tired.",
+      "Action": "Reluctantly accepts an inconvenient assignment from Lieutenant Kincaid despite being off the clock and wanting to avoid it.",
+      "Competence": 0,
+      "Chunk": 4
+    },
+    {
+      "Action": "Tries to pass off the assignment to other officers who are on light duty, showing an attempt to avoid responsibility.",
       "Competence": -1,
       "Chunk": 4
     },
     {
-      "Action": "Reluctantly accepts the assignment despite being off duty and exhausted, showing a degree of responsibility.",
-      "Competence": 0,
+      "Action": "Engages in a blunt, somewhat insubordinate exchange with his superior, Lieutenant Kincaid, which fails to assert his position effectively.",
+      "Competence": -1,
       "Chunk": 4
     },
     {
-      "Action": "Bangs on the cage window to get the corrections officer's attention.",
-      "Warmth": 0,
-      "Chunk": 5
-    },
-    {
-      "Action": "Shoves the pick up slip through the slot without a word, showing brusque behavior.",
-      "Warmth": -1,
-      "Chunk": 5
-    },
-    {
-      "Action": "Refuses to wait an hour for the suit, jerks Eddie to his feet and orders him to get dressed immediately.",
-      "Warmth": -1,
-      "Chunk": 5
-    },
-    {
-      "Action": "Bangs on the cage window to get the corrections officer's attention instead of waiting passively.",
-      "Competence": 1,
-      "Chunk": 5
-    },
-    {
-      "Action": "Shoves the pick up slip through the slot without unnecessary discussion, showing decisiveness.",
-      "Competence": 1,
-      "Chunk": 5
-    },
-    {
-      "Action": "Questions the corrections officer about the hour wait, showing awareness and unwillingness to accept delays blindly.",
-      "Competence": 1,
-      "Chunk": 5
-    },
-    {
-      "Action": "Jerks Eddie to his feet and insists he get dressed immediately, overriding the previous arrangement to avoid wasting time.",
-      "Competence": 1,
-      "Chunk": 5
-    },
-    {
-      "Action": "Does not explain or negotiate the change in plans with Eddie, potentially causing frustration or resistance.",
-      "Competence": 0,
-      "Chunk": 5
-    },
-    {
-      "Action": "Ignores Eddie's attempt to speak and handcuffs him without explanation.",
-      "Warmth": -1,
-      "Chunk": 6
-    },
-    {
-      "Action": "Pulls Eddie down the hallway and yanks him out the door, showing impatience and lack of engagement.",
-      "Warmth": -1,
-      "Chunk": 6
-    },
-    {
-      "Action": "Keeps walking in stony silence despite Eddie noticing his limp, showing no openness or friendliness.",
-      "Warmth": -1,
-      "Chunk": 6
-    },
-    {
-      "Action": "Shoves Eddie’s head down into the police car before he can finish speaking.",
-      "Warmth": -1,
-      "Chunk": 6
-    },
-    {
-      "Action": "Sneaks a look at Eddie in the rearview mirror, showing some subtle attention.",
-      "Warmth": 0,
-      "Chunk": 6
-    },
-    {
-      "Action": "Cuffs Eddie decisively and moves him through the precinct efficiently, signing out a vehicle and navigating through busy streets.",
-      "Competence": 1,
-      "Chunk": 6
-    },
-    {
-      "Action": "Checks key tag against license plates carefully, showing attention to detail.",
-      "Competence": 1,
-      "Chunk": 6
-    },
-    {
-      "Action": "Pushes Eddie’s head down into the car abruptly, demonstrating control and assertiveness.",
-      "Competence": 1,
-      "Chunk": 6
-    },
-    {
-      "Action": "Weaves through morning rush hour traffic, cutting cars off to try to make the light.",
-      "Competence": 1,
-      "Chunk": 6
-    },
-    {
-      "Action": "Keeps walking in stony silence despite a noticeable limp and throbbing blood vessels, showing mental toughness but possibly physical limitation.",
-      "Competence": 0,
-      "Chunk": 6
-    },
-    {
-      "Action": "Turns up the radio and ignores Eddie's moral question, avoiding engagement.",
+      "Action": "Turns up the radio and ignores Eddie's moral question, acting dismissive and avoiding the conversation.",
       "Warmth": -1,
       "Chunk": 7
     },
     {
-      "Action": "Hits the accelerator and drives recklessly, showing disregard for Eddie's feelings.",
+      "Action": "Hits the accelerator and abruptly changes direction, showing impatience and disregard for Eddie's inquiry.",
       "Warmth": -1,
       "Chunk": 7
     },
     {
-      "Action": "Dismisses Eddie's hypothetical question with sarcasm and tells him to shut up.",
+      "Action": "Responds brusquely to Eddie telling him to 'shut up' and dismisses hypothetical scenarios by claiming they do not apply to him.",
       "Warmth": -1,
       "Chunk": 7
     },
     {
-      "Action": "Looks back at Eddie through the mirror, indicating some awareness of Eddie's presence.",
-      "Warmth": 0,
+      "Action": "Questions Eddie sharply about the deal he received implying suspicion or cynicism.",
+      "Warmth": -1,
       "Chunk": 7
     },
     {
-      "Action": "Turns up the radio and avoids answering Eddie's moral question, showing evasiveness rather than engagement.",
-      "Competence": -1,
-      "Chunk": 7
-    },
-    {
-      "Action": "Hits the accelerator and maneuvers sharply through traffic and obstacles skillfully, demonstrating confident and capable driving.",
-      "Competence": 1,
-      "Chunk": 7
-    },
-    {
-      "Action": "Dismisses Eddie's hypothetical question with a sarcastic and confident reply, indicating mental quickness and self-assurance.",
-      "Competence": 1,
-      "Chunk": 7
-    },
-    {
-      "Action": "Shows irritation at Eddie's pondering and questions him about his deal, indicating awareness and assertiveness.",
-      "Competence": 1,
-      "Chunk": 7
-    },
-    {
-      "Action": "Dismisses Eddie's self-description as a 'rat' with a sarcastic comment, showing skepticism but no hostility.",
-      "Warmth": 0,
-      "Chunk": 8
-    },
-    {
-      "Action": "Pushes through a yellow light without noticing a van following them, indicating focus on the task rather than concern for safety.",
-      "Warmth": 0,
-      "Chunk": 8
-    },
-    {
-      "Action": "Double parks and shuts off the engine, showing a practical approach but no explicit warmth.",
-      "Warmth": 0,
-      "Chunk": 8
-    },
-    {
-      "Action": "Tells Eddie 'life’s too fucking long and guys like you make it even longer,' a blunt and somewhat harsh statement.",
+      "Action": "Dismisses Eddie’s attempt at explaining himself, calling him a rat.",
       "Warmth": -1,
       "Chunk": 8
     },
     {
-      "Action": "Fumbles for cash to give Eddie, indicating a willingness to help despite being inexperienced at it.",
+      "Action": "Ignores Eddie's comments about being where he's supposed to be.",
+      "Warmth": -1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Double parks the car, shuts off the engine, prepares to leave despite Eddie’s situation.",
+      "Warmth": -1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Fumbles for cash, implying a willingness to help financially.",
       "Warmth": 1,
       "Chunk": 8
     },
     {
-      "Action": "Pushes through a yellow light faking a right turn, showing decisiveness and tactical driving.",
-      "Competence": 1,
-      "Chunk": 8
-    },
-    {
-      "Action": "Does not notice the Black Econoline Van following them closely.",
-      "Competence": -1,
-      "Chunk": 8
-    },
-    {
-      "Action": "Looks impatient and searches sidewalks carefully, indicating alertness and situational awareness.",
-      "Competence": 1,
-      "Chunk": 8
-    },
-    {
-      "Action": "Double parks the car and shuts off the engine promptly, showing practical decision-making.",
-      "Competence": 1,
-      "Chunk": 8
-    },
-    {
-      "Action": "Fumbles around in his pockets for cash, appearing unprepared or awkward in the situation.",
-      "Competence": -1,
-      "Chunk": 8
-    },
-    {
-      "Action": "Admits it is his first time doing this job, indicating lack of experience.",
-      "Competence": -1,
-      "Chunk": 8
-    },
-    {
-      "Action": "Exchanges pleasantries with the Chinese store owners in broken Chinese, engaging warmly and eliciting laughter.",
+      "Action": "Exchanges pleasantries with the Chinese store owners in broken Chinese, sharing a moment of friendliness and showing effort to connect.",
       "Warmth": 1,
       "Chunk": 9
     },
     {
-      "Action": "Makes sarcastic remarks about the witness escort handbook and rating the NYPD travel experience.",
+      "Action": "Makes a sarcastic comment about the witness escort handbook, showing a somewhat playful attitude.",
       "Warmth": 0,
       "Chunk": 9
     },
     {
-      "Action": "Uses humor and sarcasm when unsure about procedure (joking about the witness escort handbook).",
-      "Competence": 0,
-      "Chunk": 9
-    },
-    {
-      "Action": "Leaves the car to get supplies (rum and nuts) despite limping, showing resourcefulness and determination.",
-      "Competence": 1,
-      "Chunk": 9
-    },
-    {
-      "Action": "Attempts to communicate in broken Chinese with the store owners, showing social skill and adaptability.",
-      "Competence": 1,
-      "Chunk": 9
-    },
-    {
-      "Action": "Does not notice the Black Econoline Van pulling up behind the Impala, indicating a possible lapse in situational awareness.",
-      "Competence": -1,
-      "Chunk": 9
-    },
-    {
-      "Action": "Shoots the Russian attacker to protect himself and others.",
+      "Action": "Kills the Wiry Russian in self-defense after the Russian fired a Tech-9 at him and others.",
       "Warmth": 0,
       "Chunk": 10
     },
     {
-      "Action": "Charges toward the Impala under heavy gunfire to escape and protect Eddie.",
+      "Action": "Shows fear and shock with gun hand shaking and tunnel vision after shooting.",
       "Warmth": 1,
       "Chunk": 10
     },
     {
-      "Action": "Explains something in Chinese and points out security monitor, showing situational awareness and communication skills.",
+      "Action": "Rushes to help Eddie to safety despite gunfire and chaos.",
+      "Warmth": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Explains the jimmied lock and security monitor clearly, showing understanding and communication skills.",
       "Competence": 1,
       "Chunk": 10
     },
     {
-      "Action": "Shoots the Russian assailant through the glass, demonstrating marksmanship and decisiveness.",
+      "Action": "Successfully shoots the attacker, demonstrating quick reaction and marksmanship.",
       "Competence": 1,
       "Chunk": 10
     },
     {
-      "Action": "Experiences tunnel vision and audio collapse after shooting, showing momentary loss of composure under stress.",
+      "Action": "Experiences tunnel vision and audio collapse after shooting, indicating momentary loss of composure.",
       "Competence": -1,
       "Chunk": 10
     },
     {
-      "Action": "Turns just in time to avoid a fatal shot due to a taxi sideswiping the attacker, indicating some situational awareness and luck.",
-      "Competence": 0,
-      "Chunk": 10
-    },
-    {
-      "Action": "Charges toward the Impala under heavy fire, showing courage but possibly recklessness.",
-      "Competence": 0,
-      "Chunk": 10
-    },
-    {
-      "Action": "Fumbles for the radio and drops it while under fire, indicating impaired motor skills or stress impact.",
-      "Competence": -1,
-      "Chunk": 10
-    },
-    {
-      "Action": "Successfully starts the car and attempts to escape under fire, showing quick thinking and practical skill.",
+      "Action": "Notices the incoming threat in time to hear the chamber explode and evade the fatal shot, showing situational awareness.",
       "Competence": 1,
       "Chunk": 10
     },
     {
-      "Action": "Kicks open the passenger door and pulls Eddie Bunker onto the sidewalk to protect him from danger.",
+      "Action": "Charges toward the Impala under fire despite disorientation, showing physical courage but possibly impaired tactical judgment.",
+      "Competence": 0,
+      "Chunk": 10
+    },
+    {
+      "Action": "Fumbles for the radio and drops it while under fire and glass shards raining down, showing some loss of fine motor control under stress.",
+      "Competence": -1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Manages to start the car and drive in reverse while under fire, demonstrating resilience and composure under extreme pressure.",
+      "Competence": 1,
+      "Chunk": 10
+    },
+    {
+      "Action": "Kicks open passenger door, pulls Eddie Bunker onto the sidewalk to protect him from danger.",
       "Warmth": 1,
       "Chunk": 11
     },
     {
-      "Action": "Moves quickly to protect Eddie despite his bad leg, showing concern and care.",
+      "Action": "Stumbles and struggles to protect Eddie despite physical limitations (bad leg).",
       "Warmth": 1,
       "Chunk": 11
     },
     {
-      "Action": "Screams after Eddie when the kid runs back into danger, indicating worry and protective instincts.",
+      "Action": "Chases after Eddie when he runs back toward danger, screaming to warn him.",
       "Warmth": 1,
       "Chunk": 11
     },
     {
-      "Action": "Yanks Eddie to the sidewalk to protect him from traffic, showing concern for his safety.",
+      "Action": "Yanks Eddie to the sidewalk to protect him from traffic and danger.",
       "Warmth": 1,
       "Chunk": 12
     },
     {
-      "Action": "Flinches and is visibly shaken by the chaotic environment, indicating vulnerability and humanizing him.",
+      "Action": "Shakes the fuzziness, trying to remember procedures and keep Eddie safe in dangerous situations.",
       "Warmth": 1,
       "Chunk": 12
     },
     {
-      "Action": "Pulls the elderly bar owner Dominic Forlini to safety after a bat is thrown, showing protective and caring behavior.",
+      "Action": "Pulls an elderly bar owner, Dominic Forlini, to safety when a bat is thrown.",
       "Warmth": 1,
       "Chunk": 12
     },
     {
-      "Action": "Uses calm and clear communication with dispatch despite being under fire, demonstrating responsibility and reliability.",
-      "Warmth": 1,
+      "Action": "Uses curt and harsh language ('Are you fucking nuts!') towards Eddie.",
+      "Warmth": -1,
       "Chunk": 12
     },
     {
-      "Action": "Yanks Eddie to the sidewalk to protect him from traffic, showing quick protective instincts.",
-      "Competence": 1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Flinches at a bike messenger and becomes paranoid, seeing everyone as a potential killer.",
-      "Competence": -1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Tries to shake off fuzziness and remember what to do in a stressful situation.",
-      "Competence": 0,
-      "Chunk": 12
-    },
-    {
-      "Action": "Quickly reacts to a thrown baseball bat, grabbing it and pulling a bystander to safety.",
-      "Competence": 1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Knows exactly where the wall phone is and uses it to call dispatch under fire, providing clear and precise information.",
-      "Competence": 1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Roughly hauls Eddie across the room, calls him a rat and 'bottom feeder', shows anger and distrust.",
+      "Action": "Roughly hauls Eddie, calls him 'rats' and 'bottom feeders', and says 'Shoulda let them kill you'",
       "Warmth": -1,
       "Chunk": 13
     },
     {
-      "Action": "Protects Eddie by closing the curtains and plunging the bar into darkness, acting on instinct to shield him.",
-      "Warmth": 1,
-      "Chunk": 13
-    },
-    {
-      "Action": "Quickly orders the illegal busboys out and secures the bar by closing the curtains, plunging the room into darkness to protect himself and Eddie.",
-      "Competence": 1,
-      "Chunk": 13
-    },
-    {
-      "Action": "Physically hauls Eddie around roughly and shows anger, but maintains control of the situation and keeps Eddie quiet when danger approaches.",
-      "Competence": 1,
-      "Chunk": 13
-    },
-    {
-      "Action": "Despite being injured and under stress, Jack remains alert, assesses the situation, and prepares for the arrival of police and men in suits.",
-      "Competence": 1,
-      "Chunk": 13
-    },
-    {
-      "Action": "Hesitates and looks uneasy when Nugent questions him, showing concern and caution.",
-      "Warmth": 1,
-      "Chunk": 14
-    },
-    {
-      "Action": "Does not respond immediately to Nugent’s friendly greeting and physical contact, indicating guardedness.",
+      "Action": "Operates on instinct to protect himself and control the situation (closing curtains, hiding)",
       "Warmth": 0,
-      "Chunk": 14
+      "Chunk": 13
     },
     {
-      "Action": "Hesitates and looks confused when Nugent arrives, unable to immediately respond confidently to Nugent's questions.",
-      "Competence": -1,
-      "Chunk": 14
-    },
-    {
-      "Action": "Maintains focus on Eddie and the booth near the door despite the pressure, showing situational awareness.",
-      "Competence": 1,
-      "Chunk": 14
-    },
-    {
-      "Action": "Responds briefly and correctly to Nugent's question about the safety of the person in question.",
-      "Competence": 1,
-      "Chunk": 14
-    },
-    {
-      "Action": "Works a strong program at the farm, indicating effort to improve himself.",
+      "Action": "Pulls the trigger to save himself and others, shows hesitation and inner turmoil but acts decisively to stop Jerry Shue from shooting.",
       "Warmth": 1,
-      "Chunk": 15
+      "Chunk": 16
     },
     {
-      "Action": "Watches quietly as Eddie is roughly handled and held at gunpoint without intervening.",
+      "Action": "Turns his back and avoids watching the violent scene unfolding, indicating discomfort and possible emotional detachment.",
+      "Warmth": 0,
+      "Chunk": 16
+    },
+    {
+      "Action": "Calms the surprised laundry owner in broken Chinese to avoid suspicion.",
+      "Warmth": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Unlocks Eddie’s cuffs and provides him with clean clothes to help him blend in.",
+      "Warmth": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Instructs Eddie calmly on how to walk and behaves protectively by staying close behind him.",
+      "Warmth": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Watches his surroundings carefully while escorting Eddie, showing a sense of responsibility.",
+      "Warmth": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Tells Eddie to 'pick it up' and pressures him to move faster, showing impatience.",
       "Warmth": -1,
-      "Chunk": 15
-    },
-    {
-      "Action": "Responds minimally and avoids engaging in Nugent’s hostile conversation.",
-      "Warmth": 0,
-      "Chunk": 15
-    },
-    {
-      "Action": "Working a strong program now, indicating commitment and progress in his duties.",
-      "Competence": 1,
-      "Chunk": 15
-    },
-    {
-      "Action": "Half listening to conversation while observing Mulvey's actions closely, showing situational awareness.",
-      "Competence": 1,
-      "Chunk": 15
-    },
-    {
-      "Action": "Seemingly disengaged or subdued initially, described as if 'slapped out of a deep, medicated sleep,' suggesting a lack of alertness or readiness.",
-      "Competence": -1,
-      "Chunk": 15
-    },
-    {
-      "Action": "Pulls the trigger to shoot Jerry Shue to prevent further violence, despite shaky arms and high tension.",
-      "Warmth": 1,
-      "Chunk": 16
-    },
-    {
-      "Action": "Turns his back and avoids watching the violent scene, showing emotional struggle and possible reluctance.",
-      "Warmth": 1,
-      "Chunk": 16
-    },
-    {
-      "Action": "Pulls the trigger on the sawed-off shotgun quickly and decisively, shooting Jerry Shue and immediately aiming at Frank Nugent despite shaky arms.",
-      "Competence": 1,
-      "Chunk": 16
-    },
-    {
-      "Action": "Turns his back and looks away, unable to watch the tense situation unfold initially.",
-      "Competence": -1,
-      "Chunk": 16
-    },
-    {
-      "Action": "Hesitates and does not immediately act when Nugent challenges him, showing some internal conflict and delay.",
-      "Competence": 0,
-      "Chunk": 16
-    },
-    {
-      "Action": "Backing Eddie and another person towards the rear door to help them escape despite personal risk.",
-      "Warmth": 1,
-      "Chunk": 17
-    },
-    {
-      "Action": "Holding Nugent’s stare, trying to hold it together under pressure.",
-      "Warmth": 0,
-      "Chunk": 17
-    },
-    {
-      "Action": "Dropping the shotgun info into a drainage grate, indicating letting go of a weapon he’s carried for twenty years.",
-      "Warmth": 0,
-      "Chunk": 17
-    },
-    {
-      "Action": "Backing Eddie and himself towards the rear door while holding Nugent’s stare and trying to hold it together under pressure.",
-      "Competence": 1,
-      "Chunk": 17
-    },
-    {
-      "Action": "Dropping the shotgun info the drainage grate, deciding the weapon is no longer needed.",
-      "Competence": 1,
-      "Chunk": 17
-    },
-    {
-      "Action": "Appearing shaken and initially confused about what Eddie saw, but then his mind begins to clear.",
-      "Competence": 0,
-      "Chunk": 17
-    },
-    {
-      "Action": "Calms the Chinese laundry owner in halting Chinese to avoid suspicion.",
-      "Warmth": 1,
-      "Chunk": 18
-    },
-    {
-      "Action": "Unlocks Eddie’s cuffs and provides him with a clean shirt and dry cleaning bag to help him blend in.",
-      "Warmth": 1,
-      "Chunk": 18
-    },
-    {
-      "Action": "Instructs Eddie to walk confidently and stays close behind to protect him.",
-      "Warmth": 1,
-      "Chunk": 18
-    },
-    {
-      "Action": "Calms the Chinese laundry owner in halting Chinese, showing situational awareness and interpersonal skill.",
-      "Competence": 1,
-      "Chunk": 18
-    },
-    {
-      "Action": "Unlocks Eddie’s cuffs and quickly changes his appearance to blend in, demonstrating practical problem-solving and quick thinking.",
-      "Competence": 1,
-      "Chunk": 18
-    },
-    {
-      "Action": "Instructs Eddie to walk confidently and stay close, showing tactical awareness and protective instincts.",
-      "Competence": 1,
-      "Chunk": 18
-    },
-    {
-      "Action": "His eyes darting everywhere while escorting Eddie, indicating vigilance and alertness.",
-      "Competence": 1,
-      "Chunk": 18
-    },
-    {
-      "Action": "Directs Eddie to pick up the pace and actively searches for a cab, showing initiative and focus on the task.",
-      "Competence": 1,
       "Chunk": 19
     },
     {
-      "Action": "Appears uncertain or inconsistent in giving clear instructions (tells Eddie to go easy, then to go faster), suggesting some confusion or lack of clear planning.",
-      "Competence": -1,
+      "Action": "Is attentive to their situation, searching actively for a cab to help them progress.",
+      "Warmth": 0,
       "Chunk": 19
     },
     {
-      "Action": "Responds to Eddie's insult with 'None taken,' showing tolerance and lack of offense.",
+      "Action": "Is walking closely and protectively with Eddie, staying just off his left shoulder.",
       "Warmth": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Takes a sarcastic but non-hostile remark from Eddie in stride: 'None taken.'",
+      "Warmth": 0,
       "Chunk": 20
     },
     {
-      "Action": "Not paying attention to Eddie's urgent explanation, distracted by surroundings.",
-      "Warmth": -1,
+      "Action": "Notices Eddie’s serious concern and tries to stay aware of the situation, though distracted initially.",
+      "Warmth": 0,
       "Chunk": 20
     },
     {
-      "Action": "Acknowledges Eddie's insult without defensiveness, showing emotional control.",
+      "Action": "Shows awareness of surroundings by quickly looking for Eddie when he notices him gone.",
       "Competence": 1,
       "Chunk": 20
     },
     {
-      "Action": "Distracted and not fully listening to Eddie's urgent instructions, eyes searching streets instead.",
+      "Action": "Observes the street scene and cops carefully from inside the bakery, demonstrating vigilance.",
+      "Competence": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Appears distracted and not fully listening when Eddie explains the urgency of getting somewhere by noon.",
       "Competence": -1,
       "Chunk": 20
     },
     {
-      "Action": "Quickly notices Eddie has disappeared and immediately looks around to locate him.",
-      "Competence": 1,
-      "Chunk": 20
+      "Action": "Pulls Eddie close and warns him that this isn’t a game and to keep it together or they’re both dead.",
+      "Warmth": 1,
+      "Chunk": 22
     },
     {
-      "Action": "Observes the environment carefully from inside the bakery, watching street movements and police presence.",
-      "Competence": 1,
-      "Chunk": 20
-    },
-    {
-      "Action": "Sees Torres appear on the block and walks towards several uniforms, talking with them, drawing attention to the bakery.",
-      "Warmth": 0,
-      "Chunk": 21
-    },
-    {
-      "Action": "Pulls Eddie close and warns him seriously: 'This isn’t a game asshole. Keep it together or we’re both dead.'",
+      "Action": "Says nothing when Eddie holds out the business card and talks about the significance of the bakery girl and signs.",
       "Warmth": 0,
       "Chunk": 22
     },
     {
-      "Action": "Says nothing when Eddie offers a business card as a hopeful sign, showing skepticism but no hostility.",
-      "Warmth": 0,
-      "Chunk": 22
-    },
-    {
-      "Action": "Hurries up stairs despite injury, focused on the task, not engaging with Eddie’s comments about cops sticking together.",
-      "Warmth": -1,
-      "Chunk": 22
-    },
-    {
-      "Action": "Pulls Eddie close and warns him seriously that this isn’t a game and they could both die if they don’t keep it together.",
+      "Action": "Pulls Eddie close and warns him 'This isn’t a game asshole. Keep it together or we’re both dead.'",
       "Competence": 1,
       "Chunk": 22
     },
     {
-      "Action": "Says nothing when Eddie holds out the business card and tries to explain its significance, showing skepticism but no engagement.",
+      "Action": "Says nothing in response to Eddie’s signs and theories, appearing reserved or withholding judgment.",
       "Competence": 0,
       "Chunk": 22
     },
     {
-      "Action": "Limping up stairs quickly despite a broken body, showing determination and physical resilience.",
+      "Action": "Limping but hurrying up stairs as fast as his broken body can take him, showing determination despite injury.",
       "Competence": 1,
       "Chunk": 22
     },
     {
-      "Action": "Does not respond to Eddie’s question about why he’s not sticking with the cops, possibly indicating evasiveness or inability to explain.",
-      "Competence": 0,
-      "Chunk": 22
-    },
-    {
-      "Action": "Pushes Eddie aside brusquely to handle the lock picking himself.",
-      "Warmth": -1,
-      "Chunk": 23
-    },
-    {
-      "Action": "Shows a flash of hurt and sadness when seeing the clothes in the closet, indicating emotional vulnerability.",
-      "Warmth": 1,
-      "Chunk": 23
-    },
-    {
-      "Action": "Searches for a hidden key but fails to find it initially.",
-      "Competence": 0,
-      "Chunk": 23
-    },
-    {
-      "Action": "Successfully picks a difficult Medeco dead bolt lock after multiple attempts.",
-      "Competence": 1,
-      "Chunk": 23
-    },
-    {
-      "Action": "Dismisses Eddie's lock picking skills confidently and pushes past him to take control.",
-      "Competence": 1,
-      "Chunk": 23
-    },
-    {
-      "Action": "Rummages through the living room closet but comes out empty handed, showing some lack of immediate success.",
-      "Competence": 0,
-      "Chunk": 23
-    },
-    {
-      "Action": "Shows emotional control by quickly masking a flash of hurt and sadness when confronted with personal reminders.",
-      "Competence": 1,
-      "Chunk": 23
-    },
-    {
-      "Action": "Protects Eddie by motioning him away from the door and physically restrains Torres, preventing harm.",
-      "Warmth": 1,
-      "Chunk": 24
-    },
-    {
-      "Action": "Loads a weapon and prepares for confrontation, showing readiness but also tension.",
+      "Action": "Shows frustration but does not express anger toward Eddie; lets Eddie search the apartment beside him.",
       "Warmth": 0,
-      "Chunk": 24
+      "Chunk": 23
     },
     {
-      "Action": "Shows a flash of hurt and sadness when looking at clothes, indicating vulnerability.",
+      "Action": "Reacts with a flash of hurt and sadness when confronted with his past personal items but quickly recovers.",
       "Warmth": 1,
-      "Chunk": 24
+      "Chunk": 23
     },
     {
-      "Action": "Moves quickly and decisively, loading his weapon and preparing for confrontation.",
-      "Competence": 1,
-      "Chunk": 24
-    },
-    {
-      "Action": "Notices the door handle turning and immediately signals caution, pulling Eddie away from danger.",
-      "Competence": 1,
-      "Chunk": 24
-    },
-    {
-      "Action": "Successfully subdues Torres by using the environment (murphy bed) and his firearm skillfully to gain control.",
-      "Competence": 1,
-      "Chunk": 24
-    },
-    {
-      "Action": "Cocks his weapon confidently and uses handcuffs to restrain Torres after overpowering him.",
-      "Competence": 1,
-      "Chunk": 24
-    },
-    {
-      "Action": "Encourages Eddie to go to the bathroom when needed, showing practical concern for the kid's comfort.",
-      "Warmth": 1,
-      "Chunk": 25
-    },
-    {
-      "Action": "Shows sadness and nostalgia when looking around the apartment, indicating emotional sensitivity.",
-      "Warmth": 1,
-      "Chunk": 25
-    },
-    {
-      "Action": "Kicks open the bathroom door abruptly, possibly showing impatience or urgency rather than gentleness.",
-      "Warmth": 0,
-      "Chunk": 25
-    },
-    {
-      "Action": "Does not respond to Nugent's taunts and ends the call, avoiding escalation.",
-      "Warmth": 0,
-      "Chunk": 25
-    },
-    {
-      "Action": "Grabs Torres’ cell phone and hides the bed in the closet to prevent discovery.",
-      "Competence": 1,
-      "Chunk": 25
-    },
-    {
-      "Action": "Encourages Eddie to go to the bathroom quickly, showing decisiveness.",
-      "Competence": 1,
-      "Chunk": 25
-    },
-    {
-      "Action": "Notices the open window and Eddie escaping, reacts immediately by shouting and rushing after him.",
-      "Competence": 1,
-      "Chunk": 25
-    },
-    {
-      "Action": "Huffs and puffs down stairs with a hurt leg, showing determination despite physical limitation.",
-      "Competence": 1,
-      "Chunk": 25
-    },
-    {
-      "Action": "Answers Torres’ phone and handles Nugent’s taunts with silence and controlled breathing, not escalating the situation.",
-      "Competence": 1,
-      "Chunk": 25
-    },
-    {
-      "Action": "Does not respond to Nugent’s provocation about shooting someone, showing restraint.",
-      "Competence": 1,
-      "Chunk": 25
-    },
-    {
-      "Action": "Slaps the phone shut after Nugent’s insults, indicating frustration but also ending the call decisively.",
+      "Action": "Searches for a hidden key but does not find it; admits frustration shortly after.",
       "Competence": 0,
-      "Chunk": 25
+      "Chunk": 23
     },
     {
-      "Action": "Moves quickly and purposefully through a crowded street, trying to think and track someone in a complex environment.",
+      "Action": "Successfully picks a complex Medeco dead bolt open using a dry cleaning hanger, demonstrating lock-picking skill.",
+      "Competence": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Dismisses Eddie's attempt and criticism, pushing past him to continue the search confidently.",
+      "Competence": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Rummages through the living room closet but comes out empty handed, indicating difficulty locating the item.",
+      "Competence": 0,
+      "Chunk": 23
+    },
+    {
+      "Action": "Shows emotional control by quickly masking a flash of hurt and sadness upon seeing personal reminders in the closet.",
+      "Competence": 1,
+      "Chunk": 23
+    },
+    {
+      "Action": "Hits the sidewalk immediately after doors bang open, moves quickly across busy streets trying to think and locate a target in a crowd.",
       "Competence": 1,
       "Chunk": 26
     },
     {
-      "Action": "Presses a gun to Eddie's kidney to force him to come along.",
-      "Warmth": -1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Shouts over the train noise, expressing urgency and concern to get Eddie to safety.",
-      "Warmth": 1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Presses a gun to Eddie's kidney to assert control and attempts to get him to come along.",
-      "Competence": 1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Fails to convince Eddie to cooperate and is left behind on the platform as Eddie boards the train.",
-      "Competence": -1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Grabs Eddie's hand to pull him back onto the platform, saving him from danger.",
-      "Warmth": 1,
-      "Chunk": 28
-    },
-    {
-      "Action": "Calls Eddie 'the I.Q. of a sprinkler head' in a teasing manner while under stress.",
-      "Warmth": 0,
-      "Chunk": 28
-    },
-    {
-      "Action": "Works with Eddie to escape danger, showing protective and cooperative behavior.",
-      "Warmth": 1,
-      "Chunk": 28
-    },
-    {
-      "Action": "Responds to Eddie's changed perception with a dry, somewhat distant comment ('Hard to fathom').",
-      "Warmth": 0,
-      "Chunk": 28
-    },
-    {
-      "Action": "Grabs Eddie's hand to pull him back onto the platform just before the subway doors close, preventing Eddie from being trapped.",
-      "Competence": 1,
-      "Chunk": 28
-    },
-    {
-      "Action": "Quickly assesses the threat of Nugent’s men inside the subway car and immediately pulls Eddie up the stairs to escape.",
-      "Competence": 1,
-      "Chunk": 28
-    },
-    {
-      "Action": "Attempts to flag down a cab quickly after escaping the subway, showing situational awareness and urgency.",
-      "Competence": 1,
-      "Chunk": 28
-    },
-    {
-      "Action": "Uses sarcasm to criticize Eddie’s understanding ('you got the I.Q. of a sprinkler head'), indicating confidence but possibly undermining teamwork.",
-      "Competence": 0,
-      "Chunk": 28
-    },
-    {
-      "Action": "Knows the significance of the phrase 'do what you always do' and recalls his past with narcotics work, showing knowledge and experience.",
-      "Competence": 1,
-      "Chunk": 28
-    },
-    {
-      "Action": "BOLTS into the street to flag down a gypsy cab despite the danger, demonstrating decisiveness and quick thinking.",
-      "Competence": 1,
-      "Chunk": 28
-    },
-    {
-      "Action": "Does not explain his plan fully to Eddie, leaving Eddie confused and needing to piece things together himself.",
-      "Competence": 0,
-      "Chunk": 28
-    },
-    {
-      "Action": "Engages in light-hearted banter with Eddie about birthday cakes, chuckling to himself.",
-      "Warmth": 1,
-      "Chunk": 29
-    },
-    {
-      "Action": "Keeps his finger on his gun, tense and cautious during the car ride.",
-      "Warmth": 0,
-      "Chunk": 29
-    },
-    {
-      "Action": "Keeps his finger on his gun, stays alert and focused while navigating dangerous situations.",
-      "Competence": 1,
-      "Chunk": 29
-    },
-    {
-      "Action": "Gives clear, tactical directions to the cab driver to approach from the back, showing situational awareness.",
-      "Competence": 1,
-      "Chunk": 29
-    },
-    {
-      "Action": "Engages in light banter with Eddie, showing ability to maintain composure and morale under pressure.",
-      "Competence": 1,
-      "Chunk": 29
-    },
-    {
-      "Action": "Appears exasperated and doubtful about being 'the guy,' indicating some internal uncertainty.",
-      "Competence": 0,
-      "Chunk": 29
-    },
-    {
-      "Action": "Chuckles to himself, showing a lighthearted moment.",
+      "Action": "Chuckles to himself, shows a moment of lightheartedness.",
       "Warmth": 1,
       "Chunk": 30
     },
     {
-      "Action": "Tells Eddie that he is a thief and will always be one, showing blunt honesty but little tolerance.",
+      "Action": "Says 'Trust me' warning about plans going wrong, demonstrating candidness.",
+      "Warmth": 1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Labels Eddie as a thief and predicts he will always be one, a blunt and somewhat judgmental statement.",
       "Warmth": -1,
       "Chunk": 30
     },
     {
-      "Action": "Uses a metaphor about bad luck to explain his worldview, indicating a resigned but sincere attitude.",
-      "Warmth": 0,
-      "Chunk": 30
-    },
-    {
-      "Action": "Stops Eddie from dialing the phone and pulls him out of the cab into a crowd to avoid danger, showing protective and caring behavior.",
+      "Action": "Refuses to let Eddie use the phone to call the ADA, pulls him from the cab to avoid capture, showing protective instincts.",
       "Warmth": 1,
       "Chunk": 30
     },
     {
-      "Action": "Analyzes the situation carefully, checks traffic and timing, tries to figure out the next move while in the cab.",
-      "Competence": 1,
-      "Chunk": 30
-    },
-    {
-      "Action": "Stops Eddie from dialing a phone at a critical moment, takes quick action to pull him out of the cab and into a crowd to evade pursuers.",
-      "Competence": 1,
-      "Chunk": 30
-    },
-    {
-      "Action": "Makes a cynical but realistic comment about plans often failing, showing experience but also a somewhat fatalistic attitude.",
-      "Competence": 0,
-      "Chunk": 30
-    },
-    {
-      "Action": "Pulls Eddie suddenly into the electronics store to avoid cops, showing protective instincts.",
+      "Action": "Pulls Eddie into the electronics store suddenly, showing protective behavior.",
       "Warmth": 1,
       "Chunk": 31
     },
     {
-      "Action": "Keeps moving despite a pronounced limp, gritting his teeth, showing determination but not sharing vulnerability.",
+      "Action": "Struggles to keep pace despite his limp, pushing through pain.",
       "Warmth": 0,
       "Chunk": 31
     },
     {
-      "Action": "Glares at Eddie after hearing about his injury, indicating irritation or impatience rather than empathy.",
+      "Action": "Glares at Eddie after hearing about amputation story, showing irritation or impatience.",
       "Warmth": -1,
       "Chunk": 31
     },
     {
-      "Action": "Pulls Eddie suddenly into an electronics store to avoid detection, showing situational awareness and quick thinking.",
-      "Competence": 1,
-      "Chunk": 31
-    },
-    {
-      "Action": "Carefully observes the street and notices the cluster of plainclothes cops, indicating alertness and tactical awareness.",
-      "Competence": 1,
-      "Chunk": 31
-    },
-    {
-      "Action": "Uses the roof and ladders to move above the cops' grid, demonstrating resourcefulness and skill in evasion.",
-      "Competence": 1,
-      "Chunk": 31
-    },
-    {
-      "Action": "Struggles to keep pace due to a pronounced limp, showing a physical limitation that could hinder his effectiveness.",
-      "Competence": -1,
-      "Chunk": 31
-    },
-    {
-      "Action": "Gritting his teeth and continuing despite injury, showing determination but possibly risking further harm due to not addressing his limp.",
-      "Competence": 0,
-      "Chunk": 31
-    },
-    {
-      "Action": "Accepts Eddie’s philosophical outlook with a teasing, friendly remark ('You’re a sunny little shit, I’ll give you that.')",
+      "Action": "Calls Eddie a 'sunny little shit' with a tone that suggests some affectionate teasing.",
       "Warmth": 1,
       "Chunk": 32
     },
     {
-      "Action": "Hesitates before following Eddie’s lead ('Jack hesitates.'), showing some reluctance but ultimately cooperating",
+      "Action": "Hesitates before jumping over a wide alley but eventually complies with Eddie's urging.",
       "Warmth": 0,
       "Chunk": 32
     },
     {
-      "Action": "Despite being shot through the right hand, he continues to move and attempts to follow Eddie's lead.",
-      "Competence": 1,
-      "Chunk": 32
-    },
-    {
-      "Action": "Hesitates before moving over the edge of the roof, showing caution or reluctance.",
-      "Competence": 0,
-      "Chunk": 32
-    },
-    {
-      "Action": "Grasps Eddie’s forearm to prevent him from falling to his death.",
+      "Action": "Clasps Eddie’s forearm to save him from falling four stories despite his own bad hand.",
       "Warmth": 1,
       "Chunk": 33
     },
     {
-      "Action": "Shoves Eddie back against the wall to protect him from Ortiz’s gunfire.",
+      "Action": "Shoves Eddie back against the wall to protect him from gunfire.",
       "Warmth": 1,
       "Chunk": 33
     },
     {
-      "Action": "Warns Eddie not to jump into the dumpster, showing concern for his safety.",
+      "Action": "Warns Eddie not to jump into the dumpster, expressing concern for his safety.",
       "Warmth": 1,
       "Chunk": 33
     },
     {
-      "Action": "Says 'There’s no we in this. Just--' indicating reluctance to cooperate or share risk.",
-      "Warmth": 0,
+      "Action": "Dismisses Eddie's hope by stating 'There’s no we in this,' indicating a somewhat cold or detached stance.",
+      "Warmth": -1,
       "Chunk": 33
     },
     {
-      "Action": "Jumps to avoid Kaller’s bullet, lands solidly on steel flooring, showing quick reflexes and physical capability.",
+      "Action": "Jumps quickly out of the way of gunfire, landing firmly on steel flooring, demonstrating physical awareness and agility.",
       "Competence": 1,
       "Chunk": 33
     },
     {
-      "Action": "Grasps Eddie’s forearm with his bad hand to prevent him from falling, demonstrating strength and presence of mind under pressure.",
+      "Action": "Clutches Eddie’s forearm with his bad hand to stop him from falling, showing quick reflexes and presence of mind despite injury.",
       "Competence": 1,
       "Chunk": 33
     },
     {
-      "Action": "Commands Eddie to drop the notebook, trying to maintain control of the situation.",
+      "Action": "Commands Eddie to drop the notebook to reduce risk, indicating awareness and attempt to control the situation.",
       "Competence": 1,
       "Chunk": 33
     },
     {
-      "Action": "Shoves Eddie back against the wall to protect him from Ortiz’s gunfire, showing tactical awareness.",
-      "Competence": 1,
-      "Chunk": 33
-    },
-    {
-      "Action": "Assesses the dumpster as a potential escape option but judges it too risky and warns Eddie against it.",
-      "Competence": 1,
-      "Chunk": 33
-    },
-    {
-      "Action": "Dismisses Eddie’s hopeful interpretation of the dumpster as a sign, showing grounded realism.",
-      "Competence": 1,
-      "Chunk": 33
-    },
-    {
-      "Action": "Does not physically stop Eddie from jumping into the dumpster despite his warnings, indicating a possible lack of control over the situation.",
+      "Action": "Fails to prevent Eddie from jumping despite clear danger, possibly reflecting limited control or underestimated risk.",
       "Competence": -1,
       "Chunk": 33
     },
     {
-      "Action": "Stares in disbelief at the eruption of feathers after Eddie’s jump, suggesting surprise and unpreparedness for unexpected outcomes.",
-      "Competence": -1,
+      "Action": "Advocates caution and realistic assessment of danger (highlighting the dumpster is not a safe place), showing situational awareness and practical judgment.",
+      "Competence": 1,
       "Chunk": 33
     },
     {
-      "Action": "Pulls himself out of a dangerous fall and shows a bewildered smile, indicating resilience and a moment of lightness despite injury.",
-      "Warmth": 1,
-      "Chunk": 34
-    },
-    {
-      "Action": "Moves quickly and purposefully through a chaotic and crowded environment without disturbing or alarming the laborers, showing respect and consideration for others.",
-      "Warmth": 1,
-      "Chunk": 34
-    },
-    {
-      "Action": "Appears trapped and uncertain in a crowded place but does not panic or lash out, indicating tolerance and composure under pressure.",
-      "Warmth": 1,
-      "Chunk": 34
-    },
-    {
-      "Action": "Survives a fall into a dumpster and quickly pulls himself out despite injury.",
+      "Action": "Shoves Eddie back against the wall for cover when threat emerges, showing protective instinct and tactical thinking.",
       "Competence": 1,
-      "Chunk": 34
+      "Chunk": 33
     },
     {
-      "Action": "Moves quickly and purposefully through a chaotic and dangerous environment, despite bleeding from his hand.",
-      "Competence": 1,
-      "Chunk": 34
-    },
-    {
-      "Action": "Realizes he is trapped and disoriented in a crowded, chaotic area with many unknown threats.",
+      "Action": "Stares in disbelief at the chicken feathers explosion, suggesting momentary surprise or lack of anticipation of this detail.",
       "Competence": 0,
-      "Chunk": 34
+      "Chunk": 33
     },
     {
-      "Action": "Realizes he is trapped in a chaotic environment with multiple threats approaching from different directions.",
-      "Competence": 0,
-      "Chunk": 35
-    },
-    {
-      "Action": "Navigates through a crowd and slips away by dropping disguises and moving into less crowded areas despite physical strain.",
+      "Action": "Navigates through chaotic crowds, dropping disguises and slipping into Chinatown, pushing his body beyond its limits.",
       "Competence": 1,
       "Chunk": 35
     },
     {
-      "Action": "Approaches a guard with a cocked .38 aimed at his heart, demanding information aggressively.",
-      "Warmth": -1,
+      "Action": "Appears trapped in the middle of a place with no idea where enemies might be coming from.",
+      "Competence": -1,
+      "Chunk": 35
+    },
+    {
+      "Action": "Holds a gun on a guard to find contraband quickly, showing forcefulness but focus on the task.",
+      "Warmth": 0,
       "Chunk": 36
     },
     {
-      "Action": "Pulls Eddie through various underground illegal businesses to navigate the basements quickly and efficiently.",
-      "Warmth": 0,
+      "Action": "Pulls Eddie along through dangerous and illegal underground locations to accomplish goal, demonstrating protectiveness and urgency.",
+      "Warmth": 1,
       "Chunk": 36
     },
     {
-      "Action": "Shuts steel door to block Mulvey's gun aimed at his face, protecting himself and Eddie.",
-      "Warmth": 1,
-      "Chunk": 37
-    },
-    {
-      "Action": "Pushes Eddie to the side to protect him from gunfire.",
-      "Warmth": 1,
-      "Chunk": 37
-    },
-    {
-      "Action": "Glares at Eddie after Eddie jokes about Nugent missing his shot.",
-      "Warmth": 0,
-      "Chunk": 37
-    },
-    {
-      "Action": "Remembers and uses knowledge of the abandoned cock fighting den and feed tunnel to navigate the basement.",
-      "Competence": 1,
-      "Chunk": 37
-    },
-    {
-      "Action": "Quickly reacts to the threat by rolling the steel door shut to block Mulvey’s gun arm, preventing immediate harm.",
-      "Competence": 1,
-      "Chunk": 37
-    },
-    {
-      "Action": "Pushes Eddie aside and fires at Nugent, showing decisiveness and protective instincts.",
-      "Competence": 1,
-      "Chunk": 37
-    },
-    {
-      "Action": "Motions for Eddie to stay silent after the gunfire, demonstrating situational awareness and control.",
-      "Competence": 1,
-      "Chunk": 37
-    },
-    {
-      "Action": "Shares a light moment with Nugent over gum, grins at Nugent's joke.",
-      "Warmth": 1,
-      "Chunk": 38
-    },
-    {
-      "Action": "Whispers encouragement to Eddie, tries to help open the elevator.",
-      "Warmth": 1,
-      "Chunk": 38
-    },
-    {
-      "Action": "Responds to Nugent's question about leaving with a friendly remark, 'And not say goodbye?'",
-      "Warmth": 1,
-      "Chunk": 38
-    },
-    {
-      "Action": "Remains silent and distant when Nugent questions his motives and past actions.",
-      "Warmth": 0,
-      "Chunk": 38
-    },
-    {
-      "Action": "Keeps calm and observant while assessing the situation, listens carefully, and coordinates quietly with Eddie to try to open the elevator door.",
-      "Competence": 1,
-      "Chunk": 38
-    },
-    {
-      "Action": "Does not respond immediately to Nugent's questions, showing restraint and control rather than impulsiveness.",
-      "Competence": 1,
-      "Chunk": 38
-    },
-    {
-      "Action": "Engages in light humor with Nugent despite tense circumstances, indicating social confidence and emotional control.",
-      "Competence": 1,
-      "Chunk": 38
-    },
-    {
-      "Action": "Does not provide clear answers to Nugent's probing questions about past events, which could be seen as evasive or withholding information.",
-      "Competence": 0,
-      "Chunk": 38
-    },
-    {
-      "Action": "Challenges Nugent by saying 'It crossed the line, Frank. You crossed the line.'",
-      "Warmth": 1,
-      "Chunk": 39
-    },
-    {
-      "Action": "Defends Teddy A as 'He was a good cop. Everybody knew--'",
-      "Warmth": 1,
-      "Chunk": 39
-    },
-    {
-      "Action": "Challenges Nugent by saying 'It crossed the line, Frank. You crossed the line.' showing moral clarity and willingness to confront wrongdoing.",
+      "Action": "Challenges Nugent by stating 'It crossed the line, Frank. You crossed the line,' showing moral awareness and standing ground despite pressure.",
       "Competence": 1,
       "Chunk": 39
     },
     {
-      "Action": "Looks at Eddie working frantically and stalls for time, indicating situational awareness and tactical patience.",
+      "Action": "Looking at Eddie working frantically and stalling for time along with him, indicating quick situational awareness and tactical thinking.",
       "Competence": 1,
       "Chunk": 39
     },
     {
-      "Action": "Defends Teddy A as a good cop despite Nugent's criticism, showing loyalty but possibly clouding judgment.",
+      "Action": "Defends Teddy A as a good cop despite Nugent disparaging him, showing loyalty but possibly clouded judgment.",
       "Competence": 0,
       "Chunk": 39
     },
     {
-      "Action": "Crawls through dust and debris under heavy gunfire, successfully reaches the elevator cage and kicks the handle to send it up, escaping a dangerous situation.",
-      "Competence": 1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Drops his head when Nugent challenges him about being a 'maker' rather than a 'watcher' or someone who says 'what happened?'.",
-      "Competence": 0,
-      "Chunk": 40
-    },
-    {
-      "Action": "Frantically banging on doors seeking help, showing urgency and concern.",
-      "Warmth": 1,
-      "Chunk": 41
-    },
-    {
-      "Action": "Holding up his badge and politely asking an old man to open the door, showing respect and sincerity.",
-      "Warmth": 1,
-      "Chunk": 41
-    },
-    {
-      "Action": "Reassuring the frightened old man by putting his finger to his mouth to signal silence and safety.",
-      "Warmth": 1,
-      "Chunk": 41
-    },
-    {
-      "Action": "Breaking into a locked room to get cell phones, prioritizing safety and communication.",
-      "Warmth": 1,
-      "Chunk": 41
-    },
-    {
-      "Action": "Stops and tries multiple doors to find a safe place, showing persistence under pressure.",
-      "Competence": 1,
-      "Chunk": 41
-    },
-    {
-      "Action": "Readies his gun and holds up his badge to gain entry, demonstrating tactical awareness and authority.",
-      "Competence": 1,
-      "Chunk": 41
-    },
-    {
-      "Action": "Chains the door behind him to secure the room, showing quick thinking and situational control.",
-      "Competence": 1,
-      "Chunk": 41
-    },
-    {
-      "Action": "Uses his watch to keep track of time and listens carefully at the door, indicating situational awareness and patience.",
-      "Competence": 1,
-      "Chunk": 41
-    },
-    {
-      "Action": "Rips off a padlock with his gun and kicks in a door to access cell phones, showing resourcefulness and decisiveness.",
-      "Competence": 1,
-      "Chunk": 41
-    },
-    {
-      "Action": "Acknowledges that people like Sam have nobody and are too scared to say anything.",
+      "Action": "Acknowledges the fear and isolation of the old man Sam, noting that people like him have nobody and are scared to say anything.",
       "Warmth": 1,
       "Chunk": 42
     },
     {
-      "Action": "Puts his gun down on the table near the door, showing some restraint and respect in the old man's home.",
+      "Action": "Takes the cordless phone from Sam and sets his gun aside while in Sam's home, indicating a temporary respect or trust.",
       "Warmth": 1,
       "Chunk": 42
     },
     {
-      "Action": "Moves toward the back to make a phone call without dismissing or ignoring Sam's pleas.",
-      "Warmth": 0,
+      "Action": "Rips off the padlock with his gun and kicks in the door to the bedroom without apparent care for the occupant's privacy or property.",
+      "Warmth": -1,
       "Chunk": 42
     },
     {
-      "Action": "Rips off the padlock with his gun and kicks in the door, quickly assesses the room filled with contraband and cell phones, identifies likely gang involvement, and takes the phone to call Dan MacDonald's office.",
-      "Competence": 1,
-      "Chunk": 42
-    },
-    {
-      "Action": "Puts his .38 on the table near the front door, possibly reducing immediate readiness or security.",
-      "Competence": -1,
-      "Chunk": 42
-    },
-    {
-      "Action": "Calls Dan MacDonald promptly to inform him he has the witness, showing awareness of the situation.",
-      "Competence": 1,
-      "Chunk": 43
-    },
-    {
-      "Action": "Is about seven blocks away from the courthouse but delayed by police barricades, indicating some difficulty navigating obstacles.",
-      "Competence": 0,
-      "Chunk": 43
-    },
-    {
-      "Action": "Acknowledges the urgency and suggests MacDonald buy more time, demonstrating situational understanding and problem-solving.",
-      "Competence": 1,
-      "Chunk": 43
-    },
-    {
-      "Action": "Does not appear to have a clear plan to bypass the police barricades quickly, potentially risking the witness's timely arrival.",
-      "Competence": 0,
-      "Chunk": 43
-    },
-    {
-      "Action": "Raises hands in surrender and tries to de-escalate confrontation with gang members, stating they want no trouble and just to leave peacefully.",
+      "Action": "Keeps calm and non-confrontational when confronted by gang members, raises hands in surrender to avoid trouble.",
       "Warmth": 1,
       "Chunk": 44
     },
     {
-      "Action": "Accuses MacDonald’s squad of having a leak, showing distrust and suspicion.",
-      "Warmth": -1,
-      "Chunk": 44
-    },
-    {
-      "Action": "Identifies a leak within the squad and understands the complexity of the situation, showing insight.",
-      "Competence": 1,
-      "Chunk": 44
-    },
-    {
-      "Action": "Calmly faces threatening gang members, surrenders hands up but maintains composure and avoids escalation.",
-      "Competence": 1,
-      "Chunk": 44
-    },
-    {
-      "Action": "Does not immediately respond to MacDonald's call, instead thinks through the situation before acting.",
-      "Competence": 1,
-      "Chunk": 44
-    },
-    {
-      "Action": "Protects the old man from Ong and his partner, physically intervenes to stop violence, confiscates IDs, and warns them not to return.",
+      "Action": "Withdraws from window and pulls Eddie away from danger, showing protective behavior.",
       "Warmth": 1,
-      "Chunk": 45
+      "Chunk": 44
     },
     {
-      "Action": "Threatens Ong and partner with severe consequences if anything happens to the old man, showing protective loyalty.",
+      "Action": "Refuses to respond to Ong’s provocation and maintains cool demeanor.",
       "Warmth": 1,
-      "Chunk": 45
+      "Chunk": 44
     },
     {
-      "Action": "Initially dismisses Eddie’s concern about the old man but then shows a slight smile when Eddie points out the unfair treatment, indicating some openness and tolerance.",
-      "Warmth": 0,
-      "Chunk": 45
-    },
-    {
-      "Action": "Quickly disarms Ong with a precise and powerful move, breaking his arm and incapacitating him before he can attack Eddie.",
+      "Action": "Quickly disarms Ong with a precise counterattack despite his own pain; confiscates IDs and asserts control of the situation.",
       "Competence": 1,
       "Chunk": 45
     },
     {
-      "Action": "Efficiently handles the situation by confiscating IDs and issuing a clear warning backed by his authority and badge.",
+      "Action": "Uses intimidation effectively by showing his badge and threatening serious consequences.",
       "Competence": 1,
       "Chunk": 45
     },
     {
-      "Action": "Shows physical pain and nausea after the fight but continues to maintain control and authority.",
-      "Competence": 1,
-      "Chunk": 45
-    },
-    {
-      "Action": "Initially dismisses Eddie’s concerns about helping Sam, showing some reluctance or impatience.",
+      "Action": "Initially dismisses Eddie's concern about Sam opening the door but then reassesses with a slight smile.",
       "Competence": 0,
       "Chunk": 45
     },
     {
-      "Action": "Shows a slight trace of a smile when looking at Eddie differently, indicating a moment of softened attitude.",
-      "Warmth": 1,
-      "Chunk": 46
-    },
-    {
-      "Action": "Refuses to call another character his friend and distances himself from them, showing emotional coldness or distrust.",
-      "Warmth": -1,
-      "Chunk": 46
-    },
-    {
-      "Action": "Acknowledges the corruption and wrongdoing of police detectives intimidating witnesses, showing awareness and implicit disapproval.",
-      "Warmth": 1,
-      "Chunk": 46
-    },
-    {
-      "Action": "Responds to Eddie's concern with 'Can't fix everything,' indicating a resigned or detached attitude.",
-      "Warmth": -1,
-      "Chunk": 46
-    },
-    {
-      "Action": "Keeps eyes and ears open while descending the stairwell despite a pronounced limp, showing alertness and situational awareness.",
-      "Competence": 1,
-      "Chunk": 46
-    },
-    {
-      "Action": "Acknowledges the reality that he can't fix everything, indicating a realistic and pragmatic mindset.",
-      "Competence": 1,
-      "Chunk": 46
-    },
-    {
-      "Action": "Takes time to answer when questioned about witness tampering, suggesting careful thought before speaking.",
-      "Competence": 1,
-      "Chunk": 46
-    },
-    {
-      "Action": "Stares out into the chaos quietly and waits for a sign before acting, demonstrating patience and strategic thinking.",
-      "Competence": 1,
-      "Chunk": 46
-    },
-    {
-      "Action": "Shows a pronounced limp, which may limit physical capability in tense situations.",
-      "Competence": -1,
-      "Chunk": 46
-    },
-    {
-      "Action": "Describes the old Chinese witness as a citizen minding his own business and highlights his courage in not folding under threat.",
-      "Warmth": 1,
-      "Chunk": 47
-    },
-    {
-      "Action": "Keeps his eyes hard and never leaves the street as he speaks, showing emotional distance.",
-      "Warmth": -1,
-      "Chunk": 47
-    },
-    {
-      "Action": "Keeps his eyes hard and focused on the street while speaking, showing alertness and situational awareness.",
-      "Competence": 1,
-      "Chunk": 47
-    },
-    {
-      "Action": "Is not immediately found by Nugent and Mulvey in the crowded wedding parade, indicating he may be effectively blending into or navigating the crowd.",
-      "Competence": 1,
-      "Chunk": 47
-    },
-    {
-      "Action": "Moves out the service doors into the middle of the street amidst a chaotic and colorful crowd, maintaining position and composure.",
-      "Competence": 1,
-      "Chunk": 47
-    },
-    {
-      "Action": "Laughs with Eddie despite their dire situation, showing some camaraderie.",
-      "Warmth": 1,
-      "Chunk": 48
-    },
-    {
-      "Action": "Expresses cynicism and distrust, saying 'I shot a cop and you're a rat. Who's going to help us?'",
-      "Warmth": -1,
-      "Chunk": 48
-    },
-    {
-      "Action": "Engages in light teasing with Eddie about his new profession, indicating a friendly rapport.",
-      "Warmth": 1,
-      "Chunk": 48
-    },
-    {
-      "Action": "Keeps moving toward safety despite danger and exhaustion.",
-      "Competence": 1,
-      "Chunk": 48
-    },
-    {
-      "Action": "Uses available resources (paper towels) to stop bleeding, showing practical problem-solving.",
-      "Competence": 1,
-      "Chunk": 48
-    },
-    {
-      "Action": "Expresses cynicism and distrust about getting help, indicating a realistic but somewhat pessimistic mindset.",
-      "Competence": 0,
-      "Chunk": 48
-    },
-    {
-      "Action": "Engages in banter with Eddie, showing some mental resilience and social awareness under stress.",
-      "Competence": 1,
-      "Chunk": 48
-    },
-    {
-      "Action": "Listens quietly and attentively to Eddie's story without interrupting or mocking.",
+      "Action": "Listens quietly and respectfully to Eddie's story, nodding thoughtfully.",
       "Warmth": 1,
       "Chunk": 49
     },
     {
-      "Action": "Nods encouragingly at Eddie to check again, showing support.",
-      "Warmth": 1,
-      "Chunk": 49
-    },
-    {
-      "Action": "Makes a sarcastic comment about check washing, potentially dismissive.",
-      "Warmth": -1,
-      "Chunk": 49
-    },
-    {
-      "Action": "Listens attentively to Eddie's story and encourages him to check again, showing patience and engagement.",
-      "Competence": 1,
-      "Chunk": 49
-    },
-    {
-      "Action": "Simply stares at Eddie without interrupting or offering immediate judgment, indicating thoughtful consideration.",
-      "Competence": 1,
-      "Chunk": 49
-    },
-    {
-      "Action": "Expresses skepticism about people changing, implying a cynical worldview.",
-      "Warmth": -1,
-      "Chunk": 50
-    },
-    {
-      "Action": "Uncomfortably greets Salma, who clearly dislikes him, showing some social awareness and restraint.",
-      "Warmth": 0,
-      "Chunk": 50
-    },
-    {
-      "Action": "Questions Eddie's idea of leaving women behind to save a friend, implying some moral consideration.",
-      "Warmth": 1,
-      "Chunk": 50
-    },
-    {
-      "Action": "States with confidence from 23 years of police work that thieves don't change, showing experience and certainty.",
-      "Competence": 1,
-      "Chunk": 50
-    },
-    {
-      "Action": "Feels uncomfortable around Salma and does not engage, possibly missing an opportunity to ease tension.",
-      "Competence": -1,
-      "Chunk": 50
-    },
-    {
-      "Action": "Engages in conversation with Eddie and Shaquille, showing social awareness and ability to navigate different environments.",
-      "Competence": 1,
-      "Chunk": 50
-    },
-    {
-      "Action": "Does not respond to Salma's hostility, which could be seen as either restraint or lack of assertiveness.",
-      "Competence": 0,
-      "Chunk": 50
-    },
-    {
-      "Action": "Visualizes duct tape over Eddie's mouth in response to his talk about change.",
-      "Warmth": -1,
-      "Chunk": 51
-    },
-    {
-      "Action": "Tucks his gun in his waist and cooperates with Shaquille, who says Jack took care of things like food and bills for him.",
-      "Warmth": 1,
-      "Chunk": 51
-    },
-    {
-      "Action": "Tucks his gun confidently and gives clear instructions to pull in downstairs and pop the trunk, showing control and situational awareness.",
+      "Action": "Tucks his gun confidently and directs Shaquille to pull in downstairs, pop the trunk, and go home.",
       "Competence": 1,
       "Chunk": 51
     },
     {
-      "Action": "Looks completely confused when Eddie mentions Chuck Berry's change, indicating a momentary lack of understanding or insight.",
+      "Action": "Looks completely confused when Eddie talks about Chuck Berry changing, fails to engage effectively.",
       "Competence": -1,
       "Chunk": 51
     },
     {
-      "Action": "Visualizes duct tape over Eddie's mouth, showing quick, if somewhat sarcastic, mental imagery and control of the situation.",
-      "Competence": 0,
-      "Chunk": 51
-    },
-    {
-      "Action": "Encourages Eddie to sing the 'Wheels on the Bus' song, engaging with him despite the tense situation.",
-      "Warmth": 1,
-      "Chunk": 52
-    },
-    {
-      "Action": "Dismisses Eddie's comfort song as stupid and mocks his belief in it.",
-      "Warmth": -1,
-      "Chunk": 52
-    },
-    {
-      "Action": "Shows impatience and indifference when Eddie tries to explain the song's significance.",
-      "Warmth": -1,
-      "Chunk": 52
-    },
-    {
-      "Action": "Keeps focus on the situation, tries to maintain control by telling Eddie to stop humming and then engages with the tune to keep track of surroundings.",
-      "Competence": 1,
-      "Chunk": 52
-    },
-    {
-      "Action": "Dismisses Eddie's coping mechanism (singing the song) as stupid without offering support or alternative solutions.",
-      "Competence": -1,
-      "Chunk": 52
-    },
-    {
-      "Action": "Suddenly aware he’s hurt Eddie’s feelings and tries to speak up.",
-      "Warmth": 1,
-      "Chunk": 53
-    },
-    {
-      "Action": "Jams foot on accelerator and pushes Shaquille out of the car to save himself from danger.",
-      "Warmth": -1,
-      "Chunk": 53
-    },
-    {
-      "Action": "Recognizes Shaquille's nervousness and threat, quickly disarms him by cocking his gun and taking control of the situation.",
-      "Competence": 1,
-      "Chunk": 53
-    },
-    {
-      "Action": "Jams foot on accelerator and pushes Shaquille out of the car to avoid immediate threat, showing quick thinking and decisiveness.",
-      "Competence": 1,
-      "Chunk": 53
-    },
-    {
-      "Action": "Dives into the back seat as the windshield shatters and the car is under heavy fire, demonstrating situational awareness and self-preservation.",
-      "Competence": 1,
-      "Chunk": 53
-    },
-    {
-      "Action": "Shoots three times before escaping after the car crashes, indicating skill and presence of mind under pressure.",
-      "Competence": 1,
-      "Chunk": 53
-    },
-    {
-      "Action": "Momentarily distracted by the bus wipers and doors, showing a faint smile, which could indicate a brief lapse in focus during a tense situation.",
-      "Competence": 0,
-      "Chunk": 53
-    },
-    {
-      "Action": "Bangs on bus door flashing badge, insists on no stops to protect Eddie and others.",
+      "Action": "Forces passengers to kneel face first against the windows with hands over heads for their safety.",
       "Warmth": 1,
       "Chunk": 54
     },
     {
-      "Action": "Holds gun on driver to keep bus moving despite danger, prioritizing safety of passengers and Eddie.",
+      "Action": "Shows determination and protects passengers despite physical exhaustion.",
       "Warmth": 1,
       "Chunk": 54
     },
     {
-      "Action": "Locks doors and forces passengers to face windows with hands over heads to protect them from gunfire.",
-      "Warmth": 1,
+      "Action": "Holds gun to driver to keep the bus moving and escape danger.",
+      "Warmth": 0,
       "Chunk": 54
     },
     {
-      "Action": "Hands out newspapers and duct tape to passengers to cover windows, helping to protect them and calm the situation.",
+      "Action": "Hands out newspapers and duct tape to passengers to tape over windows, helping calm and protect them.",
       "Warmth": 1,
       "Chunk": 55
     },
     {
-      "Action": "Moves passengers strategically to cover the windshield, showing concern for their safety.",
-      "Warmth": 1,
+      "Action": "Pushing FOUR to move towards the front to cover the windshield, showing focus on protection.",
+      "Warmth": 0,
       "Chunk": 55
     },
     {
-      "Action": "Pushing FOUR to move towards the front to cover the windshield, taking initiative to protect the bus and passengers.",
-      "Competence": 1,
-      "Chunk": 55
-    },
-    {
-      "Action": "Grabs newspapers and duct tape to cover the bus windows, showing quick thinking and resourcefulness in a tense situation.",
-      "Competence": 1,
-      "Chunk": 55
-    },
-    {
-      "Action": "Mumbles a prayer in Chinese to calm a fearful passenger, showing empathy and care.",
-      "Warmth": 1,
-      "Chunk": 56
-    },
-    {
-      "Action": "Moves passengers to the back of the bus, likely to protect them from danger.",
-      "Warmth": 1,
-      "Chunk": 56
-    },
-    {
-      "Action": "Tells Sheehan to throw the radio without allowing him to explain, showing impatience or distrust.",
-      "Warmth": -1,
-      "Chunk": 56
-    },
-    {
-      "Action": "Mumbles a prayer in Chinese to calm a fearful passenger, showing cultural awareness and emotional intelligence.",
-      "Competence": 1,
-      "Chunk": 56
-    },
-    {
-      "Action": "Moves passengers to the back of the bus, taking control of the situation and managing hostages.",
-      "Competence": 1,
-      "Chunk": 56
-    },
-    {
-      "Action": "Internally urges Sheehan to throw the radio quickly, indicating situational awareness and decisiveness.",
-      "Competence": 1,
-      "Chunk": 56
-    },
-    {
-      "Action": "Acknowledges the number of people on the bus but hesitates to be fully honest.",
-      "Warmth": 0,
-      "Chunk": 57
-    },
-    {
-      "Action": "Shows visible despair and loss of hope, slumping with dim eyes, indicating emotional vulnerability.",
-      "Warmth": 1,
-      "Chunk": 57
-    },
-    {
-      "Action": "Does not respond to Eddie’s attempt at encouragement, remaining withdrawn and silent.",
-      "Warmth": 0,
-      "Chunk": 57
-    },
-    {
-      "Action": "Underhands the radio through the bus doors and communicates with Sheehan, providing information about the hostages.",
-      "Competence": 1,
-      "Chunk": 57
-    },
-    {
-      "Action": "Stops himself from giving the exact number of people on the bus, possibly to mislead or protect information.",
-      "Competence": 1,
-      "Chunk": 57
-    },
-    {
-      "Action": "Observes the surrounding threat carefully, noting the 360-degree coverage and the presence of armed forces and helicopters.",
-      "Competence": 1,
-      "Chunk": 57
-    },
-    {
-      "Action": "Moves away from the window when he notices Nugent staring directly at him, showing awareness of being watched.",
-      "Competence": 1,
-      "Chunk": 57
-    },
-    {
-      "Action": "Sits down and shows signs of hopelessness and defeat, with no verbal response to encouragement.",
-      "Competence": -1,
-      "Chunk": 57
-    },
-    {
-      "Action": "Consoles a Latino woman with a soothing smile.",
+      "Action": "Observes Eddie’s notebook filled with months of hope, craft and hard work, showing a moment of silent respect and acknowledgment.",
       "Warmth": 1,
       "Chunk": 58
     },
     {
-      "Action": "Demands District Attorney, court stenographer, and media presence to witness sworn testimony, threatening to start shooting if demands are not met.",
+      "Action": "Consoles a Latino woman with a soothing smile, demonstrating kindness and empathy.",
+      "Warmth": 1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Makes a firm demand for a DA, court stenographer, and media presence to witness testimony on the bus, threatening to start shooting otherwise, showing a harsh and intimidating approach.",
       "Warmth": -1,
       "Chunk": 58
     },
     {
-      "Action": "Examines Eddie’s notebook carefully, showing attention to detail and understanding of Eddie’s plans and efforts.",
+      "Action": "Examines Eddie’s notebook, showing awareness of the kid’s careful planning and thought.",
       "Competence": 1,
       "Chunk": 58
     },
     {
-      "Action": "Makes a firm and strategic demand over the radio for DA, court stenographer, and media presence to witness testimony, demonstrating confidence and tactical thinking.",
+      "Action": "Makes a clear, confident demand via radio for the District Attorney, court stenographer, and media to board the bus to witness sworn testimony.",
       "Competence": 1,
       "Chunk": 58
     },
     {
-      "Action": "Cuts off Sheehan’s objections and sets a strict 30-minute deadline with a threat, showing decisiveness and control of the situation.",
+      "Action": "Sets a firm thirty-minute deadline with a credible threat to start shooting if his demands are not met, showing assertiveness and strategic pressure.",
       "Competence": 1,
       "Chunk": 58
     },
     {
-      "Action": "Clicks off the radio and moves to the back of the bus, maintaining composure and command.",
+      "Action": "Cuts off Sheehan mid-explanation, demonstrating decisiveness and control in the situation.",
       "Competence": 1,
       "Chunk": 58
     },
     {
-      "Action": "Uses a bold tactic to bring the courthouse to the bus, which Eddie calls brilliant, indicating innovative problem-solving.",
+      "Action": "Clicks off the radio after stating demands, signaling confidence and refusing to entertain negotiation, displaying command presence.",
       "Competence": 1,
       "Chunk": 58
     },
     {
-      "Action": "Tells Eddie to change clothes with a suited man to escape the imminent assault, prioritizing Eddie's survival over his own safety.",
+      "Action": "Moves to back of bus after making demands, indicating a calm and controlled posture.",
+      "Competence": 1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Insists Eddie change clothes and leaves him to escape a deadly breach, telling him to give up testifying and accept the situation to survive.",
       "Warmth": 1,
       "Chunk": 59
     },
     {
-      "Action": "Admits to Eddie that no one is coming to help and that their chance is to get off the bus, showing honesty and concern despite the grim situation.",
+      "Action": "Deceptively tells Eddie that no one is coming to rescue them to make him comply, while knowing the danger ahead.",
+      "Warmth": -1,
+      "Chunk": 59
+    },
+    {
+      "Action": "Shows a sense of responsibility and care by trying to save Eddie’s life despite grim circumstances.",
       "Warmth": 1,
       "Chunk": 59
     },
     {
-      "Action": "Rejects the idea of testifying and encourages Eddie to give up on fighting back, showing a resigned and spiritless attitude.",
+      "Action": "Displays resignation and lack of hope, telling Eddie it’s over and to forget fighting back, indicating emotional withdrawal.",
       "Warmth": 0,
       "Chunk": 59
     },
     {
-      "Action": "Devises a plan to save Eddie by having him change clothes with a suited man to escape the impending assault, showing quick thinking and situational awareness.",
+      "Action": "Formulates a plan to save Eddie by having him switch clothes with another passenger and escape before the assault.",
       "Competence": 1,
       "Chunk": 59
     },
     {
-      "Action": "Calmly explains the imminent danger and the futility of testifying, demonstrating clear understanding of the situation and realistic assessment.",
+      "Action": "Clearly explains risks and the urgency of the situation to Eddie, showing situational awareness and decisive leadership.",
       "Competence": 1,
       "Chunk": 59
     },
     {
-      "Action": "Decides to abandon the idea of testifying and escape rather than fight, showing pragmatism and prioritizing survival.",
-      "Competence": 1,
-      "Chunk": 59
-    },
-    {
-      "Action": "Appears spiritless and resigned, which could indicate a lack of confidence or emotional defeat despite competent planning.",
-      "Competence": 0,
-      "Chunk": 59
-    },
-    {
-      "Action": "Instructs passengers calmly to keep their hands visible and signals them to step out safely.",
-      "Warmth": 1,
-      "Chunk": 60
-    },
-    {
-      "Action": "Adjusts Eddie's tie and pushes him out of the bus to safety despite Eddie's fear and hesitation.",
-      "Warmth": 1,
-      "Chunk": 60
-    },
-    {
-      "Action": "Ignores Eddie's attempt to express gratitude, focusing instead on practical advice to stay safe.",
-      "Warmth": 0,
-      "Chunk": 60
-    },
-    {
-      "Action": "Calmly instructs passengers to keep their hands visible and signals them to exit the bus orderly.",
-      "Competence": 1,
-      "Chunk": 60
-    },
-    {
-      "Action": "Adjusts Eddie's tie and pushes him out to safety despite Eddie's fear and hesitation.",
-      "Competence": 1,
-      "Chunk": 60
-    },
-    {
-      "Action": "Ignores Eddie's attempts to express gratitude or explain himself, focusing on the task at hand.",
-      "Competence": 1,
-      "Chunk": 60
-    },
-    {
-      "Action": "Stands alone inside the bus, resigned to his fate, showing calmness under pressure.",
-      "Competence": 1,
-      "Chunk": 61
-    },
-    {
-      "Action": "Does not take any visible action to escape or influence the situation while surrounded by SWAT, appearing passive.",
+      "Action": "Shows resignation and low hope by stating 'It's over,' indicating possible emotional or mental fatigue impacting his confidence.",
       "Competence": -1,
-      "Chunk": 61
+      "Chunk": 59
     },
     {
-      "Action": "Listens to Eddie's attempt to thank him and acknowledges Eddie's effort to do the right thing despite past mistakes.",
+      "Action": "Instructs passengers calmly to keep their hands visible and signals them individually when they can safely exit.",
+      "Warmth": 1,
+      "Chunk": 60
+    },
+    {
+      "Action": "Pulls Eddie into line and adjusts his tie, showing a caring, protective gesture despite the tense situation.",
+      "Warmth": 1,
+      "Chunk": 60
+    },
+    {
+      "Action": "Ignores Eddie’s attempt to express gratitude and urgency, focusing instead on practical advice and pushing him out for safety.",
+      "Warmth": 0,
+      "Chunk": 60
+    },
+    {
+      "Action": "Listens to Eddie’s attempt at gratitude and shows a moment of speechlessness, indicating he is touched or surprised.",
       "Warmth": 1,
       "Chunk": 62
     },
     {
-      "Action": "Responds to Eddie's note with frustration but does not reject or dismiss him outright, showing some tolerance.",
+      "Action": "Responds sharply to Eddie calling him 'dumb shit', but does not retaliate aggressively.",
       "Warmth": 0,
       "Chunk": 62
     },
     {
-      "Action": "Acts decisively to protect Eddie by driving the bus through a dangerous situation, risking his own safety.",
+      "Action": "Crawls to the driver’s seat and drives the bus through heavy fire and barricades to protect Eddie, showing commitment and protective behavior.",
       "Warmth": 1,
       "Chunk": 62
     },
     {
-      "Action": "Hears commotion, quickly assesses situation by peering out the bus window.",
-      "Competence": 1,
-      "Chunk": 62
-    },
-    {
-      "Action": "Responds immediately to attack by crawling to the driver’s seat, starting the bus, and accelerating through barricades under heavy fire.",
-      "Competence": 1,
-      "Chunk": 62
-    },
-    {
-      "Action": "Maintains control of the bus despite it listing and sparks flying, showing skill under pressure.",
-      "Competence": 1,
-      "Chunk": 62
-    },
-    {
-      "Action": "Almost speechless and emotionally affected when Eddie slides the notebook and speaks, momentarily distracted.",
-      "Competence": 0,
-      "Chunk": 62
-    },
-    {
-      "Action": "Quickly spots a metal sign indicating a possible escape route and acts on it by steering the bus sharply into the alley, evading SWAT teams.",
-      "Competence": 1,
-      "Chunk": 63
-    },
-    {
-      "Action": "Successfully maneuvers the bus at high speed through a narrow alley despite heavy gunfire and obstacles, demonstrating skill and presence of mind.",
-      "Competence": 1,
-      "Chunk": 63
-    },
-    {
-      "Action": "Turns back to retrieve Eddie’s dropped notebook despite the urgency, showing care and responsibility.",
+      "Action": "Turns back to retrieve Eddie's dropped notebook despite pressure to keep moving.",
       "Warmth": 1,
       "Chunk": 64
     },
     {
-      "Action": "Races to help Eddie after he falls, pulls him to his feet, and supports him towards the courthouse.",
+      "Action": "Rushes to Eddie's side after he falls, asks if he is okay.",
       "Warmth": 1,
       "Chunk": 64
     },
     {
-      "Action": "Presses on Eddie’s wound, covers it with his own shirt, and reassures him help is coming.",
+      "Action": "Covers Eddie's wound with his shirt and presses on it, staying with him in a dangerous place.",
       "Warmth": 1,
       "Chunk": 64
     },
     {
-      "Action": "Encourages Eddie to stay awake and communicate despite the dire situation.",
+      "Action": "Encourages Eddie to stay awake and communicate even when Eddie is near unconscious.",
       "Warmth": 1,
       "Chunk": 64
     },
     {
-      "Action": "Notices Eddie’s dropped notebook and makes a quick decision to retrieve it despite the risk and time lost, showing situational awareness and prioritization.",
+      "Action": "Notices Eddie's notebook falling, turns back to retrieve it despite holding up traffic, showing attention to detail and responsibility.",
       "Competence": 1,
       "Chunk": 64
     },
     {
-      "Action": "Quickly reacts to Eddie’s collapse by pulling him to his feet and continuing towards the courthouse, demonstrating decisiveness and physical capability under pressure.",
+      "Action": "Quickly responds when Eddie falls, pulls him up and assesses his condition showing calmness under pressure.",
       "Competence": 1,
       "Chunk": 64
     },
     {
-      "Action": "Uses his shirt to apply pressure to Eddie’s neck wound and reassures him, showing practical first aid knowledge and emotional control.",
+      "Action": "Applies immediate first aid to Eddie's neck wound using his shirt and reassures him, demonstrating practical skill and presence of mind.",
       "Competence": 1,
       "Chunk": 64
     },
     {
-      "Action": "Encourages Eddie to stay awake and communicate, attempting to maintain Eddie’s consciousness and morale, indicating mental resilience and leadership.",
+      "Action": "Encourages Eddie to stay awake and conscious by talking to him, indicating emotional intelligence and focus in crisis.",
       "Competence": 1,
       "Chunk": 64
     },
     {
-      "Action": "Initially willing to ignore the notebook to keep moving but then changes course to retrieve it, which could be seen as a momentary lapse in judgment or hesitation.",
-      "Competence": 0,
-      "Chunk": 64
-    },
-    {
-      "Action": "Presses shirt against Eddie’s neck to slow blood flow, shows concern and urgency.",
-      "Warmth": 1,
-      "Chunk": 65
-    },
-    {
-      "Action": "Expresses hope and encouragement to Eddie despite grim situation.",
-      "Warmth": 1,
-      "Chunk": 65
-    },
-    {
-      "Action": "Listens attentively to Eddie’s story without judgment.",
-      "Warmth": 1,
-      "Chunk": 65
-    },
-    {
-      "Action": "Presses the shirt against Eddie’s neck to slow the blood flow, showing quick response to a medical emergency.",
-      "Competence": 1,
-      "Chunk": 65
-    },
-    {
-      "Action": "Listens carefully and pieces together Eddie’s story, demonstrating attentive and thoughtful engagement.",
-      "Competence": 1,
-      "Chunk": 65
-    },
-    {
-      "Action": "Expresses concern and tries to encourage Eddie despite uncertainty, showing emotional support but some uncertainty about medical outcome.",
-      "Competence": 0,
-      "Chunk": 65
-    },
-    {
-      "Action": "Leans in close to encourage Eddie, saying 'You need to make it Eddie. For both of us.'",
-      "Warmth": 1,
-      "Chunk": 66
-    },
-    {
-      "Action": "Went to Diane's apartment to get his gun, showing a practical but intrusive action.",
-      "Warmth": 0,
-      "Chunk": 66
-    },
-    {
-      "Action": "Stares at the floor after Diane reveals harsh truths about him, showing some vulnerability and possible remorse.",
-      "Warmth": 1,
-      "Chunk": 66
-    },
-    {
-      "Action": "Leans in close and speaks with determination to Eddie, encouraging him to survive.",
-      "Competence": 1,
-      "Chunk": 66
-    },
-    {
-      "Action": "Obtains his gun from Diane's apartment, showing resourcefulness.",
-      "Competence": 1,
-      "Chunk": 66
-    },
-    {
-      "Action": "Stares at the floor after Diane reveals the truth about his past, showing possible lack of confidence or avoidance.",
+      "Action": "Initially tries to ignore the notebook on the street to keep moving faster, which could indicate hesitation or momentary poor prioritization.",
       "Competence": -1,
+      "Chunk": 64
+    },
+    {
+      "Action": "Presses shirt against Eddie's neck to slow blood flow, shows concern for Eddie's wellbeing.",
+      "Warmth": 1,
+      "Chunk": 65
+    },
+    {
+      "Action": "Tries to comfort Eddie with encouraging words about the bakery and his fate.",
+      "Warmth": 1,
+      "Chunk": 65
+    },
+    {
+      "Action": "Seems confused at first but listens attentively to Eddie's story and feelings.",
+      "Warmth": 1,
+      "Chunk": 65
+    },
+    {
+      "Action": "Listens carefully to Eddie's story, presses shirt to wound to slow bleeding, tries to keep Eddie conscious.",
+      "Competence": 1,
+      "Chunk": 65
+    },
+    {
+      "Action": "Does not fully understand Eddie's initial cryptic hints until explained.",
+      "Competence": 0,
+      "Chunk": 65
+    },
+    {
+      "Action": "Leans in close and sincerely urges Eddie to survive for both their sakes.",
+      "Warmth": 1,
       "Chunk": 66
     },
     {
-      "Action": "Refuses to explain his situation to Diane, showing emotional distance.",
+      "Action": "Goes to Diane’s apartment to retrieve his gun, indicating past troubled behavior acknowledged by Diane.",
+      "Warmth": 0,
+      "Chunk": 66
+    },
+    {
+      "Action": "Reveals to Diane and Eddie his past as a self-medicating, depressed individual who ‘didn’t care about anything or anyone’.",
+      "Warmth": 0,
+      "Chunk": 66
+    },
+    {
+      "Action": "Shows discomfort and introspection when Diane confronts him with hard truths.",
+      "Warmth": 1,
+      "Chunk": 66
+    },
+    {
+      "Action": "Introduces Diane to Eddie despite tension; allows Diane to tend his wound, accepts care",
+      "Warmth": 1,
+      "Chunk": 67
+    },
+    {
+      "Action": "Refuses to explain his situation to Diane when she looks for answers",
       "Warmth": -1,
       "Chunk": 67
     },
     {
-      "Action": "Introduces Eddie to his sister Diane, indicating some openness.",
-      "Warmth": 1,
-      "Chunk": 67
-    },
-    {
-      "Action": "Admits to Eddie that he is not a good guy and expresses self-loathing.",
-      "Warmth": 1,
-      "Chunk": 67
-    },
-    {
-      "Action": "Requests Diane's help despite his condition, showing some trust and reliance on others.",
-      "Warmth": 1,
-      "Chunk": 67
-    },
-    {
-      "Action": "Shows reluctance to celebrate or acknowledge positive life events, indicating emotional guardedness.",
-      "Warmth": -1,
-      "Chunk": 67
-    },
-    {
-      "Action": "Fails to explain his situation to Diane when asked, showing reluctance or inability to communicate clearly.",
-      "Competence": -1,
-      "Chunk": 67
-    },
-    {
-      "Action": "Asks Diane for another favor despite his injured state, indicating awareness of his needs and ability to plan ahead.",
-      "Competence": 1,
-      "Chunk": 67
-    },
-    {
-      "Action": "Refuses to get on his feet despite medical advice, showing poor judgment about his physical condition.",
-      "Competence": -1,
-      "Chunk": 67
-    },
-    {
-      "Action": "Maintains composure and engages in meaningful conversation with Eddie, showing emotional intelligence and self-awareness.",
-      "Competence": 1,
-      "Chunk": 67
-    },
-    {
-      "Action": "Nods and silently acknowledges Eddie's hopeful perspective despite his own cynicism.",
-      "Warmth": 1,
-      "Chunk": 68
-    },
-    {
-      "Action": "Stares into space, reflecting on past mistakes and the lack of second chances, showing internal struggle.",
+      "Action": "Admits to being a bad person and undeserving of celebration",
       "Warmth": 0,
-      "Chunk": 68
+      "Chunk": 67
     },
     {
-      "Action": "Reflects on past mistakes and the lack of second chances, showing awareness and seriousness about consequences.",
-      "Competence": 1,
-      "Chunk": 68
+      "Action": "Asks Diane for a favor despite his injured state",
+      "Warmth": 0,
+      "Chunk": 67
     },
     {
-      "Action": "Stares into space at something only he can see, indicating possible distraction or preoccupation.",
-      "Competence": 0,
-      "Chunk": 68
-    },
-    {
-      "Action": "Tries to listen carefully to outside sounds, showing alertness and situational awareness.",
-      "Competence": 1,
-      "Chunk": 68
-    },
-    {
-      "Action": "Holds his .38 calmly as the EMT truck doors open, showing readiness and composure.",
-      "Competence": 1,
-      "Chunk": 69
-    },
-    {
-      "Action": "Moves cautiously with Eddie through the underground parking structure, indicating awareness and careful approach.",
-      "Competence": 1,
-      "Chunk": 69
-    },
-    {
-      "Action": "Checks his watch while observing the heavily barricaded courthouse, demonstrating situational awareness and time management.",
-      "Competence": 1,
-      "Chunk": 69
+      "Action": "Jokingly tells Eddie they won't see each other again, calls them 'two shits passing in the night'.",
+      "Warmth": 0,
+      "Chunk": 70
     },
     {
       "Action": "Shoves Eddie out of the way to protect him from gunfire.",
@@ -2051,282 +811,994 @@
       "Chunk": 70
     },
     {
-      "Action": "Uses his gun to smash the fluorescents, plunging the area into darkness to help Eddie hide.",
+      "Action": "Uses gun to smash fluorescents to create darkness and protect Eddie.",
       "Warmth": 1,
       "Chunk": 70
     },
     {
-      "Action": "Says to Eddie 'I should bring you in right' and 'Think of us as two shits passing in the night,' indicating a resigned but somewhat dismissive attitude.",
-      "Warmth": 0,
-      "Chunk": 70
-    },
-    {
-      "Action": "Checks his watch and prepares handcuffs calmly before approaching the doors, showing situational awareness and readiness.",
-      "Competence": 1,
-      "Chunk": 70
-    },
-    {
-      "Action": "Notices the absence of pigeons and immediately reacts by pushing Eddie out of the way as gunfire erupts, demonstrating alertness and quick reflexes.",
-      "Competence": 1,
-      "Chunk": 70
-    },
-    {
-      "Action": "Fires his weapon blindly while taking cover, then moves strategically to protect Eddie, showing tactical skill under pressure.",
-      "Competence": 1,
-      "Chunk": 70
-    },
-    {
-      "Action": "Uses his gun to smash the fluorescents, plunging the area into darkness to gain a tactical advantage, indicating resourcefulness and strategic thinking.",
-      "Competence": 1,
-      "Chunk": 70
-    },
-    {
-      "Action": "Moves silently and stays low while navigating the parking structure, demonstrating stealth and caution.",
-      "Competence": 1,
-      "Chunk": 70
-    },
-    {
-      "Action": "Shoves Eddie inside the car, removes his cuffs, and cracks the window to give him a chance to escape.",
-      "Warmth": 1,
-      "Chunk": 71
-    },
-    {
-      "Action": "Instructs Eddie to stay put and run when he calls, showing concern for his safety.",
-      "Warmth": 1,
-      "Chunk": 71
-    },
-    {
-      "Action": "Leads Mulvey, Torres, and Nugent away from Eddie, putting himself at risk to protect him.",
-      "Warmth": 1,
-      "Chunk": 71
-    },
-    {
-      "Action": "Eases open the back door quietly, removes cuffs, and instructs Eddie clearly on what to do, showing calm control under pressure.",
-      "Competence": 1,
-      "Chunk": 71
-    },
-    {
-      "Action": "Stays low and uses the environment to his advantage, leading pursuers away from Eddie.",
-      "Competence": 1,
-      "Chunk": 71
-    },
-    {
-      "Action": "Surprises Torres by attacking from an unexpected angle and incapacitates him quickly.",
-      "Competence": 1,
-      "Chunk": 71
-    },
-    {
-      "Action": "Attempts to bait Nugent into following him, showing tactical thinking.",
-      "Competence": 1,
-      "Chunk": 71
-    },
-    {
-      "Action": "Does not notice the door not being completely closed, which could be a security oversight.",
-      "Competence": -1,
-      "Chunk": 71
-    },
-    {
-      "Action": "Drags Nugent inside the church, ties his hands to restrain him, preventing further violence.",
+      "Action": "Ties up Nugent to prevent harm, distinguishing between bad guy and good guy (Eddie), showing moral clarity and protection.",
       "Warmth": 1,
       "Chunk": 72
     },
     {
-      "Action": "Refers to Nugent as 'bad guy' and Eddie as 'good guy; very good guy,' showing clear moral distinction and some sincerity.",
-      "Warmth": 1,
-      "Chunk": 72
-    },
-    {
-      "Action": "Uses violence and intimidation (opening fire, jamming gun in Nugent's ear) to control the situation.",
+      "Action": "Pulls gun on Eddie and forces him to run, inciting fear to ensure compliance.",
       "Warmth": -1,
       "Chunk": 72
     },
     {
-      "Action": "Surprises Nugent by jamming a .38 in his ear, preventing him from shooting.",
+      "Action": "Acknowledges the old man's truthfulness and mourns his death; reflects on his own corruption and pain.",
+      "Warmth": 1,
+      "Chunk": 74
+    },
+    {
+      "Action": "Walks Eddie to a private exit and wishes him well, sharing a moment of understanding despite a guarded remark.",
+      "Warmth": 1,
+      "Chunk": 74
+    },
+    {
+      "Action": "Refuses future contact with Eddie to protect himself emotionally, demonstrating guardedness.",
+      "Warmth": 0,
+      "Chunk": 74
+    },
+    {
+      "Action": "Calmly contemplates a difficult moral choice and decides to face the consequences, showing resolve and awareness of the impact of his actions.",
+      "Competence": 1,
+      "Chunk": 75
+    },
+    {
+      "Action": "Asks Eddie for advice, indicating the capacity to seek help and reflect before acting.",
+      "Competence": 1,
+      "Chunk": 75
+    },
+    {
+      "Action": "Is present in tense, critical situations but remains composed and focused, demonstrating confidence under pressure.",
+      "Competence": 1,
+      "Chunk": 75
+    },
+    {
+      "Action": "Offers to take the place of Mr. Bunker and provides crucial information about witness tampering, including names and cases.",
+      "Warmth": 1,
+      "Chunk": 77
+    },
+    {
+      "Action": "Requests to expunge Bunker’s record to give him peace, showing respect and kindness towards the deceased.",
+      "Warmth": 1,
+      "Chunk": 77
+    },
+    {
+      "Action": "Interacts with Diane tenderly, showing concern and happiness for her happiness, accepts delay on wedding with understanding and warmth.",
+      "Warmth": 1,
+      "Chunk": 77
+    },
+    {
+      "Action": "Spends time feeding pigeons in his cell, a gentle, peaceful action suggesting a reflective and caring nature.",
+      "Warmth": 1,
+      "Chunk": 77
+    },
+    {
+      "Action": "Takes the effort to open a special cake decorated with meaningful local landmarks, shows emotional vulnerability by not knowing whether to laugh or cry, and shares the cake with others.",
+      "Warmth": 1,
+      "Chunk": 78
+    }
+  ],
+  "Jack Mosley ": [
+    {
+      "Action": "Jokes playfully with Grace about running away together.",
+      "Warmth": 1,
+      "Chunk": 3
+    },
+    {
+      "Action": "Grace slides Tic Tacs without looking up; Jack accepts and pops a breath mint, ignoring work reminder.",
+      "Warmth": 0,
+      "Chunk": 3
+    },
+    {
+      "Action": "Shows mild inattentiveness by ignoring a work-related remark about wire request paperwork.",
+      "Warmth": 0,
+      "Chunk": 3
+    },
+    {
+      "Action": "Shoves the pick up slip through the slot without unnecessary discussion and insists on proceeding without waiting an hour for a suit.",
+      "Competence": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Jerks Eddie to his feet and orders him to get dressed despite Eddie’s hesitation about the missing suit.",
+      "Competence": 0,
+      "Chunk": 5
+    },
+    {
+      "Action": "Ignores Eddie's possible concerns, forcibly cuffs him, shoves his head down into a car door.",
+      "Warmth": -1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Keeps walking in stony silence despite Eddie noticing his limp.",
+      "Warmth": -1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Sneaks a look at Eddie scribbling in his book during the ride.",
+      "Warmth": 0,
+      "Chunk": 6
+    },
+    {
+      "Action": "Yanks Eddie to the sidewalk to protect him from traffic and tries to get his bearings in a chaotic situation.",
+      "Competence": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Flinches at a bike messenger and becomes overly wary of bystanders, indicating heightened anxiety and possible loss of control.",
+      "Competence": -1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Attempts to navigate the delivery alley while trying to shake off fuzziness and remember what to do next, showing some struggle but persistence.",
+      "Competence": 0,
+      "Chunk": 12
+    },
+    {
+      "Action": "Quickly pulls bar owner Dominic Forlini out of harm's way when a baseball bat is thrown at him, demonstrating alertness and protective instincts.",
+      "Competence": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Knows exactly where the phone is in an unfamiliar bar and uses it to call dispatch with relevant details despite shaky fingers, showing presence of mind under pressure.",
+      "Competence": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Responds calmly to Nugent's teasing and concern about the safety of another character.",
+      "Warmth": 1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Hesitates and appears uncomfortable as Nugent addresses him, showing internal conflict.",
+      "Warmth": 0,
+      "Chunk": 14
+    },
+    {
+      "Action": "Does not prevent Eddie from being grabbed by Mulvey and Torres despite noticing Eddie's fear and recognition.",
+      "Warmth": -1,
+      "Chunk": 14
+    },
+    {
+      "Action": "Works a strong program at the farm, indicating attempts at rehabilitation or self-improvement.",
+      "Warmth": 1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Half-listens and watches as Mulvey roughs up Eddie, saying 'He’s clean.'",
+      "Warmth": 0,
+      "Chunk": 15
+    },
+    {
+      "Action": "Observes harsh treatment of Eddie silently without intervening.",
+      "Warmth": -1,
+      "Chunk": 15
+    },
+    {
+      "Action": "Backing Eddie towards the rear door, ensuring his safety during a tense situation.",
+      "Warmth": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Holding Nugent’s stare, trying to hold it together, showing emotional struggle and sincerity.",
+      "Warmth": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Discards shotgun info down a drain, saying it’s been with him for twenty years and lucky it went off.",
+      "Warmth": 0,
+      "Chunk": 17
+    },
+    {
+      "Action": "Backing Eddie and another person cautiously towards the rear door while holding Nugent’s stare and trying to hold it together under pressure.",
+      "Competence": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Dropping the shotgun info a drainage grate after assessing its usefulness and explaining there was only one shell for twenty years.",
+      "Competence": 1,
+      "Chunk": 17
+    },
+    {
+      "Action": "Appears shaken and momentarily unclear about what Eddie saw, indicating some initial disorientation.",
+      "Competence": 0,
+      "Chunk": 17
+    },
+    {
+      "Action": "Calms the surprised laundry owner in halting Chinese, showing situational awareness and interpersonal skill.",
+      "Competence": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Unlocks Eddie’s cuffs and discreetly changes his clothing to help him blend in, showing resourcefulness and practical skill.",
+      "Competence": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Instructs Eddie to walk confidently and stay close, demonstrating tactical thinking and protective vigilance.",
+      "Competence": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Keeps eyes alert and scans surroundings carefully while escorting Eddie through the streets, showing situational awareness and protective diligence.",
+      "Competence": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Trying to control pace and searching for a cab to expedite their movement.",
+      "Competence": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Eddie accuses Jack of having no idea what he's doing, indicating uncertainty or lack of clarity in Jack's approach.",
+      "Competence": -1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Immediately responds to a threat by taking control and disarming Torres, protecting Eddie.",
+      "Warmth": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Shows a flash of hurt and sadness when looking at clothes but quickly hides it.",
+      "Warmth": 1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Roughly drops Torres onto the bed after subduing him.",
+      "Warmth": -1,
+      "Chunk": 24
+    },
+    {
+      "Action": "Grabs Eddie's hand to pull him onto the platform, protecting him from danger.",
+      "Warmth": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Uses a sarcastic insult ('IQ of a sprinkler head') towards Eddie while under stress.",
+      "Warmth": -1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Responds honestly when asked about his past, showing some openness.",
+      "Warmth": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Still helps Eddie escape despite past differences and dangers.",
+      "Warmth": 1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Chuckles and engages in light-hearted banter with Eddie about birthday cakes and a bakery plan.",
+      "Warmth": 1,
+      "Chunk": 29
+    },
+    {
+      "Action": "Keeps his gun ready and eyes peeled, tense and exasperated, showing distrust and suspicion.",
+      "Warmth": -1,
+      "Chunk": 29
+    },
+    {
+      "Action": "Keeps his finger on his gun, stays alert while navigating traffic and tense situation.",
+      "Competence": 1,
+      "Chunk": 29
+    },
+    {
+      "Action": "Gives clear, tactical directions to the cab driver (make a left at Broome, come in the back).",
+      "Competence": 1,
+      "Chunk": 29
+    },
+    {
+      "Action": "Expresses exasperation to himself but acknowledges responsibility ('I’m the guy').",
+      "Competence": 0,
+      "Chunk": 29
+    },
+    {
+      "Action": "Engages in light banter with Eddie, showing some distraction from the situation but still aware.",
+      "Competence": 0,
+      "Chunk": 29
+    },
+    {
+      "Action": "Checks traffic conditions carefully, assesses the situation with repair crews funneling lanes, keeps track of time, and racks his brain trying to figure out next move.",
+      "Competence": 1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Takes a quick and decisive action by stopping Eddie from dialing, tossing money to the cab driver, opening the door while cab is moving, and pulling Eddie out into a crowd to avoid pursuers.",
+      "Competence": 1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Shows some self-deprecating humor and perspective on plans not working out, acknowledging the unpredictability and difficulty of changing one’s nature.",
+      "Competence": 0,
+      "Chunk": 30
+    },
+    {
+      "Action": "Avoids asking unnecessary questions and reads Eddie’s character well (identifying him as a thief who will continue to be a thief).",
+      "Competence": 1,
+      "Chunk": 30
+    },
+    {
+      "Action": "Navigates a complex rooftop escape route while evading a police grid search despite his limp.",
+      "Competence": 1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Keeps tension and readiness high, shows awareness of surroundings (e.g., observing cops through the window).",
+      "Competence": 1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Struggles physically to keep pace due to injury but pushes through showing determination rather than optimal physical capability.",
+      "Competence": 0,
+      "Chunk": 31
+    },
+    {
+      "Action": "Jack falling to his knees catching sight of Maldonado on the far roof and continuing to try to move despite a bullet wound in his hand.",
+      "Competence": 1,
+      "Chunk": 32
+    },
+    {
+      "Action": "Jack hesitates before moving over the edge of the roof with pigeons flying around, showing caution but also some indecision.",
+      "Competence": 0,
+      "Chunk": 32
+    },
+    {
+      "Action": "Pulls himself up after falling into a dumpster, showing resilience and a hint of a smile.",
+      "Warmth": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Pulls himself out after falling into a pile of feathers and keeps moving forward despite injury.",
+      "Competence": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Moves quickly through crowded and chaotic environments while injured.",
+      "Competence": 1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Appears trapped and unable to identify threat directions in a chaotic environment.",
+      "Competence": -1,
+      "Chunk": 34
+    },
+    {
+      "Action": "Shoves Eddie aside to take a shot at Nugent, then glares at Eddie after Nugent threatens.",
+      "Warmth": -1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Races back and closes steel door to block Mulvey's gun, protecting himself and Eddie from immediate danger.",
+      "Warmth": 1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Recalls and leads team through a known but hidden location using past knowledge.",
+      "Competence": 1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Races back to roll a steel door closed to block a gun-wielding assailant, physically resisting the weapon.",
+      "Competence": 1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Pushes a companion to the side to take a firing position and return fire.",
+      "Competence": 1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Maintains composure under gunfire, signals for silence to avoid detection.",
+      "Competence": 1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Glares at Eddie after a careless comment during a dangerous situation, indicating awareness of threats.",
+      "Competence": 1,
+      "Chunk": 37
+    },
+    {
+      "Action": "Shares a light moment with Nugent about gum, causing him to grin.",
+      "Warmth": 1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Whispers encouragement to Eddie during a tense moment.",
+      "Warmth": 1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Remains silent when Nugent seeks explanation, showing distance.",
+      "Warmth": -1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Glances at his watch and assesses surroundings quietly.",
+      "Competence": 1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Whispers instructions to Eddie to try opening the rusted elevator door.",
+      "Competence": 1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Maintains calm and stays alert to sounds and movements around him.",
+      "Competence": 1,
+      "Chunk": 38
+    },
+    {
+      "Action": "Does not respond directly to Nugent's questions and remains silent on risky topics.",
+      "Competence": 0,
+      "Chunk": 38
+    },
+    {
+      "Action": "Objects to Nugent crossing ethical boundaries, implying a sense of justice and moral lines.",
+      "Warmth": 1,
+      "Chunk": 39
+    },
+    {
+      "Action": "Defends Teddy A as a good cop despite Nugent's criticism.",
+      "Warmth": 1,
+      "Chunk": 39
+    },
+    {
+      "Action": "Crawls through dust and debris under heavy gunfire, quickly acting to send the elevator up, evading danger with presence of mind.",
+      "Competence": 1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Drops his head after Nugent's challenge, appearing momentarily defeated or unsure.",
+      "Competence": -1,
+      "Chunk": 40
+    },
+    {
+      "Action": "Frantically banging on doors to find a place to hide and protect himself and Eddie.",
+      "Warmth": 1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Showing his police badge and requesting entry to help and protect an elderly man.",
+      "Warmth": 1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Chaining the door to protect the old man and themselves from danger.",
+      "Warmth": 1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Putting his finger to his mouth to signal silence, trying to avoid alarming the old man but preparing for confrontation.",
+      "Warmth": 0,
+      "Chunk": 41
+    },
+    {
+      "Action": "Taking initiative to find a phone by forcefully opening a locked door despite potential disruption.",
+      "Warmth": 0,
+      "Chunk": 41
+    },
+    {
+      "Action": "Rips off the padlock with his gun and kicks in the door, confidently searches the room and correctly identifies the likely gang connection to the stash.",
+      "Competence": 1,
+      "Chunk": 42
+    },
+    {
+      "Action": "Takes the cordless phone from the kitchenette recognizing its importance and puts his gun on a table near the front door, showing situational awareness.",
+      "Competence": 1,
+      "Chunk": 42
+    },
+    {
+      "Action": "Moves toward the back and dials a specific phone number, showing purposeful and professional behavior.",
+      "Competence": 1,
+      "Chunk": 42
+    },
+    {
+      "Action": "Does not calm or address Sam’s visible distress or the tension of the moment overtly, instead proceeding with tasks in a detached manner.",
+      "Competence": 0,
+      "Chunk": 42
+    },
+    {
+      "Action": "Calls Dan MacDonald to coordinate the witness being protected and indicates awareness of obstacles (cops blocking the way).",
+      "Competence": 1,
+      "Chunk": 43
+    },
+    {
+      "Action": "Admits to MacDonald that he is about seven blocks away and stuck because police are interfering.",
+      "Competence": 0,
+      "Chunk": 43
+    },
+    {
+      "Action": "Shows some frustration but understands the urgency and communicates the situation clearly to MacDonald.",
+      "Competence": 1,
+      "Chunk": 43
+    },
+    {
+      "Action": "Identifies a leak within the squad, showing awareness of betrayal and situational danger.",
+      "Competence": 1,
+      "Chunk": 44
+    },
+    {
+      "Action": "Maintains calm and non-aggressive posture when confronted by armed gang members, communicates clearly that they want no trouble and only to leave.",
+      "Competence": 1,
+      "Chunk": 44
+    },
+    {
+      "Action": "Does not immediately react violently or escalate confrontation with gang members despite physical threat.",
+      "Competence": 1,
+      "Chunk": 44
+    },
+    {
+      "Action": "Shows a slight trace of a smile when looking at Eddie differently.",
+      "Warmth": 1,
+      "Chunk": 46
+    },
+    {
+      "Action": "Acknowledges limitation by saying 'Can’t fix everything' when Eddie accuses him of wanting to leave a man behind.",
+      "Warmth": 0,
+      "Chunk": 46
+    },
+    {
+      "Action": "Rejects friendship by saying 'He ain’t my friend' and distances himself from another character.",
+      "Warmth": -1,
+      "Chunk": 46
+    },
+    {
+      "Action": "Sincerely explains the corrupt actions of police detectives intimidating witnesses for profit, showing awareness and perhaps implicit condemnation.",
+      "Warmth": 1,
+      "Chunk": 46
+    },
+    {
+      "Action": "Waits calmly with Eddie in a tense situation, showing patience and steadiness rather than panic.",
+      "Warmth": 1,
+      "Chunk": 46
+    },
+    {
+      "Action": "Keeps eyes hard and fixated on the street during questioning, showing guardedness and emotional distance.",
+      "Warmth": -1,
+      "Chunk": 46
+    },
+    {
+      "Action": "Keeps eyes and ears open while descending stairs, staying alert despite a pronounced limp.",
+      "Competence": 1,
+      "Chunk": 46
+    },
+    {
+      "Action": "Explains the long-term witness tampering scheme conscisely and knowledgeably, indicating intelligence and insight.",
+      "Competence": 1,
+      "Chunk": 46
+    },
+    {
+      "Action": "Maintains composure and watches the chaotic wedding procession quietly and patiently, demonstrating situational awareness.",
+      "Competence": 1,
+      "Chunk": 46
+    },
+    {
+      "Action": "Shows reluctance or emotional difficulty addressing certain issues, taking time to respond.",
+      "Competence": 0,
+      "Chunk": 46
+    },
+    {
+      "Action": "Admits 'Can't fix everything' implying acceptance of limited control rather than taking action to improve the situation.",
+      "Competence": 0,
+      "Chunk": 46
+    },
+    {
+      "Action": "Maintains focus and watches the street carefully while narrating complex past events, showing situational awareness.",
+      "Competence": 1,
+      "Chunk": 47
+    },
+    {
+      "Action": "Fails to be with Eddie when the large family emerges and is later not found with Eddie, indicating a possible lapse in coordination.",
+      "Competence": -1,
+      "Chunk": 47
+    },
+    {
+      "Action": "Laughs along with Eddie despite their dire situation.",
+      "Warmth": 1,
+      "Chunk": 48
+    },
+    {
+      "Action": "Expresses cynicism and distrust about getting help and about Eddie's role as a 'rat'.",
+      "Warmth": -1,
+      "Chunk": 48
+    },
+    {
+      "Action": "Engages in friendly banter with Eddie, teasing him about changing from thief to baker.",
+      "Warmth": 1,
+      "Chunk": 48
+    },
+    {
+      "Action": "Listens attentively to Eddie's story, nods thoughtfully, and prompts Eddie to check again at the shoe shine stand.",
+      "Competence": 1,
+      "Chunk": 49
+    },
+    {
+      "Action": "Does not dismiss Eddie’s ideas or efforts despite Eddie’s uncertain plans and past failures.",
+      "Competence": 0,
+      "Chunk": 49
+    },
+    {
+      "Action": "Expresses skepticism about people changing, suggesting a cynical outlook.",
+      "Warmth": -1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Shows discomfort around Salma, indicating tension but refrains from escalating conflict.",
+      "Warmth": 0,
+      "Chunk": 50
+    },
+    {
+      "Action": "Disagrees with Eddie's idea to leave women behind, implying a respect for women and a critical stance on unfairness.",
+      "Warmth": 1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Provides a realistic, experienced perspective about human behavior based on 23 years of police work.",
+      "Competence": 1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Maintains professionalism despite obvious tension with Salma, showing emotional control.",
+      "Competence": 1,
+      "Chunk": 50
+    },
+    {
+      "Action": "Displays discomfort and stops conversation when confronted with Salma’s hostile glare.",
+      "Competence": 0,
+      "Chunk": 50
+    },
+    {
+      "Action": "Keeps focus on practical needs (demanding air), maintains awareness of environment in confined space (trunk).",
+      "Competence": 1,
+      "Chunk": 52
+    },
+    {
+      "Action": "Engages with Eddie’s humming and singing, showing mental presence and ability to follow along cognitively.",
+      "Competence": 1,
+      "Chunk": 52
+    },
+    {
+      "Action": "Mocks Eddie for singing the song to stay brave, reflecting skepticism rather than empathy.",
+      "Competence": -1,
+      "Chunk": 52
+    },
+    {
+      "Action": "Demonstrates some impatience and dismissiveness, but remains mentally clear and collected in a stressful situation.",
+      "Competence": 0,
+      "Chunk": 52
+    },
+    {
+      "Action": "Suddenly aware he’s hurt Eddie’s feelings and tries to address it.",
+      "Warmth": 1,
+      "Chunk": 53
+    },
+    {
+      "Action": "Jams accelerator and pushes Shaquille out the door to avoid harm to Eddie and himself.",
+      "Warmth": 1,
+      "Chunk": 53
+    },
+    {
+      "Action": "Positions passengers strategically to cover the windshield and windows, thinks quickly to gather newspapers and duct tape to obscure visibility for safety.",
+      "Competence": 1,
+      "Chunk": 55
+    },
+    {
+      "Action": "Leads calmly through the bus aisle despite frightened and distressed passengers, maintaining control of the situation.",
+      "Competence": 1,
+      "Chunk": 55
+    },
+    {
+      "Action": "Mumbles a prayer in Chinese to calm a fearful passenger, showing emotional intelligence and cultural awareness.",
+      "Competence": 1,
+      "Chunk": 56
+    },
+    {
+      "Action": "Instructs Sheehan to throw the radio despite Sheehan expressing hesitation, demonstrating decisiveness under pressure.",
+      "Competence": 1,
+      "Chunk": 56
+    },
+    {
+      "Action": "Stands alone inside the bus, seemingly resigned to his fate, showing no active resistance or attempt to change his situation.",
+      "Competence": -1,
+      "Chunk": 61
+    },
+    {
+      "Action": "Crawling to the driver's seat, starting the bus, and accelerating to break through barricades while under heavy gunfire.",
+      "Competence": 1,
+      "Chunk": 62
+    },
+    {
+      "Action": "Hearing the commotion, peering out to observe the situation despite limited visibility and confusion.",
+      "Competence": 1,
+      "Chunk": 62
+    },
+    {
+      "Action": "Momentarily speechless while processing Eddie’s unexpected actions and words.",
+      "Competence": 0,
+      "Chunk": 62
+    },
+    {
+      "Action": "Notices a metal sign indicating a service alley and uses it as an escape route under fire.",
+      "Competence": 1,
+      "Chunk": 63
+    },
+    {
+      "Action": "Swings the bus wheel hard left to take a sharp turn, managing to maintain control despite the bus lifting off the ground and landing hard with sparks.",
+      "Competence": 1,
+      "Chunk": 63
+    },
+    {
+      "Action": "Attempts to maneuver the bus through a clearly undersized alleyway at high speed, resulting in the bus getting wedged and damaged.",
+      "Competence": -1,
+      "Chunk": 63
+    },
+    {
+      "Action": "Leans in close and speaks encouragingly to Eddie, showing presence of mind and emotional support under pressure.",
+      "Competence": 1,
+      "Chunk": 66
+    },
+    {
+      "Action": "Obtains his gun from Diane's apartment despite risks, indicating resourcefulness and readiness.",
+      "Competence": 1,
+      "Chunk": 66
+    },
+    {
+      "Action": "Avoids direct confrontation with Diane but admits to personal struggles when questioned, showing honesty but also vulnerability.",
+      "Competence": 0,
+      "Chunk": 66
+    },
+    {
+      "Action": "Fails to explain his situation clearly to Diane when asked for an explanation.",
+      "Competence": -1,
+      "Chunk": 67
+    },
+    {
+      "Action": "Maintains composure and asks Diane for another favor despite his injured state.",
+      "Competence": 1,
+      "Chunk": 67
+    },
+    {
+      "Action": "Acknowledges his flaws and refuses to embellish his life with false optimism, showing self-awareness and realism.",
+      "Competence": 1,
+      "Chunk": 67
+    },
+    {
+      "Action": "Does not defend himself or his character when Eddie insults him in front of Diane.",
+      "Competence": 0,
+      "Chunk": 67
+    },
+    {
+      "Action": "Nods and understands Eddie’s hopeful perspective, maintaining a long silence without dismissing him outright.",
+      "Warmth": 1,
+      "Chunk": 68
+    },
+    {
+      "Action": "Stares into space, reflecting on personal mistakes and the lack of second chances, showing vulnerability.",
+      "Warmth": 1,
+      "Chunk": 68
+    },
+    {
+      "Action": "Expresses cynicism about eventual justice or good outcomes ('Eventually is a bunch of--'), suggesting guardedness.",
+      "Warmth": 0,
+      "Chunk": 68
+    },
+    {
+      "Action": "Reflects on past mistakes with a sense of realism and caution, showing thoughtful self-awareness.",
+      "Competence": 1,
+      "Chunk": 68
+    },
+    {
+      "Action": "Nods in understanding to Eddie's hopeful viewpoint, showing emotional intelligence and openness.",
+      "Competence": 1,
+      "Chunk": 68
+    },
+    {
+      "Action": "Attempts to listen for outside activity, showing alertness and situational awareness.",
+      "Competence": 1,
+      "Chunk": 68
+    },
+    {
+      "Action": "Does not take any immediate action or communicate further despite suspicious police presence and unfolding confrontation.",
+      "Competence": 0,
+      "Chunk": 68
+    },
+    {
+      "Action": "Shoves Eddie out of the way as gunfire erupts, firing his weapon and seeking cover.",
+      "Competence": 1,
+      "Chunk": 70
+    },
+    {
+      "Action": "Uses his gun to smash the fluorescents to plunge the area into darkness, aiding their stealth and evasion.",
+      "Competence": 1,
+      "Chunk": 70
+    },
+    {
+      "Action": "Moves silently and stays low while guiding Eddie through the garage, demonstrating tactical awareness.",
+      "Competence": 1,
+      "Chunk": 70
+    },
+    {
+      "Action": "Stops and checks his watch before approaching the doors, showing situational attentiveness.",
+      "Competence": 1,
+      "Chunk": 70
+    },
+    {
+      "Action": "Shoves Eddie inside the car, removes the cuffs, and cracks the window to provide fresh air.",
+      "Warmth": 1,
+      "Chunk": 71
+    },
+    {
+      "Action": "Instructs Eddie to stay put and gives clear, protective escape directions.",
+      "Warmth": 1,
+      "Chunk": 71
+    },
+    {
+      "Action": "Leads pursuers away from Eddie, prioritizing Eddie's safety over his own.",
+      "Warmth": 1,
+      "Chunk": 71
+    },
+    {
+      "Action": "Quietly shuts the door and stays low while moving away from Eddie to avoid detection.",
+      "Competence": 1,
+      "Chunk": 71
+    },
+    {
+      "Action": "Leads Mulvey away and successfully takes him down with a well-timed and forceful attack.",
+      "Competence": 1,
+      "Chunk": 71
+    },
+    {
+      "Action": "Uses the environment skillfully to ambush Torres, knocking him out before he can react.",
+      "Competence": 1,
+      "Chunk": 71
+    },
+    {
+      "Action": "Attempts to lure Nugent out and anticipates his movements, showing tactical awareness.",
+      "Competence": 1,
+      "Chunk": 71
+    },
+    {
+      "Action": "Does not fully close the door after putting Eddie inside the car, which could risk exposure.",
+      "Competence": -1,
+      "Chunk": 71
+    },
+    {
+      "Action": "Successfully disarms Nugent by pressing a .38 revolver to his ear, preventing him from shooting.",
       "Competence": 1,
       "Chunk": 72
     },
     {
-      "Action": "Successfully captures and restrains Nugent quickly and efficiently in the church.",
+      "Action": "Drags Nugent into church and effectively restrains him with a torn curtain cord.",
       "Competence": 1,
       "Chunk": 72
     },
     {
-      "Action": "Maintains calm and control in a tense situation, showing confidence and awareness.",
+      "Action": "Maintains calm and control throughout the tense situation, using intimidation and timing to his advantage.",
       "Competence": 1,
       "Chunk": 72
-    },
-    {
-      "Action": "Asks Father Connelly to trust him and tries to set the truth straight despite risks.",
-      "Warmth": 1,
-      "Chunk": 73
-    },
-    {
-      "Action": "Walks to Eddie, tending to his wound and showing concern despite his own pain.",
-      "Warmth": 1,
-      "Chunk": 73
-    },
-    {
-      "Action": "Admits to using Eddie and risking his life for a cause, showing remorse and honesty.",
-      "Warmth": 1,
-      "Chunk": 73
-    },
-    {
-      "Action": "Reveals painful memories and guilt about past violent events, showing vulnerability and sincerity.",
-      "Warmth": 1,
-      "Chunk": 73
     },
     {
       "Action": "Asks Father Connelly to trust him and tries to set the record straight despite risks.",
-      "Competence": 1,
-      "Chunk": 73
-    },
-    {
-      "Action": "Adjusts gauze on Eddie’s neck and acknowledges Eddie’s confusion, showing care and awareness.",
-      "Competence": 1,
-      "Chunk": 73
-    },
-    {
-      "Action": "Admits to using Eddie and risking his life to protect others, showing strategic thinking and acceptance of consequences.",
-      "Competence": 1,
-      "Chunk": 73
-    },
-    {
-      "Action": "Reveals detailed knowledge of past events and people involved, indicating awareness and insight.",
-      "Competence": 1,
-      "Chunk": 73
-    },
-    {
-      "Action": "Shows emotional pain and vulnerability when recalling traumatic events, which may momentarily affect his confidence.",
-      "Competence": 0,
-      "Chunk": 73
-    },
-    {
-      "Action": "Acknowledges the old man was telling the truth and died for it, showing respect for integrity.",
       "Warmth": 1,
-      "Chunk": 74
+      "Chunk": 73
     },
     {
-      "Action": "Walks Eddie to the doors and wishes him well, showing care and goodwill.",
+      "Action": "Carefully tends to Eddie’s wound and shows concern for his survival.",
       "Warmth": 1,
-      "Chunk": 74
+      "Chunk": 73
     },
     {
-      "Action": "Tells Eddie not to call, to preserve his own belief in Eddie's success, showing a protective but somewhat distant attitude.",
+      "Action": "Admits to using Eddie and risking his life to do what he could not do himself.",
       "Warmth": 0,
-      "Chunk": 74
+      "Chunk": 73
     },
     {
-      "Action": "Walked out of a situation without speaking about it, showing emotional suppression and avoidance.",
+      "Action": "Shares painful, honest confession about past involvement in wrongdoing and shows emotional pain.",
+      "Warmth": 1,
+      "Chunk": 73
+    },
+    {
+      "Action": "Asks Father Connelly to trust him and attempts to set the record straight, showing honesty and a desire to take responsibility.",
+      "Competence": 1,
+      "Chunk": 73
+    },
+    {
+      "Action": "Walks to Eddie, tending to his wound despite Jack's own pain, showing practical care and presence of mind.",
+      "Competence": 1,
+      "Chunk": 73
+    },
+    {
+      "Action": "Admits he used Eddie and took a great risk to protect others, showing self-awareness and strategic thinking.",
+      "Competence": 1,
+      "Chunk": 73
+    },
+    {
+      "Action": "Reflects emotionally on past violent events, showing vulnerability but no clear indication of poor competence.",
+      "Competence": 0,
+      "Chunk": 73
+    },
+    {
+      "Action": "Expresses confusion and sorrow but does not take immediate actionable steps in this excerpt.",
+      "Competence": 0,
+      "Chunk": 73
+    },
+    {
+      "Action": "Walks out of a situation of truth and death silently, following a mentor's corrupt example, showing emotional resignation.",
       "Competence": -1,
       "Chunk": 74
     },
     {
-      "Action": "Reflects on his own corruption and brokenness, showing self-awareness.",
-      "Competence": 1,
-      "Chunk": 74
-    },
-    {
-      "Action": "Continues to stay a cop despite personal struggles and moral conflict, indicating perseverance and commitment.",
-      "Competence": 1,
-      "Chunk": 74
-    },
-    {
-      "Action": "Smiles and calmly escorts Eddie to safety, showing composure and care.",
-      "Competence": 1,
-      "Chunk": 74
-    },
-    {
-      "Action": "Refuses to maintain contact with Eddie to avoid disappointment, showing emotional self-protection but possibly avoidance.",
+      "Action": "Reflects deeply on his moral and professional decline, acknowledging his brokenness and corruption.",
       "Competence": 0,
       "Chunk": 74
     },
     {
-      "Action": "Smiles in response to Eddie's hopeful suggestion, showing openness and a moment of connection.",
+      "Action": "Chooses to remain a cop despite disillusionment and pain, indicating persistence and underlying professional commitment.",
+      "Competence": 1,
+      "Chunk": 74
+    },
+    {
+      "Action": "Offers Eddie guidance and a way out, calmly coordinating departure through safer route.",
+      "Competence": 1,
+      "Chunk": 74
+    },
+    {
+      "Action": "Keeps emotional pain and doubts internalized, smiling and speaking cryptically to Eddie.",
+      "Competence": 0,
+      "Chunk": 74
+    },
+    {
+      "Action": "Considers giving keys to his best friend to help the woman of Eddie's dreams, showing trust and selflessness.",
       "Warmth": 1,
       "Chunk": 75
     },
     {
-      "Action": "Stands with Father Connelly, takes a deep breath, and acknowledges the moral weight of his actions, indicating sincerity and a sense of responsibility.",
+      "Action": "Takes a deep breath and acknowledges the personal pain of his decisions but stands by them, indicating sincerity and integrity.",
       "Warmth": 1,
       "Chunk": 75
     },
     {
-      "Action": "Considers the moral weight of his decisions and acknowledges the personal cost, showing thoughtful judgment.",
-      "Competence": 1,
+      "Action": "Accepts that he may never feel good but still acts on principle, showing responsibility and moral warmth.",
+      "Warmth": 1,
       "Chunk": 75
     },
     {
-      "Action": "Engages in a serious conversation with Nugent about the consequences of his actions, demonstrating awareness and resolve.",
-      "Competence": 1,
-      "Chunk": 75
-    },
-    {
-      "Action": "Smiles and shows some emotional vulnerability but remains focused on the task, indicating balanced confidence.",
-      "Competence": 1,
-      "Chunk": 75
-    },
-    {
-      "Action": "Does not act impulsively despite pressure and commotion around him, maintaining composure.",
-      "Competence": 1,
-      "Chunk": 75
-    },
-    {
-      "Action": "Smiles and hums quietly despite feeling the stares and tension around him.",
+      "Action": "Smiles and jokes with Father Connelly despite tense situation.",
       "Warmth": 1,
       "Chunk": 76
     },
     {
-      "Action": "Rejects Father Connelly's invitation to mass by calling it blackmail and ending the deal.",
-      "Warmth": -1,
+      "Action": "Hums quietly to himself while under threat, showing calmness and possibly friendliness.",
+      "Warmth": 1,
       "Chunk": 76
     },
     {
-      "Action": "Remains calm and even hums while under sniper threat, showing composure and confidence.",
+      "Action": "Allows Father Connelly and a uniform to help him after injury, receptive to assistance.",
+      "Warmth": 1,
+      "Chunk": 76
+    },
+    {
+      "Action": "Maintains calm composure under threat, even hums unconcernedly while a sniper targets him.",
       "Competence": 1,
       "Chunk": 76
     },
     {
-      "Action": "Staggers but manages to get up and proceed towards the courthouse steps despite being shot, demonstrating resilience and determination.",
-      "Competence": 1,
-      "Chunk": 76
-    },
-    {
-      "Action": "Does not take cover or evade after the sniper shot, instead continuing forward, which could be seen as reckless or lacking tactical caution.",
+      "Action": "Does not immediately take cover or react to sniper attack, resulting in being shot and injured.",
       "Competence": -1,
       "Chunk": 76
     },
     {
-      "Action": "Offers to provide information on witness tampering and serious crimes, showing willingness to cooperate for justice.",
-      "Warmth": 1,
-      "Chunk": 77
-    },
-    {
-      "Action": "Requests to expunge Mr. Bunker's record and seeks peace, indicating respect and compassion for the deceased and desire for closure.",
-      "Warmth": 1,
-      "Chunk": 77
-    },
-    {
-      "Action": "Engages warmly with Diane, expressing happiness for her and showing emotional support.",
-      "Warmth": 1,
-      "Chunk": 77
-    },
-    {
-      "Action": "Takes time to appreciate a thoughtful, personalized cake and shares it with others, showing appreciation and camaraderie.",
-      "Warmth": 1,
-      "Chunk": 78
-    },
-    {
-      "Action": "Cuts open the UPS box carefully and inspects the contents, showing attention to detail and composure.",
+      "Action": "Cuts open a package carefully and inspects its contents with mixed emotions; samples the icing on the cake thoughtfully; shares the cake with others by inviting Bernie and Ted to try it.",
       "Competence": 1,
       "Chunk": 78
     },
     {
-      "Action": "Notices the cake and tastes the icing, showing a moment of emotional vulnerability and hesitation.",
-      "Competence": 0,
-      "Chunk": 78
-    },
-    {
-      "Action": "Fails to notice the picture falling from the box onto the floor, indicating a lapse in situational awareness.",
+      "Action": "Fails to notice the picture falling from the box onto the floor.",
       "Competence": -1,
       "Chunk": 78
     }

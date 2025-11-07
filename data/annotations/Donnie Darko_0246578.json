@@ -1,93 +1,68 @@
 {
   "Donnie Darko": [
     {
-      "Action": "Wakes up disoriented but quickly gathers himself and takes his bike back up the hill, showing resilience and physical capability.",
+      "Action": "Wakes up disoriented but manages to stand and take his bike back up the hill despite hesitation.",
+      "Competence": 0,
+      "Chunk": 1
+    },
+    {
+      "Action": "Rides his bike confidently through the neighborhood, interacting with locals who smile at him.",
       "Competence": 1,
       "Chunk": 1
     },
     {
-      "Action": "Rides his bike confidently through the neighborhood, acknowledged positively by others (women smile at him).",
-      "Competence": 1,
-      "Chunk": 1
-    },
-    {
-      "Action": "Appears disoriented and shivering at the start, indicating vulnerability and lack of immediate control.",
-      "Competence": -1,
-      "Chunk": 1
-    },
-    {
-      "Action": "Compliments Elizabeth's workplace as a great place to raise children.",
-      "Warmth": 1,
+      "Action": "Engages in family dinner conversation, attempts light teasing with sister.",
+      "Warmth": 0,
       "Chunk": 2
     },
     {
-      "Action": "Jokes with his sister Samantha about when she can have children.",
-      "Warmth": 1,
-      "Chunk": 2
-    },
-    {
-      "Action": "Responds to Elizabeth calling him a 'dick' by sarcastically suggesting she should be in therapy instead.",
+      "Action": "Responds to sister's insult with sarcastic comeback about therapy.",
       "Warmth": -1,
       "Chunk": 2
     },
     {
-      "Action": "Engages in family dinner conversation with wit and confidence, responds quickly to Elizabeth's hostility with a sharp retort.",
-      "Competence": 1,
-      "Chunk": 2
-    },
-    {
-      "Action": "Makes a sarcastic comment to his sister about when she can have children, showing social awareness but also a lack of tact.",
+      "Action": "Engages in family dinner conversation with sarcastic, somewhat biting remarks, indicating confidence in speaking but lacking social tact.",
       "Competence": 0,
       "Chunk": 2
     },
     {
-      "Action": "Calls Elizabeth a 'fuck-ass' and uses hostile language at the dinner table.",
-      "Warmth": -1,
-      "Chunk": 3
+      "Action": "Responds to his sister's question with a quick, literal answer showing awareness of social contexts (e.g., teasing about age to have children).",
+      "Competence": 1,
+      "Chunk": 2
     },
     {
-      "Action": "Responds sarcastically to Elizabeth's insult with 'how exactly does one suck a fuck?'",
-      "Warmth": -1,
-      "Chunk": 3
+      "Action": "Makes a sarcastic comment to Elizabeth about therapy suggesting quick wit but possibly poor emotional intelligence.",
+      "Competence": 0,
+      "Chunk": 2
     },
     {
-      "Action": "Tells Rose to get out of his room when she tries to tidy up.",
-      "Warmth": -1,
-      "Chunk": 3
-    },
-    {
-      "Action": "Stops taking his medication despite others' concerns.",
+      "Action": "Stops taking his prescribed medication without informing family or doctors.",
       "Competence": -1,
       "Chunk": 3
     },
     {
-      "Action": "Engages in sharp, confident verbal exchanges, showing quick wit.",
-      "Competence": 1,
-      "Chunk": 3
-    },
-    {
-      "Action": "Keeps his room in an 'organized wreck' state, indicating some level of personal order.",
+      "Action": "Engages in sarcastic, confrontational language with family members.",
       "Competence": 0,
       "Chunk": 3
     },
     {
-      "Action": "Refuses to allow his mother to tidy his room, asserting personal boundaries.",
+      "Action": "Reads literary works indicating intellectual engagement.",
       "Competence": 1,
       "Chunk": 3
     },
     {
-      "Action": "Responds to his mother’s concern with sarcasm and insults her by calling her a 'bitch'.",
+      "Action": "Responds to his mother's attempt at connection with hostility and insults her ('Bitch').",
       "Warmth": -1,
       "Chunk": 4
     },
     {
-      "Action": "Stops engaging in mischievous behavior like toilet papering houses since sixth grade.",
-      "Warmth": 0,
+      "Action": "Turns off his lamp and isolates himself in the dark, avoiding interaction.",
+      "Warmth": -1,
       "Chunk": 4
     },
     {
-      "Action": "Takes prescribed medication seriously, indicating some level of self-care and responsibility.",
-      "Warmth": 0,
+      "Action": "Refuses to engage in conversation or emotional connection with his mother.",
+      "Warmth": -1,
       "Chunk": 4
     },
     {
@@ -96,913 +71,698 @@
       "Chunk": 4
     },
     {
-      "Action": "Responds to his mother with hostility and insults, showing poor emotional regulation and interpersonal skills.",
+      "Action": "Responds rudely and dismissively to his mother, telling her to take pills and calling her a 'bitch', showing poor social skills and emotional immaturity.",
       "Competence": -1,
       "Chunk": 4
     },
     {
-      "Action": "Takes prescribed medication deliberately while staring at his reflection, suggesting awareness and responsibility about his mental health.",
+      "Action": "Takes his prescribed medication deliberately, seeming to be aware of his mental health needs, showing some responsibility.",
       "Competence": 1,
       "Chunk": 4
     },
     {
-      "Action": "Is distant and confused upon waking from a bad dream, showing vulnerability but also a lack of immediate clarity or control.",
+      "Action": "Leans into dark moods and hostile speech rather than communicating effectively with family, indicating emotional instability and lack of interpersonal competence.",
+      "Competence": -1,
+      "Chunk": 4
+    },
+    {
+      "Action": "Walks down the street alone late at night, appears distant and confused.",
+      "Warmth": 0,
+      "Chunk": 5
+    },
+    {
+      "Action": "Stares nervously at Frank (the figure in the bunny suit) but listens to him.",
+      "Warmth": 0,
+      "Chunk": 5
+    },
+    {
+      "Action": "Does not respond verbally when asked about belief in God and the end of the world, shows vulnerability by holding his stomach and taking deep breaths.",
+      "Warmth": 1,
+      "Chunk": 5
+    },
+    {
+      "Action": "Walks outside late at night to a specific location following a mysterious voice's instructions, showing some initiative and focus.",
       "Competence": 0,
-      "Chunk": 4
-    },
-    {
-      "Action": "Stares at Eddie asleep in the La-Z Boy, showing quiet observation without disturbance.",
-      "Warmth": 1,
       "Chunk": 5
     },
     {
-      "Action": "Walks out of the house alone at night and contemplates the world, showing introspection but no interaction.",
-      "Warmth": 0,
-      "Chunk": 5
-    },
-    {
-      "Action": "Does not respond to the voice's questions or statements, showing silence and withdrawal.",
-      "Warmth": -1,
-      "Chunk": 5
-    },
-    {
-      "Action": "Walks outside alone at night to a secluded location, showing initiative and willingness to confront unknown situations.",
-      "Competence": 1,
-      "Chunk": 5
-    },
-    {
-      "Action": "Stares off into the distance with a vacant, confused expression when confronted with Frank's apocalyptic message, showing lack of understanding and hesitation.",
+      "Action": "Responds to the voice and the figure of Frank with confusion, does not question or act confidently on the information.",
       "Competence": -1,
       "Chunk": 5
     },
     {
-      "Action": "Does not respond to Frank's questions or commands, indicating passivity and uncertainty.",
+      "Action": "Holds his stomach and takes deep breaths when confronted with unsettling information, indicating vulnerability and lack of control.",
       "Competence": -1,
       "Chunk": 5
     },
     {
-      "Action": "Apologizes politely to Dr. Fisher after being caught on the golf course.",
+      "Action": "Apologizes to Dr. Fisher after being found sleeping on the golf course, showing responsibility and politeness.",
       "Warmth": 1,
       "Chunk": 6
     },
     {
-      "Action": "Walks through a crowd of neighbors calmly toward his house after an incident.",
+      "Action": "Walks toward his house calmly despite the presence of emergency vehicles and crowd, showing composure but no outward signs of engagement or connection.",
       "Warmth": 0,
       "Chunk": 6
     },
     {
-      "Action": "Gets up and brushes himself off after being found asleep on the golf green, responds politely and confidently to Dr. Fisher's reprimand.",
+      "Action": "Wakes up and quickly responds to authority figures on the golf course, apologizing to Dr. Fisher.",
       "Competence": 1,
       "Chunk": 6
     },
     {
-      "Action": "Appears confused and uncertain when noticing the mysterious numbers written on his arm.",
+      "Action": "Appears confused and unsure about the meaning of the numbers written on his arm.",
       "Competence": -1,
       "Chunk": 6
     },
     {
-      "Action": "Tells the police officer he lives there, asserting his identity calmly.",
+      "Action": "Walks through the neighborhood crowd calmly and without causing disturbance despite the chaos around his house.",
+      "Competence": 1,
+      "Chunk": 6
+    },
+    {
+      "Action": "Asserts his identity calmly to the police officer to gain access.",
       "Warmth": 1,
       "Chunk": 7
     },
     {
-      "Action": "Looks over at his family and seems lost in a trance, showing emotional vulnerability.",
-      "Warmth": 1,
+      "Action": "Looks over at his family and processes the situation quietly, appearing lost in a trance.",
+      "Warmth": 0,
       "Chunk": 7
     },
     {
-      "Action": "Identifies himself confidently to the police officer and gains access through the barricade.",
+      "Action": "Confidently approaches the police officer and asserts his identity, allowing himself access through the barricade.",
       "Competence": 1,
       "Chunk": 7
     },
     {
-      "Action": "Appears lost in a trance while others handle the crisis around him.",
+      "Action": "Seems lost in a trance, staring in awe at the jet engine and appears detached from the situation.",
       "Competence": -1,
       "Chunk": 7
     },
     {
-      "Action": "Jokes with Samantha about farting in her face, causing her to leave the room upset.",
+      "Action": "Jokes by threatening to fart in Samantha's face, causing her to threaten to tell their mother.",
       "Warmth": -1,
       "Chunk": 8
     },
     {
-      "Action": "Lies in bed watching television, engages in childish banter about farting in someone's face.",
+      "Action": "Engages in childish humor by threatening to fart in Samantha's face.",
       "Competence": -1,
       "Chunk": 8
     },
     {
-      "Action": "Defends Cherita when Sean insults her, telling Sean to leave her alone.",
-      "Warmth": 1,
+      "Action": "Appears lost in a trance, not engaging actively with others.",
+      "Competence": -1,
+      "Chunk": 8
+    },
+    {
+      "Action": "Dodges death, indicating some form of resilience or fortune.",
+      "Competence": 0,
       "Chunk": 9
     },
     {
-      "Action": "Takes a cigarette from Sean and smokes with friends despite possible parental disapproval.",
-      "Warmth": 0,
-      "Chunk": 9
-    },
-    {
-      "Action": "Refuses to talk about his experience of dodging death, showing emotional reserve.",
-      "Warmth": 0,
-      "Chunk": 9
-    },
-    {
-      "Action": "Dodges a bullet, metaphorically indicating survival or escaping danger.",
-      "Competence": 1,
-      "Chunk": 9
-    },
-    {
-      "Action": "Refuses to talk about his strange behavior or sleepwalking, showing reluctance to communicate.",
+      "Action": "Refuses to discuss his sleepwalking episode with friends, showing reluctance or evasiveness.",
       "Competence": -1,
       "Chunk": 9
     },
     {
-      "Action": "Takes a cigarette from friends but hesitates and considers consequences, showing some awareness and caution.",
-      "Competence": 0,
-      "Chunk": 9
-    },
-    {
-      "Action": "Defends Cherita against racist remarks, showing social awareness and moral courage.",
+      "Action": "Asks about consequences before accepting to smoke, exhibiting cautious thinking.",
       "Competence": 1,
       "Chunk": 9
     },
     {
-      "Action": "Walks confidently through the school hallway surrounded by admirers, smiling broadly.",
+      "Action": "Defends Cherita against racist remarks by friends, demonstrating social awareness and moral judgment.",
       "Competence": 1,
-      "Chunk": 10
+      "Chunk": 9
     },
     {
-      "Action": "Sits attentively in the front row during English class, listening to the teacher's reading.",
-      "Competence": 1,
-      "Chunk": 10
-    },
-    {
-      "Action": "Responds thoughtfully to Ms. Pomeroy's question about the story, showing insight into destruction and creation.",
+      "Action": "Responds thoughtfully to Ms. Pomeroy's question, showing engagement with literature and deeper meaning.",
       "Warmth": 1,
       "Chunk": 11
     },
     {
-      "Action": "Grins ear to ear when Gretchen sits next to him, sharing a moment of friendly connection.",
+      "Action": "Grins ear to ear and makes eye contact with Gretchen when she sits next to him in class.",
       "Warmth": 1,
       "Chunk": 11
     },
     {
-      "Action": "Provides a thoughtful, insightful interpretation of the story's theme about destruction and creation, showing intellectual engagement and confidence.",
-      "Competence": 1,
-      "Chunk": 11
-    },
-    {
-      "Action": "Grins ear to ear when Gretchen sits next to him, showing social confidence and ease in a potentially awkward situation.",
-      "Competence": 1,
-      "Chunk": 11
-    },
-    {
-      "Action": "Gets out of the car to help Grandma Death, takes her hand, walks her back to her mailbox, opens it for her, and smiles to comfort her.",
+      "Action": "Takes Grandma Death's hand and walks her back to her mailbox, opens it for her, smiles and tries to cheer her up.",
       "Warmth": 1,
       "Chunk": 12
     },
     {
-      "Action": "Stands silently after Grandma Death's somber statement, showing respect and attentiveness.",
-      "Warmth": 1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Asks Eddie if they know where the roof debris came from, showing curiosity and attention to detail.",
+      "Action": "Asks Eddie detailed questions about the origin of the roof damage, showing curiosity and attention to detail.",
       "Competence": 1,
       "Chunk": 12
     },
     {
-      "Action": "Helps Grandma Death by taking her hand, walking her to her mailbox, and opening it for her, demonstrating kindness and social awareness.",
+      "Action": "Politely helps Grandma Death by holding her hand and opening her mailbox, showing social grace and maturity.",
       "Competence": 1,
       "Chunk": 12
     },
     {
-      "Action": "Responds to Grandma Death's somber statement with silence, indicating thoughtful reflection or emotional processing.",
-      "Competence": 0,
+      "Action": "Responds with a thoughtful smile and simple words about mail and tomorrow, indicating emotional intelligence and calmness.",
+      "Competence": 1,
       "Chunk": 12
     },
     {
-      "Action": "Admits to psychologically abusing his mother to make her feel guilty.",
+      "Action": "Stands silently and listens to Grandma Death's profound statement without interrupting, showing respect and reflective behavior.",
+      "Competence": 1,
+      "Chunk": 12
+    },
+    {
+      "Action": "Admits to skipping medication and purposely trying to make his mother feel guilty, psychologically abusing her.",
       "Warmth": -1,
       "Chunk": 13
     },
     {
-      "Action": "Shares with Dr. Thurman about meeting a new friend and how this friend saved his life.",
+      "Action": "Shares with Dr. Thurman about meeting a new friend and recounts how this friend saved his life.",
       "Warmth": 1,
       "Chunk": 13
     },
     {
-      "Action": "Admits to skipping medication cycles but does so with awareness and a manipulative intent to make his mother feel guilty.",
+      "Action": "Admits to psychologically manipulating his mother but is aware of his actions.",
       "Competence": 0,
       "Chunk": 13
     },
     {
-      "Action": "Describes meeting Frank and following his instructions to get out of bed before a jet engine crashes, implying quick thinking or intuition that saved his life.",
+      "Action": "Skips medication cycles despite being advised to take them regularly.",
+      "Competence": -1,
+      "Chunk": 13
+    },
+    {
+      "Action": "Accurately recounts the event of a jet engine falling on his bed and following 'Frank's' instructions, showing awareness of his experience.",
       "Competence": 1,
       "Chunk": 13
     },
     {
-      "Action": "Expresses skepticism about the world ending despite Frank's warnings, showing critical thinking and not blindly accepting ideas.",
+      "Action": "Expresses skepticism about the claim that the world is coming to an end, showing critical thinking.",
       "Competence": 1,
       "Chunk": 13
     },
     {
-      "Action": "Pushes his sister to take a piece of paper back from him, causing her distress.",
-      "Warmth": -1,
-      "Chunk": 14
+      "Action": "Mentions meeting an imaginary or supernatural friend and believes in impossible events without clear evidence, which may indicate confusion or lack of grounded judgment.",
+      "Competence": -1,
+      "Chunk": 13
     },
     {
-      "Action": "Warns others about the danger of waiting for the bus too long, showing concern for their safety.",
-      "Warmth": 1,
-      "Chunk": 14
-    },
-    {
-      "Action": "Navigates the dark school basement with a flashlight and an axe, actively investigating and taking decisive action.",
-      "Competence": 1,
-      "Chunk": 14
-    },
-    {
-      "Action": "Reads aloud from a book confidently and asserts himself when his sister protests, showing confidence but somewhat inconsiderate behavior.",
-      "Competence": 0,
-      "Chunk": 14
-    },
-    {
-      "Action": "Demonstrates awareness of safety concerns by agreeing with Sean about the bus delay and potential danger, showing practical thinking.",
-      "Competence": 1,
-      "Chunk": 14
-    },
-    {
-      "Action": "Tells Cherita to go home, showing concern for her safety.",
+      "Action": "Tells Cherita to go home and be safe",
       "Warmth": 1,
       "Chunk": 15
     },
     {
-      "Action": "Shows a horrible expression upon hearing school is cancelled due to flooding, indicating emotional sensitivity.",
-      "Warmth": 1,
+      "Action": "Shows a horrible expression on hearing school is cancelled due to flooding",
+      "Warmth": 0,
       "Chunk": 15
     },
     {
-      "Action": "Encourages Sam to call Joanie's mom from home, shows initiative in managing the situation.",
-      "Competence": 1,
-      "Chunk": 15
-    },
-    {
-      "Action": "Tells Cherita to go home to avoid trouble, attempts to prevent problems.",
+      "Action": "Recognizes the seriousness of the school flood and reacts with a horrible expression, indicating awareness and concern.",
       "Competence": 1,
       "Chunk": 15
     },
     {
-      "Action": "Shows a horrible expression upon hearing school is cancelled due to flooding, indicating awareness of consequences.",
+      "Action": "Encourages Sam to call Joanie's mom from home, showing initiative and thoughtfulness.",
       "Competence": 1,
       "Chunk": 15
     },
     {
-      "Action": "Walks up to Gretchen and offers to walk her home, showing friendliness and consideration.",
-      "Warmth": 1,
-      "Chunk": 16
+      "Action": "Tells Cherita to go home for her own good, demonstrating some social responsibility and situational awareness.",
+      "Competence": 1,
+      "Chunk": 15
     },
     {
-      "Action": "Warns Gretchen about potential theft from Seth and Ricky, showing concern and protectiveness.",
-      "Warmth": 1,
-      "Chunk": 16
-    },
-    {
-      "Action": "Warns Gretchen to check her backpack because some guys like to steal things.",
+      "Action": "Warns Gretchen to check her backpack because others might steal from her.",
       "Competence": 1,
       "Chunk": 16
     },
     {
-      "Action": "Approaches Gretchen confidently and initiates walking her home despite the presence of hostile peers.",
+      "Action": "Engages confidently with Gretchen despite hostile onlookers (Seth and Ricky).",
       "Competence": 1,
       "Chunk": 16
     },
     {
-      "Action": "Simply states 'School's cancelled' without elaboration or showing deeper engagement with the news.",
-      "Competence": 0,
+      "Action": "Responds casually when Gretchen tells him not to look freaked, showing social ease and self-assurance.",
+      "Competence": 1,
       "Chunk": 16
     },
     {
-      "Action": "Listens attentively to Gretchen's difficult family situation and responds with empathy by sharing his own troubled past.",
-      "Warmth": 1,
+      "Action": "Explains the significance of antiseptics with historical reference, showing knowledge and intelligence.",
+      "Competence": 1,
       "Chunk": 17
     },
     {
-      "Action": "Engages in friendly, open conversation with Gretchen, showing interest and a playful side.",
-      "Warmth": 1,
+      "Action": "Admits to prior mistakes such as burning down an abandoned house and being held back in school.",
+      "Competence": -1,
       "Chunk": 17
     },
     {
-      "Action": "Does not dismiss or judge Gretchen despite her traumatic experiences.",
-      "Warmth": 1,
+      "Action": "Engages thoughtfully and confidently in conversation about future ambitions (painter, writer) and changing things.",
+      "Competence": 1,
       "Chunk": 17
     },
     {
-      "Action": "Engages in a sincere and somewhat vulnerable conversation with Gretchen, asks her to go out with him, and apologizes when misunderstood.",
-      "Warmth": 1,
-      "Chunk": 18
-    },
-    {
-      "Action": "Responds to Gretchen calling him weird by apologizing, showing sensitivity and politeness.",
-      "Warmth": 1,
-      "Chunk": 18
-    },
-    {
-      "Action": "Talks openly with his therapist about meeting a girl and his feelings, showing some openness and trust.",
-      "Warmth": 1,
-      "Chunk": 18
-    },
-    {
-      "Action": "Explains the concept of soap being the only thing that can never get dirty, showing abstract thinking.",
-      "Competence": 1,
-      "Chunk": 18
-    },
-    {
-      "Action": "Asks Gretchen to go out with him, clarifying his meaning when misunderstood.",
-      "Competence": 1,
-      "Chunk": 18
-    },
-    {
-      "Action": "Responds to therapist's questions with evasive or off-topic answers, focusing on girls rather than school.",
-      "Competence": -1,
-      "Chunk": 18
-    },
-    {
-      "Action": "Responds to Dr. Thurman about thinking of Alyssa Milano during school, shows discomfort when asked about family.",
-      "Warmth": 0,
-      "Chunk": 19
-    },
-    {
-      "Action": "Writes 'They made me do it' repeatedly on the blackboard without hesitation when called out by Principal Cole and police officers.",
-      "Warmth": 0,
-      "Chunk": 19
-    },
-    {
-      "Action": "Turns the volume down and focuses on a distracting thought during school instead of paying attention.",
-      "Competence": -1,
-      "Chunk": 19
-    },
-    {
-      "Action": "Stops paying attention during therapy session, undoing his belt and becoming disoriented when snapped back to attention.",
-      "Competence": -1,
-      "Chunk": 19
-    },
-    {
-      "Action": "Writes 'They made me do it' repeatedly on the blackboard without hesitation when called upon.",
+      "Action": "Mentions personal difficulties (jail, academic setbacks) without seeming overwhelmed or defeated.",
       "Competence": 0,
+      "Chunk": 17
+    },
+    {
+      "Action": "Engages in a sincere and somewhat vulnerable conversation with Gretchen, including asking her to go out with him.",
+      "Warmth": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Apologizes when Gretchen calls him weird, showing politeness and sensitivity.",
+      "Warmth": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Shares a personal, somewhat innocent observation about soap being the only thing that never gets dirty.",
+      "Warmth": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Engages in a playful, philosophical observation about soap being the only thing that can't get dirty, showing abstract thinking.",
+      "Competence": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Successfully initiates a personal conversation and asks Gretchen to go out with him, showing social confidence.",
+      "Competence": 1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Responds to therapist's questions with evasive or off-topic answers, failing to address the intended topics.",
+      "Competence": -1,
+      "Chunk": 18
+    },
+    {
+      "Action": "Responds honestly to Dr. Thurman's question about thinking of Alyssa Milano rather than his family; rejects the idea of thinking about his family in a sexual way, calling it sick.",
+      "Warmth": 1,
       "Chunk": 19
     },
     {
-      "Action": "Participates in a casual, friendly activity with peers, sharing a moment of lightheartedness.",
+      "Action": "Shows disengagement and detachment by undoing his belt and not paying attention during therapy.",
+      "Warmth": -1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Writes 'They made me do it' repeatedly on the classroom blackboard without hesitation, appearing resigned and possibly seeking to communicate something covertly.",
+      "Warmth": 0,
+      "Chunk": 19
+    },
+    {
+      "Action": "Turns the volume down and focuses his thoughts on a specific subject during school instead of random distractions.",
+      "Competence": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Is disengaged in therapy session, undoing his belt and not paying attention, needing to be jolted awake by Dr. Thurman.",
+      "Competence": -1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Writes repeatedly on the blackboard without hesitation when asked, showing decisiveness and confidence.",
+      "Competence": 1,
+      "Chunk": 19
+    },
+    {
+      "Action": "Participates in a casual, friendly activity with peers (shooting bottles and stuffed animals with a BB gun).",
       "Warmth": 1,
       "Chunk": 20
     },
     {
-      "Action": "Stares intently at Jim Cunningham's 'Controlling Fear' video, showing curiosity but no overt emotional engagement.",
+      "Action": "Observes Jim Cunningham's 'Controlling Fear' program quietly and attentively.",
       "Warmth": 0,
       "Chunk": 20
     },
     {
-      "Action": "Carefully lines up targets and successfully shoots a can with a BB gun.",
+      "Action": "Observes carefully during the health class presentation and the video 'Controlling Fear' implying awareness and reflection.",
       "Competence": 1,
       "Chunk": 20
     },
     {
-      "Action": "Passively watches a fear-control video without questioning or engaging critically.",
+      "Action": "Engages casually with friends in target practice, handling a BB gun with apparent ease and focus.",
+      "Competence": 1,
+      "Chunk": 20
+    },
+    {
+      "Action": "Passively watches the video without interrupting or questioning, showing some openness to new ideas.",
       "Competence": 0,
       "Chunk": 20
     },
     {
-      "Action": "Corrects misinformation about Smurfette and explains the Smurf lore with some sincerity and logic.",
-      "Warmth": 1,
+      "Action": "Corrects the others' incorrect story about Smurfette with detailed knowledge and a sarcastic tone.",
+      "Warmth": 0,
       "Chunk": 21
     },
     {
-      "Action": "Mocks the Smurfs' asexual nature and questions the point of living without sexual organs in a blunt, somewhat cynical manner.",
+      "Action": "Repeatedly fires a gun at bottles in a casual, somewhat destructive manner.",
       "Warmth": -1,
       "Chunk": 21
     },
     {
-      "Action": "Engages in shooting bottles and teasing friends in a rough manner.",
-      "Warmth": 0,
-      "Chunk": 21
-    },
-    {
-      "Action": "Corrects others with accurate knowledge about Smurfette's origin and the nature of Smurfs, demonstrating intelligence and confidence.",
+      "Action": "Corrects others' misinformation about Smurfette's origin and the nature of Smurfs, demonstrating knowledge and critical thinking.",
       "Competence": 1,
       "Chunk": 21
     },
     {
-      "Action": "Engages in shooting bottles with a gun, showing steady aim and control.",
+      "Action": "Uses a gun to shoot bottles and a Smurf doll accurately.",
       "Competence": 1,
       "Chunk": 21
     },
     {
-      "Action": "Takes a small sip of Night Train despite others reacting negatively, showing some self-control.",
+      "Action": "Makes a cynical or dismissive comment about the purpose of life related to reproductive organs, which could reflect a lack of sensitivity or social tact.",
       "Competence": 0,
       "Chunk": 21
     },
     {
-      "Action": "Explains Grandma Death's daily routine to friends with a tone of familiarity and concern.",
-      "Warmth": 1,
-      "Chunk": 22
-    },
-    {
-      "Action": "Passively observes Grandma Death wandering in the street without intervening.",
-      "Warmth": -1,
-      "Chunk": 22
-    },
-    {
-      "Action": "Takes medication quietly and appears vulnerable, showing self-care.",
-      "Warmth": 1,
-      "Chunk": 22
-    },
-    {
-      "Action": "Accurately recalls Grandma Death's age and daily routine, showing observational awareness.",
+      "Action": "Recalls Grandma Death's age and daily routine accurately, showing awareness and memory.",
       "Competence": 1,
       "Chunk": 22
     },
     {
-      "Action": "Takes four pills but then puts them back without taking them, indicating hesitation or uncertainty about his medication.",
+      "Action": "Takes prescribed medication but then puts the pills back in the cabinet after taking them, suggesting confusion or uncertainty about his dosage.",
       "Competence": -1,
       "Chunk": 22
     },
     {
-      "Action": "Reaches out to Frank and tries to understand the invisible barrier, showing curiosity and engagement with unusual phenomena.",
-      "Competence": 1,
+      "Action": "Lies calmly on the couch watching TV, appearing relaxed but possibly disengaged from proactive behavior.",
+      "Competence": 0,
+      "Chunk": 22
+    },
+    {
+      "Action": "Reaches out to Frank and presses his hand against an invisible barrier, then questions how Frank can do that.",
+      "Competence": 0,
       "Chunk": 23
     },
     {
-      "Action": "Stares closely at Frank and then withdraws his hands, indicating caution and thoughtful observation.",
-      "Competence": 1,
-      "Chunk": 23
-    },
-    {
-      "Action": "Questions Frank about flooding the school, showing concern and seeking understanding.",
-      "Warmth": 1,
-      "Chunk": 24
-    },
-    {
-      "Action": "Engages in a private conversation with an imaginary figure (Frank), indicating internal struggle but no direct harm to others.",
+      "Action": "Confronts Frank about flooding the school, showing desperation and confusion.",
       "Warmth": 0,
       "Chunk": 24
     },
     {
-      "Action": "Questions Frank about why he made him flood the school, showing curiosity and seeking understanding.",
+      "Action": "Questions Frank about the flooding incident with curiosity and persistence, seeking to understand the reasons behind his actions.",
       "Competence": 1,
       "Chunk": 24
     },
     {
-      "Action": "Engages in a conversation about complex topics like time travel, indicating intellectual engagement.",
-      "Competence": 1,
-      "Chunk": 24
-    },
-    {
-      "Action": "Appears desperate when asking Frank where he came from, showing vulnerability but also a desire for clarity.",
+      "Action": "Appears desperate and confused when asking Frank about his origins and intentions.",
       "Competence": 0,
       "Chunk": 24
     },
     {
-      "Action": "Plays a game with Gretchen and engages in a thoughtful conversation about sleepwalking and dreams.",
+      "Action": "Turns away from the conversation abruptly when Samantha appears and Frank disappears, showing possible distraction or inability to maintain focus.",
+      "Competence": 0,
+      "Chunk": 24
+    },
+    {
+      "Action": "Plays a game with Gretchen and engages in thoughtful, sincere conversation about his sleepwalking experiences.",
       "Warmth": 1,
       "Chunk": 25
     },
     {
-      "Action": "Listens attentively and responds sincerely to Gretchen's questions about his experiences.",
+      "Action": "Listens quietly and considers Gretchen's questions without dismissing them.",
       "Warmth": 1,
       "Chunk": 25
     },
     {
-      "Action": "Explains his sleepwalking experiences thoughtfully and with insight, showing self-awareness and an attempt to understand his own unusual behavior.",
+      "Action": "Explains his sleepwalking experiences thoughtfully and articulately, showing awareness and reflection.",
       "Competence": 1,
       "Chunk": 25
     },
     {
-      "Action": "Engages in a casual video game race but crashes the car in the game, indicating a lack of skill or focus in that moment.",
-      "Competence": -1,
+      "Action": "Demonstrates curiosity and engagement by discussing complex personal experiences with Gretchen.",
+      "Competence": 1,
       "Chunk": 25
     },
     {
-      "Action": "Delivers a dramatic, somewhat cryptic speech about protecting children and confronting monsters, then shares a fantastical detail about Frank being a six-foot-tall bunny rabbit, causing the class to laugh.",
-      "Warmth": 0,
+      "Action": "Shares a dark, imaginative statement about delivering children from pain and monsters, revealing a protective intention.",
+      "Warmth": 1,
       "Chunk": 26
     },
     {
-      "Action": "Delivers a dramatic and cryptic statement in front of the class, showing confidence in his speech.",
+      "Action": "Refers to Frank as a six-foot-tall bunny rabbit, causing the class to laugh, but looks over at Gretchen, indicating a subtle connection or seeking support.",
+      "Warmth": 1,
+      "Chunk": 26
+    },
+    {
+      "Action": "Delivers a dramatic and somewhat cryptic poem to the class confidently, despite provoking laughter.",
       "Competence": 1,
       "Chunk": 26
     },
     {
-      "Action": "Responds to Ms. Pomeroy's question about Frank with a surreal answer, causing the class to laugh.",
+      "Action": "Responds to a question about 'Frank' with a simple, surreal answer rather than clarifying or elaborating.",
       "Competence": 0,
       "Chunk": 26
     },
     {
-      "Action": "Questions the oversimplification of human emotions and insists on acknowledging the complexity of feelings beyond fear and love.",
-      "Warmth": 1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Challenges the teacher's authority in a respectful but firm manner, showing sincerity in his beliefs.",
-      "Warmth": 1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Questions the oversimplified moral categories presented by the teacher, demonstrating critical thinking and refusal to accept simplistic explanations.",
+      "Action": "Raises his hand to respond when confronted with an ultimatum about completing the assignment.",
       "Competence": 1,
-      "Chunk": 27
+      "Chunk": 28
     },
     {
-      "Action": "Fails to follow the teacher's instructions promptly and causes frustration, showing some lack of adaptability or social tact.",
+      "Action": "Refuses to answer Principal Cole's question about what he said to Ms. Farmer, showing evasiveness or silence in a difficult situation.",
       "Competence": -1,
-      "Chunk": 27
+      "Chunk": 28
     },
     {
-      "Action": "Raises his hand to answer despite knowing the consequences.",
+      "Action": "Asks Ms. Farmer to forcibly insert a card into her anus, resulting in suspension and social trouble.",
+      "Competence": -1,
+      "Chunk": 28
+    },
+    {
+      "Action": "Reflects quietly in his room, observing changes after the accident, showing introspection but no interaction.",
       "Warmth": 0,
-      "Chunk": 28
+      "Chunk": 29
     },
     {
-      "Action": "Asks Ms. Farmer to forcibly insert the Lifeline exercise card into her anus.",
-      "Warmth": -1,
-      "Chunk": 28
+      "Action": "Stays behind after class to ask Dr. Monnitoff about time travel, showing curiosity and trust in a teacher.",
+      "Warmth": 1,
+      "Chunk": 29
     },
     {
-      "Action": "Thinks for a moment and then raises his hand to respond to Ms. Farmer's threat of a zero grade.",
+      "Action": "Notices and reflects on changes in his room after the accident, indicating awareness and observation.",
       "Competence": 1,
-      "Chunk": 28
+      "Chunk": 29
     },
     {
-      "Action": "Refuses to answer Principal Cole's question about what he said to Ms. Farmer.",
+      "Action": "Marks the calendar obsessively and tracks exact time intervals with precision.",
+      "Competence": 1,
+      "Chunk": 29
+    },
+    {
+      "Action": "Initiates a conversation with the physics teacher about time travel, showing curiosity and intellectual initiative.",
+      "Competence": 1,
+      "Chunk": 29
+    },
+    {
+      "Action": "Does not directly engage in social interaction or appears passive in other parts of the excerpt; limited evidence of confident social behavior.",
       "Competence": 0,
-      "Chunk": 28
-    },
-    {
-      "Action": "Asks Ms. Farmer to forcibly insert the Lifeline exercise card into her anus, provoking a furious reaction and suspension.",
-      "Competence": -1,
-      "Chunk": 28
-    },
-    {
-      "Action": "Stays behind after class to ask Dr. Monnitoff about time travel, showing curiosity and openness.",
-      "Warmth": 1,
       "Chunk": 29
     },
     {
-      "Action": "Silently contemplates alone in his room, marking days on calendar and focusing on Frank's drawing.",
-      "Warmth": 0,
-      "Chunk": 29
-    },
-    {
-      "Action": "Observes and mentally tracks time precisely, marking days on calendar and counting down with exact hours, minutes, and seconds.",
-      "Competence": 1,
-      "Chunk": 29
-    },
-    {
-      "Action": "Takes initiative to stay after class and ask Dr. Monnitoff about time travel, showing curiosity and willingness to seek knowledge.",
-      "Competence": 1,
-      "Chunk": 29
-    },
-    {
-      "Action": "Passively lies in bed staring at the ceiling without taking action to solve his problems.",
-      "Competence": -1,
-      "Chunk": 29
-    },
-    {
-      "Action": "Engages thoughtfully in a complex discussion about theoretical physics and time travel, demonstrating curiosity and understanding.",
+      "Action": "Engages thoughtfully in a complex discussion about wormholes and time travel, asking clarifying questions and connecting ideas (e.g., mentioning the DeLorean reference).",
       "Competence": 1,
       "Chunk": 30
     },
     {
-      "Action": "Makes a cultural reference to a DeLorean as a time travel vessel, showing awareness and connecting ideas.",
+      "Action": "Demonstrates curiosity and awareness by attentively listening, taking the book, and making connections to historical context (Roberta Sparrow).",
       "Competence": 1,
       "Chunk": 30
     },
     {
-      "Action": "Accepts a rare book from a teacher discreetly, indicating trust and initiative to learn more.",
-      "Competence": 1,
-      "Chunk": 30
-    },
-    {
-      "Action": "Shares a story about Roberta Sparrow (Grandma Death) with his family, showing awareness of others' lives and history.",
+      "Action": "Shares an intriguing story about 'Grandma Death' with his family during dinner, engaging them in conversation.",
       "Warmth": 1,
       "Chunk": 31
     },
     {
-      "Action": "Engages playfully with Gretchen on the trampoline, enjoying a moment of simple joy together.",
+      "Action": "Mentions almost hitting Roberta Sparrow with the car, showing awareness and remorse.",
       "Warmth": 1,
       "Chunk": 31
     },
     {
-      "Action": "Discusses his visions of Frank openly with his therapist, showing some trust and willingness to be sincere.",
+      "Action": "Engages in playful activity with Gretchen on the trampoline.",
+      "Warmth": 1,
+      "Chunk": 31
+    },
+    {
+      "Action": "Discusses his experiences seeing Frank with his therapist openly, showing trust and sincerity.",
       "Warmth": 1,
       "Chunk": 31
     },
     {
       "Action": "Dismisses Gretchen's theory about Frank being a sign as ridiculous.",
-      "Warmth": 0,
+      "Warmth": -1,
       "Chunk": 31
     },
     {
-      "Action": "Explains the concept of 'The Philosophy of Time Travel' and references Roberta Sparrow knowledgeably during dinner, showing awareness and ability to connect ideas.",
-      "Competence": 1,
-      "Chunk": 31
-    },
-    {
-      "Action": "Admits uncertainty about who Frank is and what he represents, showing openness but also lack of full understanding.",
-      "Competence": 0,
-      "Chunk": 31
-    },
-    {
-      "Action": "Dismisses Gretchen's theory about Frank being a sign as ridiculous, showing critical thinking and skepticism.",
-      "Competence": 1,
-      "Chunk": 31
-    },
-    {
-      "Action": "Changes the subject when asked about the sign from whom Frank might be, avoiding direct answers.",
-      "Competence": -1,
-      "Chunk": 31
-    },
-    {
-      "Action": "Shares a personal memory about his dog Callie and expresses a desire not to be alone, showing vulnerability and openness.",
+      "Action": "Expresses a desire not to be alone and reflects sincerely on mortality and loss, sharing memories of his dog Callie.",
       "Warmth": 1,
       "Chunk": 32
     },
     {
-      "Action": "Responds thoughtfully to Dr. Thurman's questions about loneliness and belief, indicating sincerity and introspection.",
+      "Action": "Openly admits uncertainty and searches for meaning about life and death in conversation with Dr. Thurman.",
       "Warmth": 1,
       "Chunk": 32
     },
     {
-      "Action": "Reflects thoughtfully on the concept of death and loneliness, recognizes the lack of proof for beliefs, and chooses a rational approach to avoid unproductive debate.",
+      "Action": "Reflects on existential questions thoughtfully and chooses a rational approach instead of getting lost in unprovable debates.",
       "Competence": 1,
       "Chunk": 32
     },
     {
-      "Action": "Expresses vulnerability and uncertainty about his beliefs and feelings of loneliness.",
+      "Action": "Admits uncertainty about bigger questions and expresses vulnerability about feeling alone.",
       "Competence": 0,
       "Chunk": 32
     },
     {
-      "Action": "Follows the mysterious spear leading him to his parents' bedroom and discovers a hidden gun.",
+      "Action": "Follows his spear into the foyer and master bedroom, discovers a hidden gun.",
       "Warmth": 0,
       "Chunk": 33
     },
     {
-      "Action": "Follows the mysterious spear leading him through the house, showing curiosity and willingness to investigate unusual phenomena.",
+      "Action": "Follows the mysterious spear that appears to lead him purposefully through the house to a hidden box.",
       "Competence": 1,
       "Chunk": 33
     },
     {
-      "Action": "Does not immediately follow the spear protruding from his own stomach, hesitating before deciding to follow it.",
-      "Competence": 0,
-      "Chunk": 33
-    },
-    {
-      "Action": "Finds and retrieves a hidden gun from his parents' closet, demonstrating resourcefulness and decisiveness.",
+      "Action": "Does not hesitate to open the closet and retrieve the box despite its mysterious nature.",
       "Competence": 1,
       "Chunk": 33
     },
     {
-      "Action": "Hesitates and carefully puts the gun back in the box instead of using it impulsively.",
+      "Action": "Looks at the gun with nervous shock, then carefully puts it back in the box and stows it away",
       "Warmth": 1,
       "Chunk": 34
     },
     {
-      "Action": "Arrives at the bus stop alone, looking tired and preoccupied, showing no interaction with peers.",
+      "Action": "Arrives at bus stop tired and preoccupied, by himself",
       "Warmth": 0,
       "Chunk": 34
     },
     {
-      "Action": "Keeps a banned book hidden in his backpack, indicating a rebellious but private behavior.",
+      "Action": "Keeps the banned Graham Greene book hidden by slipping it into his backpack",
       "Warmth": 0,
       "Chunk": 34
     },
     {
-      "Action": "Holds a gun with nervous shock but quickly puts it back and carefully hides it.",
-      "Competence": 1,
-      "Chunk": 34
-    },
-    {
-      "Action": "Slips a banned book into his backpack despite the rules.",
-      "Competence": 0,
-      "Chunk": 34
-    },
-    {
-      "Action": "Arrives at the bus stop last, looking tired and preoccupied.",
-      "Competence": 0,
-      "Chunk": 34
-    },
-    {
-      "Action": "Refuses to betray Seth by not admitting to flooding the school despite Seth's intimidation.",
+      "Action": "Takes Gretchen's hand and attempts to kiss her despite awkwardness; shows vulnerability and desire for sincere connection.",
       "Warmth": 1,
-      "Chunk": 35
+      "Chunk": 36
     },
     {
-      "Action": "Avoids discussing his injury with Gretchen, showing reluctance to share personal pain.",
+      "Action": "Responds to Gretchen's rejection of the kiss with understanding and no resentment.",
+      "Warmth": 1,
+      "Chunk": 36
+    },
+    {
+      "Action": "Finds a lost wallet and looks at the ID without taking anything or ignoring it.",
+      "Warmth": 1,
+      "Chunk": 36
+    },
+    {
+      "Action": "Shares personal information cautiously with Elizabeth, indicating some trust but also guarded behavior.",
       "Warmth": 0,
-      "Chunk": 35
-    },
-    {
-      "Action": "Changes the subject to ask about Gretchen's injury, showing concern and attentiveness.",
-      "Warmth": 1,
-      "Chunk": 35
-    },
-    {
-      "Action": "Takes Gretchen's hand while discussing fears and beauty, indicating warmth and connection.",
-      "Warmth": 1,
-      "Chunk": 35
-    },
-    {
-      "Action": "Responds calmly and confidently to Seth's threat, does not escalate the situation or show panic.",
-      "Competence": 1,
-      "Chunk": 35
-    },
-    {
-      "Action": "Avoids discussing his neck wound with Gretchen, changing the subject instead of addressing the issue directly.",
-      "Competence": -1,
-      "Chunk": 35
-    },
-    {
-      "Action": "Takes Gretchen's hand while talking about how beautiful the world can be.",
-      "Warmth": 1,
       "Chunk": 36
     },
     {
-      "Action": "Responds to Gretchen's rejection of a kiss with understanding and no anger.",
-      "Warmth": 1,
-      "Chunk": 36
-    },
-    {
-      "Action": "Finds a lost wallet and looks at the ID, indicating potential intention to return it.",
-      "Warmth": 1,
-      "Chunk": 36
-    },
-    {
-      "Action": "Jokingly warns Elizabeth about telling their mom, showing a playful and trusting sibling interaction.",
-      "Warmth": 1,
-      "Chunk": 36
-    },
-    {
-      "Action": "Attempts to kiss Gretchen despite awkwardness, then accepts rejection gracefully and understands the situation.",
-      "Competence": 1,
-      "Chunk": 36
-    },
-    {
-      "Action": "Finds a lost wallet, identifies the owner by reading the ID, and immediately knows where he lives.",
-      "Competence": 1,
-      "Chunk": 36
-    },
-    {
-      "Action": "Shows some social awkwardness and hesitation in romantic interaction.",
-      "Competence": 0,
-      "Chunk": 36
-    },
-    {
-      "Action": "Mentions taking medication to reassure Elizabeth, indicating awareness and responsibility about his health.",
-      "Competence": 1,
-      "Chunk": 36
-    },
-    {
-      "Action": "Admits to being honest even when it causes trouble with teachers.",
+      "Action": "Admits to being honest even if it gets him in trouble with teachers.",
       "Warmth": 1,
       "Chunk": 37
     },
     {
-      "Action": "Turns the carved jack o' lantern to show it looks like Frank, sharing a personal and imaginative detail.",
-      "Warmth": 1,
+      "Action": "Responds with honesty rather than politeness when called out for mouthing off.",
+      "Warmth": 0,
       "Chunk": 37
     },
     {
-      "Action": "Mouths off to teachers and insults gym teacher, leading to suspension.",
+      "Action": "Admits to being honest when confronted about mouthing off to teachers.",
+      "Competence": 0,
+      "Chunk": 37
+    },
+    {
+      "Action": "Insults his gym teacher, resulting in suspension.",
       "Competence": -1,
       "Chunk": 37
     },
     {
-      "Action": "Is honest about his feelings and actions, even when it causes trouble.",
-      "Competence": 0,
-      "Chunk": 37
-    },
-    {
-      "Action": "Carves a jack o' lantern that resembles Frank, showing creativity and attention to detail.",
+      "Action": "Turns the jack o' lantern to reveal a carving resembling Frank, showing creativity and symbolic insight.",
       "Competence": 1,
       "Chunk": 37
     },
     {
-      "Action": "Lunges at Frank with a butcher's knife in psychotic rage.",
+      "Action": "Walks into the kitchen and removes a butcher's knife from a drawer.",
+      "Warmth": 0,
+      "Chunk": 38
+    },
+    {
+      "Action": "Stands catatonic in front of bathroom mirror, then lunges with a knife at an invisible intruder (Frank) with psychotic rage.",
       "Warmth": -1,
       "Chunk": 38
     },
     {
-      "Action": "Walks into the kitchen and removes a butcher's knife, then lunges repeatedly at an invisible figure with psychotic rage.",
+      "Action": "Walks into the kitchen and removes a butcher's knife, then lunges repeatedly at an invisible Frank with psychotic rage.",
       "Competence": -1,
       "Chunk": 38
     },
     {
-      "Action": "Falls into a paranoid trance during the assembly, ignoring Gretchen's suggestion to leave.",
-      "Competence": -1,
-      "Chunk": 39
-    },
-    {
-      "Action": "Maintains intense focus on Jim Cunningham's presentation despite social cues to disengage.",
+      "Action": "Ignores Gretchen's suggestion to leave and remains focused on Jim Cunningham, falling into a paranoid trance.",
       "Competence": 0,
       "Chunk": 39
     },
     {
-      "Action": "Interrupts a speaker promoting love and self-acceptance with sarcasm and insults, dismissing the advice as 'crap' and calling the speaker 'full of shit'.",
+      "Action": "Challenges Jim Cunningham publicly, insults his advice, mocks others' ideas about love and self-improvement.",
       "Warmth": -1,
       "Chunk": 40
     },
     {
-      "Action": "Tells Dorky Girl to be blunt and harsh to her sister about losing weight, suggesting she stop eating junk food and be more active.",
-      "Warmth": -1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Tells Lanky Kid that he will never know what he wants to be when he grows up, discouraging him.",
-      "Warmth": -1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Challenges Jim Cunningham publicly with sharp, confident retorts, showing quick thinking and assertiveness.",
-      "Competence": 1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Uses sarcasm and insults in a public setting, potentially undermining his credibility and alienating others.",
-      "Competence": -1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Interrupts a motivational speech with confrontational behavior rather than constructive dialogue.",
-      "Competence": -1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Mocks and insults classmates and faculty publicly, uses harsh language.",
+      "Action": "Makes insulting and provocative remarks to other students and faculty during a school assembly, provoking anger and leading to his suspension.",
       "Warmth": -1,
       "Chunk": 41
     },
     {
-      "Action": "Shares personal struggles and strange experiences with Gretchen, invites her to join him in seeking answers.",
+      "Action": "Shares his experiences of seeing disturbing things and opens up to Gretchen about them, showing vulnerability and trust.",
       "Warmth": 1,
       "Chunk": 41
     },
     {
-      "Action": "Confronts Jim Cunningham publicly and calls him the 'fucking Anti-Christ', provoking a strong reaction and getting suspended.",
-      "Competence": -1,
-      "Chunk": 41
-    },
-    {
-      "Action": "Engages Gretchen in a thoughtful conversation about the book 'The Philosophy of Time Travel' and connects it to his own experiences, showing insight and curiosity.",
-      "Competence": 1,
-      "Chunk": 41
-    },
-    {
-      "Action": "Takes initiative to visit Grandma Death with Gretchen to seek answers about his visions, demonstrating proactive behavior and problem-solving.",
-      "Competence": 1,
-      "Chunk": 41
-    },
-    {
-      "Action": "Shares personal and embarrassing thoughts openly with his therapist, showing trust and sincerity.",
+      "Action": "Invites Gretchen to come see Grandma Death with him, showing openness and willingness to include others in his personal experiences.",
       "Warmth": 1,
-      "Chunk": 42
+      "Chunk": 41
     },
     {
-      "Action": "Tells Gretchen about some of his experiences but withholds more disturbing details about Frank, indicating some guardedness.",
-      "Warmth": 0,
-      "Chunk": 42
-    },
-    {
-      "Action": "Confidently asserts knowledge about Grandma Death's presence despite no immediate evidence.",
+      "Action": "Challenges authority by speaking out boldly in the auditorium, showing confidence and quick wit.",
       "Competence": 1,
-      "Chunk": 42
+      "Chunk": 41
     },
     {
-      "Action": "Opens the mailbox to check for something, showing initiative and thoroughness.",
-      "Competence": 1,
-      "Chunk": 42
-    },
-    {
-      "Action": "Paces nervously in therapist's office and withholds information about what he found, indicating uncertainty or lack of confidence.",
+      "Action": "Is suspended for his outburst, which could reflect impulsivity and poor judgment.",
       "Competence": -1,
-      "Chunk": 42
+      "Chunk": 41
     },
     {
-      "Action": "Openly shares embarrassing personal information with therapist, showing emotional honesty and self-awareness.",
+      "Action": "Has insightful awareness about his own struggles, acknowledging he sees 'messed-up stuff' and connecting it to the book 'The Philosophy of Time Travel'.",
       "Competence": 1,
-      "Chunk": 42
+      "Chunk": 41
     },
     {
-      "Action": "Admits to Dr. Thurman that he has sexual fantasies and tries to normalize her embarrassment by sharing his own experiences.",
+      "Action": "Invites Gretchen to accompany him to meet Grandma Death after noticing connections to his experiences, showing initiative and curiosity.",
+      "Competence": 1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Relies on cryptic or mysterious knowledge that others might find confusing, which can make him appear disconnected or unreliable.",
+      "Competence": -1,
+      "Chunk": 41
+    },
+    {
+      "Action": "Confides in Dr. Thurman, sharing personal thoughts and admitting to having sexual fantasies.",
       "Warmth": 1,
       "Chunk": 43
     },
     {
-      "Action": "Expresses frustration about Gretchen not letting him kiss her but does so without hostility or disrespect.",
+      "Action": "Expresses frustration about Gretchen not wanting to kiss him yet.",
       "Warmth": 0,
-      "Chunk": 43
-    },
-    {
-      "Action": "Tells Rose that he can tell Dr. Thurman anything, showing trust and openness.",
-      "Warmth": 1,
       "Chunk": 43
     },
     {
@@ -1011,43 +771,8 @@
       "Chunk": 43
     },
     {
-      "Action": "Makes a 'zipper lip' gesture to indicate he won't share more until Dr. Thurman shares something embarrassing, showing control and confidence in the interaction.",
-      "Competence": 1,
-      "Chunk": 43
-    },
-    {
-      "Action": "Responds calmly and supportively when Dr. Thurman shares an embarrassing detail, showing emotional intelligence and social skill.",
-      "Competence": 1,
-      "Chunk": 43
-    },
-    {
-      "Action": "Expresses confusion about Gretchen's desire to wait for a 'big moment' before kissing, indicating some lack of understanding of social/emotional nuances.",
-      "Competence": -1,
-      "Chunk": 43
-    },
-    {
-      "Action": "Admits openly to Dr. Thurman that he has sexual fantasies and discusses intimate topics frankly, showing a degree of self-awareness and openness.",
-      "Competence": 0,
-      "Chunk": 43
-    },
-    {
-      "Action": "Appears lost in a trance during family dinner, ignoring others and not engaging, indicating distraction or disengagement.",
-      "Competence": -1,
-      "Chunk": 43
-    },
-    {
-      "Action": "Responds to his mother's question about therapy with a positive comment about Dr. Thurman, showing some emotional insight and ability to communicate honestly.",
-      "Competence": 1,
-      "Chunk": 43
-    },
-    {
-      "Action": "Ignores Samantha's invitation to a talent show, showing social withdrawal or lack of engagement.",
-      "Competence": -1,
-      "Chunk": 43
-    },
-    {
-      "Action": "Presents an invention (IMGs) confidently in physics class alongside Gretchen, demonstrating intellectual capability and confidence.",
-      "Competence": 1,
+      "Action": "Says Dr. Thurman isn't so bad and that he can tell her anything.",
+      "Warmth": 1,
       "Chunk": 43
     },
     {
@@ -1056,673 +781,528 @@
       "Chunk": 44
     },
     {
-      "Action": "Explains the concept of infant memory generators thoughtfully and with some insight.",
+      "Action": "Explains the concept of Infant Memory Generators thoughtfully, demonstrating understanding of developmental psychology ideas.",
       "Competence": 1,
       "Chunk": 44
     },
     {
-      "Action": "Chases after Gretchen to apologize sincerely and initiates a first kiss, showing emotional awareness and confidence.",
+      "Action": "Chases after Gretchen to apologize sincerely, showing emotional awareness and social confidence.",
       "Competence": 1,
       "Chunk": 44
     },
     {
-      "Action": "Sits quietly next to Gretchen while she falls asleep, showing patience and tolerance.",
+      "Action": "Notices Gretchen asleep and watches over her silently in a quiet, peaceful moment.",
       "Warmth": 1,
       "Chunk": 45
     },
     {
-      "Action": "Asks Frank why he is wearing the bunny suit and requests him to remove it, showing curiosity but also a direct and somewhat blunt approach.",
-      "Warmth": 0,
-      "Chunk": 45
-    },
-    {
-      "Action": "Stares with wide eyes at Frank's injured face and asks about his eye, showing concern and sincerity.",
+      "Action": "Requests Frank to remove his bunny mask to see him genuinely, showing curiosity and openness.",
       "Warmth": 1,
       "Chunk": 45
     },
     {
-      "Action": "Contemplates his fate silently and then leaves without confrontation or explanation.",
+      "Action": "Expresses concern and asks about Frank's missing eye with sincere interest.",
+      "Warmth": 1,
+      "Chunk": 45
+    },
+    {
+      "Action": "Contemplates his fate silently and then leaves without confrontation or aggression.",
       "Warmth": 0,
       "Chunk": 45
     },
     {
-      "Action": "Questions Frank about the bunny suit and insists on seeing his face, showing curiosity and assertiveness.",
+      "Action": "Questions Frank about the rabbit suit, showing curiosity and assertiveness.",
       "Competence": 1,
       "Chunk": 45
     },
     {
-      "Action": "Contemplates the strange situation and Frank's instructions before deciding to leave the theater, indicating thoughtful consideration.",
+      "Action": "Looks ill but still tries to understand the situation and confronts Frank.",
       "Competence": 1,
       "Chunk": 45
     },
     {
-      "Action": "Passively watches the movie and appears ill but does not immediately act on his feelings, showing some hesitation.",
+      "Action": "Contemplates his fate for several moments before taking action.",
+      "Competence": 1,
+      "Chunk": 45
+    },
+    {
+      "Action": "Walks out of the theatre after being told to burn the house down, showing hesitation and lack of immediate confident response.",
       "Competence": 0,
       "Chunk": 45
     },
     {
-      "Action": "Walks slowly past the theatre marquee, observing quietly.",
+      "Action": "Walks slowly past the theatre marquee and watches the performance quietly without interrupting or reacting negatively to the crowd's indifference.",
       "Warmth": 0,
       "Chunk": 46
     },
     {
-      "Action": "Walks through Jim Cunningham's house dousing gasoline with psychotic force, starting a fire.",
+      "Action": "Douses Jim Cunningham's house with gasoline and starts a fire with psychotic force.",
       "Warmth": -1,
       "Chunk": 46
     },
     {
-      "Action": "Walks slowly past the theatre marquee, observing the environment calmly.",
+      "Action": "Walks slowly past the theatre marquee, silently observing.",
       "Competence": 0,
       "Chunk": 46
     },
     {
-      "Action": "Douses Jim Cunningham's house with gasoline and sets a fire with psychotic force.",
+      "Action": "Walks through Jim Cunningham's house, dousing gasoline with psychotic force resulting in a trail of fire and causing a couch and curtains to catch fire.",
       "Competence": -1,
       "Chunk": 46
     },
     {
-      "Action": "Sits next to Gretchen while she is asleep and gently wakes her up to leave the theater together.",
+      "Action": "Wakes up Gretchen after the movie to leave the theatre together.",
       "Warmth": 1,
       "Chunk": 47
     },
     {
-      "Action": "Admits to feeling like a 'nutcase' and acknowledges others' weird looks, showing vulnerability.",
+      "Action": "Admits to being perceived as a 'nutcase' and acknowledges others' weird looks.",
       "Warmth": 1,
       "Chunk": 47
     },
     {
-      "Action": "Rakes leaves in silence with Eddie, sharing a quiet moment of cooperation.",
-      "Warmth": 1,
-      "Chunk": 47
-    },
-    {
-      "Action": "Wakes Gretchen gently after she falls asleep during the movie and suggests they leave together.",
-      "Competence": 1,
-      "Chunk": 47
-    },
-    {
-      "Action": "Acknowledges that people think he is a nutcase and is aware of the weird looks he receives.",
-      "Competence": 1,
-      "Chunk": 47
-    },
-    {
-      "Action": "Rakes leaves silently with Eddie without initiating conversation or showing leadership.",
-      "Competence": 0,
-      "Chunk": 47
-    },
-    {
-      "Action": "Admits to deserving the weird looks and acknowledges his flaws openly.",
-      "Warmth": 1,
-      "Chunk": 48
-    },
-    {
-      "Action": "Smiles at his father after receiving supportive and honest advice.",
-      "Warmth": 1,
-      "Chunk": 48
-    },
-    {
-      "Action": "Acknowledges that people think he is a nutcase and accepts that he deserves their fear.",
-      "Competence": 0,
-      "Chunk": 48
-    },
-    {
-      "Action": "Listens to his father's advice about honesty and following his heart despite others' judgment.",
-      "Competence": 1,
-      "Chunk": 48
-    },
-    {
-      "Action": "Takes his medication responsibly by taking three pills as prescribed.",
-      "Competence": 1,
-      "Chunk": 48
-    },
-    {
-      "Action": "Stares at the television, speechless and horrified upon learning about Jim Cunningham's scandal.",
-      "Warmth": 1,
-      "Chunk": 49
-    },
-    {
-      "Action": "Says nothing and walks upstairs after Elizabeth mentions her dad played golf with Cunningham.",
+      "Action": "Rakes leaves with Eddie in silence and does not engage socially.",
       "Warmth": 0,
-      "Chunk": 49
+      "Chunk": 47
     },
     {
-      "Action": "Engages in a thoughtful, in-depth conversation with Dr. Monnitoff about time travel and destiny.",
-      "Warmth": 0,
-      "Chunk": 49
-    },
-    {
-      "Action": "Engages in a thoughtful, in-depth conversation with his physics teacher about complex concepts like time travel and wormholes, demonstrating curiosity and intellectual engagement.",
+      "Action": "Wakes Gretchen after she falls asleep during the movie and suggests they leave, showing social awareness and confidence in decision-making.",
       "Competence": 1,
-      "Chunk": 49
+      "Chunk": 47
     },
     {
-      "Action": "Remains speechless and horrified when hearing about the scandal on TV, then chooses to say nothing and walk away, showing emotional overwhelm and avoidance rather than confident response.",
-      "Competence": -1,
-      "Chunk": 49
-    },
-    {
-      "Action": "Engages in a philosophical discussion about destiny and choice, showing thoughtful reasoning.",
+      "Action": "Openly admits to others that he feels like a 'nutcase' and acknowledges people's reactions to him, demonstrating self-awareness and some insight.",
       "Competence": 1,
-      "Chunk": 50
+      "Chunk": 47
     },
     {
-      "Action": "Is cut off by Dr. Monnitoff and does not push further in the conversation.",
+      "Action": "Engages in a mundane task, raking leaves in silent companionship with Eddie, indicating ability to follow through on ordinary responsibilities.",
       "Competence": 0,
-      "Chunk": 50
+      "Chunk": 47
     },
     {
-      "Action": "Dismisses the significance of the rabbits' fate and shows indifference to their suffering, stating there's no point in mourning them.",
+      "Action": "Admits to feeling alienated and believes he deserves the negative treatment.",
+      "Warmth": 1,
+      "Chunk": 48
+    },
+    {
+      "Action": "Smiles at his father who encourages honesty and following one's heart.",
+      "Warmth": 1,
+      "Chunk": 48
+    },
+    {
+      "Action": "Takes his medication quietly without complaint or drawing attention.",
+      "Warmth": 0,
+      "Chunk": 48
+    },
+    {
+      "Action": "Acknowledges others think he's strange but accepts it with calm self-awareness.",
+      "Competence": 1,
+      "Chunk": 48
+    },
+    {
+      "Action": "Takes his prescribed medication responsibly and keeps track of days on calendar.",
+      "Competence": 1,
+      "Chunk": 48
+    },
+    {
+      "Action": "Expresses resignation that he deserves the negative attention he receives.",
+      "Competence": 0,
+      "Chunk": 48
+    },
+    {
+      "Action": "Stares speechless and horrified at disturbing news on TV, then says nothing and walks away.",
+      "Competence": 0,
+      "Chunk": 49
+    },
+    {
+      "Action": "Engages in an in-depth, thoughtful conversation about physics and time travel with his teacher, Dr. Monnitoff, demonstrating curiosity and conceptual thinking.",
+      "Competence": 1,
+      "Chunk": 49
+    },
+    {
+      "Action": "Attempts to draw analogies (like a spear) to understand complex concepts such as vector paths and wormholes.",
+      "Competence": 1,
+      "Chunk": 49
+    },
+    {
+      "Action": "Asks insightful questions about the nature of wormholes and time travel, showing intellectual engagement.",
+      "Competence": 1,
+      "Chunk": 49
+    },
+    {
+      "Action": "Makes a philosophical argument about destiny and predetermination connected to time travel concepts.",
+      "Competence": 1,
+      "Chunk": 49
+    },
+    {
+      "Action": "Dismisses concern for the rabbits' fate, showing cynicism and detachment from others' emotions.",
       "Warmth": -1,
       "Chunk": 52
     },
     {
-      "Action": "Dismisses the emotional significance of the rabbits' fate, showing a cynical and somewhat dismissive attitude toward the story and its moral implications.",
+      "Action": "Questions the emotional significance of the rabbits' fate, demonstrating skepticism and a rational worldview.",
+      "Competence": 1,
+      "Chunk": 52
+    },
+    {
+      "Action": "Dismisses the symbolic value of the rabbits and the emotions surrounding them, showing a lack of empathy and understanding in the social context.",
       "Competence": -1,
       "Chunk": 52
     },
     {
-      "Action": "Engages in a philosophical discussion, articulating his perspective clearly and confidently despite disagreement from peers.",
-      "Competence": 0,
-      "Chunk": 52
+      "Action": "Sits silently observing family interactions without causing conflict.",
+      "Warmth": 0,
+      "Chunk": 54
     },
     {
-      "Action": "Invites Gretchen to skip class and go to the Ridge, showing a desire to connect.",
-      "Warmth": 1,
-      "Chunk": 53
-    },
-    {
-      "Action": "Remains broken and dejected after Gretchen angrily rejects him, indicating emotional sensitivity.",
-      "Warmth": 1,
-      "Chunk": 53
-    },
-    {
-      "Action": "Observes his family happily from a distance and chooses not to interrupt their moment, showing respect and consideration.",
-      "Warmth": 1,
-      "Chunk": 53
-    },
-    {
-      "Action": "Attempts to invite Gretchen to skip class and go to the Ridge, showing initiative but misreading social cues.",
-      "Competence": 0,
-      "Chunk": 53
-    },
-    {
-      "Action": "Observes his family in a peaceful moment and consciously chooses not to interrupt, demonstrating emotional intelligence and self-control.",
-      "Competence": 1,
-      "Chunk": 53
-    },
-    {
-      "Action": "Sits silently on the back-porch steps, observing family interactions without complaint or disruption.",
+      "Action": "Engages Rose with a candid expression of his feelings ('I feel like... I'm approaching something horrible.'), allowing vulnerability.",
       "Warmth": 1,
       "Chunk": 54
     },
     {
-      "Action": "Jokes with his mother about being a 'wacko' son, showing a playful and open attitude.",
-      "Warmth": 1,
-      "Chunk": 54
-    },
-    {
-      "Action": "Expresses a vague sense of impending doom ('I feel like... I'm approaching something horrible.'), indicating internal struggle but shares this with his mother, showing some trust and openness.",
-      "Warmth": 1,
-      "Chunk": 54
-    },
-    {
-      "Action": "Sits silently on the back-porch steps, observing the activity around him without engaging.",
-      "Competence": 0,
-      "Chunk": 54
-    },
-    {
-      "Action": "Expresses a vague premonition: 'I feel like... I'm approaching something horrible.'",
-      "Competence": 0,
-      "Chunk": 54
-    },
-    {
-      "Action": "Engages in a brief, somewhat sarcastic exchange with his mother about his mental state, showing self-awareness and humor.",
+      "Action": "Sits quietly and observes others without interrupting, showing self-restraint and awareness.",
       "Competence": 1,
       "Chunk": 54
     },
     {
-      "Action": "Waves goodbye warmly to Rose when she leaves, despite the awkwardness.",
+      "Action": "Jokes about being a 'wacko' with his mother, demonstrating emotional intelligence and confidence in communicating sensitive topics.",
+      "Competence": 1,
+      "Chunk": 54
+    },
+    {
+      "Action": "Expresses a vague premonition of approaching something horrible, indicating intuitive awareness but also a lack of control or clear plan.",
+      "Competence": 0,
+      "Chunk": 54
+    },
+    {
+      "Action": "Waves goodbye to Rose sincerely when she leaves, approaching her reluctantly to say 'There's nothing broken... in my brain.'",
       "Warmth": 1,
       "Chunk": 55
     },
     {
-      "Action": "Reluctantly approaches his mother to reassure her that 'there's nothing broken... in my brain.'",
+      "Action": "Approaches Gretchen and earnestly asks her to talk despite social rejection.",
       "Warmth": 1,
       "Chunk": 55
     },
     {
-      "Action": "Asks Gretchen sincerely to talk to him despite her initial rejection.",
-      "Warmth": 1,
-      "Chunk": 55
-    },
-    {
-      "Action": "Walks alone, appearing lost and isolated, does not engage with peers or seek social connection beyond asking Gretchen.",
+      "Action": "Walks alone, appearing lost and unsure, but still makes an effort to engage with Ms. Pomeroy.",
       "Warmth": 0,
       "Chunk": 55
     },
     {
-      "Action": "Waves goodbye politely to Rose and others, showing social awareness and calmness.",
+      "Action": "Reluctantly approaches his mother to reassure her by saying 'There's nothing broken... in my brain.'",
       "Competence": 1,
       "Chunk": 55
     },
     {
-      "Action": "Reassures his mother by saying 'There's nothing broken... in my brain,' demonstrating self-awareness and confidence.",
-      "Competence": 1,
-      "Chunk": 55
-    },
-    {
-      "Action": "Persistently asks Gretchen to talk despite her initial refusal, showing determination but possibly lacking social tact.",
+      "Action": "Walks up to Gretchen to ask her to talk despite social discomfort.",
       "Competence": 0,
       "Chunk": 55
     },
     {
-      "Action": "Appears lost and wanders the school hallways alone, indicating confusion or lack of direction.",
+      "Action": "Insists on talking to Gretchen even when she says it's not a good time.",
+      "Competence": 0,
+      "Chunk": 55
+    },
+    {
+      "Action": "Waves goodbye politely and acknowledges others' farewells calmly.",
+      "Competence": 0,
+      "Chunk": 55
+    },
+    {
+      "Action": "Appears lost and wanders the hallways alone, unsure where to go.",
       "Competence": -1,
       "Chunk": 55
     },
     {
-      "Action": "Knocks on Ms. Pomeroy's door to inquire about her situation, showing initiative and curiosity.",
-      "Competence": 1,
-      "Chunk": 55
-    },
-    {
-      "Action": "Tells Ms. Pomeroy she is a good teacher despite her being fired.",
+      "Action": "Expresses support and compliments Ms. Pomeroy after she is fired, calling her a good teacher.",
       "Warmth": 1,
       "Chunk": 56
     },
     {
-      "Action": "Questions Mom and Dad's rules, showing critical thinking but potential defiance.",
+      "Action": "Shows concern about how to explain to others about Ms. Pomeroy's firing, indicating care for her reputation.",
+      "Warmth": 1,
+      "Chunk": 56
+    },
+    {
+      "Action": "Does not try to challenge or change Ms. Pomeroy’s decision to stop talking to him despite his feelings.",
       "Warmth": 0,
       "Chunk": 56
     },
     {
-      "Action": "Expresses concern about what to tell the rest of the class regarding Ms. Pomeroy's firing.",
-      "Warmth": 1,
-      "Chunk": 56
-    },
-    {
-      "Action": "Feels lost and introspective after Ms. Pomeroy leaves, showing emotional sensitivity.",
-      "Warmth": 1,
-      "Chunk": 56
-    },
-    {
-      "Action": "Supports and encourages Ms. Pomeroy after she is fired, showing emotional intelligence and confidence in his judgment.",
+      "Action": "Comforts Ms. Pomeroy after she reveals she's been fired, calling her a good teacher and student.",
       "Competence": 1,
       "Chunk": 56
     },
     {
-      "Action": "Questions the meaning of 'Cellar Door' and reflects on it thoughtfully, demonstrating intellectual curiosity and insight.",
+      "Action": "Shows introspection and self-awareness by reflecting on finding his 'Cellar Door' and contemplating Ms. Pomeroy’s advice.",
       "Competence": 1,
       "Chunk": 56
     },
     {
-      "Action": "Appears lost in introspection and uncertainty after Ms. Pomeroy's departure, indicating some emotional or decisional hesitation.",
+      "Action": "Expresses confusion and sadness about Ms. Pomeroy no longer talking to him, indicating some emotional vulnerability without immediate resolution.",
       "Competence": 0,
       "Chunk": 56
     },
     {
-      "Action": "Approaches Cherita gently, promises that things will get better for her.",
+      "Action": "Approaches Cherita gently, tries to comfort her with a promise that things will get better.",
       "Warmth": 1,
       "Chunk": 57
     },
     {
-      "Action": "Grabs Cherita's earmuffs and touches his forehead to hers, an intimate gesture that frightens her.",
-      "Warmth": 0,
-      "Chunk": 57
-    },
-    {
-      "Action": "Wears Cherita's earmuffs after she runs away, indicating a reflective or caring attitude.",
+      "Action": "Touches Cherita's earmuffs and forehead in a tender, almost affectionate gesture.",
       "Warmth": 1,
       "Chunk": 57
     },
     {
-      "Action": "Does not answer when asked about Frank wanting him to destroy the world.",
-      "Warmth": 0,
-      "Chunk": 57
-    },
-    {
-      "Action": "Expresses that he does not want to hurt anyone.",
+      "Action": "Does not react negatively or aggressively when Cherita recoils and runs away crying.",
       "Warmth": 1,
       "Chunk": 57
     },
     {
-      "Action": "Approaches Cherita slowly and makes eye contact, attempts a comforting gesture by touching foreheads and promises things will get better for her.",
+      "Action": "Wears Cherita’s earmuffs after she runs away, showing a kind of connection or empathy.",
+      "Warmth": 1,
+      "Chunk": 57
+    },
+    {
+      "Action": "Approaches Cherita gently, makes a sincere promise to her to reassure her about the future.",
       "Competence": 1,
       "Chunk": 57
     },
     {
-      "Action": "Does not respond directly to therapist's question about Frank wanting him to destroy the world, showing hesitation or avoidance.",
+      "Action": "Physically grabs Cherita's earmuffs without clear consent, causing her fear and distress.",
       "Competence": -1,
       "Chunk": 57
     },
     {
-      "Action": "Acknowledges that people get hurt and expresses he does not want to hurt anyone, showing self-awareness and emotional intelligence.",
+      "Action": "Responds to therapist's questions calmly and acknowledges consequences of his actions, showing self-awareness.",
       "Competence": 1,
       "Chunk": 57
     },
     {
-      "Action": "Goes under hypnosis and answers therapist's questions, but some answers are vague or incomplete.",
+      "Action": "Avoids directly answering whether Frank wants him to destroy the world, indicating hesitation or uncertainty.",
       "Competence": 0,
       "Chunk": 57
     },
     {
-      "Action": "Admits to feeling regret for flooding his school and burning down a house.",
+      "Action": "Admits to feeling regret over flooding the school and burning down a house.",
       "Warmth": 1,
       "Chunk": 58
     },
     {
-      "Action": "Does not respond when asked if Frank told him to commit crimes.",
+      "Action": "Says he must obey Frank because Frank saved his life, expressing dependence rather than outright defiance.",
       "Warmth": 0,
       "Chunk": 58
     },
     {
-      "Action": "Expresses a sense of loneliness and confusion about his situation.",
-      "Warmth": 1,
-      "Chunk": 58
-    },
-    {
-      "Action": "Mentions obeying Frank out of fear of being left alone.",
-      "Warmth": 0,
-      "Chunk": 58
-    },
-    {
-      "Action": "Makes a humorous, somewhat irreverent comment linking belief in God to being horny.",
-      "Warmth": 0,
-      "Chunk": 58
-    },
-    {
-      "Action": "Admits to flooding the school and burning down a house, showing awareness of his wrongdoings but no clear plan to stop or fix them.",
-      "Competence": -1,
-      "Chunk": 58
-    },
-    {
-      "Action": "Expresses belief in obeying Frank because Frank saved his life and controls him, indicating a lack of autonomous decision-making and critical thinking.",
-      "Competence": -1,
-      "Chunk": 58
-    },
-    {
-      "Action": "Claims to have the power to build a time machine and plans to go back in time to fix regrets, showing imaginative thinking but no demonstrated skill or evidence of capability.",
-      "Competence": 0,
-      "Chunk": 58
-    },
-    {
-      "Action": "Engages in a conversation with Dr. Thurman about complex ideas like God, time travel, and regret, showing some intellectual engagement and self-reflection.",
-      "Competence": 0,
-      "Chunk": 58
-    },
-    {
-      "Action": "Appears frightened and childlike, openly expresses fear and vulnerability to Dr. Thurman.",
-      "Warmth": 1,
-      "Chunk": 59
-    },
-    {
-      "Action": "Focuses on his own impending doom and ruined life, showing little outward concern for others in this moment.",
+      "Action": "Does not respond when asked whether Frank told him to commit crimes, showing withholding of information.",
       "Warmth": -1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Jokes that God might exist because he's horny, indicating a sense of humor and sincerity.",
+      "Warmth": 1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Speaks with Dr. Thurman about his plans to build a time machine to erase his regrets, showing a desire to fix past mistakes.",
+      "Warmth": 1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Admits to serious wrongdoing (flooding school, arson) and expresses confusion and helplessness about his actions.",
+      "Competence": -1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Acknowledges regret and attempts to understand consequences of his actions.",
+      "Competence": 0,
+      "Chunk": 58
+    },
+    {
+      "Action": "Claims to have the power to build a time machine and talks about complex ideas like time travel and God's portal with confidence.",
+      "Competence": 0,
+      "Chunk": 58
+    },
+    {
+      "Action": "Feels controlled by an external figure (Frank) and unable to act independently, showing lack of self-control.",
+      "Competence": -1,
+      "Chunk": 58
+    },
+    {
+      "Action": "Shows visible fear and vulnerability, accepting Dr. Thurman's attempt to comfort him despite his distressed state.",
+      "Warmth": 1,
       "Chunk": 59
     },
     {
-      "Action": "Freaks out, appears frightened and childlike, unable to control his emotions or situation.",
+      "Action": "Expresses a fatalistic belief that he has already ruined his life, indicating self-blame and a troubled internal state.",
+      "Warmth": 0,
+      "Chunk": 59
+    },
+    {
+      "Action": "Staggers around the room, looks frightened and childlike, freaks out about impending danger.",
       "Competence": -1,
       "Chunk": 59
     },
     {
-      "Action": "Communicates clearly about his visions and fears despite panic, showing some awareness of his situation.",
+      "Action": "Acknowledges the imminent event and expresses awareness of consequences and his fate.",
       "Competence": 0,
       "Chunk": 59
     },
     {
-      "Action": "Thanks Dr. Thurman sincerely after learning his medication is placebo.",
-      "Warmth": 1,
-      "Chunk": 60
-    },
-    {
-      "Action": "Congratulates Elizabeth on getting into Harvard.",
-      "Warmth": 1,
-      "Chunk": 60
-    },
-    {
-      "Action": "Suggests throwing a Halloween party to Elizabeth, trying to create a fun social event.",
-      "Warmth": 1,
-      "Chunk": 60
-    },
-    {
-      "Action": "Reassures Elizabeth that everything is going to be just fine.",
-      "Warmth": 1,
-      "Chunk": 60
-    },
-    {
-      "Action": "Responds calmly and politely to Dr. Thurman after learning his medication is a placebo.",
+      "Action": "Politely acknowledges Dr. Thurman's revelation about his placebo medication and calmly ends the conversation without argument or confusion.",
       "Competence": 1,
       "Chunk": 60
     },
     {
-      "Action": "Understands and correctly uses the term 'agnostic' after Dr. Thurman's explanation.",
+      "Action": "Demonstrates clear understanding of philosophical terms by correctly distinguishing atheism from agnosticism when prompted.",
       "Competence": 1,
       "Chunk": 60
     },
     {
-      "Action": "Suggests throwing a Halloween party while his parents are away, showing social awareness and planning.",
+      "Action": "Proposes and plans a Halloween party confidently, assessing the risk and opportunity that parents' absence presents.",
       "Competence": 1,
       "Chunk": 60
     },
     {
-      "Action": "Reassures Elizabeth that everything will be fine, demonstrating confidence.",
+      "Action": "Responds supportively and succinctly to Elizabeth's good news, showing social awareness and emotional intelligence.",
       "Competence": 1,
       "Chunk": 60
     },
     {
-      "Action": "Answers the door to trick-or-treaters in costume, engaging normally in social interaction.",
-      "Competence": 0,
-      "Chunk": 60
-    },
-    {
-      "Action": "Comforts Gretchen when she is upset about her missing mother, asks if she is OK, hugs her, and reassures her that it is safe here.",
+      "Action": "Answers the door for Gretchen late at night, shows concern by asking if she is OK.",
       "Warmth": 1,
       "Chunk": 61
     },
     {
-      "Action": "Answers the door promptly when it rings late at night.",
-      "Competence": 1,
-      "Chunk": 61
-    },
-    {
-      "Action": "Comforts and supports Gretchen when she is upset and scared, offering reassurance and physical comfort.",
-      "Competence": 1,
-      "Chunk": 61
-    },
-    {
-      "Action": "Takes initiative to take Gretchen upstairs to a safer place after learning about her distress.",
-      "Competence": 1,
-      "Chunk": 61
-    },
-    {
-      "Action": "Engages in casual party behavior without notable leadership or skill.",
-      "Competence": 0,
-      "Chunk": 61
-    },
-    {
-      "Action": "Reassures Gretchen by telling her 'Everything is going to be just fine.'",
+      "Action": "Comforts Gretchen by taking her into the hallway and hugging her when she is upset.",
       "Warmth": 1,
-      "Chunk": 62
+      "Chunk": 61
     },
     {
-      "Action": "Kisses Gretchen and lies down with her, sharing a quiet moment.",
+      "Action": "Reassures Gretchen by telling her 'It's safe here' and takes her upstairs to a safer place.",
       "Warmth": 1,
-      "Chunk": 62
+      "Chunk": 61
     },
     {
-      "Action": "Walks towards the kitchen but doubles over in pain, showing vulnerability.",
-      "Warmth": 0,
-      "Chunk": 62
-    },
-    {
-      "Action": "Stares blankly at the memo board and does not react aggressively or negatively.",
-      "Warmth": 0,
-      "Chunk": 62
-    },
-    {
-      "Action": "Reassures Gretchen by telling her 'Everything is going to be just fine.'",
+      "Action": "Answers the door calmly when unexpected visitor Gretchen arrives.",
       "Competence": 1,
-      "Chunk": 62
+      "Chunk": 61
     },
     {
-      "Action": "Follows his spear through a chaotic crowd to the refrigerator, showing focus and determination.",
+      "Action": "Listens attentively and shows concern when Gretchen explains her mother is missing and the house is messed up.",
       "Competence": 1,
-      "Chunk": 62
+      "Chunk": 61
     },
     {
-      "Action": "Stares blankly at the memo board for several moments, appearing confused or uncertain.",
+      "Action": "Offers physical comfort by hugging Gretchen and reassures her that she is safe.",
+      "Competence": 1,
+      "Chunk": 61
+    },
+    {
+      "Action": "Does not immediately call authorities himself or take proactive steps beyond comforting Gretchen.",
       "Competence": -1,
+      "Chunk": 61
+    },
+    {
+      "Action": "Kisses Gretchen and reassures her that everything is going to be just fine.",
+      "Warmth": 1,
       "Chunk": 62
     },
     {
-      "Action": "Invites Gretchen and others to follow him despite uncertainty, showing concern and inclusion.",
+      "Action": "Walks towards the kitchen but doubles over in pain, shows vulnerability.",
       "Warmth": 1,
-      "Chunk": 63
+      "Chunk": 62
     },
     {
-      "Action": "Insists on going to see Grandma Death to address an important matter, demonstrating sincerity and urgency.",
-      "Warmth": 1,
-      "Chunk": 63
+      "Action": "Reassures Gretchen by telling her everything is going to be just fine.",
+      "Competence": 1,
+      "Chunk": 62
     },
     {
-      "Action": "Leads friends into a dark, potentially dangerous place (Grandma Death's cellar) despite their hesitation, showing trust and willingness to share his experience.",
-      "Warmth": 1,
-      "Chunk": 63
+      "Action": "Follows his spear through chaotic costumed teenagers to the refrigerator, showing focus despite confusion.",
+      "Competence": 1,
+      "Chunk": 62
     },
     {
-      "Action": "Recognizes the urgency of the situation and takes initiative to lead Gretchen and others to Grandma Death's house despite uncertainty.",
+      "Action": "Doubles over in pain and stares blankly at the memo board, indicating momentary vulnerability or confusion.",
+      "Competence": 0,
+      "Chunk": 62
+    },
+    {
+      "Action": "Takes charge of the group, decides to go see Grandma Death with urgency and confidence despite uncertainty.",
       "Competence": 1,
       "Chunk": 63
     },
     {
-      "Action": "Insists on investigating the cellar door despite warnings from others, showing decisiveness and curiosity.",
-      "Competence": 1,
-      "Chunk": 63
-    },
-    {
-      "Action": "Does not explain clearly who Frank is or why they need to go, causing confusion among the group.",
+      "Action": "Leads friends into a dark, potentially dangerous place, ignoring warnings and unknown risks.",
       "Competence": -1,
       "Chunk": 63
     },
     {
-      "Action": "Whispers 'Dea ex machina' and 'Our saviour' quietly during a threatening situation, showing calmness and subtle hope.",
-      "Warmth": 1,
-      "Chunk": 64
-    },
-    {
-      "Action": "Does not retaliate or escalate violence when held at knife point and Gretchen is being hurt, showing restraint and concern.",
-      "Warmth": 1,
-      "Chunk": 64
-    },
-    {
-      "Action": "Tells Gretchen 'You better run' in a tense moment, indicating protective intent.",
-      "Warmth": 1,
-      "Chunk": 64
-    },
-    {
-      "Action": "Remains calm and composed under threat, quietly utters 'Dea ex machina' recognizing the approaching car as a potential rescue.",
+      "Action": "Whispers 'Dea ex machina' quietly under pressure, showing presence of mind and calm in a dangerous situation.",
       "Competence": 1,
       "Chunk": 64
     },
     {
-      "Action": "Does not physically resist or attempt to escape when held at knife point, relying instead on external help.",
-      "Competence": 0,
-      "Chunk": 64
-    },
-    {
-      "Action": "Runs over to Gretchen after the crash and urgently tries to wake her up.",
-      "Warmth": 1,
-      "Chunk": 65
-    },
-    {
-      "Action": "Shows shocked horror upon realizing Gretchen is dead.",
-      "Warmth": 1,
-      "Chunk": 65
-    },
-    {
-      "Action": "Regains his breath and immediately runs to Gretchen's side, kneeling down and trying to wake her up.",
-      "Competence": 1,
-      "Chunk": 65
-    },
-    {
-      "Action": "Slowly nods his head in shock and horror upon realizing Gretchen is dead.",
-      "Competence": 0,
-      "Chunk": 65
-    },
-    {
-      "Action": "Calmly tells others to go home and reassure their parents that everything will be fine after shooting Frank.",
-      "Warmth": 1,
-      "Chunk": 66
-    },
-    {
-      "Action": "Carries Gretchen home after traumatic events.",
-      "Warmth": 1,
-      "Chunk": 66
-    },
-    {
-      "Action": "Leans down and gives Elizabeth a kiss on the forehead while she is asleep.",
-      "Warmth": 1,
-      "Chunk": 66
-    },
-    {
-      "Action": "Shoots Frank in the head, killing him.",
-      "Warmth": -1,
-      "Chunk": 66
-    },
-    {
-      "Action": "Calmly shoots Frank in a moment of shock and confusion.",
-      "Competence": 0,
-      "Chunk": 66
-    },
-    {
-      "Action": "Tells others to go home and reassure their parents calmly after a violent event.",
-      "Competence": 1,
-      "Chunk": 66
-    },
-    {
-      "Action": "Carries Gretchen home and shows care by kissing Elizabeth on the forehead.",
-      "Competence": 1,
-      "Chunk": 66
-    },
-    {
-      "Action": "Appears in shock and feeling sick after traumatic events.",
-      "Competence": 0,
-      "Chunk": 66
-    },
-    {
-      "Action": "Takes Gretchen's hand before getting into the car.",
-      "Warmth": 1,
-      "Chunk": 67
-    },
-    {
-      "Action": "Sits quietly on the car roof, smiling and smoking while looking out at the canyon.",
-      "Warmth": 0,
-      "Chunk": 67
-    },
-    {
-      "Action": "Sits calmly on the car roof early in the morning, reflecting and counting down time with a smile, showing awareness and composure.",
-      "Competence": 1,
-      "Chunk": 67
-    },
-    {
-      "Action": "Lights a cigarette and smiles while staring out at the canyon, indicating a relaxed and confident demeanor.",
-      "Competence": 1,
-      "Chunk": 67
-    },
-    {
-      "Action": "Takes Gretchen's hand before getting into the car, showing emotional awareness and confidence in social interaction.",
-      "Competence": 1,
-      "Chunk": 67
-    },
-    {
-      "Action": "Laughs hysterically upon waking up just before a catastrophic event.",
-      "Competence": 0,
-      "Chunk": 68
-    },
-    {
-      "Action": "Is fatally impaled by a wooden beam after a jet engine crashes through his room.",
+      "Action": "Remains almost silent and does not attempt to physically resist or escape while being threatened with a knife.",
       "Competence": -1,
+      "Chunk": 64
+    },
+    {
+      "Action": "Kneels down next to Gretchen after the accident and urgently tries to wake her up.",
+      "Warmth": 1,
+      "Chunk": 65
+    },
+    {
+      "Action": "Shows shocked horror and grief upon realizing Gretchen is dead.",
+      "Warmth": 1,
+      "Chunk": 65
+    },
+    {
+      "Action": "Raises a gun calmly, shoots Frank decisively to stop threat.",
+      "Competence": 1,
+      "Chunk": 66
+    },
+    {
+      "Action": "Tells Sean and Ronald to \"Go home\" calmly, demonstrating control after chaos.",
+      "Competence": 1,
+      "Chunk": 66
+    },
+    {
+      "Action": "Seems shocked and disoriented after shooting Frank, showing emotional impact.",
+      "Competence": 0,
+      "Chunk": 66
+    },
+    {
+      "Action": "Carries Gretchen home after events, showing responsible behavior.",
+      "Competence": 1,
+      "Chunk": 66
+    },
+    {
+      "Action": "Feels sick and hesitant before driving off with Gretchen, indicating vulnerability.",
+      "Competence": 0,
+      "Chunk": 66
+    },
+    {
+      "Action": "Takes Gretchen's hand after stepping off the car roof.",
+      "Warmth": 1,
+      "Chunk": 67
+    },
+    {
+      "Action": "Sits calmly on the roof early in the morning, observing the surroundings and counts down time with a confident smile.",
+      "Competence": 1,
+      "Chunk": 67
+    },
+    {
+      "Action": "Takes Gretchen's hand and gets back into the car after contemplative observation, indicating thoughtful and deliberate behavior.",
+      "Competence": 1,
+      "Chunk": 67
+    },
+    {
+      "Action": "Finds himself fatally struck by a fallen jet engine while seemingly laughing hysterically moments before.",
+      "Competence": 0,
       "Chunk": 68
     }
   ]
