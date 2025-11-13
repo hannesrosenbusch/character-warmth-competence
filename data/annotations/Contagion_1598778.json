@@ -1,494 +1,823 @@
 {
   "Mitch Emhoff": [
     {
-      "Action": "Gently inquires about Clark's wellbeing and expresses concern with affectionate language ('Hey there kiddo. Not feeling too well?')",
-      "Warmth": 1,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "Greets Clark with concern and gentle words: 'Hey there kiddo. Not feeling too well?'",
+      "assessment": "Mitch shows a caring and affectionate attitude toward his stepson, indicating warmth and attentiveness.",
+      "rating": 3,
+      "chunk": 4
     },
     {
-      "Action": "Tries to comfort Clark by mentioning the family is going through the illness together and plans to care for them ('Let’s go get you and Mom some soup and beat this thing down before Turkey Day.')",
-      "Warmth": 1,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "Reassures Clark by making light of the illness and suggesting they get soup to 'beat this thing down before Turkey Day.'",
+      "assessment": "This action reflects a nurturing and optimistic approach, aiming to comfort and support his family during illness.",
+      "rating": 3,
+      "chunk": 4
     },
     {
-      "Action": "Presents himself clearly and identifies his relationship to Clark to school staff in a straightforward manner.",
-      "Competence": 1,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "Introduces himself to the school administrative assistant as Clark's stepfather and promptly follows to check on Clark.",
+      "assessment": "Shows responsibility and sincere concern for his stepson's wellbeing, indicating trustworthiness and involvement.",
+      "rating": 2,
+      "chunk": 4
     },
     {
-      "Action": "Responds to Clark’s illness with comforting words and plans to care for him and his mother by getting soup and trying to help them recover.",
-      "Competence": 1,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "Goes promptly to the school to check on his sick stepson Clark and engages with the nurse to understand Clark's condition.",
+      "assessment": "This shows responsible and proactive behavior, indicating attentiveness and a practical approach to family health concerns.",
+      "rating": 2,
+      "chunk": 4
     },
     {
-      "Action": "Expresses concern for Clark, offers comfort by suggesting he curl up with his mom, acknowledges the 'sick ward' situation with some humor.",
-      "Warmth": 1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Comforts Clark with a lighthearted comment about the illness spreading through the family and suggests getting soup to help recover.",
+      "assessment": "This demonstrates emotional intelligence and a calm, reassuring demeanor, which are aspects of competent caregiving.",
+      "rating": 2,
+      "chunk": 4
     },
     {
-      "Action": "Encourages Beth to sit down and stay calm when she begins to have seizures, takes charge by calling 911, and instructs his child Clarky to stay in his room until he comes to get him.",
-      "Warmth": 1,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Notices Beth is unwell and immediately comes to her side, instructing her to sit down and checking on her condition.",
+      "assessment": "Mitch shows attentiveness and concern for Beth's wellbeing, indicating care and sincerity.",
+      "rating": 3,
+      "chunk": 7
     },
     {
-      "Action": "Quickly assesses Beth’s condition, tells her to sit down, recognizes seizure symptoms, instructs child to stay in room, calls 911 immediately.",
-      "Competence": 1,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Calmly instructs Clarky to stay in his room until he can come get him.",
+      "assessment": "This shows Mitch's protective nature and responsibility towards his family, reflecting trustworthiness and care.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Expresses worry and closely monitors Beth during her seizure and treatment, repeatedly calling her name and questioning what is happening.",
-      "Warmth": 1,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Dials 911 promptly when Beth begins to have a seizure.",
+      "assessment": "Taking immediate action in an emergency demonstrates Mitch's reliability and concern for others' safety.",
+      "rating": 3,
+      "chunk": 7
     },
     {
-      "Action": "Responds calmly and clearly to medical questions, providing honest information about Beth’s drug use and symptoms.",
-      "Warmth": 1,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Notices Beth's distress and confusion, approaches her calmly, and instructs her to sit down.",
+      "assessment": "This shows attentiveness and a calm demeanor in a stressful situation, indicating a baseline level of competence in handling emergencies.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Provides relevant medical history about Beth, such as her recent sore throat and denying drug use to the ER staff.",
-      "Competence": 1,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Recognizes Beth's seizure symptoms and immediately calls 911.",
+      "assessment": "This action demonstrates quick thinking and appropriate response to a medical emergency, reflecting competent and responsible behavior.",
+      "rating": 3,
+      "chunk": 7
     },
     {
-      "Action": "Shows visible confusion and distress by asking 'What's happening? What's going on?' during Beth's seizure.",
-      "Competence": -1,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Instructs Clarky to stay in his room until he can come get him.",
+      "assessment": "Shows presence of mind to protect the child from potential danger or confusion, indicating foresight and protective instincts.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Responds promptly and cooperatively with medical staff by answering their questions and following instructions to step outside.",
-      "Competence": 1,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Expresses concern and confusion about Beth's condition, repeatedly asking what is happening and trying to understand her symptoms.",
+      "assessment": "Mitch's attentive and worried behavior shows his care and emotional involvement, indicating a warm and protective nature toward his wife.",
+      "rating": 3,
+      "chunk": 8
     },
     {
-      "Action": "Calmly handles the discovery of a dead body by turning off the water, closing the door, and calling security discretely.",
-      "Competence": 1,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Answers medical staff's questions about Beth's recent health and medication honestly and calmly.",
+      "assessment": "His straightforward and cooperative communication with medical personnel reflects trustworthiness and sincerity.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Does not panic when confronted with crisis and follows an appropriate procedural response.",
-      "Competence": 1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Responds quickly to Beth's deteriorating condition by communicating with medical staff and providing relevant medical history (e.g., no recreational drug use, recent sore throat).",
+      "assessment": "This shows Mitch's ability to stay calm under pressure and provide useful information to aid diagnosis, indicating a moderate level of competence in crisis situations.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Engages in casual conversation about a hockey game while preparing to speak with a doctor, showing balance between composure and focus.",
-      "Competence": 1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Appears confused and distressed, repeatedly asking 'What’s happening? What’s going on?' during Beth's seizures.",
+      "assessment": "While emotional distress is understandable, this suggests a limited ability to manage the situation calmly or take control, reflecting a slight lack of competence in handling medical emergencies.",
+      "rating": -1,
+      "chunk": 8
     },
     {
-      "Action": "Collapses in the hallway holding his head, visibly overwhelmed by the news.",
-      "Warmth": 1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Searches Beth’s pupils for signs of injury or illness when she is seizing.",
+      "assessment": "This indicates some basic knowledge or instinctive response to assess her condition, which is a positive indicator of competence.",
+      "rating": 1,
+      "chunk": 8
     },
     {
-      "Action": "Engages calmly and openly with medical staff, attempting to understand the situation.",
-      "Warmth": 1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Mitch calmly tells Clark to keep watching the hockey game while he goes to talk to the doctor about Beth's condition.",
+      "assessment": "This shows Mitch's ability to manage his emotions and delegate attention appropriately in a stressful situation, indicating a level of calmness and practical focus.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Mentions the biological father and considers the boy's well-being amidst the tragedy.",
-      "Warmth": 1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Mitch does not appear in the hotel scene investigating the death or taking initiative; the focus is on the Concierge and Maid.",
+      "assessment": "Mitch's absence or non-involvement in this critical moment could suggest a lack of proactive engagement or leadership in crisis situations, though this may be due to narrative focus rather than character failure.",
+      "rating": -1,
+      "chunk": 9
     },
     {
-      "Action": "Squats in the hallway and holds his head, overwhelmed by the news.",
-      "Competence": -1,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Squats in the hallway holding his head, visibly overwhelmed by the news of his wife's death.",
+      "assessment": "His physical collapse and visible distress show his deep emotional connection and sincere grief, indicating genuine care and warmth.",
+      "rating": 3,
+      "chunk": 10
     },
     {
-      "Action": "Asks questions to the doctor to try to understand what happened.",
-      "Competence": 1,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Engages with the social worker and ER doctor, trying to understand what happened to his wife and discussing arrangements for his stepson.",
+      "assessment": "His concern for his stepson's welfare and willingness to seek help reflect responsibility and care, demonstrating warmth and trustworthiness.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Mentions his wife’s symptoms and recent business trip, attempting to piece together information.",
-      "Competence": 1,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Mentions the biological father living in Duluth as a potential guardian for his stepson.",
+      "assessment": "Shows practical concern for the child's well-being, indicating tolerance and a responsible, caring attitude.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Expresses confusion and repeatedly says 'I don't understand,' showing difficulty processing the situation.",
-      "Competence": -1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Upon hearing the devastating news, Mitch Emhoff collapses emotionally, squats in the hallway, and holds his head, expressing confusion and disbelief.",
+      "assessment": "This reaction shows a natural human emotional response to trauma but suggests a momentary inability to process or manage the crisis effectively, indicating a temporary lapse in emotional resilience and situational control.",
+      "rating": -1,
+      "chunk": 10
     },
     {
-      "Action": "Briefly pauses before putting on a surgical mask when medical staff appear, indicating awareness of protocol.",
-      "Competence": 1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Engages with the social worker and ER doctor by asking questions about the cause of his wife’s death and possible next steps, including mentioning the biological father for the child’s care.",
+      "assessment": "This shows that despite his emotional distress, Mitch attempts to gather information and consider practical arrangements, reflecting a baseline level of situational awareness and responsibility.",
+      "rating": 1,
+      "chunk": 10
     },
     {
-      "Action": "Shrugs when asked about open chemicals, showing lack of detailed knowledge or consideration about possible contamination sources.",
-      "Competence": 0,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Expresses confusion and repeatedly states 'I don’t understand' regarding the medical explanations and cause of death.",
+      "assessment": "While understandable given the complexity of the situation, this indicates a limited grasp of medical information and possibly difficulty in processing complex or ambiguous information under stress.",
+      "rating": 0,
+      "chunk": 10
     },
     {
-      "Action": "Focuses on calling his daughter’s mother and making funeral arrangements despite being in isolation, demonstrating prioritization of family responsibilities in crisis.",
-      "Competence": 1,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "Requests to call his daughter’s mother to check on her safety and well-being.",
+      "assessment": "Shows concern for his daughter’s welfare despite his own distress, indicating care and responsibility.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Does not question the medical procedures or ask for more information about his condition; remains somewhat passive in isolation.",
-      "Competence": 0,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "Sits alone in isolation, despondent over the loss of his wife and stepson.",
+      "assessment": "His grief and shock reveal his emotional depth and attachment to family, reflecting sincere and genuine feelings.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Nods and gets the phone out of the plastic bag when asked to call the funeral home despite not knowing the number.",
-      "Competence": 1,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Shrugs when asked about chemicals in the house that might have affected his family.",
+      "assessment": "The shrug may indicate resignation or emotional numbness rather than indifference, but it also suggests a lack of proactive engagement at this moment.",
+      "rating": 0,
+      "chunk": 14
     },
     {
-      "Action": "Puts on a brave front for his daughter despite his fear and loss.",
-      "Warmth": 1,
-      "Chunk": 19
+      "trait": "warmth",
+      "action": "Expresses frustration and confusion about why he is not sick while his family is.",
+      "assessment": "This shows vulnerability and honesty, but also a self-focused moment that may reflect his shock rather than warmth.",
+      "rating": 0,
+      "chunk": 14
     },
     {
-      "Action": "Makes a light joke about needing to 'shoot the plate and fork into space' after eating pumpkin pie sent from his wife.",
-      "Warmth": 1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Pulls a surgical mask over his face when medical staff appear, complying with isolation protocols.",
+      "assessment": "This shows awareness and willingness to follow safety procedures, indicating a basic level of competence in a crisis situation.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Shrugs off explaining what happened, shows some emotional reserve or detachment.",
-      "Warmth": 0,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Asks for his cell phone to contact his daughter and make funeral arrangements despite being in isolation and under stress.",
+      "assessment": "Demonstrates presence of mind and prioritization of important personal matters, reflecting emotional resilience and practical thinking.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Answers his daughter's worried questions sincerely and attempts to reassure her that he is fine.",
-      "Warmth": 1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Shrugs off the ER doctor's question about chemicals in the house without providing useful information.",
+      "assessment": "This non-committal response may indicate a lack of attention to detail or insufficient cooperation, which could hinder investigation efforts.",
+      "rating": -1,
+      "chunk": 14
     },
     {
-      "Action": "Fights through fear and loss to put on a brave front for his daughter, tries to reassure her despite uncertainty.",
-      "Competence": 1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Expresses confusion and frustration about why his wife and stepson are sick but not him.",
+      "assessment": "While understandable emotionally, this suggests some difficulty in processing the situation logically or accepting uncertainty, which may limit effective decision-making.",
+      "rating": 0,
+      "chunk": 14
     },
     {
-      "Action": "Admits lack of knowledge about immunity and disease details, acknowledging limits to current scientific understanding.",
-      "Competence": 1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Nods and retrieves the phone from a plastic bag when asked to call the funeral home.",
+      "assessment": "This shows a willingness to comply with difficult requests under emotional stress, but his immediate admission that he does not know the funeral home's number suggests a lack of preparedness or prior knowledge for handling such logistics.",
+      "rating": 0,
+      "chunk": 15
     },
     {
-      "Action": "Shrugs when asked what happened, showing limited communication or explanation about the situation.",
-      "Competence": 0,
-      "Chunk": 19
+      "trait": "warmth",
+      "action": "Fights through fear and loss to put on a brave front for his daughter Jory.",
+      "assessment": "Despite his own fear and grief, Mitch tries to protect and comfort his daughter by staying strong and reassuring her.",
+      "rating": 3,
+      "chunk": 19
     },
     {
-      "Action": "Makes a joke about needing to shoot the plate and fork into space, possibly using humor to cope with stress.",
-      "Competence": 0,
-      "Chunk": 19
+      "trait": "warmth",
+      "action": "Engages in a gentle, informative conversation with Jory about quarantine and the illness.",
+      "assessment": "Mitch patiently explains difficult concepts to his daughter, showing care and a desire to keep her informed without causing undue alarm.",
+      "rating": 2,
+      "chunk": 19
     },
     {
-      "Action": "Patiently agrees to wait a few days after temperature normalizes to avoid infecting others.",
-      "Warmth": 1,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Makes a lighthearted joke about needing to shoot the plate and fork into space after eating the pie.",
+      "assessment": "His humor in a tense situation helps ease the mood and shows warmth and approachability.",
+      "rating": 2,
+      "chunk": 19
     },
     {
-      "Action": "Shows a smile under the mask and engages in light-hearted exchange with Jory.",
-      "Warmth": 1,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Shrugs when Jory asks what happened, showing some emotional reserve.",
+      "assessment": "His reluctance to fully explain the tragedy may indicate difficulty in expressing vulnerability, which slightly limits warmth.",
+      "rating": 0,
+      "chunk": 19
     },
     {
-      "Action": "Complies with health protocols by agreeing to wait several days after his temperature normalizes before leaving, showing responsibility and understanding of contagion risks.",
-      "Competence": 1,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Fights through fear and loss to put on a brave front for his daughter Jory.",
+      "assessment": "This shows emotional resilience and an ability to manage his own feelings to support others, indicating emotional competence and strength under pressure.",
+      "rating": 2,
+      "chunk": 19
     },
     {
-      "Action": "Shows some lightheartedness and reassurance by smiling beneath his mask and expressing optimism about returning to normal, indicating emotional steadiness.",
-      "Competence": 1,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Explains the difference between quarantine and isolation to Jory, albeit with some skepticism.",
+      "assessment": "He demonstrates a basic understanding of the situation and communicates it to his daughter, though his dismissal of the distinction suggests some uncertainty or lack of detailed knowledge.",
+      "rating": 1,
+      "chunk": 19
     },
     {
-      "Action": "Provides clear information to health authorities and answers questions patiently despite difficult circumstances.",
-      "Warmth": 1,
-      "Chunk": 24
+      "trait": "competence",
+      "action": "Responds to Jory's questions about immunity and the disease with honesty about the limits of current knowledge.",
+      "assessment": "Shows intellectual honesty and realistic appraisal of the situation, indicating thoughtful and careful communication rather than speculation.",
+      "rating": 2,
+      "chunk": 19
     },
     {
-      "Action": "Describes his wife with a hint of judgment calling her a 'food snob'.",
-      "Warmth": -1,
-      "Chunk": 24
+      "trait": "competence",
+      "action": "Shrugs when asked what happened to the sick people.",
+      "assessment": "This nonverbal response may indicate emotional overwhelm or lack of detailed information, suggesting some limits in his ability to process or convey complex information under stress.",
+      "rating": 0,
+      "chunk": 19
     },
     {
-      "Action": "Provides detailed and relevant information to health officials, including his wife's itinerary and credit card receipts promptly.",
-      "Competence": 1,
-      "Chunk": 24
+      "trait": "competence",
+      "action": "Makes a darkly humorous comment about needing to shoot the plate and fork into space after eating the pie.",
+      "assessment": "This shows an attempt to maintain morale and use humor to cope, which can be a sign of psychological competence in crisis, though it does not directly reflect practical skill.",
+      "rating": 1,
+      "chunk": 19
     },
     {
-      "Action": "Appears calm and communicative during the interview despite being in isolation.",
-      "Competence": 1,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Explains to Jory that he must wait a few days after his temperature returns to normal to ensure he can't infect anyone else.",
+      "assessment": "Mitch shows consideration and responsibility toward others by acknowledging the need to prevent spreading illness.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Does not anticipate or volunteer additional important information about possible exposures beyond what is asked.",
-      "Competence": 0,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Smiles underneath the mask when Jory says he has never been normal.",
+      "assessment": "His smile suggests a warm, affectionate connection with Jory, indicating friendliness and sincerity.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Genuinely concerned about tracing the source of infection to protect his family and understand the situation.",
-      "Warmth": 1,
-      "Chunk": 25
+      "trait": "warmth",
+      "action": "Engages in a quiet, intimate moment with Jory as she lies across his feet on the bed.",
+      "assessment": "This physical closeness and comfort with Jory reflects trust and a warm, caring relationship.",
+      "rating": 3,
+      "chunk": 20
     },
     {
-      "Action": "Shows frustration and anger but primarily as a response to uncertainty and threat, indicating sincerity rather than coldness.",
-      "Warmth": 1,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Agrees to wait a few days after his temperature returns to normal before leaving, to ensure he cannot infect others.",
+      "assessment": "This shows responsible and cautious behavior, indicating awareness and understanding of contagion risks, reflecting competent decision-making.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Maintains composure to answer questions and cooperate with authorities despite the stress.",
-      "Warmth": 1,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Responds to Jory's comment about never being normal with a calm smile and a hopeful statement about returning to normal.",
+      "assessment": "This demonstrates emotional resilience and a composed demeanor under stress, which are aspects of competent behavior in crisis situations.",
+      "rating": 1,
+      "chunk": 20
     },
     {
-      "Action": "Provides health department with itinerary and credit card receipts proactively.",
-      "Competence": 1,
-      "Chunk": 25
+      "trait": "warmth",
+      "action": "Describes his wife’s symptoms and travel details to the health authorities calmly and cooperatively.",
+      "assessment": "Mitch shows a responsible and sincere attitude by providing detailed information to help with the investigation, indicating trustworthiness and concern.",
+      "rating": 2,
+      "chunk": 24
     },
     {
-      "Action": "Gathers information about possible infection sources, asks detailed questions about wife’s movements and connections.",
-      "Competence": 1,
-      "Chunk": 25
+      "trait": "warmth",
+      "action": "Mentions that his wife was a 'food snob' and unlikely to eat street food.",
+      "assessment": "This comment is factual but slightly dismissive of his wife's choices; it shows a degree of frankness but little warmth or empathy in this moment.",
+      "rating": 0,
+      "chunk": 24
     },
     {
-      "Action": "Expresses anger at investigators but still insists on knowing details to understand the situation.",
-      "Competence": 0,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Provides detailed information to the Health Department, including his wife's itinerary and credit card receipts.",
+      "assessment": "This action shows Mitch's ability to cooperate with authorities and provide useful, concrete information promptly, indicating responsible and capable behavior.",
+      "rating": 2,
+      "chunk": 24
     },
     {
-      "Action": "Seems unaware initially of wife’s layover details, indicating a possible gap in information gathering.",
-      "Competence": 0,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Describes his wife's symptoms and travel history calmly and clearly during the interview.",
+      "assessment": "His clear communication and composure under pressure suggest a level of intelligence and confidence in handling a stressful situation.",
+      "rating": 2,
+      "chunk": 24
     },
     {
-      "Action": "Searches with his daughter for protective masks and tries to find the safest option for her, explaining the use of masks in Japan calmly.",
-      "Warmth": 1,
-      "Chunk": 43
+      "trait": "competence",
+      "action": "Mentions his wife's food preferences to rule out certain infection vectors.",
+      "assessment": "This shows attention to detail and an understanding of relevant factors in disease transmission, reflecting thoughtful and skillful reasoning.",
+      "rating": 2,
+      "chunk": 24
     },
     {
-      "Action": "Asks multiple stores about protective masks, tries different options, demonstrates resourcefulness and concern for safety.",
-      "Competence": 1,
-      "Chunk": 43
+      "trait": "competence",
+      "action": "No indication of panic or confusion despite the serious situation.",
+      "assessment": "Maintaining calmness in a crisis is a sign of emotional competence and confidence, which supports his overall competence.",
+      "rating": 2,
+      "chunk": 24
     },
     {
-      "Action": "Accepts lack of stock without complaint while continuing to inquire, shows persistence and practical problem-solving.",
-      "Competence": 1,
-      "Chunk": 43
+      "trait": "warmth",
+      "action": "Expresses concern about the source of the infection and wants to understand if Josh Neal, his wife's former partner, is sick and if they contracted the virus from him.",
+      "assessment": "Mitch's desire to understand the situation and protect his family shows a responsible and caring attitude, indicating a protective warmth toward loved ones.",
+      "rating": 2,
+      "chunk": 25
     },
     {
-      "Action": "Asks the sales clerk for practical supplies like flashlight, duct tape, and water purification tablets when masks are sold out.",
-      "Competence": 1,
-      "Chunk": 44
+      "trait": "warmth",
+      "action": "Shows rising anger at the prospect of someone to blame for the infection.",
+      "assessment": "While anger can be a natural response, his focus on blame may indicate frustration and defensiveness rather than calm warmth; this slightly detracts from his overall warmth.",
+      "rating": -1,
+      "chunk": 25
     },
     {
-      "Action": "Hesitates before opening the door to a stranger.",
-      "Warmth": 1,
-      "Chunk": 51
+      "trait": "competence",
+      "action": "Provides the Health Department with his wife's itinerary and credit card receipts promptly.",
+      "assessment": "This action shows a responsible and cooperative attitude, indicating a practical approach to assisting the investigation.",
+      "rating": 2,
+      "chunk": 25
     },
     {
-      "Action": "Hesitates to open the door to a stranger and questions his identity before letting him in.",
-      "Competence": 1,
-      "Chunk": 51
+      "trait": "competence",
+      "action": "Expresses confusion and seeks information about potential exposure in Chicago after learning new details.",
+      "assessment": "His willingness to ask questions and seek clarity demonstrates situational awareness and a desire to understand the risks, reflecting competent behavior.",
+      "rating": 2,
+      "chunk": 25
     },
     {
-      "Action": "Considers the offer cautiously and evaluates the situation with awareness of surroundings (e.g., noticing the town car), showing prudent judgment.",
-      "Competence": 1,
-      "Chunk": 51
+      "trait": "competence",
+      "action": "Reveals personal knowledge about his wife's past relationship with Josh Neal when questioned.",
+      "assessment": "Sharing relevant personal information shows transparency and helps the investigation, indicating responsible and intelligent behavior.",
+      "rating": 2,
+      "chunk": 25
     },
     {
-      "Action": "Considers a non-disclosure agreement carefully before engaging with Booth about antibody discussion.",
-      "Warmth": 0,
-      "Chunk": 52
+      "trait": "competence",
+      "action": "Displays rising anger at the prospect of someone to blame for the infection.",
+      "assessment": "While understandable emotionally, this reaction may cloud judgment and reduce his ability to respond calmly and effectively, suggesting a slight dip in competence.",
+      "rating": -1,
+      "chunk": 25
     },
     {
-      "Action": "Considers legal implications carefully by reading a non-disclosure agreement before engaging with Booth.",
-      "Competence": 1,
-      "Chunk": 52
+      "trait": "competence",
+      "action": "Goes to the school to pick up his son despite the risk of infection.",
+      "assessment": "This action shows dedication and courage, but also potential recklessness if proper precautions are not taken, indicating mixed competence.",
+      "rating": 0,
+      "chunk": 25
     },
     {
-      "Action": "Questions Booth clearly and displays awareness about what is being asked (questions the million-dollar offer).",
-      "Competence": 1,
-      "Chunk": 52
+      "trait": "warmth",
+      "action": "Searches for protective masks with his daughter Jory and tries to find a way to keep her safe.",
+      "assessment": "Mitch's effort to find protective masks shows his concern and care for his daughter's well-being, indicating a protective and caring nature.",
+      "rating": 3,
+      "chunk": 43
     },
     {
-      "Action": "Considers selling his blood for a large sum but refuses to negotiate beyond fair terms and does not exploit the situation.",
-      "Warmth": 1,
-      "Chunk": 53
+      "trait": "warmth",
+      "action": "Explains to Jory that people in Japan wear masks all the time, trying to normalize the behavior and reassure her.",
+      "assessment": "By trying to normalize mask-wearing and reassure his daughter, Mitch demonstrates patience and a gentle approach to easing her fears.",
+      "rating": 2,
+      "chunk": 43
     },
     {
-      "Action": "Asks if an additional dose could be made for others, indicating concern beyond himself.",
-      "Warmth": 1,
-      "Chunk": 53
+      "trait": "competence",
+      "action": "Asks the sales clerk about N-95 masks and alternative protective masks, showing knowledge of protective equipment and persistence in trying multiple stores.",
+      "assessment": "This action indicates that Emhoff is proactive, resourceful, and somewhat knowledgeable about protective measures, reflecting a competent approach to safeguarding his family.",
+      "rating": 2,
+      "chunk": 43
     },
     {
-      "Action": "Considers the offer to sell his blood carefully and asks pertinent questions about the client and conditions.",
-      "Competence": 1,
-      "Chunk": 53
+      "trait": "competence",
+      "action": "Accepts the sales clerk's suggestion to look for masks in a different aisle and follows up on alternative options.",
+      "assessment": "This shows flexibility and willingness to listen to advice, which are positive indicators of competence.",
+      "rating": 1,
+      "chunk": 43
     },
     {
-      "Action": "Attempts to negotiate for more doses despite restrictions, showing awareness of the value but accepts the limitations.",
-      "Competence": 1,
-      "Chunk": 53
+      "trait": "competence",
+      "action": "Does not give up despite multiple stores being out of masks, continuing to search for protective gear.",
+      "assessment": "Persistence in the face of obstacles demonstrates practical competence and determination.",
+      "rating": 2,
+      "chunk": 43
     },
     {
-      "Action": "Weighs options and ultimately declines the blood-selling deal, indicating thoughtful decision-making rather than impulsiveness.",
-      "Competence": 1,
-      "Chunk": 53
+      "trait": "competence",
+      "action": "Engages his daughter Jory in conversation about mask-wearing and immunity.",
+      "assessment": "This shows emotional intelligence and an attempt to educate or reassure, which complements his practical competence.",
+      "rating": 1,
+      "chunk": 43
     },
     {
-      "Action": "Pleads urgently to get his daughter out of quarantine area, insists they're not sick, shows concern for family safety and well-being.",
-      "Warmth": 1,
-      "Chunk": 56
+      "trait": "competence",
+      "action": "Asks the sales clerk for a flashlight, duct tape, and water purification tablets after masks are sold out.",
+      "assessment": "This action shows foresight and practical preparedness, indicating that Mitch is thinking ahead about survival needs beyond just masks, which suggests a competent and resourceful mindset.",
+      "rating": 2,
+      "chunk": 44
     },
     {
-      "Action": "Disregards official quarantine rules and guards' instructions, confrontational behavior at checkpoint.",
-      "Warmth": -1,
-      "Chunk": 56
+      "trait": "warmth",
+      "action": "Hesitates to open the door to an unknown man who claims to be a lawyer.",
+      "assessment": "Mitch's hesitation to open the door to a stranger suggests caution and protectiveness, which can be seen as a sign of care for his household's safety, reflecting a responsible and trustworthy nature.",
+      "rating": 2,
+      "chunk": 51
     },
     {
-      "Action": "Attempts to reason calmly and assertively with the guardsman to cross the quarantine checkpoint to get his daughter to safety, explaining that they are not sick and have family and resources in Wisconsin.",
-      "Competence": 1,
-      "Chunk": 56
+      "trait": "competence",
+      "action": "Hesitates to open the door to an unknown man who claims to be a lawyer.",
+      "assessment": "This hesitation shows caution and awareness of potential risks, indicating a prudent and careful approach rather than impulsiveness.",
+      "rating": 2,
+      "chunk": 51
     },
     {
-      "Action": "Exits the car to speak directly with the guardsman and tries to insist on his case despite the tense situation and risks.",
-      "Competence": 1,
-      "Chunk": 56
+      "trait": "competence",
+      "action": "Engages in conversation with the visitor to clarify identity and purpose before allowing entry.",
+      "assessment": "This behavior reflects a level of assertiveness and control over his environment, demonstrating situational awareness and good judgment.",
+      "rating": 2,
+      "chunk": 51
     },
     {
-      "Action": "Fails to effectively persuade the guardsman or find a workaround to get through the quarantine, ultimately being ordered back to the car and threatened with arrest.",
-      "Competence": -1,
-      "Chunk": 56
+      "trait": "warmth",
+      "action": "Considers Booth's request about selling his antibodies but remains cautious and thoughtful.",
+      "assessment": "Mitch's careful consideration of the request shows a responsible and sincere approach, indicating trustworthiness and a protective attitude toward his own wellbeing and possibly others.",
+      "rating": 2,
+      "chunk": 52
     },
     {
-      "Action": "Walks toward a distressed woman struggling on the ice and offers help despite her mistrust.",
-      "Warmth": 1,
-      "Chunk": 61
+      "trait": "warmth",
+      "action": "Engages in a business-like conversation with Booth about the value of his blood.",
+      "assessment": "While the interaction is pragmatic, Mitch does not display hostility or coldness; he remains straightforward and open to dialogue, which suggests a baseline of sincerity and respect.",
+      "rating": 1,
+      "chunk": 52
     },
     {
-      "Action": "Shares personal information to build trust (mentions daughter and that they are fine).",
-      "Warmth": 1,
-      "Chunk": 61
+      "trait": "competence",
+      "action": "Considers the non-disclosure agreement carefully before responding to Booth's proposal.",
+      "assessment": "This shows that Emhoff is cautious and thoughtful about legal and business matters, indicating a level of intelligence and prudence.",
+      "rating": 2,
+      "chunk": 52
     },
     {
-      "Action": "Shouts questions toward other fishermen but receives no answer; could indicate trying to connect but no response.",
-      "Warmth": 0,
-      "Chunk": 61
+      "trait": "competence",
+      "action": "Questions Booth about the offer to buy his antibodies and the value of his blood.",
+      "assessment": "By directly engaging and clarifying the terms, Emhoff demonstrates assertiveness and an understanding of his own worth, reflecting confidence and skill in negotiation.",
+      "rating": 2,
+      "chunk": 52
     },
     {
-      "Action": "Gets down on the ground with matches to try to light a fire in a cold, dark house.",
-      "Warmth": 1,
-      "Chunk": 63
+      "trait": "competence",
+      "action": "Does not immediately accept or reject Booth's offer, instead weighing the implications.",
+      "assessment": "This measured response suggests Emhoff is not impulsive and is capable of strategic thinking.",
+      "rating": 2,
+      "chunk": 52
     },
     {
-      "Action": "Responds calmly to the Hatchet Woman's distress, putting his hand on her head to check her condition despite her shuddering at contact.",
-      "Warmth": 1,
-      "Chunk": 63
+      "trait": "warmth",
+      "action": "Asks if the blood buyers could make one more dose for his daughter, despite the offer being limited and confidential.",
+      "assessment": "This shows Mitch’s concern and protective nature toward his daughter, indicating sincere care and willingness to help others beyond personal gain.",
+      "rating": 3,
+      "chunk": 53
     },
     {
-      "Action": "Considers admitting his immunity but decides against it, concealing potentially helpful information out of caution.",
-      "Warmth": 0,
-      "Chunk": 63
+      "trait": "warmth",
+      "action": "Considers the offer to sell his blood for a million dollars but ultimately does not make a deal.",
+      "assessment": "His hesitation and refusal to immediately accept the offer may reflect a thoughtful and cautious approach, possibly valuing ethical considerations over money, which can be seen as trustworthy and principled.",
+      "rating": 2,
+      "chunk": 53
     },
     {
-      "Action": "Gets down on the ground with a book of matches to relight the pilot light in a dangerous environment.",
-      "Competence": 1,
-      "Chunk": 63
+      "trait": "competence",
+      "action": "Considers the offer to sell his blood for a million dollars and asks if more doses could be made for others, showing concern for others beyond himself.",
+      "assessment": "This indicates thoughtful consideration and a protective attitude, suggesting emotional intelligence and a degree of strategic thinking, though he ultimately declines the offer.",
+      "rating": 2,
+      "chunk": 53
     },
     {
-      "Action": "Questions the presence of another person in the house and quickly reacts by sitting up and responding to a groan and cough, showing alertness.",
-      "Competence": 1,
-      "Chunk": 63
+      "trait": "competence",
+      "action": "Declines the blood sale deal after weighing options.",
+      "assessment": "This shows prudent judgment and caution in a high-pressure situation, reflecting good decision-making skills and self-control.",
+      "rating": 2,
+      "chunk": 53
     },
     {
-      "Action": "Assesses the woman's condition by feeling her head and asking for a thermometer instead of making assumptions.",
-      "Competence": 1,
-      "Chunk": 63
+      "trait": "warmth",
+      "action": "Yells at the guardsman at the quarantine checkpoint, insisting he wants to get his daughter out because they are not sick and need medical care and food.",
+      "assessment": "Emhoff's insistence on getting his daughter to safety and medical care shows his protective and caring nature, indicating warmth through concern for family wellbeing.",
+      "rating": 2,
+      "chunk": 56
     },
     {
-      "Action": "Considers admitting his immunity but decides against it, showing cautious judgment about sharing sensitive information.",
-      "Competence": 1,
-      "Chunk": 63
+      "trait": "warmth",
+      "action": "Gets out of the car and argues with the guardsman despite the risk of arrest, pleading for his daughter's safety.",
+      "assessment": "His willingness to confront authority and risk arrest to protect his daughter demonstrates sincere dedication and trustworthiness as a caregiver, reflecting positive warmth.",
+      "rating": 2,
+      "chunk": 56
     },
     {
-      "Action": "Allows the hatchet woman to grab him despite known health risks, indicating a potential lapse in personal safety awareness.",
-      "Competence": -1,
-      "Chunk": 63
+      "trait": "competence",
+      "action": "Attempts to argue with the National Guard at the quarantine checkpoint to get his daughter out, insisting they are not sick and pleading for access to medical care and family support.",
+      "assessment": "This shows Emhoff's determination and willingness to advocate for his family under stressful conditions, but also a lack of understanding or acceptance of the quarantine protocols, which limits his effectiveness in this situation.",
+      "rating": 0,
+      "chunk": 56
     },
     {
-      "Action": "Decides to help with the water deliveries at the park despite the risks.",
-      "Warmth": 1,
-      "Chunk": 69
+      "trait": "competence",
+      "action": "Gets out of the car to engage directly with the guardsman despite the tense environment and official orders.",
+      "assessment": "This action demonstrates courage and proactive behavior, indicating he is not passive in crisis, but it also risks escalating conflict and may be seen as imprudent given the strict quarantine enforcement.",
+      "rating": 1,
+      "chunk": 56
     },
     {
-      "Action": "Apologizes to Jory for not preparing the iPhone picture earlier and makes a comforting promise to spend time with her.",
-      "Warmth": 1,
-      "Chunk": 69
+      "trait": "warmth",
+      "action": "Walks toward the struggling hatchet woman and asks if she is OK.",
+      "assessment": "Approaching a stranger in distress and offering help shows concern and a willingness to assist others, indicating warmth.",
+      "rating": 3,
+      "chunk": 61
     },
     {
-      "Action": "Decides to go outside and help with a supply drop at the park despite the epidemic situation, showing initiative and willingness to engage constructively.",
-      "Competence": 1,
-      "Chunk": 69
+      "trait": "warmth",
+      "action": "Offers to help the hatchet woman with her pilot light problem despite her mistrust.",
+      "assessment": "Offering practical help to someone in need, even when met with mistrust, reflects sincerity and good-naturedness.",
+      "rating": 3,
+      "chunk": 61
     },
     {
-      "Action": "Responds with regret about not preparing better for the phone shortage, indicating a momentary lapse in forethought or preparation.",
-      "Competence": -1,
-      "Chunk": 69
+      "trait": "warmth",
+      "action": "Mentions that he and his daughter are fine to the hatchet woman.",
+      "assessment": "Sharing personal information openly can build trust and shows a friendly, sincere attitude.",
+      "rating": 2,
+      "chunk": 61
     },
     {
-      "Action": "Steps in to stop a man with a baseball bat from attacking an older man during a food fight.",
-      "Warmth": 1,
-      "Chunk": 70
+      "trait": "warmth",
+      "action": "Shouts questions about bait to other fishermen on the ice.",
+      "assessment": "Attempting to communicate and engage with others in the community suggests friendliness, though the interaction is brief and somewhat functional.",
+      "rating": 1,
+      "chunk": 61
     },
     {
-      "Action": "Wipes spit off the aggressor’s bat and quietly takes some food, then leaves without escalating the situation.",
-      "Warmth": 1,
-      "Chunk": 70
+      "trait": "competence",
+      "action": "Observes the situation on the frozen lake, asks others about their bait, and listens carefully to the information shared by the hatchet woman about the dire conditions.",
+      "assessment": "This shows situational awareness and an attempt to gather useful information, indicating a thoughtful and attentive approach.",
+      "rating": 2,
+      "chunk": 61
     },
     {
-      "Action": "Intervenes to stop a man from attacking another with a baseball bat, defusing a potentially violent situation calmly and effectively.",
-      "Competence": 1,
-      "Chunk": 70
+      "trait": "competence",
+      "action": "Approaches the struggling hatchet woman and offers help despite her mistrust.",
+      "assessment": "This demonstrates social confidence and willingness to assist others in crisis, reflecting emotional intelligence and practical problem-solving readiness.",
+      "rating": 2,
+      "chunk": 61
     },
     {
-      "Action": "Collects a couple of MREs and leaves the conflict area without escalating the situation further.",
-      "Competence": 1,
-      "Chunk": 70
+      "trait": "competence",
+      "action": "Fails at breaking the ice initially but continues to engage with the environment and people around him.",
+      "assessment": "While the initial failure suggests some lack of physical skill or experience with ice fishing, his persistence and engagement mitigate this, showing moderate competence.",
+      "rating": 0,
+      "chunk": 61
     },
     {
-      "Action": "Administers vaccine confidently after recent training and personal experience with the disease.",
-      "Competence": 1,
-      "Chunk": 75
+      "trait": "warmth",
+      "action": "Enters the Hatchet Woman's house despite the obvious danger and poor conditions to check on her and her sick family member.",
+      "assessment": "This shows a willingness to help others in distress, indicating compassion and concern for others' wellbeing.",
+      "rating": 3,
+      "chunk": 63
     },
     {
-      "Action": "Explains the vaccination process clearly and calmly to the recipient, reassuring him that it's a simple procedure.",
-      "Competence": 1,
-      "Chunk": 75
+      "trait": "warmth",
+      "action": "Places his hand on the Hatchet Woman’s head to check her condition despite her shuddering at human contact.",
+      "assessment": "This physical gesture of comfort and care, even when met with resistance, reflects empathy and a sincere desire to help.",
+      "rating": 3,
+      "chunk": 63
     },
     {
-      "Action": "Gives Jory a thoughtful birthday present (a bass guitar and amplifier) showing attention to her interests.",
-      "Warmth": 1,
-      "Chunk": 81
+      "trait": "warmth",
+      "action": "Decides not to reveal his immunity to the virus to the Hatchet Woman.",
+      "assessment": "While possibly motivated by caution, withholding this information could be seen as a lack of openness or trust, which slightly detracts from warmth.",
+      "rating": -1,
+      "chunk": 63
     },
     {
-      "Action": "Offers to pick up the birthday present personally and tries to capture the moment with a camera.",
-      "Warmth": 1,
-      "Chunk": 81
+      "trait": "competence",
+      "action": "Enters a cold, dark house with Jory and the Hatchet Woman, assesses the situation calmly despite the grim environment.",
+      "assessment": "This shows a level of calmness and situational awareness, indicating competent behavior in a stressful and potentially dangerous environment.",
+      "rating": 2,
+      "chunk": 63
     },
     {
-      "Action": "Smiles warmly at Jory and encourages her to smile for the camera, creating a light, affectionate moment.",
-      "Warmth": 1,
-      "Chunk": 82
+      "trait": "competence",
+      "action": "Responds quickly to a groan and cough from another room, showing alertness and concern.",
+      "assessment": "His quick reaction to unexpected sounds suggests attentiveness and readiness to act, which are signs of competence.",
+      "rating": 2,
+      "chunk": 63
     },
     {
-      "Action": "Gets Beth’s carry-on and retrieves her digital camera, showing readiness and attentiveness to small details related to his family.",
-      "Competence": 1,
-      "Chunk": 82
+      "trait": "competence",
+      "action": "Advises Jory to get out and not touch anything, showing awareness of contamination risk.",
+      "assessment": "This indicates knowledge about infection control and protective behavior, reflecting competence in handling a health crisis.",
+      "rating": 3,
+      "chunk": 63
     },
     {
-      "Action": "Engages calmly and reassuringly with Jory about vaccination and immunity, demonstrating understanding and thoughtful communication.",
-      "Competence": 1,
-      "Chunk": 82
+      "trait": "competence",
+      "action": "Checks the Hatchet Woman’s temperature by feeling her head and asks for a thermometer.",
+      "assessment": "Shows practical and cautious approach to assessing illness symptoms, demonstrating basic medical competence and care.",
+      "rating": 2,
+      "chunk": 63
     },
     {
-      "Action": "Smiles while encouraging Jory to smile and make a wish, showing emotional intelligence and confident interaction.",
-      "Competence": 1,
-      "Chunk": 82
+      "trait": "competence",
+      "action": "Decides not to reveal his immunity to the Hatchet Woman, considering safety and social consequences.",
+      "assessment": "This indicates social intelligence and strategic thinking, reflecting competence in interpersonal judgment.",
+      "rating": 2,
+      "chunk": 63
+    },
+    {
+      "trait": "warmth",
+      "action": "Decides to go outside and help with the water drop at the park despite the ongoing crisis.",
+      "assessment": "Choosing to assist neighbors by helping with water distribution shows a willingness to support others and be involved in community aid, reflecting good-natured and trustworthy behavior.",
+      "rating": 3,
+      "chunk": 69
+    },
+    {
+      "trait": "warmth",
+      "action": "Apologizes to Jory for not preparing the iPhone picture earlier and promises to spend quality time with her when he returns.",
+      "assessment": "Expressing regret and making a sincere promise to his daughter demonstrates care, sincerity, and attentiveness to family needs, indicating warmth.",
+      "rating": 3,
+      "chunk": 69
+    },
+    {
+      "trait": "competence",
+      "action": "Decides to go outside and help with the drop at the park despite the ongoing crisis.",
+      "assessment": "This action shows initiative and a willingness to contribute positively in a difficult situation, indicating practical competence and social responsibility.",
+      "rating": 2,
+      "chunk": 69
+    },
+    {
+      "trait": "competence",
+      "action": "Puts on his warmest clothes before going outside.",
+      "assessment": "This demonstrates foresight and preparation, reflecting practical awareness and self-care.",
+      "rating": 2,
+      "chunk": 69
+    },
+    {
+      "trait": "competence",
+      "action": "Apologizes to Jory for not preparing the iPhone picture earlier and instructs her to stay inside.",
+      "assessment": "Shows accountability and protective instincts, indicating emotional intelligence and responsible behavior.",
+      "rating": 2,
+      "chunk": 69
+    },
+    {
+      "trait": "competence",
+      "action": "Plans to reward Jory with a fun activity (Rock Band) and a visit to Mom’s after returning.",
+      "assessment": "This reflects thoughtful planning and emotional support, suggesting competence in managing family morale under stress.",
+      "rating": 1,
+      "chunk": 69
+    },
+    {
+      "trait": "warmth",
+      "action": "Steps in to stop a man with a baseball bat from attacking an older man during a fight over food supplies.",
+      "assessment": "Intervening to prevent violence shows a protective and caring attitude toward others, indicating a good-natured and trustworthy character.",
+      "rating": 3,
+      "chunk": 70
+    },
+    {
+      "trait": "warmth",
+      "action": "Wipes spit off the man with the baseball bat after the older man spits on him, then puts some MREs in a shopping bag and walks away.",
+      "assessment": "Showing a calm and non-retaliatory response to provocation demonstrates tolerance and restraint, reflecting warmth and sincerity.",
+      "rating": 2,
+      "chunk": 70
+    },
+    {
+      "trait": "competence",
+      "action": "Steps in to stop a man with a baseball bat from attacking an older man during a chaotic food distribution.",
+      "assessment": "This action shows Emhoff's willingness to intervene in a tense situation, demonstrating courage and a degree of physical assertiveness. However, his approach is relatively straightforward and lacks strategic planning or de-escalation tactics, indicating moderate competence in conflict management.",
+      "rating": 1,
+      "chunk": 70
+    },
+    {
+      "trait": "competence",
+      "action": "Calmly wipes spit off the aggressor and collects some MREs before leaving the scene.",
+      "assessment": "This suggests Emhoff maintains composure under stress and prioritizes practical needs (securing food) over escalating conflict, reflecting situational awareness and emotional control.",
+      "rating": 2,
+      "chunk": 70
+    },
+    {
+      "trait": "competence",
+      "action": "Does not attempt to further mediate or organize the crowd after the fight breaks out.",
+      "assessment": "His decision to disengage after intervening once may indicate a limitation in leadership or a lack of initiative to manage larger group dynamics, which could be seen as a missed opportunity to exert more control or influence.",
+      "rating": -1,
+      "chunk": 70
+    },
+    {
+      "trait": "warmth",
+      "action": "Administers the vaccine to a middle-aged man, calmly and efficiently, reassuring him that the process is simple.",
+      "assessment": "Emhoff’s willingness to personally vaccinate others and his calm, straightforward manner suggest a trustworthy and caring attitude, indicative of warmth.",
+      "rating": 2,
+      "chunk": 75
+    },
+    {
+      "trait": "competence",
+      "action": "Dresses in nurse’s attire and administers the vaccine efficiently to a middle-aged man, including stamping his wrist to mark vaccination.",
+      "assessment": "This action shows that Emhoff is capable of quickly adapting to a medical role, performing the vaccination procedure competently and confidently, and managing the process with a clear system (wrist stamping).",
+      "rating": 2,
+      "chunk": 75
+    },
+    {
+      "trait": "competence",
+      "action": "Responds calmly and informatively when questioned about his qualifications and the vaccination process.",
+      "assessment": "His calm and straightforward responses indicate a level of knowledge and confidence in his role, suggesting he is well-prepared and competent in this task.",
+      "rating": 2,
+      "chunk": 75
+    },
+    {
+      "trait": "warmth",
+      "action": "Gives Jory a thoughtful birthday present by folding a paper with a bass guitar and amplifier drawn on it, showing he is attentive to her interests.",
+      "assessment": "This action shows Mitch's attentiveness and care toward his daughter, indicating a warm and nurturing side.",
+      "rating": 2,
+      "chunk": 81
+    },
+    {
+      "trait": "warmth",
+      "action": "Offers to pick up the birthday present for Jory and tries to capture the moment by getting the camera.",
+      "assessment": "His willingness to help and preserve family memories reflects his friendly and sincere nature.",
+      "rating": 2,
+      "chunk": 81
+    },
+    {
+      "trait": "warmth",
+      "action": "Emhoff smiles at Jory as he raises the camera and tells her to smile and make a wish.",
+      "assessment": "Smiling warmly at his daughter and encouraging her to smile for a photo shows a friendly, affectionate, and sincere interaction, indicating warmth.",
+      "rating": 3,
+      "chunk": 82
+    },
+    {
+      "trait": "competence",
+      "action": "Retrieves Beth’s carry-on and digital camera from the closet, items kept since the beginning of the crisis, and uses the camera to engage with Jory by asking her to smile and make a wish.",
+      "assessment": "This action shows Mitch’s practical awareness and preparedness, as he keeps important belongings accessible and uses the camera to maintain a sense of normalcy and emotional connection with his daughter, indicating thoughtful and capable behavior.",
+      "rating": 2,
+      "chunk": 82
+    },
+    {
+      "trait": "competence",
+      "action": "Responds to Jory’s question about Alex’s vaccine status and immunity with a calm and positive affirmation ('That’s a good number').",
+      "assessment": "This response reflects Mitch’s ability to understand and interpret health-related information accurately and to communicate reassurance confidently, demonstrating competence in managing the situation and supporting his family.",
+      "rating": 2,
+      "chunk": 82
     }
   ]
 }

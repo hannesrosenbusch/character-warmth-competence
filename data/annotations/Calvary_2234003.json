@@ -1,286 +1,475 @@
 {
   "Father James": [
     {
-      "Action": "Listens patiently and sincerely to a confession of long-term abuse without judgment or interruption.",
-      "Warmth": 1,
-      "Chunk": 1
+      "trait": "warmth",
+      "action": "Waits patiently in the confessional and responds calmly to a shocking and painful confession.",
+      "assessment": "Father James demonstrates a willingness to listen without immediate judgment, showing patience and a readiness to support someone in distress, which indicates a degree of warmth.",
+      "rating": 2,
+      "chunk": 1
     },
     {
-      "Action": "Responds with gentle prompting to encourage the penitent to share more, showing openness and willingness to help.",
-      "Warmth": 1,
-      "Chunk": 1
+      "trait": "warmth",
+      "action": "Asks if the man has sought professional help after hearing about the abuse.",
+      "assessment": "By suggesting professional help, Father James shows concern for the man's well-being beyond the confessional, indicating care and practical support, which is a positive sign of warmth.",
+      "rating": 2,
+      "chunk": 1
     },
     {
-      "Action": "Responds calmly and patiently to a shocking confession, attempts to engage the penitent by inviting him to speak freely.",
-      "Competence": 1,
-      "Chunk": 1
+      "trait": "warmth",
+      "action": "Initially reads Moby Dick idly before the confession begins.",
+      "assessment": "This action could suggest a degree of detachment or lack of immediate engagement, which might indicate a neutral or slightly lower level of warmth in this moment.",
+      "rating": 0,
+      "chunk": 1
     },
     {
-      "Action": "Initially reads a novel idly before confession begins, possibly indicating distraction or lack of immediate focus.",
-      "Competence": -1,
-      "Chunk": 1
+      "trait": "competence",
+      "action": "Idly reading Moby Dick in the confessional before the man arrives.",
+      "assessment": "This suggests a calm and composed demeanor, indicating confidence and comfort in his role, though it may also hint at a casual or unprepared attitude.",
+      "rating": 1,
+      "chunk": 1
     },
     {
-      "Action": "Tries to direct the conversation towards seeking professional help after a traumatic disclosure, showing practical awareness.",
-      "Competence": 1,
-      "Chunk": 1
+      "trait": "competence",
+      "action": "Responds to the man's shocking confession with measured, calm remarks such as 'It’s certainly a startling opening line' and 'I'm here to listen to whatever you have to say.'",
+      "assessment": "This shows emotional control, active listening skills, and an ability to maintain professionalism in difficult situations, indicating competence.",
+      "rating": 2,
+      "chunk": 1
     },
     {
-      "Action": "Not directly present or active in the given excerpt, no specific competent or incompetent behavior shown.",
-      "Competence": 0,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "Asks if the man has sought professional help after hearing about the abuse.",
+      "assessment": "This question demonstrates practical awareness and concern for the man's well-being beyond the confessional, reflecting thoughtful and competent pastoral care.",
+      "rating": 2,
+      "chunk": 1
     },
     {
-      "Action": "Persists in engaging with Brennan despite Brennan's dismissive and insensitive remarks.",
-      "Warmth": 1,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Pauses before responding to the man's confession.",
+      "assessment": "The pause may indicate careful consideration and sensitivity, which is a sign of emotional intelligence and competence in handling delicate matters.",
+      "rating": 2,
+      "chunk": 1
     },
     {
-      "Action": "Offers to take home freshly slaughtered side of beef from Brennan, showing willingness to maintain friendly ties.",
-      "Warmth": 1,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Engages Brennan in a conversation about his troubled marriage and the abuse situation.",
+      "assessment": "Father James shows a willingness to listen and engage with difficult personal issues, indicating some level of concern and openness.",
+      "rating": 1,
+      "chunk": 12
     },
     {
-      "Action": "Tries to engage Brennan about a domestic abuse issue and reminds him of his marriage oaths, indicating an attempt to uphold moral responsibilities and confront difficult issues.",
-      "Competence": 1,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Does not directly confront Brennan about the alleged abuse or challenge his dismissive attitude.",
+      "assessment": "By not addressing the serious issue of abuse or Brennan's flippant remarks, Father James misses an opportunity to show protective warmth and moral courage.",
+      "rating": -1,
+      "chunk": 12
     },
     {
-      "Action": "Looks blankly at Brennan's dismissive and evasive answers without pressing further, possibly missing an opportunity to understand or intervene more effectively.",
-      "Competence": -1,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Offers to take home a freshly slaughtered side of beef from Brennan.",
+      "assessment": "This gesture suggests friendliness and a desire to maintain good relations, reflecting a warm and approachable demeanor.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Uses a shillelagh to get up steadily despite apparent frailty or struggle.",
-      "Competence": 1,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Engages Brennan in a conversation about domestic abuse and marriage vows, attempting to probe sensitive issues despite Brennan's evasiveness and hostility.",
+      "assessment": "This shows Father James's willingness to confront difficult topics and his persistence in seeking truth, indicating a degree of interpersonal skill and moral courage.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Continues to write using an old manual typewriter despite modern alternatives.",
-      "Competence": 0,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Offers to take home a freshly slaughtered side of beef from Brennan.",
+      "assessment": "This action demonstrates social tact and an ability to maintain cordial relations even in tense conversations, reflecting practical competence in social interactions.",
+      "rating": 1,
+      "chunk": 12
     },
     {
-      "Action": "Feels agitated and asks for a favour, indicating vulnerability and openness to seeking help.",
-      "Warmth": 1,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Does not intervene or challenge Brennan's dismissive and potentially abusive attitude more forcefully.",
+      "assessment": "This omission suggests a possible lack of assertiveness or confidence in addressing serious issues directly, which may reflect a limitation in his competence in crisis situations.",
+      "rating": -1,
+      "chunk": 12
     },
     {
-      "Action": "Handles a revolver with calmness but does not threaten anyone, showing restraint and control.",
-      "Warmth": 0,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Does not return Lavelle's wave from the window and then disappears from view.",
+      "assessment": "Ignoring a friendly wave and withdrawing suggests a lack of openness or friendliness in this moment, indicating low warmth.",
+      "rating": -1,
+      "chunk": 15
     },
     {
-      "Action": "Flips open the chamber of the revolver, loads it, and sights along it confidently, showing familiarity and calm handling of a weapon.",
-      "Competence": 1,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Sits at the typewriter working on his manuscript despite apparent physical struggle.",
+      "assessment": "Demonstrates dedication and perseverance, but this action is neutral regarding warmth as it is more about personal discipline than interpersonal warmth.",
+      "rating": 0,
+      "chunk": 15
     },
     {
-      "Action": "Does not explain why he wants the revolver when asked, maintaining secrecy suggesting cautiousness.",
-      "Competence": 1,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Engages in light, self-deprecating banter with Lavelle about his writing and life.",
+      "assessment": "The exchange shows some friendly humor and openness, which can be seen as a mild indicator of warmth.",
+      "rating": 1,
+      "chunk": 15
     },
     {
-      "Action": "Acknowledges being judgmental but tries not to be; offers sincere help for penance and invites to call anytime for assistance.",
-      "Warmth": 1,
-      "Chunk": 27
+      "trait": "warmth",
+      "action": "Remains mostly silent and non-responsive to Leo's attempts at cheer and humor.",
+      "assessment": "Father James does not engage warmly with Leo's friendly, if somewhat rough, attempts to lighten the mood, indicating a lack of openness or friendliness in this interaction.",
+      "rating": -1,
+      "chunk": 20
     },
     {
-      "Action": "Does not overtly express sympathy or soften his judgment; maintains a stern, somewhat distant demeanor in conversation with Fitzgerald.",
-      "Warmth": 0,
-      "Chunk": 27
+      "trait": "warmth",
+      "action": "Asks Stanton for a favor and handles the revolver with seriousness and caution.",
+      "assessment": "His request for a favor and careful handling of the weapon suggest a guarded and serious demeanor rather than warmth or openness; he does not display trust or friendliness here.",
+      "rating": -1,
+      "chunk": 20
     },
     {
-      "Action": "Tries to maintain composure and intellect in the face of Fitzgerald's provocation, showing some self-control and attempting to reason.",
-      "Competence": 1,
-      "Chunk": 27
+      "trait": "warmth",
+      "action": "Sights the revolver at Stanton in a tense, ambiguous moment.",
+      "assessment": "This action is threatening or at least intimidating, which strongly detracts from any impression of warmth, friendliness, or trustworthiness.",
+      "rating": -3,
+      "chunk": 20
     },
     {
-      "Action": "Answers Fitzgerald's cynicism with measured responses but does not effectively defuse the confrontation or assert clear authority.",
-      "Competence": 0,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Flips open the chamber of a vintage revolver, loads it, and sights along it confidently.",
+      "assessment": "This action suggests that Father James is familiar with handling firearms, indicating a level of skill and calmness under potentially threatening circumstances.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Allows Fitzgerald to dominate the conversation and display blatant disrespect without regaining control or redirecting the interaction more skillfully.",
-      "Competence": -1,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Does not explicitly state why he wants the revolver despite being asked.",
+      "assessment": "His withholding of information could indicate strategic thinking or caution, reflecting competence in managing sensitive situations.",
+      "rating": 1,
+      "chunk": 20
     },
     {
-      "Action": "Visits Freddie Joyce in prison, listens to him openly, engages in sincere conversation about remorse and suffering.",
-      "Warmth": 1,
-      "Chunk": 35
+      "trait": "competence",
+      "action": "Appears agitated when asked about his troubles but maintains composure during the interaction.",
+      "assessment": "Though visibly troubled, Father James does not lose control, which suggests emotional resilience and self-discipline, components of competence.",
+      "rating": 1,
+      "chunk": 20
     },
     {
-      "Action": "Has a Bible and rosary in front of him during an interrogation, indicating spiritual support.",
-      "Warmth": 1,
-      "Chunk": 35
+      "trait": "competence",
+      "action": "Does not react to Stanton's smirks and provocations, instead focusing on the task at hand.",
+      "assessment": "This restraint and focus in a potentially tense exchange indicate emotional intelligence and situational awareness.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Displays understanding and calm in a tense interrogation setting, engaging thoughtfully with Freddie Joyce.",
-      "Competence": 1,
-      "Chunk": 35
+      "trait": "warmth",
+      "action": "Offers to help Fitzgerald sincerely when he wants to do penance, despite Fitzgerald's mocking tone.",
+      "assessment": "Father James shows a willingness to support and assist someone struggling with guilt and judgment, indicating a degree of sincerity and tolerance.",
+      "rating": 2,
+      "chunk": 27
     },
     {
-      "Action": "Keeps composure and shows knowledge of literature and scripture to connect with Freddie Joyce.",
-      "Competence": 1,
-      "Chunk": 35
+      "trait": "warmth",
+      "action": "Admits to being judgmental but tries not to be.",
+      "assessment": "This admission shows self-awareness and an effort to be more understanding, which is a positive indicator of warmth.",
+      "rating": 1,
+      "chunk": 27
     },
     {
-      "Action": "Listens silently and looks blankly at Joyce as he expresses sorrow and desire for forgiveness.",
-      "Warmth": 0,
-      "Chunk": 37
+      "trait": "warmth",
+      "action": "Engages in a somewhat tense and confrontational dialogue with Fitzgerald, who mocks him and the Church.",
+      "assessment": "While Father James remains composed, the interaction reveals a guarded and somewhat defensive stance, limiting warmth in this context.",
+      "rating": 0,
+      "chunk": 27
     },
     {
-      "Action": "Responds to Joyce by implying God can understand him, suggesting some empathy.",
-      "Warmth": 1,
-      "Chunk": 37
+      "trait": "warmth",
+      "action": "Visits Freddie Joyce in prison after being asked to see him.",
+      "assessment": "Father James shows a willingness to engage with a troubled former pupil, indicating a caring and supportive nature.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Feels angry and impatient when questioned about his purpose, showing a lack of tolerance and friendliness.",
-      "Warmth": -1,
-      "Chunk": 37
+      "trait": "warmth",
+      "action": "Listens attentively to Freddie Joyce's feelings of remorse and despair.",
+      "assessment": "By listening without immediate judgment, Father James demonstrates tolerance and sincerity.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Expresses sympathy to Lynch about the foreclosure problem.",
-      "Warmth": 1,
-      "Chunk": 37
+      "trait": "warmth",
+      "action": "Engages in a somewhat playful exchange about the quote from Paradise Lost.",
+      "assessment": "This light teasing suggests a friendly and humanizing approach, helping to build rapport.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Stares at the fire, mouth open, enthralled, showing passive inaction in crisis.",
-      "Competence": -1,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Visits Freddie Joyce in prison after being requested by him, bringing a Bible and rosary.",
+      "assessment": "This shows Father James is attentive and responsive to the needs of his former pupil, demonstrating emotional intelligence and pastoral care, which are aspects of competence in his role.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Reassures Fiona by promising to always be present emotionally and spiritually, expressing sincerity.",
-      "Warmth": 1,
-      "Chunk": 49
+      "trait": "competence",
+      "action": "Engages in a calm, thoughtful conversation with Freddie Joyce about remorse, morality, and literature.",
+      "assessment": "This indicates Father James's ability to connect intellectually and emotionally, showing skill in communication and empathy, reflecting competence in his pastoral duties.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Responds blankly and non-judgmentally to Brennan's crisis of faith, does not mock or condemn.",
-      "Warmth": 1,
-      "Chunk": 53
+      "trait": "competence",
+      "action": "Does not challenge or confront Freddie Joyce aggressively despite the latter's self-destructive statements.",
+      "assessment": "This restraint suggests emotional control and an understanding of the delicate nature of the situation, which is a competent approach in pastoral counseling.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Takes his drink quietly and leaves the interaction without escalating tensions or argument.",
-      "Warmth": 1,
-      "Chunk": 53
+      "trait": "competence",
+      "action": "Allows Freddie Joyce to express his feelings and thoughts without interruption or judgment.",
+      "assessment": "This non-interventionist approach can be seen as skillful listening, a key competence in counseling, though it risks passivity if overdone.",
+      "rating": 1,
+      "chunk": 35
     },
     {
-      "Action": "Looks blankly at Brennan's challenging questions and statements, shows little engagement or wit in responding.",
-      "Competence": -1,
-      "Chunk": 53
+      "trait": "competence",
+      "action": "Responds to Joyce's emotional confession with a calm, measured statement: 'I think if God can’t understand you, Freddie, no one can.'",
+      "assessment": "This response shows Father James's ability to remain composed and empathetic in a difficult emotional situation, indicating emotional intelligence and pastoral skill.",
+      "rating": 2,
+      "chunk": 37
     },
     {
-      "Action": "Takes his drink and leaves the conversation, avoiding confrontation or deeper discussion.",
-      "Competence": -1,
-      "Chunk": 53
+      "trait": "competence",
+      "action": "Appears blankly at Joyce after his emotional outburst.",
+      "assessment": "The blank look suggests a momentary lapse in engagement or emotional connection, which could indicate a slight lack of responsiveness or internal conflict, reducing perceived competence in pastoral care.",
+      "rating": -1,
+      "chunk": 37
     },
     {
-      "Action": "Expresses concern about continuing conversation only when Lavelle is sober",
-      "Warmth": 1,
-      "Chunk": 57
+      "trait": "competence",
+      "action": "Engages in a brief, somewhat detached conversation with Lynch about social issues like bank foreclosures.",
+      "assessment": "While Father James shows awareness of social problems, his minimal verbal engagement and lack of proactive response suggest a limited assertiveness or initiative in addressing community concerns.",
+      "rating": 0,
+      "chunk": 37
     },
     {
-      "Action": "Responds calmly after Lavelle curses at him and criticizes him bluntly",
-      "Warmth": 1,
-      "Chunk": 57
+      "trait": "competence",
+      "action": "Stares at the fire, his mouth open, enthralled, showing no immediate action to address the fire.",
+      "assessment": "This inaction and passive fascination with the fire suggests a lack of practical response or leadership in a crisis, indicating low competence in emergency situations.",
+      "rating": -2,
+      "chunk": 41
     },
     {
-      "Action": "Admits to personal doubts about his sexuality to Lavelle",
-      "Warmth": 1,
-      "Chunk": 57
+      "trait": "competence",
+      "action": "Does not intervene or organize any response to the church fire despite being present and presumably responsible.",
+      "assessment": "His failure to take charge or attempt to mitigate the damage reflects poorly on his ability to manage urgent problems effectively.",
+      "rating": -2,
+      "chunk": 41
     },
     {
-      "Action": "Engages in a tense conversation but avoids escalating conflict despite insult",
-      "Warmth": 1,
-      "Chunk": 57
+      "trait": "competence",
+      "action": "Engages in a conversation about the fire and its implications, showing some awareness of the broader context and potential motives.",
+      "assessment": "While not proactive, this indicates some level of situational understanding and analytical thinking, a moderate sign of competence.",
+      "rating": 1,
+      "chunk": 41
     },
     {
-      "Action": "Does not retaliate after Lavelle accuses him of lacking integrity",
-      "Warmth": 1,
-      "Chunk": 57
+      "trait": "warmth",
+      "action": "Offers Michael Fitzgerald a cup of tea during their conversation.",
+      "assessment": "Offering tea is a small but considerate gesture that can indicate friendliness and a desire to make others comfortable.",
+      "rating": 2,
+      "chunk": 45
     },
     {
-      "Action": "Declines company from Ryan politely but clearly, expressing preference for solitude without hostility.",
-      "Warmth": 0,
-      "Chunk": 61
+      "trait": "warmth",
+      "action": "Responds to Michael Fitzgerald's comments about Church compensation cases by suggesting it is time to 'forgive and forget.'",
+      "assessment": "This response shows a tendency toward tolerance and a forgiving attitude, which are positive indicators of warmth, though it may also suggest a degree of avoidance or superficiality.",
+      "rating": 1,
+      "chunk": 45
     },
     {
-      "Action": "Compliments Ryan's writing sincerely, calling him a fine writer.",
-      "Warmth": 1,
-      "Chunk": 61
+      "trait": "warmth",
+      "action": "Reassures Fiona by saying 'I'm still here. I'll always be here.' and pointing to his heart to emphasize his sincerity.",
+      "assessment": "Father James shows emotional availability and a sincere commitment to being present for Fiona, which reflects trustworthiness and friendliness.",
+      "rating": 2,
+      "chunk": 49
+    },
+    {
+      "trait": "warmth",
+      "action": "Responds with silence and blank looks when Brennan expresses doubts about faith and apologizes for potentially offending him.",
+      "assessment": "Father James's lack of verbal engagement or comforting response to Brennan's vulnerable admission suggests emotional distance or unresponsiveness, indicating low warmth in this interaction.",
+      "rating": -2,
+      "chunk": 53
+    },
+    {
+      "trait": "competence",
+      "action": "Looks blankly at Brennan when asked if he believes in God and does not engage meaningfully with Brennan's crisis of faith.",
+      "assessment": "This non-responsive behavior suggests a lack of emotional intelligence or interpersonal skill in addressing a vulnerable parishioner’s doubts, indicating a possible deficiency in pastoral competence.",
+      "rating": -2,
+      "chunk": 53
+    },
+    {
+      "trait": "competence",
+      "action": "Takes his drink and quietly leaves the conversation without attempting to clarify or comfort Brennan.",
+      "assessment": "This omission reflects a missed opportunity to provide guidance or support, which may imply passivity or lack of confidence in his role as a spiritual leader.",
+      "rating": -2,
+      "chunk": 53
+    },
+    {
+      "trait": "competence",
+      "action": "LAVELLE (Father James) continues drinking heavily despite being urged to leave the bar.",
+      "assessment": "This behavior suggests a lack of self-control and poor judgment, which undermines his ability to act capably and responsibly in social situations.",
+      "rating": -2,
+      "chunk": 55
+    },
+    {
+      "trait": "competence",
+      "action": "LAVELLE reacts to HARTE’s karate stance by stepping back quickly and scooting off.",
+      "assessment": "This shows a cautious and non-confrontational approach, which could be seen as prudent, but also indicates a lack of assertiveness or confidence in handling conflict.",
+      "rating": 0,
+      "chunk": 55
+    },
+    {
+      "trait": "competence",
+      "action": "LAVELLE engages in a tense verbal exchange with LYNCH, showing some awareness of his social standing and the challenges he faces.",
+      "assessment": "This indicates a degree of social awareness and verbal skill, though it also reveals a defensive posture and possible insecurity about his role and influence.",
+      "rating": 1,
+      "chunk": 55
+    },
+    {
+      "trait": "warmth",
+      "action": "LAVELLE (Father James) draws a revolver and fires it in a tense confrontation with Lynch and Asamoah.",
+      "assessment": "This aggressive and violent action suggests a lack of warmth, as it is threatening and hostile rather than friendly or tolerant.",
+      "rating": -3,
+      "chunk": 56
+    },
+    {
+      "trait": "warmth",
+      "action": "LAVELLE washes his bloody hands and face, showing signs of distress and vulnerability.",
+      "assessment": "This moment of vulnerability may indicate some internal struggle or sincerity, but it does not directly reflect warmth toward others.",
+      "rating": 0,
+      "chunk": 56
+    },
+    {
+      "trait": "warmth",
+      "action": "LAVELLE curses and harshly criticizes others, including Buddhists and Tibetans, in a conversation with Leary.",
+      "assessment": "The harsh language and intolerance displayed here reflect negatively on warmth, showing a lack of tolerance and friendliness.",
+      "rating": -2,
+      "chunk": 56
+    },
+    {
+      "trait": "competence",
+      "action": "Withdraws a Webley revolver and fires six shots at Lynch and Asamoah in a tense confrontation.",
+      "assessment": "This action shows decisiveness and willingness to take bold, direct action under pressure, indicating a certain level of confidence and capability in a dangerous situation.",
+      "rating": 2,
+      "chunk": 56
+    },
+    {
+      "trait": "competence",
+      "action": "After firing all shots, he sways slightly and appears physically affected.",
+      "assessment": "This suggests some physical or emotional vulnerability, which may indicate a limit to his endurance or composure in high-stress moments, slightly detracting from his overall competence.",
+      "rating": -1,
+      "chunk": 56
+    },
+    {
+      "trait": "competence",
+      "action": "Engages verbally with Leary, expressing strong, confrontational opinions about religious hypocrisy and societal issues.",
+      "assessment": "While articulate and passionate, this verbal aggression may undermine his ability to maintain calm and measured discourse, which is important for competent leadership and influence.",
+      "rating": 0,
+      "chunk": 56
+    },
+    {
+      "trait": "warmth",
+      "action": "Attempts to end a difficult conversation with Leary by suggesting they continue in the morning when Leary is sober.",
+      "assessment": "This shows a measured and patient approach, indicating tolerance and a desire to avoid conflict when emotions are high.",
+      "rating": 2,
+      "chunk": 57
+    },
+    {
+      "trait": "warmth",
+      "action": "Listens to Leary's harsh insults without responding in kind and maintains composure.",
+      "assessment": "Demonstrates restraint and a non-hostile attitude despite provocation, reflecting a degree of sincerity and tolerance.",
+      "rating": 2,
+      "chunk": 57
+    },
+    {
+      "trait": "warmth",
+      "action": "Leary accuses Father James of having no integrity, and Father James does not retaliate but leaves quietly.",
+      "assessment": "By not engaging in argument or defensiveness, Father James shows a calm and forgiving nature, which can be seen as warm.",
+      "rating": 2,
+      "chunk": 57
+    },
+    {
+      "trait": "warmth",
+      "action": "Father James does not explicitly express care or affection toward Leary in this excerpt, and the interaction is marked by tension and distance.",
+      "assessment": "The lack of overt warmth or reassurance in a difficult moment suggests some emotional distance or reserve.",
+      "rating": 0,
+      "chunk": 57
+    },
+    {
+      "trait": "competence",
+      "action": "Attempts to end a difficult conversation with Leary by suggesting they continue in the morning when Leary is sober.",
+      "assessment": "This shows Father James's awareness of timing and emotional states, indicating some emotional intelligence and prudence in handling conflict, which is a competent interpersonal skill.",
+      "rating": 2,
+      "chunk": 57
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in a tense and emotionally charged exchange with Leary, but ultimately allows Leary to leave without escalating the conflict.",
+      "assessment": "Father James demonstrates restraint and control in a difficult interpersonal situation, which reflects a degree of emotional competence and conflict management skill.",
+      "rating": 2,
+      "chunk": 57
+    },
+    {
+      "trait": "competence",
+      "action": "Leary accuses Father James of having no integrity, and Father James does not respond defensively or aggressively.",
+      "assessment": "Father James's non-defensive reaction suggests self-control and confidence, which are indicators of competence in managing personal attacks.",
+      "rating": 1,
+      "chunk": 57
+    },
+    {
+      "trait": "competence",
+      "action": "Father James's overall demeanor in the scene is passive and somewhat resigned, allowing Leary to leave and not attempting to assert himself strongly.",
+      "assessment": "This passivity may indicate a lack of assertiveness or confidence in his role, which could be seen as a negative indicator of competence.",
+      "rating": -1,
+      "chunk": 57
     }
   ],
   "Father James ": [
     {
-      "Action": "Waves to Lavelle, but does not return the wave and disappears from the window.",
-      "Warmth": -1,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Leans over an old manual typewriter, examines the paragraph he has just written carefully.",
+      "assessment": "This action suggests a thoughtful and deliberate approach to his work, indicating attention to detail and intellectual engagement, which are positive indicators of competence.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Engages in light, self-deprecating banter with Lavelle about his writing.",
-      "Warmth": 1,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Gets up using the shillelagh as support.",
+      "assessment": "This shows some physical limitation or frailty, implying a reduced physical capability that might affect his overall competence in physically demanding situations.",
+      "rating": -1,
+      "chunk": 15
     },
     {
-      "Action": "Struggles physically but still gets up to greet Lavelle and acknowledge the provisions.",
-      "Warmth": 1,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Does not respond to Lavelle's wave and disappears from the window.",
+      "assessment": "This omission could indicate social withdrawal or distraction, which might reflect a lack of social confidence or engagement, a slight negative indicator of competence in interpersonal contexts.",
+      "rating": -1,
+      "chunk": 15
     },
     {
-      "Action": "Listens patiently to Joyce’s emotional confession and responds with a thoughtful, compassionate statement.",
-      "Competence": 1,
-      "Chunk": 37
+      "trait": "warmth",
+      "action": "Responds to Joyce's emotional confession with a blank look and a brief, somewhat detached comment: 'I think if God can’t understand you, Freddie, no one can.'",
+      "assessment": "Father James shows a minimal emotional connection and offers a somewhat distant reassurance, lacking explicit warmth or empathy in this vulnerable moment.",
+      "rating": 0,
+      "chunk": 37
     },
     {
-      "Action": "Shows emotional restraint and does not react angrily or dismissively during a tense conversation with Joyce.",
-      "Competence": 1,
-      "Chunk": 37
-    },
-    {
-      "Action": "Responds to Lynch’s concerns with empathy and visible awareness of social issues.",
-      "Competence": 1,
-      "Chunk": 37
-    },
-    {
-      "Action": "Does not take overt action or offer concrete solutions in response to Lynch’s mention of foreclosure and bank injustice.",
-      "Competence": 0,
-      "Chunk": 37
-    },
-    {
-      "Action": "Remains silent and uninvolved during tense exchanges and confrontations among others; does not intervene or assert authority.",
-      "Competence": -1,
-      "Chunk": 55
-    },
-    {
-      "Action": "Listens attentively to difficult and dark conversations without losing composure.",
-      "Competence": 1,
-      "Chunk": 55
-    },
-    {
-      "Action": "Allows others to dominate social situations, showing no initiative to lead or control events.",
-      "Competence": -1,
-      "Chunk": 55
-    },
-    {
-      "Action": "LAVELLE (Father James) threatens to shoot Lynch and Asamoah by drawing a revolver and firing it in anger.",
-      "Warmth": -1,
-      "Chunk": 56
-    },
-    {
-      "Action": "Engages in violent and aggressive behavior, showing no remorse and expresses harsh judgments about others.",
-      "Warmth": -1,
-      "Chunk": 56
-    },
-    {
-      "Action": "Withdraws a revolver and fires it at Lynch and Asamoah, showing decisive, bold action in a tense confrontation.",
-      "Competence": 1,
-      "Chunk": 56
-    },
-    {
-      "Action": "Appears swayed and unsteady after firing the shots, with bloody hands and face, suggesting potential emotional or physical overwhelm.",
-      "Competence": -1,
-      "Chunk": 56
+      "trait": "warmth",
+      "action": "Expresses sympathy to Lynch about the bank foreclosures by saying, 'I'm sorry to hear that.'",
+      "assessment": "This shows a polite and basic level of concern, but it is a rather minimal and formal expression of sympathy without deeper engagement or support.",
+      "rating": 1,
+      "chunk": 37
     }
   ]
 }

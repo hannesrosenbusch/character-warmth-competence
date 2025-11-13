@@ -1,1011 +1,2062 @@
 {
-  "Nick ": [
-    {
-      "Action": "Decides to move with Carol, informs her abruptly 'We're moving' with little prior discussion.",
-      "Warmth": -1,
-      "Chunk": 2
-    },
-    {
-      "Action": "Admits to not having known long about the decision to move and reflects on his own motivations.",
-      "Warmth": 1,
-      "Chunk": 2
-    },
-    {
-      "Action": "Broods silently after Carol expresses hurt, does not comfort or acknowledge her feelings.",
-      "Warmth": -1,
-      "Chunk": 2
-    },
-    {
-      "Action": "Is openly frustrated and despairing about his stagnant life, sharing his feelings with Carol.",
-      "Warmth": 1,
-      "Chunk": 3
-    },
-    {
-      "Action": "Pours and drinks alcohol in a way that suggests escapism and desperation, with little regard for impression.",
-      "Warmth": 0,
-      "Chunk": 3
-    },
-    {
-      "Action": "Takes Carol's gift and expresses happiness sincerely ('A map!')",
-      "Warmth": 1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Engages collaboratively with Carol in planning the route on the map",
-      "Warmth": 1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Looks to Carol for a reaction after revealing the birth town, indicating openness and connection seeking",
-      "Warmth": 1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Desperately tries to get help reconnecting his phone to reach the woman he lives with, showing urgency and emotional vulnerability.",
-      "Warmth": 1,
-      "Chunk": 36
-    },
-    {
-      "Action": "Pleading repeatedly and expressing desperation to the person on the phone, asking them sincerely not to hang up.",
-      "Warmth": 1,
-      "Chunk": 36
-    },
-    {
-      "Action": "Expresses frustration and anger by yelling and throwing the phone receiver after failing to get help.",
-      "Warmth": -1,
-      "Chunk": 36
-    },
-    {
-      "Action": "Rested his head on the steering wheel and started the car without looking up, indicating a drained but functional response.",
-      "Competence": 0,
-      "Chunk": 39
-    },
-    {
-      "Action": "Suggests a humorous gift idea to make someone laugh.",
-      "Warmth": 1,
-      "Chunk": 42
-    },
-    {
-      "Action": "Dismisses an expensive traditional gift as a present, asks for a fake version instead.",
-      "Warmth": -1,
-      "Chunk": 42
-    },
-    {
-      "Action": "Shows desperation and concern asking 'Where is she?'",
-      "Warmth": 1,
-      "Chunk": 49
-    },
-    {
-      "Action": "Rips off and destroys the headdress furiously after confusion and frustration.",
-      "Warmth": -1,
-      "Chunk": 49
-    },
-    {
-      "Action": "Runs to Carol's house, pounding on the door and gasping for breath, showing care and urgency.",
-      "Warmth": 1,
-      "Chunk": 49
-    },
-    {
-      "Action": "Expresses defeat verbally 'I'm too late' after failing to reach Carol.",
-      "Warmth": 1,
-      "Chunk": 49
-    }
-  ],
   "Nick": [
     {
-      "Action": "Decides to move in two days without prior discussion or planning, announces it flatly to Carol who reacts with disbelief and hurt.",
-      "Competence": -1,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Decides to move and informs Carol abruptly, without prior discussion.",
+      "assessment": "Nick's decision to move is presented flatly and without apparent consideration for Carol's feelings, indicating a lack of warmth and sensitivity in communication.",
+      "rating": -2,
+      "chunk": 2
     },
     {
-      "Action": "Reflects aloud on his motivations and decisions, showing some degree of self-awareness and rumination.",
-      "Competence": 0,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Hesitates before telling Carol about the move and broods afterward.",
+      "assessment": "The hesitation and brooding suggest some internal conflict or awareness, which may indicate a degree of sincerity and thoughtfulness beneath the blunt delivery.",
+      "rating": 1,
+      "chunk": 2
     },
     {
-      "Action": "Is visibly brooding and hesitant when announcing big decisions, indicating uncertainty and lack of confidence.",
-      "Competence": -1,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Mentions that Beth says to do whatever makes him happy.",
+      "assessment": "Referencing Beth's advice shows Nick is influenced by others and possibly seeking validation, but it also suggests a self-centered approach rather than a warm, inclusive one.",
+      "rating": 0,
+      "chunk": 2
     },
     {
-      "Action": "Kneels searching through bottles and pours himself a drink, gestures with frustration, shows awareness of his stagnant situation but lacks a plan or constructive action.",
-      "Competence": 0,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Decides abruptly that he and Carol are moving in two days and informs her flatly.",
+      "assessment": "This action shows decisiveness and a willingness to take initiative, indicating some level of confidence and decisiveness. However, the abruptness and lack of prior discussion suggest a possible lack of planning or consideration for others' input.",
+      "rating": 1,
+      "chunk": 2
     },
     {
-      "Action": "Demonstrates emotional despair and repetitive negative self-talk about his life and job, indicating a lack of confident or skillful problem-solving.",
-      "Competence": -1,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Broods and ruminates aloud about what drives his decisions.",
+      "assessment": "This introspection indicates self-awareness and a thoughtful approach to his motivations, which can be a sign of emotional intelligence and mental competence.",
+      "rating": 2,
+      "chunk": 2
     },
     {
-      "Action": "Shares a joking, playful moment with Carol, laughing together despite frustrations.",
-      "Warmth": 1,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "His clothes are described as frumpled with a loose knit tie, and he appears contemplatively drunk.",
+      "assessment": "This suggests a lack of attention to personal presentation and possibly impaired judgment or diminished control in social situations, which can detract from perceived competence.",
+      "rating": -1,
+      "chunk": 2
     },
     {
-      "Action": "Rejects the idea of 'getting saved' flatly without engagement.",
-      "Warmth": 0,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "Does not provide clear answers or plans when questioned by Carol, e.g., about timing and Beth's opinion.",
+      "assessment": "This vagueness and lack of concrete information imply a deficiency in communication and planning skills, reducing the impression of competence.",
+      "rating": -1,
+      "chunk": 2
     },
     {
-      "Action": "Defends his concerns about money pragmatically and resists impulsive spending.",
-      "Warmth": 0,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "Pours himself a drink and expresses frustration about his stagnant life, showing vulnerability in front of Carol.",
+      "assessment": "Nick's openness about his despair and frustration suggests a level of sincerity and trust toward Carol, indicating some warmth in his willingness to share his feelings.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Responds to Carol's affectionate teasing by playfully fending off her pokes, engaging in friendly physical interaction.",
-      "Warmth": 1,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "Gestures grandly with his drink, spilling liquor unnoticed while pacing.",
+      "assessment": "This behavior reflects internal turmoil and distraction rather than consideration for others, showing a lack of attentiveness that may reduce perceived warmth.",
+      "rating": -1,
+      "chunk": 3
     },
     {
-      "Action": "Shares an embarrassed smile with Carol when Beth arrives, showing social ease and openness.",
-      "Warmth": 1,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "Interacts with Carol in a tense but honest manner, acknowledging the monotony of his life.",
+      "assessment": "While the interaction is fraught with frustration, Nick's honesty and engagement with Carol demonstrate a degree of trustworthiness and sincerity.",
+      "rating": 1,
+      "chunk": 3
     },
     {
-      "Action": "Accurately assesses the difficulty and unpleasantness of a 14-hour car trip and anticipates potential risks like speeding and getting arrested.",
-      "Competence": 1,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "Kneeling and going through bottles in a cabinet, then pouring himself a drink with drunken desperation.",
+      "assessment": "This behavior suggests a lack of self-control and impaired judgment, indicating low competence in managing his emotions and situation.",
+      "rating": -2,
+      "chunk": 3
     },
     {
-      "Action": "Dismisses Carol's suggestions lightly and humorously but shows pragmatic concern about money and legal consequences.",
-      "Competence": 1,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "Pacing while gesturing grandly with his drink, spilling liquor unnoticed.",
+      "assessment": "This shows agitation and distraction, reflecting poor focus and lack of situational awareness, which are negative indicators of competence.",
+      "rating": -2,
+      "chunk": 3
     },
     {
-      "Action": "Slumps on the sofa flatly after describing the trip, showing a sense of resignation or low enthusiasm instead of proactive planning.",
-      "Competence": 0,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "Expressing frustration about being stuck in the same job, place, and people for years.",
+      "assessment": "While this shows self-awareness, it also reveals a sense of helplessness and resignation rather than proactive problem-solving, suggesting limited competence in taking control of his life.",
+      "rating": -1,
+      "chunk": 3
     },
     {
-      "Action": "Calls out cheerfully to Carol about making plans for Pizza Hut tomorrow, including Beth in the conversation.",
-      "Warmth": 1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Tossing the empty bottle into the trash and continuing to drink.",
+      "assessment": "This action indicates a mechanical or careless approach to his drinking, lacking discipline or moderation, which negatively impacts his competence.",
+      "rating": -2,
+      "chunk": 3
     },
     {
-      "Action": "Asks Beth 'What's your problem?' when she seems tired and distant, showing a lack of sensitivity at that moment.",
-      "Warmth": -1,
-      "Chunk": 5
+      "trait": "warmth",
+      "action": "Engages in playful physical interaction with Carol, fending off her pokes and laughing with her.",
+      "assessment": "Nick's willingness to engage in lighthearted, physical play and share laughter indicates a friendly and warm rapport with Carol.",
+      "rating": 2,
+      "chunk": 4
     },
     {
-      "Action": "Defends himself about Beth leaving, suggesting she isn’t leaving anything behind like a good job, which could be seen as dismissive or lacking empathy.",
-      "Warmth": -1,
-      "Chunk": 5
+      "trait": "warmth",
+      "action": "Slumps on the sofa beside Carol and participates in the conversation about the trip.",
+      "assessment": "Nick's relaxed posture and participation in the conversation suggest openness and comfort in Carol's presence, reflecting a degree of warmth and trust.",
+      "rating": 1,
+      "chunk": 4
     },
     {
-      "Action": "Calls out cheerfully to arrange plans with Carol (Pizza Hut, tomorrow)",
-      "Competence": 1,
-      "Chunk": 5
+      "trait": "warmth",
+      "action": "Interrupts Carol's suggestion about the Vegas detour by focusing on the cost.",
+      "assessment": "While practical, Nick's interruption to emphasize financial concerns may indicate a lack of enthusiasm or a somewhat dismissive attitude toward Carol's attempt to lighten the mood, showing limited warmth in this moment.",
+      "rating": -1,
+      "chunk": 4
     },
     {
-      "Action": "Appears oblivious to Beth's emotional state and is somewhat blunt ('What's your problem?') indicating lack of social awareness",
-      "Competence": -1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Paces while discussing the long drive and complains about the lack of radio options in Utah.",
+      "assessment": "Pacing suggests restlessness or anxiety rather than calm confidence; his griping about the radio indicates a focus on minor inconveniences rather than problem-solving.",
+      "rating": -1,
+      "chunk": 4
     },
     {
-      "Action": "Engages in light banter about Billings, showing some knowledge and memory ('I read that a while ago')",
-      "Competence": 1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Flatly refuses Carol's suggestion to 'get saved' and dismisses the idea of a detour through Vegas due to cost concerns.",
+      "assessment": "His responses show a practical awareness of costs but also a somewhat negative or dismissive attitude, lacking openness or flexibility.",
+      "rating": 0,
+      "chunk": 4
     },
     {
-      "Action": "Uses defensiveness to challenge Beth about not leaving anything behind, reflecting lack of empathy and poor communication",
-      "Competence": -1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Engages in playful physical interaction with Carol, fending off her pokes and laughing with her.",
+      "assessment": "This shows social ease and comfort in interpersonal dynamics, indicating emotional intelligence and confidence in social settings.",
+      "rating": 2,
+      "chunk": 4
     },
     {
-      "Action": "Puts his arms around Beth from behind, nestles her against his body, kisses her and reassures her about moving and friendship.",
-      "Warmth": 1,
-      "Chunk": 6
+      "trait": "competence",
+      "action": "Interrupts Carol's romanticized plan to point out the financial impracticality of the detour.",
+      "assessment": "This interruption demonstrates critical thinking and a realistic approach to planning, reflecting practical competence.",
+      "rating": 2,
+      "chunk": 4
     },
     {
-      "Action": "Responds defensively about leaving friends behind and downplays the significance of past relationships.",
-      "Warmth": 0,
-      "Chunk": 6
+      "trait": "warmth",
+      "action": "Calls out to Carol, suggesting 'Pizza Hut, tomorrow?'",
+      "assessment": "Inviting Carol to share a casual meal indicates a friendly and inclusive gesture, showing some warmth.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Comforts Beth and confidently tries to reassure her about making new friends and moving on from past relationships.",
-      "Competence": 1,
-      "Chunk": 6
+      "trait": "warmth",
+      "action": "Responds to Beth's tiredness and apparent emotional distance with 'What's your problem?'",
+      "assessment": "This question comes across as somewhat blunt and lacking in empathy, suggesting impatience or frustration rather than warmth.",
+      "rating": -1,
+      "chunk": 5
     },
     {
-      "Action": "Stares at the malfunctioning coffee-maker in disbelief and calls out for Beth, showing surprise and lack of preparation or problem-solving.",
-      "Competence": -1,
-      "Chunk": 6
+      "trait": "warmth",
+      "action": "Defensively remarks to Beth that she is not leaving anything behind, like a good job.",
+      "assessment": "This comment is dismissive of Beth's feelings and may be perceived as insensitive, indicating a lack of warmth and understanding.",
+      "rating": -2,
+      "chunk": 5
     },
     {
-      "Action": "Expresses frustration repeatedly about household appliances and their poor condition, rejecting Beth's attempts at comfort or lightheartedness.",
-      "Warmth": -1,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Stops walking when Beth does not follow, showing some attention to her behavior.",
+      "assessment": "Stopping to acknowledge Beth's non-response shows some attentiveness, which can be a mild indicator of warmth.",
+      "rating": 1,
+      "chunk": 5
     },
     {
-      "Action": "Engages in a shared moment of staring with Beth after their conversation, showing a moment of connection.",
-      "Warmth": 1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Calls out 'Pizza Hut, tomorrow?' to Carol in a casual, social manner.",
+      "assessment": "This shows Nick's ability to engage socially and initiate plans, indicating some social confidence and competence.",
+      "rating": 1,
+      "chunk": 5
     },
     {
-      "Action": "Immediately unplugs the malfunctioning coffee maker and disposes of it after confirming it does not work properly.",
-      "Competence": 1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Stares out into the night, oblivious to Beth's presence.",
+      "assessment": "This suggests a lack of situational awareness and emotional attunement, indicating a momentary lapse in interpersonal competence.",
+      "rating": -1,
+      "chunk": 5
     },
     {
-      "Action": "Expresses frustration and anger repeatedly but fails to take constructive action beyond discarding appliances.",
-      "Competence": -1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Asks Beth directly 'What's your problem?' when she seems upset.",
+      "assessment": "While direct, this question may come off as blunt or insensitive, showing a lack of emotional intelligence or tact in communication.",
+      "rating": -1,
+      "chunk": 5
     },
     {
-      "Action": "Assesses multiple household appliances (coffee maker, blender, TV) as junk and disposes of them quickly.",
-      "Competence": 1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Reminds Beth that she agreed to try Billings, Montana, and defends his point of view about the city.",
+      "assessment": "This shows Nick's ability to recall agreements and engage in reasoned discussion, reflecting cognitive competence and some confidence.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Complains about lost discount opportunity but does not attempt to acquire a new appliance or alternative solution.",
-      "Competence": -1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Defensively states 'It's not like you're leaving anything behind. A good job or something.'",
+      "assessment": "This defensive remark reveals insecurity and a somewhat dismissive attitude, which undermines his interpersonal competence and emotional maturity.",
+      "rating": -2,
+      "chunk": 5
     },
     {
-      "Action": "Expresses resignation about packing and dissatisfaction with their possessions without proposing a plan.",
-      "Competence": -1,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "He puts his arms around Beth's waist from behind, and nestles her against his body.",
+      "assessment": "This physical gesture shows affection and comfort, indicating a caring and warm attitude toward Beth.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Kisses Beth, takes a donut from her hand, shares an intimate moment despite tension.",
-      "Warmth": 1,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "He tells Beth 'You'll make new friends.'",
+      "assessment": "Nick attempts to reassure Beth, showing a supportive and encouraging attitude, though somewhat simplistic.",
+      "rating": 1,
+      "chunk": 6
     },
     {
-      "Action": "Puts nearly full pint bottle of scotch in his jacket pocket.",
-      "Warmth": -1,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "He stops Beth's hand as she takes out her keys and kisses her, and she kisses him back.",
+      "assessment": "This intimate moment reflects mutual affection and warmth in their relationship.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Sarcastically comments about not wanting to be late on last day after being fired.",
-      "Warmth": 0,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "He says 'Living with someone isn't such a big deal. Anyway... I live with you now.'",
+      "assessment": "Nick tries to normalize their living situation and affirm his commitment, showing sincerity and reassurance.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Pockets an almost full pint bottle of scotch, contemplates taking a TV as a last day bonus despite being fired, delays decision, sarcastically comments about not wanting to be late on last day, eventually leaves without taking decisive action.",
-      "Competence": -1,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "He points accusingly at the malfunctioning coffee maker and calls out to Beth.",
+      "assessment": "Nick's reaction to the broken coffee maker is somewhat frustrated and accusatory, which may indicate impatience or irritability rather than warmth.",
+      "rating": -1,
+      "chunk": 6
     },
     {
-      "Action": "Surprises Beth with a kiss and shares a moment of affection, showing some confidence and interpersonal skill.",
-      "Competence": 0,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Comforts Beth by putting his arms around her waist and reassuring her that she'll make new friends.",
+      "assessment": "This shows emotional support and confidence in handling Beth's insecurities, indicating social and emotional competence.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Greets Chip with a grin and friendly banter in the parking lot.",
-      "Warmth": 1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Responds calmly to Beth's discomfort about his past living situation with Carol, emphasizing that it was years ago and that they are moving on.",
+      "assessment": "Nick demonstrates emotional intelligence and maturity by addressing Beth's concerns without defensiveness, showing interpersonal competence.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Jokes morbidly about putting on the noose while tying his tie.",
-      "Warmth": 0,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Stops Beth's hand to kiss her before she enters the house.",
+      "assessment": "This action shows confidence and affectionate assertiveness, suggesting comfort in his relationship and social competence.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Engages in casual, seemingly sincere conversation with Chip about leaving the job.",
-      "Warmth": 1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Stares out at the night after telling Beth he lives with her now.",
+      "assessment": "This moment of introspection may indicate some uncertainty or lack of decisiveness, slightly detracting from his overall confidence.",
+      "rating": -1,
+      "chunk": 6
     },
     {
-      "Action": "Expresses pragmatic attitude toward unemployment and recession.",
-      "Warmth": 0,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Reacting with disbelief and frustration at the malfunctioning coffee maker, calling out to Beth.",
+      "assessment": "Nick's reaction to a simple household problem shows a lack of practical problem-solving skills and composure, indicating lower competence in managing everyday tasks.",
+      "rating": -1,
+      "chunk": 6
     },
     {
-      "Action": "Ties his necktie using the car's outside mirror, showing practical resourcefulness.",
-      "Competence": 1,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Points accusingly at the coffee maker and expresses frustration about its malfunction.",
+      "assessment": "Nick's frustration is directed at the appliance, not at Beth, showing no hostility toward her, but his tone is agitated and somewhat harsh.",
+      "rating": 0,
+      "chunk": 7
     },
     {
-      "Action": "Plans to quit job strategically to qualify for unemployment, indicating thoughtful and proactive behavior.",
-      "Competence": 1,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Rejects Beth's offer of a donut with an exasperated 'No. I want an appliance that works.'",
+      "assessment": "Nick's refusal is blunt and dismissive, lacking warmth or appreciation for Beth's attempt to lighten the mood.",
+      "rating": -1,
+      "chunk": 7
     },
     {
-      "Action": "Responds confidently and calmly to Chip's questions about layoffs and quitting.",
-      "Competence": 1,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Jams the coffee maker and blender into the trash in frustration.",
+      "assessment": "His aggressive handling of household items suggests impatience and irritability, which may create a colder atmosphere.",
+      "rating": -1,
+      "chunk": 7
     },
     {
-      "Action": "Unwraps the going-away present promptly, shows enthusiasm and gratitude.",
-      "Competence": 1,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Engages in a shared moment of mutual recognition with Beth, staring at each other after discussing the TV.",
+      "assessment": "This moment hints at a deeper connection and understanding between them, indicating some underlying warmth despite the earlier tension.",
+      "rating": 1,
+      "chunk": 7
     },
     {
-      "Action": "Uses the map to trace a route and identifies his birthplace, demonstrating engagement and some planning.",
-      "Competence": 1,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Unplugs and discards the malfunctioning coffee maker and blender after identifying their faults.",
+      "assessment": "This shows Nick's practical approach to dealing with broken appliances and a willingness to take decisive action rather than ignoring problems.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Sits lost in thought before Carol arrives, indicating a moment of distraction or indecision.",
-      "Competence": 0,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Expresses frustration about the appliances and the TV, but does not attempt to fix or troubleshoot them beyond unplugging.",
+      "assessment": "While Nick recognizes the problems, his response is limited to discarding items rather than seeking solutions or repairs, indicating a somewhat reactive rather than proactive competence.",
+      "rating": 0,
+      "chunk": 7
     },
     {
-      "Action": "Admits he hasn't called his parents in years and refuses to visit them, saying he wouldn't know them.",
-      "Warmth": -1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Complains about missing the opportunity to use his discount to buy a new coffee maker.",
+      "assessment": "This shows some awareness of practical benefits and missed opportunities, but also suggests a lack of timely action or planning.",
+      "rating": 0,
+      "chunk": 7
     },
     {
-      "Action": "Thanks Carol after she folds the map for him and kisses her.",
-      "Warmth": 1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Expresses doubt and frustration about packing and their possessions.",
+      "assessment": "This indicates a lack of confidence or motivation in managing their current situation, which may reflect lower competence in handling broader life tasks.",
+      "rating": -1,
+      "chunk": 7
     },
     {
-      "Action": "Unsuccessfully folds the map and then hands it over to Carol to fold properly.",
-      "Competence": -1,
-      "Chunk": 13
+      "trait": "warmth",
+      "action": "Kisses Beth unexpectedly and shares a donut with her.",
+      "assessment": "This affectionate and playful interaction shows Nick's capacity for warmth and tenderness in his relationship with Beth.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Shows emotional avoidance and admits he hasn't called his parents in years, hesitating to visit them despite opportunity.",
-      "Competence": -1,
-      "Chunk": 13
+      "trait": "warmth",
+      "action": "Puts a nearly full bottle of scotch in his jacket pocket without comment.",
+      "assessment": "This action suggests a secretive or possibly selfish behavior, lacking openness or generosity, which detracts from warmth.",
+      "rating": -2,
+      "chunk": 8
     },
     {
-      "Action": "Expresses hurt when Carol flatly says they couldn't stand each other; tries to understand the situation.",
-      "Warmth": 1,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "Declines Beth's offer to take a donut and initially resists taking a TV as a 'bonus'.",
+      "assessment": "Nick's reluctance to accept simple kindnesses or gifts may indicate a guarded or distant nature, limiting warmth.",
+      "rating": -1,
+      "chunk": 8
     },
     {
-      "Action": "Doggedly rationalizes the trip's failure by blaming the drive, indicating a desire to find common ground or explanation.",
-      "Warmth": 1,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "Engages in light sarcasm about being fired and the possibility of a bonus.",
+      "assessment": "His sarcastic tone may reflect bitterness or defensiveness, which can hinder sincere and friendly interactions.",
+      "rating": -1,
+      "chunk": 8
     },
     {
-      "Action": "Asks why Carol didn't continue to Seattle despite tension, showing engagement and concern.",
-      "Warmth": 1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Nick picks the almost full pint bottle of scotch off the counter and puts it in his jacket pocket.",
+      "assessment": "This action suggests a certain casualness and perhaps a lack of concern for consequences, which may indicate poor judgment or a lack of professionalism.",
+      "rating": -2,
+      "chunk": 8
     },
     {
-      "Action": "His tone comes across as somewhat defensive and persistent, possibly indicating difficulty accepting criticism.",
-      "Warmth": 0,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Nick declines to take a donut but considers taking a TV as a 'bonus' on his last day.",
+      "assessment": "Nick's hesitation and sarcastic attitude toward taking a TV as a bonus shows a lack of assertiveness and confidence in his situation, reflecting a passive approach rather than proactive behavior.",
+      "rating": -1,
+      "chunk": 8
     },
     {
-      "Action": "Comes up with a new ploy to win favor by casually saying he's thinking about stealing a TV.",
-      "Competence": -1,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Nick acknowledges he was fired and that there will be no bonus, but still seems somewhat detached and resigned.",
+      "assessment": "This acceptance without visible resistance or planning suggests a lack of initiative or problem-solving skills, indicating lower competence in managing his career or personal affairs.",
+      "rating": -2,
+      "chunk": 8
     },
     {
-      "Action": "Engages Rory in conversation, explains his perspective about TV and movies with patience and clarity.",
-      "Warmth": 1,
-      "Chunk": 17
+      "trait": "competence",
+      "action": "Nick kisses Beth unexpectedly and takes a donut from her hand, engaging in a playful, affectionate moment.",
+      "assessment": "This shows social confidence and emotional intelligence in personal relationships, indicating competence in interpersonal interactions.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Shaking his head and expressing disagreement when Rory states a preference for movies.",
-      "Warmth": 0,
-      "Chunk": 17
+      "trait": "competence",
+      "action": "Nick looks at his watch and decides to leave, making a sarcastic comment about not wanting to be late on his last day.",
+      "assessment": "This shows some awareness of time and social norms, but the sarcasm and quick exit may reflect disengagement or lack of professionalism.",
+      "rating": 0,
+      "chunk": 8
     },
     {
-      "Action": "Engages Rory in an insightful conversation, explaining the difference between movie watching and television watching with a thoughtful analogy about presence and freedom.",
-      "Competence": 1,
-      "Chunk": 17
+      "trait": "warmth",
+      "action": "Greets Chip with a grin and casual banter while tying his tie using the car's mirror.",
+      "assessment": "Nick's friendly greeting and lighthearted banter suggest a warm and approachable demeanor toward a coworker.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Puts his arm around Major Jenkins' shoulder and guides him toward a display case while explaining TV options.",
-      "Warmth": 1,
-      "Chunk": 18
+      "trait": "warmth",
+      "action": "Discusses his quitting and unemployment plans openly with Chip.",
+      "assessment": "Nick is candid and straightforward with Chip, indicating a level of trust and sincerity in their interaction.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Stifles a strange urge to giggle when hearing Major Jenkins wants Japanese TVs for his parents living with him.",
-      "Warmth": -1,
-      "Chunk": 18
+      "trait": "warmth",
+      "action": "Uses a dark joke about putting on the noose while tying his tie.",
+      "assessment": "The morbid humor may indicate a coping mechanism but could be perceived as insensitive or off-putting, slightly reducing warmth.",
+      "rating": -1,
+      "chunk": 9
     },
     {
-      "Action": "Explains to Major Jenkins the limitations of Japanese TVs at the price point and guides him through the choices with calm confidence.",
-      "Competence": 1,
-      "Chunk": 18
+      "trait": "competence",
+      "action": "Tosses his jacket on the roof and crouches, tying his necktie using the car's outside mirror.",
+      "assessment": "This shows resourcefulness and adaptability, using the car mirror as a makeshift tool to tie his tie, indicating practical problem-solving skills.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Stifles a strange urge to giggle when discussing a sensitive topic, indicating a lapse in social sensitivity.",
-      "Competence": -1,
-      "Chunk": 18
+      "trait": "competence",
+      "action": "Engages in casual, confident banter with Chip while preparing to leave his job.",
+      "assessment": "Nick demonstrates social ease and confidence in handling potentially sensitive topics like quitting and unemployment, suggesting emotional intelligence and self-assurance.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Acknowledges being an adult with parents to connect with Major Jenkins, shows a moment of sincerity.",
-      "Warmth": 1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Plans to quit his job strategically to qualify for unemployment benefits rather than waiting for layoffs.",
+      "assessment": "This indicates foresight, strategic thinking, and an understanding of bureaucratic systems, reflecting a competent and pragmatic approach to his situation.",
+      "rating": 3,
+      "chunk": 9
     },
     {
-      "Action": "Cheerfully offers Beth the receipt and explains how to get the television, demonstrating helpfulness and friendliness.",
-      "Warmth": 1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Shows no visible panic or hesitation when discussing layoffs and his departure.",
+      "assessment": "Nick's calm demeanor in the face of economic uncertainty suggests emotional control and confidence, traits associated with competence.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Interrupts and firmly dismisses another customer to continue helping the current one, showing polite but firm boundary-setting.",
-      "Warmth": 0,
-      "Chunk": 19
+      "trait": "warmth",
+      "action": "Accepts a going away present from Carol and expresses happiness about it.",
+      "assessment": "Nick's grateful and happy reaction to the gift shows appreciation and a positive, friendly attitude toward Carol.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Makes a jokey comment about American products being mostly Japanese parts, indicating lightheartedness but may be slightly dismissive.",
-      "Warmth": 0,
-      "Chunk": 19
+      "trait": "warmth",
+      "action": "Engages collaboratively with Carol in planning his route on the map.",
+      "assessment": "This cooperative behavior indicates openness and a willingness to connect and share with Carol, reflecting warmth.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Maintains composure despite urge to giggle, engages in a quick improvisation to help Beth with the receipt and TV retrieval plan",
-      "Competence": 1,
-      "Chunk": 19
+      "trait": "warmth",
+      "action": "Stops tracing the route at his birthplace and looks to Carol for a reaction.",
+      "assessment": "Seeking a reaction suggests Nick values Carol's feelings and connection, showing sincerity and a desire for emotional engagement.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Explains the plan clearly and confidently to Beth and the man at the dock, pushing away an interfering person",
-      "Competence": 1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Sits quietly, lost in thought while waiting for Carol.",
+      "assessment": "This suggests a reflective and possibly thoughtful nature, but also a passive stance in the interaction, showing neither initiative nor disengagement.",
+      "rating": 0,
+      "chunk": 12
     },
     {
-      "Action": "Shows some uncertainty when asked if he can help another customer and ultimately admits 'Not really'",
-      "Competence": 0,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Accepts the gift and quickly unwraps it, expressing happiness about receiving a map.",
+      "assessment": "This shows social awareness and appreciation, indicating emotional intelligence and positive interpersonal skills.",
+      "rating": 1,
+      "chunk": 12
     },
     {
-      "Action": "Drives through traffic with visible tension, manages an urgent phone call, removes tie and drinks scotch to calm down",
-      "Competence": 0,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Unfolds the map and actively participates in planning the route with Carol, tracing the route and identifying his birthplace.",
+      "assessment": "This demonstrates engagement, spatial awareness, and a degree of planning ability, reflecting competent and collaborative behavior.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Provides a nice TV with good speakers, eliciting cheerful reactions from Beth and Sid.",
-      "Warmth": 1,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Stops tracing the route abruptly at his birthplace and looks to Carol for a reaction.",
+      "assessment": "This indicates some hesitation or emotional vulnerability, possibly a moment of uncertainty or seeking validation, which may reflect a slight lack of confidence or decisiveness.",
+      "rating": -1,
+      "chunk": 12
     },
     {
-      "Action": "Beth expresses happy disbelief about Nick's speakers, indicating Nick successfully acquired impressive equipment.",
-      "Competence": 1,
-      "Chunk": 22
+      "trait": "warmth",
+      "action": "Admits he hasn't called his parents in years and refuses to visit them despite Carol's encouragement.",
+      "assessment": "Nick's avoidance of his parents and admission of estrangement suggests emotional distance and a lack of effort to maintain family bonds, indicating lower warmth.",
+      "rating": -2,
+      "chunk": 13
     },
     {
-      "Action": "Indirectly shown to provide good quality speakers, suggesting technical or resourceful capability.",
-      "Competence": 1,
-      "Chunk": 22
+      "trait": "warmth",
+      "action": "Leans over the table and kisses Carol after she helps him fold the map.",
+      "assessment": "This affectionate gesture toward Carol shows tenderness and appreciation, reflecting a positive expression of warmth.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Nick is not directly seen acting or speaking in the excerpt, limiting evidence of competence.",
-      "Competence": 0,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Refuses to visit his parents despite passing near their town and admits he hasn't called them in years.",
+      "assessment": "This indicates emotional avoidance and a lack of initiative in maintaining important personal relationships, suggesting a deficiency in social competence and personal responsibility.",
+      "rating": -2,
+      "chunk": 13
     },
     {
-      "Action": "Leans against car and casually asks the Navajo boy about the teepee, showing some curiosity and casual friendliness.",
-      "Warmth": 1,
-      "Chunk": 24
+      "trait": "competence",
+      "action": "Attempts to fold the map but does so very unsuccessfully and then hands it over to Carol to fold it deftly.",
+      "assessment": "This shows a lack of practical skill or spatial awareness in a simple task, reflecting a momentary lapse in basic competence.",
+      "rating": -1,
+      "chunk": 13
     },
     {
-      "Action": "Makes a flippant comment about having no one to shop for at the gift shop, somewhat dismissive but not unkind.",
-      "Warmth": 0,
-      "Chunk": 24
+      "trait": "competence",
+      "action": "Leans over the table and kisses Carol after she folds the map.",
+      "assessment": "This action demonstrates confidence and social ease in intimate interactions, indicating some level of interpersonal competence.",
+      "rating": 1,
+      "chunk": 13
     },
     {
-      "Action": "Engages sincerely with the Navajo boy by asking about the meaning of the wind despite cultural difference, indicating openness and genuine curiosity.",
-      "Warmth": 1,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Engages in a candid conversation with Carol about their difficult relationship and the failed trip.",
+      "assessment": "Nick shows a willingness to discuss painful personal issues openly, indicating some degree of sincerity and emotional engagement.",
+      "rating": 1,
+      "chunk": 14
     },
     {
-      "Action": "Leans against the car and engages politely with the gas station attendant, showing casual confidence.",
-      "Competence": 1,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Questions Carol about why she didn't continue to Seattle despite it being her car.",
+      "assessment": "This question suggests Nick is trying to understand Carol's perspective, which can be seen as an attempt at communication and connection, though it may also carry some defensiveness.",
+      "rating": 1,
+      "chunk": 14
     },
     {
-      "Action": "Appears distracted, rubbing dust from his eye and focusing on the wind rather than immediate practical concerns.",
-      "Competence": 0,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Expresses hurt when Carol flatly states their relationship was awful.",
+      "assessment": "Nick's hurt reaction reveals vulnerability and emotional openness, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Seems unaware or unconcerned about the consequences of leaving abruptly, causing shock to others around him.",
-      "Competence": -1,
-      "Chunk": 24
+      "trait": "competence",
+      "action": "Doggedly insists that the drive from San Antonio to Seattle was the cause of their failure, suggesting that flying would have made a difference.",
+      "assessment": "This shows persistence and a willingness to analyze the situation logically, indicating some level of competence in understanding cause and effect.",
+      "rating": 1,
+      "chunk": 14
     },
     {
-      "Action": "Pays the Navajo teen more than needed ($20 for $13), acknowledging the cost without complaint.",
-      "Warmth": 1,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Engages in a candid conversation with Carol about their relationship and travel decisions.",
+      "assessment": "This demonstrates emotional intelligence and communication skills, which are components of competence in interpersonal contexts.",
+      "rating": 1,
+      "chunk": 14
     },
     {
-      "Action": "Engages in conversation with the Navajo teen, attempting to understand the cultural meaning of the wind.",
-      "Warmth": 1,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Asks Carol why she didn't continue to Seattle despite having the car.",
+      "assessment": "This question shows curiosity and a desire to understand the situation better, reflecting thoughtful and engaged behavior.",
+      "rating": 1,
+      "chunk": 14
     },
     {
-      "Action": "Responds skeptically and darkens mood when the Navajo teen explains the wind means just the wind; shuts car door with a slam.",
-      "Warmth": -1,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Appears hurt when Carol flatly states their relationship was awful outside the bedroom.",
+      "assessment": "While this shows emotional sensitivity, it may also indicate vulnerability that could undermine confidence in some contexts.",
+      "rating": 0,
+      "chunk": 14
     },
     {
-      "Action": "Corrected about the Navajo identity, awkwardly handles money exchange, and displays a lack of understanding about the cultural significance of the wind.",
-      "Competence": -1,
-      "Chunk": 25
+      "trait": "warmth",
+      "action": "Hurries up beside Carol and tries to engage her with a casual, playful comment about stealing a TV.",
+      "assessment": "Nick's attempt to lighten the mood and reconnect with Carol through humor suggests a friendly and warm effort to bridge distance between them.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Attempts to interpret the wind's meaning but dismisses it flatly, revealing a lack of insight or confidence in his own thoughts.",
-      "Competence": -1,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Nick hurries up beside Carol and tries a new ploy to win favor by casually saying, 'I'm thinking about stealing a t.v.'",
+      "assessment": "This action shows Nick attempting to be clever or playful in social interaction, indicating some social confidence and quick thinking, though the ploy itself is somewhat immature or unserious.",
+      "rating": 1,
+      "chunk": 15
     },
     {
-      "Action": "Pays the correct amount promptly without hesitation.",
-      "Competence": 1,
-      "Chunk": 25
+      "trait": "warmth",
+      "action": "Engages Rory, an eight-year-old boy, in a thoughtful conversation about television and movies, explaining his perspective on freedom and presence.",
+      "assessment": "Nick shows patience and a willingness to connect with a child by sharing his views in an accessible way, indicating a friendly and sincere demeanor.",
+      "rating": 2,
+      "chunk": 17
     },
     {
-      "Action": "Turns off the radio during a compassionate sermon, drinks scotch while driving alone at night.",
-      "Warmth": -1,
-      "Chunk": 26
+      "trait": "competence",
+      "action": "Engages Rory in a thoughtful conversation about the difference between watching TV and movies, explaining the concept of being mentally 'everywhere' with multiple channels and satellite dishes.",
+      "assessment": "This demonstrates Nick's ability to articulate ideas clearly and engage a child in a meaningful way, showing intellectual skill and confidence in communication.",
+      "rating": 2,
+      "chunk": 17
     },
     {
-      "Action": "Jerks the car back into his lane abruptly and slams the shift into park after being startled by a car horn.",
-      "Warmth": -1,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Uses a metaphorical explanation ('You're everywhere') to describe the experience of watching TV with many channels.",
+      "assessment": "This indicates creative thinking and an ability to simplify complex ideas, reflecting cognitive competence.",
+      "rating": 2,
+      "chunk": 17
     },
     {
-      "Action": "Opens the car door a crack to turn on the dome light and smooths out the map on the dashboard, tracing the route with his finger thoughtfully.",
-      "Warmth": 0,
-      "Chunk": 27
+      "trait": "warmth",
+      "action": "Puts his arm around Major Jenkins' shoulder and guides him toward a display case while discussing television options.",
+      "assessment": "This physical gesture and guidance suggest a friendly and supportive demeanor, indicating warmth and a willingness to help.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Jerks the car back into his lane and pulls off to the side of the road after losing control and being honked at, then stops the car and carefully examines the map, tracing the route marked.",
-      "Competence": 1,
-      "Chunk": 27
+      "trait": "warmth",
+      "action": "Stifles a strange urge to giggle when Major Jenkins explains his parents want Japanese televisions.",
+      "assessment": "Suppressing laughter shows some restraint, but the urge to giggle at the man's family situation hints at a lack of full respect or empathy, which detracts from warmth.",
+      "rating": -1,
+      "chunk": 18
     },
     {
-      "Action": "Politely knocks and waits at the door, despite initial hesitation and discomfort.",
-      "Warmth": 1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Engages Major Jenkins in a conversation about television technology and guides him toward a display case to illustrate his point.",
+      "assessment": "Nick demonstrates knowledge about television technology and uses a practical example to communicate effectively, showing skill and confidence in his interaction.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Attempts to communicate sincerely and respectfully with Mr. August and Elizabeth.",
-      "Warmth": 1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Stifles a strange urge to giggle when Major Jenkins explains his parents want Japanese TVs.",
+      "assessment": "This moment suggests a lapse in social tact or emotional control, indicating a slight lack of professionalism or maturity in this context.",
+      "rating": -1,
+      "chunk": 18
     },
     {
-      "Action": "Gives a cordial greeting and offers a handshake to Mr. August.",
-      "Warmth": 1,
-      "Chunk": 30
+      "trait": "warmth",
+      "action": "Stifles a giggle when Major Jenkins mentions adults having parents, then quickly recovers and affirms he has parents too.",
+      "assessment": "Nick's initial giggle could be seen as slightly dismissive or immature, but he quickly corrects himself and engages sincerely, showing some self-awareness and a desire to connect.",
+      "rating": 1,
+      "chunk": 19
     },
     {
-      "Action": "Appears uncomfortable and uncertain, but persists in making contact.",
-      "Warmth": 0,
-      "Chunk": 30
+      "trait": "warmth",
+      "action": "Cheerfully presents Beth with a receipt and explains how to get a television, adopting a salesman-like enthusiasm.",
+      "assessment": "Nick's cheerful and helpful demeanor toward Beth indicates friendliness and a willingness to assist, reflecting positive warmth.",
+      "rating": 2,
+      "chunk": 19
     },
     {
-      "Action": "Acknowledges Elizabeth's comment about yelling not helping when addressing a deaf man.",
-      "Warmth": 1,
-      "Chunk": 31
+      "trait": "warmth",
+      "action": "Interrupts Beth when she tries to speak to him, firmly telling her to see someone else and that he can't really help her.",
+      "assessment": "Nick's interruption and refusal to help Beth, despite her clear need, shows a lack of tolerance and sincerity, detracting from his warmth.",
+      "rating": -2,
+      "chunk": 19
     },
     {
-      "Action": "Tries to engage Elizabeth with friendly questions about her identity and connections.",
-      "Warmth": 1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Controls his urge to giggle and maintains composure during the interaction with Major Jenkins and Beth.",
+      "assessment": "Nick demonstrates self-control and social awareness by suppressing inappropriate laughter, indicating emotional regulation and situational understanding.",
+      "rating": 2,
+      "chunk": 19
     },
     {
-      "Action": "Attempts to use 'salesman charm' when Elizabeth stares at him.",
-      "Warmth": 0,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Quickly improvises a plan involving a receipt and a television to help Beth.",
+      "assessment": "This shows Nick's ability to think on his feet and devise a practical solution under pressure, reflecting resourcefulness and problem-solving skills.",
+      "rating": 3,
+      "chunk": 19
     },
     {
-      "Action": "Interrupts Elizabeth's response with 'No...' when she says her name, showing slight dismissiveness.",
-      "Warmth": -1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Explains the plan to Beth clearly and confidently, guiding her through the steps.",
+      "assessment": "Nick communicates effectively and confidently, demonstrating clarity and leadership in directing others.",
+      "rating": 2,
+      "chunk": 19
     },
     {
-      "Action": "Expresses nervousness and tries to find common ground by speaking about shared acquaintances.",
-      "Warmth": 1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Firmly but politely puts off another customer to focus on helping Beth.",
+      "assessment": "Nick shows assertiveness and prioritization skills, managing social interactions to maintain focus on the task at hand.",
+      "rating": 2,
+      "chunk": 19
     },
     {
-      "Action": "Abruptly shifts conversation to Mr. August's past without much social grace.",
-      "Warmth": 0,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Mentions that American products are mostly Japanese parts to justify the plan.",
+      "assessment": "This indicates some knowledge and persuasive ability, using relevant information to support his argument.",
+      "rating": 1,
+      "chunk": 19
     },
     {
-      "Action": "Smiles weakly at Elizabeth during a difficult conversation.",
-      "Warmth": 1,
-      "Chunk": 32
+      "trait": "competence",
+      "action": "Admits he cannot help the other customer after a moment of consideration.",
+      "assessment": "Nick shows honesty and decisiveness, recognizing his limits and communicating them clearly.",
+      "rating": 1,
+      "chunk": 19
     },
     {
-      "Action": "Expresses sympathy by saying 'I'm sorry. That's tragic.'",
-      "Warmth": 1,
-      "Chunk": 32
+      "trait": "competence",
+      "action": "Drives while sweating and smoking, listens to disturbing news, then turns off the radio and drinks scotch.",
+      "assessment": "Nick's behavior suggests stress and possible impaired judgment, indicating a lack of emotional control and focus, which detracts from his competence.",
+      "rating": -2,
+      "chunk": 21
     },
     {
-      "Action": "Acknowledges Elizabeth's losses with 'That's very sad...'",
-      "Warmth": 1,
-      "Chunk": 32
+      "trait": "competence",
+      "action": "Jerks his necktie loose and tosses it into the back seat before swerving into a mall parking lot.",
+      "assessment": "This action shows some awareness of physical comfort and readiness to act, but the swerving suggests possible recklessness or lack of control.",
+      "rating": -1,
+      "chunk": 21
     },
     {
-      "Action": "Attempts to politely end the visit shortly after hearing Elizabeth's difficult story.",
-      "Warmth": 0,
-      "Chunk": 32
+      "trait": "competence",
+      "action": "Speaks urgently into a payphone with edgy body language, then abruptly hangs up.",
+      "assessment": "Nick's urgency and decisiveness in communication indicate a level of capability and focus under pressure, reflecting some competence.",
+      "rating": 1,
+      "chunk": 21
     },
     {
-      "Action": "Stops in his tracks upon hearing Elizabeth's revelation about adoption and shows a reflective pause.",
-      "Warmth": 1,
-      "Chunk": 32
+      "trait": "warmth",
+      "action": "Beth and Sid are happily watching a rock video on the TV that Nick presumably provided, with Beth expressing happy disbelief about Nick's involvement ('Fuckin' Nick...').",
+      "assessment": "Nick's action of providing or setting up the TV and speakers, which brings joy and entertainment to Beth and Sid, suggests a friendly and generous nature, contributing positively to the warmth trait.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Edges toward the door, backing away while conversing as Elizabeth shares emotional details.",
-      "Warmth": 0,
-      "Chunk": 32
+      "trait": "competence",
+      "action": "Beth praises Nick's stereo system, calling it a 'beautiful picture' and Carol is impressed, saying she should have had him steal one too.",
+      "assessment": "This suggests Nick has some skill or resourcefulness in acquiring or setting up quality equipment, indicating competence in practical or technical matters.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Acknowledges and responds empathetically to Elizabeth's tragic family losses with appropriate sympathy and humility.",
-      "Competence": 1,
-      "Chunk": 32
+      "trait": "warmth",
+      "action": "Leans against the car and engages in a brief, polite conversation with the Navajo teenage boy at the service station.",
+      "assessment": "Nick's willingness to engage with a stranger in a friendly manner, asking questions and responding cheerfully, indicates a basic level of sociability and openness.",
+      "rating": 1,
+      "chunk": 24
     },
     {
-      "Action": "Recognizes the awkwardness and absurdity of the situation, showing self-awareness.",
-      "Competence": 1,
-      "Chunk": 32
+      "trait": "warmth",
+      "action": "Asks the Navajo boy about the meaning of the wind and listens sincerely.",
+      "assessment": "This shows curiosity and a respectful attitude toward the boy's knowledge and culture, suggesting some degree of tolerance and sincerity.",
+      "rating": 2,
+      "chunk": 24
     },
     {
-      "Action": "Attempts to politely exit the situation when it becomes uncomfortable, using social niceties.",
-      "Competence": 1,
-      "Chunk": 32
+      "trait": "warmth",
+      "action": "Leaves abruptly, causing distress to Beth and Carol who call him an 'asshole' and express shock at his disappearance.",
+      "assessment": "Nick's sudden departure without communication or explanation is hurtful and inconsiderate, indicating a lack of warmth and responsibility toward those who care about him.",
+      "rating": -3,
+      "chunk": 24
     },
     {
-      "Action": "Fails to engage meaningfully or offer support beyond surface-level sympathy in an emotionally charged conversation.",
-      "Competence": 0,
-      "Chunk": 32
+      "trait": "competence",
+      "action": "Leans against the car and engages in casual conversation with the Navajo teen at the service station, asking about the teepee and its meaning.",
+      "assessment": "This shows Nick's ability to remain calm and engage socially even in a potentially uncomfortable or isolated situation, indicating a degree of social competence and situational awareness.",
+      "rating": 1,
+      "chunk": 24
     },
     {
-      "Action": "Looks into Elizabeth's eyes and tries to engage, but is unsure how to respond when she grabs his arm.",
-      "Warmth": 1,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "Rubs dust out of his eye after a gust of wind blows dust into it.",
+      "assessment": "This is a natural, reflexive response to discomfort but also shows a momentary distraction or minor physical inconvenience, suggesting a slight lack of preparedness for environmental conditions.",
+      "rating": -1,
+      "chunk": 24
     },
     {
-      "Action": "Quickly says 'I have to go' and hurries out the door, ending the interaction abruptly.",
-      "Warmth": -1,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "Pulls off the highway at a service station late at night in a remote area.",
+      "assessment": "This action suggests some practical decision-making to stop for fuel or rest, but the choice of a remote, lightly traveled station at night could indicate poor judgment or lack of caution.",
+      "rating": 0,
+      "chunk": 24
     },
     {
-      "Action": "Stares at Elizabeth not knowing what to do after she grabs his arm tightly, then abruptly decides to leave by saying 'I have to go' and hurries out into the night.",
-      "Competence": -1,
-      "Chunk": 33
+      "trait": "warmth",
+      "action": "Pulls a bill out of his wallet and holds it out to pay the Navajo Teen.",
+      "assessment": "Paying the Navajo Teen promptly and without hesitation shows a basic level of respect and fairness.",
+      "rating": 2,
+      "chunk": 25
     },
     {
-      "Action": "Jerks the wheel off the highway abruptly to stop at an abandoned rest stop, indicating impulsiveness and poor driving judgment.",
-      "Competence": -1,
-      "Chunk": 35
+      "trait": "warmth",
+      "action": "Engages in a brief conversation with the Navajo Teen about the meaning of the wind and omens.",
+      "assessment": "Nick attempts to connect and understand the Navajo Teen's perspective, indicating some openness and friendliness.",
+      "rating": 1,
+      "chunk": 25
     },
     {
-      "Action": "Attempts to use a phone booth with drunken concentration, but struggles to recall basic information like names and numbers.",
-      "Competence": -1,
-      "Chunk": 35
+      "trait": "warmth",
+      "action": "His mood darkens and he slams the car door after the exchange.",
+      "assessment": "The door slam and darkening mood suggest frustration and impatience, which can be perceived as cold or dismissive behavior.",
+      "rating": -2,
+      "chunk": 25
     },
     {
-      "Action": "Uses salesman charm over the phone operator to try to solve his problem, indicating some social skill and resourcefulness despite impairment.",
-      "Competence": 0,
-      "Chunk": 35
+      "trait": "warmth",
+      "action": "Expresses disappointment that the wind 'would be better if it meant something.'",
+      "assessment": "This statement reveals a cynical or disillusioned attitude, which may limit his warmth and openness toward others' beliefs.",
+      "rating": -1,
+      "chunk": 25
     },
     {
-      "Action": "Attempts to logically explain the phone disconnection situation and insists on a technical solution, demonstrating some understanding of service mechanisms.",
-      "Competence": 1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Pulls a bill out of his wallet and holds it out to pay the Navajo Teen without hesitation.",
+      "assessment": "This action shows basic financial competence and decisiveness in a simple transactional situation.",
+      "rating": 1,
+      "chunk": 25
     },
     {
-      "Action": "Fails to stay calm under pressure, begins to panic and pleads urgently, losing composure.",
-      "Competence": -1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Engages in a somewhat mystical conversation about the wind and its meaning, attempting to connect with the Navajo Teen's perspective.",
+      "assessment": "While this shows some social awareness and willingness to engage, his tone and approach come off as superficial and uncertain, indicating limited cultural understanding and confidence.",
+      "rating": 0,
+      "chunk": 25
     },
     {
-      "Action": "Does not have basic information about his neighbors, indicating poor situational awareness or poor memory of immediate environment.",
-      "Competence": -1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "His train of thought is broken when the Navajo Teen corrects him and when the price is given.",
+      "assessment": "This suggests a momentary lapse in focus and possibly a lack of preparedness or attentiveness in the interaction.",
+      "rating": -1,
+      "chunk": 25
     },
     {
-      "Action": "Refuses practical assistance (police visiting the house) due to unspecified 'circumstances', potentially hindering resolution.",
-      "Competence": -1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "His mood darkens and he slams the car door after the exchange, expressing frustration that the wind 'would be better if it meant something.'",
+      "assessment": "This reaction indicates emotional impulsiveness and a tendency to respond negatively when things do not meet his expectations, which can undermine competent behavior.",
+      "rating": -1,
+      "chunk": 25
     },
     {
-      "Action": "Expresses urgency and persistence in seeking help, showing motivation and a proactive stance despite difficulty.",
-      "Competence": 0,
-      "Chunk": 36
+      "trait": "warmth",
+      "action": "Nick chooses to drive away alone, drinking scotch and smoking, ignoring the radio's message of compassion.",
+      "assessment": "Nick's solitary behavior and turning off a compassionate radio message suggest emotional withdrawal and a lack of openness or warmth in this moment.",
+      "rating": -2,
+      "chunk": 26
     },
     {
-      "Action": "Doubles over, retching, clutching the side of the booth after an unsuccessful phone call.",
-      "Competence": -1,
-      "Chunk": 37
+      "trait": "warmth",
+      "action": "Nick does not call Beth despite her phone being disconnected and the implication that he might have wanted to reach out.",
+      "assessment": "Nick's failure to communicate or make an effort to connect with Beth indicates a lack of trustworthiness and friendliness, reflecting low warmth.",
+      "rating": -2,
+      "chunk": 26
     },
     {
-      "Action": "Did not take anything from Beth after leaving, not even clothes.",
-      "Warmth": 1,
-      "Chunk": 38
+      "trait": "competence",
+      "action": "Turns off the radio and takes a drink of scotch while driving on the highway at night.",
+      "assessment": "This behavior suggests a lack of focus and poor judgment while driving, indicating impaired attention and potential risk-taking.",
+      "rating": -2,
+      "chunk": 26
     },
     {
-      "Action": "Responds wearily and shortly to the young man asking about the phone, showing little engagement.",
-      "Warmth": 0,
-      "Chunk": 38
+      "trait": "competence",
+      "action": "Attempts to read and unfold a map while driving, resulting in the map covering his face and losing control of the car.",
+      "assessment": "This action shows poor multitasking and lack of situational awareness, reflecting low competence in managing driving and navigation simultaneously.",
+      "rating": -3,
+      "chunk": 26
     },
     {
-      "Action": "Anxiously smoking and tapping on steering wheel, then shows a small determined smile (suggesting some internal positive resolve but no clear warmth toward others)",
-      "Warmth": 0,
-      "Chunk": 41
+      "trait": "warmth",
+      "action": "Jerks the car back into his lane, bats the map down again, and pulls off to the side of the road to stop and smooth out the map on the dashboard.",
+      "assessment": "Nick's actions show a degree of care and responsibility, as he corrects his driving and takes time to focus on the map carefully, suggesting attentiveness and a calm approach rather than recklessness.",
+      "rating": 1,
+      "chunk": 27
     },
     {
-      "Action": "Politely declines to buy turquoise jewelry for Mrs. Dotson upon Navajo woman's suggestion, showing some consideration of Mrs. Dotson's preferences",
-      "Warmth": 1,
-      "Chunk": 41
+      "trait": "warmth",
+      "action": "Traces the route Carol highlighted on the map with his finger, stopping halfway where the red line ends, and stares at the map.",
+      "assessment": "This moment indicates a thoughtful and reflective side of Nick, showing he values Carol's input and is engaged with her perspective, which can be interpreted as a sign of sincerity and respect.",
+      "rating": 2,
+      "chunk": 27
     },
     {
-      "Action": "Anxiously tapping the steering wheel, appearing haggard and stressed.",
-      "Competence": -1,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Jerks the car back into his lane, bats the map down again, and pulls off to the side of the road after losing control.",
+      "assessment": "This shows Nick's ability to quickly regain control of the vehicle in a potentially dangerous situation, indicating practical driving skill and presence of mind.",
+      "rating": 2,
+      "chunk": 27
     },
     {
-      "Action": "Idea strikes him, he smiles determinedly, showing a spark of resolve and confidence.",
-      "Competence": 1,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Stops the car, slams the shift into park, opens the door a crack, turns on the dome light, and smooths out the map on the dashboard.",
+      "assessment": "These deliberate, methodical actions suggest Nick is careful and organized, taking steps to reassess his situation calmly and thoughtfully.",
+      "rating": 2,
+      "chunk": 27
     },
     {
-      "Action": "Confidently talks to the Navajo woman at the gift shop, correctly assessing that Mrs. Dotson doesn't wear jewelry.",
-      "Competence": 1,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Traces the route on the map with his finger, stopping when the red line ends and staring at the map.",
+      "assessment": "This indicates Nick's attentiveness and analytical approach to navigation, though his hesitation at the incomplete route may suggest some uncertainty or lack of information.",
+      "rating": 1,
+      "chunk": 27
     },
     {
-      "Action": "Recognizes that a Navajo ceremonial headdress would make someone laugh, demonstrates social awareness and humor.",
-      "Competence": 1,
-      "Chunk": 42
+      "trait": "warmth",
+      "action": "Knocks and pounds on the door persistently despite initial hesitation.",
+      "assessment": "Nick shows determination and a willingness to engage, indicating a sincere effort to connect despite his discomfort.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Seeks a fake version of an expensive authentic item, showing practical thinking and negotiation skills.",
-      "Competence": 1,
-      "Chunk": 42
+      "trait": "warmth",
+      "action": "Politely apologizes and explains he is looking for his parents.",
+      "assessment": "His polite and clear communication reflects respect and sincerity toward the strangers he encounters.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Dismisses giving jewelry as a present without considering options deeply, may reflect limited flexibility.",
-      "Competence": 0,
-      "Chunk": 42
+      "trait": "warmth",
+      "action": "Greets Elizabeth with a simple 'Hello' and responds to her greeting.",
+      "assessment": "Nick’s friendly greeting shows basic social warmth and openness to interaction.",
+      "rating": 1,
+      "chunk": 30
     },
     {
-      "Action": "Leaps out of car and runs toward Beth's house, calling out for her with urgency.",
-      "Warmth": 1,
-      "Chunk": 48
+      "trait": "warmth",
+      "action": "Holds out his hand to Mr. August for a handshake.",
+      "assessment": "Offering a handshake is a conventional gesture of friendliness and trustworthiness, demonstrating Nick’s good-natured intent.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Freezes when confronted by Sid, showing hesitation or restraint rather than confrontation.",
-      "Warmth": 0,
-      "Chunk": 48
+      "trait": "warmth",
+      "action": "Appears uncomfortable and hesitant multiple times before engaging.",
+      "assessment": "Nick’s hesitation may indicate social awkwardness or uncertainty, which tempers the warmth of his approach but does not negate it.",
+      "rating": 0,
+      "chunk": 30
     },
     {
-      "Action": "Remembers the headdress and rips it off, showing some awareness and response to circumstances.",
-      "Competence": 0,
-      "Chunk": 49
+      "trait": "competence",
+      "action": "Screws the cap on the scotch bottle and drops it on the map before stepping out of the car unsteadily.",
+      "assessment": "This action suggests some physical unsteadiness and lack of coordination, possibly due to intoxication or nervousness, indicating a momentary lapse in physical competence.",
+      "rating": -1,
+      "chunk": 30
     },
     {
-      "Action": "Runs frantically to Carol's front door and pounds on it, trying to find her.",
-      "Competence": 1,
-      "Chunk": 49
+      "trait": "competence",
+      "action": "Walks toward the door, stops, then starts back to his car, stops again, shakes his head, and finally walks quickly to the front door.",
+      "assessment": "This hesitation and indecision show a lack of confidence and decisiveness, which are important aspects of competence.",
+      "rating": -2,
+      "chunk": 30
     },
     {
-      "Action": "Reacts with desperation, profanity, and anger rather than calm problem-solving.",
-      "Competence": -1,
-      "Chunk": 49
+      "trait": "competence",
+      "action": "Knocks on the door, waits impatiently, then pounds on it until the lights come on and the door opens.",
+      "assessment": "This persistence and ability to get a response demonstrate some degree of assertiveness and situational awareness, reflecting moderate competence.",
+      "rating": 1,
+      "chunk": 30
     },
     {
-      "Action": "Leans on the door gasping for breath and appears spent, showing physical exhaustion and discouragement.",
-      "Competence": 0,
-      "Chunk": 49
+      "trait": "competence",
+      "action": "Steps back startled when Mr. August opens the door but quickly composes himself and initiates conversation politely.",
+      "assessment": "Although initially startled, Nick recovers quickly and manages the social interaction with politeness and clarity, indicating social competence and emotional regulation.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Throws empty bottle of scotch down the street in frustration.",
-      "Competence": -1,
-      "Chunk": 49
+      "trait": "competence",
+      "action": "Explains his purpose clearly and maintains composure despite the unexpected situation.",
+      "assessment": "Nick communicates his intentions effectively and remains composed in an awkward and potentially confusing encounter, showing verbal and emotional competence.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Displays persistence by immediately bolting for his car to possibly continue searching.",
-      "Competence": 1,
-      "Chunk": 49
+      "trait": "competence",
+      "action": "Holds out his hand to Mr. August and accepts the slow handshake.",
+      "assessment": "This gesture shows social grace and an attempt to establish rapport, reflecting interpersonal competence.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Expresses frustration about strangers in his house but ultimately asks politely if he can look around.",
-      "Warmth": 1,
-      "Chunk": 50
+      "trait": "warmth",
+      "action": "Holds out a hand to Mr. August and says 'Nice to meet you.'",
+      "assessment": "Extending a handshake and greeting someone politely is a friendly and sincere gesture, indicating openness.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Advances on Sid adamantly, creating a stand-off.",
-      "Warmth": -1,
-      "Chunk": 50
+      "trait": "warmth",
+      "action": "Acknowledges Elizabeth's comment about Mr. August being deaf and comments that yelling doesn't help.",
+      "assessment": "Shows some sensitivity and awareness about communication difficulties, indicating tolerance and thoughtfulness.",
+      "rating": 1,
+      "chunk": 31
     },
     {
-      "Action": "Shows dismay that the television was left, implying sentimental value.",
-      "Warmth": 1,
-      "Chunk": 50
+      "trait": "warmth",
+      "action": "Waits for Elizabeth to introduce herself but she doesn't, then tries to engage by asking about the Brennans and Elizabeth's name.",
+      "assessment": "Attempts to connect and make conversation, showing a desire to be friendly and inclusive, though somewhat awkward.",
+      "rating": 1,
+      "chunk": 31
     },
     {
-      "Action": "Politely asks to look around despite confrontation.",
-      "Competence": 1,
-      "Chunk": 50
+      "trait": "warmth",
+      "action": "Uses a 'salesman charm' to try to engage Elizabeth.",
+      "assessment": "While the attempt to charm may be well-intentioned, it comes off as somewhat insincere or forced, reducing warmth.",
+      "rating": 0,
+      "chunk": 31
     },
     {
-      "Action": "Hurls object impulsively and stops abruptly at open doorway.",
-      "Competence": -1,
-      "Chunk": 50
+      "trait": "warmth",
+      "action": "Abruptly nods toward Mr. August and asks questions about his memory and the previous residents.",
+      "assessment": "Shows curiosity and interest in others, but the abruptness and persistence may feel intrusive or insensitive.",
+      "rating": -1,
+      "chunk": 31
     },
     {
-      "Action": "Expresses strong emotional frustration loudly and confronts Sid.",
-      "Competence": 0,
-      "Chunk": 50
+      "trait": "warmth",
+      "action": "Compliments the sandwich and thanks Elizabeth.",
+      "assessment": "Polite and appreciative behavior, indicating good-natured and friendly tendencies.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Acknowledges Sid's logic and calmly engages in dialogue.",
-      "Competence": 1,
-      "Chunk": 50
+      "trait": "competence",
+      "action": "Holds out a hand to Mr. August and attempts a handshake despite Mr. August being deaf.",
+      "assessment": "This shows a social attempt to connect, but also a lack of awareness or preparation for Mr. August's condition, indicating a slight social awkwardness or lack of situational knowledge.",
+      "rating": -1,
+      "chunk": 31
     },
     {
-      "Action": "Displays awareness and appreciation of the value of the television.",
-      "Competence": 1,
-      "Chunk": 50
+      "trait": "competence",
+      "action": "Realizes yelling doesn't help when Elizabeth points out Mr. August is deaf and responds uncomfortably.",
+      "assessment": "Nick quickly adjusts his behavior upon realizing his mistake, showing some adaptability and social intelligence.",
+      "rating": 1,
+      "chunk": 31
     },
     {
-      "Action": "Gets into a tense stand-off and does not escalate to violence.",
-      "Competence": 1,
-      "Chunk": 50
+      "trait": "competence",
+      "action": "Introduces himself and tries to engage Elizabeth in conversation, attempting to use charm.",
+      "assessment": "Nick demonstrates social initiative and attempts to build rapport, though his charm seems somewhat forced and not fully effective.",
+      "rating": 1,
+      "chunk": 31
     },
     {
-      "Action": "Hurries to meet Carol upon her arrival, engages directly with her and Sid about Beth's whereabouts.",
-      "Competence": 1,
-      "Chunk": 51
+      "trait": "competence",
+      "action": "Presses Elizabeth for information about the Brennans and tries to connect through shared knowledge.",
+      "assessment": "Shows curiosity and a purposeful attempt to gather information, indicating some investigative skill.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Expresses exasperation and confusion about Sid's presence and involvement, seems emotionally reactive.",
-      "Competence": -1,
-      "Chunk": 51
+      "trait": "competence",
+      "action": "Tries to confirm Elizabeth's identity by referencing a known Elizabeth he calls Beth.",
+      "assessment": "This shows a strategic attempt to establish familiarity and trust, reflecting social perceptiveness.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Bursts into the living room to confront Sid aggressively, demanding answers.",
-      "Competence": 0,
-      "Chunk": 51
+      "trait": "competence",
+      "action": "Eats the sandwich quietly while being watched expectantly, then compliments it and abruptly changes the subject to gather more information.",
+      "assessment": "Nick manages social pressure and uses the moment to steer conversation toward his goals, showing social tact and focus.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Denies having been unfaithful, tries to explain his reasons for leaving Beth in a rational way.",
-      "Competence": 1,
-      "Chunk": 51
+      "trait": "competence",
+      "action": "Questions Elizabeth repeatedly about Mr. August's memory and the previous residents.",
+      "assessment": "Demonstrates persistence and critical thinking, though Elizabeth's responses suggest limited success.",
+      "rating": 1,
+      "chunk": 31
     },
     {
-      "Action": "Gets defensive and emotionally hurt, but tries to articulate his perspective calmly at times.",
-      "Competence": 1,
-      "Chunk": 51
+      "trait": "warmth",
+      "action": "Smiles weakly at Elizabeth after acknowledging he lost his parents.",
+      "assessment": "Nick's weak smile suggests an attempt at connection and shared vulnerability, indicating some warmth and sincerity.",
+      "rating": 2,
+      "chunk": 32
     },
     {
-      "Action": "Shows signs of bitterness and disillusionment, reacts emotionally to the situation rather than strategically.",
-      "Competence": -1,
-      "Chunk": 51
+      "trait": "warmth",
+      "action": "Expresses sympathy by saying 'I'm sorry. That's tragic.' and 'I'm really sorry.' when Elizabeth talks about her parents' deaths.",
+      "assessment": "Nick shows empathy and concern for Elizabeth's loss, reflecting a good-natured and sincere attitude.",
+      "rating": 3,
+      "chunk": 32
     },
     {
-      "Action": "Encourages Sid to take action and go after the woman he loves, shows concern for her being alone.",
-      "Warmth": 1,
-      "Chunk": 53
+      "trait": "warmth",
+      "action": "Acknowledges Elizabeth's description of her father's heart attacks with a nod and the word 'Attacks...'",
+      "assessment": "This shows attentiveness and a respectful response, indicating tolerance and friendliness.",
+      "rating": 2,
+      "chunk": 32
     },
     {
-      "Action": "Advances aggressively on Sid and explodes in anger, storms up to Carol's face.",
-      "Warmth": -1,
-      "Chunk": 53
+      "trait": "warmth",
+      "action": "Says 'That's very sad...' but quickly tries to leave, backing toward the door.",
+      "assessment": "While Nick expresses sympathy, his eagerness to leave soon after suggests discomfort or avoidance, which limits the warmth of the interaction.",
+      "rating": 0,
+      "chunk": 32
     },
     {
-      "Action": "Assertively challenges Sid to take action and pursue what he wants, displaying some confidence and decisiveness.",
-      "Competence": 1,
-      "Chunk": 53
+      "trait": "warmth",
+      "action": "Thanks Elizabeth for the sandwich before leaving.",
+      "assessment": "Expressing gratitude is a polite and friendly gesture, showing basic warmth.",
+      "rating": 1,
+      "chunk": 32
     },
     {
-      "Action": "Insists that people must take what they want, showing a proactive mindset and pragmatic approach.",
-      "Competence": 1,
-      "Chunk": 53
+      "trait": "warmth",
+      "action": "Asks Elizabeth if she has found her real parents after she reveals she is adopted.",
+      "assessment": "This question could be seen as curious but also somewhat insensitive given the emotional context, showing a lack of tact and possibly reducing perceived warmth.",
+      "rating": -1,
+      "chunk": 32
     },
     {
-      "Action": "Admits he doesn’t know what he wants or how to obtain it, openly expressing confusion and vulnerability.",
-      "Competence": -1,
-      "Chunk": 53
+      "trait": "warmth",
+      "action": "Stops in his tracks and stares at Elizabeth after she says 'No. Two are enough to lose.'",
+      "assessment": "Nick's pause and silent reflection indicate a moment of genuine understanding and emotional connection, suggesting sincere warmth.",
+      "rating": 2,
+      "chunk": 32
     },
     {
-      "Action": "Becomes emotionally explosive and storms up to Carol’s face, which may indicate a lack of emotional control or strategic thinking.",
-      "Competence": -1,
-      "Chunk": 53
+      "trait": "competence",
+      "action": "Responds to Elizabeth's grief with sympathy and attempts polite conversation despite the emotional weight of the topic.",
+      "assessment": "Nick shows emotional intelligence and social awareness by acknowledging Elizabeth's loss and expressing condolences, indicating interpersonal competence.",
+      "rating": 2,
+      "chunk": 32
     },
     {
-      "Action": "Sells televisions and compares relationships to sales, implying some real-world experience and practical awareness of human behavior.",
-      "Competence": 1,
-      "Chunk": 53
+      "trait": "competence",
+      "action": "Attempts to exit the emotionally charged situation politely by thanking Elizabeth for the sandwich and trying to leave.",
+      "assessment": "Nick demonstrates social tact and self-awareness by recognizing his discomfort and trying to exit gracefully, which reflects a moderate level of social competence.",
+      "rating": 1,
+      "chunk": 32
     },
     {
-      "Action": "Repeatedly pressures Sid without a clear plan or solution, indicating good intentions but possibly lacking effective strategy.",
-      "Competence": 0,
-      "Chunk": 53
+      "trait": "competence",
+      "action": "Stops abruptly when Elizabeth reveals a significant personal secret, showing attentiveness and engagement.",
+      "assessment": "Nick's reaction to the revelation shows that he is attentive and responsive to important information, suggesting cognitive and emotional competence.",
+      "rating": 2,
+      "chunk": 32
     },
     {
-      "Action": "Gives clear, practical directions to Sid on how to find the woman he loves",
-      "Warmth": 1,
-      "Chunk": 54
+      "trait": "competence",
+      "action": "Looks down and appears isolated after Elizabeth mentions her grandfather, highlighting his own loneliness.",
+      "assessment": "Nick's nonverbal behavior reveals vulnerability and emotional sensitivity, but also a lack of confidence or assertiveness in this moment, indicating a slight dip in emotional competence.",
+      "rating": -1,
+      "chunk": 32
     },
     {
-      "Action": "Tosses a self-satisfied smile at Carol and walks past her",
-      "Warmth": -1,
-      "Chunk": 54
+      "trait": "warmth",
+      "action": "Looks into Elizabeth's eyes and listens as she explains her grandfather is deaf.",
+      "assessment": "Nick shows attentiveness and respect by looking into Elizabeth's eyes and allowing her to explain the situation, indicating a degree of sincerity and patience.",
+      "rating": 1,
+      "chunk": 33
     },
     {
-      "Action": "Declines to engage emotionally or offer encouragement after Sid leaves; slumps on sofa staring at blank TV",
-      "Warmth": -1,
-      "Chunk": 54
+      "trait": "warmth",
+      "action": "Hurries out the door into the night after Elizabeth lets go of his arm.",
+      "assessment": "Nick's abrupt departure without further interaction or explanation suggests emotional withdrawal or discomfort, indicating a lack of openness or warmth in this moment.",
+      "rating": -1,
+      "chunk": 33
     },
     {
-      "Action": "Flatly tells the unexpected visitors that the apartment is theirs, maintains composure during awkward interaction.",
-      "Competence": 1,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "He stares at Elizabeth, not knowing what to do when she grabs his arm tightly.",
+      "assessment": "This hesitation and uncertainty in response to Elizabeth's sudden action suggests a momentary lack of confidence and decisiveness.",
+      "rating": -1,
+      "chunk": 33
     },
     {
-      "Action": "Improvises by claiming to be new neighbors to cover confusion.",
-      "Competence": 1,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "Says 'I have to go.' and hurries out the door into the night.",
+      "assessment": "This shows a clear decision to remove himself from an uncomfortable or confusing situation, indicating some level of decisiveness and self-awareness, though the abruptness may also suggest avoidance rather than confident confrontation.",
+      "rating": 1,
+      "chunk": 33
     },
     {
-      "Action": "Waits confidently for a reaction after stating they are there for the TV; shows expectation and composure.",
-      "Competence": 1,
-      "Chunk": 55
+      "trait": "warmth",
+      "action": "Attempts to call home despite being drunk and frustrated, showing persistence and vulnerability.",
+      "assessment": "Nick's effort to reach out for connection, even in a difficult state, suggests a desire to maintain ties and communicate, which can be seen as a sign of underlying warmth and sincerity.",
+      "rating": 1,
+      "chunk": 35
     },
     {
-      "Action": "Smiles and tries to make eye contact with Carol while carrying the t.v., showing awareness and connection.",
-      "Warmth": 1,
-      "Chunk": 56
+      "trait": "warmth",
+      "action": "Jerks the wheel suddenly and drives off the highway into an abandoned rest stop.",
+      "assessment": "This impulsive and reckless behavior indicates emotional turmoil and a lack of self-control, which may hinder his ability to be reliably warm or supportive in the moment.",
+      "rating": -1,
+      "chunk": 35
     },
     {
-      "Action": "Refuses help from the woman offering to assist with the t.v.; says 'We can manage.'",
-      "Warmth": 0,
-      "Chunk": 56
+      "trait": "warmth",
+      "action": "Hits himself in the head in angry disbelief after failing to remember a phone number.",
+      "assessment": "This self-directed frustration reveals internal struggle and vulnerability, but also a harshness toward himself rather than others, which does not directly reflect warmth toward others.",
+      "rating": 0,
+      "chunk": 35
     },
     {
-      "Action": "Takes most of the weight of the t.v. to ease Carol's burden.",
-      "Warmth": 1,
-      "Chunk": 56
+      "trait": "competence",
+      "action": "Suddenly jerks the wheel over and screeches off the highway into an abandoned rest area.",
+      "assessment": "This action shows impulsiveness and possibly impaired control, suggesting a lack of calm and precise driving ability in this moment.",
+      "rating": -2,
+      "chunk": 35
     },
     {
-      "Action": "Responds to Carol's teasing about neighbors with a light-hearted comment, 'It was just something to say.'",
-      "Warmth": 1,
-      "Chunk": 56
+      "trait": "competence",
+      "action": "Dials phone numbers with drunken concentration and tries to recall a name but fails, then resorts to dialing zero and attempts to use salesman charm to get help.",
+      "assessment": "Despite being intoxicated and frustrated, Nick demonstrates resourcefulness and social skill by trying to engage the operator persuasively to solve his problem, indicating some competence under pressure.",
+      "rating": 1,
+      "chunk": 35
     },
     {
-      "Action": "Mentions his difficult visit to his parents and his reflection on his father to Carol, showing a level of vulnerability and openness.",
-      "Warmth": 1,
-      "Chunk": 56
+      "trait": "competence",
+      "action": "Hits himself in the head in angry disbelief after failing to remember a name.",
+      "assessment": "This self-directed frustration suggests a momentary lapse in emotional control and mental clarity, detracting from his overall competence.",
+      "rating": -1,
+      "chunk": 35
     },
     {
-      "Action": "Confidently refuses help carrying the TV, saying 'We can manage.'",
-      "Competence": 1,
-      "Chunk": 56
+      "trait": "warmth",
+      "action": "Urgently tries to get help reconnecting his phone to contact the woman he lives with, showing concern for her well-being.",
+      "assessment": "Nick's desperation to reach someone he cares about indicates a sincere and caring nature, reflecting warmth through his concern and urgency.",
+      "rating": 2,
+      "chunk": 36
     },
     {
-      "Action": "Takes most of the weight of the TV while Carol fumbles with the door key.",
-      "Competence": 1,
-      "Chunk": 56
+      "trait": "warmth",
+      "action": "Admits he doesn't know his neighbors well and cannot remember their names.",
+      "assessment": "This suggests a lack of social connection or engagement with his community, indicating lower warmth in terms of friendliness and trustworthiness toward others.",
+      "rating": -1,
+      "chunk": 36
     },
     {
-      "Action": "Unable to make eye contact with Carol while carrying the TV, smiling and glancing toward others instead.",
-      "Competence": 0,
-      "Chunk": 56
+      "trait": "warmth",
+      "action": "Pleading and imploring the person on the phone not to hang up and to help him.",
+      "assessment": "His vulnerability and reliance on others in a moment of crisis show a sincere and open side, which can be seen as a positive indicator of warmth.",
+      "rating": 1,
+      "chunk": 36
     },
     {
-      "Action": "Engages in a somewhat distracted or unfocused conversation about his day and his father, indicating possible emotional distraction.",
-      "Competence": 0,
-      "Chunk": 56
+      "trait": "warmth",
+      "action": "Hurls the receiver and calls the person on the phone a 'fucker' and 'heartless' after failing to get help.",
+      "assessment": "This outburst reveals frustration and anger that undermine his warmth, showing a moment of harshness and lack of tolerance or patience.",
+      "rating": -2,
+      "chunk": 36
     },
     {
-      "Action": "Shares a touching memory with Carol, smiling softly at it.",
-      "Warmth": 1,
-      "Chunk": 57
+      "trait": "competence",
+      "action": "Explains clearly to the phone operator the technical nature of the phone disconnection and insists that it can be reversed remotely.",
+      "assessment": "This shows that Nick has a reasonable understanding of how phone systems work and attempts to use that knowledge to solve his problem, indicating some technical competence and problem-solving ability.",
+      "rating": 2,
+      "chunk": 36
     },
     {
-      "Action": "Listens and agrees to Carol's insistence that he stop doing what he's been doing, showing compliance and calmness despite skepticism.",
-      "Warmth": 1,
-      "Chunk": 57
+      "trait": "competence",
+      "action": "Repeatedly tries to convince the operator to help him despite the weekend and their reluctance.",
+      "assessment": "Nick demonstrates persistence and urgency, showing he can advocate for himself and push for solutions under pressure, which is a positive indicator of competence.",
+      "rating": 2,
+      "chunk": 36
     },
     {
-      "Action": "Avoids Carol's stare initially but then meets her eyes calmly, engaging sincerely.",
-      "Warmth": 1,
-      "Chunk": 57
+      "trait": "competence",
+      "action": "Admits he does not know his neighbors well and cannot remember the last name of the one he knows.",
+      "assessment": "This suggests a lack of social awareness or community connection, which could be a negative indicator of competence in managing his immediate environment.",
+      "rating": -1,
+      "chunk": 36
     },
     {
-      "Action": "Responds calmly and agreeably to Carol's insistence that he cannot continue what he's been doing, shows understanding and compliance.",
-      "Competence": 1,
-      "Chunk": 57
+      "trait": "competence",
+      "action": "Begins to panic and his energy drains away after failing to get help.",
+      "assessment": "His panic and emotional collapse under stress indicate a limit to his ability to maintain composure and think clearly in emergencies, which detracts from his overall competence.",
+      "rating": -2,
+      "chunk": 36
     },
     {
-      "Action": "Avoids Carol's direct stare and is somewhat passive in the interaction.",
-      "Competence": -1,
-      "Chunk": 57
+      "trait": "competence",
+      "action": "Refuses to allow the police to go to his house due to unspecified 'circumstances'.",
+      "assessment": "This shows some situational awareness and caution, suggesting he understands potential consequences and is trying to control the situation, a nuanced but competent behavior.",
+      "rating": 1,
+      "chunk": 36
+    },
+    {
+      "trait": "competence",
+      "action": "Hurls the receiver and curses the operator after failing to get help.",
+      "assessment": "This loss of control and aggressive outburst undermines his ability to handle stressful situations calmly and effectively, indicating a negative aspect of his competence.",
+      "rating": -2,
+      "chunk": 36
+    },
+    {
+      "trait": "competence",
+      "action": "Doubles over, retching, clutching the side of the booth after throwing the phone receiver.",
+      "assessment": "This physical reaction suggests a moment of emotional or physical overwhelm, indicating a lack of control or composure in this situation.",
+      "rating": -1,
+      "chunk": 37
+    },
+    {
+      "trait": "warmth",
+      "action": "Steals a TV and leaves it for Beth, but does not take any of her or their shared belongings, not even his own clothes.",
+      "assessment": "Although stealing is negative, Nick's choice to leave the stolen item behind and not take shared or personal belongings suggests a complex, less malicious intent, possibly indicating some residual care or respect.",
+      "rating": -1,
+      "chunk": 38
+    },
+    {
+      "trait": "warmth",
+      "action": "Responds to the young man at the rest stop with a weary, brief 'No' and then rests his head on the steering wheel.",
+      "assessment": "Nick's minimal interaction and apparent exhaustion suggest emotional withdrawal and lack of engagement, indicating low warmth in this moment.",
+      "rating": -2,
+      "chunk": 38
+    },
+    {
+      "trait": "competence",
+      "action": "Nick steals a TV and leaves it for Beth, but does not take other belongings or even his own clothes.",
+      "assessment": "This action shows a certain level of planning and restraint, indicating some capability in managing possessions and perhaps a complex emotional motivation, but it also suggests a lack of decisiveness or thoroughness in his actions.",
+      "rating": 0,
+      "chunk": 38
+    },
+    {
+      "trait": "competence",
+      "action": "Nick is found resting wearily in his car at an abandoned rest stop, responding minimally and without energy to the young man's question.",
+      "assessment": "Nick's drained and weary state, combined with his minimal engagement, suggests low energy and possibly low motivation or confidence at this moment, indicating a lack of active competence or drive.",
+      "rating": -2,
+      "chunk": 38
+    },
+    {
+      "trait": "warmth",
+      "action": "Anxiously taps a tempo on the steering wheel while smoking, then smiles determinedly after an idea strikes him.",
+      "assessment": "Nick's anxious behavior suggests internal tension, but the determined smile indicates a hopeful or proactive mindset, which can be a positive sign of engagement rather than withdrawal.",
+      "rating": 1,
+      "chunk": 41
+    },
+    {
+      "trait": "warmth",
+      "action": "At the teepee gift shop, talks to an elderly Navajo woman and gently corrects her suggestion about jewelry, saying 'I don't think she really wears jewelry.'",
+      "assessment": "Nick shows some awareness and consideration about the preferences of the person he is discussing, indicating attentiveness and sincerity, though the interaction is brief and somewhat neutral.",
+      "rating": 1,
+      "chunk": 41
+    },
+    {
+      "trait": "warmth",
+      "action": "His disheveled appearance causes a little boy to stare and his mother to hurry him away.",
+      "assessment": "While this is more an observation of others' reactions to Nick, it suggests that Nick's outward presentation may unintentionally create distance or discomfort, which could hinder perceptions of warmth.",
+      "rating": -1,
+      "chunk": 41
+    },
+    {
+      "trait": "competence",
+      "action": "Sitting in his sedan, smoking and anxiously tapping a tempo on the steering wheel, looking haggard.",
+      "assessment": "This behavior suggests a degree of anxiety and lack of calm focus, indicating some internal struggle or stress that may undermine his confidence and decisiveness.",
+      "rating": -1,
+      "chunk": 41
+    },
+    {
+      "trait": "competence",
+      "action": "An idea strikes him and his lips tighten into a small determined smile.",
+      "assessment": "This moment shows a spark of insight and determination, reflecting mental alertness and a capacity to generate solutions despite prior anxiety.",
+      "rating": 2,
+      "chunk": 41
+    },
+    {
+      "trait": "competence",
+      "action": "At the teepee gift shop, talking to a Navajo woman and correctly assessing that 'she doesn't really wear jewelry.'",
+      "assessment": "This indicates perceptiveness and social awareness, suggesting Nick can read people and situations with some skill.",
+      "rating": 2,
+      "chunk": 41
+    },
+    {
+      "trait": "warmth",
+      "action": "Responds incredulously to the suggestion of giving a Navajo rug as a present and instead points to a huge ceremonial headdress, saying it would make her laugh.",
+      "assessment": "Nick's reaction shows a playful and humorous side, attempting to choose a gift that would amuse rather than simply impress. This indicates a friendly and lighthearted approach, which can be seen as a positive indicator of warmth.",
+      "rating": 2,
+      "chunk": 42
+    },
+    {
+      "trait": "warmth",
+      "action": "Asks the Navajo woman if she has a fake version of the expensive authentic headdress.",
+      "assessment": "Nick's request for a fake version of an expensive item suggests a practical and perhaps frugal mindset, but it may also come across as dismissive of the cultural value and significance of the authentic item. This could be interpreted as a lack of sensitivity or respect, which is a negative indicator of warmth.",
+      "rating": -1,
+      "chunk": 42
+    },
+    {
+      "trait": "competence",
+      "action": "Nick points out the huge beautifully feathered ceremonial headdress as a gift that would make 'her' laugh.",
+      "assessment": "This shows Nick's ability to read the situation and suggest a gift that fits the recipient's personality, indicating social perceptiveness and quick thinking.",
+      "rating": 2,
+      "chunk": 42
+    },
+    {
+      "trait": "competence",
+      "action": "Nick asks the Navajo woman if she has a fake version of the expensive authentic headdress.",
+      "assessment": "This demonstrates practical negotiation skills and an understanding of budget constraints, reflecting resourcefulness and social savvy.",
+      "rating": 2,
+      "chunk": 42
+    },
+    {
+      "trait": "competence",
+      "action": "Nick responds incredulously to the suggestion of a Navajo rug as a present.",
+      "assessment": "His quick dismissal suggests decisiveness and confidence in his judgment about what is appropriate, though it might also indicate a lack of openness to alternatives.",
+      "rating": 1,
+      "chunk": 42
+    },
+    {
+      "trait": "warmth",
+      "action": "Leaps out of the car and runs toward the front door, calling out loudly for Beth.",
+      "assessment": "Nick's urgent and vocal search for Beth suggests a strong emotional investment and concern for her well-being, indicating a degree of sincerity and care.",
+      "rating": 2,
+      "chunk": 48
+    },
+    {
+      "trait": "warmth",
+      "action": "Freezes when Sid tells him Beth is not there.",
+      "assessment": "Nick's immediate halt upon hearing the news may reflect respect for Sid's statement and a moment of processing, showing restraint rather than confrontation.",
+      "rating": 1,
+      "chunk": 48
+    },
+    {
+      "trait": "warmth",
+      "action": "Wears a cheap headdress and ties a still-knotted necktie around his neck while driving.",
+      "assessment": "This behavior is ambiguous; it may suggest a quirky or self-deprecating side, but does not clearly indicate warmth or coldness.",
+      "rating": 0,
+      "chunk": 48
+    },
+    {
+      "trait": "competence",
+      "action": "Reaches into the back seat, finds his necktie, and puts it on over his headdress while driving.",
+      "assessment": "This shows a degree of multitasking and presence of mind, indicating some practical skill and adaptability even in a distracted or stressed state.",
+      "rating": 1,
+      "chunk": 48
+    },
+    {
+      "trait": "competence",
+      "action": "Suddenly swerves off an exit ramp while driving.",
+      "assessment": "This abrupt maneuver suggests impulsiveness or a lack of careful control, which could indicate poor driving judgment or emotional distraction.",
+      "rating": -1,
+      "chunk": 48
+    },
+    {
+      "trait": "competence",
+      "action": "Screeches to a stop in front of Beth's house, leaps out, and runs toward the front door.",
+      "assessment": "This shows urgency and decisiveness, but the screeching stop may imply recklessness rather than controlled action.",
+      "rating": 0,
+      "chunk": 48
+    },
+    {
+      "trait": "competence",
+      "action": "Charges into the living room calling out loudly for Beth.",
+      "assessment": "This demonstrates confidence and determination, but also a lack of subtlety or strategic thinking, as it alerts others immediately and may reduce his control over the situation.",
+      "rating": 0,
+      "chunk": 48
+    },
+    {
+      "trait": "competence",
+      "action": "Freezes when Sid steps into the room and tells him Beth is not there.",
+      "assessment": "This hesitation suggests a momentary loss of composure or inability to respond effectively under pressure, indicating a lapse in confidence or situational control.",
+      "rating": -1,
+      "chunk": 48
+    },
+    {
+      "trait": "warmth",
+      "action": "Desperately asks where she is and shows visible distress upon learning she is gone.",
+      "assessment": "Nick's desperation and concern indicate emotional investment and care, suggesting a capacity for warmth.",
+      "rating": 2,
+      "chunk": 49
+    },
+    {
+      "trait": "warmth",
+      "action": "Rips off and destroys the Indian chief headdress in frustration.",
+      "assessment": "This act of destruction reflects anger and frustration rather than warmth; it shows emotional volatility and lack of calmness.",
+      "rating": -1,
+      "chunk": 49
+    },
+    {
+      "trait": "warmth",
+      "action": "Runs to Carol's house and repeatedly tries to find her, pounding on the door and gasping for breath.",
+      "assessment": "His persistence and urgency in trying to find Carol demonstrate genuine concern and caring, positive indicators of warmth.",
+      "rating": 3,
+      "chunk": 49
+    },
+    {
+      "trait": "warmth",
+      "action": "Throws an empty bottle of scotch down the street in frustration.",
+      "assessment": "This impulsive act of anger and self-directed frustration suggests emotional turmoil and a lack of constructive coping, which detracts from warmth.",
+      "rating": -1,
+      "chunk": 49
+    },
+    {
+      "trait": "warmth",
+      "action": "Uses polite manners briefly ('Excuse me') despite his distress.",
+      "assessment": "Maintaining manners even in a stressful moment shows a baseline of respect and social consideration, a mild positive sign of warmth.",
+      "rating": 1,
+      "chunk": 49
+    },
+    {
+      "trait": "competence",
+      "action": "Freezes when Sid enters and initially cannot control the situation.",
+      "assessment": "Nick's freezing suggests a momentary loss of composure and inability to assert control in a tense situation, indicating lower competence.",
+      "rating": -1,
+      "chunk": 49
+    },
+    {
+      "trait": "competence",
+      "action": "Rips off and destroys the headdress in frustration.",
+      "assessment": "This impulsive and destructive reaction shows emotional volatility rather than strategic thinking, reflecting poorly on his competence.",
+      "rating": -2,
+      "chunk": 49
+    },
+    {
+      "trait": "competence",
+      "action": "Repeatedly demands information from Sid about the missing person.",
+      "assessment": "Nick's persistence in seeking information shows some determination and focus, a moderate positive indicator of competence.",
+      "rating": 1,
+      "chunk": 49
+    },
+    {
+      "trait": "competence",
+      "action": "Runs to Carol's house and urgently rings the doorbell.",
+      "assessment": "This action demonstrates quick decision-making and initiative, suggesting a competent response to the crisis.",
+      "rating": 2,
+      "chunk": 49
+    },
+    {
+      "trait": "competence",
+      "action": "Stops and leans against the door, gasping for breath and showing signs of exhaustion.",
+      "assessment": "Physical exhaustion and momentary pause indicate limits in stamina and emotional control, slightly detracting from competence.",
+      "rating": -1,
+      "chunk": 49
+    },
+    {
+      "trait": "competence",
+      "action": "Throws the empty bottle of scotch down the street in frustration.",
+      "assessment": "This destructive act is an emotional outburst that does not contribute to problem-solving, reflecting negatively on competence.",
+      "rating": -2,
+      "chunk": 49
+    },
+    {
+      "trait": "competence",
+      "action": "Bolts for his car and quickly moves to the next step after failing at Carol's.",
+      "assessment": "Shows ability to quickly shift tactics and maintain momentum, a positive sign of competence.",
+      "rating": 2,
+      "chunk": 49
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses frustration loudly about strangers being in his house and confronts Sid about it.",
+      "assessment": "Nick's loud expression of frustration and confrontational stance suggest a protective attitude toward his home, but also a lack of tolerance and patience toward Sid and the situation.",
+      "rating": -1,
+      "chunk": 50
+    },
+    {
+      "trait": "warmth",
+      "action": "Politely asks Sid if he may look around after a tense stand-off.",
+      "assessment": "Despite the tension, Nick shows some respect and politeness by asking permission to look around, indicating a degree of sincerity and consideration.",
+      "rating": 1,
+      "chunk": 50
+    },
+    {
+      "trait": "warmth",
+      "action": "Shows dismay that the television was left behind and calls it a 'remarkable thing.'",
+      "assessment": "Nick's attachment to the television and his lament suggest sentimental value and a certain warmth toward the belongings and memories associated with the house.",
+      "rating": 1,
+      "chunk": 50
+    },
+    {
+      "trait": "competence",
+      "action": "Advances on Sid and asserts his feelings about the house, refusing to accept the situation passively.",
+      "assessment": "This shows Nick's confidence and willingness to confront difficult situations directly, indicating a degree of assertiveness and emotional intelligence.",
+      "rating": 2,
+      "chunk": 50
+    },
+    {
+      "trait": "competence",
+      "action": "Politely asks Sid for permission to look around after a tense confrontation.",
+      "assessment": "This demonstrates social tact and self-control, suggesting that Nick can regulate his behavior and communicate effectively even under stress.",
+      "rating": 2,
+      "chunk": 50
+    },
+    {
+      "trait": "competence",
+      "action": "Wanders around the nearly empty room and uncovers the television, showing attention to detail and curiosity.",
+      "assessment": "This indicates observational skills and a thoughtful approach to understanding his environment, reflecting mental engagement and situational awareness.",
+      "rating": 1,
+      "chunk": 50
+    },
+    {
+      "trait": "competence",
+      "action": "Expresses dismay that the television was left behind, calling it a 'remarkable thing.'",
+      "assessment": "This shows Nick's appreciation for valuable or meaningful objects, suggesting insight and a capacity to recognize significance beyond the obvious.",
+      "rating": 1,
+      "chunk": 50
+    },
+    {
+      "trait": "warmth",
+      "action": "Hurries toward Carol when she arrives, showing eagerness to engage.",
+      "assessment": "Rushing to greet Carol suggests a desire to connect, indicating some warmth and concern.",
+      "rating": 2,
+      "chunk": 51
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses frustration and hurt upon learning about Beth's new boyfriend and possible infidelity.",
+      "assessment": "His emotional reaction reveals vulnerability and investment in relationships, which can be signs of sincerity and emotional openness.",
+      "rating": 2,
+      "chunk": 51
+    },
+    {
+      "trait": "warmth",
+      "action": "Defensively insists he did not have sex with anyone else and explains he left Beth for 'another place' rather than another person.",
+      "assessment": "This defense shows a degree of honesty and attempts to clarify his motives, reflecting some sincerity and trustworthiness.",
+      "rating": 1,
+      "chunk": 51
+    },
+    {
+      "trait": "warmth",
+      "action": "Explodes with anger and bitterness, using harsh language and confrontational tone toward Sid and Carol.",
+      "assessment": "His aggressive and defensive behavior reduces his warmth, as it creates tension and may alienate others.",
+      "rating": -2,
+      "chunk": 51
+    },
+    {
+      "trait": "warmth",
+      "action": "Races after Sid to demand answers about Beth, showing impulsiveness and lack of tolerance for ambiguity.",
+      "assessment": "While this shows concern, the confrontational approach suggests low tolerance and poor emotional regulation, detracting from warmth.",
+      "rating": -1,
+      "chunk": 51
+    },
+    {
+      "trait": "competence",
+      "action": "Hurries toward Carol as she gets out of the car, showing promptness in response to her arrival.",
+      "assessment": "This indicates attentiveness and a readiness to engage, suggesting a basic level of situational awareness and responsiveness.",
+      "rating": 1,
+      "chunk": 51
+    },
+    {
+      "trait": "competence",
+      "action": "Asks Carol if Beth is here and tries to find out where she went.",
+      "assessment": "This shows Nick's attempt to gather information and understand the situation, reflecting some degree of initiative and problem-solving.",
+      "rating": 1,
+      "chunk": 51
+    },
+    {
+      "trait": "competence",
+      "action": "Explodes in anger upon learning about Beth's new boyfriend and immediately confronts Sid.",
+      "assessment": "While this shows emotional reactivity rather than calm control, it also demonstrates assertiveness and willingness to confront issues directly, which can be a sign of confidence.",
+      "rating": 1,
+      "chunk": 51
+    },
+    {
+      "trait": "competence",
+      "action": "Bursts into the living room and demands answers from Sid about his relationship with Beth.",
+      "assessment": "This action shows decisiveness and directness in seeking truth, indicating a proactive approach to conflict resolution.",
+      "rating": 2,
+      "chunk": 51
+    },
+    {
+      "trait": "competence",
+      "action": "Defensively denies having slept with anyone and explains his reasons for leaving Beth.",
+      "assessment": "Nick attempts to clarify his position and justify his actions, showing some self-awareness and communication skills, though his defensiveness may undermine his credibility.",
+      "rating": 0,
+      "chunk": 51
+    },
+    {
+      "trait": "competence",
+      "action": "Races after Sid when Sid walks away, refusing to let the matter drop.",
+      "assessment": "This persistence suggests determination and unwillingness to avoid difficult conversations, which can be a positive indicator of competence.",
+      "rating": 2,
+      "chunk": 51
+    },
+    {
+      "trait": "competence",
+      "action": "Shows emotional volatility and bitterness about the situation (e.g., 'That's the world, huh? They don't even wait a day anymore.').",
+      "assessment": "This emotional reaction reveals a lack of emotional regulation and may impair his ability to handle the situation rationally, indicating a negative impact on competence.",
+      "rating": -1,
+      "chunk": 51
+    },
+    {
+      "trait": "competence",
+      "action": "Asks 'Who is this guy?' upon seeing Sid, showing confusion and lack of prior knowledge about Beth's new relationship.",
+      "assessment": "This suggests a lack of awareness about important developments in his personal life, which may reflect poor communication or attentiveness.",
+      "rating": -1,
+      "chunk": 51
+    },
+    {
+      "trait": "warmth",
+      "action": "Responds to Sid's intrusion into his personal life with hostility and defensiveness.",
+      "assessment": "Nick's aggressive and confrontational tone toward Sid shows a lack of tolerance and friendliness, indicating low warmth.",
+      "rating": -2,
+      "chunk": 52
+    },
+    {
+      "trait": "warmth",
+      "action": "Protests weakly when Carol points out his true motives for returning, showing some vulnerability.",
+      "assessment": "Nick's weak protest and acknowledgment of Carol's insight suggest some sincerity and self-awareness, a mild positive indicator of warmth.",
+      "rating": 1,
+      "chunk": 52
+    },
+    {
+      "trait": "warmth",
+      "action": "Sarcastically wishes Sid happiness with Beth despite underlying bitterness.",
+      "assessment": "The sarcastic remark is insincere and hostile, reflecting low warmth and poor trustworthiness.",
+      "rating": -2,
+      "chunk": 52
+    },
+    {
+      "trait": "warmth",
+      "action": "Acknowledges that Beth and Sid had a real connection and that he inadvertently brought them together.",
+      "assessment": "This admission shows some acceptance and honesty, which are mild positive signs of warmth.",
+      "rating": 1,
+      "chunk": 52
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses a cynical view that his actions don't matter because outcomes are unpredictable.",
+      "assessment": "This cynical detachment suggests emotional distancing and a lack of genuine care or sincerity, indicating low warmth.",
+      "rating": -1,
+      "chunk": 52
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in a heated argument with Sid, showing emotional volatility and defensiveness.",
+      "assessment": "Nick's inability to manage his emotions and maintain composure during the confrontation suggests a lack of emotional intelligence and self-control, which undermines his competence.",
+      "rating": -2,
+      "chunk": 52
+    },
+    {
+      "trait": "competence",
+      "action": "Acknowledges Carol's insight that he didn't come back for Beth's sake and that his plans were unclear.",
+      "assessment": "This moment of self-awareness indicates some level of introspection and honesty, which can be seen as a sign of psychological competence.",
+      "rating": 1,
+      "chunk": 52
+    },
+    {
+      "trait": "competence",
+      "action": "Sarcastically remarks that he 'brought them together' and reflects that his wrong actions sometimes lead to right outcomes.",
+      "assessment": "This dry, somewhat resigned humor shows Nick's ability to critically evaluate his own behavior, but also a passive acceptance of his lack of control, indicating mixed competence.",
+      "rating": 0,
+      "chunk": 52
+    },
+    {
+      "trait": "competence",
+      "action": "Attempts to get Sid's attention with repeated calls of 'hey!' but is ignored.",
+      "assessment": "Nick's failure to assert himself effectively in this social interaction suggests a lack of confidence and social skill, detracting from his competence.",
+      "rating": -1,
+      "chunk": 52
+    },
+    {
+      "trait": "competence",
+      "action": "Challenges Sid pointedly about why Beth left if they were so happy.",
+      "assessment": "This shows Nick's willingness to confront uncomfortable truths and assert himself verbally, reflecting some degree of confidence and social competence.",
+      "rating": 1,
+      "chunk": 52
+    },
+    {
+      "trait": "warmth",
+      "action": "Encourages Sid to go after Beth and not let her be alone.",
+      "assessment": "Nick shows concern for Beth's loneliness and urges Sid to take action, indicating a desire for connection and care for others' well-being.",
+      "rating": 2,
+      "chunk": 53
+    },
+    {
+      "trait": "warmth",
+      "action": "Advances aggressively on Sid and insists that people have to take what they want.",
+      "assessment": "Nick's forceful and confrontational approach may come off as intimidating rather than supportive, reducing the sense of warmth.",
+      "rating": -1,
+      "chunk": 53
+    },
+    {
+      "trait": "warmth",
+      "action": "Explodes in frustration and admits he doesn't know what he wants or where it exists.",
+      "assessment": "This vulnerability reveals sincerity and emotional openness, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 53
+    },
+    {
+      "trait": "warmth",
+      "action": "Dismisses Carol's attempt to protect Sid and insists on pushing Sid to act.",
+      "assessment": "Nick's disregard for Carol's perspective and Sid's hesitation suggests a lack of tolerance and sensitivity, which detracts from warmth.",
+      "rating": -1,
+      "chunk": 53
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses frustration that Sid is not willing to risk his life for love.",
+      "assessment": "While passionate, Nick's harsh judgment may alienate others and shows impatience rather than understanding, limiting warmth.",
+      "rating": -1,
+      "chunk": 53
+    },
+    {
+      "trait": "competence",
+      "action": "Advances on Sid and insists that people have to take what they want rather than wait for it to be offered.",
+      "assessment": "This shows Nick's assertiveness and confidence in his worldview, indicating a proactive and forceful approach to life, which can be a sign of competence.",
+      "rating": 2,
+      "chunk": 53
+    },
+    {
+      "trait": "competence",
+      "action": "Compares selling televisions to relationships, saying people don't know what they want and you have to show them.",
+      "assessment": "This metaphor reveals Nick's ability to think strategically and persuasively, suggesting intelligence and skill in influencing others.",
+      "rating": 2,
+      "chunk": 53
+    },
+    {
+      "trait": "competence",
+      "action": "Explodes in frustration and admits he doesn't know what he wants or where it exists.",
+      "assessment": "This moment of vulnerability and confusion undermines his confidence and suggests a lack of self-awareness or clarity, which detracts from his competence.",
+      "rating": -1,
+      "chunk": 53
+    },
+    {
+      "trait": "competence",
+      "action": "Repeatedly urges Sid to go after the woman he loves, challenging Sid's inaction.",
+      "assessment": "Nick demonstrates decisiveness and a motivational leadership quality, pushing others to act rather than remain passive, which is a positive indicator of competence.",
+      "rating": 2,
+      "chunk": 53
+    },
+    {
+      "trait": "competence",
+      "action": "Throws his arms in the air and storms up to Carol's face in frustration.",
+      "assessment": "This loss of composure and aggressive physical gesture suggests impulsiveness and emotional volatility, which can impair effective communication and control.",
+      "rating": -1,
+      "chunk": 53
+    },
+    {
+      "trait": "competence",
+      "action": "Steps back after Carol doesn't flinch at his outburst.",
+      "assessment": "This shows some self-awareness and restraint after an emotional outburst, indicating a capacity to recognize limits and adjust behavior.",
+      "rating": 1,
+      "chunk": 53
+    },
+    {
+      "trait": "warmth",
+      "action": "Gives practical advice to Sid on how to find the woman he loves, suggesting he drive east and check roadside motels all night.",
+      "assessment": "Nick shows concern and a willingness to help Sid by offering concrete, actionable guidance, indicating a supportive and caring attitude.",
+      "rating": 2,
+      "chunk": 54
+    },
+    {
+      "trait": "warmth",
+      "action": "Smiles self-satisfied at Carol after Sid leaves.",
+      "assessment": "The self-satisfied smile may suggest a degree of smugness or detachment rather than warmth, indicating a less empathetic or emotionally engaged demeanor in this moment.",
+      "rating": -1,
+      "chunk": 54
+    },
+    {
+      "trait": "warmth",
+      "action": "Responds cheerfully to Carol that he will finish painting after Sid leaves.",
+      "assessment": "The cheerful tone suggests a friendly and cooperative attitude, showing willingness to contribute and maintain a positive atmosphere.",
+      "rating": 1,
+      "chunk": 54
+    },
+    {
+      "trait": "warmth",
+      "action": "Dismisses painting the ceiling with 'Fuck the ceiling. Who looks up that often?' and slumps on the sofa staring at the blank TV.",
+      "assessment": "This action reflects a certain cynicism or disengagement, possibly indicating emotional withdrawal or lack of motivation, which can be interpreted as a lack of warmth or care in this context.",
+      "rating": -1,
+      "chunk": 54
+    },
+    {
+      "trait": "competence",
+      "action": "Confidently instructs Sid on how to find the woman by driving east on route forty and checking budget motels all night.",
+      "assessment": "This shows Nick's practical thinking, situational awareness, and ability to give clear, actionable advice under pressure, indicating competence.",
+      "rating": 2,
+      "chunk": 54
+    },
+    {
+      "trait": "competence",
+      "action": "Correctly deduces that when someone doesn't know where to go, they drive on the highway.",
+      "assessment": "This insight reflects Nick's understanding of human behavior and logical reasoning, reinforcing his competence.",
+      "rating": 2,
+      "chunk": 54
+    },
+    {
+      "trait": "competence",
+      "action": "Offers to finish painting after giving directions, then dismisses the task with 'Fuck the ceiling. Who looks up that often?'",
+      "assessment": "This shows a casual, somewhat dismissive attitude toward responsibility and detail, suggesting a lack of thoroughness or follow-through, which detracts from his competence.",
+      "rating": -1,
+      "chunk": 54
+    },
+    {
+      "trait": "competence",
+      "action": "Slumps on the sofa staring at the blank TV after sending Sid off.",
+      "assessment": "This passive behavior after taking initiative earlier suggests a tendency toward inertia or disengagement, indicating a momentary lapse in active competence.",
+      "rating": -1,
+      "chunk": 54
+    },
+    {
+      "trait": "warmth",
+      "action": "Responds flatly to the unexpected arrival of the new neighbors with 'It is.'",
+      "assessment": "Nick's flat response to the couple's mistaken assumption about the apartment being empty suggests a lack of warmth or enthusiasm in greeting new neighbors.",
+      "rating": -1,
+      "chunk": 55
+    },
+    {
+      "trait": "warmth",
+      "action": "Improvises by telling the new neighbors they are 'your new neighbors. From next door.'",
+      "assessment": "Although awkward, Nick attempts to be friendly and establish a neighborly connection, indicating some willingness to engage positively.",
+      "rating": 1,
+      "chunk": 55
+    },
+    {
+      "trait": "warmth",
+      "action": "Engages in an overly enthusiastic handshake despite awkwardness.",
+      "assessment": "Nick participates in the handshake with enthusiasm, showing an effort to be polite and friendly, which is a positive indicator of warmth.",
+      "rating": 2,
+      "chunk": 55
+    },
+    {
+      "trait": "warmth",
+      "action": "States confidently that they are there for the TV left by the previous neighbors.",
+      "assessment": "Nick's straightforwardness about the TV could be seen as practical but lacks warmth or consideration for the new neighbors' feelings, showing a neutral to slightly negative tone.",
+      "rating": 0,
+      "chunk": 55
+    },
+    {
+      "trait": "competence",
+      "action": "Nick slumps on the sofa, staring at the blank TV.",
+      "assessment": "This action suggests passivity and disengagement, indicating a lack of initiative or energy in this moment.",
+      "rating": -1,
+      "chunk": 55
+    },
+    {
+      "trait": "competence",
+      "action": "Nick flatly states, 'It is,' in response to the couple's assumption that the place is empty.",
+      "assessment": "This shows a straightforward and clear communication style, though somewhat blunt and lacking warmth.",
+      "rating": 1,
+      "chunk": 55
+    },
+    {
+      "trait": "competence",
+      "action": "Nick improvises by telling the couple they are their new neighbors from next door.",
+      "assessment": "This indicates quick thinking and adaptability in an awkward social situation, demonstrating social competence.",
+      "rating": 2,
+      "chunk": 55
+    },
+    {
+      "trait": "competence",
+      "action": "Nick confidently claims the TV left by the old neighbors is theirs.",
+      "assessment": "This shows confidence and assertiveness in establishing their claim, reflecting a degree of social and situational competence.",
+      "rating": 2,
+      "chunk": 55
+    },
+    {
+      "trait": "warmth",
+      "action": "Declines help from the woman and man when carrying the TV, saying 'We can manage.'",
+      "assessment": "Nick politely refuses assistance, which can be seen as self-reliant but also may come off as slightly dismissive of others' goodwill.",
+      "rating": 0,
+      "chunk": 56
+    },
+    {
+      "trait": "warmth",
+      "action": "Looks to make eye contact with Carol but can't because she is focused on obstacles; he smiles and glances toward the couple.",
+      "assessment": "Nick attempts to connect with Carol through eye contact and smiles, indicating a friendly and warm disposition toward her.",
+      "rating": 2,
+      "chunk": 56
+    },
+    {
+      "trait": "warmth",
+      "action": "Takes most of the weight of the TV while Carol fumbles with her key.",
+      "assessment": "Nick's action of bearing most of the physical burden shows consideration and helpfulness toward Carol, reflecting warmth and care.",
+      "rating": 3,
+      "chunk": 56
+    },
+    {
+      "trait": "warmth",
+      "action": "Responds to Carol's comment about not being the new neighbor with 'It was just something to say.'",
+      "assessment": "Nick's response is somewhat dismissive and lacks engagement, showing a neutral or slightly detached attitude rather than warmth.",
+      "rating": -1,
+      "chunk": 56
+    },
+    {
+      "trait": "warmth",
+      "action": "Shares a personal story about visiting his parents and seeing an 'ancient man' he thought was his father.",
+      "assessment": "Nick opens up about a personal and vulnerable moment, which suggests sincerity and a willingness to share, indicating warmth.",
+      "rating": 2,
+      "chunk": 56
+    },
+    {
+      "trait": "competence",
+      "action": "Politely declines help from the woman while lifting the TV with Carol.",
+      "assessment": "Nick shows confidence in his ability to manage the task without assistance, indicating a reasonable level of self-reliance and capability.",
+      "rating": 1,
+      "chunk": 56
+    },
+    {
+      "trait": "competence",
+      "action": "Takes most of the weight of the TV while Carol fumbles with the key.",
+      "assessment": "Nick demonstrates physical strength and a practical approach by taking on the heavier burden, showing responsibility and situational awareness.",
+      "rating": 2,
+      "chunk": 56
+    },
+    {
+      "trait": "competence",
+      "action": "Attempts to make eye contact with Carol but fails because she is focused on obstacles.",
+      "assessment": "This suggests a slight social awkwardness or lack of assertiveness in interpersonal communication, which may reflect a minor gap in social competence.",
+      "rating": -1,
+      "chunk": 56
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in conversation about his day and family, showing openness.",
+      "assessment": "Nick’s willingness to share personal experiences indicates emotional intelligence and communication skills, which are components of competence.",
+      "rating": 1,
+      "chunk": 56
+    },
+    {
+      "trait": "warmth",
+      "action": "Smiles at the memory of a touching scene involving Beth singing to him.",
+      "assessment": "Smiling at a tender memory suggests Nick has a capacity for appreciating gentle, emotional moments, indicating some warmth.",
+      "rating": 2,
+      "chunk": 57
+    },
+    {
+      "trait": "warmth",
+      "action": "Engages in a serious conversation with Carol about stopping a behavior she disapproves of, ultimately agreeing to stop.",
+      "assessment": "Nick listens to Carol's concerns and agrees to her wishes calmly and without argument, showing respect and consideration, which are positive indicators of warmth.",
+      "rating": 3,
+      "chunk": 57
+    },
+    {
+      "trait": "warmth",
+      "action": "Avoids Carol's stare when she takes his face in her hands to emphasize her point.",
+      "assessment": "Avoiding eye contact in an emotionally charged moment may indicate discomfort or evasiveness, which can be a slight negative indicator of openness and sincerity.",
+      "rating": -1,
+      "chunk": 57
+    },
+    {
+      "trait": "warmth",
+      "action": "Repeats 'I understand' and 'Okay' in response to Carol's insistence.",
+      "assessment": "While Nick agrees, his repeated defensive and calm responses could suggest a passive compliance rather than active engagement, showing some emotional distance.",
+      "rating": 0,
+      "chunk": 57
+    },
+    {
+      "trait": "competence",
+      "action": "Nick listens to Carol's insistence that he can't continue what he's been doing and agrees calmly to stop.",
+      "assessment": "Nick demonstrates emotional regulation and the ability to accept difficult feedback without argument, indicating a level of self-control and understanding.",
+      "rating": 1,
+      "chunk": 57
+    },
+    {
+      "trait": "competence",
+      "action": "Nick avoids Carol's stare initially when she confronts him, then complies when she makes him look at her.",
+      "assessment": "Avoiding eye contact suggests some discomfort or evasiveness, which can be seen as a lack of confidence or assertiveness in this moment.",
+      "rating": -1,
+      "chunk": 57
+    },
+    {
+      "trait": "competence",
+      "action": "Nick smiles at the memory of the tall man and the girl singing to him.",
+      "assessment": "This shows Nick's ability to engage with his own memories and emotions, but the reverie and detachment may also suggest a tendency to retreat inward rather than act decisively.",
+      "rating": 0,
+      "chunk": 57
+    },
+    {
+      "trait": "competence",
+      "action": "Nick repeatedly says 'I understand' and 'Okay' in response to Carol's demands.",
+      "assessment": "While this shows compliance and a willingness to listen, the repetition and defensive tone may indicate passivity or lack of assertive engagement with the situation.",
+      "rating": 0,
+      "chunk": 57
     }
   ]
 }

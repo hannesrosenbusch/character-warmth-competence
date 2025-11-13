@@ -1,1231 +1,2118 @@
 {
   "Nina": [
     {
-      "Action": "Takes a long, penetrating look around the house with poise and grace, showing confidence and insight.",
-      "Warmth": 0,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Takes the mail from the hallway and begins sorting through it immediately upon entering the house.",
+      "assessment": "This action shows a sense of responsibility and attentiveness to household matters, which can be seen as a positive, practical form of warmth, though it is somewhat neutral in emotional expressiveness.",
+      "rating": 1,
+      "chunk": 2
     },
     {
-      "Action": "Slips off shoes and moves barefoot inside the house, handling mail tidily and calmly.",
-      "Warmth": 0,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Slips off her shoes and moves barefoot through the house.",
+      "assessment": "This behavior suggests comfort and a relaxed attitude in her own space, which may indicate a warm, unpretentious nature, but it is a subtle and indirect indicator.",
+      "rating": 1,
+      "chunk": 2
     },
     {
-      "Action": "Looks up coolly from her letter when Dee Dee appears, doing nothing to put her at ease",
-      "Warmth": -1,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "Takes a long, penetrating look around the house with insight and poise.",
+      "assessment": "Her shrewdness and penetrating gaze suggest a strong, confident personality but do not directly indicate warmth; rather, they imply a more reserved or guarded nature.",
+      "rating": 0,
+      "chunk": 2
     },
     {
-      "Action": "Replies to Dee Dee's 'How was your day?' with 'Very pleasant — in a grim sort of way' and returns to her letter without further engagement",
-      "Warmth": -1,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Takes a long, penetrating look around the house upon arrival, showing insight.",
+      "assessment": "This action suggests Nina is observant and perceptive, indicating mental acuity and situational awareness.",
+      "rating": 2,
+      "chunk": 2
     },
     {
-      "Action": "Takes wine from Dee Dee but sprawls leisurely on the sofa, suggesting relaxed but emotionally distant posture",
-      "Warmth": 0,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Glides toward the house with poise and grace, showing confidence.",
+      "assessment": "Her confident and graceful movement implies self-assurance and control, traits associated with competence.",
+      "rating": 2,
+      "chunk": 2
     },
     {
-      "Action": "Interrupts Dee Dee before she can respond when asking about things around the house",
-      "Warmth": -1,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Slips her key into the lock without looking at her reflection.",
+      "assessment": "This indicates familiarity and focus on the task rather than vanity or distraction, reflecting practical skill and efficiency.",
+      "rating": 2,
+      "chunk": 2
     },
     {
-      "Action": "Engages in practical conversation about calls for next appointments but shows no warmth or friendliness in tone",
-      "Warmth": 0,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Immediately ducks inside the bedroom to remove shoes and proceeds barefoot down the hallway.",
+      "assessment": "This shows a habitual, purposeful behavior that suggests comfort and routine, implying an organized and capable mindset.",
+      "rating": 1,
+      "chunk": 2
     },
     {
-      "Action": "Begins sorting mail efficiently while ascending stairs, calmly manages interruption by Dee Dee without losing focus.",
-      "Competence": 1,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Begins sorting through the day's mail while ascending the staircase.",
+      "assessment": "Multitasking in this manner indicates good time management and mental organization, positive indicators of competence.",
+      "rating": 2,
+      "chunk": 2
     },
     {
-      "Action": "Responds to Dee Dee's nervousness with cool detachment, maintaining control of the interaction.",
-      "Competence": 1,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "Looks up coolly from her letter when Dee Dee appears and does nothing to put her at ease.",
+      "assessment": "Nina's cool and somewhat indifferent reaction to Dee Dee's nervousness suggests a lack of warmth and friendliness in this interaction.",
+      "rating": -2,
+      "chunk": 3
     },
     {
-      "Action": "Leisurely sprawls on the sofa while handling mail and wine, showing relaxed multitasking in a social setting.",
-      "Competence": 1,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "Takes the glass of wine from Dee Dee and sprawls leisurely on the sofa while continuing to focus on her mail.",
+      "assessment": "Nina's relaxed posture and focus on her own concerns rather than engaging warmly with Dee Dee indicates a degree of detachment and lack of sincere friendliness.",
+      "rating": -1,
+      "chunk": 3
     },
     {
-      "Action": "Cuts Dee Dee off mid-sentence, directing conversation with pointed questions about calls and confirmations.",
-      "Competence": 1,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "Asks Dee Dee about calls and reconfirms details about appointments in a somewhat abrupt manner, cutting Dee Dee off before she can respond.",
+      "assessment": "Nina's manner is businesslike and somewhat dismissive, showing little tolerance or patience, which lowers the impression of warmth.",
+      "rating": -2,
+      "chunk": 3
     },
     {
-      "Action": "Gives clear instructions about handling calls for an upcoming show, demonstrating good organizational skills.",
-      "Competence": 1,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Looks up coolly from her letter when Dee Dee appears, showing calmness and control in the situation.",
+      "assessment": "This action suggests Nina is composed and confident, able to maintain her poise even when unexpectedly approached.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Shows little or no effort to put Dee Dee at ease or encourage her, potentially hampering communication or cooperation.",
-      "Competence": -1,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Does nothing to put Dee Dee at ease, responding with a simple 'Hello, Dee Dee.'",
+      "assessment": "This indicates a deliberate choice to maintain control and not be swayed by Dee Dee's nervousness, reflecting confidence but possibly a lack of interpersonal warmth or tact.",
+      "rating": 1,
+      "chunk": 3
     },
     {
-      "Action": "Compliments Dee Dee as 'a good little wife' and acknowledges her helpfulness",
-      "Warmth": 1,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "Sprawls leisurely on a sofa with wine and mail, multitasking comfortably.",
+      "assessment": "This shows Nina's ease and confidence in her environment, suggesting she is comfortable managing multiple things at once without stress.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Allows Dee Dee to leave promptly when she indicates she wants to go home",
-      "Warmth": 1,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "Cuts Dee Dee off before she can answer, steering the conversation with pointed questions about calls and appointments.",
+      "assessment": "This demonstrates Nina's assertiveness and control over the interaction, indicating she is focused and purposeful in communication.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Observes Dee Dee leaving pensively from a distance, possibly indicating thoughtfulness or emotional distance",
-      "Warmth": 0,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "Gives clear instructions about how to handle calls related to the lawyer and the artist show.",
+      "assessment": "This shows Nina's organizational skills and foresight, managing details proactively and ensuring others follow her directions.",
+      "rating": 3,
+      "chunk": 3
     },
     {
-      "Action": "Delegates household tasks efficiently, confirms bill payments and meal preparation details calmly and clearly, shows ability to manage domestic affairs confidently.",
-      "Competence": 1,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "Shows no reaction or expectation for Dee Dee's uncertain responses.",
+      "assessment": "This could indicate emotional detachment or impatience, which might undermine effective communication and leadership.",
+      "rating": -1,
+      "chunk": 3
     },
     {
-      "Action": "Encourages Dee Dee politely but firmly to leave once her tasks are complete, demonstrating clear boundaries and assertiveness.",
-      "Competence": 1,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "Acknowledges Dee Dee's work and efforts, including paying bills and preparing food, and allows her to leave when she wishes.",
+      "assessment": "Nina shows appreciation and respect for Dee Dee's contributions and personal boundaries, indicating a considerate and trusting attitude.",
+      "rating": 2,
+      "chunk": 4
     },
     {
-      "Action": "Pauses thoughtfully by the back door after Dee Dee leaves, appearing pensive and reflective rather than immediately decisive.",
-      "Competence": 0,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "Calls Dee Dee 'a good little wife' and says 'Every woman should have one.'",
+      "assessment": "While intended as a compliment, this statement could be seen as patronizing or reinforcing traditional roles, which may undermine genuine warmth and equality.",
+      "rating": -1,
+      "chunk": 4
     },
     {
-      "Action": "Systematically removes her clothes in front of the mirror as a deliberate act to peel away layers of her controlled life, demonstrating self-awareness and control.",
-      "Competence": 1,
-      "Chunk": 5
+      "trait": "warmth",
+      "action": "Pauses and gazes pensively through the back door after Dee Dee leaves.",
+      "assessment": "This moment suggests a reflective or possibly affectionate regard toward Dee Dee, hinting at a deeper emotional connection or concern.",
+      "rating": 1,
+      "chunk": 4
     },
     {
-      "Action": "Tests the jacuzzi water carefully with her foot before entering, showing caution and practical sensibility.",
-      "Competence": 1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Delegates household tasks to Dee Dee, including bill payments and meal preparation, and reviews the gardener's work.",
+      "assessment": "This shows Nina's ability to manage and oversee domestic affairs efficiently, indicating organizational skills and confidence in delegation.",
+      "rating": 2,
+      "chunk": 4
     },
     {
-      "Action": "Drinks a little too much wine in one sip, which could indicate a minor lapse in self-control.",
-      "Competence": -1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Responds calmly and assertively to Dee Dee's updates and requests, allowing her to leave promptly.",
+      "assessment": "Nina demonstrates clear communication and control over her environment, reflecting emotional composure and leadership.",
+      "rating": 2,
+      "chunk": 4
     },
     {
-      "Action": "Curiously watches the car pull up the driveway, inches forward to see better",
-      "Warmth": 1,
-      "Chunk": 6
+      "trait": "competence",
+      "action": "Pauses pensively at the back door after Dee Dee leaves, gazing through the glass.",
+      "assessment": "This moment of reflection suggests thoughtfulness and awareness, though it may also indicate some hesitation or distraction.",
+      "rating": 0,
+      "chunk": 4
     },
     {
-      "Action": "Takes a moment to realize the car is pulling up, showing some distraction and delay in awareness.",
-      "Competence": -1,
-      "Chunk": 6
+      "trait": "warmth",
+      "action": "Takes a slow, deliberate moment to undress while studying herself in the mirror, consciously peeling away layers of her well-ordered life.",
+      "assessment": "This action suggests introspection and self-awareness rather than direct warmth toward others; it is neutral in terms of warmth as it focuses on self rather than interpersonal connection.",
+      "rating": 0,
+      "chunk": 5
     },
     {
-      "Action": "Inches forward curiously and actively follows the car's movement, showing some alertness and interest.",
-      "Competence": 0,
-      "Chunk": 6
+      "trait": "warmth",
+      "action": "Eases herself into the jacuzzi, allowing her mind to drift and gaze heavenward at the starry night.",
+      "assessment": "This moment of peaceful solitude indicates a calm and reflective nature but does not directly demonstrate warmth toward others.",
+      "rating": 0,
+      "chunk": 5
     },
     {
-      "Action": "Moves quickly down the hallway, tying her robe as she goes and taking deliberate action to get a better look through the window.",
-      "Competence": 1,
-      "Chunk": 6
+      "trait": "competence",
+      "action": "Slips a CD into the player and selects Albinoni's Adagio in G-Minor to set the mood for the massage.",
+      "assessment": "This action shows forethought and an understanding of how to create a relaxing atmosphere, indicating skill and preparation.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Peers curiously through blinds at unexpected visitor, opens door but eyes him with suspicion, questions him politely.",
-      "Warmth": 0,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Studies herself carefully in the mirror while removing her clothes slowly and deliberately, ensuring she leaves behind her 'well-ordered, well-practiced life.'",
+      "assessment": "This suggests a high level of self-awareness and control, demonstrating emotional and psychological competence in managing her internal state.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Moves quickly down the hallway, tying her robe as she goes, then carefully peers out the window for a better look.",
-      "Competence": 1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Tests the jacuzzi water with her foot before entering and then submerges herself slowly, allowing her mind to drift.",
+      "assessment": "This shows a careful, mindful approach to her environment and a capacity for relaxation and mental focus, reflecting competence in self-care and emotional regulation.",
+      "rating": 1,
+      "chunk": 5
     },
     {
-      "Action": "Opens the blinds and peers curiously when Fitch arrives, showing vigilance and awareness.",
-      "Competence": 1,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Inches forward curiously to watch the car pull up the driveway and then climbs out of the jacuzzi to get a better look.",
+      "assessment": "Nina's curiosity and attentiveness to her surroundings suggest an openness and engagement with others, which can be seen as a mild indicator of warmth.",
+      "rating": 1,
+      "chunk": 6
     },
     {
-      "Action": "Opens the door cautiously and questions Fitch suspiciously, showing careful judgment and skepticism.",
-      "Competence": 1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Takes a moment to realize the car pulling up the driveway, then inches forward curiously to watch it.",
+      "assessment": "This hesitation and delayed awareness suggest a certain absentmindedness or distraction, indicating a slight lapse in situational awareness.",
+      "rating": -1,
+      "chunk": 6
     },
     {
-      "Action": "Awaits explanation about Douglas but shows no overt signs of confusion or panic.",
-      "Competence": 0,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Moves quickly down the hallway, tying her robe as she goes, then ducks into the bedroom to get a better look out the window.",
+      "assessment": "This shows a degree of purposeful and efficient movement, indicating alertness and a proactive approach to gathering information.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Takes an absent-minded step back, unintentionally inviting Fitch in, allowing him inside before realizing it.",
-      "Warmth": 1,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Peers curiously through the blinds and opens the door to Fitch despite suspicion.",
+      "assessment": "Nina shows a cautious but open attitude by investigating who is at the door and then opening it, indicating a willingness to engage rather than outright rejection.",
+      "rating": 1,
+      "chunk": 7
     },
     {
-      "Action": "Intercepts Fitch as he moves to the adjoining bedroom and politely redirects him with a gesture and smile.",
-      "Warmth": 1,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Questions Fitch about Douglas and the missed call.",
+      "assessment": "By asking about Douglas and the expected call, Nina demonstrates concern and a desire for clarity, which reflects sincerity and attentiveness.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Closes the door behind Fitch and follows him with a sense of bemused tolerance.",
-      "Warmth": 1,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Moves quickly down the hallway, tying her robe as she goes, then ducks into the bedroom to get a better look out the window.",
+      "assessment": "This shows Nina's alertness and ability to act swiftly and purposefully, indicating situational awareness and decisiveness.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Gently takes a book from Fitch and discusses it with him in a friendly manner.",
-      "Warmth": 1,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Opens the blinds and peers curiously at Fitch approaching the house, then opens the door and questions him with suspicion.",
+      "assessment": "Nina demonstrates cautiousness and a degree of assertiveness by not immediately trusting Fitch and questioning his presence, reflecting good judgment and interpersonal awareness.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Expresses familiarity and fondness for Douglas while seeking Fitch's understanding.",
-      "Warmth": 1,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Questions Fitch about Douglas's whereabouts and the missed call.",
+      "assessment": "This shows Nina's attention to detail and her effort to verify information, suggesting she is organized and responsible in managing appointments and communications.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Intervenes promptly to redirect Fitch when he moves toward an unintended room, showing situational awareness and control.",
-      "Competence": 1,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Takes an absent-minded step back, giving the impression she would like Fitch to come right in, and does not stop him from entering the house.",
+      "assessment": "Allowing Fitch to enter without hesitation suggests a degree of openness and trust toward him.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Unintentionally allows Fitch to enter inside before realizing it, indicating a brief lapse in awareness.",
-      "Competence": -1,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Intercepts Fitch when he starts to go into the adjoining bedroom and gently redirects him to the usual way, extending a hand and closing the door behind her.",
+      "assessment": "This shows polite consideration and a gentle way of guiding Fitch, indicating friendliness and respect for shared boundaries.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Calmly interacts and maintains composure despite Fitch’s intrusion and unexpected behavior.",
-      "Competence": 1,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Crosses to Fitch and takes a book from him, then shares that she likes the book 'The Sun Also Rises.'",
+      "assessment": "Engaging in light, shared interests and initiating small talk reflects a friendly and sincere demeanor.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Appears puzzled or absent-minded when Fitch arrives, suggesting some uncertainty or lack of clear preparedness.",
-      "Competence": -1,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Says 'I like him' referring to Douglas, and admits she is 'really very ... accustomed to him.'",
+      "assessment": "Expressing positive feelings about Douglas and openness about her emotions suggests sincerity and warmth.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Expresses liking and appreciation for Douglas, acknowledges it takes time to get comfortable in relationships, and speaks considerately about business relationships.",
-      "Warmth": 1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Takes an absent-minded step back, unintentionally allowing Fitch to enter the house without explicit invitation.",
+      "assessment": "This suggests a momentary lack of situational awareness or control over her environment, indicating a slight lapse in social or spatial competence.",
+      "rating": -1,
+      "chunk": 8
     },
     {
-      "Action": "Engages in friendly, somewhat playful banter with Fitch about Douglas and the setting, showing openness and ease.",
-      "Warmth": 1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Intercepts Fitch as he starts to enter the adjoining bedroom and redirects him to the usual route through the house.",
+      "assessment": "This shows that Nina is able to assert some control and correct others' actions calmly and effectively, reflecting moderate competence in managing the situation.",
+      "rating": 1,
+      "chunk": 8
     },
     {
-      "Action": "Shows awareness of the complexities of building a relationship and the need for time and consideration.",
-      "Competence": 1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Closes the front door after Fitch enters and follows him through the house.",
+      "assessment": "Closing the door behind a visitor is a basic but responsible action, indicating attentiveness to security and propriety, though it is a minimal indicator of competence.",
+      "rating": 1,
+      "chunk": 8
     },
     {
-      "Action": "Initiates and sustains a thoughtful conversation about Douglas's behavior and relationship dynamics.",
-      "Competence": 1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Crosses to Fitch and takes a book from him, identifying it as 'The Sun Also Rises' and commenting on it.",
+      "assessment": "This shows familiarity with her environment and the ability to engage in social interaction with some confidence, suggesting moderate intellectual and social competence.",
+      "rating": 1,
+      "chunk": 8
     },
     {
-      "Action": "Fails to clearly finish a thought about getting comfortable with a man, showing hesitation or uncertainty.",
-      "Competence": -1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Expresses uncertainty and puzzlement about Fitch's presence and appearance, and about Douglas's whereabouts.",
+      "assessment": "Her uncertainty and lack of information about key people and events suggest some gaps in her situational awareness and preparedness, indicating a moderate negative impact on perceived competence.",
+      "rating": -1,
+      "chunk": 8
     },
     {
-      "Action": "Efficiently retrieves sheets and towels from the linen closet as requested by Fitch, then follows up on his absence by investigating the house.",
-      "Competence": 1,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Expresses that she really likes Douglas and talks about the need to get comfortable with a man over time.",
+      "assessment": "Nina shows openness and a sincere, thoughtful attitude toward relationships, indicating a warm and reflective nature.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Notices the massage table is still not set up and expresses curiosity and concern, prompting her to seek Fitch out actively.",
-      "Competence": 1,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Mentions the expectation of consideration in a business relationship with Douglas.",
+      "assessment": "This suggests Nina values respect and mutual care, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Confronts Fitch upon finding him in the bedroom examining jewelry, maintaining composure despite suspicion.",
-      "Competence": 1,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Engages in light, somewhat playful banter with Fitch about Douglas and the setting.",
+      "assessment": "Her willingness to engage in casual, friendly conversation shows sociability and a friendly demeanor.",
+      "rating": 1,
+      "chunk": 9
     },
     {
-      "Action": "Hands over sheets and towels to Fitch which results in him returning the bracelet, showing tact and control over the situation.",
-      "Competence": 1,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Does not respond when Fitch comments that many of Douglas's clients are women.",
+      "assessment": "Her silence here could indicate discomfort or reservation, which may suggest a guarded or less openly warm side in this moment.",
+      "rating": -1,
+      "chunk": 9
     },
     {
-      "Action": "Engages in casual, curious conversation with Fitch, asking personal questions without hesitation.",
-      "Warmth": 1,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Engages in a nuanced conversation about relationships and business expectations with Fitch, showing awareness of social dynamics and professional boundaries.",
+      "assessment": "This indicates Nina's thoughtful and articulate nature, reflecting emotional intelligence and social competence.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Admits to being intuitive and avoiding intellectualizing to keep life from being 'grey'.",
-      "Warmth": 1,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Does not finish her thought when discussing comfort with a man, showing some hesitation or reservation.",
+      "assessment": "This moment suggests a slight lack of confidence or decisiveness in expressing her feelings fully.",
+      "rating": -1,
+      "chunk": 9
     },
     {
-      "Action": "Listens attentively and observes Fitch without interrupting or dismissing his ritual.",
-      "Warmth": 1,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Asks Fitch for suggestions about where to continue the massage given the cold weather, showing adaptability and openness to input.",
+      "assessment": "This demonstrates practical thinking and collaborative problem-solving skills.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Expresses dislike of doctors and medical system, indicating some personal discomfort with conventional healing methods.",
-      "Warmth": 0,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Mentions Douglas 'does me outside' in a straightforward manner, indicating comfort and directness in communication.",
+      "assessment": "This reflects confidence and clarity in expressing personal preferences.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Engages in candid conversation about sensitive topics like massage and its sexual implications, showing openness.",
-      "Warmth": 1,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Removes sheets and towels Fitch asked for and gives them to him despite sensing some distrust.",
+      "assessment": "Nina is cooperative and helpful, showing a willingness to assist Fitch even though she is somewhat wary, indicating a baseline of trust and sincerity.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Rejects doctors personally without elaborating, stating simply she doesn't like them.",
-      "Warmth": 0,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Becomes curious and a little concerned when Fitch is not where expected and goes to find him.",
+      "assessment": "Her concern and curiosity about Fitch's whereabouts suggest attentiveness and care, reflecting a friendly and considerate nature.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Corrects Fitch about Socrates with a little humor, but does so in a light-hearted manner.",
-      "Warmth": 1,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Hands over sheets and towels to Fitch, which forces him to hand over the bracelet he was examining.",
+      "assessment": "This action shows a subtle assertion of boundaries and a gentle way to regain control of the situation, balancing warmth with self-respect.",
+      "rating": 1,
+      "chunk": 10
     },
     {
-      "Action": "Corrects Fitch about Socrates' longevity, showing knowledge and attentiveness.",
-      "Competence": 1,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Opens the linen closet, removes the sheets and towels Fitch requested, and closes the closet door efficiently.",
+      "assessment": "This action shows that Nina is attentive to requests and capable of performing household tasks in an organized and timely manner.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Engages in thoughtful conversation about massage and its implications, demonstrating critical thinking and insight.",
-      "Competence": 1,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Notices Fitch is missing upon returning and becomes curious and slightly concerned, prompting her to search for him.",
+      "assessment": "This indicates situational awareness and a proactive attitude, reflecting good observational skills and a readiness to address unexpected situations.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Expresses a clear, confident personal boundary and perspective on doctors and touch.",
-      "Competence": 1,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Walks through the house with increasing speed until she finds Fitch examining jewelry in a bedroom.",
+      "assessment": "Her persistence and decisiveness in locating Fitch demonstrate confidence and purposeful action, suggesting competence in managing uncertain circumstances.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Draws towel carelessly around herself without embarrassment.",
-      "Warmth": 0,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Hands over the sheets and towels to Fitch, which forces him to hand over the bracelet.",
+      "assessment": "This subtle maneuver shows social awareness and a degree of control in the interaction, indicating skillfulness in managing interpersonal dynamics.",
+      "rating": 1,
+      "chunk": 10
     },
     {
-      "Action": "Responds calmly and cooperatively to Fitch's comments and actions.",
-      "Warmth": 1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Leads Fitch into the bathroom after the exchange.",
+      "assessment": "Taking initiative to guide Fitch suggests confidence and control over the situation, reinforcing her competent handling of the interaction.",
+      "rating": 1,
+      "chunk": 10
     },
     {
-      "Action": "Carelessly draws the towel around herself, indicating a lack of preparation or focus before the session.",
-      "Competence": -1,
-      "Chunk": 13
+      "trait": "warmth",
+      "action": "Engages Fitch in conversation about healing and massage, asking questions like 'How old are you?' and 'You never learn anything without asking, do you?'",
+      "assessment": "Nina's curiosity and willingness to engage Fitch in a friendly, open manner shows a genuine interest in others and a warm, approachable demeanor.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Responds to Fitch’s comment about starting the massage and goes to select music, showing awareness and willingness to engage appropriately.",
-      "Competence": 1,
-      "Chunk": 13
+      "trait": "warmth",
+      "action": "Watches Fitch with quiet attention as he performs his ritual of setting up the massage table.",
+      "assessment": "Her attentive observation without interruption suggests respect and tolerance for Fitch's process, indicating warmth through patience and acceptance.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Responds playfully and openly about needing a full body massage from head to toe.",
-      "Warmth": 1,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "Expresses a dislike for doctors and medical culture, saying 'I don't like doctors — mine or anyone else's...'",
+      "assessment": "While this statement reveals a personal preference, it may hint at some guardedness or skepticism rather than warmth; however, it is not directed negatively at others, so it is neutral in warmth.",
+      "rating": 0,
+      "chunk": 11
     },
     {
-      "Action": "Lets out involuntary sighs and moans during the massage, showing relaxed openness and trust toward Douglas.",
-      "Warmth": 1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Observes Fitch setting up the massage table with ritualistic devotion but does not engage or assist.",
+      "assessment": "Nina's passive observation without participation suggests a lack of initiative or practical skill in this context, indicating limited competence in the massage setup process.",
+      "rating": -1,
+      "chunk": 11
     },
     {
-      "Action": "Mentions her work stress and tension in a candid way, inviting empathy or inquiry.",
-      "Warmth": 1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Expresses a preference for intuition over intellectualizing massage and healing.",
+      "assessment": "While valuing intuition can be positive, her dismissal of intellectual engagement may limit her depth of understanding and skill development, reflecting moderate competence but potential gaps in knowledge.",
+      "rating": 0,
+      "chunk": 11
     },
     {
-      "Action": "Waits with expectation for Fitch to inquire more about her work, showing some openness and engagement.",
-      "Warmth": 1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Asks Fitch direct questions about his age and the nature of healing.",
+      "assessment": "Her willingness to ask questions shows curiosity and social confidence, which are positive indicators of competence in interpersonal communication.",
+      "rating": 1,
+      "chunk": 11
     },
     {
-      "Action": "Engages Fitch in a thoughtful conversation about art, showing openness and curiosity.",
-      "Warmth": 1,
-      "Chunk": 16
+      "trait": "competence",
+      "action": "Admits to not having given much thought to massage as a form of healing.",
+      "assessment": "This admission reveals a lack of prior knowledge or engagement with the subject, suggesting limited competence in the domain of massage and healing.",
+      "rating": -1,
+      "chunk": 11
     },
     {
-      "Action": "Catches herself mid-sentence, showing self-awareness and sincerity.",
-      "Warmth": 1,
-      "Chunk": 16
+      "trait": "warmth",
+      "action": "Engages in a candid conversation with Fitch about the nature of massage, including its sexual and healing aspects.",
+      "assessment": "Nina's openness and willingness to discuss potentially sensitive topics in a straightforward manner suggests a degree of sincerity and comfort with honest communication, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Does not respond defensively to Fitch’s teasing massage but visibly succumbs, indicating trust or acceptance.",
-      "Warmth": 1,
-      "Chunk": 16
+      "trait": "warmth",
+      "action": "Questions Fitch about his relationship with Doug, showing interest in his personal life.",
+      "assessment": "By showing curiosity about Fitch's relationships, Nina demonstrates friendliness and a desire to connect, which are positive signs of warmth.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "States that her work involves a lot of travel and recognizes it requires prioritizing what you want, showing awareness and realistic self-assessment.",
-      "Competence": 1,
-      "Chunk": 16
+      "trait": "warmth",
+      "action": "Sheds her robe as Fitch finishes preparing the massage table.",
+      "assessment": "This action indicates trust and openness in the context of the interaction, reflecting a willingness to be vulnerable and sincere, which can be seen as a positive indicator of warmth.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Engages in intellectual conversation about art, attempting to explore deeper questions rather than just accepting superficial categorizations.",
-      "Competence": 1,
-      "Chunk": 16
+      "trait": "warmth",
+      "action": "Draws the towel carelessly around herself after spotting it, showing no embarrassment when Fitch sees her.",
+      "assessment": "Her lack of embarrassment suggests a naturalness and comfort with herself, which can be a sign of sincerity and openness, positive aspects of warmth.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Catches herself mid-sentence and questions her own words, showing self-awareness but possibly lack of conversational confidence.",
-      "Competence": 0,
-      "Chunk": 16
+      "trait": "warmth",
+      "action": "Responds briefly and somewhat curtly to Fitch's comment about already having started the massage.",
+      "assessment": "Her brief and somewhat defensive reply may indicate a guarded or less openly friendly demeanor in this interaction, which slightly detracts from warmth.",
+      "rating": -1,
+      "chunk": 13
     },
     {
-      "Action": "Avoids taking a direct stance on who the greatest artists are, stating she is not ‘in that business,’ which may indicate either humility or evasiveness.",
-      "Competence": 0,
-      "Chunk": 16
+      "trait": "warmth",
+      "action": "Crosses out of the room to find music after Fitch suggests it.",
+      "assessment": "Her willingness to accommodate Fitch's suggestion and prepare music shows cooperation and consideration, reflecting friendliness and sincerity.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Asks Fitch gently what he was going to say when he stops speaking; looks for him when he disappears unexpectedly.",
-      "Warmth": 1,
-      "Chunk": 17
+      "trait": "warmth",
+      "action": "Does not verbally engage much with Fitch during the preparation phase, maintaining a somewhat distant or neutral interaction.",
+      "assessment": "The lack of verbal engagement or warmth in communication may indicate a reserved or less openly warm attitude in this context.",
+      "rating": 0,
+      "chunk": 13
     },
     {
-      "Action": "Engages respectfully and thoughtfully in a discussion about modern art, expressing disagreement kindly.",
-      "Warmth": 1,
-      "Chunk": 17
+      "trait": "competence",
+      "action": "Takes a moment to locate a towel and then draws it carelessly around herself before starting the massage session.",
+      "assessment": "This hesitation and carelessness suggest a slight lack of preparedness or attention to detail, which mildly detracts from her competence in managing the situation smoothly.",
+      "rating": -1,
+      "chunk": 13
     },
     {
-      "Action": "Follows Fitch without hesitation into the kitchen, showing trust and warmth in her behavior.",
-      "Warmth": 1,
-      "Chunk": 17
+      "trait": "competence",
+      "action": "Engages in the massage session with Fitch, responding to his comments and preparing music as requested.",
+      "assessment": "Her ability to follow along with Fitch's instructions and take initiative to select music indicates a reasonable level of adaptability and cooperation, reflecting moderate competence.",
+      "rating": 1,
+      "chunk": 13
     },
     {
-      "Action": "Emerges from reverie and attempts to engage Fitch by encouraging him to speak, then actively seeks him when he disappears.",
-      "Competence": 1,
-      "Chunk": 17
+      "trait": "warmth",
+      "action": "Responds to Fitch's question about complaints by saying 'The part that begins at my hair and ends at my toes.'",
+      "assessment": "Nina's response is open and somewhat playful, indicating a willingness to be candid and engage warmly with Fitch.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Accepts Fitch's deadpan explanation about the magnets without skepticism or asking for more detail.",
-      "Competence": -1,
-      "Chunk": 17
+      "trait": "warmth",
+      "action": "Lets out small involuntary sighs and moans during Douglas's massage.",
+      "assessment": "Her relaxed and vulnerable reactions suggest trust and comfort with Douglas, reflecting warmth in her interpersonal connection.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Disagrees thoughtfully with Fitch about modern art, showing independent critical thinking.",
-      "Competence": 1,
-      "Chunk": 17
+      "trait": "warmth",
+      "action": "Mentions that Douglas always tells her how tense she is, especially in her upper back and shoulders, and waits expectantly for Fitch to ask about her work.",
+      "assessment": "Nina shows openness about her stress and a desire for understanding, which indicates sincerity and a friendly, trusting attitude.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Follows Fitch into the kitchen without questioning his unclear intentions or the use of magnets.",
-      "Competence": -1,
-      "Chunk": 17
+      "trait": "competence",
+      "action": "States that the part of her body needing attention 'begins at my hair and ends at my toes.'",
+      "assessment": "This statement shows Nina's clear and comprehensive self-awareness of her physical condition, indicating an intelligent and confident communication about her needs.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Invites Fitch to visit her gallery, enthusiastically describing the upcoming installation with humor and irony.",
-      "Warmth": 1,
-      "Chunk": 18
+      "trait": "competence",
+      "action": "Lets out small involuntary sighs and moans during Douglas's massage.",
+      "assessment": "This reaction suggests a natural, unguarded response rather than a controlled or skillful demeanor, indicating a momentary lapse in composure but not necessarily incompetence.",
+      "rating": -1,
+      "chunk": 14
     },
     {
-      "Action": "Engages in a calm, thoughtful conversation about societal issues, acknowledging repeated concerns with a tolerant tone.",
-      "Warmth": 1,
-      "Chunk": 18
+      "trait": "competence",
+      "action": "Mentions that Douglas always tells her how tense she is, especially in her upper back and shoulders, and attributes it to her work.",
+      "assessment": "This shows Nina's insight into the physical consequences of her professional life, reflecting self-awareness and an understanding of her body's signals, which is a positive indicator of competence.",
+      "rating": 1,
+      "chunk": 14
     },
     {
-      "Action": "Allows Fitch to use her massage chair and accepts his action of placing magnets on her feet without objection, showing openness and trust.",
-      "Warmth": 1,
-      "Chunk": 18
+      "trait": "competence",
+      "action": "Waits expectantly for Fitch to ask about her work after mentioning her tension.",
+      "assessment": "This behavior reveals a degree of social and conversational awareness, showing that Nina is engaged and confident enough to anticipate and invite deeper discussion, a subtle sign of interpersonal competence.",
+      "rating": 1,
+      "chunk": 14
     },
     {
-      "Action": "Confidently invites Fitch to her gallery and describes the upcoming installation with enthusiasm and clarity, showing knowledge and passion about her work.",
-      "Competence": 1,
-      "Chunk": 18
+      "trait": "warmth",
+      "action": "Answers Fitch's silence by sharing about her work and the pressures she faces.",
+      "assessment": "Nina opens up about her responsibilities, showing a willingness to be sincere and somewhat vulnerable, which indicates a degree of warmth.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Engages in a thoughtful exchange with Fitch, responding calmly and insightfully to his critiques about society and art.",
-      "Competence": 1,
-      "Chunk": 18
+      "trait": "warmth",
+      "action": "Engages with the painter by making a u-turn, approaching him, and showing interest in his work.",
+      "assessment": "Her spontaneous decision to return and appreciate the painter's work reflects curiosity and friendliness, positive indicators of warmth.",
+      "rating": 3,
+      "chunk": 15
     },
     {
-      "Action": "Acknowledges the recurring nature of societal critiques with a nuanced understanding, indicating intellectual competence.",
-      "Competence": 1,
-      "Chunk": 18
+      "trait": "warmth",
+      "action": "Gives an approving nod to the painter's work without speaking.",
+      "assessment": "This nonverbal approval is a gentle, encouraging gesture, showing kindness and support.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Fails to challenge Fitch's pessimistic viewpoint or introduce a stronger counterargument, showing a possible passivity in debate.",
-      "Competence": 0,
-      "Chunk": 18
+      "trait": "warmth",
+      "action": "Asks Fitch about his massage experience and comments on the interesting nature of his work.",
+      "assessment": "Showing interest in another's profession and experiences demonstrates openness and friendliness.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Amused smile at Fitch's sarcastic comment about sitting cross-legged humming.",
-      "Warmth": 1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Owns and manages multiple art galleries in different cities (Melrose and Tribeca).",
+      "assessment": "This indicates strong business acumen, responsibility, and the ability to handle complex ventures simultaneously, reflecting high competence.",
+      "rating": 3,
+      "chunk": 15
     },
     {
-      "Action": "Engages Fitch in personal conversation about family, sharing her own family ties and emphasizing importance of family closeness.",
-      "Warmth": 1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Engages in a conversation about work and relaxation, showing self-awareness about her stress and workload.",
+      "assessment": "Her ability to recognize and articulate the pressures she faces suggests emotional intelligence and self-reflection, which are components of competence.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Laughs lightly at her own past misfortune, showing ability to take herself lightly.",
-      "Warmth": 1,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Responds to Fitch's advice by visibly loosening up and taking his advice to relax.",
+      "assessment": "This shows adaptability and openness to feedback, which are positive indicators of competence.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Shares personal artistic aspirations and vulnerabilities openly during conversation.",
-      "Warmth": 1,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Makes a spontaneous decision to turn around her car and approach the painter to study his work.",
+      "assessment": "This action reflects curiosity, decisiveness, and confidence in engaging with new experiences, all signs of competence.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Mentions falling in love with the wrong person, indicating self-awareness and emotional honesty.",
-      "Warmth": 1,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Gives an approving nod to the painter's work without elaboration.",
+      "assessment": "While the nod shows polite engagement, the lack of deeper commentary may suggest a reserved or superficial interaction, indicating a neutral to slightly positive competence in social/artistic judgment.",
+      "rating": 1,
+      "chunk": 15
     },
     {
-      "Action": "Does not disclose detailed feelings about failed relationship, showing some emotional reservation.",
-      "Warmth": 0,
-      "Chunk": 21
+      "trait": "warmth",
+      "action": "Engages Fitch in a thoughtful conversation about art and travel, showing curiosity and openness.",
+      "assessment": "Nina's willingness to engage in a reflective and somewhat personal conversation suggests a friendly and sincere demeanor.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Successfully sells herself in auditions despite lack of singing or dancing talent; acknowledges being passable and capable in rehearsal and performance, and even made paying audiences pay.",
-      "Competence": 1,
-      "Chunk": 21
+      "trait": "warmth",
+      "action": "Catches herself mid-sentence when trying to define a type of person who likes art.",
+      "assessment": "This moment indicates self-awareness and a considerate approach to conversation, avoiding potential stereotyping, which reflects tolerance and sincerity.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Acknowledges her limitations honestly, demonstrating realistic self-awareness rather than overconfidence.",
-      "Competence": 1,
-      "Chunk": 21
+      "trait": "warmth",
+      "action": "Visibly succumbs to Fitch's teasing touch during the massage, closing her eyelids heavily.",
+      "assessment": "Her physical response shows trust and comfort with Fitch, indicating warmth in interpersonal connection.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Attributes career changes to falling in love with the wrong person, implying external factors influenced her path more than her own skills.",
-      "Competence": 0,
-      "Chunk": 21
+      "trait": "warmth",
+      "action": "Does not explicitly reject Fitch's increasingly intimate touch but allows it to continue.",
+      "assessment": "While this may indicate trust, the lack of verbal boundary-setting could also suggest passivity or discomfort, making the warmth assessment ambiguous.",
+      "rating": 0,
+      "chunk": 16
     },
     {
-      "Action": "Expresses satisfaction with who she is and what she does, showing openness by asking Fitch if he is happy after his travels.",
-      "Warmth": 1,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Engages in a thoughtful conversation about art, showing awareness of the complexity of artistic achievement and resisting simple quantification.",
+      "assessment": "This indicates intellectual engagement and a nuanced understanding, reflecting cognitive competence.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Expresses thoughtful self-awareness about her satisfaction with her life and work.",
-      "Competence": 1,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Catches herself mid-sentence and questions her own statement ('Well, an ... (catching herself) What do you mean?').",
+      "assessment": "This self-monitoring suggests self-awareness and reflective thinking, which are positive indicators of competence.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Her mind becomes hyperactive and pulls her back from relaxation during the massage.",
-      "Competence": 0,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Succumbs visibly to Fitch's increasingly intimate touch during the massage.",
+      "assessment": "This may indicate a lapse in professional boundaries or self-control, which could be seen as a negative indicator of competence in maintaining personal or professional limits.",
+      "rating": -1,
+      "chunk": 16
     },
     {
-      "Action": "Shows curiosity by asking 'Meaning what?' and engaging in conversation about spirituality and happiness.",
-      "Warmth": 1,
-      "Chunk": 23
+      "trait": "warmth",
+      "action": "Nina gently prompts Fitch to speak when he falls silent, asking 'What was it you were going to say?'",
+      "assessment": "This shows attentiveness and a desire to engage, indicating a friendly and sincere nature.",
+      "rating": 2,
+      "chunk": 17
     },
     {
-      "Action": "Responds with a smug remark suggesting spiritual beliefs are a shared subconscious programming.",
-      "Warmth": -1,
-      "Chunk": 23
+      "trait": "warmth",
+      "action": "Nina disagrees with Fitch's negative view of modern art, stating that modern art is critical and that is what makes it modern.",
+      "assessment": "Her willingness to express a differing opinion respectfully suggests openness and tolerance.",
+      "rating": 2,
+      "chunk": 17
     },
     {
-      "Action": "Questions and attempts to understand the complex concept of happiness and spiritual energy centers, showing engagement and curiosity.",
-      "Competence": 1,
-      "Chunk": 23
+      "trait": "warmth",
+      "action": "Nina lingers over the painter's shoulder and asks where he shows his work, engaging with him in a friendly manner.",
+      "assessment": "This indicates curiosity and a friendly interest in others, reflecting warmth.",
+      "rating": 2,
+      "chunk": 17
     },
     {
-      "Action": "Responds with a somewhat smug remark comparing spiritual beliefs to a shared subconscious, suggesting skepticism without deeper insight.",
-      "Competence": -1,
-      "Chunk": 23
+      "trait": "warmth",
+      "action": "Nina follows Fitch into the kitchen and listens as he explains the magnets without pressing for more information.",
+      "assessment": "Her behavior shows patience and trust, taking Fitch at his word without skepticism, which is a sign of warmth and trustworthiness.",
+      "rating": 2,
+      "chunk": 17
     },
     {
-      "Action": "Mocks Fitch's explanation about the Hopi medicine man's crystal, showing skepticism and smugness.",
-      "Warmth": -1,
-      "Chunk": 24
+      "trait": "competence",
+      "action": "Notices Fitch's silence and disappearance, then slides off the table to look for him upon hearing a strange clicking sound.",
+      "assessment": "This shows attentiveness and initiative, indicating situational awareness and a proactive approach to uncertainty.",
+      "rating": 2,
+      "chunk": 17
     },
     {
-      "Action": "Mocks Fitch about having a crystal and makes a sarcastic remark about identifying those causing her pain.",
-      "Competence": -1,
-      "Chunk": 24
+      "trait": "competence",
+      "action": "Engages Fitch in a thoughtful discussion about modern art, offering a counterpoint to his opinion.",
+      "assessment": "Demonstrates intellectual engagement and confidence in expressing her own views, reflecting mental acuity and social confidence.",
+      "rating": 2,
+      "chunk": 17
     },
     {
-      "Action": "Shows confidence in expressing skepticism and humor during the massage session.",
-      "Competence": 0,
-      "Chunk": 24
+      "trait": "competence",
+      "action": "Observes the magnets Fitch is clicking together and asks about them, then accepts his explanation without skepticism.",
+      "assessment": "Shows curiosity and willingness to learn, but also a degree of trust that may suggest a lack of critical questioning or deeper inquiry.",
+      "rating": 1,
+      "chunk": 17
     },
     {
-      "Action": "States 'Sometimes it just works' in response to belief in medicine.",
-      "Warmth": 0,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Follows Fitch into the kitchen as he warms the magnets without hesitation or objection.",
+      "assessment": "Indicates adaptability and readiness to follow along, but also a possible lack of assertiveness or independent judgment in unfamiliar situations.",
+      "rating": 0,
+      "chunk": 17
     },
     {
-      "Action": "Expresses dislike for clergymen and doctors, showing blunt frankness.",
-      "Warmth": -1,
-      "Chunk": 25
+      "trait": "warmth",
+      "action": "Invites Fitch to visit her gallery and encourages him to see an upcoming installation.",
+      "assessment": "Inviting someone to share in her interests shows openness and a desire to connect, indicating friendliness and sincerity.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Calls Fitch 'patronizing' when he praises Hopi healing, showing intolerance to condescension.",
-      "Warmth": 0,
-      "Chunk": 25
+      "trait": "warmth",
+      "action": "Engages in a thoughtful conversation with Fitch about art and society, responding with measured, somewhat ironic remarks.",
+      "assessment": "Her responses show tolerance and a willingness to engage in dialogue, though her tone is somewhat detached, suggesting moderate warmth.",
+      "rating": 1,
+      "chunk": 18
     },
     {
-      "Action": "Responds sharply to Fitch’s philosophizing, indicating a guarded or skeptical stance.",
-      "Warmth": -1,
-      "Chunk": 25
+      "trait": "warmth",
+      "action": "Allows Fitch to place warmed magnets on her feet and sits in the massage chair he indicates.",
+      "assessment": "Her acceptance of Fitch's actions without resistance suggests trust and openness, positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Questions and challenges Fitch's ideas directly and confidently.",
-      "Competence": 1,
-      "Chunk": 25
+      "trait": "warmth",
+      "action": "Expresses a somewhat resigned view on fear and societal change, emphasizing fear as a defining characteristic of contemporary life.",
+      "assessment": "While insightful, this perspective is somewhat pessimistic and may reflect emotional distance rather than warmth.",
+      "rating": 0,
+      "chunk": 18
     },
     {
-      "Action": "Shows skepticism about both medicine and clergymen, indicating independent thinking.",
-      "Competence": 1,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Invites Fitch to visit her gallery and describes an upcoming installation with enthusiasm and clarity.",
+      "assessment": "This shows Nina's confidence in her work and ability to communicate her artistic vision effectively, indicating intellectual engagement and social skill.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Labels Fitch's explanation as patronizing, indicating assertiveness.",
-      "Competence": 1,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Engages in a thoughtful philosophical exchange with Fitch about society, art, and fear.",
+      "assessment": "Her responses demonstrate critical thinking and a capacity to hold her own in a complex conversation, reflecting intellectual competence.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Dismisses the idea of conversion or mysticism with sarcasm, showing a critical stance but possibly closed-mindedness.",
-      "Competence": 0,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Sits calmly in the massage chair and allows Fitch to place magnets under her feet while discussing abstract concepts.",
+      "assessment": "Her composed demeanor and willingness to participate suggest emotional steadiness and openness, which support competent interpersonal interaction.",
+      "rating": 1,
+      "chunk": 18
     },
     {
-      "Action": "Wonders if she has been too callous or cavalier about Fitch's beliefs, shows reflective consideration.",
-      "Warmth": 1,
-      "Chunk": 26
+      "trait": "competence",
+      "action": "Repeats Fitch's points with a slightly dismissive tone ('I'm sure people have said that, too.') without elaborating or challenging further.",
+      "assessment": "This may indicate a reluctance or inability to deepen the discussion or assert her own perspective more strongly, suggesting a mild limitation in intellectual assertiveness.",
+      "rating": -1,
+      "chunk": 18
     },
     {
-      "Action": "Engages Fitch with friendly curiosity about his travels and life.",
-      "Warmth": 1,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Amusedly smiles to herself at Fitch's dark joke about killing gallery owners.",
+      "assessment": "Her smile suggests a lighthearted, tolerant attitude toward Fitch's humor, indicating a friendly and easygoing nature.",
+      "rating": 1,
+      "chunk": 19
     },
     {
-      "Action": "Expresses envy of Fitch's freedom, showing openness and sincerity.",
-      "Warmth": 1,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Engages Fitch in personal conversation by asking about his family and sharing about her own.",
+      "assessment": "Showing interest in another's personal life and sharing about herself reflects sincerity and a desire to connect, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 19
     },
     {
-      "Action": "Shows pleasure and warmth toward Doug by acknowledging Fitch's praise.",
-      "Warmth": 1,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Expresses that she tries to stay close to her family and believes it is important.",
+      "assessment": "Valuing family connections and emphasizing effort to maintain them suggests good-naturedness and trustworthiness.",
+      "rating": 2,
+      "chunk": 19
     },
     {
-      "Action": "Asks Fitch what being 'adrift' means, indicating vulnerability and desire for understanding.",
-      "Warmth": 1,
-      "Chunk": 26
+      "trait": "competence",
+      "action": "Engages in a thoughtful conversation with Fitch about personal responsibility and self-reflection.",
+      "assessment": "This shows intellectual engagement and willingness to consider complex ideas, indicating mental competence and openness.",
+      "rating": 2,
+      "chunk": 19
     },
     {
-      "Action": "Considers Fitch's hard-won beliefs thoughtfully and initiates a thoughtful conversation about his travels and purpose.",
-      "Competence": 1,
-      "Chunk": 26
+      "trait": "competence",
+      "action": "Responds with a dry, amused remark about sitting cross-legged and humming like gnats.",
+      "assessment": "This demonstrates quick wit and confidence in social interaction, reflecting social competence.",
+      "rating": 2,
+      "chunk": 19
     },
     {
-      "Action": "Asks Fitch probing questions about his reasons and Doug's opinion of her, showing awareness and emotional insight.",
-      "Competence": 1,
-      "Chunk": 26
+      "trait": "competence",
+      "action": "Endures strong, even painful acupressure massage without asking Fitch to stop, instead trying to manage discomfort through breathing.",
+      "assessment": "This indicates physical resilience, self-control, and emotional regulation, all signs of personal competence.",
+      "rating": 2,
+      "chunk": 19
     },
     {
-      "Action": "Appears pleased and eager when hearing positive remarks about herself, indicating some emotional vulnerability.",
-      "Competence": 0,
-      "Chunk": 26
+      "trait": "competence",
+      "action": "Initiates personal conversation by asking Fitch about his family and sharing about her own family connections.",
+      "assessment": "This shows social skill and emotional intelligence, as she fosters connection and openness.",
+      "rating": 2,
+      "chunk": 19
     },
     {
-      "Action": "Appears uncertain or confused about the meaning of 'adrift,' needing Fitch to explain and clarify.",
-      "Competence": -1,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Engages in a thoughtful conversation about spirituality and the uniqueness of artists, showing understanding and respect for individual differences.",
+      "assessment": "Nina's reflections on spirituality and her recognition of each artist's unique needs indicate a tolerant and sincere attitude, suggesting warmth in her approach to others.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Expresses frustration about men projecting their ideas onto her and not seeing her true self, desires deeper, more complex emotional connections.",
-      "Warmth": 1,
-      "Chunk": 27
+      "trait": "warmth",
+      "action": "Acknowledges that people come to her understanding the matter of compensation, especially artists who are less troubled by earning a living.",
+      "assessment": "This statement shows Nina's awareness and acceptance of others' practical concerns without judgment, reflecting a good-natured and trustworthy demeanor.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Shows vulnerability by admitting that getting to know someone is risky and threatening on many levels.",
-      "Warmth": 1,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Engages in a thoughtful conversation about spiritual and artistic matters, showing awareness of individual needs and the uniqueness of artists.",
+      "assessment": "This indicates intellectual engagement and sensitivity to nuanced topics, reflecting a thoughtful and capable mindset.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Dismisses the painter’s opinion on a new painting with 'Doesn't matter what I think,' showing some guardedness or dismissal.",
-      "Warmth": 0,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "States that people come to her understanding compensation and the nature of artists' concerns.",
+      "assessment": "This suggests professional confidence and an understanding of her clients' motivations, implying skill and experience in her work.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Analyzes and critiques men's perception of her and expresses a desire for deeper, more complex understanding beyond superficial labels.",
-      "Competence": 1,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Does not directly challenge Fitch's somewhat pessimistic worldview but instead offers a more balanced perspective.",
+      "assessment": "This shows emotional intelligence and the ability to maintain constructive dialogue, a sign of interpersonal competence.",
+      "rating": 1,
+      "chunk": 20
     },
     {
-      "Action": "Admits uncertainty and hesitance about taking emotional/intellectual risks and complexity in relationships, showing vulnerability but also awareness.",
-      "Competence": 0,
-      "Chunk": 27
+      "trait": "warmth",
+      "action": "Laughs lightly when Fitch says he never saw her perform, calling him a 'lucky man.'",
+      "assessment": "Her laughter and teasing comment suggest a friendly and warm rapport with Fitch, indicating a good-natured and sincere interaction.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Appears confused or uncertain about the concept of 'complexity' as Fitch introduces it, indicating some lack of grasp on abstract or nuanced ideas.",
-      "Competence": -1,
-      "Chunk": 27
+      "trait": "warmth",
+      "action": "Shares personal history about her artistic aspirations and failed relationships openly with Fitch.",
+      "assessment": "Her willingness to be open and vulnerable about her past shows a degree of trust and sincerity, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Engages in a thoughtful discussion about intimacy and gender differences in relationships, showing openness to dialogue.",
-      "Warmth": 1,
-      "Chunk": 28
+      "trait": "warmth",
+      "action": "Describes falling in love with 'the wrong person' without bitterness or blame.",
+      "assessment": "This neutral, somewhat resigned tone suggests tolerance and a lack of resentment, reflecting emotional maturity and warmth.",
+      "rating": 1,
+      "chunk": 21
     },
     {
-      "Action": "Challenges Fitch's views with a somewhat confrontational tone ('Obviously, you don't know the same men I do.'), indicating defensiveness.",
-      "Warmth": -1,
-      "Chunk": 28
+      "trait": "competence",
+      "action": "Admits she had artistic aspirations but acknowledges her limitations in singing and dancing, yet managed to sell herself and perform passably in rehearsals.",
+      "assessment": "This shows self-awareness and a realistic understanding of her own skills, as well as social competence in selling herself despite lacking certain talents.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Engages in a thoughtful debate about intimacy differences between men and women, articulating her perspective clearly and confidently.",
-      "Competence": 1,
-      "Chunk": 28
+      "trait": "competence",
+      "action": "Laughs off her limited stage experience and exaggerates slightly about making audiences pay.",
+      "assessment": "Her humor and ability to frame her past modestly but positively suggests confidence and social skill, indicating competent self-presentation.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Challenges Fitch's skepticism and asserts her experience when he doubts her claims about men, showing confident defense of her viewpoint.",
-      "Competence": 1,
-      "Chunk": 28
+      "trait": "competence",
+      "action": "Describes falling into the gallery business through a relationship with an artistic partner rather than deliberate career planning.",
+      "assessment": "This implies a somewhat passive approach to career development, indicating a lack of strategic planning or proactive competence in career management.",
+      "rating": -1,
+      "chunk": 21
     },
     {
-      "Action": "Offers a look of great longing as she caresses herself near Andy.",
-      "Warmth": 0,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Responds to Fitch's probing questions with brief, sometimes evasive answers (e.g., 'Who can say really?' about her past relationship).",
+      "assessment": "This could indicate emotional guardedness or reluctance to engage deeply, which may reflect a lack of openness or confidence in discussing personal matters, slightly detracting from perceived competence in communication.",
+      "rating": -1,
+      "chunk": 21
     },
     {
-      "Action": "Speaks frankly about her experience with two bad marriages before 27.",
-      "Warmth": 1,
-      "Chunk": 29
+      "trait": "warmth",
+      "action": "Expresses satisfaction with her life and work, saying 'I like what I do, where I've ended up, who I am.'",
+      "assessment": "This statement reflects a positive self-regard and contentment, which can contribute to a warm and grounded presence.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Calmly engages in discussion with Fitch about illusions in relationships and men's similarities.",
-      "Warmth": 0,
-      "Chunk": 29
+      "trait": "warmth",
+      "action": "Asks Fitch if he is happy after discussing his travels.",
+      "assessment": "By showing interest in Fitch's emotional state, Nina demonstrates genuine curiosity and concern, indicating warmth and sincerity.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Is open about her preference for modesty (or lack thereof) and compares it honestly to Douglas's behavior.",
-      "Warmth": 1,
-      "Chunk": 29
+      "trait": "warmth",
+      "action": "Allows her mind to roam and slackens during the foot massage.",
+      "assessment": "This internal behavior suggests a relaxed and open attitude, but it is neutral in terms of warmth toward others.",
+      "rating": 0,
+      "chunk": 22
     },
     {
-      "Action": "Conceals her shock upon hearing Doug’s sexual preference but tries to manage her emotions.",
-      "Warmth": 0,
-      "Chunk": 29
+      "trait": "warmth",
+      "action": "Is jarred back to reality by her own hyperactive intellect during a moment of near contentment.",
+      "assessment": "This self-awareness may indicate introspection but also a tendency toward detachment or distraction, which could limit warmth in interpersonal moments.",
+      "rating": -1,
+      "chunk": 22
     },
     {
-      "Action": "Lies about knowing Doug was gay to Fitch.",
-      "Warmth": -1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Slackens her mind and allows it to roam during the foot massage.",
+      "assessment": "This suggests a capacity for mental relaxation and introspection, which can be a sign of emotional intelligence and self-awareness, though it does not directly indicate active skill or confidence.",
+      "rating": 0,
+      "chunk": 22
     },
     {
-      "Action": "Tries to conceal being thunderstruck by Fitch's sexual preference revelation.",
-      "Warmth": 0,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Expresses satisfaction with her work, her current situation, and her identity.",
+      "assessment": "This statement reflects a confident and self-assured attitude, indicating emotional competence and a clear sense of purpose, which are positive indicators of overall competence.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Lies confidently about knowing Doug was gay to Fitch.",
-      "Competence": 1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Engages Fitch in a thoughtful conversation about happiness and personal growth.",
+      "assessment": "This shows intellectual curiosity and the ability to engage in meaningful dialogue, suggesting cognitive competence and emotional insight.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Tries to conceal being thunderstruck by Doug's sexual preference.",
-      "Competence": 1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Is momentarily jarred back to reality by her own hyperactive intellect while nearly purring in relaxation.",
+      "assessment": "This indicates a restless or overactive mind that interrupts her ability to fully relax, which may suggest some difficulty in emotional regulation or focus, a mild negative indicator of competence in managing her mental state.",
+      "rating": -1,
+      "chunk": 22
     },
     {
-      "Action": "Keeps the conversation on her terms by abruptly changing subject to the towel.",
-      "Competence": 1,
-      "Chunk": 30
+      "trait": "warmth",
+      "action": "Engages in a thoughtful conversation about happiness and spiritual concepts with Fitch, asking questions like 'Meaning what?' and 'Centers of force?'",
+      "assessment": "Nina shows curiosity and openness to deeper ideas, which can be seen as a positive indicator of warmth, reflecting engagement and sincerity.",
+      "rating": 2,
+      "chunk": 23
     },
     {
-      "Action": "Replies briefly and noncommittally when asked about trying shiatsu massage.",
-      "Competence": 0,
-      "Chunk": 30
+      "trait": "warmth",
+      "action": "Responds to Fitch's explanation about spiritual centers with a somewhat smug comment: 'It's like some shared subconscious. Almost like people are programmed to invent them.'",
+      "assessment": "This comment suggests a degree of skepticism and intellectual distancing, which may indicate a lack of full acceptance or tolerance of Fitch's perspective, slightly reducing perceived warmth.",
+      "rating": -1,
+      "chunk": 23
     },
     {
-      "Action": "Asks Fitch about his family, showing interest in his personal background during an intimate moment.",
-      "Warmth": 1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Engages in a thoughtful conversation about spirituality and body centers, asking clarifying questions like 'Meaning what?' and 'Centers of force?'",
+      "assessment": "This shows intellectual curiosity and a willingness to understand complex ideas, indicating cognitive competence.",
+      "rating": 2,
+      "chunk": 23
     },
     {
-      "Action": "Engages Fitch in conversation, asks thoughtful questions about his family background during an intimate moment.",
-      "Competence": 1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Responds to Fitch's explanation with a somewhat skeptical and smug comment: 'It's like some shared subconscious. Almost like people are programmed to invent them.'",
+      "assessment": "This suggests critical thinking and a confident stance on the topic, reflecting intellectual competence, though the smug tone may hint at some dismissiveness.",
+      "rating": 1,
+      "chunk": 23
     },
     {
-      "Action": "Does not interrupt or detract from Fitch's story, showing patience and ability to listen.",
-      "Competence": 1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Appears puzzled initially when Fitch mentions 'There's more to happiness than being happy.'",
+      "assessment": "This momentary confusion indicates a slight gap in understanding or readiness to grasp abstract concepts, a minor negative indicator of competence.",
+      "rating": -1,
+      "chunk": 23
     },
     {
-      "Action": "Asks Fitch thoughtful questions about his past, shows empathetic interest in his feelings and family dynamics.",
-      "Warmth": 1,
-      "Chunk": 33
+      "trait": "warmth",
+      "action": "Mocks Fitch by saying, 'Tell me you've got a crystal in that bag of yours,' and expresses a sarcastic desire to know which Two Hearts are causing her pain.",
+      "assessment": "Nina's mocking tone and sarcasm suggest a defensive or dismissive attitude rather than warmth; she appears somewhat cynical and less open or sincere in this interaction.",
+      "rating": -1,
+      "chunk": 24
     },
     {
-      "Action": "Expresses understanding about complex emotions toward parents, normalizing ambivalence.",
-      "Warmth": 1,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "Mocks Fitch by sarcastically asking if he has a crystal to identify the Two Hearts causing her pain.",
+      "assessment": "This action shows Nina's quick wit and confidence in expressing skepticism, indicating mental sharpness and social confidence.",
+      "rating": 2,
+      "chunk": 24
     },
     {
-      "Action": "Engages Fitch by asking insightful questions that encourage him to reveal his feelings and story in detail.",
-      "Competence": 1,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "Engages in a massage session and allows Fitch to continue despite her mocking tone.",
+      "assessment": "Her ability to tolerate Fitch's explanations and remain engaged suggests emotional resilience and a degree of patience, reflecting competent interpersonal skills.",
+      "rating": 1,
+      "chunk": 24
     },
     {
-      "Action": "Demonstrates empathy and understanding of complex family dynamics through her reflective statements.",
-      "Competence": 1,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "Does not show understanding or interest in the Hopi healing method being explained.",
+      "assessment": "Her mocking and dismissive attitude toward the healing method may indicate a lack of openness or intellectual curiosity, which could be seen as a limitation in competence.",
+      "rating": -1,
+      "chunk": 24
     },
     {
-      "Action": "Does not interrupt Fitch’s storytelling and allows him space to express himself, showing emotional intelligence and patience.",
-      "Competence": 1,
-      "Chunk": 33
+      "trait": "warmth",
+      "action": "Expresses skepticism and impatience toward Fitch's discussion about belief systems and healing, calling Fitch 'patronizing' and making a sarcastic remark about converting to another race.",
+      "assessment": "Nina's responses show a defensive and somewhat dismissive attitude, indicating a lack of tolerance and openness in this interaction, which suggests lower warmth.",
+      "rating": -2,
+      "chunk": 25
     },
     {
-      "Action": "Asks if Fitch was angry and about apologies, indicating awareness of emotional nuances.",
-      "Competence": 1,
-      "Chunk": 33
+      "trait": "warmth",
+      "action": "Engages in a candid and direct conversation with Fitch, expressing her honest opinions without pretense.",
+      "assessment": "While her honesty is a positive trait, the bluntness and sarcasm reduce the sense of friendliness and sincerity that would indicate warmth.",
+      "rating": 0,
+      "chunk": 25
     },
     {
-      "Action": "Recognizes and consciously reflects on her emotional openness and vulnerability during intimate physical interactions.",
-      "Competence": 1,
-      "Chunk": 34
+      "trait": "competence",
+      "action": "Engages in a skeptical and sharp dialogue with Fitch, challenging his views on medicine and mysticism.",
+      "assessment": "Nina demonstrates intellectual confidence and critical thinking by questioning Fitch's assertions and refusing to accept patronizing explanations.",
+      "rating": 2,
+      "chunk": 25
     },
     {
-      "Action": "Appears surprised and somewhat unprepared for her reaction to physical intimacy, showing a lack of prior self-awareness.",
-      "Competence": -1,
-      "Chunk": 34
+      "trait": "competence",
+      "action": "Dismisses both doctors and clergymen with a blunt statement: 'I like clergymen even less than do doctors.'",
+      "assessment": "This shows Nina's decisiveness and clarity in her opinions, reflecting a confident and assertive personality.",
+      "rating": 1,
+      "chunk": 25
     },
     {
-      "Action": "Expresses deep sympathy and heartbreak over her parents' lack of recognition and being undervalued despite their gifts and caring nature.",
-      "Warmth": 1,
-      "Chunk": 35
+      "trait": "competence",
+      "action": "Responds to Fitch's philosophical points with sarcasm and pointed questions, e.g., 'Can you do that, by the way? Convert to another race?'",
+      "assessment": "Her use of sarcasm and pointed questioning indicates quick wit and a readiness to challenge complex ideas, suggesting intellectual agility.",
+      "rating": 2,
+      "chunk": 25
     },
     {
-      "Action": "Shows understanding and tolerance toward her parents' quiet, unrecognized lives without bitterness or resentment.",
-      "Warmth": 1,
-      "Chunk": 35
+      "trait": "competence",
+      "action": "Accuses Fitch of being patronizing with the blunt remark, 'Christ, you're patronizing.'",
+      "assessment": "This shows Nina's ability to recognize and call out condescension, reflecting emotional intelligence and assertiveness.",
+      "rating": 2,
+      "chunk": 25
     },
     {
-      "Action": "Reflects on her parents' competence and resolves not to live a life of being ignored or unrecognized despite their gifts.",
-      "Competence": 1,
-      "Chunk": 35
+      "trait": "warmth",
+      "action": "Nina wonders if she has been too callous or cavalier about Fitch's beliefs and then initiates a friendly conversation about his travels.",
+      "assessment": "Nina's self-reflection about her own behavior and her genuine curiosity about Fitch's experiences indicate openness and a sincere interest in understanding him better.",
+      "rating": 2,
+      "chunk": 26
     },
     {
-      "Action": "Passively recounts her parents' stories without indicating active steps toward changing her own situation in this excerpt.",
-      "Competence": 0,
-      "Chunk": 35
+      "trait": "warmth",
+      "action": "Nina expresses envy of Fitch's freedom and lack of responsibilities in a lighthearted manner.",
+      "assessment": "This shows a friendly and relatable side, as she shares a personal feeling that invites connection.",
+      "rating": 2,
+      "chunk": 26
     },
     {
-      "Action": "Openly shares vulnerable personal history about failed marriage and youthful inexperience.",
-      "Warmth": 1,
-      "Chunk": 36
+      "trait": "warmth",
+      "action": "Nina asks Fitch why he came tonight and acknowledges Doug's recommendation with pleasure, saying 'I like him.'",
+      "assessment": "Nina demonstrates warmth by showing appreciation for Doug and openness to Fitch, indicating trust and friendliness.",
+      "rating": 2,
+      "chunk": 26
     },
     {
-      "Action": "Admits to seeking attention in youth, shows self-awareness and honesty.",
-      "Warmth": 1,
-      "Chunk": 36
+      "trait": "warmth",
+      "action": "Nina probes the meaning of being called 'adrift' and shows vulnerability by asking what it means.",
+      "assessment": "Her willingness to engage with a potentially uncomfortable label and seek understanding reflects sincerity and emotional openness.",
+      "rating": 3,
+      "chunk": 26
     },
     {
-      "Action": "Refers to her first husband disparagingly, calling him charming but not smart.",
-      "Warmth": -1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Reflects internally on whether she has been too callous or cavalier about Fitch's beliefs before engaging him in conversation.",
+      "assessment": "This shows self-awareness and emotional intelligence, indicating a thoughtful and reflective approach rather than impulsive behavior.",
+      "rating": 2,
+      "chunk": 26
     },
     {
-      "Action": "Describes second husband positively as decent and honorable, showing respect and gratitude.",
-      "Warmth": 1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Initiates and sustains a nuanced conversation with Fitch about his travels and beliefs, probing gently and showing curiosity.",
+      "assessment": "Her ability to engage in meaningful dialogue and draw out information demonstrates social skill and intellectual engagement.",
+      "rating": 2,
+      "chunk": 26
     },
     {
-      "Action": "Expresses regret about mistakes yet does not seem deeply remorseful, a bit dismissive.",
-      "Warmth": 0,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Expresses pleasure and approval when Fitch relays Doug's positive opinion of her.",
+      "assessment": "Shows confidence and social awareness in responding positively to social validation, which can be seen as emotionally competent.",
+      "rating": 1,
+      "chunk": 26
     },
     {
-      "Action": "Engages Fitch in a gentle, curious conversation about relationships and emotions, showing openness and interest.",
-      "Warmth": 1,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "Questions the meaning of being described as 'adrift' and seeks clarification.",
+      "assessment": "This indicates intellectual curiosity and a willingness to understand herself better, reflecting introspection and cognitive competence.",
+      "rating": 2,
+      "chunk": 26
     },
     {
-      "Action": "Observes Fitch quietly while he prepares treatment, allowing space without intrusive behavior.",
-      "Warmth": 1,
-      "Chunk": 37
+      "trait": "warmth",
+      "action": "Expresses frustration that men refuse to see her for who she truly is and instead project their own ideas onto her.",
+      "assessment": "This reveals Nina's desire for genuine connection and authenticity, indicating a sincere and open-hearted nature beneath her guarded exterior.",
+      "rating": 2,
+      "chunk": 27
     },
     {
-      "Action": "Observes Fitch carefully and engages him in a thoughtful, probing conversation about relationships and emotions, showing intellectual curiosity and social perceptiveness.",
-      "Competence": 1,
-      "Chunk": 37
+      "trait": "warmth",
+      "action": "Wishes that Douglas would take a risk to know her on a more complex level.",
+      "assessment": "Her hope for deeper understanding shows a willingness to be vulnerable and to connect beyond superficial interactions, which is a positive indicator of warmth.",
+      "rating": 2,
+      "chunk": 27
     },
     {
-      "Action": "Asks pointed questions about Fitch's personal life and emotional experiences, demonstrating confidence and insightfulness in dialogue.",
-      "Competence": 1,
-      "Chunk": 37
+      "trait": "warmth",
+      "action": "Questions whether complexity and intimacy are dangerous or threatening.",
+      "assessment": "Her cautiousness about intimacy suggests some emotional guardedness and fear of being hurt, which tempers her warmth but also reflects a realistic and self-protective attitude.",
+      "rating": 0,
+      "chunk": 27
     },
     {
-      "Action": "Does not take any physical or emotional action to distract or deflect from Fitch's ambiguous or evasive answers, showing patience and composure.",
-      "Competence": 1,
-      "Chunk": 37
+      "trait": "warmth",
+      "action": "Engages Fitch in a thoughtful conversation about risk, intimacy, and complexity.",
+      "assessment": "Her willingness to engage in deep, reflective dialogue shows openness and intellectual sincerity, which are positive aspects of warmth.",
+      "rating": 2,
+      "chunk": 27
     },
     {
-      "Action": "Asks clear, relevant questions about the story and the people involved, showing engagement and a desire to understand.",
-      "Competence": 1,
-      "Chunk": 38
+      "trait": "competence",
+      "action": "Expresses frustration about men projecting their ideas of who she should be rather than seeing her true self.",
+      "assessment": "This shows self-awareness and emotional insight, indicating a thoughtful and reflective mind, which are components of competence.",
+      "rating": 2,
+      "chunk": 27
     },
     {
-      "Action": "Follows Fitch inside the house without hesitation or apparent uncertainty.",
-      "Competence": 1,
-      "Chunk": 38
+      "trait": "competence",
+      "action": "Questions the risk involved in allowing others to know her on a more complex level.",
+      "assessment": "Her willingness to consider emotional complexity and vulnerability suggests intellectual depth and a capacity for nuanced thinking, reflecting competence.",
+      "rating": 2,
+      "chunk": 27
     },
     {
-      "Action": "Peels off her blouse seductively while confronting the painter with harsh truths about herself and him.",
-      "Warmth": 0,
-      "Chunk": 40
+      "trait": "competence",
+      "action": "Appears surprised when Fitch guides her off the table and begins working in an unexpected way.",
+      "assessment": "Her surprise may indicate a lack of anticipation or control in the situation, suggesting a momentary lapse in situational awareness.",
+      "rating": -1,
+      "chunk": 27
     },
     {
-      "Action": "Confronts Fitch about his self-indulgence and hiding behind his soul, delivering a critical but sincere challenge.",
-      "Warmth": 0,
-      "Chunk": 40
+      "trait": "competence",
+      "action": "Engages in a philosophical discussion about intimacy and risk with Fitch.",
+      "assessment": "Her engagement in abstract conversation and ability to articulate complex emotional ideas demonstrates intellectual competence and emotional intelligence.",
+      "rating": 2,
+      "chunk": 27
     },
     {
-      "Action": "Chooses not to apologize to Fitch despite an apparent moment where she could have, instead remaining silent.",
-      "Warmth": -1,
-      "Chunk": 40
+      "trait": "competence",
+      "action": "Seemingly does not understand Fitch's point about complexity immediately.",
+      "assessment": "This momentary confusion may indicate a slight gap in comprehension or openness to new perspectives, but it is minor and does not strongly detract from overall competence.",
+      "rating": 0,
+      "chunk": 27
     },
     {
-      "Action": "Confidently challenges Fitch’s behavior and hypocrisy, asserts her understanding despite Fitch's denials.",
-      "Competence": 1,
-      "Chunk": 40
+      "trait": "warmth",
+      "action": "Engages in a thoughtful discussion about intimacy and relationships with Fitch, expressing her views candidly.",
+      "assessment": "Nina's willingness to engage in a deep, personal conversation shows openness and sincerity, indicating a degree of warmth.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "Seductively approaches the painter, knowing her effect on him, indicating self-awareness and control.",
-      "Competence": 1,
-      "Chunk": 40
+      "trait": "warmth",
+      "action": "Challenges Fitch's assumptions about men and intimacy, asserting her perspective firmly.",
+      "assessment": "While assertive, Nina's challenge is part of an honest dialogue rather than hostility, reflecting sincerity but also some defensiveness.",
+      "rating": 1,
+      "chunk": 28
     },
     {
-      "Action": "Remains silent when an apology might be expected, instead allowing the situation to unfold without unnecessary words.",
-      "Competence": 1,
-      "Chunk": 40
+      "trait": "warmth",
+      "action": "Responds to Fitch's question 'Are you trying to get a rise out of me?' with a direct question 'Does it sound it?'",
+      "assessment": "This exchange suggests a guarded or slightly confrontational stance, which may reduce perceived warmth in this moment.",
+      "rating": -1,
+      "chunk": 28
     },
     {
-      "Action": "Does not clarify or directly address the painter’s accusation of pretending, potentially avoiding conflict or self-examination.",
-      "Competence": 0,
-      "Chunk": 40
+      "trait": "competence",
+      "action": "Engages in a thoughtful discussion about intimacy differences between men and women, articulating her perspective clearly and challenging Fitch's views.",
+      "assessment": "This shows Nina's intellectual engagement and confidence in expressing her ideas, indicating a level of competence in communication and critical thinking.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "Responds with calm curiosity to Fitch's ambiguous comments and questions.",
-      "Warmth": 1,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Questions Fitch's assumptions and pushes back when she feels misunderstood or challenged.",
+      "assessment": "Her assertiveness and ability to defend her viewpoint suggest emotional intelligence and self-assurance, positive indicators of competence.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "Maintains composure and openness during the intimate massage, not exhibiting discomfort.",
-      "Warmth": 1,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Mentions a fundamental difference in intimacy levels between men and women without providing empirical evidence, relying on anecdotal or generalized statements.",
+      "assessment": "While confident, this reliance on generalizations without substantiation may reflect a less rigorous or nuanced understanding, a slight negative indicator of intellectual competence.",
+      "rating": -1,
+      "chunk": 28
     },
     {
-      "Action": "Does not openly share feelings or deeper reactions about perceived failure or personal insecurities.",
-      "Warmth": 0,
-      "Chunk": 41
+      "trait": "warmth",
+      "action": "Offers a look of great longing as she caresses herself in front of Andy.",
+      "assessment": "This action suggests vulnerability and openness, which can be a sign of emotional warmth, though it is ambiguous without further context.",
+      "rating": 1,
+      "chunk": 29
     },
     {
-      "Action": "Asks clarifying questions when she does not follow Fitch's meaning (e.g., 'How do you mean?').",
-      "Competence": 1,
-      "Chunk": 41
+      "trait": "warmth",
+      "action": "Engages in a candid conversation with Fitch about men and her past marriages.",
+      "assessment": "Her willingness to share personal experiences and opinions indicates a degree of sincerity and openness, positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 29
     },
     {
-      "Action": "Responds with uncertainty or hesitation in conversation (e.g., 'I'm not sure I follow').",
-      "Competence": 0,
-      "Chunk": 41
+      "trait": "warmth",
+      "action": "Quickly cuts off Fitch when he tries to differentiate men.",
+      "assessment": "This interruption may suggest impatience or defensiveness, which can detract from warmth by limiting open dialogue.",
+      "rating": -1,
+      "chunk": 29
     },
     {
-      "Action": "Admits frustration with materialism but asserts strong personal values and hard work.",
-      "Warmth": 1,
-      "Chunk": 42
+      "trait": "warmth",
+      "action": "Tells Fitch she prefers not to be covered with a towel, referencing Douglas's behavior.",
+      "assessment": "This shows comfort with intimacy and a relaxed, straightforward attitude, which can be seen as warm and genuine.",
+      "rating": 2,
+      "chunk": 29
     },
     {
-      "Action": "Responds to Fitch's provocation with rising anger and defensive statements.",
-      "Warmth": -1,
-      "Chunk": 42
+      "trait": "warmth",
+      "action": "Tries hard to conceal being thunderstruck upon learning about Douglas's sexual preference.",
+      "assessment": "Concealing her reaction may indicate discomfort or lack of full acceptance, which could be a negative indicator of tolerance and warmth.",
+      "rating": -1,
+      "chunk": 29
     },
     {
-      "Action": "Engages in a pointed, confident conversation defending her values and achievements; asserts that she has earned everything she has and challenges Fitch's insinuations skillfully.",
-      "Competence": 1,
-      "Chunk": 42
+      "trait": "competence",
+      "action": "Quickly cuts off Fitch's attempt to differentiate men by asserting 'All men are alike' based on her experience of two bad marriages before age 27.",
+      "assessment": "This shows Nina's decisiveness and confidence in her worldview, indicating a certain intellectual assertiveness and clarity derived from personal experience.",
+      "rating": 2,
+      "chunk": 29
     },
     {
-      "Action": "Becomes visibly frustrated and rage slowly builds, indicating emotional overwhelm in the conversation.",
-      "Competence": -1,
-      "Chunk": 42
+      "trait": "competence",
+      "action": "Attempts to conceal being thunderstruck upon learning about Doug's sexual preference.",
+      "assessment": "Her effort to hide her surprise suggests emotional control and social awareness, reflecting competence in managing interpersonal dynamics.",
+      "rating": 2,
+      "chunk": 29
     },
     {
-      "Action": "Engages in candid, confrontational dialogue with Fitch, displaying honesty about her complicated situation.",
-      "Warmth": 1,
-      "Chunk": 43
+      "trait": "competence",
+      "action": "Engages in a candid conversation about illusions in relationships and her own past marriages.",
+      "assessment": "This openness and reflective insight demonstrate emotional intelligence and self-awareness, positive indicators of competence.",
+      "rating": 2,
+      "chunk": 29
     },
     {
-      "Action": "Admits to having a discreet physical relationship with Douglas but avoids emotional discussion, maintaining some distance.",
-      "Warmth": 0,
-      "Chunk": 43
+      "trait": "competence",
+      "action": "Offers a look of great longing and caresses herself while looming above Andy.",
+      "assessment": "This action shows Nina's confidence and control in a sexual or intimate context, suggesting comfort with her own agency.",
+      "rating": 2,
+      "chunk": 29
     },
     {
-      "Action": "Shows awareness and empathy toward Fitch's loneliness, pointing it out bluntly.",
-      "Warmth": 1,
-      "Chunk": 43
+      "trait": "competence",
+      "action": "Says 'You really don't have to bother with that, you know' about covering up with a towel, indicating a preference for being uncovered.",
+      "assessment": "This indicates self-assurance and comfort in her own skin, a subtle but positive sign of personal competence.",
+      "rating": 1,
+      "chunk": 29
     },
     {
-      "Action": "Slides herself off the table and rises to confront Fitch confidently, asserts her perspective clearly and directly.",
-      "Competence": 1,
-      "Chunk": 43
+      "trait": "warmth",
+      "action": "Lies to Fitch about knowing Doug was gay, saying 'Of course' when she did not actually know.",
+      "assessment": "Nina's choice to lie rather than be honest suggests a guarded or evasive stance, which may indicate a lack of openness or sincerity in this moment.",
+      "rating": -1,
+      "chunk": 30
     },
     {
-      "Action": "Engages in a tense conversation about personal boundaries and emotional realities without losing composure.",
-      "Competence": 1,
-      "Chunk": 43
+      "trait": "warmth",
+      "action": "Responds to Fitch's comments with minimal engagement and quickly changes the subject to 'The towel.'",
+      "assessment": "By deflecting the conversation and avoiding deeper engagement, Nina appears reserved and possibly uncomfortable, showing limited warmth or openness here.",
+      "rating": -1,
+      "chunk": 30
     },
     {
-      "Action": "Avoids responding directly to Fitch's accusations about the nature of her relationship with Douglas, showing ambivalence and uncertainty.",
-      "Competence": 0,
-      "Chunk": 43
+      "trait": "competence",
+      "action": "Lies about knowing Doug was gay, saying 'Of course' when questioned by Fitch.",
+      "assessment": "Nina's ability to lie smoothly and maintain composure under questioning suggests social skill and quick thinking, indicating a moderate level of competence in interpersonal situations.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Admits uncertainty ('I don't know') when questioned, reflecting honest self-awareness but also some indecision.",
-      "Competence": 0,
-      "Chunk": 43
+      "trait": "competence",
+      "action": "Attempts to conceal being thunderstruck by Doug's sexual preference.",
+      "assessment": "Her effort to hide surprise shows emotional control and awareness of social dynamics, reflecting competent self-regulation.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Attempts to rationalize and normalize her physical relationship with Douglas as 'safe' and 'discreet' while maintaining emotional distance.",
-      "Competence": 1,
-      "Chunk": 43
+      "trait": "competence",
+      "action": "Responds briefly and somewhat evasively to Fitch's comments about Doug and sexual preferences.",
+      "assessment": "Her minimal and somewhat vague responses may indicate a reluctance to engage deeply or a lack of assertiveness, which could be seen as a slight limitation in communicative competence.",
+      "rating": -1,
+      "chunk": 30
     },
     {
-      "Action": "Slouches on the massage table, indicating a moment of resignation or lowered energy.",
-      "Competence": -1,
-      "Chunk": 43
+      "trait": "competence",
+      "action": "Focuses conversation back to the towel with a terse 'Nevertheless' and 'The towel.'",
+      "assessment": "This redirection suggests an attempt to regain control of the interaction and steer it toward a professional or neutral topic, demonstrating situational awareness and conversational skill.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Answers the phone with a message that acknowledges the caller's presence in a neutral but clear way (answering machine message).",
-      "Warmth": 0,
-      "Chunk": 44
+      "trait": "warmth",
+      "action": "Asks Fitch about his family, including his father and their background, during the massage.",
+      "assessment": "Nina's questions show a genuine interest in Fitch's personal history, indicating a friendly and sincere attempt to connect beyond the physical interaction.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Shares a look with Fitch after hearing Douglas’s call, indicating a shared understanding or connection.",
-      "Warmth": 1,
-      "Chunk": 44
+      "trait": "warmth",
+      "action": "Asks Fitch about his age and his experience with his father, showing curiosity and engagement.",
+      "assessment": "Nina's questions demonstrate genuine interest and a desire to understand Fitch's feelings and history, indicating friendliness and sincerity.",
+      "rating": 2,
+      "chunk": 33
     },
     {
-      "Action": "Half-laughs and relaxes during the massage despite commenting that it's not the most relaxing, showing a receptive and friendly attitude.",
-      "Warmth": 1,
-      "Chunk": 44
+      "trait": "warmth",
+      "action": "Expresses empathy by acknowledging ambivalence toward parents and reflecting on complex family dynamics.",
+      "assessment": "This shows tolerance and a nonjudgmental attitude, suggesting Nina is good-natured and understanding.",
+      "rating": 2,
+      "chunk": 33
     },
     {
-      "Action": "Admits she hasn't been totally honest about her relationships and reflects on the pattern of men in her life.",
-      "Warmth": 1,
-      "Chunk": 45
+      "trait": "warmth",
+      "action": "Does not press Fitch aggressively when he is distant or wounded by his father's treatment.",
+      "assessment": "Her restraint and patience indicate respect for Fitch's emotional boundaries, reflecting trustworthiness and sensitivity.",
+      "rating": 2,
+      "chunk": 33
     },
     {
-      "Action": "Appreciates and values the painter for treating her well and expecting her to be herself without pretense.",
-      "Warmth": 1,
-      "Chunk": 45
+      "trait": "competence",
+      "action": "Engages Fitch in a thoughtful conversation about his past and emotions, asking clarifying questions and reflecting on complex family dynamics.",
+      "assessment": "This demonstrates Nina's emotional intelligence, active listening skills, and ability to navigate sensitive topics with insight and empathy, indicating strong interpersonal competence.",
+      "rating": 2,
+      "chunk": 33
     },
     {
-      "Action": "Expresses a self-critical smile, acknowledging she treated the painter less well than he treated her.",
-      "Warmth": 1,
-      "Chunk": 45
+      "trait": "competence",
+      "action": "Does not interrupt Fitch's storytelling and allows him to express himself fully before responding.",
+      "assessment": "This restraint and patience show self-control and respect for the speaker, reflecting mature communication skills and confidence in managing conversations.",
+      "rating": 2,
+      "chunk": 33
     },
     {
-      "Action": "Acknowledges her own dishonesty about her relationships with men.",
-      "Competence": -1,
-      "Chunk": 45
+      "trait": "competence",
+      "action": "Makes a general statement about ambivalence toward parents, showing philosophical reflection.",
+      "assessment": "While this shows some insight, the statement is somewhat generic and does not advance the conversation significantly, suggesting moderate competence in emotional articulation.",
+      "rating": 1,
+      "chunk": 33
     },
     {
-      "Action": "Reflects insightfully on her pattern of failed relationships and recognizes a significant change when meeting the painter.",
-      "Competence": 1,
-      "Chunk": 45
+      "trait": "warmth",
+      "action": "Expresses empathy and sorrow about how her gifted and caring parents were ignored and undervalued in their work.",
+      "assessment": "Nina's reflection shows sensitivity and compassion toward the struggles of her parents, indicating a warm and caring nature.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Describes the painter as authentic and unapologetically himself, appreciating genuine behavior over affectation.",
-      "Competence": 1,
-      "Chunk": 45
+      "trait": "warmth",
+      "action": "Swears she wouldn't live the way her parents did, being unrecognized and stepped on.",
+      "assessment": "This statement reveals a sincere desire for a better, more respectful life, suggesting self-awareness and a hopeful, positive attitude toward human dignity.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Expresses complex feelings and vulnerability in relationships, revealing a struggle to fully commit.",
-      "Competence": 0,
-      "Chunk": 45
+      "trait": "competence",
+      "action": "Reflects on her parents' professional lives and their lack of recognition despite their gifts and skills.",
+      "assessment": "This reflection shows Nina's thoughtful and insightful nature, indicating emotional intelligence and an ability to critically assess her environment and family history.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Watches in perplexed silence as the painter walks away, showing restraint and non-confrontation.",
-      "Warmth": 0,
-      "Chunk": 46
+      "trait": "competence",
+      "action": "Swears she wouldn't live the way her parents did—ignored and unrecognized despite their talents.",
+      "assessment": "This statement reveals Nina's determination and self-awareness, suggesting she aspires to live more competently and assertively than her parents, which is a positive indicator of her confidence and ambition.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Reflects on how past husbands have affected her deeply, showing emotional honesty and self-awareness.",
-      "Warmth": 1,
-      "Chunk": 46
+      "trait": "competence",
+      "action": "Engages in a deep conversation with Fitch about identity and recognition.",
+      "assessment": "Her engagement in philosophical dialogue shows intellectual curiosity and the ability to engage thoughtfully with abstract concepts, reflecting cognitive competence.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Answers Fitch's question about how she feels with 'Good. Very good.' in a calm, straightforward manner.",
-      "Warmth": 0,
-      "Chunk": 47
+      "trait": "competence",
+      "action": "Passively receives Fitch's massage without interrupting or asserting herself.",
+      "assessment": "While this may be contextually appropriate, the lack of active engagement or assertiveness here could suggest a momentary passivity or lack of control in the situation, a mild negative indicator.",
+      "rating": -1,
+      "chunk": 35
     },
     {
-      "Action": "Responds succinctly and confidently when asked how she feels ('Good. Very good.') after packing up and preparing to leave.",
-      "Competence": 1,
-      "Chunk": 47
+      "trait": "warmth",
+      "action": "Openly shares personal and vulnerable details about her failed marriages and youthful mistakes with Fitch.",
+      "assessment": "Nina's willingness to be candid and self-reflective suggests sincerity and a degree of trustworthiness, indicating warmth.",
+      "rating": 2,
+      "chunk": 36
     },
     {
-      "Action": "Turns to face Fitch and engages in brief but clear communication without hesitation.",
-      "Competence": 1,
-      "Chunk": 47
+      "trait": "warmth",
+      "action": "Admits she sought attention in her youth and acknowledges her mistakes without defensiveness.",
+      "assessment": "This honest self-awareness and lack of defensiveness show tolerance toward herself and a genuine nature, positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 36
     },
     {
-      "Action": "Insists on paying more than agreed and gives a generous tip despite Fitch's protests.",
-      "Warmth": 1,
-      "Chunk": 48
+      "trait": "warmth",
+      "action": "Mentions settling down with a 'decent, honorable, hard-working young man' following her parents' advice.",
+      "assessment": "This suggests a respect for social norms and a desire for stability, which can be seen as responsible but somewhat conventional rather than warmly spontaneous.",
+      "rating": 1,
+      "chunk": 36
     },
     {
-      "Action": "Engages in light, curious conversation with Fitch about the chip he gives her.",
-      "Warmth": 1,
-      "Chunk": 48
+      "trait": "warmth",
+      "action": "Does not express bitterness or resentment about her past relationships despite their failures.",
+      "assessment": "Her lack of bitterness and ability to speak about her past calmly indicates emotional maturity and tolerance, positive for warmth.",
+      "rating": 2,
+      "chunk": 36
     },
     {
-      "Action": "Negotiates the price confidently, manages to get a better deal than expected, insists on tipping appropriately.",
-      "Competence": 1,
-      "Chunk": 48
+      "trait": "warmth",
+      "action": "Refers to her first husband as 'charming but not very smart' and recounts his legal troubles matter-of-factly.",
+      "assessment": "While not harsh, this description is somewhat detached and factual rather than empathetic, showing limited warmth in how she views others.",
+      "rating": 0,
+      "chunk": 36
     },
     {
-      "Action": "Participates in Fitch's test of concentration but fails to hold onto the chip, which drops despite her efforts.",
-      "Competence": -1,
-      "Chunk": 48
+      "trait": "competence",
+      "action": "Reflects on her youthful marriage and admits she was naive and eager for attention.",
+      "assessment": "Nina shows self-awareness and honesty about her past mistakes, indicating emotional intelligence and a capacity for reflection, which are components of competence.",
+      "rating": 2,
+      "chunk": 36
     },
     {
-      "Action": "Invites Fitch to come back next week and shows consideration by offering to work something out with Douglas so Fitch can return without conflict.",
-      "Warmth": 1,
-      "Chunk": 49
+      "trait": "competence",
+      "action": "Admits she didn't learn much from her mistakes and only settled down after parental advice.",
+      "assessment": "This suggests a lack of independent judgment and slow personal growth, which reflects a lower level of competence in decision-making.",
+      "rating": -1,
+      "chunk": 36
     },
     {
-      "Action": "Takes Fitch's hand and kisses his cheek in a friendly, distinctly nonsexual way, displaying openness and sincerity.",
-      "Warmth": 1,
-      "Chunk": 49
+      "trait": "competence",
+      "action": "Decides that only men who are already married should be seriously considered for marriage.",
+      "assessment": "This conclusion shows some pragmatic thinking and learning from experience, though it may also reflect a somewhat cynical or limited perspective.",
+      "rating": 1,
+      "chunk": 36
     },
     {
-      "Action": "Takes initiative to schedule another appointment and negotiate a solution involving Doug to accommodate Fitch, demonstrating problem-solving and interpersonal skills.",
-      "Competence": 1,
-      "Chunk": 49
+      "trait": "warmth",
+      "action": "Engages Fitch in a personal conversation about relationships and intimacy, asking if he has ever had a serious or meaningful relationship.",
+      "assessment": "Nina's questions show curiosity and a willingness to connect on a deeper emotional level, indicating openness and a friendly demeanor.",
+      "rating": 2,
+      "chunk": 37
     },
     {
-      "Action": "Confidently handles a potentially delicate social interaction with Fitch, maintaining control and keeping the tone friendly yet assertive.",
-      "Competence": 1,
-      "Chunk": 49
+      "trait": "warmth",
+      "action": "Observes Fitch quietly as he prepares the acupressure heating pads without interrupting or showing impatience.",
+      "assessment": "Her calm and attentive behavior suggests patience and respect for Fitch, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 37
     },
     {
-      "Action": "Does not hesitate to directly address the challenges posed by Doug's involvement and offers a practical compromise.",
-      "Competence": 1,
-      "Chunk": 49
+      "trait": "warmth",
+      "action": "Uses humor and light teasing when she says 'Oh, so you're a romantic' after Fitch's cynical remarks about marriage.",
+      "assessment": "This playful interaction reflects a friendly and sincere engagement, showing warmth through lightheartedness and tolerance.",
+      "rating": 2,
+      "chunk": 37
     },
     {
-      "Action": "Lingers to watch Fitch's car disappear before closing the door, then gazes wistfully at her portrait and smiles at the computer chip Fitch gave her.",
-      "Warmth": 1,
-      "Chunk": 50
+      "trait": "competence",
+      "action": "Observes Fitch carefully while he prepares the acupressure heating pads and engages him in a probing conversation about relationships and passion.",
+      "assessment": "This shows Nina's social perceptiveness and intellectual curiosity, indicating a thoughtful and engaged mindset, which are positive indicators of competence.",
+      "rating": 2,
+      "chunk": 37
     },
     {
-      "Action": "Looks at her objets d'art with a critical eye, suggesting serious re-analysis.",
-      "Warmth": 0,
-      "Chunk": 50
+      "trait": "competence",
+      "action": "Initiates a somewhat personal and philosophical dialogue about marriage, relationships, and passion with Fitch.",
+      "assessment": "This demonstrates confidence and skill in steering conversations into deeper, meaningful topics, reflecting emotional intelligence and conversational competence.",
+      "rating": 2,
+      "chunk": 37
     },
     {
-      "Action": "Lingering momentarily to observe the car disappear and then closing the door deliberately.",
-      "Competence": 0,
-      "Chunk": 50
+      "trait": "competence",
+      "action": "Does not interrupt Fitch and listens attentively during his explanations and reflections.",
+      "assessment": "Her patience and listening skills suggest emotional maturity and interpersonal competence.",
+      "rating": 1,
+      "chunk": 37
     },
     {
-      "Action": "Noticing the portrait on the wall and allowing herself a wistful moment, then remembering and focusing on the computer chip in her hand, smiling.",
-      "Competence": 1,
-      "Chunk": 50
+      "trait": "warmth",
+      "action": "Engages Fitch in a reflective conversation about relationships and surprises, expressing her dislike for surprises and variety.",
+      "assessment": "Nina's openness in discussing her feelings about relationships shows a degree of sincerity and willingness to be vulnerable, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 39
     },
     {
-      "Action": "Critically examining her objets d'art with a serious re-analysis, suggesting thoughtful consideration and evaluation.",
-      "Competence": 1,
-      "Chunk": 50
-    }
-  ],
-  "Nina ": [
+      "trait": "warmth",
+      "action": "Responds to the painter's metaphor of 'an empty room with a locked door' with visible hurt but does not confront or challenge him.",
+      "assessment": "Nina's reaction reveals sensitivity and emotional depth, but her non-confrontation may suggest a reserved or guarded nature, indicating some difficulty in expressing warmth openly.",
+      "rating": 1,
+      "chunk": 39
+    },
+    {
+      "trait": "warmth",
+      "action": "Acknowledges that people invent themselves and their friendships, and reflects on her own self-invention with a hint of irony.",
+      "assessment": "This self-awareness and acceptance of human complexity suggest tolerance and a thoughtful nature, which are positive aspects of warmth, though the ironic tone may hint at some emotional distance.",
+      "rating": 1,
+      "chunk": 39
+    },
+    {
+      "trait": "competence",
+      "action": "Engages Fitch in a thoughtful conversation about relationships, questioning assumptions about knowing people and the value of surprises and variety.",
+      "assessment": "This demonstrates intellectual engagement and emotional insight, indicating a reflective and articulate mind, which are positive indicators of competence.",
+      "rating": 2,
+      "chunk": 39
+    },
+    {
+      "trait": "competence",
+      "action": "Expresses clear personal boundaries and preferences, stating she does not like surprises or variety and references past experiences with certain types of partners.",
+      "assessment": "Shows self-awareness and confidence in expressing her tastes and limits, suggesting emotional competence and assertiveness.",
+      "rating": 2,
+      "chunk": 39
+    },
+    {
+      "trait": "competence",
+      "action": "Responds to the painter's cryptic comment about seeing 'an empty room with a locked door' with visible hurt but does not confront or engage further.",
+      "assessment": "While the emotional reaction is understandable, her lack of response or attempt to clarify may indicate a missed opportunity to assert herself or address potential conflict, a slight negative indicator of interpersonal competence.",
+      "rating": -1,
+      "chunk": 39
+    },
+    {
+      "trait": "competence",
+      "action": "Reflects on how people invent themselves and their friendships, and openly admits to having done so herself.",
+      "assessment": "This level of self-reflection and honesty about personal identity suggests psychological insight and maturity, positive signs of competence.",
+      "rating": 2,
+      "chunk": 39
+    },
+    {
+      "trait": "competence",
+      "action": "Uses a somewhat sarcastic or dismissive tone when referring to Fitch as a 'poor little rich boy runs off to join the Indians.'",
+      "assessment": "This could indicate confidence and wit, but also a potential defensiveness or antagonism that might undermine collaborative or empathetic interactions, a mixed indicator.",
+      "rating": 0,
+      "chunk": 39
+    },
+    {
+      "trait": "warmth",
+      "action": "Engages Fitch in a candid and confrontational dialogue about self-indulgence and authenticity.",
+      "assessment": "Nina's directness and challenge to Fitch suggest a desire for sincerity, but her tone is critical rather than nurturing, indicating limited warmth in this interaction.",
+      "rating": -1,
+      "chunk": 40
+    },
+    {
+      "trait": "warmth",
+      "action": "Approaches the painter seductively and questions him about her own emptiness.",
+      "assessment": "Her vulnerability in asking if she is 'an empty room' shows a moment of sincere self-reflection, which can be seen as a warm, open gesture toward emotional honesty.",
+      "rating": 2,
+      "chunk": 40
+    },
+    {
+      "trait": "warmth",
+      "action": "Remains silent instead of apologizing to Fitch when she senses tension.",
+      "assessment": "Choosing silence over apology may indicate a lack of conciliatory warmth or unwillingness to ease conflict, reflecting a colder or more guarded stance.",
+      "rating": -2,
+      "chunk": 40
+    },
+    {
+      "trait": "warmth",
+      "action": "Does not show discomfort when Fitch massages her intimately and seems to accept his attentions.",
+      "assessment": "Her comfort with Fitch's actions could imply trust and openness, positive indicators of warmth in terms of interpersonal connection.",
+      "rating": 1,
+      "chunk": 40
+    },
+    {
+      "trait": "competence",
+      "action": "Engages Fitch in a pointed verbal exchange, challenging his self-perceptions and calling out his hypocrisy.",
+      "assessment": "This demonstrates Nina's confidence and intellectual assertiveness, indicating a capacity to confront others skillfully and with insight.",
+      "rating": 2,
+      "chunk": 40
+    },
+    {
+      "trait": "competence",
+      "action": "Approaches the painter seductively and initiates a vulnerable, probing conversation about emptiness and authenticity.",
+      "assessment": "This shows emotional intelligence and social skill, as she navigates complex interpersonal dynamics with subtlety and self-awareness.",
+      "rating": 2,
+      "chunk": 40
+    },
+    {
+      "trait": "competence",
+      "action": "Remains silent instead of apologizing to Fitch when she might have, allowing the situation to unfold naturally.",
+      "assessment": "Her choice to withhold an apology suggests emotional control and confidence in her position, reflecting a mature and deliberate approach to conflict.",
+      "rating": 2,
+      "chunk": 40
+    },
+    {
+      "trait": "competence",
+      "action": "Does not visibly react or show discomfort when Fitch massages her intimately, indicating composure and control over the situation.",
+      "assessment": "This non-reaction implies a strong sense of self-possession and comfort in potentially vulnerable circumstances, a sign of personal competence.",
+      "rating": 2,
+      "chunk": 40
+    },
+    {
+      "trait": "competence",
+      "action": "Appears to pretend involvement with the painter, as he accuses her of insincerity.",
+      "assessment": "This suggests possible emotional ambiguity or manipulation, which could indicate a lack of authenticity or clarity in her interactions, slightly undermining perceived competence.",
+      "rating": -1,
+      "chunk": 40
+    },
+    {
+      "trait": "warmth",
+      "action": "Responds to Fitch's probing questions about her feelings and perceptions with openness and curiosity.",
+      "assessment": "Nina's willingness to engage in a vulnerable conversation about her self-perception suggests a degree of sincerity and openness, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 41
+    },
+    {
+      "trait": "warmth",
+      "action": "Does not resist Fitch's intimate touch during the massage and allows the interaction to continue.",
+      "assessment": "Her comfort and acceptance of Fitch's touch may indicate trust and tolerance, which are aspects of warmth; however, the context is professional and intimate, so this is a moderate positive indicator.",
+      "rating": 1,
+      "chunk": 41
+    },
+    {
+      "trait": "warmth",
+      "action": "Does not explicitly share her feelings of failure or vulnerability when Fitch suggests it.",
+      "assessment": "Nina's reluctance or omission to openly acknowledge her feelings of failure could suggest a guardedness or lack of full emotional transparency, which slightly detracts from warmth.",
+      "rating": -1,
+      "chunk": 41
+    },
+    {
+      "trait": "competence",
+      "action": "Responds to Fitch's ambiguous and somewhat provocative comments with questions like 'Excuse me?' and 'How do you mean?'",
+      "assessment": "Nina demonstrates intellectual engagement and a willingness to seek clarification rather than reacting impulsively, indicating thoughtful and composed behavior.",
+      "rating": 2,
+      "chunk": 41
+    },
+    {
+      "trait": "competence",
+      "action": "Does not visibly react with discomfort or embarrassment to Fitch's intimate and boundary-testing massage techniques.",
+      "assessment": "Her calm and composed demeanor in a potentially awkward situation suggests emotional control and confidence, which are aspects of competence.",
+      "rating": 2,
+      "chunk": 41
+    },
+    {
+      "trait": "competence",
+      "action": "Answers Fitch's observations about her possessions and feelings with measured responses like 'I do' and 'A few.'",
+      "assessment": "Her concise and controlled replies indicate self-awareness and a capacity to manage personal disclosures carefully, reflecting social and emotional competence.",
+      "rating": 1,
+      "chunk": 41
+    },
+    {
+      "trait": "competence",
+      "action": "Does not challenge or confront Fitch despite his increasingly intimate and provocative actions.",
+      "assessment": "While this could be interpreted as composure, it may also suggest passivity or lack of assertiveness in setting personal boundaries, which can be a negative indicator of competence in interpersonal situations.",
+      "rating": -1,
+      "chunk": 41
+    },
+    {
+      "trait": "warmth",
+      "action": "Engages in a candid and emotionally charged conversation with Fitch about materialism and personal achievement.",
+      "assessment": "Nina's willingness to openly express her frustrations and defend her values shows sincerity and a strong sense of self, but the tone is confrontational and defensive rather than warm or tolerant.",
+      "rating": 0,
+      "chunk": 42
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses anger and resentment toward Fitch's insinuations about her life and possessions.",
+      "assessment": "Her anger and building rage indicate a lack of tolerance and friendliness in this interaction, which detracts from warmth despite the honesty.",
+      "rating": -1,
+      "chunk": 42
+    },
+    {
+      "trait": "warmth",
+      "action": "Insists that she has earned everything she has and challenges Fitch not to judge her morality.",
+      "assessment": "This assertion reflects self-respect and integrity, but the defensive posture and challenge to Fitch reduce the sense of trustworthiness and benevolence in the moment.",
+      "rating": 0,
+      "chunk": 42
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in a sharp, self-aware verbal exchange with Fitch, defending her values and life choices with clarity and conviction.",
+      "assessment": "This demonstrates Nina's intellectual confidence and ability to articulate her perspective under pressure, indicating a strong sense of self and mental competence.",
+      "rating": 2,
+      "chunk": 42
+    },
+    {
+      "trait": "competence",
+      "action": "Her body stiffens and she becomes visibly frustrated when Fitch touches her collarbone but avoids more intimate contact.",
+      "assessment": "This physical reaction suggests some discomfort and lack of control over her emotional or physical boundaries in this moment, which may indicate a slight vulnerability or lack of composure.",
+      "rating": -1,
+      "chunk": 42
+    },
+    {
+      "trait": "competence",
+      "action": "Nina bolts upright abruptly after Fitch questions what she has made of her life.",
+      "assessment": "This sudden physical reaction reveals a moment of emotional intensity and possible defensiveness, which could be seen as a loss of calm or control, slightly detracting from her composed competence.",
+      "rating": -1,
+      "chunk": 42
+    },
+    {
+      "trait": "warmth",
+      "action": "Engages in a candid and somewhat vulnerable conversation with Fitch about her relationship with Douglas and the nature of their interactions.",
+      "assessment": "Nina shows a degree of openness and honesty in discussing a sensitive topic, which can be seen as a sign of sincerity and trustworthiness.",
+      "rating": 2,
+      "chunk": 43
+    },
+    {
+      "trait": "warmth",
+      "action": "Acknowledges the discreet nature of her relationship with Douglas and attempts to maintain boundaries by not discussing it openly.",
+      "assessment": "Her effort to be discreet and respectful of boundaries suggests a considerate and tolerant attitude, reflecting warmth.",
+      "rating": 2,
+      "chunk": 43
+    },
+    {
+      "trait": "warmth",
+      "action": "Slouches back toward the massage table and drops herself on it after the tense exchange with Fitch.",
+      "assessment": "This nonverbal behavior may indicate withdrawal or discomfort, showing a momentary retreat from engagement, which could be interpreted as a lack of warmth in this moment.",
+      "rating": -1,
+      "chunk": 43
+    },
+    {
+      "trait": "warmth",
+      "action": "Does not respond directly to Fitch's insinuation that her relationship with Douglas is 'about sex'.",
+      "assessment": "Her silence and evasiveness here may suggest defensiveness or reluctance to be fully open, which can reduce perceived warmth.",
+      "rating": -1,
+      "chunk": 43
+    },
+    {
+      "trait": "competence",
+      "action": "Bolts upright and confronts Fitch directly when challenged about her life choices.",
+      "assessment": "This shows confidence and assertiveness, indicating a degree of emotional and social competence in handling confrontation.",
+      "rating": 2,
+      "chunk": 43
+    },
+    {
+      "trait": "competence",
+      "action": "Slides off the table and rises to her feet to engage Fitch eye-to-eye.",
+      "assessment": "This physical action demonstrates self-assurance and readiness to engage, reinforcing her confident demeanor.",
+      "rating": 2,
+      "chunk": 43
+    },
+    {
+      "trait": "competence",
+      "action": "Challenges Fitch's rationalizations and calls him out on his loneliness.",
+      "assessment": "This indicates intellectual sharpness and the ability to hold her own in a verbal exchange, reflecting mental competence.",
+      "rating": 2,
+      "chunk": 43
+    },
+    {
+      "trait": "competence",
+      "action": "Responds ambiguously to Fitch's insinuations about her relationship with Douglas, saying 'I don't know.'",
+      "assessment": "This ambiguity may suggest evasiveness or uncertainty, which could be interpreted as a lack of clarity or decisiveness, slightly undermining competence.",
+      "rating": -1,
+      "chunk": 43
+    },
+    {
+      "trait": "competence",
+      "action": "Admits to being discreet about Douglas's touching and frames it as 'part of the massage.'",
+      "assessment": "This shows pragmatic acceptance and emotional control, indicating a level of maturity and situational competence.",
+      "rating": 1,
+      "chunk": 43
+    },
+    {
+      "trait": "competence",
+      "action": "Slouches back toward the massage table after the confrontation.",
+      "assessment": "This physical posture could indicate resignation or fatigue, which might reflect a momentary lapse in confidence or emotional strength.",
+      "rating": -1,
+      "chunk": 43
+    },
+    {
+      "trait": "warmth",
+      "action": "Reflects that all relationships are a kind of currency and admits to using others as they use her.",
+      "assessment": "Nina's candid admission shows self-awareness but also a somewhat cynical view of relationships, which may indicate emotional guardedness rather than warmth.",
+      "rating": -1,
+      "chunk": 44
+    },
+    {
+      "trait": "warmth",
+      "action": "Answers her own phone with a message that invites the caller to hear their own voice after the tone.",
+      "assessment": "This unusual answering machine message suggests a playful or ironic sense of humor, which can be a sign of warmth and approachability.",
+      "rating": 1,
+      "chunk": 44
+    },
+    {
+      "trait": "warmth",
+      "action": "Shares a quiet moment with Fitch during the massage, half-laughing and relaxing into the experience.",
+      "assessment": "Her ability to share lightness and relax in Fitch's presence indicates a degree of trust and friendliness, positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 44
+    },
+    {
+      "trait": "competence",
+      "action": "Responds to the phone by letting the answering machine pick up, and does not answer the call from Douglas directly despite his repeated attempts.",
+      "assessment": "This suggests a deliberate choice or hesitation, indicating possible avoidance or lack of assertiveness in handling interpersonal communication, which may reflect a slight lack of confidence or decisiveness in this context.",
+      "rating": -1,
+      "chunk": 44
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in a candid reflection about relationships being a form of currency, acknowledging mutual use and honesty in transactional dynamics.",
+      "assessment": "This shows self-awareness and intellectual insight into human relationships, indicating emotional intelligence and thoughtful analysis, which are positive indicators of competence.",
+      "rating": 2,
+      "chunk": 44
+    },
+    {
+      "trait": "competence",
+      "action": "Reclines on the massage table and interacts with Fitch in a relaxed, somewhat playful manner despite the underlying tension.",
+      "assessment": "Her ability to maintain composure and engage lightly in a potentially uncomfortable situation suggests social confidence and emotional control, reflecting competent interpersonal skills.",
+      "rating": 1,
+      "chunk": 44
+    },
+    {
+      "trait": "warmth",
+      "action": "Admits to Fitch that she hasn't been totally honest about her relationships with men.",
+      "assessment": "Nina's admission shows a degree of sincerity and self-awareness, indicating openness and trust in the conversation.",
+      "rating": 2,
+      "chunk": 45
+    },
+    {
+      "trait": "warmth",
+      "action": "Describes the artist who appeared in her life as someone who did nothing for effect and treated her very well.",
+      "assessment": "Nina's appreciation for genuine behavior and kindness suggests she values sincerity and warmth in others, reflecting her own capacity for warmth.",
+      "rating": 2,
+      "chunk": 45
+    },
+    {
+      "trait": "warmth",
+      "action": "Smiles strangely when recalling that she treated the artist worse than he treated her.",
+      "assessment": "This moment hints at some self-critical awareness but also suggests a possible emotional guardedness or difficulty fully reciprocating warmth.",
+      "rating": 0,
+      "chunk": 45
+    },
+    {
+      "trait": "warmth",
+      "action": "Acknowledges that the artist only expected her to be herself, but she couldn't fully give herself up.",
+      "assessment": "This indicates Nina's struggle with vulnerability and emotional openness, which may limit her warmth and trustworthiness in relationships.",
+      "rating": -1,
+      "chunk": 45
+    },
+    {
+      "trait": "competence",
+      "action": "Admits to Fitch that she wasn't being totally honest about her relationships with men.",
+      "assessment": "This admission shows self-awareness and a willingness to confront personal truths, indicating emotional intelligence and reflective capacity.",
+      "rating": 2,
+      "chunk": 45
+    },
+    {
+      "trait": "competence",
+      "action": "Describes the artist who appeared in her life as someone who did nothing for effect and was unapologetically himself.",
+      "assessment": "Nina's ability to recognize authenticity in others suggests perceptiveness and good judgment.",
+      "rating": 2,
+      "chunk": 45
+    },
+    {
+      "trait": "competence",
+      "action": "Reflects on her own behavior in relationships, acknowledging that she treated the artist worse than he treated her.",
+      "assessment": "This shows insight into her own flaws and a capacity for honest self-evaluation, which are signs of emotional competence.",
+      "rating": 2,
+      "chunk": 45
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in a deep, intimate conversation with Fitch about her emotional barriers and inability to fully give herself up.",
+      "assessment": "Her openness to vulnerability and communication indicates emotional maturity and interpersonal skill.",
+      "rating": 2,
+      "chunk": 45
+    },
+    {
+      "trait": "competence",
+      "action": "Does not resist or interrupt Fitch's massage despite the emotional intensity of the conversation.",
+      "assessment": "Her composure and ability to remain present in a potentially uncomfortable situation suggests self-control and confidence.",
+      "rating": 1,
+      "chunk": 45
+    },
+    {
+      "trait": "warmth",
+      "action": "Watches in perplexed silence as the painter walks down the street, disappearing into the darkness.",
+      "assessment": "Her silent watching suggests a contemplative and possibly respectful attitude, indicating a gentle and non-intrusive warmth, though not overtly expressive.",
+      "rating": 1,
+      "chunk": 46
+    },
+    {
+      "trait": "warmth",
+      "action": "Reflects on her past relationships, saying 'It's been a long time — a long time — since my various husbands blew through my life. But still. Too much stuff. You don't want to admit how much people affect you, but they do.'",
+      "assessment": "This reflection shows emotional awareness and vulnerability, which can be signs of sincerity and openness, positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 46
+    },
+    {
+      "trait": "competence",
+      "action": "Watches in perplexed silence as the painter walks down the street, disappearing into the darkness.",
+      "assessment": "This action suggests a passive and somewhat confused response, indicating a momentary lack of decisiveness or control over the situation.",
+      "rating": -1,
+      "chunk": 46
+    },
+    {
+      "trait": "competence",
+      "action": "Reflects on her past relationships and acknowledges how much people affect her.",
+      "assessment": "This introspective statement shows self-awareness and emotional intelligence, which are components of competence in understanding oneself and others.",
+      "rating": 2,
+      "chunk": 46
+    },
     {
-      "Action": "Takes time to carefully remove her clothes in front of a mirror, symbolically shedding her well-ordered life layers.",
-      "Warmth": 0,
-      "Chunk": 5
+      "trait": "warmth",
+      "action": "Responds to Fitch's question about how she feels with a brief, 'Good. Very good.'",
+      "assessment": "Nina's response is polite but minimal, showing neither warmth nor coldness; it suggests a reserved or neutral demeanor rather than open friendliness or sincerity.",
+      "rating": 0,
+      "chunk": 47
     },
     {
-      "Action": "Relaxes quietly in the Jacuzzi, lost in thought and gazing peacefully at the stars.",
-      "Warmth": 0,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Responds succinctly and confidently to Fitch's question about how she feels with 'Good. Very good.'",
+      "assessment": "Nina's brief but assured response suggests emotional stability and self-assurance, indicating a degree of internal competence in managing her feelings and interactions.",
+      "rating": 1,
+      "chunk": 47
     },
     {
-      "Action": "Acknowledges the spiritual aspect of her work, showing openness and depth.",
-      "Warmth": 1,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Emerges from the room wearing a floor-length robe but reveals she wears nothing underneath as she walks.",
+      "assessment": "This action may imply confidence and control over her own body and presence, which can be interpreted as a form of personal competence; however, it does not directly demonstrate skill or intelligence in a broader sense.",
+      "rating": 0,
+      "chunk": 47
     },
     {
-      "Action": "Responds supportively to the painter’s insecurity about showing work, emphasizing individual needs and uniqueness.",
-      "Warmth": 1,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Insists on paying Fitch seventy-five dollars including a twenty-five dollar tip, despite Fitch suggesting a lower amount.",
+      "assessment": "Nina's insistence on paying fairly and even tipping shows respect and generosity, indicating a considerate and sincere nature.",
+      "rating": 2,
+      "chunk": 48
     },
     {
-      "Action": "Speaks thoughtfully about spiritual aspects of her work, showing self-awareness and depth.",
-      "Competence": 1,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Engages with Fitch in a playful yet attentive manner when he gives her the computer chip and asks her to concentrate on not dropping it.",
+      "assessment": "Her willingness to participate and show interest in Fitch's mysterious gesture suggests openness and a friendly, trusting attitude.",
+      "rating": 1,
+      "chunk": 48
     },
     {
-      "Action": "Explains that each artist is unique and has individual needs, demonstrating understanding and insight.",
-      "Competence": 1,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Negotiates the payment with Fitch, insisting on paying seventy-five dollars including a twenty-five dollar tip despite Fitch initially suggesting fifty.",
+      "assessment": "This shows Nina's confidence and assertiveness in financial dealings, indicating a level of social and negotiation competence.",
+      "rating": 2,
+      "chunk": 48
     },
     {
-      "Action": "Discusses compensation pragmatically, indicating practical knowledge of her profession.",
-      "Competence": 1,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Clutches five $20 bills tightly in her hand and accepts a mysterious computer chip from Fitch, focusing on not dropping it as instructed.",
+      "assessment": "Her ability to follow Fitch's instructions and maintain focus on the chip suggests attentiveness and a degree of self-control, reflecting moderate competence.",
+      "rating": 1,
+      "chunk": 48
     },
     {
-      "Action": "Speaks confidently about her two failed marriages as experience, asserting a general truth about men.",
-      "Competence": 1,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Despite concentrating, the chip inevitably falls from her hand as Fitch predicted.",
+      "assessment": "This indicates a limitation in her ability to control physical outcomes under pressure, showing a slight lack of physical or mental control in this specific task.",
+      "rating": -1,
+      "chunk": 48
     },
     {
-      "Action": "Quickly shuts down Fitch's attempt to differentiate men by cutting him off.",
-      "Competence": 0,
-      "Chunk": 29
+      "trait": "warmth",
+      "action": "Invites Fitch to come back next week and offers to work out a way for him to continue despite Doug's involvement.",
+      "assessment": "Nina shows consideration and flexibility by wanting to include Fitch and also being mindful of Doug's feelings, indicating a cooperative and inclusive attitude.",
+      "rating": 2,
+      "chunk": 49
     },
     {
-      "Action": "Attempts to maintain composure and conceal her shock when learning about Douglas's sexual preference.",
-      "Competence": 1,
-      "Chunk": 29
+      "trait": "warmth",
+      "action": "Takes Fitch's hand, pulls him close, and kisses him on the cheek in a friendly, distinctly unsexual way.",
+      "assessment": "This gesture is warm and sincere, demonstrating friendliness and a genuine connection without romantic or sexual implications.",
+      "rating": 3,
+      "chunk": 49
     },
     {
-      "Action": "Engages in a sensual, expressive interaction with Fitch, demonstrating self-assuredness.",
-      "Competence": 1,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Nina leads Fitch to the front door and initiates a conversation about him coming back next week.",
+      "assessment": "This shows Nina's confidence and initiative in managing the situation and planning ahead, indicating a competent and proactive approach.",
+      "rating": 2,
+      "chunk": 49
     },
     {
-      "Action": "Lets Fitch cover her with a towel but immediately asserts she is not modest and prefers not to cover up, showing candidness and confidence.",
-      "Competence": 1,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Nina negotiates with Fitch about working something out with Doug to accommodate both of them.",
+      "assessment": "This demonstrates Nina's problem-solving skills, diplomacy, and ability to handle interpersonal conflicts tactfully, reflecting strong competence.",
+      "rating": 3,
+      "chunk": 49
     },
     {
-      "Action": "Engages thoughtfully in conversation about personal insight and relationships, demonstrating self-awareness and wit.",
-      "Competence": 1,
-      "Chunk": 39
+      "trait": "competence",
+      "action": "Nina pulls Fitch close and kisses him on the cheek in a friendly, unsexual way after he expresses concern about being confrontational.",
+      "assessment": "This action shows Nina's social confidence and emotional intelligence, managing the interaction with warmth and control, which supports her competence.",
+      "rating": 2,
+      "chunk": 49
     },
     {
-      "Action": "Responds confidently and with humor to Fitch's observations, showing intellectual engagement.",
-      "Competence": 1,
-      "Chunk": 39
+      "trait": "warmth",
+      "action": "Lingers a moment watching Fitch's car disappear into the darkness before closing the door.",
+      "assessment": "This moment of hesitation suggests a reflective and possibly affectionate attitude, indicating a gentle and thoughtful nature.",
+      "rating": 2,
+      "chunk": 50
     },
     {
-      "Action": "Feels hurt and surprised by the painter's cold, cryptic comment, indicating vulnerability in social/emotional competence.",
-      "Competence": -1,
-      "Chunk": 39
+      "trait": "warmth",
+      "action": "Gazes wistfully at the portrait of herself painted by Fitch.",
+      "assessment": "Her wistful gaze shows a tender connection to the painter and an openness to emotional reflection, which can be seen as a warm and sincere behavior.",
+      "rating": 2,
+      "chunk": 50
     },
     {
-      "Action": "Reflects on the idea of inventing oneself and friendships with insight, suggesting emotional intelligence.",
-      "Competence": 1,
-      "Chunk": 39
+      "trait": "warmth",
+      "action": "Smiles upon remembering she holds the computer chip Fitch gave her.",
+      "assessment": "Smiling at this small token suggests appreciation and a positive regard for Fitch, reflecting warmth and trust.",
+      "rating": 2,
+      "chunk": 50
     },
     {
-      "Action": "Answers the phone professionally with a personalized answering machine message.",
-      "Competence": 1,
-      "Chunk": 44
+      "trait": "warmth",
+      "action": "Looks at her objets d'art with a critical eye, suggesting serious re-analysis.",
+      "assessment": "While critical thinking is not inherently cold, the focus on critique rather than appreciation may indicate a more reserved or less openly warm demeanor in this moment.",
+      "rating": 0,
+      "chunk": 50
     },
     {
-      "Action": "Shows awareness of relationship dynamics by recognizing mutual use in relationships as a form of currency.",
-      "Competence": 1,
-      "Chunk": 44
+      "trait": "competence",
+      "action": "Lingers a moment watching the car disappear before closing the door, then notices the portrait in the bedroom and recalls holding the computer chip Fitch gave her, smiling.",
+      "assessment": "This sequence shows Nina's attentiveness and situational awareness, as well as her ability to recall important details (the chip) and connect them to her current emotional state, indicating thoughtful reflection and mental organization.",
+      "rating": 2,
+      "chunk": 50
     },
     {
-      "Action": "Does not take the call from Douglas despite multiple rings, indicating possible avoidance or indecisiveness.",
-      "Competence": -1,
-      "Chunk": 44
+      "trait": "competence",
+      "action": "Moves through the hallway, looking at her objets d'art with a critical eye, suggesting serious re-analysis is going on, artistic and otherwise.",
+      "assessment": "This behavior demonstrates Nina's analytical skills and capacity for critical thinking, implying intellectual competence and self-reflection.",
+      "rating": 2,
+      "chunk": 50
     }
   ]
 }

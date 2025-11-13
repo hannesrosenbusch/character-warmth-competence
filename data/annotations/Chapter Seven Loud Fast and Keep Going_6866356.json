@@ -1,284 +1,557 @@
 {
   "Barry": [
     {
-      "Action": "Despite others being shot and chaos around, blood tracks lead away from the crash site, implying Barry escaped or moved deliberately, showing situational awareness and quick thinking.",
-      "Competence": 1,
-      "Chunk": 2
+      "trait": "competence",
+      "action": "Barry is the target of a pursuit after a violent crash, with evidence suggesting he escaped from a dangerous situation (bloodied handprint, fresh blood, and footprints leading away from the crash).",
+      "assessment": "This implies Barry was able to survive a violent encounter and evade immediate capture, indicating resourcefulness and physical capability under pressure.",
+      "rating": 2,
+      "chunk": 2
     },
     {
-      "Action": "Pazar criticizes Barry for ignoring warnings and going after him anyway, showing possible recklessness or failure to heed advice.",
-      "Competence": -1,
-      "Chunk": 2
+      "trait": "competence",
+      "action": "Barry's adversaries are actively searching for him and reacting to his actions (Pazar is angry that Barry went after him despite warnings).",
+      "assessment": "Barry's willingness to act against advice and engage in risky behavior suggests confidence and determination, but also potential recklessness or poor strategic judgment.",
+      "rating": 0,
+      "chunk": 2
     },
     {
-      "Action": "Is indirectly implicated in a misunderstanding leading to aggression but does not escalate conflict; situation resolved through communication.",
-      "Warmth": 1,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "Urgently urges Chris to leave after Ponch is shot, saying 'C'mon.'",
+      "assessment": "Barry shows concern for their safety and tries to keep Chris focused and moving, indicating a protective and responsible attitude.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Urgently urges Chris to leave quickly after Ponch is shot, showing concern for their safety.",
-      "Warmth": 1,
-      "Chunk": 5
+      "trait": "warmth",
+      "action": "Tells Chris to pick up the gun and get rid of it instead of dropping it.",
+      "assessment": "Barry demonstrates practical leadership and a sense of responsibility, but this action is more about survival than warmth or friendliness.",
+      "rating": 0,
+      "chunk": 5
     },
     {
-      "Action": "Tells Chris to pick up the gun instead of letting it drop, indicating practical care and responsibility for their situation.",
-      "Warmth": 1,
-      "Chunk": 5
+      "trait": "warmth",
+      "action": "Responds to a text from Sally asking where he is and about rehearsal.",
+      "assessment": "Barry's delayed response to Sally's text suggests some neglect or distraction regarding social commitments, indicating a possible lack of attentiveness to others' concerns.",
+      "rating": -1,
+      "chunk": 5
     },
     {
-      "Action": "Does not engage in hostility towards Ponch, instead tries to manage the dangerous situation calmly.",
-      "Warmth": 0,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Cowers behind a junked car, listening as Ponch rides past.",
+      "assessment": "This shows a moment of vulnerability and caution, indicating Barry is aware of danger but currently in a defensive, less capable posture.",
+      "rating": -1,
+      "chunk": 5
     },
     {
-      "Action": "Cowers behind a junked car after SUV flipped, appearing physically worse for wear.",
-      "Competence": -1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Quickly gets up after Ponch is shot, urging Chris to move and pick up the gun.",
+      "assessment": "Barry demonstrates situational awareness, quick decision-making, and leadership under pressure, indicating strong competence.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Quickly gets up after Chris shoots Ponch, showing presence of mind and urgency.",
-      "Competence": 1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Pulls Chris toward the motorcycle to escape after the shooting.",
+      "assessment": "This action shows Barry's ability to act decisively and take control in a dangerous situation, reinforcing his capability and confidence.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Commands Chris to pick up the gun and get rid of it, indicating situational awareness and decisiveness.",
-      "Competence": 1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Responds to a text from Sally about rehearsal starting despite the ongoing crisis.",
+      "assessment": "This suggests a possible distraction or divided focus, which could undermine his overall competence in managing priorities during a critical moment.",
+      "rating": 0,
+      "chunk": 5
     },
     {
-      "Action": "Distracted by a text from Sally about rehearsal starting while on the run, showing divided focus.",
-      "Competence": -1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Barry enters from the backdoor, spots himself in the mirror, and internally notes he looks like hell.",
+      "assessment": "Barry's self-awareness about his disheveled appearance suggests some level of insight into his current state, but it also implies he may be neglecting self-care or preparation, which can detract from perceived competence.",
+      "rating": -1,
+      "chunk": 7
     },
     {
-      "Action": "Enters looking disheveled, caught off guard by news and quick changes in the scene.",
-      "Competence": -1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Barry reacts with surprise and confusion when Sally informs him about the cops finding money and shooting a guy, and about changes to the scene and his line.",
+      "assessment": "Barry's startled and unprepared reaction to critical updates indicates a lack of situational awareness and readiness, which negatively impacts his competence.",
+      "rating": -2,
+      "chunk": 7
     },
     {
-      "Action": "Shows confusion and surprise at changes in the script and chaotic environment, indicating lack of preparation.",
-      "Competence": -1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Barry attempts to respond to Sally but is cut off and left scrambling to process new information.",
+      "assessment": "Barry's inability to assert control or clarify the situation when confronted with sudden changes shows a lack of confidence and command, suggesting lower competence in managing unexpected developments.",
+      "rating": -2,
+      "chunk": 7
     },
     {
-      "Action": "Rolls eyes and curtly tells Chris to stop calling and to 'chill the fuck out' during a phone conversation",
-      "Warmth": -1,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Arrives and watches Sally perform quietly without offering immediate support or encouragement.",
+      "assessment": "Barry's silent observation without engagement suggests a neutral or detached stance rather than warmth.",
+      "rating": 0,
+      "chunk": 8
     },
     {
-      "Action": "Delays entering stage by staying on an agitated phone call, ignoring the timing of performance",
-      "Warmth": -1,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Rolls his eyes and answers his phone with irritation, telling Chris to 'stop calling me' and 'calm the fuck down'.",
+      "assessment": "Barry's dismissive and rude tone toward Chris indicates impatience and a lack of tolerance or friendliness in this interaction.",
+      "rating": -2,
+      "chunk": 8
     },
     {
-      "Action": "Slumps into a seat after a failed performance, accepts criticism silently.",
-      "Warmth": 0,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Continues to be distracted by his phone during Sally's performance, delaying his entrance.",
+      "assessment": "Ignoring the ongoing performance and delaying his entrance shows a lack of attentiveness and support, which detracts from warmth.",
+      "rating": -1,
+      "chunk": 8
     },
     {
-      "Action": "Denies using drugs when confronted by Cousineau.",
-      "Warmth": 0,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Arrives and watches the performance attentively before his entrance.",
+      "assessment": "Barry shows some situational awareness by observing the scene before participating, indicating a baseline level of engagement and readiness.",
+      "rating": 1,
+      "chunk": 8
     },
     {
-      "Action": "Tells Chris to relax and keep quiet about the killing, reassuring him that staying silent will keep them safe.",
-      "Warmth": 0,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Answers his phone during a critical moment on stage and rolls his eyes.",
+      "assessment": "This suggests a lack of focus and professionalism, as he prioritizes a phone call over the ongoing performance, which undermines his reliability and presence.",
+      "rating": -2,
+      "chunk": 8
     },
     {
-      "Action": "Warns Chris that calling the police will put him and his family in danger from dangerous people.",
-      "Warmth": -1,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Speaks dismissively and impatiently to Chris on the phone, telling him to 'chill the fuck out' and to stop calling.",
+      "assessment": "Barry's brusque and distracted communication reflects poor emotional regulation and interpersonal skills, which detract from his competence in managing external pressures.",
+      "rating": -2,
+      "chunk": 8
     },
     {
-      "Action": "Encourages loyalty by emphasizing their link and discourages Chris from turning himself in.",
-      "Warmth": -1,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Delays his entrance on stage while still on the phone, causing a noticeable gap in the performance.",
+      "assessment": "This omission shows a failure to prioritize his role and responsibilities, indicating a lack of discipline and reliability in a professional context.",
+      "rating": -3,
+      "chunk": 8
     },
     {
-      "Action": "Calmly advises Chris to stay quiet and lay low after a dangerous event, demonstrating awareness of the stakes and how to manage the situation.",
-      "Competence": 1,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Slumps into a seat after a poor performance and responds defensively to Cousineau's suggestion that he is on drugs.",
+      "assessment": "Barry's defensive reaction and withdrawal suggest a lack of openness and warmth in this moment; he does not engage positively with Cousineau or show vulnerability in a constructive way.",
+      "rating": -1,
+      "chunk": 9
     },
     {
-      "Action": "Confidently explains the risks of involving the police and implies knowledge of the people who hired him, showing understanding of the bigger picture.",
-      "Competence": 1,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Does not argue further or lash out at Cousineau after being criticized and instead remains silent and alone.",
+      "assessment": "Barry's choice to not escalate the confrontation could indicate restraint and a non-hostile demeanor, which is a mild positive indicator of warmth.",
+      "rating": 1,
+      "chunk": 9
     },
     {
-      "Action": "Repeatedly tells Chris to relax despite Chris’s distress, indicating some emotional control but possibly dismissing Chris’s concerns without fully addressing them.",
-      "Competence": 0,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Stumbles out, a complete mess, and yells his line loudly but incorrectly ('My Queen, My Lord, the Lord is dead').",
+      "assessment": "This action shows a lack of preparation and control in his performance, indicating poor competence in his acting skills at this moment.",
+      "rating": -2,
+      "chunk": 9
     },
     {
-      "Action": "Threatens the consequences for Chris’s family if Chris involves the police, revealing a ruthless mindset but also an understanding of leverage and power dynamics.",
-      "Competence": 1,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Slumps into a seat after the failed performance and denies being on drugs when confronted by Cousineau.",
+      "assessment": "Barry's denial suggests some awareness and attempt to maintain professionalism, but his overall demeanor and performance indicate he is struggling, reflecting limited competence.",
+      "rating": -1,
+      "chunk": 9
     },
     {
-      "Action": "Does not offer any concrete plan or solution beyond 'lay low and stay quiet,' which might indicate a lack of proactive problem-solving or contingency planning.",
-      "Competence": 0,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Feels his hair, noticing it may have blood on it after the chaotic scene.",
+      "assessment": "This moment of self-awareness shows some attentiveness to his physical state, but it also highlights the disarray he is in, which undermines his competence.",
+      "rating": 0,
+      "chunk": 9
     },
     {
-      "Action": "Warns Chris that turning himself in will lead to dangerous consequences for everyone linked to them, showing concern for others' safety.",
-      "Warmth": 1,
-      "Chunk": 13
+      "trait": "warmth",
+      "action": "Tells Chris to relax and keep quiet about the killings to avoid trouble.",
+      "assessment": "Barry's advice to stay quiet is pragmatic but lacks empathy for Chris's emotional turmoil, showing limited warmth.",
+      "rating": -1,
+      "chunk": 12
     },
     {
-      "Action": "Keeps silent when Chris expresses his intent to come clean, not encouraging or supporting him openly.",
-      "Warmth": -1,
-      "Chunk": 13
+      "trait": "warmth",
+      "action": "Warns Chris that calling the police will put their families in danger.",
+      "assessment": "Barry is protective of their mutual safety, indicating a sense of loyalty, but his threat to families reveals a cold, intimidating side.",
+      "rating": -2,
+      "chunk": 12
     },
     {
-      "Action": "Stares at Chris after questioning his statements, implying a moment of sincere, intense communication.",
-      "Warmth": 1,
-      "Chunk": 13
+      "trait": "warmth",
+      "action": "Reassures Chris that they are 'good' and will be safe if they stay quiet.",
+      "assessment": "Barry attempts to calm Chris and provide reassurance, which shows some concern, but it is overshadowed by the underlying threat and lack of genuine care.",
+      "rating": 0,
+      "chunk": 12
     },
     {
-      "Action": "Repeatedly questions Chris about his intentions, prompting reflection rather than support.",
-      "Warmth": 0,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Tells Chris to stay quiet and lay low after a violent incident, advising him to relax and not say anything to anyone.",
+      "assessment": "Barry demonstrates calmness and strategic thinking under pressure, showing an ability to manage a tense situation and guide others effectively.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Does not verbally reassure Chris when he tries to keep things quiet and admits he lied to his wife, remaining silent.",
-      "Warmth": -1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Explains to Chris the risks of going to the police and the consequences of their actions, emphasizing the need for discretion.",
+      "assessment": "Barry shows awareness of the broader implications and potential threats, indicating intelligence and situational awareness.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Shoots Chris after a confrontation, despite Chris expressing trust in him.",
-      "Warmth": -1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Mentions that the people who hired him are already angry and have sent someone after him, implying he understands the stakes and is experienced in dangerous situations.",
+      "assessment": "This suggests Barry has experience in high-risk environments and understands the consequences of failure, reflecting competence in his line of work.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Screams in distress immediately after shooting Chris.",
-      "Warmth": 0,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Fails to provide Chris with emotional support or alternative solutions beyond staying quiet and safe.",
+      "assessment": "While Barry is strategic, his approach lacks empathy and may not fully address Chris's psychological distress, indicating a potential gap in interpersonal competence.",
+      "rating": -1,
+      "chunk": 12
     },
     {
-      "Action": "Sweeps his tracks after leaving the scene to avoid detection.",
-      "Warmth": -1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Insists on secrecy and warns Chris about threats to his family if he involves the police.",
+      "assessment": "Barry's insistence on secrecy shows a protective and pragmatic mindset, but also suggests a willingness to use intimidation, which may reflect morally ambiguous competence.",
+      "rating": 1,
+      "chunk": 12
     },
     {
-      "Action": "Shoots Chris decisively when threatened, then quickly covers his tracks by sweeping away evidence as he leaves the scene.",
-      "Competence": 1,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "Warns Chris that turning himself in would expose Barry and others, potentially putting them in danger.",
+      "assessment": "Barry shows concern for the safety of others connected to him, indicating a protective and responsible side, which can be seen as a warm trait.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Screams loudly after shooting Chris, expressing panic or loss of control immediately after taking decisive action.",
-      "Competence": -1,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "Remains silent when Chris admits he lied to his wife and says he can keep quiet.",
+      "assessment": "Barry's silence here could be interpreted as tacit acceptance or respect for Chris's decision, showing tolerance and restraint rather than confrontation.",
+      "rating": 1,
+      "chunk": 13
     },
     {
-      "Action": "Appears dazed and looks like hell sitting in the Uber, suggesting vulnerability.",
-      "Warmth": 1,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Questions Chris repeatedly about his intentions and feelings.",
+      "assessment": "Barry's questioning suggests he is trying to understand Chris's mindset, which may indicate a desire for honest communication and connection.",
+      "rating": 1,
+      "chunk": 13
     },
     {
-      "Action": "Graciously accepts applause and modestly shrugs it off during the imagined performance.",
-      "Warmth": 1,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Facebooked Chris despite being a hitman and the sensitive nature of their relationship.",
+      "assessment": "This action shows a lack of discretion and possibly poor judgment, which undermines trustworthiness and warmth.",
+      "rating": -1,
+      "chunk": 13
     },
     {
-      "Action": "Beholds Sally from the wings, amazed and in love, indicating sincere affection and admiration.",
-      "Warmth": 1,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Tells Chris to get out of the car in a forceful manner.",
+      "assessment": "This command is abrupt and lacks empathy, suggesting a colder, more controlling side to Barry's character.",
+      "rating": -2,
+      "chunk": 13
     },
     {
-      "Action": "Looks dazed and disheveled in the Uber just before the performance, seeming unprepared or overwhelmed.",
-      "Competence": -1,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Warns Chris that turning himself in will expose both of them and others connected to them.",
+      "assessment": "Barry demonstrates awareness of the consequences and connections that could unravel if Chris confesses, showing strategic thinking and understanding of risks.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Enters the stage gracefully, accepting applause modestly and delivering his lines with a notable British accent reminiscent of a great actor.",
-      "Competence": 1,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Questions Chris repeatedly about why he is revealing information, trying to gauge his intentions.",
+      "assessment": "Barry shows alertness and attempts to control the situation by probing Chris's motives, indicating situational awareness and psychological insight.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Holds a gun to Chris's head, causing Chris to fire.",
-      "Competence": 0,
-      "Chunk": 16
+      "trait": "competence",
+      "action": "Tells Chris to get out of the car, indicating an attempt to de-escalate or control the immediate environment.",
+      "assessment": "This command suggests Barry is trying to maintain control and possibly protect himself or Chris, reflecting decisiveness and leadership.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Struggles to concentrate and keep himself together during a high-pressure moment, repeatedly trying to shake off distracting, painful daydreams.",
-      "Competence": -1,
-      "Chunk": 18
+      "trait": "competence",
+      "action": "Remains silent when Chris backtracks and says he can keep quiet, and when Chris admits he lied to his wife about his whereabouts.",
+      "assessment": "Barry's silence here could indicate restraint and patience, choosing not to escalate the situation unnecessarily, which can be a sign of emotional intelligence and control.",
+      "rating": 1,
+      "chunk": 13
     },
     {
-      "Action": "Shows clear signs of being overwhelmed and unable to perform effectively in a critical situation involving a talent agent.",
-      "Competence": -1,
-      "Chunk": 18
+      "trait": "competence",
+      "action": "Does not intervene when a suspicious dude pulls off the road and then leaves.",
+      "assessment": "Barry's inaction here might suggest either confidence that the situation is under control or a missed opportunity to investigate a potential threat, making this ambiguous but slightly negative.",
+      "rating": -1,
+      "chunk": 13
     },
     {
-      "Action": "Breaks down crying on stage, showing real tears of wrenching grief, frustration, desperation, and bravery in expressing deep self-loathing, regret, guilt, and shame.",
-      "Warmth": 1,
-      "Chunk": 19
+      "trait": "warmth",
+      "action": "Shoots Chris after a tense confrontation in the car.",
+      "assessment": "Barry's action of shooting Chris is violent and lethal, indicating a lack of trustworthiness, tolerance, and friendliness in this moment. It strongly suggests coldness rather than warmth.",
+      "rating": -3,
+      "chunk": 14
     },
     {
-      "Action": "Despite overwhelming emotional pain and grief, Barry summons monumental effort to speak his line bravely and with real emotion on stage.",
-      "Competence": 1,
-      "Chunk": 19
+      "trait": "warmth",
+      "action": "Sweeps his tracks with a piece of brush as he walks away from the scene.",
+      "assessment": "Barry's attempt to cover his tracks shows a secretive and self-protective behavior, which may indicate a lack of sincerity and openness, traits associated with warmth.",
+      "rating": -2,
+      "chunk": 14
     },
     {
-      "Action": "After delivering his line, he weeps uncontrollably and stumbles off stage, showing difficulty in maintaining composure and control.",
-      "Competence": -1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Pins Chris's hand to the wheel, pulls out his Glock, and shoots him despite Chris flailing with his free hand.",
+      "assessment": "This action demonstrates Barry's decisiveness, physical control, and ability to act under pressure, indicating a high level of competence in a dangerous situation.",
+      "rating": 3,
+      "chunk": 14
     },
     {
-      "Action": "Paces like a caged animal, still manic, crying after the performance.",
-      "Warmth": 0,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Sweeps his tracks with a piece of brush as he walks away from the scene.",
+      "assessment": "This shows Barry's awareness and skill in covering his tracks, reflecting careful planning and situational intelligence.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Punches the framed photo of Cousineau and Judd Hirsch in frustration.",
-      "Warmth": -1,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Lets out a terrible scream immediately after shooting Chris.",
+      "assessment": "This emotional outburst suggests a momentary loss of composure or internal conflict, which slightly undermines the image of cold, calculated competence.",
+      "rating": -1,
+      "chunk": 14
     },
     {
-      "Action": "Avoids the crowd, tries to leave backstage unnoticed after performance.",
-      "Warmth": -1,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Looks out the window in a daze in the Uber, appearing disheveled and withdrawn before the performance.",
+      "assessment": "Barry's withdrawn and dazed state suggests emotional distress or preoccupation, indicating a lack of outward warmth or engagement at this moment.",
+      "rating": -1,
+      "chunk": 15
     },
     {
-      "Action": "Paces like a caged animal, manic and crying, tears off jacket, punches framed photo in frustration.",
-      "Competence": -1,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Enters the stage to a small applause, accepts it graciously but modestly shrugs it off.",
+      "assessment": "Barry's gracious acceptance of applause and modesty reflect humility and a respectful demeanor, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Although emotionally overwhelmed, reaches a deep, previously unseen emotional place in his performance that impresses Cousineau and the crowd.",
-      "Competence": 1,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Beholds Sally from the wings, amazed and in love.",
+      "assessment": "Barry's admiration and love for Sally show sincere affection and emotional openness, signaling warmth.",
+      "rating": 3,
+      "chunk": 15
     },
     {
-      "Action": "Leaves immediately after performance in a daze, trying not to be seen, avoiding social interaction and feedback.",
-      "Competence": -1,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Appears in the backseat of an Uber looking dazed and disheveled just before the performance.",
+      "assessment": "This suggests a lack of readiness and possibly poor self-care or stress management right before an important event, indicating a dip in competence.",
+      "rating": -1,
+      "chunk": 15
     },
     {
-      "Action": "Helps Sally get the business card from Daniel without her having to act, enabling her opportunity.",
-      "Warmth": 1,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Enters the stage to a small amount of applause, accepts it graciously and modestly, and delivers his lines with a British accent reminiscent of Sir Laurence Olivier.",
+      "assessment": "This shows professional skill, confidence, and stage presence, indicating a high level of competence in his craft.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Responds to Sally's gratitude quietly and modestly with 'Oh. Cool.' and 'I am?'",
-      "Warmth": 1,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Humbly exits the stage after his brief scene, allowing Sally to continue brilliantly.",
+      "assessment": "Barry demonstrates humility and an understanding of his role within the ensemble, which reflects emotional intelligence and professional maturity, positive indicators of competence.",
+      "rating": 1,
+      "chunk": 15
     },
     {
-      "Action": "Does not engage further after Sally runs off, stands alone quietly on stage.",
-      "Warmth": 0,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Beholds Sally from the wings, amazed and in love, seemingly distracted.",
+      "assessment": "This internal distraction at a critical moment could undermine his focus and performance, suggesting a slight lapse in professional competence.",
+      "rating": -1,
+      "chunk": 15
     },
     {
-      "Action": "Successfully supports Sally by effectively enabling her to secure a valuable industry contact; Sally praises Barry's acting and generosity, indicating a skilled and confident performance on his part.",
-      "Competence": 1,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Holds a gun to Chris's head, causing Chris to fire.",
+      "assessment": "Barry demonstrates the ability to take control of a dangerous situation, showing decisiveness and assertiveness under pressure.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Responds to Sally's praise with uncertainty ('I am?'), showing some self-doubt or lack of confidence in his own abilities despite external recognition.",
-      "Competence": -1,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Absent from the theater when a crisis arises and others scramble to cover his part.",
+      "assessment": "Barry's absence at a critical moment suggests a lack of reliability or preparedness, negatively impacting the group's performance.",
+      "rating": -2,
+      "chunk": 16
+    },
+    {
+      "trait": "warmth",
+      "action": "Enters backstage in a daze and allows Sally to quickly put him in costume and push him into the wings without protest.",
+      "assessment": "Barry's compliance and lack of resistance suggest a cooperative and trusting nature, showing a willingness to support the group despite his apparent nervousness.",
+      "rating": 2,
+      "chunk": 17
+    },
+    {
+      "trait": "warmth",
+      "action": "Rehearses nervously under his breath, repeating his lines quietly.",
+      "assessment": "Barry's nervousness indicates sincerity and a desire to perform well, reflecting conscientiousness and respect for the group effort.",
+      "rating": 2,
+      "chunk": 17
+    },
+    {
+      "trait": "warmth",
+      "action": "Does not engage with or confront Nick's dismissive and disruptive behavior on stage.",
+      "assessment": "Barry's omission to address Nick's behavior could suggest either tolerance or passivity; however, the lack of intervention may also indicate a reluctance to create conflict, which can be seen as a mild positive indicator of tolerance.",
+      "rating": 1,
+      "chunk": 17
+    },
+    {
+      "trait": "competence",
+      "action": "Barry enters in a daze, not in costume, and is quickly pushed by Sally to get ready and go on stage.",
+      "assessment": "Barry's dazed state and lack of preparation suggest a lack of readiness and focus, indicating lower competence in managing his responsibilities under pressure.",
+      "rating": -2,
+      "chunk": 17
+    },
+    {
+      "trait": "competence",
+      "action": "Barry starts quietly rehearsing his lines nervously in the wings before going on stage.",
+      "assessment": "This shows some effort to prepare and focus despite his nervousness, indicating a moderate level of competence in trying to perform under stress.",
+      "rating": 1,
+      "chunk": 17
+    },
+    {
+      "trait": "competence",
+      "action": "Barry is in a fog, struggling to focus and keep himself together while Sally performs on stage.",
+      "assessment": "This indicates a significant difficulty in maintaining composure and concentration under pressure, suggesting a momentary lapse in mental control and emotional regulation.",
+      "rating": -2,
+      "chunk": 18
+    },
+    {
+      "trait": "competence",
+      "action": "Barry tries to shake off intrusive, distressing daydreams and even hits himself to stop the mental images.",
+      "assessment": "While this shows some active effort to regain control, the fact that he is overwhelmed by these images and resorts to self-harm indicates poor coping mechanisms and a lack of effective emotional resilience or mental discipline.",
+      "rating": -2,
+      "chunk": 18
+    },
+    {
+      "trait": "warmth",
+      "action": "Barry cries real tears of wrenching grief, frustration, desperation, and bravely speaks his line with monumental effort, then sobs as he stumbles off the stage.",
+      "assessment": "Barry's emotional vulnerability and willingness to express deep feelings openly suggest sincerity and a genuine nature, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 19
+    },
+    {
+      "trait": "competence",
+      "action": "Barry hits his head on the wall and then enters the stage crying, showing real tears of wrenching grief, frustration, and desperation, but bravely speaks his line despite his emotional state.",
+      "assessment": "Despite being overwhelmed by intense emotions and physical self-harm, Barry manages to deliver his line with monumental effort, demonstrating emotional depth and a strong commitment to his role, which indicates a level of emotional and professional competence.",
+      "rating": 2,
+      "chunk": 19
+    },
+    {
+      "trait": "competence",
+      "action": "Barry sobs and stumbles blindly off the stage after delivering his line.",
+      "assessment": "While his emotional outburst is genuine and powerful, his inability to maintain composure or control his exit suggests a lack of stage discipline and professional control, which detracts from his overall competence.",
+      "rating": -1,
+      "chunk": 19
+    },
+    {
+      "trait": "warmth",
+      "action": "Punches the framed photo of Cousineau and Judd Hirsch in a moment of manic crying and frustration.",
+      "assessment": "This aggressive outburst suggests emotional turmoil and a lack of control, which may hinder warmth as it can be perceived as hostile or self-destructive rather than friendly or trustworthy.",
+      "rating": -2,
+      "chunk": 20
+    },
+    {
+      "trait": "warmth",
+      "action": "Avoids the curtain call and leaves the backstage area in a daze, trying not to be seen.",
+      "assessment": "His withdrawal from social interaction at a moment when others are celebrating indicates a reluctance to engage warmly with others, suggesting low sociability and friendliness in this moment.",
+      "rating": -2,
+      "chunk": 20
+    },
+    {
+      "trait": "warmth",
+      "action": "Is visibly emotional and vulnerable, pacing and crying after the performance.",
+      "assessment": "While vulnerability can be a sign of sincerity, Barry's emotional state here seems self-focused and distressed rather than open or comforting toward others, limiting the warmth inferred.",
+      "rating": 0,
+      "chunk": 20
+    },
+    {
+      "trait": "competence",
+      "action": "Paces like a caged animal, still manic, crying, and tears off the Hamilton jacket after the performance.",
+      "assessment": "This behavior suggests emotional instability and difficulty managing stress, which undermines his ability to maintain composure and focus in a professional setting.",
+      "rating": -2,
+      "chunk": 20
+    },
+    {
+      "trait": "competence",
+      "action": "Punches the framed photo of Cousineau and Judd Hirsch in frustration.",
+      "assessment": "This impulsive and destructive reaction indicates poor emotional regulation and a lack of professionalism, detracting from his competence.",
+      "rating": -2,
+      "chunk": 20
+    },
+    {
+      "trait": "competence",
+      "action": "Disappears backstage after the curtain call, trying not to be seen.",
+      "assessment": "Avoiding social interaction and retreating in a daze suggests difficulty coping with the aftermath of the performance, reflecting a lack of confidence and resilience.",
+      "rating": -1,
+      "chunk": 20
+    },
+    {
+      "trait": "competence",
+      "action": "Despite his emotional turmoil, he has just completed a challenging performance that got the audience's attention.",
+      "assessment": "Successfully delivering a powerful and attention-grabbing performance indicates underlying skill and capability as a performer, showing competence in his craft.",
+      "rating": 2,
+      "chunk": 20
+    },
+    {
+      "trait": "warmth",
+      "action": "Helps Sally by giving her what she needed to impress Daniel from Gersh without her having to act.",
+      "assessment": "Barry's willingness to support Sally and help her succeed demonstrates generosity and a friendly, supportive nature.",
+      "rating": 3,
+      "chunk": 21
+    },
+    {
+      "trait": "warmth",
+      "action": "Responds to Sally's gratitude with a modest and somewhat uncertain 'I am?'",
+      "assessment": "Barry's modesty and uncertainty suggest sincerity and humility, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 21
+    },
+    {
+      "trait": "warmth",
+      "action": "Leaves the theater quietly and alone without engaging further with others.",
+      "assessment": "Barry's quiet exit and lack of further interaction could indicate social withdrawal or discomfort, which may reflect lower warmth in this moment.",
+      "rating": -1,
+      "chunk": 21
+    },
+    {
+      "trait": "competence",
+      "action": "Successfully helps Sally impress Daniel from Gersh without needing to act himself.",
+      "assessment": "Barry's ability to support Sally in a way that she describes as 'amazing' and 'generous' suggests he has a natural skill or presence that positively influences others, indicating competence in interpersonal or performance-related situations.",
+      "rating": 2,
+      "chunk": 21
+    },
+    {
+      "trait": "competence",
+      "action": "Responds to Sally's praise with uncertainty ('I am?').",
+      "assessment": "Barry's hesitation and surprise at being called a 'real actor' shows a lack of confidence or self-awareness about his own abilities, which slightly undermines his perceived competence.",
+      "rating": -1,
+      "chunk": 21
+    },
+    {
+      "trait": "competence",
+      "action": "Looks around the theater alone after the interaction, seemingly contemplative.",
+      "assessment": "This moment of reflection could indicate self-doubt or uncertainty about his own skills, suggesting a gap between his actual competence and his self-perception.",
+      "rating": 0,
+      "chunk": 21
     }
   ]
 }

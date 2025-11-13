@@ -1,1331 +1,2589 @@
 {
   "Sam Leeds": [
     {
-      "Action": "Shoots a man in self-defense, kicks gun aside to prevent further violence.",
-      "Warmth": 1,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "Shoots a man in the saloon and kicks his gun aside, resulting in the man's death.",
+      "assessment": "Sam's action of shooting a man and showing readiness for violence indicates a harsh and potentially aggressive demeanor, which does not reflect warmth.",
+      "rating": -3,
+      "chunk": 4
     },
     {
-      "Action": "Speaks tauntingly and smugly to Joe after the shooting incident.",
-      "Warmth": -1,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "After the shooting, Sam puts his gun away and puts on his coat, then taunts Joe Madden with a smug attitude.",
+      "assessment": "Taunting and displaying smugness after a violent encounter suggests a lack of sincerity and friendliness, indicating low warmth.",
+      "rating": -2,
+      "chunk": 4
     },
     {
-      "Action": "Claps miner on shoulder in a menacing way but miner smiles and calls him friend.",
-      "Warmth": 0,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Engages in a conversation with Joe Madden about the shooting being self-defense and the law clearing him.",
+      "assessment": "While Sam is cooperative in explaining the situation, the interaction is formal and lacks signs of genuine trustworthiness or benevolence.",
+      "rating": 0,
+      "chunk": 4
     },
     {
-      "Action": "Smiles and speaks in a friendly tone, acknowledges miner as a friend.",
-      "Warmth": 1,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Shoots a man who reaches for his gun, then quickly kicks the gun aside, resulting in the man's death.",
+      "assessment": "This action demonstrates Sam's quick reflexes, decisiveness, and effective use of force under pressure, indicating strong competence in a dangerous situation.",
+      "rating": 3,
+      "chunk": 4
     },
     {
-      "Action": "Interrupts Sally to pay later and engages in polite breakfast exchange.",
-      "Warmth": 1,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Stands alert in the corner with gun ready after the shooting, maintaining control of the situation.",
+      "assessment": "Maintaining alertness and readiness after a violent encounter shows Sam's situational awareness and ability to stay composed, reflecting high competence.",
+      "rating": 2,
+      "chunk": 4
     },
     {
-      "Action": "Expresses enthusiasm about leaving town and exploring other places despite Sally's unhappiness.",
-      "Warmth": 0,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Motions to a lamp on the wall and explains to Joe Madden that the shooting was self-defense, pointing out evidence like the bullet hole and kerosene dripping.",
+      "assessment": "Sam's use of physical evidence to justify his actions shows intelligence and strategic thinking, reinforcing his competence in managing the aftermath of conflict.",
+      "rating": 2,
+      "chunk": 4
     },
     {
-      "Action": "Honestly tells Sally he is not an honest man and admits to being a taker, not a maker.",
-      "Warmth": 0,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Puts gun into holster and puts on coat while taunting Joe Madden, showing confidence and control.",
+      "assessment": "This behavior indicates Sam's confidence and psychological control over the situation, suggesting a competent and self-assured character.",
+      "rating": 2,
+      "chunk": 4
     },
     {
-      "Action": "Asks Sally to come with him despite admitting he won’t be honest, showing openness and sincerity about his flaws.",
-      "Warmth": 1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Engages in a verbal challenge to the townspeople after being told to leave the Spanish Boot.",
+      "assessment": "While this shows confidence, it may also suggest a degree of recklessness or overconfidence, which could undermine competence depending on context.",
+      "rating": 0,
+      "chunk": 4
     },
     {
-      "Action": "Turns away from Sally while speaking, and shows irritation when she expresses her desires, indicating emotional distance and lack of empathy.",
-      "Warmth": -1,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Engages in a verbal exchange with Joe, responding calmly to Joe's hostility and leaving town without causing a scene.",
+      "assessment": "Sam maintains composure despite Joe's antagonism and accepts the situation without escalating conflict, showing a degree of tolerance and restraint.",
+      "rating": 1,
+      "chunk": 5
     },
     {
-      "Action": "Accuses Sally and exits angrily when she rejects his lifestyle and desires, showing intolerance and frustration.",
-      "Warmth": -1,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Says to Joe, 'Maybe not, but just the same you're gonna be mighty lonesome.'",
+      "assessment": "This statement could be interpreted as sarcastic or taunting, which suggests a lack of friendliness or sincerity in this interaction.",
+      "rating": -1,
+      "chunk": 5
     },
     {
-      "Action": "Drops his gun calmly instead of escalating conflict with Joe.",
-      "Warmth": 1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Engages in a verbal confrontation with Joe, confidently asserting his right to stay and his capabilities.",
+      "assessment": "Sam demonstrates verbal confidence and quick wit, indicating a level of social and intellectual competence in handling conflict.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Wipes blood from his mouth and exits sullenly without lashing out.",
-      "Warmth": 1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Accepts the town's demand that he leave without resistance.",
+      "assessment": "While Sam shows pragmatism by not escalating the conflict, this could also suggest a lack of assertiveness or influence to change the situation, reflecting moderate competence.",
+      "rating": 0,
+      "chunk": 5
     },
     {
-      "Action": "Shows reluctant acceptance of being expelled without resistance.",
-      "Warmth": 1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Uses a pointed retort about Joe being 'mighty lonesome' after Sam leaves.",
+      "assessment": "This indicates Sam's ability to maintain psychological leverage and confidence even when forced to withdraw, showing mental sharpness and resilience.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Refuses to leave without his gun, implying a distrust or guardedness.",
-      "Warmth": -1,
-      "Chunk": 13
+      "trait": "warmth",
+      "action": "Claps a miner on the shoulder in a menacing but friendly manner and engages in light banter with miners in the cafe.",
+      "assessment": "Sam's physical gesture and friendly exchange with the miners suggest a level of camaraderie and approachability, indicating some warmth.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Stops riding, dismounts, and stares off stunned at the scene of tragedy",
-      "Warmth": 1,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "Smiles and speaks with Sally in a casual, somewhat playful manner, acknowledging their acquaintance.",
+      "assessment": "Sam's smile and casual conversation with Sally show a friendly and sincere side, though Sally's coyness and later unhappiness hint at some emotional distance.",
+      "rating": 1,
+      "chunk": 8
     },
     {
-      "Action": "Kneels beside Jehu, takes hold of Jehu's hat brim with care",
-      "Warmth": 1,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "Tells Sally he is leaving town and tries to sound optimistic about future prospects.",
+      "assessment": "While Sam shares personal news and tries to maintain a positive tone, his announcement may cause sadness to Sally, showing a lack of sensitivity to her feelings.",
+      "rating": -1,
+      "chunk": 8
     },
     {
-      "Action": "Listens intently and shows horror upon learning about the Apache threat",
-      "Warmth": 1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Approaches miners confidently, interacts with them in a friendly and somewhat menacing manner, clapping one on the shoulder and engaging in conversation.",
+      "assessment": "This action suggests social confidence and an ability to assert himself in a potentially rough environment, indicating interpersonal competence.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Responds affirmatively to Jehu's plea to warn the town",
-      "Warmth": 1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Sits down calmly after greeting miners and engages in casual conversation with Sally, showing control over the social situation.",
+      "assessment": "This behavior reflects composure and social skill, implying emotional intelligence and situational awareness.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Stops and stares off, stunned, after seeing the aftermath of the attack.",
-      "Competence": -1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Mentions leaving town and plans to visit other towns, showing forward thinking and adaptability.",
+      "assessment": "This indicates strategic thinking and a willingness to move on from difficult situations, a sign of practical competence.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Kneels by Jehu, listens carefully, and acknowledges the threat by promising to warn the town.",
-      "Competence": 1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Responds to Sally's concern about the shooting with enthusiasm and optimism about future opportunities.",
+      "assessment": "This shows mental resilience and a positive attitude, which are important aspects of competence in challenging environments.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Tries to calm nervous horse as it snorts nervously",
-      "Warmth": 1,
-      "Chunk": 16
+      "trait": "competence",
+      "action": "Does not provide a clear plan or detailed reasoning for leaving town beyond vague references to other towns being exciting or not.",
+      "assessment": "This omission suggests a lack of detailed planning or strategic clarity, which may indicate some gaps in his competence.",
+      "rating": -1,
+      "chunk": 8
     },
     {
-      "Action": "Kicks horse in the flank causing it to start running",
-      "Warmth": -1,
-      "Chunk": 16
+      "trait": "warmth",
+      "action": "Speaks urgently to Sally, expressing that they've had a lot of fun together and invites her to come with him.",
+      "assessment": "Sam shows a desire for connection and values the time spent with Sally, indicating some warmth and sincerity in his intentions.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Mounts horse quickly and rides fast toward a destination, showing decisiveness and readiness.",
-      "Competence": 1,
-      "Chunk": 17
+      "trait": "warmth",
+      "action": "Follows Sally into the kitchen and moves close to her while she is busy, despite her unhappiness and eventual exit.",
+      "assessment": "Sam's persistence despite Sally's clear discomfort suggests a lack of sensitivity and respect for her feelings, which detracts from warmth.",
+      "rating": -2,
+      "chunk": 9
     },
     {
-      "Action": "Rides forward in a potentially hostile environment with Indians nearby aiming rifles and giving warnings, maintains focus and movement without panic.",
-      "Competence": 1,
-      "Chunk": 17
+      "trait": "warmth",
+      "action": "Says he sent roses for Sally's birthday from two hundred miles away, explaining he got the money from Roy Warren playing Monte.",
+      "assessment": "Sending roses is a thoughtful and affectionate gesture, showing Sam's capacity for kindness and romantic sincerity.",
+      "rating": 3,
+      "chunk": 9
     },
     {
-      "Action": "No evident response to Indians aiming rifles or their presence; continues riding toward stagecoach.",
-      "Competence": 0,
-      "Chunk": 17
+      "trait": "warmth",
+      "action": "Engages in a card game with Roy Warren, which leads to Roy's death and Sally's distrust.",
+      "assessment": "Sam's involvement in a risky game that results in a friend's death and Sally's distrust indicates recklessness and a lack of consideration for others' wellbeing, negatively impacting perceptions of warmth.",
+      "rating": -3,
+      "chunk": 9
     },
     {
-      "Action": "Pleading with Sally and others to believe his truth about the Mescaleros and the Indians killing Betty and her girls",
-      "Warmth": 1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Speaks urgently and tries to persuade Sally to come with him, showing initiative and decisiveness.",
+      "assessment": "This indicates a level of confidence and assertiveness, traits associated with competence in social interactions.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Showing sincerity and honesty by insisting he is not lying about the danger",
-      "Warmth": 1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "After Sally moves away, Sam rises and starts after her but then stops and turns to the camera with an annoyed expression.",
+      "assessment": "This hesitation and visible annoyance suggest a momentary lapse in emotional control and decisiveness, slightly undermining his competence.",
+      "rating": -1,
+      "chunk": 9
     },
     {
-      "Action": "Refusing to leave the town despite threats and hostility",
-      "Warmth": 0,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Engages closely with Sally in the kitchen, moving close to her and attempting to connect despite her unhappiness.",
+      "assessment": "Shows social awareness and persistence, but also a possible lack of sensitivity to Sally's feelings, indicating mixed competence in interpersonal skills.",
+      "rating": 0,
+      "chunk": 9
     },
     {
-      "Action": "Almost shouting at Joe and visibly distressed during confrontation",
-      "Warmth": 0,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Claims to have obtained money from Roy Warren 'on the up and up' to send roses for Sally's birthday.",
+      "assessment": "This suggests resourcefulness and ability to manage logistics, reflecting practical competence, though the subsequent revelation that Roy is dead and suspicious of Sam's actions casts doubt on the legitimacy of his methods.",
+      "rating": 1,
+      "chunk": 9
     },
     {
-      "Action": "Not retaliating aggressively despite being forcibly removed and struggling only to resist",
-      "Warmth": 0,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Is confronted about Roy Warren's death and the implication that Sam played with him again the night before.",
+      "assessment": "This raises questions about Sam's judgment and ethical competence, as involvement in a situation leading to someone's death suggests poor decision-making or recklessness.",
+      "rating": -2,
+      "chunk": 9
     },
     {
-      "Action": "Warns about Mescalero threat with reason and urgency, insists on the truth, and tries to inform townspeople despite hostility.",
-      "Competence": 1,
-      "Chunk": 19
+      "trait": "warmth",
+      "action": "Tells Sally that he is a taker and does not want to be honest like his father, despite acknowledging his father's hard work and honesty.",
+      "assessment": "Sam's frank admission about his own nature shows a lack of aspiration toward sincerity and trustworthiness, which are key components of warmth. His self-identification as a 'taker' suggests a self-centered attitude that may hinder warmth.",
+      "rating": -2,
+      "chunk": 10
     },
     {
-      "Action": "Refuses to leave town despite danger and community rejection, leading to being forcibly removed by townsmen.",
-      "Competence": -1,
-      "Chunk": 19
+      "trait": "warmth",
+      "action": "Honestly tells Sally that he is just honest enough to admit who he is and still asks her to come with him.",
+      "assessment": "While Sam is sincere in his communication, his honesty is coupled with a lack of benevolence or consideration for Sally's desires, indicating a complex but limited warmth.",
+      "rating": 0,
+      "chunk": 10
     },
     {
-      "Action": "Shows fury grabbing Joe's coat and glaring after him, reacting to the ambush and death of two girls.",
-      "Warmth": 0,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Responds with anger and accusation when Sally expresses her wish for a stable home and an honest husband.",
+      "assessment": "Sam's angry and accusing reaction to Sally's reasonable desires reflects intolerance and a lack of empathy, which are negative indicators of warmth.",
+      "rating": -2,
+      "chunk": 10
     },
     {
-      "Action": "Listens to Sally's honest confession, responds calmly and understandingly.",
-      "Warmth": 1,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Admits honestly to Sally that he is a 'taker' and not like his honest, hardworking father, showing self-awareness and candidness about his nature and intentions.",
+      "assessment": "This demonstrates a level of emotional intelligence and self-knowledge, which can be a component of competence, especially in interpersonal dealings.",
+      "rating": 1,
+      "chunk": 10
     },
     {
-      "Action": "Takes Sally in his arms and kisses her ardently, showing affection.",
-      "Warmth": 1,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Refuses to conform to the honest, hardworking lifestyle his father led, instead choosing a path of taking what he wants.",
+      "assessment": "While this shows decisiveness and a clear personal philosophy, it also suggests a rejection of conventional, reliable methods, which may undermine long-term competence in stable social or economic environments.",
+      "rating": 0,
+      "chunk": 10
     },
     {
-      "Action": "Expresses impatience or discomfort when confronted about past events ('Oh, why do we have to talk about all this?').",
-      "Warmth": -1,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Responds to Sally's concerns about being kicked out of towns with a dismissive attitude, focusing on his own approach rather than addressing the consequences.",
+      "assessment": "This indicates a possible lack of strategic thinking or failure to consider the broader impact of his actions, which detracts from his overall competence.",
+      "rating": -1,
+      "chunk": 10
     },
     {
-      "Action": "Follows Sally when she pulls away disturbed and angry, indicating concern.",
-      "Warmth": 1,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Attempts to persuade Sally to come with him despite her desire for stability and honesty.",
+      "assessment": "This shows confidence and persuasive effort, but also a potential blind spot regarding others' needs and values, which may limit his effectiveness in relationships and leadership.",
+      "rating": 0,
+      "chunk": 10
     },
     {
-      "Action": "Responds calmly and patiently to Sally's emotional confrontation, shows understanding without defensiveness.",
-      "Competence": 1,
-      "Chunk": 22
+      "trait": "warmth",
+      "action": "Leans against porch post watching off calmly, then approaches Joe and talks nonchalantly.",
+      "assessment": "Sam's relaxed posture and casual approach suggest a laid-back, possibly friendly demeanor, but no clear warmth is demonstrated here.",
+      "rating": 0,
+      "chunk": 12
     },
     {
-      "Action": "Engages in close, intimate conversation and maintains composure despite tension, indicating emotional control.",
-      "Competence": 1,
-      "Chunk": 22
+      "trait": "warmth",
+      "action": "Engages in a tense confrontation with Joe, exchanging sharp words and preparing to draw a gun.",
+      "assessment": "Sam's readiness to escalate conflict and his antagonistic exchange with Joe indicate hostility and lack of trustworthiness or friendliness.",
+      "rating": -3,
+      "chunk": 12
     },
     {
-      "Action": "Appears reluctant or avoids deeper discussion about his past mistakes or actions ('Oh, why do we have to talk about all this?').",
-      "Competence": -1,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Leans casually against porch post watching offscreen activity before exiting past camera.",
+      "assessment": "This relaxed posture suggests a degree of confidence and situational awareness, indicating some level of comfort and control in his environment.",
+      "rating": 1,
+      "chunk": 12
     },
     {
-      "Action": "Questions and challenges the Mayor's decision to delay getting water, showing concern for the needs of the community.",
-      "Warmth": 1,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Approaches Joe at the forge nonchalantly and moves behind him before Joe suddenly strikes him.",
+      "assessment": "Sam's casual approach and positioning behind Joe may indicate either overconfidence or a lack of caution, which could be seen as a lapse in judgment or situational competence.",
+      "rating": -1,
+      "chunk": 12
     },
     {
-      "Action": "Expresses frustration toward the inaction of others ('If there were ten real men here...'), implying criticism of their courage or commitment.",
-      "Warmth": -1,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Engages in verbal exchange asserting he has no charges against him that would hold up in court.",
+      "assessment": "This shows Sam's attempt to use legal reasoning and verbal skill to defend himself, reflecting intelligence and confidence in his position.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "States they want water for the women and kids, expressing concern for their well-being.",
-      "Warmth": 1,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Turns to camera, rises on one knee, and reaches for his gun after being struck by Joe.",
+      "assessment": "This quick physical reaction demonstrates alertness, readiness, and skill in handling conflict, indicating a competent and capable response under pressure.",
+      "rating": 3,
+      "chunk": 12
     },
     {
-      "Action": "Sneers while riding ahead of the wagon, showing smugness.",
-      "Warmth": -1,
-      "Chunk": 29
+      "trait": "warmth",
+      "action": "Drops his gun to the ground instead of escalating the conflict with Joe.",
+      "assessment": "By choosing to drop his weapon rather than engage in violence, Sam shows restraint and a reluctance to harm others, which can be seen as a sign of underlying goodwill or at least a desire to avoid unnecessary conflict.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Tells Joe he told the boys that Joe would say there was no chance of getting water, showing honesty and straightforwardness.",
-      "Warmth": 1,
-      "Chunk": 29
+      "trait": "warmth",
+      "action": "Exits sullenly after being ordered to leave town.",
+      "assessment": "Sam's sullen exit suggests feelings of rejection and possibly hurt, but he does not retaliate or cause further trouble, indicating a degree of tolerance and acceptance of the situation despite its harshness.",
+      "rating": 1,
+      "chunk": 13
     },
     {
-      "Action": "Mounted ahead of the wagon, confidently leading and sneering, showing readiness to confront danger.",
-      "Competence": 1,
-      "Chunk": 29
+      "trait": "warmth",
+      "action": "Does not argue or resist when Joe tells him he is no good for the town and must leave.",
+      "assessment": "Sam's lack of resistance could indicate either resignation or a respectful acceptance of the community's decision, which may reflect a tolerant or non-confrontational nature.",
+      "rating": 1,
+      "chunk": 13
     },
     {
-      "Action": "Engages in tense dialogue with Joe, indicating awareness of risks but determined to proceed despite warnings.",
-      "Competence": 1,
-      "Chunk": 29
+      "trait": "warmth",
+      "action": "Requests to keep his gun when being expelled from town.",
+      "assessment": "Sam's insistence on keeping his gun suggests a need for self-protection and mistrust toward those expelling him, which may indicate a guarded or defensive stance rather than warmth.",
+      "rating": -1,
+      "chunk": 13
     },
     {
-      "Action": "Displays smugness rather than strategic reconsideration when warned about bushwhacking and danger to the group.",
-      "Competence": -1,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Starts to pull gun when confronted by Joe but then drops it to the ground and rises, wiping blood from his mouth before exiting sullenly.",
+      "assessment": "Sam's initial readiness to draw his weapon shows alertness and willingness to defend himself, but dropping the gun without resistance and leaving without a fight suggests a lack of assertiveness or confidence in this confrontation.",
+      "rating": -1,
+      "chunk": 13
     },
     {
-      "Action": "States the group’s minds are made up without showing signs of reconsideration or flexibility.",
-      "Competence": -1,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Accepts Joe's order to leave town without further argument and without his gun.",
+      "assessment": "This shows a pragmatic acceptance of the situation, possibly indicating emotional control and an understanding of when to avoid futile conflict, but also may reflect a lack of agency or ability to challenge unfair decisions.",
+      "rating": 0,
+      "chunk": 13
     },
     {
-      "Action": "Gives clear instructions to men to fill the barrels and keep watch while drinking at the river, remains calm when alerted by Griffin about a potential Indian threat.",
-      "Competence": 1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Rides forward on the trail, then stops and looks down and off before exiting slowly.",
+      "assessment": "This behavior suggests hesitation and possible uncertainty about his next steps, indicating a moment of doubt or lack of clear direction, which detracts from an image of confident competence.",
+      "rating": -1,
+      "chunk": 13
     },
     {
-      "Action": "Successfully goes out and retrieves water when others were too scared.",
-      "Competence": 1,
-      "Chunk": 33
+      "trait": "warmth",
+      "action": "Kneels by Jehu, takes hold of his hat, listens attentively to his warning about the Mescalero Apaches.",
+      "assessment": "Sam shows concern and attentiveness toward Jehu's condition and message, indicating empathy and a sense of responsibility.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Boasts about his fearless action to get water, indicating confidence.",
-      "Competence": 1,
-      "Chunk": 33
+      "trait": "warmth",
+      "action": "Reacts with horror and concern upon hearing about the danger posed by the Mescalero Apaches.",
+      "assessment": "His visible horror suggests he cares about the safety of others and is emotionally affected by the threat, reflecting sincerity and good-natured concern.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Reactively shouts commands to whip the horses upon spotting Apaches, demonstrating alertness and quick response.",
-      "Competence": 1,
-      "Chunk": 33
+      "trait": "warmth",
+      "action": "Agrees to warn the town about the approaching danger.",
+      "assessment": "By committing to warn the town, Sam demonstrates trustworthiness and a protective attitude toward the community.",
+      "rating": 3,
+      "chunk": 14
     },
     {
-      "Action": "Stands up and helps Griffin to his feet despite Griffin's disdain.",
-      "Competence": 1,
-      "Chunk": 37
+      "trait": "warmth",
+      "action": "Initially stops to remount his horse but then runs back to Jehu to check on him.",
+      "assessment": "This hesitation and choice to prioritize Jehu's wellbeing over his own convenience shows kindness and attentiveness.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Acknowledges the roughness of the environment and the need to take care of oneself, showing practical understanding.",
-      "Competence": 1,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "Stops riding, dismounts, and stares off stunned at the scene of the overturned barouche and bodies.",
+      "assessment": "This reaction shows a moment of shock and hesitation, indicating a temporary lapse in composure and decisiveness in a critical situation.",
+      "rating": -1,
+      "chunk": 14
     },
     {
-      "Action": "Openly admits to gambling, drinking, and killing in self-defense, demonstrating self-awareness and realism.",
-      "Competence": 1,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "Runs across open space to Jehu, kneels by him, and listens carefully to his warning about the Mescalero Apaches.",
+      "assessment": "This action demonstrates attentiveness, quick response, and prioritization of gathering crucial information, reflecting situational awareness and responsibility.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Attempts to build rapport by offering a handshake despite being rejected.",
-      "Competence": 1,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "Reacts with horror and concern upon hearing about the Mescalero Apaches' return and their dangerous nature.",
+      "assessment": "While the emotional reaction is natural, it also shows that Sam understands the gravity of the threat, which is important for competent decision-making.",
+      "rating": 1,
+      "chunk": 14
     },
     {
-      "Action": "Engages in defensive and confrontational dialogue with Griffin instead of de-escalating tension or offering a more thoughtful response.",
-      "Competence": -1,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "Affirms to Jehu that he will warn the town about the Apache threat.",
+      "assessment": "This commitment indicates a sense of duty and readiness to take action, suggesting confidence and leadership potential.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Admits he never really cared about the town needing water but wanted to impress Sally and make a fool out of Joe, later wishes he could tell her he was wrong",
-      "Warmth": 1,
-      "Chunk": 39
+      "trait": "competence",
+      "action": "Tries to calm his nervous horse as they approach a narrow pass and rocky cliffs.",
+      "assessment": "This shows Sam's awareness of his environment and his attempt to maintain control over his horse, indicating situational skill and calmness under pressure.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Hugs Griffin happily upon seeing soldiers arrive",
-      "Warmth": 1,
-      "Chunk": 39
+      "trait": "competence",
+      "action": "Kicks his horse in the flank to get it moving when it hesitates nervously.",
+      "assessment": "This action demonstrates decisiveness and assertiveness in managing his mount, reflecting practical horsemanship and confidence.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Shares water with Griffin and other soldiers, drinks with them",
-      "Warmth": 1,
-      "Chunk": 39
+      "trait": "competence",
+      "action": "Squats close to the cliff wall at night, smoking a cigarette while remaining alert and startled by a sudden noise.",
+      "assessment": "His alertness and cautious behavior in a potentially dangerous environment suggest good situational awareness and prudence.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Engages in conversation with soldiers and Griffin about recent events without boasting",
-      "Warmth": 1,
-      "Chunk": 39
+      "trait": "competence",
+      "action": "Mounts his horse quickly in the shadows and rides fast toward the background, exiting the scene.",
+      "assessment": "This indicates readiness to act swiftly and effectively, showing confidence and skill in urgent situations.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Engages in a serious conversation showing self-awareness about past mistakes and a desire to change, expresses hope and attempts to inspire trust in Sally.",
-      "Competence": 1,
-      "Chunk": 42
+      "trait": "competence",
+      "action": "Squats close to the wall of the cliff, smokes a cigarette while staying alert and startled, then quickly puts out the cigarette and mounts his horse in the shadows before riding fast toward a base of a cliff.",
+      "assessment": "This sequence shows Sam's cautiousness, situational awareness, and ability to act quickly and quietly under potential threat, indicating competent fieldcraft and readiness.",
+      "rating": 2,
+      "chunk": 17
     },
     {
-      "Action": "Arrested for a kindness, indicating a failure in judgment or circumstances beyond his control.",
-      "Competence": -1,
-      "Chunk": 42
+      "trait": "competence",
+      "action": "Rides forward through the desert and among Joshua trees, maintaining movement despite the presence of armed Indians aiming rifles from cover.",
+      "assessment": "Sam's continued movement in a dangerous environment suggests confidence and skill in navigating hostile terrain, though no direct confrontation or evasive maneuver is shown here.",
+      "rating": 1,
+      "chunk": 17
     },
     {
-      "Action": "Urgently urges Sally to run and save herself despite his own peril.",
-      "Warmth": 1,
-      "Chunk": 44
+      "trait": "competence",
+      "action": "Horse breaks into a run as Indians yell and fire at him, but Sam continues riding forward toward the stagecoach.",
+      "assessment": "Sam's ability to maintain composure and control his horse under fire indicates a good level of competence and calmness under pressure.",
+      "rating": 2,
+      "chunk": 17
     },
     {
-      "Action": "Strives to free himself while encouraging Sally, showing concern for her safety over his own.",
-      "Warmth": 1,
-      "Chunk": 44
+      "trait": "warmth",
+      "action": "Hurries forward and sits by Joe to urgently warn him about the Mescalero Indians approaching, despite Joe initially ignoring him.",
+      "assessment": "Sam shows concern for the safety of others by risking his own well-being to deliver an important warning, indicating sincerity and a protective nature.",
+      "rating": 3,
+      "chunk": 18
     },
     {
-      "Action": "Knocks an Indian from horse to protect others, races toward church safety.",
-      "Warmth": 1,
-      "Chunk": 46
+      "trait": "warmth",
+      "action": "Speaks quietly and urgently to Joe in the church, trying to get him to listen to the warning.",
+      "assessment": "His quiet and urgent approach suggests respect for the setting and the people around, showing tact and consideration.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Attempts to persuade others to remove his handcuffs so he can fight and help defend everyone.",
-      "Warmth": 1,
-      "Chunk": 46
+      "trait": "competence",
+      "action": "Hurries forward and urgently warns Joe about the Mescalero Indians' approach despite the risk to himself.",
+      "assessment": "This action shows Sam's situational awareness, courage, and sense of responsibility, indicating competence in recognizing and responding to threats.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Stoops by children, does magic tricks to entertain them, helping divert their fear and sadness.",
-      "Warmth": 1,
-      "Chunk": 49
+      "trait": "competence",
+      "action": "Speaks quietly and urgently to Joe, trying to convince him of the imminent danger.",
+      "assessment": "Sam demonstrates good judgment in choosing a private and urgent manner to communicate critical information, reflecting skillful interpersonal awareness.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Speaks gently to Sally, urging her to comfort children, encouraging kindness.",
-      "Warmth": 1,
-      "Chunk": 49
+      "trait": "competence",
+      "action": "Returns to warn Joe despite nearly not making it back.",
+      "assessment": "This persistence and dedication under pressure suggest strong resolve and capability in crisis situations.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Fires a gun at an attacking Indian during conflict.",
-      "Warmth": 0,
-      "Chunk": 49
+      "trait": "competence",
+      "action": "Joe ignores Sam's warning initially, and Sam does not escalate aggressively or lose composure.",
+      "assessment": "Sam's restraint and composure in the face of dismissal indicate emotional intelligence and confidence, supporting competence.",
+      "rating": 1,
+      "chunk": 18
     },
     {
-      "Action": "Expresses concern about the enemy's rituals and communicates this to Joe Madden to prepare for an attack.",
-      "Warmth": 1,
-      "Chunk": 53
+      "trait": "warmth",
+      "action": "Pleading with Sally and the group of people near the door to believe him about the Indian threat.",
+      "assessment": "Sam shows sincerity and concern for the townspeople by trying to warn them about the danger, indicating a protective and trustworthy nature.",
+      "rating": 2,
+      "chunk": 19
     },
     {
-      "Action": "Takes on the responsibility of replacing Joe as lookout despite some hesitation.",
-      "Warmth": 1,
-      "Chunk": 53
+      "trait": "warmth",
+      "action": "Insisting to Joe and the townspeople that he is not lying about the Indians killing Betty and her girls.",
+      "assessment": "His insistence on truthfulness and his emotional investment in the safety of others reflect a good-natured and sincere character.",
+      "rating": 3,
+      "chunk": 19
     },
     {
-      "Action": "Suggests lighting up the whole place for better safety instead of just keeping kids away from the firelight.",
-      "Warmth": 1,
-      "Chunk": 56
+      "trait": "warmth",
+      "action": "Refusing to leave town despite threats and being forcibly removed by the townsmen.",
+      "assessment": "Sam’s determination to stay and protect or warn others shows courage and commitment, but also a possible stubbornness that may alienate others.",
+      "rating": 1,
+      "chunk": 19
     },
     {
-      "Action": "Proposes that women hold the candles so men can fight, showing practical division of roles but also implying traditional gender roles.",
-      "Warmth": 0,
-      "Chunk": 56
+      "trait": "warmth",
+      "action": "Not reacting with violence or aggression when men grab and lift him onto a rail, instead struggling but not escalating the conflict.",
+      "assessment": "His restraint in the face of hostility suggests tolerance and a non-aggressive disposition, which are positive warmth indicators.",
+      "rating": 2,
+      "chunk": 19
     },
     {
-      "Action": "Suggests improving visibility by lighting up the whole place to fight better",
-      "Competence": 1,
-      "Chunk": 56
+      "trait": "warmth",
+      "action": "Almost shouting at Joe in frustration and anger during the confrontation.",
+      "assessment": "While his anger is understandable, shouting can undermine warmth by appearing less tolerant and more confrontational.",
+      "rating": -1,
+      "chunk": 19
     },
     {
-      "Action": "Proposes let the women hold the candles to allow men to fight, showing practical problem-solving",
-      "Competence": 1,
-      "Chunk": 56
+      "trait": "competence",
+      "action": "Warns Joe that the Mescaleros are on the prowl and urges him to get set for them.",
+      "assessment": "This shows Sam's awareness of the threat and his proactive attempt to prepare others, indicating situational awareness and responsibility.",
+      "rating": 2,
+      "chunk": 19
     },
     {
-      "Action": "Does not directly address the challenge of fighting in the dark himself beyond suggesting candleholders",
-      "Competence": 0,
-      "Chunk": 56
+      "trait": "competence",
+      "action": "Insists to Joe and the townspeople that he is telling the truth about the Indians killing Betty and her girls, despite their disbelief and hostility.",
+      "assessment": "Sam demonstrates honesty and courage by standing firm on his information in the face of skepticism and aggression, reflecting integrity and confidence.",
+      "rating": 2,
+      "chunk": 19
     },
     {
-      "Action": "Performs capably in a difficult situation, remains alert and ready by raising his rifle when a threat appears, listens carefully and coordinates with others.",
-      "Competence": 1,
-      "Chunk": 62
+      "trait": "competence",
+      "action": "Attempts to communicate and plead with Sally and the group near the door to support his claim.",
+      "assessment": "This shows Sam's effort to persuade and rally others, indicating some social skill and leadership intent, though the quick exit of Sally suggests limited success.",
+      "rating": 1,
+      "chunk": 19
     },
     {
-      "Action": "Engages in calm communication with Pedro-Peter, using inquiry to gather necessary information about the approaching Indians and their needs.",
-      "Competence": 1,
-      "Chunk": 62
+      "trait": "competence",
+      "action": "Refuses to leave town despite Joe and the townsmen's threats and physical attempts to throw him out.",
+      "assessment": "While this shows determination and courage, it also suggests a possible lack of strategic judgment given the overwhelming opposition and danger, which may undermine his effectiveness.",
+      "rating": -1,
+      "chunk": 19
     },
     {
-      "Action": "Looks at watch and assesses timing of Colonel Haven's arrival, waits with others showing situational awareness.",
-      "Competence": 1,
-      "Chunk": 65
+      "trait": "competence",
+      "action": "Struggles physically against the men who grab him and lift him onto a rail to be thrown out.",
+      "assessment": "This indicates physical resistance and unwillingness to submit, but the fact that he is overpowered suggests limited physical dominance or tactical skill in this confrontation.",
+      "rating": 0,
+      "chunk": 19
     },
     {
-      "Action": "Expresses hope that Joe is a good doctor or the Indian a good horse, showing concern but limited influence or proactive planning.",
-      "Competence": 0,
-      "Chunk": 65
+      "trait": "warmth",
+      "action": "Rises to one knee and looks off grimly as women beg, then puts on his hat and exits the scene.",
+      "assessment": "Sam's grim look and silent departure suggest a serious, possibly burdened demeanor, but he does not engage directly with the women's pleas, indicating emotional distance or restraint rather than warmth.",
+      "rating": -1,
+      "chunk": 20
     },
     {
-      "Action": "Suddenly opens church door against warning, resulting in Joe being attacked.",
-      "Competence": -1,
-      "Chunk": 65
+      "trait": "warmth",
+      "action": "Grabs Joe's coat furiously and glares after him following the discovery of two girls killed by arrows in the coach.",
+      "assessment": "Sam's furious reaction and physical grabbing of Joe's coat show strong emotional investment and protective instincts, which can be interpreted as caring and sincere, though expressed through anger.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Holds gun ready, looks tense but ready as shots are fired, engages in brief, thoughtful conversation about a grim situation",
-      "Competence": 1,
-      "Chunk": 66
+      "trait": "warmth",
+      "action": "Engages in a tense conversation with Joe after the ambush, showing concern about the situation.",
+      "assessment": "Sam's engagement and concern about the ambush and its consequences indicate a sense of responsibility and care for others' safety, reflecting warmth in terms of trustworthiness and sincerity.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Expresses uncertainty about what to tell others and whether he should tell them, shows hesitation in communication",
-      "Competence": -1,
-      "Chunk": 66
+      "trait": "competence",
+      "action": "Rises to one knee and looks off grimly, puts on his hat, and exits purposefully after the stagecoach incident.",
+      "assessment": "This shows Sam's ability to maintain composure and readiness in a tense situation, indicating situational awareness and a calm demeanor under pressure.",
+      "rating": 2,
+      "chunk": 20
+    },
+    {
+      "trait": "competence",
+      "action": "Grabs Joe's coat furiously and glares after him following the discovery of the ambush and dead girls.",
+      "assessment": "This action reflects Sam's emotional investment and leadership qualities, but the furious grabbing may suggest impulsiveness or difficulty controlling emotions, which could undermine his competence.",
+      "rating": 0,
+      "chunk": 20
+    },
+    {
+      "trait": "competence",
+      "action": "Engages quickly with others at the scene, discussing the Apache arrow and ambush.",
+      "assessment": "Sam's prompt engagement and communication with others about the situation shows his proactive approach and ability to gather information effectively.",
+      "rating": 2,
+      "chunk": 20
+    },
+    {
+      "trait": "competence",
+      "action": "Rises to one knee and looks off grimly, puts on hat, and exits purposefully after men rush past.",
+      "assessment": "This action shows Sam's alertness and readiness to respond to a crisis, indicating situational awareness and a calm, deliberate demeanor.",
+      "rating": 2,
+      "chunk": 21
+    },
+    {
+      "trait": "competence",
+      "action": "Grabs Joe's coat furiously and glares after him when Joe suggests leaving town after the ambush.",
+      "assessment": "This suggests Sam is emotionally invested and possibly frustrated, but also assertive and willing to confront others, showing leadership qualities though tinged with emotional intensity.",
+      "rating": 1,
+      "chunk": 21
+    },
+    {
+      "trait": "competence",
+      "action": "Does not volunteer to take the risky ride to the Fort despite the town's need for a messenger.",
+      "assessment": "Sam's omission here could indicate caution or reluctance to take personal risks, which may reflect prudence or a lack of initiative depending on context.",
+      "rating": 0,
+      "chunk": 21
+    },
+    {
+      "trait": "warmth",
+      "action": "Takes Sally in his arms and responds softly to her concerns, holding her closer as they talk.",
+      "assessment": "Sam shows physical affection and a gentle demeanor, indicating a capacity for warmth and emotional connection.",
+      "rating": 2,
+      "chunk": 22
+    },
+    {
+      "trait": "warmth",
+      "action": "Responds to Sally's apology and attempts to explain her feelings with brief, somewhat dismissive replies like 'I suppose not' and 'That's all right.'",
+      "assessment": "Sam's responses here seem somewhat detached and lacking in deeper empathy, suggesting a limited tolerance or understanding of Sally's emotional struggle.",
+      "rating": -1,
+      "chunk": 22
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses reluctance to discuss painful past events with Sally, asking 'Oh, why do we have to talk about all this?'",
+      "assessment": "This avoidance may indicate discomfort with vulnerability or emotional openness, which can be a negative indicator of warmth.",
+      "rating": -1,
+      "chunk": 22
+    },
+    {
+      "trait": "warmth",
+      "action": "Kisses Sally ardently and reassures her with 'I'm back <= we're here,' showing commitment and presence.",
+      "assessment": "This affectionate and reassuring behavior reflects sincerity and a desire to reconnect, positive signs of warmth.",
+      "rating": 3,
+      "chunk": 22
+    },
+    {
+      "trait": "competence",
+      "action": "Responds calmly and briefly to Sally's emotional and accusatory statements about his past and honesty.",
+      "assessment": "Sam's calm and measured responses suggest emotional control and confidence, indicating a competent handling of interpersonal tension.",
+      "rating": 2,
+      "chunk": 22
+    },
+    {
+      "trait": "competence",
+      "action": "Takes Sally in his arms and kisses her ardently despite the tension between them.",
+      "assessment": "This shows Sam's ability to assert himself and maintain intimacy under emotional pressure, reflecting social and emotional competence.",
+      "rating": 2,
+      "chunk": 22
+    },
+    {
+      "trait": "competence",
+      "action": "Avoids engaging deeply with Sally's accusations and tries to move the conversation away from uncomfortable topics.",
+      "assessment": "This avoidance may indicate a lack of openness or unwillingness to confront difficult issues directly, which can be seen as a negative indicator of competence in communication.",
+      "rating": -1,
+      "chunk": 22
+    },
+    {
+      "trait": "competence",
+      "action": "Drinks coffee while Sally hesitates and speaks honestly to him.",
+      "assessment": "His composed demeanor during a vulnerable moment for Sally suggests self-possession and confidence, positive signs of competence.",
+      "rating": 1,
+      "chunk": 22
+    },
+    {
+      "trait": "warmth",
+      "action": "Holds Sally closer and speaks softly, kissing her ardently.",
+      "assessment": "This physical closeness and gentle speech indicate affection and a sincere emotional connection, reflecting warmth.",
+      "rating": 2,
+      "chunk": 23
+    },
+    {
+      "trait": "warmth",
+      "action": "Returns to warn the town that previously rejected him.",
+      "assessment": "Returning to warn those who threw him out shows a willingness to protect and care despite past rejection, indicating a good-natured and trustworthy character.",
+      "rating": 3,
+      "chunk": 23
+    },
+    {
+      "trait": "warmth",
+      "action": "Refuses to talk to the Mayor or Joe about the boy's dangerous mission, expressing skepticism that they would believe him.",
+      "assessment": "This reluctance to engage with others to help the boy suggests a lack of trust or hope in others, which may reflect a guarded or pessimistic attitude, reducing perceived warmth.",
+      "rating": -1,
+      "chunk": 23
+    },
+    {
+      "trait": "warmth",
+      "action": "Acknowledges that even Sally wouldn't tell others he was truthful.",
+      "assessment": "This admission reveals feelings of isolation and mistrust, indicating that Sam feels misunderstood and possibly alienated, which negatively impacts perceptions of warmth.",
+      "rating": -1,
+      "chunk": 23
+    },
+    {
+      "trait": "warmth",
+      "action": "Engages in conversation with Pedro-Peter about the boy's fate and the situation.",
+      "assessment": "Sam's willingness to discuss concerns and consider others' opinions shows openness and a degree of tolerance and sincerity.",
+      "rating": 1,
+      "chunk": 23
+    },
+    {
+      "trait": "competence",
+      "action": "Sam opens the door and starts outside after Sally turns off the light and exits, despite her telling him to leave and lock up.",
+      "assessment": "This shows a degree of assertiveness and willingness to act despite opposition, indicating some confidence and decisiveness.",
+      "rating": 1,
+      "chunk": 23
+    },
+    {
+      "trait": "competence",
+      "action": "Sam stops and looks about cautiously when coming out of the cafe, showing awareness of his surroundings.",
+      "assessment": "This suggests situational awareness and prudence, traits associated with competence.",
+      "rating": 2,
+      "chunk": 23
+    },
+    {
+      "trait": "competence",
+      "action": "Sam questions Pedro-Peter about the boy's chances to make it to the Fort and considers talking to the Mayor.",
+      "assessment": "This indicates strategic thinking and concern for the mission's success, reflecting intelligence and planning ability.",
+      "rating": 2,
+      "chunk": 23
+    },
+    {
+      "trait": "competence",
+      "action": "Sam dismisses the idea of talking to the Mayor, stating 'There's no sense in talking to the Mayor' and expressing skepticism about being believed.",
+      "assessment": "This shows realistic judgment about political or social obstacles, but also a certain defeatism or lack of initiative to overcome them, which slightly detracts from competence.",
+      "rating": 0,
+      "chunk": 23
+    },
+    {
+      "trait": "competence",
+      "action": "Sam acknowledges that even Sally wouldn't tell others he was truthful.",
+      "assessment": "This reveals a lack of trust and possibly poor communication or reputation management, which undermines his effectiveness and perceived competence.",
+      "rating": -1,
+      "chunk": 23
+    },
+    {
+      "trait": "warmth",
+      "action": "Offers Pedro-Peter a beer despite the law forbidding giving liquor to Indians.",
+      "assessment": "Sam shows a friendly and inclusive attitude by trying to share a drink with Pedro-Peter, signaling trust and a desire to bridge cultural divides.",
+      "rating": 2,
+      "chunk": 26
+    },
+    {
+      "trait": "warmth",
+      "action": "Insists Pedro-Peter come in and get a beer despite the local taboo about touching things related to the dead.",
+      "assessment": "Sam demonstrates tolerance and a willingness to challenge social barriers to help Pedro-Peter, indicating good-natured behavior.",
+      "rating": 2,
+      "chunk": 26
+    },
+    {
+      "trait": "warmth",
+      "action": "Gives his own mug of beer to Pedro-Peter when Pedro-Peter refuses to sit by him.",
+      "assessment": "This act of generosity and solidarity shows Sam’s sincerity and kindness, reinforcing his warmth.",
+      "rating": 3,
+      "chunk": 26
+    },
+    {
+      "trait": "warmth",
+      "action": "Looks defiantly at the men watching him as he shares beer with Pedro-Peter.",
+      "assessment": "Sam’s defiance in the face of social disapproval suggests loyalty and protective warmth toward Pedro-Peter.",
+      "rating": 2,
+      "chunk": 26
+    },
+    {
+      "trait": "competence",
+      "action": "Engages Pedro-Peter in conversation about the Apache law and water contamination, showing cultural awareness and attempts to build rapport.",
+      "assessment": "This indicates Sam's social intelligence and situational awareness, as he navigates cultural sensitivities to gain trust.",
+      "rating": 2,
+      "chunk": 26
+    },
+    {
+      "trait": "competence",
+      "action": "Offers to get Pedro-Peter a beer despite the law forbidding alcohol to Indians, and then gives his own beer to Pedro-Peter when he refuses to sit by him.",
+      "assessment": "This shows Sam's confidence and willingness to challenge social norms to support an ally, demonstrating interpersonal skill and boldness.",
+      "rating": 2,
+      "chunk": 26
+    },
+    {
+      "trait": "competence",
+      "action": "Looks defiantly at the men watching him after giving his beer to Pedro-Peter.",
+      "assessment": "This suggests Sam's assertiveness and courage in the face of social pressure, reflecting strong personal confidence.",
+      "rating": 2,
+      "chunk": 26
+    },
+    {
+      "trait": "competence",
+      "action": "Does not attempt to physically confront or escalate the situation with the men at the table despite their disapproval.",
+      "assessment": "This restraint may indicate prudence and emotional control, avoiding unnecessary conflict, which is a competent social strategy.",
+      "rating": 1,
+      "chunk": 26
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses frustration that the Mayor delayed making a decision about getting water for the kids and women, saying 'That was a decision he could have made last night.'",
+      "assessment": "Sam shows concern for the welfare of the community, indicating a protective and responsible attitude, which is a positive indicator of warmth.",
+      "rating": 2,
+      "chunk": 27
+    },
+    {
+      "trait": "warmth",
+      "action": "Challenges the men’s passivity by saying, 'If there were ten real men here,...' implying a call to action.",
+      "assessment": "While his words suggest a desire for proactive help, the phrasing could be seen as confrontational or harsh, potentially alienating others rather than encouraging cooperation, which tempers the warmth of this action.",
+      "rating": 0,
+      "chunk": 27
+    },
+    {
+      "trait": "competence",
+      "action": "Criticizes the Mayor's decision to wait for the patrol instead of acting immediately to get water.",
+      "assessment": "Sam's challenge to the decision shows he is assertive and willing to question leadership, indicating confidence and a proactive mindset, which are positive competence indicators.",
+      "rating": 2,
+      "chunk": 27
+    },
+    {
+      "trait": "competence",
+      "action": "Expresses frustration that more men are not stepping up to take action.",
+      "assessment": "This suggests Sam values initiative and responsibility, implying he expects and possibly embodies capable leadership, a positive sign of competence.",
+      "rating": 2,
+      "chunk": 27
+    },
+    {
+      "trait": "competence",
+      "action": "Does not volunteer himself to go get water despite criticizing others for inaction.",
+      "assessment": "This omission undermines his verbal criticism and suggests a gap between his words and actions, indicating a lack of follow-through and lowering his competence rating.",
+      "rating": -2,
+      "chunk": 27
+    },
+    {
+      "trait": "warmth",
+      "action": "Volunteers to take men out for water to prevent women and children from going thirsty.",
+      "assessment": "Volunteering to risk his safety to secure water for vulnerable community members shows concern and protective instincts, indicating warmth.",
+      "rating": 3,
+      "chunk": 28
+    },
+    {
+      "trait": "warmth",
+      "action": "Encourages others to join him in the water-fetching party.",
+      "assessment": "By rallying others to help, he demonstrates leadership and a communal spirit, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 28
+    },
+    {
+      "trait": "warmth",
+      "action": "Dismisses Griffin's objections and insists on going despite the danger.",
+      "assessment": "While his determination is admirable, his dismissal of others' concerns may suggest a lack of tolerance for differing opinions, slightly reducing perceived warmth.",
+      "rating": -1,
+      "chunk": 28
+    },
+    {
+      "trait": "warmth",
+      "action": "Responds flippantly to Sally's accusations and leaves abruptly.",
+      "assessment": "His flippant attitude and avoidance of a serious conversation with Sally, who challenges his motives, indicate a lack of sincerity and emotional openness, which detracts from warmth.",
+      "rating": -2,
+      "chunk": 28
+    },
+    {
+      "trait": "competence",
+      "action": "Volunteers to take men out for water despite the danger.",
+      "assessment": "This action shows initiative, willingness to take responsibility, and concern for the welfare of others, indicating a level of practical competence and leadership.",
+      "rating": 2,
+      "chunk": 28
+    },
+    {
+      "trait": "competence",
+      "action": "Organizes a small party quickly and gets them ready to leave.",
+      "assessment": "Demonstrates decisiveness and ability to mobilize resources efficiently, reflecting competent leadership and organizational skills.",
+      "rating": 2,
+      "chunk": 28
+    },
+    {
+      "trait": "competence",
+      "action": "Responds to Griffin's accusation that he has no right to act by proceeding anyway.",
+      "assessment": "Shows confidence and assertiveness, but also a potential disregard for authority or protocol, which could be seen as either competent decisiveness or reckless overconfidence depending on context.",
+      "rating": 1,
+      "chunk": 28
+    },
+    {
+      "trait": "competence",
+      "action": "Dismisses concerns about danger and focuses on the practical goal of getting water.",
+      "assessment": "Indicates a clear focus on mission objectives and practical problem-solving, a positive indicator of competence.",
+      "rating": 2,
+      "chunk": 28
+    },
+    {
+      "trait": "competence",
+      "action": "Flippant and somewhat dismissive in conversation with Sally.",
+      "assessment": "This attitude may undermine his credibility and suggests a lack of emotional intelligence or social tact, which can detract from overall competence.",
+      "rating": -1,
+      "chunk": 28
+    },
+    {
+      "trait": "competence",
+      "action": "Does not engage deeply with Sally's accusations or concerns about his motives.",
+      "assessment": "Avoiding confrontation or deeper reflection here may indicate a lack of self-awareness or unwillingness to address criticism, a mild negative indicator of competence.",
+      "rating": -1,
+      "chunk": 28
+    },
+    {
+      "trait": "warmth",
+      "action": "Sam insists on going to Boyd Canyon to get water for the women and kids despite the danger.",
+      "assessment": "Sam shows concern for the needs of vulnerable group members (women and kids), indicating a protective and caring attitude.",
+      "rating": 2,
+      "chunk": 29
+    },
+    {
+      "trait": "warmth",
+      "action": "Sam sneers while riding ahead of the wagon and appears smug during the confrontation with Joe.",
+      "assessment": "The sneer and smugness suggest a lack of humility and friendliness, which detracts from warmth and may indicate arrogance or hostility.",
+      "rating": -1,
+      "chunk": 29
+    },
+    {
+      "trait": "warmth",
+      "action": "Sam tells Joe that their minds are made up despite Joe's warning about the danger.",
+      "assessment": "This shows determination but also a certain stubbornness and unwillingness to consider others' advice, which may reduce perceived tolerance and openness.",
+      "rating": -1,
+      "chunk": 29
+    },
+    {
+      "trait": "competence",
+      "action": "Rides ahead of the wagon down the street, taking a leading position.",
+      "assessment": "Taking the lead position suggests confidence and a willingness to take charge, indicating a competent and assertive demeanor.",
+      "rating": 2,
+      "chunk": 29
+    },
+    {
+      "trait": "competence",
+      "action": "Sneers while mounted, showing a smug attitude during a tense negotiation.",
+      "assessment": "The smugness may reflect overconfidence or arrogance, which can undermine effective leadership and decision-making, suggesting a potential flaw in emotional intelligence.",
+      "rating": -1,
+      "chunk": 29
+    },
+    {
+      "trait": "competence",
+      "action": "States that they want water for the women and kids despite the risks involved.",
+      "assessment": "This shows a practical and empathetic approach, prioritizing the needs of vulnerable group members, which reflects sound judgment and responsibility.",
+      "rating": 2,
+      "chunk": 29
+    },
+    {
+      "trait": "competence",
+      "action": "Acknowledges that Joe predicted their response, indicating awareness of the opponent's mindset.",
+      "assessment": "Demonstrates strategic thinking and preparation, which are positive indicators of competence.",
+      "rating": 2,
+      "chunk": 29
+    },
+    {
+      "trait": "competence",
+      "action": "Maintains the group's resolve despite Joe's warnings about danger.",
+      "assessment": "Shows determination and leadership in maintaining group morale, but may also suggest stubbornness or risk-taking without fully weighing consequences.",
+      "rating": 1,
+      "chunk": 29
+    },
+    {
+      "trait": "warmth",
+      "action": "Tells the men to 'Take a good drink, boys. Then we'll fill the barrels.'",
+      "assessment": "Encouraging the men to hydrate before continuing work shows a considerate and caring attitude toward their well-being.",
+      "rating": 2,
+      "chunk": 31
+    },
+    {
+      "trait": "warmth",
+      "action": "Gives instructions to other men to fill the barrels while keeping a sharp eye out for danger.",
+      "assessment": "Sam demonstrates leadership and concern for safety, balancing task focus with vigilance, which reflects responsibility and care for others.",
+      "rating": 2,
+      "chunk": 31
+    },
+    {
+      "trait": "warmth",
+      "action": "Responds to Griffin's warning about Indians with a somewhat dismissive comment: 'They must be lookin' the other way, eh?'",
+      "assessment": "This response may indicate a casual or slightly cavalier attitude toward potential danger, which could suggest a lack of full seriousness or empathy for the risks others face.",
+      "rating": -1,
+      "chunk": 31
+    },
+    {
+      "trait": "warmth",
+      "action": "Laughs and boasts about going out to get water when the Mayor was too scared to leave town.",
+      "assessment": "Boasting about personal courage in contrast to others' fear shows confidence but lacks clear warmth or friendliness toward others.",
+      "rating": 0,
+      "chunk": 33
+    },
+    {
+      "trait": "warmth",
+      "action": "Jokes with Reverend Griffin about not being an honest man.",
+      "assessment": "Engaging in light banter suggests a friendly and open demeanor, indicating some level of warmth and sincerity.",
+      "rating": 1,
+      "chunk": 33
+    },
+    {
+      "trait": "warmth",
+      "action": "Shouts commands to whip the horses upon spotting Apaches approaching.",
+      "assessment": "Taking charge in a tense situation shows responsibility and protectiveness, which can be seen as a form of care for the group, reflecting some warmth.",
+      "rating": 2,
+      "chunk": 33
+    },
+    {
+      "trait": "competence",
+      "action": "Boasts about easily getting water when the Mayor was too scared to leave town.",
+      "assessment": "This action suggests Sam is confident and willing to take initiative where others hesitate, indicating a degree of practical capability and courage.",
+      "rating": 2,
+      "chunk": 33
+    },
+    {
+      "trait": "competence",
+      "action": "Turns head quickly to the rear upon hearing a shout warning of Apaches.",
+      "assessment": "This shows alertness and situational awareness, important aspects of competence in a dangerous environment.",
+      "rating": 2,
+      "chunk": 33
+    },
+    {
+      "trait": "competence",
+      "action": "Shouts commands to whip the horses and turns his horse toward the threat.",
+      "assessment": "Taking immediate action and issuing commands under threat demonstrates leadership, decisiveness, and confidence, all positive indicators of competence.",
+      "rating": 3,
+      "chunk": 33
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in lighthearted banter and boasts despite the serious situation.",
+      "assessment": "While this may show confidence, it could also suggest a lack of seriousness or focus in a critical moment, slightly detracting from perceived competence.",
+      "rating": -1,
+      "chunk": 33
+    },
+    {
+      "trait": "warmth",
+      "action": "Shouts commands to urge horses to move faster and tries to rally others during the Apache attack.",
+      "assessment": "Sam's behavior here is focused on survival and defense rather than interpersonal warmth; his urgency and command reflect leadership under pressure but do not indicate warmth or friendliness.",
+      "rating": 0,
+      "chunk": 34
+    },
+    {
+      "trait": "warmth",
+      "action": "After being thrown from his horse, quickly recovers, picks up his gun, and joins Griffin to defend against the attacking Indians.",
+      "assessment": "Sam's quick recovery and cooperation with Griffin show responsibility and teamwork, but these actions are driven by necessity and self-preservation rather than warmth or benevolence.",
+      "rating": 0,
+      "chunk": 34
+    },
+    {
+      "trait": "warmth",
+      "action": "Aims and fires at attacking Indians alongside Griffin.",
+      "assessment": "Engaging in combat is a defensive act; while it may show courage and loyalty to his group, it does not provide evidence of warmth in terms of being good-natured or friendly.",
+      "rating": 0,
+      "chunk": 34
+    },
+    {
+      "trait": "competence",
+      "action": "Sam's horse steps in a hole and he is thrown off.",
+      "assessment": "Being thrown off the horse suggests a momentary lapse in control or situational awareness, indicating a slight lack of coordination or preparedness in this instance.",
+      "rating": -1,
+      "chunk": 34
+    },
+    {
+      "trait": "competence",
+      "action": "Quickly gets up, runs to a clump of bushes, picks up his gun, and rushes forward to take cover and aim at the approaching Indians.",
+      "assessment": "This sequence shows Sam's ability to recover quickly from a fall, maintain situational awareness, and respond decisively under pressure, reflecting good competence in a combat scenario.",
+      "rating": 2,
+      "chunk": 34
+    },
+    {
+      "trait": "competence",
+      "action": "Leaps into a small depression and aims his gun forward as the enemy approaches.",
+      "assessment": "Taking cover effectively and preparing to engage the enemy demonstrates tactical skill and presence of mind, indicating competent combat behavior.",
+      "rating": 2,
+      "chunk": 34
+    },
+    {
+      "trait": "competence",
+      "action": "Fires at the approaching Indians alongside Griffin, successfully shooting one off his horse.",
+      "assessment": "Successfully engaging the enemy and contributing to their defense shows effective marksmanship and combat capability, reinforcing his competence.",
+      "rating": 3,
+      "chunk": 34
+    },
+    {
+      "trait": "warmth",
+      "action": "Engages in a gunfight with the Indians, firing repeatedly while pursuing them.",
+      "assessment": "Sam's actions here are aggressive and combative, showing a focus on survival and conflict rather than warmth or friendliness.",
+      "rating": -1,
+      "chunk": 35
+    },
+    {
+      "trait": "warmth",
+      "action": "Communicates with Griffin about remaining bullets and coordinates firing.",
+      "assessment": "This shows practical cooperation and trust with a companion, indicating some degree of reliability and teamwork.",
+      "rating": 1,
+      "chunk": 35
+    },
+    {
+      "trait": "warmth",
+      "action": "Prepares to shoot but is stopped by Griffin who suggests aiming at the chief.",
+      "assessment": "Sam is willing to listen to Griffin's advice, showing openness and respect for others' input, which can be seen as a mild positive indicator of warmth.",
+      "rating": 1,
+      "chunk": 35
+    },
+    {
+      "trait": "competence",
+      "action": "Firing guns repeatedly at the Indians while riding hard in pursuit.",
+      "assessment": "This shows Sam's ability to maintain focus and use his weapon effectively under pressure and while in motion, indicating solid combat skills and composure.",
+      "rating": 2,
+      "chunk": 35
+    },
+    {
+      "trait": "competence",
+      "action": "Communicates remaining ammunition by saying 'Three shots left, How's it with you?'",
+      "assessment": "This demonstrates situational awareness and clear communication with his partner, which are important for coordinated action and survival.",
+      "rating": 2,
+      "chunk": 35
+    },
+    {
+      "trait": "competence",
+      "action": "Aims off and fires when bullets strike the dirt near them.",
+      "assessment": "Shows quick reflexes and tactical thinking to avoid wasting shots and to maintain safety while engaging enemies.",
+      "rating": 2,
+      "chunk": 35
+    },
+    {
+      "trait": "competence",
+      "action": "Starts to shoot but is stopped by Griffin who advises to hold fire and aim at the chief.",
+      "assessment": "While Sam is ready to act decisively, his willingness to listen to Griffin's advice suggests he is not impulsive and values teamwork, reflecting competent judgment.",
+      "rating": 1,
+      "chunk": 35
+    },
+    {
+      "trait": "warmth",
+      "action": "Shoots and wounds the Indian chief during a confrontation.",
+      "assessment": "Sam's action is aggressive and violent, reflecting a survival or combat mindset rather than warmth. It shows decisiveness but little indication of friendliness or tolerance.",
+      "rating": -1,
+      "chunk": 36
+    },
+    {
+      "trait": "warmth",
+      "action": "Looks sharply at Griffin and engages in a brief exchange about the incident.",
+      "assessment": "Sam's interaction with Griffin is pragmatic and somewhat dry, lacking warmth or emotional connection, but not hostile either.",
+      "rating": 0,
+      "chunk": 36
+    },
+    {
+      "trait": "warmth",
+      "action": "Stands and looks off toward the Indians wailing mournfully after the chief is shot.",
+      "assessment": "Sam's observation of the Indians' mourning suggests some awareness of the consequences of his actions, but there is no explicit empathy or expressed remorse.",
+      "rating": 0,
+      "chunk": 36
+    },
+    {
+      "trait": "warmth",
+      "action": "Helps the older man, Griffin, to his feet after he starts to get up.",
+      "assessment": "Helping someone physically in a moment of weakness shows a basic level of kindness and consideration.",
+      "rating": 2,
+      "chunk": 37
+    },
+    {
+      "trait": "warmth",
+      "action": "Offers to shake hands with Griffin.",
+      "assessment": "Extending a hand in greeting or reconciliation is a friendly and sincere gesture, indicating openness.",
+      "rating": 2,
+      "chunk": 37
+    },
+    {
+      "trait": "warmth",
+      "action": "Acknowledges his own flaws openly: admits to gambling, drinking, and killing a man in self-defense.",
+      "assessment": "This honesty about his rough nature suggests a degree of sincerity and self-awareness, which can be a positive aspect of warmth.",
+      "rating": 1,
+      "chunk": 37
+    },
+    {
+      "trait": "warmth",
+      "action": "Says to Griffin, 'Thanks for staying. I might not have gotten out of it alone.'",
+      "assessment": "Expressing gratitude and acknowledging others' support reflects trustworthiness and appreciation.",
+      "rating": 2,
+      "chunk": 37
+    },
+    {
+      "trait": "warmth",
+      "action": "Responds to Griffin's criticism with hostility and refuses to engage in a meaningful discussion, saying he won't waste words on the desert.",
+      "assessment": "This avoidance and dismissiveness toward criticism, especially about his character and relationships, shows defensiveness and a lack of tolerance or openness.",
+      "rating": -2,
+      "chunk": 37
+    },
+    {
+      "trait": "warmth",
+      "action": "Mocks those who work and is accused of caring nothing for his fellow men.",
+      "assessment": "This attitude indicates a lack of empathy and friendliness, which negatively impacts perceptions of warmth.",
+      "rating": -3,
+      "chunk": 37
+    },
+    {
+      "trait": "competence",
+      "action": "Helps the older man, Griffin, to his feet despite Griffin initially pushing his hand away.",
+      "assessment": "This action shows Sam's physical capability and willingness to assist others even when not immediately welcomed, indicating practical competence and emotional resilience.",
+      "rating": 2,
+      "chunk": 37
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in candid conversation with Griffin, acknowledging his own flaws (gambling, drinking, killing in self-defense) and the harshness of the environment.",
+      "assessment": "Sam demonstrates self-awareness and realistic understanding of his circumstances, which reflects mental competence and confidence in facing difficult truths.",
+      "rating": 2,
+      "chunk": 37
+    },
+    {
+      "trait": "competence",
+      "action": "Offers to take a rest when noticing Griffin's fatigue.",
+      "assessment": "Shows situational awareness and practical judgment, indicating competent leadership and care for companions.",
+      "rating": 2,
+      "chunk": 37
+    },
+    {
+      "trait": "competence",
+      "action": "Responds to Griffin's moral criticism with defiance but chooses not to escalate the argument, saying he won't waste words on the desert.",
+      "assessment": "This suggests emotional control and strategic restraint, which are signs of competence in managing interpersonal conflict.",
+      "rating": 2,
+      "chunk": 37
+    },
+    {
+      "trait": "competence",
+      "action": "Does not respond to Griffin's accusations about his character and lifestyle with detailed defense or justification.",
+      "assessment": "While this could be seen as emotional maturity, it might also indicate a missed opportunity to clarify or improve his standing, reflecting a slight lack of social or diplomatic competence.",
+      "rating": -1,
+      "chunk": 37
+    },
+    {
+      "trait": "warmth",
+      "action": "Admits to Griffin that he never really cared about the town needing water and that he wanted to show off to Sally and make a fool out of Joe, expressing regret and wishing he could tell Sally he was wrong about many things.",
+      "assessment": "This admission reveals Sam's self-awareness, sincerity, and remorse, indicating a capacity for honesty and emotional openness, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 38
+    },
+    {
+      "trait": "warmth",
+      "action": "Engages in a candid conversation with Griffin about their dire situation and his own motivations.",
+      "assessment": "Sam's willingness to speak openly and reflect on his faults in a vulnerable moment suggests a degree of trustworthiness and sincerity, contributing positively to his warmth.",
+      "rating": 2,
+      "chunk": 38
+    },
+    {
+      "trait": "warmth",
+      "action": "Shows bitterness and frustration about their lack of protection and the harshness of their environment.",
+      "assessment": "While this bitterness reflects a negative emotional state, it is understandable given the circumstances and does not necessarily detract from warmth; it shows human vulnerability.",
+      "rating": 0,
+      "chunk": 38
+    },
+    {
+      "trait": "competence",
+      "action": "Sam looks around cautiously when horsemen approach, discussing the threat with Griffin and showing awareness of their dangerous situation.",
+      "assessment": "This indicates situational awareness and an ability to assess threats, reflecting competent and alert behavior in a hostile environment.",
+      "rating": 2,
+      "chunk": 38
+    },
+    {
+      "trait": "competence",
+      "action": "Sam admits to Griffin that he never really cared about the town needing water and was motivated by personal pride to impress Sally and make a fool of Joe.",
+      "assessment": "This self-reflection reveals a lack of prior judgment and misplaced priorities, suggesting a previous lapse in competence related to decision-making and motivation.",
+      "rating": -1,
+      "chunk": 38
+    },
+    {
+      "trait": "competence",
+      "action": "Sam expresses regret and wishes he could admit he was wrong about many things.",
+      "assessment": "While this shows emotional insight and humility, it also implies past mistakes and errors in judgment, indicating some prior incompetence or poor choices.",
+      "rating": -1,
+      "chunk": 38
+    },
+    {
+      "trait": "warmth",
+      "action": "Sam hugs Griffin happily upon seeing soldiers arrive.",
+      "assessment": "The hug and shared happiness indicate a friendly and affectionate nature toward Griffin, showing warmth and camaraderie.",
+      "rating": 2,
+      "chunk": 39
+    },
+    {
+      "trait": "warmth",
+      "action": "Sam accepts water from soldiers and shares it with Griffin.",
+      "assessment": "Sharing water in a tense situation reflects trust, generosity, and consideration for others' well-being.",
+      "rating": 2,
+      "chunk": 39
+    },
+    {
+      "trait": "warmth",
+      "action": "Sam drinks water quietly and listens to the soldiers' information.",
+      "assessment": "Sam's calm and attentive behavior suggests respect and openness, which are positive social traits related to warmth.",
+      "rating": 1,
+      "chunk": 39
+    },
+    {
+      "trait": "competence",
+      "action": "Stays behind to fight a rear guard action against a large party of Apaches, allowing others to escape.",
+      "assessment": "This action demonstrates bravery and tactical awareness, indicating a willingness to take responsibility in a dangerous situation, which reflects competence.",
+      "rating": 2,
+      "chunk": 39
+    },
+    {
+      "trait": "competence",
+      "action": "Accurately estimates the number of enemy combatants (about thirty).",
+      "assessment": "This shows observational skills and situational awareness, important aspects of competence in a conflict scenario.",
+      "rating": 2,
+      "chunk": 39
+    },
+    {
+      "trait": "competence",
+      "action": "Drinks water calmly after the fight and communicates clearly with soldiers and Griffin.",
+      "assessment": "Maintaining composure and clear communication after a stressful event suggests emotional control and social competence.",
+      "rating": 1,
+      "chunk": 39
+    },
+    {
+      "trait": "competence",
+      "action": "Sam shot the chief during the rear guard action.",
+      "assessment": "Successfully neutralizing a key enemy figure indicates marksmanship and combat effectiveness, strong indicators of competence.",
+      "rating": 3,
+      "chunk": 39
+    },
+    {
+      "trait": "competence",
+      "action": "Expresses regret about wanting to show off and make a fool of Joe, admitting he was wrong.",
+      "assessment": "While this shows self-awareness and humility, it also reveals that some of his earlier actions were motivated by ego rather than sound judgment, which slightly detracts from his overall competence.",
+      "rating": -1,
+      "chunk": 39
+    },
+    {
+      "trait": "warmth",
+      "action": "Bought Pedro-Peter a beer because he was thirsty and the water was polluted.",
+      "assessment": "Providing a drink to someone in need, especially when the water is unsafe, shows a considerate and caring attitude.",
+      "rating": 2,
+      "chunk": 40
+    },
+    {
+      "trait": "warmth",
+      "action": "Disagreed with Joe's harsh judgment of the man who stayed behind to fight, saying 'I don't figure it that way, Joe.'",
+      "assessment": "Sam shows empathy and a more understanding perspective towards the man's actions, indicating tolerance and fairness.",
+      "rating": 2,
+      "chunk": 40
+    },
+    {
+      "trait": "warmth",
+      "action": "Faced charges from Joe for giving liquor to an Indian but defended his action calmly.",
+      "assessment": "Sam's calm defense suggests sincerity and a straightforward nature, though the situation also reflects a potential lack of awareness of the broader implications of his actions.",
+      "rating": 1,
+      "chunk": 40
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in a discussion about the safety of the town and the killing of Victorio, showing awareness of the situation.",
+      "assessment": "Sam demonstrates situational awareness and understanding of the significance of Victorio's death, indicating a competent grasp of local dynamics.",
+      "rating": 2,
+      "chunk": 40
+    },
+    {
+      "trait": "competence",
+      "action": "Protests against Joe's characterization of his actions, specifically disputing the claim that he disobeyed orders and risked lives.",
+      "assessment": "Sam shows confidence in defending his decisions, suggesting a level of self-assurance and understanding of his own actions, which is a positive indicator of competence.",
+      "rating": 2,
+      "chunk": 40
+    },
+    {
+      "trait": "competence",
+      "action": "Admits to buying liquor (a beer) for an Indian, Pedro-Peter, despite it being against regulations.",
+      "assessment": "This action reflects a lapse in judgment or disregard for rules, which negatively impacts his perceived competence, especially in a leadership or official capacity.",
+      "rating": -1,
+      "chunk": 40
+    },
+    {
+      "trait": "competence",
+      "action": "Justifies giving beer to Pedro-Peter by citing the polluted water as reason for the man's thirst.",
+      "assessment": "While showing empathy and practical reasoning, this justification may also indicate a tendency to bend rules, which can be seen as both pragmatic and potentially unprofessional.",
+      "rating": 0,
+      "chunk": 40
+    },
+    {
+      "trait": "warmth",
+      "action": "Griffin defends Sam to Joe, emphasizing their shared experiences and the good in Sam that will help the town.",
+      "assessment": "Although this is Griffin's statement, it reflects positively on Sam's character as someone who has demonstrated good qualities and loyalty in difficult situations, suggesting underlying warmth.",
+      "rating": 2,
+      "chunk": 41
+    },
+    {
+      "trait": "warmth",
+      "action": "Sam accepts his arrest calmly, saying 'It's all right, Reverend. I probably have it coming to me.'",
+      "assessment": "Sam's acceptance of consequences without complaint or bitterness shows a level of sincerity and responsibility, indicating a respectful and trustworthy nature.",
+      "rating": 2,
+      "chunk": 41
+    },
+    {
+      "trait": "warmth",
+      "action": "Sam is handcuffed at the bar, smoking a cigarette and looking off thoughtfully.",
+      "assessment": "This action is neutral regarding warmth; it neither shows warmth nor coldness explicitly, but the calm demeanor may suggest composure rather than hostility.",
+      "rating": 0,
+      "chunk": 41
+    },
+    {
+      "trait": "competence",
+      "action": "Accepts arrest calmly and acknowledges he probably has it coming to him.",
+      "assessment": "Sam's calm acceptance of arrest and recognition of his own fault shows emotional intelligence and a composed demeanor, indicating a level of maturity and self-awareness consistent with competence.",
+      "rating": 2,
+      "chunk": 41
+    },
+    {
+      "trait": "competence",
+      "action": "Leans into the scene to puff at a cigarette while handcuffed, then straightens and looks off thoughtfully.",
+      "assessment": "This behavior suggests a composed and unflustered attitude even in a vulnerable position, reflecting confidence and mental steadiness, which are positive indicators of competence.",
+      "rating": 2,
+      "chunk": 41
+    },
+    {
+      "trait": "competence",
+      "action": "Griffin defends Sam by emphasizing their shared experience in battle and his belief in Sam's good character.",
+      "assessment": "While this is not a direct action by Sam, the fact that a respected figure vouches for his character and capability implies that Sam has demonstrated competence in past situations.",
+      "rating": 1,
+      "chunk": 41
+    },
+    {
+      "trait": "competence",
+      "action": "No direct resistance or argument against the arrest despite the serious consequences.",
+      "assessment": "Sam's lack of protest could be interpreted as either acceptance or resignation; while it shows composure, it might also suggest passivity or lack of assertiveness in defending himself, which could be a slight negative indicator.",
+      "rating": -1,
+      "chunk": 41
+    },
+    {
+      "trait": "warmth",
+      "action": "Accepts a farewell drink from Sally, who offers it as a kind gesture before he is taken away.",
+      "assessment": "Sam's acceptance of Sally's kindness shows his openness to friendly gestures and his appreciation of sincere goodwill.",
+      "rating": 2,
+      "chunk": 42
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses regret about having 'cheated all his life' and wanting to 'do right' now.",
+      "assessment": "This admission reveals a sincere and reflective side of Sam, indicating a desire to improve and be trustworthy, which is a positive indicator of warmth.",
+      "rating": 3,
+      "chunk": 42
+    },
+    {
+      "trait": "warmth",
+      "action": "Mentions that he was arrested 'for a kindness' he tried to do.",
+      "assessment": "This suggests Sam is capable of benevolent actions and good intentions, reinforcing his warm nature despite unfortunate circumstances.",
+      "rating": 3,
+      "chunk": 42
+    },
+    {
+      "trait": "warmth",
+      "action": "Tells Sally that it is important she believes he will try to be better, so she will wait for him.",
+      "assessment": "This shows Sam's trust in Sally and his hope for a continued sincere relationship, reflecting his friendly and sincere qualities.",
+      "rating": 3,
+      "chunk": 42
+    },
+    {
+      "trait": "competence",
+      "action": "Sam is handcuffed to a bar rail but remains calm and engages in a serious conversation with Sally, drinking the farewell drink she offers.",
+      "assessment": "Despite being restrained and in a difficult situation, Sam maintains composure and communicates clearly, indicating emotional resilience and mental clarity.",
+      "rating": 1,
+      "chunk": 42
+    },
+    {
+      "trait": "competence",
+      "action": "Sam reflects on his life, admitting he has cheated but now wants to do right, showing self-awareness and a desire for change.",
+      "assessment": "This introspection shows emotional intelligence and a capacity for personal growth, which are components of competence, though it does not directly demonstrate skill or confidence in action.",
+      "rating": 1,
+      "chunk": 42
+    },
+    {
+      "trait": "competence",
+      "action": "Sam tries to convince Sally to believe in his intentions and to wait for him after his release.",
+      "assessment": "This shows Sam's ability to communicate important personal goals and to seek support, reflecting some confidence and clarity in his purpose.",
+      "rating": 1,
+      "chunk": 42
+    },
+    {
+      "trait": "competence",
+      "action": "Sam is handcuffed and under guard but does not attempt escape or resist.",
+      "assessment": "While this could indicate prudence or acceptance of circumstances, it might also suggest passivity or lack of initiative in a critical moment, which could be seen as a negative indicator of competence.",
+      "rating": -1,
+      "chunk": 42
+    },
+    {
+      "trait": "warmth",
+      "action": "Urges Sally to run away for her own safety despite his own peril.",
+      "assessment": "Sam shows concern for Sally's well-being, prioritizing her safety over his own, which reflects care and protective warmth.",
+      "rating": 2,
+      "chunk": 44
+    },
+    {
+      "trait": "warmth",
+      "action": "Struggles to free himself and urges Sally to escape while she refuses to leave him.",
+      "assessment": "Sam's insistence that Sally leave him demonstrates his selflessness and desire to protect others, indicating a sincere and trustworthy nature.",
+      "rating": 2,
+      "chunk": 44
+    },
+    {
+      "trait": "competence",
+      "action": "Strives to free himself from the bar rail while urging Sally to run for safety.",
+      "assessment": "Sam demonstrates situational awareness and concern for others' safety, showing presence of mind under pressure, which indicates a moderate level of competence.",
+      "rating": 2,
+      "chunk": 44
+    },
+    {
+      "trait": "competence",
+      "action": "Urges Sally repeatedly to run away despite her refusal.",
+      "assessment": "Sam shows leadership and decisiveness by prioritizing survival and attempting to influence others to act rationally, reflecting competent judgment.",
+      "rating": 2,
+      "chunk": 44
+    },
+    {
+      "trait": "competence",
+      "action": "Remains physically trapped at the bar rail while the attack unfolds.",
+      "assessment": "Being physically restrained limits Sam's ability to act effectively in the crisis, suggesting a lack of preparedness or situational control, which detracts from his competence.",
+      "rating": -1,
+      "chunk": 44
+    },
+    {
+      "trait": "competence",
+      "action": "Does not attempt alternative escape methods or call for help beyond urging Sally to run.",
+      "assessment": "Sam's failure to explore other options or take further action to free himself or defend against the attack indicates a possible shortfall in resourcefulness or adaptability.",
+      "rating": -1,
+      "chunk": 44
+    },
+    {
+      "trait": "warmth",
+      "action": "Works with Sally to free his handcuffed hands using the barrel of a gun as a lever.",
+      "assessment": "Collaborating with Sally in a tense situation shows trust and cooperative spirit, indicating a degree of warmth and reliance on others.",
+      "rating": 2,
+      "chunk": 45
+    },
+    {
+      "trait": "warmth",
+      "action": "Dashes out of the saloon to assess the situation and then returns to help Sally escape.",
+      "assessment": "His quick action to protect and assist Sally suggests concern and protective instincts, reflecting positive warmth.",
+      "rating": 2,
+      "chunk": 45
+    },
+    {
+      "trait": "warmth",
+      "action": "Tosses down a gun and picks up a piece of rail to use as a weapon alongside Sally.",
+      "assessment": "Choosing a less lethal weapon initially (tossing down the gun) may indicate restraint and a preference to avoid unnecessary harm, which can be seen as a warm, considerate behavior.",
+      "rating": 1,
+      "chunk": 45
+    },
+    {
+      "trait": "competence",
+      "action": "Uses the barrel of a gun as a lever to break his handcuffed hands free from the rail.",
+      "assessment": "This action demonstrates resourcefulness and quick thinking under pressure, indicating practical problem-solving skills.",
+      "rating": 2,
+      "chunk": 45
+    },
+    {
+      "trait": "competence",
+      "action": "Dashes out of the saloon with shackled hands still cuffed together, then quickly picks up a piece of rail to use as a weapon.",
+      "assessment": "Shows decisiveness and adaptability in a dangerous situation, suggesting confidence and situational awareness.",
+      "rating": 2,
+      "chunk": 45
+    },
+    {
+      "trait": "competence",
+      "action": "Tosses down a gun and instead picks up a piece of rail to confront the threat.",
+      "assessment": "This indicates a strategic choice, possibly preferring a blunt weapon over a gun in close quarters, reflecting tactical thinking.",
+      "rating": 1,
+      "chunk": 45
+    },
+    {
+      "trait": "competence",
+      "action": "Rushes forward through the saloon doors with Sally during an attack.",
+      "assessment": "While this shows courage and willingness to act, it lacks clear evidence of tactical planning or leadership, so competence is moderate.",
+      "rating": 1,
+      "chunk": 45
+    },
+    {
+      "trait": "warmth",
+      "action": "Knocks an Indian rider from his horse to protect Sally and races toward the church for safety.",
+      "assessment": "Sam takes decisive action to protect others, showing courage and a protective nature, which indicates concern and care for those around him.",
+      "rating": 2,
+      "chunk": 46
+    },
+    {
+      "trait": "warmth",
+      "action": "Carries a broken piece of bar rail as a weapon while helping others seek refuge in the church.",
+      "assessment": "Using whatever means available to defend and help others suggests resourcefulness and a willingness to support the group, reflecting a responsible and caring attitude.",
+      "rating": 2,
+      "chunk": 46
+    },
+    {
+      "trait": "warmth",
+      "action": "Tosses down the bar rail and shows his handcuffs, indicating he is restrained but still wants to contribute.",
+      "assessment": "By acknowledging his limitations yet expressing a desire to help, Sam demonstrates sincerity and a cooperative spirit, showing he values the group's safety and effort.",
+      "rating": 2,
+      "chunk": 46
+    },
+    {
+      "trait": "warmth",
+      "action": "Speaks up about the handcuffs preventing him from fighting and suggests the need for every man to help.",
+      "assessment": "Sam's concern for the collective effort and his willingness to participate despite personal constraints shows trustworthiness and a team-oriented mindset.",
+      "rating": 2,
+      "chunk": 46
+    },
+    {
+      "trait": "competence",
+      "action": "Swings a broken piece of bar rail to knock an Indian from his horse while handcuffed.",
+      "assessment": "This action demonstrates physical skill, quick thinking, and resourcefulness under pressure despite being restrained.",
+      "rating": 3,
+      "chunk": 46
+    },
+    {
+      "trait": "competence",
+      "action": "Races across open ground toward the church to reach safety.",
+      "assessment": "Shows determination, situational awareness, and urgency in a dangerous situation, indicating confidence and capability.",
+      "rating": 2,
+      "chunk": 46
+    },
+    {
+      "trait": "competence",
+      "action": "Holds up his handcuffed hands and points out the problem to others, suggesting he cannot fight effectively with them on.",
+      "assessment": "Exhibits clear communication and practical understanding of his limitations, showing intelligent assessment of the situation.",
+      "rating": 2,
+      "chunk": 46
+    },
+    {
+      "trait": "competence",
+      "action": "Tosses down the broken bar rail after using it as a weapon.",
+      "assessment": "Indicates efficient use of available resources and readiness to adapt to changing circumstances.",
+      "rating": 1,
+      "chunk": 46
+    },
+    {
+      "trait": "competence",
+      "action": "Does not attempt to remove his handcuffs himself or take further direct action to free himself.",
+      "assessment": "This omission may suggest a lack of initiative or inability to solve a critical problem independently, slightly detracting from his competence.",
+      "rating": -1,
+      "chunk": 46
+    },
+    {
+      "trait": "competence",
+      "action": "Expresses concern about fighting with handcuffs on and insists on being freed to help defend.",
+      "assessment": "This shows situational awareness and a proactive attitude, indicating a competent mindset about contributing effectively to defense.",
+      "rating": 2,
+      "chunk": 47
+    },
+    {
+      "trait": "competence",
+      "action": "Looks around alarmed upon hearing that the place is hard to defend, with too many windows and too few defenders.",
+      "assessment": "His alarm suggests he understands the tactical disadvantages, reflecting awareness but also possible concern or doubt about their defensive position.",
+      "rating": 1,
+      "chunk": 47
+    },
+    {
+      "trait": "competence",
+      "action": "No direct action taken to propose or organize a better defense despite recognizing the vulnerabilities of the location.",
+      "assessment": "The lack of initiative to address or mitigate the defensive weaknesses could indicate a missed opportunity to demonstrate leadership or problem-solving skills.",
+      "rating": -1,
+      "chunk": 47
+    },
+    {
+      "trait": "warmth",
+      "action": "Fires off at the Indian attacker to protect others in the church.",
+      "assessment": "Sam takes an active role in defending the vulnerable group, showing protective instincts and concern for others' safety.",
+      "rating": 2,
+      "chunk": 49
+    },
+    {
+      "trait": "warmth",
+      "action": "Comes forward to women and children crying in fear and does magic tricks to entertain and divert them.",
+      "assessment": "This action demonstrates kindness, empathy, and a desire to comfort and uplift frightened children, indicating warmth and sincerity.",
+      "rating": 3,
+      "chunk": 49
+    },
+    {
+      "trait": "warmth",
+      "action": "Urges Sally to join him in comforting the children and singing with them.",
+      "assessment": "Encouraging others to participate in comforting the children shows Sam's inclusive and nurturing nature.",
+      "rating": 3,
+      "chunk": 49
+    },
+    {
+      "trait": "warmth",
+      "action": "Makes a lighthearted comment about children having 'nickels in your ears' to distract them from fear.",
+      "assessment": "Using humor gently to ease children's distress reflects a friendly and good-natured approach.",
+      "rating": 2,
+      "chunk": 49
+    },
+    {
+      "trait": "competence",
+      "action": "Fires off at the Indian attacker, helping to repel the threat.",
+      "assessment": "This action shows Sam's readiness and ability to respond effectively in a dangerous situation, indicating a level of skill and confidence under pressure.",
+      "rating": 2,
+      "chunk": 49
+    },
+    {
+      "trait": "competence",
+      "action": "Admits he has no knack at carpentry but volunteers for a job he can do.",
+      "assessment": "This demonstrates self-awareness and practical judgment, recognizing his own limitations while still contributing where he can be effective.",
+      "rating": 2,
+      "chunk": 49
+    },
+    {
+      "trait": "competence",
+      "action": "Engages with frightened women and children by performing magic tricks and singing to divert and comfort them.",
+      "assessment": "This shows emotional intelligence and social skill, using creativity and empathy to calm and support vulnerable people, which is a competent leadership behavior in crisis.",
+      "rating": 2,
+      "chunk": 49
+    },
+    {
+      "trait": "competence",
+      "action": "Urges Sally to join him in comforting the children despite her reluctance.",
+      "assessment": "This indicates initiative and leadership, encouraging others to contribute positively, reflecting confidence and interpersonal competence.",
+      "rating": 2,
+      "chunk": 49
+    },
+    {
+      "trait": "warmth",
+      "action": "Performs magic tricks to entertain crying children and encourages Sally to sing with them, creating a moment of joy and distraction.",
+      "assessment": "Sam's effort to cheer up distressed children by engaging them with magic and song shows kindness, friendliness, and a sincere desire to comfort others.",
+      "rating": 3,
+      "chunk": 50
+    },
+    {
+      "trait": "warmth",
+      "action": "Takes over guard duty from Bob to give him a rest, acknowledging the strain of constant vigilance.",
+      "assessment": "This action reflects consideration and supportiveness toward his companion, indicating trustworthiness and a cooperative spirit.",
+      "rating": 2,
+      "chunk": 50
+    },
+    {
+      "trait": "competence",
+      "action": "Performs magic tricks to entertain and distract crying children, successfully diverting their attention and eliciting smiles.",
+      "assessment": "This action demonstrates Sam's social skills, quick thinking, and ability to engage and calm distressed individuals, indicating emotional intelligence and situational awareness.",
+      "rating": 2,
+      "chunk": 50
+    },
+    {
+      "trait": "competence",
+      "action": "Encourages Sally, who is reluctant and unsure, to sing with the children despite her doubts.",
+      "assessment": "This shows Sam's confidence and leadership in motivating others to participate, reflecting interpersonal competence and the ability to inspire.",
+      "rating": 1,
+      "chunk": 50
+    },
+    {
+      "trait": "competence",
+      "action": "Takes over guard duty from Bob, acknowledging the need for alertness and offering relief.",
+      "assessment": "This indicates responsibility, vigilance, and practical understanding of the importance of maintaining security, reflecting reliability and situational competence.",
+      "rating": 2,
+      "chunk": 50
+    },
+    {
+      "trait": "competence",
+      "action": "Makes a lighthearted comment about the children having 'nickels in their ears' to explain the absence of Indians.",
+      "assessment": "While this shows a sense of humor and an attempt to ease tension, it may also suggest a casual or dismissive attitude toward a serious threat, which could be a minor negative indicator in terms of situational seriousness.",
+      "rating": -1,
+      "chunk": 50
+    },
+    {
+      "trait": "warmth",
+      "action": "Sam sits down by Glidden, feels Glidden's head, and talks with him while weary.",
+      "assessment": "Sam's action of physically checking on Glidden and sitting with him in a weary moment suggests concern and a caring attitude, indicating warmth and empathy.",
+      "rating": 2,
+      "chunk": 51
+    },
+    {
+      "trait": "warmth",
+      "action": "Sam steps down from guard duty and lets Joe take his place, then exits.",
+      "assessment": "By relinquishing his guard duty to another, Sam shows trust and possibly a desire to rest, but this could also be seen as shirking responsibility depending on context; however, no negative intent is evident here.",
+      "rating": 0,
+      "chunk": 51
+    },
+    {
+      "trait": "warmth",
+      "action": "Sam comments that 'Our guests seem to be having a ball outside' while holding a gun.",
+      "assessment": "The comment appears somewhat sarcastic or detached given the tense situation and the fact that the 'guests' are prisoners; this suggests a lack of warmth or friendliness in his demeanor.",
+      "rating": -1,
+      "chunk": 51
+    },
+    {
+      "trait": "warmth",
+      "action": "Warns Joe Madden about the Apache ritual and the potential danger, showing concern for their safety.",
+      "assessment": "Sam's warning to Joe indicates a protective and responsible attitude, reflecting care and trustworthiness toward his comrades.",
+      "rating": 2,
+      "chunk": 53
+    },
+    {
+      "trait": "warmth",
+      "action": "Offers to take Joe's place when Joe suggests switching roles.",
+      "assessment": "Sam's willingness to take on a potentially dangerous role instead of Joe suggests a sense of responsibility and camaraderie, indicating warmth and friendliness.",
+      "rating": 2,
+      "chunk": 53
+    },
+    {
+      "trait": "competence",
+      "action": "Notices the chanting and interprets it as a religious ritual meant to breed ghost warriors.",
+      "assessment": "This shows Sam's awareness and ability to interpret enemy behavior, indicating situational understanding and intelligence.",
+      "rating": 2,
+      "chunk": 53
+    },
+    {
+      "trait": "competence",
+      "action": "Decides to inform Joe Madden about the situation and discusses tactical implications with him.",
+      "assessment": "This demonstrates good communication skills and a proactive approach to sharing critical information, reflecting competence.",
+      "rating": 2,
+      "chunk": 53
+    },
+    {
+      "trait": "competence",
+      "action": "Volunteers to take Joe's place when Joe suggests he take the rest of the men.",
+      "assessment": "This shows willingness to take responsibility and confidence in his role, indicating leadership and capability.",
+      "rating": 2,
+      "chunk": 53
+    },
+    {
+      "trait": "competence",
+      "action": "Hesitates and stammers slightly when speaking to Joe ('the - uh - lieutenant says this is some kind of a religious Tom Foolery').",
+      "assessment": "This moment of hesitation suggests some uncertainty or lack of confidence in his statements, slightly detracting from his overall competence.",
+      "rating": -1,
+      "chunk": 53
+    },
+    {
+      "trait": "warmth",
+      "action": "Squats to talk to Sally, lifts her chin gently with his hand, and expresses concern for her safety and the children.",
+      "assessment": "Sam's physical gesture of lifting Sally's chin and his verbal concern for her and the children demonstrate tenderness, protectiveness, and sincere care, indicating a warm and trustworthy nature.",
+      "rating": 3,
+      "chunk": 54
+    },
+    {
+      "trait": "warmth",
+      "action": "Tells Sally to get the kids away from the windows and to take care of herself, calling her 'my girl'.",
+      "assessment": "This shows Sam's protective instincts and affectionate regard for Sally, reflecting a friendly and sincere warmth toward those he cares about.",
+      "rating": 3,
+      "chunk": 54
+    },
+    {
+      "trait": "competence",
+      "action": "Takes Joe's place when Joe suggests switching roles, showing willingness to step up.",
+      "assessment": "This indicates readiness and confidence to assume responsibility in a tense situation.",
+      "rating": 2,
+      "chunk": 54
+    },
+    {
+      "trait": "competence",
+      "action": "Squats down to talk to Sally, lifts her chin gently, and advises her to protect the children and herself.",
+      "assessment": "This shows emotional intelligence, situational awareness, and protective instincts, reflecting competent leadership and care.",
+      "rating": 2,
+      "chunk": 54
+    },
+    {
+      "trait": "competence",
+      "action": "Advises Sally that it will be a long night and warns her to keep children away from windows.",
+      "assessment": "This demonstrates foresight and practical knowledge of the dangers ahead, indicating good situational judgment.",
+      "rating": 2,
+      "chunk": 54
+    },
+    {
+      "trait": "competence",
+      "action": "Expresses personal concern for Sally, saying she is the last person he'd want harmed except himself.",
+      "assessment": "While this shows emotional attachment, it may slightly cloud objective decision-making, but overall it reflects confidence and protective attitude.",
+      "rating": 1,
+      "chunk": 54
+    },
+    {
+      "trait": "warmth",
+      "action": "Suggests that the whole place ought to be lit up to fight effectively, and when Joe objects that holding a candle while fighting is difficult, Sam proposes letting the women hold the candles instead.",
+      "assessment": "Sam shows practical concern for safety and effectiveness, but his suggestion to have women hold the candles may reflect a traditional or utilitarian view of gender roles rather than inclusive warmth. However, he does not dismiss the women's willingness, as Sally immediately volunteers.",
+      "rating": 1,
+      "chunk": 56
+    },
+    {
+      "trait": "competence",
+      "action": "Suggests that the whole place ought to be lit up to fight effectively in the dark.",
+      "assessment": "This shows Sam's practical thinking and situational awareness, recognizing the tactical disadvantage of fighting in darkness and proposing a solution.",
+      "rating": 2,
+      "chunk": 56
+    },
+    {
+      "trait": "competence",
+      "action": "Proposes that women hold the candles so fighters can have their hands free.",
+      "assessment": "This indicates Sam's ability to delegate tasks and think strategically about resource allocation under pressure.",
+      "rating": 2,
+      "chunk": 56
+    },
+    {
+      "trait": "competence",
+      "action": "Expresses dissatisfaction with just keeping kids away from the firelight, insisting on better lighting.",
+      "assessment": "This reflects Sam's insistence on thoroughness and not settling for minimal measures, showing confidence and leadership.",
+      "rating": 2,
+      "chunk": 56
+    },
+    {
+      "trait": "warmth",
+      "action": "Fires twice as he moves forward to confront the warrior threatening Pedro-Peter in the church.",
+      "assessment": "Sam's action to protect Pedro-Peter from an immediate threat shows courage and a protective instinct, indicating concern for others' safety.",
+      "rating": 2,
+      "chunk": 58
+    },
+    {
+      "trait": "warmth",
+      "action": "Runs to Pedro-Peter lying on the floor and kneels by him along with Griffin and Joe.",
+      "assessment": "Sam's prompt attention to the injured Pedro-Peter demonstrates care and empathy, reflecting a sincere and trustworthy nature.",
+      "rating": 3,
+      "chunk": 58
+    },
+    {
+      "trait": "warmth",
+      "action": "Stands by Pedro-Peter watching the fight between Joe and the warrior, not intervening further.",
+      "assessment": "While Sam remains present and supportive, his lack of further direct intervention during the fight could suggest a more cautious or reserved approach rather than active warmth.",
+      "rating": 1,
+      "chunk": 58
+    },
+    {
+      "trait": "competence",
+      "action": "Sam fires twice as he moves forward to confront the warrior in the church.",
+      "assessment": "This action shows Sam's ability to engage effectively in a dangerous combat situation, demonstrating skill and decisiveness under pressure.",
+      "rating": 2,
+      "chunk": 58
+    },
+    {
+      "trait": "competence",
+      "action": "Sam runs to Pedro-Peter after the fight and kneels by him alongside Griffin and Joe.",
+      "assessment": "This indicates situational awareness and concern for allies, suggesting a competent and responsible approach to teamwork and battlefield care.",
+      "rating": 1,
+      "chunk": 58
+    },
+    {
+      "trait": "competence",
+      "action": "Sam exits the foreground after the warrior is shot and the fight subsides.",
+      "assessment": "This non-action suggests appropriate restraint and tactical sense, avoiding unnecessary exposure once the immediate threat is neutralized.",
+      "rating": 1,
+      "chunk": 58
+    },
+    {
+      "trait": "warmth",
+      "action": "Runs to Pedro-Peter's side after he is shot and helps Griffin tend to him.",
+      "assessment": "Sam's immediate response to assist a wounded comrade shows concern and care, indicating a degree of warmth and trustworthiness.",
+      "rating": 2,
+      "chunk": 59
+    },
+    {
+      "trait": "warmth",
+      "action": "Speaks with spirit and encouragement to Joe, Griffin, and other men during the siege.",
+      "assessment": "By motivating others and showing resolve, Sam demonstrates friendly and supportive behavior, fostering group morale.",
+      "rating": 2,
+      "chunk": 59
+    },
+    {
+      "trait": "warmth",
+      "action": "Engages in the violent defense by firing his gun at attackers.",
+      "assessment": "While necessary in context, the act of shooting is aggressive and does not directly reflect warmth; however, it is a protective action rather than malicious.",
+      "rating": 0,
+      "chunk": 59
+    },
+    {
+      "trait": "warmth",
+      "action": "Sam and Joe work closely together in a tense situation, with Joe acknowledging Sam as the best help a man could have in a bad spot.",
+      "assessment": "Joe's recognition of Sam as reliable and supportive in a difficult moment suggests Sam is trustworthy and dependable, indicating positive warmth.",
+      "rating": 2,
+      "chunk": 62
+    },
+    {
+      "trait": "warmth",
+      "action": "Sam quickly raises his rifle when a warrior appears in the window holding a white cloth as a token of peace.",
+      "assessment": "Sam's initial readiness to defend shows alertness but also a cautious and protective nature; however, it may also indicate a lack of immediate trust or openness, reflecting moderate warmth.",
+      "rating": 0,
+      "chunk": 62
+    },
+    {
+      "trait": "warmth",
+      "action": "Sam speaks to Pedro-Peter to inquire about the warrior's request for a doctor.",
+      "assessment": "Sam's engagement in communication and concern about the needs of others (inquiring about a doctor) shows attentiveness and a willingness to help, reflecting positive warmth.",
+      "rating": 2,
+      "chunk": 62
+    },
+    {
+      "trait": "competence",
+      "action": "Sam raises rifle quickly and is alert and ready when a potential threat appears in the church.",
+      "assessment": "This action shows Sam's vigilance, readiness, and ability to respond promptly in a tense situation, indicating good situational awareness and competence.",
+      "rating": 2,
+      "chunk": 62
+    },
+    {
+      "trait": "competence",
+      "action": "Sam communicates with Pedro-Peter to understand the intentions of the approaching Indian and the request for a doctor.",
+      "assessment": "This demonstrates Sam's ability to engage in effective communication and problem-solving under pressure, reflecting intelligence and skill.",
+      "rating": 2,
+      "chunk": 62
+    },
+    {
+      "trait": "competence",
+      "action": "Sam stands calmly with Griffin and Pedro-Peter while the situation unfolds, showing composure.",
+      "assessment": "Maintaining composure in a potentially volatile situation is a sign of confidence and emotional control, which are important aspects of competence.",
+      "rating": 2,
+      "chunk": 62
+    },
+    {
+      "trait": "warmth",
+      "action": "Questions the trustworthiness of the Indian's word about Victorio's condition and the consequences if he dies.",
+      "assessment": "Sam shows caution and skepticism, which may protect his group but also indicates a lack of immediate trust or goodwill toward the Indians.",
+      "rating": -1,
+      "chunk": 63
+    },
+    {
+      "trait": "warmth",
+      "action": "Suggests stalling for time by pretending to be a doctor to keep Victorio alive until help arrives.",
+      "assessment": "This shows resourcefulness and a willingness to protect others, indicating concern and a protective attitude toward his group.",
+      "rating": 2,
+      "chunk": 63
+    },
+    {
+      "trait": "warmth",
+      "action": "Engages in discussion with others about the situation and possible strategies.",
+      "assessment": "Sam's involvement in collaborative problem-solving suggests he is engaged and cooperative, which are positive social traits.",
+      "rating": 1,
+      "chunk": 63
+    },
+    {
+      "trait": "competence",
+      "action": "Questions the trustworthiness of the Indian's word about Victorio's condition and the consequences if he dies.",
+      "assessment": "This shows Sam's cautious and analytical thinking, indicating a careful approach rather than blind acceptance, which is a competent trait in a tense negotiation.",
+      "rating": 2,
+      "chunk": 63
+    },
+    {
+      "trait": "competence",
+      "action": "Proposes stalling for time by pretending to have a doctor to keep the Mescaleros at bay until reinforcements arrive.",
+      "assessment": "This demonstrates strategic thinking and quick improvisation under pressure, reflecting resourcefulness and situational awareness.",
+      "rating": 3,
+      "chunk": 63
+    },
+    {
+      "trait": "competence",
+      "action": "Admits he is not actually a doctor but uses the idea to buy time.",
+      "assessment": "While honest about his limitations, Sam still uses deception as a tactical move, showing practical intelligence and confidence in his ability to influence the situation despite lacking formal skills.",
+      "rating": 2,
+      "chunk": 63
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in argument with Joe when Joe tries to stop his plan.",
+      "assessment": "This indicates confidence in his own judgment and willingness to assert his ideas, though it could also suggest stubbornness; overall, it leans toward competent leadership.",
+      "rating": 1,
+      "chunk": 63
+    },
+    {
+      "trait": "warmth",
+      "action": "Encourages Joe by acknowledging his skills and supports his plan to help Victorio, even agreeing to be his deputy.",
+      "assessment": "Sam shows support and trust in Joe's abilities, indicating a cooperative and friendly attitude.",
+      "rating": 2,
+      "chunk": 64
+    },
+    {
+      "trait": "warmth",
+      "action": "Jokes about playing the 'sick nurse' to Victorio and being a better bluffer than Joe is a doctor.",
+      "assessment": "This lighthearted comment suggests a friendly and good-natured demeanor, using humor to ease tension.",
+      "rating": 2,
+      "chunk": 64
+    },
+    {
+      "trait": "warmth",
+      "action": "Shuts the door and helps secure the church while Joe goes to face the Apache warriors.",
+      "assessment": "By taking responsibility for securing the location, Sam demonstrates reliability and concern for others' safety.",
+      "rating": 2,
+      "chunk": 64
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in a conversation with Joe about healing and acknowledges Joe's medical knowledge while asserting his own bluffing skills.",
+      "assessment": "Sam shows awareness of his own limitations and strengths, indicating a realistic self-assessment and strategic thinking, which are signs of competence.",
+      "rating": 2,
+      "chunk": 64
+    },
+    {
+      "trait": "competence",
+      "action": "Accepts the role of deputy to Joe and prepares to act in that capacity despite not being a doctor.",
+      "assessment": "Sam demonstrates adaptability and willingness to take responsibility in a difficult situation, reflecting confidence and capability.",
+      "rating": 2,
+      "chunk": 64
+    },
+    {
+      "trait": "competence",
+      "action": "Shuts the door and helps secure the church against external threats.",
+      "assessment": "This action shows practical awareness and contributes to group safety, indicating situational competence.",
+      "rating": 2,
+      "chunk": 64
+    },
+    {
+      "trait": "competence",
+      "action": "States 'I'm a better bluffer' in response to Joe's medical role.",
+      "assessment": "Sam's admission of bluffing as his strength suggests he relies on deception rather than actual skill, which may limit his effectiveness in critical situations.",
+      "rating": 0,
+      "chunk": 64
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses hope that Joe is a good human doctor or that the Indian is a good horse.",
+      "assessment": "This statement shows Sam's concern for Joe's wellbeing and a hopeful, somewhat lighthearted attitude in a tense situation, indicating empathy and a caring nature.",
+      "rating": 2,
+      "chunk": 65
+    },
+    {
+      "trait": "warmth",
+      "action": "Suddenly opens the church door despite Joe's warning not to open it.",
+      "assessment": "Ignoring Joe's urgent warning suggests a lack of trust or consideration for Joe's advice, which could be seen as reckless or insensitive, negatively impacting perceptions of warmth.",
+      "rating": -2,
+      "chunk": 65
+    },
+    {
+      "trait": "warmth",
+      "action": "Fires at the Indians as they run toward the background after Joe is wounded.",
+      "assessment": "Defending his group and reacting to a threat shows loyalty and protective instincts, which are positive indicators of warmth in a dangerous context.",
+      "rating": 2,
+      "chunk": 65
+    },
+    {
+      "trait": "competence",
+      "action": "Looks at his watch and quickly reacts by standing and running off scene when men talk about the situation.",
+      "assessment": "This shows situational awareness and readiness to act promptly, indicating a competent and alert mindset.",
+      "rating": 2,
+      "chunk": 65
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in conversation about the defense situation, expressing hope about Joe's medical treatment and the Indian's horse.",
+      "assessment": "Sam demonstrates understanding of the tactical situation and concern for allies, reflecting thoughtful and strategic thinking.",
+      "rating": 1,
+      "chunk": 65
+    },
+    {
+      "trait": "competence",
+      "action": "Unfastens the hasp on the church door but hesitates before suddenly opening it despite warnings.",
+      "assessment": "The hesitation suggests some caution, but ultimately opening the door against warnings indicates a possible lapse in judgment or impulsiveness, which undermines competence.",
+      "rating": -1,
+      "chunk": 65
+    },
+    {
+      "trait": "competence",
+      "action": "Fires at the attacking Indians as they run toward the background after Joe is wounded.",
+      "assessment": "Sam actively participates in defense under pressure, showing courage and combat readiness, which are positive indicators of competence.",
+      "rating": 2,
+      "chunk": 65
+    },
+    {
+      "trait": "warmth",
+      "action": "Stands ready with gun alongside Sally, showing alertness and solidarity during the attack.",
+      "assessment": "Sam's readiness to defend and his calm presence alongside others in a crisis suggests reliability and a protective nature, indicating some warmth.",
+      "rating": 2,
+      "chunk": 66
+    },
+    {
+      "trait": "warmth",
+      "action": "Engages in a terse, serious conversation with Sally about the grim situation and the fate of Victorio.",
+      "assessment": "Sam's willingness to discuss difficult truths openly with Sally shows sincerity and trustworthiness, reflecting warmth despite the harsh context.",
+      "rating": 2,
+      "chunk": 66
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses uncertainty about what to tell the others and whether he should tell them anything at all.",
+      "assessment": "This hesitation may indicate a thoughtful and considerate approach to others' feelings, showing sensitivity and care, which are positive warmth indicators.",
+      "rating": 2,
+      "chunk": 66
+    },
+    {
+      "trait": "warmth",
+      "action": "Does not immediately share the truth with the others, despite knowing it.",
+      "assessment": "While possibly protective, withholding information can also be seen as a lack of openness or trust, which slightly detracts from warmth.",
+      "rating": -1,
+      "chunk": 66
+    },
+    {
+      "trait": "competence",
+      "action": "Sam and men fire at Indians as they run toward background after Joe is wounded and falls into church.",
+      "assessment": "This action shows Sam's readiness to engage the enemy and protect his group under pressure, indicating situational awareness and combat capability.",
+      "rating": 2,
+      "chunk": 66
+    },
+    {
+      "trait": "competence",
+      "action": "Sam holds gun ready and looks tense but focused, then talks briefly with Sally before exiting.",
+      "assessment": "Sam demonstrates calmness and preparedness in a tense situation, suggesting mental composure and leadership qualities.",
+      "rating": 2,
+      "chunk": 66
+    },
+    {
+      "trait": "competence",
+      "action": "Sam admits he can't think what to tell the others or even if he should.",
+      "assessment": "This hesitation reveals uncertainty and possible indecisiveness in leadership communication, which may undermine confidence in his competence.",
+      "rating": -1,
+      "chunk": 66
+    },
+    {
+      "trait": "competence",
+      "action": "Sam acknowledges the truth is what people want to know, showing awareness of the importance of honesty.",
+      "assessment": "This reflects emotional intelligence and understanding of group dynamics, a positive indicator of competent leadership.",
+      "rating": 1,
+      "chunk": 66
+    },
+    {
+      "trait": "warmth",
+      "action": "Tells the men to stand back and prepares to fire when the attackers come through the door.",
+      "assessment": "Sam takes a protective and commanding role, showing concern for the safety of others by organizing defense and instructing caution.",
+      "rating": 2,
+      "chunk": 68
+    },
+    {
+      "trait": "warmth",
+      "action": "Encourages men to keep the doorway burning and to gather more wood to maintain the fire barrier.",
+      "assessment": "His leadership in rallying others to contribute to the defense effort reflects responsibility and a cooperative spirit, indicating care for the group's welfare.",
+      "rating": 2,
+      "chunk": 68
+    },
+    {
+      "trait": "warmth",
+      "action": "Rushes forward with men to break up wood and actively participates in the defense preparations.",
+      "assessment": "By personally engaging in the physical effort alongside others, Sam demonstrates solidarity and commitment to the group's safety, which are positive warmth indicators.",
+      "rating": 3,
+      "chunk": 68
+    },
+    {
+      "trait": "competence",
+      "action": "Commands others to stand back and prepares to fire when the enemy comes through the door.",
+      "assessment": "This shows Sam's ability to take charge in a tense situation, demonstrating leadership and tactical awareness.",
+      "rating": 2,
+      "chunk": 68
+    },
+    {
+      "trait": "competence",
+      "action": "Directs men to keep the doorway burning and to get wood to maintain the fire against the attackers.",
+      "assessment": "This indicates strategic thinking and resourcefulness, using available means to strengthen their defense.",
+      "rating": 2,
+      "chunk": 68
+    },
+    {
+      "trait": "competence",
+      "action": "Rallies men to rush forward and break up wood to feed the fire.",
+      "assessment": "This reflects his ability to motivate and organize others effectively under pressure.",
+      "rating": 2,
+      "chunk": 68
+    },
+    {
+      "trait": "competence",
+      "action": "Exits foreground calmly while others are in distress (Sally rubbing her head, Sob running off).",
+      "assessment": "His calmness amidst chaos suggests emotional control and focus, important aspects of competence in crisis.",
+      "rating": 2,
+      "chunk": 68
+    },
+    {
+      "trait": "warmth",
+      "action": "Rushes on scene with men and madly breaks up church pews to add fuel to the fire for defense.",
+      "assessment": "Sam's active participation in preparing defenses shows commitment and leadership, but the urgency and aggression suggest a focus on survival rather than warmth or benevolence.",
+      "rating": 0,
+      "chunk": 69
+    },
+    {
+      "trait": "warmth",
+      "action": "Fires gun upward and off during the attack.",
+      "assessment": "This action is defensive and protective but does not indicate warmth; it reflects a survival instinct in a hostile situation.",
+      "rating": 0,
+      "chunk": 69
+    },
+    {
+      "trait": "warmth",
+      "action": "Rushing off at the side after helping break up pews.",
+      "assessment": "Sam's quick movement and focus on action rather than interaction or reassurance suggest a lack of warmth in this moment, as he prioritizes practical defense over emotional support.",
+      "rating": -1,
+      "chunk": 69
+    },
+    {
+      "trait": "competence",
+      "action": "Sam and men rush on scene and madly break up church pews to add fuel to the fire.",
+      "assessment": "This action shows Sam's quick decision-making and ability to mobilize others effectively under pressure, indicating practical competence in a crisis.",
+      "rating": 2,
+      "chunk": 69
+    },
+    {
+      "trait": "competence",
+      "action": "Sam fires gun upward and off at burning doors as Indians leap into the scene.",
+      "assessment": "This demonstrates Sam's readiness to engage in combat and defend the position, reflecting situational awareness and combat skill.",
+      "rating": 2,
+      "chunk": 69
+    },
+    {
+      "trait": "competence",
+      "action": "Sam starts to rush off at side after breaking up pews.",
+      "assessment": "This suggests a purposeful and proactive approach, indicating confidence and initiative in managing the situation.",
+      "rating": 1,
+      "chunk": 69
+    },
+    {
+      "trait": "competence",
+      "action": "No indication of hesitation or confusion despite chaotic environment with Indians attacking and fire spreading.",
+      "assessment": "Sam's composed behavior under intense pressure suggests mental resilience and competent leadership.",
+      "rating": 2,
+      "chunk": 69
+    },
+    {
+      "trait": "warmth",
+      "action": "Drags a wounded man to the foreground to tend to him during the attack.",
+      "assessment": "This action shows concern and care for others' well-being amidst danger, indicating a degree of warmth and responsibility.",
+      "rating": 2,
+      "chunk": 70
+    },
+    {
+      "trait": "warmth",
+      "action": "Calls out to others to bring more wood to the burning church doors to keep the attackers at bay.",
+      "assessment": "While this is a practical and leadership-oriented action, it is focused on defense and survival rather than interpersonal warmth; it neither strongly supports nor detracts from warmth.",
+      "rating": 0,
+      "chunk": 70
+    },
+    {
+      "trait": "warmth",
+      "action": "Fires his gun to defend the group from attacking Indians.",
+      "assessment": "Defending oneself and others in a violent situation is understandable, but this action is neutral regarding warmth as it is driven by survival rather than friendliness or trust.",
+      "rating": 0,
+      "chunk": 70
+    },
+    {
+      "trait": "competence",
+      "action": "Fires off to the side while standing by burning church doors during an Indian attack.",
+      "assessment": "Sam demonstrates active engagement in the defense, maintaining composure under pressure and contributing to the fight, indicating a level of skill and confidence.",
+      "rating": 2,
+      "chunk": 70
+    },
+    {
+      "trait": "competence",
+      "action": "Calls out to others to bring more wood to the burning doors to reinforce the barrier against attackers.",
+      "assessment": "This shows situational awareness and leadership, as he coordinates defensive efforts effectively, reflecting tactical competence.",
+      "rating": 3,
+      "chunk": 70
+    },
+    {
+      "trait": "competence",
+      "action": "Drags a wounded man to the foreground with Griffin during the attack.",
+      "assessment": "This action indicates physical capability and presence of mind to assist comrades under fire, demonstrating practical competence in crisis.",
+      "rating": 2,
+      "chunk": 70
+    },
+    {
+      "trait": "competence",
+      "action": "Shoots off to the back repeatedly while under siege.",
+      "assessment": "Consistent firing suggests persistence and focus, though the excerpt does not specify accuracy or impact, so competence is inferred but not fully confirmed.",
+      "rating": 1,
+      "chunk": 70
+    },
+    {
+      "trait": "competence",
+      "action": "Rushing forward to assist a wounded man and directing others to rip up the floor to presumably create a defensive or escape measure.",
+      "assessment": "This action shows initiative, quick thinking, and leadership under pressure, indicating a competent and proactive approach in a crisis.",
+      "rating": 2,
+      "chunk": 71
+    },
+    {
+      "trait": "competence",
+      "action": "Standing against the wall watching as able-bodied men work, then reacting promptly to the sound of a bugle and hurrying forward.",
+      "assessment": "Although initially passive, Sam's quick reaction to the bugle suggests alertness and readiness to act when necessary, reflecting situational awareness and competence.",
+      "rating": 1,
+      "chunk": 71
+    },
+    {
+      "trait": "competence",
+      "action": "Moving forward with others through smoke and chaos, maintaining composure and focus on the situation.",
+      "assessment": "This behavior indicates calmness and determination in a dangerous environment, traits associated with competence.",
+      "rating": 2,
+      "chunk": 71
+    },
+    {
+      "trait": "competence",
+      "action": "Exiting the scene after the Indians have fled and the cavalry arrives.",
+      "assessment": "Sam's exit at this point suggests an understanding of when the immediate threat has passed and when to withdraw, showing good judgment and situational competence.",
+      "rating": 1,
+      "chunk": 71
     }
   ],
   "Sam Leeds ": [
     {
-      "Action": "Shoots a man who reaches for his gun, then quickly kicks gun aside to prevent further threat.",
-      "Competence": 1,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "Openly admits to Sally that he is a 'taker' rather than a 'maker' and is honest about his nature and intentions.",
+      "assessment": "This shows a degree of self-awareness and honesty, which can be a sign of emotional intelligence and confidence, though it also reveals a lack of ambition or industriousness.",
+      "rating": 1,
+      "chunk": 11
     },
     {
-      "Action": "Stands alert with gun ready after confrontation, showing preparedness and confidence.",
-      "Competence": 1,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "Expresses cynicism about honest work by referencing his father's hard labor and early death.",
+      "assessment": "This suggests a defeatist attitude and a lack of motivation to improve his situation through skill or effort, indicating a limitation in his competence.",
+      "rating": -1,
+      "chunk": 11
     },
     {
-      "Action": "Motions to a lamp with kerosene dripping after the shooting to indicate evidence and justifies his actions to the mayor and townsmen.",
-      "Competence": 1,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "Decides to 'stick around a while' after realizing Joe Madden has reasons to get rid of him.",
+      "assessment": "This shows situational awareness and a willingness to adapt, which are positive indicators of competence, though it may also imply cautiousness or hesitation.",
+      "rating": 1,
+      "chunk": 11
     },
     {
-      "Action": "Puts gun away and puts on coat with a taunting and smug attitude after being cleared by the law.",
-      "Competence": 0,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "Responds to Sally's emotional appeal with a somewhat dismissive and irked attitude.",
+      "assessment": "This reaction suggests poor interpersonal skills and emotional intelligence, which can undermine his overall competence in social situations.",
+      "rating": -1,
+      "chunk": 11
     },
     {
-      "Action": "Taunts Joe Madden about putting the matter to the citizens after being legally cleared, possibly indicating overconfidence or provoking trouble.",
-      "Competence": 0,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "Agrees to warn the town about danger after Jehu's urgent request.",
+      "assessment": "Sam's willingness to take on the responsibility of warning others shows a sense of duty and concern for the community, indicating a positive aspect of warmth.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Engages in a sharp exchange with Joe but does not escalate hostility, simply accepts leaving town.",
-      "Warmth": 0,
-      "Chunk": 5
+      "trait": "warmth",
+      "action": "Looks about nervously and hesitates before rising and riding off alone.",
+      "assessment": "Sam's nervousness and solitary departure suggest some internal conflict or fear, which may indicate a lack of open friendliness or approachability in this moment, reflecting a more reserved or cautious nature.",
+      "rating": -1,
+      "chunk": 15
     },
     {
-      "Action": "Makes a parting remark to Joe implying loneliness, shows mild friendliness or concern.",
-      "Warmth": 1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Agrees shortly to warn the town after Jehu's urgent request.",
+      "assessment": "Sam's brief and somewhat detached response suggests a willingness to act but lacks evident urgency or leadership in communication.",
+      "rating": 0,
+      "chunk": 15
     },
     {
-      "Action": "Engages in verbal sparring confidently, acknowledges being unwelcome but asserts his own capabilities.",
-      "Competence": 1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Looks about nervously after Jehu's death and before rising.",
+      "assessment": "This nervousness indicates some uncertainty or fear, which may undermine his confidence and decisiveness in a critical moment.",
+      "rating": -1,
+      "chunk": 15
     },
     {
-      "Action": "Accepts being forced to leave town without resistance.",
-      "Competence": 0,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Moves slowly forward, stops, and places hand on another character before looking off nervously.",
+      "assessment": "His hesitation and nervous behavior suggest a lack of assertiveness and confidence in handling the situation.",
+      "rating": -1,
+      "chunk": 15
     },
     {
-      "Action": "Refuses to be intimidated and remains composed during confrontation.",
-      "Competence": 1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Hurries to his horse, drinks from canteen, looks about warily, mounts quickly, and rides off.",
+      "assessment": "This sequence shows practical survival skills and situational awareness, indicating competence in self-preservation and readiness to act.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Enters the cafe confidently and moves forward among the miners having breakfast.",
-      "Competence": 1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Rides cautiously through rugged terrain, stopping to look about before proceeding.",
+      "assessment": "His cautious approach and attention to surroundings demonstrate skill and prudence, reflecting competent navigation and awareness.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Urgently invites Sally to come with him, acknowledging past fun together.",
-      "Warmth": 1,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Kicks horse in the flank to make it start running despite the horse's nervousness.",
+      "assessment": "Kicking the horse to force it to run suggests a lack of gentleness and empathy toward the animal's fear, indicating low warmth in this interaction.",
+      "rating": -2,
+      "chunk": 16
     },
     {
-      "Action": "Follows Sally into the kitchen and tries to engage closely despite her unhappiness.",
-      "Warmth": 0,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Tries to calm horse as it snorts nervously before continuing to ride forward.",
+      "assessment": "Attempting to calm the nervous horse shows some care and attentiveness, reflecting a moderate degree of warmth.",
+      "rating": 1,
+      "chunk": 16
     },
     {
-      "Action": "Offers to have Reverend Griffin marry them if that is what Sally means.",
-      "Warmth": 1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Gives instructions to other men to fill the water barrels while keeping a sharp eye out for potential Indian attacks.",
+      "assessment": "This action shows Sam's ability to manage resources and maintain vigilance simultaneously, indicating situational awareness and leadership under pressure.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Expresses enthusiasm about visiting other towns and trying their luck after the shooting incident.",
-      "Competence": 1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Responds calmly to Griffin's warning about the Indians being alert and dangerous, suggesting the Indians must be looking the other way.",
+      "assessment": "Sam's calm and somewhat confident response suggests he is not easily rattled and trusts his judgment, reflecting mental composure and confidence in his assessment of the situation.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Attempts to persuade Sally to come with him and suggests a quick marriage arranged by Reverend Griffin to solve relationship issues.",
-      "Competence": 0,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Aims carefully and fires at the charging Indians, successfully wounding the chief.",
+      "assessment": "This action demonstrates Sam's marksmanship skills and ability to remain calm and effective under pressure, indicating a high level of competence in combat situations.",
+      "rating": 3,
+      "chunk": 36
     },
     {
-      "Action": "Seems to be annoyed and glares when Sally moves away and does not engage positively.",
-      "Competence": -1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Observes the Indians' reaction after the chief is shot and interprets their behavior accurately.",
+      "assessment": "Sam's situational awareness and ability to read the enemy's response shows intelligence and tactical understanding, reinforcing his competence.",
+      "rating": 2,
+      "chunk": 36
     },
     {
-      "Action": "Claims to have acquired money fairly from Roy Warren playing Monte, despite Roy's doubtful opinion and subsequent death.",
-      "Competence": -1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Engages in a brief exchange with Griffin, showing confidence in his own actions ('I winged the Chief').",
+      "assessment": "Sam's confident communication reflects self-assurance and clarity about his role in the encounter, which supports his competent demeanor.",
+      "rating": 2,
+      "chunk": 36
     },
     {
-      "Action": "Admits honestly to his nature as a 'taker' rather than a 'maker', showing self-awareness but also a resignation to not working hard or playing by honest rules.",
-      "Competence": 0,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Does not pursue the retreating Indians but instead walks cautiously with Griffin, casting glances over their shoulders.",
+      "assessment": "This cautious behavior suggests prudence and an understanding of their vulnerable position, indicating competent judgment rather than recklessness.",
+      "rating": 2,
+      "chunk": 36
     },
     {
-      "Action": "Rejects the idea of being good and honest, contrasting himself negatively with his hardworking father who died broke, which implies a lack of personal drive toward effective or ethical competence.",
-      "Competence": -1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Sam is handcuffed to a bar rail during an intense attack and is unable to free himself despite Sally's attempts to help.",
+      "assessment": "Being handcuffed and unable to escape in a critical moment suggests a lack of preparedness or skill in self-liberation under pressure, indicating a limitation in practical competence.",
+      "rating": -2,
+      "chunk": 43
     },
     {
-      "Action": "Confidently asks Sally to come with him despite warning signs about his lifestyle and future prospects, showing some degree of assertiveness but possibly overconfidence or poor judgment.",
-      "Competence": 0,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Sam seriously tries to convince Sally that he will try and be there for her when he gets out, showing emotional resolve and commitment.",
+      "assessment": "This shows emotional intelligence and a degree of confidence in his intentions, reflecting competence in interpersonal communication and personal resolve.",
+      "rating": 1,
+      "chunk": 43
     },
     {
-      "Action": "Dismisses Sally's desire for home and stability as dull and tame, demonstrates cynicism and a lack of emotional intelligence or practical vision, which may undermine relational competence.",
-      "Competence": -1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Fires twice as he moves forward in the church, taking down a warrior who then falls backward on the floor.",
+      "assessment": "This action demonstrates Sam's ability to engage effectively in combat under pressure, showing skill and decisiveness.",
+      "rating": 2,
+      "chunk": 59
     },
     {
-      "Action": "Admits to not being honest but sincerely tells Sally this and asks her to come with him.",
-      "Warmth": 1,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Runs to Pedro-Peter lying on the floor and kneels by him alongside Griffin, showing concern and readiness to assist.",
+      "assessment": "This indicates situational awareness and a capacity to respond quickly to injured allies, reflecting responsible leadership and care.",
+      "rating": 2,
+      "chunk": 59
     },
     {
-      "Action": "Dismisses Sally's desire for stability and an honest husband as dull and tame, comparing it disdainfully to Joe Madden.",
-      "Warmth": -1,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Crosses to Joe, Griffin, and two men to speak with spirit and motivate them during the siege.",
+      "assessment": "Sam's ability to communicate effectively and boost morale under stressful conditions suggests confidence and leadership competence.",
+      "rating": 2,
+      "chunk": 59
     },
     {
-      "Action": "Acknowledges he is starting to understand more about the situation and decides to stick around despite the odds.",
-      "Warmth": 0,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "No indication of hesitation or panic despite the ongoing fight and chaos around him.",
+      "assessment": "His calm demeanor in a high-stress environment implies mental resilience and confidence, key components of competence.",
+      "rating": 2,
+      "chunk": 59
     },
     {
-      "Action": "Honestly admits to Sally that he is a taker, not a maker, and reflects on his family background and values with self-awareness.",
-      "Competence": 1,
-      "Chunk": 11
+      "trait": "warmth",
+      "action": "Rushes forward to help a man who is shot and falls forward after throwing wood on the fire.",
+      "assessment": "Sam's immediate reaction to assist an injured man in a dangerous situation shows concern and readiness to help others, indicating warmth.",
+      "rating": 2,
+      "chunk": 71
     },
     {
-      "Action": "Expresses willingness to stick around despite recognizing that the odds (cards stacked against him) are not in his favor.",
-      "Competence": 1,
-      "Chunk": 11
+      "trait": "warmth",
+      "action": "Commands others to rip up the floor to presumably protect or aid those inside the church.",
+      "assessment": "Taking initiative to organize protective measures demonstrates responsibility and care for the group's safety, reflecting positive warmth.",
+      "rating": 2,
+      "chunk": 71
     },
     {
-      "Action": "Displays frustration and anger toward Sally when she rejects him, somewhat undermining his emotional control.",
-      "Competence": -1,
-      "Chunk": 11
+      "trait": "warmth",
+      "action": "Rushes forward and moves with others through smoke and danger, showing willingness to face risk alongside others.",
+      "assessment": "Sharing danger with others and moving forward with them suggests solidarity and trustworthiness, positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 71
     },
     {
-      "Action": "Misjudges Sally's desires, initially dismissing her wants as 'mane-stupid' before beginning to understand the situation.",
-      "Competence": -1,
-      "Chunk": 11
-    },
-    {
-      "Action": "Is nonchalant and ignores Joe's warning about leaving town.",
-      "Warmth": -1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Engages in argument and provokes Joe, leading to physical confrontation.",
-      "Warmth": -1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Leans casually against porch post watching off, indicating relaxed but alert demeanor.",
-      "Competence": 0,
-      "Chunk": 12
-    },
-    {
-      "Action": "Approaches Joe at the blacksmith shop in a nonchalant manner, suggesting confidence but possible underestimation of the situation.",
-      "Competence": 0,
-      "Chunk": 12
-    },
-    {
-      "Action": "Is suddenly struck and knocked off scene by Joe with a blow to the jaw, showing he was caught off guard or lacked readiness.",
-      "Competence": -1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Argues that no legal charges can hold against him, demonstrating awareness of legal boundaries and confidence in his position.",
-      "Competence": 1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Prepares to draw his gun after being ordered to leave, indicating readiness to confront conflict but possibly rash in escalation.",
-      "Competence": 0,
-      "Chunk": 12
-    },
-    {
-      "Action": "Starts to pull gun during confrontation showing readiness and awareness.",
-      "Competence": 1,
-      "Chunk": 13
-    },
-    {
-      "Action": "Drops gun to the ground and exits sullenly without resisting further.",
-      "Competence": -1,
-      "Chunk": 13
-    },
-    {
-      "Action": "Wipes blood from his mouth indicating physical resilience.",
-      "Competence": 1,
-      "Chunk": 13
-    },
-    {
-      "Action": "Engages in verbal exchange with Joe, questioning being sent out without his gun.",
-      "Competence": 0,
-      "Chunk": 13
-    },
-    {
-      "Action": "Accepts being ordered to leave town and compliance without further conflict or rebellion.",
-      "Competence": -1,
-      "Chunk": 13
-    },
-    {
-      "Action": "Agrees to warn the town despite nervousness and quickly moves to take action.",
-      "Warmth": 1,
-      "Chunk": 15
-    },
-    {
-      "Action": "Looks about nervously and hesitates before rising and acting.",
-      "Warmth": 0,
-      "Chunk": 15
-    },
-    {
-      "Action": "Does not verbally comfort or engage others, shows no explicit friendly or sincere interaction in the excerpt.",
-      "Warmth": 0,
-      "Chunk": 15
-    },
-    {
-      "Action": "Replies shortly but agrees to warn the town promptly.",
-      "Competence": 1,
-      "Chunk": 15
-    },
-    {
-      "Action": "Looks about nervously and hesitates before moving forward.",
-      "Competence": -1,
-      "Chunk": 15
-    },
-    {
-      "Action": "Acts quickly to mount horse and ride off to carry out his task.",
-      "Competence": 1,
-      "Chunk": 15
-    },
-    {
-      "Action": "Hurries forward and urgently warns Joe and others about an imminent danger despite being ignored initially.",
-      "Warmth": 1,
-      "Chunk": 18
-    },
-    {
-      "Action": "Only came back to warn people about the Mescalero Indians, risking his own safety.",
-      "Warmth": 1,
-      "Chunk": 18
-    },
-    {
-      "Action": "Hurries forward and urgently warns Joe about the approaching Mescalero Indians after barely making it back, showing awareness and timely caution.",
-      "Competence": 1,
-      "Chunk": 18
-    },
-    {
-      "Action": "Tries to communicate a critical warning but is initially ignored by Joe, indicating possible lack of immediate influence or authority.",
-      "Competence": 0,
-      "Chunk": 18
-    },
-    {
-      "Action": "Rises to one knee and looks off grimly, puts on hat, and exits with determined posture.",
-      "Competence": 1,
-      "Chunk": 20
-    },
-    {
-      "Action": "Grabs Joe's coat and shows furious, commanding presence, forcing Joe to exit.",
-      "Competence": 1,
-      "Chunk": 20
-    },
-    {
-      "Action": "Rises to one knee and looks off grimly, puts on hat, prepares to act amid chaos and danger.",
-      "Competence": 1,
-      "Chunk": 21
-    },
-    {
-      "Action": "Grabs Joe’s coat furiously after discovering bodies in the coach, shows quick recognition of a serious threat but may react emotionally.",
-      "Competence": 0,
-      "Chunk": 21
-    },
-    {
-      "Action": "Holds Sally closer and kisses her ardently, speaks softly to her.",
-      "Warmth": 1,
-      "Chunk": 23
-    },
-    {
-      "Action": "Expresses frustration when Sally is disturbed and angry, but follows her to the door.",
-      "Warmth": 0,
-      "Chunk": 23
-    },
-    {
-      "Action": "Admits he wouldn’t try to talk to Joe because he believes Joe wouldn’t believe him; acknowledges even Sally doubts his truthfulness.",
-      "Warmth": 0,
-      "Chunk": 23
-    },
-    {
-      "Action": "No direct action, statement, or behavior by Sam Leeds visible in the excerpt; reliance on others' judgments about others' competence",
-      "Competence": 0,
-      "Chunk": 25
-    },
-    {
-      "Action": "Tries to negotiate with Pedro-Peter and encourages him to drink beer despite social and legal restrictions.",
-      "Competence": 1,
-      "Chunk": 26
-    },
-    {
-      "Action": "Defiantly gives up his own beer to Pedro-Peter and challenges the men at the table by sitting with them when it is against the law to serve liquor to Indians.",
-      "Competence": 1,
-      "Chunk": 26
-    },
-    {
-      "Action": "Questions the Mayor's decision about waiting for the patrol, implying impatience and frustration with the delay.",
-      "Competence": 0,
-      "Chunk": 27
-    },
-    {
-      "Action": "Criticizes group decision-making but does not offer alternative plans or solutions, mostly complains about the situation.",
-      "Competence": -1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Volunteers to lead a dangerous water-fetching mission, successfully rallies men to volunteer, confidently organizes the group to get going.",
-      "Competence": 1,
-      "Chunk": 28
-    },
-    {
-      "Action": "Dismisses Griffin's objections and downplays the danger involved in the mission, might underestimate the risks.",
-      "Competence": 0,
-      "Chunk": 28
-    },
-    {
-      "Action": "Flippant and dismissive toward Sally's concerns, fails to engage meaningfully with criticism which could be important for sound decision-making.",
-      "Competence": -1,
-      "Chunk": 28
-    },
-    {
-      "Action": "Accepts a gun and bandoleer from Joe and Pedro-Peter without hesitation, thanks them sincerely.",
-      "Warmth": 1,
-      "Chunk": 30
-    },
-    {
-      "Action": "Responds to Reverend Griffin with acknowledgment and practical acceptance, showing trust and cooperation.",
-      "Warmth": 1,
-      "Chunk": 30
-    },
-    {
-      "Action": "Rides ahead leading others, indicating responsibility and willingness to guide the group.",
-      "Warmth": 1,
-      "Chunk": 30
-    },
-    {
-      "Action": "Accepts a rifle and bandoleer from Joe and Pedro-Peter and confidently leads the party on horseback ahead.",
-      "Competence": 1,
-      "Chunk": 30
-    },
-    {
-      "Action": "Decides to continue the dangerous journey despite warnings of potential Indian ambush from Reverend Griffin, showing resolve but also some risk-taking.",
-      "Competence": 0,
-      "Chunk": 30
-    },
-    {
-      "Action": "Encourages men to take a good drink and then refill barrels, showing care for their wellbeing and teamwork.",
-      "Warmth": 1,
-      "Chunk": 31
-    },
-    {
-      "Action": "Jokes lightly about Indians not being present ('They must be lookin' the other way, eh?'), maintaining a calm and reassuring demeanor for the men.",
-      "Warmth": 1,
-      "Chunk": 31
-    },
-    {
-      "Action": "Jokes with Reverend Griffin about honesty, showing a friendly, self-deprecating humor.",
-      "Warmth": 1,
-      "Chunk": 33
-    },
-    {
-      "Action": "Boasts about his courage compared to the Mayor's cowardice.",
-      "Warmth": -1,
-      "Chunk": 33
-    },
-    {
-      "Action": "Encourages men to whip their horses and prepare to face danger, taking a proactive leadership role.",
-      "Warmth": 0,
-      "Chunk": 33
-    },
-    {
-      "Action": "Shouts commands to urge horses and others to move quickly in dangerous situation.",
-      "Warmth": 1,
-      "Chunk": 34
-    },
-    {
-      "Action": "Immediately reacts to danger, picks up gun, and positions himself to protect the group.",
-      "Warmth": 1,
-      "Chunk": 34
-    },
-    {
-      "Action": "Engages in gunfire against attacking Indians alongside Griffin.",
-      "Warmth": 0,
-      "Chunk": 34
-    },
-    {
-      "Action": "Shouts commands to whip horses and reacts quickly to danger by mounting, looking around, picking up a gun, and taking cover to defend against attackers.",
-      "Competence": 1,
-      "Chunk": 34
-    },
-    {
-      "Action": "Falls off horse when it steps in a hole during a pursuit.",
-      "Competence": -1,
-      "Chunk": 34
-    },
-    {
-      "Action": "Shoots the Indian chief during the conflict, causing injury and provoking mourning among the Indians.",
-      "Warmth": -1,
-      "Chunk": 36
-    },
-    {
-      "Action": "Acknowledges Griffin's comment about the Indians not attacking defenseless men, showing a moment of reflection and acknowledgment of the complexity of the situation.",
-      "Warmth": 0,
-      "Chunk": 36
-    },
-    {
-      "Action": "Carefully aims and shoots to wound the Apache chief, successfully causing the enemy to retreat.",
-      "Competence": 1,
-      "Chunk": 36
-    },
-    {
-      "Action": "Observes the situation tense and thoughtful, engages in assessing the outcome with Griffin.",
-      "Competence": 1,
-      "Chunk": 36
-    },
-    {
-      "Action": "Offers to shake hands with Griffin despite being rejected.",
-      "Warmth": 1,
-      "Chunk": 37
-    },
-    {
-      "Action": "Helps the older man (Griffin) to his feet and suggests resting when he looks tired.",
-      "Warmth": 1,
-      "Chunk": 37
-    },
-    {
-      "Action": "Thanks Griffin for staying and admits he might not have gotten out of the situation alone.",
-      "Warmth": 1,
-      "Chunk": 37
-    },
-    {
-      "Action": "Admits to gambling, drinking, and killing a man in self-defense, emphasizing the need for self-care in a rough country.",
-      "Warmth": 0,
-      "Chunk": 37
-    },
-    {
-      "Action": "Dismisses Griffin's criticisms angrily and refuses to engage further, using harsh language.",
-      "Warmth": -1,
-      "Chunk": 37
-    },
-    {
-      "Action": "Admits to his faults and expresses regret about his past behavior and intentions toward Sally and Joe.",
-      "Warmth": 1,
-      "Chunk": 38
-    },
-    {
-      "Action": "Speaks bitterly and cynically about their lack of protection and situation in the desert.",
-      "Warmth": 0,
-      "Chunk": 38
-    },
-    {
-      "Action": "Waits for Griffin and cautiously observes surroundings, showing awareness of potential threats.",
-      "Competence": 1,
-      "Chunk": 38
-    },
-    {
-      "Action": "Acknowledges the seriousness of their situation, including lack of protection and danger from enemies, indicating realistic assessment.",
-      "Competence": 1,
-      "Chunk": 38
-    },
-    {
-      "Action": "Admits personal faults and motivations, showing self-awareness but also a previous lapse in judgment driven by ego.",
-      "Competence": 0,
-      "Chunk": 38
-    },
-    {
-      "Action": "Expresses regret over actions motivated by pride rather than practical concerns, suggesting prior lack of good judgment.",
-      "Competence": -1,
-      "Chunk": 38
-    },
-    {
-      "Action": "Presses water bottle upon Griffin and drinks with soldiers, showing calm and presence of mind during a tense situation.",
-      "Competence": 1,
-      "Chunk": 39
-    },
-    {
-      "Action": "Accurately estimates number of enemy warriors and participates in a rear guard action, demonstrating situational awareness and courage.",
-      "Competence": 1,
-      "Chunk": 39
-    },
-    {
-      "Action": "Reflects humbly on earlier mistakes and motivations, acknowledging his faults openly.",
-      "Competence": 0,
-      "Chunk": 39
-    },
-    {
-      "Action": "Shoots the chief (Victorio), effectively protecting the town.",
-      "Competence": 1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Buys liquor (beer) for an Indian despite this being illegal, risking legal trouble.",
-      "Competence": -1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Demonstrates some uncertainty, protesting and puzzled in discussions about the consequences of his actions.",
-      "Competence": 0,
-      "Chunk": 40
-    },
-    {
-      "Action": "Griffin defends Sam to Joe, affirming he knows the good in Sam and his love for the town.",
-      "Warmth": 1,
-      "Chunk": 41
-    },
-    {
-      "Action": "Sam accepts the consequences calmly and says 'I probably have it coming to me.'",
-      "Warmth": 1,
-      "Chunk": 41
-    },
-    {
-      "Action": "Sam is being arrested for giving liquor to an Indian, which is illegal and against town authority.",
-      "Warmth": 0,
-      "Chunk": 41
-    },
-    {
-      "Action": "Accepts a farewell drink from Sally and thanks her sincerely.",
-      "Warmth": 1,
-      "Chunk": 42
-    },
-    {
-      "Action": "Expresses regret for past mistakes and a desire to do right.",
-      "Warmth": 1,
-      "Chunk": 42
-    },
-    {
-      "Action": "Shows vulnerability by admitting he wants Sally to believe in his change.",
-      "Warmth": 1,
-      "Chunk": 42
-    },
-    {
-      "Action": "Is handcuffed and arrested for an act of kindness, indicating a misunderstood but well-intended action.",
-      "Warmth": 1,
-      "Chunk": 42
-    },
-    {
-      "Action": "Seriously talks to Sally about the importance of her waiting for him when he gets out, showing awareness and planning.",
-      "Competence": 1,
-      "Chunk": 43
-    },
-    {
-      "Action": "Is handcuffed to a bar rail during a chaotic attack and does not escape or act to help, remaining passive.",
-      "Competence": -1,
-      "Chunk": 43
-    },
-    {
-      "Action": "Tries to free himself from bar rail under gunfire and urges Sally to run for her safety.",
-      "Competence": 1,
-      "Chunk": 44
-    },
-    {
-      "Action": "Unable to free himself from the rail and depends on Sally who refuses to leave.",
-      "Competence": -1,
-      "Chunk": 44
-    },
-    {
-      "Action": "Works with Sally to break his handcuffs and escape the saloon, urging her to come along.",
-      "Warmth": 1,
-      "Chunk": 45
-    },
-    {
-      "Action": "Uses gun barrel as a lever to free his handcuffed hands from the rail.",
-      "Competence": 1,
-      "Chunk": 45
-    },
-    {
-      "Action": "After being freed with hands still shackled together, dashes across to doors and tries to find a way to escape.",
-      "Competence": 1,
-      "Chunk": 45
-    },
-    {
-      "Action": "Picks up a gun but then tosses it down, opting instead to pick up a piece of rail to use as a weapon or tool.",
-      "Competence": 1,
-      "Chunk": 45
-    },
-    {
-      "Action": "Knocks an Indian from his horse using a broken piece of bar rail while handcuffed.",
-      "Competence": 1,
-      "Chunk": 46
-    },
-    {
-      "Action": "Quickly moves toward the church to help others reach safety during an Indian attack.",
-      "Competence": 1,
-      "Chunk": 46
-    },
-    {
-      "Action": "Acknowledges the handicap of being handcuffed and insists on needing them removed to fight effectively.",
-      "Competence": 1,
-      "Chunk": 46
-    },
-    {
-      "Action": "Comments on not being able to fight with handcuffs on and suggests needing every man available.",
-      "Competence": 1,
-      "Chunk": 47
-    },
-    {
-      "Action": "Looks around alarmed upon hearing Glidden's assessment that the place is hard to defend with many windows and few defenders.",
-      "Competence": 0,
-      "Chunk": 47
-    },
-    {
-      "Action": "Speaks confidently about his own limitation (no knack at carpentry) but promptly offers to do a job he can handle, showing self-awareness and willingness to contribute effectively.",
-      "Competence": 1,
-      "Chunk": 49
-    },
-    {
-      "Action": "Approaches women and children in distress, performs magic tricks to entertain and divert them, successfully calming them and improving morale.",
-      "Competence": 1,
-      "Chunk": 49
-    },
-    {
-      "Action": "Urges Sally to engage with the children despite her reluctance, displaying leadership and social intelligence.",
-      "Competence": 1,
-      "Chunk": 49
-    },
-    {
-      "Action": "Performs magic tricks to entertain and comfort crying children and encourages Sally to sing with them, helping to lighten the mood.",
-      "Warmth": 1,
-      "Chunk": 50
-    },
-    {
-      "Action": "Relieves Bob from guard duty, showing consideration for his fatigue.",
-      "Warmth": 1,
-      "Chunk": 50
-    },
-    {
-      "Action": "Uses magic tricks to entertain and calm children, successfully diverting their attention and lifting their spirits.",
-      "Competence": 1,
-      "Chunk": 50
-    },
-    {
-      "Action": "Volunteers to relieve a tired guard, showing awareness of the physical demands and acting proactively.",
-      "Competence": 1,
-      "Chunk": 50
-    },
-    {
-      "Action": "Holds gun, takes guard duty seriously by stepping down and having Joe take over, showing responsibility and situational awareness.",
-      "Competence": 1,
-      "Chunk": 51
-    },
-    {
-      "Action": "Sits down by wounded Glidden and feels his head, showing care and attentiveness in a weary state.",
-      "Competence": 1,
-      "Chunk": 51
-    },
-    {
-      "Action": "Engages thoughtfully in a conversation about Apache beliefs and customs, showing awareness and some understanding.",
-      "Competence": 1,
-      "Chunk": 52
-    },
-    {
-      "Action": "Responds briefly and somewhat passively to Glidden's explanations without adding insight or elaboration, indicating limited contribution.",
-      "Competence": 0,
-      "Chunk": 52
-    },
-    {
-      "Action": "Observes and interprets enemy rituals and communicates the threat to Joe Madden, showing awareness and understanding of the situation.",
-      "Competence": 1,
-      "Chunk": 53
-    },
-    {
-      "Action": "Suggests taking Joe's place on lookout duty but expresses hesitation or uncertainty by saying 'I don't want you to take mine.'",
-      "Competence": 0,
-      "Chunk": 53
-    },
-    {
-      "Action": "Squats to talk to Sally, lifts her chin gently, offers personal concern and advice, calls her 'my girl'.",
-      "Warmth": 1,
-      "Chunk": 54
-    },
-    {
-      "Action": "Speaks good-naturedly and attempts to reassure Sally about an impending difficult event, showing awareness and concern.",
-      "Competence": 1,
-      "Chunk": 54
-    },
-    {
-      "Action": "Advises Sally to protect the children and herself, indicating foresight and practical thinking.",
-      "Competence": 1,
-      "Chunk": 54
-    },
-    {
-      "Action": "Engages in seemingly calm and supportive interaction during tense circumstances, demonstrating emotional steadiness and confidence.",
-      "Competence": 1,
-      "Chunk": 54
-    },
-    {
-      "Action": "Positions himself with a rifle, remains tense and alert during the attack in the church.",
-      "Competence": 1,
-      "Chunk": 57
-    },
-    {
-      "Action": "Stays close to comrades and listens carefully in a high-pressure tense situation.",
-      "Competence": 1,
-      "Chunk": 57
-    },
-    {
-      "Action": "Fires twice as he moves forward during combat, helping neutralize threat to Pedro-Peter.",
-      "Competence": 1,
-      "Chunk": 58
-    },
-    {
-      "Action": "Runs to Pedro-Peter after attack to assist with his aid along with others.",
-      "Competence": 1,
-      "Chunk": 58
-    },
-    {
-      "Action": "Fires twice while moving forward to protect others and then runs to assist the wounded Pedro-Peter alongside Griffin and Joe, showing concern and readiness to help.",
-      "Warmth": 1,
-      "Chunk": 59
-    },
-    {
-      "Action": "Crosses to Joe, Griffin, and others and speaks with spirit, motivating others despite the dire situation.",
-      "Warmth": 1,
-      "Chunk": 59
-    },
-    {
-      "Action": "Fires his weapon twice while advancing forward during the conflict, demonstrating decisiveness and combat skill.",
-      "Competence": 1,
-      "Chunk": 59
-    },
-    {
-      "Action": "Runs to aid the wounded Pedro-Peter quickly and alongside others, showing situational awareness and teamwork.",
-      "Competence": 1,
-      "Chunk": 59
-    },
-    {
-      "Action": "Crosses over to speak with Joe, Griffin, and others with spirit, displaying confidence and leadership.",
-      "Competence": 1,
-      "Chunk": 59
-    },
-    {
-      "Action": "Joe acknowledges Sam as the best help a man could have in a bad spot.",
-      "Warmth": 1,
-      "Chunk": 62
-    },
-    {
-      "Action": "Sam quickly raises rifle in response to potential threat but does not shoot, showing restraint.",
-      "Warmth": 1,
-      "Chunk": 62
-    },
-    {
-      "Action": "Sam interacts with Pedro-Peter to understand why the Indian wants a doctor, showing willingness to communicate and cooperate.",
-      "Warmth": 1,
-      "Chunk": 62
-    },
-    {
-      "Action": "Questions the trustworthiness of the enemy's word before agreeing to help.",
-      "Warmth": 1,
-      "Chunk": 63
-    },
-    {
-      "Action": "Tries to stall by pretending to be a doctor to protect others.",
-      "Warmth": 1,
-      "Chunk": 63
-    },
-    {
-      "Action": "Questions the reliability of the enemy's word before agreeing to help, showing cautious thinking.",
-      "Competence": 1,
-      "Chunk": 63
-    },
-    {
-      "Action": "Proposes stalling by pretending to be a doctor despite lacking real medical skills, indicating quick thinking and improvisation.",
-      "Competence": 1,
-      "Chunk": 63
-    },
-    {
-      "Action": "Admits he can't really help Victorio, revealing honesty but also the limits of his actual medical competence.",
-      "Competence": 0,
-      "Chunk": 63
-    },
-    {
-      "Action": "Acknowledges Joe's healing skills and supports him despite his own doubts.",
-      "Warmth": 1,
-      "Chunk": 64
-    },
-    {
-      "Action": "Agrees to be Joe's deputy and play a supportive role, showing loyalty and cooperation.",
-      "Warmth": 1,
-      "Chunk": 64
-    },
-    {
-      "Action": "Uses humor and self-deprecation when saying 'I'm a better bluffer' to lighten a tense situation.",
-      "Warmth": 1,
-      "Chunk": 64
-    },
-    {
-      "Action": "Acknowledges Joe's medical skill and his own limitations by stalling and bluffing rather than pretending to be a doctor.",
-      "Competence": 1,
-      "Chunk": 64
-    },
-    {
-      "Action": "Accepts the deputy role from Joe and supports him despite lacking medical skills.",
-      "Competence": 1,
-      "Chunk": 64
-    },
-    {
-      "Action": "Uses bluffing to contribute to the plan rather than falsely claiming medical expertise.",
-      "Competence": 1,
-      "Chunk": 64
-    },
-    {
-      "Action": "Does not attempt to dishonestly claim medical knowledge but remains realistic about his abilities.",
-      "Competence": 1,
-      "Chunk": 64
-    },
-    {
-      "Action": "Hurries to open door despite warnings, trying to help Joe and others inside.",
-      "Warmth": 1,
-      "Chunk": 65
-    },
-    {
-      "Action": "Expresses hope that Joe, a doctor, will help the wounded Indian, showing concern.",
-      "Warmth": 1,
-      "Chunk": 65
-    },
-    {
-      "Action": "Carries Joe forward and moves to assist with care, stands ready with gun to protect others.",
-      "Warmth": 1,
-      "Chunk": 66
-    },
-    {
-      "Action": "Engages in terse, serious talk with Sally in tense moment but shows concern in conversation.",
-      "Warmth": 1,
-      "Chunk": 66
-    },
-    {
-      "Action": "Expresses uncertainty about how to tell others the bad news, showing sensitivity.",
-      "Warmth": 1,
-      "Chunk": 66
-    },
-    {
-      "Action": "Commands people calmly to stand back and prepare to fire; encourages men to keep the fire going to prevent attackers from entering.",
-      "Warmth": 1,
-      "Chunk": 68
-    },
-    {
-      "Action": "Rallies and motivates men actively to gather wood and reinforce the fire.",
-      "Warmth": 1,
-      "Chunk": 68
-    },
-    {
-      "Action": "Commands others to stand back and prepares to fire when enemies arrive, showing leadership in a tense situation.",
-      "Competence": 1,
-      "Chunk": 68
-    },
-    {
-      "Action": "Directs others to gather wood and keep the doorway burning to prevent enemies from entering, demonstrating tactical awareness and initiative.",
-      "Competence": 1,
-      "Chunk": 68
-    },
-    {
-      "Action": "Rallies men to rush forward and break up firewood, displaying active engagement and effective coordination under pressure.",
-      "Competence": 1,
-      "Chunk": 68
-    },
-    {
-      "Action": "Rushes forward with men to break up church pews and gather wood to fuel the fire.",
-      "Competence": 1,
-      "Chunk": 69
-    },
-    {
-      "Action": "Fires gun upward to defend against attacking Indians inside the church.",
-      "Competence": 1,
-      "Chunk": 69
-    },
-    {
-      "Action": "Rushes on from the foreground during chaotic attack, showing proactive engagement.",
-      "Competence": 1,
-      "Chunk": 69
-    },
-    {
-      "Action": "Coordinates men to keep adding wood to the fire to hold back the attackers, actively fires at enemies, and helps drag a wounded man to safety.",
-      "Competence": 1,
-      "Chunk": 70
-    },
-    {
-      "Action": "Rushes forward to aid a wounded man and quickly gives an order to rip up the floor to address the situation.",
-      "Competence": 1,
-      "Chunk": 71
-    },
-    {
-      "Action": "Reacts promptly to auditory cues (bugle), hurries forward, and moves strategically with others amid chaos.",
-      "Competence": 1,
-      "Chunk": 71
-    },
-    {
-      "Action": "Stands watching while able-bodied men work, then reacts decisively when needed.",
-      "Competence": 1,
-      "Chunk": 71
+      "trait": "warmth",
+      "action": "Exits after ensuring others move forward and the threat has passed.",
+      "assessment": "Sam's behavior of ensuring others act before himself may indicate selflessness and concern for others' welfare, a warm trait.",
+      "rating": 2,
+      "chunk": 71
     }
   ]
 }

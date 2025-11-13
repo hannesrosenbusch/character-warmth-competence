@@ -1,1309 +1,2881 @@
 {
   "Donnie Darko": [
     {
-      "Action": "Wakes up disoriented but manages to stand and take his bike back up the hill despite hesitation.",
-      "Competence": 0,
-      "Chunk": 1
+      "trait": "competence",
+      "action": "Donnie wakes up disoriented at the edge of a cliff, shivering and curled up in the fetal position, then hesitates before standing and taking his bike back up the hill.",
+      "assessment": "This action shows initial physical and mental vulnerability, suggesting a momentary lack of confidence or control, but he recovers and acts with some decisiveness by retrieving his bike and leaving the area.",
+      "rating": 0,
+      "chunk": 1
     },
     {
-      "Action": "Rides his bike confidently through the neighborhood, interacting with locals who smile at him.",
-      "Competence": 1,
-      "Chunk": 1
+      "trait": "competence",
+      "action": "Donnie pedals confidently through the suburban village, passing neighbors who smile at him.",
+      "assessment": "This indicates a level of social ease and physical capability, suggesting he is comfortable and competent in his environment.",
+      "rating": 1,
+      "chunk": 1
     },
     {
-      "Action": "Engages in family dinner conversation, attempts light teasing with sister.",
-      "Warmth": 0,
-      "Chunk": 2
+      "trait": "competence",
+      "action": "Donnie parks his bike and goes inside the house without hesitation.",
+      "assessment": "This shows routine competence and confidence in navigating his home environment, though it is a neutral, everyday action.",
+      "rating": 0,
+      "chunk": 1
     },
     {
-      "Action": "Responds to sister's insult with sarcastic comeback about therapy.",
-      "Warmth": -1,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Says to his sister Samantha that she can't have a baby until eighth grade.",
+      "assessment": "This teasing comment to his younger sister is somewhat playful but also dismissive, showing a typical sibling dynamic with mild warmth but also a bit of bluntness.",
+      "rating": 1,
+      "chunk": 2
     },
     {
-      "Action": "Engages in family dinner conversation with sarcastic, somewhat biting remarks, indicating confidence in speaking but lacking social tact.",
-      "Competence": 0,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Responds to Elizabeth calling him a 'dick' by sarcastically suggesting she should be in therapy.",
+      "assessment": "Donnie's sarcastic and defensive reply to Elizabeth's insult shows a lack of tolerance and friendliness in this interaction, indicating low warmth.",
+      "rating": -2,
+      "chunk": 2
     },
     {
-      "Action": "Responds to his sister's question with a quick, literal answer showing awareness of social contexts (e.g., teasing about age to have children).",
-      "Competence": 1,
-      "Chunk": 2
+      "trait": "competence",
+      "action": "Engages in family dinner conversation with witty and sarcastic remarks, such as telling his sister she can't have children until eighth grade and responding to Elizabeth's hostility with a sharp retort about therapy costs.",
+      "assessment": "Donnie demonstrates verbal quickness and confidence in social interactions, indicating a certain level of intellectual competence and social awareness, though his tone may be perceived as immature or antagonistic.",
+      "rating": 1,
+      "chunk": 2
     },
     {
-      "Action": "Makes a sarcastic comment to Elizabeth about therapy suggesting quick wit but possibly poor emotional intelligence.",
-      "Competence": 0,
-      "Chunk": 2
+      "trait": "competence",
+      "action": "Walks into the kitchen and goes to the refrigerator, noticing the note 'WHERE IS DONNIE?' printed on the refrigerator notepad.",
+      "assessment": "This action shows basic situational awareness and attention to his environment, but it is a neutral indicator of competence as it is a simple, everyday behavior.",
+      "rating": 0,
+      "chunk": 2
     },
     {
-      "Action": "Stops taking his prescribed medication without informing family or doctors.",
-      "Competence": -1,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "Calls Elizabeth a 'fuck-ass' and engages in a crude exchange of insults at the dinner table.",
+      "assessment": "Using harsh language and insults in a family setting shows hostility and a lack of respect, indicating low warmth.",
+      "rating": -2,
+      "chunk": 3
     },
     {
-      "Action": "Engages in sarcastic, confrontational language with family members.",
-      "Competence": 0,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "Lies on his bed reading quietly and allows Rose to pick up his things despite telling her to get out.",
+      "assessment": "Although he initially pushes Rose away, he does not escalate conflict and tolerates her presence, showing some degree of tolerance and restraint.",
+      "rating": 1,
+      "chunk": 3
     },
     {
-      "Action": "Reads literary works indicating intellectual engagement.",
-      "Competence": 1,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Stops taking his medication and hides this fact from his parents by flushing pills down the toilet.",
+      "assessment": "This action shows a degree of autonomy and decision-making, but also a lack of responsibility and poor judgment regarding his health, which undermines his competence.",
+      "rating": -2,
+      "chunk": 3
     },
     {
-      "Action": "Responds to his mother's attempt at connection with hostility and insults her ('Bitch').",
-      "Warmth": -1,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "Engages in sharp, sarcastic verbal exchanges with Elizabeth, including witty retorts.",
+      "assessment": "This indicates quick thinking and verbal skill, suggesting intellectual competence and confidence in social interactions, albeit expressed inappropriately.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Turns off his lamp and isolates himself in the dark, avoiding interaction.",
-      "Warmth": -1,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "Allows Rose to enter his room and pick up his belongings despite telling her to get out.",
+      "assessment": "This shows a lack of assertiveness and control over his personal space, which may reflect lower social or emotional competence in this context.",
+      "rating": -1,
+      "chunk": 3
     },
     {
-      "Action": "Refuses to engage in conversation or emotional connection with his mother.",
-      "Warmth": -1,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "Reads 'Collected Short Stories' by Graham Greene in his room.",
+      "assessment": "This suggests intellectual curiosity and engagement with complex literature, indicating cognitive competence and a capacity for thoughtful reflection.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Stops engaging in childish pranks like toilet papering houses since sixth grade, indicating some maturity and self-control.",
-      "Competence": 1,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "Responds to his mother's question about toilet papering the Johnson's house with sarcasm and tells her to get out of his room.",
+      "assessment": "Donnie's sarcastic and dismissive response to his mother, coupled with telling her to leave, indicates a lack of warmth and consideration in this interaction.",
+      "rating": -2,
+      "chunk": 4
     },
     {
-      "Action": "Responds rudely and dismissively to his mother, telling her to take pills and calling her a 'bitch', showing poor social skills and emotional immaturity.",
-      "Competence": -1,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "Calls his mother a 'bitch' after she leaves his room.",
+      "assessment": "Using a harsh insult toward his mother reflects negatively on Donnie's warmth, showing hostility and disrespect.",
+      "rating": -3,
+      "chunk": 4
     },
     {
-      "Action": "Takes his prescribed medication deliberately, seeming to be aware of his mental health needs, showing some responsibility.",
-      "Competence": 1,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "Takes prescribed medication while staring at his reflection in the mirror.",
+      "assessment": "This action shows a moment of introspection and compliance with treatment, but it does not directly indicate warmth toward others.",
+      "rating": 0,
+      "chunk": 4
     },
     {
-      "Action": "Leans into dark moods and hostile speech rather than communicating effectively with family, indicating emotional instability and lack of interpersonal competence.",
-      "Competence": -1,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "Stops rolling houses in the sixth grade when asked about toilet papering the Johnson's house.",
+      "assessment": "This indicates some level of self-control and awareness of consequences, suggesting a degree of maturity and capability in moderating his behavior.",
+      "rating": 1,
+      "chunk": 4
     },
     {
-      "Action": "Walks down the street alone late at night, appears distant and confused.",
-      "Warmth": 0,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Responds to his mother’s concern with sarcasm and hostility, telling her to take her pills and calling her a 'bitch'.",
+      "assessment": "This shows poor emotional regulation and interpersonal skills, reflecting negatively on his social competence and maturity.",
+      "rating": -2,
+      "chunk": 4
     },
     {
-      "Action": "Stares nervously at Frank (the figure in the bunny suit) but listens to him.",
-      "Warmth": 0,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Takes prescribed medication deliberately while staring at his reflection in the mirror.",
+      "assessment": "This suggests a conscious and possibly conflicted approach to managing his mental health, indicating some level of self-awareness and responsibility.",
+      "rating": 1,
+      "chunk": 4
     },
     {
-      "Action": "Does not respond verbally when asked about belief in God and the end of the world, shows vulnerability by holding his stomach and taking deep breaths.",
-      "Warmth": 1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Wakes abruptly from a bad dream at 12:50 a.m., appearing distant and confused.",
+      "assessment": "This moment reveals vulnerability and possible psychological distress, which may impair his cognitive functioning and confidence.",
+      "rating": -1,
+      "chunk": 4
     },
     {
-      "Action": "Walks outside late at night to a specific location following a mysterious voice's instructions, showing some initiative and focus.",
-      "Competence": 0,
-      "Chunk": 5
+      "trait": "warmth",
+      "action": "Donnie walks downstairs quietly, observes Eddie asleep without disturbing him, and then leaves the house for a walk.",
+      "assessment": "Donnie's behavior here is neutral and non-disruptive, showing a degree of respect and consideration for others' space, but no explicit warmth or friendliness is demonstrated.",
+      "rating": 0,
+      "chunk": 5
     },
     {
-      "Action": "Responds to the voice and the figure of Frank with confusion, does not question or act confidently on the information.",
-      "Competence": -1,
-      "Chunk": 5
+      "trait": "warmth",
+      "action": "Donnie stares nervously at the figure in the grotesque bunny suit (Frank) and experiences nausea but does not react aggressively or dismissively.",
+      "assessment": "Donnie's nervous but non-hostile reaction to an unusual and frightening figure suggests a cautious openness rather than hostility, indicating a neutral to slightly positive warmth indicator.",
+      "rating": 1,
+      "chunk": 5
     },
     {
-      "Action": "Holds his stomach and takes deep breaths when confronted with unsettling information, indicating vulnerability and lack of control.",
-      "Competence": -1,
-      "Chunk": 5
+      "trait": "warmth",
+      "action": "Donnie does not respond verbally to Frank's statements or questions, including the question about belief in God and the warning about the world ending.",
+      "assessment": "Donnie's silence and lack of engagement here may indicate withdrawal or confusion rather than warmth; this non-action is a negative indicator of warmth as it shows emotional distance or reticence.",
+      "rating": -1,
+      "chunk": 5
     },
     {
-      "Action": "Apologizes to Dr. Fisher after being found sleeping on the golf course, showing responsibility and politeness.",
-      "Warmth": 1,
-      "Chunk": 6
+      "trait": "competence",
+      "action": "Donnie walks downstairs, moves through the house, removes the magic marker from the refrigerator message board, and exits the house calmly.",
+      "assessment": "This sequence shows Donnie acting with purposeful, deliberate physical coordination and calmness, indicating a baseline level of competence in navigating his environment.",
+      "rating": 1,
+      "chunk": 5
     },
     {
-      "Action": "Walks toward his house calmly despite the presence of emergency vehicles and crowd, showing composure but no outward signs of engagement or connection.",
-      "Warmth": 0,
-      "Chunk": 6
+      "trait": "competence",
+      "action": "Donnie stares off into the distance at the seventh hole late at night, showing a distant and confused expression.",
+      "assessment": "His vacant and confused demeanor suggests a lack of mental clarity or focus, which detracts from his competence in processing his situation.",
+      "rating": -1,
+      "chunk": 5
     },
     {
-      "Action": "Wakes up and quickly responds to authority figures on the golf course, apologizing to Dr. Fisher.",
-      "Competence": 1,
-      "Chunk": 6
+      "trait": "competence",
+      "action": "Donnie holds his stomach and takes deep breaths when confronted by the voice.",
+      "assessment": "This physical reaction to stress or nausea indicates a moment of vulnerability and lack of control, reflecting negatively on his emotional and physical competence.",
+      "rating": -1,
+      "chunk": 5
     },
     {
-      "Action": "Appears confused and unsure about the meaning of the numbers written on his arm.",
-      "Competence": -1,
-      "Chunk": 6
+      "trait": "competence",
+      "action": "Donnie listens silently to Frank's ominous message about the end of the world without responding.",
+      "assessment": "His silence and vacant expression in the face of alarming information suggest passivity and possible confusion, which may indicate a lack of assertiveness or critical engagement, lowering perceived competence.",
+      "rating": -2,
+      "chunk": 5
     },
     {
-      "Action": "Walks through the neighborhood crowd calmly and without causing disturbance despite the chaos around his house.",
-      "Competence": 1,
-      "Chunk": 6
+      "trait": "warmth",
+      "action": "Donnie gets up and brushes himself off after being woken by the golf ball, then apologizes to Dr. Fisher saying 'Sorry, Dr. Fisher. It won't happen again.'",
+      "assessment": "Donnie's apology shows a polite and respectful attitude, indicating a basic level of consideration and sincerity toward others.",
+      "rating": 1,
+      "chunk": 6
     },
     {
-      "Action": "Asserts his identity calmly to the police officer to gain access.",
-      "Warmth": 1,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Donnie walks through the crowd of neighbors gathered outside his house after an incident.",
+      "assessment": "Donnie's willingness to move through the crowd without causing disturbance suggests a tolerance and acceptance of the community's concern, reflecting a neutral to slightly positive social engagement.",
+      "rating": 1,
+      "chunk": 6
     },
     {
-      "Action": "Looks over at his family and processes the situation quietly, appearing lost in a trance.",
-      "Warmth": 0,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Donnie gets up and brushes himself off after being found asleep on the golf green.",
+      "assessment": "This action shows a basic level of self-awareness and physical coordination, indicating he can recover from unexpected situations calmly.",
+      "rating": 1,
+      "chunk": 6
     },
     {
-      "Action": "Confidently approaches the police officer and asserts his identity, allowing himself access through the barricade.",
-      "Competence": 1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Donnie notices and stares at the numbers written on his arm, showing confusion.",
+      "assessment": "His attention to the mysterious numbers suggests curiosity and awareness, but the confusion indicates limited understanding or control over the situation.",
+      "rating": 0,
+      "chunk": 6
     },
     {
-      "Action": "Seems lost in a trance, staring in awe at the jet engine and appears detached from the situation.",
-      "Competence": -1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Donnie apologizes to Dr. Fisher for being on the golf greens.",
+      "assessment": "This shows social awareness and the ability to communicate respectfully, reflecting emotional intelligence and confidence in social interactions.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Jokes by threatening to fart in Samantha's face, causing her to threaten to tell their mother.",
-      "Warmth": -1,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Donnie walks through a crowd of neighbors and police officers at a barricade in front of his house.",
+      "assessment": "His ability to navigate a tense public situation without panic or hesitation suggests composure and situational awareness.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Engages in childish humor by threatening to fart in Samantha's face.",
-      "Competence": -1,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Tells the police officer 'Hey, I live here!' to gain access.",
+      "assessment": "Donnie asserts himself politely to gain access, showing a basic level of trust and straightforwardness without hostility.",
+      "rating": 1,
+      "chunk": 7
     },
     {
-      "Action": "Appears lost in a trance, not engaging actively with others.",
-      "Competence": -1,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Looks over at his family standing together, appearing lost in a trance.",
+      "assessment": "Donnie’s silent, trance-like observation of his family suggests emotional distance or overwhelm rather than active engagement or warmth.",
+      "rating": -1,
+      "chunk": 7
     },
     {
-      "Action": "Dodges death, indicating some form of resilience or fortune.",
-      "Competence": 0,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Approaches the police officer and confidently states, 'Hey, I live here!' to gain access through the barricade.",
+      "assessment": "This action shows Donnie's ability to assert himself clearly and effectively in a stressful situation, demonstrating situational awareness and confidence.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Refuses to discuss his sleepwalking episode with friends, showing reluctance or evasiveness.",
-      "Competence": -1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Looks over at the house and observes the large jet engine being removed and the firemen working around the site.",
+      "assessment": "Donnie's attentive observation of the scene indicates a level of awareness and processing of his environment, though he remains passive and does not take any direct action.",
+      "rating": 1,
+      "chunk": 7
     },
     {
-      "Action": "Asks about consequences before accepting to smoke, exhibiting cautious thinking.",
-      "Competence": 1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Appears lost in a trance while his family is being attended to and officials are managing the situation.",
+      "assessment": "This moment of detachment suggests a lapse in active engagement or emotional processing, which could be interpreted as a lack of coping skill or mental focus in a critical moment.",
+      "rating": -1,
+      "chunk": 7
     },
     {
-      "Action": "Defends Cherita against racist remarks by friends, demonstrating social awareness and moral judgment.",
-      "Competence": 1,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "When Samantha complains that Donnie stinks, he responds by saying he will fart in her face when she falls asleep.",
+      "assessment": "This teasing response is playful but also somewhat immature and could be perceived as unfriendly or irritating rather than warm or kind.",
+      "rating": -1,
+      "chunk": 8
     },
     {
-      "Action": "Responds thoughtfully to Ms. Pomeroy's question, showing engagement with literature and deeper meaning.",
-      "Warmth": 1,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Lies in bed watching television, seemingly disengaged from the conversation around him.",
+      "assessment": "This behavior suggests passivity and a lack of active engagement or initiative in his environment, indicating a lower level of competence in this context.",
+      "rating": -1,
+      "chunk": 8
     },
     {
-      "Action": "Grins ear to ear and makes eye contact with Gretchen when she sits next to him in class.",
-      "Warmth": 1,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Responds to Samantha's complaint about sleeping with him by jokingly threatening to fart in her face.",
+      "assessment": "This response shows a casual, somewhat immature approach to social interactions, lacking tact or confidence in handling interpersonal situations skillfully.",
+      "rating": -1,
+      "chunk": 8
     },
     {
-      "Action": "Takes Grandma Death's hand and walks her back to her mailbox, opens it for her, smiles and tries to cheer her up.",
-      "Warmth": 1,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Appears lost in a trance when others are interacting.",
+      "assessment": "Being lost in a trance during social situations suggests a disconnect from reality or difficulty focusing, which negatively impacts his competence.",
+      "rating": -2,
+      "chunk": 8
     },
     {
-      "Action": "Asks Eddie detailed questions about the origin of the roof damage, showing curiosity and attention to detail.",
-      "Competence": 1,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Donnie tells Sean to leave Cherita alone when Sean makes a racist remark.",
+      "assessment": "Donnie intervenes to defend Cherita against a racist insult, showing tolerance and a protective attitude toward others.",
+      "rating": 3,
+      "chunk": 9
     },
     {
-      "Action": "Politely helps Grandma Death by holding her hand and opening her mailbox, showing social grace and maturity.",
-      "Competence": 1,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Donnie takes a cigarette from Sean and smokes with his friends despite seeming reluctant.",
+      "assessment": "Donnie participates in smoking with friends, possibly to fit in, but his hesitation and concern about consequences suggest some awareness and restraint.",
+      "rating": 0,
+      "chunk": 9
     },
     {
-      "Action": "Responds with a thoughtful smile and simple words about mail and tomorrow, indicating emotional intelligence and calmness.",
-      "Competence": 1,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Donnie refuses to talk about his recent sleepwalking and strange experiences.",
+      "assessment": "Donnie's reluctance to share personal struggles may indicate emotional guardedness or difficulty trusting others, which can limit warmth.",
+      "rating": -1,
+      "chunk": 9
     },
     {
-      "Action": "Stands silently and listens to Grandma Death's profound statement without interrupting, showing respect and reflective behavior.",
-      "Competence": 1,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Dodges a bullet, as noted by Eddie.",
+      "assessment": "This action metaphorically suggests Donnie's ability to avoid danger or harm, indicating a level of situational awareness or luck that reflects positively on his competence.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Admits to skipping medication and purposely trying to make his mother feel guilty, psychologically abusing her.",
-      "Warmth": -1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Refuses to talk about his sleepwalking episode when questioned by friends.",
+      "assessment": "This shows a reluctance to share or confront personal issues, which may indicate emotional guardedness or avoidance rather than confident handling of his situation, slightly detracting from perceived competence.",
+      "rating": -1,
+      "chunk": 9
     },
     {
-      "Action": "Shares with Dr. Thurman about meeting a new friend and recounts how this friend saved his life.",
-      "Warmth": 1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Takes a cigarette from Sean and smokes with friends despite being underage.",
+      "assessment": "This action shows a willingness to engage in risky or rebellious behavior, which may reflect social confidence but poor judgment, thus mixed implications for competence.",
+      "rating": 0,
+      "chunk": 9
     },
     {
-      "Action": "Admits to psychologically manipulating his mother but is aware of his actions.",
-      "Competence": 0,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Defends Cherita when Sean makes a racist remark.",
+      "assessment": "This demonstrates moral courage and social awareness, indicating emotional intelligence and assertiveness, which are positive indicators of competence.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Skips medication cycles despite being advised to take them regularly.",
-      "Competence": -1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Donnie walks through the school hallway surrounded by swarms of girls with a huge smile on his face.",
+      "assessment": "This suggests social confidence and a degree of social competence, as he navigates a crowded environment with ease and positive demeanor.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Accurately recounts the event of a jet engine falling on his bed and following 'Frank's' instructions, showing awareness of his experience.",
-      "Competence": 1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Sits in the front of the English class attentively while Ms. Pomeroy reads and asks questions.",
+      "assessment": "This indicates attentiveness and engagement in an academic setting, reflecting intellectual competence and willingness to participate.",
+      "rating": 1,
+      "chunk": 10
     },
     {
-      "Action": "Expresses skepticism about the claim that the world is coming to an end, showing critical thinking.",
-      "Competence": 1,
-      "Chunk": 13
+      "trait": "warmth",
+      "action": "Responds thoughtfully to Ms. Pomeroy's question about the story, reflecting on destruction as a form of creation and the desire to change things.",
+      "assessment": "Donnie's response shows insight and a willingness to engage sincerely with the class discussion, indicating openness and thoughtfulness.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Mentions meeting an imaginary or supernatural friend and believes in impossible events without clear evidence, which may indicate confusion or lack of grounded judgment.",
-      "Competence": -1,
-      "Chunk": 13
+      "trait": "warmth",
+      "action": "Grins ear to ear and makes eye contact with Gretchen as she sits next to him.",
+      "assessment": "Donnie's warm and friendly reaction to Gretchen suggests he is approachable and open to new social connections.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Tells Cherita to go home and be safe",
-      "Warmth": 1,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Describes his school day positively to Eddie, mentioning simple pleasures like peanut-butter sandwiches and apples and honey.",
+      "assessment": "Sharing positive, simple details about his day reflects a friendly and sincere nature, showing Donnie's ability to appreciate small joys and communicate warmly.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Shows a horrible expression on hearing school is cancelled due to flooding",
-      "Warmth": 0,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Provides an insightful interpretation of the short story, explaining that destruction is a form of creation and noting the irony in burning the money.",
+      "assessment": "This shows Donnie's ability to think critically and articulate complex ideas clearly, indicating intellectual competence.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Recognizes the seriousness of the school flood and reacts with a horrible expression, indicating awareness and concern.",
-      "Competence": 1,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Grins ear to ear and makes eye contact confidently when Gretchen chooses to sit next to him.",
+      "assessment": "This suggests social confidence and self-assuredness in a potentially awkward social situation, reflecting a degree of interpersonal competence.",
+      "rating": 1,
+      "chunk": 11
     },
     {
-      "Action": "Encourages Sam to call Joanie's mom from home, showing initiative and thoughtfulness.",
-      "Competence": 1,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Gets out of the car and takes Grandma Death's hand, walking her back towards her mailbox. He opens it for her and tells her there is no mail today, smiling gently.",
+      "assessment": "Donnie's actions show kindness, attentiveness, and respect toward an elderly woman, indicating a considerate and warm nature.",
+      "rating": 3,
+      "chunk": 12
     },
     {
-      "Action": "Tells Cherita to go home for her own good, demonstrating some social responsibility and situational awareness.",
-      "Competence": 1,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Smiles at Grandma Death after telling her there is no mail today.",
+      "assessment": "The smile is a friendly and sincere gesture, reinforcing his good-natured and gentle demeanor.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Warns Gretchen to check her backpack because others might steal from her.",
-      "Competence": 1,
-      "Chunk": 16
+      "trait": "warmth",
+      "action": "Stands silently after Grandma Death tells him 'Every living creature... on this earth... dies alone.'",
+      "assessment": "His silence here may indicate respect and contemplation rather than coldness or indifference, showing emotional sensitivity.",
+      "rating": 1,
+      "chunk": 12
     },
     {
-      "Action": "Engages confidently with Gretchen despite hostile onlookers (Seth and Ricky).",
-      "Competence": 1,
-      "Chunk": 16
+      "trait": "competence",
+      "action": "Asks Eddie if they know where the roof debris came from.",
+      "assessment": "This shows Donnie's curiosity and desire to understand the situation, indicating an active and engaged mind.",
+      "rating": 1,
+      "chunk": 12
     },
     {
-      "Action": "Responds casually when Gretchen tells him not to look freaked, showing social ease and self-assurance.",
-      "Competence": 1,
-      "Chunk": 16
+      "trait": "competence",
+      "action": "Politely helps Grandma Death by taking her hand, walking her to her mailbox, and opening it for her.",
+      "assessment": "This demonstrates social awareness, kindness, and attentiveness, reflecting emotional intelligence and interpersonal competence.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Explains the significance of antiseptics with historical reference, showing knowledge and intelligence.",
-      "Competence": 1,
-      "Chunk": 17
+      "trait": "competence",
+      "action": "Stands silently and processes Grandma Death's statement about dying alone.",
+      "assessment": "His silence suggests thoughtful reflection and emotional maturity, indicating internal processing rather than impulsive reaction.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Admits to prior mistakes such as burning down an abandoned house and being held back in school.",
-      "Competence": -1,
-      "Chunk": 17
+      "trait": "competence",
+      "action": "Responds to Eddie's frustration about the roof repair and airline with a calm question.",
+      "assessment": "Donnie remains composed and seeks information rather than reacting emotionally, showing self-control and rationality.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Engages thoughtfully and confidently in conversation about future ambitions (painter, writer) and changing things.",
-      "Competence": 1,
-      "Chunk": 17
+      "trait": "warmth",
+      "action": "Admits to Dr. Thurman that he psychologically abuses his mother to make her feel guilty.",
+      "assessment": "This admission reveals a troubling and manipulative behavior towards a close family member, indicating low warmth.",
+      "rating": -2,
+      "chunk": 13
     },
     {
-      "Action": "Mentions personal difficulties (jail, academic setbacks) without seeming overwhelmed or defeated.",
-      "Competence": 0,
-      "Chunk": 17
+      "trait": "warmth",
+      "action": "Shares with Dr. Thurman about his imaginary friend Frank and how Frank saved his life.",
+      "assessment": "Opening up about his experiences and feelings to a therapist shows a degree of trust and sincerity, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Engages in a sincere and somewhat vulnerable conversation with Gretchen, including asking her to go out with him.",
-      "Warmth": 1,
-      "Chunk": 18
+      "trait": "warmth",
+      "action": "Expresses skepticism about the world ending despite Frank's warnings.",
+      "assessment": "His ability to critically assess and reject irrational fears suggests a grounded and rational mindset, but this is neutral in terms of warmth.",
+      "rating": 0,
+      "chunk": 13
     },
     {
-      "Action": "Apologizes when Gretchen calls him weird, showing politeness and sensitivity.",
-      "Warmth": 1,
-      "Chunk": 18
+      "trait": "competence",
+      "action": "Admits to skipping cycles of his medication but claims to be taking it to manipulate his mother psychologically.",
+      "assessment": "This shows a level of psychological insight and manipulative skill, indicating some competence in understanding and influencing others, though it also reflects problematic behavior.",
+      "rating": 1,
+      "chunk": 13
     },
     {
-      "Action": "Shares a personal, somewhat innocent observation about soap being the only thing that never gets dirty.",
-      "Warmth": 1,
-      "Chunk": 18
+      "trait": "competence",
+      "action": "Describes meeting Frank and following his instructions to get out of bed just before a jet engine crashes into his room.",
+      "assessment": "This suggests Donnie is capable of perceiving and acting on unusual or extraordinary information, showing decisiveness and presence of mind in a critical moment.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Engages in a playful, philosophical observation about soap being the only thing that can't get dirty, showing abstract thinking.",
-      "Competence": 1,
-      "Chunk": 18
+      "trait": "competence",
+      "action": "Tells Dr. Thurman he does not believe the world is coming to an end and calls the idea 'stupid.'",
+      "assessment": "This indicates a rational and skeptical mindset, demonstrating critical thinking and emotional control despite the bizarre circumstances he describes.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Successfully initiates a personal conversation and asks Gretchen to go out with him, showing social confidence.",
-      "Competence": 1,
-      "Chunk": 18
+      "trait": "competence",
+      "action": "Rubs his arm where numbers are lightly drawn, showing a physical reminder of his experiences.",
+      "assessment": "This may indicate a reliance on external cues or rituals, which could suggest some vulnerability or lack of internal confidence in his understanding, slightly detracting from his competence.",
+      "rating": -1,
+      "chunk": 13
     },
     {
-      "Action": "Responds to therapist's questions with evasive or off-topic answers, failing to address the intended topics.",
-      "Competence": -1,
-      "Chunk": 18
+      "trait": "warmth",
+      "action": "Grabs the piece of paper from his sister Samantha and reads it out loud.",
+      "assessment": "Donnie's action of taking the paper and reading aloud shows engagement with his sister's interests, indicating a degree of attentiveness and connection, though the act of pushing her away is somewhat inconsiderate.",
+      "rating": 1,
+      "chunk": 14
     },
     {
-      "Action": "Responds honestly to Dr. Thurman's question about thinking of Alyssa Milano rather than his family; rejects the idea of thinking about his family in a sexual way, calling it sick.",
-      "Warmth": 1,
-      "Chunk": 19
+      "trait": "warmth",
+      "action": "Pushes Samantha away when she asks for her paper back.",
+      "assessment": "Pushing his sister away suggests a lack of patience or consideration for her feelings, which detracts from warmth.",
+      "rating": -1,
+      "chunk": 14
     },
     {
-      "Action": "Shows disengagement and detachment by undoing his belt and not paying attention during therapy.",
-      "Warmth": -1,
-      "Chunk": 19
+      "trait": "warmth",
+      "action": "Comments on the bus delay by warning about a potential danger (a man in a van) and the possibility of parents suing the school board.",
+      "assessment": "While the comment is somewhat sarcastic and dark, it shows Donnie's awareness and concern for safety, which can be interpreted as protective, but the tone is not particularly warm or friendly.",
+      "rating": 0,
+      "chunk": 14
     },
     {
-      "Action": "Writes 'They made me do it' repeatedly on the classroom blackboard without hesitation, appearing resigned and possibly seeking to communicate something covertly.",
-      "Warmth": 0,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Rounding the corner in the dark school hallway carrying a flashlight, spray paint, and an axe, then smashing metal piping in the basement.",
+      "assessment": "This action shows Donnie's decisiveness and physical capability to carry out a potentially difficult task alone at night, indicating a level of confidence and skill in handling tools and navigating a dark environment.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Turns the volume down and focuses his thoughts on a specific subject during school instead of random distractions.",
-      "Competence": 1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Grabbing the piece of paper from his sister and reading it aloud despite her protests.",
+      "assessment": "This suggests a certain assertiveness and confidence in social interactions, though it may also reflect impulsiveness or disregard for others' feelings, which complicates the competence assessment.",
+      "rating": 1,
+      "chunk": 14
     },
     {
-      "Action": "Is disengaged in therapy session, undoing his belt and not paying attention, needing to be jolted awake by Dr. Thurman.",
-      "Competence": -1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Pointing out the safety risk of waiting for the bus and correctly referencing a school rule about going home if the bus is late.",
+      "assessment": "This indicates situational awareness, practical thinking, and knowledge of rules, reflecting cognitive competence and social awareness.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Writes repeatedly on the blackboard without hesitation when asked, showing decisiveness and confidence.",
-      "Competence": 1,
-      "Chunk": 19
+      "trait": "warmth",
+      "action": "Tells Cherita to go home when the bus is coming to avoid trouble.",
+      "assessment": "Donnie shows a protective and considerate attitude toward Cherita, encouraging her to avoid getting into trouble, which reflects a caring and responsible nature.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Participates in a casual, friendly activity with peers (shooting bottles and stuffed animals with a BB gun).",
-      "Warmth": 1,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Encourages Sam to call Joanie's mom from home and tells Cherita to go home to avoid trouble with the bus.",
+      "assessment": "This shows Donnie's awareness of social dynamics and responsibility, indicating a level of social competence and situational awareness.",
+      "rating": 1,
+      "chunk": 15
     },
     {
-      "Action": "Observes Jim Cunningham's 'Controlling Fear' program quietly and attentively.",
-      "Warmth": 0,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Displays a horrible expression upon hearing that school is cancelled due to flooding.",
+      "assessment": "This reaction suggests emotional sensitivity and possibly a lack of control over his feelings, which may reflect some vulnerability rather than competence.",
+      "rating": 0,
+      "chunk": 15
     },
     {
-      "Action": "Observes carefully during the health class presentation and the video 'Controlling Fear' implying awareness and reflection.",
-      "Competence": 1,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Walks up to Gretchen and offers to walk her home.",
+      "assessment": "Donnie shows friendliness and a protective attitude by accompanying Gretchen, indicating a sincere and considerate nature.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Engages casually with friends in target practice, handling a BB gun with apparent ease and focus.",
-      "Competence": 1,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Warns Gretchen to check her backpack because some guys like to steal stuff.",
+      "assessment": "This warning reflects Donnie's concern for Gretchen's safety and well-being, demonstrating trustworthiness and care.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Passively watches the video without interrupting or questioning, showing some openness to new ideas.",
-      "Competence": 0,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Approaches Gretchen and confidently informs her that school is cancelled.",
+      "assessment": "Donnie demonstrates social awareness and confidence by initiating conversation and sharing relevant information clearly.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Corrects the others' incorrect story about Smurfette with detailed knowledge and a sarcastic tone.",
-      "Warmth": 0,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Warns Gretchen to check her backpack because Seth and Ricky like to steal things.",
+      "assessment": "This shows Donnie's situational awareness and protective instincts, indicating good judgment and social intelligence.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Repeatedly fires a gun at bottles in a casual, somewhat destructive manner.",
-      "Warmth": -1,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Accepts Gretchen's invitation to walk her home without hesitation.",
+      "assessment": "Donnie's quick acceptance suggests social confidence and decisiveness.",
+      "rating": 1,
+      "chunk": 16
     },
     {
-      "Action": "Corrects others' misinformation about Smurfette's origin and the nature of Smurfs, demonstrating knowledge and critical thinking.",
-      "Competence": 1,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Does not react negatively or show fear when Seth and Ricky look furious at him and Gretchen.",
+      "assessment": "Maintaining composure in the face of potential social conflict indicates emotional control and confidence.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Uses a gun to shoot bottles and a Smurf doll accurately.",
-      "Competence": 1,
-      "Chunk": 21
+      "trait": "warmth",
+      "action": "Listens attentively as Gretchen shares her traumatic family history and responds with empathy by sharing his own troubled past.",
+      "assessment": "Donnie shows sincere interest and empathy, creating a trusting and open atmosphere, which indicates warmth.",
+      "rating": 3,
+      "chunk": 17
     },
     {
-      "Action": "Makes a cynical or dismissive comment about the purpose of life related to reproductive organs, which could reflect a lack of sensitivity or social tact.",
-      "Competence": 0,
-      "Chunk": 21
+      "trait": "warmth",
+      "action": "Engages in light-hearted, imaginative conversation with Gretchen about his future aspirations and superhero identity.",
+      "assessment": "This playful and friendly interaction demonstrates Donnie's ability to connect and be sincere in building rapport.",
+      "rating": 2,
+      "chunk": 17
     },
     {
-      "Action": "Recalls Grandma Death's age and daily routine accurately, showing awareness and memory.",
-      "Competence": 1,
-      "Chunk": 22
+      "trait": "warmth",
+      "action": "Offers a thoughtful answer to Gretchen's question about the greatest invention benefiting mankind.",
+      "assessment": "Donnie's willingness to share knowledge and engage intellectually shows openness and a friendly disposition.",
+      "rating": 2,
+      "chunk": 17
     },
     {
-      "Action": "Takes prescribed medication but then puts the pills back in the cabinet after taking them, suggesting confusion or uncertainty about his dosage.",
-      "Competence": -1,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Engages in a thoughtful conversation with Gretchen about personal and difficult topics, such as family issues and his own past mistakes.",
+      "assessment": "This shows emotional intelligence and social awareness, indicating Donnie's ability to connect and communicate effectively despite personal challenges.",
+      "rating": 2,
+      "chunk": 17
     },
     {
-      "Action": "Lies calmly on the couch watching TV, appearing relaxed but possibly disengaged from proactive behavior.",
-      "Competence": 0,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Accurately identifies antiseptics and Joseph Lister's contribution to sanitation when asked about the greatest invention.",
+      "assessment": "This demonstrates Donnie's knowledge and intellectual curiosity, reflecting competence in understanding and recalling important historical and scientific facts.",
+      "rating": 2,
+      "chunk": 17
     },
     {
-      "Action": "Reaches out to Frank and presses his hand against an invisible barrier, then questions how Frank can do that.",
-      "Competence": 0,
-      "Chunk": 23
+      "trait": "competence",
+      "action": "Mentions his past mistakes openly, including being in jail and burning down an abandoned house.",
+      "assessment": "While this shows honesty and self-awareness, it also reveals past poor judgment and impulsivity, which detracts somewhat from his overall competence.",
+      "rating": -1,
+      "chunk": 17
     },
     {
-      "Action": "Confronts Frank about flooding the school, showing desperation and confusion.",
-      "Warmth": 0,
-      "Chunk": 24
+      "trait": "competence",
+      "action": "Expresses uncertainty about his future career path, listing multiple options without a clear direction.",
+      "assessment": "This indicates a lack of decisiveness and confidence in planning his future, suggesting some immaturity or indecision.",
+      "rating": -1,
+      "chunk": 17
     },
     {
-      "Action": "Questions Frank about the flooding incident with curiosity and persistence, seeking to understand the reasons behind his actions.",
-      "Competence": 1,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Engages in a sincere and somewhat vulnerable conversation with Gretchen, asking her to go out with him.",
+      "assessment": "Donnie shows openness and a willingness to connect emotionally, indicating friendliness and sincerity.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Appears desperate and confused when asking Frank about his origins and intentions.",
-      "Competence": 0,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Responds to Gretchen calling him weird with an apology and a gentle tone.",
+      "assessment": "His response suggests sensitivity and a desire to maintain a positive interaction, reflecting good-natured behavior.",
+      "rating": 1,
+      "chunk": 18
     },
     {
-      "Action": "Turns away from the conversation abruptly when Samantha appears and Frank disappears, showing possible distraction or inability to maintain focus.",
-      "Competence": 0,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Shares a philosophical thought about soap being the only thing that can never get dirty.",
+      "assessment": "This shows a reflective and somewhat innocent side, which can be interpreted as a gentle and sincere outlook.",
+      "rating": 1,
+      "chunk": 18
     },
     {
-      "Action": "Plays a game with Gretchen and engages in thoughtful, sincere conversation about his sleepwalking experiences.",
-      "Warmth": 1,
-      "Chunk": 25
+      "trait": "warmth",
+      "action": "In therapy, when asked about school, repeatedly redirects the conversation to thinking about girls and uses profanity.",
+      "assessment": "This behavior may indicate defensiveness or avoidance, which can hinder open and trustworthy communication, slightly reducing perceived warmth.",
+      "rating": -1,
+      "chunk": 18
     },
     {
-      "Action": "Listens quietly and considers Gretchen's questions without dismissing them.",
-      "Warmth": 1,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Engages in a thoughtful, metaphorical conversation about soap with Gretchen, demonstrating abstract thinking.",
+      "assessment": "This shows Donnie's ability to think symbolically and engage in deeper conversations, indicating intellectual competence.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Explains his sleepwalking experiences thoughtfully and articulately, showing awareness and reflection.",
-      "Competence": 1,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Asks Gretchen to go out with him despite social awkwardness, clarifying his meaning when misunderstood.",
+      "assessment": "This reflects social confidence and communication skills, showing he can navigate social interactions effectively.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Demonstrates curiosity and engagement by discussing complex personal experiences with Gretchen.",
-      "Competence": 1,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Responds to therapist Dr. Thurman with brief, somewhat evasive answers, focusing on girls rather than school.",
+      "assessment": "This suggests a lack of openness or avoidance in therapy, which may indicate emotional or psychological struggles impacting his competence in self-reflection.",
+      "rating": -1,
+      "chunk": 18
     },
     {
-      "Action": "Shares a dark, imaginative statement about delivering children from pain and monsters, revealing a protective intention.",
-      "Warmth": 1,
-      "Chunk": 26
+      "trait": "competence",
+      "action": "Maintains composure and follows instructions in therapy (e.g., waking up on command).",
+      "assessment": "Shows ability to comply and engage with therapeutic process, indicating some level of self-control and cooperation.",
+      "rating": 1,
+      "chunk": 18
     },
     {
-      "Action": "Refers to Frank as a six-foot-tall bunny rabbit, causing the class to laugh, but looks over at Gretchen, indicating a subtle connection or seeking support.",
-      "Warmth": 1,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Responds to Dr. Thurman's question about family by saying, 'No, I don't think about fucking my family. That's sick!'",
+      "assessment": "Donnie's blunt dismissal of thinking about his family in a sexual context shows a boundary of respect, indicating some level of decency and awareness, though expressed in a crude manner.",
+      "rating": 1,
+      "chunk": 19
     },
     {
-      "Action": "Delivers a dramatic and somewhat cryptic poem to the class confidently, despite provoking laughter.",
-      "Competence": 1,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Writes 'They made me do it' repeatedly on the blackboard in class without hesitation.",
+      "assessment": "This action suggests a possible externalization of blame or distress, but it does not directly indicate warmth; it may reflect internal turmoil or detachment rather than friendliness or sincerity.",
+      "rating": 0,
+      "chunk": 19
     },
     {
-      "Action": "Responds to a question about 'Frank' with a simple, surreal answer rather than clarifying or elaborating.",
-      "Competence": 0,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Jolts awake and appears disoriented when Dr. Thurman claps her hands to get his attention.",
+      "assessment": "His disorientation and lack of focus may indicate difficulty engaging sincerely or attentively with others, which can be a negative indicator of warmth.",
+      "rating": -1,
+      "chunk": 19
     },
     {
-      "Action": "Raises his hand to respond when confronted with an ultimatum about completing the assignment.",
-      "Competence": 1,
-      "Chunk": 28
+      "trait": "competence",
+      "action": "Donnie is distracted during therapy, undoing his belt and not paying attention until Dr. Thurman claps her hands to jolt him awake.",
+      "assessment": "This behavior suggests a lack of focus and self-discipline in a formal setting, indicating lower competence in managing his own attention and engagement.",
+      "rating": -2,
+      "chunk": 19
     },
     {
-      "Action": "Refuses to answer Principal Cole's question about what he said to Ms. Farmer, showing evasiveness or silence in a difficult situation.",
-      "Competence": -1,
-      "Chunk": 28
+      "trait": "competence",
+      "action": "In English class, Donnie writes 'They made me do it' repeatedly on the blackboard without hesitation when called upon.",
+      "assessment": "This action shows a confident and deliberate response, indicating a certain level of decisiveness and willingness to confront authority, which can be seen as a sign of competence in self-expression.",
+      "rating": 1,
+      "chunk": 19
     },
     {
-      "Action": "Asks Ms. Farmer to forcibly insert a card into her anus, resulting in suspension and social trouble.",
-      "Competence": -1,
-      "Chunk": 28
+      "trait": "competence",
+      "action": "Donnie sits with eyes wide open, staring blankly during roll call and police presence in class.",
+      "assessment": "This suggests anxiety or shock, reflecting a momentary lapse in emotional control and situational competence.",
+      "rating": -1,
+      "chunk": 19
     },
     {
-      "Action": "Reflects quietly in his room, observing changes after the accident, showing introspection but no interaction.",
-      "Warmth": 0,
-      "Chunk": 29
+      "trait": "warmth",
+      "action": "Participates in a casual shooting game with friends Sean and Ronald, taking turns and sharing the activity.",
+      "assessment": "Engaging in a shared activity with peers suggests a willingness to connect and be part of a social group, indicating some degree of friendliness and sociability.",
+      "rating": 1,
+      "chunk": 20
     },
     {
-      "Action": "Stays behind after class to ask Dr. Monnitoff about time travel, showing curiosity and trust in a teacher.",
-      "Warmth": 1,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Donnie stares intently at the screen during Jim Cunningham's 'Controlling Fear' video.",
+      "assessment": "This action suggests Donnie's attentiveness and willingness to engage with complex or challenging material, indicating intellectual curiosity and focus.",
+      "rating": 1,
+      "chunk": 20
     },
     {
-      "Action": "Notices and reflects on changes in his room after the accident, indicating awareness and observation.",
-      "Competence": 1,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Donnie lines up several empty beer bottles, cans, and stuffed animals as targets and takes turns shooting them with a BB gun.",
+      "assessment": "This demonstrates Donnie's ability to organize and participate in a group activity requiring some degree of hand-eye coordination and social interaction, reflecting basic competence in physical and social skills.",
+      "rating": 1,
+      "chunk": 20
     },
     {
-      "Action": "Marks the calendar obsessively and tracks exact time intervals with precision.",
-      "Competence": 1,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Donnie does not react negatively or impulsively to Sean drinking Raspberry Night Train and gagging.",
+      "assessment": "Donnie's calm and nonjudgmental response in a social setting suggests emotional regulation and social awareness, which are components of competence.",
+      "rating": 1,
+      "chunk": 20
     },
     {
-      "Action": "Initiates a conversation with the physics teacher about time travel, showing curiosity and intellectual initiative.",
-      "Competence": 1,
-      "Chunk": 29
+      "trait": "warmth",
+      "action": "Corrects Ronald and Sean's crude and inaccurate story about Smurfette, explaining the original story and the nature of Smurfs.",
+      "assessment": "Donnie's correction shows a desire to clarify misinformation and engage intellectually, but the tone is somewhat dismissive and sarcastic, which may not foster warmth.",
+      "rating": 0,
+      "chunk": 21
     },
     {
-      "Action": "Does not directly engage in social interaction or appears passive in other parts of the excerpt; limited evidence of confident social behavior.",
-      "Competence": 0,
-      "Chunk": 29
+      "trait": "warmth",
+      "action": "Engages in crude and somewhat aggressive behavior by aiming a gun at Smurfette and shooting bottles, causing them to break.",
+      "assessment": "This behavior is aggressive and potentially intimidating, indicating a lack of friendliness or trustworthiness in this moment.",
+      "rating": -2,
+      "chunk": 21
     },
     {
-      "Action": "Engages thoughtfully in a complex discussion about wormholes and time travel, asking clarifying questions and connecting ideas (e.g., mentioning the DeLorean reference).",
-      "Competence": 1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Corrects Ronald and Sean's misinformation about Smurfette and the Smurfs, providing a detailed and logical explanation about their origins and nature.",
+      "assessment": "This action demonstrates Donnie's intelligence, knowledge, and ability to think critically and articulate his thoughts clearly, indicating a high level of competence in reasoning and communication.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Demonstrates curiosity and awareness by attentively listening, taking the book, and making connections to historical context (Roberta Sparrow).",
-      "Competence": 1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Aims the gun and shoots at targets (Smurfette's head and bottles) with apparent accuracy.",
+      "assessment": "This shows Donnie's physical coordination and skill with a firearm, suggesting competence in handling weapons and focus.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Shares an intriguing story about 'Grandma Death' with his family during dinner, engaging them in conversation.",
-      "Warmth": 1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Takes a small sip of Night Train after others react with dry heaves.",
+      "assessment": "This indicates some level of confidence and tolerance, but it is a minor indicator of competence and could also suggest recklessness or poor judgment depending on context.",
+      "rating": 0,
+      "chunk": 21
     },
     {
-      "Action": "Mentions almost hitting Roberta Sparrow with the car, showing awareness and remorse.",
-      "Warmth": 1,
-      "Chunk": 31
+      "trait": "warmth",
+      "action": "Observes Grandma Death's repetitive behavior and comments on it with a hint of empathy.",
+      "assessment": "Donnie shows a gentle awareness of an elderly woman's lonely routine, indicating a degree of sensitivity and tolerance.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Engages in playful activity with Gretchen on the trampoline.",
-      "Warmth": 1,
-      "Chunk": 31
+      "trait": "warmth",
+      "action": "Passively watches Grandma Death with friends without intervening or offering help.",
+      "assessment": "While Donnie notices Grandma Death's situation, he does not take any action to assist her, reflecting a lack of proactive kindness.",
+      "rating": -1,
+      "chunk": 22
     },
     {
-      "Action": "Discusses his experiences seeing Frank with his therapist openly, showing trust and sincerity.",
-      "Warmth": 1,
-      "Chunk": 31
+      "trait": "warmth",
+      "action": "Takes his medication quietly and without complaint, showing self-care.",
+      "assessment": "This action suggests responsibility and sincerity towards his own well-being, which can be a positive indicator of warmth in terms of self-trustworthiness.",
+      "rating": 1,
+      "chunk": 22
     },
     {
-      "Action": "Dismisses Gretchen's theory about Frank being a sign as ridiculous.",
-      "Warmth": -1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Accurately recalls Grandma Death's age and daily routine despite its monotony.",
+      "assessment": "This shows Donnie's observational skills and memory, indicating a level of attentiveness and intelligence.",
+      "rating": 1,
+      "chunk": 22
     },
     {
-      "Action": "Expresses a desire not to be alone and reflects sincerely on mortality and loss, sharing memories of his dog Callie.",
-      "Warmth": 1,
-      "Chunk": 32
+      "trait": "competence",
+      "action": "Takes four pills from the medicine cabinet and then puts them back after drinking water.",
+      "assessment": "This action suggests some confusion or ambivalence about medication, possibly indicating a lack of decisiveness or understanding about his treatment.",
+      "rating": -1,
+      "chunk": 22
     },
     {
-      "Action": "Openly admits uncertainty and searches for meaning about life and death in conversation with Dr. Thurman.",
-      "Warmth": 1,
-      "Chunk": 32
+      "trait": "competence",
+      "action": "Lies on the couch watching television calmly after a stressful event (flooded school).",
+      "assessment": "This could indicate a passive or resigned attitude rather than proactive problem-solving, reflecting limited agency or confidence in handling situations.",
+      "rating": 0,
+      "chunk": 22
     },
     {
-      "Action": "Reflects on existential questions thoughtfully and chooses a rational approach instead of getting lost in unprovable debates.",
-      "Competence": 1,
-      "Chunk": 32
+      "trait": "competence",
+      "action": "Reaches out his hand towards Frank and presses against an invisible wall, then steps back after observing Frank's response.",
+      "assessment": "This action shows Donnie's curiosity and willingness to engage with the unknown, but also a cautiousness and ability to recognize limits, indicating a thoughtful and measured approach rather than reckless behavior.",
+      "rating": 1,
+      "chunk": 23
     },
     {
-      "Action": "Admits uncertainty about bigger questions and expresses vulnerability about feeling alone.",
-      "Competence": 0,
-      "Chunk": 32
+      "trait": "warmth",
+      "action": "Questions Frank about why he made him flood the school.",
+      "assessment": "Donnie's questioning shows a desire to understand the consequences of his actions, indicating some level of responsibility and reflection, which can be a sign of sincerity.",
+      "rating": 1,
+      "chunk": 24
     },
     {
-      "Action": "Follows his spear into the foyer and master bedroom, discovers a hidden gun.",
-      "Warmth": 0,
-      "Chunk": 33
+      "trait": "warmth",
+      "action": "Turns to Samantha when she asks who he is talking to.",
+      "assessment": "Donnie acknowledges Samantha's presence and responds to her, showing awareness and some social engagement, which suggests a basic level of friendliness.",
+      "rating": 1,
+      "chunk": 24
     },
     {
-      "Action": "Follows the mysterious spear that appears to lead him purposefully through the house to a hidden box.",
-      "Competence": 1,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "Floods the school by breaking through the water main as instructed by Frank.",
+      "assessment": "This action shows Donnie's ability to carry out a complex and risky task, indicating a certain level of decisiveness and capability, though it is morally questionable.",
+      "rating": 1,
+      "chunk": 24
     },
     {
-      "Action": "Does not hesitate to open the closet and retrieve the box despite its mysterious nature.",
-      "Competence": 1,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "Questions Frank about the purpose of flooding the school and the identity of 'we'.",
+      "assessment": "Donnie demonstrates critical thinking and curiosity, showing he is not blindly following orders but seeks to understand the reasons behind his actions.",
+      "rating": 2,
+      "chunk": 24
     },
     {
-      "Action": "Looks at the gun with nervous shock, then carefully puts it back in the box and stows it away",
-      "Warmth": 1,
-      "Chunk": 34
+      "trait": "competence",
+      "action": "Engages in conversation with an apparently imaginary figure (Frank) about complex concepts like time travel.",
+      "assessment": "While this shows imaginative or abstract thinking, it also suggests possible detachment from reality, which may undermine practical competence.",
+      "rating": 0,
+      "chunk": 24
     },
     {
-      "Action": "Arrives at bus stop tired and preoccupied, by himself",
-      "Warmth": 0,
-      "Chunk": 34
+      "trait": "warmth",
+      "action": "Plays a Sega race-car driving game with Gretchen, engaging in casual conversation about his sleepwalking experiences.",
+      "assessment": "Donnie's willingness to share personal and somewhat vulnerable information about his sleepwalking with Gretchen indicates a level of trust and openness, suggesting friendly and sincere behavior.",
+      "rating": 2,
+      "chunk": 25
     },
     {
-      "Action": "Keeps the banned Graham Greene book hidden by slipping it into his backpack",
-      "Warmth": 0,
-      "Chunk": 34
+      "trait": "warmth",
+      "action": "Listens attentively to Gretchen's questions and thoughts about sleepwalking and the idea of being watched.",
+      "assessment": "Donnie's attentive and responsive interaction with Gretchen shows tolerance and respect for her perspective, reflecting positive warmth traits.",
+      "rating": 2,
+      "chunk": 25
     },
     {
-      "Action": "Takes Gretchen's hand and attempts to kiss her despite awkwardness; shows vulnerability and desire for sincere connection.",
-      "Warmth": 1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Engages thoughtfully in conversation with Gretchen about his sleepwalking experiences, describing the sensations and locations with clarity and insight.",
+      "assessment": "This action shows Donnie's ability to articulate complex internal experiences clearly and thoughtfully, indicating a level of self-awareness and intellectual engagement.",
+      "rating": 2,
+      "chunk": 25
     },
     {
-      "Action": "Responds to Gretchen's rejection of the kiss with understanding and no resentment.",
-      "Warmth": 1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Plays a challenging Sega race-car driving game, driving a souped-up red Ferrari through the Grand Canyon.",
+      "assessment": "Successfully playing a difficult video game suggests good hand-eye coordination and focus, reflecting competent motor skills and concentration.",
+      "rating": 1,
+      "chunk": 25
     },
     {
-      "Action": "Finds a lost wallet and looks at the ID without taking anything or ignoring it.",
-      "Warmth": 1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Describes waking up in unfamiliar places after sleepwalking, including dangerous locations like the edge of a cliff.",
+      "assessment": "While this indicates unusual behavior, Donnie's awareness and ability to recall these events suggest a certain mental acuity, though the behavior itself may reflect underlying issues.",
+      "rating": 0,
+      "chunk": 25
     },
     {
-      "Action": "Shares personal information cautiously with Elizabeth, indicating some trust but also guarded behavior.",
-      "Warmth": 0,
-      "Chunk": 36
+      "trait": "warmth",
+      "action": "Delivers a poetic and somewhat ominous speech about protecting children from monsters, ending with 'Because I am Donnie Darko.'",
+      "assessment": "Donnie's speech suggests a protective and self-sacrificial attitude toward others, indicating a desire to shield and care for vulnerable people, which is a positive indicator of warmth.",
+      "rating": 2,
+      "chunk": 26
     },
     {
-      "Action": "Admits to being honest even if it gets him in trouble with teachers.",
-      "Warmth": 1,
-      "Chunk": 37
+      "trait": "warmth",
+      "action": "Responds to Ms. Pomeroy's question about Frank by saying 'A six-foot-tall bunny rabbit.'",
+      "assessment": "Donnie's answer is imaginative and playful, and although it causes the class to laugh, he does not appear to be mocking or mean-spirited, showing a certain sincerity and openness.",
+      "rating": 1,
+      "chunk": 26
     },
     {
-      "Action": "Responds with honesty rather than politeness when called out for mouthing off.",
-      "Warmth": 0,
-      "Chunk": 37
+      "trait": "warmth",
+      "action": "Looks over at Gretchen after the class laughs at his Frank comment.",
+      "assessment": "Donnie's glance toward Gretchen may indicate a desire for connection or reassurance, suggesting he values interpersonal relationships and is sensitive to others' reactions, a mild positive sign of warmth.",
+      "rating": 1,
+      "chunk": 26
     },
     {
-      "Action": "Admits to being honest when confronted about mouthing off to teachers.",
-      "Competence": 0,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "Delivers a cryptic and confident statement in front of the class about delivering children from pain and sending monsters back underground.",
+      "assessment": "This action shows Donnie's ability to speak confidently and command attention, indicating a level of intellectual and emotional competence in self-expression, despite the unusual content.",
+      "rating": 2,
+      "chunk": 26
     },
     {
-      "Action": "Insults his gym teacher, resulting in suspension.",
-      "Competence": -1,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "Responds to Ms. Pomeroy's question about Frank by calmly explaining that Frank is a six-foot-tall bunny rabbit.",
+      "assessment": "Donnie's straightforward and unflustered response to a potentially awkward question suggests social confidence and composure, though the content may undermine perceived maturity.",
+      "rating": 1,
+      "chunk": 26
     },
     {
-      "Action": "Turns the jack o' lantern to reveal a carving resembling Frank, showing creativity and symbolic insight.",
-      "Competence": 1,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "Looks over at Gretchen after the class laughs at his explanation.",
+      "assessment": "This subtle nonverbal action indicates awareness of social dynamics and possibly seeking connection or reassurance, reflecting social perceptiveness and emotional intelligence.",
+      "rating": 1,
+      "chunk": 26
     },
     {
-      "Action": "Walks into the kitchen and removes a butcher's knife from a drawer.",
-      "Warmth": 0,
-      "Chunk": 38
+      "trait": "warmth",
+      "action": "Questions the oversimplification of human emotions by Ms. Farmer, arguing that life and emotions are more complex than just fear and love.",
+      "assessment": "Donnie shows a thoughtful and sincere approach to understanding human emotions, indicating a depth of feeling and a desire for genuine understanding rather than superficial judgment.",
+      "rating": 2,
+      "chunk": 27
     },
     {
-      "Action": "Stands catatonic in front of bathroom mirror, then lunges with a knife at an invisible intruder (Frank) with psychotic rage.",
-      "Warmth": -1,
-      "Chunk": 38
+      "trait": "warmth",
+      "action": "Expresses frustration when Ms. Farmer does not listen to his perspective.",
+      "assessment": "While his frustration is understandable, it may come across as somewhat confrontational, showing a momentary lapse in patience or tolerance.",
+      "rating": -1,
+      "chunk": 27
     },
     {
-      "Action": "Walks into the kitchen and removes a butcher's knife, then lunges repeatedly at an invisible Frank with psychotic rage.",
-      "Competence": -1,
-      "Chunk": 38
+      "trait": "competence",
+      "action": "Challenges the teacher's oversimplified categorization of human emotions by arguing that life cannot be reduced to just fear and love.",
+      "assessment": "This action demonstrates Donnie's critical thinking skills, intellectual confidence, and willingness to question authority, indicating a high level of cognitive competence.",
+      "rating": 2,
+      "chunk": 27
     },
     {
-      "Action": "Ignores Gretchen's suggestion to leave and remains focused on Jim Cunningham, falling into a paranoid trance.",
-      "Competence": 0,
-      "Chunk": 39
+      "trait": "competence",
+      "action": "Expresses frustration and insists he does not understand the exercise, despite the teacher's impatience.",
+      "assessment": "While this shows self-awareness and honesty about his confusion, it also suggests a potential difficulty in adapting to rigid frameworks or instructions, which may reflect a moderate limitation in practical competence within structured settings.",
+      "rating": 0,
+      "chunk": 27
     },
     {
-      "Action": "Challenges Jim Cunningham publicly, insults his advice, mocks others' ideas about love and self-improvement.",
-      "Warmth": -1,
-      "Chunk": 40
+      "trait": "warmth",
+      "action": "Raises his hand to answer the teacher's question despite the tense situation.",
+      "assessment": "Raising his hand shows engagement and willingness to participate, which can be seen as a positive social behavior, though the context is confrontational.",
+      "rating": 1,
+      "chunk": 28
     },
     {
-      "Action": "Makes insulting and provocative remarks to other students and faculty during a school assembly, provoking anger and leading to his suspension.",
-      "Warmth": -1,
-      "Chunk": 41
+      "trait": "warmth",
+      "action": "Refuses to answer Principal Cole's question about what he said to Ms. Farmer.",
+      "assessment": "Withholding information in this context suggests a lack of openness or sincerity, which negatively impacts perceptions of warmth.",
+      "rating": -2,
+      "chunk": 28
     },
     {
-      "Action": "Shares his experiences of seeing disturbing things and opens up to Gretchen about them, showing vulnerability and trust.",
-      "Warmth": 1,
-      "Chunk": 41
+      "trait": "warmth",
+      "action": "Asks Ms. Farmer to forcibly insert the Lifeline exercise card into her anus.",
+      "assessment": "This action is disrespectful, inappropriate, and hostile, indicating a significant lack of respect and warmth toward others.",
+      "rating": -3,
+      "chunk": 28
     },
     {
-      "Action": "Invites Gretchen to come see Grandma Death with him, showing openness and willingness to include others in his personal experiences.",
-      "Warmth": 1,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Raises his hand after thinking for a moment when Ms. Farmer threatens a zero for not completing the assignment.",
+      "assessment": "This shows Donnie's willingness to engage and assert himself despite potential consequences, indicating a degree of confidence and thoughtfulness.",
+      "rating": 1,
+      "chunk": 28
     },
     {
-      "Action": "Challenges authority by speaking out boldly in the auditorium, showing confidence and quick wit.",
-      "Competence": 1,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Refuses to answer Principal Cole's question about what he said to Ms. Farmer.",
+      "assessment": "This silence could indicate either strategic withholding of information or a lack of social tact; it suggests a complex approach to authority but also a potential inability or unwillingness to communicate effectively in this context.",
+      "rating": 0,
+      "chunk": 28
     },
     {
-      "Action": "Is suspended for his outburst, which could reflect impulsivity and poor judgment.",
-      "Competence": -1,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Provokes a serious conflict by telling Ms. Farmer to forcibly insert the Lifeline exercise card into her anus.",
+      "assessment": "This action demonstrates poor judgment and a lack of social competence, as it results in suspension and damages his reputation, indicating impulsivity and disrespect rather than skillful behavior.",
+      "rating": -2,
+      "chunk": 28
     },
     {
-      "Action": "Has insightful awareness about his own struggles, acknowledging he sees 'messed-up stuff' and connecting it to the book 'The Philosophy of Time Travel'.",
-      "Competence": 1,
-      "Chunk": 41
+      "trait": "warmth",
+      "action": "Donnie stays behind after class to ask Dr. Monnitoff about time travel.",
+      "assessment": "Donnie's willingness to engage with his teacher and ask questions shows intellectual curiosity and a respectful approach, indicating openness and sincerity.",
+      "rating": 2,
+      "chunk": 29
     },
     {
-      "Action": "Invites Gretchen to accompany him to meet Grandma Death after noticing connections to his experiences, showing initiative and curiosity.",
-      "Competence": 1,
-      "Chunk": 41
+      "trait": "warmth",
+      "action": "Donnie lies in bed looking at a drawing of Frank and counting down time on his calendar.",
+      "assessment": "This behavior suggests introspection and preoccupation with his own thoughts rather than social engagement; it neither strongly indicates warmth nor coldness.",
+      "rating": 0,
+      "chunk": 29
     },
     {
-      "Action": "Relies on cryptic or mysterious knowledge that others might find confusing, which can make him appear disconnected or unreliable.",
-      "Competence": -1,
-      "Chunk": 41
+      "trait": "warmth",
+      "action": "Donnie returns to his room after the accident and observes the new furniture and paint, noting everything is perfect.",
+      "assessment": "Donnie's calm observation of his environment shows acceptance but no explicit warmth or friendliness toward others in this moment.",
+      "rating": 0,
+      "chunk": 29
     },
     {
-      "Action": "Confides in Dr. Thurman, sharing personal thoughts and admitting to having sexual fantasies.",
-      "Warmth": 1,
-      "Chunk": 43
+      "trait": "competence",
+      "action": "Donnie walks into his room for the first time since the accident and observes the new furniture, paint, and carpet, noting everything is perfect.",
+      "assessment": "This shows Donnie's awareness and attention to detail, indicating a reflective and observant nature, which are components of competence.",
+      "rating": 1,
+      "chunk": 29
     },
     {
-      "Action": "Expresses frustration about Gretchen not wanting to kiss him yet.",
-      "Warmth": 0,
-      "Chunk": 43
+      "trait": "competence",
+      "action": "Donnie lies in bed looking at the calendar with days marked off and a drawing of Frank, counting down time precisely: '28 days, 6 hours, 42 minutes, 12 seconds.'",
+      "assessment": "This action demonstrates Donnie's methodical and focused mindset, as well as his ability to track time meticulously, suggesting a high level of cognitive organization and competence.",
+      "rating": 2,
+      "chunk": 29
     },
     {
-      "Action": "Ignores Samantha's invitation to her talent show.",
-      "Warmth": -1,
-      "Chunk": 43
+      "trait": "competence",
+      "action": "Donnie stays behind after physics class to ask Dr. Monnitoff about time travel.",
+      "assessment": "This shows initiative, intellectual curiosity, and confidence to engage with authority figures on complex topics, indicating competence.",
+      "rating": 2,
+      "chunk": 29
     },
     {
-      "Action": "Says Dr. Thurman isn't so bad and that he can tell her anything.",
-      "Warmth": 1,
-      "Chunk": 43
+      "trait": "competence",
+      "action": "Donnie's question about time travel to Dr. Monnitoff is described as 'kinda weird,' yet he proceeds anyway.",
+      "assessment": "This suggests Donnie is willing to take social risks and pursue knowledge despite potential embarrassment, reflecting intellectual bravery and competence.",
+      "rating": 1,
+      "chunk": 29
     },
     {
-      "Action": "Chases after Gretchen to apologize and embraces her, kissing for the first time.",
-      "Warmth": 1,
-      "Chunk": 44
+      "trait": "warmth",
+      "action": "Listens intently to Dr. Monnitoff's explanation about wormholes and time travel, engaging with curiosity and respect.",
+      "assessment": "Donnie's attentive and respectful engagement with his teacher shows openness and sincere interest, indicating a positive and warm intellectual curiosity.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Explains the concept of Infant Memory Generators thoughtfully, demonstrating understanding of developmental psychology ideas.",
-      "Competence": 1,
-      "Chunk": 44
+      "trait": "warmth",
+      "action": "Accepts a book from Dr. Monnitoff discreetly, showing trust and appreciation.",
+      "assessment": "Donnie's acceptance of the book, especially given the teacher's request for secrecy, suggests he is trusted and trustworthy, reflecting sincerity and respect in his interactions.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Chases after Gretchen to apologize sincerely, showing emotional awareness and social confidence.",
-      "Competence": 1,
-      "Chunk": 44
+      "trait": "competence",
+      "action": "Engages in a detailed conversation about wormholes and time travel with Dr. Monnitoff, demonstrating understanding and curiosity.",
+      "assessment": "Donnie shows intellectual engagement and a capacity to grasp complex scientific concepts, indicating above-average cognitive competence.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Notices Gretchen asleep and watches over her silently in a quiet, peaceful moment.",
-      "Warmth": 1,
-      "Chunk": 45
+      "trait": "competence",
+      "action": "Makes a cultural reference to a DeLorean as a vessel for time travel.",
+      "assessment": "This shows Donnie's ability to connect abstract scientific ideas to popular culture, reflecting creative thinking and confident communication.",
+      "rating": 1,
+      "chunk": 30
     },
     {
-      "Action": "Requests Frank to remove his bunny mask to see him genuinely, showing curiosity and openness.",
-      "Warmth": 1,
-      "Chunk": 45
+      "trait": "competence",
+      "action": "Accepts a rare, possibly secretive book from Dr. Monnitoff and immediately investigates its contents and related historical photographs.",
+      "assessment": "This behavior demonstrates initiative, resourcefulness, and a methodical approach to learning, all positive indicators of competence.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Expresses concern and asks about Frank's missing eye with sincere interest.",
-      "Warmth": 1,
-      "Chunk": 45
+      "trait": "warmth",
+      "action": "Shares the story about Roberta Sparrow (Grandma Death) with his family during dinner.",
+      "assessment": "Donnie's willingness to share stories about others, even those who are reclusive, shows a degree of openness and engagement with his family, indicating some warmth.",
+      "rating": 1,
+      "chunk": 31
     },
     {
-      "Action": "Contemplates his fate silently and then leaves without confrontation or aggression.",
-      "Warmth": 0,
-      "Chunk": 45
+      "trait": "warmth",
+      "action": "Jumps on the trampoline with Gretchen, enjoying a playful moment together.",
+      "assessment": "Engaging in lighthearted, joyful activities with a friend suggests friendliness and the ability to connect warmly with others.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Questions Frank about the rabbit suit, showing curiosity and assertiveness.",
-      "Competence": 1,
-      "Chunk": 45
+      "trait": "warmth",
+      "action": "Discusses his visions of Frank with his therapist and shares his skepticism about Gretchen's theory.",
+      "assessment": "Donnie is open and sincere in therapy, showing trust and willingness to communicate honestly, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Looks ill but still tries to understand the situation and confronts Frank.",
-      "Competence": 1,
-      "Chunk": 45
+      "trait": "warmth",
+      "action": "Refers to Roberta Sparrow as 'Grandma Death' and notes that she lost faith in the world.",
+      "assessment": "While the nickname is somewhat irreverent, Donnie's recognition of her loneliness and loss of faith shows empathy and insight into others' emotional states.",
+      "rating": 1,
+      "chunk": 31
     },
     {
-      "Action": "Contemplates his fate for several moments before taking action.",
-      "Competence": 1,
-      "Chunk": 45
+      "trait": "competence",
+      "action": "Engages his family in a discussion about 'The Philosophy of Time Travel' and references Roberta Sparrow's book and background knowledge.",
+      "assessment": "This shows Donnie's intellectual curiosity and ability to recall and share complex or obscure information confidently, indicating cognitive competence.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Walks out of the theatre after being told to burn the house down, showing hesitation and lack of immediate confident response.",
-      "Competence": 0,
-      "Chunk": 45
+      "trait": "competence",
+      "action": "Describes his experiences seeing Frank and explains the phenomenon in a metaphorical way (like a TV station tuned into his channel).",
+      "assessment": "Donnie demonstrates insight and an ability to conceptualize his unusual experiences in a coherent manner, reflecting thoughtful and intelligent processing of his reality.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Walks slowly past the theatre marquee and watches the performance quietly without interrupting or reacting negatively to the crowd's indifference.",
-      "Warmth": 0,
-      "Chunk": 46
+      "trait": "competence",
+      "action": "Dismisses Gretchen's theory about Frank being a sign as ridiculous.",
+      "assessment": "This shows Donnie's critical thinking and skepticism, suggesting he does not accept ideas uncritically, which is a sign of intellectual competence.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Douses Jim Cunningham's house with gasoline and starts a fire with psychotic force.",
-      "Warmth": -1,
-      "Chunk": 46
+      "trait": "competence",
+      "action": "Changes the subject when asked about who Frank might be a sign from and instead focuses on the woman who wrote the book about time travel.",
+      "assessment": "This avoidance may indicate discomfort or evasiveness, which could suggest a lack of confidence or unwillingness to confront difficult questions, a slight negative indicator of competence.",
+      "rating": -1,
+      "chunk": 31
     },
     {
-      "Action": "Walks slowly past the theatre marquee, silently observing.",
-      "Competence": 0,
-      "Chunk": 46
+      "trait": "warmth",
+      "action": "Shares a personal memory about his dog Callie with Dr. Thurman.",
+      "assessment": "Opening up about a personal loss shows a level of sincerity and willingness to connect emotionally.",
+      "rating": 2,
+      "chunk": 32
     },
     {
-      "Action": "Walks through Jim Cunningham's house, dousing gasoline with psychotic force resulting in a trail of fire and causing a couch and curtains to catch fire.",
-      "Competence": -1,
-      "Chunk": 46
+      "trait": "warmth",
+      "action": "Expresses a desire not to be alone and acknowledges the difficulty of proving connection.",
+      "assessment": "This reveals vulnerability and a genuine longing for connection, indicating warmth and sincerity.",
+      "rating": 2,
+      "chunk": 32
     },
     {
-      "Action": "Wakes up Gretchen after the movie to leave the theatre together.",
-      "Warmth": 1,
-      "Chunk": 47
+      "trait": "warmth",
+      "action": "Chooses not to obsess over existential loneliness but continues searching for meaning.",
+      "assessment": "Shows a thoughtful and tolerant attitude toward complex emotional issues, reflecting a good-natured and sincere mindset.",
+      "rating": 1,
+      "chunk": 32
     },
     {
-      "Action": "Admits to being perceived as a 'nutcase' and acknowledges others' weird looks.",
-      "Warmth": 1,
-      "Chunk": 47
+      "trait": "competence",
+      "action": "Reflects on the concept of death and loneliness, concluding that debating the idea endlessly is absurd and choosing instead to not bother with it due to lack of proof.",
+      "assessment": "This shows Donnie's ability to think critically and make a reasoned decision to avoid unproductive rumination, indicating intellectual maturity and emotional self-regulation.",
+      "rating": 2,
+      "chunk": 32
     },
     {
-      "Action": "Rakes leaves with Eddie in silence and does not engage socially.",
-      "Warmth": 0,
-      "Chunk": 47
+      "trait": "competence",
+      "action": "Engages thoughtfully with Dr. Thurman about his feelings of loneliness and belief systems, showing openness and introspection.",
+      "assessment": "This demonstrates emotional intelligence and self-awareness, which are components of competence in managing internal states and social interactions.",
+      "rating": 2,
+      "chunk": 32
     },
     {
-      "Action": "Wakes Gretchen after she falls asleep during the movie and suggests they leave, showing social awareness and confidence in decision-making.",
-      "Competence": 1,
-      "Chunk": 47
+      "trait": "competence",
+      "action": "Mentions that he chooses not to debate the existence of proof for not being alone because it is absurd to do so without evidence.",
+      "assessment": "This indicates a pragmatic and logical approach to complex existential questions, reflecting cognitive competence.",
+      "rating": 2,
+      "chunk": 32
     },
     {
-      "Action": "Openly admits to others that he feels like a 'nutcase' and acknowledges people's reactions to him, demonstrating self-awareness and some insight.",
-      "Competence": 1,
-      "Chunk": 47
+      "trait": "warmth",
+      "action": "Does not follow the spear protruding from his stomach immediately, hesitating before eventually following it.",
+      "assessment": "Donnie's hesitation suggests introspection rather than impulsiveness, but it does not directly indicate warmth or coldness.",
+      "rating": 0,
+      "chunk": 33
     },
     {
-      "Action": "Engages in a mundane task, raking leaves in silent companionship with Eddie, indicating ability to follow through on ordinary responsibilities.",
-      "Competence": 0,
-      "Chunk": 47
+      "trait": "warmth",
+      "action": "Follows the path of his spear into the foyer and then to his parents' bedroom, eventually retrieving a gun from a hidden box.",
+      "assessment": "Retrieving a gun from a hidden box in his parents' room is a secretive and potentially threatening action, which does not reflect warmth or trustworthiness.",
+      "rating": -2,
+      "chunk": 33
     },
     {
-      "Action": "Admits to feeling alienated and believes he deserves the negative treatment.",
-      "Warmth": 1,
-      "Chunk": 48
+      "trait": "competence",
+      "action": "Notices the surreal phenomenon of spears protruding from people's bodies and their movements through time.",
+      "assessment": "This shows Donnie's heightened awareness and perceptiveness, indicating an ability to notice and process unusual, complex phenomena.",
+      "rating": 2,
+      "chunk": 33
     },
     {
-      "Action": "Smiles at his father who encourages honesty and following one's heart.",
-      "Warmth": 1,
-      "Chunk": 48
+      "trait": "competence",
+      "action": "Follows the path of his own spear despite initial hesitation.",
+      "assessment": "This suggests a cautious but deliberate decision-making process, showing some confidence and curiosity in engaging with the unknown.",
+      "rating": 1,
+      "chunk": 33
     },
     {
-      "Action": "Takes his medication quietly without complaint or drawing attention.",
-      "Warmth": 0,
-      "Chunk": 48
+      "trait": "competence",
+      "action": "Finds and retrieves a hidden box containing a gun from his parents' closet.",
+      "assessment": "This action demonstrates resourcefulness and a certain level of skill or knowledge about where to find the weapon, indicating practical competence.",
+      "rating": 2,
+      "chunk": 33
     },
     {
-      "Action": "Acknowledges others think he's strange but accepts it with calm self-awareness.",
-      "Competence": 1,
-      "Chunk": 48
+      "trait": "competence",
+      "action": "Initially does not follow the spear immediately and hesitates.",
+      "assessment": "This hesitation could indicate uncertainty or lack of confidence in the situation, reflecting a momentary lapse in decisiveness.",
+      "rating": -1,
+      "chunk": 33
     },
     {
-      "Action": "Takes his prescribed medication responsibly and keeps track of days on calendar.",
-      "Competence": 1,
-      "Chunk": 48
+      "trait": "warmth",
+      "action": "Donnie quickly puts the gun back in the box and carefully places the box back under the shoe rack after a moment of nervous shock.",
+      "assessment": "Donnie's decision to put the gun away rather than use it suggests restraint and a reluctance to engage in violence, indicating a cautious and possibly conscientious nature.",
+      "rating": 1,
+      "chunk": 34
     },
     {
-      "Action": "Expresses resignation that he deserves the negative attention he receives.",
-      "Competence": 0,
-      "Chunk": 48
+      "trait": "warmth",
+      "action": "Donnie arrives at the bus stop by himself, looking tired and preoccupied.",
+      "assessment": "Arriving alone and appearing withdrawn may indicate social isolation or emotional distance, which could reflect lower warmth or difficulty in connecting with others.",
+      "rating": -1,
+      "chunk": 34
     },
     {
-      "Action": "Stares speechless and horrified at disturbing news on TV, then says nothing and walks away.",
-      "Competence": 0,
-      "Chunk": 49
+      "trait": "warmth",
+      "action": "Donnie slips the banned Graham Greene book into his backpack despite the teacher's warning.",
+      "assessment": "This act of defiance shows a willingness to challenge authority, but it does not directly reflect warmth; it may suggest independence or rebelliousness rather than friendliness or sincerity.",
+      "rating": 0,
+      "chunk": 34
     },
     {
-      "Action": "Engages in an in-depth, thoughtful conversation about physics and time travel with his teacher, Dr. Monnitoff, demonstrating curiosity and conceptual thinking.",
-      "Competence": 1,
-      "Chunk": 49
+      "trait": "competence",
+      "action": "Holds a gun with a childlike expression, then quickly puts it back in the box and carefully replaces the box under the shoe rack.",
+      "assessment": "This action shows a moment of nervousness and hesitation, indicating a lack of confidence or readiness to use the weapon, but also a cautious and deliberate approach to handling a dangerous object.",
+      "rating": 0,
+      "chunk": 34
     },
     {
-      "Action": "Attempts to draw analogies (like a spear) to understand complex concepts such as vector paths and wormholes.",
-      "Competence": 1,
-      "Chunk": 49
+      "trait": "competence",
+      "action": "Arrives at the bus stop last, looking tired and preoccupied.",
+      "assessment": "This suggests a lack of punctuality or alertness, possibly indicating distraction or low energy, which can be seen as a minor negative indicator of competence in daily routine.",
+      "rating": -1,
+      "chunk": 34
     },
     {
-      "Action": "Asks insightful questions about the nature of wormholes and time travel, showing intellectual engagement.",
-      "Competence": 1,
-      "Chunk": 49
+      "trait": "competence",
+      "action": "Discreetly slips a banned book into his backpack despite the teacher's warning.",
+      "assessment": "This shows a subtle act of defiance and independent thinking, suggesting intellectual curiosity and a willingness to challenge authority, which can be interpreted as a positive indicator of competence.",
+      "rating": 1,
+      "chunk": 34
     },
     {
-      "Action": "Makes a philosophical argument about destiny and predetermination connected to time travel concepts.",
-      "Competence": 1,
-      "Chunk": 49
+      "trait": "warmth",
+      "action": "Refuses to confirm or deny Seth's accusation about flooding the school, and responds with a calm, somewhat detached attitude.",
+      "assessment": "Donnie's refusal to escalate the confrontation and his calm demeanor suggest a level of tolerance and self-control, though he is not openly friendly or conciliatory here.",
+      "rating": 0,
+      "chunk": 35
     },
     {
-      "Action": "Dismisses concern for the rabbits' fate, showing cynicism and detachment from others' emotions.",
-      "Warmth": -1,
-      "Chunk": 52
+      "trait": "warmth",
+      "action": "Touches his neck wound in shock but does not complain or seek sympathy.",
+      "assessment": "This shows a degree of stoicism and restraint, but does not directly indicate warmth.",
+      "rating": 0,
+      "chunk": 35
     },
     {
-      "Action": "Questions the emotional significance of the rabbits' fate, demonstrating skepticism and a rational worldview.",
-      "Competence": 1,
-      "Chunk": 52
+      "trait": "warmth",
+      "action": "When Gretchen asks about his neck wound, Donnie says he doesn't want to talk about it and quickly changes the subject by asking about her neck.",
+      "assessment": "Avoiding vulnerability and redirecting the conversation may indicate discomfort with openness, but also shows some interest in Gretchen, suggesting a subtle friendly or sincere engagement.",
+      "rating": 1,
+      "chunk": 35
     },
     {
-      "Action": "Dismisses the symbolic value of the rabbits and the emotions surrounding them, showing a lack of empathy and understanding in the social context.",
-      "Competence": -1,
-      "Chunk": 52
+      "trait": "warmth",
+      "action": "Stops and takes Gretchen's hand while they talk about fear and beauty.",
+      "assessment": "This physical gesture of connection and the willingness to engage in a meaningful conversation about fear and beauty indicate genuine warmth, trustworthiness, and sincerity.",
+      "rating": 3,
+      "chunk": 35
     },
     {
-      "Action": "Sits silently observing family interactions without causing conflict.",
-      "Warmth": 0,
-      "Chunk": 54
+      "trait": "competence",
+      "action": "When confronted by Seth Devlin with a switchblade at his throat, Donnie remains calm and responds with a measured, non-escalating reply: 'I didn't say shit.'",
+      "assessment": "Donnie's calmness and refusal to escalate the situation under threat suggests emotional control and situational awareness, indicating a competent handling of a dangerous confrontation.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Engages Rose with a candid expression of his feelings ('I feel like... I'm approaching something horrible.'), allowing vulnerability.",
-      "Warmth": 1,
-      "Chunk": 54
+      "trait": "competence",
+      "action": "After being poked with the knife and drawing blood, Donnie touches his neck in shock but does not retaliate or overreact.",
+      "assessment": "This restraint in the face of physical provocation shows self-control and an ability to manage his reactions, which are signs of competence.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Sits quietly and observes others without interrupting, showing self-restraint and awareness.",
-      "Competence": 1,
-      "Chunk": 54
+      "trait": "competence",
+      "action": "In physics class, when asked about his neck wound by Gretchen, Donnie deflects and changes the subject.",
+      "assessment": "While this may indicate social awkwardness or avoidance, it also shows a degree of social skill in redirecting conversation to avoid vulnerability, reflecting moderate interpersonal competence.",
+      "rating": 1,
+      "chunk": 35
     },
     {
-      "Action": "Jokes about being a 'wacko' with his mother, demonstrating emotional intelligence and confidence in communicating sensitive topics.",
-      "Competence": 1,
-      "Chunk": 54
+      "trait": "competence",
+      "action": "Engages in a thoughtful conversation with Gretchen about fear and darkness, showing curiosity and the ability to discuss abstract concepts.",
+      "assessment": "Donnie's engagement in a meaningful dialogue about fear and memory demonstrates intellectual curiosity and emotional insight, which are positive indicators of competence.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Expresses a vague premonition of approaching something horrible, indicating intuitive awareness but also a lack of control or clear plan.",
-      "Competence": 0,
-      "Chunk": 54
+      "trait": "warmth",
+      "action": "Takes Gretchen's hand while talking about beautiful things in the world.",
+      "assessment": "This gesture shows a gentle and sincere attempt to connect emotionally and share a positive moment.",
+      "rating": 2,
+      "chunk": 36
     },
     {
-      "Action": "Waves goodbye to Rose sincerely when she leaves, approaching her reluctantly to say 'There's nothing broken... in my brain.'",
-      "Warmth": 1,
-      "Chunk": 55
+      "trait": "warmth",
+      "action": "Attempts to kiss Gretchen awkwardly and accepts her denial without anger or resentment.",
+      "assessment": "Donnie respects Gretchen's boundaries and handles rejection with understanding and maturity, indicating emotional warmth and respect.",
+      "rating": 3,
+      "chunk": 36
     },
     {
-      "Action": "Approaches Gretchen and earnestly asks her to talk despite social rejection.",
-      "Warmth": 1,
-      "Chunk": 55
+      "trait": "warmth",
+      "action": "Finds a lost wallet and looks at the ID inside.",
+      "assessment": "While finding a wallet could lead to a warm action like returning it, the excerpt does not show Donnie taking any further steps to return it, so the warmth is neutral here.",
+      "rating": 0,
+      "chunk": 36
     },
     {
-      "Action": "Walks alone, appearing lost and unsure, but still makes an effort to engage with Ms. Pomeroy.",
-      "Warmth": 0,
-      "Chunk": 55
+      "trait": "warmth",
+      "action": "Carves a pumpkin with Elizabeth and talks about his girlfriend.",
+      "assessment": "Engaging in a casual, friendly activity with a family member and sharing personal information suggests openness and a friendly nature.",
+      "rating": 2,
+      "chunk": 36
     },
     {
-      "Action": "Reluctantly approaches his mother to reassure her by saying 'There's nothing broken... in my brain.'",
-      "Competence": 1,
-      "Chunk": 55
+      "trait": "warmth",
+      "action": "Jokes with Elizabeth about her tendency to tell their mother everything.",
+      "assessment": "This teasing is lighthearted and shows a familiar, trusting sibling relationship, indicating warmth and comfort.",
+      "rating": 2,
+      "chunk": 36
     },
     {
-      "Action": "Walks up to Gretchen to ask her to talk despite social discomfort.",
-      "Competence": 0,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "Attempts to kiss Gretchen despite awkwardness.",
+      "assessment": "This action shows Donnie's willingness to take social risks and express his feelings, though his awkwardness suggests limited social confidence or skill in romantic interactions.",
+      "rating": 0,
+      "chunk": 36
     },
     {
-      "Action": "Insists on talking to Gretchen even when she says it's not a good time.",
-      "Competence": 0,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "Accepts Gretchen's rejection gracefully and responds with understanding.",
+      "assessment": "Donnie demonstrates emotional maturity and self-control by not reacting negatively to rejection, indicating a level of interpersonal competence.",
+      "rating": 2,
+      "chunk": 36
     },
     {
-      "Action": "Waves goodbye politely and acknowledges others' farewells calmly.",
-      "Competence": 0,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "Notices a wallet on the sidewalk, opens it, and identifies the owner and his address.",
+      "assessment": "This shows observational skills, curiosity, and initiative, suggesting cognitive competence and a proactive attitude.",
+      "rating": 2,
+      "chunk": 36
     },
     {
-      "Action": "Appears lost and wanders the hallways alone, unsure where to go.",
-      "Competence": -1,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "Mentions taking his medication when asked about his well-being.",
+      "assessment": "This indicates self-awareness and responsibility regarding his mental health, reflecting personal competence in managing his condition.",
+      "rating": 2,
+      "chunk": 36
     },
     {
-      "Action": "Expresses support and compliments Ms. Pomeroy after she is fired, calling her a good teacher.",
-      "Warmth": 1,
-      "Chunk": 56
+      "trait": "warmth",
+      "action": "Tells Elizabeth that he was just being honest when mouthing off to his teachers.",
+      "assessment": "Donnie values honesty, which can be a sign of sincerity, but his bluntness may come off as insensitive or confrontational, limiting warmth.",
+      "rating": 0,
+      "chunk": 37
     },
     {
-      "Action": "Shows concern about how to explain to others about Ms. Pomeroy's firing, indicating care for her reputation.",
-      "Warmth": 1,
-      "Chunk": 56
+      "trait": "warmth",
+      "action": "Corrects Elizabeth by telling her the girl's name is Gretchen.",
+      "assessment": "This correction shows attentiveness and respect for others, indicating a degree of sincerity and consideration.",
+      "rating": 1,
+      "chunk": 37
     },
     {
-      "Action": "Does not try to challenge or change Ms. Pomeroy’s decision to stop talking to him despite his feelings.",
-      "Warmth": 0,
-      "Chunk": 56
+      "trait": "warmth",
+      "action": "Carves a jack o' lantern that looks remarkably like Frank.",
+      "assessment": "Creating a jack o' lantern resembling Frank suggests Donnie is engaged with his inner world and possibly expressing himself creatively, but it does not directly indicate warmth toward others.",
+      "rating": 0,
+      "chunk": 37
     },
     {
-      "Action": "Comforts Ms. Pomeroy after she reveals she's been fired, calling her a good teacher and student.",
-      "Competence": 1,
-      "Chunk": 56
+      "trait": "warmth",
+      "action": "Insults his gym teacher, leading to suspension.",
+      "assessment": "Insulting a teacher is a hostile act that undermines trustworthiness and friendliness, indicating low warmth.",
+      "rating": -2,
+      "chunk": 37
     },
     {
-      "Action": "Shows introspection and self-awareness by reflecting on finding his 'Cellar Door' and contemplating Ms. Pomeroy’s advice.",
-      "Competence": 1,
-      "Chunk": 56
+      "trait": "competence",
+      "action": "Being honest to his teachers, even when it results in suspension.",
+      "assessment": "This shows a degree of confidence and integrity, indicating he is willing to stand by his beliefs, but it also suggests a lack of social tact or strategic thinking about consequences.",
+      "rating": 0,
+      "chunk": 37
     },
     {
-      "Action": "Expresses confusion and sadness about Ms. Pomeroy no longer talking to him, indicating some emotional vulnerability without immediate resolution.",
-      "Competence": 0,
-      "Chunk": 56
+      "trait": "competence",
+      "action": "Carving a jack o' lantern that looks remarkably like Frank.",
+      "assessment": "This demonstrates skill, attention to detail, and creativity, reflecting a capable and focused behavior.",
+      "rating": 2,
+      "chunk": 37
     },
     {
-      "Action": "Approaches Cherita gently, tries to comfort her with a promise that things will get better.",
-      "Warmth": 1,
-      "Chunk": 57
+      "trait": "competence",
+      "action": "Experiencing and interacting with Frank, a hallucination, and describing lengthy conversations and physical encounters.",
+      "assessment": "While this indicates a complex internal world and possibly imaginative or insightful thinking, it also reflects a detachment from reality that undermines practical competence.",
+      "rating": -2,
+      "chunk": 37
     },
     {
-      "Action": "Touches Cherita's earmuffs and forehead in a tender, almost affectionate gesture.",
-      "Warmth": 1,
-      "Chunk": 57
+      "trait": "warmth",
+      "action": "Lunges at Frank, an invisible figure, with a butcher's knife in a fit of psychotic rage.",
+      "assessment": "This action reflects intense internal turmoil and aggression directed at a hallucination, indicating distress rather than warmth or friendliness.",
+      "rating": -2,
+      "chunk": 38
     },
     {
-      "Action": "Does not react negatively or aggressively when Cherita recoils and runs away crying.",
-      "Warmth": 1,
-      "Chunk": 57
+      "trait": "competence",
+      "action": "Walks into the kitchen and deliberately takes a butcher's knife from the drawer.",
+      "assessment": "This action shows decisiveness and purposeful behavior, indicating a level of confidence and intent.",
+      "rating": 1,
+      "chunk": 38
     },
     {
-      "Action": "Wears Cherita’s earmuffs after she runs away, showing a kind of connection or empathy.",
-      "Warmth": 1,
-      "Chunk": 57
+      "trait": "competence",
+      "action": "Stands catatonic in front of the bathroom mirror, then suddenly lunges at Frank with the butcher's knife.",
+      "assessment": "The initial catatonia suggests a moment of mental paralysis or confusion, which detracts from competence; however, the sudden aggressive action shows a capacity for decisive physical action, though it may be driven by psychotic rage rather than clear-headed skill.",
+      "rating": 0,
+      "chunk": 38
     },
     {
-      "Action": "Approaches Cherita gently, makes a sincere promise to her to reassure her about the future.",
-      "Competence": 1,
-      "Chunk": 57
+      "trait": "competence",
+      "action": "Repeatedly lunges at Frank with the knife, but the knife bounces off an invisible force field.",
+      "assessment": "The repeated attacks without success suggest a lack of strategic thinking or awareness of the futility of the action, indicating lower competence in this scenario.",
+      "rating": -1,
+      "chunk": 38
     },
     {
-      "Action": "Physically grabs Cherita's earmuffs without clear consent, causing her fear and distress.",
-      "Competence": -1,
-      "Chunk": 57
+      "trait": "competence",
+      "action": "Falls into a paranoid trance upon hearing the name Frank during Jim Cunningham's presentation.",
+      "assessment": "This reaction suggests a lack of emotional control and an inability to remain focused in a social setting, indicating some vulnerability in managing internal states under stress.",
+      "rating": -1,
+      "chunk": 39
     },
     {
-      "Action": "Responds to therapist's questions calmly and acknowledges consequences of his actions, showing self-awareness.",
-      "Competence": 1,
-      "Chunk": 57
+      "trait": "competence",
+      "action": "Ignores Gretchen's suggestion to leave the auditorium despite her boredom and concern.",
+      "assessment": "This shows a certain level of stubbornness or fixation, which may reflect poor social awareness or difficulty in adapting to social cues, slightly detracting from his competence.",
+      "rating": -1,
+      "chunk": 39
     },
     {
-      "Action": "Avoids directly answering whether Frank wants him to destroy the world, indicating hesitation or uncertainty.",
-      "Competence": 0,
-      "Chunk": 57
+      "trait": "competence",
+      "action": "Verbally states 'We're moving through time' while in a trance-like state.",
+      "assessment": "This statement indicates a complex, possibly insightful thought process, suggesting intellectual depth and a capacity for abstract thinking, which are positive indicators of competence.",
+      "rating": 2,
+      "chunk": 39
     },
     {
-      "Action": "Admits to feeling regret over flooding the school and burning down a house.",
-      "Warmth": 1,
-      "Chunk": 58
+      "trait": "warmth",
+      "action": "Calls Jim Cunningham 'full of shit' and openly challenges his message about love and violence.",
+      "assessment": "Donnie's blunt and confrontational language shows skepticism and a lack of tact, which can be perceived as unfriendly and dismissive rather than warm or sincere.",
+      "rating": -2,
+      "chunk": 40
     },
     {
-      "Action": "Says he must obey Frank because Frank saved his life, expressing dependence rather than outright defiance.",
-      "Warmth": 0,
-      "Chunk": 58
+      "trait": "warmth",
+      "action": "Tells Dorky Girl that if she wants her sister to lose weight, she should tell her to get off the couch and stop eating Twinkies.",
+      "assessment": "This comment is harsh and lacks sensitivity, showing little tolerance or kindness toward others' feelings.",
+      "rating": -3,
+      "chunk": 40
     },
     {
-      "Action": "Does not respond when asked whether Frank told him to commit crimes, showing withholding of information.",
-      "Warmth": -1,
-      "Chunk": 58
+      "trait": "warmth",
+      "action": "Tells Lanky Kid that he will never know what he wants to be when he grows up.",
+      "assessment": "This statement is discouraging and dismissive, lacking encouragement or friendliness, which negatively impacts perceptions of warmth.",
+      "rating": -2,
+      "chunk": 40
     },
     {
-      "Action": "Jokes that God might exist because he's horny, indicating a sense of humor and sincerity.",
-      "Warmth": 1,
-      "Chunk": 58
+      "trait": "competence",
+      "action": "Gets up from his seat and goes to the mike to confront Jim Cunningham publicly.",
+      "assessment": "This shows confidence and willingness to challenge authority figures, indicating social boldness and assertiveness.",
+      "rating": 2,
+      "chunk": 40
     },
     {
-      "Action": "Speaks with Dr. Thurman about his plans to build a time machine to erase his regrets, showing a desire to fix past mistakes.",
-      "Warmth": 1,
-      "Chunk": 58
+      "trait": "competence",
+      "action": "Calls out Jim Cunningham's advice as 'some of the worst advice I've ever heard' and accuses him of being paid to promote his book.",
+      "assessment": "This demonstrates critical thinking and skepticism, suggesting intellectual capability and independent judgment.",
+      "rating": 2,
+      "chunk": 40
     },
     {
-      "Action": "Admits to serious wrongdoing (flooding school, arson) and expresses confusion and helplessness about his actions.",
-      "Competence": -1,
-      "Chunk": 58
+      "trait": "competence",
+      "action": "Uses a false name ('Gerald') when addressing Jim Cunningham.",
+      "assessment": "This indicates strategic thinking and a desire to protect his identity, showing some social savvy and caution.",
+      "rating": 1,
+      "chunk": 40
     },
     {
-      "Action": "Acknowledges regret and attempts to understand consequences of his actions.",
-      "Competence": 0,
-      "Chunk": 58
+      "trait": "competence",
+      "action": "Responds furiously and aggressively to Jim Cunningham's statements.",
+      "assessment": "While this shows passion and confidence, the emotional outburst may undermine his ability to communicate effectively and be seen as composed and skillful.",
+      "rating": -1,
+      "chunk": 40
     },
     {
-      "Action": "Claims to have the power to build a time machine and talks about complex ideas like time travel and God's portal with confidence.",
-      "Competence": 0,
-      "Chunk": 58
+      "trait": "competence",
+      "action": "Dismisses the Lanky Kid's question about deciding what to be when he grows up with a blunt, discouraging statement.",
+      "assessment": "This suggests a lack of empathy and social tact, which can be seen as a social competence deficit.",
+      "rating": -1,
+      "chunk": 40
     },
     {
-      "Action": "Feels controlled by an external figure (Frank) and unable to act independently, showing lack of self-control.",
-      "Competence": -1,
-      "Chunk": 58
+      "trait": "warmth",
+      "action": "Mocks and insults fellow students by telling Dorky Girl to tell her sister to lose weight and Lanky Kid that he'll never know what he wants to be.",
+      "assessment": "These remarks are sarcastic and dismissive, showing a lack of kindness and sensitivity toward others' feelings.",
+      "rating": -2,
+      "chunk": 41
     },
     {
-      "Action": "Shows visible fear and vulnerability, accepting Dr. Thurman's attempt to comfort him despite his distressed state.",
-      "Warmth": 1,
-      "Chunk": 59
+      "trait": "warmth",
+      "action": "Encourages Larry to stand up to a bully by lifting weights, taking karate lessons, and kicking the bully in the balls.",
+      "assessment": "While promoting self-defense, the advice is aggressive and somewhat hostile, indicating a tough, confrontational attitude rather than warmth.",
+      "rating": -1,
+      "chunk": 41
     },
     {
-      "Action": "Expresses a fatalistic belief that he has already ruined his life, indicating self-blame and a troubled internal state.",
-      "Warmth": 0,
-      "Chunk": 59
+      "trait": "warmth",
+      "action": "Calls Jim Cunningham 'the fucking Anti-Christ' during a public confrontation.",
+      "assessment": "This is a hostile and disrespectful outburst, showing antagonism rather than friendliness or sincerity.",
+      "rating": -3,
+      "chunk": 41
     },
     {
-      "Action": "Staggers around the room, looks frightened and childlike, freaks out about impending danger.",
-      "Competence": -1,
-      "Chunk": 59
+      "trait": "warmth",
+      "action": "After being suspended, Donnie confides in Gretchen about seeing 'really messed-up stuff' and asks her to come see Grandma Death with him.",
+      "assessment": "This shows a level of trust and openness with Gretchen, indicating sincerity and a willingness to share personal struggles, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 41
     },
     {
-      "Action": "Acknowledges the imminent event and expresses awareness of consequences and his fate.",
-      "Competence": 0,
-      "Chunk": 59
+      "trait": "warmth",
+      "action": "Gretchen smiles at Donnie as he is removed from the auditorium.",
+      "assessment": "Though this is Gretchen's action, Donnie's ability to maintain a connection with her despite conflict suggests he has some friendly and trustworthy qualities.",
+      "rating": 1,
+      "chunk": 41
     },
     {
-      "Action": "Politely acknowledges Dr. Thurman's revelation about his placebo medication and calmly ends the conversation without argument or confusion.",
-      "Competence": 1,
-      "Chunk": 60
+      "trait": "competence",
+      "action": "Confronts Jim Cunningham publicly, calling him 'the fucking Anti-Christ' during a school assembly.",
+      "assessment": "This action shows Donnie's confidence and willingness to challenge authority figures, indicating a certain boldness and verbal skill. However, it also suggests impulsiveness and a lack of tact, which can undermine his overall competence in social or institutional settings.",
+      "rating": 1,
+      "chunk": 41
     },
     {
-      "Action": "Demonstrates clear understanding of philosophical terms by correctly distinguishing atheism from agnosticism when prompted.",
-      "Competence": 1,
-      "Chunk": 60
+      "trait": "competence",
+      "action": "Explains to Gretchen about the book 'The Philosophy of Time Travel' and connects it to the strange things he has been experiencing.",
+      "assessment": "This demonstrates Donnie's intellectual curiosity and ability to seek out and apply complex information to understand his experiences, reflecting cognitive competence and problem-solving skills.",
+      "rating": 2,
+      "chunk": 41
     },
     {
-      "Action": "Proposes and plans a Halloween party confidently, assessing the risk and opportunity that parents' absence presents.",
-      "Competence": 1,
-      "Chunk": 60
+      "trait": "competence",
+      "action": "Invites Gretchen to accompany him to visit Grandma Death to learn more about the book and his visions.",
+      "assessment": "This shows Donnie's initiative and social confidence in seeking help and collaboration, which are positive indicators of competence in managing difficult situations.",
+      "rating": 2,
+      "chunk": 41
     },
     {
-      "Action": "Responds supportively and succinctly to Elizabeth's good news, showing social awareness and emotional intelligence.",
-      "Competence": 1,
-      "Chunk": 60
+      "trait": "competence",
+      "action": "Mumbles that he has been suspended for two days after the confrontation.",
+      "assessment": "His subdued admission suggests some awareness of consequences but also a possible lack of assertiveness or strategic thinking about how to handle the fallout, indicating a moderate level of competence.",
+      "rating": 0,
+      "chunk": 41
     },
     {
-      "Action": "Answers the door for Gretchen late at night, shows concern by asking if she is OK.",
-      "Warmth": 1,
-      "Chunk": 61
+      "trait": "competence",
+      "action": "Waits silently with Gretchen at Grandma Death's door after ringing the bell with no response.",
+      "assessment": "This shows patience and composure in an uncertain situation, reflecting emotional self-control and social competence.",
+      "rating": 1,
+      "chunk": 41
     },
     {
-      "Action": "Comforts Gretchen by taking her into the hallway and hugging her when she is upset.",
-      "Warmth": 1,
-      "Chunk": 61
+      "trait": "warmth",
+      "action": "Tells Gretchen he knows Grandma Death is in the house and reassures her.",
+      "assessment": "Donnie shows a protective and reassuring attitude toward Gretchen, indicating trust and a friendly demeanor.",
+      "rating": 2,
+      "chunk": 42
     },
     {
-      "Action": "Reassures Gretchen by telling her 'It's safe here' and takes her upstairs to a safer place.",
-      "Warmth": 1,
-      "Chunk": 61
+      "trait": "warmth",
+      "action": "Seals an envelope addressed to Ms. Roberta Sparrow.",
+      "assessment": "Taking the time to write and send a letter suggests sincerity and a thoughtful nature, though the content is unknown.",
+      "rating": 1,
+      "chunk": 42
     },
     {
-      "Action": "Answers the door calmly when unexpected visitor Gretchen arrives.",
-      "Competence": 1,
-      "Chunk": 61
+      "trait": "warmth",
+      "action": "Shares personal and embarrassing thoughts openly with his therapist Dr. Thurman.",
+      "assessment": "Donnie's willingness to be vulnerable and sincere in therapy indicates trust and openness, positive indicators of warmth.",
+      "rating": 3,
+      "chunk": 42
     },
     {
-      "Action": "Listens attentively and shows concern when Gretchen explains her mother is missing and the house is messed up.",
-      "Competence": 1,
-      "Chunk": 61
+      "trait": "warmth",
+      "action": "Mentions telling Gretchen about the spears but hesitates to share more about Frank.",
+      "assessment": "This hesitation may reflect protectiveness or fear of judgment, showing some guardedness but also consideration for Gretchen's feelings.",
+      "rating": 1,
+      "chunk": 42
     },
     {
-      "Action": "Offers physical comfort by hugging Gretchen and reassures her that she is safe.",
-      "Competence": 1,
-      "Chunk": 61
+      "trait": "competence",
+      "action": "Confidently asserts that Grandma Death is in the house despite no immediate evidence.",
+      "assessment": "This shows Donnie's intuitive confidence and a certain decisiveness, suggesting he trusts his instincts even when others are uncertain.",
+      "rating": 1,
+      "chunk": 42
     },
     {
-      "Action": "Does not immediately call authorities himself or take proactive steps beyond comforting Gretchen.",
-      "Competence": -1,
-      "Chunk": 61
+      "trait": "competence",
+      "action": "Opens the mailbox and checks for mail.",
+      "assessment": "This is a simple, practical action showing attentiveness and thoroughness, though not particularly indicative of high competence.",
+      "rating": 0,
+      "chunk": 42
     },
     {
-      "Action": "Kisses Gretchen and reassures her that everything is going to be just fine.",
-      "Warmth": 1,
-      "Chunk": 62
+      "trait": "competence",
+      "action": "Paces around the therapist's office while discussing complex and unusual experiences.",
+      "assessment": "Pacing may indicate anxiety or restlessness, which could undermine his ability to communicate clearly and confidently, suggesting some struggle with emotional regulation.",
+      "rating": -1,
+      "chunk": 42
     },
     {
-      "Action": "Walks towards the kitchen but doubles over in pain, shows vulnerability.",
-      "Warmth": 1,
-      "Chunk": 62
+      "trait": "competence",
+      "action": "Shares detailed and unusual personal experiences with his therapist, including following a spear and seeing things others do not.",
+      "assessment": "This demonstrates self-awareness and willingness to engage with difficult topics, indicating intellectual openness and a degree of emotional courage, which are positive competence indicators.",
+      "rating": 2,
+      "chunk": 42
     },
     {
-      "Action": "Reassures Gretchen by telling her everything is going to be just fine.",
-      "Competence": 1,
-      "Chunk": 62
+      "trait": "competence",
+      "action": "Withholds information about 'Frank' from Gretchen out of embarrassment.",
+      "assessment": "This omission suggests a lack of full transparency and possibly insecurity, which may hinder effective communication and problem-solving.",
+      "rating": -1,
+      "chunk": 42
     },
     {
-      "Action": "Follows his spear through chaotic costumed teenagers to the refrigerator, showing focus despite confusion.",
-      "Competence": 1,
-      "Chunk": 62
+      "trait": "competence",
+      "action": "Challenges his therapist by telling her it's her turn to share.",
+      "assessment": "This shows confidence and assertiveness, indicating a level of social and emotional competence in managing the therapeutic relationship.",
+      "rating": 2,
+      "chunk": 42
     },
     {
-      "Action": "Doubles over in pain and stares blankly at the memo board, indicating momentary vulnerability or confusion.",
-      "Competence": 0,
-      "Chunk": 62
+      "trait": "warmth",
+      "action": "Reassures Dr. Thurman that having sexual fantasies is nothing to be embarrassed about.",
+      "assessment": "Donnie shows a nonjudgmental and accepting attitude toward Dr. Thurman's vulnerability, indicating openness and sincerity.",
+      "rating": 2,
+      "chunk": 43
     },
     {
-      "Action": "Takes charge of the group, decides to go see Grandma Death with urgency and confidence despite uncertainty.",
-      "Competence": 1,
-      "Chunk": 63
+      "trait": "warmth",
+      "action": "Expresses frustration that Gretchen won't let him kiss her yet, wanting to move on to more intimate moments.",
+      "assessment": "This reveals some impatience and self-centeredness regarding Gretchen's feelings and boundaries, suggesting a lack of full empathy or tolerance in this context.",
+      "rating": -1,
+      "chunk": 43
     },
     {
-      "Action": "Leads friends into a dark, potentially dangerous place, ignoring warnings and unknown risks.",
-      "Competence": -1,
-      "Chunk": 63
+      "trait": "warmth",
+      "action": "Tells Rose that Dr. Thurman isn't so bad and that he can tell her anything.",
+      "assessment": "This indicates Donnie's ability to trust and be open with others, showing sincerity and a capacity for warm interpersonal connections.",
+      "rating": 2,
+      "chunk": 43
     },
     {
-      "Action": "Whispers 'Dea ex machina' quietly under pressure, showing presence of mind and calm in a dangerous situation.",
-      "Competence": 1,
-      "Chunk": 64
+      "trait": "warmth",
+      "action": "Ignores Samantha's invitation to her talent show.",
+      "assessment": "Ignoring a peer's friendly invitation can be seen as dismissive or unfriendly, reflecting a moment of social withdrawal or lack of warmth.",
+      "rating": -1,
+      "chunk": 43
     },
     {
-      "Action": "Remains almost silent and does not attempt to physically resist or escape while being threatened with a knife.",
-      "Competence": -1,
-      "Chunk": 64
+      "trait": "competence",
+      "action": "Engages in candid and somewhat awkward conversation with Dr. Thurman about personal and sexual topics.",
+      "assessment": "Donnie demonstrates a willingness to be open and honest, which suggests emotional intelligence and confidence in therapy, though his awkwardness indicates some social discomfort.",
+      "rating": 1,
+      "chunk": 43
     },
     {
-      "Action": "Kneels down next to Gretchen after the accident and urgently tries to wake her up.",
-      "Warmth": 1,
-      "Chunk": 65
+      "trait": "competence",
+      "action": "Expresses confusion and impatience about Gretchen's desire to wait for a 'big moment' before their first kiss.",
+      "assessment": "This shows a lack of understanding or maturity regarding emotional intimacy, indicating some social naivety or impulsiveness.",
+      "rating": -1,
+      "chunk": 43
     },
     {
-      "Action": "Shows shocked horror and grief upon realizing Gretchen is dead.",
-      "Warmth": 1,
-      "Chunk": 65
+      "trait": "competence",
+      "action": "Maintains silence and a trance-like state during family dinner, ignoring social interaction.",
+      "assessment": "This suggests disengagement and possible emotional withdrawal, which can be seen as a lack of social competence in family settings.",
+      "rating": -1,
+      "chunk": 43
     },
     {
-      "Action": "Raises a gun calmly, shoots Frank decisively to stop threat.",
-      "Competence": 1,
-      "Chunk": 66
+      "trait": "competence",
+      "action": "Tells his mother that he can tell Dr. Thurman anything, indicating trust and openness in therapy.",
+      "assessment": "This reflects self-awareness and the ability to seek help, which are positive indicators of psychological competence.",
+      "rating": 2,
+      "chunk": 43
     },
     {
-      "Action": "Tells Sean and Ronald to \"Go home\" calmly, demonstrating control after chaos.",
-      "Competence": 1,
-      "Chunk": 66
+      "trait": "competence",
+      "action": "Presents a scientific invention (Infant Memory Generators) confidently in front of the physics class.",
+      "assessment": "This action shows intellectual capability, confidence, and skill in academic settings, indicating strong competence.",
+      "rating": 3,
+      "chunk": 43
     },
     {
-      "Action": "Seems shocked and disoriented after shooting Frank, showing emotional impact.",
-      "Competence": 0,
-      "Chunk": 66
+      "trait": "warmth",
+      "action": "Chases after Gretchen to apologize when she is upset and they embrace and kiss for the first time.",
+      "assessment": "Donnie shows sincerity and concern for Gretchen's feelings by apologizing and seeking reconciliation, indicating warmth and emotional openness.",
+      "rating": 2,
+      "chunk": 44
     },
     {
-      "Action": "Carries Gretchen home after events, showing responsible behavior.",
-      "Competence": 1,
-      "Chunk": 66
+      "trait": "warmth",
+      "action": "Engages in a thoughtful discussion about infant memory development with Dr. Monnitoff and others.",
+      "assessment": "Donnie's participation in a serious, intellectual conversation shows curiosity and respect for others' ideas, reflecting a tolerant and sincere nature.",
+      "rating": 1,
+      "chunk": 44
     },
     {
-      "Action": "Feels sick and hesitant before driving off with Gretchen, indicating vulnerability.",
-      "Competence": 0,
-      "Chunk": 66
+      "trait": "competence",
+      "action": "Explains the concept of Infant Memory Generators thoughtfully during a discussion.",
+      "assessment": "Donnie demonstrates intellectual engagement and the ability to articulate a complex idea clearly, indicating cognitive competence.",
+      "rating": 2,
+      "chunk": 44
     },
     {
-      "Action": "Takes Gretchen's hand after stepping off the car roof.",
-      "Warmth": 1,
-      "Chunk": 67
+      "trait": "competence",
+      "action": "Chases after Gretchen to apologize and then shares a first kiss with her.",
+      "assessment": "This shows emotional awareness and social confidence, suggesting competence in interpersonal relationships.",
+      "rating": 2,
+      "chunk": 44
     },
     {
-      "Action": "Sits calmly on the roof early in the morning, observing the surroundings and counts down time with a confident smile.",
-      "Competence": 1,
-      "Chunk": 67
+      "trait": "competence",
+      "action": "Responds calmly and thoughtfully in a tense group discussion despite interruptions and provocations.",
+      "assessment": "Maintaining composure in a challenging social environment reflects emotional and social competence.",
+      "rating": 2,
+      "chunk": 44
     },
     {
-      "Action": "Takes Gretchen's hand and gets back into the car after contemplative observation, indicating thoughtful and deliberate behavior.",
-      "Competence": 1,
-      "Chunk": 67
+      "trait": "warmth",
+      "action": "Looks over and sees that Gretchen is asleep while they watch the movie together.",
+      "assessment": "Donnie's quiet observation of Gretchen sleeping suggests a gentle, caring presence and comfort in her company, indicating warmth.",
+      "rating": 2,
+      "chunk": 45
     },
     {
-      "Action": "Finds himself fatally struck by a fallen jet engine while seemingly laughing hysterically moments before.",
-      "Competence": 0,
-      "Chunk": 68
+      "trait": "warmth",
+      "action": "Asks Frank to remove the rabbit headpiece to see his face.",
+      "assessment": "This action shows curiosity and a desire for genuine connection, but also a somewhat confrontational or challenging tone, making the warmth ambiguous.",
+      "rating": 0,
+      "chunk": 45
+    },
+    {
+      "trait": "warmth",
+      "action": "Engages in a serious conversation with Frank about the storm and the time portal.",
+      "assessment": "Donnie's willingness to engage deeply with Frank about mysterious and potentially dangerous matters shows trust and openness, which can be seen as warm.",
+      "rating": 1,
+      "chunk": 45
+    },
+    {
+      "trait": "warmth",
+      "action": "Contemplates his fate silently and then walks out of the theater without further interaction.",
+      "assessment": "Donnie's withdrawal and silence here may indicate introspection but also emotional distance or detachment, which lowers perceived warmth.",
+      "rating": -1,
+      "chunk": 45
+    },
+    {
+      "trait": "competence",
+      "action": "Questions Frank directly about the bunny suit and demands he take it off to see his face.",
+      "assessment": "This shows Donnie's assertiveness and curiosity, indicating a confident and direct approach to understanding unusual situations.",
+      "rating": 2,
+      "chunk": 45
+    },
+    {
+      "trait": "competence",
+      "action": "Observes Frank's injured eye and asks about it calmly.",
+      "assessment": "Donnie demonstrates composure and analytical thinking by calmly processing disturbing information rather than reacting with panic.",
+      "rating": 2,
+      "chunk": 45
+    },
+    {
+      "trait": "competence",
+      "action": "Contemplates his fate for several moments before deciding to leave the theater.",
+      "assessment": "This suggests Donnie's ability to pause, reflect, and make deliberate decisions rather than acting impulsively.",
+      "rating": 2,
+      "chunk": 45
+    },
+    {
+      "trait": "competence",
+      "action": "Pulls out Jim Cunningham's wallet from his pocket after Frank's cryptic instruction.",
+      "assessment": "This action implies Donnie is resourceful and possibly planning to act on the information or instructions he receives, showing initiative.",
+      "rating": 1,
+      "chunk": 45
+    },
+    {
+      "trait": "competence",
+      "action": "Leaves the theater slowly and without apparent urgency after receiving ominous warnings.",
+      "assessment": "This measured behavior could indicate calmness and control, but might also suggest hesitation or uncertainty in the face of danger.",
+      "rating": 0,
+      "chunk": 45
+    },
+    {
+      "trait": "warmth",
+      "action": "Walks slowly past the theatre marquee without interacting with others.",
+      "assessment": "Donnie's slow, solitary walk suggests a reserved or detached demeanor, showing neither warmth nor coldness explicitly.",
+      "rating": 0,
+      "chunk": 46
+    },
+    {
+      "trait": "warmth",
+      "action": "Douses Jim Cunningham's house with gasoline and sets it on fire.",
+      "assessment": "This destructive act is hostile and harmful, indicating a severe lack of warmth, trustworthiness, and benevolence.",
+      "rating": -3,
+      "chunk": 46
+    },
+    {
+      "trait": "competence",
+      "action": "Walks slowly past the theatre marquee, observing the environment calmly.",
+      "assessment": "This action suggests a composed and deliberate demeanor, indicating a level of self-control and awareness.",
+      "rating": 1,
+      "chunk": 46
+    },
+    {
+      "trait": "competence",
+      "action": "Approaches Jim Cunningham's house and douses gasoline with psychotic force, starting a fire.",
+      "assessment": "This action shows a reckless and destructive behavior lacking foresight and control, indicating poor judgment and incompetence in managing consequences.",
+      "rating": -3,
+      "chunk": 46
+    },
+    {
+      "trait": "warmth",
+      "action": "Wakes Gretchen gently after she falls asleep during the movie and suggests they leave together.",
+      "assessment": "Donnie shows consideration for Gretchen's state and includes her in his plans, indicating attentiveness and a caring attitude.",
+      "rating": 2,
+      "chunk": 47
+    },
+    {
+      "trait": "warmth",
+      "action": "Spends early morning lying awake with Gretchen, sharing a quiet moment staring into the canyon.",
+      "assessment": "This intimate and calm moment suggests Donnie values connection and companionship, reflecting warmth and sincerity.",
+      "rating": 2,
+      "chunk": 47
+    },
+    {
+      "trait": "warmth",
+      "action": "Rakes leaves with Eddie in silence, acknowledging that people think he is a 'nutcase' and that he has been getting weird looks.",
+      "assessment": "Donnie's willingness to engage in a mundane task with a peer and openly admit his social difficulties shows a degree of honesty and tolerance, though the silence may indicate some social withdrawal.",
+      "rating": 1,
+      "chunk": 47
+    },
+    {
+      "trait": "competence",
+      "action": "Donnie wakes Gretchen after she falls asleep during the movie and promptly suggests they leave.",
+      "assessment": "This action shows Donnie's awareness of his surroundings and social situation, as well as his ability to take initiative and make decisions confidently.",
+      "rating": 2,
+      "chunk": 47
+    },
+    {
+      "trait": "competence",
+      "action": "Donnie lies awake with Gretchen at Carpathian Ridge, staring into the abyssal canyon at sunrise.",
+      "assessment": "This moment suggests introspection and emotional depth, indicating mental and emotional competence in processing complex feelings, though it is more reflective than active.",
+      "rating": 1,
+      "chunk": 47
+    },
+    {
+      "trait": "competence",
+      "action": "Donnie rakes leaves with Eddie in the backyard, acknowledging that people think he is a nutcase and that he has been getting weird looks.",
+      "assessment": "This shows Donnie's self-awareness and ability to engage in mundane tasks despite social alienation, reflecting a grounded and capable attitude in everyday life.",
+      "rating": 1,
+      "chunk": 47
+    },
+    {
+      "trait": "warmth",
+      "action": "Admits to Eddie that he knows people are afraid of him and that he deserves it.",
+      "assessment": "Donnie shows a degree of self-awareness and acceptance of how others perceive him, but this admission is tinged with self-criticism rather than warmth or openness.",
+      "rating": -1,
+      "chunk": 48
+    },
+    {
+      "trait": "warmth",
+      "action": "Smiles at his father after Eddie encourages him to be honest and true to himself.",
+      "assessment": "The smile suggests a positive connection and trust toward his father, indicating some warmth in this familial relationship.",
+      "rating": 2,
+      "chunk": 48
+    },
+    {
+      "trait": "warmth",
+      "action": "Takes his medication quietly and does not engage with Elizabeth's excitement about the news report.",
+      "assessment": "Donnie's quiet, withdrawn behavior and lack of interaction with Elizabeth may indicate emotional distance or detachment, which can be a negative indicator of warmth.",
+      "rating": -1,
+      "chunk": 48
+    },
+    {
+      "trait": "competence",
+      "action": "Acknowledges that people look at him strangely and accepts that he deserves it.",
+      "assessment": "This shows a level of self-awareness and emotional insight, indicating some maturity and reflective intelligence.",
+      "rating": 1,
+      "chunk": 48
+    },
+    {
+      "trait": "competence",
+      "action": "Takes his medication as prescribed without hesitation.",
+      "assessment": "This suggests responsibility and discipline in managing his mental health, a positive indicator of competence.",
+      "rating": 2,
+      "chunk": 48
+    },
+    {
+      "trait": "competence",
+      "action": "Sits quietly and stares at the calendar with days marked off.",
+      "assessment": "This behavior could indicate planning or tracking important events, showing organizational skills and foresight.",
+      "rating": 1,
+      "chunk": 48
+    },
+    {
+      "trait": "competence",
+      "action": "Does not react outwardly to the disturbing news about the arson and the kiddie-porn dungeon on TV.",
+      "assessment": "His lack of visible reaction might suggest emotional detachment or difficulty processing external events, which could be a negative indicator of competence in emotional regulation.",
+      "rating": -1,
+      "chunk": 48
+    },
+    {
+      "trait": "warmth",
+      "action": "Stares at the television, speechless and horrified upon learning about Jim Cunningham's arrest and the kiddie-porn dungeon.",
+      "assessment": "Donnie's reaction shows sensitivity and a capacity for empathy toward disturbing news, indicating a good-natured and sincere emotional response.",
+      "rating": 2,
+      "chunk": 49
+    },
+    {
+      "trait": "warmth",
+      "action": "Says nothing and walks upstairs after Elizabeth mentions her dad played golf with Cunningham.",
+      "assessment": "Donnie's silence and withdrawal here could suggest discomfort or internal processing, but also a lack of open communication or support in a moment that might call for it, indicating a neutral to slightly negative warmth indicator.",
+      "rating": 0,
+      "chunk": 49
+    },
+    {
+      "trait": "warmth",
+      "action": "Engages in an in-depth, thoughtful conversation with Dr. Monnitoff about time travel and destiny.",
+      "assessment": "Donnie's curiosity and willingness to engage intellectually with others shows openness and respect, which can be seen as friendly and sincere behavior, though it is more cognitive than emotional warmth.",
+      "rating": 1,
+      "chunk": 49
+    },
+    {
+      "trait": "competence",
+      "action": "Stares at the television, speechless and horrified upon learning about Jim Cunningham's arrest and scandal.",
+      "assessment": "Donnie's silence and visible shock suggest emotional impact but do not demonstrate active coping or problem-solving skills in this moment, indicating a passive response.",
+      "rating": 0,
+      "chunk": 49
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in an in-depth conversation with Dr. Monnitoff about complex physics concepts such as vectors, wormholes, and time travel.",
+      "assessment": "Donnie shows intellectual curiosity and the ability to grasp and discuss advanced scientific ideas, reflecting cognitive competence and analytical thinking.",
+      "rating": 2,
+      "chunk": 49
+    },
+    {
+      "trait": "competence",
+      "action": "Poses thoughtful questions about the nature of wormholes and the implications of predestination and time travel.",
+      "assessment": "This demonstrates critical thinking and a willingness to challenge and explore abstract concepts, indicating intellectual confidence and competence.",
+      "rating": 2,
+      "chunk": 49
+    },
+    {
+      "trait": "competence",
+      "action": "Turns away silently and walks upstairs after hearing about the scandal involving someone his family knows.",
+      "assessment": "This non-action suggests avoidance or withdrawal rather than confronting or processing the situation, which may indicate emotional or social incompetence in handling difficult news.",
+      "rating": -1,
+      "chunk": 49
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in a philosophical discussion with Dr. Monnitoff about destiny and choice, attempting to reason about staying within God's channel.",
+      "assessment": "This shows Donnie's intellectual curiosity and willingness to engage in complex abstract thought, indicating a level of cognitive competence and confidence in discussing difficult topics.",
+      "rating": 2,
+      "chunk": 50
+    },
+    {
+      "trait": "competence",
+      "action": "Is cut off by Dr. Monnitoff who fears repercussions for continuing the conversation.",
+      "assessment": "While Donnie initiates a challenging conversation, the fact that the adult interlocutor stops the discussion suggests Donnie may be pushing boundaries without fully gauging social or institutional limits, indicating a partial lack of social competence.",
+      "rating": 0,
+      "chunk": 50
+    },
+    {
+      "trait": "warmth",
+      "action": "Dismisses the significance of the rabbits' fate, saying 'Why should I mourn for a rabbit like it was a human?' and 'There's no point in crying for a dead rabbit... who never feared death to begin with.'",
+      "assessment": "Donnie's comments show a lack of empathy and an emotionally detached perspective toward the suffering of others, even fictional creatures, indicating low warmth.",
+      "rating": -2,
+      "chunk": 52
+    },
+    {
+      "trait": "warmth",
+      "action": "Looks over at Gretchen, who looks angry at his dismissive remarks.",
+      "assessment": "Although Donnie notices Gretchen's reaction, he does not appear to soften or reconsider his stance, suggesting limited sensitivity to others' feelings.",
+      "rating": -1,
+      "chunk": 52
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in a philosophical debate about the value of mourning rabbits and the meaning of their existence.",
+      "assessment": "This shows Donnie's intellectual curiosity and willingness to challenge conventional emotional responses, indicating a thoughtful and analytical mind.",
+      "rating": 2,
+      "chunk": 52
+    },
+    {
+      "trait": "competence",
+      "action": "Dismisses the emotional significance of the rabbits' fate, stating they have no history or knowledge of sorrow.",
+      "assessment": "While this reflects critical thinking, it also reveals a certain emotional detachment or insensitivity, which may limit his social competence in empathetic understanding.",
+      "rating": 0,
+      "chunk": 52
+    },
+    {
+      "trait": "competence",
+      "action": "Expresses his views confidently in front of the class, despite Gretchen's visible disapproval.",
+      "assessment": "This demonstrates confidence and assertiveness in expressing his ideas, a positive indicator of competence.",
+      "rating": 2,
+      "chunk": 52
+    },
+    {
+      "trait": "competence",
+      "action": "Fails to recognize or respond constructively to Gretchen's counterargument about the importance of storytelling and empathy.",
+      "assessment": "This omission suggests a possible rigidity in thinking or lack of social perceptiveness, which can be a negative indicator of competence in interpersonal contexts.",
+      "rating": -1,
+      "chunk": 52
+    },
+    {
+      "trait": "warmth",
+      "action": "Asks Gretchen if she wants to skip fourth period and go to the Ridge.",
+      "assessment": "Donnie attempts to engage Gretchen in a shared activity, indicating a desire for connection, though the invitation is met with anger and rejection.",
+      "rating": 1,
+      "chunk": 53
+    },
+    {
+      "trait": "warmth",
+      "action": "Does not interrupt his family’s serene moment of happiness in the kitchen.",
+      "assessment": "Choosing not to disturb a peaceful family moment shows respect and consideration for others' feelings, reflecting warmth and sensitivity.",
+      "rating": 2,
+      "chunk": 53
+    },
+    {
+      "trait": "competence",
+      "action": "Approaches Gretchen at her locker and suggests skipping fourth period to go to the Ridge.",
+      "assessment": "This action shows Donnie's willingness to take initiative and engage socially, but the awkwardness of the interaction and Gretchen's angry reaction suggest a lack of social tact or confidence in this context.",
+      "rating": 0,
+      "chunk": 53
+    },
+    {
+      "trait": "competence",
+      "action": "Sits at his desk at night studying an intricate drawing of a cloud formation labeled 'THE PORTAL'.",
+      "assessment": "This indicates intellectual curiosity, focus, and a methodical approach to understanding complex concepts, reflecting cognitive competence and dedication.",
+      "rating": 2,
+      "chunk": 53
+    },
+    {
+      "trait": "competence",
+      "action": "Observes his family in a serene moment but chooses not to interrupt.",
+      "assessment": "This shows emotional intelligence and self-control, demonstrating social awareness and respect for others' space, which are aspects of competent interpersonal behavior.",
+      "rating": 2,
+      "chunk": 53
+    },
+    {
+      "trait": "warmth",
+      "action": "Sits silently on the back-porch steps watching everyone as they prepare to leave for the trip.",
+      "assessment": "Donnie's silent observation suggests a reserved or withdrawn demeanor rather than active engagement or warmth in this social context.",
+      "rating": -1,
+      "chunk": 54
+    },
+    {
+      "trait": "warmth",
+      "action": "Sits on his bed and talks with his mother Rose about her trip and family arrangements.",
+      "assessment": "Engaging in a calm conversation with his mother and showing some interest in family matters indicates a degree of sincerity and connection.",
+      "rating": 1,
+      "chunk": 54
+    },
+    {
+      "trait": "warmth",
+      "action": "Jokes with his mother by asking if she gets to meet Ed and calls himself a 'wacko' son.",
+      "assessment": "Using humor to connect with his mother shows a friendly and trusting relationship, reflecting warmth despite his self-deprecating comment.",
+      "rating": 2,
+      "chunk": 54
+    },
+    {
+      "trait": "competence",
+      "action": "Donnie sits silently on the back-porch steps, watching everyone as they prepare to leave for the trip.",
+      "assessment": "This action shows a passive and observant stance rather than active engagement or leadership, indicating a neutral level of competence in social or situational management.",
+      "rating": 0,
+      "chunk": 54
+    },
+    {
+      "trait": "competence",
+      "action": "Donnie tells his mother, 'I feel like... I'm approaching something horrible.'",
+      "assessment": "This statement reflects self-awareness and insight into his emotional or psychological state, suggesting a degree of introspective intelligence and emotional competence.",
+      "rating": 1,
+      "chunk": 54
+    },
+    {
+      "trait": "competence",
+      "action": "Donnie sarcastically asks his mother, 'How does it feel to have a wacko for a son?'",
+      "assessment": "This shows a sharp wit and confidence in communication, though it also reveals a confrontational or self-deprecating attitude that may undermine social competence in some contexts.",
+      "rating": 1,
+      "chunk": 54
+    },
+    {
+      "trait": "warmth",
+      "action": "Waves goodbye to Rose when she leaves, and Rose smiles and waves back.",
+      "assessment": "Donnie's reciprocal wave and the mutual smile suggest a warm, affectionate, and sincere connection with his mother, indicating a baseline of warmth in family interactions.",
+      "rating": 2,
+      "chunk": 55
+    },
+    {
+      "trait": "warmth",
+      "action": "Reluctantly approaches his mother to say 'There's nothing broken... in my brain.'",
+      "assessment": "This moment shows vulnerability and an attempt to reassure his mother, reflecting sincerity and a desire to maintain trust, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 55
+    },
+    {
+      "trait": "warmth",
+      "action": "Asks Gretchen, 'Will you please talk to me?'",
+      "assessment": "Donnie's direct and earnest request to communicate shows openness and a desire for connection, which are warm traits; however, Gretchen's rejection tempers the impact.",
+      "rating": 1,
+      "chunk": 55
+    },
+    {
+      "trait": "warmth",
+      "action": "Persistently asks Gretchen to talk despite her initial refusal.",
+      "assessment": "While persistence can show care, in this context it may border on insensitivity to Gretchen's boundaries, slightly reducing the warmth rating.",
+      "rating": 0,
+      "chunk": 55
+    },
+    {
+      "trait": "warmth",
+      "action": "Knocks on Ms. Pomeroy's door and inquires about her situation.",
+      "assessment": "Donnie's concern for his teacher and willingness to engage with her during a confusing moment shows friendliness and sincerity, positive warmth indicators.",
+      "rating": 2,
+      "chunk": 55
+    },
+    {
+      "trait": "competence",
+      "action": "Donnie waves goodbye to Rose and others calmly, despite the emotional moment.",
+      "assessment": "This action shows Donnie's ability to maintain composure and social grace in a difficult emotional situation, indicating a degree of emotional competence and self-control.",
+      "rating": 2,
+      "chunk": 55
+    },
+    {
+      "trait": "competence",
+      "action": "Donnie approaches his mother to say, 'There's nothing broken... in my brain.'",
+      "assessment": "This statement reflects Donnie's self-awareness and confidence in his mental state, suggesting insight and a level of emotional and intellectual competence.",
+      "rating": 2,
+      "chunk": 55
+    },
+    {
+      "trait": "competence",
+      "action": "Donnie insists on talking to Gretchen despite her initial refusal.",
+      "assessment": "This persistence shows determination and assertiveness, which are positive indicators of competence, though it may also suggest some social awkwardness or lack of timing.",
+      "rating": 1,
+      "chunk": 55
+    },
+    {
+      "trait": "competence",
+      "action": "Donnie wanders alone through the school hallways, appearing lost and stumbling upon Ms. Pomeroy's empty classroom.",
+      "assessment": "This behavior indicates a lack of direction and focus at this moment, reflecting uncertainty and possible disengagement, which are negative indicators of competence.",
+      "rating": -1,
+      "chunk": 55
+    },
+    {
+      "trait": "warmth",
+      "action": "Tells Ms. Pomeroy that she is a good teacher after she reveals she was fired.",
+      "assessment": "Donnie offers sincere encouragement and support to Ms. Pomeroy during a difficult moment, showing kindness and empathy.",
+      "rating": 3,
+      "chunk": 56
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses concern about what to tell the rest of the class regarding Ms. Pomeroy's firing.",
+      "assessment": "This shows Donnie's consideration for others and his awareness of the impact of events on his peers, indicating a caring nature.",
+      "rating": 2,
+      "chunk": 56
+    },
+    {
+      "trait": "warmth",
+      "action": "Reflects quietly and seems introspective after Ms. Pomeroy leaves.",
+      "assessment": "While introspection itself is neutral, his thoughtful demeanor suggests he is processing emotions sincerely, which can be linked to warmth.",
+      "rating": 1,
+      "chunk": 56
+    },
+    {
+      "trait": "competence",
+      "action": "Defends Ms. Pomeroy by telling her she is a good teacher despite her being fired.",
+      "assessment": "This shows Donnie's ability to recognize and articulate support for others, indicating emotional intelligence and social awareness, which are aspects of competence.",
+      "rating": 2,
+      "chunk": 56
+    },
+    {
+      "trait": "competence",
+      "action": "Questions Mom and Dad's rules as noted by Ms. Pomeroy.",
+      "assessment": "This suggests critical thinking and a willingness to challenge authority, reflecting intellectual competence and independent thought.",
+      "rating": 2,
+      "chunk": 56
+    },
+    {
+      "trait": "competence",
+      "action": "Asks about the meaning of 'Cellar Door' and reflects on it.",
+      "assessment": "Demonstrates curiosity and engagement with abstract or philosophical ideas, indicating intellectual capability.",
+      "rating": 2,
+      "chunk": 56
+    },
+    {
+      "trait": "competence",
+      "action": "Appears lost in introspection after Ms. Pomeroy leaves.",
+      "assessment": "While introspection can be a sign of self-awareness, excessive or unresolved introspection here may suggest indecisiveness or emotional confusion, which can detract from confident competence.",
+      "rating": -1,
+      "chunk": 56
+    },
+    {
+      "trait": "warmth",
+      "action": "Comes face to face with Cherita, grabs her earmuffs gently, touches his forehead to hers, and promises that one day things will get better for her.",
+      "assessment": "Donnie's gesture is intimate and caring, showing a sincere attempt to comfort and connect with Cherita despite her wariness.",
+      "rating": 2,
+      "chunk": 57
+    },
+    {
+      "trait": "warmth",
+      "action": "Wears Cherita's earmuffs while walking alone, lost in thought.",
+      "assessment": "Wearing Cherita's earmuffs suggests a symbolic connection or empathy towards her, indicating a thoughtful and sensitive side.",
+      "rating": 1,
+      "chunk": 57
+    },
+    {
+      "trait": "warmth",
+      "action": "Does not respond when asked if Frank wants him to destroy the world.",
+      "assessment": "His silence here may indicate internal conflict or avoidance rather than warmth or coldness; it is neutral in terms of warmth.",
+      "rating": 0,
+      "chunk": 57
+    },
+    {
+      "trait": "competence",
+      "action": "Approaches Cherita slowly like a cat, makes eye contact, and touches his forehead to hers while promising that things will get better.",
+      "assessment": "This action shows emotional awareness and a confident attempt to connect and comfort someone in distress, indicating social and emotional competence.",
+      "rating": 2,
+      "chunk": 57
+    },
+    {
+      "trait": "competence",
+      "action": "Keeps wearing Cherita's earmuffs after she runs away, walking by himself deep in thought.",
+      "assessment": "This suggests introspection and a capacity for empathy, but also a possible tendency to dwell on emotional events rather than taking immediate action, showing moderate competence.",
+      "rating": 1,
+      "chunk": 57
+    },
+    {
+      "trait": "competence",
+      "action": "Responds to Dr. Thurman under hypnosis with short, hesitant answers and avoids direct engagement with difficult questions.",
+      "assessment": "This indicates some difficulty in articulating his feelings and confronting his issues, which may reflect limited emotional or psychological competence in therapy settings.",
+      "rating": -1,
+      "chunk": 57
+    },
+    {
+      "trait": "competence",
+      "action": "Does not answer when asked if Frank wants him to destroy the world.",
+      "assessment": "This omission suggests avoidance or confusion, indicating a lack of clarity or confidence in addressing his own motivations or external influences, reflecting lower competence.",
+      "rating": -2,
+      "chunk": 57
+    },
+    {
+      "trait": "warmth",
+      "action": "Admits to Dr. Thurman that he flooded his school and burned down a house, expressing regret for his actions.",
+      "assessment": "Donnie's admission and expression of regret show a level of sincerity and self-awareness, indicating some capacity for remorse and understanding of the impact of his actions.",
+      "rating": 1,
+      "chunk": 58
+    },
+    {
+      "trait": "warmth",
+      "action": "States that he obeys Frank because Frank saved his life and controls him, fearing loneliness and confusion if he disobeys.",
+      "assessment": "This reveals Donnie's vulnerability and a desire for connection, but also suggests a lack of autonomous moral judgment, which complicates his warmth as it is driven by fear rather than genuine trust or goodwill.",
+      "rating": 0,
+      "chunk": 58
+    },
+    {
+      "trait": "warmth",
+      "action": "Does not respond when asked if Frank told him to commit crimes.",
+      "assessment": "His silence here may indicate avoidance or internal conflict, which neither clearly supports nor undermines warmth but suggests emotional complexity.",
+      "rating": 0,
+      "chunk": 58
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses a desire to build a time machine to go back and not feel regret anymore.",
+      "assessment": "This shows a wish to correct past wrongs, reflecting a hopeful and possibly sincere wish to improve himself and his circumstances, which is a positive indicator of warmth.",
+      "rating": 2,
+      "chunk": 58
+    },
+    {
+      "trait": "competence",
+      "action": "Admits to flooding his school and burning down a house, acknowledging the consequences and that he has only a few days left before being caught.",
+      "assessment": "This shows a level of self-awareness and acceptance of the consequences of his actions, indicating some degree of realistic understanding and responsibility, though the actions themselves are destructive.",
+      "rating": 1,
+      "chunk": 58
+    },
+    {
+      "trait": "competence",
+      "action": "States that he must obey Frank because Frank saved his life and controls him, despite not fully understanding the meaning of it all.",
+      "assessment": "This suggests a lack of autonomous decision-making and critical thinking, as Donnie submits to external control without questioning it deeply, indicating lower competence in self-governance.",
+      "rating": -2,
+      "chunk": 58
+    },
+    {
+      "trait": "competence",
+      "action": "Claims he has the power to build a time machine and that Grandma Death will teach him how.",
+      "assessment": "This reflects imaginative thinking and confidence in his abilities, but given the fantastical nature of the claim and lack of concrete evidence, it may indicate delusional or unrealistic thinking rather than true competence.",
+      "rating": 0,
+      "chunk": 58
+    },
+    {
+      "trait": "competence",
+      "action": "Expresses a desire to go back in time to avoid regret, linking this to a belief in God's portal and time travel.",
+      "assessment": "While this shows goal-oriented thinking and a desire to correct past mistakes, the reliance on supernatural explanations and unclear plans suggests limited practical competence.",
+      "rating": 0,
+      "chunk": 58
+    },
+    {
+      "trait": "competence",
+      "action": "Responds to Dr. Thurman's questions with brief, sometimes cryptic answers, and occasionally does not respond at all.",
+      "assessment": "This indicates difficulty in communication and possibly evasiveness or confusion, which detracts from perceptions of competence in social and intellectual engagement.",
+      "rating": -1,
+      "chunk": 58
+    },
+    {
+      "trait": "warmth",
+      "action": "Appears frightened and childlike, expressing fear about impending events and potential harm to others.",
+      "assessment": "Donnie's visible fear and vulnerability suggest a sincere and sensitive nature, indicating an underlying emotional openness and trust in Dr. Thurman.",
+      "rating": 2,
+      "chunk": 59
+    },
+    {
+      "trait": "warmth",
+      "action": "Communicates his fears openly to Dr. Thurman, including his belief that Frank will kill and that the sky will open.",
+      "assessment": "Sharing such intense and personal fears with a therapist shows a willingness to be sincere and vulnerable, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 59
+    },
+    {
+      "trait": "warmth",
+      "action": "Does not resist Dr. Thurman's attempts to comfort and control him, eventually calming down and cooperating.",
+      "assessment": "His acceptance of help and cooperation with Dr. Thurman reflect trust and openness to support, which are warm traits.",
+      "rating": 2,
+      "chunk": 59
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses a sense of having ruined his life and despair about his situation.",
+      "assessment": "While this shows self-critical and negative self-perception, it also reveals honesty and emotional depth, which can be linked to sincerity, a component of warmth.",
+      "rating": 1,
+      "chunk": 59
+    },
+    {
+      "trait": "competence",
+      "action": "Donnie gets up on his feet, staggering around the room, looking frightened and childlike.",
+      "assessment": "This behavior suggests a lack of emotional control and physical steadiness, indicating a momentary lapse in competence.",
+      "rating": -2,
+      "chunk": 59
+    },
+    {
+      "trait": "competence",
+      "action": "Donnie expresses urgency repeatedly: 'It has to happen soon, it has to happen soon.'",
+      "assessment": "This shows a clear awareness of impending events and a focused mindset, reflecting some degree of cognitive competence despite emotional distress.",
+      "rating": 1,
+      "chunk": 59
+    },
+    {
+      "trait": "competence",
+      "action": "Donnie communicates his fears openly to Dr. Thurman, describing Frank and the impending danger.",
+      "assessment": "This indicates self-awareness and the ability to articulate internal experiences, which is a sign of psychological insight and competence.",
+      "rating": 1,
+      "chunk": 59
+    },
+    {
+      "trait": "competence",
+      "action": "Donnie stares across the office, seeing Frank and claiming Frank can read his mind and will show him the way out.",
+      "assessment": "This suggests a detachment from reality and possible hallucinations, which undermines his reliability and practical competence.",
+      "rating": -2,
+      "chunk": 59
+    },
+    {
+      "trait": "competence",
+      "action": "Donnie admits 'It's too late. I've already ruined my life.'",
+      "assessment": "This statement reflects a defeatist attitude and lack of confidence in his ability to change his circumstances, indicating low self-efficacy and reduced competence.",
+      "rating": -1,
+      "chunk": 59
+    },
+    {
+      "trait": "competence",
+      "action": "Donnie snaps out of his trance when Dr. Thurman claps her hands.",
+      "assessment": "This shows that Donnie is responsive to external cues and capable of regaining control, suggesting some underlying resilience and competence.",
+      "rating": 1,
+      "chunk": 59
+    },
+    {
+      "trait": "warmth",
+      "action": "Says 'Thank you' to Dr. Thurman after learning his medication is a placebo.",
+      "assessment": "Donnie's polite and respectful response to Dr. Thurman shows good manners and sincerity.",
+      "rating": 2,
+      "chunk": 60
+    },
+    {
+      "trait": "warmth",
+      "action": "Congratulates Elizabeth on getting into Harvard.",
+      "assessment": "Offering congratulations reflects Donnie's supportive and friendly nature toward his sister.",
+      "rating": 2,
+      "chunk": 60
+    },
+    {
+      "trait": "warmth",
+      "action": "Suggests throwing a Halloween party while his parents are away.",
+      "assessment": "Proposing a party indicates a desire to create a social, enjoyable environment, showing friendliness and inclusiveness.",
+      "rating": 2,
+      "chunk": 60
+    },
+    {
+      "trait": "warmth",
+      "action": "Reassures Elizabeth by saying 'Everything is going to be just fine.'",
+      "assessment": "Donnie's reassurance demonstrates empathy and a comforting attitude toward his sister.",
+      "rating": 3,
+      "chunk": 60
+    },
+    {
+      "trait": "competence",
+      "action": "Donnie calmly accepts the information that his medication is a placebo and thanks Dr. Thurman.",
+      "assessment": "This shows emotional maturity and intellectual acceptance, indicating a level of self-awareness and composure.",
+      "rating": 2,
+      "chunk": 60
+    },
+    {
+      "trait": "competence",
+      "action": "Donnie correctly distinguishes between atheism and agnosticism during his conversation with Dr. Thurman.",
+      "assessment": "This demonstrates intellectual engagement and understanding of complex concepts, reflecting cognitive competence.",
+      "rating": 2,
+      "chunk": 60
+    },
+    {
+      "trait": "competence",
+      "action": "Donnie suggests throwing a Halloween party while his parents are away, and reassures Elizabeth that everything will be fine.",
+      "assessment": "This indicates social confidence and planning ability, showing leadership and a sense of control over the situation.",
+      "rating": 1,
+      "chunk": 60
+    },
+    {
+      "trait": "competence",
+      "action": "Donnie answers the door to neighborhood kids dressed for Halloween, engaging with peers in a social setting.",
+      "assessment": "This reflects social competence and comfort in peer interactions, though the action itself is routine and neutral.",
+      "rating": 1,
+      "chunk": 60
+    },
+    {
+      "trait": "warmth",
+      "action": "Answers the door when Gretchen rings the bell late at night.",
+      "assessment": "Donnie is responsive and attentive to someone who comes to him unexpectedly, showing openness and availability.",
+      "rating": 2,
+      "chunk": 61
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses concern for Gretchen by asking if she is OK and where her mom is.",
+      "assessment": "His questions show genuine care and attentiveness to Gretchen's distress.",
+      "rating": 3,
+      "chunk": 61
+    },
+    {
+      "trait": "warmth",
+      "action": "Hugs Gretchen and reassures her that it is safe here.",
+      "assessment": "Physical comfort and verbal reassurance indicate empathy, kindness, and a protective attitude.",
+      "rating": 3,
+      "chunk": 61
+    },
+    {
+      "trait": "warmth",
+      "action": "Takes Gretchen upstairs to presumably offer further support.",
+      "assessment": "This action shows a willingness to help and provide a safe space, reflecting sincerity and trustworthiness.",
+      "rating": 3,
+      "chunk": 61
+    },
+    {
+      "trait": "competence",
+      "action": "Answers the doorbell promptly when it rings late at night.",
+      "assessment": "This shows attentiveness and responsibility, indicating a level of confidence and reliability in handling unexpected situations.",
+      "rating": 2,
+      "chunk": 61
+    },
+    {
+      "trait": "competence",
+      "action": "Comforts Gretchen when she arrives upset and scared, offering a hug and reassurance.",
+      "assessment": "This demonstrates emotional intelligence and social skill, showing Donnie's ability to respond supportively and confidently in a crisis.",
+      "rating": 2,
+      "chunk": 61
+    },
+    {
+      "trait": "competence",
+      "action": "Asks Gretchen practical questions about her situation (e.g., if she called the cops).",
+      "assessment": "This indicates clear thinking and problem-solving ability under emotional circumstances, reflecting competent behavior.",
+      "rating": 2,
+      "chunk": 61
+    },
+    {
+      "trait": "competence",
+      "action": "Takes initiative to escort Gretchen upstairs to safety.",
+      "assessment": "This action shows leadership and decisiveness, reinforcing his capability in managing difficult social situations.",
+      "rating": 2,
+      "chunk": 61
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in casual banter about the party and types of beer.",
+      "assessment": "While this shows social engagement, it is neutral in terms of competence, reflecting typical adolescent behavior without particular skill or intelligence.",
+      "rating": 0,
+      "chunk": 61
+    },
+    {
+      "trait": "warmth",
+      "action": "Reassures Gretchen by telling her 'Everything is going to be just fine.'",
+      "assessment": "Donnie offers comfort and reassurance to Gretchen during a vulnerable moment, showing care and concern for her emotional well-being.",
+      "rating": 2,
+      "chunk": 62
+    },
+    {
+      "trait": "warmth",
+      "action": "Kisses Gretchen and lies down with her, sharing a quiet moment listening to the party below.",
+      "assessment": "This intimate and tender interaction suggests a sincere and affectionate connection, indicating warmth in his personal relationships.",
+      "rating": 2,
+      "chunk": 62
+    },
+    {
+      "trait": "warmth",
+      "action": "Stares blankly at the message 'FRANK WAS HERE... WENT TO GET BEER!' on the memo board.",
+      "assessment": "His passive reaction to the message may indicate detachment or confusion rather than active engagement or warmth toward others.",
+      "rating": -1,
+      "chunk": 62
+    },
+    {
+      "trait": "competence",
+      "action": "Reassures Gretchen by telling her 'Everything is going to be just fine.'",
+      "assessment": "This shows Donnie's ability to provide emotional support and confidence in a tense moment, indicating emotional intelligence and a calm demeanor.",
+      "rating": 2,
+      "chunk": 62
+    },
+    {
+      "trait": "competence",
+      "action": "Doubles over in pain but then calmly follows his spear through a chaotic party crowd.",
+      "assessment": "Despite physical discomfort, Donnie maintains focus and pursues a specific goal, demonstrating resilience and situational awareness.",
+      "rating": 2,
+      "chunk": 62
+    },
+    {
+      "trait": "competence",
+      "action": "Notices and interprets the message 'FRANK WAS HERE... WENT TO GET BEER!' on the memo board.",
+      "assessment": "This indicates Donnie's attentiveness to his environment and ability to extract relevant information, reflecting observational skills and cognitive engagement.",
+      "rating": 2,
+      "chunk": 62
+    },
+    {
+      "trait": "competence",
+      "action": "Stares blankly at the message on the board for several moments.",
+      "assessment": "This hesitation suggests a momentary lapse in decisiveness or processing, which may indicate some uncertainty or confusion.",
+      "rating": -1,
+      "chunk": 62
+    },
+    {
+      "trait": "warmth",
+      "action": "Invites Gretchen, Ronald, and Sean to come with him to see Grandma Death despite the late hour and mysterious circumstances.",
+      "assessment": "Donnie shows a willingness to include others in his plans and seems to trust them enough to share his concerns, indicating a degree of friendliness and sincerity.",
+      "rating": 2,
+      "chunk": 63
+    },
+    {
+      "trait": "warmth",
+      "action": "Persists in leading the group to Grandma Death's house despite their hesitation and the eerie setting.",
+      "assessment": "While Donnie is determined and perhaps protective, his insistence may also disregard others' comfort or safety, showing a potential lack of tolerance for their fears.",
+      "rating": -1,
+      "chunk": 63
+    },
+    {
+      "trait": "competence",
+      "action": "Recognizes the urgency of the situation and quickly decides to take Gretchen and others to see Grandma Death.",
+      "assessment": "This shows Donnie's ability to assess a situation under pressure and take decisive action, indicating confidence and a sense of purpose.",
+      "rating": 2,
+      "chunk": 63
+    },
+    {
+      "trait": "competence",
+      "action": "Leads the group through the backyard, neighborhood street, and forest at night to Grandma Death's house.",
+      "assessment": "Demonstrates leadership skills and navigational competence, as well as the ability to maintain group cohesion in a tense situation.",
+      "rating": 2,
+      "chunk": 63
+    },
+    {
+      "trait": "competence",
+      "action": "Insists on investigating the cellar door despite others' hesitation.",
+      "assessment": "Shows curiosity and courage, but also a potential recklessness or disregard for safety, which slightly tempers the competence rating.",
+      "rating": 1,
+      "chunk": 63
+    },
+    {
+      "trait": "competence",
+      "action": "Falls to his knees and puts his face inside the end of Gretchen's spear, experiencing a vision of an abyssal tunnel of light.",
+      "assessment": "This action is ambiguous in terms of competence; it may indicate vulnerability or a moment of surrender rather than skill or control.",
+      "rating": 0,
+      "chunk": 63
+    },
+    {
+      "trait": "warmth",
+      "action": "Whispers 'Dea ex machina... Our saviour...' when threatened by Ricky and Seth, showing calmness and presence of mind under duress.",
+      "assessment": "Donnie's calm and cryptic response in a dangerous situation suggests composure but does not directly indicate warmth; it may reflect inner strength rather than friendliness or trustworthiness.",
+      "rating": 0,
+      "chunk": 64
+    },
+    {
+      "trait": "warmth",
+      "action": "Protects Gretchen by enduring physical threat and encouraging her to run to safety.",
+      "assessment": "Donnie's willingness to face danger and his concern for Gretchen's safety indicate protective and caring tendencies, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 64
+    },
+    {
+      "trait": "warmth",
+      "action": "Does not retaliate or escalate violence despite being attacked and threatened with a knife.",
+      "assessment": "His restraint in a violent situation suggests tolerance and possibly a non-aggressive nature, which can be seen as a positive sign of warmth.",
+      "rating": 1,
+      "chunk": 64
+    },
+    {
+      "trait": "competence",
+      "action": "Maintains composure and quietly utters 'Dea ex machina... Our saviour...' while being held at knife point.",
+      "assessment": "Despite being in a life-threatening situation, Donnie shows calmness and uses a literary reference, indicating mental presence and intellectual composure under extreme stress.",
+      "rating": 2,
+      "chunk": 64
+    },
+    {
+      "trait": "competence",
+      "action": "Does not attempt to physically resist or panic when grabbed and threatened with a knife.",
+      "assessment": "This could indicate either strategic restraint or helplessness; without further context, it suggests measured behavior rather than impulsive or reckless action.",
+      "rating": 1,
+      "chunk": 64
+    },
+    {
+      "trait": "competence",
+      "action": "Does not take any immediate action to escape or protect Gretchen when she is dragged and injured.",
+      "assessment": "This omission may reflect a lack of physical capability or opportunity, but also could be seen as a failure to act decisively in a critical moment.",
+      "rating": -1,
+      "chunk": 64
+    },
+    {
+      "trait": "warmth",
+      "action": "Runs over to Gretchen after the crash and kneels down next to her, urging her to wake up.",
+      "assessment": "Donnie's immediate response to Gretchen's injury shows concern and care for her well-being, indicating a capacity for empathy and attachment.",
+      "rating": 2,
+      "chunk": 65
+    },
+    {
+      "trait": "warmth",
+      "action": "Slowly nods his head in shock and horror upon realizing Gretchen is dead.",
+      "assessment": "His reaction reflects sincere grief and remorse, suggesting emotional sensitivity and a genuine connection to others.",
+      "rating": 2,
+      "chunk": 65
+    },
+    {
+      "trait": "competence",
+      "action": "Donnie staggers to his feet after the crash, regains his breath, and immediately runs over to Gretchen to check on her.",
+      "assessment": "This action shows presence of mind and a quick physical recovery after a traumatic event, indicating a certain level of resilience and situational awareness.",
+      "rating": 1,
+      "chunk": 65
+    },
+    {
+      "trait": "competence",
+      "action": "Donnie kneels next to Gretchen and urgently tries to wake her up.",
+      "assessment": "This demonstrates emotional engagement and an attempt to take control of a dire situation, though it also reflects desperation and lack of medical skill to help her.",
+      "rating": 0,
+      "chunk": 65
+    },
+    {
+      "trait": "competence",
+      "action": "Donnie slowly nods his head in shock and acceptance when told Gretchen is dead.",
+      "assessment": "This indicates a moment of stunned realization rather than active problem-solving or leadership, reflecting emotional overwhelm and limited immediate coping ability.",
+      "rating": -1,
+      "chunk": 65
+    },
+    {
+      "trait": "warmth",
+      "action": "Carries Gretchen home early in the morning.",
+      "assessment": "Carrying someone home shows care and concern for their safety, indicating a protective and considerate nature.",
+      "rating": 2,
+      "chunk": 66
+    },
+    {
+      "trait": "warmth",
+      "action": "Leans down and gives Elizabeth a kiss on the forehead while she is asleep.",
+      "assessment": "This gentle and affectionate gesture reflects tenderness and sincere warmth toward family.",
+      "rating": 3,
+      "chunk": 66
+    },
+    {
+      "trait": "warmth",
+      "action": "Shoots Frank in the head after Frank killed someone.",
+      "assessment": "While the act is violent and severe, it appears motivated by a sense of justice or retribution rather than malice; however, it is a negative indicator of warmth due to the lethal violence.",
+      "rating": -3,
+      "chunk": 66
+    },
+    {
+      "trait": "warmth",
+      "action": "Calmly tells Sean and Ronald to go home and reassure their parents that everything will be fine.",
+      "assessment": "This shows a composed and somewhat reassuring attitude, suggesting a desire to reduce panic and provide comfort, which is a positive indicator of warmth.",
+      "rating": 1,
+      "chunk": 66
+    },
+    {
+      "trait": "competence",
+      "action": "Raises the gun from his father's closet with his right hand and, to his own surprise, pulls the trigger, shooting Frank in the head.",
+      "assessment": "This action demonstrates Donnie's ability to act decisively and effectively under extreme emotional stress, showing a level of skill and confidence in handling a firearm despite his surprise at his own action.",
+      "rating": 2,
+      "chunk": 66
+    },
+    {
+      "trait": "competence",
+      "action": "Calmly tells Sean and Ronald to go home and reassure their parents that everything will be fine after shooting Frank.",
+      "assessment": "Donnie's calm demeanor and clear communication in a chaotic and violent situation indicate emotional control and situational awareness, reflecting competent leadership and presence of mind.",
+      "rating": 2,
+      "chunk": 66
+    },
+    {
+      "trait": "competence",
+      "action": "Carries Gretchen home early in the morning after the violent incident.",
+      "assessment": "This action shows responsibility and care for others despite his own distress, suggesting emotional maturity and reliability.",
+      "rating": 1,
+      "chunk": 66
+    },
+    {
+      "trait": "competence",
+      "action": "Looks down at Elizabeth asleep on the couch and gently kisses her forehead.",
+      "assessment": "This tender gesture indicates emotional sensitivity and thoughtfulness, which are aspects of interpersonal competence.",
+      "rating": 1,
+      "chunk": 66
+    },
+    {
+      "trait": "competence",
+      "action": "Steps into the car, turns on the engine, and peels out of the driveway despite feeling sick.",
+      "assessment": "Despite physical discomfort, Donnie demonstrates determination and the ability to carry out necessary actions, reflecting resilience and functional competence.",
+      "rating": 1,
+      "chunk": 66
+    },
+    {
+      "trait": "competence",
+      "action": "Is left alone with the dead bodies and stares at Grandma Death calmly holding his letter.",
+      "assessment": "Donnie's calmness in the face of death and surreal circumstances suggests strong emotional regulation and mental composure, which are indicators of competence.",
+      "rating": 2,
+      "chunk": 66
+    },
+    {
+      "trait": "warmth",
+      "action": "Takes Gretchen's hand after stepping off the hood of the car.",
+      "assessment": "Taking someone's hand is a gentle, affectionate gesture indicating care and connection, reflecting warmth.",
+      "rating": 2,
+      "chunk": 67
+    },
+    {
+      "trait": "warmth",
+      "action": "Sits quietly on the roof of the car, smiling while looking out at the canyon and lighting a cigarette.",
+      "assessment": "Smiling suggests a moment of contentment or peace, which can be a positive emotional expression, but the cigarette and solitary behavior do not strongly indicate warmth toward others.",
+      "rating": 0,
+      "chunk": 67
+    },
+    {
+      "trait": "competence",
+      "action": "Drives the Taurus up Carpathian Ridge early in the morning and calmly sits on the roof, smoking a cigarette while contemplating the time remaining.",
+      "assessment": "This action shows Donnie's calmness and control in a potentially risky situation (sitting on a car roof), indicating a level of confidence and composure.",
+      "rating": 1,
+      "chunk": 67
+    },
+    {
+      "trait": "competence",
+      "action": "Keeps track of the exact time remaining (28 days, 6 hours, 42 minutes, 12 seconds) and states 'We're almost home.'",
+      "assessment": "This suggests Donnie has a clear understanding and awareness of his situation, reflecting intelligence and focus.",
+      "rating": 2,
+      "chunk": 67
+    },
+    {
+      "trait": "competence",
+      "action": "Takes Gretchen's hand after stepping off the hood and getting into the car.",
+      "assessment": "This shows social confidence and emotional awareness, indicating interpersonal competence.",
+      "rating": 1,
+      "chunk": 67
+    },
+    {
+      "trait": "competence",
+      "action": "Sits passively on the roof of the car, staring out at the canyon for an extended period.",
+      "assessment": "While contemplative, this inaction could be interpreted as passivity or indecision, which may reflect a lack of proactive problem-solving in this moment.",
+      "rating": -1,
+      "chunk": 67
+    },
+    {
+      "trait": "competence",
+      "action": "Donnie wakes up laughing hysterically just before a jet engine crashes through his room, impaling him and causing his death.",
+      "assessment": "This moment suggests a lack of situational awareness or control over his fate, as he is caught completely off guard by a catastrophic event leading to his death. It indicates a lack of competence in managing or anticipating danger.",
+      "rating": -2,
+      "chunk": 68
     }
   ]
 }

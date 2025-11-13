@@ -1,1381 +1,2818 @@
 {
   "Alice Johnson": [
     {
-      "Action": "Carefully notices the odd gurgling sound in the shower drain and responds by adjusting the water pressure.",
-      "Competence": 1,
-      "Chunk": 1
+      "trait": "competence",
+      "action": "Notices the odd gurgling sound in the shower drain and adjusts the water pressure accordingly.",
+      "assessment": "This action shows Alice's attentiveness to her environment and her ability to respond calmly and logically to unexpected occurrences, indicating a moderate level of competence.",
+      "rating": 2,
+      "chunk": 1
     },
     {
-      "Action": "Notices the water rising and tries to clear the drain.",
-      "Competence": 1,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Refers to the backed-up water as 'the drain monster' in a somewhat humorous way despite the stressful situation.",
+      "assessment": "Using humor in a tense moment suggests a friendly and approachable demeanor, indicating some warmth.",
+      "rating": 1,
+      "chunk": 2
     },
     {
-      "Action": "Tries to turn off the shower handles which come off in her hands.",
-      "Competence": -1,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Frantically pounds on the glass shower door when trapped underwater.",
+      "assessment": "Her desperate attempt to escape shows vulnerability and a natural human response, but does not directly indicate warmth toward others.",
+      "rating": 0,
+      "chunk": 2
     },
     {
-      "Action": "Attempts to open the shower door but it won't budge; pounds on the glass in desperation.",
-      "Competence": 0,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Moves cautiously and explores the dark corridor and multiple doors, showing curiosity and bravery.",
+      "assessment": "While this shows courage and determination, it does not directly reflect warmth as it is more about self-preservation and exploration.",
+      "rating": 0,
+      "chunk": 2
     },
     {
-      "Action": "Cautiously moves through multiple doors in an unknown dark corridor despite fear.",
-      "Competence": 1,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Shows fear and emotional reaction upon realizing the significance of the asylum room where Amanda Krueger was raped.",
+      "assessment": "Her emotional response to a tragic place suggests empathy and sensitivity, which are components of warmth.",
+      "rating": 2,
+      "chunk": 2
     },
     {
-      "Action": "Shows fear and apprehension when confronted with the asylum's dark and nightmarish environment.",
-      "Competence": 0,
-      "Chunk": 2
+      "trait": "competence",
+      "action": "Notices the water rising around her feet and attempts to clear the drain.",
+      "assessment": "This shows situational awareness and a proactive attempt to address a problem, indicating a moderate level of competence.",
+      "rating": 1,
+      "chunk": 2
     },
     {
-      "Action": "Pushes Englund away with every ounce of her strength, tries to sit up despite fear",
-      "Warmth": 1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Tries to turn off the shower when the water pressure doubles, but the handles come off in her hands.",
+      "assessment": "Her attempt to control the situation is competent, but the failure due to equipment malfunction is beyond her control; she remains calm enough to try.",
+      "rating": 1,
+      "chunk": 2
     },
     {
-      "Action": "Wakes terrified but attempts to collect herself calmly and face the day",
-      "Warmth": 1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Attempts to open the shower door but it won't budge, then pounds on the glass in desperation as water rises.",
+      "assessment": "Her efforts to escape show resourcefulness and determination, though the pounding on the glass is a desperate act rather than a strategic one.",
+      "rating": 0,
+      "chunk": 2
     },
     {
-      "Action": "Pushes Englund away with every ounce of her strength and starts to sit up despite fear and being pinned down.",
-      "Competence": 1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Stumbles out of the water into a dark corridor and cautiously moves through multiple doors, showing caution and awareness of her surroundings.",
+      "assessment": "Her cautious exploration of an unknown environment demonstrates intelligence and carefulness, positive indicators of competence.",
+      "rating": 2,
+      "chunk": 2
     },
     {
-      "Action": "Looks around in panic and notices Dan is gone, reflexively checks open window indicating awareness of potential danger.",
-      "Competence": 1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Steps through the last door and reacts with fear upon realizing the significance of the asylum room.",
+      "assessment": "While fear is a natural response, her ability to recognize the place and its importance suggests awareness and mental acuity, though it also shows vulnerability.",
+      "rating": 1,
+      "chunk": 2
     },
     {
-      "Action": "Attempts to collect herself and reluctantly enters the shower despite fear, showing determination to continue normal routines.",
-      "Competence": 1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Alice notices the environment and her own changed appearance, recognizing she is now dressed as Amanda Krueger, and attempts to intervene by calling out 'No...WAIT!' as the iron door begins to close.",
+      "assessment": "This shows situational awareness and an attempt to take control of a dangerous situation, indicating a degree of competence and presence of mind.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Responds to Greta and Yvonne's greetings despite feeling a little glum, engages socially.",
-      "Warmth": 1,
-      "Chunk": 6
+      "trait": "competence",
+      "action": "Alice fails to prevent the iron door from slamming shut and locking despite her urgent warning.",
+      "assessment": "This suggests a limitation in her ability to physically or effectively intervene in the situation, reflecting a momentary lack of control or power.",
+      "rating": -1,
+      "chunk": 3
     },
     {
-      "Action": "Joins in the group's cheer and chant, trying to be cheerful despite low spirits.",
-      "Warmth": 1,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Turns and faces the maniacs despite being terrified, does not attempt to flee immediately but confronts the situation.",
+      "assessment": "Although terrified, Alice shows a degree of courage and presence of mind, which can be interpreted as a protective and sincere response to danger, indicating inner strength rather than avoidance.",
+      "rating": 1,
+      "chunk": 4
     },
     {
-      "Action": "Smiles and responds in a friendly, teasing manner to Yvonne's joke about Dan.",
-      "Warmth": 1,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Screams loudly when maniacs begin to drag her down.",
+      "assessment": "Her scream is a natural, sincere reaction to extreme fear and threat, showing genuine emotional expression rather than cold detachment.",
+      "rating": 2,
+      "chunk": 4
     },
     {
-      "Action": "Halfhearted laughter and delayed joining in group's good spirits.",
-      "Warmth": 0,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Lunges up from bed screaming, with Dan immediately showing concern and placing a hand on her shoulder.",
+      "assessment": "Alice’s reaction to the nightmare is intense but her relationship with Dan appears close and trusting, as he responds with care and concern, suggesting she is open and sincere in her emotional connections.",
+      "rating": 2,
+      "chunk": 4
     },
     {
-      "Action": "Joins in the group chant and tries to be cheerful despite not being in high spirits.",
-      "Competence": 1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Upon discovering the door she came through is gone, Alice quickly moves toward the bolted steel door at the far end, attempting to escape.",
+      "assessment": "This shows situational awareness and a clear goal under pressure, indicating a competent and proactive mindset.",
+      "rating": 2,
+      "chunk": 4
     },
     {
-      "Action": "Responds to teasing with a smile and light-hearted remarks, maintaining social ease.",
-      "Competence": 1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Stops when maniacs block her way and turns as they close in from all directions.",
+      "assessment": "While she recognizes the threat and does not recklessly rush forward, her stopping and turning without an immediate countermeasure or escape plan suggests hesitation and limited tactical response.",
+      "rating": -1,
+      "chunk": 4
     },
     {
-      "Action": "Halfheartedly joins laughter and energy, appearing a step behind others' good spirits.",
-      "Competence": 0,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Watches terrified as maniacs converge and reach toward her, ultimately being dragged down.",
+      "assessment": "Her terror and passive observation in the face of overwhelming threat indicate a momentary loss of control and inability to effectively resist or evade, reflecting a lapse in competence.",
+      "rating": -2,
+      "chunk": 4
     },
     {
-      "Action": "Asks Mark if he brought his sketchbook and expresses interest in his work.",
-      "Warmth": 1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Suddenly wakes up screaming from the nightmare, immediately alert and aware of her surroundings.",
+      "assessment": "Her quick awakening and recognition of reality after a nightmare demonstrate mental alertness and resilience, a positive indicator of competence in managing psychological stress.",
+      "rating": 1,
+      "chunk": 4
     },
     {
-      "Action": "Greets Mr. Grey politely and tries to be sincere despite awkwardness.",
-      "Warmth": 1,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Pushes Englund away with every ounce of her strength when he pins her down.",
+      "assessment": "Alice resists an aggressive and threatening situation, showing self-protectiveness rather than warmth, but also a refusal to submit to harm.",
+      "rating": 0,
+      "chunk": 5
     },
     {
-      "Action": "Puts on a cheerful face but is internally on edge, showing effort to be pleasant despite discomfort.",
-      "Warmth": 0,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Looks around in panic and tries to collect herself after waking from a terrifying dream.",
+      "assessment": "Her vulnerability and attempt to regain composure indicate sincerity and a genuine emotional response, which can be seen as a subtle indicator of warmth.",
+      "rating": 1,
+      "chunk": 5
     },
     {
-      "Action": "Is startled by Dan's playful bear hug but recovers and responds with affection.",
-      "Warmth": 1,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Reluctantly prepares to take a shower despite apprehension.",
+      "assessment": "This shows a willingness to care for herself despite fear, reflecting a degree of self-trust and resilience, but it is more about self-care than interpersonal warmth.",
+      "rating": 0,
+      "chunk": 5
     },
     {
-      "Action": "Tries to show enthusiasm about Dan's gift but does not succeed fully.",
-      "Warmth": 0,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Pushes Englund away with every ounce of her strength and starts to sit up despite being pinned down.",
+      "assessment": "This action shows physical strength and determination under extreme stress, indicating resilience and some level of capability in a threatening situation.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Greets Mark politely and inquires about his sketchbook, showing social awareness and interest.",
-      "Competence": 1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "After waking from the nightmare, she tries to collect herself, puts on a robe, and shakily climbs from bed.",
+      "assessment": "While she is clearly shaken and vulnerable, her attempt to regain composure and take action to move forward suggests a moderate level of mental competence and self-control.",
+      "rating": 1,
+      "chunk": 5
     },
     {
-      "Action": "Puts on a cheerful face during an awkward moment but internally remains on edge.",
-      "Competence": 0,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Pauses apprehensively before entering the shower, then reluctantly starts to remove her robe and turn on the water.",
+      "assessment": "Her hesitation and reluctance indicate fear and emotional distress, which somewhat undermine her decisiveness and confidence in this moment.",
+      "rating": -1,
+      "chunk": 5
     },
     {
-      "Action": "Begins to leave conversation with a vague excuse rather than directly addressing her discomfort.",
-      "Competence": -1,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Joins in the girls' rap and laughter, trying to be cheerful despite feeling down.",
+      "assessment": "Alice makes an effort to participate and connect with her friends, showing friendliness and sincerity even when not fully in the mood.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Recovers quickly from being startled by Dan and responds with humor and affection.",
-      "Competence": 1,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Responds to Yvonne's teasing about Dan with a smile and lighthearted comment.",
+      "assessment": "Alice demonstrates good-natured tolerance and a friendly attitude by engaging playfully with her friends' teasing.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Fails to show genuine enthusiasm for Dan’s gift, indicating possible emotional distraction or lack of confidence.",
-      "Competence": 0,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Joins in the girls' rap and laughter, trying to be cheerful despite not feeling fully engaged.",
+      "assessment": "This shows social adaptability and an effort to maintain group cohesion, indicating emotional intelligence and a degree of social competence.",
+      "rating": 1,
+      "chunk": 7
     },
     {
-      "Action": "Admits fear about losing control after a bad dream, shows vulnerability but also self-awareness.",
-      "Competence": 0,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Responds with a smile and light humor when teased about Dan keeping her up.",
+      "assessment": "Her ability to respond with humor and maintain a positive demeanor under mild teasing suggests emotional resilience and social skill.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Engages in reassuring dialogue with Dan and is able to accept his support and reasoning.",
-      "Competence": 1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Halfheartedly joins in laughter and is a step behind the others' good spirits.",
+      "assessment": "This hesitation and lack of full engagement may indicate some emotional fatigue or distraction, slightly detracting from her social confidence in this moment.",
+      "rating": -1,
+      "chunk": 7
     },
     {
-      "Action": "Hesitates to reveal her true feelings initially.",
-      "Competence": 0,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Playfully suggests that maybe God is trying to tell Greta something.",
+      "assessment": "Alice's playful teasing indicates a friendly and lighthearted interaction, showing warmth through humor and camaraderie.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Politely declines to host a party at her house due to her father's rules.",
-      "Competence": 1,
-      "Chunk": 11
+      "trait": "warmth",
+      "action": "Laughs along with friends during their banter about modeling and food.",
+      "assessment": "Sharing laughter and engaging in group humor reflects Alice's sociability and friendly nature, contributing positively to warmth.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Remembers important obligation (work) suddenly and informs the group.",
-      "Competence": 1,
-      "Chunk": 11
+      "trait": "warmth",
+      "action": "Joins in teasing Mark and Greta about their food choices and modeling career.",
+      "assessment": "While teasing can sometimes be negative, here it is done in a good-natured, inclusive way that strengthens bonds, showing tolerance and friendliness.",
+      "rating": 1,
+      "chunk": 8
     },
     {
-      "Action": "Participates in playful shove as part of group dynamics, showing social engagement.",
-      "Competence": 0,
-      "Chunk": 11
+      "trait": "warmth",
+      "action": "Greets Mark and asks if he brought his sketchbook to the ceremony, expressing interest in his work.",
+      "assessment": "Showing interest in Mark's creative efforts is a friendly and encouraging behavior, indicating warmth and support.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Tells friends to go on without her, indicating consideration.",
-      "Warmth": 1,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Greets Mr. Grey politely and says 'Good to see you again, Mr. Grey.'",
+      "assessment": "Maintaining politeness and cordiality even in an awkward situation reflects good-natured and sincere behavior.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Interacts warmly and appreciatively with her father despite past issues.",
-      "Warmth": 1,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Turns away from the group with a cheerful face that dissolves to reveal she is still on edge.",
+      "assessment": "Putting on a cheerful front to maintain social harmony shows consideration for others' feelings, though the internal tension suggests some emotional reservation.",
+      "rating": 1,
+      "chunk": 9
     },
     {
-      "Action": "Stares lovingly at her dad, kisses him on the cheek, leads him to take a group photo with family and friends.",
-      "Warmth": 1,
-      "Chunk": 13
+      "trait": "warmth",
+      "action": "Reacting startled but affectionate when Dan surprises her with a bear hug and a kiss.",
+      "assessment": "Despite being startled, she quickly recovers and reciprocates affection, showing openness and warmth in her relationship.",
+      "rating": 3,
+      "chunk": 9
     },
     {
-      "Action": "Thanks her dad sincerely and politely, waves goodbye warmly.",
-      "Warmth": 1,
-      "Chunk": 13
+      "trait": "warmth",
+      "action": "Tries to be enthusiastic about the airplane tickets Dan gives her but doesn't fully succeed.",
+      "assessment": "Her attempt to show enthusiasm despite not feeling it fully suggests sincerity and a desire to be supportive, though the lack of genuine excitement hints at some emotional distance.",
+      "rating": 1,
+      "chunk": 9
     },
     {
-      "Action": "Takes the initiative to lead her father to take a picture and organize the group photo.",
-      "Competence": 1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Turns away from an awkward conversation with Mr. Grey and Yvonne, putting on a cheerful face despite feeling on edge underneath.",
+      "assessment": "This shows Alice's ability to maintain social composure and mask her true feelings in a tense situation, indicating emotional control and social skill.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Hands over her camera so the group can be properly photographed, showing foresight and responsibility.",
-      "Competence": 1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Quickly recovers from being startled by Dan's surprise bear hug and responds with humor and affection.",
+      "assessment": "Her quick recovery and ability to respond warmly suggests emotional resilience and confidence in personal interactions.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Handles social interactions confidently, exchanges greetings and farewells smoothly.",
-      "Competence": 1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Attempts to show enthusiasm for the airplane tickets from Dan but fails to convincingly express it.",
+      "assessment": "This indicates some difficulty in masking true feelings or managing expectations, suggesting a slight lack of emotional authenticity or confidence in this moment.",
+      "rating": -1,
+      "chunk": 9
     },
     {
-      "Action": "Insists on walking to work despite father's offer for a ride, showing independence and self-assurance.",
-      "Competence": 1,
-      "Chunk": 13
+      "trait": "warmth",
+      "action": "Shares her fears and vulnerability with Dan about losing control and having bad dreams.",
+      "assessment": "Alice's willingness to open up about her fears to Dan shows trust and sincerity, indicating emotional warmth.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Her face hardens with resolve and she decides 'No. This isn't going to happen.' showing determination and mental preparedness.",
-      "Competence": 1,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "Responds positively to Dan's reassurance and affection, saying 'Me too' after he says 'Love you.'",
+      "assessment": "Her reciprocal expression of love and acceptance of comfort reflects warmth and emotional connection.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Closes her eyes tightly and reopens them in an apparent attempt to control her perception or gather her strength.",
-      "Competence": 1,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "Does not react negatively or defensively when Mrs. Jordan gives her a less than friendly look.",
+      "assessment": "Alice's non-confrontational response to subtle social hostility suggests tolerance and patience, which are aspects of warmth.",
+      "rating": 1,
+      "chunk": 10
     },
     {
-      "Action": "Moves with increasing speed and heads into the park despite ominous signs, showing proactive and decisive behavior.",
-      "Competence": 1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Alice hesitates before admitting she had a bad dream and expresses fear about losing control.",
+      "assessment": "This shows self-awareness and emotional honesty, which are components of psychological competence, though the hesitation indicates some internal struggle.",
+      "rating": 1,
+      "chunk": 10
     },
     {
-      "Action": "Runs blindly through branches tearing her clothes and face, suggesting recklessness and lack of careful planning.",
-      "Competence": -1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Alice accepts Dan's reassurance and acknowledges his point logically.",
+      "assessment": "Demonstrates ability to process reassurance and rationalize her fears, indicating emotional intelligence and mental resilience.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Finds herself alone in a dreamlike clearing after pursuing the voices but the group stays one step ahead of her, indicating she is being outmaneuvered.",
-      "Competence": -1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Alice does not confront Mrs. Jordan's unfriendly look or engage in conflict.",
+      "assessment": "This omission could suggest a lack of assertiveness or confidence in social situations, which may reflect a moderate gap in interpersonal competence.",
+      "rating": -1,
+      "chunk": 10
     },
     {
-      "Action": "Hurries after the nun in the asylum, calls out 'Wait!'",
-      "Warmth": 1,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Alice shakes her head when asked about having a party at her place, explaining her dad's rules about drinking in the house.",
+      "assessment": "Alice shows respect for her family rules and is honest about her limitations, indicating sincerity and responsibility.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Moves slowly and watchfully through a deserted hospital convent, shows concern and caution",
-      "Warmth": 1,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Alice participates in the playful shove of Mark into the fountain along with Greta and Yvonne.",
+      "assessment": "Engaging in lighthearted teasing with friends demonstrates friendliness and a good-natured spirit.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Alice notices strange occurrences, pursues a mysterious figure (the nun) up the steps and into an ominous asylum, and explores a deserted, dark, and potentially dangerous corridor despite the unsettling atmosphere.",
-      "Competence": 1,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Alice frowns and remembers she has to work tonight, informing the group.",
+      "assessment": "By sharing her obligation openly, Alice is being sincere and trustworthy with her friends.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Runs past the evil stroller towards the nun, pursues to investigate despite fear.",
-      "Warmth": 1,
-      "Chunk": 16
+      "trait": "competence",
+      "action": "Shakes her head when asked about having a party at her place due to her dad's rules about drinking in the house.",
+      "assessment": "This shows Alice's awareness of boundaries and respect for rules, indicating responsible and thoughtful behavior.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Sits bolt upright and shouts 'No!!!!' in reaction to doctor’s command, resisting submission.",
-      "Warmth": 0,
-      "Chunk": 16
+      "trait": "competence",
+      "action": "Remembers she has to work tonight and vocalizes it promptly.",
+      "assessment": "This demonstrates good time management and prioritization skills, reflecting a competent and organized mindset.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Moves slowly and deliberately towards the doors despite fear, takes a deep breath and opens the doors to confront potential danger.",
-      "Warmth": 1,
-      "Chunk": 18
+      "trait": "competence",
+      "action": "Participates in playful shoving of Mark into the fountain along with her friends.",
+      "assessment": "While this shows social engagement and confidence, it also suggests a casual, less serious side that might detract slightly from a strictly competent image.",
+      "rating": 0,
+      "chunk": 11
     },
     {
-      "Action": "Moves slowly and deliberately toward the double doors despite fear, takes a deep breath, and opens the doors showing determination and cautious bravery.",
-      "Competence": 1,
-      "Chunk": 18
+      "trait": "warmth",
+      "action": "Tells Mark and others to go ahead without her, indicating she will catch up later.",
+      "assessment": "Alice shows consideration by allowing others to proceed without her, possibly to handle something on her own, which suggests a respectful and non-demanding attitude.",
+      "rating": 1,
+      "chunk": 12
     },
     {
-      "Action": "Proceeds carefully into the church filled with horrific and confusing noises, maintaining focus despite uncertainty about the source of sounds.",
-      "Competence": 1,
-      "Chunk": 18
+      "trait": "warmth",
+      "action": "Interacts with her father with a smile and expresses happiness at his presence despite his awkwardness.",
+      "assessment": "Alice demonstrates warmth and sincerity in her relationship with her father, showing tolerance and appreciation for his effort to be there for her.",
+      "rating": 3,
+      "chunk": 12
     },
     {
-      "Action": "Shows visible fear and horror at the surroundings and sounds but does not panic or flee immediately.",
-      "Competence": 1,
-      "Chunk": 18
+      "trait": "warmth",
+      "action": "Responds positively and gratefully to her father's gift, showing delight and surprise.",
+      "assessment": "Her genuine happiness and gratitude reflect a good-natured and sincere character, open to affection and connection.",
+      "rating": 3,
+      "chunk": 12
     },
     {
-      "Action": "Raises herself off the floor, looks around, stays alert to the surroundings despite fear.",
-      "Competence": 1,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Internally criticizes herself sarcastically ('Congratulations, Alice. You looked beautiful up there. I'm so proud of you...gee, thanks Dad.')",
+      "assessment": "This self-critical internal dialogue suggests some insecurity or emotional distance, which may limit her outward warmth or openness at times.",
+      "rating": -1,
+      "chunk": 12
     },
     {
-      "Action": "Backs away from Freddy, keeps distance, tries to confront him verbally with defiance.",
-      "Competence": 1,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Glances at her watch and looks around for someone but can't find him, then decides to let the others go ahead and says she'll catch up later.",
+      "assessment": "This shows some situational awareness and social tact, but also a slight hesitation or distraction, indicating moderate competence in managing social situations.",
+      "rating": 1,
+      "chunk": 12
     },
     {
-      "Action": "Reflexively strikes out at Freddy when he approaches, but Freddy vanishes before impact.",
-      "Competence": 0,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Trudges along staring at the ground, unhappy, and talks to herself sarcastically about her appearance and her father.",
+      "assessment": "This internal self-talk reveals emotional vulnerability and self-doubt, which may undermine her confidence and thus her competence in emotionally charged moments.",
+      "rating": -1,
+      "chunk": 12
     },
     {
-      "Action": "Follows Freddy's laughter with frightened eyes, searching for him despite fear.",
-      "Competence": 1,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Responds to her father's unexpected appearance with a smile and engages in a brief, somewhat awkward but sincere conversation.",
+      "assessment": "Her ability to manage an emotionally difficult encounter with a gruff parent shows emotional intelligence and interpersonal skill, reflecting positively on her competence.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Appears frightened and reactive rather than proactively planning or executing a complex strategy.",
-      "Competence": 0,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Receives a gift from her father and reacts with genuine delight and surprise.",
+      "assessment": "Her open and positive reaction demonstrates emotional receptiveness and social grace, indicating competent interpersonal behavior.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Runs toward Amanda Krueger to help bring Freddy home, tries to open the doors despite them slamming shut, shows urgency and concern.",
-      "Warmth": 1,
-      "Chunk": 21
+      "trait": "warmth",
+      "action": "Stares lovingly at her father and tells him, 'I don't give a damn what they might think. You're terrific.'",
+      "assessment": "Expressing love and appreciation openly to her father shows sincerity and warmth in her family relationships.",
+      "rating": 3,
+      "chunk": 13
     },
     {
-      "Action": "Breaks down emotionally upon encountering Anne, indicating vulnerability and openness.",
-      "Warmth": 1,
-      "Chunk": 21
+      "trait": "warmth",
+      "action": "Gives her father a kiss on the cheek and takes his arm to lead him toward the foundation for a group photo.",
+      "assessment": "Physical affection and including her father in a group activity demonstrates friendliness and a close, trusting bond.",
+      "rating": 3,
+      "chunk": 13
     },
     {
-      "Action": "Runs toward Amanda after being instructed to 'Bring him home'; persistently struggles to open the big doors despite them slamming shut in her face.",
-      "Competence": 1,
-      "Chunk": 21
+      "trait": "warmth",
+      "action": "Hands her camera to someone off screen to take a group photo of parents and kids.",
+      "assessment": "Facilitating a group photo suggests thoughtfulness and a desire to create shared positive memories.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Looks around the empty diner, feels the counter and furniture to check the reality of the place, showing situational awareness and critical thinking.",
-      "Competence": 1,
-      "Chunk": 21
+      "trait": "warmth",
+      "action": "Hugs Dan and nods when he asks her to call after her shift.",
+      "assessment": "Shows friendly and affectionate behavior toward her boyfriend, indicating warmth in personal relationships.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Appears puzzled and completely freaked out upon realizing she is still in her nightmare.",
-      "Competence": -1,
-      "Chunk": 21
+      "trait": "warmth",
+      "action": "Thanks her father for everything and hands him her gown and flowers as he opens the car door.",
+      "assessment": "Expressing gratitude and involving her father in her evening plans reflects respect and warmth.",
+      "rating": 3,
+      "chunk": 13
     },
     {
-      "Action": "Expresses relief and concern upon seeing Anne, says 'Oh god, I'm glad it's you. It was terrible.'",
-      "Warmth": 1,
-      "Chunk": 22
+      "trait": "warmth",
+      "action": "Waves goodbye to her father as he drives away.",
+      "assessment": "A simple but sincere gesture of farewell, showing care and connection.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Stunned and silent as Anne angrily confronts and accuses her of being late, does not defend or engage aggressively",
-      "Warmth": 1,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Takes the initiative to lead her father toward the foundation to take a picture, showing decisiveness and social confidence.",
+      "assessment": "This action indicates that Alice is capable of taking charge in social situations and is confident in her interactions with family.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Attempts to reach for the telephone after Anne leaves, possibly to make amends or communicate",
-      "Warmth": 1,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Hands her camera to someone off screen to organize the group photo, facilitating the process smoothly.",
+      "assessment": "This shows organizational skills and an ability to delegate tasks effectively, reflecting competence.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Fails to notice the time, arrives hours late to an event, appears stunned and not fully aware of the situation.",
-      "Competence": -1,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Engages warmly and confidently with her father and Dan, including managing social niceties and farewells.",
+      "assessment": "Her ease in social interactions and managing multiple relationships simultaneously suggests emotional intelligence and social competence.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Reaches for the telephone after being confronted, indicating an attempt to take action despite confusion.",
-      "Competence": 1,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Chooses to walk to work despite her father's offer of a ride, indicating independence and self-reliance.",
+      "assessment": "This decision reflects confidence and a sense of responsibility, traits associated with competence.",
+      "rating": 1,
+      "chunk": 13
     },
     {
-      "Action": "Tries to remain calm while talking on the phone, expresses fear honestly.",
-      "Warmth": 1,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Alice grows more determined and heads into the park to confront the Elm Street Children despite the ominous atmosphere and physical discomfort.",
+      "assessment": "Alice's resolve to face the threatening children and protect others shows courage and a protective, caring nature, indicating warmth through her willingness to confront danger for the sake of others.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Rushes out of the diner in panic to try to help after hearing Dan's voice and seeing his burning truck.",
-      "Warmth": 1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Gives a faint look of ominous recognition upon hearing the sing-song noise.",
+      "assessment": "This indicates Alice's awareness and ability to recognize a threatening or significant cue, showing perceptiveness and situational awareness.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Remains focused on identifying the cause of the accident despite shock and injury, speaks calmly and with certainty that it was no accident.",
-      "Competence": 1,
-      "Chunk": 32
+      "trait": "competence",
+      "action": "Her face hardens with resolve and she states, 'No. This isn't going to happen.'",
+      "assessment": "This demonstrates mental strength, confidence, and determination to confront the threat rather than flee or freeze, reflecting emotional and cognitive competence.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Collapses from injury and shock at the accident scene.",
-      "Competence": -1,
-      "Chunk": 32
+      "trait": "competence",
+      "action": "Closes her eyes tight and then opens them again before proceeding.",
+      "assessment": "This suggests a moment of mental preparation or focus, indicating self-control and deliberate action rather than impulsiveness.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Cries silently, showing emotional vulnerability about her pregnancy.",
-      "Warmth": 1,
-      "Chunk": 34
+      "trait": "competence",
+      "action": "Moves with increasing speed into the park despite the ominous atmosphere and the children always staying one step ahead.",
+      "assessment": "Shows physical courage and persistence, though the fact that the Elm Street Children remain ahead suggests some limitations in her ability to outmaneuver them.",
+      "rating": 1,
+      "chunk": 14
     },
     {
-      "Action": "Responds gently and patiently to Jacob, a strange boy, with a tentative hello and a smile.",
-      "Warmth": 1,
-      "Chunk": 34
+      "trait": "competence",
+      "action": "Leaves the path and runs blindly through branches that tear at her clothing and face.",
+      "assessment": "While this shows determination and willingness to endure physical discomfort, running blindly indicates a lack of caution or strategic planning in a dangerous environment, which is a slight negative for competence.",
+      "rating": -1,
+      "chunk": 14
     },
     {
-      "Action": "Shares the tragic backstory of Freddy Krueger openly to inform others.",
-      "Warmth": 1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Breaks through bushes and finds herself alone in a dreamlike clearing where the voices cease.",
+      "assessment": "Her ability to push through physical obstacles to reach a new location shows physical capability and resolve, but ending up alone and isolated could be seen as a tactical disadvantage, reflecting mixed competence.",
+      "rating": 0,
+      "chunk": 14
     },
     {
-      "Action": "Admits responsibility and blames herself for Dan's death.",
-      "Warmth": 1,
-      "Chunk": 36
+      "trait": "warmth",
+      "action": "Alice hurries after the silhouetted nun, calling out 'Wait!'",
+      "assessment": "Alice's action of pursuing the nun and calling out suggests concern and a desire to engage or understand, indicating attentiveness and sincerity.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Becomes angry and cuts off others who try to change the subject or minimize her feelings.",
-      "Warmth": 0,
-      "Chunk": 36
+      "trait": "warmth",
+      "action": "Alice moves slowly and cautiously through the deserted hospital convent, observing her surroundings carefully.",
+      "assessment": "Her watchful and pensive demeanor shows a thoughtful and careful nature, though it is more indicative of caution than warmth.",
+      "rating": 1,
+      "chunk": 15
     },
     {
-      "Action": "Stares adamantly at others when they doubt her, showing defensiveness.",
-      "Warmth": -1,
-      "Chunk": 36
+      "trait": "warmth",
+      "action": "Alice pauses and looks inside a room where she sees a bloody sheep and its lamb near a dead snake, then recoils with shock.",
+      "assessment": "Her reaction shows empathy and sensitivity to suffering, which is a positive indicator of warmth.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Explains the background of Freddy Krueger and connects the dream killings to herself, showing understanding of complex and supernatural events.",
-      "Competence": 1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Alice stares with intrigue at the silhouetted nun and then hurries after her up the gothic steps, calling out 'Wait!'",
+      "assessment": "This shows Alice's curiosity and initiative to follow a mysterious figure, indicating alertness and a proactive attitude.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Takes responsibility for Dan's death despite others telling her otherwise, indicating confidence but also possible guilt-driven stubbornness.",
-      "Competence": 0,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Alice moves slowly and cautiously down a deserted, ominous hospital corridor, observing her surroundings carefully.",
+      "assessment": "Her cautious approach and watchfulness demonstrate situational awareness and a careful, deliberate mindset, which are positive indicators of competence.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Angrily interrupts the conversation when it shifts away from the serious threat, reflecting emotional intensity but potential difficulty in managing social dynamics effectively.",
-      "Competence": 0,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Alice pauses and looks inside a dark room upon hearing a strange animal sound, then recoils with shock at the bloody sheep and dead snake carcass.",
+      "assessment": "While her initial shock is understandable, the hesitation and visible recoil suggest a momentary lapse in emotional control, slightly detracting from her overall competence.",
+      "rating": -1,
+      "chunk": 15
     },
     {
-      "Action": "Maintains her stance adamantly when others dismiss her suspicions, showing conviction but possibly dismissing valid counterpoints.",
-      "Competence": 0,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Alice whirls around quickly upon hearing the sound of rusty wheels and sees the ominous baby stroller rolling toward her.",
+      "assessment": "Her quick reaction to an unexpected threat indicates alertness and readiness to respond, reflecting positively on her competence.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Expresses fear and vulnerability about Freddy attacking her through dreams.",
-      "Warmth": 1,
-      "Chunk": 37
+      "trait": "warmth",
+      "action": "Runs past the stroller towards the nun, following her down the corridor and up the staircase.",
+      "assessment": "Alice's immediate reaction to pursue the nun suggests concern and a proactive attitude, indicating care and a willingness to engage with others in distress or mystery.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Pushes away tears and hides her emotions from her father, but ultimately shares a tender moment and hugs him.",
-      "Warmth": 1,
-      "Chunk": 37
+      "trait": "warmth",
+      "action": "Sits bolt upright and shouts 'No!!!!' when the doctor tells her to do exactly what he says.",
+      "assessment": "Alice's refusal to comply blindly with the medical staff shows assertiveness and a protective instinct, possibly reflecting a distrust of authority when it conflicts with her sense of safety or morality, which can be seen as a form of sincerity and self-trust.",
+      "rating": 1,
+      "chunk": 16
     },
     {
-      "Action": "Is adamant and serious when explaining the threat, showing sincerity in her concern.",
-      "Warmth": 1,
-      "Chunk": 37
+      "trait": "warmth",
+      "action": "Looks around horrified and confused in the delivery room surrounded by hospital staff.",
+      "assessment": "Her visible distress and confusion in a threatening situation reveal vulnerability and sincerity, but also a lack of control or influence over the situation, which tempers the warmth assessment.",
+      "rating": 0,
+      "chunk": 16
     },
     {
-      "Action": "Expresses clear understanding of the supernatural threat and attempts to communicate urgency.",
-      "Competence": 1,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "Notices the evil pram rolling down the corridor and quickly reacts by running past it towards the nun.",
+      "assessment": "This shows alertness and decisiveness in a threatening situation, indicating situational awareness and willingness to take action.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Admits uncertainty about what will happen next due to changing circumstances.",
-      "Competence": 0,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "Attempts to follow the nun up the staircase despite the ominous environment.",
+      "assessment": "Demonstrates courage and determination to pursue a lead, reflecting mental resilience and focus.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Is emotionally vulnerable and distracted with tears while preparing meals, possibly indicating stress and reduced focus.",
-      "Competence": -1,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "Is suddenly yanked down the stairs and loses control of the situation, ending up on a gurney being pushed by an orderly.",
+      "assessment": "This moment reveals vulnerability and a lack of physical control or preparedness for an ambush, indicating a temporary lapse in competence.",
+      "rating": -1,
+      "chunk": 16
     },
     {
-      "Action": "Leaps into action to save Greta from the refrigerator, grabs her hands, and pulls with all her might to rescue her.",
-      "Warmth": 1,
-      "Chunk": 42
+      "trait": "competence",
+      "action": "Sits bolt upright on the gurney and vocally protests the doctor's instructions with a firm 'No!!!!'",
+      "assessment": "Shows assertiveness and mental strength in a confusing and frightening situation, refusing to passively comply.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Calls out to her father for help, showing concern and seeking assistance to protect Greta.",
-      "Warmth": 1,
-      "Chunk": 42
+      "trait": "competence",
+      "action": "Looks around horrified and confused when surrounded by hospital staff.",
+      "assessment": "While understandable given the circumstances, this reaction suggests a momentary loss of composure and situational control.",
+      "rating": -1,
+      "chunk": 16
     },
     {
-      "Action": "Stands frozen in shock initially when Greta's mutated face appears, not acting immediately.",
-      "Warmth": 0,
-      "Chunk": 42
+      "trait": "warmth",
+      "action": "Watches the chaotic and terrifying birth scene with a focused, almost transfixed gaze.",
+      "assessment": "Alice's intense attention to the distressing situation suggests empathy and concern, indicating a sincere engagement with others' suffering.",
+      "rating": 2,
+      "chunk": 17
     },
     {
-      "Action": "Looks around concerned and tries to talk gently with Mark, showing empathy by ignoring his harsh tone.",
-      "Warmth": 1,
-      "Chunk": 44
+      "trait": "warmth",
+      "action": "Does not intervene or attempt to calm the panicked crowd or help Amanda during the crisis.",
+      "assessment": "Her lack of action in a moment of crisis could indicate hesitation or inability to provide comfort or support, which may reflect a lower level of warmth in this context.",
+      "rating": -1,
+      "chunk": 17
     },
     {
-      "Action": "Frustratedly tries to explain and warn others about a threat, showing care and persistence despite resistance.",
-      "Warmth": 1,
-      "Chunk": 44
+      "trait": "competence",
+      "action": "Watches the chaotic scene unfold with a fixed, transfixed gaze, trying to understand Amanda's words and the situation.",
+      "assessment": "Alice's focused attention in a highly stressful and confusing moment suggests a degree of mental engagement and presence of mind, indicating moderate competence in processing complex, frightening events.",
+      "rating": 1,
+      "chunk": 17
     },
     {
-      "Action": "Shows empathy and calmly approaches a distressed Mark despite his hostile tone.",
-      "Competence": 1,
-      "Chunk": 44
+      "trait": "competence",
+      "action": "Does not intervene or attempt to control the panic or the dangerous situation when the swaddled bundle (Baby Freddy) escapes and causes chaos.",
+      "assessment": "Her lack of action in a critical moment where immediate response could be crucial suggests a passivity or hesitation that detracts from her overall competence.",
+      "rating": -1,
+      "chunk": 17
     },
     {
-      "Action": "Attempts to convey important information about Krueger and the danger.",
-      "Competence": 1,
-      "Chunk": 44
+      "trait": "warmth",
+      "action": "Moves slowly and deliberately toward the double doors despite fear, showing determination.",
+      "assessment": "Her determination to face danger rather than flee suggests courage and a protective nature, which can be linked to warmth through her willingness to confront threats potentially to protect others.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Admits frustration and confusion about the situation, expressing lack of full understanding.",
-      "Competence": -1,
-      "Chunk": 44
+      "trait": "warmth",
+      "action": "Takes a deep breath and opens the doors despite expecting something evil to jump out.",
+      "assessment": "This action shows bravery and sincerity in facing fears head-on, indicating trustworthiness and a good-natured resolve to confront evil rather than avoid it.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Sits next to Mark with a comforting arm around his shoulder.",
-      "Warmth": 1,
-      "Chunk": 46
+      "trait": "warmth",
+      "action": "Stops and stares at the altar where Freddy 'died,' showing a moment of hesitation and horror.",
+      "assessment": "Her moment of hesitation and horror reveals a human vulnerability and emotional depth, suggesting sincerity and a genuine emotional response rather than cold detachment.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Reassures Mark that nobody thinks he is an idiot for being in love with her.",
-      "Warmth": 1,
-      "Chunk": 46
+      "trait": "competence",
+      "action": "Gets back to her feet and turns after the double doors close, then moves slowly and deliberately toward the doors.",
+      "assessment": "This shows physical resilience and a deliberate, cautious approach, indicating a level of control and presence of mind.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Offers to make coffee and share information to help Mark understand their situation.",
-      "Warmth": 1,
-      "Chunk": 46
+      "trait": "competence",
+      "action": "Takes a deep breath and reaches out to open the doors despite expecting something evil to jump out.",
+      "assessment": "Demonstrates courage and mental preparation to face danger, reflecting confidence and emotional strength.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Quickly uses a colored felt tip pen to draw a stick figure and a name to transport herself into the dream, demonstrating resourcefulness and focus.",
-      "Competence": 1,
-      "Chunk": 47
+      "trait": "competence",
+      "action": "Moves into the church full of horrific Freddyized artifacts, despite the unpleasant and disorienting sounds with no clear source.",
+      "assessment": "Shows determination and ability to proceed in a confusing and threatening environment, indicating strong situational awareness and resolve.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Rushes inside the dream house and immediately assesses the dangerous situation involving Mark and the gaping hole.",
-      "Competence": 1,
-      "Chunk": 47
+      "trait": "competence",
+      "action": "Stops and stares at Freddy's remains, momentarily frozen in horror.",
+      "assessment": "This momentary hesitation suggests a natural emotional response but also a brief lapse in composure, slightly reducing perceived competence.",
+      "rating": -1,
+      "chunk": 18
     },
     {
-      "Action": "Attempts to physically reach Mark as he is slipping into the hole, showing quick decision-making and determination.",
-      "Competence": 1,
-      "Chunk": 47
+      "trait": "warmth",
+      "action": "Desperately tries to stop Freddy's resurrection despite being powerless and physically thrown back.",
+      "assessment": "Alice's determination to prevent Freddy's return, even when she is physically unable to reach the altar and powerless to stop the event, shows her protective and sincere nature, indicating a strong sense of responsibility and care.",
+      "rating": 2,
+      "chunk": 19
     },
     {
-      "Action": "Struggles to pull Mark out of danger, showing physical effort and concern.",
-      "Warmth": 1,
-      "Chunk": 48
+      "trait": "competence",
+      "action": "Runs toward the altar to try to stop Freddy's resurrection despite the dangerous and supernatural obstacles.",
+      "assessment": "This action shows Alice's courage and determination to confront a powerful threat directly, indicating a proactive and capable mindset.",
+      "rating": 2,
+      "chunk": 19
     },
     {
-      "Action": "Speaks encouragingly to Mark to keep moving and escape.",
-      "Warmth": 1,
-      "Chunk": 48
+      "trait": "competence",
+      "action": "Desperately tries to crawl uphill through dust and smoke toward the altar but is physically thrown back and unable to reach it.",
+      "assessment": "While her effort shows persistence, her inability to overcome the physical barrier suggests a limitation in her effectiveness in this moment.",
+      "rating": -1,
+      "chunk": 19
     },
     {
-      "Action": "Watches Mark's collapse with attention and concern.",
-      "Warmth": 1,
-      "Chunk": 48
+      "trait": "competence",
+      "action": "Recognizes the growing threat and vocalizes her refusal to bring Freddy back.",
+      "assessment": "This demonstrates awareness and mental clarity under pressure, reflecting intelligence and resolve.",
+      "rating": 2,
+      "chunk": 19
     },
     {
-      "Action": "Freezes and stares at Jacob with a mixture of compassion and wariness.",
-      "Warmth": 1,
-      "Chunk": 48
+      "trait": "competence",
+      "action": "After being thrown to the ground hard, she raises herself up and looks around.",
+      "assessment": "This shows resilience and presence of mind after a setback, indicating emotional and physical competence.",
+      "rating": 2,
+      "chunk": 19
     },
     {
-      "Action": "Approaches Jacob cautiously but with motherly concern, speaking tentatively about his wellbeing.",
-      "Warmth": 1,
-      "Chunk": 48
+      "trait": "warmth",
+      "action": "Begs Freddy not to come back and tries to keep him away by saying 'You can't come back! I locked the door on you!'",
+      "assessment": "Alice's actions here show determination and protectiveness, which can be interpreted as a desire to safeguard herself and others from harm, reflecting a caring and responsible nature.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Successfully pulls Mark from a dangerous situation despite the canal closing around him, demonstrating physical capability and presence of mind.",
-      "Competence": 1,
-      "Chunk": 48
+      "trait": "warmth",
+      "action": "Reacting with fear and anger when Freddy approaches and threatens her.",
+      "assessment": "Her fear and anger are natural responses to a threatening situation; while not directly warm, they show sincerity and genuine emotional response rather than coldness or indifference.",
+      "rating": 1,
+      "chunk": 20
     },
     {
-      "Action": "Quickly opens the door and urges Mark to leave, showing decisiveness and leadership in a crisis.",
-      "Competence": 1,
-      "Chunk": 48
+      "trait": "competence",
+      "action": "Raises herself up off the floor and looks around despite the threatening environment.",
+      "assessment": "This shows resilience and presence of mind in a dangerous situation, indicating a moderate level of competence.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Notices Jacob from a distance and approaches him cautiously, balancing wariness and compassion, indicating perceptiveness and emotional intelligence.",
-      "Competence": 1,
-      "Chunk": 48
+      "trait": "competence",
+      "action": "Backs away from Freddy, frightened and angry, and tries to keep distance while confronting him.",
+      "assessment": "While her fear is understandable, she maintains some composure and attempts to control the space between herself and Freddy, showing cautious awareness but limited assertiveness.",
+      "rating": 1,
+      "chunk": 20
     },
     {
-      "Action": "Shows instinctive motherly concern, tries to comfort Jacob, attempts to lead him away from danger.",
-      "Competence": 1,
-      "Chunk": 49
+      "trait": "competence",
+      "action": "Reflexively strikes out at Freddy when he takes a step closer.",
+      "assessment": "The reflexive strike indicates a reactive rather than strategic response, suggesting a momentary lapse in control or planning.",
+      "rating": -1,
+      "chunk": 20
     },
     {
-      "Action": "Appears confused and momentarily stunned by Jacob's accusations and emotions.",
-      "Competence": -1,
-      "Chunk": 49
+      "trait": "competence",
+      "action": "Follows Freddy's laughter with frightened eyes, searching for him after he vanishes.",
+      "assessment": "Her vigilance in tracking Freddy's movements shows alertness, but the fear evident in her eyes suggests anxiety that may impair clear thinking.",
+      "rating": 0,
+      "chunk": 20
     },
     {
-      "Action": "Expresses deep concern for her baby and tries to protect him from danger, showing vulnerability and sincerity.",
-      "Warmth": 1,
-      "Chunk": 50
+      "trait": "warmth",
+      "action": "Alice runs toward Amanda Krueger when Amanda instructs her to 'Bring him home.'",
+      "assessment": "Alice's immediate response to Amanda's plea shows her willingness to help and engage sincerely with a difficult situation, indicating a caring and trustworthy nature.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Rushes urgently to take care of her baby’s safety and health by involving Yvonne and the doctor, demonstrating trust and responsibility.",
-      "Warmth": 1,
-      "Chunk": 50
+      "trait": "warmth",
+      "action": "Alice struggles to open the big doors that slam shut in her face and hurries through once she succeeds.",
+      "assessment": "Her persistence and urgency to follow Amanda's instructions reflect dedication and a sincere desire to do good, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Freezes when Mark questions her about naming the baby, revealing her internal emotional complexity and openness.",
-      "Warmth": 1,
-      "Chunk": 50
+      "trait": "warmth",
+      "action": "Alice is visibly disturbed and frightened when confronted by Anne, a classmate and co-worker, who is angry and relieved to see her.",
+      "assessment": "Alice's emotional vulnerability and the fact that Anne is concerned enough to look for her suggest that Alice maintains meaningful social connections, implying friendliness and trustworthiness.",
+      "rating": 1,
+      "chunk": 21
     },
     {
-      "Action": "Realizes the danger to her baby and decides to get help by calling a doctor, despite being emotionally distressed.",
-      "Competence": 1,
-      "Chunk": 50
+      "trait": "competence",
+      "action": "Starts to move towards Amanda and picks up her pace as she goes.",
+      "assessment": "This shows Alice's decisiveness and willingness to engage with the situation proactively, indicating a degree of confidence and capability.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Attempts to flee immediately without a clear plan, showing panic and uncertainty when confronted by Mark.",
-      "Competence": -1,
-      "Chunk": 50
+      "trait": "competence",
+      "action": "Struggles to get the big doors open and hurries through once they open.",
+      "assessment": "Her persistence in overcoming the obstacle of the doors demonstrates determination and resourcefulness, positive indicators of competence.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Insists on protecting her unborn baby and seeks reassurance despite skepticism from others",
-      "Warmth": 1,
-      "Chunk": 51
+      "trait": "competence",
+      "action": "Feels the counter and furniture, checking out the 'reality' of the place.",
+      "assessment": "This action reflects her critical thinking and situational awareness, showing she is trying to assess her environment carefully despite being frightened.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Refuses to calm down when advised by Yvonne, expressing concern over the baby's well-being",
-      "Warmth": 0,
-      "Chunk": 51
+      "trait": "competence",
+      "action": "Looks around puzzled and completely freaked out after entering the diner.",
+      "assessment": "Her visible fear and confusion suggest a momentary lapse in emotional control and confidence, which slightly detracts from her overall competence.",
+      "rating": -1,
+      "chunk": 21
     },
     {
-      "Action": "Shows awareness of the baby's condition, questions how Krueger can affect the baby while she's awake, and asks insightful questions about unborn babies dreaming.",
-      "Competence": 1,
-      "Chunk": 51
+      "trait": "warmth",
+      "action": "Expresses relief and concern upon seeing Anne, saying 'Anne! Oh god, I'm glad it's you. It was terrible.'",
+      "assessment": "Alice shows genuine relief and a need for connection in a moment of distress, indicating sincerity and openness.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Insists on investigating her baby's condition despite others' dismissiveness and continues to pursue answers.",
-      "Competence": 1,
-      "Chunk": 51
+      "trait": "warmth",
+      "action": "Stands stunned and silent after Anne angrily throws her apron and leaves, not responding defensively or with anger.",
+      "assessment": "Alice's non-confrontational reaction suggests a tolerant and possibly self-reflective nature, avoiding escalation despite being treated harshly.",
+      "rating": 1,
+      "chunk": 22
     },
     {
-      "Action": "Appears distressed and is urged to calm down by others, indicating some difficulty managing her emotions under stress.",
-      "Competence": 0,
-      "Chunk": 51
+      "trait": "warmth",
+      "action": "Reaches for the telephone after Anne leaves.",
+      "assessment": "This action implies Alice is seeking help or connection, showing a proactive and sincere approach to her situation.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Watches the baby's heartbeat and appears fascinated and enchanted by her unborn baby, showing genuine interest and care.",
-      "Warmth": 1,
-      "Chunk": 52
+      "trait": "competence",
+      "action": "Arrives hours late and appears stunned and disoriented, not fully aware of the time or situation.",
+      "assessment": "This suggests a lapse in situational awareness and time management, indicating a momentary lack of competence.",
+      "rating": -1,
+      "chunk": 22
     },
     {
-      "Action": "Shows apprehension and fear when faced with the disturbing figure of Freddy Krueger threatening her unborn child, indicating protective and sincere concern.",
-      "Warmth": 1,
-      "Chunk": 52
+      "trait": "competence",
+      "action": "Attempts to reach out by picking up the telephone after Anne leaves angrily.",
+      "assessment": "This shows initiative and a willingness to take action despite emotional distress, reflecting a moderate level of competence.",
+      "rating": 1,
+      "chunk": 22
     },
     {
-      "Action": "Shares urgent, terrifying concerns about Krueger harming loved ones and her baby; asks for trust from her friend despite seeming insane",
-      "Warmth": 1,
-      "Chunk": 54
+      "trait": "warmth",
+      "action": "Alice talks on the telephone trying to remain calm and shares her fear and concern about the situation with Dan.",
+      "assessment": "Alice's attempt to stay calm while communicating her fears sincerely shows trust and openness, indicating a warm and sincere nature.",
+      "rating": 2,
+      "chunk": 24
     },
     {
-      "Action": "Responds calmly and sincerely when confronted about her mental state; appeals to friendship and trust",
-      "Warmth": 1,
-      "Chunk": 54
+      "trait": "competence",
+      "action": "Talks on the telephone trying to remain calm while explaining a frightening situation to Dan.",
+      "assessment": "This action shows that Alice is able to maintain composure under stress and communicate important information clearly, indicating emotional and situational competence.",
+      "rating": 2,
+      "chunk": 24
     },
     {
-      "Action": "Gets angry when friend suggests running away, expresses determination to protect her baby and face danger",
-      "Warmth": 0,
-      "Chunk": 54
+      "trait": "warmth",
+      "action": "Alice hears Dan's voice calling her name and immediately reacts by running toward the wall where his distorted face appears, reaching out to him despite the terrifying vision.",
+      "assessment": "Alice's immediate and concerned reaction to Dan's distress shows her caring and sincere nature, indicating a strong emotional connection and willingness to help.",
+      "rating": 3,
+      "chunk": 31
     },
     {
-      "Action": "Encourages others to face the threat instead of running, shows determination.",
-      "Warmth": 1,
-      "Chunk": 55
+      "trait": "warmth",
+      "action": "Despite experiencing intense physical pain and spasms, Alice fights through it and runs wildly to the street toward the burning truck and the jack-knifed semi.",
+      "assessment": "Her determination to confront danger and her willingness to face harm to help or respond to the crisis demonstrates courage and a protective, warm-hearted disposition.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Supports Mark's attempt to convince Yvonne, helps pick up scattered clippings.",
-      "Warmth": 1,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "Hears Dan's voice calling her name and immediately snaps to attention, reacting to the distorted sounds and visual hallucinations.",
+      "assessment": "This shows Alice's alertness and sensitivity to unusual stimuli, indicating a quick mental response to danger signals.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Considers aborting her baby to stop the threat but ultimately refuses, expressing love and connection to her unborn child.",
-      "Warmth": 1,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "Despite being wracked with pain and spasms, she fights through it and gets up to run toward the danger.",
+      "assessment": "This demonstrates strong willpower, physical resilience, and determination, traits associated with competence under stress.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Insists that running away is not a solution and asserts that Yvonne's survival is due to staying awake, demonstrating awareness of the situation's gravity.",
-      "Competence": 1,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "Runs wildly toward the burning truck and jack-knifed semi, screaming and panicked.",
+      "assessment": "While her reaction shows urgency and concern, the panic and wild running suggest a lack of composed, strategic thinking in a crisis, which slightly detracts from her competence.",
+      "rating": -1,
+      "chunk": 31
     },
     {
-      "Action": "Expresses determination to stop Krueger by revealing knowledge about how he's attacking through Jacob's dreams, showing insight and proactive thinking.",
-      "Competence": 1,
-      "Chunk": 55
+      "trait": "warmth",
+      "action": "Alice screams and runs panicked toward the semi to presumably help or confront the situation.",
+      "assessment": "Her immediate reaction to run toward danger suggests concern and urgency, indicating care and responsiveness toward others.",
+      "rating": 2,
+      "chunk": 32
     },
     {
-      "Action": "Considers Mark's suggestion about not having the baby to stop the threat but firmly chooses to keep the baby, showing emotional resolve but also a refusal to take drastic preventive action.",
-      "Competence": 0,
-      "Chunk": 55
+      "trait": "warmth",
+      "action": "Alice looks tear-stained and focused on Dan's mangled body, showing emotional distress.",
+      "assessment": "Her visible emotional pain and focus on Dan's condition reflect empathy and sincere emotional connection.",
+      "rating": 3,
+      "chunk": 32
     },
     {
-      "Action": "Firmly refuses to surrender responsibility for her unborn child despite pressure from the Jordans.",
-      "Competence": 1,
-      "Chunk": 56
+      "trait": "warmth",
+      "action": "Alice quietly repeats 'It was him' both at the accident scene and later in the hospital.",
+      "assessment": "Her insistence on the truth and sharing it with others shows sincerity and a desire for honesty, which are aspects of warmth.",
+      "rating": 2,
+      "chunk": 32
     },
     {
-      "Action": "Hesitates and appears unsure during the conversation, showing some emotional strain.",
-      "Competence": 0,
-      "Chunk": 56
+      "trait": "warmth",
+      "action": "Alice shakes her head in denial when told Dan's accident was an accident.",
+      "assessment": "Her refusal to accept comforting misinformation may indicate distrust or difficulty accepting others' attempts to soothe her, which could be seen as a lack of tolerance for comforting falsehoods.",
+      "rating": -1,
+      "chunk": 32
     },
     {
-      "Action": "Firmly resists giving up her baby despite others' concern and pressure.",
-      "Warmth": 1,
-      "Chunk": 57
+      "trait": "competence",
+      "action": "Runs panicked toward the semi truck after hearing the blaring horn.",
+      "assessment": "This shows a reactive and emotional response rather than a calm, calculated approach, indicating some loss of composure under stress.",
+      "rating": -1,
+      "chunk": 32
     },
     {
-      "Action": "Insists that the problem is theirs to handle, showing concern for Jacob's wellbeing.",
-      "Warmth": 1,
-      "Chunk": 60
+      "trait": "competence",
+      "action": "Looks past the semi driver to see Dan's mangled body and tries to get to him.",
+      "assessment": "Demonstrates focus and determination to help despite the traumatic scene, suggesting some level of situational awareness and emotional strength.",
+      "rating": 1,
+      "chunk": 32
     },
     {
-      "Action": "Expresses sympathy by saying 'Poor woman...' about the nun's fate.",
-      "Warmth": 1,
-      "Chunk": 60
+      "trait": "competence",
+      "action": "Collapses after witnessing Dan's death and blood loss.",
+      "assessment": "Physical collapse indicates a limit to her endurance and ability to maintain control in extreme trauma, reflecting a momentary breakdown in competence.",
+      "rating": -2,
+      "chunk": 32
     },
     {
-      "Action": "Takes responsibility by stating 'No, it's our problem' and expresses concern about protecting Jacob.",
-      "Competence": 1,
-      "Chunk": 60
+      "trait": "competence",
+      "action": "In the hospital, quietly repeats 'It was him' upon waking, showing awareness and memory of the traumatic event.",
+      "assessment": "This indicates mental clarity and cognitive processing despite physical weakness, reflecting a competent grasp of the situation.",
+      "rating": 2,
+      "chunk": 32
     },
     {
-      "Action": "Questions and seeks clarification about the supposed suicide and grave, indicating critical thinking.",
-      "Competence": 1,
-      "Chunk": 60
+      "trait": "competence",
+      "action": "Responds in a monotone 'It was no accident...' when told Dan was in an accident.",
+      "assessment": "Her calm, deliberate denial suggests critical thinking and insight beyond surface appearances, indicating a competent and analytical mindset.",
+      "rating": 2,
+      "chunk": 32
     },
     {
-      "Action": "Frowns showing confusion or lack of prior knowledge about the soul's torment, indicating some knowledge gap.",
-      "Competence": 0,
-      "Chunk": 60
+      "trait": "warmth",
+      "action": "Clutches Yvonne in a desperate embrace while crying after hearing about Dan's death.",
+      "assessment": "Seeking physical comfort and showing vulnerability indicates trust and openness, reflecting warmth in her relationships.",
+      "rating": 2,
+      "chunk": 33
     },
     {
-      "Action": "Tells Mark to stay awake and watch her, showing concern and desire for support.",
-      "Warmth": 1,
-      "Chunk": 61
+      "trait": "warmth",
+      "action": "Insists that Dan didn't drink and defends his character to her father and others.",
+      "assessment": "Defending Dan's character shows loyalty and sincerity, positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 33
     },
     {
-      "Action": "Thinks out loud and shows worry about Amanda and the danger she perceives, indicating sincerity and care.",
-      "Warmth": 1,
-      "Chunk": 61
+      "trait": "warmth",
+      "action": "Becomes increasingly hysterical and insists that Krueger is coming back and that her friends are in danger.",
+      "assessment": "While her concern for friends is sincere, the hysteria and inability to remain calm may hinder her ability to be a steady, trustworthy presence, slightly reducing perceived warmth.",
+      "rating": 0,
+      "chunk": 33
     },
     {
-      "Action": "Thoughtfully analyzes the situation involving Amanda and the asylum tower, makes a deliberate plan to confront the problem, and instructs Mark to stay awake and watch her for support.",
-      "Competence": 1,
-      "Chunk": 61
+      "trait": "warmth",
+      "action": "Expresses fear and confusion about her mental state when Dr. Moore suggests her outbursts are due to shock.",
+      "assessment": "Her openness about her fears and confusion shows sincerity and vulnerability, which are aspects of warmth.",
+      "rating": 1,
+      "chunk": 33
     },
     {
-      "Action": "Reflects on the dream and pieces together clues, showing insight and determination to resolve the conflict pragmatically.",
-      "Competence": 1,
-      "Chunk": 61
+      "trait": "competence",
+      "action": "Immediately identifies that Dan's accident was caused by Krueger and not a random event.",
+      "assessment": "This shows Alice's awareness and insight into the supernatural threat, indicating a level of understanding and mental acuity beyond normal.",
+      "rating": 2,
+      "chunk": 33
     },
     {
-      "Action": "Steels herself after being taken by surprise and starts actively searching the environment, climbing stairs to a bricked-up doorway and pressing her head and hands against the wall to find a hidden door.",
-      "Competence": 1,
-      "Chunk": 63
+      "trait": "competence",
+      "action": "Expresses strong emotional distress and hysteria, repeatedly insisting that Krueger is coming back and that action must be taken.",
+      "assessment": "While her passion and urgency demonstrate commitment, her increasing hysteria and inability to remain calm under pressure suggest a lack of emotional control, which can undermine competence.",
+      "rating": -1,
+      "chunk": 33
     },
     {
-      "Action": "Attempts to hang on a chain after dropping into murky water but fails to hold on.",
-      "Competence": -1,
-      "Chunk": 63
+      "trait": "competence",
+      "action": "Clutches Yvonne in a desperate embrace and cries openly.",
+      "assessment": "This shows vulnerability and emotional openness, but also a momentary loss of composure, which may reduce perceived competence in a crisis.",
+      "rating": -1,
+      "chunk": 33
     },
     {
-      "Action": "Intervenes to help Yvonne against Freddy, encouraging unity and fighting back together.",
-      "Warmth": 1,
-      "Chunk": 64
+      "trait": "competence",
+      "action": "Challenges the explanation that Dan's death was an accident and rejects the suggestion that she is suffering from shock.",
+      "assessment": "This indicates critical thinking and refusal to accept convenient but false explanations, reflecting mental strength and determination.",
+      "rating": 2,
+      "chunk": 33
     },
     {
-      "Action": "Expresses concern for Yvonne’s wellbeing and offers emotional support after escape.",
-      "Warmth": 1,
-      "Chunk": 64
+      "trait": "competence",
+      "action": "Appears confused and questions Dr. Moore's professional assessment about her condition.",
+      "assessment": "This moment of doubt and confusion reveals some uncertainty and lack of self-trust, which can be seen as a minor negative indicator of competence.",
+      "rating": -1,
+      "chunk": 33
     },
     {
-      "Action": "Steels herself before confronting Freddy, coordinates with Yvonne to fight back using available tools, effectively forces Freddy to retreat, helps and supports Yvonne afterwards, quickly focuses on next objective (finding Amanda).",
-      "Competence": 1,
-      "Chunk": 64
+      "trait": "warmth",
+      "action": "Smiles and greets Jacob, the strange boy, with a tentative 'Hi there.'",
+      "assessment": "Despite being startled by Jacob's odd presence, Alice responds with a gentle smile and a friendly greeting, showing openness and kindness toward a mysterious child.",
+      "rating": 2,
+      "chunk": 34
     },
     {
-      "Action": "Clutches her belly in pain and cries out in anguish upon witnessing Mark's death.",
-      "Warmth": 1,
-      "Chunk": 69
+      "trait": "warmth",
+      "action": "Holds eye contact with Jacob and allows a quiet moment without forcing conversation.",
+      "assessment": "Alice demonstrates patience and a respectful tolerance for silence, which reflects a sincere and gentle nature.",
+      "rating": 2,
+      "chunk": 34
     },
     {
-      "Action": "Engages in a discussion with Yvonne about the location and circumstances of a burial, showing concern and seriousness.",
-      "Warmth": 1,
-      "Chunk": 69
+      "trait": "warmth",
+      "action": "Closes her eyes tightly and sheds a tear upon learning she is pregnant.",
+      "assessment": "Her emotional reaction reveals vulnerability and sincerity, indicating a warm and genuine internal response to significant news.",
+      "rating": 2,
+      "chunk": 34
     },
     {
-      "Action": "Shows care and urgency by immediately running toward Yvonne and planning to save Amanda from danger",
-      "Warmth": 1,
-      "Chunk": 70
+      "trait": "competence",
+      "action": "Lies back, closing her eyes tightly and shedding a tear upon hearing she is pregnant.",
+      "assessment": "This reaction shows emotional vulnerability and shock, indicating a momentary difficulty in processing the news rather than active coping or problem-solving.",
+      "rating": -1,
+      "chunk": 34
     },
     {
-      "Action": "Shrugs free of her father's arm to act on her own instincts",
-      "Warmth": 0,
-      "Chunk": 70
+      "trait": "competence",
+      "action": "Remains silent and introspective as the full ramifications of her pregnancy sink in.",
+      "assessment": "Her quiet reflection suggests a thoughtful and serious approach to a difficult situation, showing some emotional intelligence and internal processing.",
+      "rating": 1,
+      "chunk": 34
     },
     {
-      "Action": "Keeps her knowledge about Krueger and the danger sincere and shares it openly with Yvonne",
-      "Warmth": 1,
-      "Chunk": 70
+      "trait": "competence",
+      "action": "Responds tentatively but politely to Jacob, the strange boy watching her in the hospital room.",
+      "assessment": "Her ability to engage calmly and kindly with an unusual and potentially unsettling presence indicates social composure and openness, reflecting a degree of confidence and emotional steadiness.",
+      "rating": 2,
+      "chunk": 34
     },
     {
-      "Action": "Realizes the danger Krueger poses and acts decisively to get help, showing awareness and leadership by taking charge to save Amanda.",
-      "Competence": 1,
-      "Chunk": 70
+      "trait": "competence",
+      "action": "Waits patiently in silence while Jacob watches her without feeling the need to fill the silence.",
+      "assessment": "This shows patience and comfort with silence, suggesting emotional maturity and self-assurance in social interactions.",
+      "rating": 2,
+      "chunk": 34
     },
     {
-      "Action": "Shrugs free of her father's arm and runs toward the street to find Yvonne, demonstrating confidence and determination.",
-      "Competence": 1,
-      "Chunk": 70
+      "trait": "warmth",
+      "action": "Alice shows concern for Jacob by asking if he should be in his room and calling after him when he leaves.",
+      "assessment": "Alice's concern for a lonely child and her desire to engage with him indicate a caring and attentive nature.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Knows to go to the asylum to find Amanda's body, indicating resourcefulness and knowledge of the situation.",
-      "Competence": 1,
-      "Chunk": 70
+      "trait": "warmth",
+      "action": "Alice shares her observations about Jacob with Yvonne, expressing genuine worry about the boy.",
+      "assessment": "By confiding in Yvonne and seeking help, Alice demonstrates openness and sincerity in her concern for others.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Insists on going to the asylum to find the trapped soul despite her father's objections",
-      "Warmth": 1,
-      "Chunk": 71
+      "trait": "warmth",
+      "action": "Alice continues to think about Jacob and the strange circumstances, showing persistence in understanding the situation.",
+      "assessment": "Her persistence reflects a sincere and empathetic attitude, wanting to help or understand those who seem troubled.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Reluctantly obeys her father's stern command and gives in to his concern",
-      "Warmth": 1,
-      "Chunk": 71
+      "trait": "warmth",
+      "action": "Alice speaks animatedly about Amanda Krueger's tragic past.",
+      "assessment": "This shows Alice's engagement and empathy towards tragic stories, indicating a compassionate and thoughtful character.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Kisses her father on the cheek showing affection and appreciation",
-      "Warmth": 1,
-      "Chunk": 71
+      "trait": "competence",
+      "action": "Alice notices and questions the mysterious boy Jacob, showing concern and curiosity about his presence and behavior.",
+      "assessment": "This indicates Alice's observational skills and empathy, suggesting a thoughtful and attentive nature, which are positive indicators of competence.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Shows frustration and anger but does not lash out or disrespect others",
-      "Warmth": 0,
-      "Chunk": 71
+      "trait": "competence",
+      "action": "Alice tries to follow up on the strange encounter by asking Yvonne about the boy and the hospital wards.",
+      "assessment": "This shows Alice's initiative and willingness to seek information to understand unusual events, reflecting problem-solving skills and persistence.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Shouts defiant taunts at Freddy, showing grim determination and understanding of his plans.",
-      "Competence": 1,
-      "Chunk": 72
+      "trait": "competence",
+      "action": "Alice accepts Yvonne's contradictory information about the hospital wards without immediate skepticism or further investigation.",
+      "assessment": "While Alice is puzzled, she does not press further or challenge the inconsistency, which may indicate a momentary lapse in critical thinking or assertiveness.",
+      "rating": -1,
+      "chunk": 35
     },
     {
-      "Action": "Moves deliberately through the dream asylum, seeking out Freddy and confronting him proactively.",
-      "Competence": 1,
-      "Chunk": 72
+      "trait": "competence",
+      "action": "Alice continues to process the strange events internally, pacing and speaking animatedly as she recalls information about Amanda Krueger and the asylum.",
+      "assessment": "This internal processing and verbalization of relevant background information demonstrate Alice's cognitive engagement and ability to connect dots, a positive sign of competence.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Halts and glares suspiciously around the walls and doors, showing vigilance and caution.",
-      "Competence": 1,
-      "Chunk": 72
+      "trait": "warmth",
+      "action": "Explains the tragic history of Freddy Krueger and expresses guilt over Dan's death.",
+      "assessment": "Alice shows sincerity and a sense of responsibility, indicating she is earnest and cares deeply about the situation and those involved.",
+      "rating": 2,
+      "chunk": 36
     },
     {
-      "Action": "Calls out loudly for Amanda, showing concern for her sister.",
-      "Warmth": 1,
-      "Chunk": 73
+      "trait": "warmth",
+      "action": "Angrily cuts off Greta and Mark when they try to shift the conversation to the baby and Dan's parents.",
+      "assessment": "Her anger and dismissal of others' perspectives suggest a lack of tolerance and difficulty in accepting differing viewpoints, which detracts from warmth.",
+      "rating": -1,
+      "chunk": 36
     },
     {
-      "Action": "Taunts Freddy to provoke him, using strong language.",
-      "Warmth": -1,
-      "Chunk": 73
+      "trait": "warmth",
+      "action": "Glares at Yvonne and Greta when they challenge her theory about Dan's death.",
+      "assessment": "Her defensive and confrontational behavior indicates low tolerance and reduced friendliness in this interaction.",
+      "rating": -1,
+      "chunk": 36
     },
     {
-      "Action": "Charges at Freddy with the stroller to stop him and ultimately helps have him torn apart by the maniacs.",
-      "Warmth": 1,
-      "Chunk": 74
+      "trait": "competence",
+      "action": "Explains the backstory of Freddy Krueger clearly and confidently to the group, detailing his origins and modus operandi.",
+      "assessment": "This demonstrates Alice's knowledge and ability to communicate important information effectively, indicating a competent grasp of the situation.",
+      "rating": 2,
+      "chunk": 36
     },
     {
-      "Action": "Screams and reacts with revulsion to the spiders crawling on her, showing vulnerability.",
-      "Warmth": 1,
-      "Chunk": 74
+      "trait": "competence",
+      "action": "Takes responsibility for Dan's death by saying 'That's why it's my fault Dan's dead.'",
+      "assessment": "This shows Alice's willingness to accept accountability, which can be a sign of emotional maturity and self-awareness, components of competence.",
+      "rating": 1,
+      "chunk": 36
     },
     {
-      "Action": "Charges Freddy with the stroller, hits him from behind, and forcefully shoves him through a doorway, resulting in Freddy being overwhelmed and attacked by maniacs.",
-      "Competence": 1,
-      "Chunk": 74
+      "trait": "competence",
+      "action": "Cuts off the group angrily when they try to change the subject to the baby.",
+      "assessment": "While this shows assertiveness and focus, the anger and abruptness may undermine her ability to maintain group cohesion and open dialogue, slightly detracting from her competence.",
+      "rating": 0,
+      "chunk": 36
     },
     {
-      "Action": "Closes her eyes in relief after defeating Freddy but recoils and screams when spiders (Freddy's limbs transformed) drop on her and begin scuttling up her sleeves, then quickly removes her jacket and stamps on it.",
-      "Competence": 0,
-      "Chunk": 74
+      "trait": "competence",
+      "action": "Insists that Freddy must have found another way to kill Dan since she was awake at the time.",
+      "assessment": "This indicates critical thinking and refusal to accept easy explanations, reflecting analytical competence and determination.",
+      "rating": 2,
+      "chunk": 36
     },
     {
-      "Action": "Dread rising inside her, she nonetheless bravely leaves the asylum and steps into the dangerous, illogical Escher maze to confront Freddy and protect her son.",
-      "Competence": 1,
-      "Chunk": 75
+      "trait": "competence",
+      "action": "Glares adamantly at others when they challenge her statements.",
+      "assessment": "This shows confidence but also potential inflexibility or defensiveness, which could hinder collaborative problem-solving and reduce perceived competence.",
+      "rating": 0,
+      "chunk": 36
     },
     {
-      "Action": "Reassures her apprehensive son, urging him to come downstairs and insisting Freddy won't hurt him, showing confidence and calmness in a terrifying situation.",
-      "Competence": 1,
-      "Chunk": 75
+      "trait": "warmth",
+      "action": "Alice listens to her friends' concern and acknowledges their support, though she is clearly distressed.",
+      "assessment": "Alice shows vulnerability and allows others to support her, indicating trust and openness, which are aspects of warmth.",
+      "rating": 2,
+      "chunk": 37
     },
     {
-      "Action": "Leads Jacob out of the maze despite the threatening presence of Freddy, showing decisiveness and protective leadership.",
-      "Competence": 1,
-      "Chunk": 75
+      "trait": "warmth",
+      "action": "Alice covers her tears when her father enters but then shares a tender moment hugging him after their conversation.",
+      "assessment": "Despite her distress, Alice maintains a close and affectionate relationship with her father, showing sincerity and emotional warmth.",
+      "rating": 3,
+      "chunk": 37
     },
     {
-      "Action": "Picks up Jacob quickly as he reaches her and immediately runs to escape Freddy.",
-      "Competence": 1,
-      "Chunk": 77
+      "trait": "warmth",
+      "action": "Alice responds with sarcasm ('Very funny') when her father comments on the meeting.",
+      "assessment": "The sarcastic remark is mild and seems to be a coping mechanism rather than hostility, showing a familiar and informal dynamic rather than coldness.",
+      "rating": 1,
+      "chunk": 37
     },
     {
-      "Action": "Listens to Jacob's explanation about Freddy hiding inside her and shows thoughtful reflection.",
-      "Competence": 1,
-      "Chunk": 77
+      "trait": "competence",
+      "action": "Alice insists that the threat is real and serious, trying to convince others that Freddy gets in through her dreams and that something has changed.",
+      "assessment": "This shows Alice's awareness and seriousness about the danger, indicating a level of insight and responsibility, though she admits uncertainty about what will happen next.",
+      "rating": 1,
+      "chunk": 37
     },
     {
-      "Action": "Expresses determination to confront Freddy decisively ('This time it's for keeps').",
-      "Competence": 1,
-      "Chunk": 77
+      "trait": "competence",
+      "action": "Alice is visibly emotional and tearful while preparing dinner, but she quickly covers her tears when her father enters.",
+      "assessment": "This suggests emotional vulnerability but also an ability to maintain composure in front of others, reflecting some emotional control though possibly indicating internal struggle.",
+      "rating": 0,
+      "chunk": 37
     },
     {
-      "Action": "Shows horror and disgust as Freddy manifests through her, indicating emotional resistance despite the threat.",
-      "Competence": 0,
-      "Chunk": 77
+      "trait": "competence",
+      "action": "Alice engages in light, somewhat sarcastic banter with her father despite the heavy situation.",
+      "assessment": "This indicates social skill and an attempt to maintain normalcy and connection, which can be seen as a competent coping mechanism.",
+      "rating": 1,
+      "chunk": 37
     },
     {
-      "Action": "Screams and struggles fiercely against Freddy's takeover attempt, showing strong resistance and determination.",
-      "Competence": 1,
-      "Chunk": 78
+      "trait": "competence",
+      "action": "Alice admits fear openly ('That's what I'm afraid of.') when reassured by friends.",
+      "assessment": "While honesty about fear shows self-awareness, it also reveals a moment of doubt or lack of confidence in her ability to handle the threat.",
+      "rating": 0,
+      "chunk": 37
     },
     {
-      "Action": "Drops to her knees in anguish and pain, expressing vulnerability but continuing to fight internally.",
-      "Competence": 0,
-      "Chunk": 78
+      "trait": "warmth",
+      "action": "Leaps into action to pull Greta out of the refrigerator when she is trapped and in danger.",
+      "assessment": "Alice's immediate and physical attempt to rescue Greta demonstrates her caring, protective, and trustworthy nature, indicating a strong sense of warmth.",
+      "rating": 3,
+      "chunk": 42
     },
     {
-      "Action": "Rushed to baby Jacob and cradled him tenderly in her arms.",
-      "Warmth": 1,
-      "Chunk": 80
+      "trait": "warmth",
+      "action": "Calls out to her father for help when she cannot free Greta herself.",
+      "assessment": "Seeking help shows Alice's practical concern for Greta's safety and willingness to involve others, reflecting sincerity and a responsible, warm attitude.",
+      "rating": 2,
+      "chunk": 42
     },
     {
-      "Action": "Starts toward Amanda instinctively, showing concern despite Amanda's warning.",
-      "Warmth": 1,
-      "Chunk": 81
+      "trait": "warmth",
+      "action": "Stares in amazement and fear into the fridge after Freddy disappears and everything returns to normal.",
+      "assessment": "Her reaction shows vulnerability and genuine concern rather than cold detachment, which aligns with a sincere and emotionally open character.",
+      "rating": 1,
+      "chunk": 42
     },
     {
-      "Action": "Tenderly cradles and gently rocks her infant son Jacob, soothing him.",
-      "Warmth": 1,
-      "Chunk": 81
+      "trait": "competence",
+      "action": "Stands frozen, open-mouthed in shock when Greta's mutated face appears suddenly from the refrigerator.",
+      "assessment": "This reaction suggests a momentary paralysis and lack of immediate problem-solving or defensive response in a crisis situation.",
+      "rating": -1,
+      "chunk": 42
     },
     {
-      "Action": "Responds to Yvonne's compliment by sincerely acknowledging Dan's contribution.",
-      "Warmth": 1,
-      "Chunk": 81
+      "trait": "competence",
+      "action": "Leaps into action by grabbing Greta's hands and pulling with all her might to rescue her from the refrigerator.",
+      "assessment": "This shows quick physical response and determination to help, indicating a degree of capability and presence of mind under pressure.",
+      "rating": 2,
+      "chunk": 42
     },
     {
-      "Action": "Stares silently and blocked off from Amanda, but does not show visible anger or blame.",
-      "Warmth": 0,
-      "Chunk": 81
-    }
-  ],
-  "Alice Johnson ": [
+      "trait": "competence",
+      "action": "Calls out to her father for help when unable to pull Greta out herself.",
+      "assessment": "While seeking assistance is sensible, reliance on others in a critical moment may indicate limited confidence or ability to handle the situation independently.",
+      "rating": 0,
+      "chunk": 42
+    },
+    {
+      "trait": "competence",
+      "action": "Quickly yanks the fridge open again after Freddy slams it shut, despite fear and amazement.",
+      "assessment": "This action demonstrates courage, persistence, and a proactive approach to confronting the threat, reflecting competent behavior.",
+      "rating": 2,
+      "chunk": 42
+    },
+    {
+      "trait": "competence",
+      "action": "Closes the fridge door and rushes to the telephone to presumably call for help.",
+      "assessment": "This shows practical thinking and prioritization of seeking external aid, indicating situational awareness and problem-solving skills.",
+      "rating": 2,
+      "chunk": 42
+    },
+    {
+      "trait": "warmth",
+      "action": "Looks around, concerned, and asks Mr. Grey if Mark is around.",
+      "assessment": "Showing concern for others' whereabouts and well-being indicates attentiveness and care.",
+      "rating": 2,
+      "chunk": 44
+    },
+    {
+      "trait": "warmth",
+      "action": "Approaches Mark and tentatively asks if he is okay despite his hostile tone.",
+      "assessment": "Alice demonstrates empathy and patience by engaging Mark gently even when he is upset and unwelcoming.",
+      "rating": 3,
+      "chunk": 44
+    },
+    {
+      "trait": "warmth",
+      "action": "Steps closer to Mark, ignoring his rude tone, showing empathy.",
+      "assessment": "Her ability to look past Mark's hostility and maintain a caring attitude reflects sincerity and tolerance.",
+      "rating": 3,
+      "chunk": 44
+    },
+    {
+      "trait": "warmth",
+      "action": "Attempts to warn others about Krueger and insists on the seriousness of the threat.",
+      "assessment": "Her persistence in trying to protect others shows good-natured concern and trustworthiness, though it causes friction.",
+      "rating": 2,
+      "chunk": 44
+    },
+    {
+      "trait": "warmth",
+      "action": "Engages in a tense conversation with Yvonne and Mark, despite their dismissiveness.",
+      "assessment": "Alice's willingness to continue dialogue despite resistance shows patience and a sincere desire to help.",
+      "rating": 2,
+      "chunk": 44
+    },
+    {
+      "trait": "competence",
+      "action": "Alice approaches Mark and Yvonne to discuss the situation with Greta and Krueger, showing empathy and persistence despite Mark's hostile tone.",
+      "assessment": "This action demonstrates emotional intelligence and interpersonal skills, as Alice remains calm and empathetic in a tense situation, indicating competent social navigation.",
+      "rating": 2,
+      "chunk": 44
+    },
+    {
+      "trait": "competence",
+      "action": "Alice tries to warn others about Krueger and insists on the reality of the threat despite skepticism from Yvonne.",
+      "assessment": "This shows Alice's awareness and willingness to take initiative, reflecting a proactive and confident approach to a dangerous situation, which is a positive indicator of competence.",
+      "rating": 2,
+      "chunk": 44
+    },
+    {
+      "trait": "competence",
+      "action": "Alice expresses frustration and confusion about how Krueger could harm people while she was awake, indicating a gap in her understanding.",
+      "assessment": "While frustration is natural, this moment reveals some uncertainty or lack of complete knowledge about the threat, suggesting a slight limitation in her situational comprehension.",
+      "rating": -1,
+      "chunk": 44
+    },
+    {
+      "trait": "warmth",
+      "action": "Puts a comforting hand on Mark's shoulder and offers to stay with him for a while.",
+      "assessment": "Alice shows empathy and support by physically comforting Mark and offering her presence during a difficult moment, indicating kindness and sincerity.",
+      "rating": 3,
+      "chunk": 45
+    },
+    {
+      "trait": "competence",
+      "action": "Steps up to Mark and puts a comforting hand on his shoulder, offering to stay for a while.",
+      "assessment": "This action shows emotional intelligence and social competence, demonstrating Alice's ability to provide support and stability in a tense situation.",
+      "rating": 2,
+      "chunk": 45
+    },
+    {
+      "trait": "competence",
+      "action": "Expresses frustration and confusion about how Krueger is attacking while she is awake.",
+      "assessment": "While this shows awareness of the problem, it also reveals some uncertainty and lack of understanding about the situation, indicating a gap in her knowledge or control.",
+      "rating": 0,
+      "chunk": 45
+    },
+    {
+      "trait": "warmth",
+      "action": "Sits next to Mark, putting a comforting arm around his shoulder while he talks about his feelings.",
+      "assessment": "Offering physical comfort and emotional support shows Alice's caring and empathetic nature.",
+      "rating": 3,
+      "chunk": 46
+    },
+    {
+      "trait": "warmth",
+      "action": "Reassures Mark by saying 'Nobody thinks that' when he worries about being an idiot for being in love.",
+      "assessment": "Alice's reassurance demonstrates her kindness and desire to be supportive and nonjudgmental.",
+      "rating": 3,
+      "chunk": 46
+    },
+    {
+      "trait": "warmth",
+      "action": "Offers to make coffee and share information to help Mark understand the situation better.",
+      "assessment": "This shows Alice's willingness to help and engage in a friendly, cooperative manner.",
+      "rating": 2,
+      "chunk": 46
+    },
+    {
+      "trait": "warmth",
+      "action": "Looks for Mark when she notices he is not in the room and calls out for him.",
+      "assessment": "Her concern for Mark's whereabouts indicates attentiveness and care for others' well-being.",
+      "rating": 2,
+      "chunk": 46
+    },
+    {
+      "trait": "competence",
+      "action": "Comforts Mark by putting a comforting arm around his shoulder and speaks with certainty about their situation.",
+      "assessment": "This shows emotional intelligence and confidence, indicating that Alice is capable of providing support and reassurance in stressful situations.",
+      "rating": 2,
+      "chunk": 46
+    },
+    {
+      "trait": "competence",
+      "action": "Offers to make coffee and share information about Krueger, indicating readiness to engage and inform.",
+      "assessment": "This demonstrates initiative and willingness to take charge of the situation by preparing to explain important background, reflecting competence in communication and leadership.",
+      "rating": 2,
+      "chunk": 46
+    },
+    {
+      "trait": "competence",
+      "action": "Notices Mark is missing and actively searches for him.",
+      "assessment": "This shows attentiveness and responsibility, traits associated with competence in monitoring and caring for others.",
+      "rating": 2,
+      "chunk": 46
+    },
+    {
+      "trait": "competence",
+      "action": "Observes the moving sketch on the drawing table and immediately realizes the significance of the phenomenon.",
+      "assessment": "This indicates sharp perception and quick understanding of unusual or supernatural events, reflecting intellectual competence and alertness.",
+      "rating": 3,
+      "chunk": 46
+    },
+    {
+      "trait": "warmth",
+      "action": "Draws a stick figure of herself next to the Elm Street house and concentrates to enter the dream to help Mark.",
+      "assessment": "Alice's action shows her willingness to help and protect Mark, indicating care and concern for his safety, which reflects warmth.",
+      "rating": 3,
+      "chunk": 47
+    },
+    {
+      "trait": "warmth",
+      "action": "Rushes inside the Elm Street house and tries to reach Mark who is slipping into a dangerous hole.",
+      "assessment": "Alice's immediate response to rush to Mark's aid and attempt to save him demonstrates her trustworthiness, sincerity, and protective nature, all positive indicators of warmth.",
+      "rating": 3,
+      "chunk": 47
+    },
+    {
+      "trait": "competence",
+      "action": "Quickly picks up one of Mark's colored felt tip pens and draws a stick figure of herself next to the Elm Street house, then closes her eyes and concentrates to enter the dream.",
+      "assessment": "This action shows resourcefulness and quick thinking, using available tools to initiate a complex and risky process of entering the dream world, indicating a high level of competence.",
+      "rating": 2,
+      "chunk": 47
+    },
+    {
+      "trait": "competence",
+      "action": "Rushes inside the Elm Street house in the dream and immediately assesses the danger of the huge, gaping hole in the floor where Mark is clinging to the edge.",
+      "assessment": "Alice demonstrates situational awareness and urgency, quickly recognizing the threat and focusing on Mark's precarious position, which reflects competent crisis response.",
+      "rating": 2,
+      "chunk": 47
+    },
+    {
+      "trait": "competence",
+      "action": "Kneels and stretches her hand toward Mark, trying to reach him as he slips further into the hole.",
+      "assessment": "Alice shows determination and presence of mind in a dangerous situation, attempting a direct rescue despite the risk, which suggests confidence and capability.",
+      "rating": 2,
+      "chunk": 47
+    },
+    {
+      "trait": "warmth",
+      "action": "Alice reaches out and firmly grips Mark's hand, then pulls him out of danger despite the canal trying to suck him back in.",
+      "assessment": "Alice's determination to save Mark from harm demonstrates her protective and caring nature, indicating warmth through her selfless action.",
+      "rating": 3,
+      "chunk": 48
+    },
+    {
+      "trait": "warmth",
+      "action": "Alice urges Mark to leave quickly after rescuing him, showing concern for his safety.",
+      "assessment": "Her promptness and concern for Mark's wellbeing reflect a sincere and trustworthy attitude.",
+      "rating": 2,
+      "chunk": 48
+    },
+    {
+      "trait": "warmth",
+      "action": "Alice notices Jacob standing forlornly and approaches him with a mixture of compassion and wariness.",
+      "assessment": "Her compassion toward a sickly, sad child, despite some caution, shows a good-natured and tolerant disposition.",
+      "rating": 2,
+      "chunk": 48
+    },
+    {
+      "trait": "warmth",
+      "action": "Alice speaks to Jacob in a tentative, motherly tone, expressing concern about his health.",
+      "assessment": "This tentative but caring approach highlights her sincerity and friendliness, reinforcing her warmth.",
+      "rating": 3,
+      "chunk": 48
+    },
+    {
+      "trait": "competence",
+      "action": "Firmly grips Mark's hand and pulls him out of the closing fetal canal despite the danger and difficulty.",
+      "assessment": "This action demonstrates physical strength, quick reflexes, and determination under pressure, indicating a high level of competence in a crisis.",
+      "rating": 3,
+      "chunk": 48
+    },
+    {
+      "trait": "competence",
+      "action": "Immediately urges Mark to leave after rescuing him, showing quick situational awareness and prioritization of safety.",
+      "assessment": "This shows decisiveness and the ability to focus on the next necessary step after a successful rescue, reflecting competent leadership.",
+      "rating": 2,
+      "chunk": 48
+    },
+    {
+      "trait": "competence",
+      "action": "Freezes and stares at Jacob with a mixture of compassion and wariness, then cautiously approaches while maintaining distance.",
+      "assessment": "Her cautious yet compassionate approach indicates emotional intelligence and prudent judgment, balancing empathy with self-protection, which is a competent social behavior.",
+      "rating": 2,
+      "chunk": 48
+    },
+    {
+      "trait": "competence",
+      "action": "Takes on a tone of instinctive motherly concern when speaking to the sickly Jacob.",
+      "assessment": "This shows emotional sensitivity and the ability to adapt communication style appropriately, suggesting competent interpersonal skills.",
+      "rating": 1,
+      "chunk": 48
+    },
+    {
+      "trait": "warmth",
+      "action": "Approaches Jacob with instinctive motherly concern, asking if he is feeling all right and expressing a desire to find his mother.",
+      "assessment": "Alice shows genuine concern for Jacob's well-being and tries to comfort him, indicating a caring and nurturing attitude.",
+      "rating": 3,
+      "chunk": 49
+    },
+    {
+      "trait": "warmth",
+      "action": "Reassures Jacob that his mother is probably worried about him and that she would be worried too.",
+      "assessment": "This demonstrates empathy and an attempt to provide emotional support, reflecting warmth and sincerity.",
+      "rating": 3,
+      "chunk": 49
+    },
+    {
+      "trait": "warmth",
+      "action": "Responds with confusion and surprise when Jacob accuses her of not caring about being a mom or about him.",
+      "assessment": "Her confusion suggests she is not indifferent or cold, but rather affected by the accusation, showing emotional engagement.",
+      "rating": 2,
+      "chunk": 49
+    },
+    {
+      "trait": "warmth",
+      "action": "Takes a step closer to Jacob and says 'Who says I don't like you?'",
+      "assessment": "This physical and verbal approach indicates openness and a desire to connect, reinforcing her warmth.",
+      "rating": 3,
+      "chunk": 49
+    },
+    {
+      "trait": "warmth",
+      "action": "Attempts to lead Jacob away from a dangerous place, saying 'Come on, honey. We're getting out of here.'",
+      "assessment": "Her protective behavior and use of an affectionate term show kindness and a nurturing instinct.",
+      "rating": 3,
+      "chunk": 49
+    },
+    {
+      "trait": "warmth",
+      "action": "Runs after Jacob when he pulls away and goes into the shadows, calling out to him.",
+      "assessment": "Her immediate reaction to pursue him despite danger reflects sincere concern and caring.",
+      "rating": 3,
+      "chunk": 49
+    },
+    {
+      "trait": "competence",
+      "action": "Approaches Jacob with tentative motherly concern and tries to engage him gently by asking if he is feeling all right.",
+      "assessment": "This shows emotional intelligence and a caring attitude, indicating social competence and sensitivity.",
+      "rating": 2,
+      "chunk": 49
+    },
+    {
+      "trait": "competence",
+      "action": "Attempts to reassure Jacob by suggesting they find his mother and expressing that his mother must be worried about him.",
+      "assessment": "This demonstrates problem-solving skills and an attempt to comfort a distressed child, reflecting thoughtful and capable behavior.",
+      "rating": 2,
+      "chunk": 49
+    },
+    {
+      "trait": "competence",
+      "action": "Reaches out to lead Jacob away from a dangerous place despite his resistance.",
+      "assessment": "Shows initiative and protective instincts, indicating decisiveness and confidence in handling a difficult situation.",
+      "rating": 2,
+      "chunk": 49
+    },
+    {
+      "trait": "competence",
+      "action": "Runs after Jacob when he is drawn into the shadows by a threatening presence.",
+      "assessment": "This action reflects courage and determination, but also a possible impulsiveness or lack of caution in a dangerous environment.",
+      "rating": 1,
+      "chunk": 49
+    },
+    {
+      "trait": "competence",
+      "action": "Appears confused and stunned when Jacob accuses her of not caring about being a mom.",
+      "assessment": "This moment of confusion suggests a lapse in emotional preparedness or self-awareness, slightly undermining her confidence and control in the interaction.",
+      "rating": -1,
+      "chunk": 49
+    },
+    {
+      "trait": "warmth",
+      "action": "Alice is more concerned than ever about her baby Jacob and expresses fear that Krueger is trying to hurt him.",
+      "assessment": "Her concern for her unborn child shows a deep caring and protective nature, which is a positive indicator of warmth.",
+      "rating": 3,
+      "chunk": 50
+    },
+    {
+      "trait": "warmth",
+      "action": "Alice bolts for the stairs to get away from Krueger and protect her baby, showing urgency and fear.",
+      "assessment": "Her instinct to protect her baby is sincere and good-natured, reflecting warmth through maternal protectiveness.",
+      "rating": 2,
+      "chunk": 50
+    },
+    {
+      "trait": "warmth",
+      "action": "Alice is on the verge of tears and visibly distressed, but allows Mark to comfort her and steady her emotionally.",
+      "assessment": "Her openness to receiving comfort and emotional support indicates trust and sincerity in her relationships.",
+      "rating": 2,
+      "chunk": 50
+    },
+    {
+      "trait": "warmth",
+      "action": "Alice calls Yvonne to have the doctor check on her baby, showing she trusts and relies on others for help.",
+      "assessment": "Seeking help and involving others in her concern demonstrates trustworthiness and a friendly, cooperative attitude.",
+      "rating": 2,
+      "chunk": 50
+    },
+    {
+      "trait": "warmth",
+      "action": "Alice hurries down the hospital corridor with Yvonne, who looks concerned and tries to keep up with her.",
+      "assessment": "Her willingness to engage with Yvonne and share her fears shows openness and sincerity, positive warmth indicators.",
+      "rating": 2,
+      "chunk": 50
+    },
+    {
+      "trait": "competence",
+      "action": "Recognizes that Freddy Krueger is trying to harm her unborn baby and immediately decides to take action by seeking help and trying to protect the baby.",
+      "assessment": "This shows Alice's awareness, quick thinking, and protective instincts, indicating a competent and proactive mindset in a crisis.",
+      "rating": 2,
+      "chunk": 50
+    },
+    {
+      "trait": "competence",
+      "action": "Freezes and hesitates when Mark questions her about naming the baby, showing a moment of emotional vulnerability.",
+      "assessment": "This moment of hesitation reveals some emotional overwhelm and uncertainty, which slightly detracts from her overall decisiveness.",
+      "rating": -1,
+      "chunk": 50
+    },
+    {
+      "trait": "competence",
+      "action": "Attempts to flee the loft to get away from Freddy Krueger but is restrained by Mark and admits she doesn't know how to hide from him.",
+      "assessment": "While her instinct to escape is understandable, her admission of not knowing how to effectively evade Krueger suggests a lack of strategic planning or confidence in handling the threat.",
+      "rating": -1,
+      "chunk": 50
+    },
+    {
+      "trait": "competence",
+      "action": "After calming down, she follows Mark's advice to call a doctor to check on the baby, showing willingness to seek practical help.",
+      "assessment": "This demonstrates her ability to regain composure and take rational steps to address the problem, reflecting competence in managing the situation.",
+      "rating": 2,
+      "chunk": 50
+    },
+    {
+      "trait": "competence",
+      "action": "Hurries through the hospital corridor with Yvonne to get medical help for her baby.",
+      "assessment": "Her urgency combined with seeking expert assistance indicates a capable and determined approach to protecting her child.",
+      "rating": 2,
+      "chunk": 50
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses concern about her unborn baby's well-being and insists on finding out everything possible to protect it.",
+      "assessment": "Alice's concern for her baby shows a caring and protective nature, reflecting warmth through her sincere worry and dedication.",
+      "rating": 3,
+      "chunk": 51
+    },
+    {
+      "trait": "warmth",
+      "action": "Responds to Yvonne's worry and frustration by continuing to seek answers calmly and persistently.",
+      "assessment": "Despite others' frustration, Alice remains focused and sincere, showing tolerance and steadiness rather than reacting negatively.",
+      "rating": 2,
+      "chunk": 51
+    },
+    {
+      "trait": "warmth",
+      "action": "Challenges Yvonne's skepticism by asking thoughtful questions about unborn babies dreaming.",
+      "assessment": "Her curiosity and openness to discuss sensitive topics indicate a friendly and sincere disposition, though it also risks causing discomfort.",
+      "rating": 1,
+      "chunk": 51
+    },
+    {
+      "trait": "warmth",
+      "action": "Insists on undergoing an ultrasound despite Dr. Moore's irritation and dismissal.",
+      "assessment": "Alice's insistence demonstrates trustworthiness and a protective attitude, but also a potential stubbornness that may strain relationships.",
+      "rating": 1,
+      "chunk": 51
+    },
+    {
+      "trait": "competence",
+      "action": "Insists on investigating the baby's condition despite others' doubts and discouragement.",
+      "assessment": "This shows determination and a proactive attitude, indicating a level of confidence and willingness to take initiative regarding her concerns.",
+      "rating": 2,
+      "chunk": 51
+    },
+    {
+      "trait": "competence",
+      "action": "Asks insightful questions about unborn babies dreaming and the possibility of sensing it.",
+      "assessment": "This reflects curiosity and critical thinking, suggesting she is trying to understand complex phenomena related to her situation.",
+      "rating": 2,
+      "chunk": 51
+    },
+    {
+      "trait": "competence",
+      "action": "Persists in seeking medical examination despite Dr. Moore's irritation and dismissal.",
+      "assessment": "Her persistence in the face of professional skepticism demonstrates assertiveness and a protective instinct, which are positive competence indicators.",
+      "rating": 2,
+      "chunk": 51
+    },
+    {
+      "trait": "competence",
+      "action": "Appears unable to convince Yvonne and Dr. Moore fully, and her concerns are met with frustration and dismissal.",
+      "assessment": "While this may partly reflect others' attitudes, it also suggests that Alice may lack the social or communicative skills to effectively advocate for herself in this context.",
+      "rating": -1,
+      "chunk": 51
+    },
+    {
+      "trait": "warmth",
+      "action": "Watches the baby's heartbeat monitor with fascination and approaches her unborn baby with enchantment.",
+      "assessment": "Alice's fascination and enchantment toward her unborn child indicate a sincere, caring, and nurturing attitude, reflecting warmth.",
+      "rating": 3,
+      "chunk": 52
+    },
+    {
+      "trait": "warmth",
+      "action": "Reacts with fear and horror upon seeing Freddy Krueger threatening her unborn baby.",
+      "assessment": "Her protective fear and horror demonstrate a deep emotional connection and concern for her child’s wellbeing, which is a warm and caring response.",
+      "rating": 3,
+      "chunk": 52
+    },
+    {
+      "trait": "competence",
+      "action": "Watches the screen fascinated and notices the picture beginning to shift and distort with electronic spasms.",
+      "assessment": "This shows Alice's attentiveness and curiosity, indicating an engaged and observant mindset, which is a positive indicator of competence.",
+      "rating": 2,
+      "chunk": 52
+    },
+    {
+      "trait": "competence",
+      "action": "Turns apprehensively to Yvonne and Dr. Moore, who are oblivious to the strange phenomena occurring.",
+      "assessment": "Alice's awareness of the abnormal situation when others are unaware suggests perceptiveness and situational awareness, reflecting competence.",
+      "rating": 2,
+      "chunk": 52
+    },
+    {
+      "trait": "competence",
+      "action": "Is sucked through a surreal opening into a representation of her own body and approaches her unborn baby, showing fascination and enchantment.",
+      "assessment": "While this action is largely involuntary and symbolic, Alice's calmness and focus in a bizarre and frightening situation suggest mental resilience and composure, which are aspects of competence.",
+      "rating": 1,
+      "chunk": 52
+    },
+    {
+      "trait": "competence",
+      "action": "Reacts in fear upon seeing Freddy Krueger's face protruding from the uterine wall and the umbilical cord bulging as something forces its way toward her baby.",
+      "assessment": "Fear is a natural human response to danger; however, the text does not show Alice taking immediate action to counter the threat, which may indicate a momentary lapse in proactive problem-solving or control.",
+      "rating": -1,
+      "chunk": 52
+    },
+    {
+      "trait": "warmth",
+      "action": "Screams at Freddy, 'Don't touch him!' to protect her unborn child.",
+      "assessment": "Alice's protective outburst shows her deep care and sincere concern for the well-being of her baby, reflecting a strong nurturing warmth.",
+      "rating": 3,
+      "chunk": 53
+    },
+    {
+      "trait": "warmth",
+      "action": "Shares her knowledge about Freddy taking souls to make the baby like him, despite others doubting her.",
+      "assessment": "By voicing her fears and trying to warn others, Alice demonstrates sincerity and trustworthiness, even when her concerns are dismissed, indicating genuine warmth.",
+      "rating": 2,
+      "chunk": 53
+    },
+    {
+      "trait": "warmth",
+      "action": "Appears panicked and terrified but still tries to communicate her fears to Yvonne and Dr. Moore.",
+      "assessment": "Despite her fear, Alice attempts to connect and seek help, showing openness and a desire for support, which are aspects of warmth.",
+      "rating": 2,
+      "chunk": 53
+    },
+    {
+      "trait": "warmth",
+      "action": "Yvonne guides Alice away gently, calling her 'sweety' and offering comfort.",
+      "assessment": "While this action is by Yvonne, Alice's acceptance of comfort and willingness to be guided suggests she is receptive to kindness and friendly support, indirectly reflecting warmth.",
+      "rating": 1,
+      "chunk": 53
+    },
+    {
+      "trait": "competence",
+      "action": "Screams at Freddy, 'Don't touch him!' when she sees the fetus being attacked.",
+      "assessment": "This shows Alice's protective instincts and quick emotional response to a dire situation, indicating awareness and assertiveness in a crisis.",
+      "rating": 1,
+      "chunk": 53
+    },
+    {
+      "trait": "competence",
+      "action": "Recognizes and verbalizes that Freddy is taking the souls of Dan and Greta to make the baby like him, despite Dr. Moore's reassurances.",
+      "assessment": "This demonstrates Alice's insight and understanding beyond what the medical professional perceives, showing perceptiveness and critical thinking.",
+      "rating": 2,
+      "chunk": 53
+    },
+    {
+      "trait": "competence",
+      "action": "Appears panicked and terrified upon waking in Dr. Moore's office.",
+      "assessment": "While fear is a natural response, the panic suggests a momentary loss of composure, which slightly detracts from her overall competence.",
+      "rating": -1,
+      "chunk": 53
+    },
+    {
+      "trait": "competence",
+      "action": "Allows Yvonne to guide her out of the office after her outburst.",
+      "assessment": "This could indicate a moment of vulnerability or lack of control over the situation, showing some dependence on others rather than self-reliance.",
+      "rating": -1,
+      "chunk": 53
+    },
+    {
+      "trait": "warmth",
+      "action": "Calmly asks Yvonne to believe her about Krueger despite sounding insane.",
+      "assessment": "Alice shows trust in her friend by appealing to their friendship and asking for belief, indicating sincerity and a desire for connection.",
+      "rating": 2,
+      "chunk": 54
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses frustration and anger when Yvonne suggests she leave town to escape Krueger.",
+      "assessment": "While her anger may seem harsh, it stems from a protective instinct and determination to face danger rather than abandon others, reflecting loyalty and responsibility.",
+      "rating": 1,
+      "chunk": 54
+    },
+    {
+      "trait": "warmth",
+      "action": "Hands a cup of coffee to Yvonne upon entering the room.",
+      "assessment": "Offering coffee is a small but friendly and considerate gesture, showing thoughtfulness and care.",
+      "rating": 2,
+      "chunk": 54
+    },
+    {
+      "trait": "warmth",
+      "action": "Insists that Krueger is reality and that she must act to protect her baby.",
+      "assessment": "Her insistence reveals a protective and sincere nature, prioritizing the safety of others, which is a warm and responsible trait.",
+      "rating": 2,
+      "chunk": 54
+    },
+    {
+      "trait": "warmth",
+      "action": "Does not respond to Yvonne's concern about her mental state with hostility but calmly acknowledges it.",
+      "assessment": "This shows self-awareness and openness, which can foster trust and sincerity in relationships.",
+      "rating": 2,
+      "chunk": 54
+    },
+    {
+      "trait": "competence",
+      "action": "Calmly acknowledges that she sounds insane but insists on the truth of her claims about Krueger.",
+      "assessment": "This shows self-awareness and emotional control under stress, indicating a level of mental resilience and confidence in her convictions.",
+      "rating": 2,
+      "chunk": 54
+    },
+    {
+      "trait": "competence",
+      "action": "Insists on taking responsibility to act against Krueger to protect her baby despite others doubting her.",
+      "assessment": "Demonstrates determination, a proactive attitude, and a sense of responsibility, all positive indicators of competence.",
+      "rating": 3,
+      "chunk": 54
+    },
+    {
+      "trait": "competence",
+      "action": "Rejects the suggestion to leave town and avoid the problem.",
+      "assessment": "Shows courage and commitment to confronting the threat rather than avoiding it, reflecting confidence and decisiveness.",
+      "rating": 2,
+      "chunk": 54
+    },
+    {
+      "trait": "competence",
+      "action": "Speaks in a frantic rush and appears to be scaring her friend Yvonne.",
+      "assessment": "While her urgency is understandable, the frantic delivery may undermine her ability to communicate effectively and be taken seriously, slightly detracting from perceived competence.",
+      "rating": -1,
+      "chunk": 54
+    },
+    {
+      "trait": "warmth",
+      "action": "Calmly tries to reason with Yvonne about the danger they face and insists on the seriousness of the situation.",
+      "assessment": "Alice demonstrates concern for others' safety and attempts to communicate the gravity of the threat, showing responsibility and care.",
+      "rating": 2,
+      "chunk": 55
+    },
+    {
+      "trait": "warmth",
+      "action": "Nods and helps Mark pick up the scattered clippings after Yvonne storms out.",
+      "assessment": "Alice's willingness to help clean up and continue working despite tension shows patience and cooperative spirit.",
+      "rating": 2,
+      "chunk": 55
+    },
+    {
+      "trait": "warmth",
+      "action": "Considers Mark's suggestion to not have the baby to stop Freddy but ultimately decides to keep the baby because it is her last link to Dan.",
+      "assessment": "Alice's decision reflects sincerity and emotional depth, valuing meaningful relationships over convenience, indicating warmth and loyalty.",
+      "rating": 3,
+      "chunk": 55
+    },
+    {
+      "trait": "warmth",
+      "action": "Does not escalate the conflict when Yvonne shouts and storms out, instead remains composed.",
+      "assessment": "Her restraint in a tense moment suggests tolerance and emotional control, positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 55
+    },
+    {
+      "trait": "competence",
+      "action": "Calmly asserts to Yvonne that running away from Freddy is not an option because he finds you in your dreams.",
+      "assessment": "This shows Alice's clear understanding of the threat and her ability to communicate it confidently, indicating situational awareness and mental preparedness.",
+      "rating": 2,
+      "chunk": 55
+    },
+    {
+      "trait": "competence",
+      "action": "After Yvonne storms out, Alice calmly nods and helps Mark pick up the scattered clippings.",
+      "assessment": "Her composed reaction to conflict and willingness to continue working despite tension suggests emotional resilience and focus.",
+      "rating": 2,
+      "chunk": 55
+    },
+    {
+      "trait": "competence",
+      "action": "States that she discovered how Freddy is using Jacob's dreams to attack while awake and insists they must stop him.",
+      "assessment": "This indicates investigative skill and insight into the enemy's methods, reflecting intelligence and proactive problem-solving.",
+      "rating": 3,
+      "chunk": 55
+    },
+    {
+      "trait": "competence",
+      "action": "Considers Mark's suggestion to not have the baby to prevent Freddy's access to dreams but firmly decides against it, valuing the baby as her last link to Dan.",
+      "assessment": "While this shows emotional strength and conviction, it also reveals a potential blind spot where personal feelings might override strategic decisions, which could be a liability.",
+      "rating": 0,
+      "chunk": 55
+    },
+    {
+      "trait": "competence",
+      "action": "Picks up a photo of Amanda Krueger and recognizes her, indicating prior knowledge or insight.",
+      "assessment": "This suggests Alice has a deeper understanding of Freddy's background, which could be useful in combating him, demonstrating intelligence and attention to detail.",
+      "rating": 2,
+      "chunk": 55
+    },
+    {
+      "trait": "warmth",
+      "action": "Politely greets Mrs. Jordan and her husband despite the tension in the room.",
+      "assessment": "Alice maintains a courteous and respectful demeanor even when faced with an uncomfortable situation, indicating a baseline of friendliness and sincerity.",
+      "rating": 1,
+      "chunk": 56
+    },
+    {
+      "trait": "warmth",
+      "action": "Firmly declines the Jordans' offer to adopt and raise her child, stating 'He is my responsibility.'",
+      "assessment": "Alice's insistence on taking responsibility for her child shows a strong sense of personal integrity and commitment, which can be seen as a sincere and trustworthy stance, though it also suggests a boundary that may limit collaboration or acceptance of help.",
+      "rating": 2,
+      "chunk": 56
+    },
+    {
+      "trait": "warmth",
+      "action": "Hesitates and appears unsure during the conversation with the Jordans.",
+      "assessment": "Her hesitation may reflect internal conflict or discomfort, which could indicate vulnerability and openness, but also a possible difficulty in openly communicating or accepting others' concerns.",
+      "rating": 0,
+      "chunk": 56
+    },
+    {
+      "trait": "warmth",
+      "action": "Does not engage in any hostile or dismissive behavior toward the Jordans despite their somewhat intrusive and emotionally charged approach.",
+      "assessment": "By refraining from negative reactions, Alice demonstrates tolerance and restraint, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 56
+    },
+    {
+      "trait": "competence",
+      "action": "Alice firmly states that she plans to keep the baby despite pressure from Dan's parents to give the child up for adoption.",
+      "assessment": "This action demonstrates Alice's decisiveness, confidence, and willingness to take responsibility for her situation, indicating a strong sense of personal agency and competence.",
+      "rating": 2,
+      "chunk": 56
+    },
+    {
+      "trait": "competence",
+      "action": "Alice hesitates when asked to sit down and talk with Dan's parents, showing some uncertainty or discomfort.",
+      "assessment": "This hesitation suggests a momentary lack of emotional readiness or assertiveness in handling an uncomfortable social situation, slightly detracting from her overall competence.",
+      "rating": -1,
+      "chunk": 56
+    },
+    {
+      "trait": "competence",
+      "action": "Alice listens to the Jordans' offer and calmly rejects it, emphasizing that the child is her responsibility.",
+      "assessment": "Her calm and clear refusal in a tense conversation reflects emotional strength and clarity of purpose, reinforcing her competent handling of difficult interpersonal dynamics.",
+      "rating": 2,
+      "chunk": 56
+    },
+    {
+      "trait": "competence",
+      "action": "Responds assertively to concerns about her mental state, challenging Mrs. Jordan's claim that she is hysterical and having paranoid delusions.",
+      "assessment": "This shows Alice's ability to stand up for herself and question others' judgments, indicating mental resilience and confidence in her own perception.",
+      "rating": 2,
+      "chunk": 57
+    },
+    {
+      "trait": "competence",
+      "action": "Expresses strong emotional resistance to the idea of losing her baby, stating 'You're not taking my baby!'",
+      "assessment": "This demonstrates emotional strength and determination, which are important aspects of competence in a crisis, though it is more emotional than strategic.",
+      "rating": 1,
+      "chunk": 57
+    },
+    {
+      "trait": "competence",
+      "action": "Does not back down despite being confronted by both Mrs. Jordan and her father, maintaining her position.",
+      "assessment": "Her refusal to be intimidated suggests confidence and assertiveness, positive indicators of competence.",
+      "rating": 2,
+      "chunk": 57
+    },
+    {
+      "trait": "competence",
+      "action": "No indication of strategic planning or problem-solving in this excerpt; her responses are primarily emotional and reactive.",
+      "assessment": "While emotionally strong, Alice does not demonstrate clear strategic thinking or skillful handling of the situation here, which limits the assessment of her competence.",
+      "rating": 0,
+      "chunk": 57
+    },
+    {
+      "trait": "warmth",
+      "action": "Says 'No, it's our problem, Mark. If I don't deal with this, they really might try to take Jacob.'",
+      "assessment": "Alice shows a protective and responsible attitude toward Jacob, indicating care and concern for others.",
+      "rating": 2,
+      "chunk": 60
+    },
+    {
+      "trait": "warmth",
+      "action": "Says 'Poor woman...' upon seeing the obituary.",
+      "assessment": "Alice expresses sympathy and compassion for the deceased nun, showing empathy and kindness.",
+      "rating": 2,
+      "chunk": 60
+    },
+    {
+      "trait": "warmth",
+      "action": "Looks at Mark and says 'I don't understand.' after hearing about the nun's suicide and torment.",
+      "assessment": "Alice demonstrates openness and a sincere desire to understand difficult or troubling information, reflecting trust and engagement.",
+      "rating": 1,
+      "chunk": 60
+    },
+    {
+      "trait": "competence",
+      "action": "Insists on taking responsibility for the problem involving Jacob, saying 'No, it's our problem, Mark. If I don't deal with this, they really might try to take Jacob.'",
+      "assessment": "This shows Alice's willingness to take initiative and face difficult situations head-on, indicating a proactive and responsible attitude.",
+      "rating": 2,
+      "chunk": 60
+    },
+    {
+      "trait": "competence",
+      "action": "Questions Mark about the details of the nun's supposed suicide and the empty grave, showing skepticism and desire for clarity.",
+      "assessment": "Her questioning demonstrates critical thinking and a refusal to accept information at face value, which are signs of intellectual competence.",
+      "rating": 2,
+      "chunk": 60
+    },
+    {
+      "trait": "competence",
+      "action": "Expresses confusion and admits 'I don't understand' when Mark explains the soul's torment and transmigration.",
+      "assessment": "While admitting confusion might seem like a weakness, it actually reflects self-awareness and honesty about her knowledge limits, which is a mature and competent trait.",
+      "rating": 1,
+      "chunk": 60
+    },
+    {
+      "trait": "competence",
+      "action": "Looks at the photo and the article carefully, absorbing the information before responding.",
+      "assessment": "This careful attention to detail suggests a methodical and thoughtful approach, supporting her competence.",
+      "rating": 2,
+      "chunk": 60
+    },
+    {
+      "trait": "warmth",
+      "action": "Tells Mark, 'I want you to stay awake and watch me. Okay?'",
+      "assessment": "Alice's request for Mark to stay awake and watch her shows trust and a desire for support, indicating a friendly and sincere connection.",
+      "rating": 2,
+      "chunk": 61
+    },
+    {
+      "trait": "warmth",
+      "action": "Ponders Amanda's photo and the asylum tower, showing concern and determination to help.",
+      "assessment": "Her thoughtful reflection on Amanda's situation and determination to find a solution suggests empathy and a caring nature.",
+      "rating": 2,
+      "chunk": 61
+    },
+    {
+      "trait": "warmth",
+      "action": "Moves through the asylum corridor calling out for Amanda.",
+      "assessment": "Actively searching for Amanda demonstrates Alice's concern and willingness to help others in distress, reflecting warmth and trustworthiness.",
+      "rating": 3,
+      "chunk": 61
+    },
+    {
+      "trait": "competence",
+      "action": "Thinks out loud about the dream and pieces together that 'He must have done it' after the door slammed.",
+      "assessment": "This shows Alice's analytical thinking and ability to connect clues logically, indicating a thoughtful and intelligent approach to the problem.",
+      "rating": 2,
+      "chunk": 61
+    },
+    {
+      "trait": "competence",
+      "action": "Decides to take action by telling Mark to stay awake and watch her, stating 'I'm going to find out how to deal with this guy for once and for all.'",
+      "assessment": "This demonstrates confidence, decisiveness, and a proactive attitude toward confronting the threat, reflecting a competent and determined mindset.",
+      "rating": 3,
+      "chunk": 61
+    },
+    {
+      "trait": "competence",
+      "action": "Ponders the asylum tower and concludes 'There's no other way.'",
+      "assessment": "Her ability to focus on a critical detail and accept a difficult conclusion suggests clear, focused reasoning and acceptance of necessary challenges, a sign of competence.",
+      "rating": 2,
+      "chunk": 61
+    },
+    {
+      "trait": "competence",
+      "action": "Moves through the dream corridor searching for Amanda after waking up in the dream.",
+      "assessment": "Her immediate action to pursue a goal within a confusing and threatening dream environment shows initiative and mental resilience, indicating competence in navigating complex situations.",
+      "rating": 2,
+      "chunk": 61
+    },
+    {
+      "trait": "warmth",
+      "action": "Calls out for Amanda, expressing a desire to talk to her.",
+      "assessment": "Calling out for Amanda shows Alice's concern and willingness to connect, indicating a friendly and sincere nature.",
+      "rating": 2,
+      "chunk": 62
+    },
+    {
+      "trait": "warmth",
+      "action": "Presses her head and hands against the bricked-up doorway, murmuring 'Found you!'",
+      "assessment": "This action suggests a tender, hopeful, and caring attitude, reflecting emotional warmth and a deep desire to reach out.",
+      "rating": 3,
+      "chunk": 62
+    },
+    {
+      "trait": "warmth",
+      "action": "Hurries up the staircase despite the ominous setting.",
+      "assessment": "Her determination to pursue Amanda despite danger shows loyalty and concern, traits associated with warmth.",
+      "rating": 2,
+      "chunk": 62
+    },
+    {
+      "trait": "competence",
+      "action": "Alice moves purposefully down the corridor searching for Amanda, then hurries toward the staircase upon hearing Amanda's name.",
+      "assessment": "This shows Alice's determination and focus in pursuing her goal, indicating a level of situational awareness and motivation.",
+      "rating": 2,
+      "chunk": 62
+    },
+    {
+      "trait": "competence",
+      "action": "Alice climbs the stairs to the bricked-up doorway and presses her head and hands against the wall, murmuring 'Found you!'",
+      "assessment": "This demonstrates resourcefulness and persistence, as she attempts to connect with Amanda despite the obstacle, showing mental resilience and problem-solving.",
+      "rating": 2,
+      "chunk": 62
+    },
+    {
+      "trait": "competence",
+      "action": "Alice is caught off guard by Freddy's voice and starts rolling across the wall as the environment shifts, leading to her crashing into a metal door and landing in the nightmare jacuzzi room.",
+      "assessment": "While Alice shows some adaptability by continuing to move in the altered environment, being surprised and physically thrown into a trap suggests a momentary lapse in vigilance or underestimation of Freddy's manipulation.",
+      "rating": -1,
+      "chunk": 62
+    },
+    {
+      "trait": "warmth",
+      "action": "Lays her head on the bricked-up doorway wall and murmurs 'Found you!'",
+      "assessment": "This action shows a tender, hopeful, and sincere attempt to connect or find someone, indicating warmth and emotional openness.",
+      "rating": 2,
+      "chunk": 63
+    },
     {
-      "Action": "Tries repeatedly to escape the rising water in the shower, banging on the glass in desperation.",
-      "Warmth": 0,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Steels herself and quickly regains composure after being startled by Freddy's attack on Yvonne.",
+      "assessment": "Her protective and determined response to Freddy's harm toward Yvonne suggests loyalty and concern for others, reflecting warmth.",
+      "rating": 2,
+      "chunk": 63
     },
     {
-      "Action": "Steps cautiously through a series of dark doors in an asylum, showing curiosity and bravery but no interpersonal interaction.",
-      "Warmth": 0,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Attempts to grab a hanging chain to save herself but fails and drops into the water.",
+      "assessment": "Her effort to save herself shows self-preservation but also a willingness to struggle through adversity, though it does not directly indicate warmth toward others.",
+      "rating": 0,
+      "chunk": 63
     },
     {
-      "Action": "Looks down at herself and notices her changed clothing and name tag quickly, attempts to intervene by warning to stop the door closing.",
-      "Competence": 1,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Climbs the stairs to the bricked up doorway and lays her head on the wall, pressing her hands to it, murmuring 'Found you!'",
+      "assessment": "This shows resourcefulness and determination, as she actively searches for a way forward despite obstacles, indicating problem-solving skills and focus.",
+      "rating": 2,
+      "chunk": 63
     },
     {
-      "Action": "Fails to stop the iron door from slamming shut despite her urgent warning.",
-      "Competence": -1,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Is swept off her feet and starts rolling across the wall as the set tilts, but she continues to roll into a rusting metal door and into the bloody jacuzzi room.",
+      "assessment": "Although caught off guard by the environment's manipulation, she adapts to the disorienting situation and continues moving forward, showing resilience and adaptability.",
+      "rating": 1,
+      "chunk": 63
     },
     {
-      "Action": "Turns and faces a terrifying, overwhelming threat despite fear, tries to find an escape.",
-      "Warmth": 1,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "Grabs a hanging chain in the jacuzzi room but can't hang on and drops into the murky water.",
+      "assessment": "This indicates a momentary lapse in physical control or strength, suggesting some vulnerability or lack of physical competence in this instance.",
+      "rating": -1,
+      "chunk": 63
     },
     {
-      "Action": "Screams in terror when surrounded and attacked by maniacs.",
-      "Warmth": 0,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "After dropping into the murky water, she slowly turns with utter distaste but quickly regains her composure and confidently states, 'I know exactly what you're up to, Krueger!'",
+      "assessment": "Her quick recovery and confident verbal confrontation demonstrate mental toughness, situational awareness, and emotional control, all positive indicators of competence.",
+      "rating": 2,
+      "chunk": 63
     },
     {
-      "Action": "Wanders into a dangerous situation without noticing the door disappearing, then becomes trapped by maniacs and shows terror rather than attempting an escape or defense.",
-      "Competence": -1,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "Is taken by surprise when Freddy yanks Yvonne up by the hair.",
+      "assessment": "Being caught off guard by Freddy's sudden action suggests a momentary lapse in vigilance or anticipation, slightly detracting from her overall competence.",
+      "rating": -1,
+      "chunk": 63
     },
     {
-      "Action": "Realizes she is in a nightmare and wakes up screaming, showing awareness of her situation once awake.",
-      "Competence": 0,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "Commands Freddy to let Yvonne go and actively intervenes to protect her friend by attacking Freddy and helping Yvonne escape.",
+      "assessment": "Alice demonstrates protective and courageous behavior, showing concern for Yvonne's safety and willingness to risk herself to help, indicating strong warmth and loyalty.",
+      "rating": 3,
+      "chunk": 64
     },
     {
-      "Action": "Joins in playful teasing with friends, laughs with them, keeps mood light and friendly.",
-      "Warmth": 1,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Shares a supportive embrace with Yvonne after escaping Freddy's grasp and asks if she is alright.",
+      "assessment": "This physical and verbal reassurance reflects genuine care and empathy, reinforcing Alice's trustworthy and friendly nature.",
+      "rating": 3,
+      "chunk": 64
     },
     {
-      "Action": "Supports friends by laughing at jokes including ones about hardships (psoriasis).",
-      "Warmth": 1,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Encourages Yvonne by affirming their shared understanding and resolve ('I'm the A, the L, the i, c, e. We're three together...'), fostering solidarity.",
+      "assessment": "Alice's inclusive and encouraging words promote unity and mutual support, highlighting her sincerity and warmth.",
+      "rating": 2,
+      "chunk": 64
     },
     {
-      "Action": "Comforts Dan with 'It's okay, Dan' when his parents move away.",
-      "Warmth": 1,
-      "Chunk": 11
+      "trait": "warmth",
+      "action": "Immediately focuses on finding Amanda, stating 'We've got to find Amanda. She's the key.'",
+      "assessment": "Alice's concern extends beyond immediate friends to others who may be in danger, showing responsibility and care for the wider group.",
+      "rating": 2,
+      "chunk": 64
     },
     {
-      "Action": "Shakes head explaining father's rules about drinking in the house honestly and without complaint.",
-      "Warmth": 1,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Steels herself and commands Freddy to let Yvonne go.",
+      "assessment": "This shows Alice's ability to maintain composure and assertiveness in a highly threatening situation, indicating mental strength and confidence.",
+      "rating": 2,
+      "chunk": 64
     },
     {
-      "Action": "Participates playfully with Greta and Yvonne, shoving Mark into the fountain, joining in on the friendly teasing.",
-      "Warmth": 1,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Circles Freddy to position herself opposite Yvonne and grabs a nearby pool instrument to attack.",
+      "assessment": "This demonstrates tactical thinking and quick improvisation, using the environment to her advantage in combat.",
+      "rating": 3,
+      "chunk": 64
     },
     {
-      "Action": "Helps pull Mark out of the fountain after the shove, showing care and friendliness.",
-      "Warmth": 1,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Coordinates with Yvonne by speaking a motivating phrase and attacking simultaneously.",
+      "assessment": "Shows leadership and teamwork skills, effectively communicating and synchronizing actions under pressure.",
+      "rating": 2,
+      "chunk": 64
     },
     {
-      "Action": "Admits she has to work tonight, straightforwardly sharing her responsibility.",
-      "Warmth": 0,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Successfully forces Freddy to retreat and escape with Yvonne, slamming the door behind them.",
+      "assessment": "Indicates effective combat skills and situational awareness, ensuring safety after confrontation.",
+      "rating": 2,
+      "chunk": 64
     },
     {
-      "Action": "Glances at her watch and looks for someone, showing awareness of time and others' presence.",
-      "Competence": 1,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Immediately checks on Yvonne's wellbeing and plans next steps to find Amanda.",
+      "assessment": "Reflects responsibility, care for others, and strategic planning, highlighting her problem-solving mindset.",
+      "rating": 2,
+      "chunk": 64
     },
     {
-      "Action": "Tells others to go ahead without her and plans to catch up later, demonstrating decisiveness and self-management.",
-      "Competence": 1,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Speaks with Yvonne about the dream and the possibility of a burial site, showing concern and engagement with the situation.",
+      "assessment": "Alice's willingness to discuss and consider the details of the dream with Yvonne indicates a cooperative and sincere nature, reflecting warmth through her engagement and concern.",
+      "rating": 2,
+      "chunk": 69
     },
     {
-      "Action": "Trudges along staring at the ground, unhappy and distracted, appearing disengaged.",
-      "Competence": -1,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Clutches her belly in pain and cries out 'NOOO!!!' upon seeing Mark's death in the dream.",
+      "assessment": "Alice's emotional reaction to Mark's death shows empathy and genuine care for others, which are positive indicators of warmth.",
+      "rating": 3,
+      "chunk": 69
     },
     {
-      "Action": "Engages in a brief, emotionally awkward but positive interaction with her father, showing social awareness.",
-      "Competence": 1,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Alice is able to interpret the dream imagery and deduce that the location in the dream must be the asylum, suggesting a connection to where something important is buried.",
+      "assessment": "This shows Alice's analytical thinking and ability to make logical connections from dream clues, indicating a level of intelligence and insight.",
+      "rating": 2,
+      "chunk": 69
     },
     {
-      "Action": "Her face hardens with resolve; she says 'No. This isn't going to happen.' and moves decisively toward the danger despite the threat.",
-      "Warmth": 1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Alice clutches her belly in pain and then is abruptly pulled out of the dream along with Yvonne.",
+      "assessment": "While the pain and sudden removal from the dream are not under her control, her physical reaction and inability to maintain presence in the dream at a critical moment may suggest some vulnerability or lack of control in stressful situations.",
+      "rating": -1,
+      "chunk": 69
     },
     {
-      "Action": "Watches the chaotic and terrifying birth scene attentively and tries to understand Amanda's desperate words.",
-      "Competence": 1,
-      "Chunk": 17
+      "trait": "warmth",
+      "action": "Runs toward Yvonne and calls out to her, showing urgency and trust in her.",
+      "assessment": "Alice’s immediate recognition of Yvonne and her eagerness to involve her in the plan shows trust and a friendly, cooperative nature.",
+      "rating": 2,
+      "chunk": 70
     },
     {
-      "Action": "Remains passive, merely observing the panic and bedlam rather than taking immediate action to help or intervene.",
-      "Competence": -1,
-      "Chunk": 17
+      "trait": "warmth",
+      "action": "Explains to Yvonne the danger Krueger poses and insists they must act to save Amanda.",
+      "assessment": "Alice demonstrates concern for others and a protective attitude, indicating sincerity and a caring disposition.",
+      "rating": 3,
+      "chunk": 70
     },
     {
-      "Action": "Backs away from Freddy, frightened and angry; attempts to keep distance and protect herself and unborn child.",
-      "Warmth": 1,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Shrugs free of her father's arm and runs toward Yvonne despite her father’s presence.",
+      "assessment": "This shows Alice’s prioritization of her friend’s help and her openness to others, reflecting warmth and trustworthiness.",
+      "rating": 2,
+      "chunk": 70
     },
     {
-      "Action": "Maintains calm while talking on the telephone about being scared and explaining complex, frightening events clearly.",
-      "Competence": 1,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Keeps her door open while getting into Yvonne’s car, allowing her father to approach.",
+      "assessment": "This subtle openness suggests she is not shutting out her father completely, indicating a degree of sincerity and tolerance.",
+      "rating": 1,
+      "chunk": 70
     },
     {
-      "Action": "Hears Dan's voice and immediately snaps to attention, reacts quickly by running toward the source.",
-      "Competence": 1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Quickly glances around, realizes where she is, then hurriedly rises from the water.",
+      "assessment": "This shows situational awareness and prompt physical response, indicating alertness and basic competence in reacting to unexpected situations.",
+      "rating": 1,
+      "chunk": 70
     },
     {
-      "Action": "Experiences intense pain and spasms but fights through it to take action.",
-      "Competence": 1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Her red-rimmed eyes flash with momentary anger and she realizes something important about Krueger's intentions.",
+      "assessment": "This suggests strong intuition and insight into the antagonist's motives, reflecting mental acuity and understanding of the threat.",
+      "rating": 2,
+      "chunk": 70
     },
     {
-      "Action": "Runs wildly and panicked toward a dangerous scene (burning truck, jack-knifed semi) without apparent control or clear plan.",
-      "Competence": -1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Shrugs free of her father's arm and runs toward the street to meet Yvonne.",
+      "assessment": "This demonstrates decisiveness and independence, showing confidence in taking initiative despite emotional distress.",
+      "rating": 2,
+      "chunk": 70
     },
     {
-      "Action": "Shows visible distress and panic at the accident scene, indicating emotional engagement and concern for Dan.",
-      "Warmth": 1,
-      "Chunk": 32
+      "trait": "competence",
+      "action": "Leads Yvonne back to her car and insists on going to the asylum to find Amanda's body.",
+      "assessment": "This action reflects leadership, determination, and strategic thinking, as she quickly formulates a plan to counter the antagonist's progress.",
+      "rating": 3,
+      "chunk": 70
     },
     {
-      "Action": "Quietly insists it was not an accident despite being informed by others, suggesting determination and sincerity.",
-      "Warmth": 1,
-      "Chunk": 32
+      "trait": "competence",
+      "action": "Keeps her door open while getting into Yvonne's car despite her father approaching.",
+      "assessment": "This may indicate a slight lack of situational awareness or concern for personal safety, as she does not fully close herself off from potential interruptions or threats.",
+      "rating": -1,
+      "chunk": 70
     },
     {
-      "Action": "Collapses from emotional and physical shock, revealing vulnerability and authentic emotional response.",
-      "Warmth": 1,
-      "Chunk": 32
+      "trait": "warmth",
+      "action": "Tells Yvonne to find Amanda and hurry despite her own frustration and conflict with her father.",
+      "assessment": "Alice shows concern for Amanda and trusts Yvonne to help, indicating care and reliance on others in a stressful situation.",
+      "rating": 2,
+      "chunk": 71
     },
     {
-      "Action": "Clutches Yvonne in a desperate embrace while crying, showing vulnerability and seeking comfort.",
-      "Warmth": 1,
-      "Chunk": 33
+      "trait": "warmth",
+      "action": "Kisses her father on the cheek after reluctantly agreeing to go to bed.",
+      "assessment": "Despite her frustration and anger, Alice shows affection and respect toward her father, reflecting sincerity and warmth in family relationships.",
+      "rating": 2,
+      "chunk": 71
     },
     {
-      "Action": "Insists that the others understand the danger and expresses concern for her friends' safety.",
-      "Warmth": 1,
-      "Chunk": 33
+      "trait": "warmth",
+      "action": "Reluctantly gives in to her father's wishes to stop her from going out at night.",
+      "assessment": "Alice's compliance suggests a respectful and trusting relationship with her father, showing tolerance and understanding even when she disagrees.",
+      "rating": 1,
+      "chunk": 71
     },
     {
-      "Action": "Responds to the traumatic news about Dan with hysteria and distrust toward medical reassurances, showing emotional distress but sincerity.",
-      "Warmth": 0,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "Insists on going to the asylum to find Amanda's body despite her father's objections.",
+      "assessment": "This shows determination and a clear sense of purpose, indicating mental resolve and confidence in her mission.",
+      "rating": 2,
+      "chunk": 71
     },
     {
-      "Action": "Recognizes that Krueger is responsible and understands the threat is ongoing despite others' disbelief.",
-      "Competence": 1,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "Reluctantly gives in to her father's demand to go home and get some sleep.",
+      "assessment": "While this shows some compliance and emotional vulnerability, it also suggests a momentary lack of assertiveness or strategic resistance in a critical situation.",
+      "rating": -1,
+      "chunk": 71
     },
     {
-      "Action": "Becomes increasingly hysterical and struggles to maintain calm in front of others.",
-      "Competence": -1,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "Quickly recovers from frustration and agrees with her father, then kisses him on the cheek before heading upstairs.",
+      "assessment": "This indicates emotional intelligence and social tact, but also a possible suppression of her own judgment in favor of appeasement, which may undermine her effectiveness.",
+      "rating": 0,
+      "chunk": 71
     },
     {
-      "Action": "Advocates for proactive action to protect friends and herself from danger.",
-      "Competence": 1,
-      "Chunk": 33
+      "trait": "warmth",
+      "action": "Shouts for Freddy, taunting him and expressing determination to protect Jacob from harm.",
+      "assessment": "Alice's protective stance toward Jacob and her willingness to confront danger show her caring and sincere nature, indicating warmth through her concern for others.",
+      "rating": 2,
+      "chunk": 72
     },
     {
-      "Action": "Initially appears uncertain and confused when confronted with her emotional and mental state.",
-      "Competence": -1,
-      "Chunk": 33
+      "trait": "warmth",
+      "action": "Refuses to let Freddy manipulate Jacob and vows to stop him.",
+      "assessment": "Her resolve to prevent harm to Jacob demonstrates loyalty and a protective kindness, reflecting a trustworthy and good-natured attitude.",
+      "rating": 2,
+      "chunk": 72
     },
     {
-      "Action": "Shows no immediate action or decision-making upon hearing troubling news; remains stunned and internally focused.",
-      "Competence": -1,
-      "Chunk": 34
+      "trait": "competence",
+      "action": "Shouts for Freddy and taunts him with a look of grim determination, confronting him directly in the dream corridor.",
+      "assessment": "This action shows Alice's confidence and mental resilience, indicating she is not easily intimidated and is willing to face danger head-on.",
+      "rating": 2,
+      "chunk": 72
     },
     {
-      "Action": "Responds tentatively and politely to the mysterious boy Jacob, smoothing an initially startled reaction into calm interaction.",
-      "Competence": 1,
-      "Chunk": 34
+      "trait": "competence",
+      "action": "Moves purposefully through the asylum corridors, actively searching for Freddy and heading toward the tower room stairs.",
+      "assessment": "Her purposeful movement and clear objective demonstrate focus and situational awareness, reflecting competent navigation and strategic intent.",
+      "rating": 2,
+      "chunk": 72
     },
     {
-      "Action": "Questions Jacob about his presence and expresses concern, showing attentiveness and empathy.",
-      "Competence": 1,
-      "Chunk": 35
+      "trait": "competence",
+      "action": "Halts and glares around the walls and doors, showing vigilance and caution before proceeding.",
+      "assessment": "This indicates a careful and alert mindset, suggesting she is assessing her environment rather than rushing blindly, a sign of competence.",
+      "rating": 1,
+      "chunk": 72
     },
     {
-      "Action": "Insists on following up about Jacob despite contradictory information from Yvonne, demonstrating persistence and critical thinking.",
-      "Competence": 1,
-      "Chunk": 35
+      "trait": "competence",
+      "action": "Threatens Freddy by suggesting he might prefer to talk to Amanda if he won't talk to her.",
+      "assessment": "This shows psychological insight and an attempt to manipulate or provoke the antagonist, reflecting strategic thinking and confidence.",
+      "rating": 2,
+      "chunk": 72
     },
     {
-      "Action": "Displays confusion and puzzlement when confronted with conflicting facts about Jacob's existence, possibly indicating uncertainty.",
-      "Competence": 0,
-      "Chunk": 35
+      "trait": "warmth",
+      "action": "Calls out to Amanda Krueger at the brick wall, attempting to communicate or reach out.",
+      "assessment": "Alice's attempt to reach Amanda suggests a desire for connection or help, indicating sincerity and openness.",
+      "rating": 2,
+      "chunk": 73
     },
     {
-      "Action": "Shares discovered information about Amanda Krueger and the asylum while pacing and speaking animatedly, indicating active engagement and knowledge pursuit.",
-      "Competence": 1,
-      "Chunk": 35
+      "trait": "warmth",
+      "action": "Taunts Freddy by calling him a coward while charging toward the room of one hundred maniacs.",
+      "assessment": "While the taunt shows courage and defiance, it is aggressive and confrontational rather than friendly or tolerant, which lowers the warmth rating.",
+      "rating": -1,
+      "chunk": 73
     },
     {
-      "Action": "Steps up to comfort Mark by putting a hand on his shoulder and offers to stay with him for a while.",
-      "Competence": 1,
-      "Chunk": 45
+      "trait": "warmth",
+      "action": "Screams and charges toward Freddy with the Freddy stroller, confronting him directly.",
+      "assessment": "Alice's direct confrontation of Freddy demonstrates bravery and determination, but the aggressive approach lacks warmth in terms of friendliness or trustworthiness.",
+      "rating": 0,
+      "chunk": 73
     },
     {
-      "Action": "Comforts Mark with a reassuring arm, shows emotional support during his doubts.",
-      "Competence": 1,
-      "Chunk": 46
+      "trait": "competence",
+      "action": "Lays both her hands against the bricks and calls out loudly to Amanda Krueger.",
+      "assessment": "This shows Alice's determination and willingness to confront the supernatural or unknown directly, indicating mental courage and focus.",
+      "rating": 2,
+      "chunk": 73
     },
     {
-      "Action": "Speaks with certainty about their wakefulness preventing harm, demonstrating awareness of their situation.",
-      "Competence": 1,
-      "Chunk": 46
+      "trait": "competence",
+      "action": "Rushes down the stairs and charges around the corner toward the open metal door of the room of One Hundred Maniacs, taunting Freddy.",
+      "assessment": "Alice demonstrates physical bravery and tactical awareness by leading Freddy into a dangerous area and using taunts to provoke him, showing confidence and strategic thinking.",
+      "rating": 3,
+      "chunk": 73
     },
     {
-      "Action": "Offers to make coffee as a transition to share important information, showing initiative and thoughtful timing.",
-      "Competence": 1,
-      "Chunk": 46
+      "trait": "competence",
+      "action": "Disappears from Freddy's line of sight just before he reaches the doorway, causing him to hesitate and become transfixed by fear.",
+      "assessment": "This indicates Alice's skill in evasion and psychological manipulation, effectively using Freddy's fear against him.",
+      "rating": 3,
+      "chunk": 73
     },
     {
-      "Action": "Searches for Mark when he disappears from the room, showing attentiveness and care.",
-      "Competence": 1,
-      "Chunk": 46
+      "trait": "competence",
+      "action": "Charges toward Freddy with the Freddy stroller while screaming.",
+      "assessment": "Alice's aggressive approach and use of an improvised weapon show resourcefulness and boldness, though screaming might reduce stealth; overall, this is a competent and assertive action.",
+      "rating": 2,
+      "chunk": 73
     },
     {
-      "Action": "Stops cold upon noticing the sketch moving and reassembling, recognizing the supernatural implication quickly.",
-      "Competence": 1,
-      "Chunk": 46
+      "trait": "warmth",
+      "action": "Charges at Freddy with the stroller and shoves him through the doorway, leading to his destruction by the maniacs.",
+      "assessment": "Alice's aggressive and violent actions toward Freddy demonstrate determination and courage but do not reflect warmth, as they are driven by self-preservation and vengeance rather than kindness or friendliness.",
+      "rating": -1,
+      "chunk": 74
     },
     {
-      "Action": "Rushes to save Mark from falling into the fetal canal, extends her hand to help him.",
-      "Warmth": 1,
-      "Chunk": 47
+      "trait": "warmth",
+      "action": "Closes her eyes, relieved but reluctant to watch Freddy being torn apart.",
+      "assessment": "This moment shows a degree of sensitivity and discomfort with violence, indicating some underlying compassion despite the harsh circumstances.",
+      "rating": 1,
+      "chunk": 74
     },
     {
-      "Action": "Shows instinctive motherly concern by asking Jacob if he is feeling all right and expressing a desire to find his mother.",
-      "Warmth": 1,
-      "Chunk": 49
+      "trait": "warmth",
+      "action": "Screams and jumps back when spiders land on her, then tears off her jacket and stamps on it.",
+      "assessment": "Her reaction is one of fear and revulsion, a natural self-protective response rather than an expression of warmth or coldness.",
+      "rating": 0,
+      "chunk": 74
     },
     {
-      "Action": "Reassures Jacob by telling him she bets his mother is worried about him and expresses empathy.",
-      "Warmth": 1,
-      "Chunk": 49
+      "trait": "competence",
+      "action": "Charges toward Freddy with the black, nasty Freddy stroller and hits him from behind, impaling him on spikes.",
+      "assessment": "This action demonstrates quick thinking, physical courage, and effective use of available resources to incapacitate a dangerous opponent, indicating a high level of competence.",
+      "rating": 3,
+      "chunk": 74
     },
     {
-      "Action": "Reaches out to lead Jacob away from a dangerous place, demonstrating protective intentions.",
-      "Warmth": 1,
-      "Chunk": 49
+      "trait": "competence",
+      "action": "Gives the stroller a mighty shove, sending Freddy flying through a doorway and down the stairs.",
+      "assessment": "This shows physical strength and determination, as well as strategic use of the environment to further neutralize the threat, reinforcing her competence.",
+      "rating": 2,
+      "chunk": 74
     },
     {
-      "Action": "Runs after Jacob when he leaves despite danger, showing commitment and care.",
-      "Warmth": 1,
-      "Chunk": 49
+      "trait": "competence",
+      "action": "Gazes down in victory and delivers a confident verbal taunt after Freddy is attacked by his fathers.",
+      "assessment": "Her confident demeanor and ability to maintain composure after a tense confrontation suggest emotional resilience and self-assurance, positive indicators of competence.",
+      "rating": 2,
+      "chunk": 74
     },
     {
-      "Action": "Observes the ultrasound monitor attentively and notices surreal changes even when others do not.",
-      "Competence": 1,
-      "Chunk": 52
+      "trait": "competence",
+      "action": "Screams and jumps back when striped spiders land on her coat, then tears off her jacket and stamps on it.",
+      "assessment": "While her initial reaction is fear and revulsion, she quickly takes practical action to remove the threat, showing adaptability and presence of mind, though the initial fear slightly tempers the competence shown.",
+      "rating": 1,
+      "chunk": 74
     },
     {
-      "Action": "Turns apprehensively to Yvonne and Dr. Moore, seeking confirmation or help, showing situational awareness.",
-      "Competence": 1,
-      "Chunk": 52
+      "trait": "warmth",
+      "action": "Alice reassures Jacob by telling him 'Come on downstairs. He won't hurt you. He needs us both.'",
+      "assessment": "Alice shows a protective and comforting attitude toward her son, attempting to soothe his fears and encourage trust, which reflects warmth and sincerity.",
+      "rating": 2,
+      "chunk": 75
     },
     {
-      "Action": "Reacting in fear and horror upon seeing Freddy Krueger and the danger to her unborn baby.",
-      "Competence": 0,
-      "Chunk": 52
+      "trait": "warmth",
+      "action": "Alice encourages Jacob to leave the threatening presence of Freddy by saying 'Come on, Jacob. Time to go home.'",
+      "assessment": "By urging Jacob to leave and return home, Alice demonstrates care and a desire to protect her child from harm, indicating a warm and nurturing nature.",
+      "rating": 3,
+      "chunk": 75
     },
     {
-      "Action": "Screams at Freddy to not touch her baby, shows protective and caring behavior.",
-      "Warmth": 1,
-      "Chunk": 53
+      "trait": "competence",
+      "action": "Dread rising inside her, leaves the asylum and steps into Escherland, an insane, logic-defying world.",
+      "assessment": "Despite the intimidating and surreal environment, Alice shows resolve and courage by entering the dangerous Escher maze, indicating mental strength and determination.",
+      "rating": 2,
+      "chunk": 75
     },
     {
-      "Action": "Explains to Yvonne about Freddy taking souls to make the baby like him, demonstrates sincere concern and trustworthiness in sharing critical information.",
-      "Warmth": 1,
-      "Chunk": 53
+      "trait": "competence",
+      "action": "Reassures Jacob by telling him Freddy won't hurt him and that he needs them both, then urges Jacob to come downstairs and go home.",
+      "assessment": "Alice demonstrates calmness and leadership in a threatening situation, attempting to protect and guide her son with confidence and emotional control.",
+      "rating": 2,
+      "chunk": 75
     },
     {
-      "Action": "Calmly acknowledges she sounds insane but insists on the truth of her claims and asks for her friend's belief.",
-      "Competence": 1,
-      "Chunk": 54
+      "trait": "competence",
+      "action": "Moves through the Escher maze, looking up at Freddy and Jacob, showing awareness of her surroundings and the threat.",
+      "assessment": "Her ability to navigate a confusing, surreal environment while maintaining focus on the threat and her son suggests situational awareness and composure.",
+      "rating": 2,
+      "chunk": 75
     },
     {
-      "Action": "Stands firm and argues passionately about the reality of Krueger and her responsibility to protect her baby despite others' skepticism.",
-      "Competence": 1,
-      "Chunk": 54
+      "trait": "warmth",
+      "action": "Shouts to Jacob that Dan is not his father, warning him of danger.",
+      "assessment": "Alice shows protective concern and sincerity by trying to prevent Jacob from trusting a threatening figure, demonstrating care and trustworthiness.",
+      "rating": 3,
+      "chunk": 76
     },
     {
-      "Action": "Rejects the suggestion to flee and insists on confronting the threat directly, demonstrating resolve and determination.",
-      "Competence": 1,
-      "Chunk": 54
+      "trait": "competence",
+      "action": "Recognizes and shouts out that Dan is not Jacob's father when Dan, disguised as a reassuring figure, tries to lure Jacob.",
+      "assessment": "This action shows Alice's alertness, quick perception, and protective instincts, indicating a strong ability to assess a threatening situation accurately and intervene timely.",
+      "rating": 2,
+      "chunk": 76
     },
     {
-      "Action": "Defends herself against accusations of hysteria and paranoid delusions, speaks with conviction about her baby.",
-      "Competence": 1,
-      "Chunk": 57
+      "trait": "competence",
+      "action": "Watches the situation unfold with confusion and longing before realizing the truth about Dan.",
+      "assessment": "Her initial hesitation and emotional distraction suggest a momentary lapse in focus, which could undermine her decisiveness in a critical moment.",
+      "rating": -1,
+      "chunk": 76
     },
     {
-      "Action": "Fails to convince others of her position, appears to be under a condition that worries family members.",
-      "Competence": -1,
-      "Chunk": 57
+      "trait": "warmth",
+      "action": "Picks up Jacob in her arms as he reaches her and runs to protect him from Freddy.",
+      "assessment": "Alice’s immediate protective response toward Jacob shows care and concern, indicating warmth through her nurturing and protective instincts.",
+      "rating": 3,
+      "chunk": 77
     },
     {
-      "Action": "Calls out for Amanda repeatedly, showing concern and a desire to connect.",
-      "Warmth": 1,
-      "Chunk": 62
+      "trait": "warmth",
+      "action": "Listens thoughtfully to Jacob’s explanation about Freddy hiding inside her.",
+      "assessment": "Her attentive and thoughtful listening suggests openness and sincerity, traits associated with warmth.",
+      "rating": 2,
+      "chunk": 77
     },
     {
-      "Action": "Presses her head and hands to a bricked-up wall murmuring 'Found you!' indicating sincere hope and emotional connection.",
-      "Warmth": 1,
-      "Chunk": 62
+      "trait": "warmth",
+      "action": "Shows determination to confront Freddy, saying 'This time it's for keeps.'",
+      "assessment": "Her resolve to face Freddy for the sake of others reflects responsibility and courage, which can be linked to a warm, protective nature.",
+      "rating": 2,
+      "chunk": 77
     },
     {
-      "Action": "Presses her head and hands against the bricked up doorway, murmuring 'Found you!' indicating concern and determination to find and presumably help someone trapped (Yvonne).",
-      "Warmth": 1,
-      "Chunk": 63
+      "trait": "warmth",
+      "action": "Stares at Freddy in disgust and terror as he emerges from her face.",
+      "assessment": "While her reaction is fear and disgust, it is a natural response to a threat rather than a reflection of coldness or unfriendliness; thus, it is neutral regarding warmth.",
+      "rating": 0,
+      "chunk": 77
     },
     {
-      "Action": "Steel herself after being surprised by Freddy's action, showing courage and protective readiness rather than selfishness or fear.",
-      "Warmth": 1,
-      "Chunk": 63
+      "trait": "competence",
+      "action": "Picks up Jacob quickly as he reaches her and runs away from Freddy.",
+      "assessment": "This action shows quick reflexes and protective instincts, indicating a capable and responsive nature under pressure.",
+      "rating": 2,
+      "chunk": 77
     },
     {
-      "Action": "Speaks thoughtfully and logically about the location related to the dream, engaging in analysis with Yvonne regarding the asylum and burial site.",
-      "Competence": 1,
-      "Chunk": 69
+      "trait": "competence",
+      "action": "Looks around quickly for Freddy when he disappears, showing alertness and situational awareness.",
+      "assessment": "Her immediate search for Freddy demonstrates attentiveness and readiness to confront danger.",
+      "rating": 2,
+      "chunk": 77
     },
     {
-      "Action": "Clutches her belly in pain but remains mentally engaged with the situation in the dream, indicating resilience and continued focus despite physical distress.",
-      "Competence": 1,
-      "Chunk": 69
+      "trait": "competence",
+      "action": "Listens carefully to Jacob's explanation about Freddy hiding inside her and processes the information thoughtfully.",
+      "assessment": "This shows intellectual engagement and an ability to consider complex, abstract information, reflecting mental competence.",
+      "rating": 2,
+      "chunk": 77
     },
     {
-      "Action": "Vanishing suddenly from the dream along with Yvonne after traumatic events, showing a lack of control over the dream environment.",
-      "Competence": -1,
-      "Chunk": 69
+      "trait": "competence",
+      "action": "Expresses determination with the statement 'All right, Krueger. This time it's for keeps.'",
+      "assessment": "This indicates confidence and resolve, key components of competence in facing a recurring threat.",
+      "rating": 2,
+      "chunk": 77
     },
     {
-      "Action": "Confronts the brick wall purposefully, calling out aloud for Amanda, showing determination and initiative.",
-      "Competence": 1,
-      "Chunk": 73
+      "trait": "competence",
+      "action": "Shows horror and disgust as Freddy's head emerges from her face.",
+      "assessment": "While this reaction is natural and humanizing, it also reveals vulnerability and momentary loss of composure in the face of a terrifying manifestation.",
+      "rating": -1,
+      "chunk": 77
     },
     {
-      "Action": "Whips around quickly upon hearing Freddy's cry, demonstrating alertness and situational awareness.",
-      "Competence": 1,
-      "Chunk": 73
+      "trait": "warmth",
+      "action": "Screams 'NO!!!' and fights desperately against Freddy's possession.",
+      "assessment": "Alice's intense resistance against Freddy's control shows her strong will to protect herself and others, reflecting a sincere and determined nature.",
+      "rating": 2,
+      "chunk": 78
     },
     {
-      "Action": "Charges down stairs and corridors confidently, tactically leading Freddy toward a trap involving the room of One Hundred Maniacs.",
-      "Competence": 1,
-      "Chunk": 73
+      "trait": "warmth",
+      "action": "Screams 'Get out! Get out!!' while struggling with Freddy inside her.",
+      "assessment": "Her anguished plea indicates a deep desire to rid herself and possibly others of evil influence, showing her protective and good-natured intentions.",
+      "rating": 2,
+      "chunk": 78
     },
     {
-      "Action": "Taunts Freddy confidently, indicating fearlessness and psychological control.",
-      "Competence": 1,
-      "Chunk": 73
+      "trait": "competence",
+      "action": "Grabs Freddy's head and shouts at the top of her lungs, struggling fiercely against his attempts to take over her body.",
+      "assessment": "This action demonstrates Alice's strong willpower, determination, and presence of mind in a highly stressful and supernatural confrontation, indicating a high level of mental and emotional competence.",
+      "rating": 3,
+      "chunk": 78
     },
     {
-      "Action": "Utilizes the black Freddy stroller as a weapon or tool in her attack, implying resourcefulness and strategic thinking.",
-      "Competence": 1,
-      "Chunk": 73
+      "trait": "competence",
+      "action": "Drops to her knees and screams in anguish and pain while commanding Freddy to get out.",
+      "assessment": "Although she is physically overwhelmed and in pain, Alice maintains control over her voice and attempts to expel Freddy, showing resilience and assertiveness even in a vulnerable state.",
+      "rating": 2,
+      "chunk": 78
     },
     {
-      "Action": "Reassures Jacob by telling him Freddy won't hurt him and to come downstairs, expressing care and protection.",
-      "Warmth": 1,
-      "Chunk": 75
+      "trait": "competence",
+      "action": "Alice is obviously losing the fight with Freddy and sinks to the ground exhausted and beaten.",
+      "assessment": "This indicates a moment of physical and possibly mental overwhelm, suggesting a temporary lapse in her ability to effectively combat Freddy.",
+      "rating": -2,
+      "chunk": 79
     },
     {
-      "Action": "Shouts to warn Jacob that Dan is not his father, trying to protect him from danger.",
-      "Warmth": 1,
-      "Chunk": 76
+      "trait": "competence",
+      "action": "Alice continues to struggle against Freddy despite being clearly overpowered.",
+      "assessment": "Her persistence in fighting Freddy, even when losing, shows resilience and determination, which are components of competence.",
+      "rating": 1,
+      "chunk": 79
     },
     {
-      "Action": "Recognizes the danger despite confusion and shouts a warning to Jacob that Dan is not his father.",
-      "Competence": 1,
-      "Chunk": 76
+      "trait": "competence",
+      "action": "Alice looks at Jacob in horror as Freddy approaches him.",
+      "assessment": "Her reaction shows awareness and concern, indicating she understands the gravity of the situation and the threat Freddy poses, reflecting situational intelligence.",
+      "rating": 1,
+      "chunk": 79
     },
     {
-      "Action": "Picks up Jacob and runs to protect him from Freddy.",
-      "Warmth": 1,
-      "Chunk": 77
+      "trait": "competence",
+      "action": "Rushes to the new baby Jacob as he emerges and picks him up, cradling him tenderly in her arms.",
+      "assessment": "This action shows Alice's quick responsiveness and emotional attentiveness in a critical moment, indicating a capable and caring presence.",
+      "rating": 2,
+      "chunk": 80
     },
     {
-      "Action": "Turns to Freddy with determination to confront him for good.",
-      "Warmth": 1,
-      "Chunk": 77
+      "trait": "warmth",
+      "action": "Starts towards Amanda instinctively when she looks across at her.",
+      "assessment": "Alice's instinctive movement toward Amanda suggests concern and a desire to connect or help, indicating warmth and empathy.",
+      "rating": 2,
+      "chunk": 81
     },
     {
-      "Action": "Expresses disgust and terror at Freddy's emergence from her face.",
-      "Warmth": 0,
-      "Chunk": 77
+      "trait": "warmth",
+      "action": "Stands silently staring at the door that slams shut, blocking her from Amanda.",
+      "assessment": "Although she is blocked from Amanda, Alice does not react with anger or frustration but rather with quiet acceptance, showing emotional restraint and respect.",
+      "rating": 1,
+      "chunk": 81
     },
     {
-      "Action": "Screams out in desperation and rage, fights aggressively to resist Freddy's takeover.",
-      "Warmth": 1,
-      "Chunk": 78
+      "trait": "warmth",
+      "action": "Tenderly cradles and gently shushes baby Jacob, calming him down.",
+      "assessment": "Alice's gentle care and soothing of the infant demonstrate nurturing, sincerity, and a warm disposition.",
+      "rating": 3,
+      "chunk": 81
     },
     {
-      "Action": "Yells 'Get out! Get out!!' to Freddy clearly showing her struggle to protect herself and fight evil.",
-      "Warmth": 1,
-      "Chunk": 78
+      "trait": "warmth",
+      "action": "Responds to Yvonne's compliment by acknowledging Dan's good work.",
+      "assessment": "Alice's response shows humility and a willingness to share credit, reflecting sincerity and a friendly, inclusive attitude.",
+      "rating": 2,
+      "chunk": 81
     },
     {
-      "Action": "Fights Freddy but is losing the struggle and ends up exhausted and beaten, sinking to the ground.",
-      "Competence": -1,
-      "Chunk": 79
+      "trait": "competence",
+      "action": "Starts instinctively towards Amanda after receiving Jacob, showing concern and readiness to act.",
+      "assessment": "This action indicates Alice's attentiveness and willingness to engage in a tense situation, reflecting situational awareness and emotional intelligence.",
+      "rating": 2,
+      "chunk": 81
     },
     {
-      "Action": "Instinctively approaches Amanda and tries to keep her son safe, gently calming Jacob at the picnic.",
-      "Competence": 1,
-      "Chunk": 81
+      "trait": "competence",
+      "action": "Stands silently staring at the door that slams shut, blocking her from Amanda.",
+      "assessment": "Her inaction here could suggest a moment of shock or helplessness, indicating a temporary lapse in proactive problem-solving or assertiveness.",
+      "rating": -1,
+      "chunk": 81
     },
     {
-      "Action": "Stands silently and stares at the closed door blocking her off from Amanda, showing no immediate reaction or attempt to overcome the barrier.",
-      "Competence": -1,
-      "Chunk": 81
+      "trait": "competence",
+      "action": "Tenderly cradles and soothes the crying infant Jacob, calming him effectively.",
+      "assessment": "This demonstrates Alice's nurturing skills and emotional competence, showing confidence and capability in caring for a vulnerable child.",
+      "rating": 2,
+      "chunk": 81
     }
   ]
 }

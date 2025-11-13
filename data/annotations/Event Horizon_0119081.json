@@ -1,1451 +1,2664 @@
 {
   "Captain Miller": [
     {
-      "Action": "Considers but ultimately does not immediately agree to send Dr. Weir on the mission, weighing the risks carefully.",
-      "Warmth": 1,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "Responds to Cooper's singing by curtly telling him to kill the music without breaking stride.",
+      "assessment": "Miller's dismissal of Cooper's lighthearted behavior suggests a lack of tolerance and friendliness in this moment, indicating a colder, more task-focused demeanor.",
+      "rating": -1,
+      "chunk": 6
     },
     {
-      "Action": "Judges Dr. Weir with his eyes, showing skepticism and withholding premature trust.",
-      "Warmth": -1,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "Engages directly and efficiently with his crew, confirming readiness and giving clear commands.",
+      "assessment": "His straightforward communication and decisiveness show reliability and trustworthiness, but lack overt friendliness or warmth.",
+      "rating": 1,
+      "chunk": 6
     },
     {
-      "Action": "Considers expert opinions and shows caution regarding sending a Search and Rescue team alone to investigate the Event Horizon.",
-      "Competence": 1,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "Confirms the course is locked in and initiates the countdown to engage the ion drive after receiving status updates from his crew.",
+      "assessment": "This shows Miller's ability to maintain control, follow protocol, and confidently lead the crew through technical procedures, indicating strong situational awareness and decisiveness.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Expresses skepticism but allows due process by consulting with higher authorities ('the Man downstairs') before making a final decision.",
-      "Competence": 1,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "Commands Cooper to turn off the loud music without breaking stride as the crew prepares for EVA.",
+      "assessment": "This demonstrates Miller's focus and ability to maintain discipline and order in the team, even in informal or potentially distracting moments, reflecting effective leadership and command presence.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Acknowledges crew concerns but emphasizes duty, keeps focus on mission.",
-      "Warmth": 0,
-      "Chunk": 6
+      "trait": "warmth",
+      "action": "Expresses sympathy to Peters about her not seeing her child for two months.",
+      "assessment": "Miller acknowledges Peters' personal hardship, showing some empathy, though he quickly shifts focus back to work, indicating limited emotional engagement.",
+      "rating": 1,
+      "chunk": 7
     },
     {
-      "Action": "Commands crew decisively and courteously; interacts with Cooper with firm but light reprimand.",
-      "Warmth": 0,
-      "Chunk": 6
+      "trait": "warmth",
+      "action": "Tells Dr. Weir that the crew is not on the mission by choice and instructs him to stay out of the way until they reach Neptune.",
+      "assessment": "Miller is blunt and somewhat dismissive toward Weir, prioritizing his crew's feelings and authority but lacking warmth or friendliness in his communication.",
+      "rating": -1,
+      "chunk": 7
     },
     {
-      "Action": "Follows protocol and shows decisiveness by confirming the course and initiating the countdown confidently.",
-      "Competence": 1,
-      "Chunk": 6
+      "trait": "warmth",
+      "action": "Hangs back while Weir follows the crew, then questions Weir about the delay.",
+      "assessment": "Miller's behavior shows a practical, no-nonsense attitude rather than warmth; he is focused on efficiency and order rather than interpersonal connection.",
+      "rating": 0,
+      "chunk": 7
     },
     {
-      "Action": "Maintains authority and focus by commanding to turn off the distracting music without disrupting the crew's flow.",
-      "Competence": 1,
-      "Chunk": 6
+      "trait": "competence",
+      "action": "Directs Dr. Weir to follow the rest of the crew to the gravity tanks and insists on keeping the mission on schedule.",
+      "assessment": "This shows Miller's focus on efficiency and maintaining control over the situation, reflecting a competent leadership style.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Takes charge of the crew, directs Dr. Weir efficiently to the gravity tanks despite Weir's hesitation.",
-      "Competence": 1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Acknowledges the crew's personal sacrifices but emphasizes the need to continue working.",
+      "assessment": "This demonstrates Miller's ability to balance empathy with mission priorities, indicating emotional intelligence alongside competence.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Acknowledges the need for CO2 scrubber replacements, showing awareness of supplies and logistics.",
-      "Competence": 1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Keeps his service tags on while disrobing for the gravity tanks.",
+      "assessment": "This small detail suggests Miller's adherence to protocol and readiness, reflecting professionalism and competence.",
+      "rating": 1,
+      "chunk": 7
     },
     {
-      "Action": "Maintains professionalism and authority by reminding the crew to get to work despite personal hardships shared by crew members.",
-      "Competence": 1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Firmly tells Dr. Weir that the crew was pulled off leave unwillingly and demands to be briefed only when appropriate.",
+      "assessment": "This shows Miller's assertiveness and protective attitude toward his crew, indicating confidence and command presence, which are competence indicators.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Keeps a firm boundary with Dr. Weir, emphasizing chain of command and focus on mission without disclosing details prematurely.",
-      "Competence": 1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Instructs Dr. Weir to 'do what you're told and stay out of my way' until the briefing.",
+      "assessment": "While this shows decisiveness and control, it may also suggest a rigid or dismissive approach to collaboration, which could limit adaptability.",
+      "rating": 0,
+      "chunk": 7
     },
     {
-      "Action": "Does not engage in unnecessary small talk or emotional appeals, focusing instead on mission and discipline.",
-      "Competence": 1,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Tells Weir, 'Until then, do what you're told and stay out of my way.'",
+      "assessment": "This statement is curt and authoritative, showing a no-nonsense attitude but lacking friendliness or warmth.",
+      "rating": -1,
+      "chunk": 8
     },
     {
-      "Action": "Is described by others as 'hard, but fair' and with experience, but avoids discussing a traumatic event involving the destruction of a ship he served on.",
-      "Warmth": 0,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Maintains a watchful eye on Weir as he climbs into the grav couch.",
+      "assessment": "His watchfulness suggests a protective or responsible attitude, indicating some level of care and concern.",
+      "rating": 1,
+      "chunk": 8
     },
     {
-      "Action": "Peters describes him as hard but fair and one of the few Captains with experience in the Outer Reach, indicating recognized expertise and capability.",
-      "Competence": 1,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Keeps silent about the traumatic incident on the Goliath when DJ interrupts.",
+      "assessment": "Avoiding discussion of a painful past event may indicate emotional reserve or difficulty in sharing, which can limit warmth and openness.",
+      "rating": -1,
+      "chunk": 8
     },
     {
-      "Action": "Captain Miller was able to survive the Goliath disaster, escaping with the Skipper and others to a lifeboat, demonstrating skill and leadership in a crisis.",
-      "Competence": 1,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Gives a clear, concise time warning: 'Five minutes.'",
+      "assessment": "Providing clear instructions in a tense situation is responsible and trustworthy, though not particularly warm or friendly.",
+      "rating": 1,
+      "chunk": 8
     },
     {
-      "Action": "Interrupting statements about his past, showing reluctance to dwell on past trauma, which may indicate professionalism and emotional control.",
-      "Competence": 0,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Peters describes Miller as 'hard, but fair' and 'one of the few Captains in the service with experience in the Outer Reach.'",
+      "assessment": "This external testimony indicates Miller's competence through his experience and leadership qualities, suggesting he is capable and respected.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Calling out 'Five minutes' to signal the timing for the upcoming acceleration and injection suggests confident command and situational awareness.",
-      "Competence": 1,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Captain Miller was able to survive the destruction of the Goliath and rescue the Skipper and three others in a lifeboat after both ships were incinerated.",
+      "assessment": "This action implies strong crisis management skills, quick thinking, and survival ability, all positive indicators of competence.",
+      "rating": 3,
+      "chunk": 8
     },
     {
-      "Action": "Encourages crew to get moving and be on duty, shows concern by calling out Starck and Cooper for being off task.",
-      "Warmth": 1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Miller gives a clear, concise order: 'Five minutes.'",
+      "assessment": "This shows decisiveness and command presence, reflecting confidence and control over the situation.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Firmly tells Cooper to put on pants, enforcing discipline but also maintaining order with a hint of lightness.",
-      "Warmth": 1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Miller does not engage in small talk or explanations, maintaining a terse and authoritative demeanor.",
+      "assessment": "While this can be seen as efficient and focused, it may also suggest a lack of approachability or communication, which could be a minor negative in leadership competence.",
+      "rating": 0,
+      "chunk": 8
     },
     {
-      "Action": "Commands Starck to get to the bridge promptly and tells Cooper to put on pants, showing promptness and authority.",
-      "Competence": 1,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Miller urges Starck to get to the bridge and tells Cooper to put some pants on.",
+      "assessment": "Miller's tone is firm and commanding, focusing on duty and order rather than friendliness or warmth. There is no indication of humor or kindness in his remarks, suggesting a more authoritative than warm approach.",
+      "rating": -1,
+      "chunk": 10
     },
     {
-      "Action": "Takes a seat next to Weir, who is huddled in a blanket, showing physical closeness and attentiveness.",
-      "Warmth": 1,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Miller notices Starck is not on the bridge and promptly orders him to get there, urging the crew to move along and telling Cooper to put on pants.",
+      "assessment": "This shows Miller's attentiveness to crew discipline and situational awareness, indicating a proactive and responsible leadership style.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Introduces Weir warmly and informally to the crew, using a casual tone and including humorous banter with Cooper.",
-      "Warmth": 1,
-      "Chunk": 11
+      "trait": "warmth",
+      "action": "Takes a seat next to Weir, who is huddled in a blanket, showing a gesture of companionship.",
+      "assessment": "Sitting next to a presumably vulnerable crew member indicates a supportive and friendly demeanor.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Uses light teasing with Cooper ('what the hell do you do on this ship, anyway?'), adding humor and friendliness among the crew.",
-      "Warmth": 1,
-      "Chunk": 11
+      "trait": "warmth",
+      "action": "Introduces the new crew member Dr. Weir to the rest of the team, naming each member and their role.",
+      "assessment": "Formally introducing a new member and clarifying roles helps foster inclusion and trust within the group.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Encourages crew ordering and focus with a calm and straightforward tone.",
-      "Warmth": 0,
-      "Chunk": 11
+      "trait": "warmth",
+      "action": "Asks Justin to stow the ball but accepts his hesitation without pressing.",
+      "assessment": "Shows a balance of authority and tolerance, allowing some informality and comfort among the crew.",
+      "rating": 1,
+      "chunk": 11
     },
     {
-      "Action": "Commands the crew to be quiet and let Dr. Weir speak despite their loud objections.",
-      "Warmth": 1,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Engages in light banter with Cooper about his role on the ship.",
+      "assessment": "This friendly teasing suggests a relaxed and approachable leadership style, promoting camaraderie.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Commands the crew to be silent so the mission specialist can speak.",
-      "Competence": 1,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Takes a seat next to Weir, showing a calm and approachable demeanor.",
+      "assessment": "This suggests Miller is confident and comfortable in his leadership role, able to engage with new crew members in a composed manner.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Listens attentively and respects the protocol of the briefing despite crew unrest.",
-      "Competence": 1,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Checks in with the crew about their status and readiness, asking Justin to stow the ball and confirming all boards are green.",
+      "assessment": "This indicates Miller's attentiveness to operational details and his ability to maintain order and discipline on the ship.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Questions multiple crew members to understand the situation, showing engagement and concern.",
-      "Warmth": 1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Introduces the new crew member Dr. Weir to the rest of the team, clarifying roles and responsibilities.",
+      "assessment": "This shows Miller's leadership skills and his effort to integrate new personnel effectively, fostering team cohesion.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Maintains a serious and focused demeanor without dismissing fears or uncertainties.",
-      "Warmth": 1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Engages in light banter with Cooper about his role, demonstrating familiarity and ease with the crew.",
+      "assessment": "This reflects Miller's interpersonal skills and ability to maintain morale, which is important for competent leadership.",
+      "rating": 1,
+      "chunk": 11
     },
     {
-      "Action": "Asks pertinent and clear questions about the transmission and the status of the missing ship's crew, showing focused concern and seeking clarification.",
-      "Competence": 1,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "Commands the crew to be quiet so Dr. Weir can speak.",
+      "assessment": "By silencing the crew to allow Weir to explain, Miller demonstrates respect and consideration for others' voices, fostering an environment of order and attentiveness.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Acknowledges cryptic information (Latin phrase) and strives to understand its meaning by engaging others in the discussion, demonstrating active leadership and analytical approach.",
-      "Competence": 1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Commands the crew to be silent and listen to Dr. Weir by shouting, 'EVERYBODY SHUT UP! Let the man speak.'",
+      "assessment": "This action demonstrates Miller's ability to assert authority and maintain order in a tense situation, reflecting leadership and control.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Clarifies mission calmly and encourages crew communication, responds supportively to crew concerns ('We're all on edge, Smith')",
-      "Warmth": 1,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Asks Weir if he is convinced the crew could still be alive after seven years.",
+      "assessment": "Miller's question shows concern and hope for the missing crew, indicating empathy and a caring attitude toward others' fate.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Issues precise commands without overt emotional expression",
-      "Warmth": 0,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Asks pointed questions about the transmission and the possibility of survivors after seven years.",
+      "assessment": "This shows Miller's analytical thinking and cautious approach, indicating he is engaged and trying to understand the situation logically.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Gives clear, precise commands to the crew during a complex ship approach in Neptune orbit, demonstrating control and understanding of the situation.",
-      "Competence": 1,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Seeks clarification on the meaning of the Latin phrase in the transmission.",
+      "assessment": "This demonstrates Miller's attention to detail and desire to gather accurate information before making judgments, reflecting intellectual competence.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Acknowledges the tense atmosphere among the crew but maintains composure, showing emotional intelligence and command presence.",
-      "Competence": 1,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Responds to Cooper's joke about hazard pay with a serious reminder that they are looking for survivors.",
+      "assessment": "Miller's response shows a focus on the mission and respect for potential survivors, indicating sincerity and a serious, trustworthy demeanor, though not particularly warm or friendly in this moment.",
+      "rating": 1,
+      "chunk": 15
     },
     {
-      "Action": "Grins grimly and encourages steady approach despite tense situation.",
-      "Warmth": 1,
-      "Chunk": 16
+      "trait": "warmth",
+      "action": "Acknowledges Smith's unease by saying 'We're all on edge, Smith. We're a long way out...'",
+      "assessment": "This statement shows empathy and an attempt to connect with Smith's feelings, demonstrating tolerance and a supportive attitude.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Uses casual, somewhat humorous language addressing crew ('anybody home?') during critical moment.",
-      "Warmth": 1,
-      "Chunk": 16
+      "trait": "warmth",
+      "action": "Gives clear, calm commands to the crew during the approach to Neptune and the Event Horizon.",
+      "assessment": "His leadership is professional and focused, but the interaction is formal and task-oriented rather than warm or friendly.",
+      "rating": 0,
+      "chunk": 15
     },
     {
-      "Action": "Reaches over Smith's shoulder to turn off the proximity warning, calming the situation and allowing focus.",
-      "Warmth": 1,
-      "Chunk": 17
+      "trait": "competence",
+      "action": "Gives clear, precise navigation commands to the flight crew during the approach to Neptune and the Event Horizon.",
+      "assessment": "This demonstrates Miller's skill and confidence in piloting and commanding the ship under challenging conditions, indicating strong technical competence.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Encourages Smith to perform a dangerous flyby despite Smith's hesitation.",
-      "Warmth": -1,
-      "Chunk": 17
+      "trait": "competence",
+      "action": "Orders Starck to attempt communication with the Event Horizon while closing in on the target.",
+      "assessment": "This shows Miller's procedural awareness and leadership, ensuring all standard protocols are followed even in tense situations, reflecting competent command behavior.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Commands reverse thrusters full promptly upon arrival, showing decisive command.",
-      "Competence": 1,
-      "Chunk": 17
+      "trait": "competence",
+      "action": "Responds calmly to Smith's expression of unease about the mission.",
+      "assessment": "Miller's composed response suggests emotional control and confidence, important aspects of competent leadership in high-stress environments.",
+      "rating": 1,
+      "chunk": 15
     },
     {
-      "Action": "Turns off the proximity warning to reduce distraction and maintains focus during the tense approach.",
-      "Competence": 1,
-      "Chunk": 17
+      "trait": "competence",
+      "action": "Acknowledges the danger and uncertainty of the mission but continues with the approach.",
+      "assessment": "While this shows resolve, it also hints at possible underestimation of risks or lack of visible contingency planning, which could be a slight negative indicator of situational judgment.",
+      "rating": -1,
+      "chunk": 15
     },
     {
-      "Action": "Proposes putting the magnetic interference data through TACS and initiates close flyby, demonstrating technical awareness and initiative.",
-      "Competence": 1,
-      "Chunk": 17
+      "trait": "warmth",
+      "action": "Grins grimly and encourages the crew with 'I guess we're about to find out. Keep us slow and steady.'",
+      "assessment": "Miller's grim grin and steady encouragement show a calm, reassuring presence that helps maintain morale and trust among the crew in a tense situation.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Encourages getting closer to the Event Horizon despite hesitation from his pilot, showing confident decision-making under pressure.",
-      "Competence": 1,
-      "Chunk": 17
+      "trait": "warmth",
+      "action": "Calls out to Dr. Weir to come to the bridge, saying 'I think you want to see this.'",
+      "assessment": "Inviting Dr. Weir to witness the event demonstrates inclusiveness and consideration for others' involvement, reflecting a friendly and sincere leadership style.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Orders to lock the ship onto an antenna cluster to dock despite warnings it's not load-bearing.",
-      "Competence": 0,
-      "Chunk": 18
+      "trait": "warmth",
+      "action": "Uses light humor with Starck: 'Starck, anybody home?'",
+      "assessment": "This light teasing suggests a friendly rapport with crew members, indicating tolerance and approachability.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Responds quickly by instructing to find the crew despite ambiguous scan readings.",
-      "Competence": 1,
-      "Chunk": 18
+      "trait": "competence",
+      "action": "Commands to keep the ship slow and steady despite the unknown and potentially dangerous situation.",
+      "assessment": "This shows Miller's calm and measured approach to a high-stress situation, indicating good judgment and control.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Demonstrates situational understanding by questioning the bio-scan anomaly and considering radiation interference.",
-      "Competence": 1,
-      "Chunk": 18
+      "trait": "competence",
+      "action": "Notices the violent shudder of the ship and immediately addresses the situation by querying his crew and maintaining situational awareness.",
+      "assessment": "Demonstrates alertness and active engagement with the ship's status, reflecting competent leadership.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Firmly directs Weir to stay on the bridge and help guide from the comm station, insists on securing the ship first.",
-      "Warmth": 0,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Calls Dr. Weir to the bridge to witness the unfolding event.",
+      "assessment": "Shows decisiveness and awareness of the importance of involving key personnel, indicating good command presence.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Acknowledges Cooper's eagerness but prioritizes safety by regulating EVA turns.",
-      "Warmth": 1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Asks pointed questions about the ship's position and proximity despite limited visibility.",
+      "assessment": "Indicates Miller's insistence on gathering critical information under pressure, a sign of competent command.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Does not use safety lines himself while Justin does, demonstrating risk acceptance but no explicit concern for others' safety.",
-      "Warmth": 0,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Does not panic or issue rash commands despite proximity warnings and the ship being dangerously close to the Event Horizon.",
+      "assessment": "Maintains composure in a crisis, which is a strong indicator of competence.",
+      "rating": 3,
+      "chunk": 16
     },
     {
-      "Action": "Directs the crew methodically (deck by deck, room by room) and organizes roles clearly (assigns Justin to EVA, keeps Weir on comms).",
-      "Competence": 1,
-      "Chunk": 19
+      "trait": "warmth",
+      "action": "Reaches over Smith's shoulder to turn off the proximity warning after Smith's crude comment.",
+      "assessment": "Miller's action to silence the warning promptly after a crude remark suggests a focus on professionalism and maintaining order rather than engaging in banter, showing restraint but little warmth.",
+      "rating": 0,
+      "chunk": 17
     },
     {
-      "Action": "Firmly insists on chain of command and procedure despite Weir’s objections, maintaining control under pressure.",
-      "Competence": 1,
-      "Chunk": 19
+      "trait": "warmth",
+      "action": "Encourages Smith to perform a risky flyby maneuver despite Smith's hesitation.",
+      "assessment": "Miller's insistence on pushing forward despite crew discomfort indicates decisiveness but may also reflect a lack of sensitivity to his crew's concerns, suggesting limited warmth.",
+      "rating": -1,
+      "chunk": 17
     },
     {
-      "Action": "Gives clear orders during EVA and monitors safety protocols, demonstrating situational awareness.",
-      "Competence": 1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Commands 'Reverse thrusters full!' promptly as the ship approaches the Event Horizon.",
+      "assessment": "This shows decisiveness and command presence in a high-stakes situation, indicating good situational awareness and control.",
+      "rating": 2,
+      "chunk": 17
     },
     {
-      "Action": "Miller and Peters do not attach safety lines during EVA, possibly overlooking a safety precaution that Justin adheres to.",
-      "Competence": -1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Reaches over Smith's shoulder to turn off the proximity warning after turbulence subsides.",
+      "assessment": "This action suggests confidence and control over the situation, preventing unnecessary distractions for the crew, reflecting competent leadership.",
+      "rating": 2,
+      "chunk": 17
     },
     {
-      "Action": "Calmly commands the team during airlock opening, clearly and seriously giving orders.",
-      "Warmth": 0,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Asks Smith if he is up for a flyby and then orders to move in closer despite Smith's hesitation.",
+      "assessment": "This shows assertiveness and willingness to take calculated risks, but also potentially overrides crew concerns, which could be seen as both confident and somewhat dismissive.",
+      "rating": 1,
+      "chunk": 17
     },
     {
-      "Action": "Engages in light, friendly banter with Peters and Justin (comments on ice crystals and warns Justin against showing off).",
-      "Warmth": 1,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Orders Smith to use the arm and lock onto the antennae cluster despite the risk of structural damage.",
+      "assessment": "Miller demonstrates decisiveness and trust in his crew's abilities, but the choice to use a non-load bearing structure suggests a willingness to take risks that could endanger the ship or crew, indicating a pragmatic rather than nurturing approach.",
+      "rating": 0,
+      "chunk": 18
     },
     {
-      "Action": "Assigns tasks to team members showing trust and inclusiveness.",
-      "Warmth": 1,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Commands Starck to find the crew aboard the Event Horizon despite unclear and confusing bio-scan readings.",
+      "assessment": "Miller shows concern for the missing crew and persistence in locating them, reflecting a responsible and caring attitude toward others' welfare.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Commands the team to open the airlock door with a countdown and clear on his mark.",
-      "Competence": 1,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Orders Smith to use the arm and lock onto the antennae cluster despite Weir's warning that it's not a load bearing structure.",
+      "assessment": "This shows decisiveness and willingness to take calculated risks to achieve the objective, indicating confidence and command presence.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Judiciously divides team responsibilities and warns against reckless behavior.",
-      "Competence": 1,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Responds promptly to Starck's scan results by instructing to find the crew despite unclear bio-scan readings.",
+      "assessment": "Demonstrates focus on mission priorities and ability to adapt to ambiguous information, reflecting situational awareness and problem-solving skills.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Calmly investigates explosives, asks questions to understand the situation, coordinates with team.",
-      "Warmth": 1,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Questions the possibility of radiation interference affecting the bio-scan when Starck reports something wrong.",
+      "assessment": "Shows technical understanding and critical thinking by considering plausible explanations for sensor anomalies.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Directs Justin clearly to avoid reckless behavior ('No hot-dogging, not on this one') showing control and setting expectations.",
-      "Competence": 1,
-      "Chunk": 21
+      "trait": "warmth",
+      "action": "Firmly insists that Dr. Weir stay on the bridge to guide the team from the comm station despite her protests.",
+      "assessment": "Miller shows a practical and authoritative approach, prioritizing the mission and team safety over accommodating Weir's wishes, which may come across as somewhat inflexible and less warm.",
+      "rating": -1,
+      "chunk": 19
     },
     {
-      "Action": "Uses magnetic plates on boots and gloves to progress carefully and cautiously through a dark and potentially dangerous environment.",
-      "Competence": 1,
-      "Chunk": 21
+      "trait": "warmth",
+      "action": "Tells Cooper to stay on station and lets Justin have the EVA turn, emphasizing fairness and team order.",
+      "assessment": "By ensuring everyone gets their turn and reminding Cooper to stay focused, Miller demonstrates fairness and concern for team roles, reflecting a moderate level of warmth.",
+      "rating": 2,
+      "chunk": 19
     },
     {
-      "Action": "Observes and identifies suspicious explosive charges and asks appropriate questions to understand the situation.",
-      "Competence": 1,
-      "Chunk": 21
+      "trait": "warmth",
+      "action": "Does not use a safety line during EVA while others do.",
+      "assessment": "Miller's choice to forgo a safety line could be interpreted as confidence or recklessness; this omission may suggest a lack of cautious care for his own safety, which could negatively impact perceptions of warmth.",
+      "rating": -1,
+      "chunk": 19
     },
     {
-      "Action": "Seeks further information and takes initiative by querying Starck about bio-scan progress.",
-      "Competence": 1,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Decides to secure the ship methodically, deck by deck, room by room, and delegates tasks clearly to his crew.",
+      "assessment": "This shows a systematic and cautious approach, indicating good situational awareness and leadership skills.",
+      "rating": 2,
+      "chunk": 19
     },
     {
-      "Action": "Keeps calm and vigilant despite uneasy atmosphere, shown by alertness to surroundings and exchanging information with Peters.",
-      "Competence": 1,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Insists that Dr. Weir remain on the bridge to guide the team from the comm station despite her protests.",
+      "assessment": "This demonstrates Miller's ability to assert command and prioritize operational control, reflecting confidence and decisiveness.",
+      "rating": 2,
+      "chunk": 19
     },
     {
-      "Action": "Calms Peters down when she gets anxious during the search.",
-      "Warmth": 1,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Allows Justin to take the EVA turn while instructing Cooper to stay on station and be ready.",
+      "assessment": "Shows good resource management and trust in his crew's abilities, balancing risk and operational needs.",
+      "rating": 1,
+      "chunk": 19
     },
     {
-      "Action": "Replies straightforwardly to Weir that there are no survivors, showing no immediate emotional consolation.",
-      "Warmth": 0,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Miller and Peters enter the airlock without attaching safety lines, unlike Justin.",
+      "assessment": "This could indicate overconfidence or a calculated risk, but it also suggests a potential lapse in safety protocol, which may reflect a slight oversight.",
+      "rating": -1,
+      "chunk": 19
     },
     {
-      "Action": "Calms Peters down when she panics with the searchlight, maintaining control in a tense situation.",
-      "Competence": 1,
-      "Chunk": 22
+      "trait": "warmth",
+      "action": "Gives clear, calm commands to his team during the airlock opening and exploration, including cautioning Justin against 'hot-dogging'.",
+      "assessment": "Miller demonstrates a responsible and protective attitude toward his team, showing concern for their safety and maintaining order, which reflects a trustworthy and considerate nature.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Confidently leads the sweep of the area and communicates effectively with team members over radio.",
-      "Competence": 1,
-      "Chunk": 22
+      "trait": "warmth",
+      "action": "Engages in brief, matter-of-fact dialogue with Peters and Justin without overt friendliness or warmth.",
+      "assessment": "While Miller is professional and clear, his communication lacks warmth or personal connection, indicating a more reserved or task-focused demeanor.",
+      "rating": 0,
+      "chunk": 20
     },
     {
-      "Action": "Acknowledges lack of survivors promptly and moves mission forward without hesitation.",
-      "Competence": 1,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Commands the team to clear and open the airlock door on his mark, coordinating the operation smoothly.",
+      "assessment": "This demonstrates Miller's ability to lead and coordinate technical tasks under pressure, indicating strong situational awareness and command skills.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Relies on visual confirmation ('Peters is right, no one's here') despite computer readings suggesting otherwise.",
-      "Competence": 0,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Observes and comments on the environment, noting the ice crystals and the ship's condition.",
+      "assessment": "This shows Miller's attentiveness to environmental details, which is important for assessing risks and planning actions, reflecting competent observational skills.",
+      "rating": 1,
+      "chunk": 20
     },
     {
-      "Action": "Checks in with Peters on the radio, showing concern for her findings and supporting her investigation.",
-      "Warmth": 1,
-      "Chunk": 24
+      "trait": "competence",
+      "action": "Assigns team members to specific search areas and issues a caution against reckless behavior.",
+      "assessment": "Miller's clear delegation and emphasis on discipline suggest effective leadership and an understanding of operational safety, reinforcing his competence.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Maintains a composed and professional tone during a tense situation without showing impatience or harshness.",
-      "Warmth": 1,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Asks Dr. Weir about the explosive charges, showing concern and seeking understanding.",
+      "assessment": "Miller's inquiry demonstrates a responsible and communicative attitude, indicating trust and openness to collaboration.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Recognizes blood presence and questions its source, indicating awareness of the situation.",
-      "Competence": 1,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Checks with Starck about the bio-scan results to locate any survivors.",
+      "assessment": "This shows Miller's concern for the crew's wellbeing and a desire to find and possibly help others, reflecting empathy and care.",
+      "rating": 3,
+      "chunk": 21
     },
     {
-      "Action": "Directs investigation via radio communications, showing leadership and control.",
-      "Competence": 1,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Moves cautiously with Peters through the dark corridor, sharing the experience.",
+      "assessment": "By moving together and sharing the tense situation, Miller demonstrates solidarity and a supportive presence.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Plans to use the science workstation to locate the crew, demonstrating problem-solving and resourcefulness.",
-      "Competence": 1,
-      "Chunk": 24
+      "trait": "competence",
+      "action": "Uses magnetic plates on boots and gloves to cling to the walls and move cautiously through the dark shaft.",
+      "assessment": "This demonstrates Miller's practical knowledge and careful approach in a hazardous environment, indicating skill and situational awareness.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Asks if the person found is alive, indicating presence of mind and concern.",
-      "Competence": 1,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Notices and identifies a box with the universal symbol for explosives at a coupling in the corridor.",
+      "assessment": "Miller's attention to detail and ability to recognize important objects shows alertness and technical understanding.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Looks up from the workstation, concerned, showing awareness and engagement with unfolding events.",
-      "Competence": 1,
-      "Chunk": 26
+      "trait": "competence",
+      "action": "Questions Dr. Weir about the purpose of the explosive charges after identifying them.",
+      "assessment": "This reflects Miller's inquisitiveness and desire to understand the situation fully, a sign of intelligent command behavior.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Directs Justin to check the containment for radiation leaks and monitors the client status via radio communication.",
-      "Competence": 1,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Asks Starck about the bio-scan results to locate any survivors.",
+      "assessment": "Miller's proactive communication and reliance on team expertise demonstrate effective leadership and situational management.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Data floods Miller's workstation, flashing too fast for comprehension; he reacts with 'What the hell' and rises to investigate the source of a deep roar and danger.",
-      "Competence": 0,
-      "Chunk": 28
+      "trait": "competence",
+      "action": "Keeps moving cautiously despite the eerie environment and lack of visible life.",
+      "assessment": "Shows mental resilience and focus under pressure, maintaining mission objectives despite uncertainty.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Miller is caught off guard by the wave that blows apart the door and slams him against a bulkhead, exclaiming 'Oh shit...!'",
-      "Competence": -1,
-      "Chunk": 28
+      "trait": "warmth",
+      "action": "Calms Peters down by saying, 'Easy, Peters, we're okay, we're okay. Let's finish the sweep.'",
+      "assessment": "Miller's effort to soothe Peters' anxiety and encourage her to stay focused shows a considerate and supportive attitude, indicating warmth.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Tries to get his bearings in the dark and attempts communication with the boarding party, showing presence of mind under pressure.",
-      "Competence": 1,
-      "Chunk": 29
+      "trait": "warmth",
+      "action": "Informs Dr. Weir promptly and clearly about the status of the gravity couches and survivors.",
+      "assessment": "Miller's straightforward communication demonstrates sincerity and trustworthiness, contributing positively to his warmth.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Calls out urgently for Justin, showing concern and desperation.",
-      "Warmth": 1,
-      "Chunk": 30
+      "trait": "warmth",
+      "action": "Splits up with Peters to cover more ground in the search.",
+      "assessment": "While this is a practical decision, it also shows trust in Peters' abilities and respect for her autonomy, which can be seen as a mild positive indicator of warmth.",
+      "rating": 1,
+      "chunk": 22
     },
     {
-      "Action": "Moment of shock and silence when faced with the Burning Man vision, indicating vulnerability.",
-      "Warmth": 1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Calms Peters down when she waves her searchlight around wildly, saying 'Easy, Peters, we're okay, we're okay. Let's finish the sweep.'",
+      "assessment": "This shows Miller's ability to maintain composure under stress and to lead effectively by reassuring his team, indicating emotional intelligence and situational control.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Attempts to maintain communication with Justin despite difficult circumstances and growing desperation.",
-      "Competence": 0,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Disagrees with Starck's computer readings by asserting 'Peters is right, no one's here.'",
+      "assessment": "This suggests Miller trusts his own and his team's direct observations over potentially faulty or ambiguous data, showing practical judgment and confidence in his own assessment.",
+      "rating": 1,
+      "chunk": 22
     },
     {
-      "Action": "Freezes momentarily and is unable to speak when confronted by the vision of the Burning Man.",
-      "Competence": -1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Instructs Peters to 'Keep your eyes open' before entering the hatch.",
+      "assessment": "This demonstrates Miller's awareness of potential danger and his proactive approach to maintaining vigilance, reflecting good leadership and situational awareness.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Maintains communication calmly with crew members during crisis, checks on their status, gives reassurance.",
-      "Competence": 1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Reports clearly and succinctly to Weir that the gravity couches are empty and that there are no survivors.",
+      "assessment": "This indicates Miller's clear communication skills and ability to provide concise, relevant information under pressure.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Does not take direct action visible in the excerpt beyond radio communication.",
-      "Competence": 0,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Splits up with Peters to cover more ground in the forward decks.",
+      "assessment": "This tactical decision shows strategic thinking and efficient use of available personnel to maximize search effectiveness.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Refuses to accept the hopelessness of the situation and insists no one will die on his watch, showing determination to protect his crew.",
-      "Warmth": 1,
-      "Chunk": 32
+      "trait": "warmth",
+      "action": "Says to Dr. Weir, 'If we saw any crew, Doctor, you'd know about it.' and notes that the medical bay looks unused and without casualties.",
+      "assessment": "Miller's statement is straightforward and informative, showing a professional and sincere approach to communication without unnecessary alarm or false reassurance. His calm observation suggests reliability and trustworthiness.",
+      "rating": 2,
+      "chunk": 23
     },
     {
-      "Action": "Supports Dr. Weir's risky plan to board the dangerous Event Horizon despite uncertainties, prioritizing crew survival over fear.",
-      "Warmth": 1,
-      "Chunk": 32
+      "trait": "competence",
+      "action": "Moves through the deserted medical lab, calmly observing the environment and noting the absence of casualties or use of the facility.",
+      "assessment": "This action shows Miller's methodical approach and situational awareness, indicating a competent and careful assessment of the environment.",
+      "rating": 2,
+      "chunk": 23
     },
     {
-      "Action": "Takes charge in a life-threatening emergency, quickly considers options, and decisively orders crew to board the Event Horizon despite risks.",
-      "Competence": 1,
-      "Chunk": 32
+      "trait": "competence",
+      "action": "Responds to Dr. Weir's question about crew presence with a confident statement: 'If we saw any crew, Doctor, you'd know about it.'",
+      "assessment": "This confident communication reflects Miller's leadership and assurance in his observations, suggesting competence in command and information relay.",
+      "rating": 2,
+      "chunk": 23
     },
     {
-      "Action": "Closes his eyes and desperately tries to think of a solution when standard options are exhausted.",
-      "Competence": 1,
-      "Chunk": 32
+      "trait": "warmth",
+      "action": "Communicates calmly and supportively with Peters over the radio, asking what she has found and instructing her to proceed carefully.",
+      "assessment": "Miller's communication shows concern for Peters' safety and a supportive leadership style, indicating trustworthiness and a protective attitude.",
+      "rating": 2,
+      "chunk": 24
     },
     {
-      "Action": "Checks on crew members' well-being by asking 'Everybody okay?'",
-      "Warmth": 1,
-      "Chunk": 33
+      "trait": "warmth",
+      "action": "Acknowledges the presence of blood and the possibility of danger but continues to guide Peters without panic.",
+      "assessment": "Maintaining composure and providing clear guidance in a tense situation reflects a steady and reassuring demeanor, which is a positive indicator of warmth.",
+      "rating": 2,
+      "chunk": 24
     },
     {
-      "Action": "Insists on using limited oxygen supplies despite warnings, prioritizing mission needs over crew comfort.",
-      "Warmth": 0,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "Communicates clearly and calmly over radio with Peters, asking for updates and directing actions.",
+      "assessment": "This shows Miller's ability to maintain command presence and situational awareness under uncertain and potentially dangerous conditions.",
+      "rating": 2,
+      "chunk": 24
     },
     {
-      "Action": "Watches over Starck's shoulder while she works, showing supportive presence.",
-      "Warmth": 1,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "Instructs Peters to investigate the science workstation to find the crew.",
+      "assessment": "This indicates Miller's strategic thinking and prioritization of gathering critical information to assess the situation.",
+      "rating": 2,
+      "chunk": 24
     },
     {
-      "Action": "Takes charge of the crew evacuation, checks on their wellbeing, and immediately evaluates the situation regarding oxygen supply and repair needs.",
-      "Competence": 1,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "Does not immediately react to the discovery of blood and tissue evidence, instead continuing to coordinate with Peters.",
+      "assessment": "This suggests Miller's capacity to remain composed and focused on mission objectives despite disturbing findings.",
+      "rating": 2,
+      "chunk": 24
     },
     {
-      "Action": "Decides to remove his helmet and share limited oxygen despite potential contamination risks, prioritizing survival and repair capability.",
-      "Competence": 1,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "Data floods Miller's workstation, flashing across the screen too fast for comprehension.",
+      "assessment": "Miller appears overwhelmed by the rapid influx of data, suggesting a momentary difficulty in processing critical information under pressure.",
+      "rating": -1,
+      "chunk": 28
     },
     {
-      "Action": "Acts decisively without testing the air quality, potentially risking crew health but demonstrating confidence in urgent circumstances.",
-      "Competence": 1,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "Miller rises to investigate the deep roar filling the ship.",
+      "assessment": "This shows initiative and alertness, indicating Miller's readiness to respond to unexpected events.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "Collaborates closely with Starck to assess the oxygen and CO2 situation, showing concern for crew's survival.",
-      "Warmth": 1,
-      "Chunk": 34
+      "trait": "competence",
+      "action": "The door blows apart as the wave hits, and Miller is swept up and slammed into a bulkhead.",
+      "assessment": "While Miller is physically overwhelmed by the wave, there is no indication of prior preparation or protective action, which may reflect a lack of anticipation or situational control.",
+      "rating": -1,
+      "chunk": 28
     },
     {
-      "Action": "Seeks input from Dr. Weir and tries to understand the mystery behind crew disappearance and blood on the walls, indicating openness and trust.",
-      "Warmth": 1,
-      "Chunk": 34
+      "trait": "warmth",
+      "action": "Calls out to his boarding party and attempts to get a response from Peters despite the chaos and danger.",
+      "assessment": "Miller's effort to maintain communication and check on his team shows concern and responsibility, indicating a caring and trustworthy nature.",
+      "rating": 2,
+      "chunk": 29
     },
     {
-      "Action": "Instructs DJ to take blood samples and compare them to medical records to identify, showing concern for clarity and care for the crew's safety.",
-      "Warmth": 1,
-      "Chunk": 35
+      "trait": "warmth",
+      "action": "Tries to get his bearings in the dark and continues to lead despite disorientation and danger.",
+      "assessment": "His persistence in maintaining leadership under stress suggests dedication and a protective attitude toward his crew, reflecting warmth through responsibility and sincerity.",
+      "rating": 2,
+      "chunk": 29
     },
     {
-      "Action": "Communicates promptly and clearly with Smith about the hull fracture and air shortage, indicating responsibility and reliability.",
-      "Warmth": 1,
-      "Chunk": 35
+      "trait": "competence",
+      "action": "Tries to get his bearings in the dark and attempts to communicate with the boarding party by calling out to Peters.",
+      "assessment": "This shows Miller's presence of mind and leadership under extreme stress, indicating he is trying to maintain command and situational awareness despite difficult conditions.",
+      "rating": 2,
+      "chunk": 29
     },
     {
-      "Action": "Focuses on tasks and monitoring situation without showing emotional support or interaction with other crew members in this excerpt.",
-      "Warmth": 0,
-      "Chunk": 35
+      "trait": "competence",
+      "action": "No clear successful coordination or control of the situation is demonstrated in this excerpt; the ship is violently shaking, consoles are exploding, and communication is failing.",
+      "assessment": "The lack of effective control or clear commands from Miller during the crisis suggests some limitations in his ability to manage the chaos, though this may be due to overwhelming external factors rather than personal incompetence.",
+      "rating": 0,
+      "chunk": 29
     },
     {
-      "Action": "Clearly communicates the dire situation and reorganizes mission priorities with clarity and focus.",
-      "Warmth": 1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Attempts to communicate with Justin over the radio despite growing desperation.",
+      "assessment": "Miller shows persistence and presence of mind in trying to maintain contact with a crew member in distress, indicating situational awareness and leadership under pressure.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Uses humor to lighten the mood ('more than my dick in my hands'), eliciting grim smiles.",
-      "Warmth": 1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Freezes momentarily when confronted with the vision of the Burning Man, unable to speak and blinking as the vision disappears.",
+      "assessment": "This momentary paralysis suggests a lapse in composure and mental control when faced with a terrifying hallucination, indicating vulnerability and a temporary reduction in effective command presence.",
+      "rating": -1,
+      "chunk": 30
     },
     {
-      "Action": "Insists on thoroughness in investigation despite resistance (orders Starck to repeat bio-scan despite his reluctance).",
-      "Warmth": 1,
-      "Chunk": 36
+      "trait": "warmth",
+      "action": "Calls out to crew members over the radio, checking if they are okay and urging them to hold on.",
+      "assessment": "Captain Miller shows concern for his crew's wellbeing by actively communicating and encouraging them during a crisis, indicating care and responsibility.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Demands finding the crew and bodies, demonstrating concern for his men.",
-      "Warmth": 1,
-      "Chunk": 36
+      "trait": "warmth",
+      "action": "Expresses frustration with Smith by asking, 'Smith, where the hell have you been?!'",
+      "assessment": "While the question shows urgency and concern, the tone suggests impatience or anger, which may reduce perceived warmth despite underlying care.",
+      "rating": -1,
+      "chunk": 31
     },
     {
-      "Action": "Catches the ball thrown aggressively by Cooper instead of reacting with anger or reprimand.",
-      "Warmth": 1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Attempts to maintain communication with crew members during a critical emergency, asking Peters if she is okay and trying to locate Cooper and Smith.",
+      "assessment": "This shows Miller's situational awareness and leadership under pressure, as he prioritizes crew status and coordination despite the chaos.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Stops Cooper from escalating the situation, tries to keep order in a tense moment.",
-      "Warmth": 1,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "Responds quickly to reports of emergencies and crew injuries, instructing and questioning crew members to assess the situation.",
+      "assessment": "This indicates Miller's proactive approach and command presence, demonstrating skill in crisis management and information gathering.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Presses Weir for truthful, clear answers about the Core and dangers, showing concern for crew safety.",
-      "Warmth": 1,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "Does not appear to take direct action to assist or lead evacuation in the excerpt, instead focusing on communication.",
+      "assessment": "While communication is critical, the lack of visible direct intervention or decisive orders in this moment may suggest a slight limitation in hands-on leadership or decisiveness under extreme stress.",
+      "rating": -1,
+      "chunk": 31
     },
     {
-      "Action": "Orders the Second Containment room to be sealed and off-limits, citing concern for crew safety after near disaster.",
-      "Warmth": 1,
-      "Chunk": 38
+      "trait": "warmth",
+      "action": "Says 'No one's dying on my watch, Smith!' and insists on finding a solution despite dire circumstances.",
+      "assessment": "This statement shows Miller's protective and caring attitude toward his crew, reflecting a strong sense of responsibility and concern for their wellbeing.",
+      "rating": 3,
+      "chunk": 32
     },
     {
-      "Action": "Orders the Second Containment sealed and off limits due to danger from the black hole despite Weir's reassurances.",
-      "Competence": 1,
-      "Chunk": 38
+      "trait": "warmth",
+      "action": "Decides to follow Dr. Weir's suggestion to board the Event Horizon despite unknown risks.",
+      "assessment": "Miller demonstrates trust in his team and willingness to consider others' ideas, showing openness and a collaborative spirit in a crisis.",
+      "rating": 2,
+      "chunk": 32
     },
     {
-      "Action": "Expresses skepticism and distrust towards Weir's confidence in black hole containment after nearly losing part of his ship and men.",
-      "Competence": 1,
-      "Chunk": 38
+      "trait": "warmth",
+      "action": "Closes his eyes and desperately tries to think of a solution when faced with a life-threatening problem.",
+      "assessment": "This internal behavior reveals Miller's sincere concern and emotional engagement with the situation, indicating empathy and earnestness.",
+      "rating": 2,
+      "chunk": 32
     },
     {
-      "Action": "Leans over Weir's shoulder to check the data, showing engagement and collaborative interest.",
-      "Warmth": 1,
-      "Chunk": 40
+      "trait": "competence",
+      "action": "Upon learning that the ship is losing pressure rapidly and oxygen tanks are cracked, Miller immediately asks if there is enough time for a weld to fix the breach.",
+      "assessment": "This shows Miller's quick situational assessment and focus on practical solutions under pressure, indicating competent crisis management.",
+      "rating": 2,
+      "chunk": 32
     },
     {
-      "Action": "Asks 'Explanation?' indicating a straightforward and professional approach without showing impatience or dismissiveness.",
-      "Warmth": 0,
-      "Chunk": 40
+      "trait": "competence",
+      "action": "When told there is no time and reserve tanks are gone, Miller refuses to accept defeat and insists no one will die on his watch, then quickly considers alternative options.",
+      "assessment": "This demonstrates resilience, leadership, and problem-solving skills, reflecting strong competence in high-stress situations.",
+      "rating": 3,
+      "chunk": 32
     },
     {
-      "Action": "Leans over Dr. Weir's shoulder to inquire about the data anomaly, showing active involvement and situational awareness.",
-      "Competence": 1,
-      "Chunk": 40
+      "trait": "competence",
+      "action": "Miller agrees with Dr. Weir's suggestion to board the Event Horizon despite unknown risks, ordering the crew to get on board and stating he will meet them at the airlock.",
+      "assessment": "This decision shows decisiveness and willingness to take calculated risks to save lives, a mark of competent leadership, though it also carries some risk due to unknown factors.",
+      "rating": 2,
+      "chunk": 32
     },
     {
-      "Action": "Quickly engages with technical details (e.g., noting the year discrepancy and questioning the explanation), demonstrating understanding and command presence.",
-      "Competence": 1,
-      "Chunk": 40
+      "trait": "warmth",
+      "action": "Asks the crew 'Everybody okay?' while they evacuate, showing concern for their wellbeing.",
+      "assessment": "This question reflects a genuine concern for the safety and condition of his crew, indicating a caring and attentive nature.",
+      "rating": 2,
+      "chunk": 33
     },
     {
-      "Action": "Expresses concern and curiosity about the fate of the original crew, wondering if they ever made it.",
-      "Warmth": 1,
-      "Chunk": 41
+      "trait": "warmth",
+      "action": "Decides to use the remaining oxygen in their suits to repair the Clark despite the risk, saying 'Like it or not, this is the only oxygen for three billion kilometers.'",
+      "assessment": "While pragmatic and focused on survival, this decision shows a willingness to share limited resources and take personal risks for the group's benefit, reflecting responsibility and trustworthiness, though it may also come off as somewhat stern or uncompromising.",
+      "rating": 1,
+      "chunk": 33
     },
     {
-      "Action": "Freezes the unsettling video frame and asks for an explanation, showing engagement and attention to others' input.",
-      "Warmth": 1,
-      "Chunk": 41
+      "trait": "warmth",
+      "action": "Removes his helmet first and breathes the questionable air to demonstrate it is breathable.",
+      "assessment": "By leading by example and taking the first risk, Miller shows courage and a protective attitude toward his crew, which is a warm and reassuring behavior.",
+      "rating": 3,
+      "chunk": 33
     },
     {
-      "Action": "Freezes the frame and squints at the screen, trying to make sense of unclear and disturbing footage.",
-      "Competence": 1,
-      "Chunk": 41
+      "trait": "warmth",
+      "action": "Watches over Starck's shoulder as she works on communications.",
+      "assessment": "This behavior suggests attentiveness and support, indicating a collaborative and involved leadership style that fosters trust and camaraderie.",
+      "rating": 2,
+      "chunk": 33
     },
     {
-      "Action": "Immediately instructs to run the image through filters to clarify the ambiguous visuals.",
-      "Competence": 1,
-      "Chunk": 41
+      "trait": "warmth",
+      "action": "Focuses on practical survival concerns such as oxygen levels and repair time without overt emotional expression.",
+      "assessment": "While this shows competence and focus, the lack of expressed empathy or encouragement in a stressful situation may indicate a reserved or emotionally distant demeanor, slightly reducing perceived warmth.",
+      "rating": 0,
+      "chunk": 33
     },
     {
-      "Action": "Orders Peters to run the image through filters to clean it up, showing prompt decision-making.",
-      "Competence": 1,
-      "Chunk": 42
+      "trait": "competence",
+      "action": "Checks on the crew as they evacuate and asks if everyone is okay.",
+      "assessment": "This shows situational awareness and leadership, ensuring the team's safety before proceeding.",
+      "rating": 2,
+      "chunk": 33
     },
     {
-      "Action": "Recognizes the critical power drain and its threat to life support, conveying awareness and prioritization.",
-      "Competence": 1,
-      "Chunk": 42
+      "trait": "competence",
+      "action": "Decides to remove his helmet and use the limited oxygen in their suits to repair the Clark despite the risk of contamination.",
+      "assessment": "This demonstrates decisiveness and prioritization under pressure, valuing mission-critical needs over personal comfort or safety concerns.",
+      "rating": 2,
+      "chunk": 33
     },
     {
-      "Action": "Attempts to stop others from approaching the danger, showing protective leadership.",
-      "Competence": 1,
-      "Chunk": 42
+      "trait": "competence",
+      "action": "Watches over Starck's shoulder as she assesses communications systems.",
+      "assessment": "This indicates active involvement and oversight, showing he stays informed about critical ship systems.",
+      "rating": 1,
+      "chunk": 33
     },
     {
-      "Action": "Follows Weir into a dangerous situation and assists him by removing bolts and handing tools, showing hands-on involvement and teamwork.",
-      "Competence": 1,
-      "Chunk": 42
+      "trait": "competence",
+      "action": "Asks about oxygen levels after learning communications are down.",
+      "assessment": "This reflects practical thinking and concern for resource management in a crisis.",
+      "rating": 2,
+      "chunk": 33
     },
     {
-      "Action": "Checks the reactor shell with Geiger counter and welds for radiation leaks, demonstrating methodical examination.",
-      "Competence": 1,
-      "Chunk": 42
+      "trait": "warmth",
+      "action": "Asks Starck about the carbon dioxide levels and life readings, showing concern for the crew's survival and well-being.",
+      "assessment": "Miller's focus on the crew's safety and his proactive questioning demonstrate a responsible and caring attitude, indicative of warmth.",
+      "rating": 2,
+      "chunk": 34
     },
     {
-      "Action": "Responds promptly to the emergency situation aboard the Event Horizon and maintains communication with crew members (e.g., responding to Dr. Weir's call)",
-      "Warmth": 1,
-      "Chunk": 43
+      "trait": "warmth",
+      "action": "Questions Dr. Weir about the bloodstained wall and what happened, seeking understanding of the situation.",
+      "assessment": "By engaging with Weir and trying to comprehend the traumatic scene, Miller shows empathy and a sincere desire to grasp the gravity of the crew's fate, reflecting warmth.",
+      "rating": 2,
+      "chunk": 34
     },
     {
-      "Action": "Does not overtly show empathy or emotional support in this excerpt despite the distress of others (e.g., Justin's fit, Claire's cry for help)",
-      "Warmth": 0,
-      "Chunk": 43
+      "trait": "competence",
+      "action": "Asks about carbon dioxide levels and considers the state of CO2 filters on the Event Horizon.",
+      "assessment": "This shows Miller's awareness of critical life support issues beyond just oxygen, indicating thoroughness and technical understanding.",
+      "rating": 2,
+      "chunk": 34
     },
     {
-      "Action": "Responds promptly and calmly to a critical loss of power onboard, addressing Dr. Weir for updates.",
-      "Competence": 1,
-      "Chunk": 43
+      "trait": "competence",
+      "action": "Suggests taking filters from the Clark to extend breathable air supply.",
+      "assessment": "This demonstrates resourcefulness and quick problem-solving skills under pressure.",
+      "rating": 2,
+      "chunk": 34
     },
     {
-      "Action": "Does not intervene when Weir reports problems with his flashlight and the worsening situation; waits for further information instead of acting immediately.",
-      "Competence": 0,
-      "Chunk": 43
+      "trait": "competence",
+      "action": "Inquires about life readings and the cause of mysterious bio-readings.",
+      "assessment": "Shows Miller's investigative mindset and desire to understand unknown threats, reflecting analytical thinking.",
+      "rating": 2,
+      "chunk": 34
     },
     {
-      "Action": "Expresses frustration and insists to DJ that his sighting was real, showing concern for truth and validation.",
-      "Warmth": 1,
-      "Chunk": 44
+      "trait": "competence",
+      "action": "Questions the whereabouts of the rest of the crew after finding only blood and no survivors.",
+      "assessment": "Indicates thoroughness and attention to detail in assessing the situation, though no immediate solution is offered.",
+      "rating": 1,
+      "chunk": 34
     },
     {
-      "Action": "Dismisses Starck's question about the identity of the Burning Man, avoiding direct engagement.",
-      "Warmth": -1,
-      "Chunk": 44
+      "trait": "competence",
+      "action": "Looks to Dr. Weir for suggestions but receives no response.",
+      "assessment": "While Miller seeks input from experts, his reliance on others here may suggest some hesitation or lack of immediate leadership in crisis.",
+      "rating": 0,
+      "chunk": 34
     },
     {
-      "Action": "Directly appeals to Dr. Weir to confirm his own experience, indicating trust and reliance on others.",
-      "Warmth": 1,
-      "Chunk": 44
+      "trait": "warmth",
+      "action": "Instructs DJ to take blood samples and compare them to medical records to identify whose blood it is.",
+      "assessment": "This shows Miller's concern for the crew's wellbeing and his desire to understand the situation fully, indicating responsibility and care.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Insists to DJ that what he saw was not a hallucination despite the stressful conditions, showing conviction and clarity.",
-      "Competence": 1,
-      "Chunk": 44
+      "trait": "warmth",
+      "action": "Communicates with Smith about the hull fracture and the urgency of the air supply situation.",
+      "assessment": "Miller's clear and direct communication reflects his leadership and concern for the crew's safety, showing a protective and trustworthy nature.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Looks toward the Core and stares at the Burning Man without immediate action or reaction.",
-      "Competence": 0,
-      "Chunk": 44
+      "trait": "warmth",
+      "action": "Observes the crew's condition on the bridge, noting their wan and haggard faces.",
+      "assessment": "His awareness of the crew's emotional and physical state suggests empathy and attentiveness, positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Ignores Starck's question about who the Burning Man could be, potentially avoiding providing uncertain information.",
-      "Competence": 0,
-      "Chunk": 44
+      "trait": "warmth",
+      "action": "Does not engage in comforting or encouraging the visibly distressed crew members on the bridge.",
+      "assessment": "While Miller notices the crew's condition, his lack of direct comforting or morale-boosting actions may indicate a reserved or pragmatic approach, slightly limiting warmth.",
+      "rating": -1,
+      "chunk": 35
     },
     {
-      "Action": "Validates Peters' feelings about trauma, acknowledges unusual mental effects experienced.",
-      "Warmth": 1,
-      "Chunk": 45
+      "trait": "competence",
+      "action": "Insists that they don't have time to repair the hull because they will run out of air in twenty hours.",
+      "assessment": "This shows Miller's awareness of critical time constraints and prioritization of mission-critical issues, indicating good situational awareness and decisiveness.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Intervenes firmly to stop Smith's outburst and aggression, commands control to prevent escalation.",
-      "Warmth": 1,
-      "Chunk": 45
+      "trait": "competence",
+      "action": "Orders DJ to take blood samples from stains and compare them to medical records to identify whose blood it is.",
+      "assessment": "This demonstrates Miller's methodical and investigative approach, showing intelligence and a proactive attitude toward understanding the situation.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Firmly reprimands Smith, emphasizes need for calm and rational thinking for everyone's safety.",
-      "Warmth": 1,
-      "Chunk": 45
+      "trait": "competence",
+      "action": "Stares at the video monitor watching Smith repair the Lewis and Clark, then turns away from the window.",
+      "assessment": "This suggests Miller is monitoring ongoing repairs and maintaining situational awareness, but the excerpt does not show active intervention or leadership in this moment, indicating a neutral level of engagement.",
+      "rating": 0,
+      "chunk": 35
     },
     {
-      "Action": "Encourages the crew to make constructive suggestions in a crisis.",
-      "Warmth": 1,
-      "Chunk": 46
+      "trait": "warmth",
+      "action": "Addresses the crew with honesty about the dire situation and sets clear priorities focused on survival and mission objectives.",
+      "assessment": "Miller's straightforward communication demonstrates respect and trust toward his crew, fostering a sense of shared purpose and transparency.",
+      "rating": 2,
+      "chunk": 36
     },
     {
-      "Action": "Dismisses Starck's theory abruptly and insists he doesn't need to hear it.",
-      "Warmth": -1,
-      "Chunk": 46
+      "trait": "warmth",
+      "action": "Uses humor ('I'd like to have more than my dick in my hands.') to lighten the mood after delivering grim news.",
+      "assessment": "This attempt at humor shows an effort to maintain morale and camaraderie, indicating a friendly and approachable demeanor.",
+      "rating": 2,
+      "chunk": 36
     },
     {
-      "Action": "Delegates tasks clearly and promptly, encouraging constructive suggestions.",
-      "Competence": 1,
-      "Chunk": 46
+      "trait": "warmth",
+      "action": "Insists on thorough investigation and care for the missing crew member, demanding bio-scans and recovery of bodies.",
+      "assessment": "This reflects genuine concern and respect for his men, showing sincerity and trustworthiness in leadership.",
+      "rating": 3,
+      "chunk": 36
     },
     {
-      "Action": "Confidently orders Weir to stabilize the fields without hesitation.",
-      "Competence": 1,
-      "Chunk": 46
+      "trait": "warmth",
+      "action": "Catches the ball thrown by Cooper after a tense exchange between Cooper and Weir.",
+      "assessment": "By catching the ball calmly, Miller subtly diffuses tension and maintains order, showing tolerance and steadiness.",
+      "rating": 1,
+      "chunk": 36
     },
     {
-      "Action": "Dismisses Starck's cautious theory quickly without consideration.",
-      "Competence": -1,
-      "Chunk": 46
+      "trait": "competence",
+      "action": "Clearly communicates the critical change in mission priorities to the crew, emphasizing survival and repair of the ship.",
+      "assessment": "This demonstrates Miller's ability to assess the situation realistically and adjust objectives accordingly, showing situational awareness and leadership.",
+      "rating": 3,
+      "chunk": 36
     },
     {
-      "Action": "Expresses need for answers over sleep, showing determination and prioritization.",
-      "Competence": 1,
-      "Chunk": 46
+      "trait": "competence",
+      "action": "Assigns specific tasks to crew members (Peters to ship's log, Starck to repeat bio-scan) and insists on thoroughness despite skepticism.",
+      "assessment": "Shows decisiveness and insistence on gathering accurate information, reflecting a methodical and competent approach to problem-solving.",
+      "rating": 2,
+      "chunk": 36
     },
     {
-      "Action": "Appears dismissive and closed-minded when Starck tries to explain bio-readings.",
-      "Competence": -1,
-      "Chunk": 46
+      "trait": "competence",
+      "action": "Uses humor ('I'd like to have more than my dick in my hands') to maintain morale among the crew.",
+      "assessment": "Indicates emotional intelligence and leadership skill in managing crew morale under stress, which is a positive competence indicator.",
+      "rating": 2,
+      "chunk": 36
     },
     {
-      "Action": "Allows himself to relax briefly after hearing an implausible explanation, showing some trust in Starck.",
-      "Warmth": 1,
-      "Chunk": 47
+      "trait": "competence",
+      "action": "Intervenes to catch the ball thrown by Cooper after a tense exchange.",
+      "assessment": "While a minor action, it shows attentiveness and physical readiness, though it is neutral in terms of competence.",
+      "rating": 0,
+      "chunk": 36
     },
     {
-      "Action": "Shows impatience and dismissiveness toward Starck's explanation, calling it 'bullshit stories'.",
-      "Warmth": -1,
-      "Chunk": 47
+      "trait": "competence",
+      "action": "Does not directly mediate the escalating tension between Cooper and Weir, allowing the conflict to escalate.",
+      "assessment": "This omission could suggest a slight lapse in conflict management or authority enforcement, which may undermine crew cohesion.",
+      "rating": -1,
+      "chunk": 36
     },
     {
-      "Action": "Tells Starck not to share the disturbing information with others, protecting the crew from additional worry.",
-      "Warmth": 1,
-      "Chunk": 47
+      "trait": "warmth",
+      "action": "Interrupts Cooper firmly to stop his outburst and bring order.",
+      "assessment": "Miller's intervention to calm Cooper suggests a desire to maintain group cohesion and prevent panic, indicating a responsible and protective attitude.",
+      "rating": 2,
+      "chunk": 37
     },
     {
-      "Action": "Focuses on survival and practical actions rather than engaging emotionally with the crew.",
-      "Warmth": 0,
-      "Chunk": 47
+      "trait": "warmth",
+      "action": "Expresses concern that whatever happened to Justin could happen to all of them.",
+      "assessment": "This shows Miller's empathy and care for the crew's wellbeing, reflecting a sincere and trustworthy nature.",
+      "rating": 3,
+      "chunk": 37
     },
     {
-      "Action": "Questions Starck's seemingly impossible explanation, showing critical thinking and skepticism.",
-      "Competence": 1,
-      "Chunk": 47
+      "trait": "warmth",
+      "action": "Presses Weir for clear answers about the Core and the gravity distortion despite Weir's hesitation.",
+      "assessment": "Miller's insistence on understanding the situation demonstrates his responsibility and concern for the crew's safety, though it is more pragmatic than warm.",
+      "rating": 1,
+      "chunk": 37
     },
     {
-      "Action": "Focuses on practical survival ('survive the next ten hours') rather than getting lost in unlikely theories, demonstrating pragmatism and prioritization.",
-      "Competence": 1,
-      "Chunk": 47
+      "trait": "warmth",
+      "action": "Shares a moment of awe and disbelief with the crew upon seeing the Core and learning about the black hole.",
+      "assessment": "His shared amazement with others shows openness and a willingness to connect emotionally with the team.",
+      "rating": 2,
+      "chunk": 37
     },
     {
-      "Action": "Takes immediate action by putting on an EVA suit to work on the Clark, showing readiness and decisive response to the situation.",
-      "Competence": 1,
-      "Chunk": 47
+      "trait": "competence",
+      "action": "Commands Cooper to stop escalating the situation ('Cooper! Enough!') and attempts to maintain order.",
+      "assessment": "This shows Miller's ability to assert authority and manage crew dynamics under stress, indicating leadership competence.",
+      "rating": 2,
+      "chunk": 37
     },
     {
-      "Action": "Instructs Starck not to tell others about the incredible theory, indicating thoughtful management of crew morale and information.",
-      "Competence": 1,
-      "Chunk": 47
+      "trait": "competence",
+      "action": "Presses Dr. Weir for clear, concise information about the Core and the cause of the gravitational distortion despite Weir's reluctance.",
+      "assessment": "Demonstrates Miller's focus on gathering critical information efficiently and his insistence on understanding the technical situation, reflecting intellectual competence and decisiveness.",
+      "rating": 3,
+      "chunk": 37
     },
     {
-      "Action": "Not present or active in this excerpt; no demonstration of competence or incompetence.",
-      "Competence": 0,
-      "Chunk": 48
+      "trait": "competence",
+      "action": "Expresses disbelief and concern about the black hole in the Core ('It's insane').",
+      "assessment": "While this shows emotional reaction, it also reflects a realistic appraisal of the danger, indicating situational awareness; however, the emotional tone may slightly undermine his usual composure.",
+      "rating": 1,
+      "chunk": 37
     },
     {
-      "Action": "Responds promptly to radio call, indicating situational awareness and communication with team.",
-      "Warmth": 1,
-      "Chunk": 49
+      "trait": "competence",
+      "action": "Engages with technical explanations about the gravity drive and the black hole core alongside experts.",
+      "assessment": "Shows willingness to understand complex technical details, which is important for competent command, though he relies on experts rather than demonstrating deep technical knowledge himself.",
+      "rating": 1,
+      "chunk": 37
     },
     {
-      "Action": "Clings to the hull with others and works carefully to remove access panel, showing cooperation and teamwork.",
-      "Warmth": 1,
-      "Chunk": 49
+      "trait": "warmth",
+      "action": "Insists that the Second Containment room be sealed and off limits despite Weir's reassurances.",
+      "assessment": "Miller's insistence on sealing the room shows a protective attitude toward his crew's safety, indicating care and responsibility, which are aspects of warmth.",
+      "rating": 2,
+      "chunk": 38
     },
     {
-      "Action": "Commands Cooper to stay and keep working but assures he'll get Justin himself.",
-      "Warmth": 1,
-      "Chunk": 50
+      "trait": "warmth",
+      "action": "Expresses anger and concern that the black hole nearly destroyed his ship and may have killed one of his men.",
+      "assessment": "His emotional response reveals genuine concern for his crew's wellbeing, reflecting trustworthiness and good-natured leadership.",
+      "rating": 3,
+      "chunk": 38
     },
     {
-      "Action": "Moves urgently and risks safety to reach Justin quickly.",
-      "Warmth": 1,
-      "Chunk": 50
+      "trait": "competence",
+      "action": "Orders the Second Containment room to be sealed and off limits despite Weir's reassurances.",
+      "assessment": "This action demonstrates Miller's cautious and decisive leadership, prioritizing crew safety over blind trust in technology, indicating sound judgment and situational awareness.",
+      "rating": 2,
+      "chunk": 38
     },
     {
-      "Action": "Commands Cooper to stay and keep working while he takes responsibility to handle the dangerous situation himself.",
-      "Competence": 1,
-      "Chunk": 50
+      "trait": "competence",
+      "action": "Expresses concern that the black hole nearly destroyed his ship and may have killed a crew member.",
+      "assessment": "Acknowledging the real danger and consequences of the black hole shows Miller's realistic appraisal of threats and responsibility for his crew, reflecting competent command.",
+      "rating": 2,
+      "chunk": 38
     },
     {
-      "Action": "Moves with great agility and uses equipment (magnetic plates) skillfully to navigate the ship's exterior under hazardous conditions.",
-      "Competence": 1,
-      "Chunk": 50
+      "trait": "competence",
+      "action": "Leans over Dr. Weir's shoulder to inquire about the anomaly in the Event Horizon's computer date.",
+      "assessment": "This shows Miller's active engagement and situational awareness, indicating he is attentive and involved in understanding critical technical details.",
+      "rating": 2,
+      "chunk": 40
     },
     {
-      "Action": "Speaks urgently but clearly over radio communication to coordinate with Starck, showing situational awareness and leadership under pressure.",
-      "Competence": 1,
-      "Chunk": 50
+      "trait": "competence",
+      "action": "Asks for an explanation about the time discrepancy after Weir presents the data.",
+      "assessment": "This demonstrates Miller's analytical mindset and willingness to question and understand unusual phenomena, reflecting intellectual curiosity and leadership.",
+      "rating": 2,
+      "chunk": 40
     },
     {
-      "Action": "Moves recklessly through the superstructure, focused on action to possibly help others.",
-      "Warmth": 1,
-      "Chunk": 52
+      "trait": "warmth",
+      "action": "Expresses concern and curiosity about the fate of the original crew by saying, 'I wonder if they ever made it.'",
+      "assessment": "This shows a thoughtful and empathetic side, indicating Miller cares about others' wellbeing and outcomes.",
+      "rating": 2,
+      "chunk": 41
     },
     {
-      "Action": "Moves recklessly leaping from one beam to another, trying to build up speed.",
-      "Competence": 0,
-      "Chunk": 52
+      "trait": "warmth",
+      "action": "Freezes the frame and squints at the screen, showing focus and engagement with the disturbing footage.",
+      "assessment": "His attentive and serious approach suggests sincerity and a desire to understand the situation fully, reflecting trustworthiness and responsibility.",
+      "rating": 2,
+      "chunk": 41
     },
     {
-      "Action": "Reassures and encourages Justin repeatedly on radio, insisting he will not let him die and giving clear instructions to save him.",
-      "Warmth": 1,
-      "Chunk": 53
+      "trait": "warmth",
+      "action": "Directs Peters to clean up the image by saying, 'Do it.'",
+      "assessment": "While this is a straightforward command, it shows decisiveness and trust in his team’s abilities, but lacks warmth or encouragement.",
+      "rating": 0,
+      "chunk": 41
     },
     {
-      "Action": "Rushes and risks a dangerous leap across a chasm to reach and save Justin without hesitation.",
-      "Warmth": 1,
-      "Chunk": 53
+      "trait": "competence",
+      "action": "Freezes the frame and squints at the screen to analyze the distorted video feed.",
+      "assessment": "This shows Miller's attentiveness and analytical approach to unclear data, indicating a methodical and competent mindset.",
+      "rating": 2,
+      "chunk": 41
     },
     {
-      "Action": "Leaps recklessly between beams but successfully reaches the airlock, showing physical agility and courage.",
-      "Competence": 1,
-      "Chunk": 53
+      "trait": "competence",
+      "action": "Immediately instructs Peters to run the image through filters to clarify the distorted video.",
+      "assessment": "This demonstrates decisiveness and effective delegation, reflecting confidence and skill in managing technical problems.",
+      "rating": 2,
+      "chunk": 41
     },
     {
-      "Action": "Calmly and clearly instructs Justin over radio under extreme stress, helping him regain composure and follow life-saving procedures.",
-      "Competence": 1,
-      "Chunk": 53
+      "trait": "competence",
+      "action": "Expresses uncertainty aloud ('What the hell is that?') when confronted with incomprehensible data.",
+      "assessment": "While showing honesty and openness to uncertainty, this moment reveals a limitation in immediate understanding but does not necessarily detract from overall competence.",
+      "rating": 0,
+      "chunk": 41
     },
     {
-      "Action": "Takes decisive action without hesitation, demonstrating confidence and focus despite dangerous circumstances.",
-      "Competence": 1,
-      "Chunk": 53
+      "trait": "warmth",
+      "action": "Orders the rest of the crew to stay behind and not approach the dangerous area near the Core.",
+      "assessment": "By instructing others to stay back from potential danger, Miller shows concern for their safety and well-being, indicating a protective and responsible nature.",
+      "rating": 2,
+      "chunk": 42
     },
     {
-      "Action": "Pushes off into space to catch Justin's body and pulls him back into the airlock, risking his own safety to save him.",
-      "Warmth": 1,
-      "Chunk": 54
+      "trait": "warmth",
+      "action": "Assists Weir in removing bolts and handing him tools to investigate the power drain.",
+      "assessment": "Miller's willingness to help a crew member directly and provide necessary support reflects cooperation and a supportive attitude.",
+      "rating": 2,
+      "chunk": 42
     },
     {
-      "Action": "Sits exhausted after the rescue, showing physical and emotional toll but does not abandon his responsibility.",
-      "Warmth": 1,
-      "Chunk": 54
+      "trait": "warmth",
+      "action": "Expresses urgency about the power drain and its impact on life support.",
+      "assessment": "His concern about the crew's survival and the critical situation shows a sincere care for others' lives.",
+      "rating": 2,
+      "chunk": 42
     },
     {
-      "Action": "Successfully pushes off in zero gravity and catches Justin's body, bringing him back into the airlock before doors close.",
-      "Competence": 1,
-      "Chunk": 54
+      "trait": "warmth",
+      "action": "Follows Weir into the corridor despite the risk.",
+      "assessment": "This action suggests a readiness to share danger with others rather than leaving them alone, indicating solidarity and courage, which are aspects of warmth.",
+      "rating": 2,
+      "chunk": 42
     },
     {
-      "Action": "Pulls Justin inside the airlock and secures the door quickly, allowing emergency medical procedures to begin.",
-      "Competence": 1,
-      "Chunk": 54
+      "trait": "competence",
+      "action": "Immediately recognizes the critical power drain and its threat to life support, and orders Peters to run image filters to diagnose the problem.",
+      "assessment": "This shows situational awareness and quick decision-making under pressure, indicating competent leadership.",
+      "rating": 2,
+      "chunk": 42
     },
     {
-      "Action": "Sits exhausted and removes his helmet only after ensuring Justin is in care, showing composure under stress.",
-      "Competence": 1,
-      "Chunk": 54
+      "trait": "competence",
+      "action": "Stops Weir from entering a dangerous area alone and instructs the rest of the crew to stay put.",
+      "assessment": "This demonstrates prudent risk management and concern for crew safety, reflecting competent command judgment.",
+      "rating": 2,
+      "chunk": 42
     },
     {
-      "Action": "Says gently to Peters, 'We need to know what happened to the crew. Before it happens to us.'",
-      "Warmth": 1,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "Uses a Geiger counter to check for radiation before proceeding, and assists Weir in removing bolts and handing over tools.",
+      "assessment": "Shows technical knowledge and hands-on involvement, supporting the team effectively, which is a positive indicator of competence.",
+      "rating": 2,
+      "chunk": 42
     },
     {
-      "Action": "Thanks Peters after he agrees to look at the log despite obvious fear.",
-      "Warmth": 1,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "Expresses clear understanding of the consequences of losing power (air quality deteriorating).",
+      "assessment": "Demonstrates awareness of critical ship systems and their interdependencies, indicating solid operational competence.",
+      "rating": 2,
+      "chunk": 42
     },
     {
-      "Action": "Responds to Weir's dismissiveness with a pointed question about his expert opinion.",
-      "Warmth": 0,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "Follows Weir into the containment area and inspects the reactor shell carefully with a Geiger counter.",
+      "assessment": "Shows thoroughness and caution in investigation, reflecting competent technical and leadership behavior.",
+      "rating": 2,
+      "chunk": 42
     },
     {
-      "Action": "Reassures the group with confidence by saying 'We'll make it.' despite the dire circumstances.",
-      "Competence": 1,
-      "Chunk": 55
+      "trait": "warmth",
+      "action": "Responds promptly to the emergency situation by acknowledging the loss of power and calling for Dr. Weir's attention.",
+      "assessment": "Captain Miller demonstrates responsibility and concern for his crew's safety by actively managing the crisis and seeking expert assistance.",
+      "rating": 2,
+      "chunk": 43
     },
     {
-      "Action": "Calmly and gently insists on gathering critical information about what happened to the crew to prevent similar fate.",
-      "Competence": 1,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "Responds promptly to the loss of power and communicates with Dr. Weir about the situation.",
+      "assessment": "This shows situational awareness and leadership in a crisis, indicating competent command under pressure.",
+      "rating": 2,
+      "chunk": 43
     },
     {
-      "Action": "Thanks Peters for agreeing to check the logs, showing leadership and appreciation.",
-      "Competence": 1,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "Does not appear directly in the excerpt taking physical action or making detailed decisions, mostly responding to reports from crew.",
+      "assessment": "While Miller shows awareness, the lack of proactive or decisive action in this critical moment suggests some passivity or reliance on others, which slightly tempers the impression of full competence.",
+      "rating": 0,
+      "chunk": 43
     },
     {
-      "Action": "Explodes angrily at Weir, accusing him of lying and demanding answers about the ship.",
-      "Warmth": -1,
-      "Chunk": 56
+      "trait": "warmth",
+      "action": "Insists to DJ that the Burning Man was not a hallucination, showing concern and seriousness about the crew's experiences.",
+      "assessment": "Miller's insistence reflects his sincerity and trustworthiness in acknowledging others' experiences, indicating a degree of warmth through validation and concern.",
+      "rating": 2,
+      "chunk": 44
     },
     {
-      "Action": "Stops abruptly when hearing a distant cry and looks for crew member, showing concern.",
-      "Warmth": 1,
-      "Chunk": 56
+      "trait": "warmth",
+      "action": "Presses Dr. Weir to confirm if he saw or heard anything about the apparition.",
+      "assessment": "By seeking input from others and showing concern for their perceptions, Miller demonstrates openness and a collaborative attitude, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 44
     },
     {
-      "Action": "Leans against the wall and sinks to the floor, head in hands, showing vulnerability and emotional strain.",
-      "Warmth": 1,
-      "Chunk": 56
+      "trait": "warmth",
+      "action": "Avoids answering Starck's direct question about who the Burning Man might be.",
+      "assessment": "Miller's omission here may suggest evasiveness or withholding information, which could indicate a lack of openness or trust, slightly detracting from warmth.",
+      "rating": -1,
+      "chunk": 44
     },
     {
-      "Action": "Expresses frustration and demands clear answers to critical questions about the ship and its past.",
-      "Competence": 1,
-      "Chunk": 56
+      "trait": "competence",
+      "action": "Miller insists that the Burning Man he saw was real and not a hallucination despite others suggesting otherwise.",
+      "assessment": "This shows Miller's confidence in his own perceptions and his ability to trust his instincts under stressful and confusing circumstances, which is a positive indicator of competence.",
+      "rating": 2,
+      "chunk": 44
     },
     {
-      "Action": "Explodes in anger at Weir, accusing him and dismissing his explanations as bullshit.",
-      "Competence": -1,
-      "Chunk": 56
+      "trait": "competence",
+      "action": "Miller ignores Starck's question about who the Burning Man might be and instead presses Dr. Weir for information.",
+      "assessment": "This suggests Miller is focused on gathering relevant information and maintaining control of the situation, demonstrating leadership and prioritization skills, which reflect competence.",
+      "rating": 2,
+      "chunk": 44
     },
     {
-      "Action": "Moves through the ship with alertness, quickly reacting to a distant cry by spinning around to investigate.",
-      "Competence": 1,
-      "Chunk": 56
+      "trait": "competence",
+      "action": "Miller's voice trails off and he stares at the Burning Man without immediate action.",
+      "assessment": "This moment of hesitation could indicate uncertainty or shock, which slightly detracts from his decisiveness and immediate problem-solving ability.",
+      "rating": -1,
+      "chunk": 44
     },
     {
-      "Action": "After hearing the cry and seeing nothing, he sinks to the floor and holds his head in his hands, showing a moment of despair or overwhelm.",
-      "Competence": -1,
-      "Chunk": 56
+      "trait": "warmth",
+      "action": "Affirms Peters' experience and acknowledges the psychological impact of the situation by saying, 'Peters is right. It's like something reaching into your mind.'",
+      "assessment": "By validating Peters' feelings and recognizing the unusual psychological effects, Miller shows empathy and understanding, indicating a degree of warmth.",
+      "rating": 2,
+      "chunk": 45
     },
     {
-      "Action": "Shares a deeply personal and painful story about losing a crew member, expresses sorrow and vulnerability.",
-      "Warmth": 1,
-      "Chunk": 57
+      "trait": "warmth",
+      "action": "Intervenes firmly to stop escalating conflict between Smith and DJ, commanding 'That's enough!' and later 'That's it, that's enough for one day, Smith!'",
+      "assessment": "Miller acts as a calming authority figure, attempting to de-escalate tension and maintain order, which reflects responsibility and care for the crew's wellbeing.",
+      "rating": 2,
+      "chunk": 45
     },
     {
-      "Action": "Attempts to find rational explanations for disturbing events while acknowledging emotional weight.",
-      "Warmth": 1,
-      "Chunk": 57
+      "trait": "warmth",
+      "action": "Gently but firmly instructs Smith to calm down and return to work, emphasizing the importance of keeping a clear head for everyone's safety.",
+      "assessment": "Miller's approach balances authority with concern, showing he values Smith's role and wellbeing, and the safety of the entire crew, demonstrating trustworthiness and a protective attitude.",
+      "rating": 2,
+      "chunk": 45
     },
     {
-      "Action": "Demonstrates self-awareness and emotional control when discussing a past failure to save a crew member, revealing his understanding of high-stress situations and risks involved.",
-      "Competence": 1,
-      "Chunk": 57
+      "trait": "warmth",
+      "action": "Does not physically intervene in the fight between DJ and Smith but commands DJ to stop and later accepts DJ's apology.",
+      "assessment": "Miller's restraint in physical intervention and willingness to accept apologies suggests a preference for measured, respectful leadership rather than aggression, indicating warmth.",
+      "rating": 2,
+      "chunk": 45
     },
     {
-      "Action": "Acknowledges the complexity of the situation by doubting simple explanations (carbon dioxide levels) and trusting data and intuition, showing critical thinking and cautious judgment.",
-      "Competence": 1,
-      "Chunk": 57
+      "trait": "warmth",
+      "action": "Uses a firm tone to control the situation but does not insult or belittle crew members during conflict.",
+      "assessment": "Maintaining respect even in tense moments shows Miller's sincerity and tolerance, positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 45
     },
     {
-      "Action": "Trails off emotionally recounting a traumatic failure, possibly indicating vulnerability but does not act irrationally or lose composure.",
-      "Competence": 0,
-      "Chunk": 57
+      "trait": "competence",
+      "action": "Intervenes firmly to stop escalating conflict between Smith and DJ, commanding authority to de-escalate the situation.",
+      "assessment": "This shows Miller's ability to maintain control under pressure and manage interpersonal conflicts effectively, demonstrating leadership and emotional intelligence.",
+      "rating": 2,
+      "chunk": 45
     },
     {
-      "Action": "Listens carefully to DJ's interpretation and engages in the discussion without dismissing it outright.",
-      "Warmth": 1,
-      "Chunk": 58
+      "trait": "competence",
+      "action": "Calmly but firmly orders Smith to return to duty and focus, emphasizing the importance of clear thinking for survival.",
+      "assessment": "This indicates Miller's clear-headedness and ability to prioritize mission-critical tasks, reinforcing his role as a competent leader.",
+      "rating": 2,
+      "chunk": 45
     },
     {
-      "Action": "Responds promptly and responsibly to Cooper's call to repressurize the Clark, actively taking part in team operations.",
-      "Warmth": 1,
-      "Chunk": 58
+      "trait": "competence",
+      "action": "Acknowledges Peters' unusual experience and attempts to gather information from others about any unusual phenomena.",
+      "assessment": "This shows Miller's openness to input and situational awareness, suggesting intellectual engagement and thoughtful command.",
+      "rating": 1,
+      "chunk": 45
     },
     {
-      "Action": "Does not express skepticism or disdain towards DJ's theory, but shows concern and curiosity.",
-      "Warmth": 1,
-      "Chunk": 58
+      "trait": "warmth",
+      "action": "Says 'We're a long way from home and we're in a bad place. Let's not make it worse. If anyone has any constructive suggestions, now is the time.'",
+      "assessment": "Miller attempts to foster a collaborative atmosphere by inviting constructive input, showing openness and a degree of respect for others' ideas.",
+      "rating": 2,
+      "chunk": 46
     },
     {
-      "Action": "Interprets the recording correctly as a warning rather than a distress call, showing understanding and awareness.",
-      "Competence": 1,
-      "Chunk": 58
+      "trait": "warmth",
+      "action": "Responds to Weir's suggestion with 'Do it.'",
+      "assessment": "Miller supports Weir's initiative promptly, indicating trust and encouragement toward his crewmate's expertise.",
+      "rating": 2,
+      "chunk": 46
     },
     {
-      "Action": "Responds promptly and efficiently to orders to repressurize the ship, taking manual action confidently.",
-      "Competence": 1,
-      "Chunk": 58
+      "trait": "warmth",
+      "action": "Dismisses DJ's suggestion to conserve oxygen and get sleep by saying 'I don't need sleep, DJ. I need answers.'",
+      "assessment": "Miller prioritizes his own need for answers over group well-being, showing a lack of consideration for collective health and possibly impatience.",
+      "rating": -1,
+      "chunk": 46
     },
     {
-      "Action": "Does not provide a direct response when DJ speculates about the ship's possession or supernatural state, showing some hesitation or lack of immediate insight.",
-      "Competence": 0,
-      "Chunk": 58
+      "trait": "warmth",
+      "action": "Interrupts Starck with '...bio-readings of indeterminate origin,' don't you have anything useful to tell me?",
+      "assessment": "Miller's brusque interruption and demand for useful information suggests impatience and a lack of warmth or tolerance toward Starck's attempt to communicate.",
+      "rating": -2,
+      "chunk": 46
     },
     {
-      "Action": "Encourages Coop by saying 'You got it, Coop.' reassuringly.",
-      "Warmth": 1,
-      "Chunk": 59
+      "trait": "warmth",
+      "action": "Stops and allows Starck to share her theory after she says 'I've got a theory.'",
+      "assessment": "Miller shows some willingness to listen and consider others' ideas when he stops and invites Starck to speak.",
+      "rating": 1,
+      "chunk": 46
     },
     {
-      "Action": "Removes his helmet and breathes deep, quietly expressing relief with 'Back in business.'",
-      "Warmth": 0,
-      "Chunk": 59
+      "trait": "warmth",
+      "action": "Dismisses Starck's theory with 'I don't need to hear this.' and walks away.",
+      "assessment": "Miller's rejection of Starck's input without discussion reflects intolerance and a lack of openness, reducing warmth.",
+      "rating": -2,
+      "chunk": 46
     },
     {
-      "Action": "Watches the disturbing video with the others silently and turns it off without comment.",
-      "Warmth": 0,
-      "Chunk": 59
+      "trait": "competence",
+      "action": "Encourages the crew to offer constructive suggestions to avoid worsening their situation.",
+      "assessment": "This shows leadership and situational awareness, indicating a competent approach to crisis management.",
+      "rating": 2,
+      "chunk": 46
     },
     {
-      "Action": "Confidently acknowledges Cooper's progress and stays focused, removes helmet and breathes deep signaling readiness and calm under pressure.",
-      "Competence": 1,
-      "Chunk": 59
+      "trait": "competence",
+      "action": "Immediately approves Weir's plan to stabilize the fields around the singularity.",
+      "assessment": "Demonstrates decisiveness and trust in his crew's expertise, reflecting competent command.",
+      "rating": 2,
+      "chunk": 46
     },
     {
-      "Action": "Switches off disturbing video decisively instead of freezing or overreacting.",
-      "Competence": 1,
-      "Chunk": 59
+      "trait": "competence",
+      "action": "Rejects DJ's suggestion to conserve oxygen by resting, stating he needs answers instead of sleep.",
+      "assessment": "While showing determination, this may indicate a potential oversight of personal and crew well-being, slightly detracting from competence.",
+      "rating": -1,
+      "chunk": 46
     },
     {
-      "Action": "Decides to abort the mission to protect the crew from further harm.",
-      "Warmth": 1,
-      "Chunk": 60
+      "trait": "competence",
+      "action": "Dismisses Starck's theory about the ship's bio-readings and possible defensive reaction.",
+      "assessment": "This dismissal without consideration suggests a possible closed-mindedness or impatience, which could hinder problem-solving and reduce perceived competence.",
+      "rating": -2,
+      "chunk": 46
     },
     {
-      "Action": "Orders the team to retrieve necessary equipment to leave.",
-      "Warmth": 1,
-      "Chunk": 60
+      "trait": "competence",
+      "action": "Maintains focus and urgency by not slowing down to engage fully with Starck's concerns.",
+      "assessment": "While showing determination, this behavior may reflect a lack of openness to input, which can be a negative indicator of competence in complex situations.",
+      "rating": -1,
+      "chunk": 46
     },
     {
-      "Action": "Rejects Dr. Weir's objections and asserts his authority firmly.",
-      "Warmth": 0,
-      "Chunk": 60
+      "trait": "warmth",
+      "action": "Tells Starck not to tell anyone about the disturbing information she shared, saying 'We've got enough to worry about.'",
+      "assessment": "Miller shows consideration for the crew's emotional state by trying to shield them from potentially demoralizing information, indicating a protective and thoughtful attitude.",
+      "rating": 2,
+      "chunk": 47
     },
     {
-      "Action": "Shoves Weir back into the wall during confrontation.",
-      "Warmth": -1,
-      "Chunk": 60
+      "trait": "warmth",
+      "action": "Expresses frustration with Starck's explanation, calling it 'bullshit stories' and questioning how crazy it sounds.",
+      "assessment": "While Miller is under stress, his blunt dismissal of Starck's theory could be seen as lacking tolerance and openness, reflecting impatience rather than warmth.",
+      "rating": -1,
+      "chunk": 47
     },
     {
-      "Action": "Urgently instructs Starck to get files and vacate the ship, emphasizing safety and escape.",
-      "Warmth": 1,
-      "Chunk": 61
+      "trait": "warmth",
+      "action": "Allows himself to relax after hearing Starck's explanation.",
+      "assessment": "This moment of vulnerability suggests Miller is capable of trust and openness, which are components of warmth.",
+      "rating": 1,
+      "chunk": 47
     },
     {
-      "Action": "Warns Dr. Weir to get gear back onto Lewis and Clark and threatens consequences if he doesn't.",
-      "Warmth": 0,
-      "Chunk": 61
+      "trait": "warmth",
+      "action": "Focuses on survival and practical action by preparing to go outside to work on the Clark.",
+      "assessment": "His focus on survival and action shows responsibility and leadership, but does not directly indicate warmth; it is neutral in terms of warmth.",
+      "rating": 0,
+      "chunk": 47
     },
     {
-      "Action": "Clearly concerned and commands a search and restraint of missing Dr. Weir.",
-      "Warmth": 1,
-      "Chunk": 61
+      "trait": "competence",
+      "action": "Dismisses Starck's seemingly impossible explanation but still listens and questions her.",
+      "assessment": "This shows Miller's practical mindset and skepticism, which is a sign of critical thinking and competence, though he remains open enough to hear out alternative views.",
+      "rating": 2,
+      "chunk": 47
     },
     {
-      "Action": "Immediately orders evacuation and wants to leave the ship after losing main power, showing decisive leadership and risk awareness.",
-      "Competence": 1,
-      "Chunk": 61
+      "trait": "competence",
+      "action": "Decides to put on an EVA suit and go outside to work on the Clark despite the unknown dangers.",
+      "assessment": "This demonstrates decisiveness, courage, and a focus on survival and mission objectives, indicating strong competence under pressure.",
+      "rating": 3,
+      "chunk": 47
     },
     {
-      "Action": "Commands that Dr. Weir be found and restrained after he disappears, demonstrating situational control and concern for crew safety.",
-      "Competence": 1,
-      "Chunk": 61
+      "trait": "competence",
+      "action": "Instructs Starck not to share the unsettling information with others to avoid panic.",
+      "assessment": "This shows Miller's leadership and situational awareness, managing information flow to maintain crew morale and focus, a competent leadership trait.",
+      "rating": 2,
+      "chunk": 47
     },
     {
-      "Action": "Reacts with frustration ('Goddammit!') but still maintains clear orders, indicating emotional stress but professional command.",
-      "Competence": 0,
-      "Chunk": 61
+      "trait": "warmth",
+      "action": "Responds promptly to Starck's radio call, confirming he is not in the airlock.",
+      "assessment": "Miller's quick and clear communication shows reliability and consideration for his team's awareness, indicating a trustworthy and responsible nature.",
+      "rating": 2,
+      "chunk": 49
     },
     {
-      "Action": "Sits at the engineering position and skillfully flips a series of switches to restore ship functions; calmly responds to a problem reported by Smith.",
-      "Competence": 1,
-      "Chunk": 62
+      "trait": "warmth",
+      "action": "Works collaboratively with Smith and Cooper to fix the ship's damaged wiring while maintaining communication with the team inside.",
+      "assessment": "His cooperative behavior and ongoing communication demonstrate a team-oriented and supportive attitude, reflecting positive warmth.",
+      "rating": 2,
+      "chunk": 49
     },
     {
-      "Action": "Upon hearing a missing crew problem, promptly orders the ship to be prepped for launch and takes personal responsibility to find the missing person.",
-      "Competence": 1,
-      "Chunk": 62
+      "trait": "competence",
+      "action": "Responds promptly to Starck's radio call about the airlock, confirming he is not inside.",
+      "assessment": "This shows situational awareness and clear communication under pressure, indicating competent leadership and presence of mind.",
+      "rating": 2,
+      "chunk": 49
     },
     {
-      "Action": "No direct action, statement, or behavior shown in this excerpt.",
-      "Competence": 0,
-      "Chunk": 63
+      "trait": "competence",
+      "action": "Clings to the hull of the Lewis and Clark with Smith and Cooper, carefully removing an access panel to inspect scorched wiring.",
+      "assessment": "This demonstrates technical skill, caution, and teamwork in a hazardous environment, reflecting practical competence and problem-solving ability.",
+      "rating": 2,
+      "chunk": 49
     },
     {
-      "Action": "Turns in the direction of an alien cry and moves purposefully down the corridor toward the source.",
-      "Competence": 1,
-      "Chunk": 65
+      "trait": "warmth",
+      "action": "Tells Cooper to stay and keep working while he goes to get Justin himself.",
+      "assessment": "Miller takes responsibility and acts decisively to help Justin, showing concern and willingness to face danger personally rather than sending others, which indicates a protective and trustworthy nature.",
+      "rating": 2,
+      "chunk": 50
     },
     {
-      "Action": "Responds promptly to unusual sounds and begins investigation quickly.",
-      "Competence": 1,
-      "Chunk": 65
+      "trait": "warmth",
+      "action": "Moves quickly and urgently across the Event Horizon to reach Justin.",
+      "assessment": "His urgency and determination to reach Justin suggest a sincere concern for his crew member's safety, reflecting a good-natured and caring attitude.",
+      "rating": 2,
+      "chunk": 50
     },
     {
-      "Action": "Warns Smith urgently to leave the Clark immediately to avoid danger.",
-      "Warmth": 1,
-      "Chunk": 66
+      "trait": "competence",
+      "action": "Orders Cooper to stay and keep working while he goes to get Justin himself.",
+      "assessment": "This shows decisiveness and confidence in his leadership, delegating tasks appropriately under pressure.",
+      "rating": 2,
+      "chunk": 50
     },
     {
-      "Action": "Frustrated and worried, races to assist Smith, shouting his name.",
-      "Warmth": 1,
-      "Chunk": 66
+      "trait": "competence",
+      "action": "Moves quickly and skillfully across the Event Horizon's exterior using magnetic plates to avoid drifting off into Neptune's atmosphere.",
+      "assessment": "Demonstrates physical agility, technical knowledge of equipment, and situational awareness, indicating high competence.",
+      "rating": 3,
+      "chunk": 50
     },
     {
-      "Action": "Notices the missing explosive charge and suspects Weir, quickly orders Smith to get off the Clark and wait at the airlock.",
-      "Competence": 1,
-      "Chunk": 66
+      "trait": "competence",
+      "action": "Curses under his breath and increases his speed when informed about the override engaged by Justin.",
+      "assessment": "Shows emotional response but channels it into increased urgency and action, reflecting resilience and focus under stress.",
+      "rating": 1,
+      "chunk": 50
     },
     {
-      "Action": "Urgently commands Smith repeatedly to leave the Clark despite Smith's reluctance, showing decisiveness and concern for safety.",
-      "Competence": 1,
-      "Chunk": 66
+      "trait": "competence",
+      "action": "Moves through the Event Horizon superstructure, recklessly leaping from one beam to another, trying to build up speed.",
+      "assessment": "This action shows physical agility and determination, but the recklessness suggests a potential lapse in careful judgment or risk assessment.",
+      "rating": 1,
+      "chunk": 52
     },
     {
-      "Action": "Races down the corridor towards the airlock to respond to the danger.",
-      "Competence": 1,
-      "Chunk": 66
+      "trait": "warmth",
+      "action": "Reassures Justin over the radio, telling him 'You're not going to die! Not today!' and 'I won't let you die.'",
+      "assessment": "Miller's words are sincere and aimed at calming and encouraging Justin in a life-threatening situation, showing care and trustworthiness.",
+      "rating": 3,
+      "chunk": 53
     },
     {
-      "Action": "Fails to prevent Smith from re-entering the area and handling the explosive charge, which ultimately leads to a massive explosion.",
-      "Competence": -1,
-      "Chunk": 66
+      "trait": "warmth",
+      "action": "Gives clear, calm instructions to Justin to help him survive.",
+      "assessment": "By providing precise guidance and maintaining composure, Miller demonstrates responsibility and a protective attitude, reflecting good-natured and trustworthy behavior.",
+      "rating": 2,
+      "chunk": 53
     },
     {
-      "Action": "Exclaims 'NOOO!' after a massive explosion hits, showing immediate emotional reaction to loss.",
-      "Warmth": 1,
-      "Chunk": 67
+      "trait": "warmth",
+      "action": "Uses a nickname 'Baby Bear' when instructing Justin.",
+      "assessment": "The use of an affectionate nickname suggests a friendly and warm approach, aiming to comfort Justin under stress.",
+      "rating": 2,
+      "chunk": 53
     },
     {
-      "Action": "Informs DJ via intercom that Smith and Cooper are dead, delivering bad news directly and promptly.",
-      "Warmth": 0,
-      "Chunk": 67
+      "trait": "competence",
+      "action": "Moves faster and faster, leaping recklessly across a deep chasm in the ship's superstructure to reach the airlock.",
+      "assessment": "This action demonstrates physical agility, decisiveness, and confidence under pressure, indicating strong competence in high-risk situations.",
+      "rating": 2,
+      "chunk": 53
     },
     {
-      "Action": "Attempts to maintain communication with DJ despite dangerous developments.",
-      "Warmth": 1,
-      "Chunk": 67
+      "trait": "competence",
+      "action": "Calmly communicates with Justin over radio, giving clear, precise instructions to keep him alive and focused.",
+      "assessment": "Shows strong leadership, communication skills, and emotional control, which are key indicators of competence in crisis management.",
+      "rating": 3,
+      "chunk": 53
     },
     {
-      "Action": "Hits the intercom quickly after the explosion to report status and casualties clearly.",
-      "Competence": 1,
-      "Chunk": 67
+      "trait": "competence",
+      "action": "Encourages Justin with reassuring words, instilling hope and helping him regain control.",
+      "assessment": "Demonstrates emotional intelligence and the ability to maintain morale, reflecting competent command presence.",
+      "rating": 2,
+      "chunk": 53
     },
     {
-      "Action": "Gets to his feet swiftly after being knocked down by a blast, remains alert and conscious.",
-      "Competence": 1,
-      "Chunk": 67
+      "trait": "competence",
+      "action": "Instructs Justin to exhale fully to avoid air in his lungs before a risky maneuver.",
+      "assessment": "Shows technical knowledge and attention to detail necessary for survival in a hazardous environment, indicating competence.",
+      "rating": 3,
+      "chunk": 53
     },
     {
-      "Action": "Expresses shock with 'NOOO!' showing emotional reaction to loss but immediately proceeds to practical communication.",
-      "Competence": 0,
-      "Chunk": 67
+      "trait": "warmth",
+      "action": "Pushes off into space to catch Justin's body and pulls him into the airlock despite the danger and urgency.",
+      "assessment": "This action shows a strong sense of care and responsibility for a crew member's life, demonstrating trustworthiness and good-natured concern.",
+      "rating": 3,
+      "chunk": 54
     },
     {
-      "Action": "Attempts to reach crew members via intercom repeatedly despite growing panic.",
-      "Warmth": 1,
-      "Chunk": 68
+      "trait": "warmth",
+      "action": "Sits exhausted after helping save Justin, removing his helmet quietly.",
+      "assessment": "His exhaustion and quiet moment suggest sincere emotional investment and empathy, indicating warmth through his internal response to the crisis.",
+      "rating": 2,
+      "chunk": 54
     },
     {
-      "Action": "Expresses frustration and anger ('Son of a bitch!') when hearing dire news from Weir.",
-      "Warmth": 0,
-      "Chunk": 68
+      "trait": "competence",
+      "action": "Pushes off in zero gravity to catch Justin's body and pulls him back into the airlock within five seconds of the door opening.",
+      "assessment": "This action demonstrates Miller's quick thinking, physical skill, and situational awareness under extreme pressure, indicating high competence in emergency response.",
+      "rating": 3,
+      "chunk": 54
     },
     {
-      "Action": "Prepares weapon (nailgun) to possibly defend or help crew members.",
-      "Warmth": 1,
-      "Chunk": 68
+      "trait": "competence",
+      "action": "Sits exhausted and removes his helmet after securing Justin in the airlock and handing him off to medical personnel.",
+      "assessment": "This shows Miller's ability to maintain focus and stamina through a critical rescue, but also acknowledges human limits; the removal of the helmet suggests trust in the environment and team, reflecting confidence and sound judgment.",
+      "rating": 2,
+      "chunk": 54
     },
     {
-      "Action": "Tries multiple intercom channels to contact crew members, showing persistence under pressure.",
-      "Competence": 1,
-      "Chunk": 68
+      "trait": "warmth",
+      "action": "Says to Peters gently, 'Peters. We need to know what happened to the crew. Before it happens to us.'",
+      "assessment": "Miller's gentle tone shows concern and a caring attitude toward Peters, indicating empathy and a desire to protect his team.",
+      "rating": 2,
+      "chunk": 55
     },
     {
-      "Action": "Grows panicked while trying to reach Starck, indicating loss of composure.",
-      "Competence": -1,
-      "Chunk": 68
+      "trait": "warmth",
+      "action": "Responds to DJ's pessimism with 'We'll make it.'",
+      "assessment": "Miller offers reassurance and optimism to the group, demonstrating leadership and a supportive nature.",
+      "rating": 2,
+      "chunk": 55
     },
     {
-      "Action": "Immediately arms himself with a tool (nailgun) from a storage locker, preparing to act in a dangerous situation.",
-      "Competence": 1,
-      "Chunk": 68
+      "trait": "warmth",
+      "action": "Thanks Peters after Peters agrees to check the log.",
+      "assessment": "Expressing gratitude shows politeness and respect, contributing to a positive and trusting atmosphere.",
+      "rating": 1,
+      "chunk": 55
     },
     {
-      "Action": "Trembles while preparing to kill DJ to end his suffering, clearly distressed.",
-      "Warmth": 1,
-      "Chunk": 69
+      "trait": "warmth",
+      "action": "Challenges Weir's dismissive attitude toward Justin's statement with a pointed question.",
+      "assessment": "While Miller questions Weir's expertise, it is done to seek truth and protect the crew rather than to belittle, showing a responsible and sincere approach, though somewhat firm.",
+      "rating": 1,
+      "chunk": 55
     },
     {
-      "Action": "Carefully unbinds Starck and tends to her despite danger, showing concern for her wellbeing.",
-      "Warmth": 1,
-      "Chunk": 69
+      "trait": "competence",
+      "action": "Reassures the group by saying 'We'll make it.' despite the dire situation.",
+      "assessment": "This shows confidence and leadership, helping to maintain morale under pressure.",
+      "rating": 2,
+      "chunk": 55
     },
     {
-      "Action": "Immediately aims nailgun at an unknown figure at helm, showing distrust and readiness for violence.",
-      "Warmth": -1,
-      "Chunk": 69
+      "trait": "competence",
+      "action": "Gently urges Peters to retrieve the log to understand what happened to the crew.",
+      "assessment": "Demonstrates situational awareness and prioritization of gathering critical information to prevent further harm.",
+      "rating": 2,
+      "chunk": 55
     },
     {
-      "Action": "Rips a compressor from its mount to keep the door open and helps Starck escape, showing physical effort and concern for her safety.",
-      "Warmth": 1,
-      "Chunk": 71
+      "trait": "competence",
+      "action": "Challenges Weir's dismissive attitude toward the strange events and insists on taking the situation seriously.",
+      "assessment": "Shows critical thinking and unwillingness to accept easy answers, indicating intellectual engagement and leadership.",
+      "rating": 2,
+      "chunk": 55
     },
     {
-      "Action": "Tells Starck to stay behind him while preparing to confront an unknown threat, showing protective and cautious behavior.",
-      "Warmth": 1,
-      "Chunk": 71
+      "trait": "competence",
+      "action": "Does not intervene when Weir makes a joke about insanity and leaves the group.",
+      "assessment": "This omission could suggest a missed opportunity to address potential mental instability in a key crew member, which may reflect a slight lapse in judgment or oversight.",
+      "rating": -1,
+      "chunk": 55
     },
     {
-      "Action": "Expresses grim realization that the danger is only beginning rather than offering reassurance, showing seriousness but limited emotional warmth.",
-      "Warmth": 0,
-      "Chunk": 71
+      "trait": "warmth",
+      "action": "Explodes in anger at Weir, accusing him of lying and demanding answers about the ship and the crew's fate.",
+      "assessment": "Miller's outburst shows frustration and distrust, indicating a harsh and confrontational approach rather than a warm or tolerant demeanor.",
+      "rating": -2,
+      "chunk": 56
     },
     {
-      "Action": "Yells and rips a compressor from its mount, wedges it in the door to keep it open, physically drags Starck to safety through a nearly closing airlock door.",
-      "Competence": 1,
-      "Chunk": 71
+      "trait": "warmth",
+      "action": "Hears a distant cry pleading 'Don't leave me!' and reacts with intense alertness and emotional distress, then sinks to the floor with his head in his hands.",
+      "assessment": "This reaction reveals Miller's deep emotional sensitivity and concern for others, showing a sincere and vulnerable side that suggests underlying warmth despite his tough exterior.",
+      "rating": 2,
+      "chunk": 56
     },
     {
-      "Action": "Immediately recognizes the danger when the airlock klaxon goes off and leads Starck to the forward airlock bay to confront the threat.",
-      "Competence": 1,
-      "Chunk": 71
+      "trait": "competence",
+      "action": "Explodes in anger at Weir, accusing him of lying and demanding answers about the ship's mysterious past.",
+      "assessment": "This outburst shows Miller's frustration and urgency, but also a lack of emotional control that could undermine his leadership and decision-making under pressure.",
+      "rating": -1,
+      "chunk": 56
     },
     {
-      "Action": "Assesses the situation logically by stating that the humanoid shape is not Weir, indicating good situational awareness.",
-      "Competence": 1,
-      "Chunk": 71
+      "trait": "competence",
+      "action": "Moves decisively through the ship's corridors, heading for the Bridge after hearing a distant cry.",
+      "assessment": "This indicates alertness, quick reaction to potential threats, and purposeful movement, reflecting situational awareness and decisiveness.",
+      "rating": 2,
+      "chunk": 56
     },
     {
-      "Action": "Looks for and arms himself with a zero-G bolt cutter, prepares to defend Starck, telling her to stay behind him.",
-      "Competence": 1,
-      "Chunk": 71
+      "trait": "competence",
+      "action": "Wheels around quickly like a cat upon hearing a cry, then searches the corridors but finds nothing.",
+      "assessment": "His quick reflexes and readiness to respond are positive, but the inability to locate the source may suggest some limitations in situational control or information gathering.",
+      "rating": 1,
+      "chunk": 56
     },
     {
-      "Action": "Observes the flashing gravity drive activation and understands immediately the gravity and implications of the situation, indicating strategic awareness.",
-      "Competence": 1,
-      "Chunk": 71
+      "trait": "competence",
+      "action": "Leans against the wall and sinks to the floor, resting his head in his hands after failing to find the source of the cry.",
+      "assessment": "This moment of apparent defeat or exhaustion reveals vulnerability and possible emotional overwhelm, which could impair his effectiveness in crisis situations.",
+      "rating": -2,
+      "chunk": 56
     },
     {
-      "Action": "Proposes a decisive plan to blow the corridor and isolate the dangerous section of the ship, showing quick thinking under pressure.",
-      "Competence": 1,
-      "Chunk": 72
+      "trait": "warmth",
+      "action": "Shares a deeply personal and painful story about losing a crew member, Corrick, and his feelings of guilt and fear.",
+      "assessment": "By opening up about a traumatic experience and his vulnerability, Miller demonstrates sincerity and trustworthiness, indicating emotional warmth.",
+      "rating": 3,
+      "chunk": 57
     },
     {
-      "Action": "Takes responsibility to manually arm the explosives himself, asserting leadership and confidence.",
-      "Competence": 1,
-      "Chunk": 72
+      "trait": "warmth",
+      "action": "Acknowledges his fear and admits to DJ that he almost lost another man, showing emotional honesty.",
+      "assessment": "This admission reveals Miller's openness and willingness to connect on a human level, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 57
     },
     {
-      "Action": "Instructs others clearly (e.g. to prep gravity couches, close door behind him), demonstrating command and foresight.",
-      "Competence": 1,
-      "Chunk": 72
+      "trait": "warmth",
+      "action": "Laughs grimly and initially dismisses the idea that Justin's death was caused by carbon dioxide levels.",
+      "assessment": "The grim laugh and dismissive tone suggest a defensive or cynical attitude, which may reduce perceived warmth in this moment.",
+      "rating": -1,
+      "chunk": 57
     },
     {
-      "Action": "Smiles wanly before entering dangerous area alone, showing controlled calm rather than panic.",
-      "Competence": 1,
-      "Chunk": 72
+      "trait": "competence",
+      "action": "Miller reflects on a past failure to save a crew member, showing emotional vulnerability and admitting to a traumatic experience.",
+      "assessment": "This admission reveals self-awareness and honesty, which are important for competent leadership, though it also exposes a moment of past failure.",
+      "rating": 1,
+      "chunk": 57
     },
     {
-      "Action": "Kneels, carefully removes the cover from the last explosive, flips a switch, arms the explosives, watches the indicators, and communicates readiness confidently.",
-      "Competence": 1,
-      "Chunk": 73
+      "trait": "competence",
+      "action": "Miller quickly dismisses the initial medical analysis as insufficient, showing skepticism and critical thinking.",
+      "assessment": "His skepticism indicates an analytical mind and unwillingness to accept surface explanations, a positive indicator of competence.",
+      "rating": 2,
+      "chunk": 57
     },
     {
-      "Action": "Tries to communicate clearly with Starck despite unclear information.",
-      "Warmth": 1,
-      "Chunk": 74
+      "trait": "competence",
+      "action": "Miller notices a change in DJ's expression and immediately probes for more information.",
+      "assessment": "This shows attentiveness and situational awareness, traits of a competent leader.",
+      "rating": 2,
+      "chunk": 57
     },
     {
-      "Action": "Expresses disbelief that Weir is alive, showing concern about the threat.",
-      "Warmth": 0,
-      "Chunk": 74
+      "trait": "competence",
+      "action": "Miller trails off when recounting the traumatic event, showing emotional difficulty in discussing it.",
+      "assessment": "While emotional difficulty is humanizing, it may suggest a momentary lapse in composure under stress, slightly detracting from perceived competence.",
+      "rating": -1,
+      "chunk": 57
     },
     {
-      "Action": "Backs away from Weir, indicating caution and self-preservation.",
-      "Warmth": 0,
-      "Chunk": 74
+      "trait": "warmth",
+      "action": "Engages with DJ's concerns about the recording and the ship's ominous message.",
+      "assessment": "Miller listens attentively and processes the warning seriously, showing openness and respect for his crew's input.",
+      "rating": 2,
+      "chunk": 58
     },
     {
-      "Action": "Tries to maintain communication via intercom to assess and respond to a threat.",
-      "Competence": 1,
-      "Chunk": 74
+      "trait": "warmth",
+      "action": "Responds calmly and practically to the repressurization task, coordinating with Cooper and Smith.",
+      "assessment": "His calm and cooperative behavior under pressure reflects reliability and a steady presence, which can be reassuring and supportive to others.",
+      "rating": 2,
+      "chunk": 58
     },
     {
-      "Action": "Shows surprise and hesitation when confronted unexpectedly by Weir, momentarily caught off guard.",
-      "Competence": -1,
-      "Chunk": 74
+      "trait": "competence",
+      "action": "Interprets the ambiguous recording as a warning rather than a distress call.",
+      "assessment": "This shows Miller's ability to think critically and not jump to conclusions, indicating sound judgment under uncertain circumstances.",
+      "rating": 2,
+      "chunk": 58
     },
     {
-      "Action": "Recognizes and challenges the apparent contradiction of Weir being alive, showing critical thinking.",
-      "Competence": 1,
-      "Chunk": 74
+      "trait": "competence",
+      "action": "Responds promptly to Cooper's intercom message about repressurizing the Clark and proceeds to manually twist the valve in his EVA suit.",
+      "assessment": "This demonstrates Miller's readiness to act decisively and his technical familiarity with the ship's systems, reflecting practical competence.",
+      "rating": 2,
+      "chunk": 58
     },
     {
-      "Action": "Responds emotionally to the Burning Man's accusation, yells 'SHUT UP! SHUT UP!'",
-      "Warmth": -1,
-      "Chunk": 75
+      "trait": "competence",
+      "action": "Stares at DJ without an immediate answer when confronted with the possibility that the ship has passed beyond reality and brought something back.",
+      "assessment": "While this moment of hesitation could suggest uncertainty, it also reflects Miller's cautiousness and willingness to consider complex, unsettling information rather than dismissing it outright.",
+      "rating": 1,
+      "chunk": 58
     },
     {
-      "Action": "Attempts to escape the advancing fire to survive",
-      "Warmth": 0,
-      "Chunk": 75
+      "trait": "warmth",
+      "action": "Responds supportively to Cooper's radio update with 'You got it, Coop.'",
+      "assessment": "This brief exchange shows Miller's collegial and encouraging attitude toward his crew, indicating a friendly and supportive demeanor.",
+      "rating": 2,
+      "chunk": 59
     },
     {
-      "Action": "Dashes through closing seals to escape deadly fire, narrowly making it through and avoiding a direct hit from flames and an exploding console.",
-      "Competence": 1,
-      "Chunk": 75
+      "trait": "warmth",
+      "action": "Removes his helmet and breathes deep, then says 'Back in business.'",
+      "assessment": "This action suggests a calm and composed attitude, possibly to reassure himself and others, reflecting steadiness but not necessarily warmth.",
+      "rating": 1,
+      "chunk": 59
     },
     {
-      "Action": "Initially struggles with guilt and accusation from the Burning Man but maintains focus on survival during the fire.",
-      "Competence": 1,
-      "Chunk": 75
+      "trait": "warmth",
+      "action": "Switches off the disturbing video without comment after the crew watches the horrific footage.",
+      "assessment": "Turning off the video without addressing the crew's emotional reaction may indicate a reserved or emotionally distant approach, lacking overt empathy or comforting behavior.",
+      "rating": -1,
+      "chunk": 59
     },
     {
-      "Action": "Stares down the Burning Man despite being physically attacked and injured, confronts Weir with skepticism instead of fear.",
-      "Warmth": 1,
-      "Chunk": 76
+      "trait": "competence",
+      "action": "Responds promptly to Cooper's update about venting trace gases and confirms readiness with 'You got it, Coop.'",
+      "assessment": "This shows Miller's ability to stay calm, communicate clearly, and maintain situational awareness under pressure, indicating competent leadership.",
+      "rating": 2,
+      "chunk": 59
     },
     {
-      "Action": "Throws a punch at Weir, displaying aggression rather than empathy.",
-      "Warmth": -1,
-      "Chunk": 76
+      "trait": "competence",
+      "action": "Removes his helmet and breathes deeply, then states 'Back in business.'",
+      "assessment": "This suggests Miller's ability to compose himself quickly and regain focus after a stressful event, reflecting mental resilience and readiness to proceed.",
+      "rating": 2,
+      "chunk": 59
     },
     {
-      "Action": "Tries to communicate and understand what Weir is, refuses to accept supernatural explanation without proof.",
-      "Warmth": 0,
-      "Chunk": 76
+      "trait": "competence",
+      "action": "Watches the disturbing video footage of the original crew silently and switches it off without comment.",
+      "assessment": "Miller's composed reaction to horrific imagery indicates emotional control and professionalism, though the lack of verbal processing or leadership response could be seen as a missed opportunity to address the crew's morale or next steps.",
+      "rating": 1,
+      "chunk": 59
     },
     {
-      "Action": "Stares down the Burning Man and slowly rises to his feet despite being set on fire and thrown back.",
-      "Competence": 1,
-      "Chunk": 76
+      "trait": "warmth",
+      "action": "Decides to abort the mission to protect his crew from the dangerous Event Horizon ship.",
+      "assessment": "Prioritizing the safety of his crew over mission objectives shows care and responsibility, indicating a protective and trustworthy nature.",
+      "rating": 3,
+      "chunk": 60
     },
     {
-      "Action": "Attempts to confront Weir verbally and refuses to be cowed by his terrifying form and threats.",
-      "Competence": 1,
-      "Chunk": 76
+      "trait": "warmth",
+      "action": "Orders the crew to move CO2 scrubbers back onto the Lewis and Clark and to download files from the Event Horizon.",
+      "assessment": "Taking decisive action to safeguard his crew's survival and preserve important data reflects conscientious leadership and concern for others.",
+      "rating": 2,
+      "chunk": 60
     },
     {
-      "Action": "Is physically overpowered by Weir, bloodied, and thrown into slime, unable to effectively defend himself.",
-      "Competence": -1,
-      "Chunk": 76
+      "trait": "warmth",
+      "action": "Shoves Weir back into the wall during a heated confrontation.",
+      "assessment": "Physical aggression towards a colleague suggests a lapse in tolerance and friendliness, detracting from warmth.",
+      "rating": -2,
+      "chunk": 60
     },
     {
-      "Action": "Defends others fiercely by attacking Weir to prevent harm to his crew.",
-      "Warmth": 1,
-      "Chunk": 77
+      "trait": "warmth",
+      "action": "Expresses frustration and determination to destroy the Event Horizon to prevent further harm.",
+      "assessment": "While his language is harsh, his motivation is to protect others, showing sincere concern despite bluntness.",
+      "rating": 1,
+      "chunk": 60
     },
     {
-      "Action": "Continues to try to get up and resist despite being beaten and injured.",
-      "Warmth": 1,
-      "Chunk": 77
+      "trait": "competence",
+      "action": "Decides to abort the mission and leave the Event Horizon after assessing the threat to his crew.",
+      "assessment": "This shows strong situational awareness and prioritization of crew safety over blind adherence to orders, reflecting sound judgment and command responsibility.",
+      "rating": 3,
+      "chunk": 60
     },
     {
-      "Action": "Raises the detonator to protect his crew from Weir and detonates it despite personal danger",
-      "Warmth": 1,
-      "Chunk": 78
-    }
-  ],
-  "Captain Miller ": [
+      "trait": "competence",
+      "action": "Orders Starck to download all files from the Event Horizon's computers and directs crew members to move CO2 scrubbers back onto the Lewis and Clark.",
+      "assessment": "Demonstrates effective delegation and multitasking under pressure, ensuring critical data is secured while preparing for evacuation.",
+      "rating": 2,
+      "chunk": 60
+    },
+    {
+      "trait": "competence",
+      "action": "Plans to take the Lewis and Clark to a safe distance and destroy the Event Horizon with tactical missiles.",
+      "assessment": "Exhibits strategic thinking and decisiveness in neutralizing a dangerous threat, showing command decisiveness and tactical planning.",
+      "rating": 3,
+      "chunk": 60
+    },
+    {
+      "trait": "competence",
+      "action": "Physically shoves Weir back into the wall during a confrontation.",
+      "assessment": "While this shows assertiveness and control in a tense situation, it may also indicate a lapse in professional restraint, potentially undermining leadership perception.",
+      "rating": -1,
+      "chunk": 60
+    },
+    {
+      "trait": "competence",
+      "action": "Maintains command despite Weir's emotional opposition and challenges.",
+      "assessment": "Shows confidence and authority in leadership, not allowing emotional appeals to derail mission-critical decisions.",
+      "rating": 2,
+      "chunk": 60
+    },
+    {
+      "trait": "warmth",
+      "action": "Urgently orders Starck to get files and vacate the ship, expressing a strong desire to leave the dangerous environment.",
+      "assessment": "Miller's priority is the safety of his crew, showing concern and protective instincts, which indicates a responsible and caring nature.",
+      "rating": 2,
+      "chunk": 61
+    },
+    {
+      "trait": "warmth",
+      "action": "Commands a search for Dr. Weir when he goes missing, insisting he be found and restrained.",
+      "assessment": "This action shows Miller's concern for the wellbeing of his crew and the need to maintain order, reflecting a sense of responsibility and care, though the tone is authoritative rather than warm or empathetic.",
+      "rating": 1,
+      "chunk": 61
+    },
+    {
+      "trait": "warmth",
+      "action": "Tells Dr. Weir to get his gear back onto the Lewis and Clark or risk being stranded.",
+      "assessment": "While the statement is blunt and somewhat harsh, it is intended to motivate Weir to safety, showing a pragmatic but protective attitude; however, it lacks warmth or gentleness.",
+      "rating": 0,
+      "chunk": 61
+    },
+    {
+      "trait": "competence",
+      "action": "Immediately orders Starck to get the files and vacate the ship after main power is lost.",
+      "assessment": "This shows decisiveness and prioritization of mission-critical tasks under pressure, indicating competent leadership.",
+      "rating": 2,
+      "chunk": 61
+    },
+    {
+      "trait": "competence",
+      "action": "Commands that Dr. Weir be found and restrained after he goes missing.",
+      "assessment": "This demonstrates situational awareness and quick response to a potential security threat, reflecting competent command presence.",
+      "rating": 2,
+      "chunk": 61
+    },
+    {
+      "trait": "competence",
+      "action": "Expresses frustration and urgency with 'Goddammit!' and a direct order to vacate.",
+      "assessment": "While the language shows stress, it also conveys clear communication and urgency, which is important in crisis management; overall competent but emotionally charged.",
+      "rating": 1,
+      "chunk": 61
+    },
+    {
+      "trait": "competence",
+      "action": "Fails to immediately locate Dr. Weir after he vanishes in the darkness.",
+      "assessment": "This could indicate a momentary lapse in control or situational awareness, slightly detracting from his competence.",
+      "rating": -1,
+      "chunk": 61
+    },
+    {
+      "trait": "warmth",
+      "action": "Says 'Thank you' to his ship after flipping switches to restore power.",
+      "assessment": "Expressing gratitude even to an inanimate object suggests a respectful and appreciative nature, indicating a gentle warmth.",
+      "rating": 2,
+      "chunk": 62
+    },
+    {
+      "trait": "warmth",
+      "action": "Responds to Smith's report about a missing child by saying 'Alright. Prep the Clark for launch. I'll find her.'",
+      "assessment": "Volunteering to personally search for the missing child shows responsibility, concern, and a protective attitude, reflecting genuine care and warmth.",
+      "rating": 3,
+      "chunk": 62
+    },
+    {
+      "trait": "competence",
+      "action": "Sits at the engineering position and flips a series of switches to bring the ship's running lights on in sequence.",
+      "assessment": "This action shows technical familiarity and confidence with the ship's systems, indicating competent operational skill.",
+      "rating": 2,
+      "chunk": 62
+    },
+    {
+      "trait": "competence",
+      "action": "Responds calmly to Smith's radio report of a problem with a casual 'Now what?'",
+      "assessment": "This response suggests a composed and confident attitude in the face of unexpected issues, reflecting mental readiness and leadership.",
+      "rating": 2,
+      "chunk": 62
+    },
+    {
+      "trait": "competence",
+      "action": "Upon learning that Smith lost sight of someone, immediately orders to prep the Clark for launch and volunteers to find her.",
+      "assessment": "This demonstrates decisiveness, initiative, and a proactive approach to problem-solving, all positive indicators of competence.",
+      "rating": 3,
+      "chunk": 62
+    },
+    {
+      "trait": "competence",
+      "action": "No direct actions, statements, or internal behaviors of Captain Miller are present in this excerpt; the focus is on Peters and Weir.",
+      "assessment": "The excerpt does not provide any information about Captain Miller's behavior, skills, or decisions, so no assessment of competence can be made here.",
+      "rating": 0,
+      "chunk": 63
+    },
+    {
+      "trait": "competence",
+      "action": "Turns in the direction of the alien cry and begins to move down the corridor towards the source.",
+      "assessment": "This action shows situational awareness and a proactive approach to investigating unusual events, indicating alertness and readiness to respond.",
+      "rating": 2,
+      "chunk": 65
+    },
+    {
+      "trait": "warmth",
+      "action": "Warns Smith urgently over the intercom to get off the Clark and wait at the airlock due to a missing explosive charge.",
+      "assessment": "Miller's immediate concern for Smith's safety and his clear, urgent communication demonstrate care and responsibility toward his crew, indicating a protective and trustworthy nature.",
+      "rating": 2,
+      "chunk": 66
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses frustration and fear vocally ('Smith? Smith! Fuck!') when Smith disobeys his order and enters the quarters with the explosive charge.",
+      "assessment": "Miller's emotional reaction reveals his genuine concern and anxiety for his crew's wellbeing, showing sincerity and a humanizing warmth despite the stressful situation.",
+      "rating": 2,
+      "chunk": 66
+    },
+    {
+      "trait": "competence",
+      "action": "Notices that one of the explosive charges has been removed from its mounting in the corridor and immediately warns Smith to get out of there.",
+      "assessment": "This shows situational awareness and quick recognition of a serious threat, indicating good competence.",
+      "rating": 2,
+      "chunk": 66
+    },
+    {
+      "trait": "competence",
+      "action": "Insists repeatedly over the intercom that Smith get off the Clark immediately despite Smith's reluctance.",
+      "assessment": "Demonstrates decisiveness and assertiveness in a critical situation, reflecting competent leadership.",
+      "rating": 2,
+      "chunk": 66
+    },
+    {
+      "trait": "competence",
+      "action": "Races down the corridor towards the airlock and his ship after realizing the danger.",
+      "assessment": "Shows urgency and readiness to respond, which is a positive indicator of competence under pressure.",
+      "rating": 2,
+      "chunk": 66
+    },
+    {
+      "trait": "competence",
+      "action": "Fails to prevent Smith from entering the quarters and handling the explosive charge despite his warnings.",
+      "assessment": "While Miller is aware of the danger, his inability to physically stop Smith or ensure compliance suggests a limitation in control or influence in this moment.",
+      "rating": -1,
+      "chunk": 66
+    },
+    {
+      "trait": "warmth",
+      "action": "Shouts 'NOOO!' when the Lewis and Clark explodes, showing emotional reaction to the loss.",
+      "assessment": "Expressing anguish at the destruction of his ship and presumably the loss of his crew indicates a sincere emotional connection and concern for others.",
+      "rating": 2,
+      "chunk": 67
+    },
+    {
+      "trait": "warmth",
+      "action": "Informs DJ over the intercom that Smith and Cooper are dead.",
+      "assessment": "Communicating the grim news directly and promptly shows a sense of responsibility and honesty, though the delivery is factual and lacks comforting tone.",
+      "rating": 1,
+      "chunk": 67
+    },
+    {
+      "trait": "warmth",
+      "action": "Attempts to maintain communication with DJ after the explosion.",
+      "assessment": "Trying to keep contact with a crew member in danger reflects concern and a desire to support others, indicating trustworthiness and care.",
+      "rating": 2,
+      "chunk": 67
+    },
+    {
+      "trait": "warmth",
+      "action": "Does not intervene or appear to assist when DJ is attacked by Weir.",
+      "assessment": "Miller’s absence or inability to act during a critical moment of violence against a crew member may suggest limitations in protective warmth or possible helplessness, which could be seen as a negative indicator.",
+      "rating": -1,
+      "chunk": 67
+    },
+    {
+      "trait": "competence",
+      "action": "Despite being knocked back by a huge blast, Miller quickly gets to his feet and assesses the situation by looking out the window at the wreckage of his ship.",
+      "assessment": "This shows resilience and situational awareness under extreme stress, indicating a competent and composed leader.",
+      "rating": 2,
+      "chunk": 67
+    },
+    {
+      "trait": "competence",
+      "action": "Immediately uses the intercom to report the loss of the Lewis and Clark and the deaths of Smith and Cooper.",
+      "assessment": "This demonstrates clear communication skills and prioritization of informing the crew, reflecting competent command behavior.",
+      "rating": 2,
+      "chunk": 67
+    },
+    {
+      "trait": "competence",
+      "action": "Informs DJ that Weir used one of the explosives from the Corridor, providing critical information about the cause of the disaster.",
+      "assessment": "This indicates good situational understanding and ability to relay important tactical information, a sign of competence.",
+      "rating": 2,
+      "chunk": 67
+    },
+    {
+      "trait": "competence",
+      "action": "Attempts to maintain contact with DJ after the struggle begins, repeatedly calling out over the intercom.",
+      "assessment": "Shows persistence and concern for crew safety, but also reliance on communication that may be compromised; still reflects competent leadership under duress.",
+      "rating": 1,
+      "chunk": 67
+    },
+    {
+      "trait": "warmth",
+      "action": "Calls repeatedly over the intercom to check on the status of his crew members (DJ, Peters, Starck).",
+      "assessment": "Miller’s repeated attempts to communicate with his crew show concern and a sense of responsibility for their wellbeing, indicating care and attentiveness.",
+      "rating": 2,
+      "chunk": 68
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses frustration and panic when unable to reach crew members, saying 'Son of a bitch!'",
+      "assessment": "While the language is harsh, it reflects genuine emotional distress and urgency rather than coldness or indifference, suggesting sincere concern.",
+      "rating": 1,
+      "chunk": 68
+    },
+    {
+      "trait": "warmth",
+      "action": "Quickly arms himself with a nailgun and prepares to confront danger.",
+      "assessment": "This action shows a protective instinct and willingness to face threats to safeguard others, which can be seen as an expression of commitment and care.",
+      "rating": 2,
+      "chunk": 68
+    },
+    {
+      "trait": "warmth",
+      "action": "No indication of offering comfort or reassurance to crew members in distress, nor any visible attempt to calm himself or others.",
+      "assessment": "The absence of comforting or supportive behavior in a crisis may suggest a more pragmatic or emotionally reserved approach, limiting warmth.",
+      "rating": -1,
+      "chunk": 68
+    },
+    {
+      "trait": "competence",
+      "action": "Attempts to contact crew members repeatedly over the intercom despite no immediate response.",
+      "assessment": "This shows persistence and presence of mind under pressure, indicating competent communication efforts in a crisis.",
+      "rating": 2,
+      "chunk": 68
+    },
+    {
+      "trait": "competence",
+      "action": "Expresses growing panic vocally when unable to reach Starck.",
+      "assessment": "The panic suggests a momentary lapse in emotional control, which can undermine competent leadership in high-stress situations.",
+      "rating": -1,
+      "chunk": 68
+    },
+    {
+      "trait": "competence",
+      "action": "Yanks open a storage locker and quickly arms himself with a nailgun, readying for confrontation.",
+      "assessment": "This action demonstrates quick thinking, resourcefulness, and readiness to respond to threats, reflecting strong competence.",
+      "rating": 3,
+      "chunk": 68
+    },
+    {
+      "trait": "competence",
+      "action": "Races through corridors to Medical after hearing or suspecting something is wrong.",
+      "assessment": "Shows urgency and decisiveness, traits consistent with competent crisis management.",
+      "rating": 2,
+      "chunk": 68
+    },
+    {
+      "trait": "warmth",
+      "action": "Raises the nailgun with trembling hands and fires to kill DJ at his request, to end his suffering.",
+      "assessment": "Miller shows compassion and respect for DJ's suffering by responding to his plea to be put out of misery, indicating empathy and a willingness to alleviate pain.",
+      "rating": 3,
+      "chunk": 69
+    },
+    {
+      "trait": "warmth",
+      "action": "Kneels in front of Starck and carefully loosens the cords binding her.",
+      "assessment": "This action demonstrates care and concern for a fellow crew member's wellbeing, showing Miller's protective and nurturing side.",
+      "rating": 2,
+      "chunk": 69
+    },
+    {
+      "trait": "warmth",
+      "action": "Stops and looks behind him when Starck stares over his shoulder, then cautiously reacts to Weir's sudden appearance.",
+      "assessment": "Miller's cautiousness here reflects situational awareness rather than warmth; however, his initial focus on helping Starck before noticing Weir suggests prioritizing others' safety.",
+      "rating": 1,
+      "chunk": 69
+    },
+    {
+      "trait": "warmth",
+      "action": "Slowly gets to his feet after being hit by Weir and does not immediately retaliate aggressively.",
+      "assessment": "Miller's restraint in the face of aggression may indicate a measured and non-hostile approach, which can be a sign of tolerance and self-control.",
+      "rating": 1,
+      "chunk": 69
+    },
+    {
+      "trait": "competence",
+      "action": "Raises the nailgun with trembling hands and fires at DJ as per his whispered request.",
+      "assessment": "Miller shows hesitation and emotional distress, indicating a struggle to maintain composure and decisiveness in a high-pressure, morally difficult situation. This suggests a momentary lapse in confident command.",
+      "rating": -1,
+      "chunk": 69
+    },
+    {
+      "trait": "competence",
+      "action": "Approaches the Bridge cautiously, aims the nailgun at the figure at the helm, and slowly circles around to assess the situation.",
+      "assessment": "Miller demonstrates tactical caution and situational awareness, showing skill in approaching a potentially hostile environment carefully.",
+      "rating": 2,
+      "chunk": 69
+    },
+    {
+      "trait": "competence",
+      "action": "Recognizes that the figure at the helm is Starck, bound and unconscious, and immediately attempts to free her.",
+      "assessment": "This shows quick recognition and prioritization of rescuing an ally, reflecting good judgment and empathy under stress.",
+      "rating": 2,
+      "chunk": 69
+    },
+    {
+      "trait": "competence",
+      "action": "Notices Weir standing behind him with eyes sewn shut and reacts by reaching for his gun.",
+      "assessment": "Miller’s situational awareness is strong, but his reaction is somewhat slow, as Weir is able to strike first and incapacitate him momentarily, indicating a slight lapse in readiness.",
+      "rating": 0,
+      "chunk": 69
+    },
+    {
+      "trait": "competence",
+      "action": "Slowly gets to his feet after being hit and maintains composure to engage verbally with Weir.",
+      "assessment": "Despite being physically taken by surprise, Miller recovers with measured calmness, showing resilience and mental steadiness.",
+      "rating": 1,
+      "chunk": 69
+    },
+    {
+      "trait": "warmth",
+      "action": "Warns Weir that if he shoots, he will blow out the hull and die too.",
+      "assessment": "Miller shows concern for Weir's life despite their conflict, indicating a protective and considerate nature.",
+      "rating": 2,
+      "chunk": 70
+    },
+    {
+      "trait": "warmth",
+      "action": "Dives for the door to escape after Weir fires at Cooper and the window explodes.",
+      "assessment": "Miller prioritizes his own safety in a dangerous situation, which is a natural survival instinct but does not demonstrate warmth.",
+      "rating": 0,
+      "chunk": 70
+    },
+    {
+      "trait": "warmth",
+      "action": "Hesitates when Starck calls for help as the door is closing and he can escape to safety.",
+      "assessment": "Miller's hesitation suggests an internal conflict and a potential willingness to help a colleague in distress, reflecting some degree of empathy and warmth.",
+      "rating": 1,
+      "chunk": 70
+    },
+    {
+      "trait": "warmth",
+      "action": "Ultimately does not act to save Starck as the door shuts and he escapes.",
+      "assessment": "Failing to assist a crew member in mortal danger indicates a lack of warmth, trustworthiness, and benevolence in this moment.",
+      "rating": -2,
+      "chunk": 70
+    },
+    {
+      "trait": "competence",
+      "action": "Lunges for the nailgun to stop Weir from engaging the gravity drive.",
+      "assessment": "This shows quick reaction and decisiveness in a critical moment, indicating situational awareness and readiness to act.",
+      "rating": 2,
+      "chunk": 70
+    },
+    {
+      "trait": "competence",
+      "action": "Slowly backs away when Weir points the nailgun at him, recognizing the danger of provoking a shot that could blow out the hull.",
+      "assessment": "Demonstrates calmness under pressure and understanding of the high stakes, showing tactical intelligence.",
+      "rating": 2,
+      "chunk": 70
+    },
+    {
+      "trait": "competence",
+      "action": "Dives for the door to avoid Weir's second shot just before the window explodes.",
+      "assessment": "Exhibits quick reflexes and good spatial awareness, successfully avoiding immediate danger.",
+      "rating": 2,
+      "chunk": 70
+    },
+    {
+      "trait": "competence",
+      "action": "Hesitates and does not immediately help Starck who is clinging to the console and about to be sucked out into space.",
+      "assessment": "This hesitation in a life-or-death situation suggests a momentary lapse in decisiveness or prioritization, which could be seen as a negative indicator of competence.",
+      "rating": -2,
+      "chunk": 70
+    },
+    {
+      "trait": "warmth",
+      "action": "Yells and rips a compressor from its mount, wedges it in the door to keep it open, then reaches out to Starck and drags her through the door to safety.",
+      "assessment": "This action shows a strong protective instinct and willingness to risk himself to save another, indicating care and concern for others' wellbeing.",
+      "rating": 3,
+      "chunk": 71
+    },
+    {
+      "trait": "warmth",
+      "action": "Pulls a zero-G bolt cutter from the wall and tells Starck to stay behind him as they confront a potential threat.",
+      "assessment": "Taking a protective stance and instructing a companion to stay behind him demonstrates responsibility and a protective attitude, reflecting trustworthiness and concern for others' safety.",
+      "rating": 2,
+      "chunk": 71
+    },
+    {
+      "trait": "warmth",
+      "action": "Observes Cooper's condition and warns that the situation is not over, showing awareness and concern for the group's safety.",
+      "assessment": "His vigilance and honest communication about the danger ahead show sincerity and a desire to keep others informed and safe.",
+      "rating": 2,
+      "chunk": 71
+    },
+    {
+      "trait": "competence",
+      "action": "Yells and rips a compressor from its mount, wedges it in the door to keep it open, then drags Starck through the door just before it shuts and is sucked into space.",
+      "assessment": "This action demonstrates quick thinking, physical strength, and presence of mind under extreme pressure, indicating high competence in crisis situations.",
+      "rating": 3,
+      "chunk": 71
+    },
+    {
+      "trait": "competence",
+      "action": "Immediately recognizes the forward airlock alarm and races towards it with Starck.",
+      "assessment": "Shows situational awareness and prompt response to emerging threats, reflecting competent leadership and alertness.",
+      "rating": 2,
+      "chunk": 71
+    },
+    {
+      "trait": "competence",
+      "action": "Looks for a weapon and pulls a zero-G bolt cutter from the wall, wielding it like a bat and instructing Starck to stay behind him.",
+      "assessment": "Exhibits resourcefulness and protective instincts, preparing for confrontation with limited resources, which indicates practical competence.",
+      "rating": 2,
+      "chunk": 71
+    },
+    {
+      "trait": "competence",
+      "action": "Observes Cooper's condition and the flashing display indicating the gravity drive activation, immediately realizing the situation is not over.",
+      "assessment": "Demonstrates perceptiveness and ability to interpret critical information quickly, showing intelligence and situational understanding.",
+      "rating": 3,
+      "chunk": 71
+    },
+    {
+      "trait": "warmth",
+      "action": "Commands to blow up the Corridor and use the foredecks as a lifeboat to separate it from the rest of the ship.",
+      "assessment": "Miller's decision to destroy part of the ship to save the crew shows a protective and decisive nature, prioritizing the safety of others despite the risks involved.",
+      "rating": 2,
+      "chunk": 72
+    },
+    {
+      "trait": "warmth",
+      "action": "Takes responsibility to manually arm the explosives himself and insists on closing the door behind him 'just in case.'",
+      "assessment": "By volunteering for the dangerous task and ensuring others are protected by closing the door, Miller demonstrates self-sacrifice, care for his crew, and a sincere sense of responsibility.",
+      "rating": 3,
+      "chunk": 72
+    },
+    {
+      "trait": "warmth",
+      "action": "Smiles wanly at Starck before entering the dangerous area alone.",
+      "assessment": "The wan smile suggests a moment of reassurance or camaraderie, indicating warmth and an attempt to comfort or connect with his crewmate despite the tension.",
+      "rating": 2,
+      "chunk": 72
+    },
+    {
+      "trait": "competence",
+      "action": "Commands to blow up the Corridor and use the foredecks as a lifeboat, proposing a clear tactical plan to isolate the dangerous section of the ship.",
+      "assessment": "This demonstrates decisiveness and strategic thinking under pressure, indicating strong situational awareness and leadership.",
+      "rating": 3,
+      "chunk": 72
+    },
+    {
+      "trait": "competence",
+      "action": "Volunteers to manually arm explosives himself despite the obvious danger.",
+      "assessment": "Shows personal courage and willingness to take responsibility for critical tasks, reflecting confidence and reliability.",
+      "rating": 2,
+      "chunk": 72
+    },
+    {
+      "trait": "competence",
+      "action": "Instructs Starck to close the door behind him 'just in case' before entering a dangerous area alone.",
+      "assessment": "Exhibits prudence and an understanding of safety protocols, indicating careful planning and risk management.",
+      "rating": 2,
+      "chunk": 72
+    },
+    {
+      "trait": "competence",
+      "action": "Runs down the corridor and methodically switches explosive charges to manual detonation.",
+      "assessment": "Demonstrates technical knowledge and methodical execution of a complex task under stress, showing skill and focus.",
+      "rating": 3,
+      "chunk": 72
+    },
+    {
+      "trait": "competence",
+      "action": "Smiles wanly before the door closes, despite the danger ahead.",
+      "assessment": "This may indicate a calm demeanor or acceptance of risk, which can be positive for maintaining morale, but could also suggest a degree of fatalism or emotional detachment.",
+      "rating": 1,
+      "chunk": 72
+    },
+    {
+      "trait": "warmth",
+      "action": "Kneels to remove the cover from the last explosive and arms the explosives while watching the red lights wink on in the darkness.",
+      "assessment": "Miller's focused and calm handling of the explosives shows responsibility and composure, but there is no direct indication of warmth such as concern for others or friendly interaction in this moment.",
+      "rating": 0,
+      "chunk": 73
+    },
+    {
+      "trait": "warmth",
+      "action": "Reaches for an intercom and states, 'We're armed...'",
+      "assessment": "This action is professional and matter-of-fact, showing leadership but lacking explicit warmth or emotional connection with others in this excerpt.",
+      "rating": 0,
+      "chunk": 73
+    },
+    {
+      "trait": "competence",
+      "action": "Kneels, removes the cover from the last explosive, flips a switch, removes a radio detonator, arms the explosives, and watches the red lights on the explosives wink on in the darkness.",
+      "assessment": "This sequence shows Miller performing a complex and precise task involving explosives with calm focus and technical skill, indicating strong competence in handling dangerous equipment under pressure.",
+      "rating": 3,
+      "chunk": 73
+    },
+    {
+      "trait": "competence",
+      "action": "Reaches for an intercom and calmly announces, 'We're armed...'",
+      "assessment": "This demonstrates Miller's situational awareness and readiness to communicate clearly and confidently with the team, reflecting leadership and control in a tense moment.",
+      "rating": 2,
+      "chunk": 73
+    },
+    {
+      "trait": "warmth",
+      "action": "Attempts to communicate clearly with Starck over the intercom despite the tense situation.",
+      "assessment": "Miller's effort to maintain communication shows a sense of responsibility and concern for his team, indicating trustworthiness and a protective attitude.",
+      "rating": 2,
+      "chunk": 74
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses disbelief and shock upon seeing Weir alive and hostile.",
+      "assessment": "His reaction is natural under extreme stress; however, it shows he is engaged and emotionally responsive rather than cold or detached.",
+      "rating": 1,
+      "chunk": 74
+    },
+    {
+      "trait": "warmth",
+      "action": "Backs away cautiously from Weir, prioritizing safety.",
+      "assessment": "This cautious behavior suggests self-preservation but also a reluctance to escalate conflict unnecessarily, which can be seen as prudent rather than aggressive.",
+      "rating": 1,
+      "chunk": 74
+    },
+    {
+      "trait": "warmth",
+      "action": "Uses harsh language ('This fucker's ready to blow...', 'Then who the fuck are you?') in tense moments.",
+      "assessment": "The use of profanity reflects stress and frustration but may reduce perceived warmth, as it can come across as abrasive or confrontational.",
+      "rating": -1,
+      "chunk": 74
+    },
+    {
+      "trait": "competence",
+      "action": "Attempts to communicate via intercom to coordinate with Starck and confirm the threat.",
+      "assessment": "Shows presence of mind and attempts to maintain communication under pressure, indicating situational awareness and procedural discipline.",
+      "rating": 2,
+      "chunk": 74
+    },
+    {
+      "trait": "competence",
+      "action": "Expresses surprise and backs away when confronted by the apparently resurrected Weir.",
+      "assessment": "While surprise is a natural human reaction, backing away without a clear plan or defensive action suggests a momentary lapse in composure and tactical response.",
+      "rating": -1,
+      "chunk": 74
+    },
+    {
+      "trait": "competence",
+      "action": "Questions the identity of Weir and challenges the apparition verbally.",
+      "assessment": "Demonstrates critical thinking and refusal to accept the supernatural explanation at face value, reflecting mental resilience and clarity.",
+      "rating": 2,
+      "chunk": 74
+    },
+    {
+      "trait": "competence",
+      "action": "Fails to immediately neutralize or evade the threat posed by Weir, who cuts off communication and blocks his path.",
+      "assessment": "Indicates a vulnerability in tactical execution and possibly underestimation of the enemy, which could compromise mission success.",
+      "rating": -2,
+      "chunk": 74
+    },
+    {
+      "trait": "warmth",
+      "action": "Shouts 'SHUT UP! SHUT UP!' at the Burning Man accusing him of being left behind.",
+      "assessment": "Miller's outburst suggests intense guilt and emotional turmoil rather than warmth; his reaction is defensive and anguished, showing inner conflict but not friendliness or trustworthiness in this moment.",
+      "rating": -1,
+      "chunk": 75
+    },
+    {
+      "trait": "warmth",
+      "action": "Runs to escape the fire threatening him, narrowly escaping death.",
+      "assessment": "Miller's focus on survival here is self-preserving rather than warm or caring toward others; no indication of concern for others is shown in this excerpt.",
+      "rating": 0,
+      "chunk": 75
+    },
+    {
+      "trait": "competence",
+      "action": "Runs ahead of rapidly spreading fire, dashes for the Second Seal as it begins to close, and dives through it just in time.",
+      "assessment": "This action demonstrates quick thinking, situational awareness, and physical agility under extreme pressure, indicating strong competence.",
+      "rating": 3,
+      "chunk": 75
+    },
+    {
+      "trait": "competence",
+      "action": "Rolls aside to avoid a lance of flame stabbing out from the closing Second Seal, narrowly avoiding injury.",
+      "assessment": "This shows good reflexes and presence of mind in a dangerous, fast-moving situation, reinforcing his capability.",
+      "rating": 2,
+      "chunk": 75
+    },
+    {
+      "trait": "competence",
+      "action": "Almost allows himself to relax after escaping the fire, but immediately notices his shadow and turns to face the threat.",
+      "assessment": "This suggests a high level of alertness and caution, preventing complacency even after a narrow escape, which is a positive indicator of competence.",
+      "rating": 2,
+      "chunk": 75
+    },
+    {
+      "trait": "competence",
+      "action": "Engages verbally with the Burning Man apparition, denying the accusation of leaving Corrick behind.",
+      "assessment": "While this shows emotional engagement, it may indicate distraction or internal conflict that could momentarily impair clear-headed decision-making.",
+      "rating": -1,
+      "chunk": 75
+    },
+    {
+      "trait": "warmth",
+      "action": "Faces the Burning Man (Weir) despite being attacked and severely injured, continuing to question and confront him.",
+      "assessment": "Miller's persistence in confronting Weir, even when physically overwhelmed, shows courage and a commitment to understanding the truth rather than fleeing or giving up. However, this is more indicative of resolve than warmth, as there is no clear evidence of benevolence or friendliness in this interaction.",
+      "rating": 0,
+      "chunk": 76
+    },
+    {
+      "trait": "warmth",
+      "action": "Refuses to accept Weir's claim of being the Devil, calling it 'bullshit'.",
+      "assessment": "This blunt rejection suggests skepticism and a refusal to be manipulated, but the tone is harsh and dismissive rather than tolerant or friendly. It shows Miller's straightforwardness but not warmth.",
+      "rating": -1,
+      "chunk": 76
+    },
     {
-      "Action": "Checks on the crew’s radiation badges, shows situational awareness.",
-      "Competence": 1,
-      "Chunk": 11
+      "trait": "warmth",
+      "action": "Attempts to communicate with Weir by asking 'What are you?' and demanding an explanation.",
+      "assessment": "Miller's attempt to engage verbally and seek understanding indicates a willingness to communicate and possibly empathize, which can be a mild indicator of warmth, though the context is tense and adversarial.",
+      "rating": 1,
+      "chunk": 76
     },
     {
-      "Action": "Formally introduces new crew members by role and shows awareness of everyone’s position, ensuring clarity and order.",
-      "Competence": 1,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Miller stares at the blazing Core and then faces the Burning Man without fleeing, slowly rising to his feet despite being attacked and set on fire.",
+      "assessment": "This shows Miller's resilience and mental toughness in a highly dangerous and disorienting situation, indicating a degree of composure and courage under extreme stress.",
+      "rating": 2,
+      "chunk": 76
     },
     {
-      "Action": "Gives orders in a calm, clear manner; e.g., asking Justin to stow the ball.",
-      "Competence": 1,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Miller throws a wicked right punch at Weir despite being physically overpowered and injured.",
+      "assessment": "This demonstrates Miller's willingness to fight back and maintain aggression even when at a disadvantage, reflecting determination and fighting spirit, though it does not necessarily indicate superior skill.",
+      "rating": 1,
+      "chunk": 76
     },
     {
-      "Action": "Responds appropriately to casual or humorous interruptions, maintains authority with good humor.",
-      "Competence": 1,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Miller is caught and crushed against a cooling tank with bone-cracking force, collapsing into slime and barely able to raise his head.",
+      "assessment": "This suggests a momentary physical vulnerability and inability to defend himself effectively against Weir, indicating a limitation in physical dominance or tactical defense in this encounter.",
+      "rating": -1,
+      "chunk": 76
     },
     {
-      "Action": "Instructs the crew calmly and methodically, asks for critical information from team members.",
-      "Warmth": 1,
-      "Chunk": 18
+      "trait": "competence",
+      "action": "Miller questions Weir calmly and tries to reason with him despite the surreal and threatening circumstances.",
+      "assessment": "This reflects Miller's mental clarity and attempt to understand the situation logically, which is a positive indicator of cognitive competence under pressure.",
+      "rating": 2,
+      "chunk": 76
     },
     {
-      "Action": "Shows no impatience or frustration during uncertain and confusing scan readings, maintains focus on mission.",
-      "Warmth": 1,
-      "Chunk": 18
+      "trait": "competence",
+      "action": "Miller's detonator falls from his grasp and is lost beneath two feet of coolant during the initial attack.",
+      "assessment": "Losing a critical device in a combat situation points to a lapse in situational control or hand-to-hand combat effectiveness, a negative indicator of competence in this moment.",
+      "rating": -2,
+      "chunk": 76
     },
     {
-      "Action": "Checks on crew members over radio, showing concern (e.g., asks Peters if she is okay, tells Cooper to hold on).",
-      "Warmth": 1,
-      "Chunk": 31
+      "trait": "warmth",
+      "action": "Swings a steel cannister to hit Weir repeatedly to protect his crewmates.",
+      "assessment": "Miller's violent defense of his crewmates shows a protective and loyal nature, indicating care and commitment to others' safety, which is a positive indicator of warmth.",
+      "rating": 2,
+      "chunk": 77
     },
     {
-      "Action": "Expresses frustration with Smith for not reporting sooner ('Smith, where the hell have you been?!').",
-      "Warmth": -1,
-      "Chunk": 31
+      "trait": "warmth",
+      "action": "Shouts 'You can't have them!' while attacking Weir.",
+      "assessment": "This statement reflects Miller's sincere concern and protective instinct toward his crewmates, demonstrating trustworthiness and good-natured defense.",
+      "rating": 2,
+      "chunk": 77
     },
     {
-      "Action": "Reassesses mission priorities in face of limited breathable air, focusing on survival and repair before investigation.",
-      "Competence": 1,
-      "Chunk": 36
+      "trait": "warmth",
+      "action": "Despite being beaten and kicked, Miller tries to get up and continue resisting Weir.",
+      "assessment": "His persistence in protecting others despite personal harm shows dedication and a strong sense of responsibility, which aligns with warmth.",
+      "rating": 2,
+      "chunk": 77
     },
     {
-      "Action": "Gives clear, direct orders to crew members to gather information and conduct specific scans despite skepticism.",
-      "Competence": 1,
-      "Chunk": 36
+      "trait": "warmth",
+      "action": "Engages in a violent physical fight with Weir.",
+      "assessment": "While the violence is aggressive, it is motivated by protection rather than malice, so it is not a negative indicator of warmth but rather a complex expression of care under extreme stress.",
+      "rating": 0,
+      "chunk": 77
     },
     {
-      "Action": "Demonstrates determination to report findings to superiors and maintain accountability.",
-      "Competence": 1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Closes his hand on the CO2 scrubber and swings it across Weir's head, stunning him.",
+      "assessment": "This shows quick thinking and the ability to use available objects as improvised weapons under pressure, indicating resourcefulness and combat skill.",
+      "rating": 2,
+      "chunk": 77
     },
     {
-      "Action": "Maintains command presence and manages crew interactions calmly even as tension rises.",
-      "Competence": 1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Gets to his feet and continues to attack Weir repeatedly after stunning him.",
+      "assessment": "Demonstrates determination, physical resilience, and aggressive combat capability, reflecting strong fighting competence.",
+      "rating": 2,
+      "chunk": 77
     },
     {
-      "Action": "Affirms Peters' insight about psychological phenomena, shows understanding of unusual mental effects aboard the ship.",
-      "Competence": 1,
-      "Chunk": 45
+      "trait": "competence",
+      "action": "Is overpowered by Weir who catches the scrubber, smashes Miller to the floor, and then kicks him savagely, causing Miller to collapse back into the sludge.",
+      "assessment": "This indicates a momentary failure in defense and vulnerability to a stronger opponent, suggesting limitations in physical strength or combat endurance.",
+      "rating": -1,
+      "chunk": 77
     },
     {
-      "Action": "Calms escalating conflict by intervening decisively when Smith becomes violent, prevents further physical altercation.",
-      "Competence": 1,
-      "Chunk": 45
+      "trait": "competence",
+      "action": "Attempts to rise after being knocked down but collapses back into the sludge.",
+      "assessment": "Shows persistence and will to continue despite injury, but also reveals physical weakness or exhaustion that impairs his ability to recover quickly.",
+      "rating": 0,
+      "chunk": 77
     },
     {
-      "Action": "Commands Smith firmly and clearly to regain control of the situation, emphasizing the importance of calm and focus for the crew's survival.",
-      "Competence": 1,
-      "Chunk": 45
+      "trait": "warmth",
+      "action": "Raises the detonator with a grim smile and says, 'You can't have them. Go to hell.' before detonating the explosion to save his crew from Weir's control.",
+      "assessment": "Miller's action demonstrates protective loyalty and determination to save his crew, indicating a strong sense of responsibility and care for their wellbeing, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 78
     },
     {
-      "Action": "Warns Weir that shooting could blow out the hull and kill him too.",
-      "Warmth": 1,
-      "Chunk": 70
+      "trait": "competence",
+      "action": "Stares dead-on into Weir's hellish face and raises his right hand holding the detonator with a grim smile of triumph.",
+      "assessment": "This action demonstrates Miller's courage, decisiveness, and ability to maintain composure under extreme psychological pressure, indicating strong competence.",
+      "rating": 3,
+      "chunk": 78
     },
     {
-      "Action": "Dives for safety when window explodes and air rushes out.",
-      "Warmth": 0,
-      "Chunk": 70
+      "trait": "competence",
+      "action": "Depresses the detonator to destroy the containment section and prevent Weir from taking the crew.",
+      "assessment": "This shows Miller's quick thinking and willingness to take drastic measures to protect his crew, reflecting high competence and leadership.",
+      "rating": 3,
+      "chunk": 78
     },
     {
-      "Action": "Hesitates when Starck clings to console begging for help as air rushes out and door begins shutting; considers leaving her to die.",
-      "Warmth": -1,
-      "Chunk": 70
+      "trait": "competence",
+      "action": "Commands Starck and Cooper during the explosion sequence.",
+      "assessment": "Although the excerpt does not detail explicit commands, Miller's presence and implied leadership during a chaotic event suggest he maintains control and responsibility, a positive indicator of competence.",
+      "rating": 2,
+      "chunk": 78
     }
   ]
 }

@@ -1,459 +1,1026 @@
 {
   "Jeff Spicoli": [
     {
-      "Action": "Shows up late to class, wet hair, red eyes, seemingly stoned but still confirms he is registered for the class with a grin.",
-      "Warmth": 0,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Sits with friends shirtless in a public restaurant despite the rules, then reluctantly puts his shirt back on when asked.",
+      "assessment": "Spicoli's behavior shows a laid-back, carefree attitude but also a willingness to comply when confronted, indicating tolerance and a non-confrontational nature. However, there is no direct evidence of warmth such as friendliness or sincerity in this scene.",
+      "rating": 0,
+      "chunk": 4
     },
     {
-      "Action": "Arrives late to class, appearing disheveled and clearly under the influence.",
-      "Competence": -1,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Arrives late to class with a grin, seemingly oblivious to the teacher's instructions and the classroom environment.",
+      "assessment": "Spicoli's behavior shows a lack of consideration for the teacher and classmates, indicating low attentiveness and respect, which detracts from warmth.",
+      "rating": -2,
+      "chunk": 9
     },
     {
-      "Action": "Answers Mr. Hand that he is registered for the class despite poor timing and appearance.",
-      "Competence": 0,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Responds to Mr. Hand's question about attendance by confirming he is registered for the class, despite his disheveled and inattentive appearance.",
+      "assessment": "Although his response is minimal, it shows a basic level of responsibility and acknowledgment of his place in the class, suggesting some degree of sincerity and trustworthiness.",
+      "rating": 1,
+      "chunk": 9
     },
     {
-      "Action": "Laughs at Mr. Hand's lonely comment and tries to engage positively despite tension.",
-      "Warmth": 1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Arrives late to class with red eyes, wet hair, and a casual grin, ignoring the attendance bell and classroom norms.",
+      "assessment": "This behavior indicates a lack of punctuality, disregard for rules, and low situational awareness, which are negative indicators of competence.",
+      "rating": -2,
+      "chunk": 9
     },
     {
-      "Action": "Calls Mr. Hand 'dick' after his card is torn, showing frustration but honest reaction.",
-      "Warmth": 0,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Responds to Mr. Hand's question about attendance by confirming he is registered for the class despite his disheveled and inattentive appearance.",
+      "assessment": "While his confirmation shows some minimal awareness and responsibility, it is overshadowed by his overall inattentiveness and lack of engagement, suggesting low competence.",
+      "rating": -1,
+      "chunk": 9
     },
     {
-      "Action": "Attempts to clarify his presence and be part of class by asking to come in politely.",
-      "Warmth": 1,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Laughs when Mr. Hand says he gets lonely when the third attendance bell rings and he doesn't see all his kids here.",
+      "assessment": "Spicoli's laughter shows a friendly and lighthearted response, indicating a good-natured and tolerant attitude toward Mr. Hand's comment.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Fails to recognize the seriousness of the situation and is late to class, showing confusion about the schedule.",
-      "Competence": -1,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Confronts Mr. Hand after he tears Spicoli's red ad card in two, saying 'Hey, bud. What's your problem?'",
+      "assessment": "Although Spicoli is standing up for himself, his approach is informal and somewhat confrontational, which may reduce perceived warmth; however, it also shows sincerity and directness.",
+      "rating": 0,
+      "chunk": 10
     },
     {
-      "Action": "Attempts to enter class showing some awareness of his schedule but lacks proper preparation or confidence.",
-      "Competence": 0,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Calls Mr. Hand 'You... dick' after being told to go to the front office.",
+      "assessment": "This insult reflects a lack of respect and friendliness, indicating low warmth in this interaction.",
+      "rating": -2,
+      "chunk": 10
     },
     {
-      "Action": "Expresses disbelief and challenges authority after having his red ad card torn up, but fails to de-escalate or respond constructively.",
-      "Competence": -1,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Watches in disbelief as Mr. Hand tears his card and sprinkles the pieces over the wastebasket, hands frozen in the process of removing his backpack.",
+      "assessment": "Spicoli's stunned reaction suggests vulnerability and a lack of aggression, which can be interpreted as a non-hostile and sincere response.",
+      "rating": 1,
+      "chunk": 10
     },
     {
-      "Action": "Fishes a few bits of his ad card out of the wastebasket and huffs out of the room.",
-      "Competence": -1,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Shows up late to class and appears confused about the schedule.",
+      "assessment": "This indicates a lack of preparedness and organizational skills, suggesting lower competence in managing responsibilities.",
+      "rating": -2,
+      "chunk": 10
     },
     {
-      "Action": "Comes out of the bathroom surrounded by stoners, involved in marijuana smoking.",
-      "Competence": -1,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Attempts to enter the classroom by holding up his red ad card to the door crack and asking permission to come in.",
+      "assessment": "This shows some social awareness and an attempt to follow procedure, indicating a minimal level of competence in navigating school rules.",
+      "rating": 1,
+      "chunk": 10
     },
     {
-      "Action": "Verbally stands up to Mr. Hand by calling him a dick after having his ad card ripped up.",
-      "Competence": 0,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Reacts with disbelief and frozen hands when Mr. Hand tears his red ad card.",
+      "assessment": "This reaction suggests a lack of emotional control and assertiveness in confrontational situations, reflecting lower competence.",
+      "rating": -1,
+      "chunk": 10
     },
     {
-      "Action": "Rips up another student's class notes in retaliation and calls him a dick.",
-      "Warmth": -1,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Calls Mr. Hand a 'dick' after being reprimanded and sent to the front office.",
+      "assessment": "This shows poor judgment and a lack of tact, which undermines his ability to handle authority figures skillfully.",
+      "rating": -2,
+      "chunk": 10
     },
     {
-      "Action": "Jokes with friends and casually asks for a dollar, showing relaxed social interaction.",
-      "Warmth": 0,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Laughs alone at Mr. Hand's lonely comment about the third attendance bell.",
+      "assessment": "This indicates a quirky sense of humor and some social engagement, but since he is the only one laughing, it may also reflect social awkwardness or detachment.",
+      "rating": 0,
+      "chunk": 10
     },
     {
-      "Action": "Rips up another student's class notes in retaliation and confidently tells his friends to expect consequences if hassled again.",
-      "Competence": 0,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Spicoli is surrounded by a small group of Ridgemont Stoners who laugh and share camaraderie with him after the confrontation with Mr. Hand.",
+      "assessment": "Spicoli's ability to maintain friendly, relaxed social interactions with his peers, sharing humor and mutual support, indicates a degree of warmth and sociability.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Expresses surprise and lightheartedness when found for truancy, jokingly says 'There's no birthday party for me here!'",
-      "Warmth": 1,
-      "Chunk": 22
+      "trait": "warmth",
+      "action": "Spicoli calls Mr. Hand a 'dick' after Mr. Hand rips up his ad card.",
+      "assessment": "Using insulting language toward an authority figure shows a lack of respect and sincerity, which detracts from his warmth, though it may reflect frustration rather than malice.",
+      "rating": -1,
+      "chunk": 11
     },
     {
-      "Action": "Is truant and late to class, which causes disruption and shows disregard for rules",
-      "Warmth": -1,
-      "Chunk": 22
+      "trait": "warmth",
+      "action": "Spicoli fishes bits of his ad card out of the wastebasket and then leaves the room.",
+      "assessment": "This action suggests a passive response to conflict rather than confrontation or reconciliation, indicating a lack of assertiveness or engagement but not necessarily unkindness.",
+      "rating": 0,
+      "chunk": 11
     },
     {
-      "Action": "Is repeatedly truant and late to class, fails to prioritize attendance and punctuality.",
-      "Competence": -1,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Fishes a few bits of his ad card out of the wastebasket and huffs out of the room.",
+      "assessment": "This action suggests a lack of assertiveness and poor handling of conflict, indicating low competence in managing personal setbacks.",
+      "rating": -2,
+      "chunk": 11
     },
     {
-      "Action": "Honest about his reason for being late (food lines took forever), showing some awareness of the situation.",
-      "Competence": 0,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Comes stumbling out of the bathroom surrounded by stoners, with marijuana smoke billowing behind them.",
+      "assessment": "This behavior reflects a lack of self-control and poor decision-making, which negatively impacts perceptions of competence.",
+      "rating": -3,
+      "chunk": 11
     },
     {
-      "Action": "Responds honestly and simply 'I don't know' to Mr. Hand's reprimand instead of making excuses or lying.",
-      "Warmth": 1,
-      "Chunk": 23
+      "trait": "competence",
+      "action": "Engages in conversation with stoner buddies, expressing that he 'didn't take that shit' after Mr. Hand ripped up his ad card.",
+      "assessment": "While verbally standing up for himself shows some confidence, the overall context and tone suggest immaturity and limited effective problem-solving skills.",
+      "rating": -1,
+      "chunk": 11
     },
     {
-      "Action": "Stays after class when all other students have left, seemingly preparing a comeback but respectfully accepts Mr. Hand's interruption and leaves without confrontation.",
-      "Warmth": 1,
-      "Chunk": 23
+      "trait": "warmth",
+      "action": "Rips up another student's class notes in retaliation after the student ripped up his ad card.",
+      "assessment": "This action shows a tit-for-tat retaliatory behavior rather than a warm or forgiving nature; it suggests defensiveness and a readiness to escalate conflict rather than resolve it amicably.",
+      "rating": -2,
+      "chunk": 12
     },
     {
-      "Action": "Works the studio audience into a frenzy while confidently singing and performing on live TV.",
-      "Competence": 1,
-      "Chunk": 30
+      "trait": "warmth",
+      "action": "Warns his friends that if he is hassled again, he can't be responsible for what happens.",
+      "assessment": "This statement implies a potential for aggression and a lack of tolerance, which detracts from warmth; it shows a defensive and possibly threatening stance.",
+      "rating": -2,
+      "chunk": 12
     },
     {
-      "Action": "Uses humor and charm to deflect concern about his red eyes with a famous, well-received line.",
-      "Competence": 1,
-      "Chunk": 30
+      "trait": "warmth",
+      "action": "Asks a friend for a dollar and accepts it without hesitation.",
+      "assessment": "This interaction is casual and friendly, indicating a level of trust and camaraderie with his peers, which is a mild positive indicator of warmth.",
+      "rating": 1,
+      "chunk": 12
     },
     {
-      "Action": "Casually admits plans to pick up hash and go to the mountains, revealing a lack of seriousness.",
-      "Competence": -1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Rips up another student's class notes in retaliation after his own ad card was ripped up.",
+      "assessment": "This action shows a reactive and confrontational approach rather than a strategic or skillful one, indicating a lack of emotional control and poor conflict resolution skills.",
+      "rating": -2,
+      "chunk": 12
     },
     {
-      "Action": "Dismissively explains school as no problem by attending only half the time, reflecting a careless attitude toward responsibilities.",
-      "Competence": -1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Warns that if he is hassled again, he can't be responsible for what happens.",
+      "assessment": "This statement suggests a lack of self-control and an implicit threat of escalation, which reflects poorly on his ability to handle situations maturely and competently.",
+      "rating": -2,
+      "chunk": 12
     },
     {
-      "Action": "Shares his surfing film clip with an audience, speaks with enthusiasm and humor.",
-      "Warmth": 1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Commands a dollar from his stoner friends and then walks away with them.",
+      "assessment": "This shows some social influence and confidence within his peer group, indicating a degree of social competence and leadership in his immediate circle.",
+      "rating": 1,
+      "chunk": 12
     },
     {
-      "Action": "Mentions his little brother interrupting his moment, showing family connection despite distractions.",
-      "Warmth": 1,
-      "Chunk": 31
+      "trait": "warmth",
+      "action": "Greets Mr. Hand with a lighthearted comment about a birthday party when being brought back to class for truancy.",
+      "assessment": "Spicoli's comment shows a playful and friendly demeanor, indicating a good-natured and tolerant attitude despite being reprimanded.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Throws snorkel at little brother Curtis, causing him to cry.",
-      "Warmth": -1,
-      "Chunk": 32
+      "trait": "warmth",
+      "action": "Admits to being late because the food lines took a long time.",
+      "assessment": "His explanation is casual and somewhat sincere, but it also suggests a lack of responsibility or consideration for others' time, reflecting a more self-centered or careless side.",
+      "rating": -1,
+      "chunk": 22
     },
     {
-      "Action": "Groans and tells Curtis to leave him alone when woken up.",
-      "Warmth": -1,
-      "Chunk": 32
+      "trait": "competence",
+      "action": "Is absent from class and found near the food machines just before class starts.",
+      "assessment": "This indicates a lack of punctuality and responsibility, suggesting poor time management and disregard for class attendance.",
+      "rating": -2,
+      "chunk": 22
     },
     {
-      "Action": "Reluctantly gets out of bed and shuts the door on Curtis after conflict.",
-      "Warmth": -1,
-      "Chunk": 32
+      "trait": "competence",
+      "action": "Responds to being caught with a casual, joking remark about a birthday party.",
+      "assessment": "This shows a lack of seriousness and accountability in facing consequences, reflecting low situational awareness and maturity.",
+      "rating": -2,
+      "chunk": 22
     },
     {
-      "Action": "Throws a snorkel at his little brother in a half-hearted attempt to fend him off, missing completely.",
-      "Competence": -1,
-      "Chunk": 32
+      "trait": "competence",
+      "action": "Explains tardiness by blaming long food lines.",
+      "assessment": "This excuse suggests a tendency to avoid direct responsibility and possibly poor planning, indicating low competence in managing obligations.",
+      "rating": -1,
+      "chunk": 22
     },
     {
-      "Action": "Struggles to get out of bed and repeatedly groans and complains.",
-      "Competence": -1,
-      "Chunk": 32
+      "trait": "warmth",
+      "action": "Responds to Mr. Hand's reprimand with 'I don't know.'",
+      "assessment": "Spicoli's response is casual and non-confrontational, showing a laid-back and somewhat indifferent attitude rather than hostility or rudeness. This suggests a tolerant and easygoing nature, though it lacks direct engagement or sincerity.",
+      "rating": 1,
+      "chunk": 23
     },
     {
-      "Action": "Arrives late and stumbles into a mandatory school assembly, taking a seat quietly.",
-      "Competence": 0,
-      "Chunk": 32
+      "trait": "warmth",
+      "action": "Stays behind after class, preparing a comeback but ultimately leaves quietly when Mr. Hand dismisses him.",
+      "assessment": "His choice to not escalate the situation and quietly leave when his audience is gone indicates a non-aggressive and respectful behavior, reflecting a friendly and non-disruptive demeanor.",
+      "rating": 2,
+      "chunk": 23
     },
     {
-      "Action": "Surrounded by young surfers who listen to him with reverence, gives enthusiastic advice on Missile Command reflecting a friendly and engaging demeanor.",
-      "Warmth": 1,
-      "Chunk": 35
+      "trait": "competence",
+      "action": "Responds to Mr. Hand's reprimand with 'I don't know' and has it written on the board.",
+      "assessment": "Spicoli's response is evasive and non-committal, showing a lack of accountability or thoughtful engagement with the question. This suggests a low level of intellectual or emotional competence in this academic context.",
+      "rating": -2,
+      "chunk": 23
     },
     {
-      "Action": "Gives strategic advice about playing Missile Command, explaining the importance of being proactive in the game.",
-      "Competence": 1,
-      "Chunk": 35
+      "trait": "competence",
+      "action": "Stays in place after the bell, preparing a comeback, but is cut off and leaves without delivering it.",
+      "assessment": "This indicates some quick thinking and social awareness, as he attempts to craft a witty retort, but his failure to follow through reduces the impact. It shows moderate social competence but limited confidence or assertiveness.",
+      "rating": 0,
+      "chunk": 23
     },
     {
-      "Action": "Surrounded by young surfers who listen with reverence, indicating confidence and informal leadership.",
-      "Competence": 1,
-      "Chunk": 35
+      "trait": "warmth",
+      "action": "Works the studio audience into a frenzy as he sings and engages them enthusiastically.",
+      "assessment": "Spicoli's energetic and engaging performance suggests a friendly and approachable demeanor, indicating warmth through his ability to connect with others.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Smokes grass and drinks beer with L.C., shows casual tolerance and relaxed friendliness in interaction.",
-      "Warmth": 1,
-      "Chunk": 42
+      "trait": "warmth",
+      "action": "Responds to Merv Griffin's greeting warmly and sincerely, saying he feels great.",
+      "assessment": "His polite and positive response to Merv Griffin shows good-natured and sincere interaction, reflecting warmth.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Speeds recklessly in a borrowed car, ignoring potential consequences.",
-      "Warmth": -1,
-      "Chunk": 42
+      "trait": "warmth",
+      "action": "Jokes about his red eyes by saying he has been swimming, a famous line that amuses the audience.",
+      "assessment": "Using humor to lighten the mood and entertain the audience demonstrates a friendly and tolerant attitude, contributing positively to warmth.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Warns L.C. about possible police, looking out for his companion's safety.",
-      "Warmth": 1,
-      "Chunk": 42
+      "trait": "warmth",
+      "action": "Mentions casually that he might pick up some hash and go to the mountains.",
+      "assessment": "This statement shows a lack of responsibility and possible disregard for social norms, which may undermine trustworthiness and sincerity, negatively impacting warmth.",
+      "rating": -1,
+      "chunk": 30
     },
     {
-      "Action": "Dismisses L.C.'s concern about hassling the car, showing complacency about property respect.",
-      "Warmth": 0,
-      "Chunk": 42
+      "trait": "warmth",
+      "action": "Dismisses school lightly, suggesting one only needs to attend about half the time to get grades.",
+      "assessment": "This attitude reflects a careless and possibly irresponsible approach, which may reduce perceptions of trustworthiness and sincerity, detracting from warmth.",
+      "rating": -1,
+      "chunk": 30
     },
     {
-      "Action": "Notices a potential police car behind him and slows down, exhibiting awareness of surroundings.",
-      "Competence": 1,
-      "Chunk": 42
+      "trait": "competence",
+      "action": "Works the studio audience into a frenzy as he sings the words to 'Highway to Hell' Merv Griffin show style.",
+      "assessment": "This action demonstrates Spicoli's ability to perform confidently and engage an audience effectively, indicating social and performative competence.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Speeds recklessly in a car that is not his, while smoking and drinking, showing poor judgment.",
-      "Competence": -1,
-      "Chunk": 42
+      "trait": "competence",
+      "action": "Motions for the cheers to die down and interacts smoothly with Merv Griffin.",
+      "assessment": "This shows Spicoli's situational awareness and social skills, suggesting a level of confidence and control in a public setting.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Engages in casual conversation and seems laid back despite risky behavior, indicating low urgency or concern for consequences.",
-      "Competence": -1,
-      "Chunk": 42
+      "trait": "competence",
+      "action": "Responds to Merv Griffin's concern about his red eyes with a humorous, well-known line.",
+      "assessment": "This indicates quick wit and an ability to defuse potentially awkward situations with humor, reflecting social intelligence.",
+      "rating": 1,
+      "chunk": 30
     },
     {
-      "Action": "Calls the opposing drivers 'Jocks' and competes aggressively by speeding up to overtake them.",
-      "Warmth": -1,
-      "Chunk": 43
+      "trait": "competence",
+      "action": "States that school is no problem and that you only need to go about half the time if you know something.",
+      "assessment": "This reflects a dismissive attitude toward formal education and a lack of seriousness about academic responsibilities, suggesting a lower level of intellectual or practical competence in this domain.",
+      "rating": -2,
+      "chunk": 30
     },
     {
-      "Action": "Asks L.C. to roll up his window because the air messes his hair, showing some self-centeredness.",
-      "Warmth": -1,
-      "Chunk": 43
+      "trait": "competence",
+      "action": "Mentions casually that he is thinking about picking up some hash and going to the mountains.",
+      "assessment": "This indicates poor judgment and a lack of foresight regarding personal and social consequences, negatively impacting perceptions of competence.",
+      "rating": -3,
+      "chunk": 30
     },
     {
-      "Action": "Smiles wickedly at L.C. after overtaking the Granada, indicating a playful but somewhat provocative attitude.",
-      "Warmth": 0,
-      "Chunk": 43
+      "trait": "warmth",
+      "action": "Shares a surfing film clip on a TV show and talks about it with enthusiasm.",
+      "assessment": "Spicoli's willingness to share his passion and engage with an audience shows openness and a friendly, easygoing nature.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Tries to make a clever hairpin turn to get back to the party, but accidentally crashes the car.",
-      "Warmth": 0,
-      "Chunk": 43
+      "trait": "warmth",
+      "action": "Mentions junior high kids as 'little clowns' who will soon arrive with boogie boards.",
+      "assessment": "While this comment is lighthearted and humorous, it shows a mild dismissiveness toward younger kids, indicating some lack of tolerance.",
+      "rating": -1,
+      "chunk": 31
     },
     {
-      "Action": "Immediately asks L.C. if he is okay after the crash, showing concern for his companion.",
-      "Warmth": 1,
-      "Chunk": 43
+      "trait": "warmth",
+      "action": "Lives in a messy trailer with posters that exclude his parents.",
+      "assessment": "This suggests a degree of rebelliousness and possible family estrangement, which may limit his warmth toward family members, though it does not directly reflect on his general warmth toward others.",
+      "rating": 0,
+      "chunk": 31
     },
     {
-      "Action": "Reassures L.C. after accident, tries to calm his fears with humor and optimism.",
-      "Warmth": 1,
-      "Chunk": 44
+      "trait": "competence",
+      "action": "Admits openly on a talk show that he doesn't attend school at all.",
+      "assessment": "This admission suggests a lack of responsibility and disregard for academic obligations, indicating low competence in managing important life tasks.",
+      "rating": -2,
+      "chunk": 31
     },
     {
-      "Action": "Insists he can fix the badly damaged car, encouraging a positive outlook.",
-      "Warmth": 1,
-      "Chunk": 44
+      "trait": "competence",
+      "action": "Brings a film clip of himself surfing a massive wave and confidently presents it on a talk show.",
+      "assessment": "This demonstrates skill and confidence in surfing, as well as some social competence in public presentation, reflecting a positive competence indicator in his area of expertise.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Tries to reassure L.C. by saying he can fix the badly damaged car, citing his father's profession and tools.",
-      "Competence": 0,
-      "Chunk": 44
+      "trait": "competence",
+      "action": "Successfully rides a huge, dangerous wave at Sunrise Cliffs.",
+      "assessment": "This action shows high physical skill, courage, and mastery of surfing, indicating strong competence in this domain.",
+      "rating": 3,
+      "chunk": 31
     },
     {
-      "Action": "Sits bright and clear-eyed in class with textbook open to the proper page, appearing attentive and prepared.",
-      "Competence": 1,
-      "Chunk": 51
+      "trait": "competence",
+      "action": "Expresses concern about junior high kids arriving with boogie boards, indicating awareness of his limited time to enjoy prime surfing conditions.",
+      "assessment": "This shows situational awareness and a practical understanding of his environment, a subtle but positive competence indicator.",
+      "rating": 1,
+      "chunk": 31
     },
     {
-      "Action": "Orders pizza to be delivered to the classroom, interrupting the lesson and causing a disturbance.",
-      "Competence": -1,
-      "Chunk": 51
+      "trait": "warmth",
+      "action": "Throws a snorkel at his little brother Curtis when Curtis is pestering him to get up.",
+      "assessment": "Throwing an object at a younger sibling in frustration is an unfriendly and somewhat aggressive response, indicating low warmth in this interaction.",
+      "rating": -2,
+      "chunk": 32
     },
     {
-      "Action": "Pays the delivery man generously and politely, showing social grace and confidence.",
-      "Competence": 1,
-      "Chunk": 51
+      "trait": "warmth",
+      "action": "Groans and tells Curtis to leave him alone when Curtis repeatedly tries to get him out of bed.",
+      "assessment": "His repeated requests to be left alone show irritability and a lack of patience or tolerance toward his brother, reflecting low warmth.",
+      "rating": -2,
+      "chunk": 32
     },
     {
-      "Action": "Responds coolly and urbane to Mr. Hand's reprimand, attempting to maintain composure.",
-      "Competence": 0,
-      "Chunk": 51
+      "trait": "warmth",
+      "action": "Kicks the door shut after getting out of bed.",
+      "assessment": "Kicking the door shut is an expression of frustration and possibly anger, which does not demonstrate good-natured or friendly behavior.",
+      "rating": -2,
+      "chunk": 32
     },
     {
-      "Action": "Orders a pizza and tries to share it with the passing stoners despite getting in trouble with Mr. Hand.",
-      "Warmth": 1,
-      "Chunk": 52
+      "trait": "warmth",
+      "action": "Wanders into the school assembly and takes a seat quietly without causing disruption.",
+      "assessment": "His non-disruptive attendance suggests a neutral or slightly positive social tolerance and respect for the setting, though no active warmth is displayed.",
+      "rating": 0,
+      "chunk": 32
     },
     {
-      "Action": "Mockingly calls the stoners 'swine' after giving them the pizza.",
-      "Warmth": -1,
-      "Chunk": 52
+      "trait": "competence",
+      "action": "Groans and struggles to get out of bed when his brother tries to wake him up, then throws a snorkel at his brother but misses.",
+      "assessment": "This action shows a lack of responsibility and poor coordination, as well as a dismissive attitude toward obligations and others, indicating low competence in self-management and interpersonal skills.",
+      "rating": -2,
+      "chunk": 32
     },
     {
-      "Action": "Attempts to lighten the mood by ordering pizza during class time, showing a carefree and relaxed attitude.",
-      "Competence": 0,
-      "Chunk": 52
+      "trait": "competence",
+      "action": "Kicks the door shut after getting out of bed.",
+      "assessment": "This shows a lack of emotional control and maturity, reflecting negatively on his ability to handle situations calmly and competently.",
+      "rating": -2,
+      "chunk": 32
     },
     {
-      "Action": "Ignores consequences and accepts detention with a shrug, indicating low responsibility.",
-      "Competence": -1,
-      "Chunk": 52
+      "trait": "competence",
+      "action": "Stumbles into the gymnasium late and takes a seat quietly during a mandatory assembly.",
+      "assessment": "While he manages to attend the assembly, his stumbling entrance and late arrival suggest disorganization and lack of punctuality, indicating below-average competence in time management.",
+      "rating": -1,
+      "chunk": 32
     },
     {
-      "Action": "Engages in behavior that irritates authority (Mr. Hand) and disrupts class, showing poor judgment.",
-      "Competence": -1,
-      "Chunk": 52
+      "trait": "competence",
+      "action": "Sits quietly on the bleacher without engaging during the school assembly.",
+      "assessment": "This passive behavior neither demonstrates initiative nor disruption; it suggests a neutral level of competence in social engagement and situational awareness.",
+      "rating": 0,
+      "chunk": 32
     },
     {
-      "Action": "Asks to use the bathroom politely despite the sign indicating 'Employees Only', but then gets confused trying to find it, needing multiple clarifications.",
-      "Competence": -1,
-      "Chunk": 69
+      "trait": "warmth",
+      "action": "Spicoli mans the Missile Command machine surrounded by young surfers who listen to him with reverence, giving them advice about being noble and aggressive in the game and in life.",
+      "assessment": "Spicoli's willingness to engage with younger surfers and offer them guidance, even if playful, shows a friendly and inclusive nature. His role as a mentor figure to the group indicates warmth through social connection and sincerity.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Interrupts a tense robbery scene by casually coming out of the bathroom, unintentionally providing Brad with a distraction to act against the robber.",
-      "Warmth": 1,
-      "Chunk": 70
+      "trait": "competence",
+      "action": "Manning the Missile Command machine and giving strategic advice to younger surfers: 'Be noble. Be aggressive. The thing about Missile Command is to decimate before you can be decimated. Just like in real life.'",
+      "assessment": "This action shows that Spicoli possesses a certain level of skill and confidence in playing the game, and he is able to articulate a strategy that others respect, indicating some competence in gaming and leadership within his peer group.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Stands mesmerized and compliments Brad's bravery by saying 'Awesome. Totally awesome.'",
-      "Warmth": 1,
-      "Chunk": 70
+      "trait": "competence",
+      "action": "Struggles to make a confident romantic move on Stacy, unable to put his arm around her and ultimately making an awkward and inappropriate gesture.",
+      "assessment": "This action indicates a lack of social confidence and poor interpersonal skills, reflecting low competence in navigating intimate social situations.",
+      "rating": -2,
+      "chunk": 41
     },
     {
-      "Action": "Interrupts the armed robbery scene by casually walking out of the bathroom, unintentionally distracting the robber.",
-      "Competence": 1,
-      "Chunk": 70
+      "trait": "warmth",
+      "action": "Shares beers and smokes grass with L.C. while driving recklessly in his brother's car.",
+      "assessment": "Spicoli is engaging in a friendly, relaxed social interaction with L.C., indicating a degree of sociability and camaraderie, but the recklessness and disregard for property suggest a lack of responsibility and respect.",
+      "rating": 0,
+      "chunk": 42
     },
     {
-      "Action": "Merely stands mesmerized and comments 'Awesome. Totally awesome' instead of taking an active role in resolving the crisis.",
-      "Competence": -1,
-      "Chunk": 70
+      "trait": "warmth",
+      "action": "Warns L.C. about a potential cop behind them and slows down.",
+      "assessment": "Spicoli shows concern for L.C.'s safety and tries to protect him from getting into trouble, reflecting a protective and considerate attitude.",
+      "rating": 2,
+      "chunk": 42
     },
     {
-      "Action": "Attempts to tie a tie but is distracted and takes a hit from his bong instead of focusing.",
-      "Competence": -1,
-      "Chunk": 71
+      "trait": "competence",
+      "action": "Recklessly speeding in a borrowed car while smoking and drinking.",
+      "assessment": "This behavior shows a lack of caution and responsibility, indicating poor judgment and low competence in handling risky situations.",
+      "rating": -2,
+      "chunk": 42
     },
     {
-      "Action": "His room is messy and clothes lie in disarray, indicating lack of personal organization.",
-      "Competence": -1,
-      "Chunk": 71
+      "trait": "competence",
+      "action": "Noticing a car behind him and correctly identifying it as a cop based on behavior and lights.",
+      "assessment": "This shows some situational awareness and ability to read cues, suggesting moderate competence in perception and quick assessment.",
+      "rating": 1,
+      "chunk": 42
     },
     {
-      "Action": "Displays irritation at little brother Curtis for bursting in without knocking, telling him to go away.",
-      "Warmth": -1,
-      "Chunk": 72
+      "trait": "competence",
+      "action": "Slowing down when suspecting a cop is behind him.",
+      "assessment": "This indicates a basic understanding of consequences and an attempt to avoid trouble, reflecting some practical competence.",
+      "rating": 1,
+      "chunk": 42
     },
     {
-      "Action": "Allows Mr. Hand into his room after an initial surprised reaction and nods in response, showing respectful acknowledgment.",
-      "Warmth": 1,
-      "Chunk": 72
+      "trait": "competence",
+      "action": "Engaging in a confrontation with the mystery car that bumps them and shines high beams.",
+      "assessment": "His reaction seems reactive and somewhat confused, lacking a clear plan or control, which points to lower competence in managing conflict or danger.",
+      "rating": -1,
+      "chunk": 42
     },
     {
-      "Action": "Responds politely to Mr. Hand's reprimand with mild uncertainty ('Did I do something wrong, Mr. Hand?').",
-      "Warmth": 1,
-      "Chunk": 73
+      "trait": "warmth",
+      "action": "Calls the opposing drivers 'a bunch of Jocks in a Granada' and engages in a competitive, somewhat aggressive driving contest with them.",
+      "assessment": "This behavior shows a confrontational and antagonistic attitude toward others, indicating low tolerance and friendliness.",
+      "rating": -2,
+      "chunk": 43
     },
     {
-      "Action": "Passively accepts Mr. Hand's instructions to sit on the bed ('I don't know. I guess so.').",
-      "Warmth": 0,
-      "Chunk": 73
+      "trait": "warmth",
+      "action": "Asks L.C. to roll up his window because it's messing up his hair.",
+      "assessment": "This request is self-centered and somewhat inconsiderate of L.C.'s comfort, reflecting a lack of attentiveness to others' feelings.",
+      "rating": -1,
+      "chunk": 43
     },
     {
-      "Action": "Admits honestly that the book is in his locker when asked to turn to a chapter.",
-      "Warmth": 1,
-      "Chunk": 73
+      "trait": "warmth",
+      "action": "Smiles wickedly at L.C. after pulling ahead of the Granada and shows off by pushing the pedal to the floor.",
+      "assessment": "Showing off and deriving pleasure from outpacing others suggests a competitive rather than warm or inclusive attitude.",
+      "rating": -1,
+      "chunk": 43
     },
     {
-      "Action": "Shows unawareness and forgetfulness about bringing textbook to class (textbook is in locker, not with him).",
-      "Competence": -1,
-      "Chunk": 73
+      "trait": "warmth",
+      "action": "After crashing the car into a fire hydrant, immediately asks L.C., 'Are you okay?'",
+      "assessment": "This shows genuine concern for his friend’s wellbeing, indicating care and sincerity.",
+      "rating": 2,
+      "chunk": 43
     },
     {
-      "Action": "Comes to Mr. Hand's room when called, agrees to have a serious conversation despite awkwardness.",
-      "Competence": 0,
-      "Chunk": 73
+      "trait": "competence",
+      "action": "Easily overtakes the Granada in a high-speed move and confidently checks himself in the rearview mirror.",
+      "assessment": "This action demonstrates Spicoli's skill and confidence in driving, indicating a competent handling of the car in a competitive situation.",
+      "rating": 2,
+      "chunk": 43
     },
     {
-      "Action": "Smiles warmly and jokes with Mr. Hand after a tense study session, extends his hand in a friendly gesture, and uses a casual, positive farewell.",
-      "Warmth": 1,
-      "Chunk": 74
+      "trait": "competence",
+      "action": "Pushes the pedal to the floor to show off his Mustang's capabilities.",
+      "assessment": "This shows confidence and a willingness to take risks, but also a lack of caution, which can undermine competence in practical terms.",
+      "rating": 1,
+      "chunk": 43
     },
     {
-      "Action": "Asks Mr. Hand if he is a 'guy like me every year' in a somewhat self-deprecating but sincere way, showing vulnerability.",
-      "Warmth": 1,
-      "Chunk": 74
+      "trait": "competence",
+      "action": "Attempts to negotiate a hairpin turn by manipulating the Mustang steering wheel bubbles.",
+      "assessment": "While he shows some knowledge of the car's features, his overconfidence and distraction lead to a dangerous mistake, indicating poor judgment and lack of precise control.",
+      "rating": -2,
+      "chunk": 43
     },
     {
-      "Action": "Panics briefly when threatened with failure but quickly recovers enthusiasm, showing openness and trust in Mr. Hand's judgment.",
-      "Warmth": 1,
-      "Chunk": 74
+      "trait": "competence",
+      "action": "Causes the car to swing in a complete circle and crash into a fire hydrant, severely damaging the car.",
+      "assessment": "This is a clear indicator of incompetence in driving, showing poor coordination, lack of focus, and inability to safely control the vehicle under pressure.",
+      "rating": -3,
+      "chunk": 43
     },
     {
-      "Action": "Attempts to grasp and understand difficult material (U.S. history) despite apparent struggle.",
-      "Competence": 1,
-      "Chunk": 74
+      "trait": "competence",
+      "action": "Immediately asks if L.C. is okay after the crash.",
+      "assessment": "This shows some presence of mind and concern for others, reflecting a basic level of social competence even if technical competence is lacking.",
+      "rating": 1,
+      "chunk": 43
     },
     {
-      "Action": "Misunderstands or oversimplifies the historical point he is trying to make.",
-      "Competence": -1,
-      "Chunk": 74
+      "trait": "warmth",
+      "action": "Tells L.C. to 'just be glad you're all right' after the car accident.",
+      "assessment": "Spicoli shows concern for L.C.'s well-being, prioritizing his safety over the damaged car, which reflects a caring and good-natured attitude.",
+      "rating": 2,
+      "chunk": 44
     },
     {
-      "Action": "Asks Mr. Hand sincere questions about his role as a student, showing some self-awareness.",
-      "Competence": 0,
-      "Chunk": 74
+      "trait": "warmth",
+      "action": "Attempts to reassure L.C. by saying his brother is not going to kill them and that he can fix the car.",
+      "assessment": "Spicoli tries to calm L.C.'s fears and offers a solution, demonstrating a friendly and supportive demeanor, though his confidence may be somewhat naive.",
+      "rating": 2,
+      "chunk": 44
     },
     {
-      "Action": "Expresses overconfidence by declaring he won't come back to history class, despite uncertain chances to graduate.",
-      "Competence": -1,
-      "Chunk": 74
+      "trait": "warmth",
+      "action": "Insists he can fix the badly damaged car despite others' doubts.",
+      "assessment": "This shows Spicoli's optimistic and helpful nature, willing to take responsibility and assist others, which is a positive indicator of warmth.",
+      "rating": 2,
+      "chunk": 44
     },
     {
-      "Action": "Shows panic and concern when faced with possibility of failure, indicating some level of investment.",
-      "Competence": 0,
-      "Chunk": 74
+      "trait": "competence",
+      "action": "Tells L.C. to relax and reassures him that his brother is not going to kill them.",
+      "assessment": "This shows Spicoli's calm demeanor and ability to provide emotional support in a tense situation, indicating some social competence and confidence.",
+      "rating": 1,
+      "chunk": 44
     },
     {
-      "Action": "Asks a friend to sign his annual in a casual, playful way and ends up causing discomfort by slipping the book into the friend's crotch.",
-      "Competence": -1,
-      "Chunk": 76
+      "trait": "competence",
+      "action": "Claims he can fix the badly damaged car, citing his father's profession as a television repairman and the availability of tools.",
+      "assessment": "This reflects a degree of confidence and willingness to take initiative, but the claim is questionable given the extent of the damage and Spicoli's lack of demonstrated mechanical skill, suggesting overconfidence or naivety.",
+      "rating": -1,
+      "chunk": 44
     },
     {
-      "Action": "Has an annual filled mostly with drug-related messages and signatures, indicating a lack of serious social or academic engagement.",
-      "Competence": -1,
-      "Chunk": 76
+      "trait": "warmth",
+      "action": "Offers an extra crumpled dollar as a tip to the pizza delivery man, saying 'For you, my man.'",
+      "assessment": "This gesture shows generosity and friendliness toward the delivery person, indicating a good-natured and sincere attitude.",
+      "rating": 3,
+      "chunk": 51
     },
     {
-      "Action": "Greets his stoner bud enthusiastically, showing friendly and relaxed demeanor.",
-      "Warmth": 1,
-      "Chunk": 78
+      "trait": "warmth",
+      "action": "Eats pizza during class despite Mr. Hand's disapproval.",
+      "assessment": "While this action disrupts the class and shows disregard for authority, it does not necessarily reflect on warmth directly; it may indicate a lack of respect or consideration for others' needs in the classroom setting.",
+      "rating": -1,
+      "chunk": 51
     },
     {
-      "Action": "Warns a young buzz-cut kid with 'Hey, bud! Watch yourself!'",
-      "Warmth": 1,
-      "Chunk": 78
+      "trait": "warmth",
+      "action": "Responds to Mr. Hand's anger calmly and with a casual attitude, saying 'Learning about Cuba. Having some food.'",
+      "assessment": "His calm and urbane response suggests a tolerant and easygoing nature, but also a lack of seriousness or respect for the teacher's concerns, which may reduce perceived sincerity or trustworthiness.",
+      "rating": 0,
+      "chunk": 51
     },
     {
-      "Action": "Avoids confrontation and runs away when confronted by Lincoln Surf Nazis instead of escalating conflict.",
-      "Warmth": 1,
-      "Chunk": 78
+      "trait": "competence",
+      "action": "Sits bright and clear-eyed in the front row with his textbook open to the proper page.",
+      "assessment": "This suggests a moment of attentiveness and preparedness, indicating some level of engagement and capability in a classroom setting.",
+      "rating": 1,
+      "chunk": 51
     },
     {
-      "Action": "Confidently declares 'Summer, mon! We're there!' showing enthusiasm and some spontaneity.",
-      "Competence": 0,
-      "Chunk": 78
+      "trait": "competence",
+      "action": "Orders and receives a pizza delivery during class, paying the delivery man with crumpled dollars and giving an extra dollar as a tip.",
+      "assessment": "This shows social confidence and the ability to manage a transaction smoothly even in an inappropriate context, but it also disrupts the class and shows poor judgment.",
+      "rating": -1,
+      "chunk": 51
     },
     {
-      "Action": "Accidentally bumps into a young buzz-cut kid while moving backwards, showing poor spatial awareness.",
-      "Competence": -1,
-      "Chunk": 78
+      "trait": "competence",
+      "action": "Responds coolly and urbane to Mr. Hand's reprimand, stating he is 'learning about Cuba' while eating food in class.",
+      "assessment": "His calm and confident verbal response indicates social ease and quick thinking, but it also masks a lack of respect for authority and classroom norms.",
+      "rating": 0,
+      "chunk": 51
     },
     {
-      "Action": "Faces the group of eight hostile Surf Nazis with apparent calm but does not confront them intellectually or physically.",
-      "Competence": 0,
-      "Chunk": 78
+      "trait": "warmth",
+      "action": "Orders a pizza for the class and tries to share it with others, including a gang of young stoners.",
+      "assessment": "Ordering pizza and attempting to share it shows a friendly and inclusive gesture, indicating a desire to create a communal moment despite the teacher's disapproval.",
+      "rating": 2,
+      "chunk": 52
     },
     {
-      "Action": "Dashes off to escape Surf Nazis, successfully evading capture and never getting caught.",
-      "Competence": 1,
-      "Chunk": 78
+      "trait": "warmth",
+      "action": "Calls the stoners 'swine' in a joking manner after they take the pizza.",
+      "assessment": "While the term 'swine' is harsh, the tone appears playful and not genuinely hostile, suggesting a casual camaraderie rather than true insult.",
+      "rating": 1,
+      "chunk": 52
+    },
+    {
+      "trait": "warmth",
+      "action": "Shrugs off the punishment of detention with a relaxed attitude, saying 'It was a good idea at the time.'",
+      "assessment": "This shows a laid-back and non-confrontational demeanor but also a lack of responsibility or concern for consequences, which may reduce perceptions of sincerity or trustworthiness.",
+      "rating": 0,
+      "chunk": 52
+    },
+    {
+      "trait": "competence",
+      "action": "Orders a pizza during class and tries to share it with a group of stoners passing by.",
+      "assessment": "This action shows a casual, laid-back attitude and some social awareness, but it also reflects a lack of seriousness and poor judgment in a classroom setting.",
+      "rating": -1,
+      "chunk": 52
+    },
+    {
+      "trait": "competence",
+      "action": "Shrugs off the punishment of two-hour detention every afternoon without apparent concern.",
+      "assessment": "This indicates a lack of responsibility and disregard for consequences, suggesting low competence in managing obligations and authority.",
+      "rating": -2,
+      "chunk": 52
+    },
+    {
+      "trait": "warmth",
+      "action": "Comments 'Bitchin.' during a serious anatomy demonstration where the human heart is pulled out for display.",
+      "assessment": "Spicoli's comment is casual and dismissive in a moment that shocks others, showing a lack of sensitivity and empathy toward the feelings of his classmates.",
+      "rating": -2,
+      "chunk": 61
+    },
+    {
+      "trait": "warmth",
+      "action": "Politely asks Brad Hamilton if he can use the bathroom despite the sign indicating it's for employees only.",
+      "assessment": "Spicoli's polite request shows a basic level of respect and friendliness, even though he is about to disregard the posted rule.",
+      "rating": 1,
+      "chunk": 69
+    },
+    {
+      "trait": "warmth",
+      "action": "Struggles to find the bathroom and repeatedly asks Brad for help.",
+      "assessment": "His repeated questions suggest a certain dependence and lack of awareness, but also a willingness to communicate and engage rather than ignoring others.",
+      "rating": 1,
+      "chunk": 69
+    },
+    {
+      "trait": "warmth",
+      "action": "Disregards the 'Employees Only' sign and uses the back room bathroom anyway.",
+      "assessment": "Ignoring the sign indicates a lack of respect for rules and boundaries, which can be seen as inconsiderate or self-centered.",
+      "rating": -1,
+      "chunk": 69
+    },
+    {
+      "trait": "competence",
+      "action": "Asks to use the bathroom despite the sign saying 'Rest Room For Employees Only'.",
+      "assessment": "This shows a casual disregard for rules but also social confidence to ask directly.",
+      "rating": 0,
+      "chunk": 69
+    },
+    {
+      "trait": "competence",
+      "action": "Has difficulty finding the bathroom door despite being told it is the first door on the left.",
+      "assessment": "This indicates a lack of spatial awareness or attention to instructions, suggesting low competence in this simple task.",
+      "rating": -2,
+      "chunk": 69
+    },
+    {
+      "trait": "competence",
+      "action": "Eventually locates the bathroom after repeated prompting.",
+      "assessment": "Shows some persistence and ability to follow directions after clarification, a mild positive indicator.",
+      "rating": 1,
+      "chunk": 69
+    },
+    {
+      "trait": "warmth",
+      "action": "Emerges from the bathroom wiping his hands and casually says 'No towels, mon...' during a robbery.",
+      "assessment": "Spicoli's laid-back and seemingly oblivious demeanor in a tense situation shows a lack of situational awareness rather than warmth; he does not engage with others in a supportive or friendly way here.",
+      "rating": 0,
+      "chunk": 70
+    },
+    {
+      "trait": "warmth",
+      "action": "Stands mesmerized and comments 'Awesome. Totally awesome.' after Brad Hamilton throws coffee in the robber's face and disarms him.",
+      "assessment": "Spicoli's reaction is more of admiration and amazement rather than active support or concern; he does not intervene or offer help, indicating passivity rather than warmth.",
+      "rating": 0,
+      "chunk": 70
+    },
+    {
+      "trait": "competence",
+      "action": "Walks out of the bathroom wiping his hands on his pants, oblivious to the robbery in progress.",
+      "assessment": "Spicoli appears unaware and disengaged from the serious situation unfolding around him, indicating a lack of situational awareness and attentiveness.",
+      "rating": -2,
+      "chunk": 70
+    },
+    {
+      "trait": "competence",
+      "action": "Stands mesmerized and comments 'Awesome. Totally awesome.' after Brad successfully incapacitates the robber.",
+      "assessment": "Spicoli's reaction is passive and lacks initiative; he does not contribute to resolving the crisis, showing a tendency to be a bystander rather than an active problem-solver.",
+      "rating": -2,
+      "chunk": 70
+    },
+    {
+      "trait": "competence",
+      "action": "Attempts to tie his father's fat paisley tie but stops to take a hit from his bong while talking on the phone.",
+      "assessment": "This action suggests a lack of focus and seriousness in completing a simple task, indicating a casual or distracted approach rather than skillful or confident behavior.",
+      "rating": -2,
+      "chunk": 71
+    },
+    {
+      "trait": "competence",
+      "action": "His room is described as his castle but is messy with clothes in disarray and a half-waxed surfboard propped against the window.",
+      "assessment": "The messy environment implies a lack of organization and discipline, which can be seen as a negative indicator of competence.",
+      "rating": -1,
+      "chunk": 71
+    },
+    {
+      "trait": "warmth",
+      "action": "Responds to his little brother Curtis's interruption with irritation, telling him to go away because he can't hear him if he doesn't knock.",
+      "assessment": "Spicoli's brusque dismissal of his younger brother suggests a lack of patience and warmth in sibling interaction.",
+      "rating": -2,
+      "chunk": 72
+    },
+    {
+      "trait": "warmth",
+      "action": "After Curtis knocks properly, Spicoli invites him in with a friendly 'That's better. Come in.'",
+      "assessment": "This shows some tolerance and willingness to engage appropriately once social norms are followed, indicating mild warmth.",
+      "rating": 1,
+      "chunk": 72
+    },
+    {
+      "trait": "warmth",
+      "action": "Greets Mr. Hand with a stoned, somewhat respectful 'Mr... Mr. Hand.' and nods when invited in.",
+      "assessment": "Despite his intoxicated state, Spicoli shows a degree of respect and compliance toward an authority figure, reflecting basic sincerity and trustworthiness.",
+      "rating": 1,
+      "chunk": 72
+    },
+    {
+      "trait": "warmth",
+      "action": "Plans to leave school and go to Mexico with friends, taking beer and focusing on jamming and having fun.",
+      "assessment": "This action reflects a carefree, self-centered attitude rather than warmth toward others; it shows little consideration or responsibility.",
+      "rating": -1,
+      "chunk": 72
+    },
+    {
+      "trait": "competence",
+      "action": "Attempts to tie his father's fat paisley tie while talking on the phone and taking a hit from his bong.",
+      "assessment": "This multitasking attempt shows poor coordination and lack of focus, indicating low competence in managing simple tasks.",
+      "rating": -2,
+      "chunk": 72
+    },
+    {
+      "trait": "competence",
+      "action": "Expresses confusion about the effects of the substance he consumed, asking if it causes brain damage.",
+      "assessment": "This shows a lack of awareness and understanding of his own condition, reflecting poor self-management and low competence.",
+      "rating": -2,
+      "chunk": 72
+    },
+    {
+      "trait": "competence",
+      "action": "Plans a trip to Mexico immediately after school, listing items he will bring and his intended activities.",
+      "assessment": "While the plan is clear and shows some forward thinking, it lacks detail and seriousness, suggesting a casual approach rather than competent planning.",
+      "rating": 0,
+      "chunk": 72
+    },
+    {
+      "trait": "competence",
+      "action": "Almost strangles himself while tying his tie.",
+      "assessment": "This indicates poor motor skills and lack of attention to a basic task, a negative indicator of competence.",
+      "rating": -3,
+      "chunk": 72
+    },
+    {
+      "trait": "competence",
+      "action": "Responds to his brother Curtis's interruption by telling him to go away and that if he can't knock, he can't hear him.",
+      "assessment": "This shows some assertiveness and awareness of social boundaries, a mild positive indicator of competence.",
+      "rating": 1,
+      "chunk": 72
+    },
+    {
+      "trait": "competence",
+      "action": "Nods silently when Mr. Hand asks to come in, showing passive compliance.",
+      "assessment": "This passive response suggests a lack of confidence and assertiveness, indicating low competence in social interactions.",
+      "rating": -1,
+      "chunk": 72
+    },
+    {
+      "trait": "warmth",
+      "action": "Responds to Mr. Hand's reprimand with a laid-back and somewhat confused demeanor, saying 'Did I do something wrong, Mr. Hand?'",
+      "assessment": "Spicoli's response shows a non-confrontational and easygoing attitude, which can be seen as friendly and tolerant, though it also suggests a lack of seriousness or awareness.",
+      "rating": 1,
+      "chunk": 73
+    },
+    {
+      "trait": "warmth",
+      "action": "Accepts Mr. Hand's instructions and the extra book without complaint or argument.",
+      "assessment": "This shows a degree of respect and trustworthiness in his interaction with authority, indicating a cooperative and sincere side.",
+      "rating": 2,
+      "chunk": 73
+    },
+    {
+      "trait": "warmth",
+      "action": "Sits on his bed as instructed, appearing passive and disengaged.",
+      "assessment": "While not actively warm, his compliance without resistance suggests a basic respectfulness, though the lack of engagement may indicate emotional distance.",
+      "rating": 0,
+      "chunk": 73
+    },
+    {
+      "trait": "competence",
+      "action": "Responds to Mr. Hand's question about going somewhere tonight with a simple 'Yeah.'",
+      "assessment": "This response is vague and non-committal, indicating a lack of clear communication or planning.",
+      "rating": -1,
+      "chunk": 73
+    },
+    {
+      "trait": "competence",
+      "action": "When asked if he did something wrong, replies 'Did I do something wrong, Mr. Hand?'",
+      "assessment": "This shows some awareness of potential consequences but also suggests a passive or uncertain attitude rather than proactive responsibility.",
+      "rating": 0,
+      "chunk": 73
+    },
+    {
+      "trait": "competence",
+      "action": "Sits on his bed when instructed by Mr. Hand, saying 'I don't know. I guess so.'",
+      "assessment": "His hesitation and lack of confidence in a simple action reflect low decisiveness and assertiveness.",
+      "rating": -1,
+      "chunk": 73
+    },
+    {
+      "trait": "competence",
+      "action": "Has a bag of pot visibly next to him during a serious discussion with a teacher.",
+      "assessment": "This indicates poor judgment and a lack of seriousness about his responsibilities, negatively impacting perceived competence.",
+      "rating": -3,
+      "chunk": 73
+    },
+    {
+      "trait": "competence",
+      "action": "Admits that the textbook Mr. Hand wants him to use is in his locker.",
+      "assessment": "This shows some awareness of his own preparedness or lack thereof, but also a failure to have necessary materials ready, indicating disorganization.",
+      "rating": -2,
+      "chunk": 73
+    },
+    {
+      "trait": "competence",
+      "action": "Accepts the extra copy of the textbook from Mr. Hand without protest.",
+      "assessment": "This demonstrates a willingness to cooperate and adapt, a small positive indicator of competence.",
+      "rating": 1,
+      "chunk": 73
+    },
+    {
+      "trait": "warmth",
+      "action": "Smiles and jokingly tells Mr. Hand he won't come to his side of the building after graduation.",
+      "assessment": "Spicoli's lighthearted teasing shows a friendly and playful attitude, indicating a generally good-natured and tolerant demeanor.",
+      "rating": 2,
+      "chunk": 74
+    },
+    {
+      "trait": "warmth",
+      "action": "Jumps up and extends his hand to Mr. Hand as he leaves, saying 'Aloha, Mr. Hand!'",
+      "assessment": "Offering a handshake and a friendly farewell demonstrates respect and sincerity, reflecting positive warmth.",
+      "rating": 3,
+      "chunk": 74
+    },
+    {
+      "trait": "warmth",
+      "action": "Asks Mr. Hand if he has a student like him every year, showing curiosity about his own role.",
+      "assessment": "This question reveals a degree of self-awareness and openness to understanding others, which can be seen as a mild indicator of warmth.",
+      "rating": 1,
+      "chunk": 74
+    },
+    {
+      "trait": "competence",
+      "action": "Trying to grasp the material in his room, attempting to explain Jefferson's speech in his own words.",
+      "assessment": "This shows some effort to understand the subject matter, indicating a basic level of engagement and cognitive processing, though the explanation is informal and somewhat imprecise.",
+      "rating": 1,
+      "chunk": 74
+    },
+    {
+      "trait": "competence",
+      "action": "Asking Mr. Hand if he has a student like him every year, implying self-awareness about his role as a class clown or example.",
+      "assessment": "This question reveals a degree of self-awareness and social insight, suggesting some reflective thinking about his own behavior and its impact.",
+      "rating": 1,
+      "chunk": 74
+    },
+    {
+      "trait": "competence",
+      "action": "Expressing a confident refusal to attend Mr. Hand's side of the building after graduation.",
+      "assessment": "This statement shows confidence and a clear sense of personal boundaries, though it may also reflect avoidance rather than constructive planning.",
+      "rating": 0,
+      "chunk": 74
+    },
+    {
+      "trait": "competence",
+      "action": "Panicking when Mr. Hand suggests he might flunk him.",
+      "assessment": "This reaction indicates a lack of emotional control and preparedness for academic consequences, reflecting lower competence in managing stress and academic challenges.",
+      "rating": -1,
+      "chunk": 74
+    },
+    {
+      "trait": "competence",
+      "action": "Celebrating when Mr. Hand says he will probably squeak by.",
+      "assessment": "This shows relief and optimism, but also suggests minimal academic achievement and a tendency to settle for just passing rather than excelling.",
+      "rating": -1,
+      "chunk": 74
+    },
+    {
+      "trait": "competence",
+      "action": "Kicking the door shut and grinning while struggling with his tie.",
+      "assessment": "The grin suggests a carefree attitude, but struggling with a tie indicates a lack of practical skill or attention to detail in everyday tasks.",
+      "rating": -1,
+      "chunk": 74
+    },
+    {
+      "trait": "warmth",
+      "action": "Asks a friend to sign his annual and slips the book into the friend's crotch, causing pain, but the friend still signs with a drug-related message.",
+      "assessment": "Spicoli's action is playful but inconsiderate, causing discomfort to a friend. The drug-related messages suggest a close-knit but potentially problematic social circle. This shows a casual friendliness but lacks genuine care or respect.",
+      "rating": -1,
+      "chunk": 76
+    },
+    {
+      "trait": "competence",
+      "action": "Sprawled out in the bleachers with his surfer stoner buddies, casually asks a friend to sign his annual, slipping it into the friend's crotch.",
+      "assessment": "This action shows a lack of social awareness and maturity, indicating a casual, careless attitude rather than skillful or confident social interaction.",
+      "rating": -2,
+      "chunk": 76
+    },
+    {
+      "trait": "competence",
+      "action": "Has an annual filled with drug-related messages from fellow stoners.",
+      "assessment": "This suggests poor judgment and a lack of foresight, which negatively impacts his perceived competence.",
+      "rating": -2,
+      "chunk": 76
+    },
+    {
+      "trait": "competence",
+      "action": "Maintains a relaxed, laid-back demeanor among peers, seemingly comfortable in his social niche.",
+      "assessment": "While not demonstrating traditional competence, this shows a degree of social confidence and ease within his group, a mild positive indicator.",
+      "rating": 1,
+      "chunk": 76
+    },
+    {
+      "trait": "warmth",
+      "action": "Sits on the bleachers and respectfully exchanges annuals with Brad, showing true respect.",
+      "assessment": "Spicoli's respectful interaction and willingness to engage in a friendly exchange indicates a sincere and friendly demeanor.",
+      "rating": 2,
+      "chunk": 77
+    },
+    {
+      "trait": "warmth",
+      "action": "Warns a young buzz-cut kid by saying 'Hey, bud! Watch yourselff' after backing into him.",
+      "assessment": "Spicoli shows a basic level of consideration and friendliness by warning someone he accidentally bumped into, indicating some awareness and care for others.",
+      "rating": 1,
+      "chunk": 78
+    },
+    {
+      "trait": "warmth",
+      "action": "Encourages his stoner friend with 'Summer, mon! We're there!' and 'Let's roll, my man.'",
+      "assessment": "His enthusiastic and friendly language toward his friend suggests a warm, easygoing, and inclusive attitude.",
+      "rating": 2,
+      "chunk": 78
+    },
+    {
+      "trait": "warmth",
+      "action": "Denies involvement when confronted by the Surf Nazis and then runs away.",
+      "assessment": "Spicoli avoids confrontation and does not escalate the situation, but fleeing rather than addressing the issue may indicate a lack of courage or responsibility rather than warmth.",
+      "rating": 0,
+      "chunk": 78
+    },
+    {
+      "trait": "competence",
+      "action": "Raises his fist in the air and confidently declares 'Summer, mon! We're there!' before leaving the dance with a stoner buddy.",
+      "assessment": "This shows a casual confidence and social ease, but it is more indicative of laid-back attitude than a demonstration of skill or intelligence.",
+      "rating": 0,
+      "chunk": 78
+    },
+    {
+      "trait": "competence",
+      "action": "Accidentally backs into a young buzz-cut kid and then into a squad of eight Lincoln Surf Nazis.",
+      "assessment": "This suggests a lack of spatial awareness and situational caution, reflecting poor competence in navigating his environment.",
+      "rating": -2,
+      "chunk": 78
+    },
+    {
+      "trait": "competence",
+      "action": "Upon being confronted by the Surf Nazis, he quickly assesses the situation, recognizes the threat, and dashes off, successfully evading capture.",
+      "assessment": "This indicates quick thinking, situational awareness, and physical agility, demonstrating a competent ability to avoid danger.",
+      "rating": 2,
+      "chunk": 78
     }
   ]
 }

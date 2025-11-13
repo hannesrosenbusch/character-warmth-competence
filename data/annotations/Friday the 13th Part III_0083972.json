@@ -1,244 +1,382 @@
 {
   "Jason Voorhees": [
     {
-      "Action": "Suddenly attacks Harold with a meat cleaver, killing him.",
-      "Warmth": -1,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Springs out from behind the van, following the group at a safe distance while brandishing a knife.",
+      "assessment": "This action is threatening and hostile, indicating a lack of trustworthiness, friendliness, or benevolence.",
+      "rating": -3,
+      "chunk": 12
     },
     {
-      "Action": "Suddenly attacks Harold with a meat cleaver, striking him accurately and incapacitating him instantly.",
-      "Competence": 1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Springs out from around the hidden side of the van, following a safe distance behind the unsuspecting threesome while brandishing a knife.",
+      "assessment": "This action demonstrates Jason's stealth and tactical patience, indicating a high level of skill in stalking his targets without being detected.",
+      "rating": 3,
+      "chunk": 12
     },
     {
-      "Action": "Demonstrates patience and stealth by waiting for Harold to open the closet door before attacking.",
-      "Competence": 1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Advances little by little from behind, raising the knife above his head at the opportune moment.",
+      "assessment": "This shows calculated timing and controlled aggression, reflecting confidence and capability in executing an attack.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Springs out from hiding behind the van, silently follows potential victims at a safe distance while brandishing a knife.",
-      "Warmth": -1,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Appears as a shadowy figure behind a curtain, remaining out of focus and unseen by Chris.",
+      "assessment": "This indicates a high level of stealth and patience, showing skill in remaining undetected while observing his target.",
+      "rating": 2,
+      "chunk": 24
     },
     {
-      "Action": "No direct actions or interactions by Jason shown in this excerpt; presence implied but no warmth-related behavior exhibited.",
-      "Warmth": 0,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Disappears from view just as Chris turns toward the house.",
+      "assessment": "This suggests tactical awareness and the ability to control his presence, avoiding premature detection.",
+      "rating": 2,
+      "chunk": 24
     },
     {
-      "Action": "Moves stealthily and undetected, appearing out of focus behind curtains, and surprises Chris by grabbing her suddenly.",
-      "Competence": 1,
-      "Chunk": 24
+      "trait": "competence",
+      "action": "No direct action taken in this excerpt beyond presence and disappearance; no attack or confrontation occurs.",
+      "assessment": "The lack of immediate aggression could indicate strategic restraint or hesitation, which may reflect either patience or uncertainty.",
+      "rating": 0,
+      "chunk": 24
     },
     {
-      "Action": "Remains hidden and silent, effectively using the environment (open door, shadows) to gain advantage.",
-      "Competence": 1,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Jason watches Shelly from a hidden vantage point behind a curtain, silently observing him while Shelly is vulnerable and isolated.",
+      "assessment": "Jason's silent observation from a distance without intervening or offering help suggests detachment and lack of warmth; he neither comforts nor engages positively with Shelly.",
+      "rating": -2,
+      "chunk": 30
     },
     {
-      "Action": "Causes unsettling noises and eerie atmosphere without direct interaction, indirectly inducing fear.",
-      "Warmth": -1,
-      "Chunk": 31
+      "trait": "warmth",
+      "action": "Jason does not reveal himself or interact with Shelly despite seeing him in distress.",
+      "assessment": "Jason's omission of any supportive or friendly action when witnessing someone in a weakened state indicates a lack of trustworthiness and friendliness, reflecting low warmth.",
+      "rating": -3,
+      "chunk": 30
     },
     {
-      "Action": "No direct friendly or nurturing behavior observed; absence of communication or interaction with others.",
-      "Warmth": -1,
-      "Chunk": 31
+      "trait": "warmth",
+      "action": "Creates unsettling and frightening disturbances inside the house, such as slamming a window and causing a chilling scream that terrifies the other characters.",
+      "assessment": "These actions are intended to instill fear and chaos rather than to be friendly or trustworthy, indicating a lack of warmth.",
+      "rating": -3,
+      "chunk": 31
     },
     {
-      "Action": "Causes the window to slam shut stealthily and unsettles dust, demonstrating subtlety and control over environment.",
-      "Competence": 1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Creates an unsettling atmosphere by silently closing a window and causing dust to stir, then hiding behind a curtain to avoid detection.",
+      "assessment": "This action shows Jason's ability to manipulate his environment stealthily and create fear without direct confrontation, indicating tactical awareness and patience.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Creates a chilling scream from inside the house, effectively instilling fear and confusion in others.",
-      "Competence": 1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Remains unseen behind the curtain when Shelly investigates the noise.",
+      "assessment": "Jason's choice to avoid direct engagement and remain hidden demonstrates strategic restraint and situational control, reflecting competent stalking behavior.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Impales Fox with a pitchfork, causing her a brutal death.",
-      "Warmth": -1,
-      "Chunk": 44
+      "trait": "competence",
+      "action": "No direct violent action or confrontation occurs in this excerpt.",
+      "assessment": "The absence of direct action here neither adds nor detracts from Jason's competence; his silent presence and ability to unsettle victims without being caught still suggest skill.",
+      "rating": 1,
+      "chunk": 31
     },
     {
-      "Action": "Attacks Loco with a pitchfork, inflicting severe injury.",
-      "Warmth": -1,
-      "Chunk": 44
+      "trait": "competence",
+      "action": "Dislodges a bale of hay at the top of the barn loft, sending it crashing down near Fox, narrowly missing her.",
+      "assessment": "This action demonstrates Jason's ability to use his environment effectively to create hazards and intimidate or harm his target, indicating tactical awareness and physical strength.",
+      "rating": 2,
+      "chunk": 42
     },
     {
-      "Action": "Kills Fox by impaling her with a pitchfork in a sudden, effective attack that surprises Loco.",
-      "Competence": 1,
-      "Chunk": 44
+      "trait": "warmth",
+      "action": "Impales Fox with a pitchfork and kills Loco with the same weapon in a violent attack.",
+      "assessment": "These actions demonstrate extreme violence and a complete lack of empathy or kindness, indicating very low warmth.",
+      "rating": -3,
+      "chunk": 44
     },
     {
-      "Action": "Successfully attacks Loco with a pitchfork, causing severe injury, demonstrating physical precision and effective use of a weapon.",
-      "Competence": 1,
-      "Chunk": 44
+      "trait": "competence",
+      "action": "Impales Fox with a pitchfork, killing her silently and efficiently in a confined, dark space.",
+      "assessment": "This action demonstrates Jason's lethal precision and ability to use his environment and weapons effectively to dispatch victims quickly and without hesitation.",
+      "rating": 3,
+      "chunk": 44
     },
     {
-      "Action": "Attacks Ali violently with a monkey wrench, causing serious injury.",
-      "Warmth": -1,
-      "Chunk": 45
+      "trait": "competence",
+      "action": "Ambushes Loco in the loft, striking him with a pitchfork through the stomach, causing immediate incapacitation.",
+      "assessment": "This shows Jason's tactical awareness and ability to surprise and overpower an opponent, indicating high physical skill and situational control.",
+      "rating": 3,
+      "chunk": 44
     },
     {
-      "Action": "Lies in wait silently and kills Loco when he falls through the hayloft floor.",
-      "Warmth": -1,
-      "Chunk": 45
+      "trait": "competence",
+      "action": "Remains hidden in deep shadows, using darkness to his advantage.",
+      "assessment": "This suggests Jason's understanding of stealth and use of environment to maintain the element of surprise, reflecting strategic competence.",
+      "rating": 2,
+      "chunk": 44
     },
     {
-      "Action": "Makes no hesitation in attacking and inflicting harm on intruders.",
-      "Warmth": -1,
-      "Chunk": 45
+      "trait": "warmth",
+      "action": "Attacks Ali violently in the barn, bashing his skull with a monkey wrench.",
+      "assessment": "This aggressive and lethal action demonstrates a complete lack of kindness, trustworthiness, or friendliness, indicating very low warmth.",
+      "rating": -3,
+      "chunk": 45
     },
     {
-      "Action": "Chases the victim relentlessly despite the victim running and hiding, showing physical capability and persistence.",
-      "Competence": 1,
-      "Chunk": 51
+      "trait": "warmth",
+      "action": "Remains silent and does not communicate or show any signs of tolerance or benevolence during the encounter.",
+      "assessment": "Jason's omission of any friendly or conciliatory behavior further underscores his cold and hostile nature.",
+      "rating": -2,
+      "chunk": 45
     },
     {
-      "Action": "Approaches quietly, startling the victim by sudden appearance and attack, indicating stealth and tactical approach.",
-      "Competence": 1,
-      "Chunk": 51
+      "trait": "competence",
+      "action": "Loco, with a pitchfork in his stomach, falls through the loft floor directly onto Ali, incapacitating him.",
+      "assessment": "This demonstrates Jason's ability to use the environment and his physical presence effectively to ambush and neutralize a target, indicating tactical awareness and physical power.",
+      "rating": 2,
+      "chunk": 45
     },
     {
-      "Action": "Drags the victim by the hair and over the ground without significant resistance from the victim, demonstrating physical dominance and control.",
-      "Competence": 1,
-      "Chunk": 51
+      "trait": "competence",
+      "action": "Jason delivers a crushing blow to Ali's head with a large monkey wrench, knocking him out.",
+      "assessment": "This shows Jason's strength and precision in using available weapons to incapacitate opponents quickly, reflecting skill and decisiveness.",
+      "rating": 2,
+      "chunk": 45
     },
     {
-      "Action": "Enters the lake stealthily and undetected, exhibiting patience and careful approach.",
-      "Competence": 1,
-      "Chunk": 52
+      "trait": "competence",
+      "action": "Jason remains hidden and watches Andy and Debbie approach the barn through a side window.",
+      "assessment": "This indicates patience and situational awareness, as he observes potential threats before engaging, suggesting strategic thinking.",
+      "rating": 2,
+      "chunk": 45
     },
     {
-      "Action": "Remains hidden underwater, preparing to surprise a target.",
-      "Competence": 1,
-      "Chunk": 52
+      "trait": "warmth",
+      "action": "Wearing Shelly's white mask and holding the spear-gun, kneels at the edge of the pier while Vera swims toward him, mistaking him for Shelly.",
+      "assessment": "Jason's presence here is ominous and threatening rather than friendly or trustworthy; he does not reveal himself or warn Vera, allowing her to approach unknowingly.",
+      "rating": -3,
+      "chunk": 55
     },
     {
-      "Action": "Kneels silently at the edge of the pier, holding the spear-gun, remaining hidden and using the element of surprise.",
-      "Competence": 1,
-      "Chunk": 55
+      "trait": "warmth",
+      "action": "Raises the spear-gun to eye level as Vera swims toward him.",
+      "assessment": "This action indicates hostile intent and a lack of benevolence or tolerance, showing a clear threat to Vera's safety.",
+      "rating": -3,
+      "chunk": 55
     },
     {
-      "Action": "Mistaken for Shelly by Vera due to wearing the mask and staying still, indicating purposeful deception or disguise.",
-      "Competence": 1,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "Kneels at the edge of the pier holding a spear-gun, remaining still and concealed in the dark, waiting for Vera to approach.",
+      "assessment": "This shows patience, stealth, and tactical positioning, indicating a high level of competence in ambush and hunting behavior.",
+      "rating": 3,
+      "chunk": 55
     },
     {
-      "Action": "Raises the spear-gun to eye level aiming carefully at Vera approaching, demonstrating focus and deadly precision.",
-      "Competence": 1,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "Raises the spear-gun to eye level and aims at Vera as she unknowingly swims toward him.",
+      "assessment": "This action demonstrates focus, precision, and readiness to strike, reflecting skill and confidence in using his weapon effectively.",
+      "rating": 3,
+      "chunk": 55
     },
     {
-      "Action": "Kills Vera without warning or dialogue after she finds the wallet.",
-      "Warmth": -1,
-      "Chunk": 56
+      "trait": "competence",
+      "action": "Remains motionless and does not reveal himself prematurely despite Vera mistaking him for Shelly.",
+      "assessment": "This restraint and ability to maintain cover under potentially confusing circumstances shows discipline and strategic thinking.",
+      "rating": 2,
+      "chunk": 55
     },
     {
-      "Action": "Aims spear-gun accurately at Vera’s head and kills her with a single shot, showing precision and decisiveness.",
-      "Competence": 1,
-      "Chunk": 56
+      "trait": "warmth",
+      "action": "Aims and shoots a spear-gun at Vera, killing her instantly when she unknowingly approaches.",
+      "assessment": "This action is violent, lethal, and shows no hesitation or mercy, indicating a complete lack of warmth, trustworthiness, or friendliness.",
+      "rating": -3,
+      "chunk": 56
     },
     {
-      "Action": "Stands silently at the edge of the pier looking into the bloody water after the kill, showing calm and presence of mind.",
-      "Competence": 1,
-      "Chunk": 56
+      "trait": "warmth",
+      "action": "Stands silently at the edge of the pier looking down into the bloody water after killing Vera.",
+      "assessment": "Jason's silent, detached behavior after the killing suggests emotional coldness and lack of remorse, reinforcing a low level of warmth.",
+      "rating": -3,
+      "chunk": 56
     },
     {
-      "Action": "Silently approaches Debbie in the bathroom while she is vulnerable and unaware.",
-      "Warmth": -1,
-      "Chunk": 57
+      "trait": "competence",
+      "action": "Jason aims the spear-gun at Vera's head and successfully shoots her with a spear, killing her instantly.",
+      "assessment": "This action demonstrates Jason's precision, patience, and lethal skill with a weapon, indicating a high level of competence in executing his attacks efficiently and effectively.",
+      "rating": 3,
+      "chunk": 56
     },
     {
-      "Action": "Ascends the spiral stairs silently and waits patiently in the shadows near the bathroom, preparing to ambush Debbie.",
-      "Competence": 1,
-      "Chunk": 57
+      "trait": "competence",
+      "action": "After killing Vera, Jason stands at the edge of the pier looking down into the bloody water, his back to the camera.",
+      "assessment": "This moment of stillness and detachment could suggest a moment of reflection or composure, showing confidence and control rather than impulsiveness, which supports his competent demeanor.",
+      "rating": 1,
+      "chunk": 56
     },
     {
-      "Action": "Disappears into the shadows at the top of the stairs and approaches Debbie in the shower without being detected initially.",
-      "Competence": 1,
-      "Chunk": 57
+      "trait": "warmth",
+      "action": "Jason silently approaches Debbie while she is in the shower, holding a machete and remaining hidden in the shadows.",
+      "assessment": "This action demonstrates a threatening and predatory behavior, lacking any sign of trustworthiness, friendliness, or sincerity. It indicates coldness and danger rather than warmth.",
+      "rating": -3,
+      "chunk": 57
     },
     {
-      "Action": "Makes a banging noise on the bathroom door that alerts Debbie prematurely instead of a silent approach.",
-      "Competence": -1,
-      "Chunk": 57
+      "trait": "competence",
+      "action": "Ascends the spiral stairs silently while wielding a thick-bladed machete, disappearing into the shadows at the landing.",
+      "assessment": "This action demonstrates stealth, physical capability, and situational awareness, indicating a high level of competence in moving undetected and preparing for an attack.",
+      "rating": 3,
+      "chunk": 57
     },
     {
-      "Action": "Kills Andy brutally and drags his corpse into the bedroom, showing no hesitation or mercy.",
-      "Warmth": -1,
-      "Chunk": 58
+      "trait": "competence",
+      "action": "Approaches Debbie in the bathroom quietly, managing to get close without alerting her despite the noise and her being in a vulnerable state.",
+      "assessment": "This shows skill in stealth and timing, as well as patience, suggesting strong competence in stalking and ambush tactics.",
+      "rating": 3,
+      "chunk": 57
     },
     {
-      "Action": "Ambushes Andy silently and kills him swiftly and efficiently with a machete before Andy can react.",
-      "Competence": 1,
-      "Chunk": 58
+      "trait": "warmth",
+      "action": "Silently waits in the hallway and then kills Andy with a machete without any warning or interaction.",
+      "assessment": "Jason's action is violent, sudden, and lacks any sign of friendliness, trustworthiness, or tolerance. There is no indication of warmth or benevolence in this behavior.",
+      "rating": -3,
+      "chunk": 58
     },
     {
-      "Action": "Hides against the wall unnoticed, showing patience and tactical positioning.",
-      "Competence": 1,
-      "Chunk": 58
+      "trait": "competence",
+      "action": "Stands silently and waits in ambush at the entrance to the bedroom, unnoticed by Andy.",
+      "assessment": "This shows Jason's patience, stealth, and situational awareness, indicating a high level of tactical competence.",
+      "rating": 3,
+      "chunk": 58
     },
     {
-      "Action": "Drags Andy's halved corpse up the stairs and closes the bedroom door behind him.",
-      "Warmth": -1,
-      "Chunk": 59
+      "trait": "competence",
+      "action": "Kills Andy swiftly and efficiently with a machete while Andy is vulnerable and unaware.",
+      "assessment": "This action demonstrates Jason's lethal precision and ability to exploit an opponent's weakness, reflecting strong physical skill and decisiveness.",
+      "rating": 3,
+      "chunk": 58
     },
     {
-      "Action": "Creeps silently across the room behind Debbie, remaining unnoticed as she calls out for Andy.",
-      "Warmth": -1,
-      "Chunk": 59
+      "trait": "competence",
+      "action": "Drags Andy's body back into the bedroom and closes the door behind him.",
+      "assessment": "This suggests a methodical approach to concealment and control of the environment, showing strategic thinking beyond mere violence.",
+      "rating": 2,
+      "chunk": 58
     },
     {
-      "Action": "Drags Andy's halved corpse upstairs and closes the bedroom door behind him.",
-      "Competence": 1,
-      "Chunk": 59
+      "trait": "warmth",
+      "action": "Creeps silently across the bedroom while Debbie is unaware and later causes a large drop of blood to fall on her book, revealing Andy's mangled corpse above her.",
+      "assessment": "Jason's actions are stealthy and violent, showing no concern for Debbie's safety or feelings. The act of displaying Andy's corpse in such a horrifying manner is threatening and cruel, indicating a lack of warmth.",
+      "rating": -3,
+      "chunk": 59
     },
     {
-      "Action": "Creeps silently across the bedroom while Debbie is unaware, displaying stealth.",
-      "Competence": 1,
-      "Chunk": 59
+      "trait": "competence",
+      "action": "Drags Andy's halved corpse up the stairs and back into the bedroom, closing the door behind him.",
+      "assessment": "This action shows physical strength and a methodical approach to hiding evidence, indicating practical skill and control over the situation.",
+      "rating": 2,
+      "chunk": 59
     },
     {
-      "Action": "Leaves visible signs (like a drop of blood falling onto Debbie’s book) that might alert victims.",
-      "Competence": -1,
-      "Chunk": 59
+      "trait": "competence",
+      "action": "Creeps silently across the bedroom while Debbie is unaware.",
+      "assessment": "This demonstrates stealth and patience, key indicators of competence in stalking and ambush tactics.",
+      "rating": 3,
+      "chunk": 59
     },
     {
-      "Action": "Surreptitiously attacks Debbie by snapping her head down and stabbing her in the neck while she is unaware and defenseless.",
-      "Warmth": -1,
-      "Chunk": 60
+      "trait": "competence",
+      "action": "Leaves a large drop of blood to fall on Debbie's book from above.",
+      "assessment": "While this could be accidental or careless, it risks revealing his presence, suggesting a slight lapse in caution.",
+      "rating": -1,
+      "chunk": 59
     },
     {
-      "Action": "From beneath the hammock, hidden by the covers, Jason's hand reaches up and snaps Debbie's head back down, then kills her silently and efficiently with a carving knife.",
-      "Competence": 1,
-      "Chunk": 60
+      "trait": "competence",
+      "action": "From beneath the hammock, hidden by the covers, Jason's hand reaches up and around and snaps Debbie's head back down, pinning her to the pillow.",
+      "assessment": "This action demonstrates stealth, physical strength, and precise control, indicating a high level of skill and confidence in subduing a victim quietly and efficiently.",
+      "rating": 3,
+      "chunk": 60
     },
     {
-      "Action": "Grabs Chuck's face, lifts him off the ground and throws him into the fusebox, causing electrocution.",
-      "Warmth": -1,
-      "Chunk": 62
+      "trait": "competence",
+      "action": "The carving knife is driven through the back of her neck and pops out the front, right at CAMERA.",
+      "assessment": "This shows lethal precision and decisiveness in execution, reinforcing Jason's capability as a deadly and effective killer.",
+      "rating": 3,
+      "chunk": 60
     },
     {
-      "Action": "Silently sneaks into the basement, uses Chuck's action of turning on the power against him by throwing him into the open fusebox, resulting in electrocution.",
-      "Competence": 1,
-      "Chunk": 62
+      "trait": "warmth",
+      "action": "Grabs Chuck's face, lifts him, and throws him into the open fusebox, causing electrocution.",
+      "assessment": "This violent and lethal action demonstrates a complete lack of benevolence, trustworthiness, or friendliness, indicating very low warmth.",
+      "rating": -3,
+      "chunk": 62
     },
     {
-      "Action": "Ambushes Chuck effectively, taking advantage of the environment and timing to incapacitate him swiftly, showing tactical awareness and physical capability.",
-      "Competence": 1,
-      "Chunk": 62
+      "trait": "competence",
+      "action": "Silently appears backlit and silhouetted by the basement bulb, creating a threatening presence.",
+      "assessment": "This shows Jason's ability to use the environment to his advantage, enhancing his intimidation factor and maintaining stealth.",
+      "rating": 2,
+      "chunk": 62
     },
     {
-      "Action": "Ambushes Chili by grabbing a red-hot poker and uses it as a weapon to burn her severely.",
-      "Warmth": -1,
-      "Chunk": 64
+      "trait": "competence",
+      "action": "Grabs Chuck's face with both hands, lifts him off the ground, and throws him into the open fusebox, causing electrocution.",
+      "assessment": "This demonstrates Jason's physical strength, precision, and tactical use of surroundings to kill efficiently and decisively.",
+      "rating": 3,
+      "chunk": 62
     },
     {
-      "Action": "Unseen reach to the fireplace and pulls out red-hot poker, using it as a weapon skillfully and confidently.",
-      "Competence": 1,
-      "Chunk": 64
+      "trait": "competence",
+      "action": "Does not speak or hesitate before attacking Chuck.",
+      "assessment": "Jason's silence and immediate action indicate confidence and focus, traits of a competent predator.",
+      "rating": 2,
+      "chunk": 62
+    },
+    {
+      "trait": "competence",
+      "action": "No visible mistakes or hesitation during the attack in the cellar.",
+      "assessment": "Jason's smooth execution without error or distraction suggests a high level of skill and control.",
+      "rating": 3,
+      "chunk": 62
+    },
+    {
+      "trait": "warmth",
+      "action": "Jason's hand reaches for a sizzling poker left in the fire and pulls out the red-hot iron.",
+      "assessment": "This action indicates a hostile and violent intent rather than any friendly or trustworthy behavior, showing a lack of warmth.",
+      "rating": -3,
+      "chunk": 63
+    },
+    {
+      "trait": "competence",
+      "action": "Unseen by Chili, Jason's hand reaches for a sizzling poker left in the fire and pulls out the red-hot iron.",
+      "assessment": "This action demonstrates Jason's situational awareness and ability to use his environment to his advantage, indicating a level of tactical thinking and resourcefulness.",
+      "rating": 2,
+      "chunk": 63
+    },
+    {
+      "trait": "warmth",
+      "action": "Jason grabs a red-hot poker from the fire and uses it to attack Chili, burning her severely.",
+      "assessment": "This action is violent, cruel, and shows a complete lack of empathy or kindness, indicating very low warmth.",
+      "rating": -3,
+      "chunk": 64
+    },
+    {
+      "trait": "competence",
+      "action": "Unseen by Chili, Jason's hand reaches for a sizzling poker left in the fire and pulls out the red-hot iron.",
+      "assessment": "This action shows Jason's awareness of his environment and ability to use available resources as weapons, indicating tactical thinking and adaptability.",
+      "rating": 2,
+      "chunk": 64
+    },
+    {
+      "trait": "competence",
+      "action": "Jason positions himself so that Chili runs directly into the scorching poker, burning her through her blouse and skin.",
+      "assessment": "This demonstrates Jason's strategic planning and precision in setting traps, reflecting high competence in ambush tactics.",
+      "rating": 3,
+      "chunk": 64
     }
   ]
 }

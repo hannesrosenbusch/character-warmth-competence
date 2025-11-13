@@ -1,354 +1,669 @@
 {
   "Robert Crawley": [
     {
-      "Action": "Receives an important letter from Buckingham Palace and reacts with composed acknowledgment.",
-      "Competence": 0,
-      "Chunk": 1
+      "trait": "competence",
+      "action": "Receives a letter from Buckingham Palace and reacts with a simple 'Heavens.'",
+      "assessment": "Robert's reaction is understated and does not demonstrate immediate decisiveness or strategic thinking regarding the letter's importance, suggesting a somewhat passive or reserved approach to significant matters.",
+      "rating": 0,
+      "chunk": 1
     },
     {
-      "Action": "Gives some bacon to Teo while eating.",
-      "Warmth": 1,
-      "Chunk": 2
+      "trait": "competence",
+      "action": "Walks into the dining room while Mary discusses cutting back investments and planning for the roof.",
+      "assessment": "Although Robert is present during important discussions about estate management, there is no indication he actively contributes or leads the conversation here, which may imply a lack of initiative or engagement in critical decision-making moments.",
+      "rating": -1,
+      "chunk": 1
     },
     {
-      "Action": "Makes a light teasing comment to Tom about his Irish patriotism.",
-      "Warmth": 1,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Gives some bacon to Teo while sitting to eat.",
+      "assessment": "Sharing food in a casual moment shows a small but genuine gesture of kindness and consideration.",
+      "rating": 2,
+      "chunk": 2
     },
     {
-      "Action": "Dismissively jokes about sending people to check Mrs Patmore isn’t a Russian spy.",
-      "Warmth": 0,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Jokes with Branson about his Irish patriotism and entertains his opinions.",
+      "assessment": "Engaging in light-hearted banter and showing tolerance for differing views indicates friendliness and openness.",
+      "rating": 2,
+      "chunk": 2
     },
     {
-      "Action": "Informs others about the King and Queen’s visit in a matter-of-fact way without apparent enthusiasm.",
-      "Warmth": 0,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Assigns Barrow to inform the downstairs staff about the royal visit preparations.",
+      "assessment": "Delegating tasks efficiently is practical but somewhat impersonal; no direct interaction with staff is shown here.",
+      "rating": 0,
+      "chunk": 2
     },
     {
-      "Action": "Recognizes the financial difficulty ahead ('this won't help us to economise') and immediately shares important news about the royal visit, indicating awareness of external pressures and responsibilities.",
-      "Competence": 1,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Mentions the royal visit and parade with a somewhat resigned tone about the impact on economizing.",
+      "assessment": "His focus is on practical concerns rather than excitement or enthusiasm, showing a reserved demeanor rather than warmth.",
+      "rating": 0,
+      "chunk": 2
     },
     {
-      "Action": "Delegates tasks appropriately ('Will you tell them downstairs, Barrow? I'll see to Her Ladyship'), showing practical management skills.",
-      "Competence": 1,
-      "Chunk": 2
+      "trait": "competence",
+      "action": "Upon learning that the King and Queen are coming to stay, Robert immediately considers the implications for Downton, mentioning the parade and inquiring about Henry's availability.",
+      "assessment": "This shows Robert's awareness of the social and logistical demands such a visit entails, indicating situational awareness and foresight.",
+      "rating": 2,
+      "chunk": 2
     },
     {
-      "Action": "Makes light of Branson's political stance and keeps the mood relatively light ('Tom, you're keeping your enthusiasm under control'), demonstrating social competence but possibly avoiding deeper conflicts or challenges.",
-      "Competence": 0,
-      "Chunk": 2
+      "trait": "competence",
+      "action": "Delegates the task of informing the downstairs staff about the royal visit to Barrow and states he will attend to Her Ladyship himself.",
+      "assessment": "This demonstrates effective delegation and prioritization, reflecting competent management of household affairs.",
+      "rating": 2,
+      "chunk": 2
     },
     {
-      "Action": "Declines to have Lady Bagshaw put on the spot despite family tensions.",
-      "Warmth": 1,
-      "Chunk": 6
+      "trait": "competence",
+      "action": "Makes a lighthearted comment about Branson's Irish patriotism and the possibility of Mrs Patmore being a Russian spy.",
+      "assessment": "While this shows a degree of wit and social ease, it may also suggest a tendency to use humor to deflect or downplay serious matters, which could be a minor negative in terms of gravitas.",
+      "rating": 0,
+      "chunk": 2
     },
     {
-      "Action": "Uses sarcasm in response to Violet's comment.",
-      "Warmth": -1,
-      "Chunk": 6
+      "trait": "competence",
+      "action": "Sits to eat and casually gives bacon to Teo while discussing serious matters.",
+      "assessment": "This indicates a calm and composed demeanor under pressure, suggesting confidence and control.",
+      "rating": 1,
+      "chunk": 2
     },
     {
-      "Action": "Jokes gently about Princess Mary being shy, showing lightheartedness in conversation.",
-      "Warmth": 1,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Tells Violet 'You're not to make things awkward' regarding Maud Bagshaw's visit.",
+      "assessment": "Robert attempts to manage social tensions firmly but without overt hostility, showing a desire to maintain harmony, though his tone may be somewhat authoritative.",
+      "rating": 1,
+      "chunk": 5
     },
     {
-      "Action": "Expresses resignation about no servant coming to serve him, but does so without complaining.",
-      "Warmth": 0,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Informs the guests that Maud Bagshaw is coming to Downton as the Queen's lady-in-waiting.",
+      "assessment": "This shows Robert's awareness of important social connections and his ability to communicate relevant information confidently.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Responds to the chaos around preparations with a passive remark about having another cup of tea, rather than addressing the issues raised regarding the parade, carpet stain, or footmen shortage.",
-      "Competence": -1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Tells Violet not to make things awkward regarding Maud Bagshaw's visit.",
+      "assessment": "This indicates Robert's attempt to manage social dynamics and maintain decorum, reflecting some skill in handling delicate situations.",
+      "rating": 1,
+      "chunk": 5
     },
     {
-      "Action": "Makes a mildly humorous but seemingly dismissive comment about the young couple not being young, showing some social awareness but not focusing on practical matters.",
-      "Competence": 0,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Responds to Violet's question about preparations by saying 'Mary's got it under control.'",
+      "assessment": "This suggests a degree of delegation and trust in others' capabilities, but also a possible lack of direct involvement or oversight, which could be seen as a slight omission in leadership.",
+      "rating": 0,
+      "chunk": 5
     },
     {
-      "Action": "Expresses concern that Barrow has done nothing wrong and that the situation feels unfair.",
-      "Warmth": 1,
-      "Chunk": 13
+      "trait": "warmth",
+      "action": "Refuses to have Lady Bagshaw put on the spot despite family tensions.",
+      "assessment": "By not wanting to confront Lady Bagshaw directly, Robert shows a degree of tolerance and restraint, avoiding unnecessary conflict.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Hesitates to take strong action or speak firmly about staff grievances, showing reluctance or indecision.",
-      "Warmth": 0,
-      "Chunk": 13
+      "trait": "warmth",
+      "action": "Engages in light sarcasm with Violet about family relations.",
+      "assessment": "His sarcasm, while playful, may indicate a guarded or less openly warm demeanor in family interactions.",
+      "rating": -1,
+      "chunk": 6
     },
     {
-      "Action": "Questions the fairness of the staff's treatment but acknowledges the lack of blame on Barrow, showing some awareness and thoughtfulness.",
-      "Competence": 1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Refuses to put Lady Bagshaw on the spot despite suspicions about her intentions regarding inheritance.",
+      "assessment": "This shows Robert's restraint and diplomatic skill, indicating a thoughtful and measured approach to sensitive family matters.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Appears indecisive and hesitant when confronted with the problem of Barrow's situation, lacking clear resolution or leadership.",
-      "Competence": -1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Engages in a subtle exchange about family dynamics and inheritance with Violet and others, showing awareness of complex social and familial issues.",
+      "assessment": "Demonstrates social intelligence and an ability to navigate delicate conversations with tact.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Refuses to sack Thomas and acknowledges his principles despite conflict.",
-      "Warmth": 1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Uses sarcasm in response to Violet's suggestion about Lady Bagshaw potentially becoming a mother figure.",
+      "assessment": "While sarcasm can indicate wit, here it may also suggest defensiveness or discomfort, which could undermine his perceived confidence in the situation.",
+      "rating": -1,
+      "chunk": 6
     },
     {
-      "Action": "Attempts to downplay tension with Thomas by saying the situation wasn't planned and offering Thomas to return after the Royal visit.",
-      "Warmth": 0,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "Sits quietly and opts to have another cup of tea when no one comes to serve him.",
+      "assessment": "This action shows a degree of patience and calmness, but also a slight detachment or passivity, indicating limited warmth in engaging with others.",
+      "rating": 0,
+      "chunk": 10
     },
     {
-      "Action": "Responds sarcastically to Carson after the hot water complaint ('Well, that went well').",
-      "Warmth": -1,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "Makes a light, somewhat teasing comment about Princess Mary being shy, calling it an oxymoron.",
+      "assessment": "The comment is mildly humorous and shows a friendly, informal tone, suggesting some warmth and ease in conversation.",
+      "rating": 1,
+      "chunk": 10
     },
     {
-      "Action": "Responds to Thomas's challenge about the butler position with uncertainty and vague language ('I wouldn't say it's been exactly planned', 'you can be a sort of--').",
-      "Competence": -1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Sits passively and decides to have another cup of tea when no one is coming to serve him.",
+      "assessment": "This action suggests a degree of passivity and lack of initiative in managing household affairs or staff, indicating a lower level of hands-on competence in this context.",
+      "rating": -1,
+      "chunk": 10
     },
     {
-      "Action": "Shows poor conflict management by failing to reassure Thomas effectively, leading Thomas to resign his post in frustration.",
-      "Competence": -1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Engages in light conversation about Princess Mary and the young couple taking over the big house.",
+      "assessment": "This shows social awareness and some engagement with family matters, but it is superficial and does not demonstrate active problem-solving or leadership.",
+      "rating": 0,
+      "chunk": 10
     },
     {
-      "Action": "'Thank you, Carson. Well, that went well.' - sarcastic or ironic acknowledgment of poor outcome.",
-      "Competence": -1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Is discussed as the closest relative and heir to Brompton, a family estate held for three centuries.",
+      "assessment": "Being the closest relative and heir suggests a position of responsibility and trust within the family lineage, implying a baseline level of competence expected of him.",
+      "rating": 1,
+      "chunk": 11
     },
     {
-      "Action": "Refuses to sack Thomas and instead shows insight by recognizing Thomas as 'a man of principle'.",
-      "Competence": 1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Is the subject of concern regarding the inheritance of Brompton, with others questioning why the estate might be given to charity instead of him.",
+      "assessment": "The fact that others question the decision to bypass him as heir hints at possible doubts about his capability or suitability, indicating some perceived lack of competence or confidence in his abilities.",
+      "rating": -1,
+      "chunk": 11
     },
     {
-      "Action": "Takes Cora in his arms and kisses her, shares a light-hearted moment with her.",
-      "Warmth": 1,
-      "Chunk": 21
+      "trait": "warmth",
+      "action": "Expresses concern that Barrow has done nothing wrong and feels the situation is unfair.",
+      "assessment": "Robert shows a sense of fairness and consideration for Barrow, indicating a degree of empathy and trustworthiness.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Jokes lightly about Tom, showing a relaxed and familiar family rapport.",
-      "Warmth": 1,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Hesitates and seems uncertain about how to address the staff's humiliation over the royal visit.",
+      "assessment": "His hesitation and lack of decisive action suggest a limited tolerance for staff grievances and a possible emotional distance.",
+      "rating": -1,
+      "chunk": 13
     },
     {
-      "Action": "Advises Violet to greet Maud Bagshaw as a cousin and leave it at that.",
-      "Warmth": 1,
-      "Chunk": 24
+      "trait": "competence",
+      "action": "Engages in a discussion with Mary about Barrow's situation, showing awareness of the staff's feelings but struggling to find a solution.",
+      "assessment": "Robert demonstrates some understanding of the problem and fairness, but his indecision and inability to take clear action suggest limited effectiveness in managing staff issues.",
+      "rating": 0,
+      "chunk": 13
     },
     {
-      "Action": "Engages in a conversation about serious family matters with openness and some humor.",
-      "Warmth": 1,
-      "Chunk": 24
+      "trait": "competence",
+      "action": "Allows Carson to take the lead in summoning Barrow and handling the confrontation.",
+      "assessment": "This indicates a reliance on subordinates for conflict resolution, which can be seen as delegating appropriately but also as a lack of direct leadership and confidence in handling delicate matters himself.",
+      "rating": 0,
+      "chunk": 13
     },
     {
-      "Action": "Comments thoughtfully on the staff cleaning and the atmosphere, showing an awareness of the household conditions.",
-      "Competence": 1,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Decides not to sack Thomas despite his anger and threat to resign, expressing interest in Thomas's sense of principle.",
+      "assessment": "Robert shows tolerance and a willingness to understand Thomas's feelings rather than reacting harshly, indicating a degree of trustworthiness and good-naturedness.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Jokes about Tom building a bomb, showing an attempt at light humor but perhaps a lack of seriousness or insight into Tom's behavior.",
-      "Competence": 0,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Responds to the boiler problem calmly and thanks Carson for his practical solution.",
+      "assessment": "His calm and appreciative response to a household issue reflects a friendly and sincere attitude towards his staff.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Advises Violet to greet Maud Bagshaw as a cousin and leave it at that, demonstrating diplomatic prudence.",
-      "Competence": 1,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Uses somewhat dismissive language ('Well, you can be a sort of--') when explaining Thomas's role change.",
+      "assessment": "This phrasing may come across as lacking full respect or warmth towards Thomas's position, suggesting some insensitivity or lack of tact.",
+      "rating": -1,
+      "chunk": 14
     },
     {
-      "Action": "Questions the notion of a friendly judge by suggesting 'friendly or corrupt,' indicating skepticism and some understanding of legal maneuvering.",
-      "Competence": 1,
-      "Chunk": 24
+      "trait": "competence",
+      "action": "Decides to reinstate Carson as butler for the Royal visit despite Thomas's objections.",
+      "assessment": "This shows Robert's ability to make pragmatic decisions under pressure, valuing experience and stability during an important event, indicating situational awareness and leadership.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Asks for the paper knife with his regimental crest, showing awareness and attention to detail.",
-      "Competence": 1,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Attempts to reassure Thomas and manage his dissatisfaction diplomatically.",
+      "assessment": "Robert tries to handle internal staff conflict with tact, though he fails to fully prevent Thomas's anger and departure, suggesting moderate interpersonal skill but limited control over the situation.",
+      "rating": 1,
+      "chunk": 14
     },
     {
-      "Action": "Comments on a friendly or corrupt judge, indicating awareness of practical realities and strategic thinking.",
-      "Competence": 1,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Acknowledges the boiler problem and delegates its repair to the plumber, while accepting Carson's practical solution to bring water jugs.",
+      "assessment": "Shows practical problem-solving and trust in his staff's experience, demonstrating effective delegation and calm management of household issues.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "No direct actions or statements related to Robert Crawley are present in the excerpt.",
-      "Competence": 0,
-      "Chunk": 26
+      "trait": "competence",
+      "action": "Responds to Mary’s question about sacking Thomas by refusing and expressing interest in Thomas's principles.",
+      "assessment": "Indicates emotional intelligence and a willingness to understand staff motivations rather than resorting to punitive measures, reflecting thoughtful leadership.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Expresses concern about Mary taking on too much responsibility.",
-      "Warmth": 1,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Says 'Well, that went well' after a tense exchange with Thomas and Carson.",
+      "assessment": "This ironic or understated comment may suggest a lack of full grasp of the conflict's seriousness or an attempt to downplay tension, hinting at some detachment or avoidance in conflict resolution.",
+      "rating": -1,
+      "chunk": 14
     },
     {
-      "Action": "Joins Merton in helping Mary despite bad weather and being advised against it.",
-      "Warmth": 1,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Responds to Merton's question about the Princess attending the parade with a confident and clear answer: 'They both will.'",
+      "assessment": "This response shows Robert's awareness of social events and his ability to provide straightforward information, indicating a competent grasp of his social environment.",
+      "rating": 2,
+      "chunk": 17
     },
     {
-      "Action": "Expresses concern for Mary taking on too much; volunteers to help with event preparations despite poor weather.",
-      "Competence": 1,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Does not engage further in the conversation about the Princess's demeanor or the social nuances discussed by others.",
+      "assessment": "His silence here may suggest a lack of engagement or reluctance to comment on delicate social matters, which could be seen as a cautious or less proactive approach, slightly detracting from perceived competence in social leadership.",
+      "rating": -1,
+      "chunk": 17
     },
     {
-      "Action": "Engages in practical support by helping with setting out chairs and encourages others.",
-      "Competence": 1,
-      "Chunk": 27
+      "trait": "warmth",
+      "action": "Takes Cora in his arms and kisses her after a lighthearted exchange about the King's visit.",
+      "assessment": "This affectionate gesture shows Robert's sincere and warm connection with Cora, indicating tenderness and emotional openness.",
+      "rating": 3,
+      "chunk": 21
     },
     {
-      "Action": "Joins the group despite bad weather to help with the hunt event.",
-      "Warmth": 1,
-      "Chunk": 28
+      "trait": "warmth",
+      "action": "Pours whisky for himself as Cora appears and they share a private moment discussing family matters.",
+      "assessment": "Robert's calm and composed demeanor in a private setting suggests a trustworthy and sincere nature, though somewhat reserved.",
+      "rating": 1,
+      "chunk": 21
     },
     {
-      "Action": "Dismisses concerns about getting soaked and dirty, focusing on the shared activity and enjoyment.",
-      "Warmth": 1,
-      "Chunk": 28
+      "trait": "warmth",
+      "action": "Expresses disbelief that his mother would pick a quarrel in front of the King.",
+      "assessment": "This shows Robert's tolerance and a desire to maintain harmony in social situations, reflecting a good-natured attitude.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Encourages Molesley cheerfully, indicating friendliness.",
-      "Warmth": 1,
-      "Chunk": 28
+      "trait": "warmth",
+      "action": "Comments to Mary that living in the house while it is being cleaned is 'like living in a factory.'",
+      "assessment": "This remark shows a candid and somewhat humorous observation, indicating a down-to-earth and relatable attitude, which can be seen as mildly warm.",
+      "rating": 1,
+      "chunk": 24
     },
     {
-      "Action": "Arrives promptly and ready to participate in the hunting event despite bad weather, showing commitment and decisiveness.",
-      "Competence": 1,
-      "Chunk": 28
+      "trait": "warmth",
+      "action": "Jokes about Tom possibly building a bomb and being tailed by Special Branch.",
+      "assessment": "His joking tone suggests a lighthearted and familiar interaction with family members, reflecting a friendly and warm demeanor.",
+      "rating": 2,
+      "chunk": 24
     },
     {
-      "Action": "Dismisses concerns about being soaked and filthy, prioritizing the goal over personal comfort.",
-      "Competence": 1,
-      "Chunk": 28
+      "trait": "warmth",
+      "action": "Advises Violet to greet Maud Bagshaw 'as a cousin and leave it at that.'",
+      "assessment": "This advice shows a tolerant and conciliatory approach, encouraging civility despite underlying tensions, which is a positive indicator of warmth.",
+      "rating": 2,
+      "chunk": 24
     },
     {
-      "Action": "Encourages others with a brief 'Cheer up, Molesley,' showing confidence and leadership.",
-      "Competence": 1,
-      "Chunk": 28
+      "trait": "warmth",
+      "action": "Questions whether a judge to challenge a will would be 'friendly or corrupt.'",
+      "assessment": "This cynical comment reveals a skeptical and somewhat distrustful view, which may detract from warmth by showing a less trusting nature.",
+      "rating": -1,
+      "chunk": 24
     },
     {
-      "Action": "Offers to bring a special chair for the Queen despite bad weather.",
-      "Warmth": 1,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Observes the servants cleaning the house thoroughly and comments, 'It's like living in a factory.'",
+      "assessment": "This shows Robert's awareness of the current state of Downton and the impact of wartime conditions, indicating practical observation skills.",
+      "rating": 1,
+      "chunk": 24
     },
     {
-      "Action": "Observes Branson leaving the pub with a somewhat dismissive or surprised tone ('Huh').",
-      "Warmth": -1,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Expresses concern about Tom's behavior, asking 'Again? What's he playing at?' and jokingly hopes Tom is not building a bomb.",
+      "assessment": "Robert demonstrates attentiveness to family matters and a cautious attitude, though the joke may slightly undercut the seriousness; overall, this shows engagement and some insight.",
+      "rating": 1,
+      "chunk": 24
     },
     {
-      "Action": "Offers to bring a special chair for the Queen after breakfast, considering the rain and comfort.",
-      "Competence": 1,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Advises Violet to 'Greet [Maud Bagshaw] as a cousin and leave it at that.'",
+      "assessment": "This advice reflects a diplomatic and measured approach to family conflict, showing social tact and restraint, which are aspects of competence in managing delicate situations.",
+      "rating": 2,
+      "chunk": 24
     },
     {
-      "Action": "Notices Branson has been in the pub all evening and questions it, showing awareness of his surroundings.",
-      "Competence": 1,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Questions the integrity of the judiciary by asking 'Friendly or corrupt?' when discussing challenging a will.",
+      "assessment": "This indicates Robert's realistic and somewhat cynical understanding of legal and social systems, suggesting practical intelligence and awareness of power dynamics.",
+      "rating": 2,
+      "chunk": 24
     },
     {
-      "Action": "Stands with others to greet the King and Queen with a proper sharp neck bow, respecting protocol.",
-      "Competence": 1,
-      "Chunk": 29
+      "trait": "warmth",
+      "action": "Asks Violet if she is here for dinner and informs her it's a buffet.",
+      "assessment": "Robert's question and informing Violet about the dinner arrangement shows a polite and considerate attitude toward his mother, indicating attentiveness and a welcoming demeanor.",
+      "rating": 2,
+      "chunk": 25
     },
     {
-      "Action": "Politely and warmly leads Queen Mary down the receiving line, gestures to servants respectfully.",
-      "Warmth": 1,
-      "Chunk": 30
+      "trait": "warmth",
+      "action": "Requests the paper knife with his regimental crest during a family interaction.",
+      "assessment": "This action is neutral in terms of warmth; it reflects a focus on tradition or formality rather than warmth or coldness.",
+      "rating": 0,
+      "chunk": 25
     },
     {
-      "Action": "Engages in gentle, considerate conversation with Queen Mary, responding sincerely to her relief.",
-      "Warmth": 1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Asks for the paper knife with his regimental crest during a social interaction.",
+      "assessment": "This action shows Robert's attention to detail and his awareness of his surroundings, indicating a degree of social competence and confidence in managing household matters.",
+      "rating": 1,
+      "chunk": 25
     },
     {
-      "Action": "Politely informs Queen Mary about luncheon and parade attendees and manages the formal greeting with confidence.",
-      "Competence": 1,
-      "Chunk": 30
+      "trait": "warmth",
+      "action": "Expresses concern for Mary taking on too much responsibility for the parade preparations.",
+      "assessment": "Robert shows care and attentiveness toward Mary's well-being, indicating a protective and considerate nature.",
+      "rating": 2,
+      "chunk": 27
     },
     {
-      "Action": "Fails to correct or clarify the Queen’s statement about attendees, potentially missing an opportunity to demonstrate detailed knowledge.",
-      "Competence": -1,
-      "Chunk": 30
+      "trait": "warmth",
+      "action": "Volunteers to help Mary by going out with Merton to set out chairs despite the bad weather.",
+      "assessment": "His willingness to assist and share the burden demonstrates a supportive and cooperative attitude.",
+      "rating": 2,
+      "chunk": 27
     },
     {
-      "Action": "Provides clear, relevant information about Lord Lascelles's delay promptly when questioned by Queen Mary.",
-      "Competence": 1,
-      "Chunk": 32
+      "trait": "warmth",
+      "action": "Says good night to Cora and asks her to pray for better weather.",
+      "assessment": "This shows a gentle, affectionate side and a light-hearted attempt to comfort and connect with family.",
+      "rating": 1,
+      "chunk": 27
     },
     {
-      "Action": "Interrupts Molesley to stop him from embarrassing himself in front of the Queen, showing concern for his dignity.",
-      "Warmth": 1,
-      "Chunk": 49
+      "trait": "competence",
+      "action": "Expresses concern about Mary taking on too much responsibility for the parade preparations and decides to help by going out with Merton to set out chairs despite the bad weather.",
+      "assessment": "This shows Robert's awareness of the situation and willingness to take practical action to support his family, indicating responsible and capable behavior.",
+      "rating": 2,
+      "chunk": 27
     },
     {
-      "Action": "Allows Molesley to recover from embarrassment with support from Queen Mary, not reprimanding harshly.",
-      "Warmth": 1,
-      "Chunk": 49
+      "trait": "competence",
+      "action": "Jokes about Mary being able to hammer in a tent peg with her teeth.",
+      "assessment": "This lighthearted comment reflects social confidence and a supportive attitude, but does not directly indicate competence in a practical or leadership sense.",
+      "rating": 0,
+      "chunk": 27
     },
     {
-      "Action": "'That's quite enough, Molesley.' - Robert intervenes promptly to stop Molesley who is clearly distressed and embarrassed in front of the royal guests.",
-      "Competence": 1,
-      "Chunk": 49
+      "trait": "warmth",
+      "action": "Robert and Merton hurry to help Mary and Anna load chairs and join them despite the rain and risk of getting soaked.",
+      "assessment": "Robert's willingness to get involved in a menial task and endure discomfort to support his daughter and her friends shows a good-natured and sincere side, indicating warmth.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "Sits with family during a tense discussion, tries to calm the argument by saying 'Please, there is no need to argue.'",
-      "Warmth": 1,
-      "Chunk": 51
+      "trait": "warmth",
+      "action": "Robert dismisses concerns about getting wet by saying 'What's that to us? We're hunting men. Come on.'",
+      "assessment": "This statement reflects a jovial and encouraging attitude, showing camaraderie and a friendly spirit, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "Accepts Maud's unconventional decision about the inheritance calmly and tries to defuse the argument.",
-      "Competence": 1,
-      "Chunk": 51
+      "trait": "competence",
+      "action": "Arrives promptly at the kitchen courtyard with Merton, ready to assist with the hunting men despite the bad weather.",
+      "assessment": "This shows Robert's willingness to be involved and supportive, demonstrating reliability and a proactive attitude, which are positive indicators of competence.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "Does not attempt to assert his own claim or challenge Maud's decision despite being the nearest male relation.",
-      "Competence": -1,
-      "Chunk": 51
+      "trait": "competence",
+      "action": "Dismisses concerns about getting soaked and dirty, focusing on the task at hand.",
+      "assessment": "This reflects a practical and determined mindset, prioritizing the goal over personal discomfort, indicating confidence and capability.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "Stands respectfully as Maud leaves, acknowledges the situation with a confident remark 'Game, set and match to Lady Bagshaw.'",
-      "Competence": 1,
-      "Chunk": 52
+      "trait": "competence",
+      "action": "Encourages Molesley to cheer up during preparations.",
+      "assessment": "This shows some leadership and emotional intelligence, helping to maintain morale, which is a subtle but positive competence indicator.",
+      "rating": 1,
+      "chunk": 28
     },
     {
-      "Action": "Gives an early warning about Their Majesties preparing to leave, demonstrating attentiveness and proactive communication.",
-      "Competence": 1,
-      "Chunk": 59
+      "trait": "warmth",
+      "action": "Offers to bring a special chair for the Queen after breakfast when the rain stops.",
+      "assessment": "This shows thoughtfulness and consideration for the comfort of guests, indicating a caring and attentive nature.",
+      "rating": 2,
+      "chunk": 29
     },
     {
-      "Action": "Acknowledges the staff's efforts and praises them for managing the situation splendidly during the Royal visit.",
-      "Competence": 1,
-      "Chunk": 61
+      "trait": "warmth",
+      "action": "Observes Branson leaving the pub with a somewhat dismissive 'Huh' and questions if he has been there the whole evening.",
+      "assessment": "This suggests a degree of judgment or mild disapproval towards Branson, reflecting a less tolerant or warm attitude in this moment.",
+      "rating": -1,
+      "chunk": 29
     },
     {
-      "Action": "Mentions Molesley's aria as something unwelcome but does so diplomatically, maintaining authority and morale.",
-      "Competence": 1,
-      "Chunk": 61
+      "trait": "competence",
+      "action": "He stands to buy the drinks, leaving Branson with an opaque expression that is hard to read.",
+      "assessment": "This action shows Robert taking social initiative and fulfilling his role as host, indicating social confidence and responsibility, though the reaction from Branson suggests possible social awkwardness or tension.",
+      "rating": 1,
+      "chunk": 29
     },
     {
-      "Action": "Loving father who is deeply cared for by Violet and Mary as Downton's future depends on the family legacy.",
-      "Warmth": 1,
-      "Chunk": 65
+      "trait": "competence",
+      "action": "In lashing rain, he helps carry folded seats towards the dais with others.",
+      "assessment": "Robert's willingness to participate in physical tasks alongside others demonstrates practical engagement and leadership by example, reflecting positively on his competence.",
+      "rating": 2,
+      "chunk": 29
     },
     {
-      "Action": "Absent from direct dialogue or action in this excerpt, showing no explicit warmth or coldness.",
-      "Warmth": 0,
-      "Chunk": 65
+      "trait": "competence",
+      "action": "Plans to bring a special chair for the Queen after breakfast when the rain stops.",
+      "assessment": "This shows foresight, planning, and consideration for important guests, indicating good organizational skills and attentiveness.",
+      "rating": 2,
+      "chunk": 29
     },
     {
-      "Action": "Indirectly referenced as not being considered the future custodian of Downton by Violet, who entrusts its future to Mary instead, implying a perceived lack of suitable leadership.",
-      "Competence": -1,
-      "Chunk": 65
+      "trait": "competence",
+      "action": "Questions whether Tom (Branson) has been in the pub the whole evening.",
+      "assessment": "This shows awareness and attentiveness to the behavior of those around him, suggesting social perceptiveness and concern.",
+      "rating": 1,
+      "chunk": 29
     },
     {
-      "Action": "Lacks presence and input in crucial family discussions about estate future, indicating an omission and possible passivity in key decision-making moments.",
-      "Competence": -1,
-      "Chunk": 65
+      "trait": "competence",
+      "action": "Gives a sharp neck bow to King George V upon arrival.",
+      "assessment": "This demonstrates proper etiquette and respect in a formal setting, reflecting social competence and confidence in high society.",
+      "rating": 2,
+      "chunk": 29
+    },
+    {
+      "trait": "warmth",
+      "action": "Leads Queen Mary down the line and speaks politely, expressing that it is a great honour to have her present.",
+      "assessment": "Robert shows courteousness and respect towards the Queen, indicating a sincere and friendly demeanor in a formal setting.",
+      "rating": 2,
+      "chunk": 30
+    },
+    {
+      "trait": "warmth",
+      "action": "Responds to Queen Mary's comment with gentle curiosity and attentiveness when she asks him to forget what she said.",
+      "assessment": "His response shows tact and a willingness to maintain a pleasant interaction, reflecting warmth through social sensitivity.",
+      "rating": 2,
+      "chunk": 30
+    },
+    {
+      "trait": "warmth",
+      "action": "Gestures to the servants to proceed after the formal introductions.",
+      "assessment": "This action suggests a considerate and inclusive attitude towards the staff, acknowledging their role and presence.",
+      "rating": 1,
+      "chunk": 30
+    },
+    {
+      "trait": "competence",
+      "action": "Politely informs Queen Mary about the luncheon and parade guests, including Princess Mary and Lord Lascelles.",
+      "assessment": "This shows Robert's awareness of social events and his ability to communicate relevant information appropriately, indicating social competence and attentiveness.",
+      "rating": 2,
+      "chunk": 30
+    },
+    {
+      "trait": "competence",
+      "action": "Gestures to the servants to proceed after the formal greetings.",
+      "assessment": "This demonstrates his confidence and control in managing formal occasions, reflecting leadership and organizational skills.",
+      "rating": 2,
+      "chunk": 30
+    },
+    {
+      "trait": "competence",
+      "action": "Responds to Queen Mary's ambiguous comment with polite inquiry ('Said what, ma'am?').",
+      "assessment": "His tactful and composed response suggests emotional intelligence and social skill, avoiding awkwardness in a delicate situation.",
+      "rating": 2,
+      "chunk": 30
+    },
+    {
+      "trait": "competence",
+      "action": "Does not appear or intervene in the confrontation involving Branson, Mary, and Chetwode.",
+      "assessment": "Robert Crawley's absence or non-involvement in this critical security situation suggests a lack of direct engagement or leadership in managing threats to the estate or its members, which may indicate a gap in his active competence in crisis moments.",
+      "rating": -1,
+      "chunk": 34
+    },
+    {
+      "trait": "warmth",
+      "action": "Interrupts Molesley to say 'That's quite enough, Molesley.' after Molesley nervously reveals that the Downton Abbey staff are serving the King.",
+      "assessment": "Robert's interruption seems to be an attempt to protect Molesley from further embarrassment, showing a considerate and protective attitude toward his staff.",
+      "rating": 2,
+      "chunk": 49
+    },
+    {
+      "trait": "competence",
+      "action": "Interrupts Molesley firmly with 'That's quite enough, Molesley.' when Molesley embarrasses himself before the King.",
+      "assessment": "This action shows Robert's ability to recognize a social faux pas and attempt to control the situation, demonstrating some social awareness and leadership in a delicate moment.",
+      "rating": 1,
+      "chunk": 49
+    },
+    {
+      "trait": "warmth",
+      "action": "Sits quietly with Maud, Violet, Cora, and Isobel during a tense family discussion about inheritance.",
+      "assessment": "Robert's calm presence in a heated discussion suggests a measured and composed demeanor, which can be a sign of tolerance and steadiness, though he does not actively mediate or show warmth explicitly here.",
+      "rating": 1,
+      "chunk": 51
+    },
+    {
+      "trait": "warmth",
+      "action": "Responds to Maud's announcement about disinheriting him with the phrase, 'And there we have it.'",
+      "assessment": "This response is neutral and somewhat resigned, lacking warmth or confrontation; it shows acceptance but no evident good-natured or friendly engagement.",
+      "rating": 0,
+      "chunk": 51
+    },
+    {
+      "trait": "warmth",
+      "action": "Intervenes to say, 'Please, there is no need to argue,' during Violet and Maud's escalating confrontation.",
+      "assessment": "Robert attempts to de-escalate the argument, indicating a desire for peace and tolerance, which reflects positively on his warmth.",
+      "rating": 2,
+      "chunk": 51
+    },
+    {
+      "trait": "competence",
+      "action": "Listens quietly as Maud announces she will disinherit him in favor of her maid, and responds with 'And there we have it.'",
+      "assessment": "Robert's calm and succinct acknowledgment of a difficult family decision suggests a composed and measured approach, indicating emotional intelligence and restraint, which are aspects of competence.",
+      "rating": 1,
+      "chunk": 51
+    },
+    {
+      "trait": "competence",
+      "action": "Attempts to de-escalate the heated argument between Violet and Maud by saying, 'Please, there is no need to argue.'",
+      "assessment": "This shows Robert's inclination to maintain order and civility in tense situations, reflecting social and diplomatic skills that contribute to competent leadership.",
+      "rating": 2,
+      "chunk": 51
+    },
+    {
+      "trait": "competence",
+      "action": "Does not intervene more forcefully or offer a clear stance on the controversial decision about the inheritance.",
+      "assessment": "His reluctance to assert a stronger position or provide guidance in a critical family matter may indicate passivity or indecisiveness, which can be seen as a lack of assertive competence.",
+      "rating": -1,
+      "chunk": 51
+    },
+    {
+      "trait": "warmth",
+      "action": "Stands as Maud leaves the room, showing respect.",
+      "assessment": "Standing as someone leaves can be a polite and respectful gesture, indicating a courteous nature.",
+      "rating": 1,
+      "chunk": 52
+    },
+    {
+      "trait": "warmth",
+      "action": "Is indirectly involved in the situation where his butler, Mr Barrow, is arrested for a prank related to homosexuality.",
+      "assessment": "There is no direct action or statement from Robert here showing warmth or lack thereof; his absence or silence in this difficult situation could suggest detachment or lack of intervention, which is a mild negative indicator.",
+      "rating": -1,
+      "chunk": 52
+    },
+    {
+      "trait": "competence",
+      "action": "Stands as Maud leaves, calmly acknowledging the situation with a composed remark: 'Game, set and match to Lady Bagshaw.'",
+      "assessment": "This shows Robert's ability to maintain composure and wit in social interactions, indicating social intelligence and confidence.",
+      "rating": 2,
+      "chunk": 52
+    },
+    {
+      "trait": "competence",
+      "action": "No direct action or intervention in the police station scene involving his butler Barrow's arrest and release.",
+      "assessment": "Robert's absence or lack of direct involvement in managing a crisis involving his household staff suggests a possible omission in leadership or crisis management, reflecting a moderate lack of proactive competence in this context.",
+      "rating": -1,
+      "chunk": 52
+    },
+    {
+      "trait": "warmth",
+      "action": "Walks out of the library to inform Carson about the early warning that Their Majesties are getting ready to leave.",
+      "assessment": "This action shows Robert's attentiveness and responsibility in managing household affairs, indicating a reliable and considerate nature, though it is a formal duty rather than a warm personal interaction.",
+      "rating": 1,
+      "chunk": 59
+    },
+    {
+      "trait": "warmth",
+      "action": "Says 'Well done, everyone!' and thanks the staff for saving the day after the Royal visit.",
+      "assessment": "Robert acknowledges and appreciates the efforts of his staff, showing gratitude and recognition, which reflects a good-natured and sincere attitude.",
+      "rating": 2,
+      "chunk": 61
+    },
+    {
+      "trait": "warmth",
+      "action": "Comments 'Although, I could have done without Molesley's aria.'",
+      "assessment": "While the comment is mildly critical, it is delivered in a lighthearted manner and does not seem harsh or dismissive, indicating a tolerant and friendly tone.",
+      "rating": 1,
+      "chunk": 61
+    },
+    {
+      "trait": "competence",
+      "action": "Commends the staff for their efforts during the Royal visit and acknowledges their success despite minor issues.",
+      "assessment": "This shows Robert's ability to recognize and appreciate effective work, demonstrating leadership and social intelligence.",
+      "rating": 2,
+      "chunk": 61
+    },
+    {
+      "trait": "competence",
+      "action": "Inquires about the Royal servants' failure and the staff's handling of the situation.",
+      "assessment": "This indicates attentiveness and a desire to understand problems, reflecting responsible oversight.",
+      "rating": 2,
+      "chunk": 61
+    },
+    {
+      "trait": "competence",
+      "action": "Dismisses Molesley's aria as unnecessary but still thanks the staff for saving the day.",
+      "assessment": "Shows a balanced judgment—able to critique without undermining morale, suggesting emotional intelligence and leadership skill.",
+      "rating": 2,
+      "chunk": 61
     }
   ]
 }

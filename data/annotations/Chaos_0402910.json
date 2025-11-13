@@ -1,1374 +1,2517 @@
 {
   "Quentin Conners": [
     {
-      "Action": "Meticulously preparing a gin and tonic while watching news reports about police and legal developments related to his case.",
-      "Competence": 0,
-      "Chunk": 2
+      "trait": "competence",
+      "action": "Meticulously preparing a gin and tonic while hearing but not watching the television news report.",
+      "assessment": "This action suggests a calm, controlled demeanor and the ability to focus on a task despite potentially stressful or distracting information, indicating a level of composure and self-discipline.",
+      "rating": 1,
+      "chunk": 2
     },
     {
-      "Action": "Opens the door for Jenkins and Detective Dekker despite initial reluctance.",
-      "Warmth": 1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Described as a grizzled, intense veteran detective with charisma that both helps and hinders him.",
+      "assessment": "Being a veteran detective implies experience and skill, while his charisma suggests social intelligence; however, the note that his charisma gets him into as much trouble as it gets him out of indicates some inconsistency or recklessness, tempering the overall competence assessment.",
+      "rating": 1,
+      "chunk": 2
     },
     {
-      "Action": "Uses sarcastic and dismissive language with Jenkins and Detective Dekker.",
-      "Warmth": -1,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Crosses to the door and opens it for Jenkins and Detective Dekker despite initial reluctance.",
+      "assessment": "Opening the door for visitors shows a basic level of politeness and respect, indicating some social warmth even if reluctant.",
+      "rating": 1,
+      "chunk": 9
     },
     {
-      "Action": "Ignores the woman’s nudity respectfully by not commenting or reacting.",
-      "Warmth": 0,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Responds to Jenkins's request with dismissive and curt language ('There's where your shit out of luck because I don't need to speak to you.')",
+      "assessment": "This blunt and dismissive refusal suggests low tolerance and a lack of friendliness or sincerity in initial interactions.",
+      "rating": -2,
+      "chunk": 9
     },
     {
-      "Action": "Questions Jenkins and Dekker firmly about a warrant, showing awareness of legal boundaries and control over his space.",
-      "Competence": 1,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Engages in sarcastic banter with Detective Dekker ('Huh? You don't look like much of a Detective.' / 'Charming.')",
+      "assessment": "While sarcastic, this exchange shows a willingness to engage socially, though the tone is more biting than warm, indicating a guarded or tough demeanor rather than genuine friendliness.",
+      "rating": 0,
+      "chunk": 9
     },
     {
-      "Action": "Initially refuses to speak with Jenkins, demonstrating confidence and assertiveness.",
-      "Competence": 1,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Interrupts Jenkins's attempt to explain Dekker's background with 'Save your breath. I really don't care.'",
+      "assessment": "This dismissive comment reflects impatience and a lack of interest in others' attempts to connect, signaling low warmth and tolerance.",
+      "rating": -2,
+      "chunk": 9
     },
     {
-      "Action": "Dismisses Jenkins' attempt to explain about Detective Dekker, indicating skepticism and a guarded nature.",
-      "Competence": 0,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Allows the naked woman to move about without comment or apparent discomfort.",
+      "assessment": "This non-reaction could indicate a respectful tolerance or comfort with others' autonomy, suggesting a neutral to mildly positive warmth indicator.",
+      "rating": 1,
+      "chunk": 9
     },
     {
-      "Action": "Uses sarcastic humor to test or gauge Dekker, signaling social confidence though somewhat dismissive.",
-      "Competence": 0,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Cuts to the point quickly after the woman leaves, saying 'Why don't we can the chit-chat. Get to what's on your mind.'",
+      "assessment": "This shows a focus on efficiency rather than social niceties, which may reflect a pragmatic rather than warm approach to interactions.",
+      "rating": 0,
+      "chunk": 9
     },
     {
-      "Action": "Agrees to listen to Jenkins only after a serious stare down, showing measured judgment in choosing when to engage.",
-      "Competence": 1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Immediately questions Jenkins and Detective Dekker about having a warrant before allowing entry.",
+      "assessment": "This shows Conners is cautious, aware of legal boundaries, and assertive in protecting his rights, indicating a competent and confident approach.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Focuses conversation quickly on the matter at hand (hostage situation), cutting small talk to prioritize urgency.",
-      "Competence": 1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Initially refuses to speak with Jenkins and resists engagement.",
+      "assessment": "While this shows confidence and control, it may also suggest stubbornness or poor judgment in refusing potentially important communication, which could be a negative indicator.",
+      "rating": -1,
+      "chunk": 9
     },
     {
-      "Action": "Questions why he should comply with orders to help, showing reluctance.",
-      "Warmth": -1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Relents and allows Jenkins and Dekker inside after a serious stare-down.",
+      "assessment": "This indicates flexibility and situational awareness, recognizing when to yield for practical reasons, a sign of competence.",
+      "rating": 1,
+      "chunk": 9
     },
     {
-      "Action": "Acknowledges his suspension but is willing to return when reinstated, indicating some responsibility.",
-      "Warmth": 0,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Engages in sharp, sarcastic banter with Jenkins and Dekker.",
+      "assessment": "This suggests confidence and social skill, but also a potential risk of alienating others, which could undermine cooperation.",
+      "rating": 0,
+      "chunk": 9
     },
     {
-      "Action": "Makes a sarcastic remark about putting a leash on Dekker, showing defensiveness and limited tolerance.",
-      "Warmth": -1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Dismisses Jenkins' attempt to explain Detective Dekker's background.",
+      "assessment": "This shows impatience and possible dismissiveness, which might hinder effective communication and teamwork, a slight negative indicator.",
+      "rating": -1,
+      "chunk": 9
     },
     {
-      "Action": "Expresses displeasure about the new partner and the circumstances but makes a sardonic comment about Jenkins caring.",
-      "Warmth": -1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Focuses quickly on the main issue (hostage situation) and urges to 'get to what's on your mind.'",
+      "assessment": "This demonstrates prioritization, focus, and efficiency, all positive indicators of competence.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Replies to Jenkins with apparent sarcasm but still engages in dialogue, not hostile.",
-      "Warmth": 0,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Questions why he should help despite lives being at stake, showing reluctance to cooperate.",
+      "assessment": "Conners's initial reluctance to prioritize others' safety over his ego suggests a lack of immediate concern for others, indicating lower warmth.",
+      "rating": -2,
+      "chunk": 10
     },
     {
-      "Action": "Responds rudely and insultingly to Karen Cross, showing impatience and antagonism.",
-      "Warmth": -1,
-      "Chunk": 11
+      "trait": "warmth",
+      "action": "Sarcastically tells Jenkins to put a leash on Dekker.",
+      "assessment": "This sarcastic remark reflects a defensive and somewhat dismissive attitude rather than friendliness or sincerity.",
+      "rating": -1,
+      "chunk": 10
     },
     {
-      "Action": "Greets Teddy and Vincent curtly, ignoring Callo despite his visible anger.",
-      "Warmth": -1,
-      "Chunk": 11
+      "trait": "warmth",
+      "action": "Acknowledges he did want to help but reminds others he is still suspended.",
+      "assessment": "This shows some internal conflict and a hint of willingness to contribute, though it is framed defensively.",
+      "rating": 0,
+      "chunk": 10
     },
     {
-      "Action": "Defends himself sharply against Callo's accusations without taking responsibility.",
-      "Warmth": -1,
-      "Chunk": 11
+      "trait": "warmth",
+      "action": "Expresses displeasure at being assigned a new partner and makes a sarcastic comment about Jenkins caring.",
+      "assessment": "His sarcasm and resistance to collaboration suggest difficulty in trusting or accepting support, which lowers perceived warmth.",
+      "rating": -2,
+      "chunk": 10
     },
     {
-      "Action": "Sarcastically comments on Callo's departure, indicating a lack of empathy or warmth.",
-      "Warmth": -1,
-      "Chunk": 11
+      "trait": "warmth",
+      "action": "Responds to Jenkins's doubts with a polite, formal statement about looking forward to a positive relationship.",
+      "assessment": "This polite response shows some level of professionalism and civility, indicating a minimal but present degree of warmth.",
+      "rating": 1,
+      "chunk": 10
     },
     {
-      "Action": "Sarcastically remarks that he'll miss Callo after Callo exits.",
-      "Warmth": 0,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Questions why he should help despite being suspended, showing reluctance.",
+      "assessment": "This hesitation and focus on his suspension rather than the urgency of the situation suggests a lack of prioritization and possibly diminished professional commitment, indicating lower competence.",
+      "rating": -1,
+      "chunk": 10
     },
     {
-      "Action": "Watches Dekker and Jenkins out of earshot, receiving a warning about second chances.",
-      "Warmth": 0,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Acknowledges reinstatement but is wary of being supervised by a new partner.",
+      "assessment": "His skepticism about the new partner and the supervision implies some resistance to authority and teamwork, which can undermine effective performance, reflecting a moderate negative indicator of competence.",
+      "rating": -1,
+      "chunk": 10
     },
     {
-      "Action": "Glares at Teddy after a teasing remark, then dismisses it.",
-      "Warmth": 0,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Responds to Jenkins' sarcastic remarks with dry, confident retorts.",
+      "assessment": "His ability to maintain composure and respond wittily under pressure suggests mental sharpness and confidence, a mild positive indicator of competence.",
+      "rating": 1,
+      "chunk": 10
     },
     {
-      "Action": "Replies sarcastically to Vincent's information about the hostage situation.",
-      "Warmth": 0,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Expresses skepticism about being 'unleashed alone' and having a partner watch over him.",
+      "assessment": "This shows awareness of his current limitations or reputation, but also a possible lack of confidence or acceptance of oversight, which can be a mixed indicator depending on context.",
+      "rating": 0,
+      "chunk": 10
     },
     {
-      "Action": "Demands to get a line into the bank to understand the hostage-takers' demands.",
-      "Warmth": 1,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Responds to Karen Cross's request for an interview with hostility and insults her.",
+      "assessment": "Conners's rude and dismissive response to Karen Cross shows a lack of friendliness and sincerity, indicating low warmth.",
+      "rating": -3,
+      "chunk": 11
     },
     {
-      "Action": "Offers to get food and medical supplies for hostages after explosion.",
-      "Warmth": 1,
-      "Chunk": 13
+      "trait": "warmth",
+      "action": "Greets Teddy and Vincent with a brief, somewhat neutral acknowledgment, ignoring Callo.",
+      "assessment": "While Conners acknowledges colleagues, his tone is curt and he ignores Callo, suggesting limited warmth and a lack of inclusiveness.",
+      "rating": -1,
+      "chunk": 11
     },
     {
-      "Action": "Responds to Lorenz's comments with light humor ('My fame proceeds me').",
-      "Warmth": 0,
-      "Chunk": 13
+      "trait": "warmth",
+      "action": "Engages in a hostile exchange with Callo, dismissing his concerns and responding with profanity.",
+      "assessment": "Conners's aggressive and defensive behavior toward Callo reflects poor tolerance and untrustworthiness, indicating low warmth.",
+      "rating": -3,
+      "chunk": 11
     },
     {
-      "Action": "Listens attentively and confirms concern for hostages' wellbeing.",
-      "Warmth": 1,
-      "Chunk": 13
+      "trait": "warmth",
+      "action": "Sarcastically remarks that he will miss Callo after Callo leaves.",
+      "assessment": "The sarcastic comment suggests insincerity and a lack of genuine regard for Callo, further indicating low warmth.",
+      "rating": -2,
+      "chunk": 11
     },
     {
-      "Action": "Engages calmly and professionally in tense hostage negotiation; responds with controlled questions and updates to Lorenz",
-      "Competence": 1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Relishes the moment when recognized by a reporter and responds with a sarcastic, dismissive remark.",
+      "assessment": "This shows confidence but also a lack of professionalism and emotional control, which can undermine perceived competence in a high-stakes environment.",
+      "rating": -1,
+      "chunk": 11
     },
     {
-      "Action": "Shows moments of distraction (drifts in thought) during critical conversation",
-      "Competence": -1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Returns to active duty and takes charge of the crime scene despite controversy.",
+      "assessment": "Being reinstated and assigned to lead indicates institutional trust in his abilities, suggesting competence recognized by superiors.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Demonstrates awareness of his professional reputation with a confident remark ('My fame precedes me')",
-      "Competence": 1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Engages in a hostile exchange with a colleague (Callo) who criticizes his past performance and methods.",
+      "assessment": "His defensive and confrontational response reveals poor interpersonal skills and emotional regulation, which detract from his overall competence.",
+      "rating": -2,
+      "chunk": 11
     },
     {
-      "Action": "Clarifies misinformation calmly when informed Lorenz's information is outdated",
-      "Competence": 1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Ignores Callo's presence and criticism, focusing instead on greeting other detectives.",
+      "assessment": "Ignoring dissent can be a sign of confidence or arrogance; here it suggests a dismissive attitude that may impair teamwork and situational awareness.",
+      "rating": -1,
+      "chunk": 11
     },
     {
-      "Action": "Responds promptly and attentively when addressed (snaps to attention when Teddy snaps fingers).",
-      "Competence": 1,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "Glares at Teddy after a sarcastic comment but dismisses it without escalating.",
+      "assessment": "Conners shows some irritation but controls his reaction, indicating a level of tolerance and restraint.",
+      "rating": 1,
+      "chunk": 12
     },
     {
-      "Action": "Engages in a calm professional exchange with Lorenz about the situation, showing awareness and focus.",
-      "Competence": 1,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "Responds sarcastically to Vincent's briefing about the hostage situation.",
+      "assessment": "The sarcasm suggests a defensive or brusque demeanor, which may reduce perceptions of warmth.",
+      "rating": -1,
+      "chunk": 12
     },
     {
-      "Action": "Tries to clarify communication ('Wait, we're talking here...'), indicating active engagement.",
-      "Competence": 1,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "Focuses on getting a direct line into the bank to understand the hostage takers' demands.",
+      "assessment": "Shows a pragmatic and responsible approach, indicating sincerity and a desire to resolve the situation effectively.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Is momentarily thrown or unsettled by the mention of Pearl Street Bridge, indicating a crack in confidence or discomfort.",
-      "Competence": -1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Jenkins, a SWAT captain, defers command to Conners, indicating trust in his leadership.",
+      "assessment": "This suggests that Conners is recognized by experienced professionals as capable and competent enough to lead in a high-stakes situation.",
+      "rating": 3,
+      "chunk": 12
     },
     {
-      "Action": "Encourages Dax to keep trying despite failure, calmly directs the team.",
-      "Warmth": 1,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Conners glares at Teddy's sarcastic comment but dismisses it without losing focus.",
+      "assessment": "This shows emotional control and the ability to maintain professionalism under pressure, which are indicators of competence.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Shares personal detail about quitting smoking and caffeine, showing openness.",
-      "Warmth": 1,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Conners quickly requests a communication line into the bank to understand the hostage situation better.",
+      "assessment": "This demonstrates proactive problem-solving and strategic thinking, reflecting intelligence and skill.",
+      "rating": 3,
+      "chunk": 12
     },
     {
-      "Action": "Responds to skepticism about his change with humor and sincerity.",
-      "Warmth": 1,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Conners unwraps gum and chews it while waiting behind the barricade.",
+      "assessment": "This small action could indicate calmness and composure in a tense situation, a subtle positive indicator of confidence and control.",
+      "rating": 1,
+      "chunk": 12
     },
     {
-      "Action": "Focuses on tactical analysis and problem-solving with team, maintaining composure.",
-      "Warmth": 0,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Offers to get food and medical supplies for the people inside after hearing about the explosion.",
+      "assessment": "Offering help and showing concern for others' well-being indicates a caring and considerate nature.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Instructs Dax to keep trying the suspect, showing persistence and control.",
-      "Competence": 1,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Engages politely with Lorenz, maintaining a professional and somewhat friendly tone despite the tense situation.",
+      "assessment": "Maintaining professionalism and a respectful tone in a high-stress negotiation suggests tolerance and sincerity.",
+      "rating": 1,
+      "chunk": 13
     },
     {
-      "Action": "Recognizes the significance of time and police protocol, deducing the suspect’s behavior and tactical intent.",
-      "Competence": 1,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Makes a lighthearted comment about his fame ('My fame proceeds me.')",
+      "assessment": "Using humor to ease tension can be a friendly and approachable behavior, though it may also be self-focused.",
+      "rating": 1,
+      "chunk": 13
     },
     {
-      "Action": "Fumbles with the gum wrapper, showing minor awkwardness but quickly recovers.",
-      "Competence": 0,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Drifts in thought and loses focus during the conversation, requiring a colleague to snap fingers to regain his attention.",
+      "assessment": "Momentary distraction in a critical moment may suggest a lapse in engagement or empathy, slightly detracting from warmth.",
+      "rating": -1,
+      "chunk": 13
     },
     {
-      "Action": "Confidently and insightfully analyzes the suspect’s mindset and strategy.",
-      "Competence": 1,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Engages calmly and professionally with Lorenz, asking relevant questions about the hostages and their condition.",
+      "assessment": "Conners demonstrates situational awareness and maintains control of the conversation, indicating competence in handling tense negotiations.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Takes decisive leadership, insists on acting to protect hostages despite criticism.",
-      "Warmth": 1,
-      "Chunk": 16
+      "trait": "competence",
+      "action": "Acknowledges his suspension but asserts he is back and that Lorenz's information is outdated.",
+      "assessment": "This shows Conners is confident and aware of his current status, which reflects a competent self-presentation.",
+      "rating": 1,
+      "chunk": 13
     },
     {
-      "Action": "Responds to Teddy's challenge with a harsh personal insult.",
-      "Warmth": -1,
-      "Chunk": 16
+      "trait": "competence",
+      "action": "Momentarily drifts in thought during Lorenz's explanation, requiring a snap from Teddy to regain focus.",
+      "assessment": "This lapse suggests a brief distraction or lack of full attention, which slightly undermines his otherwise competent demeanor.",
+      "rating": -1,
+      "chunk": 13
     },
     {
-      "Action": "Refuses to use explosives to avoid harming civilians, seeks an alternate way in to protect hostages.",
-      "Warmth": 1,
-      "Chunk": 17
+      "trait": "competence",
+      "action": "Responds to Lorenz's instructions with calm acknowledgment and readiness to stay by the phone.",
+      "assessment": "Conners demonstrates professional patience and understanding of the situation's demands, indicating a competent and disciplined approach.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Uses the term 'pussy way' to describe a safer tactic despite its literal connotation, showing pragmatism mixed with informal frankness.",
-      "Warmth": 0,
-      "Chunk": 17
+      "trait": "competence",
+      "action": "Is visibly thrown by the mention of Pearl Street Bridge.",
+      "assessment": "This momentary distraction suggests a vulnerability or emotional reaction that could undermine his composure, indicating a slight lapse in mental resilience under pressure.",
+      "rating": -1,
+      "chunk": 14
     },
     {
-      "Action": "Gives clear, calm orders emphasizing control and safety before breach, showing responsibility and concern for others.",
-      "Warmth": 1,
-      "Chunk": 17
+      "trait": "warmth",
+      "action": "Encourages Dax to keep trying to reach the suspect by phone, despite repeated failures.",
+      "assessment": "Conners shows persistence and a degree of patience in encouraging his colleague, which can be seen as supportive and somewhat warm.",
+      "rating": 1,
+      "chunk": 15
     },
     {
-      "Action": "Jokingly asks 'You have done this before, right? Wait... I don't want to know.' to SWAT team, shows some humor and camaraderie.",
-      "Warmth": 1,
-      "Chunk": 17
+      "trait": "warmth",
+      "action": "Engages in light banter with Teddy about quitting smoking and caffeine.",
+      "assessment": "This exchange reveals a more personable and approachable side of Conners, indicating some friendliness and sincerity.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Formulates a tactical plan to cut power instead of using explosives to avoid harming civilians and gain entry.",
-      "Competence": 1,
-      "Chunk": 17
+      "trait": "warmth",
+      "action": "Fumbles with the gum wrapper and sticks gum in his mouth, noticed by Teddy.",
+      "assessment": "This small, humanizing detail suggests a relaxed, informal demeanor that can foster camaraderie.",
+      "rating": 1,
+      "chunk": 15
     },
     {
-      "Action": "Confidently commands the SWAT team with clear instructions and timing.",
-      "Competence": 1,
-      "Chunk": 17
+      "trait": "warmth",
+      "action": "Analyzes the suspect's behavior thoughtfully and shares his insights with the team.",
+      "assessment": "While this shows intelligence and leadership, it is more professional than warm; it does not directly indicate warmth but shows responsibility.",
+      "rating": 0,
+      "chunk": 15
     },
     {
-      "Action": "Acknowledges potential complications with emergency generators but reasons the operation will finish before they activate.",
-      "Competence": 1,
-      "Chunk": 17
+      "trait": "warmth",
+      "action": "Uses a stern tone when instructing Dax to try again.",
+      "assessment": "The sternness may reflect urgency and authority rather than warmth; it could be perceived as somewhat cold or brusque.",
+      "rating": -1,
+      "chunk": 15
     },
     {
-      "Action": "Coordinates the SWAT team using radio ('Let's go around the horn'), signals power cut at a precise time, indicating planning and confidence.",
-      "Competence": 1,
-      "Chunk": 18
+      "trait": "competence",
+      "action": "Insists that Dax keep trying to reach the suspect despite repeated failures.",
+      "assessment": "Shows persistence and leadership by pushing his team to continue efforts rather than giving up, indicating a proactive and determined approach.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Glances at watch and calls for cutting power exactly at the timing, showing situational awareness and control.",
-      "Competence": 1,
-      "Chunk": 18
+      "trait": "competence",
+      "action": "Fumbles with the gum wrapper before putting gum in his mouth.",
+      "assessment": "A minor moment of clumsiness that slightly undermines his otherwise controlled demeanor, but overall insignificant.",
+      "rating": -1,
+      "chunk": 15
     },
     {
-      "Action": "Freezes momentarily, then warns others not to go in, recognizing a trap.",
-      "Warmth": 1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Explains to Teddy that he quit smoking and caffeine, emphasizing personal change.",
+      "assessment": "Demonstrates self-discipline and the ability to adapt, which are positive indicators of competence beyond just professional skills.",
+      "rating": 1,
+      "chunk": 15
     },
     {
-      "Action": "Stands in the middle of chaos trying to control the situation.",
-      "Warmth": 1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Analyzes the suspect's behavior and motives, deducing that the suspect is experienced, heavily armed, well-connected, and buying time.",
+      "assessment": "Exhibits strong analytical skills, situational awareness, and strategic thinking, all hallmarks of high competence.",
+      "rating": 3,
+      "chunk": 15
     },
     {
-      "Action": "Does not assert authority over SWAT Commander, defers command.",
-      "Warmth": 0,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Recognizes that the suspect underestimated the team's response time and is using that to his advantage.",
+      "assessment": "Shows insight into the opponent's mindset and tactical awareness, reinforcing his capability as a leader and strategist.",
+      "rating": 3,
+      "chunk": 15
     },
     {
-      "Action": "Freezes and questions what just happened after unexpected chaotic events.",
-      "Competence": 0,
-      "Chunk": 19
+      "trait": "warmth",
+      "action": "Decides to go in and rescue the hostages despite the risks, showing urgency and concern for their safety.",
+      "assessment": "Conners demonstrates a protective and responsible attitude toward the hostages, indicating care and a sense of duty, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Identifies the SWAT team's impulse to go in as a trap and orders them to stand down.",
-      "Competence": 1,
-      "Chunk": 19
+      "trait": "warmth",
+      "action": "Responds to Teddy's questioning with a harsh personal insult about Teddy's private life.",
+      "assessment": "This personal attack is unnecessarily hostile and undermines trust and friendliness, reflecting negatively on Conners's warmth.",
+      "rating": -2,
+      "chunk": 16
     },
     {
-      "Action": "Orders officers to come with him to lead the charge inside the bank and protect hostages",
-      "Warmth": 1,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Engages in a professional discussion with his team about tactical plans and listens to input from others.",
+      "assessment": "While professional and cooperative, this behavior is neutral in terms of warmth, showing neither particular friendliness nor coldness.",
+      "rating": 0,
+      "chunk": 16
     },
     {
-      "Action": "Glares at Dekker after Dekker orders hostage roundup",
-      "Warmth": 0,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Decides to go in immediately to resolve the hostage situation, despite others' hesitation.",
+      "assessment": "This shows decisiveness and a willingness to take responsibility under pressure, indicating confidence and situational awareness.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Flustered and swears upon explosion and chaos.",
-      "Competence": -1,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Quickly assigns tactical roles to team members and coordinates with the SWAT Commander.",
+      "assessment": "Demonstrates leadership skills and ability to organize a complex operation efficiently, reflecting strong competence.",
+      "rating": 3,
+      "chunk": 16
     },
     {
-      "Action": "Glares at Dekker, asserts command by directing officers to follow them.",
-      "Competence": 1,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Challenges Teddy's hesitation and pushes for immediate action based on risk assessment.",
+      "assessment": "Shows critical thinking and prioritization of hostage safety over protocol delays, indicating intelligent judgment.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Leads the charge inside the dangerous bank, weapons drawn, showing decisiveness and leadership.",
-      "Competence": 1,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Interrupts Teddy's personal jabs to refocus on the mission.",
+      "assessment": "Maintains focus and control in a tense interpersonal exchange, which is a sign of professional composure and competence.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Leads officers cautiously through the bank, gives clear, calm instructions to split up and check areas.",
-      "Warmth": 1,
-      "Chunk": 21
+      "trait": "warmth",
+      "action": "Refuses to use explosives or tear gas to enter the bank because there are forty civilians inside and it would be too dangerous.",
+      "assessment": "Shows concern for the safety of innocent people, indicating a protective and considerate nature.",
+      "rating": 3,
+      "chunk": 17
     },
     {
-      "Action": "Kicks in the door to 'Employees Only' office decisively but does not show anger or aggression beyond necessity.",
-      "Warmth": 0,
-      "Chunk": 21
+      "trait": "warmth",
+      "action": "Suggests cutting the power to disable the electronic locks and enter without using force.",
+      "assessment": "Demonstrates thoughtful problem-solving aimed at minimizing harm to hostages, reflecting care and responsibility.",
+      "rating": 2,
+      "chunk": 17
     },
     {
-      "Action": "Takes black masks found by SWAT Commander and remarks they let suspects walk past them, showing frustration but focused on the task.",
-      "Warmth": 0,
-      "Chunk": 21
+      "trait": "warmth",
+      "action": "Gives clear, calm instructions to the SWAT team, emphasizing no movement until his signal.",
+      "assessment": "Exhibits leadership and a desire to maintain order to protect lives, showing reliability and trustworthiness.",
+      "rating": 2,
+      "chunk": 17
     },
     {
-      "Action": "Leads the officers with caution, splits team strategically to cover areas, checks behind counters and locked doors methodically.",
-      "Competence": 1,
-      "Chunk": 21
+      "trait": "warmth",
+      "action": "Jokes with the SWAT Commander about not wanting to know if he has done this before.",
+      "assessment": "Uses light humor to ease tension, suggesting a friendly and approachable demeanor.",
+      "rating": 1,
+      "chunk": 17
     },
     {
-      "Action": "Kicks in door aggressively but finds it empty; implies his search yield no results there.",
-      "Competence": 0,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Refuses to use explosives to avoid harming civilians and instead suggests cutting the power to disable electronic locks.",
+      "assessment": "This shows careful consideration of collateral damage and a strategic approach to problem-solving, indicating thoughtful and responsible competence.",
+      "rating": 2,
+      "chunk": 17
     },
     {
-      "Action": "Accepts the black masks and body armor found by SWAT without initial suspicion; acknowledges letting suspects pass by unnoticed.",
-      "Competence": -1,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Proposes cutting power to disable the lock system despite the risk of emergency generators restoring power in 3-6 minutes.",
+      "assessment": "Demonstrates tactical awareness and confidence in timing the operation to conclude before backup power activates, reflecting good situational judgment.",
+      "rating": 2,
+      "chunk": 17
     },
     {
-      "Action": "Wants background checks on every hostage, treating them all as suspects until proven otherwise.",
-      "Warmth": -1,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Gives clear, authoritative orders to wait for his signal before moving in.",
+      "assessment": "Exhibits leadership and command presence, ensuring coordinated action and discipline among the team, which is a strong indicator of competence.",
+      "rating": 3,
+      "chunk": 17
     },
     {
-      "Action": "Questions the unusual static on the eighth security monitor, showing attentiveness to detail.",
-      "Competence": 1,
-      "Chunk": 23
+      "trait": "competence",
+      "action": "Lightly jokes with the SWAT Commander about experience but quickly refocuses on the task.",
+      "assessment": "Shows confidence and ability to maintain morale without losing focus, suggesting emotional intelligence and command skill.",
+      "rating": 1,
+      "chunk": 17
     },
     {
-      "Action": "Suggests documenting each move made by the suspects to trace their actions carefully.",
-      "Warmth": 1,
-      "Chunk": 24
+      "trait": "competence",
+      "action": "Crouches down beside Dekker and his SWAT Team behind a barricade, coordinating via radio with 'Let's go around the horn.'",
+      "assessment": "This shows Conners taking an active leadership role, communicating clearly and coordinating team movements, indicating situational awareness and command capability.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Responds to the news of FBI involvement with frustration: 'Shit. Feds.'",
-      "Warmth": 0,
-      "Chunk": 24
+      "trait": "competence",
+      "action": "Glances at his watch and orders to cut the power, causing a blackout in the bank.",
+      "assessment": "This demonstrates tactical planning and timing, using environmental control to gain advantage, reflecting strategic thinking and decisiveness.",
+      "rating": 3,
+      "chunk": 18
     },
     {
-      "Action": "Carefully scrutinizes surveillance images and analyzes the timing of power cut to deduce the suspects' escape window.",
-      "Competence": 1,
-      "Chunk": 24
+      "trait": "competence",
+      "action": "Makes the call immediately after the blackout.",
+      "assessment": "Shows prompt decision-making and maintaining communication under pressure, reinforcing his role as a competent leader in crisis.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Manages to issue practical instructions to document the suspects' movements from the beginning and delegates investigation of external witnesses.",
-      "Competence": 1,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Freezes and urgently warns the SWAT team not to go in, saying 'No. Do not go in. It's a trap!'",
+      "assessment": "Conners shows concern for the safety of others by trying to prevent the SWAT team from rushing into danger, indicating a protective and responsible attitude.",
+      "rating": 2,
+      "chunk": 19
     },
     {
-      "Action": "Expresses concern calmly upon seeing FBI agents arriving, maintaining composure and continuing engagement with the situation.",
-      "Competence": 0,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Freezes upon seeing hostages dangled helplessly in full view of onlookers and news crews.",
+      "assessment": "His freezing reaction suggests shock and possibly empathy for the hostages' plight, reflecting sensitivity to others' suffering.",
+      "rating": 1,
+      "chunk": 19
     },
     {
-      "Action": "Questions the bank manager directly about the money, showing awareness of typical criminal motives and challenging unclear information.",
-      "Competence": 1,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Conners freezes and calls into his radio, asking 'What just happened?' after the curtains drop and the hostages are yanked into the air.",
+      "assessment": "Freezing in a critical moment suggests a momentary lapse in composure or situational control, which is a negative indicator of competence.",
+      "rating": -1,
+      "chunk": 19
     },
     {
-      "Action": "Responds to Jenkins' insults with sarcastic and cutting remarks.",
-      "Warmth": -1,
-      "Chunk": 26
+      "trait": "competence",
+      "action": "Conners warns the SWAT team not to go in, saying 'No. Do not go in. It's a trap!'",
+      "assessment": "This shows situational awareness and the ability to assess danger quickly, indicating competence and confidence in his judgment.",
+      "rating": 2,
+      "chunk": 19
     },
     {
-      "Action": "Engages in a somewhat tense and defensive exchange with Jenkins, showing reluctance or frustration.",
-      "Warmth": 0,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Glares at Dekker after Dekker orders the first group of officers to round up hostages, then directs the second group to come with them.",
+      "assessment": "Conners's glare suggests impatience or frustration rather than warmth; however, he quickly takes charge and directs officers to protect hostages, indicating responsibility and concern for others' safety.",
+      "rating": 1,
+      "chunk": 20
     },
     {
-      "Action": "Takes a moment to enjoy a slice of pie quietly while others focus on work.",
-      "Warmth": 0,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Leads the charge inside the bank with Dekker, guns drawn, to protect hostages.",
+      "assessment": "Taking initiative to protect hostages in a dangerous situation shows courage and a protective attitude, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Responds sharply and confidently to Jenkins' accusations, engaging in verbal sparring without backing down.",
-      "Competence": 1,
-      "Chunk": 26
+      "trait": "competence",
+      "action": "Flustered reaction to the trap announcement ('SONOFABITCH!').",
+      "assessment": "This moment of visible frustration suggests a lapse in emotional control under pressure, which can undermine competent decision-making.",
+      "rating": -1,
+      "chunk": 20
     },
     {
-      "Action": "Appears to dismiss or not understand the significance of Dekker's comment about Chaos Theory, responding with 'What?'",
-      "Competence": -1,
-      "Chunk": 26
+      "trait": "competence",
+      "action": "Hits the deck immediately after the explosion alongside Dekker.",
+      "assessment": "This quick physical response to danger indicates situational awareness and instinctive self-preservation, reflecting competent behavior in a crisis.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Attempts to make small talk and get to know Dekker despite initial annoyance.",
-      "Warmth": 1,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Glares at Dekker after Dekker orders the first group of officers to round up hostages, then commands the second group to follow him.",
+      "assessment": "This shows leadership and assertiveness, taking initiative to organize officers effectively, which is a positive indicator of competence.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Mocks Dekker's college choice, calling it an 'inbred state school no one's heard of'.",
-      "Warmth": -1,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Leads the charge inside the bank with guns drawn alongside Dekker.",
+      "assessment": "Taking the lead in a dangerous situation demonstrates confidence and tactical decisiveness, reinforcing his competent role as a detective.",
+      "rating": 3,
+      "chunk": 20
     },
     {
-      "Action": "Expresses a desire to build some trust by sharing personal information and learning about Dekker.",
-      "Warmth": 1,
-      "Chunk": 27
+      "trait": "warmth",
+      "action": "Pulls the officers close and quietly organizes them to split up and search the bank carefully.",
+      "assessment": "Conners demonstrates leadership and calm communication under pressure, showing concern for the safety and coordination of his team, which reflects a responsible and considerate nature.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Tells Dekker bluntly that he has a reputation but Dekker does not, shows impatience and dominance.",
-      "Warmth": -1,
-      "Chunk": 27
+      "trait": "warmth",
+      "action": "Kicks in the door to the employee's only office to check for suspects.",
+      "assessment": "While forceful, this action is professional and focused on ensuring safety; it does not indicate warmth or coldness directly but shows commitment to duty.",
+      "rating": 0,
+      "chunk": 21
     },
     {
-      "Action": "Admits confusion about Chaos Theory and asks for clarification.",
-      "Competence": 0,
-      "Chunk": 27
+      "trait": "warmth",
+      "action": "Takes the black mask found by SWAT and comments that 'We let them walk right past us...'",
+      "assessment": "This statement suggests frustration and self-reproach rather than blame or hostility toward others, indicating a sincere and accountable attitude.",
+      "rating": 1,
+      "chunk": 21
     },
     {
-      "Action": "Engages in a somewhat dismissive and condescending conversation about Dekker's background, attempting to size him up.",
-      "Competence": 0,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Leads officers cautiously through the bank lobby with guns drawn, signaling caution with each step.",
+      "assessment": "This shows Conners's awareness of danger and his ability to lead a tactical team carefully, indicating competent leadership and situational awareness.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Expresses desire to know about partner for safety reasons, showing prudence and situational awareness.",
-      "Competence": 1,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Organizes the officers by splitting the team and assigning groups to different leaders with clear instructions.",
+      "assessment": "This demonstrates Conners's strategic thinking and command skills, showing confidence and capability in managing a tactical operation.",
+      "rating": 3,
+      "chunk": 21
     },
     {
-      "Action": "Asserts his reputation to impose authority and set expectations, attempting to establish control confidently.",
-      "Competence": 1,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Kicks in the 'Bank Employees Only' door to check for suspects or clues.",
+      "assessment": "This action reflects decisiveness and willingness to take initiative, traits associated with competence in high-pressure situations.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Engages in competitive banter ('mine's bigger') with another man on first meeting.",
-      "Warmth": 0,
-      "Chunk": 28
+      "trait": "competence",
+      "action": "Fails to detect the suspects who walked right past them, as indicated by his comment upon finding masks and body armor.",
+      "assessment": "This oversight suggests a lapse in vigilance or situational control, indicating a notable gap in competence during the operation.",
+      "rating": -2,
+      "chunk": 21
     },
     {
-      "Action": "Drops a ten dollar bill on the table as a gesture in a tense situation.",
-      "Warmth": 1,
-      "Chunk": 28
+      "trait": "warmth",
+      "action": "Says 'We let them walk right past us.' showing frustration at the situation.",
+      "assessment": "Expressing frustration at a failure in the operation indicates a strong sense of responsibility and concern for outcomes, but does not directly reflect warmth.",
+      "rating": 0,
+      "chunk": 22
     },
     {
-      "Action": "Dismisses a casual greeting or flirtation from Karen Cross by ignoring her.",
-      "Warmth": -1,
-      "Chunk": 28
+      "trait": "warmth",
+      "action": "Commands background checks on every hostage, stating 'They're all suspects until they're not.'",
+      "assessment": "This action shows a suspicious and distrustful attitude toward the hostages, implying a lack of initial trust or goodwill, which is a negative indicator of warmth.",
+      "rating": -2,
+      "chunk": 22
     },
     {
-      "Action": "Makes a lightly humorous comment to the cameraman with black eyes and a bloody nose, showing some friendliness.",
-      "Warmth": 1,
-      "Chunk": 28
+      "trait": "warmth",
+      "action": "Responds to Vincent's question about a possible remaining perpetrator with 'After this, nothing would surprise me.'",
+      "assessment": "This statement reflects a wary and guarded mindset, showing skepticism and a lack of optimism or trust, which suggests low warmth.",
+      "rating": -1,
+      "chunk": 22
     },
     {
-      "Action": "Responds promptly to radio communication with one-word command 'Go.'",
-      "Competence": 1,
-      "Chunk": 28
+      "trait": "competence",
+      "action": "Expresses frustration openly with 'SHIT!' after realizing the suspects walked past them.",
+      "assessment": "This shows emotional reaction under pressure, which may indicate some loss of composure, but also a realistic response to a setback.",
+      "rating": 0,
+      "chunk": 22
     },
     {
-      "Action": "Drops a ten dollar bill on the table as a bet or gesture despite tense atmosphere, showing confidence and control.",
-      "Competence": 1,
-      "Chunk": 28
+      "trait": "competence",
+      "action": "Orders background checks on every hostage, treating them all as suspects until proven otherwise.",
+      "assessment": "This demonstrates a cautious, thorough, and methodical approach to investigation, reflecting good situational awareness and procedural competence.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Comments on sports conference preferences as a personal aside during a professional situation, possibly deflecting tension.",
-      "Competence": 0,
-      "Chunk": 28
+      "trait": "competence",
+      "action": "Acknowledges that after the chaotic event, 'nothing would surprise me,' showing openness to unexpected developments.",
+      "assessment": "This indicates mental flexibility and realistic appraisal of the situation, which is a positive indicator of competent leadership.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Ignores Karen Cross’s attempts at distraction, maintaining focus on the task.",
-      "Competence": 1,
-      "Chunk": 28
+      "trait": "warmth",
+      "action": "Carefully scrutinizes the images of the hostages and plans to document each move they made for two hours.",
+      "assessment": "Conners shows diligence and responsibility in tracking the hostages' movements, indicating a serious and conscientious approach, but this is more professional than warm or friendly.",
+      "rating": 0,
+      "chunk": 24
     },
     {
-      "Action": "Shows quick wit by connecting cameraman’s injuries to his fall during chaotic event, indicating situational awareness.",
-      "Competence": 1,
-      "Chunk": 28
+      "trait": "warmth",
+      "action": "Agrees to have Vincent check the news cameras for any clues about the suspects.",
+      "assessment": "Conners is open to suggestions and collaborates with his team, showing some degree of trust and tolerance.",
+      "rating": 1,
+      "chunk": 24
     },
     {
-      "Action": "Commands team to step back and clear the door before dangerous entry, prioritizing safety.",
-      "Warmth": 1,
-      "Chunk": 29
+      "trait": "warmth",
+      "action": "Expresses frustration upon seeing the FBI agents arrive, saying 'Shit. Feds.'",
+      "assessment": "This reaction reveals some distrust or irritation toward the FBI, which may indicate a lack of warmth or openness toward colleagues outside his immediate team.",
+      "rating": -1,
+      "chunk": 24
     },
     {
-      "Action": "Commands Vincent quietly to step back and clear the door just before a gunshot blows the door apart, demonstrating quick situational awareness and taking control under pressure.",
-      "Competence": 1,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Carefully scrutinizes the images on multiple monitors to track the hostages and Black Clads' movements.",
+      "assessment": "This shows Conners' attention to detail and methodical approach to gathering intelligence, indicating a competent investigative mindset.",
+      "rating": 2,
+      "chunk": 24
     },
     {
-      "Action": "Turns into the doorway and fires a full clip into the apartment, shows decisiveness and assertiveness under fire.",
-      "Competence": 1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Recognizes the significance of the power cut and the resulting gap in surveillance footage, deducing that the perpetrators are long gone by the time images return.",
+      "assessment": "This demonstrates Conners' ability to quickly analyze incomplete information and draw logical conclusions, reflecting strong situational awareness and analytical skill.",
+      "rating": 3,
+      "chunk": 24
     },
     {
-      "Action": "Reloads quickly and remains alert despite the silence, demonstrating tactical awareness and readiness.",
-      "Competence": 1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Orders to review the tapes from the beginning and document every move made by the suspects during the two hours inside.",
+      "assessment": "This action shows Conners' thoroughness and strategic thinking, emphasizing his capability to organize and direct investigative efforts effectively.",
+      "rating": 2,
+      "chunk": 24
     },
     {
-      "Action": "Steps inside the apartment despite unclear threat, showing bravery and willingness to engage.",
-      "Competence": 1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Agrees with the suggestion to have Vincent check news cameras outside for possible visual identification of suspects.",
+      "assessment": "This indicates openness to collaboration and resourcefulness in leveraging external information sources, a positive competence indicator.",
+      "rating": 1,
+      "chunk": 24
     },
     {
-      "Action": "Drops to the floor immediately after being fired upon, showing presence of mind and self-preservation skills.",
-      "Competence": 1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Upon seeing FBI agents arrive, reacts with frustration but proceeds to engage with them as requested.",
+      "assessment": "While the initial frustration suggests some emotional response, Conners' compliance and willingness to cooperate with federal agents shows professionalism and adaptability.",
+      "rating": 1,
+      "chunk": 24
     },
     {
-      "Action": "Injured but responds that he is fine, maintaining composure under stress.",
-      "Competence": 1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Interrupts the conversation with the bank manager and agent Doyle to ask about the money, showing directness and focus on practical details.",
+      "assessment": "This action demonstrates Conners's ability to cut through complex or abstract information and focus on the concrete, practical aspect of the situation, indicating a level of situational awareness and straightforward thinking.",
+      "rating": 2,
+      "chunk": 25
     },
     {
-      "Action": "No direct actions or mentions of Quentin Conners in this excerpt to evaluate competence.",
-      "Competence": 0,
-      "Chunk": 31
+      "trait": "warmth",
+      "action": "Responds to Jenkins's insult with a sarcastic retort about Jenkins's sex life.",
+      "assessment": "Quentin's sarcastic comeback suggests defensiveness and a confrontational attitude rather than friendliness or sincerity.",
+      "rating": -1,
+      "chunk": 26
     },
     {
-      "Action": "Speeds towards the scene in a patrol car to assist in the pursuit.",
-      "Competence": 1,
-      "Chunk": 32
+      "trait": "warmth",
+      "action": "Engages in a brief, somewhat dismissive exchange with Dekker about the Chaos Theory.",
+      "assessment": "His response 'You don't say' indicates a lack of enthusiasm or genuine interest, reflecting a neutral to slightly cold demeanor.",
+      "rating": 0,
+      "chunk": 26
     },
     {
-      "Action": "Plows into suspect's vehicle to stop escape, physically subdues suspect despite injury risk.",
-      "Warmth": 0,
-      "Chunk": 33
+      "trait": "warmth",
+      "action": "Finishes a cup of coffee and enjoys a slice of pie quietly while Dekker works.",
+      "assessment": "This behavior shows a calm, non-disruptive presence but does not actively demonstrate warmth or friendliness.",
+      "rating": 0,
+      "chunk": 26
     },
     {
-      "Action": "Dismisses paramedic advice about injury, insists he is fine despite possible cracked rib.",
-      "Competence": -1,
-      "Chunk": 34
+      "trait": "competence",
+      "action": "Responds to Jenkins's criticism with sarcastic retorts and deflects blame back to Jenkins and the Commissioner's office.",
+      "assessment": "Conners shows confidence and quick wit in handling confrontation, but his focus on sarcasm and deflection rather than accountability suggests a defensive posture that may undermine his effectiveness.",
+      "rating": 0,
+      "chunk": 26
     },
     {
-      "Action": "Quickly organizes interrogation of suspect, orders specific tactics to pressure her effectively.",
-      "Competence": 1,
-      "Chunk": 34
+      "trait": "competence",
+      "action": "Engages with Dekker about the significance of Lorenz's pauses and the Chaos Theory.",
+      "assessment": "Conners demonstrates intellectual curiosity and openness to new information, indicating a capacity for analytical thinking and adaptability.",
+      "rating": 2,
+      "chunk": 26
     },
     {
-      "Action": "Acknowledges new information about Dekker, adjusts perception based on that.",
-      "Competence": 1,
-      "Chunk": 34
+      "trait": "warmth",
+      "action": "Engages Dekker in conversation to get to know him better, saying 'You've grown on me. Besides, I am entrusting my life to you. I should know something about you.'",
+      "assessment": "This shows a desire to build trust and connection, indicating a sincere and somewhat friendly approach despite initial roughness.",
+      "rating": 2,
+      "chunk": 27
     },
     {
-      "Action": "Compliments Marnie by saying 'Marnie, you're looking well.'",
-      "Warmth": 1,
-      "Chunk": 35
+      "trait": "warmth",
+      "action": "Makes a somewhat dismissive and slightly condescending comment about Dekker's college, calling it 'one of those inbred state schools no one's heard of?'",
+      "assessment": "This comment reflects a lack of tact and friendliness, suggesting a brusque or judgmental attitude that lowers warmth.",
+      "rating": -1,
+      "chunk": 27
     },
     {
-      "Action": "Cuts off Marnie's flirtatious banter with Dekker by saying 'Can we get back to work?'",
-      "Warmth": 0,
-      "Chunk": 35
+      "trait": "warmth",
+      "action": "Tells Dekker 'Listen, my reputation often proceeds me... After you've been through the shit I have, then you can judge me.'",
+      "assessment": "This defensive and somewhat confrontational statement indicates a guarded nature and reluctance to be open, which reduces perceived warmth.",
+      "rating": -1,
+      "chunk": 27
     },
     {
-      "Action": "Directs the team to focus and ‘Can we get back to work?’ despite distractions.",
-      "Competence": 1,
-      "Chunk": 35
+      "trait": "competence",
+      "action": "Asks Dekker to repeat the explanation of Chaos Theory, admitting confusion.",
+      "assessment": "This shows intellectual humility and a willingness to seek clarity rather than pretending to understand, which is a competent approach to learning.",
+      "rating": 1,
+      "chunk": 27
     },
     {
-      "Action": "Observes the contents of the suitcase and engages in the investigation with attention to detail.",
-      "Competence": 1,
-      "Chunk": 35
+      "trait": "competence",
+      "action": "Engages Dekker in personal conversation to build trust, stating he is entrusting his life to him and wants to know more.",
+      "assessment": "This demonstrates emotional intelligence and situational awareness, recognizing the importance of trust and teamwork in their line of work.",
+      "rating": 2,
+      "chunk": 27
     },
     {
-      "Action": "Fails to contribute new insights beyond listening and prompting others to share information.",
-      "Competence": 0,
-      "Chunk": 35
+      "trait": "competence",
+      "action": "Challenges Dekker's reluctance to share personal information and asserts his own reputation as a basis for judgment.",
+      "assessment": "This shows confidence and assertiveness, indicating Conners is comfortable taking charge and setting expectations, which are signs of competence.",
+      "rating": 2,
+      "chunk": 27
     },
     {
-      "Action": "Engages in casual conversation with Marnie, asks questions about new procedures.",
-      "Warmth": 1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Makes a somewhat dismissive and slightly condescending remark about Dekker's college.",
+      "assessment": "This could reflect insecurity or a tendency to judge others superficially, which may undermine effective collaboration and suggests a minor social competence gap.",
+      "rating": -1,
+      "chunk": 27
     },
     {
-      "Action": "Speaks thoughtfully and respectfully to Dekker about his family and background.",
-      "Warmth": 1,
-      "Chunk": 36
+      "trait": "warmth",
+      "action": "Drops a ten dollar bill on the table after a tense exchange with Dekker.",
+      "assessment": "Dropping money in this context seems more like a challenge or a power move rather than a friendly or warm gesture; it lacks sincerity or friendliness.",
+      "rating": -1,
+      "chunk": 28
     },
     {
-      "Action": "Says 'No reason. Just thinking out loud.' when probing about the case lead.",
-      "Warmth": 0,
-      "Chunk": 36
+      "trait": "warmth",
+      "action": "Engages in a competitive, somewhat confrontational banter about whose 'size' is bigger.",
+      "assessment": "This kind of banter is aggressive and not indicative of warmth; it suggests defensiveness and a lack of tolerance or friendliness.",
+      "rating": -2,
+      "chunk": 28
     },
     {
-      "Action": "Shows attentiveness and interest in colleagues by commenting on familial connections and giving compliments.",
-      "Warmth": 1,
-      "Chunk": 36
+      "trait": "warmth",
+      "action": "Ignores Karen Cross's friendly greeting and smile.",
+      "assessment": "Ignoring a friendly approach can indicate coldness or lack of warmth; he does not reciprocate friendliness or sincerity.",
+      "rating": -2,
+      "chunk": 28
     },
     {
-      "Action": "Asks about the new procedure for marking evidence money, showing an interest in current practices.",
-      "Competence": 1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Responds promptly and decisively to Vincent's radio call with a single word: 'Go.'",
+      "assessment": "This shows Conners's ability to act quickly and confidently under pressure, indicating a competent and decisive nature.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "Confers with colleagues about the Pacific Savings case, attempting to recall details and following up with questions.",
-      "Competence": 1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Drops a ten dollar bill on the table and makes a casual, somewhat humorous comment about the Pac-10 being overrated and himself being an Ivy League guy.",
+      "assessment": "This action suggests Conners is confident and comfortable in social interactions, using humor and casual gestures to establish dominance or camaraderie, which can be a sign of social competence.",
+      "rating": 1,
+      "chunk": 28
     },
     {
-      "Action": "Says 'No reason. Just thinking out loud.' after asking a potentially relevant question, which might suggest hesitance or caution in sharing thoughts.",
-      "Competence": 0,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Ignores Karen Cross's flirtatious greeting while others respond.",
+      "assessment": "By not engaging with the distraction, Conners demonstrates focus and professionalism, which are positive indicators of competence in his role.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "Makes connections about Dekker's family background and hints at insights concerning relationships in the department.",
-      "Competence": 1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Makes a quick, witty remark to the cameraman about being knocked down during the melee.",
+      "assessment": "This shows Conners's ability to maintain composure and use humor to defuse tension, reflecting social intelligence and confidence.",
+      "rating": 1,
+      "chunk": 28
     },
     {
-      "Action": "Paces around Gina like a circling shark, uses pressure tactics in interrogation.",
-      "Warmth": -1,
-      "Chunk": 37
+      "trait": "warmth",
+      "action": "Tells Vincent to step back and clear the door before the gunshot.",
+      "assessment": "Conners shows concern for the safety of his colleagues by instructing them to take cover, indicating responsibility and care for others' well-being.",
+      "rating": 2,
+      "chunk": 29
     },
     {
-      "Action": "Corrects Gina's grammar somewhat sarcastically during a tense moment.",
-      "Warmth": -1,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "Orders Vincent to step back and clear the door just before a gunshot blows the door apart.",
+      "assessment": "This action shows Conners's situational awareness and quick decision-making under pressure, indicating a high level of competence in a dangerous situation.",
+      "rating": 3,
+      "chunk": 29
     },
     {
-      "Action": "Sits next to Gina and intensely demands information, showing persistence but little empathy.",
-      "Warmth": 0,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "Turns into the open doorway and fires a full clip into the apartment.",
+      "assessment": "This action shows decisiveness and willingness to engage aggressively in a dangerous situation, indicating confidence and tactical assertiveness.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Receives excellent evaluation reports through the academy and scores high on the detective's exam.",
-      "Competence": 1,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "Reloads after firing and cautiously looks around the quiet apartment.",
+      "assessment": "Reloading promptly and scanning the environment demonstrates good tactical awareness and preparedness, reflecting competent behavior.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Finds discrepancies and challenges the suspect with knowledge about evidence and the severity of charges.",
-      "Competence": 1,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "Drops to the floor and falls back into the kitchen after being shot at from the bedroom.",
+      "assessment": "Dropping to the floor under fire shows quick reflexes and an understanding of cover, indicating competent combat instincts.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Accurately corrects the suspect's grammar to emphasize the importance of precise language, reflecting attention to detail and communication skill.",
-      "Competence": 1,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "Responds 'I'm fine' when asked if he is hit, despite being in pain.",
+      "assessment": "Minimizing injury to maintain morale and focus suggests mental toughness and professionalism, a positive indicator of competence.",
+      "rating": 1,
+      "chunk": 30
     },
     {
-      "Action": "Paces like a circling shark, using physical presence to intimidate and control the interrogation.",
-      "Competence": 1,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "No direct actions or statements by Quentin Conners are present in the excerpt.",
+      "assessment": "Since Quentin Conners does not appear or act in this passage, no direct inference about his competence can be made here.",
+      "rating": 0,
+      "chunk": 31
     },
     {
-      "Action": "Frustration expressed during interrogation moment possibly undermines confident control.",
-      "Competence": 0,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "Speeds towards the scene behind the wheel of a patrol car during a high-speed pursuit.",
+      "assessment": "Conners demonstrates situational awareness and readiness by quickly responding to the unfolding chase, indicating competent and confident behavior in a high-pressure situation.",
+      "rating": 2,
+      "chunk": 32
     },
     {
-      "Action": "Threatens to take Gina's children away to coerce information.",
-      "Warmth": -1,
-      "Chunk": 38
+      "trait": "warmth",
+      "action": "Conners climbs out of the patrol car and physically subdues Richards by slamming his head into the steering wheel and disarming him.",
+      "assessment": "Conners uses aggressive and violent tactics to control a suspect, showing a focus on duty and control rather than empathy or gentleness. This behavior suggests low warmth, as it lacks friendliness or tolerance.",
+      "rating": -2,
+      "chunk": 33
     },
     {
-      "Action": "Wraps his coat around Gina's shoulders after seeing her vulnerable.",
-      "Warmth": 1,
-      "Chunk": 38
+      "trait": "warmth",
+      "action": "Conners is checked by a paramedic after the crash, with no indication of complaint or vulnerability.",
+      "assessment": "While this is a neutral moment, the absence of any expressed concern for others or any warmth in his demeanor suggests a neutral to low warmth level.",
+      "rating": 0,
+      "chunk": 33
     },
     {
-      "Action": "Uses intimidation by threatening to call children's services to gain cooperation from Gina.",
-      "Competence": 1,
-      "Chunk": 38
+      "trait": "competence",
+      "action": "Plows his patrol car into the rear of Richards' truck, spinning it around to stop the vehicle.",
+      "assessment": "This action demonstrates tactical driving skill and decisiveness, effectively stopping a fleeing suspect.",
+      "rating": 2,
+      "chunk": 33
     },
     {
-      "Action": "Recognizes the legal risks of Gina asking for a lawyer and the inadmissibility of future evidence, but proceeds anyway based on practical jury persuasion.",
-      "Competence": 1,
-      "Chunk": 38
+      "trait": "competence",
+      "action": "Climbs out of the car and quickly subdues Richards by slamming his head into the steering wheel twice and disarming him.",
+      "assessment": "Shows physical assertiveness, quick reflexes, and control in a high-pressure situation, indicating strong competence.",
+      "rating": 3,
+      "chunk": 33
     },
     {
-      "Action": "Shows empathy and human understanding by wrapping his coat around Gina and getting her coffee after intense interrogation.",
-      "Competence": 1,
-      "Chunk": 38
+      "trait": "competence",
+      "action": "Appears suddenly at the driver's side window to surprise Richards.",
+      "assessment": "This suggests tactical awareness and the ability to use surprise effectively, reflecting intelligence and skill.",
+      "rating": 2,
+      "chunk": 33
     },
     {
-      "Action": "Crosses ethical or legal boundaries knowingly ('justice by any means'), which could undermine formal competence despite practical effectiveness.",
-      "Competence": 0,
-      "Chunk": 38
+      "trait": "warmth",
+      "action": "Tells the paramedic 'Hey Quincy, give it a rest, I'm fine.' after being advised to go to the hospital.",
+      "assessment": "Conners dismisses concern for his own well-being, showing a brusque and somewhat dismissive attitude toward others' care.",
+      "rating": -1,
+      "chunk": 34
     },
     {
-      "Action": "Coldly demands to be buzzed in by Harry, with no warmth or friendliness.",
-      "Warmth": -1,
-      "Chunk": 39
+      "trait": "warmth",
+      "action": "Orders Vincent to put Ms. Lopez in interrogation, turn the A/C on full, leave her alone and cold, and let him know when 'her nipples can cut glass.'",
+      "assessment": "This action reflects a harsh, unsympathetic, and intimidating approach toward a suspect, indicating low warmth and a willingness to use discomfort as a tactic.",
+      "rating": -3,
+      "chunk": 34
     },
     {
-      "Action": "Sarcastically offers Harry a donut despite obvious dislike between them.",
-      "Warmth": -1,
-      "Chunk": 39
+      "trait": "warmth",
+      "action": "Acknowledges Dekker's connection to his father and looks at Dekker in a new light after Vincent's respectful comment.",
+      "assessment": "Shows openness to forming new bonds and respect for others based on shared history, indicating some capacity for warmth and sincerity.",
+      "rating": 2,
+      "chunk": 34
     },
     {
-      "Action": "Calmly handles confrontation with evidence room guard, quickly gets buzzed in after signing, scans evidence shelves efficiently.",
-      "Competence": 1,
-      "Chunk": 39
+      "trait": "warmth",
+      "action": "Engages Dekker in casual conversation about riding and owning a bike.",
+      "assessment": "This friendly, informal interaction suggests a willingness to connect on a personal level, reflecting moderate warmth.",
+      "rating": 2,
+      "chunk": 34
     },
     {
-      "Action": "Uses colloquial but confident language to demonstrate knowledge of internal police department issues and risks.",
-      "Competence": 1,
-      "Chunk": 39
+      "trait": "competence",
+      "action": "Dismisses paramedic's advice about a cracked rib and insists he is fine.",
+      "assessment": "This shows a degree of toughness and confidence, but also a potential disregard for his own health that could impair his effectiveness.",
+      "rating": 0,
+      "chunk": 34
     },
     {
-      "Action": "Suggests that as a cop, one could walk into a police station and take whatever they want.",
-      "Warmth": -1,
-      "Chunk": 40
+      "trait": "competence",
+      "action": "Orders Vincent to put Gina Lopez in interrogation, turn the A/C on full, and leave her alone and cold to intimidate her.",
+      "assessment": "This demonstrates tactical thinking and psychological insight, using environmental factors to gain leverage in interrogation, indicating skill and confidence.",
+      "rating": 2,
+      "chunk": 34
     },
     {
-      "Action": "Challenges Harry about the missing evidence and questions his memory and process.",
-      "Warmth": -1,
-      "Chunk": 40
+      "trait": "competence",
+      "action": "Engages in a brief, respectful exchange with Vincent about his connection to Dekker's father.",
+      "assessment": "Shows social awareness and ability to build rapport, which can be important for leadership and teamwork, reflecting competent interpersonal skills.",
+      "rating": 1,
+      "chunk": 34
     },
     {
-      "Action": "States 'They never do, Captain.' in response to confusion over Callo's behavior, showing a pragmatic but somewhat detached perspective.",
-      "Warmth": 0,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Looks at Dekker in a new light after learning about Vincent's connection to Dekker's father.",
+      "assessment": "Indicates openness to reassessing opinions based on new information, a sign of intellectual flexibility and situational awareness.",
+      "rating": 1,
+      "chunk": 34
     },
     {
-      "Action": "Responds to accusation of enjoying conflict with a neutral, fact-based statement: 'Doesn't matter what I think. Facts here speak for themselves.'",
-      "Warmth": 0,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Changes subject to comment on Dekker's riding skills and asks about a bike.",
+      "assessment": "Shows ability to shift conversation to build rapport or ease tension, reflecting social skill and confidence.",
+      "rating": 1,
+      "chunk": 34
     },
     {
-      "Action": "Acknowledges team dynamics and motives realistically, stating 'They never do' in response to Jenkins' confusion, showing a pragmatic and experienced mindset.",
-      "Competence": 1,
-      "Chunk": 41
+      "trait": "warmth",
+      "action": "Says to Marnie, 'Marnie, you're looking well.'",
+      "assessment": "This is a friendly and polite greeting, indicating a courteous and warm demeanor toward a colleague.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Maintains focus on facts despite personal feelings, saying 'Doesn't matter what I think. Facts here speak for themselves.'",
-      "Competence": 1,
-      "Chunk": 41
+      "trait": "warmth",
+      "action": "Responds to Marnie’s flirtatious banter with 'Can we get back to work?'",
+      "assessment": "Conners deflects the flirtation and redirects focus to the task, showing professionalism but also a lack of engagement in friendly or playful interaction, which may suggest a cooler or more reserved warmth.",
+      "rating": 0,
+      "chunk": 35
     },
     {
-      "Action": "Responds calmly under implied pressure as attention is pointed toward him when Dekker questions the motive and suspects him.",
-      "Competence": 1,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Interrupts Marnie and Dekker's flirtatious banter to refocus on the task by saying, 'Can we get back to work?'",
+      "assessment": "This shows Conners's ability to maintain professionalism and keep the investigation on track despite distractions, indicating a competent and focused mindset.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Grabs the phone after hearing a threatening message and responds defiantly.",
-      "Warmth": 0,
-      "Chunk": 42
+      "trait": "competence",
+      "action": "Observes the contents of the duffel bag full of cash and listens to Marnie's report about the money's origin and the related robbery.",
+      "assessment": "While Conners does not actively analyze or comment on the evidence here, his attentive presence suggests he is engaged and processing the information, though no explicit demonstration of insight or skill is shown in this excerpt.",
+      "rating": 1,
+      "chunk": 35
     },
     {
-      "Action": "Analyzes inconsistencies in the plan and admits that the situation doesn't make sense, showing critical thinking about the case.",
-      "Competence": 1,
-      "Chunk": 43
+      "trait": "warmth",
+      "action": "Engages in casual conversation with Dekker about the evidence and the Pacific Savings case, including a moment of reflection about Dekker's family background and his father's heroism.",
+      "assessment": "Conners shows a degree of friendliness and attempts to connect on a personal level by acknowledging Dekker's family and his father's heroism, which suggests a respectful and sincere attitude.",
+      "rating": 2,
+      "chunk": 36
     },
     {
-      "Action": "Acknowledges human weaknesses and temptation openly, indicating self-awareness and realistic understanding of human behavior.",
-      "Competence": 1,
-      "Chunk": 43
+      "trait": "warmth",
+      "action": "Says 'No reason. Just thinking out loud.' after asking about who headed the Pacific Savings case.",
+      "assessment": "This could indicate a cautious or reserved nature, possibly withholding full transparency, which may reflect a lack of openness or warmth in this moment.",
+      "rating": -1,
+      "chunk": 36
     },
     {
-      "Action": "Engages in light banter with Dekker, showing calmness under pressure.",
-      "Competence": 1,
-      "Chunk": 43
+      "trait": "competence",
+      "action": "Asks if the scented solution on the bills is new and engages in the discussion about evidence handling.",
+      "assessment": "This shows attentiveness to procedural details and a willingness to stay updated on new forensic methods, indicating professional awareness and competence.",
+      "rating": 2,
+      "chunk": 36
     },
     {
-      "Action": "Shares confused look with Jenkins when Dekker quotes a cryptic statement, indicating some uncertainty or lack of clarity in understanding all elements.",
-      "Competence": 0,
-      "Chunk": 43
+      "trait": "competence",
+      "action": "Asks Teddy if he remembers who headed up the Pacific Savings case, then says 'No reason. Just thinking out loud.'",
+      "assessment": "This suggests strategic thinking and subtle information gathering, demonstrating skill in investigative questioning without revealing intentions, a sign of competence.",
+      "rating": 2,
+      "chunk": 36
     },
     {
-      "Action": "Tells Dax to 'shutup' when Dax says he found nothing after reviewing tapes.",
-      "Warmth": -1,
-      "Chunk": 44
+      "trait": "competence",
+      "action": "Engages in a quiet, reflective conversation with Dekker about personal connections and background.",
+      "assessment": "While this shows social awareness and emotional intelligence, it does not directly indicate competence in professional skills; neutral in terms of competence.",
+      "rating": 0,
+      "chunk": 36
     },
     {
-      "Action": "Shares confused look with Jenkins when Dekker speaks cryptically.",
-      "Warmth": 0,
-      "Chunk": 44
+      "trait": "warmth",
+      "action": "Paces around Gina like a circling shark during interrogation, pressing her aggressively for information.",
+      "assessment": "Conners's aggressive and intimidating behavior in the interrogation room suggests a lack of empathy and friendliness, indicating low warmth.",
+      "rating": -2,
+      "chunk": 37
     },
     {
-      "Action": "Engages with Dekker and Dax in analyzing security footage attentively.",
-      "Warmth": 0,
-      "Chunk": 44
+      "trait": "warmth",
+      "action": "Corrects Gina's grammar in a frustrated manner during interrogation.",
+      "assessment": "Correcting grammar in a tense situation comes off as condescending rather than supportive, showing impatience and a lack of tolerance.",
+      "rating": -2,
+      "chunk": 37
     },
     {
-      "Action": "Cuts off Dax impatiently with 'Shutup' during review of security footage.",
-      "Competence": -1,
-      "Chunk": 44
+      "trait": "warmth",
+      "action": "Sits next to Gina and intensely demands information, emphasizing the seriousness of the charges.",
+      "assessment": "While his directness shows determination, the intensity and pressure applied lack warmth and compassion.",
+      "rating": -1,
+      "chunk": 37
     },
     {
-      "Action": "Follows Dekker's lead and examines multiple camera angles carefully to notice that cameras are fixed and do not pan.",
-      "Competence": 1,
-      "Chunk": 44
+      "trait": "warmth",
+      "action": "Mentions to Dekker that 'Maybe we're not as different as you think.'",
+      "assessment": "This statement hints at an attempt to find common ground and connection, suggesting some openness and tolerance.",
+      "rating": 1,
+      "chunk": 37
     },
     {
-      "Action": "Initially deflects responsibility by telling Jenkins 'Don't look at me, he's your find.'",
-      "Competence": -1,
-      "Chunk": 44
+      "trait": "competence",
+      "action": "Achieves excellent evaluation reports through the academy and high test scores on the detective's exam.",
+      "assessment": "This indicates strong intellectual ability and dedication, suggesting a high level of professional competence.",
+      "rating": 3,
+      "chunk": 37
     },
     {
-      "Action": "Responds to Dekker’s concern about threats with a pragmatic and lighthearted comment to reduce worry.",
-      "Warmth": 1,
-      "Chunk": 45
+      "trait": "competence",
+      "action": "Paces around Gina like a circling shark during interrogation, maintaining pressure.",
+      "assessment": "This behavior shows tactical awareness and psychological skill in interrogation, reflecting competence in his role as a detective.",
+      "rating": 2,
+      "chunk": 37
     },
     {
-      "Action": "Shows impressed respect toward the forensics technician and treats their findings seriously.",
-      "Warmth": 1,
-      "Chunk": 45
+      "trait": "competence",
+      "action": "Corrects Gina's grammar to emphasize the seriousness of her statements.",
+      "assessment": "While this shows attention to detail and an attempt to control the conversation, it may come off as pedantic and could undermine rapport, indicating a mixed effect on competence.",
+      "rating": 0,
+      "chunk": 37
     },
     {
-      "Action": "Initiates a casual invitation to get Italian food while waiting for results.",
-      "Warmth": 1,
-      "Chunk": 45
+      "trait": "competence",
+      "action": "Sits next to Gina and fixes her with a burning stare, insisting she talk.",
+      "assessment": "This demonstrates confidence and assertiveness, key traits of a competent interrogator, though it risks escalating tension.",
+      "rating": 1,
+      "chunk": 37
     },
     {
-      "Action": "Invites more people than initially indicated to dinner, welcomes companions warmly.",
-      "Warmth": 1,
-      "Chunk": 46
+      "trait": "competence",
+      "action": "Fails to immediately elicit useful information from Gina, who demands a lawyer and refuses to talk.",
+      "assessment": "This suggests a limitation in his interrogation effectiveness in this moment, indicating a moderate shortcoming in competence.",
+      "rating": -1,
+      "chunk": 37
     },
     {
-      "Action": "Jokes about a young man being 'Big Brother' to defuse confusion.",
-      "Warmth": 1,
-      "Chunk": 46
+      "trait": "warmth",
+      "action": "Threatens Gina that if she insists on a lawyer, he will call children's services and take her kids away.",
+      "assessment": "This action is coercive and intimidating, showing a lack of empathy and respect for Gina's rights, which negatively impacts perceptions of warmth.",
+      "rating": -3,
+      "chunk": 38
     },
     {
-      "Action": "Insists on accepting a little wine to maintain good relations with the host.",
-      "Warmth": 1,
-      "Chunk": 46
+      "trait": "warmth",
+      "action": "Wraps his coat around Gina's shoulders after realizing she is scared and telling the truth.",
+      "assessment": "This gesture is protective and caring, indicating a moment of genuine concern and kindness toward Gina.",
+      "rating": 2,
+      "chunk": 38
     },
     {
-      "Action": "Shares anecdotes with companions, fostering camaraderie despite them having heard it before.",
-      "Warmth": 1,
-      "Chunk": 46
+      "trait": "warmth",
+      "action": "Acknowledges that Gina is telling the truth for the first time in her life.",
+      "assessment": "Recognizing and validating Gina's honesty suggests a degree of trust and understanding, reflecting some warmth.",
+      "rating": 1,
+      "chunk": 38
     },
     {
-      "Action": "Correctly adjusts the number of people expected at the table, showing awareness and forethought.",
-      "Competence": 1,
-      "Chunk": 46
+      "trait": "competence",
+      "action": "Threatens Gina with taking her kids if she insists on a lawyer, using this leverage to pressure her into talking.",
+      "assessment": "This shows Conners's tactical use of leverage and psychological pressure to achieve his goals, indicating strategic thinking and confidence in his role.",
+      "rating": 2,
+      "chunk": 38
     },
     {
-      "Action": "Negotiates a compromise on the wine despite being on duty, indicating social skill and balance.",
-      "Competence": 1,
-      "Chunk": 46
+      "trait": "competence",
+      "action": "Recognizes Gina is telling the truth despite her initial resistance and responds with empathy by wrapping his coat around her shoulders and ordering coffee for her.",
+      "assessment": "This demonstrates emotional intelligence and the ability to read people accurately, which are important aspects of competence in interrogation and law enforcement.",
+      "rating": 2,
+      "chunk": 38
     },
     {
-      "Action": "Remembers and references the previous claim about the 'best table in the house,' demonstrating attention to detail and situational awareness.",
-      "Competence": 1,
-      "Chunk": 46
+      "trait": "competence",
+      "action": "Acknowledges the legal implications of Gina asking for a lawyer but rationalizes continuing the interrogation based on likely jury perception.",
+      "assessment": "While this shows pragmatic thinking and confidence in his judgment, it also suggests a willingness to operate in ethically gray areas, which complicates the assessment of competence.",
+      "rating": 1,
+      "chunk": 38
     },
     {
-      "Action": "Encourages Dekker to continue sharing the story.",
-      "Warmth": 1,
-      "Chunk": 47
+      "trait": "competence",
+      "action": "Engages in a confrontational and somewhat coercive interrogation style that causes Gina's bravado to collapse quickly.",
+      "assessment": "This indicates skill in breaking down a suspect's defenses, but the aggressive approach risks crossing ethical or legal boundaries, reflecting mixed competence.",
+      "rating": 1,
+      "chunk": 38
     },
     {
-      "Action": "Stares curiously at his new partner then excuses himself to go to the men's room.",
-      "Warmth": 0,
-      "Chunk": 47
+      "trait": "warmth",
+      "action": "Calls Harry Hume 'that fat fuck' and mocks him while waiting to access the evidence room.",
+      "assessment": "Using derogatory language and mocking a colleague indicates a lack of respect and friendliness, reflecting low warmth.",
+      "rating": -2,
+      "chunk": 39
     },
     {
-      "Action": "Remains in control when others panic during a wild situation.",
-      "Competence": 1,
-      "Chunk": 47
+      "trait": "warmth",
+      "action": "Says to Harry Hume, 'Have another donut, Frankie.' in a cold tone after Harry reluctantly buzzes them in.",
+      "assessment": "This sarcastic remark suggests condescension rather than genuine friendliness, indicating low warmth.",
+      "rating": -2,
+      "chunk": 39
     },
     {
-      "Action": "Encourages continuation of story, showing engagement and leadership.",
-      "Competence": 1,
-      "Chunk": 47
+      "trait": "warmth",
+      "action": "Signs in with Dekker to access the evidence room without causing a scene.",
+      "assessment": "Following procedure and cooperating with others shows a basic level of respect and trustworthiness, a neutral to slightly positive indicator of warmth.",
+      "rating": 1,
+      "chunk": 39
     },
     {
-      "Action": "Breaks a passionate kiss with Teddy and responds coldly to her confession, knowing his words hurt her.",
-      "Warmth": -1,
-      "Chunk": 48
+      "trait": "competence",
+      "action": "Confidently instructs Dekker about the 'blue line' and the consequences of crossing it, referencing Callo as an example.",
+      "assessment": "This shows Conners's familiarity with police boundaries and his confidence in navigating them, indicating situational awareness and street-smart intelligence.",
+      "rating": 2,
+      "chunk": 39
     },
     {
-      "Action": "Shows irritation and contempt toward Chris Lei, using derisive language.",
-      "Warmth": -1,
-      "Chunk": 48
+      "trait": "competence",
+      "action": "Effortlessly handles the bureaucratic process of signing in and getting buzzed into the evidence room despite tension with the guard Harry Hume.",
+      "assessment": "Conners demonstrates procedural knowledge and the ability to manage interpersonal friction calmly, reflecting competence in navigating institutional obstacles.",
+      "rating": 2,
+      "chunk": 39
     },
     {
-      "Action": "Recognizes the significance of the match quickly and demands the suspect's name without hesitation.",
-      "Competence": 1,
-      "Chunk": 48
+      "trait": "competence",
+      "action": "Mocks the evidence room guard by sarcastically offering a donut and disparaging him as 'that fat fuck' who guards $50 million in contraband.",
+      "assessment": "While this shows confidence and a certain dominance, it also reveals a lack of professionalism and possible impulsiveness that could undermine his effectiveness in sensitive situations.",
+      "rating": 0,
+      "chunk": 39
     },
     {
-      "Action": "Shows controlled emotional detachment when confronted by Teddy's passionate kiss and responds firmly.",
-      "Competence": 1,
-      "Chunk": 48
+      "trait": "warmth",
+      "action": "Suggests that as a cop, one could just walk into a police station and take whatever they want.",
+      "assessment": "This statement reflects a cynical and possibly dismissive attitude toward rules and trustworthiness, indicating a lack of respect for institutional integrity and potentially a lack of warmth.",
+      "rating": -2,
+      "chunk": 40
     },
     {
-      "Action": "Makes a decisive judgment on Chris Lei’s character and criminal history, showing insight into the suspect.",
-      "Competence": 1,
-      "Chunk": 48
+      "trait": "warmth",
+      "action": "Pressures Harry about the signing out of evidence, questioning his memory and implying negligence or complicity.",
+      "assessment": "Conners's confrontational approach toward Harry shows a lack of patience and empathy, suggesting a colder, more distrustful demeanor rather than warmth.",
+      "rating": -2,
+      "chunk": 40
     },
     {
-      "Action": "Explains that although the system breaks down, he bends rules to achieve justice.",
-      "Warmth": 0,
-      "Chunk": 49
+      "trait": "warmth",
+      "action": "Briefs Captain Jenkins and the team about the situation involving the missing money and the possible inside involvement.",
+      "assessment": "While professional and informative, this action is neutral in terms of warmth, showing responsibility but not necessarily friendliness or sincerity beyond duty.",
+      "rating": 0,
+      "chunk": 40
     },
     {
-      "Action": "Explains the failure of the bust due to the legal defense and jury's decision, showing awareness of systemic challenges.",
-      "Competence": 1,
-      "Chunk": 49
+      "trait": "competence",
+      "action": "Suggests that a cop could just walk into a police station and take whatever they want.",
+      "assessment": "This shows Conners's understanding of insider advantages and police procedures, indicating practical knowledge and confidence in exploiting system weaknesses.",
+      "rating": 2,
+      "chunk": 40
     },
     {
-      "Action": "Acknowledges the need to bend rules to achieve justice, showing pragmatic understanding of the system's limitations.",
-      "Competence": 1,
-      "Chunk": 49
+      "trait": "competence",
+      "action": "Questions Harry about the signature and challenges the reliability of his memory regarding evidence sign-outs.",
+      "assessment": "Conners demonstrates critical thinking and skepticism, probing inconsistencies in the evidence chain, which reflects investigative skill and attention to detail.",
+      "rating": 2,
+      "chunk": 40
     },
     {
-      "Action": "Enters the house cautiously with Dekker and moves like veteran partners, signaling tactical movements.",
-      "Competence": 1,
-      "Chunk": 50
+      "trait": "competence",
+      "action": "Briefs Captain Jenkins and others on the connection between the money and a previous heist, linking it to a suspect within the police department.",
+      "assessment": "Conners shows ability to synthesize information and communicate it clearly to superiors, indicating competence in analysis and leadership.",
+      "rating": 2,
+      "chunk": 40
     },
     {
-      "Action": "Finds Chris's dead body and immediately checks for a pulse, then notices the shadowy figure behind Dekker on the monitor.",
-      "Competence": 1,
-      "Chunk": 50
+      "trait": "competence",
+      "action": "No indication of hesitation or uncertainty when discussing the case and the internal betrayal.",
+      "assessment": "His confident demeanor in a complex and sensitive situation suggests strong self-assurance and command over the investigation.",
+      "rating": 2,
+      "chunk": 40
     },
     {
-      "Action": "Dives and tackles Dekker behind cover under fire; retaliates by firing four rounds at the shooter.",
-      "Competence": 1,
-      "Chunk": 51
+      "trait": "warmth",
+      "action": "Responds to Jenkins' accusation by saying 'Doesn't matter what I think. Facts here speak for themselves.'",
+      "assessment": "Conners shows a commitment to objectivity and fairness, putting facts above personal feelings, which suggests a level of sincerity and trustworthiness.",
+      "rating": 2,
+      "chunk": 41
     },
     {
-      "Action": "Runs out the back fence in pursuit but fails to catch the fleeing suspect.",
-      "Competence": 0,
-      "Chunk": 51
+      "trait": "warmth",
+      "action": "Acknowledges that Bernie Callo is a 'boy scout' and a 'first rate cop' despite personal feelings.",
+      "assessment": "This indicates tolerance and respect for others, even those he may dislike, reflecting a positive aspect of warmth.",
+      "rating": 2,
+      "chunk": 41
     },
     {
-      "Action": "Lightly teases Dekker about being shot on his first day in the city.",
-      "Warmth": 1,
-      "Chunk": 52
+      "trait": "warmth",
+      "action": "Says 'They never do, Captain.' in response to Jenkins' confusion about Callo's behavior.",
+      "assessment": "This somewhat cynical or resigned comment may indicate a lack of openness or empathy in this moment, slightly detracting from warmth.",
+      "rating": -1,
+      "chunk": 41
     },
     {
-      "Action": "Tells the police officers to take a break before speaking privately with Damon Richards.",
-      "Warmth": 1,
-      "Chunk": 52
+      "trait": "competence",
+      "action": "Conners states, 'They never do, Captain,' in response to Jenkins' disbelief about Callo's possible involvement, showing a pragmatic acceptance of complex realities.",
+      "assessment": "This response indicates Conners' ability to remain realistic and grounded, suggesting a level of professional experience and mental acuity.",
+      "rating": 2,
+      "chunk": 41
     },
     {
-      "Action": "Leans over Damon Richards and greets him in a friendly manner despite the situation.",
-      "Warmth": 1,
-      "Chunk": 52
+      "trait": "competence",
+      "action": "Conners insists that 'facts here speak for themselves,' emphasizing evidence over personal feelings.",
+      "assessment": "This demonstrates Conners' focus on objective information and his capacity to prioritize facts, a sign of analytical competence.",
+      "rating": 2,
+      "chunk": 41
     },
     {
-      "Action": "Calmly tells the officers to take a break and locks the door before attending to a critical patient.",
-      "Competence": 1,
-      "Chunk": 52
+      "trait": "competence",
+      "action": "Conners acknowledges that Callo's replacement by him has caused tension, showing awareness of interpersonal dynamics within the team.",
+      "assessment": "This awareness suggests social intelligence and situational understanding, which are important components of competence.",
+      "rating": 1,
+      "chunk": 41
     },
     {
-      "Action": "Approaches injured Dekker and makes a lighthearted comment about his injury.",
-      "Competence": 0,
-      "Chunk": 52
+      "trait": "competence",
+      "action": "Conners does not react defensively when Jenkins accuses him of enjoying the situation.",
+      "assessment": "His controlled response indicates emotional regulation and professionalism, reflecting competent behavior.",
+      "rating": 2,
+      "chunk": 41
     },
     {
-      "Action": "Calls Dekker a 'fuckin' hypocrite' for threatening lethal overdose during interrogation, implying a rough style but a limit to cruelty.",
-      "Warmth": 0,
-      "Chunk": 53
+      "trait": "competence",
+      "action": "Conners wants to be the point so everything goes according to plan.",
+      "assessment": "This ambition to lead and control operations suggests confidence and a proactive approach, positive indicators of competence.",
+      "rating": 2,
+      "chunk": 41
     },
     {
-      "Action": "Checks the label on the vial and smiles after Dekker explains it is harmless saline, showing trust and a moment of lightness.",
-      "Warmth": 1,
-      "Chunk": 53
+      "trait": "warmth",
+      "action": "Grabs the phone and responds defiantly to Lorenz's threatening message.",
+      "assessment": "Conners's immediate and confrontational response to a threatening caller shows courage but lacks warmth, as it is aggressive rather than friendly or tolerant.",
+      "rating": -1,
+      "chunk": 42
     },
     {
-      "Action": "Checks the label on the vial and smiles, showing awareness and discernment.",
-      "Competence": 1,
-      "Chunk": 53
+      "trait": "competence",
+      "action": "Nods thoughtfully when Vincent presents the blueprints and evidence found in the basement.",
+      "assessment": "This shows that Conners is attentive and able to process new information calmly and efficiently, indicating a competent investigative mindset.",
+      "rating": 2,
+      "chunk": 42
     },
     {
-      "Action": "Calls Dekker a hypocrite for threatening a lethal overdose, demonstrating confidence and assertiveness in his interrogation style.",
-      "Competence": 1,
-      "Chunk": 53
+      "trait": "competence",
+      "action": "Grabs the phone immediately after hearing the threatening message from Lorenz on the answering machine.",
+      "assessment": "This quick, assertive response to a direct threat demonstrates confidence and readiness to confront danger, reflecting a high level of competence.",
+      "rating": 3,
+      "chunk": 42
     },
     {
-      "Action": "Expresses awareness of the suspect's family and repercussions of his decisions on them.",
-      "Warmth": 1,
-      "Chunk": 54
+      "trait": "competence",
+      "action": "Responds to Lorenz's threat with a defiant verbal challenge.",
+      "assessment": "Conners' ability to maintain composure and respond boldly under psychological pressure suggests strong mental resilience and confidence, key aspects of competence.",
+      "rating": 2,
+      "chunk": 42
     },
     {
-      "Action": "Intense, focused on suspect's violent intent, no indication of compassion in moment of confrontation.",
-      "Warmth": 0,
-      "Chunk": 54
+      "trait": "warmth",
+      "action": "Both can't help but smile after Dekker asks if Conners has pissed anyone off lately.",
+      "assessment": "Sharing a smile in a tense situation suggests a moment of camaraderie and light-heartedness, indicating some friendly warmth.",
+      "rating": 1,
+      "chunk": 43
     },
     {
-      "Action": "Tries to save the girl on the bridge, providing her a chance to live.",
-      "Warmth": 1,
-      "Chunk": 55
+      "trait": "warmth",
+      "action": "Conners acknowledges the temptations cops face and admits they are not saints.",
+      "assessment": "This admission shows honesty and self-awareness, which can be seen as sincere and trustworthy, positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 43
     },
     {
-      "Action": "Silent in tense stakeout situation, no interaction shown.",
-      "Warmth": 0,
-      "Chunk": 55
+      "trait": "warmth",
+      "action": "Conners discusses the situation with Dekker in a straightforward manner without blaming others.",
+      "assessment": "His straightforwardness and willingness to engage openly suggest a level of sincerity and trustworthiness.",
+      "rating": 2,
+      "chunk": 43
     },
     {
-      "Action": "Fires accurately and reacts under intense pressure on the bridge to try to save a hostage.",
-      "Competence": 1,
-      "Chunk": 55
+      "trait": "warmth",
+      "action": "Conners does not show any overt hostility or aggression in this excerpt despite the tense context.",
+      "assessment": "His calm demeanor and lack of aggression indicate tolerance and a composed nature, which are positive for warmth.",
+      "rating": 1,
+      "chunk": 43
     },
     {
-      "Action": "Reflects on the outcome acknowledging that despite efforts, the situation ended tragically, showing realistic self-awareness.",
-      "Competence": 1,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "Analyzes the discrepancy between the official plan and what actually happened, noting that the plan Callo was told and the real plan may differ.",
+      "assessment": "This shows Conners's critical thinking and awareness that official narratives may be misleading, indicating a thoughtful and analytical approach.",
+      "rating": 2,
+      "chunk": 43
     },
     {
-      "Action": "Positions himself strategically in hiding spots during surveillance of the house, indicating tactical skill.",
-      "Competence": 1,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "Acknowledges the temptations cops face and admits that resisting them is difficult, showing self-awareness.",
+      "assessment": "This reflects emotional intelligence and honesty about human weaknesses, which can be a sign of maturity and realistic judgment.",
+      "rating": 1,
+      "chunk": 43
     },
     {
-      "Action": "Uses firm but calm communication over radio to manage situation; attempts to keep line clear and instructs others to relax.",
-      "Warmth": 1,
-      "Chunk": 56
+      "trait": "competence",
+      "action": "Responds to Dekker's skepticism about the bank break-in and theft by stating 'Nothing about today makes sense.'",
+      "assessment": "While this shows honesty and caution in not jumping to conclusions, it also suggests some confusion or lack of clarity about the situation, indicating a momentary gap in understanding.",
+      "rating": 0,
+      "chunk": 43
     },
     {
-      "Action": "Expresses frustration calling someone 'this prick', but immediately shifts focus to situation.",
-      "Warmth": 0,
-      "Chunk": 56
+      "trait": "warmth",
+      "action": "Tells Dax to 'Shutup' during the review of security tapes.",
+      "assessment": "Conners's abrupt command to 'Shutup' comes across as brusque and dismissive, indicating impatience and a lack of tact or friendliness in this interaction.",
+      "rating": -2,
+      "chunk": 44
     },
     {
-      "Action": "Gives clear orders over the radio to hold position and keep the line free, exhibiting control over the situation.",
-      "Competence": 1,
-      "Chunk": 56
+      "trait": "warmth",
+      "action": "Shares a confused look with Jenkins when Dekker speaks cryptically.",
+      "assessment": "The shared confused look suggests Conners is open to nonverbal communication and connection with a colleague, showing some degree of social attunement and tolerance.",
+      "rating": 1,
+      "chunk": 44
     },
     {
-      "Action": "Refuses to rush the operation despite pressure from others to act immediately, showing disciplined judgment.",
-      "Competence": 1,
-      "Chunk": 56
+      "trait": "competence",
+      "action": "Tells Dax to 'Shutup' when he is stuck reviewing the tapes repeatedly.",
+      "assessment": "This brusque interruption suggests impatience and a lack of collaborative problem-solving, which may hinder effective teamwork and thorough analysis.",
+      "rating": -1,
+      "chunk": 44
     },
     {
-      "Action": "Mentions being out of gum in a tense moment, which slightly undercuts his professionalism but is a minor, humanizing detail.",
-      "Competence": 0,
-      "Chunk": 56
+      "trait": "competence",
+      "action": "Engages with Dekker and Dax in reviewing security footage and responds quickly to new observations.",
+      "assessment": "Conners shows active involvement and situational awareness by participating in the analysis of the security tapes, indicating attentiveness and a proactive approach.",
+      "rating": 1,
+      "chunk": 44
     },
     {
-      "Action": "Decides to hold position and wait despite pressure to act immediately.",
-      "Competence": 1,
-      "Chunk": 57
+      "trait": "competence",
+      "action": "Initially dismisses Dekker's suggestion to look closely at the camera angles and the fixed nature of the cameras.",
+      "assessment": "His initial confusion and questioning of Dekker's insight may indicate some hesitation or lack of immediate insight, reflecting a moderate level of competence.",
+      "rating": 0,
+      "chunk": 44
     },
     {
-      "Action": "Communicates clearly about available backup and coordinates a tactical approach.",
-      "Competence": 1,
-      "Chunk": 57
+      "trait": "warmth",
+      "action": "Responds to Dekker's concern about threats by saying, 'If I worried about every threat made against me, I'd never leave the house.'",
+      "assessment": "This response shows a pragmatic and somewhat stoic attitude rather than warmth; it neither reassures nor connects emotionally with Dekker's concern, indicating a neutral to slightly low warmth level.",
+      "rating": 0,
+      "chunk": 45
     },
     {
-      "Action": "Commands his team to take suspects alive despite the violent situation.",
-      "Warmth": 1,
-      "Chunk": 58
+      "trait": "warmth",
+      "action": "Looks impressed and acknowledges the forensics technician's work with a positive comment.",
+      "assessment": "Showing appreciation for a colleague's work is a friendly and respectful behavior, indicating some degree of warmth and sincerity.",
+      "rating": 2,
+      "chunk": 45
     },
     {
-      "Action": "Points for Dekker to take a different path, showing tactical concern for teammate's safety.",
-      "Warmth": 1,
-      "Chunk": 58
+      "trait": "warmth",
+      "action": "Invites Dekker to an Italian restaurant by asking, 'You like Italian?'",
+      "assessment": "Inviting a colleague to eat together is a friendly and inclusive gesture, reflecting warmth and a desire to build rapport.",
+      "rating": 3,
+      "chunk": 45
     },
     {
-      "Action": "Expresses frustration with 'trigger happy, Sons of bitches!' indicating intolerance for recklessness.",
-      "Warmth": 1,
-      "Chunk": 58
+      "trait": "competence",
+      "action": "Notices that the security camera was moved to hide something and directs attention to the computer terminal in the corner.",
+      "assessment": "This shows keen observational skills and an ability to deduce that someone is trying to conceal evidence, indicating situational awareness and investigative competence.",
+      "rating": 2,
+      "chunk": 45
     },
     {
-      "Action": "Commands taking suspects alive confidently and coordinates with team.",
-      "Competence": 1,
-      "Chunk": 58
+      "trait": "competence",
+      "action": "Responds calmly to the threat of a potential attacker by stating he wouldn't worry about every threat or never leave the house.",
+      "assessment": "This demonstrates emotional resilience and confidence, traits associated with competent professionals who maintain focus under pressure.",
+      "rating": 2,
+      "chunk": 45
     },
     {
-      "Action": "Points for Dekker to move cautiously in opposite directions, showing tactical awareness.",
-      "Competence": 1,
-      "Chunk": 58
+      "trait": "competence",
+      "action": "Prioritizes the fingerprints found on the keyboard as 'priority one' and demands an immediate ID if the suspect has a record.",
+      "assessment": "This shows decisiveness and an understanding of investigative priorities, reflecting competence in managing a case efficiently.",
+      "rating": 2,
+      "chunk": 45
     },
     {
-      "Action": "Hears shots and runs out of the room to engage in the conflict, showing readiness to help.",
-      "Warmth": 1,
-      "Chunk": 59
+      "trait": "competence",
+      "action": "Asks Dax to hack into the bank's central computer system to find out what was done on the machine.",
+      "assessment": "Delegating technical tasks to the appropriate expert shows good judgment and leadership, indicating competent management of resources.",
+      "rating": 2,
+      "chunk": 45
     },
     {
-      "Action": "Warns Dekker by shouting 'GUN!' when Lamar Galt appears with a weapon, alerting others to danger.",
-      "Warmth": 1,
-      "Chunk": 59
+      "trait": "competence",
+      "action": "When asked what to do while waiting for results, he suggests going out for Italian food.",
+      "assessment": "This could be seen as a way to maintain morale and composure, but also might suggest a casual or relaxed attitude in a tense situation; overall, it reflects confidence but could be interpreted as slightly dismissive.",
+      "rating": 1,
+      "chunk": 45
     },
     {
-      "Action": "Pushes Dekker out of the way to protect him from gunfire, risking his own safety.",
-      "Warmth": 1,
-      "Chunk": 59
+      "trait": "warmth",
+      "action": "Invites more people than initially expected to join at the restaurant, indicating inclusiveness.",
+      "assessment": "Inviting additional companions shows a friendly and inclusive nature, fostering camaraderie.",
+      "rating": 2,
+      "chunk": 46
     },
     {
-      "Action": "Pursues the armed assailant after being fired upon, showing determination and protective intent.",
-      "Warmth": 1,
-      "Chunk": 59
+      "trait": "warmth",
+      "action": "Negotiates for a little wine despite being on duty, balancing professionalism with enjoying the moment.",
+      "assessment": "This suggests a relaxed, good-natured approach to socializing, showing warmth in maintaining morale without disregarding responsibilities.",
+      "rating": 1,
+      "chunk": 46
     },
     {
-      "Action": "Struggles physically with Lamar Galt in self-defense during a fight.",
-      "Warmth": 0,
-      "Chunk": 60
+      "trait": "warmth",
+      "action": "Shares an anecdote with colleagues, even though they have heard it before.",
+      "assessment": "Repeating a story to entertain or bond with others reflects a sincere effort to connect and maintain friendly relations.",
+      "rating": 2,
+      "chunk": 46
     },
     {
-      "Action": "Leans over the injured Galt, checks for a pulse, shows situational awareness and tries to assess the situation after the explosion.",
-      "Competence": 1,
-      "Chunk": 61
+      "trait": "warmth",
+      "action": "Refers to a young man as 'Big Brother' despite not being related.",
+      "assessment": "Using a familial term metaphorically suggests a warm, protective attitude toward others, indicating trust and closeness.",
+      "rating": 2,
+      "chunk": 46
     },
     {
-      "Action": "Does not evacuate the building immediately despite the visible fire and danger signs, leading to his implied death in the second explosion.",
-      "Competence": -1,
-      "Chunk": 61
+      "trait": "competence",
+      "action": "Negotiates with the Italian host to get a good table and a little wine despite being on duty.",
+      "assessment": "This shows social skill and subtle assertiveness, balancing professionalism with camaraderie, indicating competent interpersonal behavior.",
+      "rating": 2,
+      "chunk": 46
     },
     {
-      "Action": "Dies in the line of duty as a detective, badge still visible on his burnt body, implying dedication and sincerity.",
-      "Warmth": 1,
-      "Chunk": 62
+      "trait": "competence",
+      "action": "Engages in lighthearted conversation and storytelling with colleagues, maintaining a positive group atmosphere.",
+      "assessment": "This demonstrates emotional intelligence and leadership in fostering team morale, a sign of competent social and group management.",
+      "rating": 2,
+      "chunk": 46
     },
     {
-      "Action": "Is found dead, badly burnt at a crime scene; no direct display of skills or competent behavior in this excerpt.",
-      "Competence": 0,
-      "Chunk": 62
+      "trait": "warmth",
+      "action": "Stares curiously at his new partner before excusing himself to go to the men's room.",
+      "assessment": "Curious observation of a new partner suggests some openness, but the quick exit without further interaction may indicate a reserved or distant demeanor.",
+      "rating": 0,
+      "chunk": 47
     },
     {
-      "Action": "Was right about not going into the situation; warns against mistakes.",
-      "Competence": 1,
-      "Chunk": 63
+      "trait": "warmth",
+      "action": "Vincent defends Conners, saying he was in control when others panicked and that their tie to him is stronger despite recent troubles.",
+      "assessment": "Though this is Vincent's statement, it reflects positively on Conners' reliability and trustworthiness, which are components of warmth; however, Conners himself does not actively demonstrate warmth in this excerpt.",
+      "rating": 1,
+      "chunk": 47
     },
     {
-      "Action": "No direct actions or statements by Quentin Conners in the excerpt; mostly interactions and discoveries by other characters.",
-      "Competence": 0,
-      "Chunk": 66
+      "trait": "competence",
+      "action": "Even when things got pretty wild today and everyone else panicked, he was in control.",
+      "assessment": "This statement from a colleague indicates that Conners maintains composure and control under pressure, a strong indicator of competence.",
+      "rating": 3,
+      "chunk": 47
     },
     {
-      "Action": "Approaches an armed kidnapper with gun drawn and shoots, ending the immediate threat.",
-      "Competence": 1,
-      "Chunk": 67
+      "trait": "competence",
+      "action": "Conners stares curiously at his new partner. Then excuses himself to go to the men's room.",
+      "assessment": "This action shows a moment of withdrawal or hesitation, which may suggest some social discomfort or lack of immediate confidence in a new situation, a mild negative indicator.",
+      "rating": -1,
+      "chunk": 47
     },
     {
-      "Action": "Is described as being pursued yet staying two steps ahead during the day, indicating strategic thinking and adaptation.",
-      "Competence": 1,
-      "Chunk": 68
+      "trait": "warmth",
+      "action": "Breaks the passionate kiss with Teddy and tells her 'It's too late. You've made your choice. Live with it.'",
+      "assessment": "Conners responds to Teddy's emotional advance with a cold, hurtful remark, showing little empathy or kindness in a vulnerable moment.",
+      "rating": -2,
+      "chunk": 48
     },
     {
-      "Action": "Is revealed to have a complicated past involving an incident on Pearl Street Bridge where he asserts control and commands a dangerous standoff confidently.",
-      "Competence": 1,
-      "Chunk": 68
+      "trait": "warmth",
+      "action": "Expresses disgust upon learning the identity of Chris Lei, calling him a 'Sonofabitch' and later harshly criticizes Lei's character and intelligence.",
+      "assessment": "Conners's harsh judgment and use of derogatory language reflect a lack of tolerance and friendliness, indicating low warmth.",
+      "rating": -2,
+      "chunk": 48
     },
     {
-      "Action": "Fails to prevent a tense standoff from escalating, showing possible limits in negotiation under pressure.",
-      "Competence": 0,
-      "Chunk": 68
+      "trait": "competence",
+      "action": "Breaks off a passionate kiss with Teddy quickly and coldly, then delivers a cutting remark about her choice.",
+      "assessment": "Conners demonstrates emotional control and decisiveness, indicating a capacity to separate personal feelings from professional or situational priorities, which suggests competence in managing interpersonal conflict.",
+      "rating": 2,
+      "chunk": 48
     },
     {
-      "Action": "Fires and kills John Curtis, stopping an immediate threat with accuracy and decisiveness.",
-      "Competence": 1,
-      "Chunk": 69
+      "trait": "competence",
+      "action": "Immediately asks Dekker for the name after hearing they got a match on fingerprints.",
+      "assessment": "This shows Conners's focus and quick engagement with relevant information, reflecting alertness and procedural efficiency.",
+      "rating": 2,
+      "chunk": 48
     },
     {
-      "Action": "Witnesses an innocent being killed by a colleague's bullet and appears horrified, indicating emotional response but no immediate corrective action shown.",
-      "Competence": 0,
-      "Chunk": 69
+      "trait": "competence",
+      "action": "Reviews Chris Lei's file with Dekker and provides a concise, informed summary of Lei's criminal history.",
+      "assessment": "Conners displays knowledge of the case and the suspect, indicating thoroughness and familiarity with his work, which are positive indicators of competence.",
+      "rating": 2,
+      "chunk": 48
     },
     {
-      "Action": "Something not described or shown in this excerpt; Quentin Conners does not appear or act.",
-      "Competence": 0,
-      "Chunk": 71
+      "trait": "competence",
+      "action": "Expresses disgust and frustration at the suspect's foolishness despite his intelligence.",
+      "assessment": "While this shows emotional investment and critical thinking, the use of derogatory language and emotional judgment could cloud objective analysis, slightly detracting from professional competence.",
+      "rating": 0,
+      "chunk": 48
     },
     {
-      "Action": "Mentioned by York as someone who would be sorry if Dekker died, implying respect or recognition of Conners' importance or capability.",
-      "Competence": 1,
-      "Chunk": 73
+      "trait": "warmth",
+      "action": "Admits that the suspect was guilty and calls him 'scum'.",
+      "assessment": "Calling someone 'scum' shows a harsh, judgmental attitude rather than tolerance or friendliness.",
+      "rating": -1,
+      "chunk": 49
     },
     {
-      "Action": "Not directly shown acting or speaking in this excerpt; his competence is only alluded to indirectly.",
-      "Competence": 0,
-      "Chunk": 73
+      "trait": "warmth",
+      "action": "Explains that the system breaks down and that one must 'bend' rules to achieve justice.",
+      "assessment": "This pragmatic stance suggests a willingness to compromise principles, which may indicate a complex moral code but does not directly reflect warmth or sincerity.",
+      "rating": 0,
+      "chunk": 49
     },
     {
-      "Action": "Drops a ten-dollar bill on the table, allowing Dekker to pick it up and pay with a twenty instead.",
-      "Warmth": 1,
-      "Chunk": 76
+      "trait": "competence",
+      "action": "Explains that the system breaks down and that one must bend rules to achieve justice.",
+      "assessment": "This shows a pragmatic understanding of systemic flaws and a willingness to adapt tactics to achieve goals, indicating practical intelligence and situational awareness.",
+      "rating": 2,
+      "chunk": 49
     },
     {
-      "Action": "Leaves a subtly marked ten dollar bill on the table to signal or leave a clue for Dekker.",
-      "Competence": 1,
-      "Chunk": 76
+      "trait": "competence",
+      "action": "Acknowledges that the suspect was guilty despite the legal failure to convict.",
+      "assessment": "Demonstrates clarity of judgment and confidence in his assessment of the case, reflecting competence in evaluating evidence and outcomes.",
+      "rating": 2,
+      "chunk": 49
     },
     {
-      "Action": "Has his apartment in disarray with papers and books littered, possibly indicating disorganization or chaos in his personal space.",
-      "Competence": -1,
-      "Chunk": 76
+      "trait": "competence",
+      "action": "Arrives at Chris's house with Dekker to conduct surveillance and presumably make an arrest.",
+      "assessment": "Shows initiative and operational capability in tracking a suspect, suggesting effective investigative skills and coordination.",
+      "rating": 2,
+      "chunk": 49
     },
     {
-      "Action": "Quotes a philosophical passage to Dekker, tries to engage him thoughtfully.",
-      "Warmth": 1,
-      "Chunk": 77
+      "trait": "warmth",
+      "action": "Checks Chris's dead body for a pulse upon finding him.",
+      "assessment": "Checking for a pulse shows a basic level of concern and care for another person, indicating some degree of sincerity and attentiveness.",
+      "rating": 1,
+      "chunk": 50
     },
     {
-      "Action": "Uses a disguise and calls Dekker anonymously, maintaining secrecy and distance.",
-      "Warmth": -1,
-      "Chunk": 77
+      "trait": "warmth",
+      "action": "Moves cautiously and professionally with Dekker during the house entry and search.",
+      "assessment": "While this demonstrates professionalism and teamwork, it does not necessarily reflect warmth, but rather competence and caution.",
+      "rating": 0,
+      "chunk": 50
     },
     {
-      "Action": "Admits 'to err is human'—shows humility and self-recognition.",
-      "Warmth": 1,
-      "Chunk": 77
+      "trait": "competence",
+      "action": "Conners and Dekker move through the house like veteran partners, showing coordinated tactics and clear communication.",
+      "assessment": "This indicates that Conners is experienced, skilled, and confident in tactical operations, demonstrating high competence.",
+      "rating": 3,
+      "chunk": 50
     },
     {
-      "Action": "Uses a meaningful philosophical reference ('Surangama Sutra') on the phone to provoke thought and possibly mislead or distract Dekker, demonstrating strategic thinking and composure.",
-      "Competence": 1,
-      "Chunk": 77
+      "trait": "competence",
+      "action": "Conners motions to take the upstairs while signaling Dekker to cover the back of the house.",
+      "assessment": "This shows good situational awareness and leadership, delegating roles effectively under pressure.",
+      "rating": 2,
+      "chunk": 50
     },
     {
-      "Action": "Keeps his location hidden from Dekker despite surveillance efforts, suggesting effective evasive skills.",
-      "Competence": 1,
-      "Chunk": 77
+      "trait": "competence",
+      "action": "Upon finding Chris's dead body, Conners checks for a pulse and immediately notices a shadowy figure behind Dekker on the monitor.",
+      "assessment": "This reflects alertness, quick thinking, and the ability to multitask under stress, reinforcing his competence.",
+      "rating": 3,
+      "chunk": 50
     },
     {
-      "Action": "Admits 'to err is human' after being caught, showing a degree of self-awareness but also a candidness that might undermine his cover.",
-      "Competence": 0,
-      "Chunk": 77
+      "trait": "competence",
+      "action": "Dives and tackles Dekker behind the living room wall to avoid gunfire from Lorenz.",
+      "assessment": "This action demonstrates quick reflexes, situational awareness, and a willingness to take physical initiative under fire, indicating competent tactical behavior.",
+      "rating": 2,
+      "chunk": 51
     },
     {
-      "Action": "Admits to a mistake regarding a phone call.",
-      "Warmth": 1,
-      "Chunk": 78
+      "trait": "competence",
+      "action": "Fires four rounds at Lorenz after regrouping behind cover.",
+      "assessment": "Shows ability to maintain composure and respond with controlled aggression in a high-stress situation, reflecting competent marksmanship and tactical response.",
+      "rating": 2,
+      "chunk": 51
     },
     {
-      "Action": "Acknowledges the contributions of his team rather than taking sole credit.",
-      "Warmth": 1,
-      "Chunk": 78
+      "trait": "competence",
+      "action": "Emerges from the house with Dekker and immediately takes cover when Lorenz opens fire again.",
+      "assessment": "Demonstrates prudent risk assessment and adherence to cover tactics, indicating competent field awareness.",
+      "rating": 2,
+      "chunk": 51
     },
     {
-      "Action": "Pushes Dekker out of the way to save him from falling down the stairs.",
-      "Warmth": 1,
-      "Chunk": 78
+      "trait": "competence",
+      "action": "Runs out the back fence after Lorenz escapes in the Mercedes-Benz.",
+      "assessment": "While showing persistence in pursuit, the failure to prevent Lorenz's escape may suggest some limitations in strategic planning or coordination, though this may be due to external factors.",
+      "rating": 0,
+      "chunk": 51
     },
     {
-      "Action": "Says 'She'll get over it' about Teddy being devastated.",
-      "Warmth": -1,
-      "Chunk": 78
+      "trait": "warmth",
+      "action": "Approaches Dekker's injured shoulder and makes a lighthearted comment: 'First day in the city and you've already been shot.'",
+      "assessment": "Conners attempts to ease tension with humor, showing a friendly and approachable demeanor despite the stressful situation.",
+      "rating": 2,
+      "chunk": 52
     },
     {
-      "Action": "Admits his own mistake about a phone call, showing accountability.",
-      "Competence": 1,
-      "Chunk": 78
+      "trait": "warmth",
+      "action": "Tells the uniformed officers to 'Take five, guys' and has them exit the room before speaking privately to Damon Richards.",
+      "assessment": "Conners shows respect for privacy and a considerate approach by removing others before engaging with the patient, indicating trustworthiness and sincerity.",
+      "rating": 2,
+      "chunk": 52
     },
     {
-      "Action": "Uses a voice modulator to conceal his identity on a phone call, demonstrating tactical skill.",
-      "Competence": 1,
-      "Chunk": 78
+      "trait": "warmth",
+      "action": "Leans over Damon Richards' hospital bed and greets him warmly: 'Hiya, Damon. How you feeling?'",
+      "assessment": "Conners demonstrates a friendly and caring attitude toward a vulnerable individual, suggesting genuine concern and warmth.",
+      "rating": 3,
+      "chunk": 52
     },
     {
-      "Action": "Explains the importance of leaving room for error in plans, showing understanding of complexity and foresight.",
-      "Competence": 1,
-      "Chunk": 78
+      "trait": "competence",
+      "action": "Tells the officers to 'take five' and locks the door before speaking privately to Damon Richards.",
+      "assessment": "This shows Conners' confidence and control over the situation, indicating he understands protocol and how to manage sensitive interactions effectively.",
+      "rating": 2,
+      "chunk": 52
     },
     {
-      "Action": "Attributes success to gathering information from multiple sources regardless of unpleasant methods, showing pragmatism and effective intelligence gathering.",
-      "Competence": 1,
-      "Chunk": 78
+      "trait": "competence",
+      "action": "Approaches the injured Dekker and makes a light, somewhat reassuring comment about being shot on the first day.",
+      "assessment": "This suggests Conners is composed under pressure and attempts to maintain morale, reflecting emotional intelligence and situational awareness.",
+      "rating": 1,
+      "chunk": 52
     },
     {
-      "Action": "Pushes Dekker out of harm’s way at the last moment, preventing injury and acting decisively under pressure.",
-      "Competence": 1,
-      "Chunk": 78
+      "trait": "competence",
+      "action": "Concedes the floor to Dekker when asked to speak to Richards.",
+      "assessment": "This indicates Conners is cooperative and respects team dynamics, which is a positive aspect of competence in collaborative environments.",
+      "rating": 1,
+      "chunk": 52
     },
     {
-      "Action": "Comments that Teddy will get over Conners' death, showing emotional detachment or insensitivity.",
-      "Competence": -1,
-      "Chunk": 78
+      "trait": "warmth",
+      "action": "Calls Dekker a 'fuckin' hypocrite' for threatening a suspect with a lethal overdose during interrogation.",
+      "assessment": "Conners criticizes Dekker's harsh interrogation tactics, implying a more restrained approach, which suggests some level of professional integrity but also a confrontational and abrasive manner.",
+      "rating": 0,
+      "chunk": 53
     },
     {
-      "Action": "Leans over Galt, checks for pulse, acknowledges Galt is dead.",
-      "Warmth": 1,
-      "Chunk": 79
+      "trait": "competence",
+      "action": "Checks the label on the vial handed to him by Dekker and smiles after confirming it is saline, not morphine.",
+      "assessment": "This shows Conners's attention to detail and ability to verify critical information before acting, indicating a high level of competence and confidence.",
+      "rating": 2,
+      "chunk": 53
     },
     {
-      "Action": "Uses a corpse and his badge as a disguise to aid escape.",
-      "Warmth": 0,
-      "Chunk": 79
+      "trait": "competence",
+      "action": "Engages in a verbal exchange with Dekker about interrogation tactics, defending his own skills.",
+      "assessment": "Conners demonstrates self-awareness and confidence in his professional abilities, suggesting competence in his role.",
+      "rating": 1,
+      "chunk": 53
     },
     {
-      "Action": "Sets off explosions strategically while escaping.",
-      "Warmth": 0,
-      "Chunk": 79
+      "trait": "warmth",
+      "action": "Reflects on the repercussions of his actions on the suspect's family, mentioning the suspect's mother, father, and brother.",
+      "assessment": "This shows a degree of empathy and awareness of the human impact of his decisions, indicating some warmth.",
+      "rating": 2,
+      "chunk": 54
     },
     {
-      "Action": "Uses a remote detonator skillfully to trigger explosions in sequence, creating a controlled incendiary event.",
-      "Competence": 1,
-      "Chunk": 79
+      "trait": "warmth",
+      "action": "Displays intense focus and determination while driving to confront dangerous criminals.",
+      "assessment": "While this shows commitment and seriousness, it does not directly indicate warmth; it is more neutral or professional.",
+      "rating": 0,
+      "chunk": 54
     },
     {
-      "Action": "Assesses a wounded/dead ally and confirms death quickly, adapting to the situation.",
-      "Competence": 1,
-      "Chunk": 79
+      "trait": "competence",
+      "action": "Listens attentively to Jenkins' briefing about the case and the suspects.",
+      "assessment": "Conners demonstrates professional focus and situational awareness by absorbing critical information about the case and potential threats.",
+      "rating": 2,
+      "chunk": 54
     },
     {
-      "Action": "Impersonates a corpse by hooking his badge onto a dead body to avoid detection.",
-      "Competence": 1,
-      "Chunk": 79
+      "trait": "competence",
+      "action": "Drives with intense focus while discussing the emotional weight of his decisions.",
+      "assessment": "Shows ability to maintain operational control and composure under stress, indicating strong multitasking and emotional regulation skills.",
+      "rating": 2,
+      "chunk": 54
     },
     {
-      "Action": "Executes a risky escape by sliding down a laundry chute onto a mattress, showing careful preparation.",
-      "Competence": 1,
-      "Chunk": 79
+      "trait": "competence",
+      "action": "Reflects on the consequences of his actions and the suspect's mindset during the flashback.",
+      "assessment": "This introspection suggests a thoughtful and experienced approach to law enforcement, enhancing his decision-making capabilities.",
+      "rating": 1,
+      "chunk": 54
     },
     {
-      "Action": "Keeps a fireman’s raincoat and helmet in a trunk for potential disguise after the explosion.",
-      "Competence": 1,
-      "Chunk": 79
+      "trait": "warmth",
+      "action": "Tries to save the girl on the bridge by confronting the kidnapper and firing his weapon.",
+      "assessment": "Conners's attempt to save the girl shows a protective and courageous side, indicating a sincere desire to help others even at personal risk.",
+      "rating": 2,
+      "chunk": 55
     },
     {
-      "Action": "Justifies killing criminals by labeling them as 'hoods' and claims the world is safer with them gone.",
-      "Warmth": -1,
-      "Chunk": 80
+      "trait": "warmth",
+      "action": "Reflects on the idea that being present gave the girl a chance to live.",
+      "assessment": "This reflection reveals Conners's empathy and recognition of the value of trying to help others, even when outcomes are uncertain.",
+      "rating": 2,
+      "chunk": 55
     },
     {
-      "Action": "Shows no remorse for killing, considers the killing a necessary commitment; blames a third party (Callo) for causing their actions.",
-      "Warmth": -1,
-      "Chunk": 80
+      "trait": "competence",
+      "action": "Aims his gun and fires at the kidnapper on the bridge under heavy rain.",
+      "assessment": "This action demonstrates Conners's ability to maintain focus and take decisive action under stressful and adverse conditions, indicating skill and confidence.",
+      "rating": 2,
+      "chunk": 55
     },
     {
-      "Action": "Speaks with a cold rationality about his crimes and money laundering with no empathy or friendliness.",
-      "Warmth": -1,
-      "Chunk": 80
+      "trait": "competence",
+      "action": "Reflects on the outcome of the shooting and acknowledges that despite his efforts, the girl still died.",
+      "assessment": "This shows self-awareness and realistic appraisal of his actions, which is a sign of mature competence rather than overconfidence or denial.",
+      "rating": 1,
+      "chunk": 55
     },
     {
-      "Action": "Explains his rationale for killing, showing a clear and calculated mindset about his actions and consequences.",
-      "Competence": 1,
-      "Chunk": 80
+      "trait": "competence",
+      "action": "Positions himself and Dekker in various hiding spots around the target house, observing patiently.",
+      "assessment": "This indicates tactical patience and strategic thinking, suggesting competence in planning and reconnaissance.",
+      "rating": 2,
+      "chunk": 55
     },
     {
-      "Action": "Acknowledges the complexity of his plans, referencing Chaos Theory and deliberate steps taken to avoid detection.",
-      "Competence": 1,
-      "Chunk": 80
+      "trait": "warmth",
+      "action": "Tells Dekker 'This prick's driving me crazy.'",
+      "assessment": "Using a harsh term toward a colleague indicates irritation and a lack of patience, which suggests lower warmth in this moment.",
+      "rating": -1,
+      "chunk": 56
     },
     {
-      "Action": "Confidently asserts that he will not make the same mistakes as others, demonstrating self-assuredness and commitment.",
-      "Competence": 1,
-      "Chunk": 80
+      "trait": "warmth",
+      "action": "Remains calm and instructs team to 'relax and keep the line free.'",
+      "assessment": "Encouraging calm and clear communication shows some degree of consideration and leadership, reflecting moderate warmth.",
+      "rating": 1,
+      "chunk": 56
     },
     {
-      "Action": "Admits to deliberately sabotaging a trial, indicating willingness to manipulate systems to his advantage.",
-      "Competence": 1,
-      "Chunk": 80
+      "trait": "warmth",
+      "action": "Orders team to hold position and 'No one move.'",
+      "assessment": "Maintaining control and protecting team members by preventing rash actions can be seen as responsible and caring, indicating moderate warmth.",
+      "rating": 2,
+      "chunk": 56
     },
     {
-      "Action": "Justifies killing 'hoods' as making the world safer, revealing a moral blindness but also a strategic worldview.",
-      "Competence": 0,
-      "Chunk": 80
+      "trait": "competence",
+      "action": "Takes charge over radio communications, instructing others to hold position and keep the line free.",
+      "assessment": "This shows Conners's ability to maintain control and command in a tense situation, indicating confidence and leadership skills.",
+      "rating": 2,
+      "chunk": 56
     },
     {
-      "Action": "Says 'Besides... you kinda grew on me.' to Dekker, indicating a reluctant or grudging affection.",
-      "Warmth": 1,
-      "Chunk": 81
+      "trait": "competence",
+      "action": "Dismisses Det. Branch's urgency to act immediately, ordering a stand down instead.",
+      "assessment": "This suggests Conners is exercising restraint and strategic patience, which can be a sign of competent decision-making under pressure.",
+      "rating": 2,
+      "chunk": 56
     },
     {
-      "Action": "States 'Everybody who screwed us, got screwed. Everything in its right place,' showing a harsh, unforgiving attitude.",
-      "Warmth": -1,
-      "Chunk": 81
+      "trait": "competence",
+      "action": "Momentarily distracted by realizing he is out of gum during a critical operation.",
+      "assessment": "This minor distraction indicates a slight lapse in focus, though it is trivial and does not significantly undermine his overall competence.",
+      "rating": -1,
+      "chunk": 56
     },
     {
-      "Action": "Refers to himself as an opportunist and acknowledges a breakup of trust with the system, showing some sincerity about his motivations.",
-      "Warmth": 0,
-      "Chunk": 81
+      "trait": "competence",
+      "action": "Orders to stand down and wait instead of rushing in despite pressure from Vincent to act immediately.",
+      "assessment": "Conners demonstrates calm judgment and control over the situation, showing strategic patience and command presence.",
+      "rating": 2,
+      "chunk": 57
+    },
+    {
+      "trait": "competence",
+      "action": "Coordinates positioning of three cars and uniformed backup in all directions, insisting on waiting for Curtis before entering the house.",
+      "assessment": "This shows Conners's tactical awareness and ability to organize resources effectively, indicating strong operational competence.",
+      "rating": 3,
+      "chunk": 57
+    },
+    {
+      "trait": "competence",
+      "action": "Maintains command and control over the operation despite escalating violence and casualties among his team.",
+      "assessment": "His ability to hold the line and not lose composure under fire suggests resilience and leadership competence.",
+      "rating": 2,
+      "chunk": 57
+    },
+    {
+      "trait": "warmth",
+      "action": "Says 'We take them alive!' while converging on the house with his team.",
+      "assessment": "Expressing a desire to capture rather than kill indicates a level of restraint and respect for life, suggesting some measure of empathy and responsibility.",
+      "rating": 2,
+      "chunk": 58
+    },
+    {
+      "trait": "warmth",
+      "action": "Points for Dekker to go in the other direction during the search.",
+      "assessment": "Coordinating carefully with his team shows consideration and trust in others, reflecting cooperative and respectful behavior.",
+      "rating": 1,
+      "chunk": 58
+    },
+    {
+      "trait": "warmth",
+      "action": "Calls others 'Trigger happy, Sons of bitches!' in the car.",
+      "assessment": "Using harsh language toward his own team may indicate frustration but also a critical attitude toward reckless behavior, which could be protective but also abrasive.",
+      "rating": 0,
+      "chunk": 58
+    },
+    {
+      "trait": "competence",
+      "action": "Commands his team to take the suspects alive despite the chaos.",
+      "assessment": "This shows leadership and a controlled approach under pressure, indicating competence in command and decision-making.",
+      "rating": 2,
+      "chunk": 58
+    },
+    {
+      "trait": "competence",
+      "action": "Moves carefully upstairs and directs Dekker to split up and search different directions.",
+      "assessment": "This demonstrates tactical awareness and strategic thinking, reflecting skill and intelligence in managing a search operation.",
+      "rating": 2,
+      "chunk": 58
+    },
+    {
+      "trait": "competence",
+      "action": "Enters the first bedroom to check it out personally.",
+      "assessment": "Taking initiative to personally inspect areas shows confidence and hands-on involvement, a positive indicator of competence.",
+      "rating": 1,
+      "chunk": 58
+    },
+    {
+      "trait": "warmth",
+      "action": "Conners pushes Dekker out of the way to protect him from Lamar Galt's gunfire, taking the risk himself.",
+      "assessment": "This action demonstrates selflessness and protective instincts toward a comrade, indicating a degree of care and concern for others' safety.",
+      "rating": 2,
+      "chunk": 59
+    },
+    {
+      "trait": "warmth",
+      "action": "Conners runs out of the room upon hearing gunshots rather than immediately engaging or assisting.",
+      "assessment": "While this could be interpreted as caution or fear, the lack of immediate protective or supportive action may suggest some hesitation or self-preservation over active support.",
+      "rating": -1,
+      "chunk": 59
+    },
+    {
+      "trait": "competence",
+      "action": "Hears the shots and immediately runs out of the room to respond to the situation.",
+      "assessment": "This shows alertness and readiness to engage, indicating situational awareness and prompt reaction.",
+      "rating": 2,
+      "chunk": 59
+    },
+    {
+      "trait": "competence",
+      "action": "Notices Lamar Galt aiming a weapon behind Dekker and shouts a warning 'GUN!'",
+      "assessment": "This demonstrates keen observation skills and quick communication to alert others of danger.",
+      "rating": 3,
+      "chunk": 59
+    },
+    {
+      "trait": "competence",
+      "action": "Pushes Dekker out of the way just in time to avoid being shot, taking the risk himself.",
+      "assessment": "This action shows quick reflexes, courage, and protective instincts, all indicators of competence under pressure.",
+      "rating": 3,
+      "chunk": 59
+    },
+    {
+      "trait": "competence",
+      "action": "Fires at Lamar Galt after being shot at until Galt runs out of bullets, then pursues him.",
+      "assessment": "This shows persistence, tactical engagement, and willingness to follow through, reflecting confidence and skill in combat.",
+      "rating": 2,
+      "chunk": 59
+    },
+    {
+      "trait": "warmth",
+      "action": "Engages in a physical struggle with Lamar Galt, fighting to gain control of the situation.",
+      "assessment": "Conners's actions here are focused on self-defense and neutralizing a threat rather than showing warmth; no clear indication of friendliness or trustworthiness is evident in this violent confrontation.",
+      "rating": 0,
+      "chunk": 60
+    },
+    {
+      "trait": "competence",
+      "action": "Creeps inside the partially open doorway quietly before being tackled by Lamar Galt.",
+      "assessment": "Shows cautious and stealthy behavior, indicating situational awareness and tactical approach, though he is caught off guard by the sudden tackle.",
+      "rating": 1,
+      "chunk": 60
+    },
+    {
+      "trait": "competence",
+      "action": "Struggles with Lamar Galt, punches him, slams him against the wall, kicks out his legs to prevent Galt from gaining the upper hand.",
+      "assessment": "Demonstrates physical skill, fighting ability, and resilience under pressure, suggesting above-average combat competence.",
+      "rating": 2,
+      "chunk": 60
+    },
+    {
+      "trait": "competence",
+      "action": "Loses his gun during the initial tackle and is momentarily unable to regain control before Galt fights back.",
+      "assessment": "Losing his weapon early in the confrontation is a tactical disadvantage and indicates a lapse in control or preparedness.",
+      "rating": -1,
+      "chunk": 60
+    },
+    {
+      "trait": "warmth",
+      "action": "Leans over Galt, who has a giant gash across his forehead, and feels for a pulse.",
+      "assessment": "Conners shows concern and care for his injured companion, indicating attentiveness and compassion in a crisis.",
+      "rating": 2,
+      "chunk": 61
+    },
+    {
+      "trait": "warmth",
+      "action": "Looks into the hallway and sees the fire after confirming Galt is dead.",
+      "assessment": "Though the excerpt does not show further action, Conners's awareness of the danger suggests a protective instinct, but no direct warm action is evident here.",
+      "rating": 0,
+      "chunk": 61
+    },
+    {
+      "trait": "competence",
+      "action": "After the explosion, Conners quickly checks Galt for a pulse and confirms he is dead.",
+      "assessment": "This action shows Conners's presence of mind and ability to assess a critical situation calmly and efficiently, indicating competence in emergency response.",
+      "rating": 2,
+      "chunk": 61
+    },
+    {
+      "trait": "competence",
+      "action": "Conners is knocked off his feet and hits the floor hard during the explosion.",
+      "assessment": "While being physically overwhelmed by the blast is understandable, this moment highlights a vulnerability or lack of physical preparedness in a dangerous environment.",
+      "rating": -1,
+      "chunk": 61
+    },
+    {
+      "trait": "competence",
+      "action": "Conners looks into the hallway and sees the fire after confirming Galt is dead.",
+      "assessment": "This shows situational awareness and prioritization of threats, suggesting competent threat assessment under pressure.",
+      "rating": 1,
+      "chunk": 61
+    },
+    {
+      "trait": "warmth",
+      "action": "No direct actions or statements by Quentin Conners in this excerpt; he is shown posthumously as a respected and admired figure by others.",
+      "assessment": "Although Quentin Conners does not appear alive or active in this scene, the respect and admiration expressed by others (Teddy calling him a better man, Jenkins' jealousy, and the solemn handling of his body) imply that he was likely warm and well-regarded in life.",
+      "rating": 2,
+      "chunk": 62
+    },
+    {
+      "trait": "competence",
+      "action": "Is found dead, badly burnt, at the scene of a fire surrounded by emergency vehicles and police.",
+      "assessment": "The fact that Detective Conners is deceased and found in such a compromised state suggests a failure in either his situational awareness, personal safety measures, or ability to extricate himself from danger, indicating a significant lapse in competence.",
+      "rating": -3,
+      "chunk": 62
+    },
+    {
+      "trait": "competence",
+      "action": "Conners was right about the danger and the situation; he anticipated the threat that others did not.",
+      "assessment": "This indicates that Conners has good situational awareness and insight, showing intelligence and foresight in a complex scenario.",
+      "rating": 2,
+      "chunk": 63
+    },
+    {
+      "trait": "competence",
+      "action": "His accomplices were being eliminated, and others underestimated his capability to act decisively.",
+      "assessment": "This suggests Conners is capable and dangerous, able to take control and act effectively under pressure, which reflects competence.",
+      "rating": 2,
+      "chunk": 63
+    },
+    {
+      "trait": "competence",
+      "action": "Dekker reflects somberly on Conners' career, implying respect and recognition of his professional skill.",
+      "assessment": "The respect from peers and reflection on his career implies a history of competent behavior and professional capability.",
+      "rating": 2,
+      "chunk": 63
+    },
+    {
+      "trait": "warmth",
+      "action": "Approaches the kidnapper John Curtis with gun drawn to protect Lisa Reann, the victim, during a dangerous hostage situation.",
+      "assessment": "Conners's action to confront a dangerous criminal to protect a victim shows courage and a protective instinct, which can be seen as an expression of care and responsibility toward others.",
+      "rating": 2,
+      "chunk": 67
+    },
+    {
+      "trait": "competence",
+      "action": "Approaches an armed kidnapper holding a victim at gunpoint on a bridge, gun drawn, and fires, killing the kidnapper.",
+      "assessment": "This action demonstrates decisiveness, courage, and tactical skill in a high-pressure, life-threatening situation, indicating strong competence as a law enforcement officer.",
+      "rating": 3,
+      "chunk": 67
+    },
+    {
+      "trait": "warmth",
+      "action": "Commands York to drop the weapon and release Lisa, attempting to de-escalate a hostage situation.",
+      "assessment": "Conners shows concern for Lisa's safety and tries to protect her by urging the captors to release her, indicating a protective and sincere attitude.",
+      "rating": 2,
+      "chunk": 68
+    },
+    {
+      "trait": "competence",
+      "action": "Conners and York aim their guns at John Curtis, attempting to control a hostage situation on the Pearl Street Bridge.",
+      "assessment": "This action shows Conners's ability to maintain composure and tactical positioning in a high-stakes, dangerous scenario, indicating skill and confidence under pressure.",
+      "rating": 2,
+      "chunk": 68
+    },
+    {
+      "trait": "competence",
+      "action": "Conners commands John Curtis to drop his weapon and release the hostage.",
+      "assessment": "This demonstrates Conners's assertiveness and leadership in a crisis, reflecting his capability to take charge and attempt to de-escalate a volatile situation.",
+      "rating": 2,
+      "chunk": 68
+    },
+    {
+      "trait": "competence",
+      "action": "Conners tries to reason with John Curtis by pointing out the consequences of killing the hostage.",
+      "assessment": "This shows Conners's use of tactical communication and psychological insight to influence the adversary, indicating intelligence and strategic thinking.",
+      "rating": 2,
+      "chunk": 68
+    },
+    {
+      "trait": "competence",
+      "action": "Conners is described as being two steps behind the antagonist who has been outmaneuvering him all day.",
+      "assessment": "This suggests that despite his skills, Conners is currently being outsmarted and outpaced, indicating a limitation or lapse in his effectiveness during this pursuit.",
+      "rating": -1,
+      "chunk": 68
+    },
+    {
+      "trait": "competence",
+      "action": "Conners fires and kills John Curtis immediately after John turns to fire on the detectives.",
+      "assessment": "This action demonstrates Conners's quick reflexes, decisiveness, and marksmanship under pressure, indicating a high level of competence in a critical moment.",
+      "rating": 3,
+      "chunk": 69
+    },
+    {
+      "trait": "competence",
+      "action": "Conners and York look on in horror after York accidentally kills an innocent (Lisa).",
+      "assessment": "While the horror shows emotional response, there is no indication that Conners takes immediate corrective or strategic action to manage the fallout, suggesting a possible momentary lapse in control or preparedness.",
+      "rating": -1,
+      "chunk": 69
+    },
+    {
+      "trait": "competence",
+      "action": "Quentin Conners is not directly mentioned in this excerpt; the focus is on York and Dekker's confrontation.",
+      "assessment": "No direct actions or behaviors of Quentin Conners are present in this excerpt to assess competence.",
+      "rating": 0,
+      "chunk": 71
+    },
+    {
+      "trait": "competence",
+      "action": "No direct actions or statements by Quentin Conners are present in the excerpt.",
+      "assessment": "The excerpt does not provide any information about Quentin Conners's behavior, actions, or decisions, so no assessment of his competence can be made here.",
+      "rating": 0,
+      "chunk": 72
+    },
+    {
+      "trait": "warmth",
+      "action": "Drops a ten dollar bill on the table at the diner.",
+      "assessment": "Dropping money on the table without hesitation suggests a casual generosity and willingness to share resources, indicating a friendly and good-natured behavior.",
+      "rating": 2,
+      "chunk": 76
+    },
+    {
+      "trait": "warmth",
+      "action": "Allows Dekker to pick up the ten dollar bill and replace it with a twenty.",
+      "assessment": "This action shows trust and a non-possessive attitude, implying sincerity and a friendly rapport with Dekker.",
+      "rating": 2,
+      "chunk": 76
+    },
+    {
+      "trait": "warmth",
+      "action": "No direct verbal interaction or explicit friendly gestures shown in the excerpt.",
+      "assessment": "The lack of explicit verbal warmth or friendly dialogue limits the ability to fully assess warmth; the actions are positive but somewhat reserved.",
+      "rating": 1,
+      "chunk": 76
+    },
+    {
+      "trait": "competence",
+      "action": "Drops a ten dollar bill on the table at the diner.",
+      "assessment": "This action is neutral in terms of competence; it shows a casual or deliberate gesture but does not directly indicate skill or intelligence.",
+      "rating": 0,
+      "chunk": 76
+    },
+    {
+      "trait": "competence",
+      "action": "Has a medium-sized paperback book titled 'CHAOS' by James Gleick, which is dog-eared, worn, and marked with highlights on key scientific concepts.",
+      "assessment": "This suggests intellectual curiosity and a capacity for understanding complex scientific ideas, indicating a level of intellectual competence.",
+      "rating": 2,
+      "chunk": 76
+    },
+    {
+      "trait": "competence",
+      "action": "Keeps his apartment cluttered with papers and books scattered on the floor.",
+      "assessment": "The disorganized environment may imply a lack of attention to order or detail, which could reflect negatively on his practical competence or organizational skills.",
+      "rating": -1,
+      "chunk": 76
+    },
+    {
+      "trait": "warmth",
+      "action": "Calls Dekker on the cellphone and engages in a cryptic but thoughtful conversation referencing the Surangama Sutra.",
+      "assessment": "Quentin's choice to communicate through a philosophical quote suggests a reflective and sincere nature, indicating a depth of thought and a desire to connect meaningfully, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 77
+    },
+    {
+      "trait": "warmth",
+      "action": "Uses a disguise and avoids direct contact, maintaining distance from Dekker and others.",
+      "assessment": "While this behavior may be necessary for safety or secrecy, it also shows a reluctance to engage openly or trust others fully, which can be seen as a negative indicator of warmth due to guardedness and limited friendliness.",
+      "rating": -1,
+      "chunk": 77
+    },
+    {
+      "trait": "competence",
+      "action": "Uses a philosophical quote from the Surangama Sutra in a phone conversation to misdirect Dekker.",
+      "assessment": "This shows intellectual sophistication and an ability to use abstract thinking to confuse or mislead others, indicating mental agility and strategic thinking.",
+      "rating": 2,
+      "chunk": 77
+    },
+    {
+      "trait": "competence",
+      "action": "Calls Dekker from a public place while maintaining a disguised presence at the airport.",
+      "assessment": "Maintaining communication while avoiding detection suggests careful planning and situational awareness, reflecting competent operational security.",
+      "rating": 2,
+      "chunk": 77
+    },
+    {
+      "trait": "competence",
+      "action": "Fails to appear in the expected location at the airport despite Dekker's thorough search.",
+      "assessment": "Successfully evading detection in a crowded, monitored environment demonstrates skill in stealth and deception, reinforcing competence.",
+      "rating": 2,
+      "chunk": 77
+    },
+    {
+      "trait": "competence",
+      "action": "His voice is recognized by Dekker despite his physical disguise.",
+      "assessment": "While the disguise is effective visually, failure to mask his voice is a minor oversight, indicating a slight lapse in operational thoroughness.",
+      "rating": -1,
+      "chunk": 77
+    },
+    {
+      "trait": "warmth",
+      "action": "Says 'I didn't kill anyone who didn't deserve it.'",
+      "assessment": "This statement suggests a personal moral code, but it is conditional and implies justification of violence, which complicates warmth.",
+      "rating": -1,
+      "chunk": 78
+    },
+    {
+      "trait": "warmth",
+      "action": "Acknowledges that the success was a team effort and not solely his credit.",
+      "assessment": "Giving credit to others shows humility and recognition of teamwork, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 78
+    },
+    {
+      "trait": "warmth",
+      "action": "Says 'She'll get over it' about Teddy being devastated over his death.",
+      "assessment": "This comment is dismissive and lacks empathy, indicating low warmth.",
+      "rating": -2,
+      "chunk": 78
+    },
+    {
+      "trait": "warmth",
+      "action": "Pushes Dekker out of the way to protect him from harm.",
+      "assessment": "This protective action is a clear demonstration of care and concern, strongly indicating warmth.",
+      "rating": 3,
+      "chunk": 78
+    },
+    {
+      "trait": "competence",
+      "action": "Admits his mistake about the phone call, clarifying that it wasn't the person Dekker thought it was.",
+      "assessment": "This shows self-awareness and honesty, indicating a level of intellectual competence and responsibility.",
+      "rating": 2,
+      "chunk": 78
+    },
+    {
+      "trait": "competence",
+      "action": "States 'I didn't kill anyone who didn't deserve it.'",
+      "assessment": "This suggests a strong personal code and confidence in his decisions, reflecting decisiveness and moral clarity, which can be aspects of competence.",
+      "rating": 1,
+      "chunk": 78
+    },
+    {
+      "trait": "competence",
+      "action": "Explains the importance of leaving room for error in plans and acknowledges unpredictability.",
+      "assessment": "This demonstrates strategic thinking and realistic assessment of complex situations, indicating high competence.",
+      "rating": 3,
+      "chunk": 78
+    },
+    {
+      "trait": "competence",
+      "action": "Acknowledges the value of gathering information from many sources, even unpleasant ones, and credits the team effort.",
+      "assessment": "Shows intelligence, pragmatism, and humility, all positive indicators of competence.",
+      "rating": 3,
+      "chunk": 78
+    },
+    {
+      "trait": "competence",
+      "action": "Pushes Dekker out of the way just in time to prevent harm, firing towards the door immediately after.",
+      "assessment": "This action shows quick reflexes, situational awareness, and decisiveness under pressure, strongly indicating physical and tactical competence.",
+      "rating": 3,
+      "chunk": 78
+    },
+    {
+      "trait": "competence",
+      "action": "Says 'She'll get over it' about Teddy's devastation over his death.",
+      "assessment": "This statement may reflect emotional detachment or lack of empathy, which could be a negative indicator of social competence.",
+      "rating": -1,
+      "chunk": 78
+    },
+    {
+      "trait": "warmth",
+      "action": "Leans over Galt, checks for a pulse, and upon confirming he is dead, uses the corpse to fake his own identity by hooking his badge onto the corpse's belt.",
+      "assessment": "This action shows pragmatism and self-preservation rather than warmth; it involves deception and a lack of regard for the deceased, indicating low warmth.",
+      "rating": -2,
+      "chunk": 79
+    },
+    {
+      "trait": "warmth",
+      "action": "Sets off two explosions to destroy the house and escape.",
+      "assessment": "While effective for his goals, the use of explosions suggests a ruthless and potentially dangerous approach, lacking in consideration for others' safety or feelings, reflecting low warmth.",
+      "rating": -2,
+      "chunk": 79
+    },
+    {
+      "trait": "warmth",
+      "action": "Prepares a fireman's raincoat, helmet, and visor in the basement presumably to disguise himself.",
+      "assessment": "This preparation indicates careful planning and self-preservation but does not demonstrate warmth or friendliness toward others.",
+      "rating": 0,
+      "chunk": 79
+    },
+    {
+      "trait": "competence",
+      "action": "Uses a remote detonator to trigger a timed explosion, showing careful planning and control over the situation.",
+      "assessment": "This action demonstrates Conners's ability to think ahead, use technology skillfully, and maintain control under pressure.",
+      "rating": 3,
+      "chunk": 79
+    },
+    {
+      "trait": "competence",
+      "action": "Checks the pulse of Galt and confirms he is dead before proceeding.",
+      "assessment": "This shows Conners's situational awareness and ability to quickly assess critical information in a tense environment.",
+      "rating": 2,
+      "chunk": 79
+    },
+    {
+      "trait": "competence",
+      "action": "Uses a corpse to disguise himself by hooking his badge onto it and then escapes through a laundry chute.",
+      "assessment": "This indicates resourcefulness, quick thinking, and tactical ingenuity in evading detection.",
+      "rating": 3,
+      "chunk": 79
+    },
+    {
+      "trait": "competence",
+      "action": "Prepares an escape by landing safely on a mattress he had previously placed on the floor.",
+      "assessment": "This shows foresight and careful preparation, highlighting his strategic planning skills.",
+      "rating": 3,
+      "chunk": 79
+    },
+    {
+      "trait": "competence",
+      "action": "Puts on a fireman's raincoat, helmet, and visor after escaping the explosion.",
+      "assessment": "This suggests adaptability and the use of disguises to blend in and avoid suspicion, reflecting practical intelligence.",
+      "rating": 2,
+      "chunk": 79
+    },
+    {
+      "trait": "warmth",
+      "action": "Justifies killing multiple people by labeling them as 'hoods' and claims the world is safer with them gone.",
+      "assessment": "Conners shows a lack of empathy and moral consideration, indicating coldness and a ruthless mindset rather than warmth.",
+      "rating": -3,
+      "chunk": 80
+    },
+    {
+      "trait": "warmth",
+      "action": "Blames Callo for the chain of violent events leading to multiple deaths.",
+      "assessment": "Shifting blame onto others and rationalizing violence suggests a lack of personal accountability and compassion.",
+      "rating": -2,
+      "chunk": 80
+    },
+    {
+      "trait": "warmth",
+      "action": "Speaks about commitment to his violent path with cold resolve and no indication of remorse.",
+      "assessment": "This reveals a hardened, unfeeling character who is not tolerant or sincere in a benevolent way.",
+      "rating": -3,
+      "chunk": 80
+    },
+    {
+      "trait": "competence",
+      "action": "Conners calmly explains his rationale for killing criminals and justifies his actions with a reference to Chaos Theory.",
+      "assessment": "This shows that Conners is intelligent and capable of strategic thinking, able to rationalize complex actions and consequences, indicating a high level of mental competence.",
+      "rating": 2,
+      "chunk": 80
+    },
+    {
+      "trait": "competence",
+      "action": "Conners confidently states that the Feds will be tracing false leads for weeks.",
+      "assessment": "This suggests that Conners is skilled at deception and planning, anticipating law enforcement moves and manipulating the situation to his advantage, reflecting strong competence.",
+      "rating": 3,
+      "chunk": 80
+    },
+    {
+      "trait": "competence",
+      "action": "Conners admits to making no half measures and committing fully to his path.",
+      "assessment": "This indicates decisiveness and confidence in his actions, traits associated with competence, though morally questionable.",
+      "rating": 2,
+      "chunk": 80
+    },
+    {
+      "trait": "competence",
+      "action": "Conners blames Callo for setting off the chain of events leading to their crimes.",
+      "assessment": "This shows Conners' ability to analyze cause and effect and assign responsibility, reflecting analytical competence.",
+      "rating": 1,
+      "chunk": 80
+    },
+    {
+      "trait": "warmth",
+      "action": "Says to Dekker, 'Besides... you kinda grew on me.'",
+      "assessment": "This statement reveals a rare moment of personal warmth and a hint of genuine connection despite their adversarial relationship.",
+      "rating": 2,
+      "chunk": 81
+    },
+    {
+      "trait": "warmth",
+      "action": "Declines to kill Dekker despite having many opportunities.",
+      "assessment": "Choosing not to kill an enemy shows restraint and a degree of moral consideration, indicating some warmth or at least limits to his ruthlessness.",
+      "rating": 1,
+      "chunk": 81
+    },
+    {
+      "trait": "warmth",
+      "action": "States, 'Everybody who screwed us, got screwed. Everything in its right place.'",
+      "assessment": "This reflects a harsh, retributive mindset that lacks forgiveness or tolerance, suggesting low warmth.",
+      "rating": -2,
+      "chunk": 81
+    },
+    {
+      "trait": "warmth",
+      "action": "Refers to himself as an opportunist and cynically comments on loyalty and betrayal.",
+      "assessment": "His cynical self-description and bitterness about loyalty indicate distrustfulness and emotional distance, which are negative indicators for warmth.",
+      "rating": -2,
+      "chunk": 81
+    },
+    {
+      "trait": "warmth",
+      "action": "Walks past security and leaves the airport calmly after cutting off communication.",
+      "assessment": "His calm and composed departure without confrontation suggests a controlled demeanor but does not strongly indicate warmth or coldness.",
+      "rating": 0,
+      "chunk": 81
+    },
+    {
+      "trait": "competence",
+      "action": "Successfully evades capture by walking past security and leaving the airport unnoticed.",
+      "assessment": "This action demonstrates Conners's skill in stealth and planning, indicating a high level of competence in escaping a dangerous situation.",
+      "rating": 3,
+      "chunk": 81
+    },
+    {
+      "trait": "competence",
+      "action": "Calmly reflects on the situation and accepts that 'you don't always win,' showing self-awareness.",
+      "assessment": "This internal acknowledgment shows emotional intelligence and realistic appraisal of circumstances, which are aspects of competence.",
+      "rating": 2,
+      "chunk": 81
+    },
+    {
+      "trait": "competence",
+      "action": "States he is an opportunist who would have died in the line of duty if given the chance, but feels betrayed by the system.",
+      "assessment": "This reveals a pragmatic mindset and understanding of his environment, but also hints at some bitterness that might cloud judgment.",
+      "rating": 1,
+      "chunk": 81
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in a verbal exchange with Dekker, maintaining control and confidence despite being pursued.",
+      "assessment": "His composed demeanor and ability to manipulate the conversation suggest strong interpersonal and strategic skills.",
+      "rating": 2,
+      "chunk": 81
     }
   ]
 }

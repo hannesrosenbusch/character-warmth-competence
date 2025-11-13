@@ -1,194 +1,501 @@
 {
   "Laurie Strode": [
     {
-      "Action": "Instructs the kids clearly and firmly to seek help by going to the neighbors and calling the police",
-      "Warmth": 1,
-      "Chunk": 1
+      "trait": "warmth",
+      "action": "Instructs the kids to go to the McKinsey's house to call the police and send help.",
+      "assessment": "Laurie shows responsibility and care for the children’s safety by ensuring they seek help promptly, indicating protective and trustworthy behavior.",
+      "rating": 2,
+      "chunk": 1
     },
     {
-      "Action": "Pleading with medical staff not to be put to sleep, expressing fear and vulnerability.",
-      "Warmth": 1,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "Leans against the doorframe after sending the kids away, showing a moment of vulnerability.",
+      "assessment": "This moment suggests Laurie’s human side and sincerity, as she is visibly affected by the danger, which can evoke empathy and warmth.",
+      "rating": 1,
+      "chunk": 1
     },
     {
-      "Action": "Refuses to be put to sleep despite medical necessity, expressing clear awareness and concern.",
-      "Competence": 1,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "Does not engage with the neighbor who is dismissive and sarcastic about the danger.",
+      "assessment": "Laurie does not attempt to reason or connect with the skeptical neighbor, which could be seen as a missed opportunity to be tolerant or friendly in a stressful situation.",
+      "rating": -1,
+      "chunk": 1
     },
     {
-      "Action": "Wimpers and shows fear when being injected, indicating vulnerability but also awareness of situation.",
-      "Competence": 0,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Instructs the kids to leave the house and go to a neighbor's house to call the police.",
+      "assessment": "This action shows Laurie’s quick thinking and ability to take charge in a crisis, demonstrating situational awareness and leadership.",
+      "rating": 2,
+      "chunk": 1
     },
     {
-      "Action": "Replies politely to Jimmy offering her a drink and accepts it.",
-      "Warmth": 1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Leans against the doorframe after sending the kids away, appearing somewhat passive.",
+      "assessment": "This moment of inaction could suggest a brief lapse in vigilance or confidence, as she does not immediately prepare for further confrontation.",
+      "rating": -1,
+      "chunk": 1
     },
     {
-      "Action": "Limited emotional expression, mostly focused on own pain and recovery, not engaging deeply with others around her.",
-      "Warmth": 0,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Is attacked and nearly strangled by Michael Myers.",
+      "assessment": "While being attacked is not necessarily a sign of incompetence, there is no indication she fights back effectively here, which may reflect limited physical defense skills or being overwhelmed.",
+      "rating": -1,
+      "chunk": 1
     },
     {
-      "Action": "She calmly responds to hospital staff and accepts help (e.g., allowing Jimmy to get her a drink) despite her injury and the stressful situation.",
-      "Competence": 1,
-      "Chunk": 5
+      "trait": "warmth",
+      "action": "Responds to Jimmy's concern by asking not to be put to sleep.",
+      "assessment": "Laurie's interaction with Jimmy shows trust and a desire to stay aware, indicating sincerity and a connection to those around her.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "She asks 'What happened?' showing presence of mind and awareness after her injury rather than panic or confusion.",
-      "Competence": 1,
-      "Chunk": 5
+      "trait": "warmth",
+      "action": "Wimpers when the doctor sticks a needle in her arm.",
+      "assessment": "Her vulnerability and expression of pain elicit empathy, showing her human side and openness to others' care.",
+      "rating": 1,
+      "chunk": 3
     },
     {
-      "Action": "Laurie does not take any initiative or action to protect herself or confront danger in this excerpt; she remains passive and largely reactive.",
-      "Competence": 0,
-      "Chunk": 5
+      "trait": "warmth",
+      "action": "Does not engage with the medical staff beyond expressing fear and pain.",
+      "assessment": "Laurie's limited communication and focus on her own distress may suggest a momentary withdrawal rather than warmth, but given the trauma, this is understandable.",
+      "rating": 0,
+      "chunk": 3
     },
     {
-      "Action": "Shows concern and confusion when learning about Michael Myers' escape and the danger he poses.",
-      "Warmth": 1,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Laurie insists repeatedly, 'Don't let them put me to sleep,' despite her weakened state.",
+      "assessment": "This shows Laurie’s awareness and presence of mind under extreme physical distress, indicating mental resilience and a desire to stay alert, which are positive indicators of competence.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Responds with limited emotional openness, mainly asks 'Why me?'",
-      "Warmth": 0,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Laurie wimpers and does not physically resist the needle insertion.",
+      "assessment": "While understandable given her injuries, this lack of physical resistance or assertiveness in a critical moment may suggest some vulnerability or reduced capacity to assert control over her situation, a slight negative indicator.",
+      "rating": -1,
+      "chunk": 3
     },
     {
-      "Action": "Asks informed questions about Michael Myers after hearing Jimmy's warning, showing awareness of the threat.",
-      "Competence": 1,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Laurie is silent and passive while being moved on a stretcher and during medical treatment.",
+      "assessment": "Her passivity here is likely due to injury and shock rather than incompetence, so this is a neutral indicator of competence.",
+      "rating": 0,
+      "chunk": 3
     },
     {
-      "Action": "Expresses confusion and vulnerability by asking 'Why me?' instead of immediately taking action or planning, showing some uncertainty.",
-      "Competence": -1,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Nods in response to Jimmy's offer to get her a drink and accepts a Coke.",
+      "assessment": "Laurie responds politely and accepts a kind gesture from Jimmy, showing openness and friendliness.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Mentions she doesn't know where her parents are and relies on the nurse to contact them, indicating lack of proactive communication.",
-      "Competence": -1,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Engages briefly but politely with Jimmy when he visits her in the hospital.",
+      "assessment": "Laurie maintains a courteous and sincere interaction despite her pain and distress, indicating trustworthiness and a friendly demeanor.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Questions the nurse about the phone situation, attempts to understand the problem by picking up the phone herself.",
-      "Competence": 1,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Does not initiate conversation or express concern about the tragic news reported on the TV.",
+      "assessment": "Laurie's silence or lack of verbal response to the grim news may reflect shock or withdrawal rather than warmth; this omission is neutral but could suggest emotional distancing.",
+      "rating": 0,
+      "chunk": 5
     },
     {
-      "Action": "Hears a noise and remains alert to her surroundings.",
-      "Competence": 1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Responds calmly to nurse's questions about her condition and accepts help from Jimmy.",
+      "assessment": "Laurie shows composure and cooperativeness despite being injured, indicating emotional resilience and practical acceptance of her situation.",
+      "rating": 1,
+      "chunk": 5
     },
     {
-      "Action": "Does not intervene or take further action despite hearing a noise, passes control to others instead.",
-      "Competence": 0,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Nods to Jimmy's offer for a drink and agrees to a Coke.",
+      "assessment": "This shows Laurie’s ability to communicate and make simple decisions even while in pain, reflecting basic functional competence.",
+      "rating": 1,
+      "chunk": 5
     },
     {
-      "Action": "Dreams about childhood and confronts unsettling memories about her mother and Michael Myers.",
-      "Warmth": 0,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Does not attempt to escape or take any action despite being in a hospital setting where she might be vulnerable.",
+      "assessment": "Laurie's passivity here could suggest a lack of proactive behavior or strategic thinking in a potentially dangerous environment, indicating a slight deficit in competence.",
+      "rating": -1,
+      "chunk": 5
     },
     {
-      "Action": "Laurie wakes up, looks around cautiously, but then goes back to sleep.",
-      "Competence": -1,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Engages in conversation with Jimmy about Michael Myers and expresses concern about why she is targeted.",
+      "assessment": "Laurie's willingness to talk openly about a frightening situation and her seeking understanding shows a degree of sincerity and openness, which are aspects of warmth.",
+      "rating": 1,
+      "chunk": 8
     },
     {
-      "Action": "Stares forward without responding to Jimmy’s concern and reassurance.",
-      "Warmth": -1,
-      "Chunk": 13
+      "trait": "warmth",
+      "action": "Responds briefly and factually to the nurse's questions about her parents' whereabouts without offering additional information or emotional engagement.",
+      "assessment": "Laurie's limited responses and lack of elaboration suggest a reserved or withdrawn demeanor, indicating a lower level of warmth in this interaction.",
+      "rating": -1,
+      "chunk": 8
     },
     {
-      "Action": "Remains silent and motionless when Jimmy tries to reassure her.",
-      "Competence": 0,
-      "Chunk": 13
+      "trait": "warmth",
+      "action": "Does not attempt to comfort or engage with Jimmy when he is told to leave, nor does she encourage him to stay despite the stressful situation.",
+      "assessment": "Her omission to support or reassure Jimmy in a tense moment may reflect emotional distance or preoccupation, which can be seen as a negative indicator of warmth.",
+      "rating": -2,
+      "chunk": 8
     },
     {
-      "Action": "Hobbles down the hall despite injury, tries to call for help despite knowing the lines are cut, attempts to assess surroundings cautiously before resting.",
-      "Warmth": 1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Asks questions about Michael Myers after hearing he escaped and was after her.",
+      "assessment": "Laurie shows awareness and concern about the threat, indicating alertness and a desire to understand her situation, which is a positive indicator of competence.",
+      "rating": 1,
+      "chunk": 8
     },
     {
-      "Action": "Hobbles down the hall despite injury, attempts to reach a phone even though lines were cut, cautiously peeks out the door to check for danger.",
-      "Competence": 1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Expresses confusion and vulnerability by asking 'Why me? I mean, why me?'",
+      "assessment": "This shows emotional distress and a lack of immediate strategic thinking or problem-solving in response to a serious threat, suggesting a moderate negative indicator of competence.",
+      "rating": -1,
+      "chunk": 8
     },
     {
-      "Action": "Sits against the wall, closes the door, and falls asleep while in danger and limping.",
-      "Competence": -1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Does not take any visible action to protect herself or prepare for Michael Myers' escape despite being informed.",
+      "assessment": "Her passivity and failure to act proactively in a dangerous situation indicate a lack of initiative and preparedness, which negatively impacts the perception of her competence.",
+      "rating": -2,
+      "chunk": 8
     },
     {
-      "Action": "Despite being injured and limping, Laurie tries to escape and keeps moving to avoid Michael.",
-      "Competence": 1,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Responds briefly and factually to the nurse about her shoulder and parents' whereabouts.",
+      "assessment": "Laurie maintains composure and provides clear information when asked, showing some level of calmness and reliability under stress, a slight positive indicator.",
+      "rating": 1,
+      "chunk": 8
     },
     {
-      "Action": "Laurie runs blindly, knocking things over, and struggles with locked doors while trying to escape, showing desperation and limited planning.",
-      "Competence": -1,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Hobbles down the hall despite injury, looking for help or safety.",
+      "assessment": "Laurie's persistence in moving despite pain shows resilience but does not directly indicate warmth toward others.",
+      "rating": 0,
+      "chunk": 14
     },
     {
-      "Action": "Climbs onto boiler and escapes through window, hides in car floorboard to avoid Michael Myers.",
-      "Warmth": 0,
-      "Chunk": 16
+      "trait": "warmth",
+      "action": "Attempts to use the phone to call for help.",
+      "assessment": "Trying to reach out for assistance suggests a responsible and sincere effort to improve the situation, which can be seen as a mild indicator of warmth.",
+      "rating": 1,
+      "chunk": 14
     },
     {
-      "Action": "Climbs up on the boiler and escapes through a window just in time.",
-      "Competence": 1,
-      "Chunk": 16
+      "trait": "warmth",
+      "action": "Sits against the wall, closes the door, and falls asleep after failing to get help.",
+      "assessment": "This action reflects self-preservation and exhaustion rather than warmth; no direct interaction with others is shown here.",
+      "rating": 0,
+      "chunk": 14
     },
     {
-      "Action": "Uses the elevator to escape and cleverly causes the door to close on Michael's knife, making him lose grip.",
-      "Competence": 1,
-      "Chunk": 16
+      "trait": "competence",
+      "action": "Laurie is hobbling down the hall, limping but continuing to move despite her injury.",
+      "assessment": "This shows determination and resilience, indicating a moderate level of competence in coping with physical adversity.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Runs limping outside and finds a hiding place in a car's floorboard to avoid being caught.",
-      "Competence": 1,
-      "Chunk": 16
+      "trait": "competence",
+      "action": "Laurie reaches for a phone and picks it up, but then puts it down remembering the lines were cut.",
+      "assessment": "This demonstrates situational awareness and presence of mind, reflecting competent thinking under pressure.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Tries to start the car to escape and pushes Jimmy off the horn despite his being dead; attempts to crawl toward help.",
-      "Warmth": 1,
-      "Chunk": 17
+      "trait": "competence",
+      "action": "Laurie peeks out the door to check if Michael is nearby before closing the door and sitting against the wall to rest.",
+      "assessment": "This cautious behavior shows prudence and an attempt to avoid danger, indicating competent threat assessment.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Tries to crawl and calls out desperately for help despite her injuries.",
-      "Warmth": 1,
-      "Chunk": 18
+      "trait": "competence",
+      "action": "Laurie falls asleep against the wall after closing the door.",
+      "assessment": "Falling asleep in a dangerous situation suggests a lapse in vigilance and could be seen as a negative indicator of competence in maintaining alertness.",
+      "rating": -1,
+      "chunk": 14
     },
     {
-      "Action": "Runs to the hospital door and repeatedly bangs on it, pleading for help.",
-      "Warmth": 1,
-      "Chunk": 18
+      "trait": "warmth",
+      "action": "Laurie does not respond to Nurse #2's calls for help and continues to limp away despite Nurse #2 urging her to wait.",
+      "assessment": "Laurie's failure to respond to Nurse #2's calls suggests a lack of engagement or concern for others in distress, which may indicate low warmth in this moment.",
+      "rating": -2,
+      "chunk": 15
     },
     {
-      "Action": "Refuses to take the gun from Loomis initially, possibly out of fear or hesitation.",
-      "Warmth": 0,
-      "Chunk": 19
+      "trait": "warmth",
+      "action": "Laurie slowly gets up from the floor despite her injury and attempts to escape the hospital.",
+      "assessment": "Laurie's effort to get up and move despite pain shows resilience and self-preservation, but does not directly indicate warmth toward others.",
+      "rating": 0,
+      "chunk": 15
     },
     {
-      "Action": "Calls out to Michael by name and attempts to stop him by firing her gun, showing a personal and direct approach.",
-      "Warmth": 1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Laurie slowly gets up and starts to limp out the door despite her injuries.",
+      "assessment": "This shows determination and physical resilience, indicating a competent will to survive even when hurt.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Works with Loomis to try to defeat Michael by turning on a gas tank and escaping when instructed.",
-      "Warmth": 1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Laurie keeps moving down the hall and does not respond immediately to Nurse #2's calls.",
+      "assessment": "Her focus on escape rather than distraction suggests situational awareness and prioritization, a sign of competence.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Does not abandon Loomis despite the danger, waits and takes cover after the fire starts.",
-      "Warmth": 1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Laurie runs down the hall, panting hard and knocking things over, then runs down stairs and tries to open doors but finds them locked.",
+      "assessment": "Her frantic but persistent attempts to escape show resourcefulness and urgency, though the knocking over of objects may indicate some loss of control under stress.",
+      "rating": 1,
+      "chunk": 15
     },
     {
-      "Action": "Requests to ride in front of the ambulance",
-      "Warmth": 0,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Laurie does not successfully open any doors and is pursued closely by Michael.",
+      "assessment": "Her inability to find an unlocked exit or to effectively evade Michael at this point suggests limitations in her escape skills or situational control.",
+      "rating": -1,
+      "chunk": 15
+    },
+    {
+      "trait": "warmth",
+      "action": "Runs through the hospital trying to escape Michael Myers, hiding in a car floorboard to avoid detection.",
+      "assessment": "Laurie's actions here are focused on self-preservation and survival rather than interpersonal warmth; no direct interaction with others or expressions of friendliness or trustworthiness are evident.",
+      "rating": 0,
+      "chunk": 16
+    },
+    {
+      "trait": "competence",
+      "action": "Climbs up on the boiler and escapes through a window just in time when Michael comes at her.",
+      "assessment": "This action shows quick thinking and physical agility under extreme stress, indicating a good level of competence in evading danger.",
+      "rating": 2,
+      "chunk": 16
+    },
+    {
+      "trait": "competence",
+      "action": "Presses the elevator button and manages to close the door on Michael's knife, causing him to lose his grip.",
+      "assessment": "This demonstrates situational awareness and presence of mind, using the environment effectively to hinder her pursuer.",
+      "rating": 2,
+      "chunk": 16
+    },
+    {
+      "trait": "competence",
+      "action": "Runs out of the hospital limping and looks for a hiding place or escape.",
+      "assessment": "Despite being injured, Laurie continues to seek safety, showing resilience and determination, which are positive competence indicators.",
+      "rating": 1,
+      "chunk": 16
+    },
+    {
+      "trait": "competence",
+      "action": "Hides in the floorboard of a car and cautiously observes the outside before deciding to stay hidden.",
+      "assessment": "This shows strategic thinking and patience, understanding the need to remain concealed and assess the situation before acting.",
+      "rating": 2,
+      "chunk": 16
+    },
+    {
+      "trait": "warmth",
+      "action": "Pushes Jimmy off the horn and tries to start the car to escape.",
+      "assessment": "Laurie’s actions show determination and a protective instinct toward herself and possibly others, but do not directly indicate warmth toward others.",
+      "rating": 0,
+      "chunk": 17
+    },
+    {
+      "trait": "warmth",
+      "action": "Tries to crawl toward Loomis’s car after falling on the pavement.",
+      "assessment": "Her effort to reach help suggests trust and a desire for assistance, indicating some openness and reliance on others, which can be a mild indicator of warmth.",
+      "rating": 1,
+      "chunk": 17
+    },
+    {
+      "trait": "competence",
+      "action": "After Jimmy dies, Laurie pushes him off the horn and tries to start the car again.",
+      "assessment": "This shows Laurie's quick thinking and determination to escape despite the dire situation, indicating practical problem-solving skills under pressure.",
+      "rating": 2,
+      "chunk": 17
+    },
+    {
+      "trait": "competence",
+      "action": "Laurie exits the car and falls onto the hard pavement, then tries to crawl toward Loomis's car.",
+      "assessment": "Although physically weakened, Laurie demonstrates resilience and presence of mind by attempting to reach help, showing persistence and situational awareness.",
+      "rating": 1,
+      "chunk": 17
+    },
+    {
+      "trait": "competence",
+      "action": "Laurie remains hidden in the hospital parking lot while the danger is near.",
+      "assessment": "Her choice to stay hidden rather than confront or flee recklessly suggests cautiousness and an understanding of self-preservation, reflecting competent survival instincts.",
+      "rating": 2,
+      "chunk": 17
+    },
+    {
+      "trait": "warmth",
+      "action": "Calls out repeatedly for help while injured and pursued by Michael Myers.",
+      "assessment": "Laurie's persistent calls for help demonstrate her vulnerability and trust in others to assist her, reflecting a basic expectation of goodwill and support from others.",
+      "rating": 1,
+      "chunk": 18
+    },
+    {
+      "trait": "warmth",
+      "action": "Attempts to crawl and then limps toward the hospital despite her injuries.",
+      "assessment": "Her determination to reach safety and seek help shows resilience but does not directly indicate warmth; it is more self-preserving than other-oriented.",
+      "rating": 0,
+      "chunk": 18
+    },
+    {
+      "trait": "warmth",
+      "action": "Bangs on the hospital doors to get help.",
+      "assessment": "This action is a direct appeal to others for aid, showing trust and reliance on the community, which is a mild positive indicator of warmth.",
+      "rating": 1,
+      "chunk": 18
+    },
+    {
+      "trait": "warmth",
+      "action": "Does not show any hostile or unfriendly behavior toward the people around her despite extreme stress and danger.",
+      "assessment": "Her lack of aggression or negativity toward others in a crisis suggests a baseline of tolerance and sincerity, even under duress.",
+      "rating": 1,
+      "chunk": 18
+    },
+    {
+      "trait": "competence",
+      "action": "Despite being injured, Laurie tries to crawl to the others and then stands and limps towards the hospital building.",
+      "assessment": "This shows determination and physical resilience, indicating a competent will to survive despite her weakened state.",
+      "rating": 2,
+      "chunk": 18
+    },
+    {
+      "trait": "competence",
+      "action": "Laurie runs to the hospital door and bangs on it, screaming for help while Michael Myers is close behind her.",
+      "assessment": "This action demonstrates presence of mind and quick thinking to seek help, showing situational awareness and urgency under extreme stress.",
+      "rating": 2,
+      "chunk": 18
+    },
+    {
+      "trait": "competence",
+      "action": "Laurie continues banging on the doors and screaming for help despite Michael Myers being only 30 feet away.",
+      "assessment": "Her persistence in seeking help under immediate threat reflects courage and mental toughness, key aspects of competence in crisis.",
+      "rating": 2,
+      "chunk": 18
+    },
+    {
+      "trait": "competence",
+      "action": "Laurie does not attempt to fight Michael directly or flee recklessly but focuses on getting help by reaching the hospital.",
+      "assessment": "This suggests a strategic approach to survival, prioritizing calling for backup rather than engaging the threat alone, indicating practical intelligence.",
+      "rating": 2,
+      "chunk": 18
+    },
+    {
+      "trait": "competence",
+      "action": "Laurie’s voice is quiet initially when calling for help, then escalates to screaming.",
+      "assessment": "The initial quiet voice may indicate weakness or fear, but the escalation shows adaptability and increasing assertiveness, a mixed indicator.",
+      "rating": 1,
+      "chunk": 18
+    },
+    {
+      "trait": "warmth",
+      "action": "Refuses to take the gun from Loomis initially, despite Loomis urging her to do so.",
+      "assessment": "Laurie's refusal to take the gun may indicate hesitation or distrust, possibly reflecting a lack of immediate trust or confidence in the situation or in herself, which can be seen as a neutral to slightly negative indicator of warmth.",
+      "rating": -1,
+      "chunk": 19
+    },
+    {
+      "trait": "warmth",
+      "action": "Calls out to Michael by name and raises the gun to stop him, firing two bullets to incapacitate him.",
+      "assessment": "Calling Michael by name and attempting to stop him rather than kill outright suggests a complex mix of fear and familiarity; her actions show a protective and sincere attempt to control the situation without unnecessary cruelty, indicating a moderate level of warmth.",
+      "rating": 2,
+      "chunk": 19
+    },
+    {
+      "trait": "warmth",
+      "action": "Helps turn on a gas tank to trap Michael alongside Loomis.",
+      "assessment": "Laurie’s cooperation with Loomis in setting a trap shows teamwork and trust, reflecting a willingness to work with others for a common good, which is a positive indicator of warmth.",
+      "rating": 2,
+      "chunk": 19
+    },
+    {
+      "trait": "warmth",
+      "action": "Runs out of the gas-filled room only after Loomis orders her repeatedly to get out.",
+      "assessment": "Laurie's initial hesitation to leave the dangerous room despite Loomis’s urgent commands could suggest stubbornness or a protective instinct, but also a lack of self-preservation that might be interpreted as less warm due to potential recklessness or disregard for her own safety.",
+      "rating": 0,
+      "chunk": 19
+    },
+    {
+      "trait": "competence",
+      "action": "Hides in a dark corner when Michael Myers is approaching.",
+      "assessment": "This action shows a basic survival instinct and awareness of danger, indicating some level of cautiousness and presence of mind.",
+      "rating": 1,
+      "chunk": 19
+    },
+    {
+      "trait": "competence",
+      "action": "Refuses to take the gun from Loomis initially despite him urging her to do so.",
+      "assessment": "This hesitation suggests uncertainty or lack of confidence in handling the weapon, which is a slight negative indicator of competence in a high-stress situation.",
+      "rating": -1,
+      "chunk": 19
+    },
+    {
+      "trait": "competence",
+      "action": "Raises the gun and fires two bullets grazing Michael's eyes.",
+      "assessment": "This demonstrates quick reflexes, marksmanship under pressure, and the ability to act decisively, indicating a strong competence.",
+      "rating": 2,
+      "chunk": 19
+    },
+    {
+      "trait": "competence",
+      "action": "Gets up and turns on a gas tank to fill the room with gas.",
+      "assessment": "This shows situational awareness and the ability to use the environment strategically to combat the threat, reflecting good problem-solving skills and competence.",
+      "rating": 2,
+      "chunk": 19
+    },
+    {
+      "trait": "competence",
+      "action": "Does not immediately leave the room when Loomis orders her to get out.",
+      "assessment": "Her initial failure to follow urgent instructions in a life-threatening situation suggests hesitation or confusion, which detracts from her overall competence.",
+      "rating": -1,
+      "chunk": 19
+    },
+    {
+      "trait": "competence",
+      "action": "Eventually runs out of the room to safety after Loomis insists.",
+      "assessment": "This shows that she can respond to commands and prioritize survival, though somewhat delayed, indicating moderate competence.",
+      "rating": 1,
+      "chunk": 19
+    },
+    {
+      "trait": "warmth",
+      "action": "Asks if she can ride in the front of the ambulance, but accepts being put in the back without complaint.",
+      "assessment": "Laurie's polite request and subsequent acceptance of the driver's decision shows a respectful and cooperative attitude, indicating a degree of warmth through her consideration and adaptability.",
+      "rating": 1,
+      "chunk": 20
+    },
+    {
+      "trait": "competence",
+      "action": "Asks if she can ride in front of the ambulance despite being injured and tired.",
+      "assessment": "This shows Laurie’s desire to maintain some control over her situation and assertiveness even when vulnerable, indicating a degree of mental resilience and situational awareness.",
+      "rating": 1,
+      "chunk": 20
+    },
+    {
+      "trait": "competence",
+      "action": "Allows herself to be helped into the ambulance and does not resist medical assistance.",
+      "assessment": "This suggests practical acceptance of her physical limitations and prioritizing survival and recovery, reflecting realistic self-assessment and adaptability.",
+      "rating": 1,
+      "chunk": 20
+    },
+    {
+      "trait": "competence",
+      "action": "Exhibits a tired and blank expression after the traumatic events.",
+      "assessment": "While understandable given the trauma, this momentary blankness may indicate emotional exhaustion and temporary mental shutdown, which can be seen as a natural human response rather than incompetence.",
+      "rating": 0,
+      "chunk": 20
     }
   ]
 }

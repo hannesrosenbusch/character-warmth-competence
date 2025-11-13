@@ -1,159 +1,249 @@
 {
   "Cornelius": [
     {
-      "Action": "Rises courteously to his feet upon Colonel's entry.",
-      "Warmth": 1,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Rises courteously to his feet when the Colonel enters the guardhouse.",
+      "assessment": "This courteous gesture shows respect and politeness, indicating a friendly and considerate nature.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Gracefully accepts oranges offered by aide.",
-      "Warmth": 1,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Accepts oranges gracefully from the aide.",
+      "assessment": "Gracefully accepting a gift or offering reflects good manners and a cooperative attitude.",
+      "rating": 1,
+      "chunk": 7
     },
     {
-      "Action": "Keeps space suit hanging neatly on wall hooks, showing consideration and orderliness.",
-      "Warmth": 1,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Changes out of his space suit and hangs it neatly on a wall hook.",
+      "assessment": "This action suggests a sense of orderliness and respect for shared space, which can be seen as considerate and trustworthy behavior.",
+      "rating": 1,
+      "chunk": 7
     },
     {
-      "Action": "Rises courteously to his feet upon Colonel's entry, shows awareness of social cues.",
-      "Competence": 1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Rises courteously to his feet when the Colonel enters the guardhouse.",
+      "assessment": "This shows social awareness and composure in a tense situation, indicating a degree of confidence and self-control.",
+      "rating": 1,
+      "chunk": 7
     },
     {
-      "Action": "Changes clothes neatly and hangs space suit properly on hooks, demonstrating orderliness and attention to detail.",
-      "Competence": 1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Has neatly hung his space suit on a wall hook after changing.",
+      "assessment": "This action reflects organization and attention to detail, suggesting a methodical and capable nature.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Accepts the oranges gracefully, adapting to an unfamiliar environment with composure.",
-      "Competence": 1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Accepts oranges gracefully from the aide and participates in the distribution of plates and cutlery.",
+      "assessment": "His calm and polite behavior in an unfamiliar and stressful environment indicates emotional intelligence and adaptability.",
+      "rating": 1,
+      "chunk": 7
     },
     {
-      "Action": "Sits by Zira and takes her hand to comfort her when she is disconsolate.",
-      "Warmth": 1,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "No indication of resistance or panic despite being a prisoner in a guardhouse.",
+      "assessment": "While this could be interpreted as composure, it might also suggest passivity or lack of assertiveness in a critical situation.",
+      "rating": 0,
+      "chunk": 7
     },
     {
-      "Action": "Tries to calm Zira by asking her to control herself and suggesting that the keeper is trying to be kind.",
-      "Warmth": 1,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Sits by Zira and takes her hand after she sits disconsolately on the straw in the cage.",
+      "assessment": "Cornelius offers physical comfort and emotional support to Zira in a distressing situation, showing care and tenderness.",
+      "rating": 3,
+      "chunk": 8
     },
     {
-      "Action": "Sits by Zira and takes her hand when she feels disconsolate.",
-      "Warmth": 1,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Calmly asks Zira to control herself and suggests that the keepers are trying to be kind.",
+      "assessment": "Cornelius attempts to soothe Zira's anger and frustration with a gentle and understanding approach, indicating patience and empathy.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Helplessly shrugs when confronted with uncertainty about their situation.",
-      "Warmth": 0,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Sits down calmly beside Zira and takes her hand to comfort her after she reacts violently to the keeper's patronizing behavior.",
+      "assessment": "This action shows emotional intelligence and social skill, indicating Cornelius's ability to manage tense situations with calmness and empathy, which are aspects of competence.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Engages in the group's serious conversation about their predicament and Earth's future.",
-      "Warmth": 0,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Asks Zira to control herself and suggests that the keeper's actions might be an attempt at kindness.",
+      "assessment": "This demonstrates rational thinking and an attempt to de-escalate conflict by interpreting others' behavior in a positive light, reflecting thoughtful and confident behavior.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Helplessly shrugs when asked where they are and what has happened, indicating uncertainty and lack of understanding.",
-      "Competence": -1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Passively accepts the conditions of captivity without visible resistance or planning an escape.",
+      "assessment": "While this may reflect prudence, the lack of proactive behavior or strategic planning in a threatening situation could indicate a limitation in assertiveness or problem-solving competence.",
+      "rating": -1,
+      "chunk": 8
     },
     {
-      "Action": "Sits by Zira and takes her hand to comfort her, showing emotional support but not related to competence.",
-      "Competence": 0,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Helplessly shrugs when asked where they are and what has happened.",
+      "assessment": "This action suggests uncertainty and lack of understanding about their situation, indicating a momentary lapse in competence or insufficient knowledge.",
+      "rating": -1,
+      "chunk": 9
     },
     {
-      "Action": "Sitting alertly and attentively next to Zira, staring at the Intelligence Test apparatus, indicating engagement and focus.",
-      "Competence": 1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Sits by Zira and takes her hand to offer comfort.",
+      "assessment": "While this is a compassionate and supportive gesture, it does not directly reflect competence in terms of skill or intelligence, so it is neutral regarding competence.",
+      "rating": 0,
+      "chunk": 9
     },
     {
-      "Action": "Sharing a knowing look with Zira, showing awareness and possibly strategic communication.",
-      "Competence": 1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Engages in the conversation about their temporal displacement and the destruction of Earth.",
+      "assessment": "Cornelius shows awareness of the gravity of their situation and participates thoughtfully, indicating intellectual engagement and a degree of competence.",
+      "rating": 1,
+      "chunk": 9
     },
     {
-      "Action": "Allowing himself to be caged under guarded conditions without evident resistance or panic.",
-      "Competence": 0,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Sits quietly with Zira, attentively observing the Intelligence Test apparatus without showing aggression or distress.",
+      "assessment": "Cornelius's calm and composed demeanor in a stressful environment suggests a tolerant and good-natured disposition.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Responds with mirth to Zira's victory in the block-fitting test.",
-      "Warmth": 1,
-      "Chunk": 11
+      "trait": "warmth",
+      "action": "Does not resist or react negatively when the cage is opened and the test begins.",
+      "assessment": "His non-resistance indicates trust and a friendly acceptance of the situation, reflecting sincerity and tolerance.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Responds with mirth to ZIRA's success in completing the block puzzle quickly and skillfully.",
-      "Competence": 1,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Sits awake and attentively staring at the Intelligence Test apparatus while in captivity.",
+      "assessment": "Cornelius demonstrates alertness and engagement with his environment, indicating mental acuity and readiness to respond, which are positive indicators of competence.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Defends Zira against Milo's suggestion that she might be mad, asking Milo not to call his wife mad.",
-      "Warmth": 1,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Remains calm and composed in a cage under guard, showing no signs of panic or agitation.",
+      "assessment": "Maintaining composure under stressful conditions suggests emotional control and confidence, supporting a competent demeanor.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Dismisses Milo's attempts at communication as 'psychiatric small talk' and 'a display of primitive apparatus'.",
-      "Warmth": -1,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Does not attempt to escape or resist captivity despite opportunity.",
+      "assessment": "This omission could indicate either strategic patience or passivity; without further context, it slightly detracts from perceived competence as it may reflect a lack of initiative.",
+      "rating": -1,
+      "chunk": 10
     },
     {
-      "Action": "Defends Zira calmly when Dr. Milo questions her sanity.",
-      "Competence": 1,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Responds with mirth to Zira's triumphant gesture after completing the block puzzle.",
+      "assessment": "Cornelius's mirthful reaction shows a friendly and supportive attitude toward Zira's success, indicating warmth through encouragement and shared joy.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Dismisses Dr. Milo's cautious approach as 'psychiatric small talk' and the testing apparatus as 'primitive apparatus'.",
-      "Competence": -1,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Defends Zira when Dr. Milo calls her mad, saying 'Dr. Milo, please don't call my wife mad.'",
+      "assessment": "Cornelius shows protective and supportive behavior toward his wife, indicating care and loyalty.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Calms Zira by telling her to calm herself amidst chaos, showing self-control and an attempt to maintain order.",
-      "Competence": 1,
-      "Chunk": 13
+      "trait": "warmth",
+      "action": "Dismisses Dr. Milo's attempts at dialogue as 'a lot of psychiatric small talk' and 'a display of primitive apparatus.'",
+      "assessment": "Cornelius's dismissive and somewhat sarcastic remarks suggest impatience and a lack of openness, which can be perceived as less warm.",
+      "rating": -1,
+      "chunk": 12
     },
     {
-      "Action": "Fails to effectively prevent the escalating conflict that leads to Milo's death, indicating limited control over the situation.",
-      "Competence": -1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Interjects sharply when Zira is called mad, defending her calmly but firmly.",
+      "assessment": "This shows Cornelius's confidence and protective nature, indicating emotional intelligence and social awareness, which are components of competence.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Comforts Zira as she is distressed, soothing her in a moment of fear and anger.",
-      "Warmth": 1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Dismisses Dr. Milo's comments as 'psychiatric small talk' and 'a display of primitive apparatus.'",
+      "assessment": "This reaction suggests a degree of skepticism and critical thinking, but also a dismissive attitude that may hinder open-mindedness and effective communication, slightly reducing perceived competence.",
+      "rating": 0,
+      "chunk": 12
     },
     {
-      "Action": "Takes Lewis’s hand when it is extended, indicating trust and openness.",
-      "Warmth": 1,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "Comforts Zira as she sits crouched in a corner, head in her hands, rocking from side to side.",
+      "assessment": "Cornelius shows empathy and concern by soothing and comforting his distressed wife, indicating a caring and supportive nature.",
+      "rating": 3,
+      "chunk": 14
     },
     {
-      "Action": "Comforts Zira while she is distressed, shows calm and supportive demeanor.",
-      "Competence": 1,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "Takes Lewis's extended hand while Zira does not.",
+      "assessment": "By accepting the handshake, Cornelius demonstrates openness and a willingness to engage peacefully and trustingly with a human, reflecting friendliness and sincerity.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Clearly introduces himself and Zira to Lewis, facilitating communication and trust.",
-      "Competence": 1,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "States calmly, 'We know that,' in response to Lewis's assurance that they mean no harm.",
+      "assessment": "Cornelius's calm acknowledgment suggests a level of trust and understanding, showing he is not hostile and is willing to communicate, which is a positive indicator of warmth.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Takes Lewis's hand when offered, demonstrating confidence in interaction despite tense circumstances.",
-      "Competence": 1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Comforts Zira while she is distressed, soothing her as she reacts angrily to the situation.",
+      "assessment": "This shows emotional intelligence and the ability to provide support in a tense moment, indicating interpersonal competence.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Expresses liking towards Lewis from the beginning.",
-      "Warmth": 1,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Responds calmly and clearly when Lewis asks for his name and introduces himself and Zira.",
+      "assessment": "His calm and clear communication under stress suggests confidence and composure, positive indicators of competence.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Expresses a favorable opinion about Lewis with confidence and clarity.",
-      "Competence": 1,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Takes Lewis's hand in greeting, while Zira does not.",
+      "assessment": "This action shows social confidence and willingness to engage, reflecting social competence.",
+      "rating": 2,
+      "chunk": 14
+    },
+    {
+      "trait": "competence",
+      "action": "Says 'We know that' in response to Lewis's assurance that they mean no harm.",
+      "assessment": "This indicates awareness and understanding of the situation, showing mental acuity and composure.",
+      "rating": 2,
+      "chunk": 14
+    },
+    {
+      "trait": "competence",
+      "action": "Does not attempt to challenge or escape despite the threatening environment (implied by the cage and chained gorilla).",
+      "assessment": "While this could be interpreted as cautiousness, it may also suggest passivity or lack of assertiveness in a critical situation, a mild negative indicator.",
+      "rating": -1,
+      "chunk": 14
+    },
+    {
+      "trait": "warmth",
+      "action": "Says to Lewis, 'I did from the beginning,' in response to Zira expressing that she likes Lewis.",
+      "assessment": "Cornelius's statement shows sincerity and a friendly, supportive attitude toward Lewis and Zira's interaction, indicating warmth and good-naturedness.",
+      "rating": 2,
+      "chunk": 15
+    },
+    {
+      "trait": "competence",
+      "action": "Expresses liking Lewis from the beginning, indicating social awareness and emotional intelligence in a tense situation.",
+      "assessment": "This shows Cornelius's ability to navigate social dynamics thoughtfully and with confidence, suggesting competent interpersonal skills.",
+      "rating": 2,
+      "chunk": 15
     }
   ]
 }

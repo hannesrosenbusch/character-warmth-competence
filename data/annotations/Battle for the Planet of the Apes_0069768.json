@@ -1,496 +1,1411 @@
 {
   "Caesar": [
     {
-      "Action": "Allows a human attendant named George to comb his hair and beard, showing comfort and acceptance.",
-      "Warmth": 1,
-      "Chunk": 1
+      "trait": "warmth",
+      "action": "Allows a human attendant (George) to comb his hair and beard, and thanks him sincerely.",
+      "assessment": "Caesar's polite gratitude towards his attendant shows respect and appreciation, indicating a courteous and warm demeanor.",
+      "rating": 2,
+      "chunk": 1
     },
     {
-      "Action": "Portrayed as a respected leader with a grand statue and a flag bearing his image, indicating effective leadership and symbolic competence.",
-      "Competence": 1,
-      "Chunk": 1
+      "trait": "competence",
+      "action": "Presides over a society that honors him with statues, flags, and public celebrations.",
+      "assessment": "This indicates Caesar's effective leadership and ability to inspire loyalty and respect among his followers, reflecting high competence in governance and social influence.",
+      "rating": 3,
+      "chunk": 1
     },
     {
-      "Action": "Sits calmly while being groomed and prepares himself carefully, showing self-control and confidence.",
-      "Competence": 1,
-      "Chunk": 1
+      "trait": "competence",
+      "action": "Sits calmly while being groomed by his valet, showing confidence and composure.",
+      "assessment": "This behavior suggests Caesar's self-assurance and control over his environment, traits associated with competent leadership.",
+      "rating": 2,
+      "chunk": 1
     },
     {
-      "Action": "Thanks his valet sincerely ('Thank you, George.')",
-      "Warmth": 1,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Allows Macdonald, a human overseer, to stand behind him and escort him, and permits him to wear clothes rather than a servant's uniform.",
+      "assessment": "This indicates a level of tolerance and respect toward humans, showing Caesar's willingness to treat at least some humans with dignity and equality, which is a positive indicator of warmth.",
+      "rating": 2,
+      "chunk": 2
     },
     {
-      "Action": "Emerges regally with an escort and is saluted by guards and officials showing his dignified leadership",
-      "Warmth": 0,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Receives respectful salutes and bows from Gorilla guards and minor ape officials, and humans bow more obsequiously.",
+      "assessment": "While this shows Caesar's authority and status, the scene does not provide evidence of his own warmth in response; it is more about his position than his personal warmth, so this is neutral.",
+      "rating": 0,
+      "chunk": 2
     },
     {
-      "Action": "Takes his position entering the Council chamber, commanding respect and silence",
-      "Warmth": 0,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Enters the Council chamber where diverse ape leaders with differing views are assembled, including those hostile to humans.",
+      "assessment": "Caesar's willingness to preside over a council with conflicting opinions, including aggressive and hostile members, suggests tolerance and a commitment to dialogue, which reflects positively on his warmth.",
+      "rating": 2,
+      "chunk": 2
     },
     {
-      "Action": "Assembles council, reports progress on Ape Supremacy, and stresses cautious peace with disarmament.",
-      "Warmth": 1,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Emerges regally from interior corridors, receiving salutes from armed guards and respectful bows from ape officials and human workers.",
+      "assessment": "This demonstrates Caesar's recognized authority and command presence, indicating his confident and capable leadership role.",
+      "rating": 2,
+      "chunk": 2
     },
     {
-      "Action": "Responds to Macdonald's question about goodwill towards humans with puzzlement and conditional goodwill only if humans obey laws.",
-      "Warmth": 0,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Attends a council meeting where diverse ape leaders with differing views are present.",
+      "assessment": "Caesar's role in presiding over a complex political assembly suggests his ability to manage and navigate political tensions, reflecting political and diplomatic competence.",
+      "rating": 2,
+      "chunk": 2
     },
     {
-      "Action": "Gently but firmly reminds Macdonald that despite saving his life, Macdonald is still a servant and cannot dictate policy; expresses a sense of possession but with a smile and a hope for continued loyalty.",
-      "Warmth": 0,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "Is attended by a valet and escorted by Macdonald, the only human allowed to wear clothes, indicating his elevated status.",
+      "assessment": "The presence of trusted attendants and unique human allies implies Caesar's skill in maintaining loyalty and respect across species, a sign of strategic social competence.",
+      "rating": 2,
+      "chunk": 2
     },
     {
-      "Action": "Encourages Lisa gently as she hides her pain and reassures the maid with a smile and whisper.",
-      "Warmth": 1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "No direct speech or decisive action shown in the excerpt beyond entering the council chamber.",
+      "assessment": "The lack of direct statements or decisions in this passage limits insight into Caesar's active problem-solving or leadership skills at this moment.",
+      "rating": 0,
+      "chunk": 2
     },
     {
-      "Action": "Leads a ceremony where apes assert dominance over humans, enforcing a strict hierarchy with apes as masters and humans as slaves.",
-      "Warmth": -1,
-      "Chunk": 5
+      "trait": "warmth",
+      "action": "Assembles and collates reports from all territories on the state of Ape Supremacy and announces the progress with pride.",
+      "assessment": "Caesar demonstrates responsibility and pride in the collective achievements, showing care for the community's well-being.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Commands that citizens show him neither ceremony nor homage on the festal day celebrating Ape Freedom",
-      "Warmth": 1,
-      "Chunk": 6
+      "trait": "warmth",
+      "action": "Acknowledges isolated pockets of human resistance but stresses they are no serious threat if scattered and disarmed.",
+      "assessment": "Caesar shows a pragmatic but cautious approach, indicating tolerance but also a firm stance on security; this reflects moderate warmth.",
+      "rating": 1,
+      "chunk": 3
     },
     {
-      "Action": "Delightedly participates in a children’s game initiated by a human teacher, showing friendliness towards human children",
-      "Warmth": 1,
-      "Chunk": 6
+      "trait": "warmth",
+      "action": "Declares that major human weapons will never be reactivated and that the world may breathe again, standing on the brink of an Era of Peace.",
+      "assessment": "This statement reflects a hopeful and sincere desire for peace, indicating good-natured leadership and trustworthiness.",
+      "rating": 3,
+      "chunk": 3
     },
     {
-      "Action": "Orders the arrest and interrogation of the Stranger promptly, showing decisiveness and command.",
-      "Competence": 1,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Responds to Macdonald's question about goodwill towards men with a puzzled 'Towards whom?' and then states goodwill is conditional on humans keeping ape laws.",
+      "assessment": "Caesar's conditional goodwill suggests a lack of full trust or tolerance towards humans, showing a guarded and somewhat less warm stance.",
+      "rating": 0,
+      "chunk": 3
     },
     {
-      "Action": "Dismisses the Stranger as a lunatic with a roll of his eyes, indicating skepticism and experience with such threats.",
-      "Competence": 1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Assembles and collates reports from all territories on the state of Ape Supremacy and presents a clear summary to the Council.",
+      "assessment": "This demonstrates Caesar's organizational skills, thoroughness, and ability to communicate complex information effectively, indicating strong competence.",
+      "rating": 3,
+      "chunk": 3
     },
     {
-      "Action": "Brief and efficient communication with subordinates, showing clear leadership and priority on action over prolonged debate.",
-      "Competence": 1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Acknowledges isolated pockets of human resistance but assesses them as no serious threat if scattered and disarmed.",
+      "assessment": "This shows Caesar's strategic thinking and realistic appraisal of threats, reflecting intelligence and prudence.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Ignores Macdonald's suggestion to treat the Stranger well until his mental state is confirmed, potentially missing an opportunity for intelligence or alliance.",
-      "Competence": -1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Declares that major human weapons have been disarmed and will never be reactivated, promoting an Era of Peace.",
+      "assessment": "This indicates Caesar's confidence and vision for peace, as well as his control over the situation, suggesting capable leadership.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Tosses a silver coin to a little black boy shining his shoes, showing generosity and recognition.",
-      "Warmth": 1,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Responds to Macdonald's question about goodwill towards men with a puzzled 'Towards whom?'",
+      "assessment": "This response may suggest a lack of diplomatic tact or emotional intelligence in addressing sensitive issues, slightly detracting from his competence.",
+      "rating": -1,
+      "chunk": 3
     },
     {
-      "Action": "Patiently questions the Stranger to learn about his origins and message, demonstrating tolerance and earnest communication.",
-      "Warmth": 1,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "States that goodwill towards men is conditional on their adherence to ape laws.",
+      "assessment": "While pragmatic, this conditional stance may reflect a rigid or uncompromising approach that could hinder reconciliation, indicating a moderate limitation in political skill.",
+      "rating": 0,
+      "chunk": 3
     },
     {
-      "Action": "Frowns while observing the situation, indicating concern or seriousness but not negativity toward others.",
-      "Warmth": 0,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Gently but firmly reminds Macdonald that saving his life does not entitle him to address the Council or formulate policy, emphasizing that Macdonald is a servant and belongs to him, ending with a smile and hope that he will remain so.",
+      "assessment": "Caesar's tone is gentle and authoritative, showing a degree of personal gratitude and connection (acknowledging Macdonald saved his life twice), but also clearly maintaining boundaries and hierarchy. The smile suggests warmth and sincerity, but the assertion of ownership and control limits the expression of full trust or equality.",
+      "rating": 1,
+      "chunk": 4
     },
     {
-      "Action": "Engages calmly and patiently with the Stranger, asking pointed questions to gather information.",
-      "Competence": 1,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Calmly asserts authority over Macdonald by reminding him that saving his life does not grant him policy-making power, emphasizing his own leadership role.",
+      "assessment": "This demonstrates Caesar's confident and skillful leadership, maintaining control of the council and setting clear boundaries, reflecting strong competence.",
+      "rating": 3,
+      "chunk": 4
     },
     {
-      "Action": "Maintains composure and authority while handling a tense confrontation.",
-      "Competence": 1,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Responds gently but with authority to a tense situation involving demands from humans for council representation.",
+      "assessment": "Caesar's composed and authoritative demeanor in a potentially volatile political discussion shows emotional intelligence and political skill, indicating high competence.",
+      "rating": 2,
+      "chunk": 4
     },
     {
-      "Action": "Allows silence to press on the Stranger without immediate reaction, indicating control and confidence.",
-      "Competence": 1,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Does not engage in escalating the conflict or allowing the council meeting to devolve into chaos despite provocations.",
+      "assessment": "His restraint and ability to maintain order suggest strong self-control and strategic thinking, positive indicators of competence.",
+      "rating": 2,
+      "chunk": 4
     },
     {
-      "Action": "Refuses to be intimidated by threats and shows controlled anger rather than rash violence",
-      "Warmth": 1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Allows Macdonald to speak and then firmly reasserts his position without dismissiveness or aggression.",
+      "assessment": "This balanced approach shows diplomatic skill and confidence, reinforcing his role as a capable leader.",
+      "rating": 2,
+      "chunk": 4
     },
     {
-      "Action": "States that apes have ways of hurting without harming and orders a form of non-lethal pain to be applied",
-      "Warmth": 1,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Caesar gently encourages Lisa after she winces in pain from the maid tightening her belt, responding with a smile and a reassuring gesture.",
+      "assessment": "Caesar's attentiveness to Lisa's discomfort and his gentle encouragement demonstrate his caring and considerate nature, indicating warmth.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Rebukes Brutus for breaking the Stranger's ribs, showing concern for unnecessary harm",
-      "Warmth": 1,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Caesar proceeds with the ceremonial investiture and tour of inspection where Apes are masters and Humans are slaves.",
+      "assessment": "While Caesar leads the ceremony and inspection, there is no indication he abuses his power or shows cruelty; however, the reversal of roles may suggest a pragmatic acceptance rather than an explicitly warm or inclusive approach.",
+      "rating": 0,
+      "chunk": 5
     },
     {
-      "Action": "Breaks into holiday celebrations with a dramatic Proclamation of Emergency to warn citizens of danger and organize shelter use.",
-      "Warmth": 1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Accepts the ceremonial investiture and leads the public procession through the city with a composed demeanor.",
+      "assessment": "Caesar demonstrates confidence and an ability to fulfill his leadership role with dignity, suggesting strong social and political competence.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Orders that deep shelters be immediately occupied by Apes only, with remaining shelter space allocated to selected Humans based on usefulness, while others must find alternate shelter.",
-      "Warmth": 0,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Moves forward promptly when citizens are waiting, showing awareness of his responsibilities.",
+      "assessment": "This indicates Caesar's attentiveness and readiness to engage with his subjects, reflecting good leadership skills.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Invites Macdonald to share the sanctuary of his V.I.P. shelter, showing concern for his safety despite Macdonald's initial refusal.",
-      "Warmth": 1,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Is groomed and robed by a valet without showing signs of discomfort or distraction.",
+      "assessment": "His calm acceptance of ceremonial duties suggests emotional control and adaptability to formal situations.",
+      "rating": 1,
+      "chunk": 5
     },
     {
-      "Action": "Gently argues with Macdonald and places an arm on his shoulder, displaying a sincere and friendly approach to persuade him.",
-      "Warmth": 1,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Leads a procession where the social order has dramatically reversed, with Apes as masters and Humans as slaves.",
+      "assessment": "Caesar appears to manage this complex social transition smoothly, indicating political acumen and strategic competence.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Reluctantly restricts Lisa to taking only one human maid into the shelter, prioritizing the State's needs over individual desires.",
-      "Warmth": 0,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "No indication of hesitation or uncertainty during the public appearance and inspection.",
+      "assessment": "His confident public presence suggests strong self-assurance and command over the situation.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Advocates repeatedly that the time for killing is over",
-      "Warmth": 1,
-      "Chunk": 21
+      "trait": "warmth",
+      "action": "Commands that citizens show him neither ceremony nor homage on the festal day celebrating thirteen years of Ape Freedom.",
+      "assessment": "By asking for no ceremony or homage, Caesar demonstrates humility and a desire for equality rather than superiority, indicating a respectful and sincere attitude toward his people.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Confidently leads the Inner Council meeting and advocates for peace, emphasizing that 'the time for killing is over'",
-      "Competence": 1,
-      "Chunk": 21
+      "trait": "warmth",
+      "action": "Interacts with Ape children playing 'Follow My Leader' and is delighted by their choice.",
+      "assessment": "Caesar's delight in the children's game shows his friendly and warm engagement with the younger generation, reflecting good-natured and sincere behavior.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Set in a position of authority and respected by both Apes and human supervisors in building cooperative infrastructure",
-      "Competence": 1,
-      "Chunk": 21
+      "trait": "warmth",
+      "action": "Passes through a public space where humans serve apes with food, and the humans act obsequiously.",
+      "assessment": "While Caesar does not intervene directly in the humans' subservient behavior, his presence in this setting suggests acceptance of the social order; however, his lack of visible action to address the humans' treatment may indicate a tolerance of inequality, which could be seen as a negative omission regarding warmth.",
+      "rating": -1,
+      "chunk": 6
     },
     {
-      "Action": "Advocates that the time for killing is over, promotes peaceful coexistence and cooperation among different groups.",
-      "Warmth": 1,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Commands that citizens show him neither ceremony nor homage on the festal day celebrating Ape Freedom.",
+      "assessment": "This demonstrates Caesar's confident leadership and political savvy, showing he prefers humility and peace over pomp, which reflects skillful governance.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Responds with sudden icy fury when Aldo disparages his son's royal status, asserting authority in council.",
-      "Warmth": -1,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Leads a group of children playing 'Follow My Leader' and is delighted by their obedience and enthusiasm.",
+      "assessment": "This indicates Caesar's ability to inspire loyalty and maintain order even among the young, reflecting effective leadership and social influence.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Shows concern for the noise disruption, indicating attentiveness to order and wellbeing.",
-      "Warmth": 0,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Passes through a public space where humans and apes interact under a structured social order with humans serving apes.",
+      "assessment": "Caesar's presence and the orderly environment suggest his successful establishment of a new social hierarchy, implying competent organization and control.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Shows signs of mental censorship preventing him from talking freely, indicating internal struggle or obstruction in communication.",
-      "Competence": 0,
-      "Chunk": 23
+      "trait": "competence",
+      "action": "Allows a human stranger with fanatical blue eyes and authoritative demeanor to block the group's progress without immediate confrontation.",
+      "assessment": "This could indicate prudence and caution in dealing with unknown threats, showing situational awareness; however, it might also suggest hesitation or lack of immediate assertiveness.",
+      "rating": 0,
+      "chunk": 6
     },
     {
-      "Action": "Receiving medical attention and investigation despite lack of confirming equipment, showing reliance on capable allies (Doc) and willingness to accept help.",
-      "Competence": 1,
-      "Chunk": 23
+      "trait": "warmth",
+      "action": "Orders the arrest of the human stranger who refuses to wear a servant's uniform and asserts human rights.",
+      "assessment": "Caesar's immediate response is authoritative and uncompromising, showing little tolerance or friendliness toward the stranger, reflecting a strict and possibly distrustful stance.",
+      "rating": -1,
+      "chunk": 7
     },
     {
-      "Action": "Gives vent to his guilt over the death of his beloved human foster-father, expressing a desire for no more killing while he is King.",
-      "Warmth": 1,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Rolls his eyes skyward in mock resignation when Lisa whimpers and hides her eyes at the stranger's threat.",
+      "assessment": "This reaction suggests a degree of impatience or dismissiveness rather than empathy or warmth toward Lisa's fear, indicating a lack of sensitivity in this moment.",
+      "rating": -1,
+      "chunk": 7
     },
     {
-      "Action": "Childlike whimper of dependency remembering Armando, showing emotional vulnerability.",
-      "Warmth": 1,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Instructs the Guard Commander to ensure the stranger is well-treated until his mental state is confirmed.",
+      "assessment": "Although Caesar is firm, he listens to Macdonald's suggestion and orders humane treatment, showing a measure of fairness and restraint.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Only drowsily reacts to urgent news about Lisa's labor-pains, indicating possible emotional or physical disengagement at that moment.",
-      "Warmth": 0,
-      "Chunk": 24
+      "trait": "competence",
+      "action": "Orders the arrest of the human Stranger immediately upon his refusal to comply with ape authority.",
+      "assessment": "This shows Caesar's decisiveness and confidence in maintaining order and ape dominance, reflecting strong leadership and situational control.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Drowsily reacts to urgent news about Lisa's labor pains, showing delayed or passive response in a critical moment.",
-      "Competence": -1,
-      "Chunk": 24
+      "trait": "competence",
+      "action": "Rolls his eyes skyward in mock resignation when the Stranger threatens destruction.",
+      "assessment": "This indicates Caesar's ability to remain calm and composed under threat, using humor or sarcasm to defuse tension, which is a sign of emotional intelligence and confidence.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Expresses deep guilt over the death of his foster-father Armando and vows no more killing as long as he is king, indicating emotional awareness and a moral stance.",
-      "Competence": 0,
-      "Chunk": 24
+      "trait": "competence",
+      "action": "Delegates the interrogation of the Stranger to General Aldo's Headquarters and orders a report to himself.",
+      "assessment": "This demonstrates strategic thinking and effective delegation, showing Caesar's understanding of chain of command and information flow.",
+      "rating": 3,
+      "chunk": 7
     },
     {
-      "Action": "Shows childlike dependency and emotional vulnerability in his lamentation, possibly undermining his confident leadership image.",
-      "Competence": -1,
-      "Chunk": 24
+      "trait": "competence",
+      "action": "Dismisses Macdonald's suggestion to treat the Stranger well until his lunacy is confirmed, responding tersely and moving on.",
+      "assessment": "This could indicate a potential oversight or lack of openness to alternative perspectives, suggesting a possible rigidity or impatience that might undermine thoroughness.",
+      "rating": -1,
+      "chunk": 7
     },
     {
-      "Action": "Presents his newborn son to the Council, Senate, and People, sharing a moment of communal celebration.",
-      "Warmth": 1,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Commands the Guard Commander to ensure the Stranger is well-treated after Macdonald's suggestion.",
+      "assessment": "This shows that Caesar is willing to incorporate advice and ensure humane treatment, reflecting balanced judgment and adaptability.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Shows immediate and deep concern for Lisa when she faints, crouching by her side attentively.",
-      "Warmth": 1,
-      "Chunk": 25
+      "trait": "warmth",
+      "action": "Tosses a silver dollar-sized coin with his own image to a little black boy shining his shoes.",
+      "assessment": "This gesture shows generosity and a respectful acknowledgment of the boy's work, indicating kindness and goodwill toward others regardless of status or race.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Expresses raw grief and vulnerability with a howl and keening after Lisa's death, revealing sincere emotional pain.",
-      "Warmth": 1,
-      "Chunk": 25
+      "trait": "warmth",
+      "action": "Patiently questions the Stranger about his identity and message.",
+      "assessment": "Caesar's patient and calm demeanor in seeking information reflects tolerance and a sincere desire to understand rather than jump to conclusions or show hostility.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Utters a howl of grief and keens inconsolably, showing open sorrow for the Queen's death.",
-      "Warmth": 1,
-      "Chunk": 26
+      "trait": "competence",
+      "action": "Tosses a silver dollar-sized coin with his profiled image to a little boy shining his shoes.",
+      "assessment": "This action demonstrates Caesar's awareness of symbolism and leadership image, suggesting he understands the importance of authority and morale.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Immediately focuses on the safety of the child Lex, calling out to others to look for him.",
-      "Warmth": 1,
-      "Chunk": 26
+      "trait": "competence",
+      "action": "Calmly confronts the Stranger and patiently questions him about his identity and purpose.",
+      "assessment": "Caesar's composed and methodical approach to interrogation shows intelligence, confidence, and control in a potentially tense situation.",
+      "rating": 3,
+      "chunk": 8
     },
     {
-      "Action": "Presides over a fierce debate of the Inner Council trying to manage the crisis.",
-      "Warmth": 0,
-      "Chunk": 26
+      "trait": "competence",
+      "action": "Allows the Stranger to speak and listens carefully to the message about Nimrod without interrupting.",
+      "assessment": "This indicates Caesar's strategic patience and ability to gather information before acting, reflecting strong leadership and situational awareness.",
+      "rating": 3,
+      "chunk": 8
     },
     {
-      "Action": "Regains his senses quickly and gives specific instructions to Lex to look to the child, despite panic.",
-      "Competence": 1,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Refuses to be intimidated by the Stranger's threat and insists on no 'or else' conditions.",
+      "assessment": "Caesar shows firmness and a protective attitude toward his people, indicating a sincere commitment to their safety and freedom.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Lets panic show in his roar and urgent calls, indicating momentary loss of composure.",
-      "Competence": -1,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Commands Brutus to show the Stranger that apes can hurt without harming.",
+      "assessment": "This demonstrates Caesar's attempt to control violence and avoid unnecessary harm, reflecting a measured and restrained approach that values life.",
+      "rating": 3,
+      "chunk": 9
     },
     {
-      "Action": "Presides over a fierce Inner Council debate, staying engaged with the situation and leadership responsibilities.",
-      "Competence": 1,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Reacts with concern and anger when Brutus accidentally breaks the Stranger's ribs.",
+      "assessment": "Caesar's immediate rebuke of Brutus for excessive force shows his intolerance for cruelty and his desire to maintain humane treatment, underscoring his good-natured leadership.",
+      "rating": 3,
+      "chunk": 9
     },
     {
-      "Action": "No clear decisive action to control the escalating chaos on scene apart from verbal commands.",
-      "Competence": 0,
-      "Chunk": 26
+      "trait": "competence",
+      "action": "Refuses to be intimidated by the Stranger's threat and responds calmly with 'No,' rejecting the ultimatum.",
+      "assessment": "This shows Caesar's confidence and control in a tense situation, indicating strong leadership and mental composure.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Considers possibility that Lex and Doctor might have conspired to kill his wife and kidnap his son, showing his willingness to entertain different perspectives despite personal pain.",
-      "Warmth": 1,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Challenges the Stranger by reminding him that humans did not set apes free when they were slaves, rejecting the 'or else' threat.",
+      "assessment": "This demonstrates Caesar's assertiveness and ability to confront threats with reasoned argument rather than fear, reflecting intelligence and moral clarity.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Responds wearily during the debate, indicating emotional burden and fatigue but still engaging with members of the council.",
-      "Warmth": 1,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Commands Brutus to show the Stranger that apes can hurt without harming, using controlled pain to intimidate.",
+      "assessment": "This indicates strategic thinking and self-restraint, using measured force to send a message without escalating violence unnecessarily.",
+      "rating": 3,
+      "chunk": 9
     },
     {
-      "Action": "Expresses grief and paranoia over his wife's murder and son's kidnapping, accuses all humans of conspiracy without evidence.",
-      "Warmth": -1,
-      "Chunk": 28
+      "trait": "competence",
+      "action": "Reacts sharply when Brutus accidentally breaks the Stranger's ribs, calling him a 'fat-knuckled idiot!'",
+      "assessment": "This reaction shows Caesar's expectation of precision and control from his subordinates, highlighting his standards for competence and discipline.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Yells aggressively and questions who can now be trusted, showing intense mistrust and anger.",
-      "Warmth": -1,
-      "Chunk": 28
+      "trait": "competence",
+      "action": "Maintains composure and authority during a high-stakes negotiation involving threats of mass destruction.",
+      "assessment": "Caesar's calm and commanding presence under pressure reflects strong leadership and emotional intelligence.",
+      "rating": 3,
+      "chunk": 9
     },
     {
-      "Action": "Suggests modifying his public oath to cut out humans' tongues to prevent them from conspiring, implying a ruthless approach.",
-      "Warmth": -1,
-      "Chunk": 28
+      "trait": "warmth",
+      "action": "Breaks into the holiday celebrations with a dramatic Proclamation of Emergency on P.A. and TV, announcing that deep shelters shall immediately be occupied by Apes only, and that remaining shelter space will be allocated to Humans based on their potential usefulness to Ape Society.",
+      "assessment": "Caesar's decision to prioritize Apes for shelter while still allowing some Humans access based on usefulness shows a pragmatic but limited tolerance and concern for others. However, the exclusion of many Humans and the imposition of strict selection criteria reflect a lack of full inclusiveness and empathy, indicating a guarded and utilitarian approach rather than warm-heartedness.",
+      "rating": 0,
+      "chunk": 10
     },
     {
-      "Action": "Abruptly rises and demands the council find more merciful ways to silence humans, showing some openness to less violent methods.",
-      "Warmth": 0,
-      "Chunk": 28
+      "trait": "competence",
+      "action": "Breaks into the holiday celebrations with a dramatic Proclamation of Emergency on P.A. and TV to alert the population about the threat and initiate countermeasures.",
+      "assessment": "This action demonstrates Caesar's ability to take decisive leadership in a crisis, communicate effectively to a large audience, and implement emergency protocols swiftly.",
+      "rating": 3,
+      "chunk": 10
     },
     {
-      "Action": "Kneels by Lisa's bedside, vows her death shall be avenged, then confronts Brad decisively about the hammering noise.",
-      "Competence": 1,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Orders that deep shelters, originally designed for humans, be immediately occupied by apes only, and allocates remaining shelter space to humans based on their usefulness to Ape Society.",
+      "assessment": "This shows strategic thinking and prioritization skills, balancing survival needs with social order and mercy, indicating high competence in crisis management and resource allocation.",
+      "rating": 3,
+      "chunk": 10
     },
     {
-      "Action": "Threatens that if others mutilate their own kind, the surgery will be performed clumsily and painfully by Ape pupils, implying a warning but not direct violence.",
-      "Warmth": 0,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Acknowledges that the threat may be a hoax but insists the Council take no risks.",
+      "assessment": "This reflects prudent judgment and cautious decision-making, avoiding complacency while maintaining control over the situation.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Says 'I offered you membership of a kingdom at peace' despite being confronted with betrayal and violence.",
-      "Warmth": 1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Does not personally intervene in the immediate violent incident involving the Stranger and guards, instead focusing on broader emergency response.",
+      "assessment": "This omission suggests Caesar prioritizes strategic leadership over direct physical involvement, which can be seen as competent delegation, though it might also be perceived as detachment in a critical moment.",
+      "rating": 1,
+      "chunk": 10
     },
     {
-      "Action": "Looks shiftily from side to side when accused, indicating possible evasiveness or guilt.",
-      "Warmth": -1,
-      "Chunk": 30
+      "trait": "warmth",
+      "action": "Invites Macdonald to share the sanctuary of his V.I.P. shelter during a crisis.",
+      "assessment": "Caesar shows care and concern for Macdonald's safety by offering him protection, indicating a protective and considerate nature.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Threatens that the surgery will be performed by the ape pupils, implying readiness to take control despite risks.",
-      "Competence": 0,
-      "Chunk": 30
+      "trait": "warmth",
+      "action": "Gently argues with Macdonald to accept shelter, placing an arm on his shoulder and smiling.",
+      "assessment": "This physical gesture and gentle tone demonstrate warmth, trust, and a sincere desire to protect a valued companion.",
+      "rating": 3,
+      "chunk": 11
     },
     {
-      "Action": "Appears shifty and uncomfortable when confronted about his wife and child being harmed.",
-      "Competence": -1,
-      "Chunk": 30
+      "trait": "warmth",
+      "action": "Restricts Lisa to taking only one human maid into the shelter despite her plea to bring two.",
+      "assessment": "While Caesar shows some empathy for Lisa's difficult position, his decision prioritizes state needs over individual desires, reflecting a more pragmatic and less warm stance.",
+      "rating": -1,
+      "chunk": 11
     },
     {
-      "Action": "Offers membership of a kingdom at peace",
-      "Warmth": 1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Invites Macdonald to share the sanctuary of his V.I.P. shelter and insists on saving him despite Macdonald's initial refusal.",
+      "assessment": "This demonstrates Caesar's leadership skills, decisiveness, and ability to assert authority while showing care for his allies, reflecting strong competence.",
+      "rating": 3,
+      "chunk": 11
     },
     {
-      "Action": "Accuses Macdonald of treachery and treason including children",
-      "Warmth": -1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Gently argues with Macdonald and uses a firm but calm threat ('I'll have you shot') to ensure compliance.",
+      "assessment": "This shows Caesar's skillful balance of diplomacy and firmness, indicating confident and intelligent leadership.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Refuses to continue peaceful talking and shows scornfulness",
-      "Warmth": -1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Reluctantly restricts Lisa to taking only one human maid into the shelter despite her pleas.",
+      "assessment": "This indicates Caesar's ability to make difficult decisions prioritizing the greater good over individual desires, a sign of responsible and capable leadership.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Expresses fury at the Commander for calling back main body",
-      "Warmth": 0,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Allows humans selected for shelter to be those who can serve the State rather than individuals.",
+      "assessment": "This reflects strategic thinking and prioritization of resources, showing Caesar's competence in governance and crisis management.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Acknowledges that Macdonald saved his people from pain and massacre",
-      "Warmth": 1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Exits a conference with his Councilors united in adversity.",
+      "assessment": "While this suggests Caesar's ability to maintain unity among his council, the excerpt does not provide enough detail on his active role, so the competence inferred is neutral.",
+      "rating": 0,
+      "chunk": 11
     },
     {
-      "Action": "Offers membership of a kingdom at peace, shows willingness to forgive but also calls out treachery and treason clearly.",
-      "Competence": 1,
-      "Chunk": 31
+      "trait": "warmth",
+      "action": "Reluctantly restricts Lisa to one shelter place, prioritizing those who can serve the State rather than individuals.",
+      "assessment": "Caesar's decision shows a pragmatic but emotionally difficult choice, indicating a sense of responsibility and care for the greater good, though it comes at the expense of personal warmth toward Lisa.",
+      "rating": 0,
+      "chunk": 12
     },
     {
-      "Action": "Rubs the torn fabric against his cheek to identify it, showing quick recognition of important clues.",
-      "Competence": 1,
-      "Chunk": 31
+      "trait": "warmth",
+      "action": "Hosts a V.I.P. shelter with councilors, aides, and trusted individuals, including Lisa and others, while human maids approach with confidence.",
+      "assessment": "Caesar appears to maintain a protective and inclusive environment for his close circle, showing trust and a degree of friendliness, though the exclusion of some humans hints at a guarded stance.",
+      "rating": 1,
+      "chunk": 12
     },
     {
-      "Action": "Reacts with fury when the Commander calls back the main body despite being given a tactical report.",
-      "Competence": 0,
-      "Chunk": 31
+      "trait": "warmth",
+      "action": "Allows Anna, a human maid, access to the shelter while Mary is excluded, causing Lisa distress.",
+      "assessment": "This selective allowance suggests Caesar is making difficult decisions that affect individuals personally, showing some compassion but also a necessary harshness, reflecting a complex balance between warmth and duty.",
+      "rating": 0,
+      "chunk": 12
     },
     {
-      "Action": "Scornfully dismisses the Commander’s reasoning about the dust-cloud without further investigation.",
-      "Competence": -1,
-      "Chunk": 31
+      "trait": "warmth",
+      "action": "Oversees a tense and somber evacuation where apes and humans prepare for shelter and possible destruction.",
+      "assessment": "Caesar's leadership in this crisis shows a serious and protective demeanor, but the lack of overt comforting or emotional support in the excerpt limits evidence of warmth.",
+      "rating": 0,
+      "chunk": 12
     },
     {
-      "Action": "Engages in tense, careful negotiation and shows an understanding of saving his people from massacre.",
-      "Competence": 1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Leads a group of apes and humans into heavily guarded shelters, including a VIP shelter with councilors and aides, demonstrating organized evacuation and protection measures.",
+      "assessment": "This action shows Caesar's ability to coordinate and maintain order under crisis conditions, reflecting strong leadership and strategic planning skills.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Bids farewell to Lisa respectfully and solemnly by stepping into the grave and putting his lips to the coffin-lid.",
-      "Competence": 1,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "Reluctantly restricts Lisa to one shelter spot, prioritizing state needs over personal desires.",
+      "assessment": "This indicates Caesar's capacity to make difficult decisions for the greater good, showing maturity and responsibility, though it may also suggest emotional restraint or detachment.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Vows not to kill those who killed Lisa, seeking justice without bloodshed.",
-      "Warmth": 1,
-      "Chunk": 34
+      "trait": "competence",
+      "action": "Presence in the VIP shelter alongside councilors and aides during a critical moment.",
+      "assessment": "His presence among leadership during a crisis suggests confidence and a central role in decision-making, reinforcing his competence as a leader.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Rushes to save a man from being killed, acting urgently and protectively.",
-      "Warmth": 1,
-      "Chunk": 34
+      "trait": "competence",
+      "action": "No direct action or speech from Caesar in this excerpt despite the tense situation.",
+      "assessment": "The lack of direct verbal or decisive action from Caesar in this moment could indicate a momentary passivity or delegation, which might be strategic but also leaves some ambiguity about his immediate responsiveness.",
+      "rating": 0,
+      "chunk": 12
     },
     {
-      "Action": "Declares that his child will be spared and will not be harmed even if it costs him bloodshed, shows care for family.",
-      "Warmth": 1,
-      "Chunk": 35
+      "trait": "competence",
+      "action": "Caesar is shown deep underground with his entourage, planning for an enigmatic future and responding to Zeno's question with 'We can wait.'",
+      "assessment": "This indicates a calm, patient, and strategic mindset, suggesting Caesar is confident in his plans and understands the value of timing rather than rushing into action.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Screams in pain and orders humans to be freed, showing desperation and possible willingness for peace despite threat.",
-      "Warmth": 0,
-      "Chunk": 35
+      "trait": "competence",
+      "action": "Caesar does not intervene directly in the violent clash between the Ape Police Squad and the human mob, instead focusing on planning underground.",
+      "assessment": "This omission could be interpreted as either prudent delegation or a lack of direct leadership in a critical moment; without further context, it suggests a cautious but possibly detached approach.",
+      "rating": 0,
+      "chunk": 15
     },
     {
-      "Action": "Dies whispering Macdonald's name, potentially seeking forgiveness, indicating remorse and sincerity toward others.",
-      "Warmth": 1,
-      "Chunk": 35
+      "trait": "competence",
+      "action": "Orders a General Blackout to evade detection from an incoming enemy plane.",
+      "assessment": "This action demonstrates strategic thinking and situational awareness, showing Caesar's ability to anticipate threats and take decisive measures to protect his people.",
+      "rating": 3,
+      "chunk": 16
     },
     {
-      "Action": "Commands to 'Set all humans free' despite intense pain and imminent danger, showing resolve and moral leadership under pressure.",
-      "Competence": 1,
-      "Chunk": 35
+      "trait": "competence",
+      "action": "Implements a city-wide blackout by coordinating with his forces to switch off all lights.",
+      "assessment": "This indicates effective leadership and organizational skills, as he successfully executes a complex operation involving multiple agents and infrastructure.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Fails to avoid being shot by Aldo after Macdonald's death exposes him, resulting in his own fatal injury.",
-      "Competence": -1,
-      "Chunk": 35
-    }
-  ],
-  "Caesar ": [
+      "trait": "competence",
+      "action": "Does not appear directly in the excerpt beyond issuing the blackout order.",
+      "assessment": "The lack of direct personal involvement in the immediate defense or counterattack could suggest a reliance on delegation, which may be positive or negative depending on context, but here it is neutral due to insufficient information.",
+      "rating": 0,
+      "chunk": 16
+    },
+    {
+      "trait": "competence",
+      "action": "Leads Gorilla Cavalry in a coordinated pincer-movement to outflank and surround the humans, using cavalry tactics he must have taught them.",
+      "assessment": "This action demonstrates Caesar's strategic thinking, leadership skills, and ability to train and command his forces effectively, indicating high competence.",
+      "rating": 3,
+      "chunk": 19
+    },
+    {
+      "trait": "competence",
+      "action": "Utilizes former circus riding skills to have gorillas ride bareback and maneuver cavalry units.",
+      "assessment": "This shows resourcefulness and practical application of his unique skills to improve military tactics, reflecting cleverness and adaptability.",
+      "rating": 2,
+      "chunk": 19
+    },
+    {
+      "trait": "competence",
+      "action": "Allows a human (Danny) to escape during the operation.",
+      "assessment": "While the escape could be due to factors beyond his control, it suggests a possible lapse in thoroughness or control over the operation, slightly detracting from his competence.",
+      "rating": -1,
+      "chunk": 19
+    },
+    {
+      "trait": "competence",
+      "action": "Trains Gorilla cavalry to ride bareback and execute a coordinated pincer movement to outflank and capture enemies.",
+      "assessment": "This demonstrates Caesar's strategic military skill, leadership, and ability to train and organize his forces effectively.",
+      "rating": 3,
+      "chunk": 20
+    },
+    {
+      "trait": "competence",
+      "action": "Believes the bogus psychiatrist's claim that his headaches are psychological.",
+      "assessment": "This suggests a degree of naivety or lack of critical judgment in personal health matters, indicating a slight vulnerability or lack of skepticism.",
+      "rating": -1,
+      "chunk": 20
+    },
+    {
+      "trait": "competence",
+      "action": "Oversees the construction of a new Ape City where Apes and Humans work together harmoniously, with Humans showing deference to Apes.",
+      "assessment": "This reflects Caesar's effective governance, ability to foster cooperation between species, and vision for societal progress.",
+      "rating": 2,
+      "chunk": 20
+    },
+    {
+      "trait": "warmth",
+      "action": "Caesar insists repeatedly that 'the time for killing is over.'",
+      "assessment": "By advocating for an end to violence, Caesar demonstrates a commitment to peace, tolerance, and goodwill toward others, reflecting a warm and conciliatory nature.",
+      "rating": 3,
+      "chunk": 21
+    },
+    {
+      "trait": "warmth",
+      "action": "Caesar leads the Inner Council and engages in discussions about community safety and responses to threats.",
+      "assessment": "Taking a leadership role and involving others in decision-making shows responsibility and a sincere concern for the welfare of the community, indicating warmth.",
+      "rating": 2,
+      "chunk": 21
+    },
+    {
+      "trait": "warmth",
+      "action": "Caesar accepts the presence and cooperation of Humans and Apes working together harmoniously under mutual respect.",
+      "assessment": "This tolerance and willingness to collaborate across species lines suggests Caesar is open-minded and good-natured.",
+      "rating": 2,
+      "chunk": 21
+    },
+    {
+      "trait": "warmth",
+      "action": "Caesar does not intervene or object when an Orangutan trying to steal an extra orange is summarily whipped.",
+      "assessment": "Caesar's omission to protect or advocate for the Orangutan in this harsh punishment may indicate a lack of empathy or leniency in this instance, detracting from warmth.",
+      "rating": -1,
+      "chunk": 21
+    },
+    {
+      "trait": "competence",
+      "action": "Leads the Inner Council meeting with calm and reasoned responses to conflict, emphasizing that 'the time for killing is over.'",
+      "assessment": "This demonstrates Caesar's ability to maintain control and promote peace in tense situations, reflecting strong leadership and emotional intelligence.",
+      "rating": 3,
+      "chunk": 21
+    },
+    {
+      "trait": "competence",
+      "action": "Accepts the role of head of the Inner Council and presides over discussions involving complex social and security issues.",
+      "assessment": "Shows confidence and capability in governance and decision-making, indicating political and strategic competence.",
+      "rating": 2,
+      "chunk": 21
+    },
+    {
+      "trait": "competence",
+      "action": "Does not react impulsively to Aldo's dark suggestion of retaliation against the attackers.",
+      "assessment": "By restraining himself and advocating for peace, Caesar demonstrates self-control and wise judgment, key aspects of competence.",
+      "rating": 2,
+      "chunk": 21
+    },
+    {
+      "trait": "competence",
+      "action": "Relies on reports from others (MacDonald) to clarify the situation about the shooting incident.",
+      "assessment": "While delegating information gathering is practical, Caesar's dependence on others for facts rather than direct investigation may suggest a moderate limitation in hands-on competence.",
+      "rating": 0,
+      "chunk": 21
+    },
+    {
+      "trait": "warmth",
+      "action": "Advocates that the time for killing is over and insists that the time for peace has come.",
+      "assessment": "Caesar's repeated insistence on peace and ending violence shows a strong commitment to tolerance and goodwill.",
+      "rating": 3,
+      "chunk": 22
+    },
+    {
+      "trait": "warmth",
+      "action": "Supports the idea that humans should live and serve the community like their fellows, promoting cooperation rather than exclusion.",
+      "assessment": "This reflects Caesar's inclusive and trusting nature, showing benevolence and a desire for harmony between species.",
+      "rating": 3,
+      "chunk": 22
+    },
+    {
+      "trait": "warmth",
+      "action": "Responds to Aldo's scornful challenge by emphasizing that the army exists to keep peace, not to break it.",
+      "assessment": "Caesar's calm and principled stance in the face of hostility demonstrates sincerity and a good-natured leadership style.",
+      "rating": 2,
+      "chunk": 22
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses sudden, icy fury when Aldo disparages the propriety of a prince's cot for Caesar's son.",
+      "assessment": "While protective of his family, Caesar's harsh reaction reveals a less tolerant and more authoritarian side, reducing warmth in this moment.",
+      "rating": -1,
+      "chunk": 22
+    },
+    {
+      "trait": "warmth",
+      "action": "Requests that the noise of hammering and sawing be stopped to understand what is being built.",
+      "assessment": "This shows attentiveness and concern for his environment and people, indicating a caring and considerate nature.",
+      "rating": 1,
+      "chunk": 22
+    },
+    {
+      "trait": "warmth",
+      "action": "Endorses a compromise that the survival of humans depends on their cooperation.",
+      "assessment": "This pragmatic but fair approach reflects a willingness to trust and give others a chance, showing measured warmth.",
+      "rating": 2,
+      "chunk": 22
+    },
+    {
+      "trait": "competence",
+      "action": "States firmly that the time for killing is over and insists that the army exists to keep the peace, not to break it.",
+      "assessment": "This demonstrates Caesar's clear vision and leadership skills, showing his ability to prioritize peace and stability over violence, which is a sign of competent governance.",
+      "rating": 2,
+      "chunk": 22
+    },
+    {
+      "trait": "competence",
+      "action": "Responds to the disruptive noise of sawing and hammering with a request to stop the noise and asks what is being built.",
+      "assessment": "This shows Caesar's attentiveness and control over his environment, indicating situational awareness and concern for order, reflecting competent leadership.",
+      "rating": 1,
+      "chunk": 22
+    },
+    {
+      "trait": "competence",
+      "action": "Expresses sudden, icy fury when Aldo disparages the propriety of a prince's cot, asserting that it is not a matter for debate in council.",
+      "assessment": "This reaction reveals Caesar's strong sense of authority and confidence in his role, but the emotional intensity might suggest occasional impulsiveness, which could undermine calm decision-making.",
+      "rating": 1,
+      "chunk": 22
+    },
+    {
+      "trait": "competence",
+      "action": "Holds his head in pain multiple times during the council meeting.",
+      "assessment": "This physical reaction may indicate stress or internal conflict, which could momentarily impair his ability to lead effectively, suggesting a vulnerability in his competence under pressure.",
+      "rating": -1,
+      "chunk": 22
+    },
+    {
+      "trait": "competence",
+      "action": "Supports Zeno's compromise that the survival of humans depends on their cooperation.",
+      "assessment": "This shows Caesar's willingness to seek pragmatic solutions and compromise, reflecting intelligent and skillful leadership.",
+      "rating": 2,
+      "chunk": 22
+    },
+    {
+      "trait": "competence",
+      "action": "Asks about the whereabouts of Lex when disturbed by noise.",
+      "assessment": "This indicates Caesar's attentiveness to key individuals and situational details, a sign of competent oversight.",
+      "rating": 1,
+      "chunk": 22
+    },
+    {
+      "trait": "warmth",
+      "action": "Caesar is undergoing psychiatric evaluation and is being treated with care by Doc and Lex, indicating concern for his well-being.",
+      "assessment": "Although Caesar himself is not actively demonstrating warmth in this excerpt, the care taken by others around him suggests he is valued and trusted, which may reflect his generally warm and trustworthy nature.",
+      "rating": 1,
+      "chunk": 23
+    },
+    {
+      "trait": "warmth",
+      "action": "Caesar is mentally censored and unable to talk freely, showing internal restraint or suppression.",
+      "assessment": "Caesar's mental censorship and inability to communicate openly may indicate internal conflict or guardedness, which could limit his outward warmth and openness in this moment.",
+      "rating": -1,
+      "chunk": 23
+    },
+    {
+      "trait": "competence",
+      "action": "Caesar is suffering from a suspected brain condition causing mental censorship, preventing him from talking freely.",
+      "assessment": "This indicates a significant limitation on Caesar's cognitive and communicative abilities, which negatively impacts his competence in leadership and decision-making.",
+      "rating": -2,
+      "chunk": 23
+    },
+    {
+      "trait": "competence",
+      "action": "Doc offers to inject Caesar with pentothal to 'unbutton' him and enable freer communication.",
+      "assessment": "Caesar's reliance on medical intervention to overcome mental blocks suggests current vulnerability and reduced self-sufficiency, reflecting a temporary dip in competence.",
+      "rating": -1,
+      "chunk": 23
+    },
+    {
+      "trait": "competence",
+      "action": "Despite his condition, Caesar remains the central figure in the court-circle and the focus of covert operations and intelligence reports.",
+      "assessment": "This implies that Caesar retains a position of influence and strategic importance, indicating underlying competence and leadership presence even if impaired.",
+      "rating": 1,
+      "chunk": 23
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses tormented guilt over having been instrumental in the death of his beloved human foster-father, Armando, lamenting 'He loved me, and I killed him. There will be no more killing, while I am King.'",
+      "assessment": "Caesar's deep remorse and vow to end killing demonstrate his sincere, good-natured, and trustworthy character, reflecting a strong internal moral compass and capacity for empathy.",
+      "rating": 3,
+      "chunk": 24
+    },
+    {
+      "trait": "warmth",
+      "action": "Drowsily reacts to the news of Lisa's labor pains without immediate active engagement.",
+      "assessment": "Caesar's drowsy, passive reaction to an urgent and emotional situation suggests a momentary lack of attentiveness or warmth, though it may be due to physical or emotional exhaustion rather than coldness.",
+      "rating": -1,
+      "chunk": 24
+    },
+    {
+      "trait": "warmth",
+      "action": "Whimpers childlike dependency recalling his parting from Armando.",
+      "assessment": "This vulnerable display of emotion reveals Caesar's sincere and tender side, indicating openness and emotional warmth.",
+      "rating": 2,
+      "chunk": 24
+    },
+    {
+      "trait": "competence",
+      "action": "Only drowsily reacts when informed that Lisa's labor pains have started.",
+      "assessment": "This suggests a momentary lack of alertness or engagement at a critical time, indicating a slight lapse in situational awareness.",
+      "rating": -1,
+      "chunk": 24
+    },
+    {
+      "trait": "competence",
+      "action": "Expresses deep guilt and laments his role in the death of his human foster-father, Armando, vowing that there will be no more killing while he is King.",
+      "assessment": "This shows emotional depth and a strong moral resolve, reflecting thoughtful leadership and self-awareness, which are components of competence.",
+      "rating": 2,
+      "chunk": 24
+    },
+    {
+      "trait": "competence",
+      "action": "Whimpers childlike dependency recalling his parting from Armando.",
+      "assessment": "This moment of vulnerability may indicate emotional immaturity or difficulty managing grief, which could undermine his perceived strength and confidence as a leader.",
+      "rating": -1,
+      "chunk": 24
+    },
+    {
+      "trait": "warmth",
+      "action": "Takes the baby from Anna's arms and holds the child aloft, presenting him proudly to the Council, Senate, and People.",
+      "assessment": "This action shows Caesar's pride, sincerity, and affectionate nature as a father, demonstrating warmth and a desire to share joy with his community.",
+      "rating": 3,
+      "chunk": 25
+    },
+    {
+      "trait": "warmth",
+      "action": "Crouches in great concern over Lisa after she falls and shows signs of pain.",
+      "assessment": "Caesar's immediate concern and physical closeness to Lisa in her moment of distress reflect his caring and protective nature, indicating strong warmth.",
+      "rating": 3,
+      "chunk": 25
+    },
+    {
+      "trait": "warmth",
+      "action": "Utters a single howl of grief and keens inconsolably after Lisa's death.",
+      "assessment": "His open expression of grief and vulnerability reveals deep emotional sincerity and attachment, underscoring his warm and genuine character.",
+      "rating": 3,
+      "chunk": 25
+    },
+    {
+      "trait": "warmth",
+      "action": "Allows the Gorilla Police to hold back the crowd eager to help Lisa.",
+      "assessment": "While this could be seen as controlling, it also shows Caesar's understanding of order and concern for safety, balancing warmth with responsibility; not a negative indicator but neutral to slightly positive.",
+      "rating": 1,
+      "chunk": 25
+    },
+    {
+      "trait": "competence",
+      "action": "Presents his newborn son to the Council, Senate, and People with confidence and ceremony.",
+      "assessment": "This action demonstrates Caesar's ability to lead publicly and perform important ceremonial duties with poise, indicating strong leadership competence.",
+      "rating": 2,
+      "chunk": 25
+    },
+    {
+      "trait": "competence",
+      "action": "Immediately gives the baby to 'Tex' to hold and crouches in concern over Lisa when she falls.",
+      "assessment": "This shows Caesar's quick situational awareness and prioritization of care, reflecting competent crisis management and emotional intelligence.",
+      "rating": 2,
+      "chunk": 25
+    },
+    {
+      "trait": "competence",
+      "action": "Reverts momentarily to a primitive howl of grief and keening after Lisa's death.",
+      "assessment": "While this reaction is emotionally understandable, it suggests a temporary loss of composure and control in a critical moment, indicating a brief lapse in emotional regulation and leadership presence.",
+      "rating": -1,
+      "chunk": 25
+    },
+    {
+      "trait": "competence",
+      "action": "Allows the crowd to begin surging toward the dais after Lisa's death, requiring Gorilla Police to hold them back.",
+      "assessment": "This indicates a lack of crowd control or anticipation of public reaction, which could be seen as a shortcoming in managing public order during crises.",
+      "rating": -1,
+      "chunk": 25
+    },
+    {
+      "trait": "warmth",
+      "action": "Upon regaining consciousness, Caesar immediately calls out to Lex to look after the child.",
+      "assessment": "Caesar's immediate concern for the safety and well-being of the child demonstrates his protective and caring nature, indicating warmth.",
+      "rating": 3,
+      "chunk": 26
+    },
+    {
+      "trait": "warmth",
+      "action": "Presides over a fierce debate of the Inner Council following the Queen's death and the kidnapping of the baby.",
+      "assessment": "While presiding over the council shows leadership, the text does not indicate Caesar's stance or tone; his presence alone suggests responsibility but not necessarily warmth or coldness.",
+      "rating": 0,
+      "chunk": 26
+    },
+    {
+      "trait": "competence",
+      "action": "Regains his senses quickly after a moment of grief and immediately instructs Lex to look to the child.",
+      "assessment": "This shows Caesar's ability to recover from emotional distress and prioritize critical tasks, indicating strong situational awareness and leadership under pressure.",
+      "rating": 2,
+      "chunk": 26
+    },
+    {
+      "trait": "competence",
+      "action": "Rises and peers about the dais, then roars Lex's name in panic.",
+      "assessment": "While the panic suggests emotional vulnerability, the act of actively searching and calling out shows engagement and concern, though it also reveals some loss of composure in a crisis.",
+      "rating": 0,
+      "chunk": 26
+    },
+    {
+      "trait": "competence",
+      "action": "Presides over a fierce debate of the Inner Council following the crisis.",
+      "assessment": "Maintaining leadership and control over a tense political situation demonstrates Caesar's confidence and skill in governance and decision-making.",
+      "rating": 2,
+      "chunk": 26
+    },
+    {
+      "trait": "competence",
+      "action": "No indication of immediate strategic response to Aldo's harsh orders to arrest Doc and herd humans.",
+      "assessment": "Caesar does not appear to counter or challenge Aldo's aggressive measures in this excerpt, which may suggest a lack of assertiveness or strategic intervention at a critical moment.",
+      "rating": -1,
+      "chunk": 26
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses weary concern about the possibility that Lex and the Doctor conspired to kill his wife and kidnap his son.",
+      "assessment": "Caesar's weariness and concern reveal his deep emotional investment and protective nature toward his family, indicating sincerity and care.",
+      "rating": 2,
+      "chunk": 27
+    },
+    {
+      "trait": "warmth",
+      "action": "Listens to the debate among the Inner Council without immediately condemning or dismissing others' opinions.",
+      "assessment": "By allowing discussion and considering different viewpoints, Caesar shows tolerance and respect for others, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 27
+    },
+    {
+      "trait": "warmth",
+      "action": "Does not react with immediate anger or violence to Aldo's harsh statement about stamping humans into the ground.",
+      "assessment": "Caesar's restraint in the face of aggressive rhetoric suggests a measured and good-natured approach, favoring dialogue over hostility.",
+      "rating": 2,
+      "chunk": 27
+    },
+    {
+      "trait": "competence",
+      "action": "Caesar presides over a fierce debate of the Inner Council, listening to accusations and theories about conspiracies against his family and leadership.",
+      "assessment": "This shows Caesar's role as a leader who engages with complex political and social issues, indicating a level of responsibility and involvement that suggests competence.",
+      "rating": 2,
+      "chunk": 27
+    },
+    {
+      "trait": "competence",
+      "action": "Caesar expresses weariness but considers the possibility that trusted individuals like Lex and the Doctor might have conspired against him.",
+      "assessment": "His willingness to entertain difficult possibilities and not dismiss potential threats outright reflects cautious intelligence and strategic thinking, though his weariness may hint at some emotional burden affecting his decisiveness.",
+      "rating": 1,
+      "chunk": 27
+    },
+    {
+      "trait": "competence",
+      "action": "Caesar does not immediately reject the accusations or conspiracy theories but listens carefully to the arguments presented by others.",
+      "assessment": "This openness to different viewpoints and evidence demonstrates intellectual humility and a methodical approach to leadership, reinforcing his competence.",
+      "rating": 2,
+      "chunk": 27
+    },
+    {
+      "trait": "competence",
+      "action": "Caesar does not take direct action in this excerpt to counter the conspiracy or to rally his people, instead appearing somewhat passive and weary.",
+      "assessment": "This lack of immediate decisive action or visible confidence could be interpreted as a momentary lapse in leadership vigor, slightly detracting from his overall competence.",
+      "rating": -1,
+      "chunk": 27
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses deep personal anguish over his wife being murdered and his son stolen.",
+      "assessment": "Caesar's expression of grief reveals his capacity for love and emotional connection, indicating warmth through his sincere concern for family.",
+      "rating": 2,
+      "chunk": 28
+    },
+    {
+      "trait": "warmth",
+      "action": "Publicly swears that 'the time for killing is over!'",
+      "assessment": "This oath demonstrates a commitment to peace and restraint, reflecting a trustworthy and benevolent attitude.",
+      "rating": 3,
+      "chunk": 28
+    },
+    {
+      "trait": "warmth",
+      "action": "Suggests modifying his oath by 'cutting out their tongues' to prevent humans from conspiring.",
+      "assessment": "This suggestion is harsh and cruel, showing a willingness to inflict suffering and suppress others, which undermines warmth.",
+      "rating": -3,
+      "chunk": 28
+    },
+    {
+      "trait": "warmth",
+      "action": "Abruptly challenges the council to find more merciful ways to silence humans instead of mutilation.",
+      "assessment": "Although initially proposing a cruel solution, Caesar's openness to more merciful alternatives indicates some tolerance and concern for humane treatment.",
+      "rating": 1,
+      "chunk": 28
+    },
+    {
+      "trait": "warmth",
+      "action": "Stalks darkly out of the Council Chamber after the discussion.",
+      "assessment": "His dark departure suggests internal turmoil and possible emotional distancing, which may reflect decreased warmth or increased bitterness.",
+      "rating": -1,
+      "chunk": 28
+    },
+    {
+      "trait": "competence",
+      "action": "Shows signs of mental and physical stress, openly admits his wife is murdered and son stolen, and accuses humans of conspiracy without evidence.",
+      "assessment": "This reveals emotional vulnerability and a tendency to jump to conclusions without solid proof, which undermines his rational leadership and decision-making.",
+      "rating": -2,
+      "chunk": 28
+    },
+    {
+      "trait": "competence",
+      "action": "Yells like Hitler about conspiracy, implying that conspiracies by nature leave no evidence.",
+      "assessment": "This comparison and reasoning show a dangerous and extreme mindset, indicating poor emotional control and a willingness to justify paranoia, which detracts from competent leadership.",
+      "rating": -3,
+      "chunk": 28
+    },
+    {
+      "trait": "competence",
+      "action": "Publicly swore that 'the time for killing is over' but then suggests it can be modified by 'cutting out their tongues.'",
+      "assessment": "This shows duplicity and a readiness to undermine his own promises, which damages trust and suggests manipulative rather than straightforward competence.",
+      "rating": -2,
+      "chunk": 28
+    },
+    {
+      "trait": "competence",
+      "action": "Abruptly rises and challenges others to find more merciful ways to silence humans instead of mutilation.",
+      "assessment": "This indicates some openness to alternative solutions and a willingness to delegate problem-solving, which is a moderately positive sign of competence.",
+      "rating": 1,
+      "chunk": 28
+    },
+    {
+      "trait": "competence",
+      "action": "Stalks out of the Council Chamber darkly after the heated exchange.",
+      "assessment": "This non-verbal action suggests emotional overwhelm and withdrawal from leadership responsibilities at a critical moment, reflecting poorly on his ability to manage stress and lead effectively.",
+      "rating": -2,
+      "chunk": 28
+    },
+    {
+      "trait": "competence",
+      "action": "Kneels by Lisa's bedside and vows her death shall be revenged.",
+      "assessment": "This shows emotional resolve and leadership in a moment of grief, indicating a strong sense of purpose and confidence in his role as protector and avenger.",
+      "rating": 2,
+      "chunk": 29
+    },
+    {
+      "trait": "competence",
+      "action": "Strides angrily to the window and confronts Brad about the coffin being made.",
+      "assessment": "This demonstrates assertiveness and situational awareness, as Caesar quickly identifies a potential threat or significant event and addresses it directly, showing decisiveness.",
+      "rating": 2,
+      "chunk": 29
+    },
+    {
+      "trait": "competence",
+      "action": "Does not intervene or react further after learning about the coffin being prepared.",
+      "assessment": "The lack of further action or inquiry after confronting Brad could suggest a momentary omission or restraint, possibly indicating either strategic patience or a missed opportunity to gather more intelligence.",
+      "rating": 0,
+      "chunk": 29
+    },
+    {
+      "trait": "warmth",
+      "action": "Threatens that if the surgery is done by the humans, it will be performed by the apes' pupils, likely more painfully and lethally.",
+      "assessment": "Caesar's threat reveals a harsh and vengeful attitude rather than a warm or forgiving nature, indicating low tolerance and friendliness toward the humans involved.",
+      "rating": -2,
+      "chunk": 30
+    },
+    {
+      "trait": "warmth",
+      "action": "Offers membership of a kingdom at peace to the humans.",
+      "assessment": "This offer shows Caesar's willingness to coexist peacefully and be inclusive, reflecting trustworthiness and a good-natured approach.",
+      "rating": 2,
+      "chunk": 30
+    },
+    {
+      "trait": "competence",
+      "action": "Threatens that if the surgery is performed, it will be done by the 'aptest of your Ape pupils' but likely clumsily, painfully, and lethally, implying a lack of surgical skill among apes.",
+      "assessment": "This statement shows Caesar's awareness of the limitations in ape medical skills and his attempt to use this as leverage, indicating strategic thinking and realistic appraisal of capabilities.",
+      "rating": 2,
+      "chunk": 30
+    },
+    {
+      "trait": "competence",
+      "action": "Looks shiftily from side to side when confronted about offering membership to a kingdom at peace.",
+      "assessment": "This behavior suggests evasiveness or discomfort, which may indicate insecurity or lack of confidence in his position or honesty, detracting from his perceived competence.",
+      "rating": -1,
+      "chunk": 30
+    },
+    {
+      "trait": "warmth",
+      "action": "Offers membership of a kingdom at peace to Boc.",
+      "assessment": "Offering membership to a peaceful kingdom suggests a desire for inclusion and harmony, indicating warmth.",
+      "rating": 2,
+      "chunk": 31
+    },
+    {
+      "trait": "warmth",
+      "action": "Accuses Macdonald of treachery and treason, including the children.",
+      "assessment": "Labeling even children as future traitors shows a harsh and unforgiving attitude, reducing perceived warmth.",
+      "rating": -2,
+      "chunk": 31
+    },
+    {
+      "trait": "warmth",
+      "action": "References the story of Judas to Macdonald.",
+      "assessment": "Invoking betrayal through a religious/historical analogy implies distrust and condemnation, which is cold and accusatory.",
+      "rating": -2,
+      "chunk": 31
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses fury at the Commander for calling back the main body during a search.",
+      "assessment": "His anger reflects a strong commitment to protecting his people, but the fury may indicate impatience or intolerance.",
+      "rating": 0,
+      "chunk": 31
+    },
+    {
+      "trait": "warmth",
+      "action": "Acknowledges Macdonald's offer to be made mute to prevent further conflict.",
+      "assessment": "Recognizing the offer shows some respect for Macdonald's intentions, but Caesar's curt response lacks warmth or empathy.",
+      "rating": 0,
+      "chunk": 31
+    },
+    {
+      "trait": "competence",
+      "action": "Offers membership of a kingdom at peace to Macdonald, attempting diplomacy.",
+      "assessment": "This shows Caesar's strategic thinking and desire for peaceful resolution, indicating political and leadership competence.",
+      "rating": 2,
+      "chunk": 31
+    },
+    {
+      "trait": "competence",
+      "action": "Accuses Macdonald of treachery and treason, including future generations.",
+      "assessment": "This demonstrates Caesar's awareness of long-term consequences and his firm stance, reflecting decisiveness and foresight.",
+      "rating": 2,
+      "chunk": 31
+    },
+    {
+      "trait": "competence",
+      "action": "Recalls the story of Judas as a metaphor for betrayal.",
+      "assessment": "This indicates Caesar's use of cultural and historical knowledge to frame his arguments, showing intellectual depth.",
+      "rating": 2,
+      "chunk": 31
+    },
+    {
+      "trait": "competence",
+      "action": "Takes the torn fabric from the commander and immediately identifies it as from the blanket.",
+      "assessment": "This quick recognition shows attention to detail and situational awareness, key aspects of competence.",
+      "rating": 2,
+      "chunk": 31
+    },
+    {
+      "trait": "competence",
+      "action": "Questions the commander furiously about why the main body was called back.",
+      "assessment": "This shows Caesar's assertiveness and demand for accountability, reflecting leadership qualities, though the fury might cloud judgment slightly.",
+      "rating": 1,
+      "chunk": 31
+    },
+    {
+      "trait": "competence",
+      "action": "Dismisses the commander's explanation about the dust cloud as the country being dusty.",
+      "assessment": "This skepticism shows critical thinking, but the vague response to Aldo's insistence that the dust cloud was moving suggests some uncertainty or lack of information.",
+      "rating": 0,
+      "chunk": 31
+    },
+    {
+      "trait": "competence",
+      "action": "Turns on the commander sharply after acknowledging Macdonald's offer to be made mute.",
+      "assessment": "This indicates Caesar's ability to switch focus quickly and maintain control of the situation, a sign of confidence and command presence.",
+      "rating": 2,
+      "chunk": 31
+    },
+    {
+      "trait": "warmth",
+      "action": "Bows his head in grief and follows the funeral procession for Lisa, showing visible mourning.",
+      "assessment": "Caesar's bowed head and participation in the funeral procession demonstrate his sincere grief and respect, indicating a good-natured and sincere character.",
+      "rating": 3,
+      "chunk": 33
+    },
+    {
+      "trait": "warmth",
+      "action": "Jumps into the shallow grave and puts his lips to the coffin-lid to bid Lisa goodbye.",
+      "assessment": "This intimate and personal gesture shows deep affection and tenderness, reflecting Caesar's warmth and emotional openness.",
+      "rating": 3,
+      "chunk": 33
+    },
+    {
+      "trait": "warmth",
+      "action": "Commands the crowd to stand back and allow him to say goodbye to Lisa.",
+      "assessment": "By asserting this moment for himself, Caesar shows a respectful and sincere approach to mourning, valuing personal connection and emotional expression.",
+      "rating": 2,
+      "chunk": 33
+    },
+    {
+      "trait": "competence",
+      "action": "Bows his head in grief and leads the funeral procession with solemnity and respect.",
+      "assessment": "This shows emotional intelligence and leadership presence, indicating a competent ability to handle social and ceremonial duties appropriately.",
+      "rating": 2,
+      "chunk": 33
+    },
+    {
+      "trait": "competence",
+      "action": "Jumps into the shallow grave and puts his lips to the coffin-lid to bid farewell.",
+      "assessment": "This action demonstrates a personal and heartfelt connection, showing emotional depth and confidence in expressing grief publicly, which is a sign of mature competence.",
+      "rating": 2,
+      "chunk": 33
+    },
+    {
+      "trait": "competence",
+      "action": "Commands the crowd to stand back to allow him to say goodbye.",
+      "assessment": "This indicates assertiveness and the ability to command respect in a sensitive situation, reflecting competent leadership and social control.",
+      "rating": 2,
+      "chunk": 33
+    },
+    {
+      "trait": "warmth",
+      "action": "Caesar vows not to kill those who have killed Lisa, saying 'For your sake, I shall not kill those who have killed you.'",
+      "assessment": "This shows restraint and a commitment to mercy even in the face of personal loss, indicating a capacity for forgiveness and benevolence.",
+      "rating": 3,
+      "chunk": 34
+    },
+    {
+      "trait": "warmth",
+      "action": "Caesar reacts immediately to the warning that shedding human blood will endanger the child, leaping from Lisa's grave and rushing to stop the doctor from harming Macdonald.",
+      "assessment": "His urgent intervention to protect innocent life, even that of a human, demonstrates care, responsibility, and a protective nature.",
+      "rating": 3,
+      "chunk": 34
+    },
+    {
+      "trait": "warmth",
+      "action": "Caesar orders his men to withdraw from the grave area, showing discipline and control over his followers.",
+      "assessment": "This indicates a level of respect for others and a desire to avoid unnecessary conflict, reflecting thoughtful leadership and tolerance.",
+      "rating": 2,
+      "chunk": 34
+    },
+    {
+      "trait": "warmth",
+      "action": "Caesar does not respond to Aldo's aggressive attempt to intercept him, instead focusing on reaching the medical hut.",
+      "assessment": "By not engaging in confrontation and prioritizing saving a life, Caesar shows restraint and a focus on peaceful resolution.",
+      "rating": 2,
+      "chunk": 34
+    },
+    {
+      "trait": "competence",
+      "action": "Decides not to kill those who have killed Lisa, vowing to avenge her without shedding human blood.",
+      "assessment": "This shows Caesar's strategic restraint and moral clarity, indicating a thoughtful and controlled approach rather than impulsive violence.",
+      "rating": 2,
+      "chunk": 34
+    },
+    {
+      "trait": "competence",
+      "action": "Leaps out of Lisa's grave and runs yelling towards the Medical hut upon hearing the whisper warning about the child and the threat of bloodshed.",
+      "assessment": "This demonstrates quick responsiveness and decisiveness in a critical moment, showing situational awareness and urgency.",
+      "rating": 2,
+      "chunk": 34
+    },
+    {
+      "trait": "competence",
+      "action": "Orders his men to withdraw far enough from the grave to avoid hearing the whispering voice.",
+      "assessment": "This indicates Caesar's ability to control his forces and maintain discipline, though it also suggests he may be relying on secrecy or deception.",
+      "rating": 1,
+      "chunk": 34
+    },
+    {
+      "trait": "competence",
+      "action": "His men perceive him as mad and try to intercept him when he runs to the Medical hut.",
+      "assessment": "This suggests a possible communication gap or lack of trust between Caesar and his followers, which could undermine his leadership effectiveness.",
+      "rating": -1,
+      "chunk": 34
+    },
+    {
+      "trait": "warmth",
+      "action": "Declares that his child is alive but will be slaughtered if one drop of human blood is shed at his order.",
+      "assessment": "Caesar shows a protective and merciful attitude by valuing his child's life and setting strict conditions to avoid unnecessary bloodshed, indicating care and restraint.",
+      "rating": 2,
+      "chunk": 35
+    },
+    {
+      "trait": "warmth",
+      "action": "Screams in pain and ends with an insane yell to 'Set all humans free.'",
+      "assessment": "Despite his pain and desperation, Caesar's final command to free all humans reflects a deep sense of justice and goodwill, prioritizing peace over vengeance.",
+      "rating": 3,
+      "chunk": 35
+    },
     {
-      "Action": "Calmly receives ceremonial honors and leads Lisa out to meet the citizens, maintaining composure under public attention.",
-      "Competence": 1,
-      "Chunk": 5
+      "trait": "warmth",
+      "action": "Whispers Macdonald's name twice before death, implying a plea for forgiveness.",
+      "assessment": "This shows Caesar's capacity for remorse and sincerity, indicating he values reconciliation and acknowledges past wrongs, which is a strong indicator of warmth.",
+      "rating": 3,
+      "chunk": 35
     },
     {
-      "Action": "Demonstrates awareness of social order reversal and commands respect as leader during public procession.",
-      "Competence": 1,
-      "Chunk": 5
+      "trait": "warmth",
+      "action": "Faces his pursuers openly outside the Medical Hut despite the danger.",
+      "assessment": "This action suggests courage and a willingness to confront conflict directly, but it may also reflect a lack of self-preservation that could be seen as reckless rather than warm.",
+      "rating": 0,
+      "chunk": 35
     },
     {
-      "Action": "Does not appear to overreact to or misuse power during ceremony, indicating measured confidence.",
-      "Competence": 1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Turns to face his pursuers outside the Medical Hut and delivers a passionate speech about his child being alive and the consequences of shedding human blood.",
+      "assessment": "This shows Caesar's ability to confront danger directly and use emotional appeal to influence both allies and enemies, indicating strong leadership and situational awareness.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Leads Gorilla Cavalry in a well-executed pincer movement to outflank and surround human enemies, using cavalry tactics he must have taught them.",
-      "Competence": 1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Screams in pain from a head injury but still manages to issue a critical order to set all humans free.",
+      "assessment": "Despite severe physical distress, Caesar maintains command presence and decisiveness, reflecting resilience and mental toughness.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Publicly presents his newborn son with confidence and ceremonial poise, addressing the Council, Senate, and People.",
-      "Competence": 1,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Fails to avoid being shot by Aldo after Macdonald's sacrifice.",
+      "assessment": "Caesar's inability to evade Aldo's gunfire suggests a momentary lapse in physical awareness or tactical positioning, which is a negative indicator of competence in combat situations.",
+      "rating": -1,
+      "chunk": 35
     },
     {
-      "Action": "Immediately responds to Lisa's collapse by giving the baby to Tex and crouching in concern, showing presence of mind amid crisis.",
-      "Competence": 1,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Whispers Macdonald's name twice before dying, indicating recognition and gratitude.",
+      "assessment": "This shows emotional intelligence and awareness even in his final moments, but it does not directly reflect competence in leadership or tactical skill.",
+      "rating": 0,
+      "chunk": 35
     },
     {
-      "Action": "Reverts to primal grief and howls inconsolably after Lisa's death, showing emotional overwhelm and loss of control in a critical moment.",
-      "Competence": -1,
-      "Chunk": 25
+      "trait": "warmth",
+      "action": "Leads the Apes in battle with the goal of protecting Ape City and ensuring the survival of the Ape race.",
+      "assessment": "Caesar's leadership in battle to protect his people and ensure their future demonstrates a protective and responsible nature, which is a positive indicator of warmth.",
+      "rating": 2,
+      "chunk": 36
     },
     {
-      "Action": "Upon hearing a mysterious whisper, immediately reacts by running to stop a medical procedure that could harm an innocent child.",
-      "Competence": 1,
-      "Chunk": 34
+      "trait": "warmth",
+      "action": "Decides to retreat upon learning about the nerve gas that causes sterility, prioritizing the survival and reproductive future of the Ape race.",
+      "assessment": "This decision shows foresight and care for the well-being and continuity of his community, reflecting a sincere and nurturing attitude.",
+      "rating": 3,
+      "chunk": 36
     },
     {
-      "Action": "Decides not to kill those who killed Lisa, showing restraint and strategic judgment.",
-      "Competence": 1,
-      "Chunk": 34
+      "trait": "warmth",
+      "action": "Does not retaliate with similar chemical or genocidal weapons against the humans despite the threat posed.",
+      "assessment": "Caesar's restraint in not using equally devastating weapons suggests a moral compass and tolerance, reinforcing his warmth as a leader who values life.",
+      "rating": 2,
+      "chunk": 36
     },
     {
-      "Action": "Appears frozen and incredulous momentarily upon hearing the whisper, showing a brief hesitation.",
-      "Competence": 0,
-      "Chunk": 34
+      "trait": "warmth",
+      "action": "No direct interaction or dialogue is shown in this excerpt, limiting insight into his personal warmth through communication or interpersonal behavior.",
+      "assessment": "The absence of personal or emotional expression in this excerpt means there is limited evidence to assess warmth beyond strategic and leadership decisions.",
+      "rating": 0,
+      "chunk": 36
     },
     {
-      "Action": "Ordering troops to withdraw from the grave, which suggests planning and caution.",
-      "Competence": 1,
-      "Chunk": 34
+      "trait": "competence",
+      "action": "Leads the Apes in battle using advanced tactics such as laying and detonating explosive charges to outflank Nimrod's army.",
+      "assessment": "This demonstrates Caesar's strategic thinking and ability to train and coordinate his forces in complex military maneuvers, indicating high competence.",
+      "rating": 3,
+      "chunk": 36
     },
     {
-      "Action": "Leads apes in battle tactically to protect their survival and future breeding potential.",
-      "Warmth": 1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Allows the Apes to be momentarily halted by a nerve gas projectile that induces sterility, which forces a retreat.",
+      "assessment": "This suggests a potential lapse in intelligence gathering or preparedness regarding enemy weapons, reflecting a vulnerability or oversight in Caesar's leadership.",
+      "rating": -1,
+      "chunk": 36
     },
     {
-      "Action": "Decides to retreat from a potentially lethal nerve gas weapon to preserve the ape race.",
-      "Warmth": 1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Decides to retreat upon learning the nerve gas will cause sterility, prioritizing the survival and future of the Ape race.",
+      "assessment": "This shows prudent judgment and long-term strategic thinking, valuing the preservation of his people over immediate victory, which is a mark of competent leadership.",
+      "rating": 2,
+      "chunk": 36
     }
   ]
 }

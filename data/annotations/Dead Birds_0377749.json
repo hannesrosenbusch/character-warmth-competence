@@ -1,956 +1,2720 @@
 {
   "William": [
     {
-      "Action": "Provides a note to soldiers to facilitate secure transaction of bags, indicating forethought and coordination.",
-      "Competence": 1,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "William and his men approach the two soldiers outside the bank in a friendly manner.",
+      "assessment": "Approaching others in a friendly way suggests openness and a willingness to engage positively.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Approaches the soldiers in a friendly manner, provides clear answers to their questions, and ensures his man Todd helps with the horses",
-      "Warmth": 1,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "William answers questions from the soldiers honestly and calmly, providing information about their camp and leadership.",
+      "assessment": "Being straightforward and calm in communication indicates trustworthiness and sincerity.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Taps Todd roughly on the shoulder",
-      "Warmth": -1,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "William taps Todd roughly on the shoulder to order him to help with the horses.",
+      "assessment": "The rough physical gesture toward Todd, combined with the use of 'boy,' suggests a lack of warmth and possible condescension or insensitivity.",
+      "rating": -2,
+      "chunk": 3
     },
     {
-      "Action": "Slides off his horse, lands on his feet, secures horses calmly and confidently.",
-      "Competence": 1,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "Todd responds with a quick look but obeys William's order without protest.",
+      "assessment": "While this is Todd's behavior, William's expectation of obedience without warmth or encouragement reflects a colder leadership style.",
+      "rating": -1,
+      "chunk": 3
     },
     {
-      "Action": "Responds to suspicious questions smoothly, defuses tension.",
-      "Competence": 1,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Slides off his horse, lands on his feet, and ties the horse’s reins to a wooden post in front of the bank.",
+      "assessment": "This action shows physical coordination and confidence in handling horses, indicating practical competence in a military or frontier setting.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Taps Todd roughly on the shoulder to give an order, suggesting confident command.",
-      "Competence": 1,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Responds to the soldiers’ questions calmly and with plausible answers, such as stating they have no lieutenant but Cap’ain Louison is around.",
+      "assessment": "William’s ability to provide clear, believable information under scrutiny suggests social and situational awareness, reflecting competent interpersonal skills.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Mentions having no lieutenant but refers to Cap’ain Louison, showing situational awareness.",
-      "Competence": 1,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Taps Todd roughly on the shoulder to give an order, which Todd obeys without protest.",
+      "assessment": "William’s confident and authoritative behavior in commanding Todd indicates leadership skills and a clear chain of command, supporting his competence.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Decides not to wait despite warnings and moves towards the bank confidently with his men.",
-      "Competence": 1,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "Engages the soldiers in friendly conversation while maintaining control of the situation.",
+      "assessment": "This shows William’s ability to manage social interactions effectively, balancing friendliness with authority, a sign of competent interpersonal strategy.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Nods to Todd to kill the approaching threat; coordinates an attack effectively.",
-      "Competence": 1,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "Insists on entering the bank despite soldiers' warnings and leads a violent assault against them.",
+      "assessment": "William's actions demonstrate decisiveness and leadership but involve lethal violence and disregard for negotiation or peaceful resolution, indicating low tolerance and limited benevolence.",
+      "rating": -2,
+      "chunk": 4
     },
     {
-      "Action": "Leads the group in a well-executed violent bank takeover, successfully neutralizing armed guards.",
-      "Competence": 1,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "Refuses to wait when told to wait by the soldiers and moves decisively towards the bank despite the threat.",
+      "assessment": "This shows confidence and decisiveness, indicating a willingness to take control of the situation rather than hesitate.",
+      "rating": 2,
+      "chunk": 4
     },
     {
-      "Action": "Stabs a wounded soldier to death instead of allowing a slower, possibly more painful death or mercy killing; orders the killing of the elderly teller.",
-      "Warmth": -1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Nods to Todd after the knife attack on the soldiers, coordinating the assault silently.",
+      "assessment": "This nonverbal communication and coordination under pressure suggests strong leadership and tactical awareness.",
+      "rating": 3,
+      "chunk": 4
     },
     {
-      "Action": "Smiles and kisses Annabelle after the violence.",
-      "Warmth": 0,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Opens the bank doors and leads the group inside, drawing guns to confront the soldiers inside.",
+      "assessment": "Taking initiative to lead the entry and immediately assert control demonstrates confidence and strategic thinking.",
+      "rating": 2,
+      "chunk": 4
     },
     {
-      "Action": "Flinches and looks away from the injured small boy with blood on his face and neck after the shooting.",
-      "Warmth": 1,
-      "Chunk": 6
+      "trait": "competence",
+      "action": "Aims pistols at the soldiers carrying the bags and commands them to hold still.",
+      "assessment": "Shows composure and control in a high-stakes confrontation, indicating skill and confidence in handling dangerous situations.",
+      "rating": 2,
+      "chunk": 4
     },
     {
-      "Action": "Calculates the danger ahead and acknowledges Sam’s injury with concern.",
-      "Warmth": 1,
-      "Chunk": 6
+      "trait": "competence",
+      "action": "Empties his guns, hitting multiple armed soldiers effectively during the shootout.",
+      "assessment": "Demonstrates high proficiency with firearms and ability to perform under pressure, a strong indicator of competence.",
+      "rating": 3,
+      "chunk": 4
     },
     {
-      "Action": "Tries to reassure Sam by downplaying injury and promising to get the bullet out later.",
-      "Warmth": 1,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Stabs the twitching soldier in the chest to kill him quickly instead of letting him suffer.",
+      "assessment": "William's action can be seen as a merciful killing to end the soldier's suffering, which may indicate a pragmatic but somewhat compassionate approach.",
+      "rating": 1,
+      "chunk": 5
     },
     {
-      "Action": "Turns away and urges horse on faster instead of continuing to express concern or comfort.",
-      "Warmth": -1,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Smiles and kisses Annabelle after she kills the young teller.",
+      "assessment": "William's smile and kiss suggest warmth and affection towards Annabelle, indicating a friendly and sincere connection with her.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Quietly converses with Annabelle and shares a personal story about a fellow soldier he bonded with.",
-      "Warmth": 1,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Orders Clyde to kill the elderly teller who is pleading for his life.",
+      "assessment": "Ordering the killing of a pleading, trembling elderly man shows a lack of tolerance and compassion, reflecting coldness and ruthlessness.",
+      "rating": -3,
+      "chunk": 5
     },
     {
-      "Action": "Makes a flirty comment about a nurse but is ignored; does not press Annabelle further.",
-      "Warmth": 0,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Asks if anyone else is alive and quickly moves to eliminate threats.",
+      "assessment": "William's focus on efficiency and survival over mercy or negotiation suggests a pragmatic but harsh demeanor, lacking warmth.",
+      "rating": -1,
+      "chunk": 5
     },
     {
-      "Action": "Assesses Sam's wound calmly and determines it's not too serious, plans to remove the bullet later.",
-      "Competence": 1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Empties his guns, hitting both MacCready and the other soldier.",
+      "assessment": "This action shows William's marksmanship and ability to quickly neutralize threats under pressure, indicating strong combat skills.",
+      "rating": 3,
+      "chunk": 5
     },
     {
-      "Action": "Leads group confidently by knowing the route ahead and estimating travel times.",
-      "Competence": 1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Notices the twitching soldier still alive and chooses to stab him with a hunting knife instead of using gunpowder or a firearm.",
+      "assessment": "William demonstrates practical judgment and decisiveness by efficiently ending the threat without wasting ammunition, reflecting tactical awareness and resourcefulness.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Offers a place to stay to anyone who wants it, showing a willingness to share.",
-      "Warmth": 1,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Surveys the room and confidently interacts with Annabelle, then immediately assesses if anyone else is alive.",
+      "assessment": "His calm situational awareness and quick assessment of the environment show confidence and leadership in a chaotic situation.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Plans to use the name of a deceased acquaintance to seek hospitality, but threatens that if hospitality is not extended, 'we’ll have to take care of them either way.'",
-      "Warmth": -1,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Orders Clyde to kill the elderly teller after assessing he is still alive.",
+      "assessment": "William takes responsibility for ensuring no loose ends remain, showing decisiveness and command, though the morality of the action is not assessed here.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Admits he may have killed a kid and asks Annabelle to keep it a secret from others.",
-      "Warmth": -1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Begins loading one of his pistols promptly after the confrontation.",
+      "assessment": "This indicates preparedness and foresight, maintaining readiness for further conflict or escape.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Speaks quietly and calmly with Annabelle, showing concern about the group's safety by instructing them to move slowly and carefully.",
-      "Warmth": 1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Asks Joseph if the bags are heavy and then promptly suggests leaving.",
+      "assessment": "William demonstrates practical leadership and situational efficiency, focusing on the objective and timely withdrawal.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Politely tries to get the old man's attention and asks for directions, despite the old man's brusque responses.",
-      "Warmth": 1,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Flinches and looks away from the injured small boy with blood on his face and neck after shooting at soldiers.",
+      "assessment": "William's reaction shows sensitivity and discomfort at the sight of innocent suffering, indicating empathy and a good-natured response to violence.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Expresses surprise when the old man claims not to know the farm, but does not react with hostility or rudeness.",
-      "Warmth": 1,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Notices Sam's injury and points it out to him.",
+      "assessment": "William's attentiveness to his companion's well-being and concern for his injury reflects trustworthiness and care for others.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Asks Sam to light the lantern in a dark area, enabling better visibility.",
-      "Competence": 1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Leaps onto a horse quickly with the others and begins shooting at the soldiers while riding past.",
+      "assessment": "This action shows William's ability to respond swiftly and effectively in a dangerous, fast-moving situation, indicating good physical coordination and combat skill.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Politely addresses the old man to ask for directions to the Hollister place.",
-      "Competence": 1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Flinches and looks away from the injured boy on the street.",
+      "assessment": "This moment of hesitation or emotional reaction suggests a temporary lapse in focus or emotional control, which can be seen as a minor negative indicator of competence in a high-stress environment.",
+      "rating": -1,
+      "chunk": 6
     },
     {
-      "Action": "Attempts to clarify with the old man when he gives an unhelpful answer.",
-      "Competence": 1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Assesses the situation after the escape, estimating how many pursuers will follow and their likelihood of catching up.",
+      "assessment": "William demonstrates situational awareness and strategic thinking, showing intelligence and confidence in evaluating threats.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Appears somewhat surprised and doubtful when the old man denies knowledge of the Hollister place despite William's prior expectations.",
-      "Competence": 0,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Notices Sam's injury and points it out promptly.",
+      "assessment": "This shows attentiveness and care for team members, as well as observational skills important for leadership and competence in the field.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Encourages the group to keep moving forward; shows concern and caution by saying 'We'll be careful' after Annabelle reports seeing someone watching.",
-      "Warmth": 1,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Looks like he wants to say more about Sam's injury but turns away and urges his horse on faster.",
+      "assessment": "William’s hesitation to dwell on Sam’s injury and his choice to move forward may indicate a reserved or stoic nature rather than overt warmth; he does not openly express concern or reassurance here.",
+      "rating": 0,
+      "chunk": 7
     },
     {
-      "Action": "Wets his lips with his tongue while looking at the ominous house, indicating nervousness or apprehension but still proceeds.",
-      "Warmth": 0,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Quietly converses with Annabelle while guiding the group through the forest, providing clear information about their route and destination.",
+      "assessment": "William’s calm and informative communication shows a responsible and considerate attitude toward the group’s wellbeing, reflecting a moderate level of warmth through reliability and helpfulness.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Shows concern and checks on Sam after the creature runs past him.",
-      "Warmth": 1,
-      "Chunk": 13
+      "trait": "warmth",
+      "action": "Shares a personal story about a soldier he befriended in the hospital, describing the soldier as 'a right enough sort' and recalling their meaningful conversation.",
+      "assessment": "By sharing this story, William reveals empathy and a capacity for connection, showing he values sincere relationships and remembers kindness, which are positive indicators of warmth.",
+      "rating": 3,
+      "chunk": 7
     },
     {
-      "Action": "Says 'Well, that's good news' upon realizing the creature is not breathing, showing a detached or possibly sarcastic attitude.",
-      "Warmth": -1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Assesses Sam's shoulder wound calmly, noting it isn't near the bone and can be moved around okay, deciding to remove the bullet later.",
+      "assessment": "William demonstrates practical medical knowledge and calmness under pressure, indicating competent first aid skills and situational awareness.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Receives hesitant looks from the group and then responds sardonically when no one follows him into the cornfield.",
-      "Warmth": -1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Leads the group through a difficult forest terrain, confidently describing the route ahead including a stream crossing and the road to their destination.",
+      "assessment": "William shows good navigation skills and leadership, confidently guiding the group and providing clear information about their progress and plans.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Instructs Sam to keep an eye out for more creatures before moving on, showing a sense of responsibility for the group's safety.",
-      "Warmth": 1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Turns away and urges his horse on faster when he looks like he wants to say more about Sam's injury.",
+      "assessment": "This hesitation and withdrawal may suggest some emotional restraint or avoidance, which could be seen as a slight lack of openness or decisiveness in communication.",
+      "rating": -1,
+      "chunk": 7
     },
     {
-      "Action": "Shows sarcasm and annoyance toward Annabelle's fear of the scarecrow, rolling his eyes at her embarrassment.",
-      "Warmth": -1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Engages in quiet conversation with Annabelle while riding near the front, sharing a personal story to build rapport.",
+      "assessment": "William shows social intelligence and the ability to maintain calm, purposeful communication even in tense situations, which supports his competence in group dynamics.",
+      "rating": 1,
+      "chunk": 7
     },
     {
-      "Action": "Maintains composure and shows sarcastic humor to defuse tension about the scarecrow, encourages group to move on.",
-      "Competence": 1,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "Remembers Jeffy Hollister fondly and acknowledges his kindness.",
+      "assessment": "William shows a respectful and sincere remembrance of Jeffy, indicating a capacity for warmth and empathy.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Confidently identifies and points out direction to proceed in the cornfield.",
-      "Competence": 1,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "Invites others to share ownership of the inherited property, saying it’s 'mine. Or anyone’s who wants it, anyway.'",
+      "assessment": "This openness and generosity suggest a friendly and inclusive nature.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Consoles his horse by soothing it with quiet words.",
-      "Warmth": 1,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Plans to use Jeffy Hollister’s name to encourage hospitality from potential occupants of the property.",
+      "assessment": "This shows a pragmatic but somewhat considerate approach, hoping for peaceful interaction before resorting to force.",
+      "rating": 1,
+      "chunk": 8
     },
     {
-      "Action": "Dismisses horses' strange behavior by calling them 'stupid and crazy'.",
-      "Warmth": -1,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "States they will 'have to take care of' anyone not hospitable to them.",
+      "assessment": "This implies a readiness to use force or intimidation, which detracts from warmth and suggests a harsher, less tolerant side.",
+      "rating": -1,
+      "chunk": 8
     },
     {
-      "Action": "Accurately points out the direction of the house and rationalizes why the cornfields look smaller from a distance.",
-      "Competence": 1,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Shows concern for his brother Sam’s injury and plans to have Annabelle remove the bullet.",
+      "assessment": "This indicates care and responsibility toward family, a positive indicator of warmth.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Takes initiative by tying his horse to a hanging branch and attempts to calm the horse.",
-      "Competence": 1,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Remembers details about Jeffy Hollister and the inherited property, and plans to claim the place as a base.",
+      "assessment": "William shows situational awareness and a practical mindset by recognizing the value of the property and considering how to approach any current occupants, indicating strategic thinking.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Dismisses concerns about the horses' behavior with a blunt statement.",
-      "Competence": 0,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Plans to have Annabelle remove a bullet from his brother Sam once they reach the house.",
+      "assessment": "William demonstrates foresight and delegation by planning medical care for his brother, showing confidence in managing the group's needs.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Stops Joseph from moving forward too quickly and points out footprints, indicating carefulness and concern for safety, showing a protective and considerate attitude.",
-      "Warmth": 1,
-      "Chunk": 16
+      "trait": "competence",
+      "action": "States that if current occupants of the property are not hospitable, they will 'have to take care of them either way.'",
+      "assessment": "This shows decisiveness and readiness to handle conflict, reflecting confidence and assertiveness, though it also hints at a potentially aggressive approach.",
+      "rating": 1,
+      "chunk": 8
     },
     {
-      "Action": "Nods and gives a cautious instruction to be careful, demonstrating responsibility and a caring leadership approach.",
-      "Warmth": 1,
-      "Chunk": 16
+      "trait": "competence",
+      "action": "Does not react to the sudden noise in the bushes that startles Joseph, remaining calm.",
+      "assessment": "William's calmness in a tense moment suggests emotional control and steadiness, traits associated with competence in stressful situations.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Takes the lantern and leads the group into the house, notices boot prints on the dusty floor and stops Joseph from moving forward to assess the situation carefully.",
-      "Competence": 1,
-      "Chunk": 16
+      "trait": "warmth",
+      "action": "Tells Annabelle he thinks he killed a kid but asks her not to tell the others if they didn’t notice.",
+      "assessment": "William shows a tendency to withhold distressing information from the group, possibly to protect them from worry, which can be seen as considerate but also secretive.",
+      "rating": 1,
+      "chunk": 9
     },
     {
-      "Action": "Nods in agreement with Todd's suggestion but gives a cautious warning to be careful, showing leadership and prudence.",
-      "Competence": 1,
-      "Chunk": 16
+      "trait": "warmth",
+      "action": "Speaks quietly and calmly with Annabelle at the front of the group, guiding the group down the road and reassuring her about their location.",
+      "assessment": "William’s calm and reassuring demeanor toward Annabelle suggests a friendly and trustworthy nature, showing care for others’ feelings.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Advises Joseph not to chew on the gold coins, showing concern and gentle correction.",
-      "Warmth": 1,
-      "Chunk": 17
+      "trait": "warmth",
+      "action": "Instructs the group to hold up and proceed quietly when they hear a clanking sound ahead.",
+      "assessment": "William’s leadership in ensuring the group’s safety by urging caution reflects responsibility and concern for others, indicating warmth.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Agrees with Annabelle's idea of helping Sam immediately, supporting a caring action.",
-      "Warmth": 1,
-      "Chunk": 17
+      "trait": "warmth",
+      "action": "Keeps his eyes narrowed and cold when approaching the unknown light ahead.",
+      "assessment": "The coldness in his gaze may indicate wariness or suspicion rather than warmth, showing a guarded or less openly friendly side.",
+      "rating": -1,
+      "chunk": 9
     },
     {
-      "Action": "Lightly teases Sam about bullets bouncing off him, sharing a moment of camaraderie.",
-      "Warmth": 1,
-      "Chunk": 17
+      "trait": "competence",
+      "action": "Admits to Annabelle that he thinks he killed a kid but asks her not to tell the others if they didn't notice.",
+      "assessment": "This shows William's awareness of the gravity of his actions and a desire to control information, which could be seen as cautious or secretive rather than confident transparency.",
+      "rating": 0,
+      "chunk": 9
     },
     {
-      "Action": "Invites Dog to come along, trying to include and engage the animal.",
-      "Warmth": 1,
-      "Chunk": 17
+      "trait": "competence",
+      "action": "Confidently assures Annabelle that the house they are looking for is back along the road and that they just need to keep going until they find it.",
+      "assessment": "William demonstrates situational awareness and confidence in navigation, indicating competence in leading the group.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Derides Dog as useless when it declines, showing impatience and dismissiveness.",
-      "Warmth": -1,
-      "Chunk": 17
+      "trait": "competence",
+      "action": "Responds calmly to the approaching noises by instructing the group to hold up and proceed slowly and quietly.",
+      "assessment": "William shows good situational control and tactical caution, suggesting skill and confidence in handling potential threats.",
+      "rating": 3,
+      "chunk": 9
     },
     {
-      "Action": "Warns Sam to keep a hand on his gun for safety, showing protective and prudent behavior.",
-      "Warmth": 1,
-      "Chunk": 17
+      "trait": "competence",
+      "action": "Keeps his eyes narrowed and cold while assessing the situation ahead.",
+      "assessment": "This non-verbal behavior indicates focus and alertness, traits associated with competence in tense situations.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Suggests getting Joseph to force the door open or chopping it down to help others potentially trapped inside, showing care about their wellbeing and sleep.",
-      "Warmth": 1,
-      "Chunk": 21
+      "trait": "warmth",
+      "action": "Asks the old man politely for directions to the Hollister place, saying 'Excuse me' twice and trying to engage him in conversation.",
+      "assessment": "William's polite approach and attempt to communicate respectfully with a stranger indicate a courteous and sincere demeanor, reflecting warmth.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Attempts to open the door with Todd, assesses the situation calmly and suggests getting Joseph to force it or chopping it down if necessary, considers safety and rest.",
-      "Competence": 1,
-      "Chunk": 21
+      "trait": "warmth",
+      "action": "Continues to ask the old man about the location despite the old man's initial silence and apparent disinterest.",
+      "assessment": "William shows persistence but does not become rude or aggressive, suggesting tolerance and patience, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Nods to Sam and inquires about his condition in a friendly manner.",
-      "Warmth": 1,
-      "Chunk": 22
+      "trait": "warmth",
+      "action": "Expresses surprise and tries to clarify the old man's negative response about the Hollister place and the creek.",
+      "assessment": "William's surprise and attempt to clarify show engagement and a desire to understand, which can be seen as friendly and sincere, though it may also suggest some naivety.",
+      "rating": 1,
+      "chunk": 10
     },
     {
-      "Action": "Acknowledges Annabelle's update with interest, showing concern.",
-      "Warmth": 1,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Asks Sam to light the lantern to see better in the dark.",
+      "assessment": "This shows William's practical approach to improving visibility and situational awareness, indicating a basic level of resourcefulness and leadership.",
+      "rating": 1,
+      "chunk": 10
     },
     {
-      "Action": "Supports Todd's suggestion to light the lanterns without hesitation.",
-      "Warmth": 0,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Clears his throat and attempts to communicate with the old man driving the carriage.",
+      "assessment": "William takes initiative to engage with a potential source of information, demonstrating social confidence and a proactive attitude.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Dismisses the front door creaking as 'Fucking wind,' possibly downplaying others' nervousness.",
-      "Warmth": 0,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Presses the old man for information about the Hollister place despite the man's initial silence and reluctance.",
+      "assessment": "William shows persistence and attempts to clarify the situation, which reflects determination and communication skills, though his approach is somewhat hesitant ('I, uh...').",
+      "rating": 1,
+      "chunk": 10
     },
     {
-      "Action": "Suggests sleeping in shifts so everyone can feel safer and secure.",
-      "Warmth": 1,
-      "Chunk": 23
+      "trait": "competence",
+      "action": "Appears surprised and somewhat uncertain when the old man denies knowledge of the Hollister place.",
+      "assessment": "This reaction suggests a momentary lapse in confidence or preparedness for unexpected responses, indicating a slight weakness in adaptability or composure under uncertainty.",
+      "rating": -1,
+      "chunk": 10
     },
     {
-      "Action": "Nods quietly to Clyde's pragmatic comment without dismissing others' concerns.",
-      "Warmth": 0,
-      "Chunk": 23
+      "trait": "competence",
+      "action": "Does not challenge or further investigate the old man's denial and allows the carriage to leave without additional questioning.",
+      "assessment": "William's failure to press further or seek alternative information at this critical moment may indicate a lack of assertiveness or strategic thinking in information gathering.",
+      "rating": -1,
+      "chunk": 10
     },
     {
-      "Action": "Acknowledges the group's unease and agrees to move on at first light, showing understanding of others' discomfort.",
-      "Warmth": 1,
-      "Chunk": 23
+      "trait": "warmth",
+      "action": "Encourages the group to follow him despite uncertainty about their location.",
+      "assessment": "William takes a leadership role and tries to motivate the group, showing a degree of responsibility and willingness to support others.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Smiles at Sam and tells him to cheer up during a tense moment.",
-      "Warmth": 1,
-      "Chunk": 25
+      "trait": "warmth",
+      "action": "Responds to Annabelle's concerns with practical reassurance about their situation.",
+      "assessment": "He acknowledges her worries but offers calm, practical responses, indicating patience and tolerance.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Tries to explore the loft despite potential danger, showing initiative and calm after falling.",
-      "Warmth": 1,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Kicks at the side of his horse when waiting silently with the group.",
+      "assessment": "This small action suggests some impatience or frustration, which may indicate a lack of warmth in this moment.",
+      "rating": -1,
+      "chunk": 11
     },
     {
-      "Action": "Responds to Clyde's concern with reassurance ('Yeah').",
-      "Warmth": 1,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Refers to the old man as a 'crazy old man' when crossing the creek.",
+      "assessment": "This dismissive and somewhat disrespectful comment reflects a lack of empathy and tolerance.",
+      "rating": -2,
+      "chunk": 11
     },
     {
-      "Action": "After falling, brushes himself off and dismisses the danger in a frustrated but composed way, indicating resilience and not burdening others.",
-      "Warmth": 1,
-      "Chunk": 26
+      "trait": "competence",
+      "action": "William kicks at the side of his horse and then leads the group forward, prompting others to follow him.",
+      "assessment": "This shows William taking initiative and leadership, indicating confidence and a sense of responsibility in guiding the group.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Kicks and further breaks the ladder in frustration.",
-      "Warmth": -1,
-      "Chunk": 26
+      "trait": "competence",
+      "action": "William reassures Annabelle by pointing out they have compasses and knows the direction to Mexico.",
+      "assessment": "This demonstrates practical knowledge and situational awareness, reflecting competence in navigation and calmness under uncertainty.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Suggests going back inside and agrees with Annabelle's suggestion about the horses without argument.",
-      "Warmth": 1,
-      "Chunk": 26
+      "trait": "competence",
+      "action": "William quickly reacts to Sam's horse stopping by pulling his horse's reins to avoid collision.",
+      "assessment": "This quick reflex and control over his horse shows good horsemanship and alertness, indicating skill and capability.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Hands the book to Annabelle when she asks to see it.",
-      "Warmth": 1,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "William rides his horse into the creek after assessing the water depth and flow.",
+      "assessment": "This action suggests decisiveness and willingness to take calculated risks, showing confidence and competence in handling challenging terrain.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Responds dismissively 'How should I know?' when asked about the book being a code.",
-      "Warmth": -1,
-      "Chunk": 27
+      "trait": "warmth",
+      "action": "Encourages the group to keep moving forward by saying, 'Come on! It shouldn’t be far from here.'",
+      "assessment": "William’s encouragement shows a supportive and motivating attitude toward the group, indicating a friendly and cooperative nature.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Suggests they leave the barn before the storm and lets Joseph stay and play with the book inside.",
-      "Warmth": 1,
-      "Chunk": 27
+      "trait": "warmth",
+      "action": "Responds to Annabelle’s concern about seeing someone in the window by asking, 'Something, or someone?'",
+      "assessment": "William’s question demonstrates attentiveness and a willingness to listen carefully to others’ feelings and observations, reflecting sincerity and respect.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Examines the book carefully and admits he cannot read it, deferring to Annabelle for a better look.",
-      "Competence": 1,
-      "Chunk": 27
+      "trait": "warmth",
+      "action": "Reassures the group by saying, 'We'll be careful.'",
+      "assessment": "This statement shows William’s protective and considerate attitude toward the group’s safety, indicating trustworthiness and care.",
+      "rating": 3,
+      "chunk": 12
     },
     {
-      "Action": "Quickly decides to leave the barn before the storm arrives, prioritizing safety over exploring the mysterious book further.",
-      "Competence": 1,
-      "Chunk": 27
+      "trait": "warmth",
+      "action": "Steps out into the cornfield first, pushing the stalks apart while holding his horse’s reins.",
+      "assessment": "William taking the lead and physically moving forward first suggests courage and a willingness to face potential danger for the group’s benefit, which can be seen as a warm and responsible behavior.",
+      "rating": 3,
+      "chunk": 12
     },
     {
-      "Action": "Responds with 'How should I know?' when asked about the book possibly being a code, showing limited insight or unwillingness to speculate.",
-      "Competence": 0,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Leads the group forward along the trail toward the house despite the ominous setting and uncertain path.",
+      "assessment": "This shows William's willingness to take initiative and lead, indicating confidence and a degree of situational awareness.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Offers Annabelle to lie down and join her in a gentle kiss.",
-      "Warmth": 1,
-      "Chunk": 28
+      "trait": "competence",
+      "action": "Responds calmly to Annabelle's observation of a possible watcher in the house and reassures the group by saying 'We'll be careful.'",
+      "assessment": "William demonstrates composure and prudence, suggesting he is capable of managing group morale and potential threats.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Engages in intimate and sincere interaction with Annabelle in a private setting.",
-      "Warmth": 1,
-      "Chunk": 28
+      "trait": "competence",
+      "action": "Steps out into the cornfield, pushing the stalks apart with one hand while holding his horse’s reins with the other.",
+      "assessment": "This action shows physical coordination and a readiness to investigate cautiously, reflecting practical skill and confidence.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Responds promptly and seriously to Sam's concern about Joseph being missing, takes initiative to get dressed quickly and go look for Joseph.",
-      "Warmth": 1,
-      "Chunk": 31
+      "trait": "warmth",
+      "action": "William checks on his own well-being after the creature jumps out and reassures others by saying 'Yeah. I’m fine.'",
+      "assessment": "William’s response shows a calm and composed demeanor, which can be reassuring to others, indicating a degree of emotional steadiness and consideration.",
+      "rating": 1,
+      "chunk": 13
     },
     {
-      "Action": "Gently wakes Annabelle to inform her about Joseph and instructs her to stay and lock the door for safety.",
-      "Warmth": 1,
-      "Chunk": 31
+      "trait": "warmth",
+      "action": "William tells Sam to keep an eye out for more creatures before walking into the cornfield alone.",
+      "assessment": "This shows some level of concern for the group’s safety, but also a somewhat detached or sardonic attitude when no one follows him, which may reduce the warmth perceived.",
+      "rating": 1,
+      "chunk": 13
     },
     {
-      "Action": "Leans down and kisses Annabelle after instructing her to get rest despite having a gun, showing care and tenderness.",
-      "Warmth": 1,
-      "Chunk": 31
+      "trait": "warmth",
+      "action": "William steps back towards the cornfield and when no one follows, turns back sardonically towards the group.",
+      "assessment": "The sardonic tone suggests a degree of impatience or sarcasm, which can be interpreted as less warm or less friendly in this context.",
+      "rating": -1,
+      "chunk": 13
     },
     {
-      "Action": "Tries to reassure others about Dog possibly wandering off; suggests holding onto guns for safety.",
-      "Warmth": 1,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "William stiffens slightly, regaining his composure after the creature jumps out at him, then calmly states he is fine.",
+      "assessment": "This shows William's ability to quickly recover from a surprise and maintain control of his emotions, indicating emotional resilience and situational awareness.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Shrugs at the lack of response when calling Joseph, showing limited emotional reaction.",
-      "Warmth": 0,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "William steps back towards the cornfield and urges the group to keep moving despite their hesitation.",
+      "assessment": "This demonstrates leadership and decisiveness, as William takes initiative and pushes the group forward in a potentially dangerous situation.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Expresses concern about Sam's safety after he returns from the cornfield.",
-      "Warmth": 1,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "William sardonically calls out to Sam to keep watch for more creatures before entering the cornfield alone.",
+      "assessment": "William shows confidence and strategic thinking by delegating vigilance to others while proceeding himself, though the sardonic tone may suggest some frustration or impatience.",
+      "rating": 1,
+      "chunk": 13
     },
     {
-      "Action": "Suggests holding onto guns when going out alone, showing caution and preparedness.",
-      "Competence": 1,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "William shouts and spins to the side as the creature leaps out at him.",
+      "assessment": "This reaction indicates a natural startle response rather than a calm or prepared reaction, suggesting a momentary lapse in composure.",
+      "rating": -1,
+      "chunk": 13
     },
     {
-      "Action": "Shrugs and walks away after no response to calling Joseph, showing resignation rather than proactive problem-solving.",
-      "Competence": -1,
-      "Chunk": 33
+      "trait": "warmth",
+      "action": "Responds sarcastically to Annabelle's fear of the scarecrow, saying, 'Yes, it’s a very frightening scarecrow. If I were a crow, I’d go elsewhere.'",
+      "assessment": "William's sarcastic remark dismisses Annabelle's genuine fear and embarrasses her, indicating a lack of empathy and tolerance in this moment.",
+      "rating": -2,
+      "chunk": 14
     },
     {
-      "Action": "Offers a possible explanation that Joseph might be playing a joke, indicating a willingness to consider less dire possibilities.",
-      "Competence": 0,
-      "Chunk": 33
+      "trait": "warmth",
+      "action": "Rolls his eyes at Annabelle after her reaction to the scarecrow.",
+      "assessment": "Rolling his eyes at Annabelle suggests impatience and a dismissive attitude rather than friendliness or sincerity.",
+      "rating": -2,
+      "chunk": 14
     },
     {
-      "Action": "Runs immediately to Annabelle's aid after she screams, puts an arm around her, asks if she is alright, tries to comfort her.",
-      "Warmth": 1,
-      "Chunk": 36
+      "trait": "warmth",
+      "action": "Points out the direction to the house when asked by Sam.",
+      "assessment": "William cooperates by providing helpful information, showing a basic level of trustworthiness and willingness to assist.",
+      "rating": 1,
+      "chunk": 14
     },
     {
-      "Action": "Leads the search to find the boy and expresses concern about the house's passageways, showing proactive involvement.",
-      "Warmth": 1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Turns and walks confidently into the cornfield ahead of the group.",
+      "assessment": "This shows William taking initiative and leading the way, indicating confidence and a sense of direction.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Leads the group quickly to investigate after hearing the scream, taking initiative.",
-      "Competence": 1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Responds sarcastically to the scarecrow, dismissing the group's fear and urging them to move on.",
+      "assessment": "His sarcasm suggests a level of emotional control and an attempt to keep the group focused, which can be seen as competent leadership, though it may also come off as insensitive.",
+      "rating": 1,
+      "chunk": 14
     },
     {
-      "Action": "Asks logical questions to assess the situation (where the boy went, possibility of windows or hidden passageways).",
-      "Competence": 1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Points out the direction to head in when asked by Sam.",
+      "assessment": "William demonstrates situational awareness and knowledge of their route, reinforcing his role as a capable guide.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Comforts Annabelle to keep her calm after the frightening event.",
-      "Competence": 1,
-      "Chunk": 36
+      "trait": "warmth",
+      "action": "Consoles his horse by saying, 'Shhh, girl. We’ll get you some water in a bit.'",
+      "assessment": "William shows care and tenderness toward his horse, indicating a gentle and nurturing side.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Shows some impatience or overconfidence when he says 'they’ll find him in a second' before fully investigating.",
-      "Competence": 0,
-      "Chunk": 36
+      "trait": "warmth",
+      "action": "Dismisses the horses' strange behavior by saying, 'Of course they are. They’re horses. They’re stupid and crazy.'",
+      "assessment": "This comment is somewhat dismissive and lacks empathy toward the animals' discomfort, reflecting a less warm attitude.",
+      "rating": -1,
+      "chunk": 15
     },
     {
-      "Action": "Suggests checking walls for hidden passageways, showing problem-solving ability.",
-      "Competence": 1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Points out the direction of the house confidently when asked by Sam.",
+      "assessment": "William demonstrates situational awareness and confidence in navigation, indicating a competent sense of direction.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Tells Sam to lie down and rest, promising to wake him if anything comes up.",
-      "Warmth": 1,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "Ties his horse to a hanging branch on a twisted oak tree near the house and consoles the horse when it shuffles and rolls its eyes.",
+      "assessment": "William shows practical skill in handling his horse and a calm demeanor, which reflects competence in managing animals under stress.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Declines to join Annabelle and Todd in looking around, insisting someone stay behind to guard the house.",
-      "Warmth": 1,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "Dismisses the horses' strange behavior as typical horse behavior, calling them 'stupid and crazy.'",
+      "assessment": "While blunt, William’s explanation shows a practical understanding of animal behavior, suggesting experience and confidence, though the tone may lack empathy.",
+      "rating": 1,
+      "chunk": 15
     },
     {
-      "Action": "Organizes the group to get rest before moving on at first light, delegates waking Sam if needed.",
-      "Competence": 1,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "Leads the group toward the house and encourages them to move forward when no one else is moving.",
+      "assessment": "William takes initiative and leadership in a tense situation, indicating confidence and decisiveness, key aspects of competence.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Assesses the situation outside (rain, environment) and decides to look around for safety or other concerns.",
-      "Competence": 1,
-      "Chunk": 37
+      "trait": "warmth",
+      "action": "Stops Joseph from moving forward and points out the footprints on the dusty floor, signaling caution to the group.",
+      "assessment": "William demonstrates care and responsibility by ensuring the group proceeds carefully, showing concern for their safety and well-being.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Insists that someone stay inside to watch for intruders rather than everyone wandering off looking around.",
-      "Competence": 1,
-      "Chunk": 37
+      "trait": "warmth",
+      "action": "Nods in agreement to Todd's suggestion to be cautious and tells everyone to be careful.",
+      "assessment": "William's agreement and reminder to be careful reflects a protective and considerate attitude toward others.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Questions Clyde's whereabouts upon noticing his absence, showing alertness to possible risk.",
-      "Competence": 1,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "William takes Joseph’s lantern and steps into the house first, showing initiative and leadership.",
+      "assessment": "This action indicates confidence and a willingness to take charge in an uncertain situation, suggesting competence.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Reaches out hesitantly and touches Annabelle's arm when she is panicked, asks if she is okay.",
-      "Warmth": 1,
-      "Chunk": 38
+      "trait": "competence",
+      "action": "William stops Joseph from moving forward and points out the boot prints on the dusty floor.",
+      "assessment": "This shows William’s attentiveness to detail and caution, demonstrating situational awareness and thoughtful decision-making.",
+      "rating": 3,
+      "chunk": 16
     },
     {
-      "Action": "Embraces Annabelle in the pouring rain to comfort her.",
-      "Warmth": 1,
-      "Chunk": 38
+      "trait": "competence",
+      "action": "William nods and agrees to Todd’s suggestion to look for the two people who left the footprints, but cautions everyone to be careful.",
+      "assessment": "William balances assertiveness with prudence, indicating good judgment and leadership skills.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Acknowledges Annabelle's feelings and tries to ease the tension with a smile.",
-      "Warmth": 1,
-      "Chunk": 38
+      "trait": "warmth",
+      "action": "Tells Joseph not to chew on the gold coin.",
+      "assessment": "William shows a mild protective and caring attitude by cautioning Joseph against damaging the gold, indicating attentiveness and concern.",
+      "rating": 1,
+      "chunk": 17
     },
     {
-      "Action": "Shows concern for Joseph, refuses to leave him behind despite danger.",
-      "Warmth": 1,
-      "Chunk": 38
+      "trait": "warmth",
+      "action": "Organizes the group to split up into pairs to search the house and barn.",
+      "assessment": "William takes a leadership role and includes everyone in the search, demonstrating responsibility and consideration for group safety.",
+      "rating": 2,
+      "chunk": 17
     },
     {
-      "Action": "Calmly tries to reassure Annabelle despite her panic, showing measured emotional control and presence of mind in a tense situation.",
-      "Competence": 1,
-      "Chunk": 38
+      "trait": "warmth",
+      "action": "Encourages Annabelle's desire to help Sam with his shoulder.",
+      "assessment": "William supports Annabelle's helpfulness and shows approval, reflecting openness and friendliness.",
+      "rating": 2,
+      "chunk": 17
     },
     {
-      "Action": "Considers a plausible explanation for Joseph's disappearance instead of jumping to conclusions, demonstrating rational thinking.",
-      "Competence": 1,
-      "Chunk": 38
+      "trait": "warmth",
+      "action": "Invites Dog to come along on the search.",
+      "assessment": "William attempts to include Dog, showing a friendly and inclusive nature, though Dog declines.",
+      "rating": 2,
+      "chunk": 17
     },
     {
-      "Action": "Does not immediately erupt into panic or hysteria, instead choosing to comfort Annabelle, indicating emotional intelligence and confidence.",
-      "Competence": 1,
-      "Chunk": 38
+      "trait": "warmth",
+      "action": "Calls Dog 'goddamn useless' after Dog refuses to join.",
+      "assessment": "William's comment is dismissive and somewhat harsh toward Dog, indicating impatience or frustration, which detracts from warmth.",
+      "rating": -1,
+      "chunk": 17
     },
     {
-      "Action": "Although aware of strange events, he admits uncertainty and does not overstate his knowledge or abilities, showing honest appraisal but some lack of decisive insight.",
-      "Competence": 0,
-      "Chunk": 38
+      "trait": "warmth",
+      "action": "Exchanges friendly banter with Sam about his injury.",
+      "assessment": "William's teasing is lighthearted and affectionate, suggesting a warm sibling relationship.",
+      "rating": 2,
+      "chunk": 17
     },
     {
-      "Action": "Considers Clyde's sighting carefully, reassures others by suggesting a benign explanation (playing a game), and expresses relief that Dog might not be lost.",
-      "Warmth": 1,
-      "Chunk": 39
+      "trait": "warmth",
+      "action": "Warns Sam to keep a hand on his gun and be cautious.",
+      "assessment": "William shows concern for the safety of others, reflecting responsibility and care.",
+      "rating": 2,
+      "chunk": 17
     },
     {
-      "Action": "Questions the reliability of Clyde's sighting and cautiously evaluates the situation before concluding it's probably Joseph playing a game.",
-      "Competence": 1,
-      "Chunk": 39
+      "trait": "warmth",
+      "action": "Responds to Annabelle's caution with reciprocal concern.",
+      "assessment": "William's mutual expression of care toward Annabelle indicates sincerity and friendliness.",
+      "rating": 2,
+      "chunk": 17
     },
     {
-      "Action": "Assumes there are no bears in the area to rule out other explanations for the sighting, showing practical reasoning.",
-      "Competence": 1,
-      "Chunk": 39
+      "trait": "competence",
+      "action": "Directs the group to split up into pairs to search the floor, upstairs, and cellar systematically.",
+      "assessment": "This shows William's ability to organize and strategize effectively, indicating good leadership and situational awareness.",
+      "rating": 2,
+      "chunk": 17
     },
     {
-      "Action": "Offers to take a shift sitting so others can rest.",
-      "Warmth": 1,
-      "Chunk": 40
+      "trait": "competence",
+      "action": "Insists on checking the barn after finishing the house search, despite Todd's suggestion.",
+      "assessment": "William demonstrates prioritization skills and a methodical approach, suggesting confidence and planning ability.",
+      "rating": 2,
+      "chunk": 17
     },
     {
-      "Action": "Proposes resting first, inviting others to join.",
-      "Warmth": 1,
-      "Chunk": 40
+      "trait": "competence",
+      "action": "Warns Joseph not to chew on the gold coins.",
+      "assessment": "This shows attention to detail and practical knowledge, reflecting a cautious and experienced mindset.",
+      "rating": 1,
+      "chunk": 17
     },
     {
-      "Action": "Suggests taking some rest and offers a plan to organize watch duties with others.",
-      "Competence": 1,
-      "Chunk": 40
+      "trait": "competence",
+      "action": "Assigns himself and Todd to check the current floor while sending others upstairs.",
+      "assessment": "William takes initiative and responsibility, indicating confidence and leadership.",
+      "rating": 2,
+      "chunk": 17
     },
     {
-      "Action": "Engages practically with others and shows awareness of fatigue.",
-      "Competence": 1,
-      "Chunk": 40
+      "trait": "competence",
+      "action": "Attempts to involve Dog in the search, then dismisses the dog when it refuses.",
+      "assessment": "Shows practical judgment and adaptability, though the dismissal of the dog as 'goddamn useless' might reflect some impatience.",
+      "rating": 1,
+      "chunk": 17
     },
     {
-      "Action": "Allows Annabelle to rest her head on his shoulder and rolls a cigarette for her when she asks.",
-      "Warmth": 1,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Advises Sam to keep a hand on his gun and warns about potential enemies being alerted by their lanterns.",
+      "assessment": "Demonstrates tactical awareness and caution, indicating experience and prudence.",
+      "rating": 2,
+      "chunk": 17
     },
     {
-      "Action": "Sits down heavily on the floor and appears relaxed and comfortable, enabling a warm, intimate moment with Annabelle.",
-      "Warmth": 1,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Engages in light banter with Sam about his injury.",
+      "assessment": "This shows confidence and ease under pressure, which can be a positive indicator of competence in stressful situations.",
+      "rating": 1,
+      "chunk": 17
     },
     {
-      "Action": "Expresses concern about leaving Annabelle alone but decides to go check on Clyde despite his worry.",
-      "Warmth": 1,
-      "Chunk": 50
+      "trait": "competence",
+      "action": "Looks around the kitchen and notices the dirty cloth doll with a missing button eye.",
+      "assessment": "William’s observation of the environment, including small details like the doll, suggests attentiveness and situational awareness, which are positive indicators of competence.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Instructs Sam to watch over Annabelle while he goes after Clyde.",
-      "Warmth": 1,
-      "Chunk": 50
+      "trait": "competence",
+      "action": "Engages in brief dialogue with Todd and agrees to keep moving without hesitation.",
+      "assessment": "William’s quick decision to keep moving shows decisiveness and confidence, though the lack of further action or planning limits the strength of this indicator.",
+      "rating": 1,
+      "chunk": 18
     },
     {
-      "Action": "Runs out into the rain searching for Clyde, holding lantern aloft, showing concern and willingness to help.",
-      "Warmth": 1,
-      "Chunk": 51
+      "trait": "warmth",
+      "action": "Turns over a dusty picture frame to look at a family portrait.",
+      "assessment": "William's action of examining the family portrait suggests curiosity and a respectful interest in the past or others' histories, which can be seen as a gentle and thoughtful behavior.",
+      "rating": 1,
+      "chunk": 20
     },
     {
-      "Action": "Turns away from Sam abruptly and runs out without explanation, shutting the door behind him.",
-      "Warmth": -1,
-      "Chunk": 51
+      "trait": "warmth",
+      "action": "Calls out to Todd to share his discovery and expresses relief upon hearing Todd's voice.",
+      "assessment": "William's calling out and showing relief indicates a friendly and trusting nature, valuing companionship and communication.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Runs out into the rain holding a lantern to search for Clyde, follows a trail of broken cornstalks despite poor visibility and difficult weather conditions.",
-      "Competence": 1,
-      "Chunk": 51
+      "trait": "warmth",
+      "action": "Moves toward Todd to assist with the door.",
+      "assessment": "William's willingness to approach and potentially help Todd shows cooperation and a supportive attitude.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Throws his arms around Annabelle when she sobs and speaks gently to her, placing hands on her shoulders to comfort her.",
-      "Warmth": 1,
-      "Chunk": 57
+      "trait": "competence",
+      "action": "William carefully examines the dusty, unfinished family portrait by turning the picture frame over and shining his lantern on it.",
+      "assessment": "This action shows William's attentiveness to detail and curiosity, indicating a thoughtful and methodical approach to his environment.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Shakes Sam's arm and shoulder to try to rouse him, checks for signs of life, and bows his head slightly upon realizing Sam is dead.",
-      "Warmth": 1,
-      "Chunk": 57
+      "trait": "competence",
+      "action": "William nervously looks behind him into the darkness after seeing the eerie portrait.",
+      "assessment": "This reaction suggests a degree of caution and awareness of his surroundings, though the nervousness may indicate some insecurity or fear.",
+      "rating": 1,
+      "chunk": 20
     },
     {
-      "Action": "Shouts angrily into the cornfield searching for Clyde, showing frustration but concern.",
-      "Warmth": 0,
-      "Chunk": 57
+      "trait": "competence",
+      "action": "William calls out to Todd and moves toward his voice when he hears a creaking sound.",
+      "assessment": "William demonstrates situational awareness and communication skills by checking on his companion and moving to assist, showing responsible and confident behavior.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Gives Annabelle an incredulous look and shows impatience when she talks about Jeffy.",
-      "Warmth": -1,
-      "Chunk": 58
+      "trait": "competence",
+      "action": "William places his lantern on the floor and moves to the door to help Todd try to open it.",
+      "assessment": "This shows practical problem-solving and willingness to engage physically with obstacles, reflecting competence and teamwork.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Barely pays attention to Annabelle’s emotional revelation and responds curtly.",
-      "Warmth": -1,
-      "Chunk": 58
+      "trait": "warmth",
+      "action": "Suggests getting Joseph to force the door open or chopping it down to ensure no one is barricaded inside, especially since they need to get some sleep.",
+      "assessment": "William shows concern for others' safety and well-being by wanting to make sure no one is trapped inside, indicating a protective and considerate nature.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Leans forward to feel for a pulse on Sam, showing concern for Sam’s wellbeing.",
-      "Warmth": 1,
-      "Chunk": 58
+      "trait": "warmth",
+      "action": "Stops trying to force the door open after it bends but does not give, and suggests returning to check on Sam.",
+      "assessment": "William demonstrates practical judgment and consideration for the group's overall needs, showing a balanced and caring approach.",
+      "rating": 1,
+      "chunk": 21
     },
     {
-      "Action": "Engages with Todd calmly and tries to understand his fear and confusion.",
-      "Warmth": 1,
-      "Chunk": 58
+      "trait": "competence",
+      "action": "Attempts to force open a stuck door with Todd, then quickly decides to get Joseph to try and, failing that, to chop it down.",
+      "assessment": "William shows practical problem-solving skills by assessing the situation, recognizing their limits, and planning alternative solutions without wasting time.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Steps forward and directly asks Todd about Sam, showing an attempt to communicate and find answers.",
-      "Warmth": 1,
-      "Chunk": 58
+      "trait": "competence",
+      "action": "Decides to leave the door and check on Sam's condition instead of persisting alone.",
+      "assessment": "This demonstrates good judgment and prioritization, understanding when to delegate or seek help rather than stubbornly persisting.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Leans forward and feels for a pulse in Sam’s neck, attempting to assess the situation physically.",
-      "Competence": 1,
-      "Chunk": 58
+      "trait": "warmth",
+      "action": "Nods over to Sam and asks how he is doing.",
+      "assessment": "William shows concern for Sam's well-being by greeting him and inquiring about how he is doing, indicating attentiveness and friendliness.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Asks direct questions to gather information despite confusion, maintaining focus on the situation.",
-      "Competence": 1,
-      "Chunk": 58
+      "trait": "warmth",
+      "action": "Asks Annabelle if she was able to get the wound out.",
+      "assessment": "William demonstrates care and concern for Annabelle's condition, showing empathy and attentiveness.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Looks incredulous and seems dismissive when Annabelle reports strange behavior, showing some skepticism.",
-      "Competence": 0,
-      "Chunk": 58
+      "trait": "warmth",
+      "action": "Agrees with Todd's suggestion to light the lanterns.",
+      "assessment": "William supports a practical idea that benefits the group, showing cooperation and a willingness to contribute positively.",
+      "rating": 1,
+      "chunk": 22
     },
     {
-      "Action": "Responds to Todd's distress calmly and tries to clarify confusing statements.",
-      "Competence": 1,
-      "Chunk": 58
+      "trait": "warmth",
+      "action": "Dismisses the creaking door as 'Fucking wind.'",
+      "assessment": "William attempts to downplay the group's anxiety, possibly to calm others, which can be seen as reassuring, though the language is blunt.",
+      "rating": 1,
+      "chunk": 22
     },
     {
-      "Action": "Does not act on or explore the emotional or psychological aspects of Todd’s condition beyond asking questions.",
-      "Competence": 0,
-      "Chunk": 58
+      "trait": "competence",
+      "action": "Nods to Sam and casually inquires about his condition and Annabelle's wound.",
+      "assessment": "William demonstrates situational awareness and concern for his companions, indicating social competence and attentiveness.",
+      "rating": 1,
+      "chunk": 22
     },
     {
-      "Action": "Cautiously sticks his pistol back into his waistband and holds Todd's gaze after Annabelle defends Todd, showing some restraint.",
-      "Warmth": 0,
-      "Chunk": 60
+      "trait": "competence",
+      "action": "Agrees with Todd's suggestion to light the lanterns and acknowledges the oil in them.",
+      "assessment": "William shows practical judgment and readiness to improve the environment's safety and visibility, reflecting competent decision-making.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Concedes that Todd did not take the gold, despite personal doubts, reflecting a level of tolerance and fairness.",
-      "Warmth": 1,
-      "Chunk": 60
+      "trait": "competence",
+      "action": "Dismisses the creaking door as 'Fucking wind' despite the group's nervousness.",
+      "assessment": "William attempts to maintain calm and rationality, which can be seen as confidence, but may also risk underestimating potential threats; this is a mixed indicator.",
+      "rating": 0,
+      "chunk": 22
     },
     {
-      "Action": "Cautiously sticks his pistol back into his waistband while still holding Todd's gaze, showing controlled and confident behavior during tense negotiation.",
-      "Competence": 1,
-      "Chunk": 60
+      "trait": "warmth",
+      "action": "Suggests sleeping in shifts and keeping lanterns on so someone can stay up and watch.",
+      "assessment": "This shows William's concern for the safety and well-being of the group, indicating a protective and responsible nature.",
+      "rating": 2,
+      "chunk": 23
     },
     {
-      "Action": "States that he looked for Clyde but couldn’t find him, indicating effort in a difficult situation but potential failure to secure a companion.",
-      "Competence": 0,
-      "Chunk": 60
+      "trait": "warmth",
+      "action": "Nods thoughtfully when discussing the possibility of deserters and the jacket found.",
+      "assessment": "William's thoughtful engagement suggests he is attentive and considerate of others' input, reflecting a respectful and inclusive attitude.",
+      "rating": 1,
+      "chunk": 23
     },
     {
-      "Action": "Displays some doubt internally (blinks and does not look entirely convinced) but manages to maintain composure outwardly.",
-      "Competence": 0,
-      "Chunk": 60
+      "trait": "warmth",
+      "action": "Agrees to move on at first light, acknowledging the group's discomfort and the unsafe feeling of the place.",
+      "assessment": "William shows empathy and responsiveness to the group's unease, demonstrating tolerance and a desire to maintain group harmony.",
+      "rating": 2,
+      "chunk": 23
     },
     {
-      "Action": "Hurries after Todd to check on him despite tension over leaving without gold.",
-      "Warmth": 1,
-      "Chunk": 61
+      "trait": "competence",
+      "action": "Questions the presence of the Confederate jacket and considers the implications of deserters leaving it behind.",
+      "assessment": "William demonstrates analytical thinking by questioning why a deserter would leave behind a valuable item, showing attention to detail and situational awareness.",
+      "rating": 2,
+      "chunk": 23
     },
     {
-      "Action": "Engages quietly and respectfully with Todd, standing next to him in silence at the barn.",
-      "Warmth": 1,
-      "Chunk": 61
+      "trait": "competence",
+      "action": "Decides that they will sleep in shifts and keep lanterns on to maintain watch throughout the night.",
+      "assessment": "This shows William's foresight, leadership, and concern for group safety, indicating competent planning and responsibility.",
+      "rating": 3,
+      "chunk": 23
     },
     {
-      "Action": "Insists on not leaving without the gold despite Todd's suggestion to abandon it for safety.",
-      "Competence": 1,
-      "Chunk": 61
+      "trait": "competence",
+      "action": "Agrees to move on at first light after assessing the uneasy atmosphere.",
+      "assessment": "William's decision to not linger in a potentially unsafe location reflects prudent judgment and adaptability.",
+      "rating": 2,
+      "chunk": 23
     },
     {
-      "Action": "Moves to stand next to Todd and assess the horrific scene in the barn calmly after an abrupt stop and silence from Todd.",
-      "Competence": 1,
-      "Chunk": 61
+      "trait": "competence",
+      "action": "Moves to investigate the corner of the room that the dog is reacting to but sees nothing.",
+      "assessment": "William takes initiative to assess potential threats, though he fails to detect anything unusual, which may indicate limited perceptiveness in this instance.",
+      "rating": 0,
+      "chunk": 23
     },
     {
-      "Action": "Shows concern for Todd by asking if he is alright.",
-      "Warmth": 1,
-      "Chunk": 62
+      "trait": "warmth",
+      "action": "Turns up his lantern and helps look for the lost dog with Clyde.",
+      "assessment": "William participates in the search for the lost dog, showing concern and willingness to help.",
+      "rating": 2,
+      "chunk": 24
     },
     {
-      "Action": "Attempts to understand Todd by asking what he saw.",
-      "Warmth": 1,
-      "Chunk": 62
+      "trait": "warmth",
+      "action": "Suggests setting out jerky to lure the dog back, even though he doubts it will work.",
+      "assessment": "Despite skepticism, William agrees to try a kind gesture to help find the dog, indicating thoughtfulness and cooperation.",
+      "rating": 2,
+      "chunk": 24
     },
     {
-      "Action": "Looks to Annabelle for support or shared understanding.",
-      "Warmth": 0,
-      "Chunk": 62
+      "trait": "warmth",
+      "action": "Reassures Todd that the dog will come back, normalizing the dog's behavior.",
+      "assessment": "William attempts to calm others by downplaying the situation, showing a steady and reassuring presence.",
+      "rating": 1,
+      "chunk": 24
     },
     {
-      "Action": "Tries to reassure Todd and encourages him to leave the barn, showing calmness and leadership.",
-      "Competence": 1,
-      "Chunk": 63
+      "trait": "warmth",
+      "action": "Asks Sam if he is doing alright while Sam is seated and playing with gold coins.",
+      "assessment": "William shows concern for Sam's wellbeing, indicating attentiveness and care.",
+      "rating": 2,
+      "chunk": 24
     },
     {
-      "Action": "Looks at Annabelle and does not appear to respond to the mysterious voice or investigate the loft himself.",
-      "Competence": -1,
-      "Chunk": 63
+      "trait": "competence",
+      "action": "Identifies the rustling sound in the cornfield as Dog's presence.",
+      "assessment": "William demonstrates situational awareness and attentiveness by recognizing the source of the noise quickly.",
+      "rating": 2,
+      "chunk": 24
     },
     {
-      "Action": "Expresses concern for Sam and wants to say goodbye before leaving.",
-      "Warmth": 1,
-      "Chunk": 64
+      "trait": "competence",
+      "action": "Critiques the idea of setting out jerky to lure Dog back, noting it will attract possums.",
+      "assessment": "This shows William's practical knowledge and experience with the environment and animal behavior, indicating thoughtful problem-solving.",
+      "rating": 2,
+      "chunk": 24
     },
     {
-      "Action": "Insists on staying to look for gold despite others wanting to leave and forget.",
-      "Warmth": 0,
-      "Chunk": 64
+      "trait": "competence",
+      "action": "Decides to set out jerky anyway despite knowing it might attract possums.",
+      "assessment": "William balances pragmatism with caution, showing flexibility and willingness to try imperfect solutions, which is a competent approach.",
+      "rating": 1,
+      "chunk": 24
     },
     {
-      "Action": "Engages seriously and openly with Annabelle and Todd, maintaining their gaze during conversation.",
-      "Warmth": 1,
-      "Chunk": 64
+      "trait": "competence",
+      "action": "Reassures others that Dog will return, referencing past behavior.",
+      "assessment": "William's confidence and calm demeanor help to stabilize the group, reflecting emotional intelligence and leadership qualities.",
+      "rating": 1,
+      "chunk": 24
     },
     {
-      "Action": "Insists on hope despite evidence Sam is dead, showing optimism and concern.",
-      "Warmth": 1,
-      "Chunk": 65
+      "trait": "competence",
+      "action": "Responds to Todd's comment about Dog running from danger with a dismissive 'He's a dog. Dogs are weird.'",
+      "assessment": "This response may suggest a lack of deeper insight or critical thinking about the situation, potentially missing an opportunity to assess real danger.",
+      "rating": -1,
+      "chunk": 24
     },
     {
-      "Action": "Expresses strong anger about the situation and desire for revenge (burn the place down).",
-      "Warmth": 0,
-      "Chunk": 65
+      "trait": "warmth",
+      "action": "Smiles at Sam and says, 'Hey, Sam? Cheer up.'",
+      "assessment": "William attempts to lighten the mood and encourage Sam despite the tense situation, showing a friendly and supportive demeanor.",
+      "rating": 2,
+      "chunk": 25
     },
     {
-      "Action": "Shares discovery of Sam’s shoe and urges group to search for him.",
-      "Warmth": 1,
-      "Chunk": 65
+      "trait": "warmth",
+      "action": "Engages cooperatively with others to check the barn and its conditions.",
+      "assessment": "William participates actively and collaboratively with the group, indicating a willingness to work together and be involved, which reflects a trustworthy and inclusive attitude.",
+      "rating": 1,
+      "chunk": 25
     },
     {
-      "Action": "Leads Todd and Annabelle through the cornfield, pushing aside corn stalks to create a path.",
-      "Warmth": 1,
-      "Chunk": 66
+      "trait": "competence",
+      "action": "Encourages Sam to cheer up despite the tense situation.",
+      "assessment": "This shows William's emotional intelligence and leadership qualities, helping to maintain group morale under stress.",
+      "rating": 2,
+      "chunk": 25
     },
     {
-      "Action": "Encourages the group to keep going despite poor visibility and signs of danger.",
-      "Warmth": 0,
-      "Chunk": 66
+      "trait": "competence",
+      "action": "Analyzes the potential effects of the storm on their tracks, considering both positive and negative outcomes.",
+      "assessment": "This indicates situational awareness and strategic thinking, reflecting competent judgment.",
+      "rating": 2,
+      "chunk": 25
     },
     {
-      "Action": "Keeps focus on their goal and reassures by noting they are headed in the right direction.",
-      "Warmth": 0,
-      "Chunk": 66
+      "trait": "competence",
+      "action": "Volunteers to investigate the barn loft despite uncertainty about what might be there.",
+      "assessment": "This demonstrates initiative and courage, traits associated with competence in uncertain environments.",
+      "rating": 2,
+      "chunk": 25
     },
     {
-      "Action": "Pushes his way into the cornfield creating a trail for others to follow.",
-      "Competence": 1,
-      "Chunk": 66
+      "trait": "warmth",
+      "action": "Attempts to explore the loft despite the risk, and after falling, brushes himself off and encourages the group to move on.",
+      "assessment": "William shows resilience and a practical attitude, but his reaction to the accident is somewhat brusque and lacks concern for others' feelings or safety.",
+      "rating": 0,
+      "chunk": 26
     },
     {
-      "Action": "Locates a recently used trail by inspecting the broken cornstalk stump.",
-      "Competence": 1,
-      "Chunk": 66
+      "trait": "warmth",
+      "action": "Kicks the ladder in frustration after the fall, breaking another rung.",
+      "assessment": "This action suggests impatience and a lack of carefulness, which could be seen as inconsiderate or destructive rather than warm.",
+      "rating": -1,
+      "chunk": 26
     },
     {
-      "Action": "Insists on proceeding down the newly found trail despite poor visibility and others' hesitation.",
-      "Competence": 0,
-      "Chunk": 66
+      "trait": "warmth",
+      "action": "Suggests to Annabelle and Clyde that they should go back inside and agrees with putting the horses in the barn before the storm.",
+      "assessment": "William shows a protective and cooperative attitude towards others and the animals, indicating some level of care and responsibility.",
+      "rating": 2,
+      "chunk": 26
     },
     {
-      "Action": "Expresses uncertainty about their location but maintains confidence about the general direction.",
-      "Competence": 0,
-      "Chunk": 66
+      "trait": "competence",
+      "action": "Begins scaling the ladder holding his lantern with one hand.",
+      "assessment": "This shows a degree of confidence and willingness to take initiative, though holding a lantern in one hand while climbing may reduce stability.",
+      "rating": 1,
+      "chunk": 26
     },
     {
-      "Action": "Steps forward to investigate and cuts the ropes to free the scarecrow (Clyde) despite obvious danger, handing his lantern to Annabelle to help.",
-      "Warmth": 1,
-      "Chunk": 67
+      "trait": "competence",
+      "action": "Falls about six feet when the ladder rung breaks, but manages to roll away from the spilled flaming oil and quickly recovers by sitting up and then rising to his feet.",
+      "assessment": "Despite the accident, William demonstrates physical resilience and presence of mind to avoid injury from the fire, indicating decent situational awareness and recovery ability.",
+      "rating": 2,
+      "chunk": 26
     },
     {
-      "Action": "Speaks reassuringly to Clyde while cutting him loose, asking him to hold on.",
-      "Warmth": 1,
-      "Chunk": 67
+      "trait": "competence",
+      "action": "Kicks the ladder in frustration, breaking another rung.",
+      "assessment": "This impulsive action damages equipment and suggests a momentary lapse in judgment and control, reflecting negatively on his competence.",
+      "rating": -1,
+      "chunk": 26
     },
     {
-      "Action": "Looks at Clyde’s body in shock, asks what is going on",
-      "Warmth": 1,
-      "Chunk": 69
+      "trait": "competence",
+      "action": "Decides to abandon the attempt to explore the loft after the fall and fire incident.",
+      "assessment": "This shows practical judgment and adaptability, recognizing when a plan is no longer viable and choosing to move on.",
+      "rating": 2,
+      "chunk": 26
     },
     {
-      "Action": "Encourages Todd to get up and dismisses Todd's fearful claims as just the storm",
-      "Warmth": 1,
-      "Chunk": 69
+      "trait": "competence",
+      "action": "Leads the group back inside and agrees with Annabelle’s suggestion to put the horses in the barn before the storm.",
+      "assessment": "Demonstrates leadership and responsiveness to environmental conditions, indicating situational awareness and care for group safety.",
+      "rating": 2,
+      "chunk": 26
     },
     {
-      "Action": "Looks at Clyde’s body in shock, asks what is going on, tries to calm Todd by attributing his fear to the storm, encourages Todd to come with them.",
-      "Competence": 1,
-      "Chunk": 69
+      "trait": "warmth",
+      "action": "Hands the book to Annabelle when she asks to see it.",
+      "assessment": "William willingly shares the book without hesitation, showing openness and trust toward Annabelle.",
+      "rating": 2,
+      "chunk": 27
     },
     {
-      "Action": "Shouts 'Todd! No!' trying to stop Todd from killing himself.",
-      "Warmth": 1,
-      "Chunk": 70
+      "trait": "warmth",
+      "action": "Suggests leaving the barn before the storm and tells Joseph he can play with the book inside.",
+      "assessment": "William shows concern for the group's safety and tries to keep Joseph engaged and comfortable, indicating care and consideration.",
+      "rating": 2,
+      "chunk": 27
     },
     {
-      "Action": "Follows Annabelle silently when she pulls him away from Todd's body.",
-      "Warmth": 0,
-      "Chunk": 70
+      "trait": "warmth",
+      "action": "Drinks whiskey passed to him by Clyde.",
+      "assessment": "While drinking itself is neutral, accepting the drink in a social setting can indicate friendliness and willingness to bond with others.",
+      "rating": 1,
+      "chunk": 27
     },
     {
-      "Action": "Urges Annabelle to slow down while struggling physically to keep up with her.",
-      "Warmth": 1,
-      "Chunk": 70
+      "trait": "warmth",
+      "action": "Responds to Joseph's question about the book's language with a blunt 'How should I know?'",
+      "assessment": "This response may come off as curt or dismissive, suggesting some impatience or lack of warmth in this moment.",
+      "rating": -1,
+      "chunk": 27
     },
     {
-      "Action": "Mutely follows Annabelle without taking initiative after Todd's suicide.",
-      "Competence": -1,
-      "Chunk": 70
+      "trait": "competence",
+      "action": "Flips through the pages of the book and recognizes that the writing is not in English but in Arabic.",
+      "assessment": "This shows William's observational skills and some linguistic awareness, indicating a moderate level of competence in identifying unfamiliar scripts.",
+      "rating": 2,
+      "chunk": 27
     },
     {
-      "Action": "Struggles to keep up, slips and falls repeatedly while trying to follow Annabelle.",
-      "Competence": -1,
-      "Chunk": 70
+      "trait": "competence",
+      "action": "Hands the book to Annabelle when he cannot decipher it himself.",
+      "assessment": "This demonstrates William's practical judgment and humility, recognizing his limits and delegating to someone potentially more capable, which is a competent behavior.",
+      "rating": 2,
+      "chunk": 27
     },
     {
-      "Action": "Calls out to Annabelle despite difficult conditions, attempts to continue moving forward after falling.",
-      "Competence": 0,
-      "Chunk": 70
+      "trait": "competence",
+      "action": "Decides to leave the barn quickly before the storm arrives, suggesting to others to stay inside and examine the book later.",
+      "assessment": "This shows situational awareness and prioritization of safety over curiosity, reflecting good decision-making and competence.",
+      "rating": 2,
+      "chunk": 27
     },
     {
-      "Action": "Shouts repeatedly for Annabelle, trying to communicate and find her despite fear and confusion.",
-      "Warmth": 1,
-      "Chunk": 71
+      "trait": "competence",
+      "action": "Responds to Joseph's question about the book's content with 'How should I know?'",
+      "assessment": "This response is somewhat dismissive and lacks confidence or initiative to investigate further, indicating a slight lack of assertiveness or deeper engagement.",
+      "rating": -1,
+      "chunk": 27
     },
     {
-      "Action": "Draws his pistol and prepares to defend himself when sensing an unknown presence, showing caution but no aggression towards Annabelle.",
-      "Warmth": 0,
-      "Chunk": 71
+      "trait": "warmth",
+      "action": "Offers Annabelle to lie down for a little while when she mentions the beds upstairs.",
+      "assessment": "William shows attentiveness and care by suggesting rest to Annabelle, indicating a considerate and gentle nature.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "Slows down and assesses surroundings despite being winded; looks carefully for Annabelle.",
-      "Competence": 1,
-      "Chunk": 71
+      "trait": "warmth",
+      "action": "Engages in a tender and affectionate kiss with Annabelle.",
+      "assessment": "The affectionate interaction suggests warmth and sincerity in his relationship with Annabelle.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "Draws his pistol and reacts cautiously to an ambiguous threat in the dark cornfield.",
-      "Competence": 1,
-      "Chunk": 71
+      "trait": "warmth",
+      "action": "Carefully extricates himself from Annabelle’s arms so as not to wake her fully and quickly gets dressed to look for Joseph.",
+      "assessment": "William shows consideration for Annabelle’s rest and comfort, indicating a gentle and caring nature.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Calls out repeatedly but is unable to maintain direction or control in the dense cornfield.",
-      "Competence": 0,
-      "Chunk": 71
+      "trait": "warmth",
+      "action": "Leans down and gently shakes Annabelle’s arm to wake her and informs her about Joseph’s disappearance.",
+      "assessment": "William communicates important information with tenderness and respect, showing sincerity and concern.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Whispers 'Annabelle?' nervously, showing concern for her safety.",
-      "Warmth": 1,
-      "Chunk": 72
+      "trait": "warmth",
+      "action": "Asks Annabelle to lock the door after he leaves so she can rest safely, despite her having a gun.",
+      "assessment": "William’s request reflects his protective instincts and genuine care for Annabelle’s wellbeing.",
+      "rating": 3,
+      "chunk": 31
     },
     {
-      "Action": "Raises and fires pistol towards scarecrow figure despite unclear threat, showing protective but fearful behavior.",
-      "Warmth": 0,
-      "Chunk": 72
+      "trait": "warmth",
+      "action": "Leans down and kisses Annabelle before leaving.",
+      "assessment": "This affectionate gesture demonstrates warmth, love, and emotional connection.",
+      "rating": 3,
+      "chunk": 31
     },
     {
-      "Action": "Falls to his knees, sobbing hysterically after shooting the figure.",
-      "Warmth": 1,
-      "Chunk": 73
+      "trait": "competence",
+      "action": "Carefully extricates himself from Annabelle's arms upon hearing the knock, quickly dresses, and promptly goes to investigate Joseph's disappearance.",
+      "assessment": "This shows William's ability to respond quickly and efficiently to an unexpected situation, indicating situational awareness and a sense of responsibility.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Stares blankly and aimlessly after the shooting, showing deep distress and sorrow.",
-      "Warmth": 1,
-      "Chunk": 73
+      "trait": "competence",
+      "action": "Asks Sam for details about Joseph's disappearance, including whether there are any tracks.",
+      "assessment": "William demonstrates a methodical and investigative approach, showing intelligence and practical problem-solving skills.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Fires at the dark figure approaching him without hesitation.",
-      "Warmth": 0,
-      "Chunk": 73
+      "trait": "competence",
+      "action": "Instructs Annabelle to lock the door after he leaves and encourages her to get some rest despite her having a gun.",
+      "assessment": "This indicates William's foresight and concern for safety, as well as his ability to delegate and manage the situation calmly.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Reaches out gently and touches the side of Annabelle's face, showing tenderness towards her corpse.",
-      "Warmth": 1,
-      "Chunk": 74
+      "trait": "competence",
+      "action": "Leans down and gently wakes Annabelle to inform her of the situation before leaving.",
+      "assessment": "This shows William's emotional intelligence and ability to communicate clearly under pressure, balancing care with urgency.",
+      "rating": 1,
+      "chunk": 31
     },
     {
-      "Action": "Immediately rises to his feet after the dog is knocked back and assesses the situation, noting the dog is nearer to the gun than him and makes a quick decision to run.",
-      "Competence": 1,
-      "Chunk": 75
+      "trait": "warmth",
+      "action": "Suggests that Dog might have just wandered off or be playing a joke.",
+      "assessment": "William tries to maintain a hopeful and calm attitude, which can be seen as an attempt to comfort others and reduce panic.",
+      "rating": 2,
+      "chunk": 33
     },
     {
-      "Action": "Runs limping badly through the cornfield, trying to escape Dog, though he is wounded and cannot outrun the dog.",
-      "Competence": 0,
-      "Chunk": 75
+      "trait": "warmth",
+      "action": "Shrugs and walks back towards the house with the others after no response to calling Joseph.",
+      "assessment": "His dejected posture and acceptance of the situation show empathy and shared concern with the group, indicating emotional connection.",
+      "rating": 2,
+      "chunk": 33
     },
     {
-      "Action": "Fails to notice that Dog has stopped snapping at his ankles and is no longer directly behind him, indicating a brief lapse in situational awareness.",
-      "Competence": -1,
-      "Chunk": 75
-    }
-  ],
-  "William ": [
+      "trait": "warmth",
+      "action": "Advises everyone to hold onto their guns, especially when alone.",
+      "assessment": "This shows a protective and caring attitude toward the group’s safety, reflecting responsibility and concern for others.",
+      "rating": 2,
+      "chunk": 33
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses relief that Sam made it out of the cornfield safely.",
+      "assessment": "William’s acknowledgment of Sam’s luck and safety demonstrates genuine concern and kindness.",
+      "rating": 2,
+      "chunk": 33
+    },
+    {
+      "trait": "competence",
+      "action": "Suggests that they should each hold onto their guns from now on, especially when going out alone.",
+      "assessment": "This shows William's practical awareness of potential danger and a proactive approach to safety, indicating a reasonable level of competence in assessing risk and preparing accordingly.",
+      "rating": 2,
+      "chunk": 33
+    },
+    {
+      "trait": "competence",
+      "action": "Shrugs and walks back towards the house after no response is heard when calling for Joseph.",
+      "assessment": "William's quick acceptance of the situation without further investigation or urgency may suggest a lack of initiative or thoroughness, which could be seen as a slight negative indicator of competence in a tense situation.",
+      "rating": -1,
+      "chunk": 33
+    },
+    {
+      "trait": "competence",
+      "action": "Questions if Dog could have just wandered off or be pulling a joke.",
+      "assessment": "This shows some level of rational thinking and not immediately jumping to worst-case conclusions, reflecting a calm and measured mindset, which is a positive competence indicator.",
+      "rating": 1,
+      "chunk": 33
+    },
+    {
+      "trait": "competence",
+      "action": "Throws a knife at the wall; the knife plunges into the wood. He then retrieves it and throws it again.",
+      "assessment": "William demonstrates skill and precision in knife throwing, indicating physical coordination and confidence in this task.",
+      "rating": 2,
+      "chunk": 34
+    },
+    {
+      "trait": "competence",
+      "action": "Refuses to get some sleep despite being advised to do so.",
+      "assessment": "This shows determination and possibly mental toughness, but also a potential lack of self-care or poor judgment regarding rest, which could impair overall competence.",
+      "rating": 0,
+      "chunk": 34
+    },
+    {
+      "trait": "warmth",
+      "action": "Puts an arm around Annabelle and asks if she is alright after she is scared by the boy.",
+      "assessment": "William shows concern and physical comfort towards Annabelle, indicating care and a protective attitude.",
+      "rating": 3,
+      "chunk": 36
+    },
+    {
+      "trait": "warmth",
+      "action": "Engages with others calmly to assess the situation about the boy in the house, asking questions and considering possibilities.",
+      "assessment": "William demonstrates a cooperative and thoughtful approach, showing he values others' input and is focused on resolving the issue.",
+      "rating": 2,
+      "chunk": 36
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses dislike for the idea of hidden passageways where the boy might be hiding.",
+      "assessment": "This shows William's empathy and concern for safety, reflecting a protective and caring nature.",
+      "rating": 2,
+      "chunk": 36
+    },
+    {
+      "trait": "competence",
+      "action": "Leads the group quickly towards the source of Annabelle's scream, taking charge of the situation.",
+      "assessment": "This shows William's ability to respond promptly and take initiative in a crisis, indicating confidence and leadership.",
+      "rating": 2,
+      "chunk": 36
+    },
+    {
+      "trait": "competence",
+      "action": "Questions Annabelle carefully about the boy and the situation, trying to gather information.",
+      "assessment": "William demonstrates a methodical approach to understanding the situation, reflecting intelligence and situational awareness.",
+      "rating": 2,
+      "chunk": 36
+    },
+    {
+      "trait": "competence",
+      "action": "Considers the possibility that the boy escaped through a window or hidden passageways and suggests checking for hollow walls.",
+      "assessment": "This shows William's problem-solving skills and ability to think beyond obvious options, indicating resourcefulness.",
+      "rating": 2,
+      "chunk": 36
+    },
+    {
+      "trait": "competence",
+      "action": "Puts an arm around Annabelle to comfort her after the scare.",
+      "assessment": "While this is a supportive and empathetic action, it does not directly reflect competence in terms of skill or intelligence.",
+      "rating": 0,
+      "chunk": 36
+    },
+    {
+      "trait": "competence",
+      "action": "Stares at Todd after hearing that the boy is not on the floor, showing some doubt or confusion.",
+      "assessment": "This moment suggests some uncertainty or lack of immediate clarity about the situation, indicating a slight hesitation.",
+      "rating": -1,
+      "chunk": 36
+    },
+    {
+      "trait": "warmth",
+      "action": "Tells Sam to lie down and rest, and says they will wake him if anything comes up.",
+      "assessment": "William shows concern for Sam's well-being by encouraging him to rest and offering to wake him if needed, indicating a caring and responsible attitude.",
+      "rating": 2,
+      "chunk": 37
+    },
+    {
+      "trait": "warmth",
+      "action": "Tells others to get some sleep before moving on at first light.",
+      "assessment": "William is focused on the group's welfare and encourages rest for everyone, showing a sense of responsibility and consideration.",
+      "rating": 2,
+      "chunk": 37
+    },
+    {
+      "trait": "warmth",
+      "action": "Throws a rock into the field and mutters 'Christ' and 'That's great' as rain begins.",
+      "assessment": "This action and statement suggest frustration and possibly a negative mood, which may reduce perceived warmth in this moment.",
+      "rating": -1,
+      "chunk": 37
+    },
+    {
+      "trait": "warmth",
+      "action": "Insists that someone stay in the front room to watch for anyone trying to get into the house.",
+      "assessment": "William demonstrates protectiveness and concern for the group's safety, which can be seen as a responsible and caring behavior.",
+      "rating": 2,
+      "chunk": 37
+    },
+    {
+      "trait": "warmth",
+      "action": "Questions where Clyde is and expresses concern when he is not found.",
+      "assessment": "William shows attentiveness and worry for a missing group member, indicating care and sincerity.",
+      "rating": 3,
+      "chunk": 37
+    },
+    {
+      "trait": "competence",
+      "action": "Organizes the group to get some rest before moving on at first light, instructing Sam to lie down and promising to wake him if anything happens.",
+      "assessment": "This shows William’s ability to plan ahead, manage resources (rest), and delegate responsibilities, indicating a competent and thoughtful leader.",
+      "rating": 2,
+      "chunk": 37
+    },
+    {
+      "trait": "competence",
+      "action": "Steps outside, assesses the weather conditions, and decides to look around the area despite the rain.",
+      "assessment": "William demonstrates situational awareness and willingness to take initiative, which are positive indicators of competence.",
+      "rating": 2,
+      "chunk": 37
+    },
+    {
+      "trait": "competence",
+      "action": "Insists that someone stay in the front room to watch for potential threats rather than everyone going out to look around.",
+      "assessment": "This shows good judgment and strategic thinking, prioritizing security and risk management.",
+      "rating": 3,
+      "chunk": 37
+    },
+    {
+      "trait": "competence",
+      "action": "Expresses concern about Clyde’s absence and questions where he is.",
+      "assessment": "William’s attentiveness to the whereabouts of group members reflects responsibility and situational control.",
+      "rating": 2,
+      "chunk": 37
+    },
+    {
+      "trait": "competence",
+      "action": "Throws a rock into the field and mutters 'Christ' and 'That’s great' upon noticing the rain starting.",
+      "assessment": "This moment of frustration suggests some emotional reaction to circumstances but does not significantly detract from his overall competence; it shows human vulnerability but no loss of control.",
+      "rating": 0,
+      "chunk": 37
+    },
+    {
+      "trait": "warmth",
+      "action": "Reaches out hesitantly and touches Annabelle's arm when she is panicked.",
+      "assessment": "This physical gesture shows William's concern and desire to comfort Annabelle in a moment of distress, indicating warmth and care.",
+      "rating": 2,
+      "chunk": 38
+    },
+    {
+      "trait": "warmth",
+      "action": "Asks Annabelle if she is okay and embraces her in the rain.",
+      "assessment": "William's verbal check-in and physical embrace demonstrate attentiveness and emotional support, reflecting good-natured and sincere behavior.",
+      "rating": 3,
+      "chunk": 38
+    },
+    {
+      "trait": "warmth",
+      "action": "Smiles at Annabelle after comforting her.",
+      "assessment": "The smile suggests warmth and reassurance, helping to ease Annabelle's anxiety.",
+      "rating": 2,
+      "chunk": 38
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses concern about leaving Joseph alone and insists they cannot just leave him behind.",
+      "assessment": "William shows responsibility and loyalty, valuing the safety of others, which is a positive indicator of warmth.",
+      "rating": 2,
+      "chunk": 38
+    },
+    {
+      "trait": "warmth",
+      "action": "Responds calmly to Annabelle's panic and tries to rationalize the situation.",
+      "assessment": "While his calmness can be stabilizing, it may also suggest a degree of emotional distance or lack of full empathy toward Annabelle's feelings.",
+      "rating": 0,
+      "chunk": 38
+    },
+    {
+      "trait": "competence",
+      "action": "Reassures Annabelle by trying to calm her panic and offering physical comfort despite the tense situation.",
+      "assessment": "This shows emotional intelligence and a degree of confidence in managing others' fears, which is a competent social skill in stressful circumstances.",
+      "rating": 2,
+      "chunk": 38
+    },
+    {
+      "trait": "competence",
+      "action": "Acknowledges the possibility of strange events but remains rational and cautious rather than succumbing to panic.",
+      "assessment": "This indicates a level-headed and thoughtful approach, reflecting competent judgment under uncertainty.",
+      "rating": 2,
+      "chunk": 38
+    },
+    {
+      "trait": "competence",
+      "action": "Responds to Clyde’s sudden appearance with concern and quickly engages in gathering information about Joseph’s whereabouts.",
+      "assessment": "This shows alertness and readiness to act, suggesting situational awareness and responsibility.",
+      "rating": 2,
+      "chunk": 38
+    },
+    {
+      "trait": "competence",
+      "action": "Does not immediately share Annabelle’s intuition or fear about Joseph’s disappearance, showing some hesitation or uncertainty.",
+      "assessment": "This hesitation may indicate a lack of full confidence or insight into the situation, slightly detracting from his decisiveness.",
+      "rating": -1,
+      "chunk": 38
+    },
+    {
+      "trait": "warmth",
+      "action": "Reassures Clyde that the creature seen in the cornfield was probably Joseph playing a game, and expresses relief that Dog hasn't run off for good.",
+      "assessment": "William shows a calm and optimistic attitude, attempting to ease concerns and maintain a friendly, hopeful atmosphere among the group.",
+      "rating": 2,
+      "chunk": 39
+    },
+    {
+      "trait": "competence",
+      "action": "Questions Clyde's sighting of Joseph in the cornfield, noting poor visibility and suggesting alternative explanations.",
+      "assessment": "William demonstrates critical thinking and caution by not immediately accepting Clyde's claim, showing an ability to assess uncertain information carefully.",
+      "rating": 2,
+      "chunk": 39
+    },
+    {
+      "trait": "competence",
+      "action": "Concludes that the figure seen was probably Joseph and not a bear, based on local knowledge.",
+      "assessment": "William uses relevant contextual knowledge to make a reasonable inference, indicating practical intelligence and situational awareness.",
+      "rating": 2,
+      "chunk": 39
+    },
+    {
+      "trait": "competence",
+      "action": "Expresses relief that Dog was not spooked off for good and shares an optimistic smile with Annabelle.",
+      "assessment": "William shows emotional composure and positive leadership by maintaining optimism in uncertain circumstances, which can be a sign of confidence and social competence.",
+      "rating": 1,
+      "chunk": 39
+    },
+    {
+      "trait": "warmth",
+      "action": "Offers to sit with Annabelle and Clyde for a moment before going to get some rest.",
+      "assessment": "William shows consideration by offering to keep others company briefly before attending to his own needs, indicating a friendly and thoughtful nature.",
+      "rating": 2,
+      "chunk": 40
+    },
+    {
+      "trait": "warmth",
+      "action": "Suggests that Clyde sit up with Todd while he rests.",
+      "assessment": "William delegates responsibility in a cooperative way, showing trust and willingness to share duties, which reflects a tolerant and supportive attitude.",
+      "rating": 2,
+      "chunk": 40
+    },
+    {
+      "trait": "competence",
+      "action": "Suggests getting some rest and offers to sit with others before doing so.",
+      "assessment": "This shows William's ability to balance self-care with responsibility, indicating practical judgment and a calm, measured approach.",
+      "rating": 2,
+      "chunk": 40
+    },
+    {
+      "trait": "competence",
+      "action": "Engages cooperatively with Clyde and Annabelle, negotiating who will stay up and who will rest.",
+      "assessment": "William demonstrates social awareness and leadership by coordinating group needs effectively, reflecting competent interpersonal skills.",
+      "rating": 2,
+      "chunk": 40
+    },
+    {
+      "trait": "warmth",
+      "action": "Annabelle lightly rests her head on William’s shoulder, and he responds by rolling a cigarette for her when she asks.",
+      "assessment": "William’s willingness to attend to Annabelle’s request and his calm presence as she rests on him indicate a gentle, caring, and supportive demeanor.",
+      "rating": 3,
+      "chunk": 41
+    },
+    {
+      "trait": "warmth",
+      "action": "William sits down heavily on the floor and allows Annabelle to curl up next to him, both falling asleep peacefully.",
+      "assessment": "This shows William’s openness to physical closeness and comfort with others, suggesting trustworthiness and warmth in his relationships.",
+      "rating": 3,
+      "chunk": 41
+    },
+    {
+      "trait": "warmth",
+      "action": "William engages in casual conversation with Todd and Clyde about the noise and the sighting of Joseph and Dog.",
+      "assessment": "William’s participation in light, friendly conversation reflects a sociable and approachable nature.",
+      "rating": 2,
+      "chunk": 41
+    },
+    {
+      "trait": "warmth",
+      "action": "William does not intervene in the teasing exchange between Todd and Clyde about cheating and standing watch.",
+      "assessment": "His non-intervention could be seen as tolerance and allowing friendly banter, but also a lack of assertiveness in moderating group dynamics.",
+      "rating": 1,
+      "chunk": 41
+    },
+    {
+      "trait": "competence",
+      "action": "Sits down heavily on the floor and begins rolling a cigarette after checking the situation with Todd and Clyde.",
+      "assessment": "William appears calm and composed, showing a relaxed confidence in the situation by taking time to roll a cigarette rather than acting anxiously or impulsively.",
+      "rating": 1,
+      "chunk": 41
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in casual conversation with Todd and Clyde about potential threats and sightings.",
+      "assessment": "William demonstrates situational awareness by discussing possible dangers and gathering information, indicating a reasonable level of attentiveness and social skill.",
+      "rating": 1,
+      "chunk": 41
+    },
+    {
+      "trait": "competence",
+      "action": "Falls asleep on the floor with Annabelle, mouth slightly open, breathing deeply.",
+      "assessment": "Falling asleep in a presumably tense or uncertain environment may suggest a degree of over-relaxation or lack of vigilance, which could be seen as a minor lapse in competence regarding alertness.",
+      "rating": -1,
+      "chunk": 41
+    },
+    {
+      "trait": "warmth",
+      "action": "William wakes Annabelle and expresses concern about leaving her alone before going after Clyde.",
+      "assessment": "William shows care and consideration for Annabelle's safety and well-being, indicating a protective and trustworthy nature.",
+      "rating": 2,
+      "chunk": 50
+    },
+    {
+      "trait": "warmth",
+      "action": "William instructs Sam to watch over Annabelle while he goes after Clyde.",
+      "assessment": "Delegating responsibility to ensure Annabelle is not left completely alone demonstrates William's thoughtfulness and trust in others.",
+      "rating": 2,
+      "chunk": 50
+    },
+    {
+      "trait": "warmth",
+      "action": "William reacts with alarm and urgency upon discovering the gold is missing.",
+      "assessment": "While his reaction is understandable, it is primarily self-interested and does not directly reflect warmth toward others.",
+      "rating": 0,
+      "chunk": 50
+    },
+    {
+      "trait": "competence",
+      "action": "William wakes up quickly when he hears Clyde running through the room and immediately assesses the situation.",
+      "assessment": "This shows alertness and situational awareness, indicating a competent and responsive mindset.",
+      "rating": 2,
+      "chunk": 50
+    },
+    {
+      "trait": "competence",
+      "action": "William decides to check on Clyde despite the potential danger, showing initiative.",
+      "assessment": "Taking initiative in an uncertain and possibly dangerous situation suggests confidence and decisiveness, positive indicators of competence.",
+      "rating": 2,
+      "chunk": 50
+    },
+    {
+      "trait": "competence",
+      "action": "William expresses concern about leaving Annabelle alone but ultimately chooses to act.",
+      "assessment": "This shows a balance between caution and action, reflecting thoughtful decision-making, which is a competent trait.",
+      "rating": 1,
+      "chunk": 50
+    },
+    {
+      "trait": "competence",
+      "action": "William quickly notices the missing gold and immediately connects it to Clyde’s sudden departure.",
+      "assessment": "This quick deduction demonstrates intelligence and attentiveness, reinforcing his competence.",
+      "rating": 2,
+      "chunk": 50
+    },
+    {
+      "trait": "competence",
+      "action": "William instructs Sam to watch over Annabelle before pursuing Clyde.",
+      "assessment": "Delegating responsibility shows leadership and strategic thinking, positive indicators of competence.",
+      "rating": 2,
+      "chunk": 50
+    },
+    {
+      "trait": "competence",
+      "action": "William runs out the door after Clyde without apparent backup or a clear plan.",
+      "assessment": "While showing bravery, this impulsive action could be seen as reckless and lacking thorough planning, which slightly detracts from his competence.",
+      "rating": -1,
+      "chunk": 50
+    },
+    {
+      "trait": "warmth",
+      "action": "Runs out into the rain holding his lantern aloft, searching for Clyde in the cornfield despite poor visibility and bad weather.",
+      "assessment": "William's decision to go out into the rain and search for Clyde shows concern and a willingness to take action to help or find someone, indicating care and responsibility.",
+      "rating": 2,
+      "chunk": 51
+    },
+    {
+      "trait": "competence",
+      "action": "Runs out into the rain holding his lantern aloft to search for Clyde in the cornfield despite poor visibility and difficult conditions.",
+      "assessment": "This action shows initiative, determination, and a willingness to take action under challenging circumstances, indicating a degree of competence and confidence.",
+      "rating": 2,
+      "chunk": 51
+    },
+    {
+      "trait": "competence",
+      "action": "Staggers through the cornfield along a haphazard trail, calling out for Clyde despite the rain drowning out his voice.",
+      "assessment": "While William is actively searching, his movement is described as staggering and his calls are ineffective due to the rain, suggesting some difficulty in navigating the environment and communicating effectively, which slightly lowers the impression of competence.",
+      "rating": 0,
+      "chunk": 51
+    },
+    {
+      "trait": "warmth",
+      "action": "Comforts Annabelle by putting his hands on her shoulders and encouraging her to sit down after she is distressed.",
+      "assessment": "William shows concern and attempts to soothe Annabelle, indicating a caring and supportive nature.",
+      "rating": 2,
+      "chunk": 57
+    },
+    {
+      "trait": "warmth",
+      "action": "Checks on Sam by shaking him and physically assessing his condition.",
+      "assessment": "William’s actions demonstrate attentiveness and a desire to help, reflecting responsibility and concern for others.",
+      "rating": 2,
+      "chunk": 57
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses frustration and calls out loudly for Clyde in the cornfield.",
+      "assessment": "While the language is harsh, it reflects urgency and concern rather than hostility, showing William’s emotional investment in finding Clyde.",
+      "rating": 1,
+      "chunk": 57
+    },
+    {
+      "trait": "competence",
+      "action": "William continues walking quickly through the cornstalks following the path of broken and bent stalks, despite the trail abruptly ending.",
+      "assessment": "This shows persistence and a methodical approach to tracking, indicating a competent and focused mindset in a difficult situation.",
+      "rating": 2,
+      "chunk": 57
+    },
+    {
+      "trait": "competence",
+      "action": "William looks around carefully when the trail ends and calls out for Clyde.",
+      "assessment": "William demonstrates situational awareness and attempts to gather information actively, reflecting competent behavior under uncertainty.",
+      "rating": 2,
+      "chunk": 57
+    },
+    {
+      "trait": "competence",
+      "action": "Upon entering the front room, William immediately attends to Annabelle and then quickly assesses Sam’s condition by shaking him and checking for breathing.",
+      "assessment": "William shows presence of mind and practical knowledge in assessing an unconscious person, indicating competence in emergency response.",
+      "rating": 2,
+      "chunk": 57
+    },
+    {
+      "trait": "competence",
+      "action": "William bows his head slightly after confirming Sam is dead.",
+      "assessment": "This shows emotional restraint and acceptance of the situation, which can be seen as a sign of mental composure and competence in handling distressing news.",
+      "rating": 1,
+      "chunk": 57
+    },
+    {
+      "trait": "competence",
+      "action": "William asks Annabelle what happened and tries to gather information.",
+      "assessment": "This indicates a proactive and communicative approach, important for competent problem-solving.",
+      "rating": 1,
+      "chunk": 57
+    },
+    {
+      "trait": "warmth",
+      "action": "Gives Annabelle an incredulous look and barely pays attention to her emotional disclosure about Jeffy Hollister being in love with her.",
+      "assessment": "William's incredulous look and dismissive attitude toward Annabelle's feelings suggest a lack of empathy and warmth in this interaction.",
+      "rating": -1,
+      "chunk": 58
+    },
+    {
+      "trait": "warmth",
+      "action": "Leans forward and feels for a pulse in Sam’s neck.",
+      "assessment": "William’s action shows concern and attentiveness to Sam’s condition, indicating a caring and responsible nature.",
+      "rating": 2,
+      "chunk": 58
+    },
+    {
+      "trait": "warmth",
+      "action": "Responds to Todd’s frightened state by asking questions calmly and trying to understand what Todd experienced.",
+      "assessment": "William’s calm and inquisitive approach toward Todd’s distress shows patience and a willingness to support a troubled companion.",
+      "rating": 2,
+      "chunk": 58
+    },
+    {
+      "trait": "warmth",
+      "action": "Steps forward and asks Todd if he might know something about Sam’s death.",
+      "assessment": "William’s direct but non-accusatory question suggests he is seeking truth and clarity without hostility, reflecting a sincere and trustworthy demeanor.",
+      "rating": 2,
+      "chunk": 58
+    },
+    {
+      "trait": "competence",
+      "action": "Leans forward and feels for a pulse in Sam’s neck despite distractions.",
+      "assessment": "This shows William’s practical and focused approach in a tense situation, indicating a competent and attentive response to an emergency.",
+      "rating": 2,
+      "chunk": 58
+    },
+    {
+      "trait": "competence",
+      "action": "Responds to Annabelle’s emotional statements with skepticism and minimal engagement.",
+      "assessment": "William’s dismissive attitude toward Annabelle’s insights may suggest a lack of openness or emotional intelligence, which can limit his overall competence in interpersonal dynamics.",
+      "rating": -1,
+      "chunk": 58
+    },
+    {
+      "trait": "competence",
+      "action": "Directly questions Todd about the situation and Sam’s death.",
+      "assessment": "William’s initiative to seek information and confront confusion head-on reflects a proactive and confident approach, supporting his competence.",
+      "rating": 2,
+      "chunk": 58
+    },
+    {
+      "trait": "competence",
+      "action": "Shows little reaction to Todd’s distressed state and cryptic comments.",
+      "assessment": "William’s apparent emotional detachment or failure to address Todd’s distress may indicate a gap in managing group morale or psychological factors, which can be a negative competence indicator.",
+      "rating": -1,
+      "chunk": 58
+    },
+    {
+      "trait": "warmth",
+      "action": "Locks eyes with Todd while subtly reaching for his pistol during a tense confrontation about missing gold.",
+      "assessment": "William's action of reaching for a weapon in a high-stress moment suggests distrust and potential hostility rather than warmth.",
+      "rating": -2,
+      "chunk": 59
+    },
+    {
+      "trait": "warmth",
+      "action": "Reminds Todd that he has saved his life multiple times over three years.",
+      "assessment": "This statement attempts to appeal to shared history and loyalty, indicating some level of trustworthiness and concern, though it is delivered in a confrontational context.",
+      "rating": 1,
+      "chunk": 59
+    },
+    {
+      "trait": "competence",
+      "action": "William locks eyes with Todd while subtly moving his hand toward his pistol at his waistband.",
+      "assessment": "This shows William's situational awareness and readiness to respond to a threat, indicating a level of tactical competence and confidence.",
+      "rating": 2,
+      "chunk": 59
+    },
+    {
+      "trait": "competence",
+      "action": "William freezes and points his gun at the floor when Todd grabs Sam's gun and aims it at him.",
+      "assessment": "William's hesitation and inability to immediately respond to Todd's aggressive move suggests a momentary lapse in control and quick reaction, reflecting a slight weakness in competence under pressure.",
+      "rating": -1,
+      "chunk": 59
+    },
+    {
+      "trait": "competence",
+      "action": "William maintains his gaze locked on Todd despite the threat and tension.",
+      "assessment": "Maintaining eye contact in a high-stakes confrontation demonstrates confidence and psychological resilience, which are positive indicators of competence.",
+      "rating": 2,
+      "chunk": 59
+    },
+    {
+      "trait": "competence",
+      "action": "William verbally reminds Todd of their shared history and the times he has saved Todd's life.",
+      "assessment": "This shows William's strategic use of personal history to influence and possibly de-escalate the situation, reflecting social intelligence and competence.",
+      "rating": 2,
+      "chunk": 59
+    },
+    {
+      "trait": "warmth",
+      "action": "William cautiously sticks his pistol back into his waistband, still holding Todd’s gaze, after Annabelle expresses trust in Todd.",
+      "assessment": "William shows a degree of trust and restraint by lowering his weapon when Annabelle vouches for Todd, indicating a willingness to believe in others and avoid unnecessary violence.",
+      "rating": 2,
+      "chunk": 60
+    },
+    {
+      "trait": "warmth",
+      "action": "William admits he went looking for Clyde after he ran off but couldn’t find him.",
+      "assessment": "William’s action of searching for a missing companion shows concern and responsibility towards others, reflecting a caring and attentive nature.",
+      "rating": 2,
+      "chunk": 60
+    },
+    {
+      "trait": "warmth",
+      "action": "William blinks and does not look entirely convinced about Todd’s innocence but still agrees with Annabelle’s assessment.",
+      "assessment": "William’s hesitation suggests some distrust or skepticism, which may indicate caution but also a lack of full trust or warmth in this moment.",
+      "rating": -1,
+      "chunk": 60
+    },
+    {
+      "trait": "competence",
+      "action": "William cautiously sticks his pistol back into his waistband while still holding Todd’s gaze.",
+      "assessment": "This shows William’s ability to maintain control and composure in a tense situation, indicating a level of confidence and situational awareness.",
+      "rating": 2,
+      "chunk": 60
+    },
+    {
+      "trait": "competence",
+      "action": "William says, 'We left you watching it, Todd. Remember?'",
+      "assessment": "This statement reflects William’s attempt to assert control and remind Todd of his responsibility, showing some strategic thinking and awareness of roles.",
+      "rating": 1,
+      "chunk": 60
+    },
+    {
+      "trait": "competence",
+      "action": "William admits he went looking for Clyde but couldn’t find him.",
+      "assessment": "While this shows initiative and responsibility, the failure to locate Clyde may indicate limited effectiveness or lack of thoroughness in his search.",
+      "rating": 0,
+      "chunk": 60
+    },
+    {
+      "trait": "competence",
+      "action": "William blinks and does not look entirely convinced when Annabelle defends Todd.",
+      "assessment": "This hesitation suggests some uncertainty or lack of confidence in his own judgment, which slightly undermines his decisiveness.",
+      "rating": -1,
+      "chunk": 60
+    },
+    {
+      "trait": "warmth",
+      "action": "William tries to get Todd to stay and not give up on the gold despite the danger.",
+      "assessment": "William's insistence on staying for the gold shows determination but also a lack of sensitivity to Todd's fear and desire to leave, which may indicate low tolerance and empathy in this moment.",
+      "rating": -1,
+      "chunk": 61
+    },
+    {
+      "trait": "warmth",
+      "action": "William and Annabelle quickly follow Todd when he storms out, calling after him to wait up.",
+      "assessment": "William's immediate concern and effort to keep up with Todd suggests care and a desire to maintain connection, reflecting some degree of warmth and sincerity.",
+      "rating": 2,
+      "chunk": 61
+    },
+    {
+      "trait": "warmth",
+      "action": "William stands silently next to Todd, sharing the shock of the gruesome scene in the barn.",
+      "assessment": "William's presence alongside Todd in a moment of horror shows solidarity and support, indicating trustworthiness and a good-natured willingness to face difficult situations together.",
+      "rating": 2,
+      "chunk": 61
+    },
+    {
+      "trait": "competence",
+      "action": "Insists on not leaving without the gold despite Todd's urgency to escape.",
+      "assessment": "This shows William's determination and focus on the mission's objective, indicating a level of confidence and resolve, though it may also suggest stubbornness in a dangerous situation.",
+      "rating": 1,
+      "chunk": 61
+    },
+    {
+      "trait": "competence",
+      "action": "Quickly follows Todd out into the storm and keeps up with his rapid pace.",
+      "assessment": "William demonstrates physical capability and alertness by promptly reacting and pursuing Todd without hesitation.",
+      "rating": 2,
+      "chunk": 61
+    },
+    {
+      "trait": "competence",
+      "action": "Moves forward to stand next to Todd and assess the gruesome scene in the barn.",
+      "assessment": "William shows composure and willingness to confront a disturbing situation directly, reflecting mental resilience and situational awareness.",
+      "rating": 2,
+      "chunk": 61
+    },
+    {
+      "trait": "warmth",
+      "action": "William asks Todd if he is alright after Todd laughs quietly at the sight of the severed horse leg.",
+      "assessment": "William shows concern for Todd's emotional state, indicating attentiveness and care.",
+      "rating": 2,
+      "chunk": 62
+    },
+    {
+      "trait": "warmth",
+      "action": "William tries to engage Todd by asking what he saw that caused his distress.",
+      "assessment": "William attempts to understand Todd's perspective and feelings, demonstrating empathy and a desire to connect.",
+      "rating": 2,
+      "chunk": 62
+    },
+    {
+      "trait": "warmth",
+      "action": "William looks over at Annabelle when Todd refuses to answer, sharing a moment of silent communication.",
+      "assessment": "William's nonverbal exchange with Annabelle suggests a supportive and inclusive attitude, showing warmth through solidarity.",
+      "rating": 2,
+      "chunk": 62
+    },
+    {
+      "trait": "competence",
+      "action": "William calmly asks Todd if he is alright and what he saw, attempting to gather information.",
+      "assessment": "This shows William's ability to remain composed and seek clarity in a tense and confusing situation, indicating a level of emotional intelligence and situational awareness.",
+      "rating": 2,
+      "chunk": 62
+    },
+    {
+      "trait": "competence",
+      "action": "William exchanges a look with Annabelle and listens to Todd's cryptic and agitated statements without interrupting.",
+      "assessment": "William demonstrates patience and restraint, choosing to observe and process information rather than react impulsively, which suggests thoughtful and measured behavior.",
+      "rating": 2,
+      "chunk": 62
+    },
+    {
+      "trait": "competence",
+      "action": "William does not respond to Todd's aggressive and cryptic outbursts with confrontation or panic.",
+      "assessment": "This non-action indicates William's ability to maintain composure under pressure, a positive indicator of competence in managing interpersonal conflict.",
+      "rating": 2,
+      "chunk": 62
+    },
+    {
+      "trait": "competence",
+      "action": "William looks to Annabelle for input about what could have caused the horses' injuries.",
+      "assessment": "While this shows William's openness to collaboration, it may also suggest some uncertainty or lack of immediate insight, reflecting a moderate level of competence.",
+      "rating": 1,
+      "chunk": 62
+    },
+    {
+      "trait": "warmth",
+      "action": "Reassures Todd by saying 'Come on. We’re going to get out of here. We’re going to leave this place.'",
+      "assessment": "William offers comfort and hope to Todd during a moment of fear and confusion, showing support and a protective attitude.",
+      "rating": 2,
+      "chunk": 63
+    },
+    {
+      "trait": "warmth",
+      "action": "Asks Todd gently, 'Todd... Do you want to leave now?'",
+      "assessment": "William shows sensitivity to Todd's emotional state by checking in with him and respecting his feelings.",
+      "rating": 2,
+      "chunk": 63
+    },
+    {
+      "trait": "competence",
+      "action": "Calmly addresses Todd's distress and offers reassurance by suggesting they leave the barn together.",
+      "assessment": "William demonstrates emotional steadiness and leadership by guiding Todd out of a frightening situation, indicating a level of confidence and capability in managing tense moments.",
+      "rating": 2,
+      "chunk": 63
+    },
+    {
+      "trait": "competence",
+      "action": "Looks at Annabelle for confirmation when Todd is distressed but then takes initiative to speak and lead.",
+      "assessment": "William shows some reliance on others for support but ultimately takes charge, reflecting moderate competence with some hesitation.",
+      "rating": 1,
+      "chunk": 63
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses concern about what to do about Sam after learning he is dead.",
+      "assessment": "William shows emotional sensitivity and concern for a deceased companion, indicating a caring and sincere nature.",
+      "rating": 2,
+      "chunk": 64
+    },
+    {
+      "trait": "warmth",
+      "action": "Questions Todd and Annabelle about leaving without the gold, showing attachment to their shared goal.",
+      "assessment": "While this shows determination, it also reveals a potential stubbornness and prioritization of material gain over group safety, which may reduce perceived warmth.",
+      "rating": -1,
+      "chunk": 64
+    },
+    {
+      "trait": "warmth",
+      "action": "Insists on going into the house to say goodbye to Sam despite the danger and urgency to leave.",
+      "assessment": "This action demonstrates respect, loyalty, and emotional sincerity, reflecting a warm and good-natured character.",
+      "rating": 3,
+      "chunk": 64
+    },
+    {
+      "trait": "warmth",
+      "action": "Engages in a tense exchange with Todd and Annabelle about their differing priorities.",
+      "assessment": "William's willingness to confront and discuss difficult topics openly suggests sincerity and trustworthiness, though the tension may slightly reduce warmth.",
+      "rating": 1,
+      "chunk": 64
+    },
+    {
+      "trait": "competence",
+      "action": "Expresses determination to find out who is attacking them and insists on not leaving without the gold.",
+      "assessment": "This shows William's resolve and focus on their objective, indicating mental toughness and a goal-oriented mindset, which are positive indicators of competence.",
+      "rating": 2,
+      "chunk": 64
+    },
+    {
+      "trait": "competence",
+      "action": "Decides to enter the house alone to say goodbye to Sam despite the dangerous situation.",
+      "assessment": "This action demonstrates courage and emotional strength, but also a potential risk-taking behavior that could be seen as reckless, showing mixed competence.",
+      "rating": 1,
+      "chunk": 64
+    },
+    {
+      "trait": "competence",
+      "action": "Looks up into the rain and curses the storm.",
+      "assessment": "This is a minor, mostly emotional reaction that does not strongly indicate competence or incompetence.",
+      "rating": 0,
+      "chunk": 64
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in discussion with Annabelle and Todd about their next steps and listens to their input.",
+      "assessment": "Shows willingness to communicate and consider others' perspectives, a positive social competence trait.",
+      "rating": 1,
+      "chunk": 64
+    },
+    {
+      "trait": "competence",
+      "action": "Stares at Todd and Annabelle when they suggest leaving without the gold.",
+      "assessment": "This non-verbal reaction suggests skepticism and possibly stubbornness, which could be a strength or a weakness depending on context; here it leans toward determination.",
+      "rating": 1,
+      "chunk": 64
+    },
+    {
+      "trait": "warmth",
+      "action": "Insists on the possibility that Sam might still be alive despite evidence to the contrary.",
+      "assessment": "William shows hope and optimism, which can be seen as a caring and sincere attempt to keep morale up.",
+      "rating": 2,
+      "chunk": 65
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses anger and a desire to burn the house down once they leave.",
+      "assessment": "This reaction is driven by frustration and anger, showing a lack of tolerance and potentially destructive impulses, which detracts from warmth.",
+      "rating": -2,
+      "chunk": 65
+    },
+    {
+      "trait": "warmth",
+      "action": "Finds Sam’s shoe and encourages the group to search the cornfield.",
+      "assessment": "William’s action demonstrates attentiveness and a proactive, supportive attitude toward his companions, reflecting trustworthiness and friendliness.",
+      "rating": 3,
+      "chunk": 65
+    },
+    {
+      "trait": "competence",
+      "action": "Insists that Sam might not be dead despite evidence and checks the surroundings carefully.",
+      "assessment": "William shows persistence and a willingness to question assumptions, which can be a sign of critical thinking and cautious optimism, though it also suggests some denial or emotional bias.",
+      "rating": 1,
+      "chunk": 65
+    },
+    {
+      "trait": "competence",
+      "action": "Decides to burn the house down once they get to Mexico, despite others advising against it.",
+      "assessment": "This shows decisiveness and strong will, but also impulsiveness and a lack of strategic consideration, which undermines his competence.",
+      "rating": -1,
+      "chunk": 65
+    },
+    {
+      "trait": "competence",
+      "action": "Finds Sam’s shoe in the cornfield and uses it as a clue to suggest Sam might be nearby.",
+      "assessment": "This demonstrates observational skills and the ability to use evidence to guide action, indicating practical competence.",
+      "rating": 2,
+      "chunk": 65
+    },
+    {
+      "trait": "competence",
+      "action": "Engages with Annabelle and Todd in discussion about the situation and is open to their input.",
+      "assessment": "Shows some collaborative behavior and willingness to listen, which supports competent leadership and decision-making.",
+      "rating": 1,
+      "chunk": 65
+    },
+    {
+      "trait": "warmth",
+      "action": "Pushes his way into the cornfield, creating a trail for Todd and Annabelle to follow.",
+      "assessment": "William takes initiative and leads the group, showing a protective and guiding behavior toward his companions.",
+      "rating": 2,
+      "chunk": 66
+    },
+    {
+      "trait": "warmth",
+      "action": "Insists on following the newly discovered trail despite Todd's suggestion to leave.",
+      "assessment": "William demonstrates determination and a sense of responsibility to find the right path, which can be seen as caring for the group's safety, though it may also come off as somewhat stubborn.",
+      "rating": 1,
+      "chunk": 66
+    },
+    {
+      "trait": "warmth",
+      "action": "Wipes rain from his eyes and looks up at the scarecrow, trying to make sense of their surroundings.",
+      "assessment": "William's calmness in a tense situation suggests steadiness and a willingness to face fear alongside others, which can be reassuring.",
+      "rating": 2,
+      "chunk": 66
+    },
+    {
+      "trait": "warmth",
+      "action": "Continues to stay near the scarecrow and the group despite the frightening circumstances.",
+      "assessment": "His presence and willingness to stay with the group in a scary moment indicates loyalty and supportiveness.",
+      "rating": 2,
+      "chunk": 66
+    },
+    {
+      "trait": "competence",
+      "action": "Pushes his way into the cornfield, roughly shoving rows to the side and creating a trail for others to follow.",
+      "assessment": "This shows initiative and physical assertiveness, indicating a confident and proactive approach to navigating an uncertain environment.",
+      "rating": 2,
+      "chunk": 66
+    },
+    {
+      "trait": "competence",
+      "action": "Stops abruptly upon reaching another trail and examines a broken cornstalk, deducing that someone came through recently.",
+      "assessment": "This demonstrates observational skills and situational awareness, reflecting intelligence and attentiveness to detail.",
+      "rating": 2,
+      "chunk": 66
+    },
+    {
+      "trait": "competence",
+      "action": "Decides to head down the newly discovered trail despite poor visibility and adverse weather conditions.",
+      "assessment": "Shows decisiveness and confidence in decision-making under pressure, though it carries some risk given the unclear circumstances.",
+      "rating": 1,
+      "chunk": 66
+    },
+    {
+      "trait": "competence",
+      "action": "Expresses uncertainty about their location but reassures others that they are headed in the right direction.",
+      "assessment": "This indicates some doubt or lack of precise knowledge, but also an attempt to maintain group morale and direction.",
+      "rating": 0,
+      "chunk": 66
+    },
+    {
+      "trait": "competence",
+      "action": "Fails to notice the scarecrow’s sudden movement and moaning sound until it happens, reacting only after the scarecrow twists.",
+      "assessment": "This suggests a momentary lapse in vigilance or sensory awareness, which could be a negative indicator of competence in a potentially dangerous situation.",
+      "rating": -1,
+      "chunk": 66
+    },
+    {
+      "trait": "warmth",
+      "action": "Hands his lantern to Annabelle before approaching the scarecrow to cut it loose.",
+      "assessment": "William shows consideration and trust by giving Annabelle the lantern, enabling her to assist or stay safe while he takes on the risky task.",
+      "rating": 2,
+      "chunk": 67
+    },
+    {
+      "trait": "warmth",
+      "action": "Carefully cuts the ropes binding the scarecrow, speaking reassuringly to Clyde to stay calm.",
+      "assessment": "William demonstrates kindness and empathy by speaking gently to the bound figure and taking deliberate care to free him.",
+      "rating": 3,
+      "chunk": 67
+    },
+    {
+      "trait": "warmth",
+      "action": "Removes the burlap sack from the scarecrow’s head despite the potential danger.",
+      "assessment": "This action shows courage and a sincere desire to help and reveal the truth, indicating trustworthiness and concern for Clyde’s wellbeing.",
+      "rating": 3,
+      "chunk": 67
+    },
+    {
+      "trait": "competence",
+      "action": "Carefully approaches the wooden cross with a knife between his teeth and begins cutting the ropes binding the scarecrow.",
+      "assessment": "This action shows William's calmness under pressure, physical coordination, and practical problem-solving skills, indicating a competent and confident approach to a tense situation.",
+      "rating": 2,
+      "chunk": 67
+    },
+    {
+      "trait": "competence",
+      "action": "Hands his lantern to Annabelle before climbing the cross to free the scarecrow.",
+      "assessment": "This demonstrates foresight and leadership by delegating tasks and ensuring proper lighting, reflecting situational awareness and responsibility.",
+      "rating": 2,
+      "chunk": 67
+    },
+    {
+      "trait": "competence",
+      "action": "Bends down to remove the burlap sack from the scarecrow’s head despite the scarecrow’s unstable and potentially dangerous state.",
+      "assessment": "William shows courage and decisiveness, willing to take risks to uncover the truth, which is a sign of confidence and capability.",
+      "rating": 2,
+      "chunk": 67
+    },
+    {
+      "trait": "competence",
+      "action": "Does not hesitate or show panic when the scarecrow falls and struggles on the ground.",
+      "assessment": "Maintaining composure in a chaotic moment suggests emotional control and competence.",
+      "rating": 2,
+      "chunk": 67
+    },
+    {
+      "trait": "warmth",
+      "action": "Leans forward with his knife, as if to cut the stitches on Clyde’s face, hesitating near the yarn on Clyde’s mouth as Clyde writhes in pain.",
+      "assessment": "William’s immediate impulse to help Clyde by cutting the stitches shows concern and a desire to alleviate suffering, indicating warmth.",
+      "rating": 3,
+      "chunk": 68
+    },
+    {
+      "trait": "warmth",
+      "action": "Asks Annabelle for a scalpel to better assist Clyde.",
+      "assessment": "William’s request for proper tools to help Clyde demonstrates practical care and a sincere effort to provide aid.",
+      "rating": 2,
+      "chunk": 68
+    },
+    {
+      "trait": "warmth",
+      "action": "Staggers back and looks faint upon seeing the extent of Clyde’s injuries.",
+      "assessment": "William’s physical reaction to the trauma suggests empathy and emotional sensitivity, which are aspects of warmth.",
+      "rating": 2,
+      "chunk": 68
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses confusion and distress verbally: 'What is going on...'",
+      "assessment": "William’s emotional response and verbal expression of distress show sincerity and a genuine emotional connection to the situation.",
+      "rating": 2,
+      "chunk": 68
+    },
+    {
+      "trait": "competence",
+      "action": "Leans forward with his knife to cut the stitches on Clyde’s face but hesitates and asks Annabelle for a scalpel instead.",
+      "assessment": "William shows some situational awareness and caution by not using his knife and instead requesting a more appropriate tool, indicating practical judgment and concern for precision.",
+      "rating": 2,
+      "chunk": 68
+    },
+    {
+      "trait": "competence",
+      "action": "Staggers back a step and looks faint upon seeing the gruesome injuries on Clyde’s torso.",
+      "assessment": "This reaction suggests a momentary physical or emotional overwhelm, which may indicate a limit to his composure under extreme stress, slightly detracting from his overall competence.",
+      "rating": -1,
+      "chunk": 68
+    },
+    {
+      "trait": "competence",
+      "action": "Maintains focus on assessing Clyde’s condition despite the horror of the situation, engaging with Annabelle and Todd to understand what happened.",
+      "assessment": "William’s continued engagement and attempts to understand the situation demonstrate mental resilience and a proactive approach, reflecting competent behavior under duress.",
+      "rating": 2,
+      "chunk": 68
+    },
+    {
+      "trait": "warmth",
+      "action": "William is still squatting, looking at Clyde’s body, in shock.",
+      "assessment": "William’s shock indicates a natural human response to trauma, showing sensitivity to the situation.",
+      "rating": 1,
+      "chunk": 69
+    },
+    {
+      "trait": "warmth",
+      "action": "William shakes his head and rises to his feet, telling Todd 'Come on, Todd. You’re hearing things. It’s just the storm.'",
+      "assessment": "William attempts to comfort Todd by rationalizing the frightening experience, showing a desire to calm and support a distressed companion.",
+      "rating": 2,
+      "chunk": 69
+    },
+    {
+      "trait": "warmth",
+      "action": "William does not directly engage with Todd’s fear beyond telling him it’s just the storm and urging him to come along.",
+      "assessment": "While William tries to reassure Todd, he does not deeply acknowledge Todd’s emotional state or fears, which may indicate limited emotional warmth or empathy in this moment.",
+      "rating": 0,
+      "chunk": 69
+    },
+    {
+      "trait": "competence",
+      "action": "William is still squatting, looking at Clyde’s body, in shock.",
+      "assessment": "William’s shock and hesitation in the face of a gruesome event suggests a momentary lapse in emotional control and situational awareness, indicating reduced competence in crisis.",
+      "rating": -1,
+      "chunk": 69
+    },
+    {
+      "trait": "competence",
+      "action": "William shakes his head and rises to his feet, telling Todd 'Come on, Todd. You’re hearing things. It’s just the storm.'",
+      "assessment": "William attempts to rationalize the situation and encourage Todd to move forward, showing some presence of mind and leadership despite the tense atmosphere, indicating moderate competence.",
+      "rating": 1,
+      "chunk": 69
+    },
+    {
+      "trait": "warmth",
+      "action": "Shouts 'Todd! No!' in an attempt to stop Todd from shooting himself.",
+      "assessment": "William's immediate reaction to try to prevent Todd's suicide shows concern and care for another person's well-being.",
+      "rating": 2,
+      "chunk": 70
+    },
+    {
+      "trait": "warmth",
+      "action": "Follows Annabelle into the cornfield despite difficult conditions, struggling to keep up and continuing to call out to her.",
+      "assessment": "William's persistence in following and trying to stay close to Annabelle demonstrates loyalty, concern, and a protective attitude.",
+      "rating": 2,
+      "chunk": 70
+    },
+    {
+      "trait": "warmth",
+      "action": "Remains silent and astonished after Todd's death, then follows Annabelle without protest.",
+      "assessment": "William's silence and compliance may indicate shock or emotional overwhelm, but also a willingness to trust and support Annabelle in a crisis.",
+      "rating": 1,
+      "chunk": 70
+    },
+    {
+      "trait": "competence",
+      "action": "Shouts 'Todd! No!' as Todd attempts to shoot himself.",
+      "assessment": "William's immediate verbal reaction shows alertness and concern, but it does not prevent the suicide, indicating limited influence or control in the moment.",
+      "rating": 0,
+      "chunk": 70
+    },
+    {
+      "trait": "competence",
+      "action": "Stands above Todd's dead body, astonished, and then follows Annabelle mutely into the cornfield.",
+      "assessment": "William's astonishment and silent compliance suggest a momentary shock and lack of proactive leadership or decisiveness in a crisis.",
+      "rating": -1,
+      "chunk": 70
+    },
+    {
+      "trait": "competence",
+      "action": "Attempts to keep up with Annabelle running through the cornfield but slips and falls multiple times, struggling to regain footing.",
+      "assessment": "William's physical inability to keep pace and repeated falls indicate poor physical coordination or stamina under pressure, reflecting negatively on his competence in this situation.",
+      "rating": -2,
+      "chunk": 70
+    },
+    {
+      "trait": "competence",
+      "action": "After falling, William hauls himself upright and continues moving forward despite difficulty.",
+      "assessment": "William's persistence and determination to continue despite physical setbacks show resilience and some degree of mental toughness, a modest positive indicator of competence.",
+      "rating": 1,
+      "chunk": 70
+    },
+    {
+      "trait": "competence",
+      "action": "Calls out to Annabelle while running through the cornfield, trying to maintain contact.",
+      "assessment": "William's attempt to communicate and stay connected with his companion demonstrates situational awareness and concern, though it is unclear how effective this is.",
+      "rating": 1,
+      "chunk": 70
+    },
+    {
+      "trait": "warmth",
+      "action": "Screams Annabelle's name repeatedly while lost in the cornfield, showing concern for her safety.",
+      "assessment": "Calling out for Annabelle demonstrates William's care and worry for her well-being, indicating a degree of warmth and concern.",
+      "rating": 2,
+      "chunk": 71
+    },
+    {
+      "trait": "warmth",
+      "action": "Moves cautiously toward a dark figure and reacts defensively by drawing his pistol when he hears a child's giggle behind him.",
+      "assessment": "William's defensive reaction suggests protectiveness and vigilance, which can be seen as caring, but also indicates suspicion and fear rather than trust or friendliness.",
+      "rating": 0,
+      "chunk": 71
+    },
+    {
+      "trait": "competence",
+      "action": "Continues running and looking around in the cornfield despite being winded and disoriented.",
+      "assessment": "William shows persistence and situational awareness by continuing to search actively even when tired and in a confusing environment.",
+      "rating": 2,
+      "chunk": 71
+    },
+    {
+      "trait": "competence",
+      "action": "Stops and listens carefully when he hears a child’s giggle behind him, then slowly moves his hand to his pistol.",
+      "assessment": "This indicates alertness, caution, and readiness to respond to potential threats, demonstrating good situational awareness and self-protection instincts.",
+      "rating": 2,
+      "chunk": 71
+    },
+    {
+      "trait": "competence",
+      "action": "Suddenly spins around and draws his pistol when he senses movement but finds no one.",
+      "assessment": "William reacts quickly and decisively to a perceived threat, showing confidence and skill in handling his weapon, though the threat turns out to be a false alarm.",
+      "rating": 2,
+      "chunk": 71
+    },
+    {
+      "trait": "competence",
+      "action": "Calls out repeatedly for Annabelle despite no immediate response.",
+      "assessment": "This shows determination and focus on his goal, but also a possible lack of alternative strategies or tools to locate her more effectively.",
+      "rating": 0,
+      "chunk": 71
+    },
+    {
+      "trait": "competence",
+      "action": "Moves toward a dark figure seen briefly in the cornstalks without hesitation.",
+      "assessment": "While this shows courage and initiative, it may also suggest impulsiveness or insufficient caution given the unclear nature of the figure.",
+      "rating": 0,
+      "chunk": 71
+    },
+    {
+      "trait": "warmth",
+      "action": "Whispers 'Annabelle?' nervously while moving forward in the dark cornfield, showing concern for her safety.",
+      "assessment": "William's whispering of Annabelle's name and cautious advance indicate care and concern for a companion, reflecting a protective and sincere nature.",
+      "rating": 2,
+      "chunk": 72
+    },
+    {
+      "trait": "warmth",
+      "action": "Calls out 'Who’s out there?' after hearing sobbing in the cornfield.",
+      "assessment": "By verbally reaching out to an unknown presence, William shows a willingness to communicate and possibly help, suggesting openness and a gentle approach despite fear.",
+      "rating": 1,
+      "chunk": 72
+    },
+    {
+      "trait": "warmth",
+      "action": "Fires his gun at the scarecrow figure after it turns towards him.",
+      "assessment": "William's immediate resort to violence without clear threat or communication suggests fear-driven aggression rather than warmth; this action reflects distrust and defensiveness.",
+      "rating": -2,
+      "chunk": 72
+    },
+    {
+      "trait": "warmth",
+      "action": "Urgently reloads his pistol after firing, maintaining readiness.",
+      "assessment": "This behavior shows caution and self-protection but does not directly indicate warmth; it is a neutral survival response.",
+      "rating": 0,
+      "chunk": 72
+    },
+    {
+      "trait": "competence",
+      "action": "William cocks the hammer on his pistol, nervously moving forward, looking around as he does so.",
+      "assessment": "William demonstrates basic firearm handling skills by cocking his pistol and advancing cautiously, but his nervousness suggests a lack of confidence or experience in this tense situation.",
+      "rating": 0,
+      "chunk": 72
+    },
+    {
+      "trait": "competence",
+      "action": "William jumps and twists his gun towards the direction of a wild animal cry in the cornstalks.",
+      "assessment": "This reaction shows alertness and readiness to respond to potential threats, indicating situational awareness, though the jumpiness also suggests some anxiety or lack of composure.",
+      "rating": 1,
+      "chunk": 72
+    },
+    {
+      "trait": "competence",
+      "action": "William quickly raises his gun and fires towards the direction of the scarecrow after it disappears.",
+      "assessment": "William acts decisively and uses his weapon proactively in a confusing and frightening situation, showing a degree of confidence and willingness to engage an unknown threat.",
+      "rating": 2,
+      "chunk": 72
+    },
+    {
+      "trait": "competence",
+      "action": "William breaks his pistol and begins urgently reloading it while looking ahead.",
+      "assessment": "William demonstrates practical knowledge of firearm maintenance and reloading under pressure, indicating technical competence and presence of mind despite the stressful environment.",
+      "rating": 2,
+      "chunk": 72
+    },
+    {
+      "trait": "competence",
+      "action": "William whispers 'Annabelle?' nervously while moving forward in the dark cornfield.",
+      "assessment": "This shows hesitation and uncertainty, reflecting a lack of confidence and decisiveness in a potentially dangerous situation.",
+      "rating": -1,
+      "chunk": 72
+    },
+    {
+      "trait": "warmth",
+      "action": "Falls to his knees in front of the figure he shot, sobbing hysterically.",
+      "assessment": "William's intense emotional reaction and visible grief indicate a deep capacity for empathy and sorrow, reflecting a sincere and sensitive nature.",
+      "rating": 3,
+      "chunk": 73
+    },
+    {
+      "trait": "warmth",
+      "action": "Does not fire at the dark figure passing through the cornstalks when it briefly appears.",
+      "assessment": "William's hesitation to shoot immediately suggests restraint and possibly a reluctance to harm without certainty, indicating a cautious and considerate disposition.",
+      "rating": 2,
+      "chunk": 73
+    },
+    {
+      "trait": "warmth",
+      "action": "Stares blankly and aimlessly into the cornfield after shooting Annabelle, showing no immediate attempt to flee or justify his actions.",
+      "assessment": "This blank, stunned reaction may reflect shock and remorse rather than coldness or callousness, implying an internal struggle and emotional depth.",
+      "rating": 2,
+      "chunk": 73
+    },
+    {
+      "trait": "warmth",
+      "action": "Urgently reloads his pistol and holds it out in front of him while backing up, trembling and gasping.",
+      "assessment": "William's fearful and defensive behavior shows vulnerability and humanizes him, but also suggests anxiety and distress rather than aggression.",
+      "rating": 1,
+      "chunk": 73
+    },
+    {
+      "trait": "warmth",
+      "action": "Fires at the dark figure suddenly bursting through the cornstalks behind him.",
+      "assessment": "While the shooting is an act of self-defense, the immediate violent response could be seen as lacking warmth, though it is understandable given the threatening situation.",
+      "rating": -1,
+      "chunk": 73
+    },
+    {
+      "trait": "competence",
+      "action": "Manages to reload his pistol despite his hands shaking badly.",
+      "assessment": "This shows that William retains some level of technical skill and presence of mind under extreme stress, indicating a baseline competence with his weapon.",
+      "rating": 1,
+      "chunk": 73
+    },
+    {
+      "trait": "competence",
+      "action": "Points his gun at a moving figure but does not fire as it disappears immediately.",
+      "assessment": "This hesitation could indicate caution or uncertainty, which may reflect a lack of confidence or decisiveness in a critical moment.",
+      "rating": -1,
+      "chunk": 73
+    },
+    {
+      "trait": "competence",
+      "action": "Spins around and fires at a dark figure approaching from behind, successfully stopping it.",
+      "assessment": "This quick reaction and ability to neutralize a threat under pressure demonstrates effective situational awareness and combat skill.",
+      "rating": 2,
+      "chunk": 73
+    },
+    {
+      "trait": "competence",
+      "action": "Stumbles away while spinning around to fire.",
+      "assessment": "The stumble suggests a momentary loss of physical control or balance, which detracts slightly from his overall competence in a high-stakes situation.",
+      "rating": -1,
+      "chunk": 73
+    },
+    {
+      "trait": "competence",
+      "action": "Falls to his knees sobbing hysterically after shooting the figure.",
+      "assessment": "This emotional breakdown indicates a significant psychological impact that undermines his ability to maintain composure and confidence, negatively affecting his competence.",
+      "rating": -2,
+      "chunk": 73
+    },
+    {
+      "trait": "competence",
+      "action": "Sits motionless and blankly staring at Annabelle’s body after the shooting.",
+      "assessment": "This lack of action or response suggests paralysis or shock, reflecting a diminished capacity to cope or act effectively in the aftermath of a traumatic event.",
+      "rating": -2,
+      "chunk": 73
+    },
+    {
+      "trait": "warmth",
+      "action": "Reaches out and puts his hand to the side of Annabelle’s face, showing visible emotional distress.",
+      "assessment": "This gesture indicates tenderness and a sincere emotional connection, reflecting warmth and compassion.",
+      "rating": 3,
+      "chunk": 74
+    },
+    {
+      "trait": "warmth",
+      "action": "Attempts to retrieve his gun carefully while facing an aggressive dog, trying to avoid provoking it.",
+      "assessment": "William’s cautious approach suggests a desire to avoid unnecessary harm, showing restraint and a non-hostile attitude.",
+      "rating": 2,
+      "chunk": 74
+    },
+    {
+      "trait": "warmth",
+      "action": "Raises his arm to block the dog’s attack rather than immediately retaliating.",
+      "assessment": "This defensive rather than aggressive reaction indicates a reluctance to escalate violence, reflecting a degree of tolerance and self-control.",
+      "rating": 2,
+      "chunk": 74
+    },
+    {
+      "trait": "warmth",
+      "action": "Kicks the dog in the head to defend himself after being seriously attacked.",
+      "assessment": "While this is an act of self-defense, it is aggressive and necessary for survival; it does not reflect warmth but rather a forced response to danger.",
+      "rating": -1,
+      "chunk": 74
+    },
+    {
+      "trait": "competence",
+      "action": "William slowly reaches into his coat for his gun but realizes it is not there, then carefully edges forward toward the gun lying about a yard away while facing an aggressive dog.",
+      "assessment": "This shows William's cautiousness and presence of mind under threat, indicating some level of situational awareness and patience.",
+      "rating": 1,
+      "chunk": 74
+    },
+    {
+      "trait": "competence",
+      "action": "William raises his arm to block the dog when it lunges and is bitten on the forearm, then struggles to free himself from the dog's jaws.",
+      "assessment": "William's defensive reaction is instinctive but not particularly skillful; raising an arm to block a dog bite exposes a vulnerable limb and results in injury, suggesting limited combat or animal-handling competence.",
+      "rating": -1,
+      "chunk": 74
+    },
+    {
+      "trait": "competence",
+      "action": "William rolls over onto the dog, yanks his arm free despite severe injury, and then kicks the dog in the head, knocking it back and creating an opportunity to escape.",
+      "assessment": "This demonstrates physical resilience, quick thinking, and effective use of available means to defend himself, reflecting a moderate level of competence in a high-stress situation.",
+      "rating": 2,
+      "chunk": 74
+    },
+    {
+      "trait": "competence",
+      "action": "William immediately rises to his feet after repelling the dog attack.",
+      "assessment": "William's ability to recover quickly and maintain composure after a painful and dangerous encounter indicates mental toughness and determination, positive indicators of competence.",
+      "rating": 2,
+      "chunk": 74
+    },
+    {
+      "trait": "warmth",
+      "action": "Turns and runs away from Dog, despite being wounded and limping badly.",
+      "assessment": "William prioritizes his own survival in a dangerous situation, showing self-preservation rather than warmth toward the dog or others.",
+      "rating": -1,
+      "chunk": 75
+    },
+    {
+      "trait": "warmth",
+      "action": "Continues running forward, oblivious to Dog stopping its pursuit.",
+      "assessment": "William’s focus on escape and survival suggests a lack of awareness or concern for the dog’s behavior or possible intentions, indicating limited warmth in this moment.",
+      "rating": -1,
+      "chunk": 75
+    },
+    {
+      "trait": "competence",
+      "action": "Immediately rises to his feet after being knocked back by the blow.",
+      "assessment": "This shows resilience and presence of mind to recover quickly in a dangerous situation, indicating a moderate level of competence.",
+      "rating": 2,
+      "chunk": 75
+    },
+    {
+      "trait": "competence",
+      "action": "Sees that Dog is nearer to the gun than him, then turns and runs.",
+      "assessment": "William correctly assesses the situation and prioritizes escape over attempting to retrieve the gun, demonstrating situational awareness and practical decision-making.",
+      "rating": 2,
+      "chunk": 75
+    },
+    {
+      "trait": "competence",
+      "action": "Runs limping badly through the cornfield, stumbling forward.",
+      "assessment": "Despite injury and impaired mobility, William continues to push forward, showing determination but also physical vulnerability that limits his effectiveness.",
+      "rating": 0,
+      "chunk": 75
+    },
     {
-      "Action": "Looks around the kitchen and notices details like the dirty cloth doll with a missing button eye.",
-      "Competence": 1,
-      "Chunk": 18
+      "trait": "competence",
+      "action": "Looks behind himself and sees Dog rushing up just behind him, growling.",
+      "assessment": "William maintains awareness of his pursuer’s position, which is a sign of tactical awareness under pressure.",
+      "rating": 2,
+      "chunk": 75
     },
     {
-      "Action": "Acknowledges Todd's observation about the stove not having been used recently and agrees to move on.",
-      "Competence": 1,
-      "Chunk": 18
+      "trait": "competence",
+      "action": "Continues desperately running forward, oblivious to the fact that Dog is no longer directly behind him.",
+      "assessment": "William’s failure to notice that Dog has stopped suggests a lapse in situational awareness at a critical moment, reducing his competence rating.",
+      "rating": -1,
+      "chunk": 75
     },
     {
-      "Action": "Reaches out to turn over a dusty picture frame to reveal a hidden family portrait, showing curiosity and engagement with his surroundings.",
-      "Warmth": 1,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Bursts out of the cornfield into the light, squinting and shielding his eyes from the sun.",
+      "assessment": "William’s sudden exposure to bright light and his impaired vision momentarily disorient him, indicating a vulnerability in his situational adaptability.",
+      "rating": -1,
+      "chunk": 75
     },
     {
-      "Action": "Calls out to Todd and reacts with visible relief upon hearing his voice, indicating concern and care for his companion.",
-      "Warmth": 1,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Is shot in the chest immediately after emerging from the cornfield.",
+      "assessment": "While this is not a direct action, it implies that William’s approach or escape was predictable or insufficiently cautious, reflecting negatively on his competence in evading danger.",
+      "rating": -2,
+      "chunk": 75
     }
   ]
 }

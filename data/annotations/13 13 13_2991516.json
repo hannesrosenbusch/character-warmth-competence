@@ -1,1436 +1,2542 @@
 {
   "Jack": [
     {
-      "Action": "Attempts to brush off stress and greet family warmly with a smile and positive words after a long day at work.",
-      "Warmth": 1,
-      "Chunk": 1
+      "trait": "warmth",
+      "action": "Attempts to brush off the stress of the day by plastering on a smile when arriving home.",
+      "assessment": "Jack tries to maintain a positive demeanor despite a long day, indicating a desire to be pleasant and approachable to his family.",
+      "rating": 1.0
     },
     {
-      "Action": "Expresses appreciation for wife's effort in arranging a sitter and a romantic setting, showing awareness and acknowledgment.",
-      "Warmth": 1,
-      "Chunk": 1
+      "trait": "warmth",
+      "action": "Calls out to his family warmly, apologizing for being late and expressing positivity about his day.",
+      "assessment": "Jack's greeting shows he cares about communicating with his family and wants to share positive news, reflecting friendliness and sincerity.",
+      "rating": 2.0
     },
     {
-      "Action": "Accepts beer from friends despite it being morning, thanks Quentin sincerely, joins group at campfire.",
-      "Warmth": 1,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Notices rose petals and acknowledges his wife's effort in arranging a sitter for their daughter, complimenting her.",
+      "assessment": "Jack appreciates and acknowledges his wife's efforts, showing attentiveness and gratitude, which are positive warmth indicators.",
+      "rating": 2.0
     },
     {
-      "Action": "Seems to drift off and zone out during friend's story, showing disinterest.",
-      "Warmth": -1,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Confused and concerned when he finds his wife wearing a face mask made from their daughter's skin and the daughter skinned but functioning.",
+      "assessment": "Jack's confusion and concern suggest he is attentive and cares about his family's wellbeing, though the surreal context complicates interpretation.",
+      "rating": 1.0
     },
     {
-      "Action": "Catches and opens a beer despite it being morning, engages casually with friends.",
-      "Competence": 0,
-      "Chunk": 2
+      "trait": "competence",
+      "action": "Drives home from a long day at work, appearing worn but still attempts to maintain a positive attitude by smiling and speaking cheerfully.",
+      "assessment": "This shows Jack's ability to manage stress and maintain composure, indicating moderate emotional competence and resilience.",
+      "rating": 2.0
     },
     {
-      "Action": "Falls back trying to avoid his rabid wife Marcy's violent lunge.",
-      "Competence": 0,
-      "Chunk": 2
+      "trait": "competence",
+      "action": "Notices unusual details such as rose petals on the staircase and the flickering TV, and investigates the source of the sounds upstairs.",
+      "assessment": "This demonstrates observational skills and curiosity, suggesting situational awareness and a proactive approach to unexpected events.",
+      "rating": 2.0
     },
     {
-      "Action": "Breathes heavy and consciously takes in surroundings to remember the situation after waking up in a tent.",
-      "Competence": 1,
-      "Chunk": 2
+      "trait": "competence",
+      "action": "Mistakes the eerie situation upstairs for a romantic surprise and assumes the laugh is from his daughter, showing a lack of suspicion or caution.",
+      "assessment": "This indicates a potential naivety or lack of critical judgment in assessing unusual or threatening situations, which could be a negative indicator of competence.",
+      "rating": -1.0
     },
     {
-      "Action": "Seems to drift off and not fully engage while Joe excitedly tells his story.",
-      "Competence": -1,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Accepts a beer from Quentin and thanks him politely.",
+      "assessment": "Jack's polite acceptance of a beer and thanking Quentin shows friendly and appreciative behavior, indicating a moderate level of warmth.",
+      "rating": 2.0
     },
     {
-      "Action": "Remains silent and does not laugh along when others mock Joe's story",
-      "Warmth": 1,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "Sits down with friends at the campfire and listens to Joe's story.",
+      "assessment": "By joining the group and engaging in social interaction, Jack demonstrates sociability and friendliness, which are positive indicators of warmth.",
+      "rating": 2.0
     },
     {
-      "Action": "Abruptly jumps into conversation, questioning who changed his watch time and acts visibly displeased",
-      "Warmth": 0,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "Seems to drift off while Joe is telling a story.",
+      "assessment": "Jack's inattentiveness during a friend's story could suggest a lack of engagement or empathy in this moment, which slightly detracts from warmth.",
+      "rating": -1.0
     },
     {
-      "Action": "Looks upset when Joe and Quentin argue",
-      "Warmth": 1,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Jack wakes up from a disturbing dream and quickly orients himself to his surroundings on a camping trip.",
+      "assessment": "This shows Jack's mental clarity and situational awareness upon waking, indicating a competent and grounded mindset.",
+      "rating": 2.0
     },
     {
-      "Action": "Does not engage in teasing or mocking others",
-      "Warmth": 1,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Jack accepts a beer in the morning despite noting the time, then calmly sits and listens to his friends' story.",
+      "assessment": "This suggests Jack is socially adaptable and able to engage with his peers comfortably, though drinking beer in the morning might reflect a casual or less disciplined attitude.",
+      "rating": 0.0
     },
     {
-      "Action": "Admits to having a nightmare and expresses displeasure when teased by Quentin, asks Quentin to stop making fun of him.",
-      "Warmth": 1,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "Jack seems to drift off while his friend Joe tells a story around the campfire.",
+      "assessment": "This could indicate a lack of engagement or focus in social situations, which might be a minor negative indicator of attentiveness or interest.",
+      "rating": -1.0
     },
     {
-      "Action": "Initially does nothing to help with packing, zones out while others work.",
-      "Warmth": -1,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "Jack remains silent and does not join in the laughter when Joe tells the story about the rabbit.",
+      "assessment": "Jack's silence in response to the others' laughter may indicate discomfort or lack of engagement, showing a reserved or less warm reaction in this social setting.",
+      "rating": -1.0
     },
     {
-      "Action": "Eventually resumes helping with packing after confrontation.",
-      "Warmth": 1,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "Jack abruptly questions who messed with his watch and insists it was changed without permission.",
+      "assessment": "Jack's insistence and abruptness in questioning others about his watch suggests distrust and irritability, which are negative indicators of warmth.",
+      "rating": -2.0
     },
     {
-      "Action": "Zones out and does nothing while others are packing, showing inattentiveness.",
-      "Competence": -1,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "Jack looks upset when Joe and Quentin exchange insults and the group atmosphere becomes tense.",
+      "assessment": "Jack's upset reaction to the conflict shows some sensitivity to others' feelings, a mild positive indicator of warmth.",
+      "rating": 1.0
     },
     {
-      "Action": "Admits to not having slept well due to nightmares but still joins the group to finish packing and move forward.",
-      "Competence": 0,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "Jack notices that his digital watch reads 13:13 and immediately questions who messed with it, showing attention to detail and awareness of his surroundings.",
+      "assessment": "This indicates Jack's alertness and attentiveness, which are positive signs of competence.",
+      "rating": 2.0
     },
     {
-      "Action": "Pushes back against Quentin’s teasing and asserts a boundary, then proceeds to help with packing.",
-      "Competence": 0,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "Jack becomes uneasy and repeatedly questions others about his watch time, despite their dismissive responses.",
+      "assessment": "While this shows persistence, it also suggests possible paranoia or overreaction, which may detract from perceived competence in social situations.",
+      "rating": 0.0
     },
     {
-      "Action": "Shares personal information about his divorce and daughter.",
-      "Warmth": 1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Jack is silent and does not join in the laughter when others share a story, indicating possible social withdrawal or discomfort.",
+      "assessment": "This non-action could imply a lack of social confidence or difficulty engaging with the group, which may be a negative indicator of competence in interpersonal contexts.",
+      "rating": -1.0
     },
     {
-      "Action": "Responds with a glare when Quentin teases him.",
-      "Warmth": 0,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Jack looks upset but does not escalate the conflict when Joe and Quentin argue.",
+      "assessment": "This restraint suggests emotional control and maturity, which are positive aspects of competence.",
+      "rating": 1.0
     },
     {
-      "Action": "Joins in light teasing and jokes with the group about the clocks and strange time.",
-      "Warmth": 1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Jack is described as 'a little out of it' and having not slept much the previous night while packing up gear with others.",
+      "assessment": "This state may impair his effectiveness and focus, indicating a temporary reduction in competence.",
+      "rating": -1.0
     },
     {
-      "Action": "Warns Quentin about road kill to avoid accident.",
-      "Warmth": 1,
-      "Chunk": 5
+      "trait": "warmth",
+      "action": "Jack apologizes for zoning out and explains he didn't sleep well due to a nightmare.",
+      "assessment": "Jack is open about his feelings and vulnerable, which can be a sign of sincerity and trustworthiness.",
+      "rating": 2.0
     },
     {
-      "Action": "Turns away from Quentin after being teased.",
-      "Warmth": 0,
-      "Chunk": 5
+      "trait": "warmth",
+      "action": "Jack asks Quentin to stop teasing him about his nightmare and pushes Quentin's arm down when he is displeased.",
+      "assessment": "Jack sets boundaries clearly and expresses discomfort, showing self-respect but also a lack of tolerance for Quentin's teasing, which may reduce warmth.",
+      "rating": -1.0
     },
     {
-      "Action": "Greets Kendra and asks about 'mommy' inside; the group greets Kendra warmly",
-      "Warmth": 1,
-      "Chunk": 6
+      "trait": "warmth",
+      "action": "Jack starts to walk away from Quentin and helps with packing after the teasing.",
+      "assessment": "Despite being teased, Jack chooses to cooperate and help with the group task, indicating friendliness and willingness to contribute.",
+      "rating": 2.0
     },
     {
-      "Action": "Offers drinks to his friends and invites Marcy to join, despite her ignoring him initially",
-      "Warmth": 1,
-      "Chunk": 6
+      "trait": "competence",
+      "action": "Jack zones out and does nothing while others are packing the car.",
+      "assessment": "This inaction suggests a momentary lapse in focus and engagement, indicating a slight lack of attentiveness or motivation in this situation.",
+      "rating": -1.0
     },
     {
-      "Action": "Visibly upset by Marcy's lack of acknowledgment but quickly shakes it off",
-      "Warmth": 1,
-      "Chunk": 6
+      "trait": "competence",
+      "action": "Jack admits to not sleeping well due to a nightmare but still participates in packing and preparing to leave.",
+      "assessment": "Despite personal discomfort and fatigue, Jack still contributes to the group's tasks, showing a moderate level of responsibility and capability.",
+      "rating": 1.0
     },
     {
-      "Action": "Greets everyone warmly and offers drinks to his friends, organizes giving beers efficiently.",
-      "Competence": 1,
-      "Chunk": 6
+      "trait": "competence",
+      "action": "Jack pushes Quentin's arm down and firmly tells him to stop when Quentin teases him.",
+      "assessment": "This shows Jack's ability to assert boundaries and maintain control over social interactions, reflecting confidence and emotional competence.",
+      "rating": 2.0
     },
     {
-      "Action": "Attempts to engage Marcy in conversation and social interaction despite her being distracted and unresponsive.",
-      "Competence": 1,
-      "Chunk": 6
+      "trait": "warmth",
+      "action": "Shares about his difficult divorce and being a father to a 12-year-old daughter during a group trip.",
+      "assessment": "Jack opens up about personal struggles, showing a level of sincerity and trustworthiness in the group setting.",
+      "rating": 2.0
     },
     {
-      "Action": "Does not insist or escalate when Marcy ignores his invitations, quickly shakes off visible upset, shows emotional self-regulation.",
-      "Competence": 1,
-      "Chunk": 6
+      "trait": "warmth",
+      "action": "Responds to Quentin's teasing with a glare and turning his head away.",
+      "assessment": "Jack's reaction to teasing suggests some sensitivity and possible discomfort, indicating a less tolerant or friendly response in this moment.",
+      "rating": -1.0
     },
     {
-      "Action": "Fails to effectively address or resolve underlying tension with Marcy despite noticing her mood and being ignored.",
-      "Competence": -1,
-      "Chunk": 6
+      "trait": "warmth",
+      "action": "Attempts to put on music to lighten the mood during the car ride.",
+      "assessment": "Trying to play music to improve the group's atmosphere shows friendliness and a desire to connect.",
+      "rating": 2.0
     },
     {
-      "Action": "Invites the guys to stay for dinner.",
-      "Warmth": 1,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Comments 'Road Kill. Look out.' to warn Quentin about an obstacle on the road.",
+      "assessment": "Jack's warning demonstrates attentiveness and concern for others' safety, reflecting good-natured behavior.",
+      "rating": 3.0
     },
     {
-      "Action": "Responds calmly and forgivingly when beer is spilled on him.",
-      "Warmth": 1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Jack notices the clock on the car reads 13:13 and comments on the odd coincidence with his watch at the campfire.",
+      "assessment": "This shows Jack's attentiveness to details and awareness of his surroundings, indicating a level of observational competence.",
+      "rating": 2.0
     },
     {
-      "Action": "Shows concern for his wife Marcy, repeatedly asks her what is wrong.",
-      "Warmth": 1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Jack warns Quentin about road kill on the road, prompting Quentin to swerve the car.",
+      "assessment": "This action demonstrates Jack's alertness and ability to anticipate potential hazards, reflecting competent situational awareness.",
+      "rating": 2.0
     },
     {
-      "Action": "Physically comforts his wife by hugging and kissing her on the cheek without looking down, reassures her.",
-      "Warmth": 1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Jack freezes his hand when reaching to turn on the radio after noticing the clock time.",
+      "assessment": "This hesitation could suggest a momentary distraction or superstition, slightly detracting from his decisiveness and confidence in the moment.",
+      "rating": -1.0
     },
     {
-      "Action": "Tries to stop Marcy from harming herself and quickly calls for an ambulance, wrapping her wound to help her.",
-      "Warmth": 1,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Greets Kendra warmly and asks about her and her mother.",
+      "assessment": "Jack shows friendliness and concern by greeting Kendra and inquiring about her mother, indicating a caring and warm nature.",
+      "rating": 2.0
     },
     {
-      "Action": "Holds Marcy tightly to prevent her from struggling while she is in distress.",
-      "Warmth": 1,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Offers drinks to his friends and shares beers with them.",
+      "assessment": "By offering and sharing drinks with his friends, Jack demonstrates generosity and sociability, which are positive indicators of warmth.",
+      "rating": 2.0
     },
     {
-      "Action": "Shows concern and desperation by chasing after Marcy’s gurney at the hospital and insisting he is her husband wanting to be with her.",
-      "Warmth": 1,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Invites Marcy to join the group at the table multiple times despite her not responding immediately.",
+      "assessment": "Jack's repeated invitations to Marcy to join them show his desire for inclusion and connection, reflecting warmth and attentiveness.",
+      "rating": 2.0
     },
     {
-      "Action": "Calmly intervenes by telling the orderly not to be rude after the orderly lashes out",
-      "Warmth": 1,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Responds gently to Marcy's distracted behavior and reassures her it's okay to finish her task.",
+      "assessment": "Jack's gentle and understanding response to Marcy's distraction indicates patience and kindness, supporting a warm character assessment.",
+      "rating": 2.0
     },
     {
-      "Action": "Pushes past the orderly to see his wife despite the tense situation",
-      "Warmth": 0,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Greets Kendra and the guys while carrying camping gear towards the house.",
+      "assessment": "Jack shows social awareness and leadership by engaging with others and organizing the group activity.",
+      "rating": 1.0
     },
     {
-      "Action": "Turns to look at the situation involving Alex becoming rowdy, showing awareness.",
-      "Competence": 1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Offers drinks to his friends and serves them efficiently.",
+      "assessment": "Jack demonstrates good social skills and attentiveness to others' needs, indicating competent social management.",
+      "rating": 2.0
     },
     {
-      "Action": "Is startled when tapped on the shoulder by the orderly, indicating a moment of distraction or lack of alertness.",
-      "Competence": -1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Attempts to engage Marcy in conversation and invites her to join the group despite her being unresponsive.",
+      "assessment": "Jack shows emotional intelligence and patience, trying to connect with Marcy without forcing her, which reflects interpersonal competence.",
+      "rating": 2.0
     },
     {
-      "Action": "Questions the unlucky number of the hospital room out loud, displaying a somewhat superstitious or naive reaction instead of focusing on the urgency of the situation.",
-      "Competence": -1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Visibly upset by Marcy's lack of acknowledgment but quickly shakes it off and continues social interaction.",
+      "assessment": "Jack manages his emotions well in a potentially uncomfortable situation, showing emotional control and resilience.",
+      "rating": 2.0
     },
     {
-      "Action": "Pushes past the rude orderly despite the tension, showing resolve and confidence in acting for his own purpose.",
-      "Competence": 1,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Invites the guys to stay for dinner despite their bickering.",
+      "assessment": "Jack's invitation shows friendliness and inclusiveness, indicating a warm and welcoming nature.",
+      "rating": 2.0
     },
     {
-      "Action": "Responds with concern and inquiry about hospital casualties.",
-      "Warmth": 1,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Responds calmly to Joe spilling beer on his arms and offers to get paper towels instead of getting upset.",
+      "assessment": "Jack's calm and forgiving reaction to an accident reflects patience and good-natured tolerance.",
+      "rating": 2.0
     },
     {
-      "Action": "Bumps into a gurney with a dead woman but keeps walking without reacting strongly.",
-      "Warmth": 0,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Notices Marcy muttering and repeatedly asks her what is wrong, showing concern and attentiveness.",
+      "assessment": "Jack's attentive behavior and concern for his wife's distress demonstrate sincerity and caring.",
+      "rating": 3.0
     },
     {
-      "Action": "Politely asks Doctor Palumbo about his wife's location despite the doctor's rudeness.",
-      "Warmth": 1,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Comforts Marcy by taking over the dishes and reassuring her with a kiss on the cheek and soothing words.",
+      "assessment": "Jack's supportive and affectionate actions reveal trustworthiness, kindness, and emotional warmth.",
+      "rating": 3.0
     },
     {
-      "Action": "Explains his wife's injury calmly when questioned mockingly.",
-      "Warmth": 1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Jack tries to manage a social situation by inviting the guys to stay for dinner and attempts to keep the atmosphere light.",
+      "assessment": "This shows social awareness and an attempt to maintain harmony, indicating moderate social competence.",
+      "rating": 2.0
     },
     {
-      "Action": "Politely asks the receptionist for help finding his wife's room despite being upset.",
-      "Warmth": 1,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Jack notices the beer spill on his arms but responds calmly by telling Joe it's fine and offers to get paper towels himself.",
+      "assessment": "This demonstrates patience and practical problem-solving, reflecting competent and composed behavior.",
+      "rating": 2.0
     },
     {
-      "Action": "Uses sarcasm with the receptionist but does not escalate conflict, then quickly walks away.",
-      "Warmth": 0,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Jack attempts to communicate with his wife Marcy, who is muttering repeatedly and seems distressed, by asking her what is wrong and trying to comfort her physically and verbally.",
+      "assessment": "This shows emotional sensitivity and supportive behavior, indicating competence in handling a difficult emotional situation.",
+      "rating": 2.0
     },
     {
-      "Action": "Pinpoints the correct floor after being insulted and confused, finds and approaches the receptionist to get precise location for his wife’s room.",
-      "Competence": 1,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Jack does not immediately react with frustration or anger to Marcy's repeated muttering and distress but instead approaches her gently and reassures her.",
+      "assessment": "This reflects emotional intelligence and self-control, positive indicators of competence.",
+      "rating": 2.0
     },
     {
-      "Action": "After being verbally abused by medical staff, he controls his anger, holds himself together, and continues to accomplish his goal without confrontation.",
-      "Competence": 1,
-      "Chunk": 11
+      "trait": "warmth",
+      "action": "Tries to stop Marcy from scratching her arm and hurting herself, wraps a washcloth around her wound, and calls an ambulance.",
+      "assessment": "Jack shows concern and urgency in trying to prevent further harm to Marcy, indicating care and protectiveness.",
+      "rating": 3.0
     },
     {
-      "Action": "Makes sarcastic remarks about hospital staff and the receptionist, which might reduce the possibility of gaining their goodwill or cooperation.",
-      "Competence": -1,
-      "Chunk": 11
+      "trait": "warmth",
+      "action": "Holds Marcy tightly to prevent her from struggling and causing more injury.",
+      "assessment": "Though physically restraining someone can be complex, in this context it is an act of protection and care to prevent self-harm, showing Jack's sincere concern.",
+      "rating": 2.0
     },
     {
-      "Action": "Reaches out his hand to Candace when she asks for help but is physically unable to move forward due to unseen forces.",
-      "Warmth": 1,
-      "Chunk": 13
+      "trait": "warmth",
+      "action": "Chases after the hospital gurney carrying Marcy and insists on staying with her.",
+      "assessment": "Jack's insistence on being with Marcy during a critical moment reflects his dedication and emotional support, demonstrating warmth and trustworthiness.",
+      "rating": 3.0
     },
     {
-      "Action": "Looks uneasy when someone tries to enter the hospital room where Marcy is, then cautiously approaches the door.",
-      "Warmth": 0,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Quickly tries to pull Marcy’s unaffected arm away from her bloody arm in an attempt to make her stop scratching herself.",
+      "assessment": "This action shows Jack's quick thinking and physical intervention to prevent further harm to Marcy, indicating situational awareness and decisiveness.",
+      "rating": 2.0
     },
     {
-      "Action": "Returns to sit by Marcy with relief when the door stops jiggling.",
-      "Warmth": 1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Grabs a nearby wash cloth and wraps it around Marcy's wound.",
+      "assessment": "This demonstrates practical first aid knowledge and the ability to act promptly in an emergency, reflecting competence.",
+      "rating": 2.0
     },
     {
-      "Action": "Reaches out to help Candace despite mysterious forces holding him back, showing intention and concern.",
-      "Competence": 1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Commands others to call an ambulance urgently and insists on it.",
+      "assessment": "Shows assertiveness and clear communication under pressure, which are signs of competence in crisis management.",
+      "rating": 2.0
     },
     {
-      "Action": "Notices the mob banging on the windows and reacts by waking up and cautiously approaching the door when disturbed in the hospital.",
-      "Competence": 1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Wraps his arms around Marcy to hold her tight so she can’t struggle anymore.",
+      "assessment": "This shows physical control and determination to prevent further injury, but could also be seen as forceful; overall it indicates a competent response to a difficult situation.",
+      "rating": 1.0
     },
     {
-      "Action": "Returns to Marcy's side after confirming the visitor can't enter, showing situational awareness and restraint.",
-      "Competence": 1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Chases after the hospital gurney carrying Marcy and tries to stay close to her.",
+      "assessment": "Demonstrates concern and attentiveness, but also a lack of control over the situation as he is told to wait and cannot accompany her immediately, indicating some limitation in influence or authority.",
+      "rating": 0.0
     },
     {
-      "Action": "Appears uneasy in the hospital room and approaches unknown threat slowly, demonstrating caution but possibly hesitance.",
-      "Competence": 0,
-      "Chunk": 13
+      "trait": "warmth",
+      "action": "Says 'No need to be so rude' to the angry orderly after the orderly speaks harshly to him.",
+      "assessment": "Jack responds to rudeness with a calm and polite remark, indicating patience and a non-confrontational attitude, which are positive indicators of warmth.",
+      "rating": 2.0
     },
     {
-      "Action": "No direct actions or statements from Jack present in the excerpt to evaluate competence.",
-      "Competence": 0,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "Pushes past the orderly and walks out of the waiting room without escalating the conflict.",
+      "assessment": "Jack chooses to disengage from a tense situation rather than escalate it, showing restraint and tolerance, which reflect warmth.",
+      "rating": 1.0
     },
     {
-      "Action": "Not present in the excerpt; no actions or decisions shown.",
-      "Competence": 0,
-      "Chunk": 16
+      "trait": "competence",
+      "action": "Jack processes the information about his wife being in room 13 and questions the superstition about the room number.",
+      "assessment": "This shows Jack's ability to quickly absorb and reflect on new information, indicating a thoughtful and somewhat analytical mindset.",
+      "rating": 1.0
     },
     {
-      "Action": "Sits watching his wife in hospital, shows excitement and relief when she wakes up, calls family to keep wife connected",
-      "Warmth": 1,
-      "Chunk": 17
+      "trait": "competence",
+      "action": "Jack pushes past the rude orderly and walks out of the waiting room to presumably see his wife.",
+      "assessment": "This action demonstrates Jack's decisiveness and willingness to take initiative despite confrontation, reflecting confidence and determination.",
+      "rating": 2.0
     },
     {
-      "Action": "Sits calmly by his wife's hospital bed, shows concern, tries to reassure her, attempts to contact family to keep everyone informed.",
-      "Competence": 1,
-      "Chunk": 17
+      "trait": "competence",
+      "action": "Jack appears startled when tapped on the shoulder by the orderly and initially seems confused about the information given.",
+      "assessment": "This moment of surprise and confusion suggests a temporary lapse in situational awareness or emotional control, slightly detracting from his competence.",
+      "rating": -1.0
     },
     {
-      "Action": "Assumes Kendra is worried without confirming, proceeds to call others before confirming condition or prioritizing medical updates.",
-      "Competence": 0,
-      "Chunk": 17
+      "trait": "warmth",
+      "action": "Jack shows concern for the burned man who grabs his arm and asks the doctor if everything is okay.",
+      "assessment": "Jack's concern for the injured man and the situation in the ICU indicates empathy and a caring nature.",
+      "rating": 2.0
     },
     {
-      "Action": "Attempts to calm Marcy by calling her 'Baby' and asking her to stop hurting him, shows concern and care despite being attacked.",
-      "Warmth": 1,
-      "Chunk": 18
+      "trait": "warmth",
+      "action": "Jack tries to find room 13 to see his badly injured wife and speaks to Doctor Palumbo about her condition.",
+      "assessment": "Jack's determination to find and check on his wife shows his care and emotional connection, reflecting warmth.",
+      "rating": 3.0
     },
     {
-      "Action": "Apologizes to Marcy after pushing her away, expresses regret and desire to get her help.",
-      "Warmth": 1,
-      "Chunk": 18
+      "trait": "warmth",
+      "action": "Jack backs away when Doctor Pappas offers his jacket, showing hesitation and discomfort.",
+      "assessment": "Jack's hesitation to accept the jacket may indicate insecurity or respect for the doctor's role, but does not strongly reflect warmth either way.",
+      "rating": 0.0
     },
     {
-      "Action": "Screams and hits the ground in anguish after Marcy's death, showing deep emotional pain and vulnerability.",
-      "Warmth": 1,
-      "Chunk": 18
+      "trait": "competence",
+      "action": "Jack asks Doctor Pappas if everything is okay after seeing a severely burned man die and inquires about the cause of the high number of casualties.",
+      "assessment": "This shows Jack's attentiveness and willingness to gather information in a stressful environment, indicating some level of situational awareness and concern.",
+      "rating": 1.0
     },
     {
-      "Action": "Irritated or suspicious reaction to the door knob jiggling without answer, wipes tears and blood off himself, acts tense and puzzled.",
-      "Warmth": 0,
-      "Chunk": 18
+      "trait": "competence",
+      "action": "Jack backs away from Doctor Pappas when offered a doctor's jacket and accidentally bumps into a gurney with a dead woman marked with the number 13 on her forehead.",
+      "assessment": "Backing away and bumping into a gurney suggests a moment of clumsiness or discomfort, which slightly detracts from his competence in this tense setting.",
+      "rating": -1.0
     },
     {
-      "Action": "Calms himself down despite panic, tries to investigate the door cautiously.",
-      "Warmth": 1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Jack approaches Doctor Palumbo to ask for the location of room 13, claiming his wife is badly injured and in that room.",
+      "assessment": "This shows Jack's initiative and focus on finding his wife, demonstrating determination and some ability to navigate the hospital environment under pressure.",
+      "rating": 2.0
     },
     {
-      "Action": "Calls for help when approached by the mob, showing vulnerability and trust in others.",
-      "Warmth": 1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Jack provides a specific description of his wife's injury (scratched off all the skin on her arm) when questioned by Doctor Palumbo.",
+      "assessment": "Providing clear and relevant information indicates Jack's ability to communicate effectively, which is a competent behavior in a crisis.",
+      "rating": 2.0
     },
     {
-      "Action": "Initially grabs a stool defensively when surprised by Candace.",
-      "Warmth": 0,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Jack does not respond effectively to Doctor Palumbo's rude and dismissive attitude, and is told he is on the wrong floor for his wife's condition.",
+      "assessment": "Jack's failure to recognize or correct his mistake about the hospital floor suggests a lack of knowledge or preparation, reflecting negatively on his competence in this situation.",
+      "rating": -2.0
     },
     {
-      "Action": "Responds with concern about the dead boy, indicating empathy.",
-      "Warmth": 1,
-      "Chunk": 19
+      "trait": "warmth",
+      "action": "Jack tries to remain calm and composed despite being insulted and dismissed rudely by Doctor Palumbo.",
+      "assessment": "Jack's effort to not get angry and hold himself together shows emotional restraint and a non-confrontational attitude, which can be seen as a positive indicator of warmth.",
+      "rating": 1.0
     },
     {
-      "Action": "Expresses concern for his daughter and insists on rescuing her despite dangers.",
-      "Warmth": 1,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Jack politely asks the female receptionist for directions to his wife's room.",
+      "assessment": "Jack's polite approach to the receptionist indicates basic courtesy and respect, a mild positive sign of warmth.",
+      "rating": 1.0
     },
     {
-      "Action": "Comforts Candace as she cries about her nephew.",
-      "Warmth": 1,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Jack sarcastically tells the receptionist he thought everyone in the hospital was an asshole, then changes to say everyone is an asshole after she insults him.",
+      "assessment": "Jack's sarcastic and somewhat hostile remarks to the receptionist reflect frustration and bitterness, which detracts from warmth and suggests a negative indicator.",
+      "rating": -2.0
     },
     {
-      "Action": "Recognizes Candace from his dream and communicates clearly about his daughter Kendra’s situation.",
-      "Competence": 1,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Jack calmly asks the receptionist for the location of his wife's room despite being visibly upset.",
+      "assessment": "This shows Jack's ability to maintain composure and effectively communicate under emotional stress, indicating a moderate level of competence.",
+      "rating": 2.0
     },
     {
-      "Action": "Shows concern for his daughter and makes a decision to go rescue her despite uncertain conditions.",
-      "Competence": 1,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Jack quickly follows directions to the correct hospital floor and navigates to room 13 without hesitation.",
+      "assessment": "This demonstrates Jack's ability to follow instructions and navigate an unfamiliar environment efficiently, reflecting competent behavior.",
+      "rating": 2.0
     },
     {
-      "Action": "Questions Candace about the epidemic, showing willingness to understand the situation.",
-      "Competence": 1,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Jack responds to rudeness from hospital staff with sarcastic remarks rather than escalating the situation.",
+      "assessment": "While this shows some emotional control, the sarcastic response may not be the most effective way to handle conflict, indicating a slight lack of social tact but some resilience.",
+      "rating": 0.0
     },
     {
-      "Action": "Appears confused when Candace explains the danger, indicating some lack of situational awareness.",
-      "Competence": 0,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Kisses his wife Marcy on the forehead with a long and lingering kiss while she is heavily sedated in the hospital bed.",
+      "assessment": "This action shows tenderness, care, and emotional warmth towards his wife in a difficult situation.",
+      "rating": 3.0
     },
     {
-      "Action": "Comforts Candace when she breaks down crying, demonstrating emotional support but not necessarily competence in handling the crisis itself.",
-      "Competence": 0,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Enters the hospital room despite feeling overwhelmed and tired, choosing to be present with his wife.",
+      "assessment": "Jack's decision to be with his wife despite his own exhaustion indicates commitment and emotional support, reflecting warmth.",
+      "rating": 2.0
     },
     {
-      "Action": "Listens intently to Candace's traumatic experience and reassures her by saying 'That ain't your fault.'",
-      "Warmth": 1,
-      "Chunk": 21
+      "trait": "warmth",
+      "action": "Sits quietly next to his wife and drifts off into a light sleep in the hospital room.",
+      "assessment": "While he is physically present, drifting off to sleep may suggest emotional fatigue but also a desire to remain close, showing a moderate level of warmth.",
+      "rating": 1.0
     },
     {
-      "Action": "Expresses determination to try to save his daughter despite risks, stating 'What kind of father would I be if I didn’t try? I have to do this....'",
-      "Warmth": 1,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Jack takes a deep breath, hesitates at the door, then decides to enter the hospital room where his wife is sedated, locking the door behind him.",
+      "assessment": "This shows Jack's ability to make a deliberate decision despite emotional difficulty, indicating a level of mental resilience and control.",
+      "rating": 2.0
     },
     {
-      "Action": "Listens intently to Candace's story, shows empathy and understanding.",
-      "Competence": 1,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Jack kisses his wife on the forehead and then sits down, eventually drifting off to sleep despite the stressful situation.",
+      "assessment": "This suggests Jack is emotionally overwhelmed and possibly fatigued, which may impair his alertness and responsiveness, indicating a temporary dip in competence.",
+      "rating": -1.0
     },
     {
-      "Action": "Decides to take responsibility and go get his daughter despite the apparent danger.",
-      "Competence": 1,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Jack locks the door behind him upon entering the hospital room.",
+      "assessment": "Locking the door shows Jack's awareness of privacy and security, reflecting a thoughtful and cautious behavior.",
+      "rating": 1.0
     },
     {
-      "Action": "Pauses momentarily when warned about possible danger to his daughter, indicating consideration.",
-      "Competence": 1,
-      "Chunk": 21
+      "trait": "warmth",
+      "action": "Reaches out his hand to Candace who is asking for help.",
+      "assessment": "Jack's attempt to reach out to Candace shows a willingness to help and care for her, indicating a positive sign of warmth.",
+      "rating": 2.0
     },
     {
-      "Action": "Insists on making a plan and emphasizes needing to get his daughter.",
-      "Warmth": 1,
-      "Chunk": 23
+      "trait": "warmth",
+      "action": "Feels something holding him back from helping Candace, his legs stuck in the ground and the room stretching.",
+      "assessment": "Although Jack wants to help, he is physically restrained, which limits his ability to act. This shows his intention to be warm but inability to do so in this moment, a neutral indicator.",
+      "rating": 0.0
     },
     {
-      "Action": "Challenges Candace’s fear by trying to rationalize and encourage escape, showing concern for safety.",
-      "Warmth": 1,
-      "Chunk": 23
+      "trait": "warmth",
+      "action": "Wakes up in hospital and approaches the door slowly when someone is trying to enter, then returns to sit by Marcy when told it is not his room.",
+      "assessment": "Jack's cautious behavior and returning to sit by Marcy suggests concern and attentiveness, reflecting a moderate level of warmth and care for others.",
+      "rating": 1.0
     },
     {
-      "Action": "Directly contradicts Candace and demands immediate action despite her objections.",
-      "Warmth": 0,
-      "Chunk": 23
+      "trait": "competence",
+      "action": "Reaches out his hand to Candace who asks for help, but his legs are stuck in the ground and the room is stretching, preventing him from moving.",
+      "assessment": "This suggests a lack of control over his environment or himself in a critical moment, indicating limited competence in this situation.",
+      "rating": -1.0
     },
     {
-      "Action": "Responds with a rhetorical question 'Who are you to define crazy?' in a tense situation.",
-      "Warmth": 0,
-      "Chunk": 23
+      "trait": "competence",
+      "action": "Wakes up in a hospital room and cautiously approaches the door to see who is trying to enter, then returns to his seat when reassured by a doctor.",
+      "assessment": "This shows situational awareness and cautious behavior, reflecting a moderate level of competence in handling an uncertain situation.",
+      "rating": 2.0
     },
     {
-      "Action": "Insists on making a plan to get his daughter and escape the dangerous situation despite Candace's refusal.",
-      "Competence": 1,
-      "Chunk": 23
+      "trait": "warmth",
+      "action": "No direct actions or statements from Jack in the excerpt to assess warmth.",
+      "assessment": "The excerpt does not provide any information about Jack's behavior, actions, or statements, so no assessment of warmth can be made.",
+      "rating": 0.0
     },
     {
-      "Action": "Pushes for leaving the supposedly unsafe hospital environment while questioning Candace’s judgments.",
-      "Competence": 1,
-      "Chunk": 23
+      "trait": "competence",
+      "action": "No direct actions or statements from Jack are present in the excerpt to evaluate competence.",
+      "assessment": "The excerpt does not include any behavior, statements, or actions by Jack, so no assessment of his competence can be made based on this text.",
+      "rating": 0.0
     },
     {
-      "Action": "Argues with Candace but does not listen to or address her specific safety concerns, showing some inflexibility.",
-      "Competence": 0,
-      "Chunk": 23
+      "trait": "warmth",
+      "action": "Jack's kid, Kendra, is violently attacking Trevor, and Jack does not intervene or show concern in the scene.",
+      "assessment": "Jack's absence and lack of intervention during a violent and dangerous situation involving his own child suggests a lack of warmth, care, or protective behavior.",
+      "rating": -3.0
     },
     {
-      "Action": "Asks Candace if she is okay when she shivers, then notices the cold and adjusts the thermostat for comfort.",
-      "Warmth": 1,
-      "Chunk": 24
+      "trait": "competence",
+      "action": "Jack's kid Kendra is violently attacking Trevor and others, and Jack is not present or intervening in the situation.",
+      "assessment": "Jack's absence or lack of intervention during a violent and dangerous situation involving his own child suggests a lack of control or capability in managing critical events, reflecting negatively on his competence.",
+      "rating": -2.0
     },
     {
-      "Action": "Dismisses Candace's caution about the effects of the madness by saying 'I’m not crazy so obviously it doesn't affect everyone.'",
-      "Warmth": -1,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "No direct actions or statements from Jack in the excerpt; Quentin and Joe commit violent acts while Jack is absent or unmentioned.",
+      "assessment": "Jack's absence or lack of intervention during these violent events does not provide evidence of warmth; the omission may suggest passivity or indifference in a highly negative context.",
+      "rating": -1.0
     },
     {
-      "Action": "Expresses concern about the security of their shelter and acknowledges the danger ('It’s not going to hold long. We need to figure out how to get out of here.').",
-      "Warmth": 0,
-      "Chunk": 24
+      "trait": "competence",
+      "action": "No direct action or intervention observed in the excerpt; Quentin and Joe are the main actors.",
+      "assessment": "Jack's competence cannot be assessed from this excerpt as he does not participate or react to the events described.",
+      "rating": 0.0
     },
     {
-      "Action": "Says he would have killed Candace by now if he was crazy, suggesting a dismissive attitude toward her fears.",
-      "Warmth": -1,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Sits watching his wife in the hospital and expresses relief and care when she wakes up.",
+      "assessment": "Jack shows concern and affection for his wife, indicating a caring and attentive nature.",
+      "rating": 2.0
     },
     {
-      "Action": "Maintains calm under pressure and focuses on immediate threats (pacing, assessing the door situation).",
-      "Competence": 1,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Leans in and kisses his wife on the lips in the hospital room.",
+      "assessment": "This affectionate gesture demonstrates warmth and emotional closeness.",
+      "rating": 3.0
     },
     {
-      "Action": "Dismisses Candace’s warning about the effects of the condition and claims he is not affected, showing some denial or overconfidence.",
-      "Competence": -1,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Reassures his wife to relax and comforts her about her health condition.",
+      "assessment": "His calming words and reassurance show empathy and a nurturing attitude.",
+      "rating": 2.0
     },
     {
-      "Action": "Notices the unusual repetition of the number 13 and takes action to adjust the thermostat, showing awareness and responsiveness.",
-      "Competence": 1,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Mentions that Kendra is at home with others and is probably worried about his wife.",
+      "assessment": "This shows Jack's awareness of others' feelings and his attempt to connect his wife with their daughter, reflecting thoughtfulness.",
+      "rating": 2.0
     },
     {
-      "Action": "Shows some skepticism but remains open-minded about Candace’s information once he admits he’d believe anything at this point.",
-      "Competence": 0,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Decides to call the others to get Kendra on the phone for his wife.",
+      "assessment": "Taking initiative to connect family members during a stressful time shows Jack's sincerity and caring nature.",
+      "rating": 3.0
     },
     {
-      "Action": "Recognizes the door won’t hold and understands they need a plan to escape, demonstrating situational awareness.",
-      "Competence": 1,
-      "Chunk": 24
+      "trait": "competence",
+      "action": "Sits attentively by his wife's hospital bed, showing concern and readiness to support her.",
+      "assessment": "This behavior indicates emotional attentiveness and responsibility, reflecting a competent and caring demeanor in a stressful situation.",
+      "rating": 2.0
     },
     {
-      "Action": "Insists they must fight their way through the door and get out, expresses strong concern to reach his daughter.",
-      "Warmth": 0,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Informs his wife about the EMT's preliminary assessment regarding her condition.",
+      "assessment": "Sharing medical information shows Jack's attentiveness and communication skills, which are important aspects of competence in caregiving.",
+      "rating": 2.0
     },
     {
-      "Action": "Observes environment carefully to find a way to see if the coast is clear, tries to protect Candace by signaling her to be quiet.",
-      "Warmth": 1,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Reassures his wife to relax and comforts her with a kiss.",
+      "assessment": "Providing emotional support demonstrates interpersonal competence and confidence in managing the situation calmly.",
+      "rating": 2.0
     },
     {
-      "Action": "Formulates a plan to get out despite the dangerous situation, considers fighting through or waiting, weighs options with Candace.",
-      "Competence": 1,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Mentions that Kendra is at home with others and plans to call them to get Kendra on the phone for his wife.",
+      "assessment": "This shows Jack's proactive approach to family communication and his ability to manage multiple concerns simultaneously, indicating competence.",
+      "rating": 2.0
     },
     {
-      "Action": "Observes the door carefully, notices it is slightly off the ground, uses a broken mirror piece to look out.",
-      "Competence": 1,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Pulls out his cell phone and calls the others to connect his wife with Kendra.",
+      "assessment": "Taking initiative to facilitate communication reflects practical competence and problem-solving skills in a tense context.",
+      "rating": 2.0
     },
     {
-      "Action": "Acts quickly and decisively by breaking the mirror to get a vantage point, signaling Candace to be quiet to avoid detection.",
-      "Competence": 1,
-      "Chunk": 25
+      "trait": "warmth",
+      "action": "Tries to calm Marcy down during her violent rampage by hugging her and speaking gently.",
+      "assessment": "Jack's attempt to calm Marcy with a bear hug and gentle words shows his caring and protective nature despite the danger.",
+      "rating": 2.0
     },
     {
-      "Action": "Pushes for action driven by emotional need (getting to his daughter) but still listens to Candace’s suggestion to wait.",
-      "Competence": 0,
-      "Chunk": 25
+      "trait": "warmth",
+      "action": "Apologizes to Marcy after pushing her away with force.",
+      "assessment": "Jack's apology indicates his remorse and sensitivity towards Marcy's feelings, reflecting his sincerity and kindness.",
+      "rating": 2.0
     },
     {
-      "Action": "Slides piece of mirror under door to check if coast is clear, shares information with Candace",
-      "Warmth": 1,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Expresses concern and urgency to get Marcy help after the violent incident.",
+      "assessment": "His concern for Marcy's well-being and desire to seek help demonstrates his trustworthiness and good-natured character.",
+      "rating": 3.0
     },
     {
-      "Action": "Insists Candace come with him to be protected, expresses need to save his daughter but does not want to leave Candace behind",
-      "Warmth": 1,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Shows deep emotional pain and grief after Marcy's death, screaming and crying openly.",
+      "assessment": "Jack's open display of grief reveals his sincere emotional connection and capacity for love and empathy.",
+      "rating": 3.0
     },
     {
-      "Action": "Cuts Candace off when she hesitates, insisting on leaving now and urging her to come",
-      "Warmth": 0,
-      "Chunk": 26
+      "trait": "competence",
+      "action": "Throws his hands up to block Marcy's scratches and tries to defend himself during her violent attack.",
+      "assessment": "Jack attempts to protect himself from Marcy's aggressive assault, showing some basic defensive instincts, though he is clearly overwhelmed.",
+      "rating": 0.0
     },
     {
-      "Action": "Uses a piece of broken mirror to check if the coast is clear before moving.",
-      "Competence": 1,
-      "Chunk": 26
+      "trait": "competence",
+      "action": "Quickly wraps his arms around Marcy in a bear hug to immobilize her arms after she punches him.",
+      "assessment": "This shows Jack's ability to respond quickly and use physical restraint to control a dangerous situation, indicating moderate competence in handling physical conflict.",
+      "rating": 2.0
     },
     {
-      "Action": "Confidently tells Candace that the coast is clear and insists she come with him to protect her and save his daughter.",
-      "Competence": 1,
-      "Chunk": 26
+      "trait": "competence",
+      "action": "Moves his hand to block Marcy's bite, freeing her other hand, which she then uses to choke him.",
+      "assessment": "While Jack notices and attempts to block the bite, he inadvertently frees her other hand, which she uses against him, suggesting a lapse in tactical awareness under pressure.",
+      "rating": -1.0
     },
     {
-      "Action": "No direct actions or statements from Jack present in the excerpt.",
-      "Warmth": 0,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Pushes Marcy away with force, sending her into a window and breaking the glass.",
+      "assessment": "Jack uses physical strength to create distance and stop the immediate threat, demonstrating decisiveness and strength, though the broken window indicates collateral damage.",
+      "rating": 1.0
     },
     {
-      "Action": "No direct actions or statements from Jack in the excerpt to evaluate competence.",
-      "Competence": 0,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Runs towards the window after Marcy jumps out but is too late to prevent her death.",
+      "assessment": "Jack's reaction shows concern and urgency, but he is unable to prevent the tragedy, reflecting limitations in his ability to control the situation.",
+      "rating": 0.0
     },
     {
-      "Action": "Takes a moment to calm himself down after Candace backs away.",
-      "Warmth": 1,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Pulls himself up off the ground and confronts the doorknob jiggling at the door despite being emotionally devastated and injured.",
+      "assessment": "Despite emotional distress and physical pain, Jack regains composure quickly and attempts to address the new potential threat, indicating resilience and presence of mind.",
+      "rating": 2.0
     },
     {
-      "Action": "Laughs and shares a friendly moment with Candace about their leap year birthdays.",
-      "Warmth": 1,
-      "Chunk": 29
+      "trait": "warmth",
+      "action": "Jack calls out for help when confronted by the violent mob.",
+      "assessment": "Jack's call for help shows a natural human response to danger and a desire for assistance, indicating vulnerability but also a basic trust in others' goodwill.",
+      "rating": 1.0
     },
     {
-      "Action": "Expresses frustration with the number 13 repeatedly appearing.",
-      "Warmth": 0,
-      "Chunk": 29
+      "trait": "warmth",
+      "action": "Jack initially tries to defend himself by grabbing a stool when Candace suddenly pulls him into her room.",
+      "assessment": "Jack's defensive reaction is understandable given the situation, but he quickly lowers the stool when reassured, showing openness and a willingness to trust Candace.",
+      "rating": 2.0
     },
     {
-      "Action": "Calms himself down after getting upset.",
-      "Competence": 1,
-      "Chunk": 29
+      "trait": "warmth",
+      "action": "Jack expresses concern about the dead boy in Candace's hospital room.",
+      "assessment": "Jack's concern for the dead boy indicates empathy and sensitivity to others' suffering, reflecting a warm and caring nature.",
+      "rating": 3.0
     },
     {
-      "Action": "Engages thoughtfully with Candace's detailed explanation about the calendar.",
-      "Competence": 1,
-      "Chunk": 29
+      "trait": "warmth",
+      "action": "Jack questions Candace about the cause of the violence and deaths.",
+      "assessment": "Jack's questioning shows a desire to understand the situation and possibly help, which can be seen as a sign of engagement and concern for others' wellbeing.",
+      "rating": 2.0
     },
     {
-      "Action": "Asks logical questions to better understand the situation (about leap year).",
-      "Competence": 1,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Jack begins calming himself down and walking towards the door slowly despite the doorknob jiggling and no response.",
+      "assessment": "This shows Jack's ability to manage panic and approach a potentially dangerous situation cautiously, indicating some level of emotional control and situational awareness.",
+      "rating": 2.0
     },
     {
-      "Action": "Laughs off his own misfortune (birthday on leap year) showing good humor and adaptability.",
-      "Competence": 1,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Jack slowly grabs the doorknob and turns it after the jiggling stops, despite being puzzled.",
+      "assessment": "This action demonstrates Jack's willingness to investigate and take initiative rather than avoid the unknown, reflecting cautious but decisive behavior.",
+      "rating": 2.0
     },
     {
-      "Action": "Tells Candace 'Coast is clear. Let’s go,' showing a desire to protect and reassure her.",
-      "Warmth": 1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Upon seeing the horrific scene and the mob approaching, Jack quickly tries to barricade himself back in his room but finds it locked.",
+      "assessment": "Jack's immediate reaction to secure himself shows quick thinking under pressure, though the failure to anticipate the door being locked suggests a limitation in preparedness.",
+      "rating": 1.0
     },
     {
-      "Action": "Urgently tells Candace to close the door to keep her safe during the attack.",
-      "Warmth": 1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Jack slowly backs away and then picks up speed to get in front of another patient room door while calling for help.",
+      "assessment": "This indicates Jack's ability to adapt and seek safety while attempting to get assistance, showing resourcefulness and presence of mind.",
+      "rating": 2.0
     },
     {
-      "Action": "Tries to use a scalpel to defend himself and protect Candace.",
-      "Warmth": 1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "When grabbed and pulled into Candace's room, Jack initially grabs a stool to fend her off but then listens to her and lowers the stool.",
+      "assessment": "Jack's initial defensive reaction is natural, but his ability to quickly assess Candace's calmness and adjust his behavior shows social perceptiveness and flexibility.",
+      "rating": 2.0
     },
     {
-      "Action": "Commands Candace to help him during the fight to protect them both.",
-      "Warmth": 1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Jack questions Candace about the dead boy and the cause of the chaos, showing curiosity and desire to understand the situation.",
+      "assessment": "This reflects Jack's analytical thinking and desire to gather information, which are important aspects of competence in crisis situations.",
+      "rating": 2.0
     },
     {
-      "Action": "Physically struggles to shield Candace from Alex's attack, telling Alex to 'Leave her alone.'",
-      "Warmth": 1,
-      "Chunk": 30
+      "trait": "warmth",
+      "action": "Jack expresses concern for his daughter Kendra's safety and plans to rescue her despite the dangerous situation.",
+      "assessment": "Jack's worry for his daughter's safety and his determination to protect her show his caring and responsible nature, indicating warmth.",
+      "rating": 3.0
     },
     {
-      "Action": "Carefully checks outside the door before proceeding and confidently states 'Coast is clear.'",
-      "Competence": 1,
-      "Chunk": 30
+      "trait": "warmth",
+      "action": "Jack comforts Candace when she starts to cry about her nephew's accident and her feelings of guilt.",
+      "assessment": "Jack's act of comforting Candace in her distress demonstrates empathy and kindness, reflecting a warm and supportive character.",
+      "rating": 3.0
     },
     {
-      "Action": "Immediately responds to sudden attack by pulling Alex into the room, attempting to control the situation.",
-      "Competence": 1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Recognizes Candace from his dream and quickly connects this to his daughter Kendra's safety.",
+      "assessment": "This shows Jack's ability to recall important details and make connections between people and events, indicating situational awareness and memory skills.",
+      "rating": 2.0
     },
     {
-      "Action": "Commands Candace to close the door to secure the room.",
-      "Competence": 1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Decides he needs to go to the house to rescue his daughter after learning about the epidemic and potential danger to his friends.",
+      "assessment": "This demonstrates decisiveness and a protective instinct, suggesting he is capable of taking initiative in a crisis situation.",
+      "rating": 2.0
     },
     {
-      "Action": "Fails to block effectively when Alex punches him in the face and loses control of the scalpel.",
-      "Competence": -1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Expresses confusion and asks questions to understand the situation better when Candace explains the epidemic and its effects.",
+      "assessment": "Shows willingness to gather information and adapt understanding, reflecting cognitive engagement and problem-solving tendencies.",
+      "rating": 1.0
     },
     {
-      "Action": "Attempts to strike Alex's throat or head with the scalpel during the struggle.",
-      "Competence": 1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Comforts Candace when she starts to cry about her nephew's accident and the hospital situation.",
+      "assessment": "Indicates emotional intelligence and interpersonal skills, which are important for leadership and competence in social contexts.",
+      "rating": 1.0
     },
     {
-      "Action": "Calls out to Candace for help during the fight, showing reliance on others in a critical moment.",
-      "Competence": 0,
-      "Chunk": 30
+      "trait": "warmth",
+      "action": "Listens intently to Candace as she talks about the traumatic event with her nephew.",
+      "assessment": "Listening intently shows Jack's empathy and sincere concern for Candace's feelings.",
+      "rating": 2.0
     },
     {
-      "Action": "Manages to wiggle free from Alex's chokehold while Alex is distracted.",
-      "Competence": 1,
-      "Chunk": 30
+      "trait": "warmth",
+      "action": "Reassures Candace by telling her 'That ain’t your fault' after she blames herself for her nephew's death.",
+      "assessment": "Offering reassurance in a difficult moment demonstrates Jack's kindness and supportive nature.",
+      "rating": 3.0
     },
     {
-      "Action": "Commands Alex to leave Candace alone and confronts him to protect her.",
-      "Warmth": 1,
-      "Chunk": 31
+      "trait": "warmth",
+      "action": "Expresses determination to go get his daughter despite the dangerous situation.",
+      "assessment": "His determination to protect and reunite with his daughter reflects his caring and responsible character, indicating warmth.",
+      "rating": 2.0
     },
     {
-      "Action": "Uses violent force to subdue Alex, repeatedly slamming a door on his head until Alex is incapacitated.",
-      "Warmth": 0,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Listens intently to Candace's story about the violent incident with her nephew.",
+      "assessment": "This shows Jack's ability to pay attention and process important information carefully, indicating emotional intelligence and situational awareness.",
+      "rating": 2.0
     },
     {
-      "Action": "Checks on Candace's well-being after the violent encounter.",
-      "Warmth": 1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Turns to look at the dead boy in the hospital bed after hearing Candace's story.",
+      "assessment": "This action suggests Jack is confronting the reality of the situation directly, showing emotional strength and acceptance, which are components of competent behavior in crisis.",
+      "rating": 2.0
     },
     {
-      "Action": "Instructs Candace to keep close behind him while navigating a dangerous hospital hallway.",
-      "Warmth": 1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Expresses understanding to Candace that the violent incident was not her fault.",
+      "assessment": "This demonstrates empathy and sound judgment, reflecting emotional competence and supportive interpersonal skills.",
+      "rating": 2.0
     },
     {
-      "Action": "Confronts Alex and threatens him confidently to protect Candace.",
-      "Competence": 1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "States his intention to go get his daughter despite the dangerous circumstances.",
+      "assessment": "This indicates decisiveness, responsibility, and confidence in facing difficult challenges, all positive indicators of competence.",
+      "rating": 3.0
     },
     {
-      "Action": "Anticipates Alex's attack and uses his knees to launch Alex backwards.",
-      "Competence": 1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Pauses momentarily when Candace warns that his daughter is probably affected.",
+      "assessment": "The pause shows Jack is considering the risks and implications carefully, reflecting thoughtful decision-making rather than impulsiveness.",
+      "rating": 2.0
     },
     {
-      "Action": "Effectively pins Alex down and blocks his attack despite the threat of a scalpel.",
-      "Competence": 1,
-      "Chunk": 31
+      "trait": "warmth",
+      "action": "Outstretches his hand to Candace and thanks her for saving him.",
+      "assessment": "Jack's gesture of shaking hands and expressing gratitude shows friendliness and sincerity.",
+      "rating": 2.0
     },
     {
-      "Action": "Uses environment (door) cleverly as a weapon to overpower Alex.",
-      "Competence": 1,
-      "Chunk": 31
+      "trait": "warmth",
+      "action": "Expresses concern about his daughter and agrees to make a plan to save her.",
+      "assessment": "His concern for his daughter and willingness to cooperate indicates a caring and responsible nature.",
+      "rating": 3.0
     },
     {
-      "Action": "Checks on Candace’s wellbeing immediately after the fight.",
-      "Competence": 1,
-      "Chunk": 31
+      "trait": "warmth",
+      "action": "Paces anxiously and insists he is not crazy while talking to Candace.",
+      "assessment": "His anxiety and insistence suggest vulnerability and a desire to be understood, reflecting sincerity but also stress.",
+      "rating": 1.0
     },
     {
-      "Action": "Leads Candace out cautiously through the hospital, instructing her to stay close and moving carefully.",
-      "Competence": 1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Outstretches his hand to Candace and thanks her for saving him.",
+      "assessment": "This shows social confidence and gratitude, indicating interpersonal competence.",
+      "rating": 2.0
     },
     {
-      "Action": "Waves Candace to hold position and not follow into the room to keep her safe.",
-      "Warmth": 1,
-      "Chunk": 32
+      "trait": "competence",
+      "action": "Agrees with Candace that they need a plan to save his daughter.",
+      "assessment": "Demonstrates rational thinking and willingness to collaborate, reflecting competent problem-solving.",
+      "rating": 2.0
     },
     {
-      "Action": "Communicates clearly with Candace about the room being clear.",
-      "Warmth": 1,
-      "Chunk": 32
+      "trait": "competence",
+      "action": "Shows a worried look when asked if his friends have access to weapons.",
+      "assessment": "Indicates awareness of the seriousness of the situation but also some concern or uncertainty, suggesting partial competence but possible anxiety.",
+      "rating": 1.0
     },
     {
-      "Action": "Asks Candace to cover him while he gets a better weapon, showing trust and teamwork.",
-      "Warmth": 1,
-      "Chunk": 32
+      "trait": "competence",
+      "action": "Paces back and forth in Candace's hospital room and insists he is not crazy.",
+      "assessment": "Shows determination and self-assurance, but also possible agitation and defensiveness, which may undermine clear thinking.",
+      "rating": 0.0
     },
     {
-      "Action": "Waves Candace to hold position and not follow him into the room, carefully surveys the room before entering.",
-      "Competence": 1,
-      "Chunk": 32
+      "trait": "warmth",
+      "action": "Insists on making a plan and expresses a need to get his daughter.",
+      "assessment": "Jack's insistence on making a plan and concern for his daughter shows a protective and responsible side, indicating care and sincerity.",
+      "rating": 2.0
     },
     {
-      "Action": "Clearly communicates that the room is clear and coordinates with Candace to cover him while he retrieves a better weapon.",
-      "Competence": 1,
-      "Chunk": 32
+      "trait": "warmth",
+      "action": "Argues with Candace about leaving the hospital despite her fears.",
+      "assessment": "Jack challenges Candace's perspective, showing determination but also a lack of empathy for her feelings and fears, which may reduce perceived warmth.",
+      "rating": -1.0
     },
     {
-      "Action": "Moves cautiously, uses the axe to open a slightly ajar door, checks corners thoroughly.",
-      "Competence": 1,
-      "Chunk": 32
+      "trait": "warmth",
+      "action": "Repeatedly insists that they need to get out immediately.",
+      "assessment": "His urgency suggests concern for safety but also a possible intolerance of others' viewpoints, which can be seen as less warm.",
+      "rating": 0.0
     },
     {
-      "Action": "Thanks Candace for saving him.",
-      "Warmth": 1,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "Insists on making a plan and emphasizes the need to get his daughter and escape the dangerous situation.",
+      "assessment": "This shows Jack's ability to prioritize and take initiative in a crisis, indicating a level of competence and leadership.",
+      "rating": 2.0
     },
     {
-      "Action": "Kills Meredith quickly to end the threat.",
-      "Warmth": 0,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "Challenges Candace's perception of safety and insists on leaving despite her reluctance.",
+      "assessment": "This demonstrates Jack's critical thinking and confidence in his judgment, suggesting competence in assessing risk and decision-making.",
+      "rating": 2.0
     },
     {
-      "Action": "Presses the elevator stop button to possibly protect or control the situation.",
-      "Warmth": 0,
-      "Chunk": 33
+      "trait": "warmth",
+      "action": "Asks Candace if she is okay when she shivers.",
+      "assessment": "Jack shows concern for Candace's well-being, indicating attentiveness and care.",
+      "rating": 2.0
     },
     {
-      "Action": "Reacted quickly to Meredith's attack, attempted to defend himself, and ultimately killed her decisively.",
-      "Competence": 1,
-      "Chunk": 33
+      "trait": "warmth",
+      "action": "Fixes the thermostat in the hospital room to presumably make Candace more comfortable.",
+      "assessment": "This action demonstrates thoughtfulness and a desire to improve Candace's comfort, reflecting warmth.",
+      "rating": 2.0
     },
     {
-      "Action": "Retrieves and pockets Meredith's knife after the encounter, showing foresight.",
-      "Competence": 1,
-      "Chunk": 33
+      "trait": "warmth",
+      "action": "Engages in conversation with Candace about the strange occurrences and expresses willingness to believe unusual explanations.",
+      "assessment": "Jack's openness and willingness to listen to Candace shows trust and sincerity in their interaction.",
+      "rating": 1.0
     },
     {
-      "Action": "Acknowledges Candace's help and collaborates with her, indicating situational awareness.",
-      "Competence": 1,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "Paces back and forth in the hospital room while discussing the situation with Candace.",
+      "assessment": "Shows active engagement and concern, indicating mental alertness and involvement in problem-solving.",
+      "rating": 1.0
     },
     {
-      "Action": "Stops the elevator by hitting the stop button after Candace has already chosen the floor, demonstrating quick thinking.",
-      "Competence": 1,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "Dismisses the news as unreliable and asserts he is not affected by the craziness.",
+      "assessment": "Demonstrates confidence in his own mental state, though possibly overconfident or dismissive of risks.",
+      "rating": 1.0
     },
     {
-      "Action": "Shows concern and urgency about their escape plan, acknowledges Candace's predicament, and thinks strategically about how to survive together.",
-      "Warmth": 1,
-      "Chunk": 34
+      "trait": "competence",
+      "action": "Uses the fact that he hasn't harmed Candace as evidence that he is not crazy.",
+      "assessment": "Shows logical reasoning and self-awareness, indicating a level of mental competence.",
+      "rating": 2.0
     },
     {
-      "Action": "Takes initiative in leading the way and suggesting a cautious plan to protect both of them.",
-      "Warmth": 1,
-      "Chunk": 34
+      "trait": "competence",
+      "action": "Notices the thermostat temperature is 13 degrees Celsius and connects it to the recurring number 13 phenomenon.",
+      "assessment": "Exhibits observational skills and pattern recognition, suggesting attentiveness and cognitive sharpness.",
+      "rating": 2.0
     },
     {
-      "Action": "Stops the elevator to avoid danger and insists on having a plan first.",
-      "Competence": 1,
-      "Chunk": 34
+      "trait": "competence",
+      "action": "Fixes the thermostat while talking about the significance of the number 13.",
+      "assessment": "Demonstrates practical action and multitasking under stress, indicating capability and composure.",
+      "rating": 2.0
     },
     {
-      "Action": "Thinks quickly to suggest collecting car keys from the dead doctors to find cars in the parking garage.",
-      "Competence": 1,
-      "Chunk": 34
+      "trait": "competence",
+      "action": "Acknowledges the door is unlikely to hold against the banging and insists on figuring out an escape plan.",
+      "assessment": "Shows realistic assessment of danger and proactive problem-solving attitude, reflecting competence.",
+      "rating": 2.0
     },
     {
-      "Action": "Chooses to take the stairs and sneak through the hospital on foot rather than using the elevator to avoid large groups.",
-      "Competence": 1,
-      "Chunk": 34
+      "trait": "competence",
+      "action": "Expresses willingness to believe anything given the strange circumstances.",
+      "assessment": "Indicates open-mindedness but also possible desperation or uncertainty, which may slightly reduce perceived confidence.",
+      "rating": 0.0
     },
     {
-      "Action": "Admits he came in an ambulance and is upset realizing their mobility is limited.",
-      "Competence": 0,
-      "Chunk": 34
+      "trait": "warmth",
+      "action": "Insists on making a break through the door despite Candace's concerns about the danger outside.",
+      "assessment": "Jack shows determination and concern for his own safety and that of others, but his insistence may overlook others' feelings or caution, indicating moderate warmth.",
+      "rating": 1.0
     },
     {
-      "Action": "Hands Candace the fire axe for protection and gives safety instructions, showing concern for her well-being.",
-      "Warmth": 1,
-      "Chunk": 35
+      "trait": "warmth",
+      "action": "Acknowledges Candace's suggestion to wait and agrees to wait until they know the door is safe.",
+      "assessment": "Jack demonstrates openness to others' ideas and a willingness to cooperate, reflecting a considerate and trustworthy nature.",
+      "rating": 2.0
     },
     {
-      "Action": "Apologizes to the dead receptionist when grabbing her to search for keys.",
-      "Warmth": 1,
-      "Chunk": 35
+      "trait": "warmth",
+      "action": "Expresses urgency to get to his daughter, showing personal motivation and emotional connection.",
+      "assessment": "This reveals Jack's sincere and caring side, highlighting his good-natured and trustworthy traits.",
+      "rating": 3.0
     },
     {
-      "Action": "Feels embarrassed for missing to check the receptionist’s purse initially but listens to Candace’s suggestion.",
-      "Warmth": 1,
-      "Chunk": 35
+      "trait": "warmth",
+      "action": "Encourages Candace to find weapons and takes initiative by breaking the mirror to get a piece to see outside.",
+      "assessment": "Jack's actions show resourcefulness and protectiveness, aiming to keep the group safe, which reflects responsibility and care for others.",
+      "rating": 2.0
     },
     {
-      "Action": "Formulates a plan to get keys from receptionist and instructs Candace on defense and safety measures, showing foresight and leadership.",
-      "Competence": 1,
-      "Chunk": 35
+      "trait": "warmth",
+      "action": "Silences Candace quickly after breaking the mirror to avoid alerting others outside.",
+      "assessment": "This shows Jack's protective instincts and consideration for the group's safety, indicating sincerity and responsibility.",
+      "rating": 2.0
     },
     {
-      "Action": "Remembers to bring a knife for protection and advises Candace to hold a fire axe, showing preparedness.",
-      "Competence": 1,
-      "Chunk": 35
+      "trait": "competence",
+      "action": "Suggests making a break for it through the door despite being three stories up and unable to climb down through the window.",
+      "assessment": "This shows Jack is thinking practically about escape options given the constraints, indicating situational awareness and problem-solving skills.",
+      "rating": 2.0
     },
     {
-      "Action": "Fails to immediately check the receptionist's purse for keys, showing a momentary lapse in thoroughness and situational awareness.",
-      "Competence": -1,
-      "Chunk": 35
+      "trait": "competence",
+      "action": "Acknowledges Candace's suggestion to wait and agrees to hold off until they know the door is clear.",
+      "assessment": "This demonstrates Jack's ability to listen, consider alternative viewpoints, and adapt his plan accordingly, reflecting good judgment and flexibility.",
+      "rating": 2.0
     },
     {
-      "Action": "Accepts Candace’s suggestion to check under the desk and drawers after initial failure to find the keys, demonstrating willingness to reconsider and continue searching.",
-      "Competence": 0,
-      "Chunk": 35
+      "trait": "competence",
+      "action": "Expresses urgency to get out and reach his daughter, motivating action.",
+      "assessment": "Shows emotional motivation driving his decisions, which can enhance decisiveness but may also risk impulsiveness; here it seems to push for timely action.",
+      "rating": 1.0
     },
     {
-      "Action": "Takes the purse and its mace for protection, instructs Candace to stick behind him and leads the way down the stairs, showing protective behavior.",
-      "Warmth": 1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Asks Candace if there is anything they can use as weapons and encourages her to search drawers.",
+      "assessment": "Indicates leadership and resourcefulness by delegating tasks and preparing for potential confrontation.",
+      "rating": 2.0
     },
     {
-      "Action": "Finds and takes useful items (keys, mace) from the purse, showing awareness and preparation.",
-      "Competence": 1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Notices the door is slightly off the ground by observing the mirror and door carefully.",
+      "assessment": "Demonstrates keen observation skills and attention to detail, important for assessing their environment and safety.",
+      "rating": 3.0
     },
     {
-      "Action": "Takes the lead entering the staircase and instructs Candace to stay behind him, showing confidence and protective instincts.",
-      "Competence": 1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Breaks the mirror with a stool to get a piece of it and uses it to check if the coast is clear under the door while signaling Candace to be quiet.",
+      "assessment": "Shows creativity, tactical thinking, and effective nonverbal communication under pressure, all strong indicators of competence.",
+      "rating": 3.0
     },
     {
-      "Action": "Carefully assesses the staircase (looks up and down) before proceeding, indicating caution and situational awareness.",
-      "Competence": 1,
-      "Chunk": 36
+      "trait": "warmth",
+      "action": "Tells Candace that he will leave the room and protect her only if she comes with him, emphasizing his need to save his daughter but not wanting to leave Candace behind.",
+      "assessment": "Jack shows a protective attitude and a willingness to include Candace for her safety, indicating some care and responsibility, though his tone is firm and somewhat ultimatum-like.",
+      "rating": 1.0
     },
     {
-      "Action": "Warns Candace to run as danger approaches, showing quick reactions and good judgment.",
-      "Competence": 1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Slides a piece of mirror under the door to check if the coast is clear and interprets the reflection correctly.",
+      "assessment": "This action shows Jack's resourcefulness and situational awareness, indicating competent behavior in a tense environment.",
+      "rating": 2.0
     },
     {
-      "Action": "Uses pepper spray to defend himself and Candace from aggressive pursuers, effectively immobilizing all of them to escape danger.",
-      "Warmth": 1,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "Decides to leave the room despite Candace's hesitation and firmly insists she come with him to protect her and save his daughter.",
+      "assessment": "Jack demonstrates decisiveness, leadership, and confidence in his priorities, which are positive indicators of competence.",
+      "rating": 2.0
     },
     {
-      "Action": "Holds Candace close to protect her from a violent woman stabbing a doctor, showing protective behavior.",
-      "Warmth": 1,
-      "Chunk": 37
+      "trait": "warmth",
+      "action": "Joe quickly turns and shoots a woman banging her head on the window, blowing the top of her head off.",
+      "assessment": "This action shows a lack of empathy and extreme violence, indicating low warmth.",
+      "rating": -3.0
     },
     {
-      "Action": "Directs Candace to collect the car keys from dead doctors, showing pragmatic survival focus without hesitation.",
-      "Warmth": 0,
-      "Chunk": 37
+      "trait": "warmth",
+      "action": "Joe tells Quentin to keep his voice down to avoid attracting danger.",
+      "assessment": "This shows Joe's concern for safety and consideration for others, a mild positive indicator of warmth.",
+      "rating": 1.0
     },
     {
-      "Action": "Uses pepper spray effectively to immobilize multiple threats and quickly escapes with Candace, showing tactical thinking and quick reflexes.",
-      "Competence": 1,
-      "Chunk": 37
+      "trait": "warmth",
+      "action": "Joe responds calmly to Quentin's aggressive behavior and tries to de-escalate the situation by saying they are clear.",
+      "assessment": "Joe's attempt to calm Quentin and avoid conflict suggests some level of tolerance and patience, indicating moderate warmth.",
+      "rating": 2.0
     },
     {
-      "Action": "Presses his body against the wall, cautiously scouts the area, and protects Candace from a threatening woman, demonstrating situational awareness and protective behavior.",
-      "Competence": 1,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "Joe quickly turns and shoots a woman banging her head on the window, blowing the top of her head clean off.",
+      "assessment": "This action demonstrates Joe's quick reflexes, marksmanship, and ability to respond effectively under pressure, indicating a high level of competence in a combat situation.",
+      "rating": 3.0
     },
     {
-      "Action": "Immediately instructs Candace to retrieve car keys from dead doctors to facilitate escape, showing quick problem-solving and forward planning.",
-      "Competence": 1,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "Joe tries to calm Quentin down by telling him to keep his voice down to avoid attracting attention.",
+      "assessment": "This shows Joe's situational awareness and understanding of stealth, reflecting competent behavior in a dangerous environment.",
+      "rating": 2.0
     },
     {
-      "Action": "Tosses keys to Candace and compliments her catching them.",
-      "Warmth": 1,
-      "Chunk": 38
+      "trait": "competence",
+      "action": "Joe agrees to bandage his injury later, downplaying its severity and focusing on the immediate situation.",
+      "assessment": "This suggests Joe's ability to prioritize tasks and maintain focus under stress, a sign of competence.",
+      "rating": 1.0
     },
     {
-      "Action": "Shares personal information about leaving the police force and his wife leaving him.",
-      "Warmth": 1,
-      "Chunk": 38
+      "trait": "competence",
+      "action": "Joe refuses to repeat the 'clear' confirmation multiple times as Quentin demands, citing the risk of being overheard.",
+      "assessment": "While this shows Joe's concern for operational security, it also indicates a potential lack of patience or deference to command, which could be seen as a minor negative in competence related to teamwork and discipline.",
+      "rating": -1.0
     },
     {
-      "Action": "Acknowledges the difficulty of talking about his past but still opens up to Candace.",
-      "Warmth": 1,
-      "Chunk": 38
+      "trait": "warmth",
+      "action": "Reassures Candace by saying he will protect her because she saved him earlier.",
+      "assessment": "Jack shows gratitude and a protective attitude, indicating sincerity and friendliness.",
+      "rating": 2.0
     },
     {
-      "Action": "Rejects Candace's attempt to get close, laughs off her sincerity, causing her to be displeased.",
-      "Warmth": -1,
-      "Chunk": 39
+      "trait": "warmth",
+      "action": "Tries to hold it together and act as a leader despite being nervous.",
+      "assessment": "Demonstrates responsibility and care for others' wellbeing, reflecting good-natured and trustworthy behavior.",
+      "rating": 2.0
     },
     {
-      "Action": "Shows signs of cautiousness about emotional intimacy ('Wouldn’t it be easier if we didn’t know too much about each other').",
-      "Warmth": 0,
-      "Chunk": 39
+      "trait": "warmth",
+      "action": "Engages in a tense situation with Candace, communicating clearly and preparing for danger together.",
+      "assessment": "Shows cooperation and concern for mutual safety, indicating tolerance and sincerity.",
+      "rating": 2.0
     },
     {
-      "Action": "Tells Candace a personal story about being kicked off the force for excessive force, demonstrating some openness.",
-      "Warmth": 1,
-      "Chunk": 39
+      "trait": "competence",
+      "action": "Presses up against the wall beside Candace, plans to open the door on the count of three and take intruders out one by one.",
+      "assessment": "This shows Jack's attempt to take a tactical and cautious approach to a dangerous situation, indicating some level of strategic thinking and leadership under pressure.",
+      "rating": 2.0
     },
     {
-      "Action": "Risked personal safety by intervening when he heard a woman scream despite the risk of blowing a police operation.",
-      "Warmth": 1,
-      "Chunk": 39
+      "trait": "competence",
+      "action": "Acknowledges his own nervousness but tries to hold it together to lead Candace through the hospital.",
+      "assessment": "Despite fear, Jack demonstrates emotional control and leadership qualities, which are positive indicators of competence.",
+      "rating": 2.0
     },
     {
-      "Action": "Approaches a dangerous situation cautiously by hugging the wall before confronting the perp.",
-      "Competence": 1,
-      "Chunk": 40
+      "trait": "competence",
+      "action": "Reassures Candace that he will protect her because she saved him earlier.",
+      "assessment": "Shows social awareness and reciprocal loyalty, which can be part of competent interpersonal behavior, though not directly related to skill or intelligence.",
+      "rating": 1.0
     },
     {
-      "Action": "Intervenes decisively and physically to stop the perp attacking the woman, successfully neutralizing the threat.",
-      "Competence": 1,
-      "Chunk": 40
+      "trait": "competence",
+      "action": "Pauses and shivers before opening the door, distracted by the thermostat reading 13 degrees Celsius, which he just fixed.",
+      "assessment": "This moment of distraction and focus on the thermostat in a critical moment suggests a lapse in situational awareness, indicating a slight decrease in competence.",
+      "rating": -1.0
     },
     {
-      "Action": "Recognizes consequences of his actions rationally (losing job and wife) but values saving the victim more.",
-      "Competence": 1,
-      "Chunk": 40
+      "trait": "warmth",
+      "action": "Jack laughs and smiles with Candace, sharing a light moment about their unique leap year birthdays.",
+      "assessment": "Jack's laughter and shared smiles indicate a friendly and sincere interaction, showing warmth in his connection with Candace.",
+      "rating": 2.0
     },
     {
-      "Action": "Quickly decides to move on to the garage with Candace after securing keys, showing forward planning.",
-      "Competence": 1,
-      "Chunk": 40
+      "trait": "warmth",
+      "action": "Jack apologizes to Candace after becoming frustrated about the number 13 appearing everywhere.",
+      "assessment": "Jack's apology shows self-awareness and consideration for Candace's feelings, reflecting a good-natured and trustworthy character.",
+      "rating": 2.0
     },
     {
-      "Action": "Exhibits momentary frustration or disbelief ('You have got to be shitting me.') at sudden new threat, suggesting some surprise or loss of composure.",
-      "Competence": 0,
-      "Chunk": 40
+      "trait": "warmth",
+      "action": "Jack engages in a curious and open conversation with Candace about the calendar and their birthdays.",
+      "assessment": "His willingness to listen and engage sincerely with Candace demonstrates tolerance and friendliness, positive indicators of warmth.",
+      "rating": 2.0
     },
     {
-      "Action": "Urges Candace to run and helps by leading and trying to slow down the pursuers; uses mace as a defensive tool and guides Candace calmly through the parking garage.",
-      "Warmth": 1,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Takes a moment to calm himself down after getting upset about the number 13.",
+      "assessment": "This shows emotional regulation and self-control, indicating a level of maturity and competence in managing his emotions.",
+      "rating": 2.0
     },
     {
-      "Action": "Commands Candace to run and leads the escape, uses mace to stop pursuers, strategically moves into the parking garage and instructs Candace to trigger car alarms to confuse enemies.",
-      "Competence": 1,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Engages in a thoughtful conversation with Candace about the calendar anomaly and the significance of 13/13/13.",
+      "assessment": "Demonstrates curiosity, willingness to learn, and intellectual engagement, which are positive indicators of competence.",
+      "rating": 2.0
     },
     {
-      "Action": "Runs in a panic into the parking garage, indicating stress but maintains tactical thinking under pressure.",
-      "Competence": 1,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Asks insightful questions about the calendar and his own birthday being on leap year.",
+      "assessment": "Shows critical thinking and an ability to connect information, reflecting competence in understanding complex ideas.",
+      "rating": 2.0
     },
     {
-      "Action": "Shakes his head disapprovingly at the crazies' behavior and intently stares at the situation, trying to devise a plan to help Candace.",
-      "Warmth": 1,
-      "Chunk": 42
+      "trait": "competence",
+      "action": "Laughs and smiles during the conversation, showing social ease and confidence.",
+      "assessment": "Indicates social competence and comfort in interpersonal interactions.",
+      "rating": 1.0
     },
     {
-      "Action": "Tries to devise a plan while surveying the situation carefully.",
-      "Competence": 1,
-      "Chunk": 42
+      "trait": "warmth",
+      "action": "Tells Candace to close the door to protect her from Alex.",
+      "assessment": "Jack shows concern for Candace's safety and tries to protect her during the attack.",
+      "rating": 2.0
     },
     {
-      "Action": "Is about to move out from behind the car after Candace is captured, indicating readiness to act.",
-      "Competence": 1,
-      "Chunk": 42
+      "trait": "warmth",
+      "action": "Struggles physically with Alex to defend himself and Candace.",
+      "assessment": "Jack's actions demonstrate protective instincts and a willingness to defend others, indicating care and responsibility.",
+      "rating": 2.0
     },
     {
-      "Action": "Hugs Staircase Crazy #4 and repeatedly stabs him to death.",
-      "Warmth": -1,
-      "Chunk": 43
+      "trait": "warmth",
+      "action": "Calls out to Candace for help during the fight.",
+      "assessment": "Jack trusts Candace and seeks her assistance, showing cooperative and sincere behavior.",
+      "rating": 1.0
     },
     {
-      "Action": "Emerges from behind the car and starts walking towards Candace while holding a knife tightly, showing readiness to intervene.",
-      "Competence": 1,
-      "Chunk": 43
+      "trait": "competence",
+      "action": "Swings open the door and cautiously checks outside before declaring the coast clear.",
+      "assessment": "This shows Jack's cautious and strategic approach, indicating situational awareness and prudence.",
+      "rating": 2.0
     },
     {
-      "Action": "Sneaks up behind Staircase Crazy #2 and fatally stabs him to protect Candace and Staircase Crazy #3.",
-      "Warmth": 1,
-      "Chunk": 44
+      "trait": "competence",
+      "action": "Quickly reacts when grabbed by the hair by pulling Alex into the room and falling to the ground to engage.",
+      "assessment": "This demonstrates quick reflexes and presence of mind under sudden attack, reflecting competence in physical confrontation.",
+      "rating": 2.0
     },
     {
-      "Action": "Acknowledges Candace saved him twice and expresses gratitude.",
-      "Warmth": 1,
-      "Chunk": 44
+      "trait": "competence",
+      "action": "Commands Candace to close the door despite the struggle, showing leadership and attempt to control the situation.",
+      "assessment": "Shows Jack's ability to stay focused and direct others under pressure, a sign of competent leadership.",
+      "rating": 2.0
     },
     {
-      "Action": "Offers to drive and recalls being a cop, demonstrating responsibility to ensure safety.",
-      "Warmth": 1,
-      "Chunk": 44
+      "trait": "competence",
+      "action": "Attempts to use a scalpel to defend himself by swinging at Alex's throat or head.",
+      "assessment": "Indicates resourcefulness and willingness to use available tools for self-defense, though ultimately unsuccessful here.",
+      "rating": 1.0
     },
     {
-      "Action": "Sneaks up behind Staircase Crazy #2 while he is distracted and successfully kills him with a knife to save Candace.",
-      "Competence": 1,
-      "Chunk": 44
+      "trait": "competence",
+      "action": "Manages to wiggle loose from Alex's chokehold while Alex is distracted by Candace.",
+      "assessment": "Shows physical resilience and tactical patience, exploiting an opening to escape a dangerous hold.",
+      "rating": 2.0
     },
     {
-      "Action": "Catches keys thrown by Candace and confidently takes the wheel, stating he was a cop and can get them out faster.",
-      "Competence": 1,
-      "Chunk": 44
+      "trait": "warmth",
+      "action": "Jack defends Candace by threatening Alex to leave her alone and physically restrains Alex to protect her.",
+      "assessment": "Jack's actions show protectiveness and a willingness to risk himself to keep Candace safe, indicating a strong sense of loyalty and care.",
+      "rating": 3.0
     },
     {
-      "Action": "Drives away quickly and aggressively, running over a dead body in the parking lot while escaping.",
-      "Competence": 1,
-      "Chunk": 44
+      "trait": "warmth",
+      "action": "After the violent confrontation, Jack checks on Candace's wellbeing by asking if she is okay.",
+      "assessment": "This shows Jack's concern for others' safety and emotional state, reflecting genuine care and sincerity.",
+      "rating": 3.0
     },
     {
-      "Action": "Plans to pick up his daughter Kendra and find a safe place to survive the chaos, showing concern and hope.",
-      "Warmth": 1,
-      "Chunk": 45
+      "trait": "warmth",
+      "action": "Jack instructs Candace to keep close behind him as they move through a dangerous environment.",
+      "assessment": "This demonstrates Jack's protective nature and responsibility towards Candace's safety, indicating trustworthiness and attentiveness.",
+      "rating": 2.0
     },
     {
-      "Action": "Cuts off Candace when she expresses worry, saying 'We can’t think like that... I can’t think like that.'",
-      "Warmth": -1,
-      "Chunk": 45
+      "trait": "competence",
+      "action": "Confronts Alex and threatens to kill him if he doesn't leave Candace alone.",
+      "assessment": "Jack shows confidence and assertiveness in a dangerous situation, indicating mental readiness and courage.",
+      "rating": 2.0
     },
     {
-      "Action": "Expresses determination to protect his family and find safety despite the dangerous circumstances.",
-      "Warmth": 1,
-      "Chunk": 45
+      "trait": "competence",
+      "action": "Anticipates Alex's attack and uses his knees to launch Alex backwards.",
+      "assessment": "This demonstrates physical skill, quick reflexes, and tactical thinking in combat.",
+      "rating": 3.0
     },
     {
-      "Action": "Insists on retrieving his daughter despite danger, tries to protect friends inside house.",
-      "Warmth": 1,
-      "Chunk": 46
+      "trait": "competence",
+      "action": "Pins Alex down and controls his arm holding the scalpel, then uses the door as a weapon to incapacitate him.",
+      "assessment": "Jack effectively uses his environment and physical strength to neutralize a threat, showing resourcefulness and combat competence.",
+      "rating": 3.0
     },
     {
-      "Action": "Approaches a potentially threatening homeless man cautiously without aggression.",
-      "Warmth": 1,
-      "Chunk": 46
+      "trait": "competence",
+      "action": "Stops attacking when Candace confirms Alex is dead and checks on her well-being.",
+      "assessment": "Shows situational awareness and emotional intelligence, balancing aggression with care.",
+      "rating": 2.0
     },
     {
-      "Action": "Carefully scouts the area around his house, remains undetected while assessing threats, notices important details like chalk drawings, locates friends inside the house, and cautiously approaches a suspicious armed stranger.",
-      "Competence": 1,
-      "Chunk": 46
+      "trait": "competence",
+      "action": "Grabs dropped weapons and leads Candace out of the room, instructing her to keep close.",
+      "assessment": "Demonstrates leadership, preparedness, and caution in a dangerous environment.",
+      "rating": 2.0
     },
     {
-      "Action": "Calls out loudly for his daughter despite the risk of alerting enemies, potentially compromising stealth.",
-      "Competence": -1,
-      "Chunk": 46
+      "trait": "warmth",
+      "action": "Waves for Candace to hold position and not follow him into a potentially dangerous room.",
+      "assessment": "Jack shows protective behavior by instructing Candace to stay back, indicating concern for her safety.",
+      "rating": 2.0
     },
     {
-      "Action": "Holds knife tightly and raises it defensively when confronted by Homeless Man Jake",
-      "Warmth": 0,
-      "Chunk": 47
+      "trait": "warmth",
+      "action": "Communicates clearly with Candace about the room being clear and asks her to cover him while he retrieves a better weapon.",
+      "assessment": "Jack demonstrates trust and teamwork, showing he values Candace's support and safety during a dangerous situation.",
+      "rating": 2.0
     },
     {
-      "Action": "Pauses before using the key at the back door, suggesting caution",
-      "Warmth": 0,
-      "Chunk": 47
+      "trait": "warmth",
+      "action": "Moves cautiously and checks rooms carefully before proceeding, ensuring safety for himself and Candace.",
+      "assessment": "His careful approach reflects responsibility and consideration for both himself and his companion, indicating a caring nature.",
+      "rating": 2.0
     },
     {
-      "Action": "Smiles back at Candace after she winks at him, sharing a lingering stare.",
-      "Warmth": 1,
-      "Chunk": 48
+      "trait": "competence",
+      "action": "Waves for Candace to hold position and not follow him into the first open room, then carefully peeks around the corner to check if the room is clear.",
+      "assessment": "This shows tactical caution and awareness, indicating skillful and confident behavior in a dangerous environment.",
+      "rating": 2.0
     },
     {
-      "Action": "Walks up to Joe and Quentin with weapons ready, showing cautiousness but no overt hostility.",
-      "Warmth": 0,
-      "Chunk": 48
+      "trait": "competence",
+      "action": "Instructs Candace to cover him while he retrieves a better weapon (fire axe) after clearing the room.",
+      "assessment": "This demonstrates strategic thinking and leadership, showing he can plan and coordinate actions effectively under pressure.",
+      "rating": 2.0
     },
     {
-      "Action": "Finds and uses the key to enter the back door confidently.",
-      "Competence": 1,
-      "Chunk": 48
+      "trait": "competence",
+      "action": "Moves slowly and uses body positioning against doorways to minimize exposure while surveying rooms.",
+      "assessment": "This indicates careful, tactical movement and situational awareness, reflecting competence in navigating threats.",
+      "rating": 2.0
     },
     {
-      "Action": "Approaches Joe and Quentin with weapons at the ready, demonstrating alertness but underestimates the danger by saying 'They look okay' despite Candace's warning.",
-      "Competence": 0,
-      "Chunk": 48
+      "trait": "competence",
+      "action": "Expresses relief when encountering a closed door, interpreting it as a potential safety barrier.",
+      "assessment": "Shows situational judgment and understanding of environment, contributing to his competence.",
+      "rating": 1.0
     },
     {
-      "Action": "Calmly asks Quentin to put down the gun pointed at Candace.",
-      "Warmth": 1,
-      "Chunk": 49
+      "trait": "competence",
+      "action": "Uses the fire axe to push open a slightly ajar door instead of using his body or hands directly.",
+      "assessment": "This reflects practical problem-solving and caution, enhancing his safety and demonstrating skill.",
+      "rating": 2.0
     },
     {
-      "Action": "Shows concern for Joe's health after hearing him cough.",
-      "Warmth": 1,
-      "Chunk": 49
+      "trait": "warmth",
+      "action": "Thanks Candace for saving him from Meredith.",
+      "assessment": "Expressing gratitude shows Jack's recognition of others' help and a friendly, appreciative attitude.",
+      "rating": 2.0
     },
     {
-      "Action": "Questions Quentin about his story gently, indicating care and disbelief but no hostility.",
-      "Warmth": 1,
-      "Chunk": 49
+      "trait": "warmth",
+      "action": "Kills Meredith by hitting her in the back of the head with an axe after she attacked him.",
+      "assessment": "While the act is violent, it is a defensive action to protect himself from a lethal threat, showing a survival instinct rather than cruelty.",
+      "rating": 0.0
     },
     {
-      "Action": "Asks about the wellbeing of others (Joe, Kendra), showing concern.",
-      "Warmth": 1,
-      "Chunk": 50
+      "trait": "warmth",
+      "action": "Reassures Candace by saying 'Right. Let’s get in the elevator and get out of here.' after she expresses queasiness.",
+      "assessment": "Jack acknowledges Candace's feelings and tries to maintain calm and cooperation, indicating some level of empathy and teamwork.",
+      "rating": 1.0
     },
     {
-      "Action": "Pushes Candace away when she tries to comfort him during his distress about his daughter.",
-      "Warmth": -1,
-      "Chunk": 50
+      "trait": "competence",
+      "action": "Attempts to defend himself by swinging an axe at Meredith.",
+      "assessment": "Shows willingness to fight back and use available weapons, but misses the target, indicating some lack of precision under pressure.",
+      "rating": 0.0
     },
     {
-      "Action": "Snatches gun from Quentin to prevent further escalation, trying to control the situation.",
-      "Warmth": 0,
-      "Chunk": 50
+      "trait": "competence",
+      "action": "After being knocked down and disarmed, Jack wiggles to try to escape Meredith's hold.",
+      "assessment": "Demonstrates presence of mind and physical effort to resist and survive despite being in a vulnerable position.",
+      "rating": 1.0
     },
     {
-      "Action": "Points a gun at Quentin and demands he calm down.",
-      "Warmth": -1,
-      "Chunk": 50
+      "trait": "competence",
+      "action": "After Candace intervenes, Jack stands up, approaches Meredith, and decisively kills her by hitting her in the head with the axe.",
+      "assessment": "Exhibits decisiveness, physical capability, and tactical awareness to neutralize a threat quickly and effectively.",
+      "rating": 3.0
     },
     {
-      "Action": "Quickly snatches Quentin’s gun away when Quentin becomes a threat.",
-      "Competence": 1,
-      "Chunk": 50
+      "trait": "competence",
+      "action": "Picks up Meredith's knife and pockets it after the fight.",
+      "assessment": "Shows awareness to secure potential weapons for future use, indicating foresight and preparedness.",
+      "rating": 2.0
     },
     {
-      "Action": "Points gun at Quentin and attempts to calm him down, showing control in a tense situation.",
-      "Competence": 1,
-      "Chunk": 50
+      "trait": "competence",
+      "action": "Thanks Candace for saving him and suggests they work together to escape.",
+      "assessment": "Demonstrates social awareness and teamwork, which are important aspects of competence in stressful situations.",
+      "rating": 2.0
     },
     {
-      "Action": "Pushes Candace away when she tries to comfort him, indicating emotional instability under stress.",
-      "Competence": -1,
-      "Chunk": 50
+      "trait": "competence",
+      "action": "Stops the elevator by hitting the stop button after Candace presses a floor button.",
+      "assessment": "Shows caution and control over their environment, possibly to avoid danger or to strategize, indicating thoughtful decision-making.",
+      "rating": 2.0
     },
     {
-      "Action": "Repeatedly shows emotional distress and breaks down about his daughter, showing difficulty maintaining composure.",
-      "Competence": -1,
-      "Chunk": 50
+      "trait": "warmth",
+      "action": "Suggests a careful plan to escape the hospital by collecting car keys from the dead doctors and taking the stairs to avoid danger.",
+      "assessment": "Jack shows concern for safety and tries to think practically to protect both himself and Candace, indicating thoughtfulness and a protective nature.",
+      "rating": 2.0
     },
     {
-      "Action": "Directly threatens Quentin with lethal force as a last resort to control the situation.",
-      "Competence": 0,
-      "Chunk": 50
+      "trait": "warmth",
+      "action": "Expresses upset feelings when learning Candace arrived in an ambulance, showing empathy and shared vulnerability.",
+      "assessment": "Jack's reaction reveals emotional sensitivity and a connection to Candace's situation, reflecting sincerity and concern.",
+      "rating": 2.0
     },
     {
-      "Action": "Warns Quentin clearly about the gun and threats.",
-      "Warmth": 0,
-      "Chunk": 51
+      "trait": "competence",
+      "action": "Stops the elevator to prevent it from moving before planning their next move.",
+      "assessment": "This shows Jack's ability to take control of the situation and think ahead, indicating situational awareness and decisiveness.",
+      "rating": 2.0
     },
     {
-      "Action": "Shoots multiple intruders, including a woman through the throat, without hesitation.",
-      "Warmth": -1,
-      "Chunk": 51
+      "trait": "competence",
+      "action": "Suggests they need a plan first before proceeding.",
+      "assessment": "Demonstrates Jack's understanding of the importance of planning and not rushing into danger, reflecting thoughtful and strategic thinking.",
+      "rating": 2.0
     },
     {
-      "Action": "Attempts to provide cover fire so Candace can close the door safely.",
-      "Warmth": 1,
-      "Chunk": 51
+      "trait": "competence",
+      "action": "Realizes they need to collect car keys from dead doctors to access their cars in the parking garage.",
+      "assessment": "This shows resourcefulness and logical reasoning, using available information to devise a practical escape plan.",
+      "rating": 3.0
     },
     {
-      "Action": "Calls Candace back when out of ammo to protect her.",
-      "Warmth": 1,
-      "Chunk": 51
+      "trait": "competence",
+      "action": "Chooses to take the stairs and sneak through the hospital on foot rather than using the elevator to ground level.",
+      "assessment": "Indicates caution and tactical thinking to avoid potential threats, showing good judgment and risk assessment.",
+      "rating": 3.0
     },
     {
-      "Action": "Unloads remaining bullets into a dead body, possibly to prevent a threat.",
-      "Warmth": 0,
-      "Chunk": 51
+      "trait": "competence",
+      "action": "Explains his reasoning to Candace clearly and convinces her to follow his plan despite initial confusion.",
+      "assessment": "Shows leadership and communication skills, as well as confidence in his decisions.",
+      "rating": 2.0
     },
     {
-      "Action": "Accurately shoots an intruder in the face quickly during a sudden attack.",
-      "Competence": 1,
-      "Chunk": 51
+      "trait": "warmth",
+      "action": "Hands Candace a fire axe for self-defense and explains the reasoning behind it.",
+      "assessment": "Jack shows care and concern for Candace's safety by providing her with a weapon and advice on how to protect herself, indicating a protective and thoughtful nature.",
+      "rating": 2.0
     },
     {
-      "Action": "Recognizes the threat posed by people flooding in through the front door immediately.",
-      "Competence": 1,
-      "Chunk": 51
+      "trait": "warmth",
+      "action": "Smiles and shares a light-hearted moment with Candace about saving her multiple times.",
+      "assessment": "This shows Jack's friendly and warm demeanor, using humor to ease tension and build camaraderie.",
+      "rating": 2.0
     },
     {
-      "Action": "Orders to lay down cover fire to protect Candace while she attempts to close the door.",
-      "Competence": 1,
-      "Chunk": 51
+      "trait": "warmth",
+      "action": "Apologizes silently to the dead receptionist before searching her pockets for keys.",
+      "assessment": "Jack's apology, even in a tense situation, reflects respect and empathy, indicating warmth and sincerity.",
+      "rating": 2.0
     },
     {
-      "Action": "Runs out of ammunition and cannot continue providing cover fire.",
-      "Competence": -1,
-      "Chunk": 51
+      "trait": "warmth",
+      "action": "Admits to Candace that he forgot to check the receptionist's purse and feels like an idiot.",
+      "assessment": "Jack's willingness to admit a mistake openly shows humility and trust in Candace, reflecting sincerity and openness.",
+      "rating": 2.0
     },
     {
-      "Action": "Unloads remaining bullets into a dead body, potentially wasting ammo instead of saving for live threats.",
-      "Competence": -1,
-      "Chunk": 51
+      "trait": "competence",
+      "action": "Plans to get the keys from the receptionist's pocket and instructs Candace to look for a bag to grab multiple keys if needed.",
+      "assessment": "This shows foresight and strategic thinking, indicating good planning skills and situational awareness.",
+      "rating": 2.0
     },
     {
-      "Action": "Communicates clearly and tries to coordinate with Candace and Quentin.",
-      "Competence": 1,
-      "Chunk": 51
+      "trait": "competence",
+      "action": "Hands Candace a fire axe for self-defense and explains the safety of the hospital floor and elevator strategy.",
+      "assessment": "Demonstrates leadership, care for others' safety, and tactical knowledge, reflecting competence and confidence.",
+      "rating": 3.0
     },
     {
-      "Action": "Shouts a warning to Candace to duck and throws his knife to protect her from the approaching crazy person.",
-      "Warmth": 1,
-      "Chunk": 52
+      "trait": "competence",
+      "action": "Carries a knife dropped by a woman for his own defense.",
+      "assessment": "Shows preparedness and resourcefulness, indicating practical competence in a dangerous situation.",
+      "rating": 2.0
     },
     {
-      "Action": "Encourages Candace and others to push furniture to barricade the door against attacking crazies, showing concern for group safety.",
-      "Warmth": 1,
-      "Chunk": 52
+      "trait": "competence",
+      "action": "Runs to the dead receptionist and attempts to retrieve keys from her pockets but finds nothing.",
+      "assessment": "While proactive, he overlooks checking the purse initially, showing a lapse in thoroughness and attention to detail.",
+      "rating": -1.0
     },
     {
-      "Action": "Urgently calls out to Quentin for help despite Quentin being affected, showing persistence and reliance on group members.",
-      "Warmth": 1,
-      "Chunk": 52
+      "trait": "competence",
+      "action": "Responds to Candace's suggestion to check the purse and looks under the desk and in drawers for it.",
+      "assessment": "Shows willingness to listen and adapt, but initial failure to consider the purse suggests some oversight in search strategy.",
+      "rating": 0.0
     },
     {
-      "Action": "Presses down on a dead person's face to remove a lodged knife and cleans it on his shirt without visible disgust or hesitation.",
-      "Warmth": 0,
-      "Chunk": 52
+      "trait": "warmth",
+      "action": "Jack grabs the mace from the purse and tucks it into his pocket before leading Candace down the stairs, telling her to stick behind him and going in first to protect her.",
+      "assessment": "Jack's actions show protectiveness and consideration for Candace's safety, indicating a caring and trustworthy nature.",
+      "rating": 3.0
     },
     {
-      "Action": "Throws knife accurately, hitting a charging attacker in the head and neutralizing threat.",
-      "Competence": 1,
-      "Chunk": 52
+      "trait": "warmth",
+      "action": "Jack tells Candace to run when he hears the stampede of footsteps and the crazies chasing them.",
+      "assessment": "By warning Candace and encouraging her to run, Jack demonstrates concern for her well-being and a protective attitude.",
+      "rating": 3.0
     },
     {
-      "Action": "Quickly recognizes danger at the door and takes immediate action to block it with furniture.",
-      "Competence": 1,
-      "Chunk": 52
+      "trait": "competence",
+      "action": "Finds a purse in a drawer, empties it, takes keys and mace, and prepares to leave with Candace.",
+      "assessment": "This shows Jack's resourcefulness and quick thinking in gathering useful items for their escape, indicating practical competence.",
+      "rating": 2.0
     },
     {
-      "Action": "Encourages others to act quickly under pressure, showing leadership and decisiveness.",
-      "Competence": 1,
-      "Chunk": 52
+      "trait": "competence",
+      "action": "Tells Candace to stick behind him and leads the way into the stairwell, cautiously checking the area.",
+      "assessment": "Jack demonstrates leadership, caution, and situational awareness, which are positive indicators of competence.",
+      "rating": 2.0
     },
     {
-      "Action": "Fails to get Quentin to assist, possibly indicating overreliance or failure to effectively communicate in critical moments.",
-      "Competence": 0,
-      "Chunk": 52
+      "trait": "competence",
+      "action": "Peers over the ledge to check for danger below before proceeding down the stairs.",
+      "assessment": "This careful checking shows prudence and tactical thinking, reinforcing his competent behavior.",
+      "rating": 2.0
     },
     {
-      "Action": "Grimaces and verbally expresses frustration in response to ammo shortage and growing danger.",
-      "Competence": 0,
-      "Chunk": 52
+      "trait": "competence",
+      "action": "Warns Candace to run when he hears approaching footsteps and starts running with her.",
+      "assessment": "His quick reaction to danger and ability to communicate urgency effectively shows alertness and decisiveness, supporting competence.",
+      "rating": 2.0
     },
     {
-      "Action": "Moves furniture to barricade door against attackers.",
-      "Warmth": 1,
-      "Chunk": 53
+      "trait": "warmth",
+      "action": "Sprays pepper spray at the crazies to protect himself and Candace and helps them escape.",
+      "assessment": "Jack takes decisive action to protect both himself and Candace from danger, showing care and responsibility for others' safety.",
+      "rating": 2.0
     },
     {
-      "Action": "Rushes to help Joe who is injured, refuses to leave him behind.",
-      "Warmth": 1,
-      "Chunk": 53
+      "trait": "warmth",
+      "action": "Presses Candace against the wall to protect her from the woman stabbing a doctor.",
+      "assessment": "Jack's protective behavior towards Candace indicates concern and a desire to keep her safe in a threatening situation.",
+      "rating": 3.0
     },
     {
-      "Action": "Tries to stop Quentin from killing Joe and de-escalate the situation.",
-      "Warmth": 1,
-      "Chunk": 53
+      "trait": "warmth",
+      "action": "Instructs Candace to collect car keys from dead doctors to facilitate their escape.",
+      "assessment": "Jack is focused on practical survival, showing leadership and cooperation, but this action is neutral in warmth as it is pragmatic rather than emotionally warm.",
+      "rating": 0.0
     },
     {
-      "Action": "Attempts to physically confront Quentin to prevent further harm, despite being injured.",
-      "Warmth": 1,
-      "Chunk": 53
+      "trait": "competence",
+      "action": "Sprays pepper spray at the crazies to immobilize them and escapes with Candace through the door, effectively neutralizing the threat.",
+      "assessment": "This action shows Jack's quick thinking, preparedness, and ability to use tools effectively under pressure, indicating strong competence.",
+      "rating": 3.0
     },
     {
-      "Action": "Expresses distress and sorrow over Kendra's death, calls Quentin a 'bastard' for killing his daughter.",
-      "Warmth": 1,
-      "Chunk": 54
+      "trait": "competence",
+      "action": "Presses his body against the wall and carefully scouts the dilapidated hospital lobby, assessing the situation before moving forward.",
+      "assessment": "This demonstrates Jack's cautiousness, situational awareness, and tactical approach, reflecting competent behavior in a dangerous environment.",
+      "rating": 2.0
     },
     {
-      "Action": "Attempts to de-escalate by telling Quentin to put the knife down.",
-      "Warmth": 1,
-      "Chunk": 54
+      "trait": "competence",
+      "action": "Commands Candace to grab all the car keys from the doctors' pockets and toss them in the purse, planning their escape route.",
+      "assessment": "This shows Jack's leadership, strategic planning, and ability to organize resources efficiently, indicating competence.",
+      "rating": 2.0
     },
     {
-      "Action": "Freezes when seeing Kendra trying to enter, shows protective concern ('Kendra, baby it’s going to be okay').",
-      "Warmth": 1,
-      "Chunk": 54
+      "trait": "warmth",
+      "action": "Tosses keys to Candace and compliments her with 'Nice catch.'",
+      "assessment": "Jack's compliment shows a friendly and encouraging attitude, indicating warmth.",
+      "rating": 2.0
     },
     {
-      "Action": "Threatens to kill Quentin after Kendra's death and during confrontation.",
-      "Warmth": -1,
-      "Chunk": 54
+      "trait": "warmth",
+      "action": "Shares personal information about his past as a cop and his recent divorce with Candace.",
+      "assessment": "Opening up about personal struggles to Candace demonstrates trust and sincerity, positive indicators of warmth.",
+      "rating": 2.0
     },
     {
-      "Action": "Commands Quentin to leave Candace alone and attempts to protect her despite his own injury.",
-      "Warmth": 1,
-      "Chunk": 55
+      "trait": "warmth",
+      "action": "Engages in conversation with Candace and responds to her questions despite the stressful situation.",
+      "assessment": "His willingness to communicate and connect with Candace in a crisis shows tolerance and friendliness, reflecting warmth.",
+      "rating": 2.0
     },
     {
-      "Action": "Shows strong emotional response to Candace's suffering and tries to intervene physically to stop the violence.",
-      "Warmth": 1,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "Grabs car keys from dead doctors' pockets quickly and efficiently to facilitate escape.",
+      "assessment": "This action shows Jack's practical thinking and ability to act decisively under pressure, indicating competence in crisis situations.",
+      "rating": 2.0
     },
     {
-      "Action": "Checks on Candace's condition with concern after the attack.",
-      "Warmth": 1,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "Explains the effect and duration of the mace spray to Candace.",
+      "assessment": "Jack demonstrates knowledge and situational awareness, suggesting experience and intelligence relevant to their predicament.",
+      "rating": 2.0
     },
     {
-      "Action": "Swats Quentin’s hand away from his wound, then relentlessly punches Quentin’s lifeless face.",
-      "Warmth": -1,
-      "Chunk": 56
+      "trait": "competence",
+      "action": "Mentions his background as a former cop and uses that experience to guide their escape plan.",
+      "assessment": "This reveals Jack's relevant skills and training, which contribute positively to his competence in handling dangerous situations.",
+      "rating": 3.0
     },
     {
-      "Action": "Allows Candace to put a hand on his shoulder and eventually throws his arm around her for support.",
-      "Warmth": 1,
-      "Chunk": 56
+      "trait": "competence",
+      "action": "Tosses keys to Candace and encourages her with 'Nice catch.'",
+      "assessment": "Shows confidence and teamwork, indicating social competence and leadership qualities.",
+      "rating": 1.0
     },
     {
-      "Action": "Tells Candace to grab the axe and knife to defend themselves, showing concern for their safety.",
-      "Warmth": 1,
-      "Chunk": 56
+      "trait": "competence",
+      "action": "Avoids discussing personal issues when Candace presses him about leaving the force.",
+      "assessment": "This avoidance could suggest emotional vulnerability or reluctance to share, which might slightly detract from perceived confidence but does not strongly impact overall competence.",
+      "rating": 0.0
     },
     {
-      "Action": "Tells Candace he is fine to prevent her worry despite being very weak.",
-      "Warmth": 1,
-      "Chunk": 56
+      "trait": "warmth",
+      "action": "Rejects Candace's attempt to have a moment with him by laughing off her seriousness and suggesting they not get to know each other too well.",
+      "assessment": "Jack's rejection of Candace's attempt at connection and his dismissive laughter indicate a reluctance to be open and emotionally warm in this interaction.",
+      "rating": -1.0
     },
     {
-      "Action": "Remains calm under pressure, assesses situation and cooperates with Candace to escape undetected.",
-      "Competence": 1,
-      "Chunk": 57
+      "trait": "warmth",
+      "action": "Shares a personal story about being kicked off the police force due to excessive force and explains his motivations during a dangerous situation.",
+      "assessment": "By sharing a vulnerable and personal story, Jack shows some willingness to be sincere and open, which can be seen as a positive indicator of warmth.",
+      "rating": 2.0
     },
     {
-      "Action": "Acknowledges his physical limitations and willingly hands over the car keys trusting Candace to drive.",
-      "Competence": 1,
-      "Chunk": 57
+      "trait": "competence",
+      "action": "Jack decides to check out a faint scream of a woman yelling 'stop it' despite his partner Quentin telling him not to, and runs towards the house while Quentin radios for backup.",
+      "assessment": "This action shows Jack's willingness to take initiative and act decisively in a tense situation, indicating confidence and a proactive approach, which are positive indicators of competence.",
+      "rating": 2.0
     },
     {
-      "Action": "Initially insists he can manage getting into the car by himself despite being hurt and slow.",
-      "Competence": 0,
-      "Chunk": 57
+      "trait": "competence",
+      "action": "Jack was kicked off the police force due to excessive force.",
+      "assessment": "Being removed from the force for excessive force suggests a lack of control or poor judgment in applying skills appropriately, which is a negative indicator of competence.",
+      "rating": -2.0
     },
     {
-      "Action": "Expresses self-doubt and suggests leaving behind, indicating a momentary loss of confidence.",
-      "Competence": -1,
-      "Chunk": 57
+      "trait": "competence",
+      "action": "Jack opens the gate to the backyard with his gun drawn as he approaches the house where the scream was heard.",
+      "assessment": "This shows Jack's readiness and tactical awareness in a potentially dangerous situation, reflecting skill and confidence, positive indicators of competence.",
+      "rating": 2.0
     },
     {
-      "Action": "Encourages Candace to keep trying to start the car despite the danger, showing support and urgency.",
-      "Warmth": 1,
-      "Chunk": 58
+      "trait": "competence",
+      "action": "Jack laughs off Candace's attempt to have a moment with him and rejects her emotionally.",
+      "assessment": "While this is more of a social interaction, rejecting emotional connection might indicate a lack of interpersonal skill or emotional intelligence, which can be relevant to overall competence in social contexts, a slight negative indicator.",
+      "rating": -1.0
     },
     {
-      "Action": "Shows concern when Candace laughs after driving off, asking if she is okay.",
-      "Warmth": 1,
-      "Chunk": 58
+      "trait": "warmth",
+      "action": "Jack pulled the perpetrator off the woman and physically fought him to protect her.",
+      "assessment": "Jack's immediate intervention to protect a vulnerable woman from harm demonstrates a strong sense of protectiveness and care, indicating a positive level of warmth.",
+      "rating": 3.0
     },
     {
-      "Action": "Internally reflects on the life he left behind, indicating emotional depth and vulnerability.",
-      "Warmth": 1,
-      "Chunk": 58
+      "trait": "warmth",
+      "action": "Jack reflects that the girl lives and the perpetrator dies, accepting personal losses as a fair trade.",
+      "assessment": "This shows Jack's prioritization of the victim's safety over his own personal consequences, reflecting a sincere and selfless attitude, which is a positive indicator of warmth.",
+      "rating": 3.0
     },
     {
-      "Action": "Responds slowly and thoughtfully to Candace's hope that the events were just for one day, showing reflective engagement.",
-      "Warmth": 1,
-      "Chunk": 58
+      "trait": "warmth",
+      "action": "Jack tosses Candace a pair of keys and collaborates with her to exit the dangerous situation.",
+      "assessment": "Sharing resources and working cooperatively in a crisis shows trust and friendliness, indicating a moderate positive warmth.",
+      "rating": 2.0
     },
     {
-      "Action": "Expresses regret and self-criticism for killing his wife and others, acknowledging impatience.",
-      "Warmth": 1,
-      "Chunk": 59
+      "trait": "warmth",
+      "action": "Jack expresses frustration when confronted by a man running out towards them, saying 'You have got to be shitting me.'",
+      "assessment": "This expression of frustration is understandable in a tense situation but may come off as brusque or impatient, showing a slight negative indicator of warmth.",
+      "rating": -1.0
     },
     {
-      "Action": "Agrees to try the next town over with Candace, participates in lighthearted banter and smiles.",
-      "Warmth": 1,
-      "Chunk": 59
+      "trait": "competence",
+      "action": "I got to the house and opened the gate to the backyard, gun drawn.",
+      "assessment": "This shows Jack's readiness and tactical approach to entering a potentially dangerous situation, indicating competence in handling threats.",
+      "rating": 2.0
     },
     {
-      "Action": "Withdraws and becomes unresponsive while seriously wounded without engaging Candace's attempts to comfort him.",
-      "Warmth": 0,
-      "Chunk": 59
+      "trait": "competence",
+      "action": "I hugged the wall and turned the corner to see the perp on top of the woman.",
+      "assessment": "Using cover and caution to approach the suspect demonstrates situational awareness and tactical skill.",
+      "rating": 2.0
     },
     {
-      "Action": "Expresses regret over killing people out of impatience rather than necessity, showing thoughtful reflection.",
-      "Competence": 1,
-      "Chunk": 59
+      "trait": "competence",
+      "action": "I grabbed the perp and pulled him off the woman, then beat his face in with my bare hands, killing him.",
+      "assessment": "While effective in neutralizing the threat, the use of excessive force and losing control could be seen as a lack of professional restraint, though it reflects determination and physical capability.",
+      "rating": 1.0
     },
     {
-      "Action": "Thinks about the situation and suggests moving to a different town potentially unaffected by the disaster.",
-      "Competence": 1,
-      "Chunk": 59
+      "trait": "competence",
+      "action": "I think we have enough keys. Let’s get to the garage.",
+      "assessment": "Shows decisiveness and focus on the objective, indicating competent leadership and decision-making under pressure.",
+      "rating": 2.0
     },
     {
-      "Action": "Draws something on the car window, appears distracted or preoccupied.",
-      "Competence": 0,
-      "Chunk": 59
+      "trait": "competence",
+      "action": "Reacting to the man running out and the three crazies from the stairs by quickly assessing the threat and preparing to respond.",
+      "assessment": "Demonstrates alertness and quick situational assessment, important aspects of competence in dangerous situations.",
+      "rating": 2.0
     },
     {
-      "Action": "Loses consciousness due to injury and is unresponsive, failing to take care of himself.",
-      "Competence": -1,
-      "Chunk": 59
-    }
-  ],
-  "Jack ": [
+      "trait": "warmth",
+      "action": "Tells Candace to run through the door to escape the crazies.",
+      "assessment": "Jack shows concern for Candace's safety by urging her to run and escape danger.",
+      "rating": 3.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Knocks over things in his path to slow down the crazies chasing them.",
+      "assessment": "Jack is actively trying to protect both himself and Candace by creating obstacles for their pursuers, showing resourcefulness and care.",
+      "rating": 2.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Sprays mace at the crazies to stop them from following.",
+      "assessment": "Using mace to protect themselves indicates Jack's willingness to defend Candace and himself from harm, demonstrating protective behavior.",
+      "rating": 2.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Encourages Candace to hit car clickers to create noise and confuse the crazies.",
+      "assessment": "Jack collaborates with Candace to use their environment to their advantage, showing teamwork and concern for their safety.",
+      "rating": 2.0
+    },
+    {
+      "trait": "competence",
+      "action": "Commands Candace to run through the door and leads her while being chased by three crazies.",
+      "assessment": "Jack shows quick thinking and leadership by directing Candace to safety and taking initiative to escape.",
+      "rating": 2.0
+    },
+    {
+      "trait": "competence",
+      "action": "Knocks over objects to slow down pursuers, though it doesn't work.",
+      "assessment": "This shows Jack attempts to use his environment strategically, indicating some tactical thinking, but the attempt is ineffective.",
+      "rating": 1.0
+    },
+    {
+      "trait": "competence",
+      "action": "Uses mace to stop the crazies temporarily, causing them to shield their faces and pause.",
+      "assessment": "Jack demonstrates resourcefulness and preparedness by using mace effectively to create a momentary barrier.",
+      "rating": 3.0
+    },
+    {
+      "trait": "competence",
+      "action": "Leads Candace into a parking garage and instructs her to hit car clickers to set off alarms and confuse pursuers.",
+      "assessment": "Jack shows cleverness and situational awareness by using car alarms as a distraction, successfully confusing the crazies.",
+      "rating": 3.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Tries to devise a plan to help Candace when she is captured by the crazies.",
+      "assessment": "Jack's attempt to think of a plan to rescue Candace shows concern and protective instincts, indicating some level of warmth and care for others.",
+      "rating": 2.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Shakes his head in disapproval as the crazies approach the car.",
+      "assessment": "This non-verbal reaction suggests Jack's disapproval of the crazies' behavior and empathy towards Candace's danger, reflecting his good-natured and protective side.",
+      "rating": 2.0
+    },
+    {
+      "trait": "competence",
+      "action": "Jack is trying to devise some sort of plan as he surveys the situation where Candace is captured by the crazies.",
+      "assessment": "This shows Jack's ability to stay calm under pressure and think strategically in a tense and dangerous situation, indicating a competent mindset.",
+      "rating": 2.0
+    },
+    {
+      "trait": "competence",
+      "action": "Jack is about to move out from behind the car after Candace is grabbed by the crazies.",
+      "assessment": "This suggests Jack is ready to take action and confront the threat, showing confidence and decisiveness, which are positive indicators of competence.",
+      "rating": 2.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Hugs Staircase Crazy #4 and then kills him by stabbing repeatedly.",
+      "assessment": "This action is violent and betrays a lack of empathy or kindness, indicating a very low level of warmth.",
+      "rating": -3.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Watches as Candace is threatened and calls for his help.",
+      "assessment": "Although Jack is present during Candace's distress and is holding a knife, there is no indication he intervenes to help her in this excerpt, showing a lack of protective or warm behavior.",
+      "rating": -2.0
+    },
+    {
+      "trait": "competence",
+      "action": "He hugs Staircase Crazy #4 and repeatedly stabs him with a knife, killing him quickly.",
+      "assessment": "This action shows Jack's decisiveness and lethal skill in close combat, indicating a high level of competence in violent confrontation.",
+      "rating": 3.0
+    },
+    {
+      "trait": "competence",
+      "action": "Jack watches the interaction between Staircase Crazy #2 and #3 closely, holding his knife tightly and waiting for an opportunity.",
+      "assessment": "This demonstrates Jack's situational awareness and patience, suggesting he is calculating and confident in his approach rather than rushing in recklessly.",
+      "rating": 2.0
+    },
+    {
+      "trait": "competence",
+      "action": "Jack emerges from behind the car and starts walking towards Candace while she is threatened by Staircase Crazy #2.",
+      "assessment": "This shows Jack's courage and willingness to intervene in a dangerous situation, implying confidence and readiness to act under pressure.",
+      "rating": 2.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Jack slowly approaches Staircase Crazy #2 with a knife to protect Candace.",
+      "assessment": "Jack's action to protect Candace from harm shows a protective and caring nature, indicating warmth.",
+      "rating": 2.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Jack acknowledges Candace's help by saying 'No way. You saved me twice.'",
+      "assessment": "Jack's recognition and appreciation of Candace's help demonstrates sincerity and gratitude, positive indicators of warmth.",
+      "rating": 2.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Jack offers to drive the car, mentioning he was a cop and can get them there faster.",
+      "assessment": "Jack's willingness to take responsibility and help Candace shows reliability and a cooperative attitude, reflecting warmth.",
+      "rating": 1.0
+    },
+    {
+      "trait": "competence",
+      "action": "Sneaks up behind Staircase Crazy #2 while he is stabbing Staircase Crazy #3 and kills him by slicing his neck.",
+      "assessment": "This action shows Jack's tactical awareness, stealth, and ability to act decisively under pressure, indicating high competence in combat situations.",
+      "rating": 3.0
+    },
+    {
+      "trait": "competence",
+      "action": "Grabs the knife from the dead Staircase Crazy #2 and puts it in his pocket.",
+      "assessment": "This shows Jack's practical thinking and preparedness, ensuring he is armed for potential further conflict, reflecting competence.",
+      "rating": 2.0
+    },
+    {
+      "trait": "competence",
+      "action": "Offers to drive the car and confidently states he was a cop and will get them there faster.",
+      "assessment": "This indicates Jack's confidence in his driving skills and leadership in taking control of the situation, demonstrating competence.",
+      "rating": 2.0
+    },
+    {
+      "trait": "competence",
+      "action": "Catches the keys thrown by Candace and drives the car out of the parking lot, even though he runs over a dead body.",
+      "assessment": "Jack's ability to quickly take control and drive away under stressful conditions shows practical competence, though running over a body may indicate a slight lack of caution or situational awareness.",
+      "rating": 1.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Plans to pick up his daughter Kendra and find a safe place for them to wait out the crisis.",
+      "assessment": "Jack's concern for his daughter's safety and his proactive planning to protect her and Candace show care and responsibility, indicating warmth.",
+      "rating": 2.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses hope that there is a safe zone and a way to survive the chaos.",
+      "assessment": "His hopefulness and determination to find safety for his family reflect a positive and sincere attitude, which is a sign of warmth.",
+      "rating": 1.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Swerves the car multiple times to avoid accidents and protect himself and Candace.",
+      "assessment": "His quick reactions to protect himself and Candace demonstrate attentiveness and care, which are aspects of warmth.",
+      "rating": 2.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Cuts off Candace when she voices concerns about their plan.",
+      "assessment": "Interrupting Candace shows a lack of tolerance and openness to her feelings, which negatively impacts the perception of warmth.",
+      "rating": -1.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Observes that his house is boarded up and surrounded, and immediately worries about his daughter being inside.",
+      "assessment": "His immediate concern for his daughter's safety shows genuine care and emotional warmth.",
+      "rating": 3.0
+    },
+    {
+      "trait": "competence",
+      "action": "Swerves the car multiple times to avoid hitting other cars in chaotic traffic.",
+      "assessment": "This shows Jack's driving skills and ability to handle stressful and dangerous situations on the road, indicating good situational awareness and control.",
+      "rating": 2.0
+    },
+    {
+      "trait": "competence",
+      "action": "Plans to pick up Kendra and then leave town to find a safe zone, considering multiple fallback locations like the desert or mountains.",
+      "assessment": "This demonstrates Jack's strategic thinking and preparedness in a crisis, showing foresight and adaptability.",
+      "rating": 3.0
+    },
+    {
+      "trait": "competence",
+      "action": "Stops the car abruptly at his house despite the danger outside, noting the boarded windows and people banging on doors.",
+      "assessment": "This shows Jack's cautiousness and awareness of his surroundings, though it also suggests a willingness to confront danger directly, which could be risky.",
+      "rating": 1.0
+    },
+    {
+      "trait": "competence",
+      "action": "Suggests sneaking around the back of the house to avoid the surrounded front.",
+      "assessment": "This indicates tactical thinking and an attempt to avoid direct confrontation, reflecting practical problem-solving skills.",
+      "rating": 2.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Calls out for his daughter Kendra despite the danger.",
+      "assessment": "Jack's immediate concern for his daughter shows his caring and protective nature, indicating warmth.",
+      "rating": 3.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Moves cautiously with Candace to avoid detection while trying to reach his house and check on his friends inside.",
+      "assessment": "His careful approach to protect himself and others shows responsibility and consideration, reflecting positive warmth.",
+      "rating": 2.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Observes that his friends Quentin and Joe are alive inside the house and seems relieved.",
+      "assessment": "Showing concern and relief for his friends' wellbeing demonstrates his loyalty and sincerity.",
+      "rating": 3.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Approaches the homeless man holding a gun cautiously but without aggression.",
+      "assessment": "Jack's cautious but non-hostile approach suggests he tries to avoid unnecessary conflict, indicating tolerance and good-natured behavior.",
+      "rating": 2.0
+    },
+    {
+      "trait": "competence",
+      "action": "Jack and Candace get out of the car slowly and approach the house surrounded by chaos, with Jack keeping his eyes continuously shifting to monitor the situation.",
+      "assessment": "This shows Jack's cautious and aware approach in a dangerous situation, indicating situational awareness and careful planning.",
+      "rating": 2.0
+    },
+    {
+      "trait": "competence",
+      "action": "Jack notices chalk drawings of the number 13 on the ground and uses a crack in the boarded-up window to observe his friends inside the house.",
+      "assessment": "This demonstrates Jack's observational skills and ability to gather intelligence without exposing himself to danger.",
+      "rating": 2.0
+    },
+    {
+      "trait": "competence",
+      "action": "Jack quickly ducks down and walks around the back of the house, opening a small gate and entering the backyard with his knife drawn.",
+      "assessment": "This action shows Jack's stealth, readiness for confrontation, and tactical movement in a hostile environment.",
+      "rating": 3.0
+    },
+    {
+      "trait": "competence",
+      "action": "Jack approaches a young homeless man holding a gun cautiously, indicating awareness of potential threats.",
+      "assessment": "This cautious approach reflects Jack's prudence and ability to assess threats before engaging, a sign of competence in dangerous situations.",
+      "rating": 2.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Jack holds his knife tightly and raises it when confronted by Homeless Man Jake, showing caution and self-defense.",
+      "assessment": "Jack's action shows a protective instinct and wariness rather than hostility, indicating a cautious but not aggressive nature.",
+      "rating": 1.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Jack pauses before using the key to open the back door of the house.",
+      "assessment": "This hesitation suggests Jack is thoughtful and careful, possibly considering the consequences of his actions, which can be a sign of sincerity and respect for his environment.",
+      "rating": 1.0
+    },
+    {
+      "trait": "competence",
+      "action": "Holds his knife tightly and raises it when confronted by Homeless Man Jake.",
+      "assessment": "This shows Jack's readiness to defend himself and his ability to respond to threats with appropriate caution and preparedness.",
+      "rating": 2.0
+    },
+    {
+      "trait": "competence",
+      "action": "Questions Homeless Man Jake about the situation and the need to kill the gatekeeper.",
+      "assessment": "Jack demonstrates critical thinking and attempts to understand the situation before acting, indicating intelligence and cautiousness.",
+      "rating": 2.0
+    },
+    {
+      "trait": "competence",
+      "action": "Uses a hidden key concealed in a disguised rock to unlock the back door of the house.",
+      "assessment": "This action shows Jack's resourcefulness and knowledge of secret mechanisms, reflecting skill and preparedness.",
+      "rating": 3.0
+    },
+    {
+      "trait": "competence",
+      "action": "Pauses before using the key to open the back door.",
+      "assessment": "This hesitation could indicate caution and thoughtfulness, but also slight uncertainty or apprehension in a tense moment.",
+      "rating": 1.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Smiles back at Candace after a lingering stare and wink.",
+      "assessment": "Jack's smile in response to Candace's friendly gesture indicates a warm and friendly interaction.",
+      "rating": 2.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Enters the house cautiously with Candace, aware of the dangerous situation outside.",
+      "assessment": "Jack shows care and concern by being cautious and attentive to the environment, which reflects responsibility and consideration for others' safety.",
+      "rating": 1.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Approaches Joe and Quentin with weapons ready but does not immediately engage aggressively.",
+      "assessment": "Jack's readiness combined with restraint suggests he is protective but not unnecessarily hostile, indicating a balanced and thoughtful approach to a tense situation.",
+      "rating": 1.0
+    },
+    {
+      "trait": "competence",
+      "action": "Takes the key from the bottom of the rock and uses it to open the back door of the house.",
+      "assessment": "This action shows Jack's resourcefulness and ability to find and use a hidden key, indicating practical problem-solving skills.",
+      "rating": 2.0
+    },
+    {
+      "trait": "competence",
+      "action": "Responds calmly to Candace's question with 'Yeah, Everything’s fine' and shares a confident smile and lingering stare with her.",
+      "assessment": "Jack's calm and confident demeanor in a tense situation suggests emotional control and social confidence, which are aspects of competence.",
+      "rating": 2.0
+    },
+    {
+      "trait": "competence",
+      "action": "Enters the house with Candace and approaches Joe and Quentin with weapons at the ready, assessing the situation carefully.",
+      "assessment": "Jack's cautious approach and readiness to respond to potential threats demonstrate situational awareness and preparedness, indicating competence.",
+      "rating": 2.0
+    },
+    {
+      "trait": "competence",
+      "action": "Despite Candace's warning that Joe and Quentin are affected, Jack assesses that 'They look okay' and proceeds carefully.",
+      "assessment": "Jack's judgment here shows confidence but may underestimate the risk, suggesting a slight overconfidence or lack of full situational understanding.",
+      "rating": 0.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Asks Quentin to put down the gun pointed at Candace.",
+      "assessment": "Jack tries to de-escalate a potentially violent situation by calmly requesting Quentin to lower his weapon, showing concern for Candace's safety.",
+      "rating": 2.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Shows concern for Joe's health when Joe starts coughing.",
+      "assessment": "Jack's immediate concern for Joe's well-being indicates empathy and care for others.",
+      "rating": 2.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Questions Quentin about the strange situation and the markings on the walls.",
+      "assessment": "Jack's curiosity and attempt to understand the situation suggest a sincere and engaged attitude, though this is more neutral in warmth.",
+      "rating": 1.0
+    },
+    {
+      "trait": "competence",
+      "action": "Calmly asks Quentin to put down the gun instead of reacting with panic or aggression.",
+      "assessment": "This shows Jack's ability to manage a tense situation with composure and verbal negotiation skills.",
+      "rating": 2.0
+    },
+    {
+      "trait": "competence",
+      "action": "Confidently states that the house is his and that he entered through the back door, asserting control over the situation.",
+      "assessment": "This indicates Jack's confidence and knowledge of his environment, which are signs of competence.",
+      "rating": 2.0
+    },
+    {
+      "trait": "competence",
+      "action": "Questions the validity of Quentin and Joe's war stories, showing critical thinking and skepticism.",
+      "assessment": "This reflects Jack's intelligence and ability to assess information critically rather than accepting it at face value.",
+      "rating": 2.0
+    },
+    {
+      "trait": "competence",
+      "action": "Surveys the room and notices the 13’s painted in blood on the walls, indicating attentiveness to detail.",
+      "assessment": "This shows Jack's observational skills and awareness of his surroundings, important aspects of competence.",
+      "rating": 2.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Asks if everyone is okay after Joe starts coughing and Quentin comforts him.",
+      "assessment": "Shows concern for others' well-being, indicating a caring and attentive nature.",
+      "rating": 2.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses urgency and distress about finding his daughter who ran away and caused harm.",
+      "assessment": "His emotional reaction reveals deep care and love for his daughter, showing sincere familial warmth.",
+      "rating": 3.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Pushes Candace away when she tries to comfort him during his emotional breakdown.",
+      "assessment": "While his reaction is emotionally intense, pushing away comfort may indicate difficulty accepting support, slightly reducing perceived warmth.",
+      "rating": 0.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Snatches Quentin's gun away when Quentin threatens him and others, then points the gun at Quentin to calm him down.",
+      "assessment": "Taking control of a dangerous situation to protect others shows responsibility and protective instincts, reflecting warmth through safeguarding others.",
+      "rating": 2.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Threatens to kill Quentin if he does not put the gun down during a tense confrontation.",
+      "assessment": "Though threatening violence is negative, in context it is a defensive act to protect himself and others, showing a complex but protective warmth.",
+      "rating": 1.0
+    },
+    {
+      "trait": "competence",
+      "action": "Jack reaches out quickly and snatches Quentin’s gun away from him.",
+      "assessment": "This action shows Jack's quick reflexes and decisiveness in a tense and dangerous situation, indicating a high level of competence.",
+      "rating": 3.0
+    },
+    {
+      "trait": "competence",
+      "action": "Jack points the gun at Quentin and demands he calm down.",
+      "assessment": "Jack demonstrates control and assertiveness, managing to take charge of a volatile situation, which reflects strong competence.",
+      "rating": 2.0
+    },
+    {
+      "trait": "competence",
+      "action": "Jack threatens Quentin that he will have to kill him if he doesn't put the gun down.",
+      "assessment": "While this shows Jack's willingness to take serious action to protect himself and others, it also indicates a high-stakes, possibly desperate approach rather than calm problem-solving, suggesting moderate competence under pressure.",
+      "rating": 1.0
+    },
+    {
+      "trait": "competence",
+      "action": "Jack pushes Candace off when she tries to comfort him and shows emotional distress about his daughter.",
+      "assessment": "This emotional reaction and difficulty managing his feelings in a crisis moment suggest a temporary lapse in emotional control, which can impair competence in leadership or decision-making.",
+      "rating": -1.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Shoots intruders to protect himself and others in the house.",
+      "assessment": "Jack is engaged in a violent confrontation, shooting intruders to defend the house and people inside. While this is a defensive action, it is aggressive and involves lethal force, showing a survival instinct rather than warmth.",
+      "rating": -1.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Warns Candace not to close the door because it is too dangerous.",
+      "assessment": "Jack shows concern for Candace's safety by advising her not to take a dangerous action, indicating some care for others' well-being.",
+      "rating": 2.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Offers to lay down cover fire to protect Candace while she closes the door.",
+      "assessment": "By providing cover fire, Jack is actively trying to protect Candace, demonstrating protective and cooperative behavior.",
+      "rating": 2.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Calls Candace back when he runs out of bullets to prevent her from being exposed to danger.",
+      "assessment": "Jack's call for Candace to retreat shows concern for her safety, reflecting a protective and caring attitude.",
+      "rating": 3.0
+    },
+    {
+      "trait": "competence",
+      "action": "Jack shoots one of the intruders in the face as they charge in through the front door.",
+      "assessment": "This action shows Jack's ability to quickly respond to a sudden threat with accurate shooting, indicating skill and composure under pressure.",
+      "rating": 2.0
+    },
+    {
+      "trait": "competence",
+      "action": "Jack instructs to close the door and offers to lay down cover fire while Candace attempts to close it.",
+      "assessment": "Jack demonstrates situational awareness and tactical thinking by coordinating defense efforts and providing cover fire to protect an ally.",
+      "rating": 2.0
+    },
+    {
+      "trait": "competence",
+      "action": "Jack shoots another intruder in the face, effectively neutralizing the threat.",
+      "assessment": "This further confirms Jack's marksmanship and ability to handle multiple threats efficiently.",
+      "rating": 2.0
+    },
+    {
+      "trait": "competence",
+      "action": "Jack runs out of bullets and calls Candace back from the door, then unloads the rest of his clip into a dead body.",
+      "assessment": "Running out of ammo during a firefight suggests a limitation in resource management or preparation, but calling Candace back shows concern for team safety. Shooting a dead body is unnecessary and may indicate stress or lack of discipline.",
+      "rating": -1.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Runs towards Candace to protect her from the approaching crazy person.",
+      "assessment": "Jack shows concern and protective behavior towards Candace, indicating care and a willingness to help others in danger.",
+      "rating": 2.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Commands Candace to duck and throws his knife to stop the attacker, successfully protecting her.",
+      "assessment": "Jack's quick thinking and protective action demonstrate his sincerity and willingness to safeguard others, reflecting warmth.",
+      "rating": 3.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Encourages Candace to push furniture to block the door and urges Quentin to help as well.",
+      "assessment": "Jack is cooperative and tries to involve others in a collective effort to stay safe, showing teamwork and concern for group welfare.",
+      "rating": 2.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Shows frustration and urgency when Quentin does not respond to calls for help.",
+      "assessment": "While Jack is frustrated, his concern for Quentin's involvement shows he values his companions and wants to support each other, indicating warmth despite stress.",
+      "rating": 1.0
+    },
+    {
+      "trait": "competence",
+      "action": "Throws a knife accurately to hit a crazy person in the head, lodging it in their brain.",
+      "assessment": "This action demonstrates Jack's skill and precision under pressure, indicating a high level of competence in combat situations.",
+      "rating": 3.0
+    },
+    {
+      "trait": "competence",
+      "action": "Kicks the front door closed and quickly identifies furniture to barricade the door against approaching enemies.",
+      "assessment": "Jack shows situational awareness and quick problem-solving skills, reflecting competence in crisis management.",
+      "rating": 2.0
+    },
+    {
+      "trait": "competence",
+      "action": "Urgently commands Candace and Quentin to help barricade the door and pushes furniture himself.",
+      "assessment": "Jack takes initiative and leadership in a dangerous situation, showing confidence and capability.",
+      "rating": 2.0
+    },
+    {
+      "trait": "competence",
+      "action": "Repeatedly calls for Quentin's help despite no response, showing persistence.",
+      "assessment": "While persistence is positive, failure to assess Quentin's condition earlier may indicate a slight lapse in judgment or situational awareness.",
+      "rating": 0.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Jack refuses to leave Joe behind despite Joe's injuries and plea to be left.",
+      "assessment": "Jack's refusal to abandon an injured friend shows loyalty and compassion, indicating warmth.",
+      "rating": 3.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Jack tries to stop Quentin from killing Joe and later tries to de-escalate the situation by telling Quentin to put down the knife and saying 'It doesn't have to be like this.'",
+      "assessment": "Jack's attempts to prevent violence and his efforts to reason with Quentin demonstrate a desire for peace and care for others' wellbeing, reflecting warmth.",
+      "rating": 3.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Jack apologizes to Quentin after being slashed on the arm, saying 'I'm sorry about this, Quentin.'",
+      "assessment": "Apologizing even when injured suggests Jack's sincerity and attempts to maintain civility, which are positive indicators of warmth.",
+      "rating": 2.0
+    },
+    {
+      "trait": "competence",
+      "action": "Jack and Candace move furniture in front of the door just in time to block the crazy people from getting in.",
+      "assessment": "This action shows quick thinking and effective teamwork under pressure, indicating good situational awareness and problem-solving skills.",
+      "rating": 2.0
+    },
+    {
+      "trait": "competence",
+      "action": "Jack looks for Quentin after the door is secured, calling out to him repeatedly.",
+      "assessment": "This shows Jack's attentiveness and concern for his group members, reflecting responsible leadership and awareness.",
+      "rating": 1.0
+    },
+    {
+      "trait": "competence",
+      "action": "Jack rushes to Joe's aid behind the couch and attempts to put pressure on Joe's bleeding wound.",
+      "assessment": "This demonstrates Jack's ability to respond quickly to emergencies and provide first aid, indicating practical competence and calmness under stress.",
+      "rating": 2.0
+    },
+    {
+      "trait": "competence",
+      "action": "Jack lunges at Quentin after Quentin kills Joe, but is slashed on the arm and cradles his wound.",
+      "assessment": "While Jack shows courage and willingness to confront danger, his attack results in injury, suggesting some risk-taking but limited effectiveness in combat here.",
+      "rating": 0.0
+    },
+    {
+      "trait": "competence",
+      "action": "Jack takes out his knife and advances towards Quentin, commanding him to put down the knife.",
+      "assessment": "This shows Jack's assertiveness and readiness to defend himself and others, as well as his attempt to de-escalate the situation verbally, indicating confidence and tactical awareness.",
+      "rating": 2.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Tells Quentin 'It doesn’t have to be like this' trying to de-escalate the situation.",
+      "assessment": "Jack attempts to calm Quentin and avoid violence, showing a desire for peace and understanding.",
+      "rating": 2.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Calls out to Kendra 'Kendra, baby it’s going to be okay' when she appears at the window.",
+      "assessment": "Jack shows affection and concern for Kendra, indicating warmth and care for his daughter.",
+      "rating": 3.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses grief and anger after Quentin kills Kendra, saying 'You killed my fucking daughter you bastard!'",
+      "assessment": "Jack's reaction shows deep emotional attachment and protective feelings towards his daughter, reflecting warmth.",
+      "rating": 3.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Attempts to confront Quentin despite the danger, running at him after Kendra is shot.",
+      "assessment": "Jack's willingness to face danger to confront Quentin shows courage and protective instincts, which can be linked to warmth in terms of loyalty and care.",
+      "rating": 2.0
+    },
+    {
+      "trait": "competence",
+      "action": "Tries to de-escalate the situation by telling Quentin to put the knife down and warning he will be forced to take him out.",
+      "assessment": "This shows Jack attempts to handle the conflict with verbal commands first, indicating some level of confidence and control.",
+      "rating": 1.0
+    },
+    {
+      "trait": "competence",
+      "action": "Freezes when Kendra appears at the window and when Quentin points a gun at him.",
+      "assessment": "Freezing in critical moments suggests hesitation and lack of immediate tactical response, indicating lower competence in high-pressure situations.",
+      "rating": -2.0
+    },
+    {
+      "trait": "competence",
+      "action": "Walks towards Quentin after Kendra is shot, despite Quentin pointing a gun at him.",
+      "assessment": "This action shows courage and determination but may also reflect recklessness or poor tactical judgment, which can be a negative indicator of competence.",
+      "rating": 0.0
+    },
+    {
+      "trait": "competence",
+      "action": "Expresses strong emotional reactions (anger, grief) openly during confrontation.",
+      "assessment": "While emotional expression is human, it may impair clear thinking and strategic behavior in tense situations, suggesting a decrease in competent behavior here.",
+      "rating": -1.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Jack tells Quentin to leave Candace alone and tries to protect her from Quentin's attack.",
+      "assessment": "Jack shows concern and protective behavior towards Candace, indicating care and a willingness to defend others from harm.",
+      "rating": 3.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Jack asks Candace if she is okay after the attack and shows concern for her well-being.",
+      "assessment": "This demonstrates Jack's empathy and sincere care for Candace's condition, reflecting warmth and kindness.",
+      "rating": 3.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Jack struggles to get up and fight Quentin to stop him from hurting Candace further despite being injured.",
+      "assessment": "Jack's determination to protect Candace despite his own pain shows courage and a strong protective instinct, which are positive indicators of warmth.",
+      "rating": 3.0
+    },
+    {
+      "trait": "competence",
+      "action": "Swings his knife at Quentin after being tackled to the ground.",
+      "assessment": "Jack attempts to defend himself immediately, showing readiness and some skill in combat, though his knife is knocked away, indicating limited effectiveness in this instance.",
+      "rating": 1.0
+    },
+    {
+      "trait": "competence",
+      "action": "Tries to get up and intervene when Quentin is attacking Candace, despite being wounded and weak.",
+      "assessment": "Jack demonstrates determination and resilience, pushing through pain and weakness to protect someone else, which reflects mental and physical competence under stress.",
+      "rating": 2.0
+    },
+    {
+      "trait": "competence",
+      "action": "Throws Quentin off Candace and quickly gains a dominant position on top of him, preparing to punch.",
+      "assessment": "Jack shows tactical awareness and fighting skill by reversing the situation and gaining control over his opponent, indicating good combat competence.",
+      "rating": 3.0
+    },
+    {
+      "trait": "competence",
+      "action": "Screams in pain when Quentin digs a finger into his wound, losing composure momentarily.",
+      "assessment": "While understandable due to pain, this reaction shows a vulnerability that temporarily undermines Jack's control and composure in combat.",
+      "rating": -1.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Jack swats Quentin’s hand away from his wound and then punches Quentin repeatedly, even after Quentin is lifeless.",
+      "assessment": "Jack's violent reaction shows intense anger and loss of control, which reflects negatively on his warmth as he is unable to show restraint or compassion in this moment.",
+      "rating": -2.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Jack allows Candace to help him stand and accepts her support despite his weakness.",
+      "assessment": "Accepting help and showing vulnerability indicates trust and a friendly connection, which are positive indicators of warmth.",
+      "rating": 2.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Jack throws his arm around Candace as she helps him walk and instructs her to grab weapons for their protection.",
+      "assessment": "Jack's protective behavior and physical closeness to Candace demonstrate care and concern for her safety, reflecting warmth and sincerity.",
+      "rating": 2.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Jack reassures Candace after he falls, telling her he is fine and to focus on grabbing the weapons.",
+      "assessment": "Jack's reassurance shows consideration for Candace's feelings and attempts to prevent her worry, indicating a caring and trustworthy nature.",
+      "rating": 2.0
+    },
+    {
+      "trait": "competence",
+      "action": "Jack swats Quentin’s hand away from his wound and starts punching Quentin repeatedly with increasing force, continuing even after Quentin is dead.",
+      "assessment": "This shows Jack's physical strength, aggression, and determination, indicating a high level of physical capability and combat skill, though his control is compromised by rage.",
+      "rating": 2.0
+    },
+    {
+      "trait": "competence",
+      "action": "Jack calms himself down after Candace tells him Quentin is dead and looks back at the body.",
+      "assessment": "This suggests Jack has some ability to regain composure after intense emotional outbursts, reflecting mental resilience and situational awareness.",
+      "rating": 1.0
+    },
+    {
+      "trait": "competence",
+      "action": "Jack tries to stand up despite being injured and groans in pain, then throws his arm around Candace to walk, noticing weapons on the ground and instructing Candace to grab them.",
+      "assessment": "This demonstrates Jack's situational awareness, leadership, and determination to continue fighting despite his weakened state, indicating competence under pressure.",
+      "rating": 2.0
+    },
+    {
+      "trait": "competence",
+      "action": "Jack falls back to the ground due to weakness and blood loss but insists he is fine and tells Candace to grab the weapons.",
+      "assessment": "While Jack shows determination, his physical incapacity limits his effectiveness, revealing a vulnerability that reduces his overall competence in this moment.",
+      "rating": 0.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Allows Candace to help him up and accepts her support despite his pain and weakness.",
+      "assessment": "Jack shows trust and acceptance of help from Candace, indicating a warm and sincere relationship.",
+      "rating": 2.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Offers the car keys to Candace and acknowledges he is not in shape to drive.",
+      "assessment": "Jack demonstrates trust and consideration for Candace's safety, showing good-natured and responsible behavior.",
+      "rating": 3.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Tries to laugh with Candace despite his pain.",
+      "assessment": "His attempt to share a light moment despite discomfort shows friendliness and a desire to maintain positive connection.",
+      "rating": 2.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Tells Candace she should leave him behind because he is slowing her down.",
+      "assessment": "This shows selflessness but also a lack of confidence in his value to the group, which may reflect low self-esteem rather than warmth.",
+      "rating": 0.0
+    },
+    {
+      "trait": "competence",
+      "action": "Despite being injured and slow, Jack remains aware of the danger as he looks at the front door where the attackers are trying to break in.",
+      "assessment": "This shows situational awareness and presence of mind even under physical distress, indicating a competent mindset.",
+      "rating": 2.0
+    },
+    {
+      "trait": "competence",
+      "action": "Jack tries to laugh despite his pain and groans instead, showing he attempts to maintain morale.",
+      "assessment": "This suggests emotional resilience and an effort to stay positive, which is a subtle indicator of competence in stressful situations.",
+      "rating": 1.0
+    },
+    {
+      "trait": "competence",
+      "action": "Jack acknowledges he is slowing Candace down and suggests she leave him behind.",
+      "assessment": "This shows self-awareness but also a lack of confidence in his current capability to contribute effectively, which slightly lowers the competence rating.",
+      "rating": -1.0
+    },
+    {
+      "trait": "competence",
+      "action": "Jack reaches into his pocket and gives Candace the car keys, accepting that he cannot drive in his condition.",
+      "assessment": "This demonstrates practical decision-making and trust in his partner, reflecting competent judgment under pressure.",
+      "rating": 2.0
+    },
+    {
+      "trait": "competence",
+      "action": "Jack initially refuses help getting into the car but eventually accepts it after Candace insists.",
+      "assessment": "This shows some stubbornness or pride that could hinder effective cooperation, slightly detracting from competence, but he ultimately cooperates.",
+      "rating": 0.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Encourages Candace to keep trying to start the car despite the danger approaching.",
+      "assessment": "Jack shows support and calmness under pressure, encouraging Candace to persist, which reflects a caring and cooperative attitude.",
+      "rating": 2.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses concern for Candace's wellbeing by responding to her laughter and asking if she is okay.",
+      "assessment": "Jack's concern for Candace's health and wellbeing indicates attentiveness and kindness.",
+      "rating": 2.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Reflects on the life he left behind with a sense of nostalgia and emotional depth.",
+      "assessment": "This internal reflection shows Jack's sincerity and emotional openness, traits associated with warmth.",
+      "rating": 1.0
+    },
+    {
+      "trait": "competence",
+      "action": "Encourages Candace to keep trying to start the car despite initial failure.",
+      "assessment": "Jack shows presence of mind and persistence under pressure, helping to keep Candace focused during a critical moment.",
+      "rating": 2.0
+    },
+    {
+      "trait": "competence",
+      "action": "Observes the approaching threat and urges immediate action.",
+      "assessment": "Demonstrates situational awareness and urgency, indicating good perception and quick thinking.",
+      "rating": 2.0
+    },
+    {
+      "trait": "competence",
+      "action": "Lays down in the back of the car while Candace attempts to start it.",
+      "assessment": "This could suggest a lack of direct involvement or passivity in a critical moment, potentially indicating lower initiative or physical capability.",
+      "rating": -1.0
+    },
+    {
+      "trait": "competence",
+      "action": "Reflects thoughtfully on the situation and the possibility of change after escaping.",
+      "assessment": "Shows cognitive engagement and emotional processing, indicating mental resilience and intelligence.",
+      "rating": 1.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses regret and hope that the tragic events were not permanent, showing concern for the lives lost.",
+      "assessment": "Jack's hope that the deaths were not permanent indicates a caring and remorseful nature, reflecting warmth.",
+      "rating": 2.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Admits impatience in the situation leading to violence, acknowledging a fault.",
+      "assessment": "Acknowledging his impatience and the consequences shows self-awareness and sincerity, which are aspects of warmth.",
+      "rating": 2.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Engages in light-hearted conversation with Candace about going to the next town and the possibility of leap year babies.",
+      "assessment": "This shows Jack's ability to maintain a friendly and hopeful demeanor despite difficult circumstances, indicating warmth.",
+      "rating": 2.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Draws something on the car window and smiles faintly while staring out the window.",
+      "assessment": "This subtle action may indicate a moment of vulnerability and a gentle, reflective side, suggesting warmth.",
+      "rating": 1.0
+    },
+    {
+      "trait": "warmth",
+      "action": "Does not respond or wake up when Candace calls and shakes him after he is injured.",
+      "assessment": "While this is due to injury rather than behavior, his inability to respond limits any display of warmth in this moment.",
+      "rating": 0.0
+    },
     {
-      "Action": "Calms himself down despite panic and moves cautiously toward the door.",
-      "Competence": 1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Reflects on the consequences of his actions, expressing regret about potentially killing people for no reason if they were going to be okay the next day.",
+      "assessment": "This shows Jack's capacity for thoughtful reflection and moral reasoning, indicating a level of intelligence and self-awareness.",
+      "rating": 2.0
     },
     {
-      "Action": "Turns the doorknob slowly despite unsure circumstances, showing initiative.",
-      "Competence": 1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Admits impatience as a factor in his decision to kill, rather than purely self-defense.",
+      "assessment": "This admission demonstrates honesty and insight into his own behavior, which are signs of emotional intelligence and competence.",
+      "rating": 2.0
     },
     {
-      "Action": "Tries to barricade himself when the door locks behind him, attempting to protect himself.",
-      "Competence": 1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Considers leaving the current location to find a safer place, suggesting moving to the next town over which might be unaffected.",
+      "assessment": "This shows practical thinking and problem-solving skills, indicating competence in assessing and responding to threats.",
+      "rating": 2.0
     },
     {
-      "Action": "Reacts with panic and slowly backs away from danger instead of quickly escaping or fighting.",
-      "Competence": 0,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Appears pale, clutching a stomach wound, breathing hard, and eventually becomes unresponsive in the back seat of the car.",
+      "assessment": "His physical condition severely limits his ability to act competently in this moment, showing vulnerability and incapacity due to injury.",
+      "rating": -2.0
     },
     {
-      "Action": "Fends off Candace with a stool initially before realizing she is not a threat, showing momentary mistrust but cautious behavior.",
-      "Competence": 0,
-      "Chunk": 19
+      "trait": "warmth",
+      "action": "A stick figure family drawn in blood behind Jack's head, depicting a man and a little girl.",
+      "assessment": "The drawing suggests Jack cared deeply about family, indicating a warm and loving nature despite the tragic context.",
+      "rating": 2.0
     },
     {
-      "Action": "Asks logical questions about the situation (about the dead boy and the chaos), showing analytical thinking.",
-      "Competence": 1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Is found unresponsive and without a pulse after being wounded.",
+      "assessment": "Jack's inability to respond or survive the wound indicates a lack of competence in this critical situation, though this may be due to circumstances beyond his control rather than personal failings.",
+      "rating": -2.0
     }
   ]
 }

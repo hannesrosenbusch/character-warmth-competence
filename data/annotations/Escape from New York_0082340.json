@@ -1,764 +1,1838 @@
 {
   "Snake Plissken": [
     {
-      "Action": "Gets off the bus calmly, looks around with composed demeanor despite being a prisoner.",
-      "Warmth": 0,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "S.D. 'Snake' Plissken gets off the bus, looks around, and is escorted by three guards into the base. He looks like the essence of cool, with a lost left eye and a two-day beard.",
+      "assessment": "This description emphasizes Snake's hardened, detached appearance and demeanor. There is no indication of friendly or warm behavior; rather, his look and the context suggest a guarded, possibly untrustworthy or unfriendly character. His non-action—no interaction with others or display of warmth—is notable here.",
+      "rating": -1,
+      "chunk": 2
     },
     {
-      "Action": "Maintains calm and cool demeanor despite being a high-risk prisoner escorted by guards.",
-      "Competence": 1,
-      "Chunk": 2
+      "trait": "competence",
+      "action": "S.D. 'Snake' Plissken gets off the bus, looks around, and is escorted by three guards into the base. He looks like the essence of cool.",
+      "assessment": "Although this excerpt shows no direct action by Snake, his calm demeanor and composed appearance upon arrival suggest confidence and self-assurance, which are subtle indicators of competence.",
+      "rating": 1,
+      "chunk": 2
     },
     {
-      "Action": "Stops when ordered, but responds with an impertinent glance indicating disregard for authority.",
-      "Warmth": 0,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "Not resisting while being escorted by guards and wearing handcuffs with a metal bar instead of links.",
+      "assessment": "Complying without resistance suggests a pragmatic attitude rather than hostility, but does not indicate warmth or friendliness.",
+      "rating": 0,
+      "chunk": 3
     },
     {
-      "Action": "Wears practical and tactical clothing suited to the environment (spandex/kevlar shirt, camouflage pants with many pockets), indicating preparedness and awareness.",
-      "Competence": 1,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "Directs an impertinent glance at a guard who tells him to hold.",
+      "assessment": "The impertinent glance shows defiance and a lack of respect or friendliness toward authority, indicating low warmth.",
+      "rating": -2,
+      "chunk": 3
     },
     {
-      "Action": "Carries handcuffs with straight metal bar instead of links, suggesting prior experience or adaptation to his constraints.",
-      "Competence": 1,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "Is unimpressed by the strict rules and heavy guard presence.",
+      "assessment": "His indifference to the environment and authority suggests emotional detachment and lack of engagement with others, which is a negative indicator for warmth.",
+      "rating": -1,
+      "chunk": 3
     },
     {
-      "Action": "Does not resist arrest but remains outwardly unimpressed and confident, indicating calmness and control under pressure.",
-      "Competence": 1,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Wears tactical clothing (black spandex/kevlar shirt, camouflage pants with many pockets) and a worn leather jacket, along with a unique handcuff design (straight metal bar instead of links).",
+      "assessment": "This choice of clothing and gear suggests practical preparation and familiarity with combat or survival situations, indicating competence in readiness and tactical awareness.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Exchanges an impertinent glance when ordered to stop, showing disregard or defiance toward authority, which could be seen as confident but risks provoking trouble.",
-      "Competence": 0,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Does not resist being handcuffed or escorted by guards, but remains unimpressed and maintains a cool demeanor.",
+      "assessment": "His calm acceptance of the situation without panic or rash behavior shows confidence and mental control, which are signs of competence in handling stressful or constrained circumstances.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "No direct action from Snake Plissken in this excerpt; others show caution and planning but Snake remains off-screen or inactive here.",
-      "Competence": 0,
-      "Chunk": 6
+      "trait": "competence",
+      "action": "Stops immediately when ordered by a guard and turns to give an impertinent glance.",
+      "assessment": "Stopping promptly on command shows discipline and situational awareness, but the impertinent glance suggests a rebellious attitude that could undermine cooperation; overall, this reflects confident control but potential friction with authority.",
+      "rating": 1,
+      "chunk": 3
     },
     {
-      "Action": "Calmly lights a cigarette with cuffed hands, showing no anxiety or fear while being interrogated.",
-      "Competence": 1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Observes the heavily guarded environment with a dismissive attitude ('Who cares').",
+      "assessment": "His disregard for the overwhelming security presence may indicate confidence and experience, but could also suggest underestimation of threats, which might be a slight negative for competence in risk assessment.",
+      "rating": 0,
+      "chunk": 3
     },
     {
-      "Action": "Interrupts and controls the conversation by asking 'President of what?' to regain power in negotiation.",
-      "Competence": 1,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Raises his cuffed hands silently to Hauk as if to say 'Take these off me, asshole,' but doesn't verbally protest.",
+      "assessment": "This non-verbal gesture shows a sardonic, somewhat defiant attitude rather than warmth; it lacks friendliness or sincerity.",
+      "rating": -1,
+      "chunk": 7
     },
     {
-      "Action": "Remains silent and cool when confronted aggressively by Hauk, refraining from immediately reacting or escalating tension.",
-      "Competence": 1,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Responds coolly and with calm detachment when Hauk reads his criminal record and threats.",
+      "assessment": "His indifferent and cool demeanor suggests emotional distance and lack of openness or trustworthiness.",
+      "rating": -2,
+      "chunk": 7
     },
     {
-      "Action": "Shows clear interest and motivation upon seeing the pardon offered, indicating ability to recognize and respond to incentives smartly.",
-      "Competence": 1,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Asks 'Who are you?' after being addressed by Hauk.",
+      "assessment": "This question is neutral and pragmatic, showing curiosity but no warmth or friendliness.",
+      "rating": 0,
+      "chunk": 7
     },
     {
-      "Action": "Insists on maintaining control over the negotiation and refuses to be pressured, turning away from Hauk's insistence.",
-      "Warmth": 0,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Shows interest and excitement when Hauk offers a full pardon.",
+      "assessment": "His eye lighting up indicates motivation and hope, but this is self-interested rather than warm or benevolent.",
+      "rating": 1,
+      "chunk": 7
     },
     {
-      "Action": "Expresses cynicism and disregard for the president and the war.",
-      "Warmth": -1,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Re-establishes control over the conversation with a sarcastic question 'President of what?'",
+      "assessment": "This sarcastic remark reflects a cynical and guarded personality, not warmth or sincerity.",
+      "rating": -2,
+      "chunk": 7
     },
     {
-      "Action": "Agrees to think about the offer but delays giving a direct commitment.",
-      "Warmth": 0,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Walks into Hauk's office calmly, sits down, and nonverbally demands his cuffs be removed without showing agitation.",
+      "assessment": "This demonstrates Snake's confidence and composure under restraint, indicating a high level of self-control and situational awareness.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Demonstrates cool detachment and disinterest when surveying weapons and the description of the enemy.",
-      "Warmth": -1,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Lights a cigarette with cuffed hands while remaining calm and collected during a tense conversation.",
+      "assessment": "This action shows dexterity, calmness under pressure, and a casual dominance in a hostile environment, all signs of competence.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Smiles when handling the bracelet and safety catch, showing familiarity and a moment of ease.",
-      "Warmth": 1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Questions Hauk with a sharp, controlled tone, re-establishing control over the conversation by asking 'President of what?'",
+      "assessment": "This indicates Snake's intelligence and strategic thinking, refusing to be intimidated and maintaining control of the dialogue.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Shrugs on his jacket, nonchalantly ignoring Hauk's attempt to assert authority.",
-      "Warmth": 0,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Shows clear interest and motivation upon seeing the pardon, but initially conceals it well.",
+      "assessment": "This suggests emotional control and strategic thinking, as he does not reveal his intentions prematurely, a sign of competence.",
+      "rating": 1,
+      "chunk": 7
     },
     {
-      "Action": "Braces himself and shows nervousness about the medical injection, revealing vulnerability.",
-      "Warmth": 1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Responds with amusement to the gravity of the mission (rescuing the President).",
+      "assessment": "While amusement could indicate confidence, it may also suggest a degree of cynicism or underestimation of the situation, which could be a minor negative indicator.",
+      "rating": -1,
+      "chunk": 7
     },
     {
-      "Action": "Simply says 'I'll be OK' when asked to remove jacket for injection, a bit brusque but not unfriendly.",
-      "Warmth": 0,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Refuses to immediately accept the government's offer and insists on maintaining control over the situation.",
+      "assessment": "Snake's insistence on being in control and his dismissive attitude toward the government show a guarded and distrustful nature, indicating low warmth.",
+      "rating": -2,
+      "chunk": 8
     },
     {
-      "Action": "Pushes the safety catch on the tracer quickly and confidently, smiles indicating familiarity.",
-      "Competence": 1,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Responds with sarcasm and bluntness to Hauk's offer, saying 'Get a new president' and 'I don't give a fuck about your war... or your president.'",
+      "assessment": "These statements reflect a cold, cynical, and confrontational stance, lacking friendliness or sincerity.",
+      "rating": -3,
+      "chunk": 8
     },
     {
-      "Action": "Shrugs on his jacket, recognizes Hauk's attempt to assert authority and ignores it.",
-      "Competence": 1,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Pauses thoughtfully and asks 'Why me?' showing some engagement with the situation.",
+      "assessment": "This moment of reflection suggests some openness to understanding others' perspectives, a mild positive indicator of warmth.",
+      "rating": 1,
+      "chunk": 8
     },
     {
-      "Action": "Shows hesitation and nervousness about receiving an injection, expresses dislike for needles.",
-      "Competence": 0,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Surveys weapons with a cool expression and shows disinterest in the description of the 'crazies' living underground.",
+      "assessment": "His detachment and lack of empathy toward others, even those described as 'crazies,' indicates low tolerance and low warmth.",
+      "rating": -2,
+      "chunk": 8
     },
     {
-      "Action": "Snorts dismissively at the urgency and importance of the mission related to the survival of the human race.",
-      "Warmth": -1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Holds the cards in the negotiation with Hauk, refusing to be pressured and maintaining control of the situation.",
+      "assessment": "This demonstrates Snake's confidence, strategic thinking, and ability to assert control, indicating high competence in interpersonal and negotiation skills.",
+      "rating": 3,
+      "chunk": 8
     },
     {
-      "Action": "Turns away when asked about nuclear fusion, showing disinterest or detachment.",
-      "Warmth": 0,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Questions why he was chosen for the mission and demands the paper before agreeing.",
+      "assessment": "This shows his cautiousness, intelligence, and insistence on clear terms, reflecting a competent and pragmatic mindset.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Reactively grabs Hauk by the throat demanding removal of the implanted explosive capsules.",
-      "Warmth": -1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Surveys the weapons and equipment with a cool expression, showing calmness and readiness.",
+      "assessment": "His calm demeanor in the face of preparation suggests confidence and familiarity with dangerous situations, indicating competence.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Threatens Hauk by saying 'When I get back I'm going to kill you.'",
-      "Warmth": -1,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Expresses disinterest in the details about the enemy's control of the underground and their resources.",
+      "assessment": "This could indicate a focus on the mission rather than distractions, but might also suggest a potential oversight or lack of engagement with important intelligence.",
+      "rating": 0,
+      "chunk": 8
     },
     {
-      "Action": "Complies with mission instructions despite distrust, acknowledges he is on his own.",
-      "Warmth": 0,
-      "Chunk": 11
+      "trait": "warmth",
+      "action": "Smiles when handling the tracer bracelet.",
+      "assessment": "The smile suggests a moment of lightness or familiarity, indicating some positive engagement, though it is subtle and not necessarily directed at others.",
+      "rating": 1,
+      "chunk": 9
     },
     {
-      "Action": "Monitors time carefully, stays focused on mission progress, prepares himself thoroughly before taking off.",
-      "Competence": 1,
-      "Chunk": 11
+      "trait": "warmth",
+      "action": "Shrugs on his jacket, aware that Hauk is trying to assert authority but not reacting aggressively.",
+      "assessment": "This shows tolerance and a calm demeanor in the face of authority, reflecting a degree of respect or at least non-hostility.",
+      "rating": 1,
+      "chunk": 9
     },
     {
-      "Action": "Acknowledges lack of external support and plans accordingly, shows mental readiness for solo operation.",
-      "Competence": 1,
-      "Chunk": 11
+      "trait": "warmth",
+      "action": "Shrugs off his jacket and complies with the medic despite nervousness and dislike of needles.",
+      "assessment": "His compliance indicates a willingness to cooperate and trust others for the mission's sake, showing some sincerity and pragmatism rather than outright hostility or distrust.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Expresses frustration or threat impulsively to Hauk but quickly refocuses on mission, showing emotional control overall.",
-      "Competence": 0,
-      "Chunk": 11
+      "trait": "warmth",
+      "action": "Expresses dislike of needles openly to the medic and Hauk.",
+      "assessment": "Being candid about his discomfort shows a degree of sincerity and openness, though it is a neutral personal expression rather than a warm interaction.",
+      "rating": 1,
+      "chunk": 9
     },
     {
-      "Action": "Calmly controls the plane coming into New York, adjusts altitude confidently, lands hard but manages to stop the plane using grappling hook and brakes.",
-      "Competence": 1,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Pushes the safety catch on the tracer device without hesitation and smiles, indicating familiarity.",
+      "assessment": "This shows that Snake is knowledgeable about the equipment and confident in handling it, reflecting technical competence.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Uses the power box to start the elevator and gets inside the building efficiently.",
-      "Competence": 1,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Shrugs on his jacket despite Hauk's attempt to assert authority.",
+      "assessment": "This suggests Snake's confidence and independence, indicating he is not easily intimidated and trusts his own judgment.",
+      "rating": 1,
+      "chunk": 9
     },
     {
-      "Action": "Comments on the glider's poor takeoff capability but demonstrates readiness to problem-solve.",
-      "Competence": 1,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Listens to Hauk's briefing about the mission and equipment, including the homing device and antitoxin.",
+      "assessment": "While attentive, Snake does not question or show confusion, implying he understands the mission parameters and technology well.",
+      "rating": 1,
+      "chunk": 9
     },
     {
-      "Action": "Lowers his gun when confronted by the cabbie who just greets him without threatening.",
-      "Warmth": 1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Expresses nervousness and dislike of needles but complies with the injection.",
+      "assessment": "This reveals a human vulnerability but also shows discipline and willingness to endure discomfort for the mission, a sign of practical competence.",
+      "rating": 1,
+      "chunk": 9
     },
     {
-      "Action": "Walks on without noticing someone running past, puts walkie-talkie away; appears detached.",
-      "Warmth": -1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Braces himself against the table when receiving the injection, showing physical readiness.",
+      "assessment": "This indicates mental preparation and physical control in a stressful situation, supporting his competence.",
+      "rating": 1,
+      "chunk": 9
     },
     {
-      "Action": "Carries gun drawn and ready as he walks past a group of people, prepared to fight.",
-      "Warmth": -1,
-      "Chunk": 13
+      "trait": "warmth",
+      "action": "Snorts when Hauk explains the urgency and importance of the mission.",
+      "assessment": "Snorting in response to a serious explanation suggests a dismissive or cynical attitude, indicating low warmth.",
+      "rating": -2,
+      "chunk": 10
     },
     {
-      "Action": "Shows pragmatism and tolerance by entering the theater against his better judgment but not reacting negatively to the horrible musical.",
-      "Warmth": 0,
-      "Chunk": 13
+      "trait": "warmth",
+      "action": "Turns away when asked about nuclear fusion, showing disinterest or detachment.",
+      "assessment": "Avoiding engagement on a critical topic reflects emotional distance and lack of openness, which are negative indicators of warmth.",
+      "rating": -2,
+      "chunk": 10
     },
     {
-      "Action": "Uses a life clock effectively to track time under pressure.",
-      "Competence": 1,
-      "Chunk": 13
+      "trait": "warmth",
+      "action": "Grabs Hauk by the throat demanding removal of the implanted capsules.",
+      "assessment": "This aggressive and violent reaction shows distrust and hostility rather than friendliness or sincerity.",
+      "rating": -3,
+      "chunk": 10
     },
     {
-      "Action": "Arms himself and stays alert while moving through dangerous environments.",
-      "Competence": 1,
-      "Chunk": 13
+      "trait": "warmth",
+      "action": "Questions the medic about what was done to him with evident discomfort.",
+      "assessment": "While this shows some vulnerability, the tone is confrontational rather than sincere or trusting, indicating low warmth.",
+      "rating": -1,
+      "chunk": 10
     },
     {
-      "Action": "Uses a tracer device skillfully to locate a pulse and pursues it.",
-      "Competence": 1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Immediately reacts with physical aggression by grabbing Hauk by the throat upon learning about the microscopic capsules in his arteries.",
+      "assessment": "This action shows Snake's quick, decisive response to a life-threatening situation, indicating alertness and a refusal to passively accept danger, which are signs of competence.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Enters a known dangerous place despite better judgment to maintain mission progress.",
-      "Competence": 1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Questions the medic about what was injected into him and shows clear suspicion toward Hauk's intentions.",
+      "assessment": "This demonstrates Snake's critical thinking and wariness, traits that contribute to his competence by preventing him from being easily manipulated.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Fails to notice a person running past him at close range.",
-      "Competence": -1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Turns away when asked about nuclear fusion, indicating lack of knowledge in that area.",
+      "assessment": "While this shows a gap in technical knowledge, it also reflects self-awareness of his limitations, which can be a component of competence if it leads to appropriate reliance on others.",
+      "rating": 0,
+      "chunk": 10
     },
     {
-      "Action": "Lowers gun quickly upon recognizing a friendly, showing situational recognition but some risk in judgment.",
-      "Competence": 0,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Snorts dismissively when Hauk explains the urgency of the mission and the stakes involved.",
+      "assessment": "This could suggest a degree of cynicism or detachment that might undermine his engagement or motivation, potentially detracting from his overall competence.",
+      "rating": -1,
+      "chunk": 10
     },
     {
-      "Action": "Lowers his gun when the cabbie approaches without threatening.",
-      "Warmth": 1,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "Grabs Hauk by the throat and threatens to kill him when frustrated.",
+      "assessment": "This aggressive and violent behavior indicates a lack of warmth, showing hostility rather than trust or friendliness.",
+      "rating": -3,
+      "chunk": 11
     },
     {
-      "Action": "Walks past a gang beating and stripping a girl without intervening.",
-      "Warmth": -1,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "Throws his cigarette out onto the runway before boarding the plane.",
+      "assessment": "This small action could be seen as a neutral or slightly considerate gesture, avoiding littering or fire hazard, but it does not strongly indicate warmth.",
+      "rating": 0,
+      "chunk": 11
     },
     {
-      "Action": "Knocks out a man sneaking up behind him and points gun at a bum but lets the bum go when he cooperates.",
-      "Warmth": 0,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "Questions Hauk about the possibility of the President being dead and whether the charges will be burned out if he returns without him.",
+      "assessment": "This shows a pragmatic and somewhat distrustful attitude, indicating he is not fully trusting or optimistic about others' intentions, reflecting low warmth.",
+      "rating": -1,
+      "chunk": 11
     },
     {
-      "Action": "Kicks the man who is beating another man (the one wearing the President's tracer) and knocks him out.",
-      "Warmth": 1,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "Responds to Hauk's statement 'once inside you're on your own' with 'Oh, you mean I can't count on you?' and then 'Good.'",
+      "assessment": "This exchange shows Snake's acceptance of isolation and lack of reliance on others, highlighting his distrust and emotional distance, which are negative indicators of warmth.",
+      "rating": -2,
+      "chunk": 11
     },
     {
-      "Action": "Interacts with the drunk holding the President's life tracer, mocking but not harming him.",
-      "Warmth": 0,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Grabs Hauk by the throat to assert control and urgency.",
+      "assessment": "This action shows Snake's decisiveness and ability to take charge in tense situations, indicating confidence and assertiveness.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Knocks out a guy sneaking up behind him and swiftly deals with a gang fighting nearby without hesitation.",
-      "Competence": 1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Watches his life clock closely as time ticks down.",
+      "assessment": "Monitoring the countdown carefully demonstrates situational awareness and focus on mission-critical details.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Quickly assesses the situation with the drunk holding the President's life tracer and realizes the drunk is not the President.",
-      "Competence": 1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Questions Hauk about the consequences if he is late or if the President is dead.",
+      "assessment": "This shows strategic thinking and planning for contingencies, reflecting intelligence and foresight.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Communicates effectively with Hauk using a walkie-talkie to coordinate, showing situational awareness and tactical communication.",
-      "Competence": 1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Accepts that he is on his own once inside and shows no reliance on backup.",
+      "assessment": "This indicates self-reliance and confidence in his own abilities, a positive competence indicator.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Ignores the chaotic environment and focuses on the mission without getting distracted.",
-      "Competence": 1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Throws cigarette out onto the runway before boarding the plane.",
+      "assessment": "This small action suggests a calm, controlled demeanor and attention to detail, avoiding potential hazards.",
+      "rating": 1,
+      "chunk": 11
     },
     {
-      "Action": "Slams the tracer against the sink, possibly risking damage to an important device before fully analyzing the situation.",
-      "Competence": 0,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Does not react emotionally to Hauk's refusal to support him inside the mission.",
+      "assessment": "Maintaining composure under pressure is a sign of emotional control and professionalism.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Says 'A little human compassion ...' indicating a subtle acknowledgment of empathy despite harsh surroundings.",
-      "Warmth": 1,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Turns on his monitors and tests the tracer before takeoff.",
+      "assessment": "This shows thoroughness and technical skill, ensuring equipment functionality before mission start.",
+      "rating": 3,
+      "chunk": 11
     },
     {
-      "Action": "Levels his gun at the girl when asked if he's a cop, showing immediate distrust and defensive behavior.",
-      "Warmth": -1,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Responds to Hauk's questions with brief, sarcastic remarks such as 'Playing with myself. I'm going in.'",
+      "assessment": "Snake's sarcastic and curt communication style suggests a guarded and somewhat abrasive demeanor, indicating low warmth and limited friendliness or sincerity in interactions.",
+      "rating": -2,
+      "chunk": 12
     },
     {
-      "Action": "Tosses his cigarettes to the girl, allowing a cautious moment of sharing and connection.",
-      "Warmth": 1,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Calmly pilots the plane into a dangerous landing and proceeds with the mission without hesitation.",
+      "assessment": "While demonstrating competence and focus, this action shows dedication and reliability, which can be seen as a form of trustworthiness, a positive aspect of warmth, though it lacks overt friendliness or benevolence.",
+      "rating": 1,
+      "chunk": 12
     },
     {
-      "Action": "Replies honestly and directly to the girl’s questions, admits bluntly 'I’m an asshole.'",
-      "Warmth": 0,
-      "Chunk": 16
+      "trait": "warmth",
+      "action": "Communicates mission status clearly and efficiently to Hauk.",
+      "assessment": "Clear and direct communication reflects a level of sincerity and trustworthiness, though it remains professional and emotionally distant.",
+      "rating": 1,
+      "chunk": 12
     },
     {
-      "Action": "Refuses the girl’s invitation to come with him without explanation or kindness.",
-      "Warmth": -1,
-      "Chunk": 16
+      "trait": "competence",
+      "action": "Calmly angles the plane up when approaching the World Trade Center, despite the high-risk situation.",
+      "assessment": "This action shows Snake's ability to maintain composure and control under pressure, indicating strong piloting skills and confidence.",
+      "rating": 3,
+      "chunk": 12
     },
     {
-      "Action": "Attempts to save the girl when she falls through the floor but fails.",
-      "Warmth": 1,
-      "Chunk": 16
+      "trait": "competence",
+      "action": "Successfully lands the plane hard but controlled at the edge of the World Trade Center and uses a grappling hook to stop.",
+      "assessment": "This demonstrates precise control and quick thinking in a difficult landing scenario, reflecting high competence.",
+      "rating": 3,
+      "chunk": 12
     },
     {
-      "Action": "Points gun at Cabbie but eventually gets in the cab and engages in brief conversation.",
-      "Warmth": 0,
-      "Chunk": 17
+      "trait": "competence",
+      "action": "Uses the power box to start the elevator and gains access to the building.",
+      "assessment": "Shows technical knowledge and resourcefulness in navigating the environment efficiently.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Does not show friendliness or trust; immediately threatens Cabbie with a gun when seeking information.",
-      "Warmth": -1,
-      "Chunk": 17
+      "trait": "competence",
+      "action": "Reports his position and status clearly and promptly to Hauk.",
+      "assessment": "Indicates good communication skills and situational awareness, important for mission success.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Points gun more insistently, demanding information from Cabbie.",
-      "Warmth": -1,
-      "Chunk": 18
+      "trait": "competence",
+      "action": "Mentions the glider is intact but 'taking off is for shit' and plans to work it out.",
+      "assessment": "Shows realistic assessment of equipment condition and confidence in problem-solving, though the issue suggests some limitation.",
+      "rating": 1,
+      "chunk": 12
     },
     {
-      "Action": "Thanks Cabbie after being reassured, acknowledges help briefly.",
-      "Warmth": 0,
-      "Chunk": 18
+      "trait": "warmth",
+      "action": "Lowers his gun when the cabbie holds up his hands and says he wants nothing.",
+      "assessment": "Lowering his gun in response to a non-threatening gesture shows a moment of restraint and a minimal level of trust or tolerance toward a stranger.",
+      "rating": 1,
+      "chunk": 13
     },
     {
-      "Action": "Politely asks to meet the Duke, showing interest rather than hostility.",
-      "Warmth": 0,
-      "Chunk": 18
+      "trait": "warmth",
+      "action": "Walks on without noticing someone running past him.",
+      "assessment": "Ignoring a person running past without any reaction suggests detachment or lack of concern for others around him.",
+      "rating": -1,
+      "chunk": 13
     },
     {
-      "Action": "Points gun more insistently to pressure Cabbie for information, showing assertiveness and tactical intimidation.",
-      "Competence": 1,
-      "Chunk": 18
+      "trait": "warmth",
+      "action": "Draws his gun as he walks by a group of people, staying armed and ready to fight.",
+      "assessment": "Being immediately suspicious and ready to fight indicates a guarded, distrustful attitude rather than friendliness or warmth.",
+      "rating": -2,
+      "chunk": 13
     },
     {
-      "Action": "Requests to meet the Duke directly after learning about him, demonstrating clear objective and confidence.",
-      "Competence": 1,
-      "Chunk": 18
+      "trait": "warmth",
+      "action": "Reports to Hauk that nobody else made it from the plane crash.",
+      "assessment": "The statement is factual and neutral, showing no emotional engagement or empathy for potential victims.",
+      "rating": 0,
+      "chunk": 13
     },
     {
-      "Action": "Checks his life clock anxiously but keeps composure while approaching Brain's building despite the danger.",
-      "Competence": 1,
-      "Chunk": 18
+      "trait": "competence",
+      "action": "Checks his life clock and tracer frequently to track time and locate the target's pulse.",
+      "assessment": "This shows Snake's methodical and tactical approach, using technology effectively to navigate and track his objective, indicating high competence.",
+      "rating": 3,
+      "chunk": 13
     },
     {
-      "Action": "Passively follows Cabbie up to the building with little visible preparation or precaution for potential ambush or trap.",
-      "Competence": 0,
-      "Chunk": 18
+      "trait": "competence",
+      "action": "Puts away his walkie-talkie as someone runs past without noticing.",
+      "assessment": "This suggests a focused and calm demeanor, not easily distracted by sudden movements, reflecting confidence and situational awareness.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Recognizes Maggie’s dual role as bodyguard and partner, showing situational awareness.",
-      "Competence": 1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Draws his gun when passing a group of people, staying armed and ready to fight.",
+      "assessment": "Demonstrates vigilance and preparedness in a hostile environment, indicating skill and prudence.",
+      "rating": 3,
+      "chunk": 13
     },
     {
-      "Action": "Confronts Brain with confident and threatening behavior, demonstrating assertiveness and intimidation skills.",
-      "Competence": 1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Enters a building against his better judgment but only as a brief passage.",
+      "assessment": "Shows cautious risk assessment; he acknowledges danger but proceeds with a clear purpose, reflecting practical judgment.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Recalls shared past with Brain in detail, indicating strong memory and knowledge of associates.",
-      "Competence": 1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Lowers his gun when confronted by the cabbie who recognizes him.",
+      "assessment": "This could indicate confidence in controlling the situation without immediate aggression, but also a potential moment of lowered guard that might be risky.",
+      "rating": 1,
+      "chunk": 13
     },
     {
-      "Action": "Quickly reacts with physical aggression (kicking chair, pointing gun) to pressure Brain, showing decisiveness under stress.",
-      "Competence": 1,
-      "Chunk": 19
+      "trait": "warmth",
+      "action": "Lowers his gun when the cabbie says he wants nothing.",
+      "assessment": "Lowering his gun shows a moment of restraint and a minimal level of trust or tolerance toward the cabbie, indicating a slight positive warmth.",
+      "rating": 1,
+      "chunk": 14
     },
     {
-      "Action": "Momentarily lowers his gun and does not escalate further despite Maggie's knife threat, showing tactical restraint.",
-      "Competence": 1,
-      "Chunk": 19
+      "trait": "warmth",
+      "action": "Does not intervene when a gang is beating and stripping a semi-conscious girl.",
+      "assessment": "Ignoring a violent assault on a vulnerable person reflects a lack of empathy and concern, indicating low warmth.",
+      "rating": -3,
+      "chunk": 14
     },
     {
-      "Action": "Threatens violence to extract information from Brain, directly addressing the goal to find the President.",
-      "Competence": 1,
-      "Chunk": 19
+      "trait": "warmth",
+      "action": "Knocks out a man trying to sneak up behind him and points a gun at a bum who greets him.",
+      "assessment": "This shows a defensive and suspicious attitude, with little friendliness or trust toward others, indicating low warmth.",
+      "rating": -2,
+      "chunk": 14
     },
     {
-      "Action": "Offers to take Brain out of the dangerous area relying on Brain's help to get to a jet glider.",
-      "Warmth": 1,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Kicks the man beating another man who is wearing the President's life tracer and says 'Mr. President...'",
+      "assessment": "Intervening to stop a beating is a protective and somewhat benevolent act, suggesting a moderate level of warmth despite his rough demeanor.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Mocks Brain by calling him 'Harold' sarcastically after Brain admits to lying.",
-      "Warmth": -1,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Questions the drunk man wearing the life tracer about where he got it.",
+      "assessment": "Engaging with the drunk man to clarify the situation shows a practical but neutral interaction, neither warm nor cold.",
+      "rating": 0,
+      "chunk": 14
     },
     {
-      "Action": "Points a gun at Brain to coerce information but lowers it after Brain capitulates.",
-      "Warmth": -1,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Tells Hauk over the walkie-talkie that the man they are looking at is not the President, showing skepticism toward official assumptions.",
+      "assessment": "This reflects a straightforward and honest communication style, but not necessarily warmth.",
+      "rating": 0,
+      "chunk": 14
     },
     {
-      "Action": "Acknowledges Brain's intelligence after he complies.",
-      "Warmth": 1,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Knocks out a guy sneaking up behind him and immediately points his gun at the bum nearby.",
+      "assessment": "This action shows Snake's alertness, quick reflexes, and tactical awareness, indicating high situational competence.",
+      "rating": 3,
+      "chunk": 14
     },
     {
-      "Action": "Offers a clear escape plan immediately, demonstrating confidence and situational awareness.",
-      "Competence": 1,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Kicks the man beating another who is wearing the President's life tracer and knocks him out.",
+      "assessment": "This demonstrates physical skill and decisiveness in protecting a key target, reflecting strong competence.",
+      "rating": 3,
+      "chunk": 14
     },
     {
-      "Action": "Uses a gun to intimidate Brain until he cooperates, showing decisiveness and control under pressure.",
-      "Competence": 1,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Slammed the tracer against the sink to test or disable it.",
+      "assessment": "This suggests practical problem-solving and technical understanding, indicating competent handling of equipment.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Claims to know critical time constraints others overlook, revealing superior knowledge and strategic thinking.",
-      "Competence": 1,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Uses the walkie-talkie to communicate with Hauk and quickly clarifies the situation about the President.",
+      "assessment": "Shows effective communication skills and confidence in managing the mission, a positive indicator of competence.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Refuses to accept explanations at face value, indicating skepticism and critical thinking.",
-      "Competence": 1,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Does not intervene or react emotionally to the gang beating and stripping a semi-conscious girl.",
+      "assessment": "This omission could suggest a focus on mission priorities over distractions, but may also reflect a lack of empathy or situational control; competence here is ambiguous.",
+      "rating": 0,
+      "chunk": 14
     },
     {
-      "Action": "Engages in verbal sparring but remains in command of the situation, showing interpersonal skill and leadership.",
-      "Competence": 1,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Says 'A little human compassion...' while staring at his walkie-talkie.",
+      "assessment": "This statement reveals a rare moment of empathy or longing for kindness, indicating some underlying warmth despite his tough exterior.",
+      "rating": 1,
+      "chunk": 15
     },
     {
-      "Action": "Knocks out multiple men to secure the car and drive away, but does not shoot a man he briefly considers killing.",
-      "Warmth": 0,
-      "Chunk": 22
+      "trait": "warmth",
+      "action": "Tosses his cigarettes to the girl in Chock Full O' Nuts and tells her to keep her hand over it.",
+      "assessment": "Sharing cigarettes and showing concern for her safety suggests a small but genuine gesture of trust and care.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Hands his gun to Brain, showing some trust despite the dangerous situation.",
-      "Warmth": 1,
-      "Chunk": 22
+      "trait": "warmth",
+      "action": "Levels his gun at the girl when she first approaches.",
+      "assessment": "This action shows distrust and hostility, indicating a guarded and unfriendly demeanor.",
+      "rating": -2,
+      "chunk": 15
     },
     {
-      "Action": "Drives aggressively to escape the crowd and protects Brain and Maggie during attacks.",
-      "Warmth": 1,
-      "Chunk": 22
+      "trait": "warmth",
+      "action": "Does not engage further in conversation or offer more help to the girl beyond the cigarettes.",
+      "assessment": "His limited interaction and lack of deeper connection or assistance reflect emotional distance and low warmth.",
+      "rating": -1,
+      "chunk": 15
     },
     {
-      "Action": "Glares at Brain after the escape, possibly showing irritation rather than support.",
-      "Warmth": 0,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Clearly and firmly informs Hauk that the President is dead.",
+      "assessment": "This shows Snake's directness and ability to communicate critical information under pressure, indicating situational awareness and confidence.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Subtly approaches and knocks out a man without alerting others; does not shoot unnecessarily despite considering it.",
-      "Competence": 1,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Stares at the walkie-talkie after Hauk threatens him.",
+      "assessment": "This moment of pause could suggest a brief hesitation or contemplation, but it also shows he is processing the threat calmly rather than reacting impulsively.",
+      "rating": 1,
+      "chunk": 15
     },
     {
-      "Action": "Drives fast and skillfully through a hostile crowd, uses gun tactically to fend off attackers, and through quick thinking escapes with the group.",
-      "Competence": 1,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Walks through a dangerous area with streetlights without apparent fear or hesitation.",
+      "assessment": "His steady movement in a hostile environment suggests confidence and experience navigating threats.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Commands Brain to keep talking during the mission, showing leadership and strategic planning.",
-      "Competence": 1,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Observes the pod carefully but finds no clues, then sits down heavily and touches his neck, sensing the cores dissolving.",
+      "assessment": "This shows his attentiveness to his physical condition and environment, indicating self-awareness and intelligence, though the heavy sitting might hint at fatigue.",
+      "rating": 1,
+      "chunk": 15
     },
     {
-      "Action": "Appears capable of adapting to changing situations and remaining calm under pressure.",
-      "Competence": 1,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Runs off quickly when manhole covers start to rise, reacting to a potential threat.",
+      "assessment": "This quick reaction to an ambiguous but dangerous situation demonstrates alertness and survival instinct.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Kills a guard silently and efficiently without warning or hesitation.",
-      "Warmth": -1,
-      "Chunk": 23
+      "trait": "competence",
+      "action": "Enters a restaurant and backs into a corner, then moves into shadows when the floor weakens.",
+      "assessment": "This shows tactical awareness and caution, using the environment to his advantage.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Calms the visibly scared President and reassures him to stop shaking.",
-      "Warmth": 1,
-      "Chunk": 23
+      "trait": "competence",
+      "action": "Levels his gun at a stranger immediately upon confrontation.",
+      "assessment": "This indicates readiness and assertiveness, though it might also suggest a lack of trust or social finesse.",
+      "rating": 1,
+      "chunk": 15
     },
     {
-      "Action": "Focuses on rescuing the President without questioning or engaging personally.",
-      "Warmth": 0,
-      "Chunk": 23
+      "trait": "competence",
+      "action": "Tosses cigarettes to the girl and instructs her to keep her hand over it.",
+      "assessment": "This shows quick thinking and an understanding of stealth tactics, indicating skill and experience.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Does not respond when Duke asks who he is, silently endures pain when arrow is pulled from his leg, refuses to give in even when clearly defeated.",
-      "Warmth": 0,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Engages briefly in conversation with the Girl in Chock Full O' Nuts, answering her questions and acknowledging her presence.",
+      "assessment": "Snake shows a minimal level of engagement and does not dismiss the girl outright, indicating a slight openness, though his tone is curt and guarded.",
+      "rating": 1,
+      "chunk": 16
     },
     {
-      "Action": "Fights well against ten attackers despite being outnumbered.",
-      "Competence": 1,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Attempts to save the girl when she is sucked through the floor but fails.",
+      "assessment": "His attempt to save her shows a moment of concern and willingness to help, reflecting some underlying care despite his rough exterior.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Fails to prevent being captured after the fight.",
-      "Competence": -1,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Responds to the girl's flirtation with a blunt 'Why?'",
+      "assessment": "This response is dismissive and lacks warmth or encouragement, suggesting emotional distance and a lack of friendliness.",
+      "rating": -1,
+      "chunk": 16
     },
     {
-      "Action": "Remains defiant and does not give information under pain.",
-      "Competence": 1,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Describes himself as 'an asshole' when asked if he is a cop.",
+      "assessment": "This self-deprecating and harsh self-description indicates a cynical and unfriendly self-view, which may limit his warmth toward others.",
+      "rating": -2,
+      "chunk": 16
     },
     {
-      "Action": "Lies unconscious with crossbows aimed at him, appears tense but does not retaliate immediately.",
-      "Warmth": 0,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Engages in a brief but purposeful conversation to gather information about a plane crash and the President's whereabouts.",
+      "assessment": "This shows Snake's ability to quickly extract relevant information in a hostile environment, indicating situational awareness and interrogation skill.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Turns to face guard and stands up calmly despite threat.",
-      "Warmth": 0,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Attempts to save the girl who falls through the floor but fails and then immediately escapes.",
+      "assessment": "His attempt to save her shows concern and quick reaction, but failure to save her might indicate limits to his control over unpredictable situations; however, his prompt retreat suggests good judgment in prioritizing his own survival.",
+      "rating": 1,
+      "chunk": 16
     },
     {
-      "Action": "Remains calm and sits up despite multiple crossbows aimed at him, showing awareness and confidence.",
-      "Competence": 1,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Runs through the building, breaks windows, climbs fire escapes, and uses environmental tactics like pulling a cabinet in front of a window before shooting through it.",
+      "assessment": "These actions demonstrate physical agility, resourcefulness, and tactical thinking, reflecting high competence in navigating dangerous urban environments and engaging enemies.",
+      "rating": 3,
+      "chunk": 16
     },
     {
-      "Action": "Realizes his life clock is gone and expresses concern, indicating awareness of his situation but also showing a potential vulnerability.",
-      "Competence": 0,
-      "Chunk": 25
+      "trait": "warmth",
+      "action": "Points his gun at Cabbie twice when getting into the cab and when demanding information.",
+      "assessment": "Pointing a gun at someone, especially repeatedly, is an aggressive and intimidating act that undermines trust and friendliness.",
+      "rating": -3,
+      "chunk": 17
     },
     {
-      "Action": "Imposes a time limit on the mission, indicating awareness of critical constraints.",
-      "Competence": 1,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Does not engage in friendly conversation or show any warmth toward Cabbie despite Cabbie's attempts at friendliness.",
+      "assessment": "Ignoring or dismissing friendly overtures suggests a lack of tolerance and friendliness.",
+      "rating": -2,
+      "chunk": 17
     },
     {
-      "Action": "Leaves a note offering amnesty for all prisoners in exchange for the President, signaling a strategic and somewhat honorable bargaining stance.",
-      "Warmth": 1,
-      "Chunk": 27
+      "trait": "warmth",
+      "action": "Accepts a ride from Cabbie despite the hostile initial interaction.",
+      "assessment": "Accepting help can indicate some level of pragmatic trust or tolerance, though it is overshadowed by his threatening behavior.",
+      "rating": 0,
+      "chunk": 17
     },
     {
-      "Action": "Keeps his goggles but does not use them, showing practical restraint and focus on mission rather than flashy or unnecessary actions.",
-      "Warmth": 0,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Busting down a door, shooting open part of a wall, climbing out a window, climbing down a telephone pole, then climbing up a wall.",
+      "assessment": "This sequence demonstrates physical agility, resourcefulness, and determination, indicating high physical competence and adaptability in a hostile environment.",
+      "rating": 3,
+      "chunk": 17
     },
     {
-      "Action": "Hauk and others express distrust and hatred toward him, suggesting he inspires distrust rather than warmth.",
-      "Warmth": -1,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Dropping his walkie-talkie while escaping.",
+      "assessment": "Dropping important equipment during a critical moment suggests a minor lapse in attention or coordination, slightly detracting from his overall competence.",
+      "rating": -1,
+      "chunk": 17
     },
     {
-      "Action": "Manages to infiltrate the city using the World Trade Center as a landing point, demonstrating strategic thinking and knowledge of the environment.",
-      "Competence": 1,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Pointing his gun at Cabbie immediately upon encounter and maintaining control of the situation.",
+      "assessment": "This shows confidence, tactical awareness, and assertiveness, reflecting strong competence in handling uncertain social interactions under pressure.",
+      "rating": 2,
+      "chunk": 17
     },
     {
-      "Action": "Slowly gets to his feet while groggy but continues to move forward despite injuries and exhaustion.",
-      "Competence": 1,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Choosing to get into the cab with Cabbie despite the risks.",
+      "assessment": "This decision reflects practical judgment and willingness to use available resources, indicating situational competence and strategic thinking.",
+      "rating": 2,
+      "chunk": 17
     },
     {
-      "Action": "Entering fighting ring and enduring boos from the crowd, fights for his life without complaint or apparent bitterness.",
-      "Warmth": 0,
-      "Chunk": 28
+      "trait": "competence",
+      "action": "Demanding information about the President with a gun pointed at Cabbie.",
+      "assessment": "This direct approach shows confidence and decisiveness, traits associated with competence, though it risks alienating potential allies.",
+      "rating": 1,
+      "chunk": 17
     },
     {
-      "Action": "Enters the fighting ring despite injury and immediately engages aggressively and skillfully against a stronger opponent.",
-      "Competence": 1,
-      "Chunk": 28
+      "trait": "warmth",
+      "action": "Thanks Cabbie after he reassures him about the neighborhood safety.",
+      "assessment": "Expressing thanks shows a basic level of politeness and acknowledgment, indicating some warmth despite the tense situation.",
+      "rating": 1,
+      "chunk": 18
     },
     {
-      "Action": "Fights aggressively in the tournament using violent and ruthless tactics without hesitation.",
-      "Warmth": -1,
-      "Chunk": 29
+      "trait": "warmth",
+      "action": "Points a gun more insistently at Cabbie to get information about the Duke.",
+      "assessment": "Using intimidation and threat to extract information reflects a harsh and unfriendly approach, indicating low warmth.",
+      "rating": -2,
+      "chunk": 18
     },
     {
-      "Action": "Participates in a violent spectacle with little concern for others' safety or feelings.",
-      "Warmth": -1,
-      "Chunk": 29
+      "trait": "warmth",
+      "action": "Expresses interest in meeting the Duke and engages with Maggie and Cabbie without overt hostility.",
+      "assessment": "Showing curiosity and engaging in conversation without aggression suggests a neutral to slightly positive social interaction, but not necessarily warmth.",
+      "rating": 0,
+      "chunk": 18
     },
     {
-      "Action": "Shows focus on mission and survival rather than social connection or trust.",
-      "Warmth": 0,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Points the gun more insistently at Cabbie to get information about the Duke.",
+      "assessment": "This action shows Snake's assertiveness and ability to apply pressure effectively to obtain critical information, indicating confidence and tactical skill.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Leads the President and others to safety despite injury.",
-      "Warmth": 1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Insists on meeting the Duke despite warnings about the danger.",
+      "assessment": "Demonstrates decisiveness and fearlessness, traits associated with a competent and confident individual who is willing to face risks to achieve objectives.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Grabs Brain by the tie and points gun at his head after Brain expresses relief.",
-      "Warmth": -1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Checks his life clock and internally dismisses the suggestion to relax.",
+      "assessment": "Shows situational awareness and mental focus, indicating a high level of vigilance and self-control, which are important for competence in dangerous environments.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Limping around with a leg shot to hell, he hesitates only briefly before starting to climb fifty flights of stairs.",
-      "Competence": 1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Engages with Maggie and gains entry to Brain's building despite initial resistance.",
+      "assessment": "Exhibits social intelligence and the ability to navigate hostile or guarded situations effectively, reflecting interpersonal competence.",
+      "rating": 1,
+      "chunk": 18
     },
     {
-      "Action": "Runs off as fast as he can after limping out of the ring.",
-      "Competence": 0,
-      "Chunk": 30
+      "trait": "warmth",
+      "action": "Advances on Brain aggressively, kicks his chair into the wall, and points a gun at him.",
+      "assessment": "This aggressive and violent behavior shows a lack of trust, tolerance, and friendliness, indicating low warmth.",
+      "rating": -3,
+      "chunk": 19
     },
     {
-      "Action": "Reveals knowledge of the safety catch on the tracer device, allowing for longer tracking time.",
-      "Competence": 1,
-      "Chunk": 30
+      "trait": "warmth",
+      "action": "Remembers Brain and Fresno Bob as old buddies and expresses anger about being abandoned.",
+      "assessment": "Recalling past friendships suggests some capacity for connection, but the bitterness and anger reduce the warmth of this memory.",
+      "rating": -1,
+      "chunk": 19
     },
     {
-      "Action": "Leads the President and others out of the building while under pressure.",
-      "Competence": 1,
-      "Chunk": 30
+      "trait": "warmth",
+      "action": "Threatens to harm Maggie to get information about the President's whereabouts.",
+      "assessment": "Threatening harm to others to achieve goals reflects a lack of benevolence and sincerity, indicating low warmth.",
+      "rating": -3,
+      "chunk": 19
     },
     {
-      "Action": "Grabs Brain by the tie and aims a gun at his head in a tense moment.",
-      "Competence": 0,
-      "Chunk": 30
+      "trait": "warmth",
+      "action": "Acknowledges Maggie's protective role over Brain and interacts with her directly.",
+      "assessment": "While he recognizes Maggie's role, his interaction is dominated by intimidation rather than friendliness or trust.",
+      "rating": -2,
+      "chunk": 19
     },
     {
-      "Action": "Grabs Brain by the tie and aims gun at his head after Brain claims to think Snake was dead.",
-      "Warmth": -1,
-      "Chunk": 31
+      "trait": "warmth",
+      "action": "Takes his gun away after Brain explains Maggie doesn't know exactly where the President is.",
+      "assessment": "This momentary de-escalation shows some restraint and willingness to listen, a slight positive indicator of warmth.",
+      "rating": 1,
+      "chunk": 19
     },
     {
-      "Action": "Snatches car keys and bridge diagram urgently, ignoring Brain's objections and impatience.",
-      "Warmth": -1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Snake can tell that Maggie is more than just Brain's squeeze; she looks like she'd be willing to kill to protect Brain.",
+      "assessment": "This shows Snake's perceptiveness and ability to quickly assess people's roles and potential threats, indicating situational awareness.",
+      "rating": 2,
+      "chunk": 19
     },
     {
-      "Action": "Tosses bridge diagram to Brain despite mistrusting him, showing pragmatic willingness to cooperate.",
-      "Warmth": 0,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Snake recognizes Brain immediately and recalls their shared past, confronting him directly about betrayal.",
+      "assessment": "This demonstrates Snake's strong memory, confidence, and willingness to confront past issues head-on, reflecting emotional intelligence and assertiveness.",
+      "rating": 2,
+      "chunk": 19
     },
     {
-      "Action": "Heeds Maggie’s advice to not talk and breathe despite his tough demeanor.",
-      "Warmth": 1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Snake suddenly kicks Brain's chair into the wall and points his gun at him to intimidate and extract information.",
+      "assessment": "This aggressive tactic shows Snake's decisiveness and readiness to use force to achieve his goals, indicating tactical boldness and control of the situation.",
+      "rating": 2,
+      "chunk": 19
     },
     {
-      "Action": "Hands car keys to Brain to try to get car working, showing some trust in Brain’s ability despite tension.",
-      "Warmth": 0,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Snake threatens to harm Maggie to get information from Brain.",
+      "assessment": "This shows Snake's strategic thinking in leveraging threats to gain an advantage, but also risks escalating conflict unnecessarily, which could backfire.",
+      "rating": 1,
+      "chunk": 19
     },
     {
-      "Action": "Makes Cabbie move over so he can drive the cab without asking politely.",
-      "Warmth": -1,
-      "Chunk": 32
+      "trait": "competence",
+      "action": "Snake takes his gun away after Brain says Maggie doesn't know exactly where the President is.",
+      "assessment": "This suggests Snake is capable of recognizing when further aggression is futile and can exercise restraint, reflecting good judgment.",
+      "rating": 2,
+      "chunk": 19
     },
     {
-      "Action": "Waves off Brain's attempt to explain the map, showing impatience.",
-      "Warmth": -1,
-      "Chunk": 32
+      "trait": "warmth",
+      "action": "Offers to take Brain out of the dangerous area using the jet glider if Brain helps him find the President.",
+      "assessment": "This offer shows a willingness to cooperate and help Brain escape, indicating some level of trust and concern for others' safety.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Engages briefly with Cabbie as he tries to make conversation.",
-      "Warmth": 0,
-      "Chunk": 32
+      "trait": "warmth",
+      "action": "Points a gun at Brain to coerce information but then lowers it after Brain complies.",
+      "assessment": "While the initial threat is aggressive and intimidating, Snake's decision to lower the gun after Brain cooperates suggests a limit to his hostility and a pragmatic approach rather than gratuitous violence.",
+      "rating": -1,
+      "chunk": 20
     },
     {
-      "Action": "Takes control of the situation decisively without hesitation or pleasantries.",
-      "Warmth": -1,
-      "Chunk": 32
+      "trait": "warmth",
+      "action": "Engages in banter with Brain, calling him 'Harold' sarcastically but then compliments his intelligence.",
+      "assessment": "The sarcastic nickname indicates a rough, possibly unfriendly demeanor, but the compliment shows some recognition and respect, reflecting a complex but not entirely cold interaction.",
+      "rating": 0,
+      "chunk": 20
     },
     {
-      "Action": "Does not share the tape with the President immediately, asserting control despite urgency.",
-      "Warmth": -1,
-      "Chunk": 32
+      "trait": "warmth",
+      "action": "Walks out with Maggie, Cabbie, and Brain, engaging in conversation about their situation.",
+      "assessment": "Snake's willingness to move forward with the group and discuss plans suggests a cooperative and somewhat inclusive attitude, which is a positive indicator of warmth.",
+      "rating": 1,
+      "chunk": 20
     },
     {
-      "Action": "Limped up to Maggie after Brain was killed, urged her to keep moving despite the shock.",
-      "Warmth": 0,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "Offers to take Brain out of the dangerous area using a jet glider, showing awareness of escape options and willingness to act.",
+      "assessment": "This demonstrates strategic thinking and confidence in his ability to execute an escape plan.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Races the cab fast and maneuvers based on Brain's directions, successfully avoids multiple mines and stays ahead of The Duke.",
-      "Competence": 1,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "Points a gun at Brain to coerce information, maintaining control of the situation.",
+      "assessment": "This shows assertiveness and tactical use of intimidation to gain leverage, indicating skill in negotiation under pressure.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Keeps calm and makes quick decisions despite the cab exploding and the death of the cabbie.",
-      "Competence": 1,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "Acknowledges the limited time before the President loses value, indicating situational awareness.",
+      "assessment": "This reflects good judgment and understanding of the stakes, which is important for effective decision-making.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Does not overreact to Brain's mistakes (Brain leads others wrong and triggers a mine, Snake keeps moving).",
-      "Competence": 1,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "Admits to lying to Brain to provoke a reaction and gain information.",
+      "assessment": "This shows psychological insight and manipulation skills, useful for extracting information.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Smiles and hands Maggie his gun with a grin of respect for what she's about to do.",
-      "Warmth": 1,
-      "Chunk": 34
+      "trait": "competence",
+      "action": "Relies on Maggie to persuade Brain to talk, showing delegation and use of interpersonal dynamics.",
+      "assessment": "This indicates social intelligence and adaptability in leveraging others to achieve goals.",
+      "rating": 1,
+      "chunk": 20
     },
     {
-      "Action": "Pushes the President up to the wall and helps him into the winch first, ensuring the President's escape.",
-      "Warmth": 1,
-      "Chunk": 34
+      "trait": "competence",
+      "action": "Engages in conversation with Brain about the Duke and the mined bridge, gathering intelligence.",
+      "assessment": "This shows curiosity and information-gathering skills, important for planning and risk assessment.",
+      "rating": 1,
+      "chunk": 20
     },
     {
-      "Action": "Tackles the Duke and beats him up just enough to daze him, not to seriously harm him.",
-      "Warmth": 1,
-      "Chunk": 35
+      "trait": "warmth",
+      "action": "Tells Brain 'Just calm down' when Brain is panicking about the Duke and the danger they face.",
+      "assessment": "Snake's attempt to calm Brain shows a degree of patience and concern for his companion's emotional state, indicating some level of warmth and leadership under pressure.",
+      "rating": 1,
+      "chunk": 21
     },
     {
-      "Action": "Hands the tape to Hauk despite his fury, showing he complies under pressure and is responsible.",
-      "Warmth": 0,
-      "Chunk": 35
+      "trait": "warmth",
+      "action": "Subtly approaches a lone man sitting bored in a car, knocks him out, and briefly considers shooting him before deciding not to.",
+      "assessment": "The decision to knock out rather than kill the man suggests a pragmatic but not unnecessarily cruel approach, showing some restraint and possibly a minimal respect for life, which can be seen as a mild positive indicator of warmth.",
+      "rating": 1,
+      "chunk": 21
     },
     {
-      "Action": "Stares furiously and fumes after being restrained by medic apparatus but does not lash out.",
-      "Warmth": 0,
-      "Chunk": 35
+      "trait": "warmth",
+      "action": "Follows Maggie and Brain after they run off to hide from the Duke's car.",
+      "assessment": "Snake's choice to stay with his group rather than abandoning them in a dangerous situation suggests loyalty and a protective instinct, which are positive warmth indicators.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Looks the President straight in the eye on approach despite the tense situation.",
-      "Warmth": 0,
-      "Chunk": 35
+      "trait": "competence",
+      "action": "Follows Maggie and Brain after they run off and hides with them when the Duke's car approaches.",
+      "assessment": "This shows situational awareness and caution, indicating competent tactical behavior in a dangerous situation.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Tackles the Duke and beats him up to prevent him from reaching the winch, then grabs the winch to escape.",
-      "Competence": 1,
-      "Chunk": 35
+      "trait": "competence",
+      "action": "Calmly tells Brain to calm down despite the tense situation and Brain's panic.",
+      "assessment": "Demonstrates emotional control and leadership under pressure, a sign of competence.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Panics and struggles briefly pulling on the winch line before escaping over the wall.",
-      "Competence": 0,
-      "Chunk": 35
+      "trait": "competence",
+      "action": "Subtly approaches a lone man sitting in a car, knocks him out, and removes him from the vehicle.",
+      "assessment": "Shows stealth, decisiveness, and physical skill, all indicators of high competence.",
+      "rating": 3,
+      "chunk": 21
     },
     {
-      "Action": "Reaches into his pocket to retrieve the tape efficiently and hands it over to Hauk despite his fury.",
-      "Competence": 1,
-      "Chunk": 35
+      "trait": "competence",
+      "action": "Briefly considers shooting the man on the hood of the car but does not immediately act.",
+      "assessment": "This hesitation could indicate prudence and calculated decision-making rather than rashness, reflecting competent judgment.",
+      "rating": 1,
+      "chunk": 21
     },
     {
-      "Action": "Watches his life clock calmly until it beeps and nothing happens, maintaining composure.",
-      "Competence": 1,
-      "Chunk": 35
+      "trait": "warmth",
+      "action": "Knocks out a man quietly instead of shooting him when escaping.",
+      "assessment": "Choosing to knock out rather than shoot indicates a preference to avoid unnecessary harm, suggesting some restraint and consideration.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Questions the President about the cost of the rescue, showing concern for the people who died.",
-      "Warmth": 1,
-      "Chunk": 36
+      "trait": "warmth",
+      "action": "Hands his gun to Brain and Maggie during the attack, allowing them to defend themselves.",
+      "assessment": "Sharing his weapon shows a degree of trust and willingness to protect his companions, reflecting some care and cooperation.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Glares at Hauk and corrects him sharply on his name.",
-      "Warmth": -1,
-      "Chunk": 36
+      "trait": "warmth",
+      "action": "Glares at Brain after the escape, with everyone visibly shaken.",
+      "assessment": "The glare suggests impatience or frustration rather than warmth, indicating a lack of empathy or encouragement in a stressful moment.",
+      "rating": -1,
+      "chunk": 22
     },
     {
-      "Action": "Refuses Hauk's job offer without engagement, limps away silently.",
-      "Warmth": 0,
-      "Chunk": 36
+      "trait": "warmth",
+      "action": "Tells Brain to keep talking when they reach the target.",
+      "assessment": "This instruction shows a practical, mission-focused attitude but lacks warmth or encouragement; it is neutral in terms of warmth.",
+      "rating": 0,
+      "chunk": 22
     },
     {
-      "Action": "Confronts the President directly and calls out his insincerity, demonstrating clear awareness and boldness.",
-      "Competence": 1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Subtly approaches and knocks out a lone man without alerting others.",
+      "assessment": "This action shows Snake's stealth and tactical skill, indicating a high level of competence in covert operations.",
+      "rating": 3,
+      "chunk": 22
     },
     {
-      "Action": "Lights a cigarette and walks away calmly after the interaction, showing confidence and control.",
-      "Competence": 1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Considers shooting a guy on the hood but decides against it.",
+      "assessment": "This shows Snake's ability to make quick, strategic decisions rather than acting impulsively, reflecting thoughtful competence.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Limping away while rejecting an offer and correcting the use of his name, indicating self-respect and assertiveness.",
-      "Competence": 1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Knocks out a second attacker and another guy in the car efficiently.",
+      "assessment": "Demonstrates physical capability and control over hostile situations, reinforcing his competence in combat.",
+      "rating": 3,
+      "chunk": 22
     },
     {
-      "Action": "Destroys the tape showing 'American Bandstand' instead of the expected declaration, demonstrating strategic thinking and disdain for propaganda.",
-      "Competence": 1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Questions Brain about the route choice when Brain insists on taking Broadway.",
+      "assessment": "Shows situational awareness and willingness to challenge potentially poor decisions, indicating good judgment and competence.",
+      "rating": 2,
+      "chunk": 22
+    },
+    {
+      "trait": "competence",
+      "action": "Drives aggressively through a hostile crowd, shooting a bystander and maneuvering through scrap metal to escape.",
+      "assessment": "Exhibits confident and skilled driving under pressure, as well as decisiveness in combat, highlighting strong competence.",
+      "rating": 3,
+      "chunk": 22
+    },
+    {
+      "trait": "competence",
+      "action": "Glares at Brain after the escape, signaling disapproval and control.",
+      "assessment": "Demonstrates leadership and assertiveness, reinforcing his role as the competent figure in the group.",
+      "rating": 2,
+      "chunk": 22
+    },
+    {
+      "trait": "competence",
+      "action": "Backs the car through piled cars to evade pursuers.",
+      "assessment": "Shows advanced driving skills and tactical thinking in a dangerous environment, indicating high competence.",
+      "rating": 3,
+      "chunk": 22
+    },
+    {
+      "trait": "competence",
+      "action": "Listens to Brain's information about the target's location and plans accordingly.",
+      "assessment": "Indicates good situational awareness and ability to integrate intelligence into his plan, reflecting competence.",
+      "rating": 2,
+      "chunk": 22
+    },
+    {
+      "trait": "competence",
+      "action": "Instructs Brain to keep talking when they reach the target.",
+      "assessment": "Shows strategic planning and delegation, trusting team members to play their roles, which is a sign of competence.",
+      "rating": 2,
+      "chunk": 22
+    },
+    {
+      "trait": "competence",
+      "action": "Ducks into the train car unnoticed.",
+      "assessment": "Demonstrates stealth and ability to infiltrate without detection, confirming his competence in covert operations.",
+      "rating": 3,
+      "chunk": 22
+    },
+    {
+      "trait": "warmth",
+      "action": "Kills the second guard silently by breaking his neck to avoid alerting others.",
+      "assessment": "While this action is violent, it is a tactical move to protect the President and complete the mission, showing a form of protective loyalty rather than gratuitous cruelty.",
+      "rating": 0,
+      "chunk": 23
+    },
+    {
+      "trait": "warmth",
+      "action": "Calmly uncuffs the President despite being injured.",
+      "assessment": "Maintaining composure and helping the President despite personal injury indicates a sense of responsibility and a willingness to assist others in need.",
+      "rating": 2,
+      "chunk": 23
+    },
+    {
+      "trait": "warmth",
+      "action": "Tells the President to stop shaking and reassures him that he is there to help.",
+      "assessment": "This shows a degree of concern and an attempt to calm someone who is clearly distressed, reflecting some empathy and sincerity.",
+      "rating": 2,
+      "chunk": 23
+    },
+    {
+      "trait": "warmth",
+      "action": "Does not question or belittle the President despite the tense situation.",
+      "assessment": "By focusing on the mission and helping the President without condescension, Snake demonstrates a respectful and pragmatic approach, which can be seen as a positive indicator of warmth.",
+      "rating": 1,
+      "chunk": 23
+    },
+    {
+      "trait": "competence",
+      "action": "Sneaks onto the train car roof and continues searching for the President without hesitation or doubt.",
+      "assessment": "This shows Snake's focus and determination under pressure, indicating confidence and skill in navigating hostile environments.",
+      "rating": 2,
+      "chunk": 23
+    },
+    {
+      "trait": "competence",
+      "action": "Silently kills the second guard by breaking his neck without alerting the first guard.",
+      "assessment": "This action demonstrates Snake's stealth, physical strength, and tactical awareness, all strong indicators of competence.",
+      "rating": 3,
+      "chunk": 23
+    },
+    {
+      "trait": "competence",
+      "action": "Throws a star at the first guard aiming for a lethal hit to the brain, but is hit in the leg by a crossbow arrow.",
+      "assessment": "While the throw shows skill and precision, getting hit in the leg suggests a momentary lapse in situational awareness or luck, slightly reducing the competence rating.",
+      "rating": 1,
+      "chunk": 23
+    },
+    {
+      "trait": "competence",
+      "action": "Despite being injured, limps over to the President and calmly starts uncuffing him.",
+      "assessment": "Maintaining composure and continuing the mission despite injury highlights Snake's resilience, mental toughness, and professionalism.",
+      "rating": 3,
+      "chunk": 23
+    },
+    {
+      "trait": "competence",
+      "action": "Keeps calm and gives clear instructions to the President, telling him to stop shaking and move fast.",
+      "assessment": "This shows leadership, confidence, and the ability to manage others under stress, reinforcing his competence.",
+      "rating": 2,
+      "chunk": 23
+    },
+    {
+      "trait": "warmth",
+      "action": "Refuses to answer Duke's question about his identity despite being in pain and under threat.",
+      "assessment": "Snake's silence and refusal to cooperate suggest a guarded, distrustful nature, indicating low warmth and reluctance to be open or friendly.",
+      "rating": -2,
+      "chunk": 24
+    },
+    {
+      "trait": "warmth",
+      "action": "Fights back against multiple attackers despite being outnumbered and injured.",
+      "assessment": "While this shows resilience and determination, it does not directly indicate warmth; it may reflect self-preservation rather than concern for others.",
+      "rating": 0,
+      "chunk": 24
+    },
+    {
+      "trait": "warmth",
+      "action": "Limping away quietly after telling the President to be quiet.",
+      "assessment": "The terse command and quiet departure suggest a no-nonsense, possibly brusque demeanor, not particularly warm or friendly.",
+      "rating": -1,
+      "chunk": 24
+    },
+    {
+      "trait": "competence",
+      "action": "Fights well despite being surrounded by ten attackers.",
+      "assessment": "This shows Snake's strong combat skills and ability to hold his own even when outnumbered, indicating high competence in physical confrontation.",
+      "rating": 2,
+      "chunk": 24
+    },
+    {
+      "trait": "competence",
+      "action": "Does not reveal his identity or answer Duke's question under pain and duress.",
+      "assessment": "Maintaining silence under torture demonstrates mental toughness and discipline, reflecting strong competence in resisting interrogation.",
+      "rating": 2,
+      "chunk": 24
+    },
+    {
+      "trait": "competence",
+      "action": "Limping away with an arrow lodged in his leg while still moving forward.",
+      "assessment": "Continuing to move despite a serious injury shows resilience and determination, but the injury itself suggests some vulnerability or prior miscalculation.",
+      "rating": 1,
+      "chunk": 24
+    },
+    {
+      "trait": "competence",
+      "action": "Gets jumped and ultimately knocked out by Duke after being surrounded.",
+      "assessment": "Being overwhelmed and captured suggests a momentary lapse or inability to avoid ambush, indicating a moderate failure in situational awareness or tactical planning.",
+      "rating": -1,
+      "chunk": 24
+    },
+    {
+      "trait": "warmth",
+      "action": "Does not react aggressively or plead when waking up surrounded by armed guards.",
+      "assessment": "Snake's calm and composed demeanor in a threatening situation suggests a guarded and possibly distrustful nature rather than warmth or friendliness.",
+      "rating": -1,
+      "chunk": 25
+    },
+    {
+      "trait": "warmth",
+      "action": "Remains silent and does not attempt to negotiate or communicate with guards upon waking.",
+      "assessment": "His omission of any attempt to connect or reason with others indicates a lack of openness and trust, which are components of warmth.",
+      "rating": -2,
+      "chunk": 25
+    },
+    {
+      "trait": "competence",
+      "action": "Lies unconscious on a bed with a crossbow pointed at his head, surrounded by three guards.",
+      "assessment": "Being captured and unconscious in a hostile environment suggests a temporary lapse or vulnerability, indicating a momentary lack of control or preparedness.",
+      "rating": -2,
+      "chunk": 25
+    },
+    {
+      "trait": "competence",
+      "action": "Sits up calmly despite multiple crossbows aimed at him and stands up facing the guards.",
+      "assessment": "Demonstrates composure and fearlessness in a highly dangerous situation, indicating confidence and mental toughness.",
+      "rating": 2,
+      "chunk": 25
+    },
+    {
+      "trait": "competence",
+      "action": "Has a snake tattoo on his stomach, symbolizing his nickname and possibly his persona.",
+      "assessment": "While not a direct action, this suggests a cultivated identity that may reflect his self-confidence and reputation, indirectly supporting his competence.",
+      "rating": 1,
+      "chunk": 25
+    },
+    {
+      "trait": "competence",
+      "action": "Realizes his life clock is gone and he has no idea how much time he has left.",
+      "assessment": "This indicates a critical loss of situational awareness and control over his mission parameters, which could impair his decision-making and effectiveness.",
+      "rating": -1,
+      "chunk": 25
+    },
+    {
+      "trait": "competence",
+      "action": "Mentions a time limit regarding the President, indicating awareness of mission constraints.",
+      "assessment": "This shows that Snake is attentive to critical mission details and time sensitivity, reflecting situational awareness and strategic thinking.",
+      "rating": 2,
+      "chunk": 26
+    },
+    {
+      "trait": "competence",
+      "action": "Is awake and surrounded by guards but remains composed.",
+      "assessment": "Remaining alert and calm under guard suggests mental resilience and readiness, important aspects of competence in hostile situations.",
+      "rating": 2,
+      "chunk": 26
+    },
+    {
+      "trait": "competence",
+      "action": "No direct action or dialogue in this excerpt beyond the time limit mention.",
+      "assessment": "The lack of active engagement or initiative in this segment limits the ability to fully assess competence here; however, his awareness still indicates some level of capability.",
+      "rating": 0,
+      "chunk": 26
+    },
+    {
+      "trait": "competence",
+      "action": "Snake is awake and surrounded by guards but manages to slowly get to his feet despite being groggy and limping.",
+      "assessment": "This shows resilience and determination to continue despite physical discomfort and captivity, indicating a competent and tough character.",
+      "rating": 2,
+      "chunk": 27
+    },
+    {
+      "trait": "competence",
+      "action": "He never used the goggles left on the table, and only half of them are necessary in his case.",
+      "assessment": "This suggests that Snake is confident and skilled enough to operate without relying fully on equipment others might consider essential, reflecting high competence.",
+      "rating": 2,
+      "chunk": 27
+    },
+    {
+      "trait": "competence",
+      "action": "He managed to get into the city by landing a glider on the World Trade Center, a difficult and risky maneuver.",
+      "assessment": "This implies exceptional planning, piloting skill, and daring, all strong indicators of competence.",
+      "rating": 3,
+      "chunk": 27
+    },
+    {
+      "trait": "warmth",
+      "action": "Enters the fighting ring and fights the huge ugly man who is wearing his life clock.",
+      "assessment": "Snake engages in a brutal fight for survival, showing determination but no indication of friendliness or warmth toward others in this hostile environment.",
+      "rating": 0,
+      "chunk": 28
+    },
+    {
+      "trait": "competence",
+      "action": "Despite limping, Snake enters the stadium and climbs into the fighting ring to face a huge and aggressive opponent.",
+      "assessment": "This shows physical resilience and determination, indicating strong competence in handling physically demanding and dangerous situations even when injured.",
+      "rating": 2,
+      "chunk": 28
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in a fight with a much larger opponent using a bat, actively circling and evading attacks.",
+      "assessment": "This demonstrates combat skill, situational awareness, and tactical thinking under pressure, all positive indicators of competence.",
+      "rating": 3,
+      "chunk": 28
+    },
+    {
+      "trait": "competence",
+      "action": "No explicit strategic or verbal commands or plans are shown during the fight; he relies on physical action alone.",
+      "assessment": "While effective physically, the lack of verbal or strategic communication in this excerpt limits the demonstration of broader competence such as leadership or planning.",
+      "rating": 0,
+      "chunk": 28
+    },
+    {
+      "trait": "warmth",
+      "action": "Fights in the tournament and activates the eagle tracer to signal his position.",
+      "assessment": "Snake's actions show focus on survival and mission completion rather than interpersonal warmth; activating the tracer is a tactical move, not a warm gesture.",
+      "rating": 0,
+      "chunk": 29
+    },
+    {
+      "trait": "warmth",
+      "action": "Responds to the crowd's cheers after injuring Ugly.",
+      "assessment": "While the crowd cheers 'SNAKE! SNAKE!', there is no indication that Snake reciprocates friendliness or warmth toward the crowd or others; his demeanor remains pragmatic and detached.",
+      "rating": 0,
+      "chunk": 29
+    },
+    {
+      "trait": "competence",
+      "action": "Nails Ugly in the groin and then in the back of the head during the fight, turning the tide and earning the crowd's cheers.",
+      "assessment": "This action demonstrates Snake's ability to adapt and find effective openings even when initially struggling, showing physical skill and tactical awareness.",
+      "rating": 2,
+      "chunk": 29
+    },
+    {
+      "trait": "competence",
+      "action": "Activates the eagle tracer on a guard during the tournament.",
+      "assessment": "This shows Snake's situational awareness and ability to use available tools to his advantage, indicating strategic thinking and technical competence.",
+      "rating": 2,
+      "chunk": 29
+    },
+    {
+      "trait": "competence",
+      "action": "Limps around and quickly regroups after the fight, checking his life clock and realizing he has limited time.",
+      "assessment": "Despite being injured, Snake remains focused and aware of his time constraints, reflecting mental resilience and prioritization under pressure.",
+      "rating": 2,
+      "chunk": 29
+    },
+    {
+      "trait": "competence",
+      "action": "Not doing very well initially in the fight against Ugly.",
+      "assessment": "This suggests that Snake can be caught off guard or outmatched temporarily, indicating that his competence is not infallible.",
+      "rating": -1,
+      "chunk": 29
+    },
+    {
+      "trait": "warmth",
+      "action": "Leads the President, Brain, and Maggie out of the World Trade Center despite his injured leg.",
+      "assessment": "Despite his physical pain and difficult circumstances, Snake takes responsibility for protecting others and ensuring their escape, indicating a sense of duty and care.",
+      "rating": 2,
+      "chunk": 30
+    },
+    {
+      "trait": "warmth",
+      "action": "Grabs Brain by the tie and aims a gun at his head after Brain expresses relief that Snake is alive.",
+      "assessment": "This aggressive and threatening response to a friendly comment shows a lack of trust and warmth toward others, reflecting a hostile and intimidating demeanor.",
+      "rating": -2,
+      "chunk": 30
+    },
+    {
+      "trait": "competence",
+      "action": "Despite limping with a leg shot, Snake hesitates only briefly before starting to climb fifty flights of stairs.",
+      "assessment": "This action demonstrates strong physical endurance, determination, and mental toughness, indicating high competence in overcoming physical adversity.",
+      "rating": 2,
+      "chunk": 30
+    },
+    {
+      "trait": "competence",
+      "action": "Snake runs to help Brain, Maggie, and the President when their glider floats away and quickly gets them into an elevator to escape.",
+      "assessment": "This shows situational awareness, quick decision-making, and leadership under pressure, all positive indicators of competence.",
+      "rating": 3,
+      "chunk": 30
+    },
+    {
+      "trait": "competence",
+      "action": "He grabs Brain by the tie and aims a gun at his head after Brain expresses surprise that Snake is alive.",
+      "assessment": "This action reflects confidence and control of the situation, but also a potentially impulsive or aggressive approach that could be risky; still, it suggests assertiveness and command.",
+      "rating": 1,
+      "chunk": 30
+    },
+    {
+      "trait": "competence",
+      "action": "Snake limps out of the ring and runs off as fast as he can.",
+      "assessment": "While limping indicates injury, his ability to run off quickly despite this suggests resilience and physical capability, supporting competence.",
+      "rating": 1,
+      "chunk": 30
+    },
+    {
+      "trait": "warmth",
+      "action": "Grabs Brain by the tie and aims the gun at his head after Brain says he thought Snake was dead.",
+      "assessment": "This aggressive and threatening behavior shows a lack of trust and hostility, indicating low warmth.",
+      "rating": -3,
+      "chunk": 31
+    },
+    {
+      "trait": "warmth",
+      "action": "Takes the car keys, diagram, and other items from Brain abruptly, telling him to stay out of the way.",
+      "assessment": "This shows impatience and distrust toward Brain, reflecting a cold and unfriendly attitude.",
+      "rating": -2,
+      "chunk": 31
+    },
+    {
+      "trait": "warmth",
+      "action": "Acknowledges Brain's claim about the missing tape and hesitates to fully dismiss him.",
+      "assessment": "This moment of consideration suggests a slight openness to trust, a minor positive indicator of warmth.",
+      "rating": 1,
+      "chunk": 31
+    },
+    {
+      "trait": "warmth",
+      "action": "Tosses the bridge diagram to Brain and allows him to lead the way despite his own bad condition.",
+      "assessment": "Allowing Brain to take charge despite personal injury shows some degree of cooperation and reliance on others.",
+      "rating": 1,
+      "chunk": 31
+    },
+    {
+      "trait": "warmth",
+      "action": "Hands the car keys to Brain when the car won't start.",
+      "assessment": "This act of entrusting Brain with the keys indicates a practical trust and willingness to delegate responsibility.",
+      "rating": 2,
+      "chunk": 31
+    },
+    {
+      "trait": "warmth",
+      "action": "Shows irritation and impatience with Brain and others complaining while he is in bad shape.",
+      "assessment": "His impatience and dismissiveness toward others' concerns reflect a lack of empathy and warmth.",
+      "rating": -2,
+      "chunk": 31
+    },
+    {
+      "trait": "competence",
+      "action": "Immediately demands the car keys, the diagram of the bridge, and quickly takes them to facilitate escape.",
+      "assessment": "This shows Snake's quick thinking and prioritization under pressure, indicating strong situational awareness and decisiveness.",
+      "rating": 2,
+      "chunk": 31
+    },
+    {
+      "trait": "competence",
+      "action": "Dismisses Brain's objections and insists on taking control despite Brain's claim of needing to read the diagram.",
+      "assessment": "This reflects confidence and a willingness to take charge, but also a potential risk in ignoring expert input, which could be a slight overconfidence.",
+      "rating": 1,
+      "chunk": 31
+    },
+    {
+      "trait": "competence",
+      "action": "Notices the missing tape on the President's chain and questions Brain's knowledge about it.",
+      "assessment": "Demonstrates attention to detail and skepticism, important traits for competent leadership and survival.",
+      "rating": 2,
+      "chunk": 31
+    },
+    {
+      "trait": "competence",
+      "action": "Reluctantly accepts Brain's information about the tape location and hands over the bridge diagram to him.",
+      "assessment": "Shows flexibility and pragmatism in adapting to new information, a sign of practical competence.",
+      "rating": 2,
+      "chunk": 31
+    },
+    {
+      "trait": "competence",
+      "action": "Despite being in bad shape and under time pressure, he continues to lead and manage the group.",
+      "assessment": "Indicates resilience and ability to function under stress, reinforcing his competence.",
+      "rating": 2,
+      "chunk": 31
+    },
+    {
+      "trait": "competence",
+      "action": "Attempts to start the car himself and quickly assesses it is dead.",
+      "assessment": "Shows mechanical knowledge and quick diagnostic skills, supporting his practical competence.",
+      "rating": 2,
+      "chunk": 31
+    },
+    {
+      "trait": "competence",
+      "action": "Hands the keys to Brain to try to get the car started despite his own assessment.",
+      "assessment": "Demonstrates delegation and trust in others' abilities when appropriate, a sign of confident leadership.",
+      "rating": 1,
+      "chunk": 31
+    },
+    {
+      "trait": "competence",
+      "action": "Fails to detect the ambush until the man with the crossbow is right in front of him.",
+      "assessment": "This suggests a lapse in vigilance or situational awareness, a negative indicator of competence in a hostile environment.",
+      "rating": -1,
+      "chunk": 31
+    },
+    {
+      "trait": "warmth",
+      "action": "Pulls a gun and fires at the steam vent to create cover for the group to escape.",
+      "assessment": "This action shows a protective and cooperative behavior toward his group, indicating a willingness to help and safeguard others in danger.",
+      "rating": 2,
+      "chunk": 32
+    },
+    {
+      "trait": "warmth",
+      "action": "Runs around and makes Cabbie scoot over so he can drive the cab.",
+      "assessment": "This shows a somewhat assertive and self-centered behavior, prioritizing his own needs over Cabbie's comfort, which suggests limited consideration for others.",
+      "rating": -1,
+      "chunk": 32
+    },
+    {
+      "trait": "warmth",
+      "action": "Waves off Brain while he tries to explain the map.",
+      "assessment": "Dismissing Brain's attempt to communicate may indicate impatience or lack of tolerance, reflecting lower warmth in interpersonal interaction.",
+      "rating": -1,
+      "chunk": 32
+    },
+    {
+      "trait": "warmth",
+      "action": "Pops the American Bandstand tape out of the tape player and puts it in his pocket.",
+      "assessment": "This action is somewhat dismissive of Cabbie's attempt at conversation and shows a lack of friendliness or sincerity in social interaction.",
+      "rating": -2,
+      "chunk": 32
+    },
+    {
+      "trait": "warmth",
+      "action": "Keeps the tape from the briefcase despite the President's request to hand it over.",
+      "assessment": "Refusing to share the tape immediately may reflect distrust or unwillingness to cooperate fully, indicating lower warmth.",
+      "rating": -2,
+      "chunk": 32
+    },
+    {
+      "trait": "competence",
+      "action": "Pulls a gun and fires at the steam vent at the precise moment the Duke loses aim, creating a steam cover for escape.",
+      "assessment": "This action demonstrates quick thinking, tactical awareness, and precise timing under pressure, indicating high competence.",
+      "rating": 3,
+      "chunk": 32
+    },
+    {
+      "trait": "competence",
+      "action": "Takes control of the cab by making the driver scoot over and insists on driving himself.",
+      "assessment": "Shows confidence and assertiveness, suggesting he trusts his own skills more than others', a sign of competence.",
+      "rating": 2,
+      "chunk": 32
+    },
+    {
+      "trait": "competence",
+      "action": "Waves off Brain's explanation of the map and focuses on the tape, prioritizing critical information.",
+      "assessment": "Indicates good judgment in focusing on what matters most in a high-stress situation, reflecting intelligence and decisiveness.",
+      "rating": 2,
+      "chunk": 32
+    },
+    {
+      "trait": "competence",
+      "action": "Removes the 'American Bandstand' tape from the player and demands the correct tape from Brain and Cabbie.",
+      "assessment": "Shows attention to detail and understanding of the mission's needs, demonstrating situational awareness and control.",
+      "rating": 2,
+      "chunk": 32
+    },
+    {
+      "trait": "competence",
+      "action": "Checks his life clock and calculates the time remaining, considering the possibility of built-in delays.",
+      "assessment": "Exhibits careful time management and critical thinking, important for mission success, indicating competence.",
+      "rating": 2,
+      "chunk": 32
+    },
+    {
+      "trait": "warmth",
+      "action": "After the cab explodes and the cabbie dies, Snake limps up to Maggie who is in shock and tells her 'Keep moving...'",
+      "assessment": "Snake shows a pragmatic and somewhat cold response to the cabbie's death and Maggie's shock, prioritizing survival over emotional comfort, indicating low warmth in this moment.",
+      "rating": -1,
+      "chunk": 33
+    },
+    {
+      "trait": "warmth",
+      "action": "Snake tells Maggie 'Maggie... he's dead. Come on.' after Brain is killed by a mine.",
+      "assessment": "Snake delivers the news bluntly but also gently urges Maggie to keep moving, showing a minimal but sincere concern for her well-being under extreme stress.",
+      "rating": 1,
+      "chunk": 33
+    },
+    {
+      "trait": "competence",
+      "action": "Checks to make sure they're not being followed too closely while racing in the cab.",
+      "assessment": "This shows situational awareness and caution under pressure, indicating competent and strategic thinking.",
+      "rating": 2,
+      "chunk": 33
+    },
+    {
+      "trait": "competence",
+      "action": "Jumps the cab over the first obstacle on Brain's direction.",
+      "assessment": "Executing a risky maneuver successfully demonstrates physical skill, confidence, and trust in his team, reflecting high competence.",
+      "rating": 3,
+      "chunk": 33
+    },
+    {
+      "trait": "competence",
+      "action": "Swerves on Brain's direction to avoid mines.",
+      "assessment": "Following directions precisely in a high-stress environment shows good coordination and teamwork, reinforcing competence.",
+      "rating": 2,
+      "chunk": 33
+    },
+    {
+      "trait": "competence",
+      "action": "Keeps moving forward on foot after the cab explodes, despite limping.",
+      "assessment": "Demonstrates resilience, determination, and focus on the mission despite injury, indicating strong competence.",
+      "rating": 3,
+      "chunk": 33
+    },
+    {
+      "trait": "competence",
+      "action": "Checks his life clock and calmly informs Maggie that Brain is dead.",
+      "assessment": "Maintaining composure and situational awareness in a crisis reflects emotional control and competence.",
+      "rating": 2,
+      "chunk": 33
+    },
+    {
+      "trait": "competence",
+      "action": "Relies heavily on Brain's directions for navigation and mine avoidance.",
+      "assessment": "While trusting a teammate is positive, the heavy dependence on Brain's guidance rather than independent assessment suggests some reliance that could limit autonomous competence.",
+      "rating": 0,
+      "chunk": 33
+    },
+    {
+      "trait": "warmth",
+      "action": "Snake smiles and hands Maggie his gun, his grin one of respect for what she's about to do.",
+      "assessment": "This gesture shows a moment of trust and respect toward Maggie, indicating a capacity for positive regard and support for allies.",
+      "rating": 2,
+      "chunk": 34
+    },
+    {
+      "trait": "warmth",
+      "action": "Snake pushes the President up to the wall and helps him into the winch first.",
+      "assessment": "Helping the President escape first demonstrates a protective and selfless behavior, reflecting concern for others' safety despite his own danger.",
+      "rating": 3,
+      "chunk": 34
+    },
+    {
+      "trait": "warmth",
+      "action": "Snake runs off after the President immediately after handing Maggie the gun.",
+      "assessment": "His focus on the mission and the President suggests a sense of responsibility, but the lack of further interaction or emotional connection limits warmth inference here.",
+      "rating": 1,
+      "chunk": 34
+    },
+    {
+      "trait": "warmth",
+      "action": "Snake ducks for cover when the Duke fires at him, while the wall guards die.",
+      "assessment": "This action is self-preserving and tactical; no indication of warmth or concern for the guards is shown, highlighting a possible omission of protective behavior toward others.",
+      "rating": -1,
+      "chunk": 34
+    },
+    {
+      "trait": "competence",
+      "action": "Smiles and hands Maggie his gun, showing respect for her actions before running off after the President.",
+      "assessment": "This action demonstrates confidence and leadership, trusting an ally with a weapon and immediately continuing the mission without hesitation.",
+      "rating": 2,
+      "chunk": 34
+    },
+    {
+      "trait": "competence",
+      "action": "Runs on the 69th Street Bridge alongside the President, maintaining pace and focus.",
+      "assessment": "Maintaining composure and physical capability under pressure indicates strong physical and mental competence.",
+      "rating": 2,
+      "chunk": 34
+    },
+    {
+      "trait": "competence",
+      "action": "Pushes the President up to the wall and helps him into the winch first.",
+      "assessment": "Shows situational awareness and prioritization, ensuring the President's safety before himself, which reflects tactical competence.",
+      "rating": 2,
+      "chunk": 34
+    },
+    {
+      "trait": "competence",
+      "action": "Ducks for cover immediately when the Duke fires at him after the President is secured.",
+      "assessment": "Quick reaction to incoming fire demonstrates alertness and survival instincts, key indicators of competence in a hostile environment.",
+      "rating": 3,
+      "chunk": 34
+    },
+    {
+      "trait": "competence",
+      "action": "Does not watch his life clock ticking down while under fire.",
+      "assessment": "This omission suggests strong focus on immediate threats and priorities rather than distractions, indicating mental discipline and competence.",
+      "rating": 2,
+      "chunk": 34
+    },
+    {
+      "trait": "warmth",
+      "action": "Tackles the Duke and beats him up, dazing but not knocking him out.",
+      "assessment": "By choosing to daze rather than seriously injure the Duke, Snake shows a degree of restraint and possibly a reluctance to cause unnecessary harm.",
+      "rating": 1,
+      "chunk": 35
+    },
+    {
+      "trait": "warmth",
+      "action": "Hands the tape to Hauk despite being furious.",
+      "assessment": "Despite his anger, Snake complies and cooperates by handing over the tape, indicating a level of trustworthiness and willingness to fulfill his obligations.",
+      "rating": 2,
+      "chunk": 35
+    },
+    {
+      "trait": "warmth",
+      "action": "Stares at the medal pads buzzing on his neck and then lowers his wrist after his life clock beeps.",
+      "assessment": "His reaction is focused on his own survival and situation, showing little outward emotional expression or connection to others, suggesting emotional detachment.",
+      "rating": -1,
+      "chunk": 35
+    },
+    {
+      "trait": "warmth",
+      "action": "Looks the President straight in the eye when approaching him.",
+      "assessment": "Maintaining direct eye contact can indicate sincerity and straightforwardness, a sign of genuine engagement.",
+      "rating": 2,
+      "chunk": 35
+    },
+    {
+      "trait": "competence",
+      "action": "Tackles the Duke and beats him up, dazing him but not knocking him out, then grabs the winch.",
+      "assessment": "This shows Snake's physical capability and tactical decisiveness in a high-pressure situation, indicating strong competence.",
+      "rating": 2,
+      "chunk": 35
+    },
+    {
+      "trait": "competence",
+      "action": "Panics and starts pulling on the winch line when he comes to a stop.",
+      "assessment": "The panic suggests a momentary lapse in composure, which slightly undermines his otherwise competent behavior.",
+      "rating": -1,
+      "chunk": 35
+    },
+    {
+      "trait": "competence",
+      "action": "Climbs up and gets over the wall as fast as he can without injuring himself.",
+      "assessment": "This demonstrates physical skill, agility, and situational awareness, reinforcing his competence.",
+      "rating": 2,
+      "chunk": 35
+    },
+    {
+      "trait": "competence",
+      "action": "Hands over the tape to Hauk despite being furious.",
+      "assessment": "Maintaining focus on the mission and following through with necessary actions despite emotional agitation shows professionalism and competence.",
+      "rating": 2,
+      "chunk": 35
+    },
+    {
+      "trait": "competence",
+      "action": "Stares at the medal pads buzzing on his neck and then looks at his life clock as it counts down to zero.",
+      "assessment": "His calm observation of his life clock and the situation without panic indicates mental resilience and acceptance, a subtle sign of competence under pressure.",
+      "rating": 1,
+      "chunk": 35
+    },
+    {
+      "trait": "competence",
+      "action": "Looks the President straight in the eye when approaching him.",
+      "assessment": "This confident body language suggests self-assurance and control, reinforcing his competent demeanor.",
+      "rating": 2,
+      "chunk": 35
+    },
+    {
+      "trait": "warmth",
+      "action": "Questions the President about how he feels regarding the deaths incurred during the rescue mission.",
+      "assessment": "Snake shows a degree of concern for the sacrifices made by others, indicating some awareness of the human cost and a desire for sincerity from leadership.",
+      "rating": 1,
+      "chunk": 36
+    },
+    {
+      "trait": "warmth",
+      "action": "Lights a cigarette and walks away after the brief exchange with the President.",
+      "assessment": "This action suggests detachment and a lack of engagement or empathy in the moment, reflecting a colder demeanor.",
+      "rating": -1,
+      "chunk": 36
+    },
+    {
+      "trait": "warmth",
+      "action": "Responds to Hauk's offer of partnership with a glare and correction of his name, then limps away.",
+      "assessment": "His curt and dismissive response indicates distrust and unwillingness to form alliances, showing low warmth and guardedness.",
+      "rating": -2,
+      "chunk": 36
+    },
+    {
+      "trait": "warmth",
+      "action": "Destroys the tape from the President's press conference.",
+      "assessment": "This act of destroying evidence of the President's failure suggests cynicism and bitterness rather than forgiveness or understanding, reflecting low warmth.",
+      "rating": -2,
+      "chunk": 36
+    },
+    {
+      "trait": "competence",
+      "action": "Questions the President about how he feels regarding the deaths caused during the rescue.",
+      "assessment": "This shows Snake's awareness and critical thinking, indicating he is not easily fooled and can confront authority with pointed questions, reflecting mental sharpness and confidence.",
+      "rating": 2,
+      "chunk": 36
+    },
+    {
+      "trait": "competence",
+      "action": "Lights a cigarette and walks away after the brief exchange with the President.",
+      "assessment": "This nonchalant behavior suggests confidence and control over the situation, showing he is unfazed by the political theater around him.",
+      "rating": 2,
+      "chunk": 36
+    },
+    {
+      "trait": "competence",
+      "action": "Refuses to kill Hauk immediately despite the opportunity, citing tiredness.",
+      "assessment": "This indicates a level of self-control and strategic patience rather than impulsiveness, which can be a sign of competence in managing priorities and energy.",
+      "rating": 1,
+      "chunk": 36
+    },
+    {
+      "trait": "competence",
+      "action": "Corrects Hauk by insisting on being called by his full name 'Plissken' with a glare.",
+      "assessment": "This shows strong self-assertion and confidence in his identity, traits often associated with competent individuals who command respect.",
+      "rating": 1,
+      "chunk": 36
+    },
+    {
+      "trait": "competence",
+      "action": "Limping away while destroying the tape he carries by hand.",
+      "assessment": "Despite his physical impairment, Snake takes deliberate action to destroy evidence, showing resourcefulness and determination, which are indicators of competence.",
+      "rating": 2,
+      "chunk": 36
     }
   ]
 }

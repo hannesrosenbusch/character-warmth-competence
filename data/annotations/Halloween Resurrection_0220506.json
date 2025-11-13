@@ -1,99 +1,221 @@
 {
   "Laurie Strode": [
     {
-      "Action": "Decapitates a man viciously with a fire ax",
-      "Warmth": -1,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Beheads a man trapped between a tree and an EMS van with a fire ax in a vicious arc.",
+      "assessment": "This violent and lethal action demonstrates a ruthless and aggressive behavior, lacking in warmth, friendliness, or trustworthiness.",
+      "rating": -3,
+      "chunk": 2
     },
     {
-      "Action": "Sits quietly in a rocking chair, eyes open but unseeing, showing no engagement or interaction with others.",
-      "Warmth": 0,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Swings a fire ax in one terrible vicious arc, beheading a man trapped between a tree and an EMS van.",
+      "assessment": "This action demonstrates Laurie's physical capability, decisiveness, and lethal skill in a high-stress situation, indicating a high level of competence in combat and survival.",
+      "rating": 3,
+      "chunk": 2
     },
     {
-      "Action": "Drives the EMS truck commandeered to escape and reacts quickly to slam the brakes as the attacker is propelled through the windshield.",
-      "Competence": 1,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "Sitting in a straight-backed chair, rocking gently with eyes open but unseeing.",
+      "assessment": "Laurie's rocking and vacant stare suggest a withdrawn, possibly traumatized state, indicating emotional detachment rather than warmth or engagement with others.",
+      "rating": -1,
+      "chunk": 3
     },
     {
-      "Action": "Uses a fire ax to strike forcefully in self-defense, showing readiness and skill with weapons.",
-      "Competence": 1,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "Sitting in a straight-backed chair, rocking gently with eyes open but unseeing.",
+      "assessment": "Laurie's passive and unresponsive behavior suggests a lack of active engagement or alertness, indicating diminished situational awareness and mental preparedness.",
+      "rating": -2,
+      "chunk": 3
     },
     {
-      "Action": "Shows haunted, fearful eyes reflecting trauma and psychological distress.",
-      "Competence": 0,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "Laurie fights fiercely against the man in the white mask, using the fire ax to defend herself.",
+      "assessment": "Laurie's aggressive self-defense shows determination and survival instinct but does not directly indicate warmth; it is more about self-preservation than warmth.",
+      "rating": 0,
+      "chunk": 4
     },
     {
-      "Action": "Conceals something in her hand while appearing vacant and vulnerable to nurses",
-      "Warmth": 0,
-      "Chunk": 5
+      "trait": "warmth",
+      "action": "Laurie is shown in a sanitarium, being cared for by nurses who gently administer medicine.",
+      "assessment": "While Laurie is passive here, the scene implies she is vulnerable and possibly isolated, with no indication of her engaging warmly with others; her internal state is haunted and withdrawn.",
+      "rating": -1,
+      "chunk": 4
     },
     {
-      "Action": "Convulses violently, appears physically overwhelmed and incapacitated, requiring assistance from nurses.",
-      "Competence": -1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Drives a commandeered EMS truck while the man in the white mask fights his way out of the body bag behind her.",
+      "assessment": "This action shows Laurie's ability to take control of a dangerous situation under pressure, demonstrating quick thinking and practical skill.",
+      "rating": 2,
+      "chunk": 4
     },
     {
-      "Action": "Conceals something in her hand despite appearing vacant and helpless.",
-      "Competence": 1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Slams the brakes causing the body to be propelled through the windshield and crash down the hill, pinning the man against a tree.",
+      "assessment": "This indicates tactical awareness and effective use of the environment to neutralize a threat, reflecting high competence in combat and situational control.",
+      "rating": 3,
+      "chunk": 4
     },
     {
-      "Action": "Lunges at Michael with hypodermic syringe to stop him, showing preparedness and resolve to protect herself and others.",
-      "Warmth": 1,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Swings a fire ax in one unmerciful arc to presumably attack the man in the white mask.",
+      "assessment": "This shows physical strength, decisiveness, and combat skill, reinforcing her capability and confidence in handling violent confrontations.",
+      "rating": 3,
+      "chunk": 4
     },
     {
-      "Action": "Faces her attacker without fear, shows determination and defiance.",
-      "Warmth": 1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Internal haunted soul reflected in her eyes, suggesting trauma and psychological burden.",
+      "assessment": "While this does not directly indicate incompetence, it suggests emotional and psychological strain that could potentially impair her decision-making or confidence.",
+      "rating": -1,
+      "chunk": 4
     },
     {
-      "Action": "Clutches the attacker’s wrist to stop him, attempts to pull him down with her.",
-      "Warmth": 1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Violently convulses and topples over in her chair after taking medication, requiring nurses to calm her down.",
+      "assessment": "This physical reaction suggests a lack of control over her body and possibly her mental state, indicating vulnerability and reduced physical competence at this moment.",
+      "rating": -2,
+      "chunk": 5
     },
     {
-      "Action": "Faces her attacker unafraid and uses physical strength to clasp his wrist and pull him over the edge with her, demonstrating bravery, quick reflexes, and physical capability.",
-      "Competence": 1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Conceals something in her hand after nurses leave the room and the door is locked.",
+      "assessment": "This deliberate concealment implies a level of cunning, awareness, and possibly planning, indicating mental sharpness and strategic thinking despite her outward condition.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Steps backward toward the edge of the roof while confronting Michael, placing herself in a potentially vulnerable position.",
-      "Competence": -1,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Laurie lunges at Michael with a hypodermic syringe and injects him to stop his attack.",
+      "assessment": "Laurie's action is primarily self-defensive and focused on survival rather than displaying warmth; it shows determination and courage but not warmth-related traits like friendliness or trustworthiness.",
+      "rating": 0,
+      "chunk": 8
     },
     {
-      "Action": "Clutches Michael's wrist in an attempt to pull him off the roof despite being stabbed, ultimately sacrificing herself to stop him.",
-      "Warmth": 1,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Laurie stares into Michael's eyes as he convulses after being injected.",
+      "assessment": "This moment reflects Laurie's intense focus and resolve rather than warmth; there is no indication of empathy or kindness in this interaction.",
+      "rating": 0,
+      "chunk": 8
     },
     {
-      "Action": "Clenches both hands around Michael's wrist in an iron grip, preventing him from stabbing her further and pulls him off the roof with her, showing physical strength and determination.",
-      "Competence": 1,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Laurie runs through the house, setting off the alarm to alert others.",
+      "assessment": "Setting off the alarm could be interpreted as an attempt to get help or warn others, which may indicate concern for others' safety, a positive indicator of warmth.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Falls off the roof accidentally while trying to pull Michael down, leading to her apparent death.",
-      "Competence": -1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Lunges at Michael with a hypodermic syringe and successfully injects him, causing an embolism that drops him to his knees.",
+      "assessment": "This action demonstrates Laurie's preparedness, quick thinking, and ability to use a weapon effectively under extreme pressure, indicating high competence.",
+      "rating": 3,
+      "chunk": 8
     },
     {
-      "Action": "No direct actions or statements by Laurie in this excerpt, so no competence indicators observed.",
-      "Competence": 0,
-      "Chunk": 45
+      "trait": "competence",
+      "action": "Runs through the door and down the hall immediately after incapacitating Michael, maintaining distance from a dangerous threat.",
+      "assessment": "This shows Laurie's situational awareness and understanding of the need to keep moving to avoid danger, reflecting competent survival instincts.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "No direct action or statement from Laurie in this excerpt; focus is on other characters' struggle and reactions.",
-      "Competence": 0,
-      "Chunk": 46
+      "trait": "competence",
+      "action": "Ducks into the stairwell and barrels up the stairs to the roof, setting off the alarm.",
+      "assessment": "Laurie's use of the environment to her advantage and triggering the alarm suggests strategic thinking and resourcefulness, further indicating competence.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "No direct actions or presence in the excerpt to evaluate competence.",
-      "Competence": 0,
-      "Chunk": 54
+      "trait": "competence",
+      "action": "Sitting in her chair rocking back and forth before Michael breaks in.",
+      "assessment": "This behavior could indicate anxiety or hesitation, which might reflect a momentary lapse in mental preparedness or confidence, slightly detracting from competence.",
+      "rating": -1,
+      "chunk": 8
+    },
+    {
+      "trait": "warmth",
+      "action": "Faces Michael unafraid and speaks to him directly, asserting her own soul and refusing to be turned into him.",
+      "assessment": "Laurie's courage and self-possession show strength but do not directly indicate warmth; her focus is on survival and resistance rather than friendliness or trust.",
+      "rating": 0,
+      "chunk": 9
+    },
+    {
+      "trait": "warmth",
+      "action": "Clasps Michael's wrist in an iron grip and attempts to pull him down with her off the roof.",
+      "assessment": "This action is driven by desperation and self-defense rather than warmth; it shows determination but not benevolence or sincerity toward others.",
+      "rating": 0,
+      "chunk": 9
+    },
+    {
+      "trait": "warmth",
+      "action": "Speaks to Michael with a tone that includes a challenge and a hint of understanding, saying 'Come with me, Michael...'",
+      "assessment": "While this could be interpreted as an attempt to connect or reason, in context it is more a tactical move than a warm or friendly gesture.",
+      "rating": 0,
+      "chunk": 9
+    },
+    {
+      "trait": "competence",
+      "action": "Turns to face Michael unafraid and engages him verbally, showing psychological resilience and confidence.",
+      "assessment": "Laurie's calm and fearless demeanor in the face of a deadly threat indicates strong mental fortitude and situational awareness, which are key aspects of competence.",
+      "rating": 2,
+      "chunk": 9
+    },
+    {
+      "trait": "competence",
+      "action": "Steps backward toward the edge of the roof while maintaining composure and continuing to confront Michael.",
+      "assessment": "Her controlled retreat suggests tactical thinking under pressure, using the environment to her advantage rather than panicking.",
+      "rating": 2,
+      "chunk": 9
+    },
+    {
+      "trait": "competence",
+      "action": "Clasps both hands around Michael's wrist to stop his knife thrust and then pulls him over the edge with her.",
+      "assessment": "This physical action demonstrates quick reflexes, strength, and strategic use of her opponent's momentum, reflecting high physical competence and combat skill.",
+      "rating": 3,
+      "chunk": 9
+    },
+    {
+      "trait": "competence",
+      "action": "Allows herself to be stabbed in the stomach by Michael.",
+      "assessment": "While this could be seen as a vulnerability, it appears to be part of a deliberate tactic to gain control over Michael, indicating calculated risk-taking rather than incompetence.",
+      "rating": 1,
+      "chunk": 9
+    },
+    {
+      "trait": "competence",
+      "action": "Clasps both hands around Michael's wrist in an iron grip as he thrusts a knife into her stomach, then steps backward and pulls him over the edge of the roof with her.",
+      "assessment": "This action demonstrates significant physical strength, presence of mind, and tactical thinking under extreme duress, indicating high competence in combat and survival instincts.",
+      "rating": 3,
+      "chunk": 10
+    },
+    {
+      "trait": "competence",
+      "action": "Maintains grip on Michael's wrist despite being stabbed and falling off the roof, ultimately causing him to let go of the knife.",
+      "assessment": "Shows exceptional determination, pain tolerance, and strategic effectiveness, reflecting strong competence in handling a deadly adversary.",
+      "rating": 3,
+      "chunk": 10
+    },
+    {
+      "trait": "competence",
+      "action": "Falls to her death after pulling Michael down with her.",
+      "assessment": "While the fall results in her death, the act of sacrificing herself to ensure Michael's defeat can be seen as a competent, selfless final tactic, though it also indicates a lack of alternative escape options.",
+      "rating": 1,
+      "chunk": 10
+    },
+    {
+      "trait": "competence",
+      "action": "No direct actions or statements from Laurie Strode are present in this excerpt; the focus is on other characters' reactions to Michael Myers.",
+      "assessment": "Laurie Strode does not appear or act in this passage, so no competence indicators can be inferred here.",
+      "rating": 0,
+      "chunk": 45
+    },
+    {
+      "trait": "competence",
+      "action": "No direct actions or statements by Laurie Strode are present in this excerpt; the scene focuses on Sara's interaction with Michael Myers.",
+      "assessment": "Since Laurie Strode does not appear or act in this passage, no direct indicators of her competence can be inferred here.",
+      "rating": 0,
+      "chunk": 54
     }
   ]
 }

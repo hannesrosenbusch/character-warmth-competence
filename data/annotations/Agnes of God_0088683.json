@@ -1,691 +1,1161 @@
 {
   "Sister Agnes Devereaux": [
     {
-      "Action": "Screams terrified, found with blood-stained figure, suggesting vulnerability and distress",
-      "Warmth": 1,
-      "Chunk": 1
+      "trait": "warmth",
+      "action": "Sister Agnes is found in her room, bloodied and unconscious, after a terrifying scream is heard and the nuns rush to her aid.",
+      "assessment": "Though the excerpt does not provide direct insight into Sister Agnes's interpersonal warmth, the fact that she is in distress and the nuns respond urgently suggests she is a vulnerable figure within the community. Her state may evoke sympathy and concern, but her own warmth is not clearly demonstrated here.",
+      "rating": 0,
+      "chunk": 1
     },
     {
-      "Action": "Room blocked from other nuns, possibly isolating herself or being isolated",
-      "Warmth": 0,
-      "Chunk": 1
+      "trait": "competence",
+      "action": "Is found in her room, bloodied and unconscious, with a blocked door preventing others from entering.",
+      "assessment": "This situation suggests a serious incident involving Sister Agnes, indicating either a lack of self-care or an inability to manage a critical situation effectively on her own.",
+      "rating": -2,
+      "chunk": 1
     },
     {
-      "Action": "Locked herself inside her room, resulting in a bloodied and desperate state requiring emergency medical help.",
-      "Competence": -1,
-      "Chunk": 1
+      "trait": "competence",
+      "action": "The presence of bloodied sheets in her room and her subsequent collapse.",
+      "assessment": "This implies a failure to maintain personal safety or control over a medical or emergency situation, reflecting poorly on her practical competence.",
+      "rating": -2,
+      "chunk": 1
     },
     {
-      "Action": "Mother Miriam avoids confronting Agnes directly about her pregnancy, doubting Agnes would admit to the conception and pointing out Agnes can't remember the birth.",
-      "Warmth": 0,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Sister Agnes looks directly at Martha Livingston amidst a crowd of reporters before being quickly escorted past.",
+      "assessment": "This action suggests a moment of awareness and presence of mind in a stressful public situation, indicating some level of composure and situational awareness.",
+      "rating": 1,
+      "chunk": 2
     },
     {
-      "Action": "Successfully hides her pregnancy from the other nuns, managing to undress and bathe alone and conceal physical changes between annual medical exams.",
-      "Competence": 1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Sister Agnes is dressed in a white novice's habit and is escorted by police and other nuns after a court appearance.",
+      "assessment": "Her attire and the presence of police suggest she is in a vulnerable or subordinate position, possibly lacking control over the situation, which may indicate limited agency or competence in managing her circumstances.",
+      "rating": -1,
+      "chunk": 2
     },
     {
-      "Action": "Does not remember the birth of the baby, indicating possible mental or emotional block that affects awareness and acknowledgement of key facts.",
-      "Competence": -1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Hides her pregnancy from the other nuns by undressing and bathing alone, and concealing her condition under her habit.",
+      "assessment": "This indicates a certain level of awareness and ability to manage her condition discreetly, suggesting some competence in maintaining privacy and control over her situation.",
+      "rating": 1,
+      "chunk": 5
     },
     {
-      "Action": "Does not communicate about the conception or the identity of the father, leading to lack of clarity and complicating the investigation.",
-      "Competence": -1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Cannot remember the birth of her baby.",
+      "assessment": "This lack of memory may indicate psychological trauma or dissociation, which could impair her ability to respond competently to her circumstances.",
+      "rating": -2,
+      "chunk": 5
     },
     {
-      "Action": "Admits to loving everyone and expresses sincere affection openly, even saying 'I love you' to Martha.",
-      "Warmth": 1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Does not admit to the conception or provide information about the father.",
+      "assessment": "Her silence and possible denial hinder understanding of the situation, reflecting a lack of openness or capacity to engage with the reality of her condition, which negatively impacts her competence.",
+      "rating": -1,
+      "chunk": 5
     },
     {
-      "Action": "Engages openly with Martha, allowing her to sit and talk frankly about feelings and relationships.",
-      "Warmth": 1,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Sings happily in Latin, appearing childlike and joyful while looking out the window.",
+      "assessment": "Her singing and joyful demeanor suggest an innocent and sincere nature, which can be perceived as warm and genuine.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Shows discomfort or exasperation when the topic shifts towards more personal or potentially inappropriate questions about Father Martineau.",
-      "Warmth": 0,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Responds to Martha's compliment about her voice by denying it and then laughing.",
+      "assessment": "Her laughter and denial may indicate shyness or insecurity rather than unfriendliness, showing a gentle and modest character rather than coldness.",
+      "rating": 1,
+      "chunk": 6
     },
     {
-      "Action": "Avoids engaging deeply with Martha's probing questions, gives evasive or ambiguous answers.",
-      "Competence": -1,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Allows Martha to enter her room and speak with her.",
+      "assessment": "Her willingness to engage with a stranger, especially a doctor, shows a trusting and open attitude, which is a positive indicator of warmth.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Shows awareness of social cues by granting permission for Martha to sit, participates in conversation despite discomfort.",
-      "Competence": 0,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Sings happily in Latin, appearing childlike and innocent.",
+      "assessment": "This behavior suggests a simple, perhaps naive demeanor rather than a display of skill or confidence; it neither supports nor detracts from competence directly.",
+      "rating": 0,
+      "chunk": 6
     },
     {
-      "Action": "Expresses strong emotional certainty eg. claiming Father Martineau loves her without explicit confirmation.",
-      "Competence": -1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Stops singing abruptly and turns to see Martha standing in the doorway.",
+      "assessment": "This shows attentiveness and awareness of her surroundings, indicating a basic level of situational awareness.",
+      "rating": 1,
+      "chunk": 6
     },
     {
-      "Action": "Sincerely insists she never saw the baby and expresses confusion and frustration about the baby’s existence.",
-      "Warmth": 1,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Responds affirmatively and cooperatively to Martha's request to talk.",
+      "assessment": "Her willingness to engage calmly and politely with the doctor suggests social competence and emotional composure.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Agitatedly refuses to talk further about the baby, showing emotional exhaustion and distrust that others believe her.",
-      "Warmth": 0,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Denies that the singing voice Martha heard was hers.",
+      "assessment": "This denial could indicate confusion, evasiveness, or a lack of self-awareness, which may reflect limited insight or cognitive competence.",
+      "rating": -1,
+      "chunk": 6
     },
     {
-      "Action": "Expresses simple, sincere concern by saying 'God loves you' to Martha.",
-      "Warmth": 1,
-      "Chunk": 11
+      "trait": "warmth",
+      "action": "Responds honestly and openly to Martha's questions about love, including expressing love for others and Father Martineau.",
+      "assessment": "Sister Agnes shows a sincere and trusting nature by openly sharing her feelings and thoughts, indicating a degree of warmth and openness.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Appears innocent and naive, showing trust and a gentle nature in her confused responses to Martha's questions.",
-      "Warmth": 1,
-      "Chunk": 11
+      "trait": "warmth",
+      "action": "Allows Martha to sit and engage in a personal conversation despite initial hesitation.",
+      "assessment": "Permitting a personal and somewhat intimate conversation suggests Agnes is tolerant and willing to connect, reflecting warmth.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Does not engage in defensive or hostile behavior despite suspicion and questioning about the child’s death.",
-      "Warmth": 1,
-      "Chunk": 11
+      "trait": "warmth",
+      "action": "Expresses love for many people and specifically for Father Martineau, including interpreting his feelings through his eyes.",
+      "assessment": "This shows Agnes’s capacity for affection and trust, but also a possible naivety or idealization, which complicates the warmth assessment.",
+      "rating": 1,
+      "chunk": 7
     },
     {
-      "Action": "Is described as naive and uneducated, showing limited worldly knowledge and experience.",
-      "Competence": -1,
-      "Chunk": 11
+      "trait": "warmth",
+      "action": "Becomes exasperated when Martha probes further about her relationship with Father Martineau.",
+      "assessment": "Her irritation may indicate discomfort with boundaries being crossed or a lack of openness in certain areas, which slightly detracts from warmth.",
+      "rating": -1,
+      "chunk": 7
     },
     {
-      "Action": "Is believed by Mother Miriam not to be lying or crazy, indicating a level of trust in her honesty and integrity.",
-      "Competence": 1,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Engages in a hesitant and evasive conversation with Martha, giving short, sometimes contradictory answers about her feelings and relationships.",
+      "assessment": "This behavior suggests a lack of social or emotional competence, as Agnes struggles to communicate clearly and confidently about personal matters.",
+      "rating": -2,
+      "chunk": 7
     },
     {
-      "Action": "Fails to understand or recall the circumstances of the baby's birth and death, suggesting confusion and lack of awareness.",
-      "Competence": -1,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Admits to loving multiple people, including Father Martineau, and acknowledges meeting him regularly in the confessional.",
+      "assessment": "While this shows some honesty and self-awareness, it also reveals poor judgment and boundary issues, indicating a lack of competence in maintaining appropriate relationships within her role.",
+      "rating": -2,
+      "chunk": 7
     },
     {
-      "Action": "Obediently follows perceived divine commands even to the point of self-neglect (stopping eating as commanded by God).",
-      "Warmth": 1,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Responds to probing questions with simple, direct answers without elaboration or defense.",
+      "assessment": "This could indicate either innocence or naivety, but also a lack of assertiveness or critical thinking skills, which are important for competent interpersonal interactions.",
+      "rating": -1,
+      "chunk": 7
     },
     {
-      "Action": "Is secretive about who 'God' spoke through, fearing punishment.",
-      "Warmth": 0,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Responds to Martha's questions about the baby with confusion and denial, expressing that she never saw the baby and does not believe in it.",
+      "assessment": "Agnes's responses show a childlike innocence and vulnerability rather than hostility or coldness. Her agitation and frustration at being misunderstood suggest a sincere desire to be heard and trusted, indicating some degree of warmth in her sincerity and openness.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Refuses to explain who 'commanded' her to stop eating out of fear of punishment, showing a lack of openness or clear communication.",
-      "Competence": -1,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Refuses to continue talking about the baby, stating she is tired of talking and feels that nobody believes her.",
+      "assessment": "Her withdrawal and fatigue in conversation may indicate emotional distress and a protective response rather than unfriendliness. This shows a limit to her tolerance but also a genuine emotional vulnerability, which can be seen as a warm human reaction to feeling isolated.",
+      "rating": 1,
+      "chunk": 8
     },
     {
-      "Action": "Demonstrates unwavering obedience and commitment to her perceived divine commands, indicating a focused but possibly rigid mindset.",
-      "Competence": 0,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Denies seeing the baby and insists it was made up, showing confusion and evasion when questioned about the baby's origin and her own experience.",
+      "assessment": "This suggests a lack of clear understanding or unwillingness to engage with the reality of the situation, indicating limited insight and possibly impaired cognitive or emotional processing, which reflects negatively on her competence.",
+      "rating": -2,
+      "chunk": 8
     },
     {
-      "Action": "Shares her deep insecurities about her body and expresses a desire to be pure and beautiful to God.",
-      "Warmth": 1,
-      "Chunk": 16
+      "trait": "competence",
+      "action": "Responds to probing questions with vague, inconsistent answers and shows agitation when pressed to explain how babies are born.",
+      "assessment": "Her inability to provide coherent or factual responses to basic biological questions points to a significant gap in knowledge or comprehension, undermining her intellectual competence.",
+      "rating": -3,
+      "chunk": 8
     },
     {
-      "Action": "Believes suffering and thinness are beautiful, reflecting internalized harshness towards herself.",
-      "Warmth": -1,
-      "Chunk": 16
+      "trait": "competence",
+      "action": "Expresses frustration and fatigue from repeated questioning and disbelief from others.",
+      "assessment": "While this shows emotional vulnerability, it also reveals a lack of assertiveness or effective communication skills to clarify her position, which may be seen as a weakness in handling stressful interpersonal situations competently.",
+      "rating": -1,
+      "chunk": 8
     },
     {
-      "Action": "Expresses distorted beliefs about her body and spirituality, showing confusion and fear rather than clear understanding.",
-      "Competence": -1,
-      "Chunk": 16
+      "trait": "warmth",
+      "action": "Engages Martha in a gentle, curious conversation about personal topics like marriage, children, and smoking.",
+      "assessment": "Sister Agnes shows sincere interest and openness in her dialogue with Martha, indicating a friendly and trusting demeanor.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Openly vocalizes her fears and tries to articulate her feelings despite mental or emotional struggles.",
-      "Competence": 0,
-      "Chunk": 16
+      "trait": "warmth",
+      "action": "Allows Martha to smoke without expressing judgment or disapproval.",
+      "assessment": "By not criticizing Martha's smoking, Agnes demonstrates tolerance and acceptance, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Expresses fear and self-criticism about her body, showing vulnerability ('I've got to lose weight, I'm a blimp.')",
-      "Warmth": 1,
-      "Chunk": 17
+      "trait": "warmth",
+      "action": "Responds to Martha's invitation to ask questions with openness and willingness.",
+      "assessment": "Her readiness to engage and answer questions sincerely reflects trustworthiness and good-naturedness.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Believes her deceased mother watches and listens to her, revealing reliance on imagined emotional support",
-      "Warmth": 1,
-      "Chunk": 17
+      "trait": "warmth",
+      "action": "Expresses a poetic, innocent belief about where babies come from, describing them as 'angel lights' and 'whispers'.",
+      "assessment": "This imaginative and gentle explanation reveals Agnes's sincere and warm-hearted nature.",
+      "rating": 3,
+      "chunk": 9
     },
     {
-      "Action": "Insists she is not hungry and that the host (communion wafer) is enough nourishment, showing a sincere but troubled spiritual conviction",
-      "Warmth": 0,
-      "Chunk": 17
+      "trait": "competence",
+      "action": "Refuses to answer more questions and attempts to control the interaction by suggesting Martha ask questions instead.",
+      "assessment": "This shows a degree of assertiveness and an attempt to manage the conversation on her own terms, indicating some confidence and control.",
+      "rating": 1,
+      "chunk": 9
     },
     {
-      "Action": "Admits she is being punished for unknown reasons and shows physical injury without complaint or blame",
-      "Warmth": 1,
-      "Chunk": 17
+      "trait": "competence",
+      "action": "Engages Martha in a series of personal questions about her life, including marriage, children, and smoking.",
+      "assessment": "This demonstrates curiosity and an attempt to understand Martha better, which could be seen as skillful social probing, though the questions are somewhat blunt and may lack tact.",
+      "rating": 1,
+      "chunk": 9
     },
     {
-      "Action": "Does not seek medical help but allows Mother Miriam to care for her, indicating trust and acceptance",
-      "Warmth": 1,
-      "Chunk": 17
+      "trait": "competence",
+      "action": "Stops Martha from answering further questions when she feels uncomfortable or challenged.",
+      "assessment": "This suggests a lack of emotional resilience or skill in handling difficult conversations, possibly indicating limited interpersonal competence.",
+      "rating": -1,
+      "chunk": 9
     },
     {
-      "Action": "Refuses to eat, insisting the communion wafer (the host) is sufficient nourishment, showing a fragile understanding of physical needs.",
-      "Competence": -1,
-      "Chunk": 17
+      "trait": "competence",
+      "action": "Expresses a naive or fantastical belief about where babies come from, describing them as 'angel lights' and 'whispers'.",
+      "assessment": "This indicates a lack of realistic understanding or intellectual sophistication, which may reflect limited knowledge or cognitive competence.",
+      "rating": -2,
+      "chunk": 9
     },
     {
-      "Action": "Exhibits physical symptoms of bleeding from a hole in her palm, but neither recognizes the severity nor seeks medical help, relying on spiritual or mystical explanation.",
-      "Competence": -1,
-      "Chunk": 17
+      "trait": "warmth",
+      "action": "Sits down on a bench next to Martha and shares her deeply personal and spiritual experiences openly.",
+      "assessment": "By sitting close and sharing her inner visions and feelings, Agnes demonstrates a willingness to connect and be sincere, indicating warmth and trustworthiness.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Appears to accept ambiguous punishment without question, indicating a lack of assertiveness or self-advocacy.",
-      "Competence": -1,
-      "Chunk": 17
+      "trait": "warmth",
+      "action": "Expresses a childlike, innocent belief that 'God loves you' while singing in a voice she attributes to the Lady.",
+      "assessment": "This expression of love and innocence shows Agnes's good-natured and sincere character, reflecting warmth in her intentions and demeanor.",
+      "rating": 3,
+      "chunk": 10
     },
     {
-      "Action": "Confesses quietly and then loudly about having 'ugly thoughts' about Sister Marguerite.",
-      "Warmth": 1,
-      "Chunk": 19
+      "trait": "warmth",
+      "action": "Describes her mother as unhappy and possibly in hell, and mentions the conflict between her mother and the Lady over her.",
+      "assessment": "While this reveals Agnes's troubled internal world, it also shows her tolerance and acceptance of complex, painful emotions without bitterness, suggesting a nuanced warmth.",
+      "rating": 1,
+      "chunk": 10
     },
     {
-      "Action": "Shows knowledge of convent traditions and history, describes Sister Paul’s routines and personal care.",
-      "Competence": 1,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Delivers a somewhat confusing and disturbing account of 'bad babies' and fallen angels.",
+      "assessment": "This imagery may unsettle others and could be perceived as alienating or frightening, which might reduce the sense of warmth in her communication.",
+      "rating": -1,
+      "chunk": 10
     },
     {
-      "Action": "Leads Martha up the steep stairs in the bell tower confidently.",
-      "Competence": 1,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Sits quietly and listens to Agnes's delirious and confused spiritual ramblings without interrupting or correcting her.",
+      "assessment": "This shows patience and restraint, indicating emotional competence in handling a fragile individual, but it does not demonstrate active skill or confident intervention.",
+      "rating": 1,
+      "chunk": 10
     },
     {
-      "Action": "Expresses fear and insecurity about handling babies, linking it to personal cognitive difficulties.",
-      "Competence": -1,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Allows Agnes to express her confused and fantastical ideas about angels, babies, and spiritual visions without challenging or clarifying them.",
+      "assessment": "This could suggest a lack of assertiveness or critical engagement, potentially indicating a passive approach that may limit effective guidance or care.",
+      "rating": -1,
+      "chunk": 10
     },
     {
-      "Action": "Admits to not understanding things well and rationalizes it by claiming she was dropped on her head.",
-      "Competence": -1,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Responds to Martha's question about knowing a Marie with simple, direct answers: 'No... do you?' and 'I don't know.'",
+      "assessment": "This shows a straightforward, honest communication style but also suggests limited knowledge or awareness, indicating a possible lack of worldly experience rather than incompetence.",
+      "rating": 0,
+      "chunk": 11
     },
     {
-      "Action": "Climbs the bell tower and sings under the bell with a beautiful voice, demonstrating physical capability and artistic skill.",
-      "Competence": 1,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Is described by Mother Miriam as having had very little schooling, never having been out in the world, never seen a movie or television show, and never read a book.",
+      "assessment": "This background implies a lack of formal education and exposure, which may limit Agnes's ability to navigate complex social or intellectual situations, reflecting a negative indicator of competence.",
+      "rating": -2,
+      "chunk": 11
     },
     {
-      "Action": "Expresses a simplistic, childlike understanding of numbers and the world; admits not understanding things due to being 'dropped on her head.'",
-      "Competence": -1,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Mother Miriam defends Agnes as innocent and not lying, suggesting Agnes is not mentally ill or deceitful.",
+      "assessment": "This suggests Agnes has a certain mental stability and honesty, which are positive indicators of competence in terms of psychological integrity and reliability.",
+      "rating": 1,
+      "chunk": 11
     },
     {
-      "Action": "Shows confidence in her place in the convent and her emotional coping mechanism by staying there at night to help her sleep.",
-      "Competence": 1,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Agnes is implicated in the death of a baby but is described as having lost a lot of blood and being unconscious when found.",
+      "assessment": "This indicates a lack of control or awareness during a critical event, which negatively impacts perceptions of her competence in managing serious situations.",
+      "rating": -2,
+      "chunk": 11
     },
     {
-      "Action": "Avoids or fails to clarify details about her mother's knowledge and seemingly important family information.",
-      "Competence": -1,
-      "Chunk": 21
+      "trait": "warmth",
+      "action": "Agnes lies face down in front of the altar, showing deep religious devotion and obedience to perceived divine commands.",
+      "assessment": "Her sincere faith and obedience suggest a pure and earnest nature, which can be seen as a form of warmth through her trustworthiness and sincerity.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Affectionately insists her mother was a good woman and a saint despite difficult circumstances, defends her mother against negative assumptions.",
-      "Warmth": 1,
-      "Chunk": 22
+      "trait": "warmth",
+      "action": "Agnes stops eating completely as a form of obedience to a command she believes came from God.",
+      "assessment": "While this shows her sincerity and commitment, it also indicates a troubling self-denial that may limit her ability to be nurturing or openly warm to others.",
+      "rating": 0,
+      "chunk": 15
     },
     {
-      "Action": "Shows frustration and emotional distress when confronted with painful truths about her origins, but remains sincere and open.",
-      "Warmth": 1,
-      "Chunk": 22
+      "trait": "warmth",
+      "action": "Agnes refuses to reveal who communicated God's command to her, fearing punishment.",
+      "assessment": "This secrecy and fear suggest a lack of openness and possibly a withdrawn or fearful nature, which can hinder warmth and trustworthiness in interpersonal relations.",
+      "rating": -1,
+      "chunk": 15
     },
     {
-      "Action": "Avoids directly discussing or acknowledging her feelings about motherhood and pregnancy, possibly indicating emotional repression or avoidance.",
-      "Warmth": 0,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Agnes stopped eating completely as a form of obedience to a divine command.",
+      "assessment": "This action suggests a lack of practical judgment and self-care, indicating a limited understanding of her own physical needs and a potentially fragile mental state, which reflects negatively on her competence in managing her wellbeing.",
+      "rating": -2,
+      "chunk": 15
     },
     {
-      "Action": "Admits lack of understanding about sex and her own background with a sense of frustration and vulnerability.",
-      "Competence": -1,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Agnes does not look up or engage directly when questioned about her behavior, and refuses to disclose the source of her commands.",
+      "assessment": "Her evasiveness and silence in response to direct questions suggest either fear, confusion, or lack of assertiveness, which may indicate limited interpersonal or communicative competence.",
+      "rating": -1,
+      "chunk": 15
     },
     {
-      "Action": "Maintains a loyal, protective attitude towards her mother despite pressure, showing emotional consistency but limited critical reflection.",
-      "Competence": 0,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Agnes is described as innocent and unaware of basic facts about human reproduction.",
+      "assessment": "This naivety points to a lack of worldly knowledge and practical understanding, which could be seen as a deficit in competence in navigating real-world situations.",
+      "rating": -2,
+      "chunk": 15
     },
     {
-      "Action": "Shows emotional honesty and openness about her feelings of confusion and remorse.",
-      "Competence": 0,
-      "Chunk": 22
+      "trait": "warmth",
+      "action": "Expresses deep personal insecurities about her body and her worthiness before God, revealing vulnerability.",
+      "assessment": "Agnes's openness about her fears and self-judgment shows a sincere and vulnerable side, which can evoke empathy and trustworthiness, indicating warmth in her character.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Answers Mother Miriam sincerely and calmly about sleeping on a bare mattress, explaining her belief that it made them holy.",
-      "Warmth": 1,
-      "Chunk": 25
+      "trait": "warmth",
+      "action": "Internalizes harsh and punitive beliefs about herself, such as thinking being fat is a sin and that God hates fat people.",
+      "assessment": "This self-critical and harsh internal dialogue suggests a lack of self-compassion and may limit her ability to be tolerant and good-natured toward herself and possibly others, which negatively impacts her warmth.",
+      "rating": -1,
+      "chunk": 16
     },
     {
-      "Action": "Maintains a gentle and innocent demeanor during the meal among other nuns, not reacting negatively to derision from Sister Marguerite.",
-      "Warmth": 1,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Expresses a distorted belief that being fat is a sin and that suffering through physical thinness is necessary to be beautiful and acceptable to God.",
+      "assessment": "This indicates a lack of critical thinking and emotional maturity, reflecting a confused and possibly unhealthy understanding of spirituality and self-image, which undermines her competence in managing her own mental and emotional well-being.",
+      "rating": -2,
+      "chunk": 16
     },
     {
-      "Action": "Burns stained sheets out of a sense of shame and confusion rather than addressing the issue directly.",
-      "Competence": -1,
-      "Chunk": 26
+      "trait": "competence",
+      "action": "Openly admits to Mother Miriam her fears about her body and her spiritual worthiness.",
+      "assessment": "This shows a degree of honesty and willingness to communicate her internal struggles, which is a positive indicator of self-awareness and emotional openness, though it also reveals vulnerability and insecurity.",
+      "rating": 1,
+      "chunk": 16
     },
     {
-      "Action": "Admits uncertainty and confusion about what happened, expresses emotional distress and self-blame.",
-      "Competence": 0,
-      "Chunk": 26
+      "trait": "competence",
+      "action": "Attempts to interpret religious teachings literally and personally, such as equating Christ's words about suffering with her own physical suffering and thinness.",
+      "assessment": "While this shows engagement with religious texts, it also reveals a simplistic and possibly misguided interpretation, suggesting limited intellectual or spiritual competence in understanding complex theological concepts.",
+      "rating": 0,
+      "chunk": 16
     },
     {
-      "Action": "Responds to reprimand by crying and faltering, showing emotional vulnerability but limited assertiveness.",
-      "Competence": 0,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Expresses fear about gaining weight and being punished, showing vulnerability and a need for care.",
+      "assessment": "Agnes' openness about her fears and suffering indicates a sincere and vulnerable nature, which can elicit warmth from others, though it is more a reflection of her innocence than active warmth.",
+      "rating": 1,
+      "chunk": 17
     },
     {
-      "Action": "Slips quietly and unobserved into the sickroom during a critical moment, showing awareness and respect for the situation.",
-      "Competence": 1,
-      "Chunk": 27
+      "trait": "warmth",
+      "action": "Refuses to eat, claiming 'the host is enough.'",
+      "assessment": "This action shows a rigid and possibly self-denying attitude that may limit her ability to be nurturing or warm toward herself or others.",
+      "rating": -1,
+      "chunk": 17
     },
     {
-      "Action": "Her facial expression changes to a somber one after Sister Paul tries to communicate before dying, indicating emotional sensitivity but possibly uncertainty or helplessness.",
-      "Competence": 0,
-      "Chunk": 27
+      "trait": "warmth",
+      "action": "Accepts punishment and suffering without complaint, saying 'I'm being punished.'",
+      "assessment": "Her acceptance of suffering without protest suggests a passive and possibly self-sacrificial nature, which may be sincere but does not necessarily indicate warmth toward others.",
+      "rating": 0,
+      "chunk": 17
     },
     {
-      "Action": "Shakes head to deny being hit, answers yes to uncomfortable and hurtful actions, struggles to verbally disclose trauma.",
-      "Warmth": 1,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Agnes refuses to eat, claiming the host is enough sustenance for her.",
+      "assessment": "This indicates a lack of practical self-care and awareness of physical needs, suggesting a deficiency in managing her own health.",
+      "rating": -2,
+      "chunk": 17
     },
     {
-      "Action": "Reluctantly admits to feeling afraid and embarrassed, shows vulnerability and trust in revealing feelings to Martha.",
-      "Warmth": 1,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Agnes has a bleeding hole in the palm of her hand that she cannot stop.",
+      "assessment": "The inability to recognize the severity of a serious physical injury and seek help reflects poor self-management and a lack of competence in attending to her own wellbeing.",
+      "rating": -3,
+      "chunk": 17
     },
     {
-      "Action": "Does not outright refuse to communicate but shows difficulty in verbalizing trauma, indicating possible withdrawal or internal struggle.",
-      "Warmth": 0,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Despite the injury, Agnes continues to participate in religious rituals and maintains her faith.",
+      "assessment": "This shows a strong mental and spiritual focus, which could be seen as a form of inner competence, though it does not translate into practical or physical competence.",
+      "rating": 1,
+      "chunk": 17
     },
     {
-      "Action": "Confidently asserts her intelligence and self-worth even when challenged and insulted.",
-      "Competence": 1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Agnes expresses confusion about why she is being punished and does not understand her own condition.",
+      "assessment": "This suggests a lack of insight or understanding of her situation, indicating limited cognitive or emotional competence in processing her experiences.",
+      "rating": -1,
+      "chunk": 17
     },
     {
-      "Action": "Shouts emotionally and struggles to maintain composure under verbal attack.",
-      "Competence": 0,
-      "Chunk": 30
+      "trait": "warmth",
+      "action": "Places winter flowers on Sister Marie Paul's grave and speaks fondly of her kindness and beauty.",
+      "assessment": "This action shows Agnes's capacity for affection and respect toward others, indicating a gentle and sincere nature.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Sings by her window, inspiring faith and hope in Mother Miriam",
-      "Warmth": 1,
-      "Chunk": 36
+      "trait": "warmth",
+      "action": "Shares with Martha the secret place Sister Paul took her to and invites Martha to see it.",
+      "assessment": "Inviting Martha to a personal, meaningful place suggests openness and a willingness to share intimacy, reflecting trust and friendliness.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Responds honestly and simply to questions about her feelings and surroundings; shows vulnerability when admitting fear and illness",
-      "Warmth": 1,
-      "Chunk": 39
+      "trait": "warmth",
+      "action": "Explains her fear of babies and her self-deprecating belief that she was dropped on her head.",
+      "assessment": "Her candidness about her fears and vulnerabilities reveals sincerity and a humble, approachable character.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Expresses dislike for brussel sprouts sincerely",
-      "Warmth": 1,
-      "Chunk": 39
+      "trait": "competence",
+      "action": "Leads Martha up the steep wooden steps of the bell tower with apparent ease, while Martha becomes breathless.",
+      "assessment": "This action suggests that Agnes is physically capable and confident in navigating challenging environments, indicating a degree of competence.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Suddenly leaps up fearing someone is following her, showing trust in Martha by confiding",
-      "Warmth": 1,
-      "Chunk": 39
+      "trait": "competence",
+      "action": "Places winter flowers on Sister Paul's grave and makes the sign of the cross.",
+      "assessment": "This shows reverence and ritual observance, reflecting a respectful and mindful approach, but does not strongly indicate competence beyond basic religious practice.",
+      "rating": 0,
+      "chunk": 20
     },
     {
-      "Action": "Responds to questioning but shows confusion and fear; exhibits limited awareness of her surroundings.",
-      "Competence": -1,
-      "Chunk": 39
+      "trait": "competence",
+      "action": "Describes her fear of babies and explains that she was dropped on her head, which she believes causes her difficulty in understanding things.",
+      "assessment": "This self-assessment reveals a lack of confidence in her intellectual abilities and a possible cognitive limitation, which negatively impacts her perceived competence.",
+      "rating": -2,
+      "chunk": 20
     },
     {
-      "Action": "Identifies specific details like her bed, crucifix, and a wastepaper basket, and explains their use with some insight.",
-      "Competence": 1,
-      "Chunk": 39
+      "trait": "competence",
+      "action": "Remembers and recounts details about Sister Paul’s life and habits, including the secret place and the bell-ringing routine.",
+      "assessment": "This indicates good memory and attentiveness, suggesting mental capability and a degree of competence in recalling important information.",
+      "rating": 1,
+      "chunk": 20
     },
     {
-      "Action": "Leaps up suddenly claiming someone's following her, showing heightened anxiety and possible paranoia.",
-      "Competence": -1,
-      "Chunk": 39
+      "trait": "warmth",
+      "action": "Sings beautifully under the bell to share a wonderful sound with Martha.",
+      "assessment": "Singing to share a beautiful experience suggests a gentle, sincere, and friendly nature, indicating warmth.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Cries out in pain and fear, tries to push others away when feeling threatened and vulnerable.",
-      "Warmth": 1,
-      "Chunk": 40
+      "trait": "warmth",
+      "action": "Engages in a tender conversation with Martha about fears, memories, and personal thoughts.",
+      "assessment": "Her willingness to open up and listen to Martha shows trustworthiness and a good-natured, tolerant attitude.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Repeatedly insists 'Get away from me,' showing fear and mistrust in a moment of intense distress.",
-      "Warmth": 0,
-      "Chunk": 40
+      "trait": "warmth",
+      "action": "Expresses concern about being dropped on the head and relates it to her own difficulties.",
+      "assessment": "Sharing vulnerability and fears in a sincere way reflects warmth and openness.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Mother Miriam defends Agnes, insisting on respectful, objective treatment and implying Agnes has been 'touched by God'",
-      "Warmth": 1,
-      "Chunk": 42
+      "trait": "warmth",
+      "action": "Does not correct or judge Martha's self-deprecating humor about being dropped on her head.",
+      "assessment": "Her tolerance and acceptance of Martha's feelings without criticism indicate warmth.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "No direct action or statement from Agnes in this excerpt; her presence is indirect through others' discussion",
-      "Warmth": 0,
-      "Chunk": 42
+      "trait": "competence",
+      "action": "Climbs up through the trapdoor to the bell platform and lies down under the bell, then sings beautifully to produce a resonant sound.",
+      "assessment": "This action shows physical capability, confidence in navigating a potentially precarious space, and a skillful use of her voice, indicating a degree of competence in both physical and artistic domains.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Not directly present or acting in this excerpt; no indication of behavior related to competence.",
-      "Competence": 0,
-      "Chunk": 42
+      "trait": "competence",
+      "action": "Expresses a simplistic and childlike understanding of the world, e.g., fearing being dropped on her head and associating it with stupidity.",
+      "assessment": "This suggests a limited intellectual grasp or naivety, which may reflect a lack of cognitive competence or maturity.",
+      "rating": -2,
+      "chunk": 21
     },
     {
-      "Action": "No direct action or statement by Agnes in the excerpt; she is notably absent or silent in a critical discussion about the circumstances around her, indicating passivity or omission.",
-      "Competence": -1,
-      "Chunk": 44
+      "trait": "competence",
+      "action": "States firmly that there is 'nothing else' besides being in the convent and that being there at night helps her sleep.",
+      "assessment": "This shows a clear, confident commitment to her environment and role, indicating emotional and psychological steadiness and competence in her chosen vocation.",
+      "rating": 1,
+      "chunk": 21
     },
     {
-      "Action": "Responds to Martha's questioning with honesty about memories and feelings, admits to being frightened.",
-      "Warmth": 1,
-      "Chunk": 47
+      "trait": "competence",
+      "action": "Admits to having headaches and a limited understanding of complex concepts like numbers.",
+      "assessment": "This admission points to some vulnerabilities or limitations in her mental or physical health, which may detract from her overall competence.",
+      "rating": -1,
+      "chunk": 21
     },
     {
-      "Action": "Expresses fear and vulnerability openly, showing sincere emotional responses.",
-      "Warmth": 1,
-      "Chunk": 48
+      "trait": "warmth",
+      "action": "Admits to Martha that she cannot tell her mother she doesn't believe in the angels because it would make her mother angry.",
+      "assessment": "This shows a certain sensitivity and desire to avoid hurting her mother's feelings, indicating a caring and considerate nature.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Rejects help from others and pushes them away in distress.",
-      "Warmth": -1,
-      "Chunk": 48
+      "trait": "warmth",
+      "action": "Expresses love for her mother despite the complicated feelings about her conception.",
+      "assessment": "Her insistence that her mother was a good woman and a saint, even when upset, reflects loyalty and a sincere affectionate bond.",
+      "rating": 3,
+      "chunk": 22
     },
     {
-      "Action": "Speaks to unseen presence with openness and longing.",
-      "Warmth": 1,
-      "Chunk": 48
+      "trait": "warmth",
+      "action": "Becomes frustrated and upset when Martha probes about her mother and her own origins.",
+      "assessment": "Her emotional reaction suggests vulnerability and a guardedness that may limit open warmth but also shows depth of feeling.",
+      "rating": 1,
+      "chunk": 22
     },
     {
-      "Action": "Shows intense emotional distress and irrational behavior by smearing her bleeding palms on the walls and resisting help.",
-      "Competence": -1,
-      "Chunk": 48
+      "trait": "warmth",
+      "action": "Calls herself 'stupid' and shows self-deprecation when Martha questions her knowledge.",
+      "assessment": "This self-critical attitude may indicate low self-esteem and a lack of self-compassion, which can hinder warmth toward self and others.",
+      "rating": -1,
+      "chunk": 22
     },
     {
-      "Action": "Reacts immediately to her bleeding palms and expresses horror and fear.",
-      "Competence": 0,
-      "Chunk": 48
+      "trait": "competence",
+      "action": "Responds to Martha's questions with simple, sometimes confused or emotionally charged answers, showing limited understanding of complex topics like motherhood and sexuality.",
+      "assessment": "This suggests a limited intellectual grasp or emotional maturity regarding these subjects, indicating a lower level of competence in handling or processing such issues.",
+      "rating": -2,
+      "chunk": 22
     },
     {
-      "Action": "Admits her feelings honestly and struggles to recall traumatic events, showing emotional transparency but limited cognitive clarity.",
-      "Competence": 0,
-      "Chunk": 49
+      "trait": "competence",
+      "action": "Expresses strong emotional reactions when challenged about her mother and her own knowledge, including frustration and upset.",
+      "assessment": "While emotional responses show sensitivity, they also reveal difficulty in managing stress or complex conversations, which may reflect lower competence in emotional regulation and communication.",
+      "rating": -1,
+      "chunk": 22
     },
     {
-      "Action": "Shows confusion and inability to clearly remember or provide coherent information about critical incidents.",
-      "Competence": -1,
-      "Chunk": 49
+      "trait": "competence",
+      "action": "Maintains a consistent narrative about her mother being a 'good woman, a saint' despite pressure to say otherwise.",
+      "assessment": "This indicates a certain level of conviction and consistency in her beliefs, which can be seen as a sign of internal coherence and confidence, modestly supporting competence.",
+      "rating": 1,
+      "chunk": 22
     },
     {
-      "Action": "Displays resilience in facing her internal turmoil by continuing to engage in questioning despite distress.",
-      "Competence": 1,
-      "Chunk": 49
+      "trait": "competence",
+      "action": "Responds to Mother Miriam's question about sleeping on a bare mattress by explaining it was a medieval practice to be holy.",
+      "assessment": "This response shows Sister Agnes's knowledge of religious history and her commitment to ascetic practices, indicating a thoughtful and intentional approach to her behavior, which reflects a degree of competence in her spiritual discipline.",
+      "rating": 2,
+      "chunk": 25
     },
     {
-      "Action": "Expresses sorrow and confusion about her actions, tries to explain her intentions to save the baby as a mistaken but sincere act.",
-      "Warmth": 1,
-      "Chunk": 50
+      "trait": "competence",
+      "action": "Accepts Mother Miriam's correction about not being in the Middle Ages without argument.",
+      "assessment": "Her willingness to accept correction calmly suggests humility and openness to guidance, which are positive traits but do not strongly indicate competence in practical or intellectual skills.",
+      "rating": 1,
+      "chunk": 25
     },
     {
-      "Action": "Describes putting the baby to sleep and disposing of it in a matter-of-fact manner without apparent remorse.",
-      "Warmth": -1,
-      "Chunk": 50
+      "trait": "warmth",
+      "action": "Burns her stained sheets and expresses deep confusion and self-reproach about the blood on them.",
+      "assessment": "Agnes's reaction shows vulnerability and a sincere, if troubled, emotional openness. Her tears and admission of not knowing what she did wrong indicate a sensitive and earnest nature, which can be seen as a form of warmth through sincerity and trustworthiness in revealing her inner turmoil.",
+      "rating": 2,
+      "chunk": 26
     },
     {
-      "Action": "Stands up in court to share a vulnerable and poetic experience of hearing beautiful singing and seeing the moon, showing sensitivity and openness.",
-      "Warmth": 1,
-      "Chunk": 50
+      "trait": "warmth",
+      "action": "Remains silent and does not respond when asked directly about the sheets initially.",
+      "assessment": "Her silence may reflect fear, shame, or confusion rather than coldness, but it also creates a barrier to open communication, which slightly diminishes the perception of warmth.",
+      "rating": -1,
+      "chunk": 26
+    },
+    {
+      "trait": "competence",
+      "action": "Burns her stained sheets without explaining clearly why.",
+      "assessment": "This action shows a lack of practical judgment and poor decision-making, as burning sheets is an extreme and secretive response rather than seeking help or clarification.",
+      "rating": -2,
+      "chunk": 26
+    },
+    {
+      "trait": "competence",
+      "action": "Responds to Mother Miriam's questioning with confusion and emotional distress, unable to clearly articulate what happened regarding the blood on the sheets.",
+      "assessment": "Her inability to provide clear information or understand the situation indicates a lack of self-awareness and cognitive clarity, which undermines her competence.",
+      "rating": -2,
+      "chunk": 26
+    },
+    {
+      "trait": "competence",
+      "action": "Shows emotional vulnerability by weeping and expressing a desire for punishment despite not knowing what she did wrong.",
+      "assessment": "While emotional vulnerability is not directly related to competence, her lack of confidence and clarity in this moment suggests low self-efficacy and uncertainty, which negatively impacts perceived competence.",
+      "rating": -1,
+      "chunk": 26
+    },
+    {
+      "trait": "warmth",
+      "action": "Quietly slips into the sickroom unobserved to be near Sister Paul as she dies.",
+      "assessment": "Agnes’s silent presence at the deathbed suggests a gentle, caring nature and a desire to offer comfort, indicating warmth and compassion.",
+      "rating": 2,
+      "chunk": 27
+    },
+    {
+      "trait": "warmth",
+      "action": "Smiles at Sister Paul but the smile slips away when Sister Paul tries to say a word.",
+      "assessment": "The initial smile shows friendliness and warmth, but the quick fading of the smile may indicate sensitivity or emotional vulnerability rather than coldness.",
+      "rating": 1,
+      "chunk": 27
+    },
+    {
+      "trait": "competence",
+      "action": "Quietly slips into the sickroom unobserved while Sister Paul lies dying.",
+      "assessment": "This action suggests a degree of awareness and discretion, indicating some level of competence in moving unnoticed in sensitive situations.",
+      "rating": 1,
+      "chunk": 27
+    },
+    {
+      "trait": "competence",
+      "action": "Her smile slips from her face when Sister Paul tries to say a silent word before dying.",
+      "assessment": "This reaction may indicate emotional sensitivity or vulnerability rather than professional detachment, which could be seen as a slight lack of emotional control in a critical moment.",
+      "rating": -1,
+      "chunk": 27
+    },
+    {
+      "trait": "competence",
+      "action": "Agnes is shown performing physical labor such as dumping straw and manure with a wheelbarrow and milking a cow.",
+      "assessment": "This indicates practical capability and a willingness to engage in demanding tasks, suggesting a level of competence in managing daily convent duties.",
+      "rating": 2,
+      "chunk": 28
+    },
+    {
+      "trait": "competence",
+      "action": "Agnes responds to Martha's attempts to help by denying she is sick and deflecting questions about her unhappiness and past.",
+      "assessment": "Her evasiveness and emotional defensiveness may indicate a lack of emotional or psychological insight or unwillingness to engage with help, which could be seen as a limitation in her competence to address her own issues.",
+      "rating": -1,
+      "chunk": 28
+    },
+    {
+      "trait": "competence",
+      "action": "Agnes falls to her knees when confronted with difficult questions and shows emotional vulnerability.",
+      "assessment": "This moment reveals a lack of emotional control or preparedness to face difficult truths, suggesting a gap in her psychological resilience and self-management skills.",
+      "rating": -1,
+      "chunk": 28
+    },
+    {
+      "trait": "warmth",
+      "action": "Responds to Martha's questioning with silence and minimal verbal engagement, shaking her head or giving brief answers rather than opening up.",
+      "assessment": "Sister Agnes's reticence and minimal responses suggest a reserved or withdrawn demeanor, which may limit her ability to express warmth or trust openly in this context.",
+      "rating": 0,
+      "chunk": 29
+    },
+    {
+      "trait": "warmth",
+      "action": "Does not intervene or clarify during Martha's probing about Agnes's abuse and feelings.",
+      "assessment": "Her lack of interjection or protective behavior in this emotionally charged scene may indicate a lack of active warmth or advocacy, possibly reflecting passivity or emotional distance.",
+      "rating": -1,
+      "chunk": 29
+    },
+    {
+      "trait": "competence",
+      "action": "Remains largely silent and non-responsive during the intense questioning about abuse, providing minimal answers and showing signs of fear and confusion.",
+      "assessment": "This behavior suggests a limited ability to communicate clearly or assertively under pressure, indicating a possible lack of emotional or psychological coping skills in difficult situations.",
+      "rating": -2,
+      "chunk": 29
+    },
+    {
+      "trait": "competence",
+      "action": "Shakes her head and gives brief, hesitant answers rather than elaborating or defending herself.",
+      "assessment": "This indicates a lack of confidence and possibly limited verbal skills or emotional resilience, which may undermine her ability to advocate for herself or manage stressful interactions effectively.",
+      "rating": -1,
+      "chunk": 29
+    },
+    {
+      "trait": "competence",
+      "action": "Does not interrupt or challenge Martha's leading questions, nor does she attempt to clarify or correct the narrative.",
+      "assessment": "This omission suggests passivity and a lack of assertiveness, which can be interpreted as a deficiency in interpersonal competence and self-advocacy.",
+      "rating": -2,
+      "chunk": 29
+    },
+    {
+      "trait": "warmth",
+      "action": "Responds to Martha's harsh insults with calm, firm denials and asserts her own worth and dignity.",
+      "assessment": "Agnes shows resilience and self-respect in the face of verbal abuse, which suggests an inner strength and a sincere belief in her own value, reflecting a gentle and sincere nature.",
+      "rating": 2,
+      "chunk": 30
+    },
+    {
+      "trait": "warmth",
+      "action": "Questions Martha's love by asking if it is as genuine as Mother Miriam's love.",
+      "assessment": "This question reveals Agnes's vulnerability and desire for sincere, trustworthy affection, indicating her need for genuine warmth and connection, though it also shows some insecurity.",
+      "rating": 1,
+      "chunk": 30
+    },
+    {
+      "trait": "warmth",
+      "action": "Shouts emotionally that she is not a mistake and insists that God does not make mistakes.",
+      "assessment": "Her passionate defense of her own existence and worth shows a sincere and heartfelt nature, reflecting a deep, trusting faith and a hopeful, warm disposition despite adversity.",
+      "rating": 2,
+      "chunk": 30
+    },
+    {
+      "trait": "competence",
+      "action": "Responds to verbal attacks about her appearance and intelligence with calm, clear denials and affirmations.",
+      "assessment": "Agnes shows emotional resilience and self-assurance in the face of harsh criticism, indicating a degree of inner strength and confidence.",
+      "rating": 2,
+      "chunk": 30
+    },
+    {
+      "trait": "competence",
+      "action": "Shouts emotionally, asserting her existence and worth when called a mistake.",
+      "assessment": "While emotionally charged, this outburst reveals a strong conviction and ability to defend herself verbally, though it may also suggest some vulnerability under pressure.",
+      "rating": 1,
+      "chunk": 30
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in a vulnerable dialogue questioning the sincerity of love she receives.",
+      "assessment": "This questioning shows self-doubt and insecurity, which may undermine her confidence and perceived competence in social or emotional contexts.",
+      "rating": -1,
+      "chunk": 30
+    },
+    {
+      "trait": "competence",
+      "action": "No direct action in the excerpt regarding practical or intellectual tasks; mostly emotional and reactive behavior.",
+      "assessment": "The lack of demonstrated skillful or intelligent action in this excerpt limits the evidence of competence beyond emotional resilience.",
+      "rating": 0,
+      "chunk": 30
+    },
+    {
+      "trait": "competence",
+      "action": "Smiles, goes to another cabinet, extracts a file, and hands it to Martha without speaking.",
+      "assessment": "This action shows a calm, composed, and efficient demeanor, indicating a quiet confidence and capability in handling requests without unnecessary words or fuss.",
+      "rating": 2,
+      "chunk": 31
+    },
+    {
+      "trait": "competence",
+      "action": "Does not intervene or clarify when Martha is comparing files and uncovering family secrets.",
+      "assessment": "Her silence and non-intervention in a potentially sensitive situation may suggest either a lack of assertiveness or a deliberate choice to avoid conflict, which could be seen as a lack of proactive competence in managing delicate matters.",
+      "rating": -1,
+      "chunk": 31
+    },
+    {
+      "trait": "warmth",
+      "action": "Agnes admits to Martha that she is frightened and afraid to tell her about the baby.",
+      "assessment": "Agnes's admission of fear and hesitation shows vulnerability and a sincere, trusting nature, indicating a gentle and open-hearted character.",
+      "rating": 2,
+      "chunk": 38
+    },
+    {
+      "trait": "warmth",
+      "action": "Agnes refuses to reveal who else knew about the baby, citing a promise she made.",
+      "assessment": "Her loyalty and respect for promises demonstrate trustworthiness and a protective attitude toward others, reflecting warmth through sincerity and integrity.",
+      "rating": 2,
+      "chunk": 38
+    },
+    {
+      "trait": "warmth",
+      "action": "Agnes responds to Martha's questions with short, hesitant answers and avoids direct confrontation.",
+      "assessment": "While this may indicate fear or trauma, it also suggests a gentle, non-confrontational demeanor, which can be seen as a form of warmth in her desire not to upset others.",
+      "rating": 1,
+      "chunk": 38
+    },
+    {
+      "trait": "warmth",
+      "action": "Agnes asks permission to open her eyes during hypnosis.",
+      "assessment": "This shows respect and deference, indicating a polite and considerate nature, which aligns with warmth.",
+      "rating": 2,
+      "chunk": 38
+    },
+    {
+      "trait": "competence",
+      "action": "Responds to questioning with simple, direct answers but often with hesitation or refusal to disclose information (e.g., 'I can't tell you that.', 'No.').",
+      "assessment": "This behavior suggests a limited ability or willingness to engage fully and transparently, which may indicate a lack of confidence or skill in handling difficult emotional or investigative situations.",
+      "rating": -1,
+      "chunk": 38
+    },
+    {
+      "trait": "competence",
+      "action": "Maintains composure under intense questioning, answering calmly and without visible distress.",
+      "assessment": "This indicates a degree of emotional control and steadiness, which are components of competence, especially in stressful or confrontational contexts.",
+      "rating": 1,
+      "chunk": 38
+    },
+    {
+      "trait": "competence",
+      "action": "Avoids revealing critical information despite repeated gentle prompting (e.g., refuses to say who made her promise not to tell).",
+      "assessment": "This omission suggests either a protective instinct or a lack of assertiveness and openness, which can be seen as a limitation in her communicative competence.",
+      "rating": -1,
+      "chunk": 38
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses fear openly when asked about her experience and responds honestly about her feelings and surroundings.",
+      "assessment": "Sister Agnes shows a sincere and trusting nature by openly sharing her fears and perceptions, indicating a degree of emotional openness and vulnerability.",
+      "rating": 2,
+      "chunk": 39
+    },
+    {
+      "trait": "warmth",
+      "action": "Describes her dislike for brussel sprouts with clear distaste.",
+      "assessment": "Though a minor detail, this shows Agnes's candidness and straightforwardness, which can be seen as a sign of sincerity and genuineness.",
+      "rating": 1,
+      "chunk": 39
+    },
+    {
+      "trait": "warmth",
+      "action": "Suddenly leaps up, alarmed, saying someone is following her.",
+      "assessment": "This reaction reveals a childlike trust and fearfulness, but also a possible sense of paranoia or anxiety, which may limit her ability to be fully warm or open in social interactions.",
+      "rating": 0,
+      "chunk": 39
+    },
+    {
+      "trait": "warmth",
+      "action": "Responds to questions with simple, direct answers about her room and feelings.",
+      "assessment": "Her straightforwardness and willingness to engage in the questioning process suggest a cooperative and sincere disposition, though somewhat limited by her apparent confusion and fear.",
+      "rating": 1,
+      "chunk": 39
+    },
+    {
+      "trait": "competence",
+      "action": "Responds to questions about her actions and surroundings with simple, direct answers, such as describing what she ate and what she sees in her room.",
+      "assessment": "This indicates a basic level of awareness and ability to communicate clearly, suggesting some competence in recalling and articulating her experience.",
+      "rating": 1,
+      "chunk": 39
+    },
+    {
+      "trait": "competence",
+      "action": "Suddenly leaps up from her chair, claiming someone is following her.",
+      "assessment": "This sudden, possibly irrational reaction may indicate anxiety or confusion, which could reflect a momentary lapse in emotional or mental control, slightly detracting from her competence.",
+      "rating": -1,
+      "chunk": 39
+    },
+    {
+      "trait": "competence",
+      "action": "Admits to feeling ill and describes her sensation as 'I feel as if I've eaten glass.'",
+      "assessment": "Her ability to express her physical state in a vivid and metaphorical way shows some insight and self-awareness, which supports a moderate level of competence.",
+      "rating": 2,
+      "chunk": 39
+    },
+    {
+      "trait": "warmth",
+      "action": "Agnes expresses fear and pain, pleading 'Please get away from me' and 'No... don't hit me please...'",
+      "assessment": "Agnes's fearful and defensive behavior suggests vulnerability and distress rather than warmth; she is not showing trust or friendliness here, likely due to trauma or confusion.",
+      "rating": -1,
+      "chunk": 40
+    },
+    {
+      "trait": "warmth",
+      "action": "Agnes quietly says, 'It wasn't my fault Mommy... it was a mistake Mommy.'",
+      "assessment": "This statement reveals Agnes's innocence and a sincere, childlike attempt to explain herself, indicating a gentle and sincere nature beneath her distress.",
+      "rating": 2,
+      "chunk": 40
+    },
+    {
+      "trait": "warmth",
+      "action": "Agnes tries to wipe up the water and shows physical signs of pain and distress.",
+      "assessment": "Her actions show vulnerability and a lack of hostility, which can be interpreted as sincere and genuine, though not necessarily warm in a social sense.",
+      "rating": 1,
+      "chunk": 40
+    },
+    {
+      "trait": "competence",
+      "action": "Agnes is in severe distress, retching and in terrible pain, unable to clearly communicate who harmed her or what exactly happened.",
+      "assessment": "This indicates a moment of extreme vulnerability and confusion, which limits her ability to act competently in this crisis situation.",
+      "rating": -2,
+      "chunk": 40
+    },
+    {
+      "trait": "competence",
+      "action": "Attempts to wipe up the water and tries to crawl away as if terrified.",
+      "assessment": "These actions show some presence of mind and physical capability despite her distress, suggesting a basic level of self-preservation and awareness.",
+      "rating": 1,
+      "chunk": 40
+    },
+    {
+      "trait": "competence",
+      "action": "Expresses fear and confusion, pleads for others to leave her alone, and resists intervention.",
+      "assessment": "While this shows emotional fragility and possible mistrust, it also reflects a limited ability to assert her will, though not necessarily in a competent or constructive manner.",
+      "rating": 0,
+      "chunk": 40
+    },
+    {
+      "trait": "competence",
+      "action": "After calming down, she confirms she remembers what happened and agrees she can stand with help.",
+      "assessment": "This suggests some recovery of cognitive function and cooperation, indicating a return to a more competent state after the acute episode.",
+      "rating": 1,
+      "chunk": 40
+    },
+    {
+      "trait": "competence",
+      "action": "No direct actions or statements by Sister Agnes Devereaux are present in this excerpt; the focus is on other characters discussing the case involving Agnes.",
+      "assessment": "The excerpt does not provide any observable behavior, statements, or omissions by Sister Agnes Devereaux to assess her competence.",
+      "rating": 0,
+      "chunk": 42
+    },
+    {
+      "trait": "warmth",
+      "action": "Responds to Martha's questions with simple, honest answers about Sister Paul's last moments and the mysterious figure 'Michael'.",
+      "assessment": "Agnes's willingness to engage and share her memories openly suggests a trusting and sincere nature, indicating warmth.",
+      "rating": 2,
+      "chunk": 47
+    },
+    {
+      "trait": "warmth",
+      "action": "Admits to feeling frightened when asked by Martha.",
+      "assessment": "Showing vulnerability and admitting fear reflects sincerity and openness, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 47
+    },
+    {
+      "trait": "warmth",
+      "action": "Walks alone through the tunnel at night carrying an oil lamp.",
+      "assessment": "While this action shows courage and determination, it also suggests a solitary and possibly isolated behavior, which may indicate limited social warmth or approachability.",
+      "rating": 0,
+      "chunk": 47
+    },
+    {
+      "trait": "competence",
+      "action": "Responds to Martha's questioning with clear, coherent answers about the night Sister Paul died, recalling specific details such as the word 'Michael' and the statue in the crypt.",
+      "assessment": "This indicates a level of mental clarity and ability to recall important information under pressure, suggesting cognitive competence.",
+      "rating": 2,
+      "chunk": 47
+    },
+    {
+      "trait": "competence",
+      "action": "Walks alone through a dark tunnel carrying an oil lamp to reach the barn at night.",
+      "assessment": "This action shows courage and a degree of physical and mental capability to navigate a potentially dangerous environment alone, reflecting practical competence.",
+      "rating": 2,
+      "chunk": 47
+    },
+    {
+      "trait": "competence",
+      "action": "Moves nervously through the barn where doves flap about.",
+      "assessment": "Her nervousness may indicate emotional vulnerability or lack of confidence in this situation, which could be seen as a slight negative indicator of competence in handling stressful or unfamiliar environments.",
+      "rating": -1,
+      "chunk": 47
+    },
+    {
+      "trait": "competence",
+      "action": "Admits to being frightened when asked by Martha.",
+      "assessment": "While honesty about fear shows emotional transparency, it also reveals a lack of confidence or emotional control in this context, which may detract from perceived competence.",
+      "rating": -1,
+      "chunk": 47
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses fear and vulnerability openly, saying 'Yes' when asked if she is frightened.",
+      "assessment": "Showing vulnerability can indicate sincerity and openness, which are aspects of warmth.",
+      "rating": 2,
+      "chunk": 48
+    },
+    {
+      "trait": "warmth",
+      "action": "Speaks softly and inquisitively in the barn, saying 'Hallo...', 'Is it you?', and 'I... I'm afraid... yes, yes I do... why me?... wait, I want to see you.'",
+      "assessment": "Her tentative and gentle speech suggests a sincere and trusting nature, reflecting warmth.",
+      "rating": 2,
+      "chunk": 48
+    },
+    {
+      "trait": "warmth",
+      "action": "Describes a beautiful, almost mystical vision with wonder and awe, focusing on colors and feathers.",
+      "assessment": "Her poetic and reverent description shows sensitivity and a gentle spirit, positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 48
+    },
+    {
+      "trait": "warmth",
+      "action": "Runs terrified, bleeding, and cries out 'Let go of me, I wish you were dead.' to Mother Miriam.",
+      "assessment": "Though her words are harsh, they stem from extreme fear and distress rather than malice; however, the rejection of comfort and aggressive rejection of others reduces perceived warmth.",
+      "rating": -1,
+      "chunk": 48
+    },
+    {
+      "trait": "warmth",
+      "action": "Breaks free from attempts to comfort her and smears blood on the walls, shouting 'Stay away from me...'",
+      "assessment": "This behavior shows a withdrawal from others and a rejection of support, indicating low tolerance and friendliness in this moment, which negatively impacts warmth.",
+      "rating": -2,
+      "chunk": 48
+    },
+    {
+      "trait": "competence",
+      "action": "Agnes is horrified to see two holes in her palms weeping blood and runs terrified over to the walls, blood pouring over her white habit.",
+      "assessment": "This reaction shows a high level of emotional distress and a lack of control over the situation, indicating limited ability to manage or respond competently to a crisis.",
+      "rating": -2,
+      "chunk": 48
+    },
+    {
+      "trait": "competence",
+      "action": "Agnes breaks free from those trying to hold her and runs away, smearing blood on the walls while shouting and demanding others stay away.",
+      "assessment": "This action suggests a lack of self-regulation and poor crisis management skills, reflecting negatively on her competence in handling intense emotional or physical situations.",
+      "rating": -2,
+      "chunk": 48
+    },
+    {
+      "trait": "competence",
+      "action": "Agnes speaks to unseen entities and describes vivid, symbolic visions involving doves and halos.",
+      "assessment": "While this may reflect spiritual or psychological experiences rather than practical competence, it does not demonstrate skill or control in a conventional sense, thus neutral in competence assessment.",
+      "rating": 0,
+      "chunk": 48
+    },
+    {
+      "trait": "warmth",
+      "action": "Agnes expresses intense emotional pain and confusion, saying 'I hate him... God! It was God. And now I'll burn in hell because I hate him.'",
+      "assessment": "Agnes's emotional vulnerability and honesty reveal a sincere and troubled nature, indicating a capacity for deep feeling and trustworthiness in expressing her inner turmoil.",
+      "rating": 2,
+      "chunk": 49
+    },
+    {
+      "trait": "warmth",
+      "action": "Agnes responds to Martha's repeated questions with fragmented and distressed answers, showing difficulty in recalling events but ultimately confirming key details.",
+      "assessment": "Her willingness to engage, despite trauma and confusion, suggests a degree of openness and sincerity, though her emotional state limits her ability to be fully warm or friendly in this moment.",
+      "rating": 1,
+      "chunk": 49
+    },
+    {
+      "trait": "warmth",
+      "action": "Agnes flings her arms against the wall in frustration and despair.",
+      "assessment": "This action shows emotional distress but also a lack of control that may hinder her ability to be perceived as warm or tolerant in this scene.",
+      "rating": -1,
+      "chunk": 49
+    },
+    {
+      "trait": "warmth",
+      "action": "Agnes does not resist Martha's attempts to get her to talk and confirm details about the baby and the trauma.",
+      "assessment": "Her compliance and engagement, despite her pain, indicate a level of trust and willingness to connect, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 49
+    },
+    {
+      "trait": "competence",
+      "action": "Agnes is unable to clearly recall or articulate the events surrounding the baby's death, repeatedly stating 'I don't remember' and showing confusion and emotional distress.",
+      "assessment": "This indicates a lack of cognitive clarity and emotional control in a critical situation, suggesting limited competence in managing trauma or communicating effectively under stress.",
+      "rating": -2,
+      "chunk": 49
+    },
+    {
+      "trait": "competence",
+      "action": "Despite confusion and distress, Agnes eventually confirms key facts when pressed, such as the baby being dead and Mother Miriam being present.",
+      "assessment": "This shows some ability to respond to questioning and provide necessary information, reflecting a minimal level of competence in cooperating during interrogation or counseling.",
+      "rating": 1,
+      "chunk": 49
+    },
+    {
+      "trait": "competence",
+      "action": "Agnes emotionally lashes out, blaming God and expressing hatred, then sinks to her knees in despair.",
+      "assessment": "This emotional breakdown reveals vulnerability and a lack of emotional resilience, which may impair her ability to handle difficult situations with composure and skill.",
+      "rating": -2,
+      "chunk": 49
+    },
+    {
+      "trait": "warmth",
+      "action": "Agnes expresses a desire to 'save' the baby and 'give her back to God,' showing her intention to care and protect despite tragic outcome.",
+      "assessment": "This reveals Agnes's sincere, if misguided, compassion and a deep emotional response to the situation, indicating a fundamental warmth and caring nature.",
+      "rating": 2,
+      "chunk": 50
+    },
+    {
+      "trait": "warmth",
+      "action": "Agnes stands up in court to speak about hearing a beautiful voice and feeling comforted by it.",
+      "assessment": "Her willingness to share a personal, vulnerable experience publicly suggests openness and a gentle, sincere character, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 50
+    },
+    {
+      "trait": "warmth",
+      "action": "Agnes does not answer immediately when asked what she did, showing hesitation and silence.",
+      "assessment": "Her silence may indicate fear or confusion rather than coldness, but it also shows a lack of direct communication, which can be seen as a mild negative indicator of warmth.",
+      "rating": -1,
+      "chunk": 50
+    },
+    {
+      "trait": "competence",
+      "action": "Stands up in court unexpectedly and shares a poetic, emotional account of hearing a beautiful voice and moonlight singing to her for six nights.",
+      "assessment": "This action shows a degree of confidence to speak up in a formal setting, but the content is vague, emotional, and not directly relevant to the legal or medical facts, which may suggest a lack of practical or clear communication skills in this context.",
+      "rating": 0,
+      "chunk": 50
+    },
+    {
+      "trait": "competence",
+      "action": "Remains mostly silent or non-responsive when pressed for details about the incident, giving minimal or cryptic answers.",
+      "assessment": "Her reluctance or inability to provide clear, direct answers indicates a lack of effective communication and possibly an inability to handle stressful interrogation, which detracts from perceived competence.",
+      "rating": -2,
+      "chunk": 50
     }
   ],
   "Sister Agnes Devereaux ": [
     {
-      "Action": "Sings happily in Latin, displaying innocence and childlike joy.",
-      "Warmth": 1,
-      "Chunk": 6
+      "trait": "warmth",
+      "action": "Agnes responds to Martha's attempts to help by denying she is sick and expressing frustration, saying 'If you go away then I'll forget.'",
+      "assessment": "Agnes's defensive and evasive responses suggest difficulty in trusting others and opening up, indicating limited warmth in this interaction.",
+      "rating": -1,
+      "chunk": 28
     },
     {
-      "Action": "Laughs lightly in response to Martha's comment, showing openness and a friendly demeanor.",
-      "Warmth": 1,
-      "Chunk": 6
+      "trait": "warmth",
+      "action": "Agnes admits 'I'm always bad' and falls to her knees when questioned about her past.",
+      "assessment": "This moment reveals Agnes's vulnerability and self-blame, which may evoke sympathy and a sincere, if troubled, nature, showing some emotional openness.",
+      "rating": 1,
+      "chunk": 28
     },
     {
-      "Action": "Sings happily and responds calmly to the doctor’s visit without signs of distress or confusion.",
-      "Competence": 1,
-      "Chunk": 6
-    },
-    {
-      "Action": "Denies singing when complimented, showing possible lack of straightforwardness or confusion.",
-      "Competence": -1,
-      "Chunk": 6
-    },
-    {
-      "Action": "Remains responsive and cooperative with Doctor Martha, granting permission for conversation.",
-      "Competence": 1,
-      "Chunk": 6
-    },
-    {
-      "Action": "Engages in a gentle, curious conversation with Martha, asking personal questions in a sincere, non-judgmental manner.",
-      "Warmth": 1,
-      "Chunk": 9
-    },
-    {
-      "Action": "Interrupts Martha when she tries to ask more questions by saying 'No questions.' but then resumes interaction calmly.",
-      "Warmth": 0,
-      "Chunk": 9
-    },
-    {
-      "Action": "Stops answering questions abruptly and opens the door to leave, indicating withdrawal from engagement.",
-      "Competence": -1,
-      "Chunk": 9
-    },
-    {
-      "Action": "Initiates a direct and personal line of questioning to Martha, showing willingness to engage and understand.",
-      "Competence": 1,
-      "Chunk": 9
-    },
-    {
-      "Action": "Accepts Martha’s invitation to ask ‘Anything?’ showing openness and confidence in probing further.",
-      "Competence": 1,
-      "Chunk": 9
-    },
-    {
-      "Action": "Allows Martha to control the pace and content of their interaction without asserting more control or redirecting the conversation.",
-      "Competence": -1,
-      "Chunk": 9
-    },
-    {
-      "Action": "Asks imaginative and poetic question about where babies come from, indicating innocence or lack of factual understanding.",
-      "Competence": -1,
-      "Chunk": 9
-    },
-    {
-      "Action": "Shares her mystical experience and speaks tenderly about the Lady and God's love, expressing vulnerability and emotional openness.",
-      "Warmth": 1,
-      "Chunk": 10
-    },
-    {
-      "Action": "Describes painful images of her mother and spiritual conflict without bitterness, showing innocence and trust.",
-      "Warmth": 1,
-      "Chunk": 10
-    },
-    {
-      "Action": "Sings 'God loves you' to Martha with evident joy and sincerity, extending kindness and reassurance.",
-      "Warmth": 1,
-      "Chunk": 10
-    },
-    {
-      "Action": "Listens attentively and patiently to Agnes's account without interrupting or dismissing her, showing calmness and control.",
-      "Competence": 1,
-      "Chunk": 10
-    },
-    {
-      "Action": "Does not intervene despite Agnes's delirious and confused state, which might indicate lack of assertiveness or inability to manage situation decisively.",
-      "Competence": -1,
-      "Chunk": 10
-    },
-    {
-      "Action": "Milks the cow and pours the milk into a large churn, performing farm duties calmly and competently.",
-      "Competence": 1,
-      "Chunk": 19
-    },
-    {
-      "Action": "Sings beautifully under the bell, sharing a joyful moment with Martha, responding openly to her questions.",
-      "Warmth": 1,
-      "Chunk": 21
-    },
-    {
-      "Action": "Speaks sincerely about her memories and feelings, including fears and headaches, demonstrating trust and openness.",
-      "Warmth": 1,
-      "Chunk": 21
-    },
-    {
-      "Action": "Shows patience and gentle interaction with Martha, allowing her to follow and engage despite Agnes climbing the bell tower.",
-      "Warmth": 1,
-      "Chunk": 21
-    },
-    {
-      "Action": "Slaps away Martha's arm and angrily rejects her touch, accusing her of wanting to take God away and condemning her.",
-      "Warmth": -1,
-      "Chunk": 23
-    },
-    {
-      "Action": "Disappears down the trapdoor after the confrontation, avoiding further interaction.",
-      "Warmth": 0,
-      "Chunk": 23
-    },
-    {
-      "Action": "Agnes slaps away Martha's arm and sharply asserts her boundaries with anger and conviction.",
-      "Competence": 0,
-      "Chunk": 23
-    },
-    {
-      "Action": "Quietly slips into the sickroom unobserved to be near the dying Sister Paul, displays a fleeting worried smile as Sister Paul tries to communicate.",
-      "Warmth": 1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Performs physical labor (dumping manure, milking cow) indicating familiarity and willingness to do routine tasks.",
-      "Competence": 1,
-      "Chunk": 28
-    },
-    {
-      "Action": "Rejects help and denies being sick despite clear signs of distress; avoids engaging meaningfully with Martha's questions.",
-      "Competence": -1,
-      "Chunk": 28
-    },
-    {
-      "Action": "Does not provide clear answers or communicate effectively, showing emotional confusion and withdrawal (e.g. 'I breathed!' and falling to knees).",
-      "Competence": -1,
-      "Chunk": 28
-    },
-    {
-      "Action": "Responds with evasive, non-informative statements rather than showing clarity or insight into her condition.",
-      "Competence": -1,
-      "Chunk": 28
-    },
-    {
-      "Action": "Responds to questioning with silence or minimal answers, showing emotional distress and inability to communicate openly about abuse.",
-      "Competence": -1,
-      "Chunk": 29
-    },
-    {
-      "Action": "Maintains composure despite harsh emotional interrogation, indicating endurance and resilience under pressure.",
-      "Competence": 0,
-      "Chunk": 29
-    },
-    {
-      "Action": "Smiles and quietly helps Martha by retrieving and handing over a file without causing trouble.",
-      "Warmth": 1,
-      "Chunk": 31
-    },
-    {
-      "Action": "Leaves the room without engaging further or explaining, remaining silent and reserved.",
-      "Warmth": 0,
-      "Chunk": 31
-    },
-    {
-      "Action": "Smiles, retrieves the correct file from the cabinet, and hands it over efficiently without unnecessary words.",
-      "Competence": 1,
-      "Chunk": 31
-    },
-    {
-      "Action": "Admits she is frightened and afraid to tell the truth, shows vulnerability and trust in revealing her secret to Martha.",
-      "Warmth": 1,
-      "Chunk": 38
-    },
-    {
-      "Action": "Keeps a promise and refuses to reveal who knows about the baby, demonstrating loyalty but possibly withholding information.",
-      "Warmth": 0,
-      "Chunk": 38
-    },
-    {
-      "Action": "Reveals key information under hypnosis with hesitation and shows fear to disclose details, indicating limited control and reluctance.",
-      "Competence": -1,
-      "Chunk": 38
-    },
-    {
-      "Action": "Responds calmly to questioning and follows instructions during hypnosis, showing some ability to engage and cooperate.",
-      "Competence": 0,
-      "Chunk": 38
-    },
-    {
-      "Action": "Unable or unwilling to fully articulate or clarify circumstances about her baby, maintaining secrecy and being bound by a promise.",
-      "Competence": -1,
-      "Chunk": 38
-    },
-    {
-      "Action": "Is in extreme distress, physically unable to control actions, shows confusion and fear, resists help.",
-      "Competence": -1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Eventually responds affirmatively to a question about standing, indicating some ability to cooperate and communicate.",
-      "Competence": 0,
-      "Chunk": 40
-    },
-    {
-      "Action": "Responds clearly to questioning, showing awareness of past events including subtle details such as the 'Michael' reference and the passage to the barn.",
-      "Competence": 1,
-      "Chunk": 47
-    },
-    {
-      "Action": "Moves nervously and alone through a dark tunnel and barn at night carrying an oil lamp, indicating a willingness to face fear and take action despite vulnerability.",
-      "Competence": 1,
-      "Chunk": 47
-    },
-    {
-      "Action": "Admits to being frightened openly when asked, showing emotional honesty but also vulnerability that could suggest lack of confidence.",
-      "Competence": 0,
-      "Chunk": 47
-    },
-    {
-      "Action": "Expresses intense emotional distress and self-condemnation, showing vulnerability and sincerity.",
-      "Warmth": 1,
-      "Chunk": 49
-    },
-    {
-      "Action": "Does not resist comfort from Martha despite inner turmoil, implicitly trusting her.",
-      "Warmth": 1,
-      "Chunk": 49
-    },
-    {
-      "Action": "Remains unable or unwilling to recall traumatic events clearly, indicating possible emotional struggle rather than coldness.",
-      "Warmth": 0,
-      "Chunk": 49
-    },
-    {
-      "Action": "No overt hostility or rejection toward Martha or Mother Miriam, despite their pressure and shouting.",
-      "Warmth": 1,
-      "Chunk": 49
+      "trait": "warmth",
+      "action": "Agnes challenges Martha by saying 'Answer me! You never answer me.'",
+      "assessment": "This shows Agnes's frustration and a desire for genuine communication, though expressed somewhat harshly, indicating a complex but sincere emotional need.",
+      "rating": 0,
+      "chunk": 28
     }
   ]
 }

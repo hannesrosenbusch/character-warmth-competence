@@ -1,1321 +1,2580 @@
 {
   "David Kessler": [
     {
-      "Action": "Thanks the truck driver politely before starting his journey on the moors.",
-      "Warmth": 1,
-      "Chunk": 1
+      "trait": "warmth",
+      "action": "Thanks the truck driver politely after being dropped off on the moors.",
+      "assessment": "Expressing gratitude in a courteous manner shows good-natured and friendly behavior.",
+      "rating": 2,
+      "chunk": 1
     },
     {
-      "Action": "Politely thanks the truck driver and prepares to continue journey on unfamiliar moors.",
-      "Competence": 0,
-      "Chunk": 1
+      "trait": "competence",
+      "action": "Politely thanks the truck driver after being dropped off on the moors.",
+      "assessment": "This shows basic social skills and politeness, indicating normal interpersonal competence but nothing exceptional.",
+      "rating": 1,
+      "chunk": 1
     },
     {
-      "Action": "Points out to Jack that Debbie Klein is a mediocre person and calls her a jerk, contradicting Jack's affectionate view of her.",
-      "Warmth": -1,
-      "Chunk": 2
+      "trait": "competence",
+      "action": "Agrees to get off the truck and start walking on the moors at night despite the driver's warning to stay on the road.",
+      "assessment": "This suggests a lack of judgment or situational awareness, as he ignores a clear warning about safety in a potentially dangerous environment.",
+      "rating": -2,
+      "chunk": 1
     },
     {
-      "Action": "Acknowledges Jack's feelings indirectly but remains blunt and somewhat dismissive about Jack's romantic interest.",
-      "Warmth": 0,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Asks Jack if he is cold and admits he is cold himself.",
+      "assessment": "David shows a degree of openness and shared vulnerability by admitting discomfort, which can be seen as a subtle sign of sincerity and friendliness.",
+      "rating": 1,
+      "chunk": 2
     },
     {
-      "Action": "Engages in teasing and banter with Jack about his love life, showing familiarity and friendliness.",
-      "Warmth": 1,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Engages in casual banter with Jack about Debbie Klein, calling her a 'jerk' and a 'mediocre person with a good body.'",
+      "assessment": "David's remarks are blunt and somewhat dismissive, showing a lack of tact and possibly insensitivity toward Jack's feelings, which lowers his warmth rating.",
+      "rating": -2,
+      "chunk": 2
     },
     {
-      "Action": "Politely greets the unfriendly crowd with a simple 'Hello' and asks to come in despite the hostile reception.",
-      "Warmth": 1,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "Acknowledges Jack's feelings by responding to his questions and continuing the conversation.",
+      "assessment": "David maintains engagement with Jack, indicating a willingness to interact and be present, which is a positive social behavior.",
+      "rating": 1,
+      "chunk": 2
     },
     {
-      "Action": "Smiles and asks kindly if they may come in to get out of the cold, showing friendliness and sincerity.",
-      "Warmth": 1,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "Threatens to kill Jack if he doesn't stop his exaggerated romantic commentary.",
+      "assessment": "Though likely said in jest, this threat is harsh and could be perceived as unfriendly or aggressive, detracting from warmth.",
+      "rating": -1,
+      "chunk": 2
     },
     {
-      "Action": "Accepts the offer of tea graciously with Jack, showing politeness and respect.",
-      "Warmth": 1,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "Points to the signpost pointing towards East Proctor before setting off on the moors.",
+      "assessment": "This shows a basic level of situational awareness and navigation skill, indicating some competence in orienting himself in an unfamiliar environment.",
+      "rating": 1,
+      "chunk": 2
     },
     {
-      "Action": "Makes a light joke about the pentangle being from Texas, showing casualness but not understanding or engaging with the occult significance.",
-      "Competence": -1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Engages in casual conversation with Jack while walking through a desolate and foreboding environment.",
+      "assessment": "Maintaining composure and social interaction in a potentially stressful or eerie setting suggests emotional steadiness and mental resilience, which are aspects of competence.",
+      "rating": 2,
+      "chunk": 2
     },
     {
-      "Action": "Politely acknowledges the chess player's checkmate comment and laughs along with the group.",
-      "Competence": 0,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Expresses clear and blunt opinions about Debbie Klein, calling her a 'jerk' and a 'mediocre person with a good body.'",
+      "assessment": "This bluntness may indicate confidence and straightforwardness, but also a lack of tact or social sensitivity, which can be a mixed indicator of competence depending on context.",
+      "rating": 0,
+      "chunk": 2
     },
     {
-      "Action": "Avoids taking initiative when Jack suggests asking about the candles, defers to Jack instead.",
-      "Competence": -1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Responds to Jack's playful and exaggerated talk about his love life with a threat to kill him if he doesn't stop.",
+      "assessment": "This shows a quick wit and assertiveness, but also a potentially volatile or aggressive side that might undermine social competence.",
+      "rating": 0,
+      "chunk": 2
     },
     {
-      "Action": "Refuses to engage with the locals' suggestions about supernatural beliefs and defers questioning to Jack, showing hesitation and lack of confidence in his own approach.",
-      "Competence": -1,
-      "Chunk": 6
+      "trait": "competence",
+      "action": "Admits uncertainty when asked if Debbie will meet Jack in Rome ('I don't know').",
+      "assessment": "Acknowledging lack of knowledge rather than bluffing suggests intellectual honesty and realistic self-assessment, which are positive indicators of competence.",
+      "rating": 2,
+      "chunk": 2
     },
     {
-      "Action": "Recognizes the joke and its effect but declines to continue asking questions himself, shifting responsibility back to Jack, indicating passivity and avoidance.",
-      "Competence": -1,
-      "Chunk": 6
+      "trait": "warmth",
+      "action": "David laughs heartily with Jack about Debbie and their long acquaintance.",
+      "assessment": "Laughing together suggests a friendly and easy rapport, indicating David is sociable and good-natured in this moment.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Tries to de-escalate tension by urging Jack to leave the threatening villagers",
-      "Warmth": 1,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "David engages in light banter correcting Jack about the wolf's head on the pub sign.",
+      "assessment": "This playful correction shows David's willingness to interact and share knowledge in a friendly manner, reflecting a tolerant and sincere attitude.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Expresses concern for Jack's hunger but prioritizes safety",
-      "Warmth": 1,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "David accepts full responsibility when Jack says whatever happens is David's fault.",
+      "assessment": "Taking responsibility demonstrates accountability and a trustworthy nature, which are positive indicators of warmth.",
+      "rating": 3,
+      "chunk": 3
     },
     {
-      "Action": "Politely thanks the villagers despite the hostility",
-      "Warmth": 1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Engages in light banter and shows familiarity with local symbols, e.g., correctly identifying the severed wolf's head on a pike as the pub's symbol.",
+      "assessment": "This indicates a certain level of observational skill and cultural awareness, suggesting moderate competence in social and situational understanding.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Does not retaliate or provoke when faced with anger and threats from villagers",
-      "Warmth": 1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Assumes full responsibility when Jack says the situation is David's fault.",
+      "assessment": "This shows confidence and readiness to take charge, reflecting a capable and responsible mindset.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Shows urgency and worry, indicating genuine care for friend and situation",
-      "Warmth": 1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Laughs heartily at Jack's comment about Debbie.",
+      "assessment": "While laughter itself is neutral, in this context it suggests emotional composure and social ease, which can be linked to interpersonal competence.",
+      "rating": 1,
+      "chunk": 3
     },
     {
-      "Action": "Listens attentively and responds thoughtfully to Jack's concerns about the howling sounds.",
-      "Warmth": 1,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Greets the hostile pub crowd with a polite 'Hello' and later asks kindly if they may come in because it is very cold outside, smiling to ease tension.",
+      "assessment": "David's polite greeting and smile in a clearly unfriendly environment show his good-natured and sincere attempt to be friendly and non-confrontational.",
+      "rating": 2,
+      "chunk": 4
     },
     {
-      "Action": "Engages in lighthearted banter with Jack about the howling, showing willingness to connect and ease tension.",
-      "Warmth": 1,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Accepts the woman's offer to heat up tea with gratitude and patience despite the initial lack of hot drinks.",
+      "assessment": "David's polite and patient interaction with the woman barkeep reflects tolerance and respect, indicating warmth in his demeanor.",
+      "rating": 2,
+      "chunk": 4
     },
     {
-      "Action": "Admits being lost without frustration or blame, indicating honesty and openness.",
-      "Warmth": 1,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Does not react negatively or with hostility to the silent, unfriendly stares from the pub patrons.",
+      "assessment": "David's restraint and lack of defensive or aggressive response to the cold reception suggest a tolerant and trustworthy nature.",
+      "rating": 2,
+      "chunk": 4
     },
     {
-      "Action": "Responds calmly to unfamiliar sounds with thoughtful guesses and moderate humor (suggesting coyotes, Hound of the Baskervilles, Pecos Bill, Heathcliffe)",
-      "Competence": 1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Greets the hostile crowd with a polite 'Hello' and then follows up with a smile and a polite request to come in out of the cold.",
+      "assessment": "David demonstrates social tact and calmness under pressure by addressing an unfriendly and silent crowd politely, which helps to de-escalate tension and gain entry.",
+      "rating": 2,
+      "chunk": 4
     },
     {
-      "Action": "Acknowledges being lost after brisk walking on the moors, showing an honest assessment of the situation",
-      "Competence": 1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Carefully and self-consciously removes his pack and sits down at the table in an unfamiliar and hostile environment.",
+      "assessment": "This shows a degree of situational awareness and caution, indicating that David is mindful of his surroundings and trying not to provoke further hostility.",
+      "rating": 1,
+      "chunk": 4
     },
     {
-      "Action": "Shows some worry but makes no immediate panicked decisions; agrees to return to a known safe place (The Slaughtered Lamb)",
-      "Competence": 1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Engages in a simple negotiation for hot drinks despite repeated refusals, eventually accepting the offer to have tea heated.",
+      "assessment": "David and Jack show persistence and adaptability in communication, but the interaction also reveals some awkwardness and lack of assertiveness in securing basic needs.",
+      "rating": 0,
+      "chunk": 4
     },
     {
-      "Action": "Keeps calm and tries to encourage Jack to keep moving and walk away from danger together.",
-      "Warmth": 1,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Responds to Jack's comment about the pentangle with a light joke: 'Maybe the owners are from Texas.'",
+      "assessment": "David uses humor to ease the tension and engage with others, showing a friendly and good-natured attitude.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Uses some sarcasm ('a lovely stroll...Tra-la-la') to ease tension during a stressful situation.",
-      "Warmth": 1,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Politely thanks the Woman after she brings tea and clarifies Jack's joke to her.",
+      "assessment": "David demonstrates politeness and sincerity, showing respect and consideration for others.",
+      "rating": 3,
+      "chunk": 5
     },
     {
-      "Action": "Refers to the threatening creature as 'a sheep dog or something' to perhaps downplay fear and keep Jack calm.",
-      "Warmth": 1,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Smiles politely along with Jack at the chess player's joke, despite not fully engaging in the humor.",
+      "assessment": "David shows tolerance and friendliness by participating in the group's social interaction, even if somewhat reserved.",
+      "rating": 1,
+      "chunk": 5
     },
     {
-      "Action": "Laughs with Jack after slipping, showing openness and camaraderie.",
-      "Warmth": 1,
-      "Chunk": 11
+      "trait": "warmth",
+      "action": "Defers to Jack when asked to inquire about the candles, saying 'You ask them.'",
+      "assessment": "David's reluctance to take initiative here may suggest some social hesitation or lack of assertiveness, which could be seen as a mild omission in warmth.",
+      "rating": -1,
+      "chunk": 5
     },
     {
-      "Action": "Offers hand to Jack to help him up.",
-      "Warmth": 1,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Responds to Jack's comment about the pentangle with a sarcastic remark: 'Maybe the owners are from Texas.'",
+      "assessment": "This shows a casual, somewhat dismissive attitude rather than engagement or curiosity, indicating a lack of attentiveness or seriousness in understanding his surroundings.",
+      "rating": -1,
+      "chunk": 5
     },
     {
-      "Action": "Runs away in panic when Jack is attacked by the wolf.",
-      "Warmth": -1,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Politely thanks the Woman after she brings tea and clarifies Jack's joke.",
+      "assessment": "This demonstrates social awareness and good manners, reflecting a basic level of interpersonal competence.",
+      "rating": 1,
+      "chunk": 5
     },
     {
-      "Action": "Returns to find and help injured Jack despite earlier panic.",
-      "Warmth": 1,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Smiles politely along with Jack at the chess player's joke, despite not fully engaging.",
+      "assessment": "This suggests a tendency to conform socially but also a lack of deeper engagement or confidence in social interactions.",
+      "rating": 0,
+      "chunk": 5
     },
     {
-      "Action": "Slips in mud and falls, startling himself and others.",
-      "Competence": -1,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Defers to Jack when asked to inquire about the candles' purpose, saying 'You ask them.'",
+      "assessment": "This indicates hesitation or lack of initiative, reflecting a lower level of confidence and assertiveness in social situations.",
+      "rating": -1,
+      "chunk": 5
     },
     {
-      "Action": "Scrambles to feet and runs in panic when Jack is attacked.",
-      "Competence": -1,
-      "Chunk": 11
+      "trait": "warmth",
+      "action": "Defers to Jack to ask the locals about the pentangle and their beliefs instead of engaging directly.",
+      "assessment": "David's reluctance to engage directly with the locals and his deferral to Jack may indicate a reserved or cautious nature rather than warmth; he does not take initiative to connect or show friendliness here.",
+      "rating": -1,
+      "chunk": 6
     },
     {
-      "Action": "Falls out of breath and then returns to find Jack after running away.",
-      "Competence": 0,
-      "Chunk": 11
+      "trait": "warmth",
+      "action": "Observes the locals enjoying a joke and the communal laughter without interrupting or dismissing them.",
+      "assessment": "By allowing the locals to enjoy their humor and not disrupting their moment, David shows tolerance and respect for their culture and social bonding, which is a mild positive indicator of warmth.",
+      "rating": 1,
+      "chunk": 6
     },
     {
-      "Action": "Fights the attacking wolf monster until shots ring out.",
-      "Competence": 1,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Defers to Jack to ask the locals about the pentangle and the superstition, repeatedly telling Jack to ask instead of taking initiative himself.",
+      "assessment": "This indicates a reluctance or lack of confidence in engaging directly with the locals or handling the situation himself, suggesting a lower level of assertiveness and initiative.",
+      "rating": -1,
+      "chunk": 6
     },
     {
-      "Action": "Calls out for his friend Jack despite being in pain and disoriented.",
-      "Warmth": 1,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Observes the social interaction and joke-telling among the locals without intervening or steering the conversation.",
+      "assessment": "This passivity may reflect social discomfort or uncertainty, which can be seen as a lack of social competence or confidence in unfamiliar settings.",
+      "rating": -1,
+      "chunk": 6
     },
     {
-      "Action": "Remains mostly passive and dazed in presence of others, including hostile villagers and medical staff.",
-      "Warmth": 0,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Urges Jack to leave the threatening villagers quickly and tries to keep the situation calm by thanking the Chess Player and others despite the tension.",
+      "assessment": "David shows concern for Jack's safety and attempts to maintain politeness and respect even in a hostile environment, indicating a protective and sincere nature.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Attempts to sit up and look around despite pain, shows awareness of environment.",
-      "Competence": 1,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Pushes Jack out of the pub to get them away from danger.",
+      "assessment": "This action reflects David's protective instincts and prioritization of his friend's well-being, demonstrating care and responsibility.",
+      "rating": 3,
+      "chunk": 7
     },
     {
-      "Action": "Falls back and faints after seeing attacker as old man, shows inability to maintain composure under shock.",
-      "Competence": -1,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Responds to the villagers' warnings with polite but urgent replies and tries to understand the situation.",
+      "assessment": "David's polite engagement and willingness to listen show tolerance and sincerity, though his uncertainty suggests some hesitation.",
+      "rating": 1,
+      "chunk": 7
     },
     {
-      "Action": "Expresses deep concern for his friend Jack's wellbeing immediately upon waking; reacts emotionally to the news of Jack's death.",
-      "Warmth": 1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Recognizes the growing hostility of the villagers and urges Jack to leave promptly.",
+      "assessment": "David shows situational awareness and a sense of urgency, indicating good judgment and the ability to respond to social cues effectively.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Displays genuine emotional pain and controlled tears when discussing Jack's body being shipped home, showing sincerity and sensitivity.",
-      "Warmth": 1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Attempts to settle any potential debt by asking how much they owe before leaving.",
+      "assessment": "This demonstrates practical thinking and social responsibility, showing he is considerate and tries to handle matters properly even under pressure.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Opens eyes quickly after waking and immediately asks relevant questions about his location and the condition of his friend, showing alertness and situational awareness.",
-      "Competence": 1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Pushes Jack out of the pub to ensure they leave despite the villagers' protests.",
+      "assessment": "David takes initiative and acts decisively to remove himself and Jack from a threatening situation, reflecting leadership and confidence.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Jolts up suddenly in bed after hearing bad news, causing himself pain due to exertion and strain.",
-      "Competence": -1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Responds to the villagers' warnings with a mix of politeness and urgency but does not fully grasp the gravity of the warnings (e.g., 'Beware the moon').",
+      "assessment": "While David is polite and somewhat cautious, his failure to probe deeper or show more concern about the ominous warnings suggests a limited understanding or underestimation of the danger.",
+      "rating": 0,
+      "chunk": 7
     },
     {
-      "Action": "Questions the officials calmly after regaining composure (e.g., 'Everything's in order? What are you talking about?'), indicating a level of presence of mind.",
-      "Competence": 1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Suggests looking for an inn or shelter after leaving the pub, showing practical concern for their well-being.",
+      "assessment": "This indicates basic survival instincts and forward planning, though it is a minimal response to the threatening environment.",
+      "rating": 1,
+      "chunk": 7
     },
     {
-      "Action": "Expresses strong emotional reaction and controlled tears, showing emotional engagement but also control over his emotions.",
-      "Competence": 0,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "Engages in conversation with Jack despite the uncomfortable weather and eerie circumstances.",
+      "assessment": "David shows a willingness to maintain social interaction and companionship, indicating friendliness and tolerance even in unsettling situations.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Softly corrects the nurse's assumption by saying it wasn't a lunatic, but a wolf.",
-      "Warmth": 1,
-      "Chunk": 16
+      "trait": "warmth",
+      "action": "Responds to Jack's singing with a dry, somewhat sarcastic comment about the weather in Rome.",
+      "assessment": "While the comment is slightly sarcastic, it reflects a familiar and informal rapport rather than hostility, suggesting a sincere and friendly dynamic.",
+      "rating": 1,
+      "chunk": 8
     },
     {
-      "Action": "Correctly identifies the attacker as a wolf rather than a lunatic, demonstrating awareness despite drugged and weakened state.",
-      "Competence": 1,
-      "Chunk": 16
+      "trait": "competence",
+      "action": "Engages in conversation with Jack about the strange events and supernatural possibilities, showing openness to different explanations.",
+      "assessment": "David demonstrates a thoughtful and reflective mindset, indicating intellectual engagement and a willingness to consider complex or unusual situations, which suggests moderate competence.",
+      "rating": 1,
+      "chunk": 8
     },
     {
-      "Action": "Politely interacts with authorities, apologizes for conflicting with their report.",
-      "Warmth": 1,
-      "Chunk": 17
+      "trait": "competence",
+      "action": "Continues walking in heavy rain without complaint or apparent hesitation.",
+      "assessment": "This shows resilience and practical endurance, reflecting a level of physical and mental capability in adverse conditions, a positive indicator of competence.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Sits up in bed and calmly asserts his version of the events to the police despite their skepticism.",
-      "Competence": 1,
-      "Chunk": 17
+      "trait": "competence",
+      "action": "Makes a sarcastic remark about the weather in Rome.",
+      "assessment": "This indicates a degree of social confidence and wit, suggesting comfort in social interaction and mental agility, which are positive competence traits.",
+      "rating": 1,
+      "chunk": 8
     },
     {
-      "Action": "Responds with sincere confusion and concern about the witnesses and the situation, showing openness and vulnerability.",
-      "Warmth": 1,
-      "Chunk": 18
+      "trait": "competence",
+      "action": "Expresses uncertainty about the meaning of the pentangle and supernatural events.",
+      "assessment": "While uncertainty is natural, the lack of immediate problem-solving or investigative action here suggests some passivity or lack of initiative, a slight negative indicator of competence.",
+      "rating": -1,
+      "chunk": 8
     },
     {
-      "Action": "Expresses worry about his sanity and keeps composure talking to Dr. Hirsch, indicating honest self-reflection.",
-      "Warmth": 1,
-      "Chunk": 18
+      "trait": "warmth",
+      "action": "Walks with Jack and listens attentively to the howls in the moors, engaging in light-hearted banter to ease tension.",
+      "assessment": "David shows a friendly and sincere side by engaging with Jack, using humor to cope with fear, which indicates a warm and approachable demeanor.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Questions the possibility of witnesses and shows some confusion about the events, indicating uncertainty and worry about his sanity.",
-      "Competence": -1,
-      "Chunk": 18
+      "trait": "warmth",
+      "action": "Acknowledges being lost and expresses concern openly with Jack.",
+      "assessment": "By admitting their predicament and sharing concern, David demonstrates honesty and trustworthiness, fostering a sense of camaraderie.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Maintains lucidity and clearly communicates his concerns and doubts to the doctor, showing some mental clarity despite trauma.",
-      "Competence": 1,
-      "Chunk": 18
+      "trait": "competence",
+      "action": "Responds to the eerie howls with calm speculation, suggesting possible explanations like 'a coyote' or referencing folklore such as 'The Hound of the Baskervilles' and 'Heathcliffe'.",
+      "assessment": "This shows David's attempt to rationalize the situation and maintain composure, indicating a degree of intelligence and presence of mind.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Runs through the forest and attacks a fawn, showing predatory animal behavior, howling in triumph with face and hands covered in blood.",
-      "Warmth": -1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Agrees with Jack to return to The Slaughtered Lamb after hearing the terrifying howls.",
+      "assessment": "This decision reflects practical judgment and situational awareness, prioritizing safety over bravado.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Sleeps in hospital room and responds to nurse Miss Gallagher politely after being awakened.",
-      "Warmth": 1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Admits openly 'We're lost' after realizing they are not making progress.",
+      "assessment": "This admission shows honesty and self-awareness, but also highlights a lack of navigational skill or preparedness in an unfamiliar environment.",
+      "rating": -1,
+      "chunk": 9
     },
     {
-      "Action": "Engages in light-hearted, friendly conversation with nurse Miss Gallagher before falling asleep, showing a gentle sense of humor ('does everyone kill Bambi?').",
-      "Warmth": 1,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Encourages Jack to keep moving and stay calm despite the threatening presence.",
+      "assessment": "David tries to maintain composure and keep Jack focused, showing a protective and supportive attitude in a dangerous situation.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Shows awareness of time and surroundings by asking what time it is and engaging in conversation before falling asleep.",
-      "Competence": 1,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Uses light sarcasm ('a lovely stroll in the moors. Tra-la-la, isn't this fun?') to cope with fear.",
+      "assessment": "This shows David's attempt to lighten the mood and possibly comfort Jack, indicating a friendly and sincere effort to manage stress together.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Engages in somewhat surreal or confused dialogue about killing Bambi before sleeping, indicating some mental disturbance or disorientation.",
-      "Competence": -1,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Refers to the threatening creature as 'a sheep dog or something' and tells Jack to 'turn slowly and let's walk away.'",
+      "assessment": "David tries to downplay the threat to keep Jack calm and prevent panic, demonstrating care and a protective instinct.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Responds to nurse Alex's requests with resistance, refuses to eat or take pills despite her efforts.",
-      "Competence": -1,
-      "Chunk": 22
+      "trait": "warmth",
+      "action": "Does not show overt fear or abandon Jack despite the danger.",
+      "assessment": "David remains with Jack and continues to communicate, showing loyalty and trustworthiness under stress.",
+      "rating": 3,
+      "chunk": 10
     },
     {
-      "Action": "Demonstrates awareness of social interaction by engaging in light banter and showing amusement during feeding attempt.",
-      "Competence": 0,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "When confronted with an unknown and threatening presence, David suggests they keep moving and tries to maintain calm by talking and making light of the situation.",
+      "assessment": "This shows some presence of mind and an attempt to manage fear through humor, indicating moderate emotional resilience and situational awareness.",
+      "rating": 1,
+      "chunk": 10
     },
     {
-      "Action": "Amused and tolerant when Alex feeds him by forcibly opening his mouth; eventually complies and asks politely for milk.",
-      "Warmth": 1,
-      "Chunk": 23
+      "trait": "competence",
+      "action": "David tries to identify the creature and suggests it might be a sheep dog, advising to turn slowly and walk away.",
+      "assessment": "This reflects an attempt to rationalize the threat and use a cautious approach to avoid provoking it, showing some level of practical thinking under stress.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Runs desperately to help Jack when hearing his screams, showing concern and urgency.",
-      "Warmth": 1,
-      "Chunk": 23
+      "trait": "competence",
+      "action": "David asks 'What's the plan?' but then settles on just continuing to walk, showing uncertainty and lack of a clear strategy.",
+      "assessment": "This indicates some indecision and lack of leadership or tactical planning in a dangerous situation, which detracts from his competence.",
+      "rating": -1,
+      "chunk": 10
     },
     {
-      "Action": "Approaches mysterious hospital bed fearfully and with disbelief, showing hesitance rooted in caution rather than coldness.",
-      "Warmth": 0,
-      "Chunk": 23
+      "trait": "competence",
+      "action": "David and Jack end up running away in full flight after the creature speeds up and approaches.",
+      "assessment": "While fleeing is a natural survival response, the lack of a better plan or attempt to find shelter or defend themselves suggests limited problem-solving skills in crisis.",
+      "rating": -1,
+      "chunk": 10
     },
     {
-      "Action": "Refuses to open his mouth initially when fed by Alex, but then complies when forced, showing some resistance but eventual cooperation and cooperation with social cues.",
-      "Competence": 0,
-      "Chunk": 23
+      "trait": "warmth",
+      "action": "Laughs with Jack after slipping in the mud, sharing a light moment.",
+      "assessment": "Sharing laughter and lightheartedness with a friend indicates friendliness and a good-natured attitude.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Asks politely for a glass of milk after being fed, showing appropriate social interaction and some self-advocacy.",
-      "Competence": 1,
-      "Chunk": 23
+      "trait": "warmth",
+      "action": "Asks Jack if he is going to help him up after slipping.",
+      "assessment": "Requesting help and engaging in mutual support shows openness and trust in his friend.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Runs through the forest in panic upon hearing Jack's screams and rushes to find him, showing quick response to an emergency though motivated by fear.",
-      "Competence": 1,
-      "Chunk": 23
+      "trait": "warmth",
+      "action": "Runs back to find Jack after hearing his screams and seeing him attacked.",
+      "assessment": "David’s immediate concern and attempt to help Jack in danger reflects sincerity, trustworthiness, and care.",
+      "rating": 3,
+      "chunk": 11
     },
     {
-      "Action": "Approaches the mysterious hospital bed slowly and fearfully, hesitates briefly before revealing the figure, demonstrating caution and curiosity but also fear.",
-      "Competence": 0,
-      "Chunk": 23
+      "trait": "warmth",
+      "action": "Stares in horror at Jack’s torn and bloody body.",
+      "assessment": "His horror and emotional reaction demonstrate empathy and genuine concern for his friend.",
+      "rating": 3,
+      "chunk": 11
     },
     {
-      "Action": "Shares his traumatic experience sincerely with Dr. Hirsch, expressing distress and disbelief.",
-      "Warmth": 1,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Runs away in panic when the wolf attacks Jack.",
+      "assessment": "While understandable in a life-threatening situation, fleeing instead of helping could be seen as a momentary lapse in courage and warmth.",
+      "rating": -1,
+      "chunk": 11
     },
     {
-      "Action": "Firmly insists on the truth of what he saw, showing trustworthiness and honesty.",
-      "Warmth": 1,
-      "Chunk": 24
+      "trait": "competence",
+      "action": "Slips suddenly in the mud and falls, startling himself and Jack.",
+      "assessment": "This action suggests a momentary lack of physical coordination and situational awareness, which slightly undermines his competence in a tense environment.",
+      "rating": -1,
+      "chunk": 11
     },
     {
-      "Action": "Shows upset and vulnerability when discussing his bad dreams and trauma.",
-      "Warmth": 1,
-      "Chunk": 24
+      "trait": "competence",
+      "action": "Scrambles to his feet and runs in complete panic when the wolf monster attacks Jack.",
+      "assessment": "His immediate reaction is to flee rather than assist, indicating a lack of composure and effective response under extreme stress, which negatively impacts perceived competence.",
+      "rating": -2,
+      "chunk": 11
     },
     {
-      "Action": "Calls Alex a very beautiful girl and engages in sincere conversation despite his own pain.",
-      "Warmth": 1,
-      "Chunk": 26
+      "trait": "competence",
+      "action": "Runs back to find Jack after falling out of breath.",
+      "assessment": "Despite panic and exhaustion, David shows determination and concern by returning to check on his friend, reflecting some level of resilience and responsibility.",
+      "rating": 1,
+      "chunk": 11
     },
     {
-      "Action": "Shares openly about his dreams of death and invites Alex to talk.",
-      "Warmth": 1,
-      "Chunk": 26
+      "trait": "competence",
+      "action": "Stares in horror at Jack's torn and bloody body.",
+      "assessment": "His reaction is emotional and shocked, which is understandable but indicates a lack of preparedness or mental readiness for the violent situation.",
+      "rating": 0,
+      "chunk": 11
     },
     {
-      "Action": "Repeatedly asks Alex questions, showing genuine interest in her.",
-      "Warmth": 1,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Calls out for Jack upon waking in the hospital, showing concern for his friend despite his own pain and confusion.",
+      "assessment": "Calling out for a friend in distress indicates loyalty and emotional connection, reflecting a sincere and caring nature.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Does not dismiss Alex’s embarrassment or awkwardness, allowing her to lead the interaction.",
-      "Warmth": 1,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Falls back and faints after seeing the old man riddled with bullet holes instead of the wolf.",
+      "assessment": "His reaction shows vulnerability and human sensitivity to trauma, which can be interpreted as a sign of emotional openness and sincerity.",
+      "rating": 1,
+      "chunk": 12
     },
     {
-      "Action": "Attempts to intervene and stop the attackers during the assault on his family (saying 'Stop!')",
-      "Warmth": 1,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "After being attacked and injured, David looks around and calls out for Jack before passing out.",
+      "assessment": "David's attempt to call out for his friend despite his injuries shows presence of mind and awareness of his situation, indicating some mental resilience and situational awareness even when physically compromised.",
+      "rating": 1,
+      "chunk": 12
     },
     {
-      "Action": "Passively endures the brutal murder of his siblings and mother without being able to act (held down by attacker)",
-      "Warmth": 0,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "David tries to sit up and look around in the hospital despite pain and injuries.",
+      "assessment": "This shows a degree of physical determination and alertness, but also a lack of patience or understanding of his physical limits, which could be seen as slightly imprudent.",
+      "rating": 0,
+      "chunk": 12
     },
     {
-      "Action": "Attempts to intervene and commands perpetrators to stop during violent home attack.",
-      "Competence": 0,
-      "Chunk": 27
+      "trait": "warmth",
+      "action": "Expresses concern for his friend Jack's wellbeing immediately upon waking in the hospital.",
+      "assessment": "David's immediate worry about Jack shows his caring and loyal nature, indicating warmth through his concern for others.",
+      "rating": 3,
+      "chunk": 14
     },
     {
-      "Action": "Is physically restrained and unable to prevent family’s murder during sudden violent assault.",
-      "Competence": -1,
-      "Chunk": 27
+      "trait": "warmth",
+      "action": "Reacting with controlled tears and distress upon hearing that Jack's body has been shipped back for burial.",
+      "assessment": "David's emotional response reveals his sincere attachment and respect for his friend, reflecting genuine feelings and warmth.",
+      "rating": 3,
+      "chunk": 14
     },
     {
-      "Action": "Makes a deliberate effort to calm himself and asks Alex not to leave but instead keep him company.",
-      "Warmth": 1,
-      "Chunk": 28
+      "trait": "warmth",
+      "action": "Questions the formality and coldness of shipping Jack's body 'like some side of beef'.",
+      "assessment": "This statement shows David's sensitivity and discomfort with impersonal treatment of his friend, highlighting his empathy and good-natured disposition.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Expresses vulnerability by talking openly about his terrible dreams and fears.",
-      "Warmth": 1,
-      "Chunk": 28
+      "trait": "competence",
+      "action": "Opens his eyes quickly and immediately asks relevant questions about his location and his friend Jack after waking up in the hospital.",
+      "assessment": "This shows alertness and situational awareness, indicating a competent and engaged mindset despite trauma.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Jokes and flirts with Alex to cheer himself up, showing a friendly and sincere attempt to connect.",
-      "Warmth": 1,
-      "Chunk": 28
+      "trait": "competence",
+      "action": "Jolts up in bed and shouts upon hearing that Jack is dead, despite the pain it causes him.",
+      "assessment": "This reaction demonstrates emotional distress but also a strong will and presence of mind to respond actively to shocking news, reflecting a degree of mental resilience.",
+      "rating": 1,
+      "chunk": 14
     },
     {
-      "Action": "Asks Alex to consider going on a holiday with him despite little knowledge of each other, showing a mix of forwardness and openness.",
-      "Warmth": 0,
-      "Chunk": 28
+      "trait": "competence",
+      "action": "Expresses controlled tears and protests the treatment of Jack's body.",
+      "assessment": "Shows emotional control and the ability to articulate feelings clearly, which is a sign of emotional intelligence and personal strength.",
+      "rating": 1,
+      "chunk": 14
     },
     {
-      "Action": "Attempts to break awkward tension by lightening the mood and continuing the book reading with Alex.",
-      "Warmth": 1,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Does not immediately ask about his own injuries or condition, focusing instead on Jack and the circumstances.",
+      "assessment": "This omission may suggest a lack of self-focus or denial about his own state, which could be a slight negative indicator of competence in managing his own wellbeing.",
+      "rating": -1,
+      "chunk": 14
     },
     {
-      "Action": "Responds politely and warmly with 'Good morning' to the Orderly after being woken up, despite drowsiness.",
-      "Warmth": 1,
-      "Chunk": 29
+      "trait": "warmth",
+      "action": "Demands to see Jack and shouts in confusion and hysteria.",
+      "assessment": "David's intense emotional reaction shows his deep concern and attachment to Jack, indicating sincerity and a caring nature, though expressed in a distressed and aggressive manner.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Uses a playful mock accent when tasting his food, showing humor and a friendly attitude in his hospital state.",
-      "Warmth": 1,
-      "Chunk": 29
+      "trait": "warmth",
+      "action": "Shouts 'Get your fucking hands off me!' when restrained by medical staff.",
+      "assessment": "While his language and resistance may seem hostile, it stems from fear and confusion rather than malice, showing a lack of trust but not necessarily unkindness.",
+      "rating": -1,
+      "chunk": 15
     },
     {
-      "Action": "Wakes and eats breakfast despite drowsiness and discomfort, uses humor to ease situation (mock English accent)",
-      "Competence": 1,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Shouts and struggles violently when restrained by medical staff.",
+      "assessment": "This reaction shows a lack of emotional control and situational awareness, undermining his ability to handle stressful situations calmly and effectively.",
+      "rating": -2,
+      "chunk": 15
     },
     {
-      "Action": "Appears slow to fully wake up and reluctant about food",
-      "Competence": 0,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Demands to see Jack and questions the people around him despite confusion and sedation.",
+      "assessment": "This indicates a degree of assertiveness and awareness, showing he is trying to understand his situation and protect someone important to him, which reflects some mental engagement and determination.",
+      "rating": 1,
+      "chunk": 15
     },
     {
-      "Action": "Reacting with horror and disbelief to Jack's undead presence, verbally expressing distress.",
-      "Warmth": 0,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Asks how long he has been unconscious and processes the information about his injuries.",
+      "assessment": "This shows cognitive clarity and an ability to gather and process information about his condition, suggesting some level of mental competence despite recent trauma.",
+      "rating": 1,
+      "chunk": 15
     },
     {
-      "Action": "Acknowledges that Jack was well liked and shows some understanding of others’ emotions.",
-      "Warmth": 1,
-      "Chunk": 30
+      "trait": "warmth",
+      "action": "Softly insists that the attacker was not a lunatic but a wolf, despite others' disbelief.",
+      "assessment": "David's insistence on telling the truth, even when it sounds unbelievable, shows sincerity and a desire to be honest, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Uses a harsh tone and insults Rudy Levine, showing intolerance.",
-      "Warmth": -1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Softly insists that the attacker was not a lunatic but a wolf, despite others' disbelief.",
+      "assessment": "This shows David's awareness and clarity about the true nature of his attacker, indicating insight and mental acuity even under the influence of sedatives.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Dismisses Jack's warnings aggressively and refuses to listen to the serious information about the werewolf curse.",
-      "Competence": -1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Passes out shortly after asserting the wolf explanation.",
+      "assessment": "Losing consciousness at this moment suggests a physical or mental vulnerability, limiting his ability to act or communicate further, which detracts from his overall competence.",
+      "rating": -1,
+      "chunk": 16
     },
     {
-      "Action": "Responds with anger and disbelief rather than trying to understand or investigate his situation.",
-      "Competence": -1,
-      "Chunk": 31
+      "trait": "warmth",
+      "action": "Politely contradicts the police report by stating that he and Jack were not attacked by a man.",
+      "assessment": "David shows sincerity and a willingness to communicate honestly, even when it conflicts with official accounts, indicating trustworthiness and openness.",
+      "rating": 2,
+      "chunk": 17
     },
     {
-      "Action": "Denies the warning and attempts to assert control by telling Jack to leave but fails to process the urgency of the curse.",
-      "Competence": -1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Sits up in bed and calmly states, 'I'm sorry if I conflict with your report, but Jack and I were not attacked by a man.'",
+      "assessment": "David demonstrates clear-headedness and confidence in asserting his version of events despite official skepticism, indicating mental clarity and assertiveness.",
+      "rating": 2,
+      "chunk": 17
     },
     {
-      "Action": "Cries softly and appears vulnerable, allowing Alex to comfort him.",
-      "Warmth": 1,
-      "Chunk": 32
+      "trait": "warmth",
+      "action": "Expresses confusion and concern about the witnesses and the events that happened to him and Jack.",
+      "assessment": "David shows sincerity and openness in trying to understand the traumatic event, indicating a genuine and trustworthy nature.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Pulls away sharply at first from Alex's hug but then relaxes and shares a sincere kiss with her.",
-      "Warmth": 1,
-      "Chunk": 32
+      "trait": "warmth",
+      "action": "Engages respectfully with Dr. Hirsch and the police despite the dismissive attitude of Lt. Villiers.",
+      "assessment": "David remains composed and does not react with hostility, showing tolerance and a good-natured demeanor even under stress.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Yells repeatedly for the nurse, showing distress and need for help.",
-      "Warmth": 0,
-      "Chunk": 32
+      "trait": "competence",
+      "action": "David tries to make sense of the contradictory information about witnesses and the attack, questioning how there could have been witnesses when it was so dark and recalling the events as he experienced them.",
+      "assessment": "This shows David's attempt to logically process confusing and traumatic information, indicating a degree of cognitive engagement and self-awareness despite his distress.",
+      "rating": 1,
+      "chunk": 18
     },
     {
-      "Action": "Does not respond to Jack's suicidal suggestions and instead seems to reach out for support.",
-      "Warmth": 1,
-      "Chunk": 32
+      "trait": "competence",
+      "action": "David asserts that his memory is fine but expresses concern about his sanity.",
+      "assessment": "While David demonstrates confidence in his memory, his worry about his sanity suggests self-doubt and psychological vulnerability, which may undermine his overall competence in handling the situation.",
+      "rating": 0,
+      "chunk": 18
     },
     {
-      "Action": "Admits his werewolf identity quietly and honestly to Alex.",
-      "Warmth": 1,
-      "Chunk": 32
+      "trait": "competence",
+      "action": "David remains mostly passive during the interrogation, allowing the officials to dismiss his testimony and close the matter without further investigation.",
+      "assessment": "His lack of assertiveness or insistence on pursuing the truth reflects a possible lack of confidence or agency, which negatively impacts perceptions of his competence in advocating for himself.",
+      "rating": -1,
+      "chunk": 18
     },
     {
-      "Action": "Takes Alex's hand during conversation, shares his fears openly.",
-      "Warmth": 1,
-      "Chunk": 33
+      "trait": "warmth",
+      "action": "Moves stealthily and forcefully attacks a fawn in the forest, covering himself in blood and howling in triumph.",
+      "assessment": "This action reflects a primal, animalistic behavior focused on survival and dominance rather than any social or warm interaction; it shows a lack of empathy or gentleness in this moment.",
+      "rating": -2,
+      "chunk": 19
     },
     {
-      "Action": "Compliments Alex's apartment sincerely with words like 'Very nice,' 'Charming,' and 'Lovely.'",
-      "Warmth": 1,
-      "Chunk": 33
+      "trait": "warmth",
+      "action": "Responds to Miss Gallagher's gentle awakening and takes his medication without resistance.",
+      "assessment": "David's compliance and calm response to a caretaker's kindness indicates a degree of trust and sincerity, showing some warmth in accepting help.",
+      "rating": 1,
+      "chunk": 19
     },
     {
-      "Action": "Engages in an intimate and friendly shower scene with Alex, expressing 'It's nice to see you.'",
-      "Warmth": 1,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "Moves through the forest with animal-like grace and stealth, running fast and taking long strides and leaps.",
+      "assessment": "This action demonstrates a high level of physical capability, agility, and control, indicating strong competence in movement and awareness of his environment.",
+      "rating": 2,
+      "chunk": 19
     },
     {
-      "Action": "Engages in intimate and affectionate moments with Alex, kisses, holds each other tenderly.",
-      "Warmth": 1,
-      "Chunk": 34
+      "trait": "competence",
+      "action": "Stops suddenly and listens intently, showing alertness and caution before approaching the deer.",
+      "assessment": "This shows situational awareness and careful observation, reflecting intelligent and skillful behavior.",
+      "rating": 2,
+      "chunk": 19
     },
     {
-      "Action": "Expresses vulnerability and seeks reassurance about his mental state from Alex.",
-      "Warmth": 1,
-      "Chunk": 34
+      "trait": "competence",
+      "action": "Successfully stalks and captures a fawn, overpowering it with strength and precision.",
+      "assessment": "This indicates effective predatory skill and physical dominance, suggesting a high degree of competence in this context.",
+      "rating": 3,
+      "chunk": 19
     },
     {
-      "Action": "Insists firmly on the reality of his experience despite Alex's skepticism.",
-      "Warmth": 0,
-      "Chunk": 34
+      "trait": "competence",
+      "action": "Howls in triumph after the kill.",
+      "assessment": "While this shows confidence and dominance, it may also suggest a loss of control or emotional restraint, which could be a slight negative in terms of measured competence.",
+      "rating": 0,
+      "chunk": 19
     },
     {
-      "Action": "Insists firmly he was not hallucinating despite Alex's skepticism, showing confidence in his perception.",
-      "Competence": 1,
-      "Chunk": 34
+      "trait": "competence",
+      "action": "Takes pills administered by Miss Gallagher without resistance or questioning.",
+      "assessment": "This passive acceptance might indicate compliance but also a lack of assertiveness or critical thinking about his situation, reflecting a neutral to slightly negative competence indicator.",
+      "rating": 0,
+      "chunk": 19
     },
     {
-      "Action": "Acknowledges his own insanity and need for reassurance, showing some insight and realism.",
-      "Competence": 1,
-      "Chunk": 34
+      "trait": "warmth",
+      "action": "Engages Miss Gallagher in light conversation before falling asleep, asking if she has bad dreams too.",
+      "assessment": "David shows a gentle, sincere curiosity and attempts to connect on a personal level, indicating friendliness and openness.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Allows himself to be reassured by Alex in a somewhat nonchalant, dismissive way rather than critically analyzing the situation.",
-      "Competence": -1,
-      "Chunk": 34
+      "trait": "warmth",
+      "action": "Asks Miss Gallagher if everyone kills Bambi, referencing a disturbing thought.",
+      "assessment": "This question reveals David's vulnerability and a need to share his troubled thoughts, which can be seen as a sincere, if troubled, attempt at emotional openness.",
+      "rating": 1,
+      "chunk": 20
     },
     {
-      "Action": "Carefully and quietly gets out of bed at night to avoid waking Alex, demonstrating cautiousness and consideration.",
-      "Competence": 1,
-      "Chunk": 34
+      "trait": "competence",
+      "action": "Asks what time it is after waking up.",
+      "assessment": "This shows a basic awareness of his surroundings and a desire to orient himself, indicating a minimal level of cognitive competence despite his condition.",
+      "rating": 1,
+      "chunk": 20
     },
     {
-      "Action": "Winces and tiptoes to avoid waking Alex, shows concern for others' rest.",
-      "Warmth": 1,
-      "Chunk": 35
+      "trait": "competence",
+      "action": "Engages in a brief conversation with Miss Gallagher about her plans and bad dreams.",
+      "assessment": "This interaction suggests some social awareness and ability to communicate, though it is limited and somewhat distracted, reflecting a moderate but not strong competence.",
+      "rating": 1,
+      "chunk": 20
     },
     {
-      "Action": "Follows Jack despite fear and uncertainty, showing openness and engagement.",
-      "Warmth": 1,
-      "Chunk": 35
+      "trait": "competence",
+      "action": "Falls asleep quickly after taking pills and brief conversation.",
+      "assessment": "This indicates a lack of control over his own state, possibly due to medication or trauma, which can be seen as a temporary reduction in competence.",
+      "rating": -1,
+      "chunk": 20
     },
     {
-      "Action": "Responds to Jack's warnings with frustration and dismissal, telling him to 'go away' and calling him an undead intruder.",
-      "Warmth": -1,
-      "Chunk": 35
+      "trait": "warmth",
+      "action": "Refuses to eat enough of what is put before him.",
+      "assessment": "David's refusal to eat may indicate withdrawal or distress rather than a lack of warmth; it is more a sign of his internal struggle than his interpersonal warmth.",
+      "rating": 0,
+      "chunk": 21
     },
     {
-      "Action": "Whispers during conversation to avoid waking Alex, showing consideration.",
-      "Warmth": 1,
-      "Chunk": 35
+      "trait": "warmth",
+      "action": "Suffers from nightmares and appears to need comfort.",
+      "assessment": "While this shows vulnerability, it does not directly indicate warmth; it suggests a need for support rather than an expression of warmth.",
+      "rating": 0,
+      "chunk": 21
     },
     {
-      "Action": "Questions Jack's reality and his own sanity, revealing vulnerability and honesty.",
-      "Warmth": 1,
-      "Chunk": 35
+      "trait": "warmth",
+      "action": "Refuses to eat his lunch despite Alex's polite insistence and efforts to feed him.",
+      "assessment": "David's refusal to eat and his somewhat dismissive responses to Alex's caring attempts suggest a lack of warmth in this interaction; he appears withdrawn and uncooperative rather than friendly or sincere.",
+      "rating": -1,
+      "chunk": 22
     },
     {
-      "Action": "Rejects Jack's warnings aggressively and shouts at him to go away",
-      "Warmth": -1,
-      "Chunk": 36
+      "trait": "warmth",
+      "action": "Engages in light banter with Alex, asking her to call him David instead of Mr. Kessler.",
+      "assessment": "This shows a small degree of friendliness and willingness to reduce social distance, indicating some warmth despite his overall reluctance.",
+      "rating": 1,
+      "chunk": 22
     },
     {
-      "Action": "Tells Alex it was just him talking, reassuring her that everything is fine",
-      "Warmth": 1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Refuses to eat his lunch despite nurse Alex's insistence and attempts to feed him.",
+      "assessment": "This action suggests a lack of cooperation and possibly a diminished ability or will to care for himself, indicating low self-management and reduced competence in managing his own health.",
+      "rating": -2,
+      "chunk": 22
     },
     {
-      "Action": "Is brought to hospital after a werewolf-related attack, speaks about werewolves and monsters.",
-      "Competence": 0,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "Engages in light banter with nurse Alex, asking her to call him by his first name and showing some interest in the interaction.",
+      "assessment": "This shows some social awareness and ability to engage, which is a mild positive indicator of competence in interpersonal communication.",
+      "rating": 1,
+      "chunk": 22
     },
     {
-      "Action": "Shares a tender moment and expresses vulnerability to Alex, asking her to stay but encouraging her to go to work.",
-      "Warmth": 1,
-      "Chunk": 38
+      "trait": "competence",
+      "action": "Responds lifelessly and with minimal energy to Alex's questions.",
+      "assessment": "This suggests low energy and possibly impaired cognitive or emotional functioning, reflecting negatively on his competence in maintaining alertness and engagement.",
+      "rating": -2,
+      "chunk": 22
     },
     {
-      "Action": "Reassures Alex by agreeing to call her if anxious and appreciates her care.",
-      "Warmth": 1,
-      "Chunk": 38
+      "trait": "warmth",
+      "action": "Allows Alex to feed him when she forcibly opens his mouth and shoves a fork in it, then cooperates by opening his mouth obediently and eating the food.",
+      "assessment": "David shows a degree of trust and tolerance toward Alex's somewhat intrusive but caring behavior, indicating a willingness to accept help and maintain a friendly interaction.",
+      "rating": 2,
+      "chunk": 23
     },
     {
-      "Action": "Responds with mild frustration but no hostility to the dog that growls at him.",
-      "Warmth": 0,
-      "Chunk": 38
+      "trait": "warmth",
+      "action": "Asks Alex politely for a glass of milk after being fed.",
+      "assessment": "This polite request shows David's sincere and respectful communication, reflecting good-natured and friendly behavior.",
+      "rating": 2,
+      "chunk": 23
     },
     {
-      "Action": "Acknowledges apprehension and tries to rationalize his fear (e.g., 'Werewolves simply do not exist').",
-      "Competence": 1,
-      "Chunk": 38
+      "trait": "warmth",
+      "action": "Runs desperately to find Jack after hearing his screams for help.",
+      "assessment": "David's immediate and frantic response to Jack's cries demonstrates loyalty, concern, and a caring nature toward his friend.",
+      "rating": 3,
+      "chunk": 23
     },
     {
-      "Action": "Shows some emotional dependence and uncertainty by needing reassurance from Alex and letting her stay despite her needing to go to work.",
-      "Competence": 0,
-      "Chunk": 38
+      "trait": "warmth",
+      "action": "Approaches the hospital bed slowly and fearfully, showing disbelief and horror upon seeing the figure in the bed.",
+      "assessment": "David's cautious and emotional reaction suggests sensitivity and sincerity, though the scene is more about his internal fear than direct warmth toward others.",
+      "rating": 1,
+      "chunk": 23
     },
     {
-      "Action": "Fails to understand why the dog reacts aggressively to him, showing confusion and lack of situational awareness.",
-      "Competence": -1,
-      "Chunk": 38
+      "trait": "competence",
+      "action": "Initially refuses to open his mouth to eat, folding his arms and resisting Alex's attempts to feed him.",
+      "assessment": "This shows a degree of stubbornness or reluctance, which may indicate a lack of adaptability or cooperation in this social interaction, suggesting a minor lapse in social competence.",
+      "rating": -1,
+      "chunk": 23
     },
     {
-      "Action": "Sings 'Moon River' softly, exhibiting vulnerability and introspection.",
-      "Warmth": 1,
-      "Chunk": 40
+      "trait": "competence",
+      "action": "Eventually complies and opens his mouth obediently to eat when Alex forces his mouth open and feeds him.",
+      "assessment": "Despite initial resistance, David demonstrates the ability to adapt and cooperate, showing some social flexibility and control over his behavior.",
+      "rating": 1,
+      "chunk": 23
     },
     {
-      "Action": "Turns on the television but quickly switches it off, showing restlessness and discomfort but no hostility.",
-      "Warmth": 0,
-      "Chunk": 40
+      "trait": "competence",
+      "action": "Asks for a glass of milk after being fed.",
+      "assessment": "This indicates that David is able to communicate his needs clearly and appropriately, reflecting a basic level of competence in self-advocacy and interaction.",
+      "rating": 1,
+      "chunk": 23
     },
     {
-      "Action": "Views the darkening outside fearfully but does not shut the front door completely, indicating hesitance and vulnerability.",
-      "Warmth": 0,
-      "Chunk": 40
+      "trait": "competence",
+      "action": "Runs naked through a dense forest, suddenly stops, listens carefully, and reacts to Jack's screams by running desperately to find him.",
+      "assessment": "David's alertness and quick reaction to auditory cues demonstrate situational awareness and responsiveness, which are positive indicators of competence under stress.",
+      "rating": 2,
+      "chunk": 23
     },
     {
-      "Action": "Mentally recites a threatening rhyme ('Fee fi fo fum, I smell the blood of an Englishman'), suggesting internal conflict or menace.",
-      "Warmth": -1,
-      "Chunk": 40
+      "trait": "competence",
+      "action": "Approaches a mysterious hospital bed slowly and fearfully, hesitating before pulling back the covers despite the ominous environment.",
+      "assessment": "His cautious approach shows prudence and awareness of potential danger, but the hesitation and fear may also indicate uncertainty or lack of confidence in handling the unknown.",
+      "rating": 0,
+      "chunk": 23
     },
     {
-      "Action": "Paces nervously like a caged animal, showing internal torment but no aggressive behavior toward others.",
-      "Warmth": 0,
-      "Chunk": 40
+      "trait": "warmth",
+      "action": "Expresses upset and vulnerability when discussing his traumatic experience with Dr. Hirsch.",
+      "assessment": "David's willingness to openly share his fears and trauma with a medical professional shows a degree of sincerity and trust, indicating some warmth.",
+      "rating": 2,
+      "chunk": 24
     },
     {
-      "Action": "Clutches his head in pain and screams out in agony, revealing profound suffering and vulnerability.",
-      "Warmth": 1,
-      "Chunk": 40
+      "trait": "warmth",
+      "action": "Insists that the attacker was not a man but an animal, defending his friend Jack's memory.",
+      "assessment": "David's defense of Jack and his insistence on the truth about the attack reflect loyalty and a protective nature, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 24
     },
     {
-      "Action": "Cries out in pain and fear, pleading for help, apologizes to Jack.",
-      "Warmth": 1,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "David lies pale and motionless with death pallor, then suddenly opens his eyes revealing fangs and emits a bloodcurdling wail.",
+      "assessment": "This moment shows David in a state of helplessness and horror, lacking control over his own body and situation, indicating a lack of competence in managing his condition or environment.",
+      "rating": -2,
+      "chunk": 24
     },
     {
-      "Action": "Cries out for help and shows panic, is overwhelmed by pain and transformation, loses control as he undergoes metamorphosis into a wolf.",
-      "Competence": -1,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "David communicates clearly and rationally with Dr. Hirsch about his traumatic experience and insists the attacker was an animal, not a man.",
+      "assessment": "David demonstrates clear thinking and attempts to explain his experience logically despite trauma, showing some mental clarity and ability to communicate effectively.",
+      "rating": 1,
+      "chunk": 24
     },
     {
-      "Action": "Expresses distress over the death of his friend Jack, who appears to him to warn him.",
-      "Warmth": 1,
-      "Chunk": 44
+      "trait": "competence",
+      "action": "David insists that a man could not have torn apart his friend Jack with bare hands, expressing skepticism about human capability in the situation.",
+      "assessment": "This shows David's critical thinking and refusal to accept implausible explanations, indicating a degree of intelligence and analytical reasoning.",
+      "rating": 2,
+      "chunk": 24
     },
     {
-      "Action": "Persistently shares his werewolf fantasies and supernatural experiences despite skepticism.",
-      "Warmth": 1,
-      "Chunk": 44
+      "trait": "warmth",
+      "action": "Expresses concern about Jack's whereabouts and insists on the reality of the threat despite disbelief from Dr. Hirsch.",
+      "assessment": "David shows persistence and a desire for connection by asking about Jack and seeking validation, indicating sincerity and trustworthiness in his experience.",
+      "rating": 2,
+      "chunk": 25
     },
     {
-      "Action": "Has no close connections in London besides Alex, showing some social isolation but is trusted by Alex.",
-      "Warmth": 0,
-      "Chunk": 44
+      "trait": "warmth",
+      "action": "Admits to Dr. Hirsch that he would rather not be by himself.",
+      "assessment": "This admission reveals vulnerability and a need for companionship, suggesting David values social connection and is open about his feelings, which are positive indicators of warmth.",
+      "rating": 3,
+      "chunk": 25
     },
     {
-      "Action": "Is subject of concern due to persistent werewolf fantasies and trauma, appears confused and distressed rather than acting with skill or confidence.",
-      "Competence": -1,
-      "Chunk": 44
+      "trait": "competence",
+      "action": "David persistently questions Dr. Hirsch about the police investigation and the events at The Slaughtered Lamb despite the doctor's dismissive attitude.",
+      "assessment": "This shows David's determination and critical thinking, indicating he is actively seeking the truth and not passively accepting others' disbelief.",
+      "rating": 2,
+      "chunk": 25
     },
     {
-      "Action": "The lack of records and lost files about his attack suggest he was not able to advocate effectively for himself or ensure proper medical attention.",
-      "Competence": -1,
-      "Chunk": 44
+      "trait": "competence",
+      "action": "David confronts Dr. Hirsch about his quickness to disbelieve him and challenges the doctor's assumptions.",
+      "assessment": "This demonstrates confidence and assertiveness, traits associated with competence, as David advocates for himself and his experience.",
+      "rating": 2,
+      "chunk": 25
     },
     {
-      "Action": "No indication in this excerpt of David taking initiative or demonstrating skill or intelligence in dealing with his situation.",
-      "Competence": 0,
-      "Chunk": 44
+      "trait": "competence",
+      "action": "David admits to Dr. Hirsch that he would rather not be by himself in the hospital.",
+      "assessment": "This reveals self-awareness and emotional intelligence, recognizing his own vulnerability and seeking support, which can be seen as a competent coping strategy.",
+      "rating": 1,
+      "chunk": 25
     },
     {
-      "Action": "Eats a chocolate bar calmly while alone, momentarily checks for presence of others showing cautiousness but does not act hostile",
-      "Warmth": 1,
-      "Chunk": 46
+      "trait": "competence",
+      "action": "David shows frustration and desperation when Dr. Hirsch dismisses his claims and suggests he is crazy.",
+      "assessment": "While understandable, this emotional response may indicate some difficulty managing stress and skepticism from others, slightly detracting from his overall composure and competence.",
+      "rating": -1,
+      "chunk": 25
     },
     {
-      "Action": "Responds nervously but politely by saying 'Hello?' and 'Is there someone there?' when he thinks he is being followed, showing some trust or hope for communication",
-      "Warmth": 1,
-      "Chunk": 46
+      "trait": "warmth",
+      "action": "Quietly compliments Alex by saying, 'You're a very beautiful girl.'",
+      "assessment": "This shows David's ability to express sincere and gentle appreciation, indicating friendliness and warmth.",
+      "rating": 2,
+      "chunk": 26
     },
     {
-      "Action": "Threatens to report the source of his fear, indicating he wants justice or fairness but also shows a defensive stance",
-      "Warmth": 0,
-      "Chunk": 46
+      "trait": "warmth",
+      "action": "Engages in a calm and open conversation with Alex, answering her questions honestly and showing interest in her reading.",
+      "assessment": "David's willingness to engage and share personal thoughts, such as his dreams about death, reflects trustworthiness and sincerity.",
+      "rating": 2,
+      "chunk": 26
     },
     {
-      "Action": "Looks about the platform and checks his watch, buys a chocolate bar from vending machine calmly.",
-      "Competence": 1,
-      "Chunk": 46
+      "trait": "warmth",
+      "action": "Affirms the importance of his friendship with Jack Goodman when Alex asks about him.",
+      "assessment": "Expressing deep feelings about his best friend shows David's capacity for loyalty and emotional openness.",
+      "rating": 2,
+      "chunk": 26
     },
     {
-      "Action": "Feels he is being followed and turns slowly to look but sees no one; continues walking with concern about his imagination.",
-      "Competence": 0,
-      "Chunk": 46
+      "trait": "warmth",
+      "action": "Accepts Alex's offer to read to him and encourages her to continue.",
+      "assessment": "This indicates David's receptiveness and appreciation for companionship, reflecting warmth and friendliness.",
+      "rating": 2,
+      "chunk": 26
     },
     {
-      "Action": "Upon hearing/hearing the Wolf's presence, stops and speaks aloud trying to confront or get attention, then panics and threatens to report it.",
-      "Competence": -1,
-      "Chunk": 46
+      "trait": "competence",
+      "action": "Engages in a calm, meaningful conversation with Alex despite being in a vulnerable state (hospital bed, recovering).",
+      "assessment": "This shows emotional intelligence and social skill, indicating a level of competence in interpersonal communication even under stress.",
+      "rating": 2,
+      "chunk": 26
     },
     {
-      "Action": "Wakes up naked and dirty in the zoo, notices people approaching and decides to avoid meeting them to prevent trouble.",
-      "Warmth": 1,
-      "Chunk": 47
+      "trait": "competence",
+      "action": "Admits openly that he dreams mostly of death.",
+      "assessment": "This honest self-expression suggests self-awareness and emotional maturity, which are components of psychological competence.",
+      "rating": 2,
+      "chunk": 26
     },
     {
-      "Action": "Attempts to greet the Dowager Lady politely despite awkwardness.",
-      "Warmth": 1,
-      "Chunk": 48
+      "trait": "competence",
+      "action": "Repeatedly asks Alex questions to maintain the conversation and connect.",
+      "assessment": "This demonstrates active engagement and social initiative, reflecting competent social behavior.",
+      "rating": 2,
+      "chunk": 26
     },
     {
-      "Action": "Tries to interact with a little boy by calling him and offering money to come closer while hidden in the bushes.",
-      "Warmth": 0,
-      "Chunk": 48
+      "trait": "competence",
+      "action": "Does not resist or interrupt when Alex reads to him, instead encourages her to continue.",
+      "assessment": "Shows patience and openness, indicating emotional regulation and cooperative behavior, which are positive competence indicators.",
+      "rating": 1,
+      "chunk": 26
     },
     {
-      "Action": "Looks around for a suitable hiding place and hides behind bushes to avoid being seen without clothes.",
-      "Competence": 1,
-      "Chunk": 48
+      "trait": "competence",
+      "action": "Asks Alex her age twice despite her initial reluctance to answer.",
+      "assessment": "This persistence could be seen as slightly socially awkward or insensitive, suggesting a minor lapse in social tact.",
+      "rating": -1,
+      "chunk": 26
     },
     {
-      "Action": "Steps out briefly to greet a dowager lady but quickly retreats when she is dumbfounded.",
-      "Competence": 0,
-      "Chunk": 48
+      "trait": "warmth",
+      "action": "Shouts 'Stop!' in an attempt to halt the violent attack on his family.",
+      "assessment": "David's immediate reaction to try to stop the violence shows his protective instincts and concern for his family, indicating a degree of warmth and care despite the overwhelming situation.",
+      "rating": 2,
+      "chunk": 27
     },
     {
-      "Action": "Attempts to secretly communicate with a little boy by calling him from behind bushes and offering a pound to lure him over.",
-      "Competence": 0,
-      "Chunk": 48
+      "trait": "warmth",
+      "action": "Remains seated and is held back by an attacker while witnessing the murder of his family.",
+      "assessment": "Although physically restrained, David's inability to intervene is due to external force rather than lack of will; his horror and helplessness reflect his emotional connection and warmth toward his family.",
+      "rating": 1,
+      "chunk": 27
     },
     {
-      "Action": "Tries to appear nonchalant while wearing only a woman's raincoat amidst a crowd, despite unusual circumstances.",
-      "Competence": 0,
-      "Chunk": 50
+      "trait": "competence",
+      "action": "Rises to intervene when his family is attacked, shouting 'Stop!'",
+      "assessment": "This shows David's instinct to act and protect his family despite the overwhelming danger, indicating presence of mind and courage.",
+      "rating": 2,
+      "chunk": 27
     },
     {
-      "Action": "Enters Alex's flat quickly and explains his bizarre experience with some humor and excitement, showing some awareness of his situation.",
-      "Competence": 0,
-      "Chunk": 50
+      "trait": "competence",
+      "action": "Is quickly overpowered and held back by one of the attackers, unable to prevent the murders.",
+      "assessment": "This suggests a lack of physical capability or preparedness to handle sudden violent threats, reflecting limited competence in self-defense or crisis control.",
+      "rating": -2,
+      "chunk": 27
     },
     {
-      "Action": "Appears euphoric and somewhat confused about his recent behavior and situation, indicating a lack of control or understanding.",
-      "Competence": -1,
-      "Chunk": 50
+      "trait": "competence",
+      "action": "Is caught completely off guard by the sudden violent attack on his family at home.",
+      "assessment": "This indicates a lack of situational awareness or anticipation of danger, which negatively impacts his competence in protecting himself and others.",
+      "rating": -2,
+      "chunk": 27
     },
     {
-      "Action": "Kisses Alex with desperation and receives equal passion in return, showing emotional openness and connection.",
-      "Warmth": 1,
-      "Chunk": 51
+      "trait": "competence",
+      "action": "Bolts upright in hospital bed, trying desperately to gain his bearings.",
+      "assessment": "This shows mental alertness and a strong will to understand and respond to his situation, reflecting cognitive competence under stress.",
+      "rating": 2,
+      "chunk": 27
     },
     {
-      "Action": "Laughs when asked about his coat, demonstrating a relaxed and friendly interaction.",
-      "Warmth": 1,
-      "Chunk": 51
+      "trait": "warmth",
+      "action": "Takes the book gently from Alex's lap to avoid waking her, showing consideration for her rest.",
+      "assessment": "David's careful action demonstrates thoughtfulness and respect for Alex's comfort, indicating a gentle and considerate nature.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "Expresses concern for the victims and insists on going to the police despite Alex's protests.",
-      "Warmth": 1,
-      "Chunk": 52
+      "trait": "warmth",
+      "action": "Asks Alex to keep him company after waking up from terrible dreams.",
+      "assessment": "Seeking companionship in a vulnerable moment shows David's trust and openness, reflecting warmth and a desire for connection.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "Abruptly leaves the cab, disregarding Alex's attempt to stop him.",
-      "Warmth": 0,
-      "Chunk": 52
+      "trait": "warmth",
+      "action": "Invites Alex to come with him to leave England and escape his bad memories.",
+      "assessment": "David's invitation is sincere and hopeful, showing a willingness to form a meaningful bond despite limited knowledge of Alex, which suggests warmth and openness.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "Decides quickly to pull over the taxi upon hearing about murders, showing alertness and decisiveness.",
-      "Competence": 1,
-      "Chunk": 52
+      "trait": "warmth",
+      "action": "Makes a lighthearted, forward joke about having an affair with a beautiful nurse to cheer himself up.",
+      "assessment": "While the comment is playful and self-deprecating, it risks objectifying Alex and may be perceived as slightly insensitive, reducing the warmth somewhat.",
+      "rating": 0,
+      "chunk": 28
     },
     {
-      "Action": "Immediately wants to report to the police about the mutilations, indicating a responsible and proactive mindset.",
-      "Competence": 1,
-      "Chunk": 52
+      "trait": "warmth",
+      "action": "Admits embarrassment after Alex calls him out on treating her as a sex fantasy.",
+      "assessment": "David's embarrassment reveals sincerity and self-awareness, which are positive indicators of warmth and respect.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "Acts without fully considering Alex’s protests or the situation, potentially showing impulsiveness.",
-      "Competence": 0,
-      "Chunk": 52
+      "trait": "competence",
+      "action": "Makes a deliberate effort to calm himself after waking up disoriented.",
+      "assessment": "This shows self-awareness and an attempt to regain control over his mental state, indicating a moderate level of emotional and cognitive competence.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "Confesses to the police that he killed the people, seeking accountability.",
-      "Warmth": 1,
-      "Chunk": 53
+      "trait": "competence",
+      "action": "Considers waking Alex but decides against it to avoid disturbing her.",
+      "assessment": "This reflects thoughtful judgment and consideration for others, suggesting social competence and emotional intelligence.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "Argues with Alex, denies knowing her, and acts aggressively toward the officer with insults and crude language.",
-      "Warmth": -1,
-      "Chunk": 53
+      "trait": "competence",
+      "action": "Takes the book gently from Alex's lap, trying not to wake her.",
+      "assessment": "This action shows carefulness and respect for others' comfort, indicating attentiveness and social skill.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "Decides to go to the police to report the killings and his condition as a werewolf.",
-      "Competence": 1,
-      "Chunk": 53
+      "trait": "competence",
+      "action": "Engages Alex in conversation about his bad dreams and attempts to cheer himself up by joking about an affair.",
+      "assessment": "This demonstrates some emotional openness and a coping mechanism through humor, which can be seen as adaptive, though it may also suggest vulnerability.",
+      "rating": 1,
+      "chunk": 28
     },
     {
-      "Action": "Acts irrationally and aggressively toward the police officer, shouting insults and causing a disturbance.",
-      "Competence": -1,
-      "Chunk": 53
+      "trait": "competence",
+      "action": "Asks Alex to consider coming with him despite their limited acquaintance.",
+      "assessment": "This shows a degree of social boldness and initiative, but also a possible lack of social tact or realism, which could be seen as overconfidence or desperation.",
+      "rating": 0,
+      "chunk": 28
     },
     {
-      "Action": "Fails to control his behavior in a public setting, undermining his credibility and ability to get help.",
-      "Competence": -1,
-      "Chunk": 53
+      "trait": "warmth",
+      "action": "Responds to the Orderly's cheerful greeting with a polite 'Good morning.'",
+      "assessment": "David's polite response to the Orderly's friendly greeting shows basic courtesy and respect, indicating a baseline of warmth.",
+      "rating": 1,
+      "chunk": 29
     },
     {
-      "Action": "Attempts to take responsibility for his actions by confessing to the police.",
-      "Competence": 1,
-      "Chunk": 53
+      "trait": "warmth",
+      "action": "Uses a mock English accent to say 'Please, sir, I want some more' while tasting his oatmeal.",
+      "assessment": "This playful, lighthearted behavior suggests a friendly and good-natured side, helping to ease the mood despite his discomfort.",
+      "rating": 2,
+      "chunk": 29
     },
     {
-      "Action": "Yells at others in frustration and lashes out verbally, showing impatience and anger.",
-      "Warmth": -1,
-      "Chunk": 54
+      "trait": "warmth",
+      "action": "Acknowledges Jack's offscreen request for toast by looking over to him.",
+      "assessment": "David's attention to Jack's request, despite Jack's disturbing appearance, indicates a willingness to engage and respond to others sincerely and without overt rejection.",
+      "rating": 2,
+      "chunk": 29
     },
     {
-      "Action": "Breaks down crying openly, revealing vulnerability and emotional sincerity.",
-      "Warmth": 1,
-      "Chunk": 54
+      "trait": "competence",
+      "action": "Breaks the awkward tension with a casual question: 'Where were we in the book?'",
+      "assessment": "This shows social awareness and an attempt to manage interpersonal discomfort, indicating emotional intelligence and social competence.",
+      "rating": 2,
+      "chunk": 29
     },
     {
-      "Action": "Expresses despair and hopelessness openly, showing emotional openness and a need for support.",
-      "Warmth": 1,
-      "Chunk": 54
+      "trait": "competence",
+      "action": "Responds politely to the orderly with 'Good morning' despite being drowsy and just waking up.",
+      "assessment": "This demonstrates basic social etiquette and self-control even when not fully alert, suggesting a baseline of competence.",
+      "rating": 1,
+      "chunk": 29
     },
     {
-      "Action": "Runs away in panic and isolation, pushing others away who want to help.",
-      "Warmth": -1,
-      "Chunk": 54
+      "trait": "competence",
+      "action": "Tastes the oatmeal gingerly and makes a lighthearted comment in a mock English accent.",
+      "assessment": "This indicates a sense of humor and the ability to engage playfully with his situation, reflecting mental resilience and social skill.",
+      "rating": 2,
+      "chunk": 29
     },
     {
-      "Action": "Makes a caring and sincere phone call to Rachel, expressing love and concern for her and her family, asking her to convey love and avoid fighting.",
-      "Warmth": 1,
-      "Chunk": 56
+      "trait": "competence",
+      "action": "Settles down to eat the hospital breakfast despite apparent displeasure with the food.",
+      "assessment": "Shows practical acceptance of circumstances and self-care, which is a competent response to recovery and healing.",
+      "rating": 2,
+      "chunk": 29
     },
     {
-      "Action": "Smiles at the apparition of Jack and politely interacts with the ticket lady, offering to pay with a traveler's check and generously telling her to keep the change.",
-      "Warmth": 1,
-      "Chunk": 56
+      "trait": "competence",
+      "action": "Does not react with visible fear or panic upon hearing Jack's voice and seeing his gruesome, rotting appearance.",
+      "assessment": "This could indicate either emotional detachment or shock, which may reflect a lack of adaptive emotional response or a coping mechanism; the competence here is ambiguous but leans toward a negative indicator due to non-action in a surreal, threatening situation.",
+      "rating": -1,
+      "chunk": 29
     },
     {
-      "Action": "Makes a difficult phone call to Rachel, expresses his feelings clearly, tries to give comfort and advice despite his own distress.",
-      "Competence": 1,
-      "Chunk": 56
+      "trait": "warmth",
+      "action": "Expresses horror and disbelief at Jack's gruesome appearance and presence.",
+      "assessment": "David's reaction shows shock and distress rather than hostility, indicating a sincere and human response to an extraordinary situation.",
+      "rating": 1,
+      "chunk": 30
     },
     {
-      "Action": "Uses a $100 traveler's check to buy a cinema ticket after the ticket lady refuses traveler's checks, showing resourcefulness and confidence in handling payment.",
-      "Competence": 1,
-      "Chunk": 56
+      "trait": "warmth",
+      "action": "Engages in conversation with Jack despite his unsettling appearance and the surreal nature of the encounter.",
+      "assessment": "David's willingness to communicate, even when horrified, suggests openness and a degree of trust toward Jack.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Hangs up the phone in profound depression, appearing emotionally overwhelmed before continuing his day.",
-      "Competence": -1,
-      "Chunk": 56
+      "trait": "warmth",
+      "action": "Acknowledges Jack was a well-liked person and shows some empathy about the funeral and people grieving.",
+      "assessment": "This reflects David's capacity for understanding and recognizing others' positive qualities and emotions.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Sits quietly watching the film with Jack, shows self-awareness about his uncertain memory and conflicted feelings about killing people, attempts to engage in conversation despite confusion.",
-      "Competence": 0,
-      "Chunk": 57
+      "trait": "warmth",
+      "action": "Uses harsh language ('Get the fuck out of here') toward Jack.",
+      "assessment": "While understandable given the shock, the coarse language indicates a momentary lapse in warmth and patience.",
+      "rating": -1,
+      "chunk": 30
     },
     {
-      "Action": "Expresses doubt about his own actions and identity, apologizes quickly and shows emotional distress.",
-      "Competence": -1,
-      "Chunk": 57
+      "trait": "warmth",
+      "action": "Mentions that he is 'going completely crazy' and shows signs of emotional distress.",
+      "assessment": "This reveals vulnerability and sincerity, which can be associated with warmth, but also suggests he is overwhelmed and less able to be supportive or tolerant at this moment.",
+      "rating": 0,
+      "chunk": 30
     },
     {
-      "Action": "Acknowledges the surreal situation (talking to a corpse), but maintains composure enough to converse and meet new 'people' introduced by Jack.",
-      "Competence": 0,
-      "Chunk": 57
+      "trait": "competence",
+      "action": "Reacting with horror and disbelief upon seeing Jack's undead appearance and conversing with him.",
+      "assessment": "David's immediate emotional and cognitive response shows he is overwhelmed and struggling to process an extraordinary situation, indicating a lack of emotional control and mental preparedness.",
+      "rating": -2,
+      "chunk": 30
     },
     {
-      "Action": "Expresses sorrow and apology to Mr. Bringsly for the consequences of his actions.",
-      "Warmth": 1,
-      "Chunk": 58
+      "trait": "competence",
+      "action": "Engages in a conversation with Jack despite the shock and horror.",
+      "assessment": "Despite his fear and disbelief, David attempts to communicate and understand the situation, showing some level of mental engagement and presence of mind.",
+      "rating": 1,
+      "chunk": 30
     },
     {
-      "Action": "Responds defeated when confronted by victims demanding his death.",
-      "Warmth": 0,
-      "Chunk": 58
+      "trait": "competence",
+      "action": "Expresses that he is 'going completely crazy' and is horrified by the events.",
+      "assessment": "This self-awareness of his deteriorating mental state suggests a recognition of his limits but also highlights his current inability to cope effectively with the supernatural events.",
+      "rating": -1,
+      "chunk": 30
     },
     {
-      "Action": "Engages in a sincere conversation about his plight and the curse.",
-      "Warmth": 1,
-      "Chunk": 58
+      "trait": "warmth",
+      "action": "Shouts at Jack to get out and calls him 'meat loaf' and 'zombie'.",
+      "assessment": "David's aggressive and dismissive language toward Jack, who is trying to warn him, shows impatience and a lack of tolerance or friendliness in this moment.",
+      "rating": -2,
+      "chunk": 31
     },
     {
-      "Action": "Considers and discusses methods of suicide suggested by others, showing vulnerability.",
-      "Warmth": 1,
-      "Chunk": 58
+      "trait": "warmth",
+      "action": "Refuses to listen to Jack's warnings about the werewolf curse, covering his ears and telling Jack to shut up.",
+      "assessment": "David's refusal to engage with Jack's concerns and his angry rejection indicate defensiveness and a lack of openness or trust at this point.",
+      "rating": -2,
+      "chunk": 31
     },
     {
-      "Action": "Expresses horror and confusion over the curse and deaths linked to his werewolf actions.",
-      "Competence": 0,
-      "Chunk": 58
+      "trait": "warmth",
+      "action": "Quietly pleads with Jack to go away, showing vulnerability.",
+      "assessment": "Though still rejecting Jack's message, David's quiet plea suggests emotional distress and a sincere desire to avoid the painful truth, reflecting some internal struggle rather than outright hostility.",
+      "rating": 0,
+      "chunk": 31
     },
     {
-      "Action": "Honestly admits having no idea what to say or how to respond to Mr. Bringsly's accusations.",
-      "Competence": -1,
-      "Chunk": 58
+      "trait": "competence",
+      "action": "Shouts at Jack to get out and refuses to listen to his warnings about the werewolf curse.",
+      "assessment": "David's immediate rejection and denial of Jack's warnings show a lack of openness and emotional control, which undermines his ability to process critical information effectively.",
+      "rating": -2,
+      "chunk": 31
     },
     {
-      "Action": "Asks what he should do but shows no immediate decisiveness or plan.",
-      "Competence": -1,
-      "Chunk": 58
+      "trait": "competence",
+      "action": "Responds with anger and incredulity to Jack's explanation of the werewolf curse.",
+      "assessment": "His emotional outbursts and refusal to engage calmly with the information suggest poor emotional regulation and difficulty in handling stressful or supernatural revelations, indicating lower competence in managing crises.",
+      "rating": -2,
+      "chunk": 31
     },
     {
-      "Action": "Considers possible suicide methods proposed by others but shows no clear confident choice or assertiveness.",
-      "Competence": -1,
-      "Chunk": 58
+      "trait": "competence",
+      "action": "Quietly pleads for Jack to go away after hearing the full extent of the curse.",
+      "assessment": "This shows a moment of vulnerability and avoidance rather than proactive problem-solving, reflecting a lack of confidence and skill in confronting the situation.",
+      "rating": -1,
+      "chunk": 31
     },
     {
-      "Action": "Questions Jack repeatedly, seeking guidance but appearing passive and defeated.",
-      "Competence": 0,
-      "Chunk": 58
+      "trait": "competence",
+      "action": "Dismisses Jack's warnings as 'movie dialogue' and refuses to accept the reality of the curse.",
+      "assessment": "This skepticism could be seen as critical thinking, but here it appears as denial and avoidance, which impairs his ability to prepare or respond effectively, indicating lower competence.",
+      "rating": -2,
+      "chunk": 31
     },
     {
-      "Action": "Puts his head in his hands and admits he has gone mad, showing vulnerability.",
-      "Warmth": 1,
-      "Chunk": 59
+      "trait": "warmth",
+      "action": "David smiles and kisses Alex, a real kiss, after she hugs him in the hospital room.",
+      "assessment": "This moment shows David's capacity for sincere affection and connection despite his distress, indicating warmth and trust toward Alex.",
+      "rating": 2,
+      "chunk": 32
     },
     {
-      "Action": "Responds sarcastically to a suggestion about suicide, 'Thank you, you're all so thoughtful.'",
-      "Warmth": 0,
-      "Chunk": 59
+      "trait": "warmth",
+      "action": "David pulls away sharply from Alex's hug, jerking his head wildly before focusing on her face.",
+      "assessment": "This reaction suggests internal turmoil and difficulty accepting comfort, which may limit his warmth expression in this moment.",
+      "rating": -1,
+      "chunk": 32
     },
     {
-      "Action": "Tells children to go away and to run as he undergoes violent transformations, showing concern for their safety.",
-      "Warmth": 1,
-      "Chunk": 59
+      "trait": "warmth",
+      "action": "David cries softly, rocking back and forth alone in the hospital room.",
+      "assessment": "His vulnerability and emotional openness here indicate a sincere and sensitive nature, which are positive warmth indicators.",
+      "rating": 2,
+      "chunk": 32
     },
     {
-      "Action": "No direct actions, statements, or internal behaviors of David are presented in this excerpt; he is portrayed indirectly as the Wolf, cornered and roaring defiantly.",
-      "Competence": 0,
-      "Chunk": 61
-    }
-  ],
-  "David Kessler ": [
+      "trait": "warmth",
+      "action": "David yells 'Nurse!' repeatedly while distressed and losing control.",
+      "assessment": "While this shows desperation and a plea for help, the intensity and lack of calm may hinder his ability to be perceived as warm or approachable in this moment.",
+      "rating": 0,
+      "chunk": 32
+    },
+    {
+      "trait": "competence",
+      "action": "Yells for the nurse repeatedly while clearly distressed and losing control.",
+      "assessment": "This indicates a moment of panic and emotional overwhelm, showing a lack of composure and control in a critical situation.",
+      "rating": -2,
+      "chunk": 32
+    },
+    {
+      "trait": "competence",
+      "action": "Rocks back and forth weeping alone in the hospital room.",
+      "assessment": "This behavior suggests emotional vulnerability and inability to manage his distress effectively, reflecting low coping skills at this moment.",
+      "rating": -2,
+      "chunk": 32
+    },
+    {
+      "trait": "competence",
+      "action": "Pulls away sharply from Alex initially but then focuses and breathes easier, responding to her presence.",
+      "assessment": "This shows some ability to regain focus and respond to external stimuli despite internal turmoil, indicating partial emotional regulation and awareness.",
+      "rating": 1,
+      "chunk": 32
+    },
+    {
+      "trait": "competence",
+      "action": "Quietly admits to Alex that he is a werewolf.",
+      "assessment": "This admission demonstrates honesty and acceptance of his condition, which could be seen as a step toward taking responsibility and confronting his situation.",
+      "rating": 1,
+      "chunk": 32
+    },
+    {
+      "trait": "warmth",
+      "action": "David takes Alex's hand when she asks if he will be all right.",
+      "assessment": "Taking someone's hand is a gentle, trusting gesture that indicates warmth and a desire for connection.",
+      "rating": 2,
+      "chunk": 33
+    },
+    {
+      "trait": "warmth",
+      "action": "David follows Alex into her flat and responds positively to her tour with appreciative comments like 'Very nice,' 'Charming,' and 'Lovely.'",
+      "assessment": "David's polite and appreciative responses show friendliness and sincerity, reflecting a warm and respectful attitude.",
+      "rating": 2,
+      "chunk": 33
+    },
+    {
+      "trait": "warmth",
+      "action": "David and Alex share a moment standing together under the shower stream, exchanging 'It's nice to see you.'",
+      "assessment": "This intimate and sincere exchange suggests David values closeness and is comfortable expressing warmth and friendliness.",
+      "rating": 3,
+      "chunk": 33
+    },
+    {
+      "trait": "warmth",
+      "action": "David calmly admits to Alex that he is a werewolf and discusses his fears openly.",
+      "assessment": "Being open about a frightening and personal truth shows trust and sincerity, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 33
+    },
+    {
+      "trait": "competence",
+      "action": "Composes himself after revealing he is a werewolf.",
+      "assessment": "David shows an ability to maintain composure in a stressful and unusual situation, indicating emotional control and some level of confidence.",
+      "rating": 2,
+      "chunk": 33
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in a calm, rational conversation with Alex about his condition and impending transformation.",
+      "assessment": "David demonstrates clear communication skills and a rational approach to discussing his predicament, reflecting mental clarity and intelligence.",
+      "rating": 2,
+      "chunk": 33
+    },
+    {
+      "trait": "competence",
+      "action": "Takes Alex's hand and openly shares his fears about becoming a monster.",
+      "assessment": "This shows emotional openness and trust, which can be seen as socially competent behavior, though it may also suggest vulnerability.",
+      "rating": 1,
+      "chunk": 33
+    },
+    {
+      "trait": "competence",
+      "action": "Accepts Alex's offer to stay at her flat and follows her lead without hesitation.",
+      "assessment": "David's willingness to accept help and adapt to new circumstances indicates practical decision-making and flexibility.",
+      "rating": 2,
+      "chunk": 33
+    },
+    {
+      "trait": "competence",
+      "action": "Responds with light, polite remarks during the apartment tour (e.g., 'Very nice,' 'Charming,' 'Lovely').",
+      "assessment": "These responses suggest social grace and the ability to maintain pleasant interactions, reflecting interpersonal competence.",
+      "rating": 1,
+      "chunk": 33
+    },
+    {
+      "trait": "competence",
+      "action": "Whistles softly and rocks on his heels when Alex enters the bedroom.",
+      "assessment": "This behavior may indicate nervousness or distraction, which could reflect a momentary lapse in self-control or confidence.",
+      "rating": -1,
+      "chunk": 33
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in a shower conversation with Alex, expressing that it is nice to see her.",
+      "assessment": "David shows comfort and openness in an intimate setting, suggesting emotional competence and confidence in social bonding.",
+      "rating": 2,
+      "chunk": 33
+    },
+    {
+      "trait": "warmth",
+      "action": "Engages in intimate and affectionate moments with Alex, including kissing and holding each other.",
+      "assessment": "David's willingness to share closeness and physical affection suggests a capacity for warmth and emotional connection.",
+      "rating": 2,
+      "chunk": 34
+    },
+    {
+      "trait": "warmth",
+      "action": "Seeks reassurance from Alex about his mental state and the reality of his experiences.",
+      "assessment": "By openly expressing vulnerability and seeking comfort, David demonstrates trust and sincerity in his relationship.",
+      "rating": 2,
+      "chunk": 34
+    },
+    {
+      "trait": "warmth",
+      "action": "Carefully and quietly leaves Alex's bed at night to use the bathroom without disturbing her.",
+      "assessment": "This considerate behavior shows respect and thoughtfulness toward Alex, indicating warmth.",
+      "rating": 2,
+      "chunk": 34
+    },
+    {
+      "trait": "competence",
+      "action": "David firmly insists to Alex that he was awake and that his friend Jack was in his room, denying hallucination.",
+      "assessment": "This shows David's confidence in his perception and his ability to assert his experience despite skepticism, indicating a degree of mental clarity and self-assurance.",
+      "rating": 2,
+      "chunk": 34
+    },
+    {
+      "trait": "competence",
+      "action": "David acknowledges to himself that he is 'being insane' but still tries to reassure himself.",
+      "assessment": "This self-awareness suggests some insight into his mental state, but the need for reassurance also indicates vulnerability and uncertainty, reflecting moderate competence in self-monitoring.",
+      "rating": 1,
+      "chunk": 34
+    },
+    {
+      "trait": "competence",
+      "action": "David carefully and quietly gets out of bed at night, tiptoeing to the bathroom without waking Alex.",
+      "assessment": "This action demonstrates physical control, awareness of his environment, and consideration for others, reflecting practical competence in a delicate situation.",
+      "rating": 2,
+      "chunk": 34
+    },
+    {
+      "trait": "warmth",
+      "action": "Winces and tries not to wake Alex while using the bathroom at night.",
+      "assessment": "David shows consideration and care for Alex's rest, indicating thoughtfulness and respect for others' comfort.",
+      "rating": 2,
+      "chunk": 35
+    },
+    {
+      "trait": "warmth",
+      "action": "Engages in a whispered conversation with Jack to avoid waking Alex.",
+      "assessment": "David's effort to keep his voice down demonstrates sensitivity and a desire not to disturb others, reflecting a respectful and considerate nature.",
+      "rating": 2,
+      "chunk": 35
+    },
+    {
+      "trait": "warmth",
+      "action": "Tells Jack to 'get out of here' and calls him an undead monster.",
+      "assessment": "David's harsh words toward Jack reveal frustration and denial, but also a lack of tolerance and patience in this moment, which lowers his warmth rating.",
+      "rating": -1,
+      "chunk": 35
+    },
+    {
+      "trait": "warmth",
+      "action": "Questions Jack's existence and expresses doubt about his own sanity.",
+      "assessment": "David's vulnerability and openness about his mental state show sincerity and a genuine struggle, which can be seen as a sign of emotional honesty.",
+      "rating": 1,
+      "chunk": 35
+    },
+    {
+      "trait": "competence",
+      "action": "Tiptoes out of the room and pees quietly, hoping not to wake Alex.",
+      "assessment": "This shows a degree of carefulness and consideration for others, indicating situational awareness and self-control.",
+      "rating": 1,
+      "chunk": 35
+    },
+    {
+      "trait": "competence",
+      "action": "Closes the medicine cabinet door and reacts with terror upon seeing Jack's reflection.",
+      "assessment": "His startled reaction suggests a lack of emotional control and difficulty distinguishing reality from hallucination, which undermines his mental stability and confidence.",
+      "rating": -1,
+      "chunk": 35
+    },
+    {
+      "trait": "competence",
+      "action": "Points a trembling finger at Jack and asserts 'You're not real.'",
+      "assessment": "Despite fear, David attempts to assert control over the situation, showing some mental resilience and effort to confront his fears.",
+      "rating": 1,
+      "chunk": 35
+    },
+    {
+      "trait": "competence",
+      "action": "Follows Jack into the living room and engages in whispered conversation.",
+      "assessment": "His willingness to engage with a disturbing hallucination indicates confusion and impaired judgment, reflecting diminished competence in managing his mental state.",
+      "rating": -2,
+      "chunk": 35
+    },
+    {
+      "trait": "competence",
+      "action": "Whispers to Jack to leave and expresses frustration and denial about his condition.",
+      "assessment": "David shows some assertiveness but is overwhelmed by denial and emotional turmoil, indicating limited capacity to effectively handle his crisis.",
+      "rating": 0,
+      "chunk": 35
+    },
+    {
+      "trait": "competence",
+      "action": "Acknowledges the impending full moon and the transformation he will undergo.",
+      "assessment": "This shows awareness and understanding of his situation, which is a positive indicator of cognitive competence despite emotional distress.",
+      "rating": 2,
+      "chunk": 35
+    },
+    {
+      "trait": "competence",
+      "action": "Questions Jack about his death and reality, expressing doubt about his own sanity.",
+      "assessment": "This reflects critical thinking and self-reflection, but also highlights his mental instability and confusion, which detracts from overall competence.",
+      "rating": 0,
+      "chunk": 35
+    },
+    {
+      "trait": "warmth",
+      "action": "Shouts at Jack to go away and refuses to believe his warnings about becoming a werewolf.",
+      "assessment": "David's shouting and rejection of Jack's warnings show defensiveness and denial rather than openness or trust, indicating low warmth in this interaction.",
+      "rating": -1,
+      "chunk": 36
+    },
+    {
+      "trait": "warmth",
+      "action": "Tells Alex that the voices were just himself and that Jack is gone.",
+      "assessment": "David attempts to reassure Alex by downplaying the situation, which could be seen as protective and sincere, reflecting moderate warmth.",
+      "rating": 2,
+      "chunk": 36
+    },
+    {
+      "trait": "competence",
+      "action": "Dismisses Jack's warnings about his werewolf transformation with anger and disbelief, shouting 'I will not accept this! Now go away!'",
+      "assessment": "David's outright rejection of critical information and refusal to consider the possibility of his transformation suggests a lack of emotional and cognitive readiness to handle his situation competently.",
+      "rating": -2,
+      "chunk": 36
+    },
+    {
+      "trait": "competence",
+      "action": "After Jack disappears, David tells Alex 'It was just me, Alex. It was just me.' triumphantly.",
+      "assessment": "David's attempt to reassure Alex and himself by denying the reality of Jack's presence shows a desire to maintain control and normalcy, but also indicates denial rather than a clear-eyed assessment of his circumstances, reflecting limited competence in managing his crisis.",
+      "rating": -1,
+      "chunk": 36
+    },
+    {
+      "trait": "warmth",
+      "action": "Embraces Alex and asks her to stay with him despite her needing to go to work.",
+      "assessment": "David shows affection and a desire for companionship, indicating warmth and sincerity in his relationship with Alex.",
+      "rating": 2,
+      "chunk": 38
+    },
+    {
+      "trait": "warmth",
+      "action": "Asks Alex to reassure him that his apprehension is silly.",
+      "assessment": "This shows vulnerability and trust in Alex, reflecting openness and a warm, sincere connection.",
+      "rating": 2,
+      "chunk": 38
+    },
+    {
+      "trait": "warmth",
+      "action": "Responds to the little girl’s dog growling and barking with a mild, puzzled comment: 'What did I do?' and 'Thanks a lot, dog...'.",
+      "assessment": "David’s reaction is gentle and non-aggressive, showing tolerance and a good-natured attitude even when faced with hostility.",
+      "rating": 2,
+      "chunk": 38
+    },
+    {
+      "trait": "warmth",
+      "action": "Engages in a kiss with Alex before she leaves for work.",
+      "assessment": "This affectionate gesture indicates warmth and a sincere emotional connection.",
+      "rating": 2,
+      "chunk": 38
+    },
+    {
+      "trait": "competence",
+      "action": "Asks Alex to tell him it's silly to be apprehensive about werewolves, and expresses doubt about their existence.",
+      "assessment": "This shows a rational attempt to reassure himself and maintain a skeptical, logical mindset despite his fears, indicating some level of mental control and self-awareness.",
+      "rating": 1,
+      "chunk": 38
+    },
+    {
+      "trait": "competence",
+      "action": "Accepts Alex's offer to stay but encourages her to go to work, showing consideration for her responsibilities.",
+      "assessment": "This reflects emotional intelligence and practical thinking, balancing his needs with hers, which is a competent social behavior.",
+      "rating": 2,
+      "chunk": 38
+    },
+    {
+      "trait": "competence",
+      "action": "Responds calmly to the dog growling and barking at him by asking 'What did I do?'",
+      "assessment": "His calm verbal response to a threatening situation suggests composure and an attempt to understand rather than react impulsively, indicating emotional control and situational awareness.",
+      "rating": 2,
+      "chunk": 38
+    },
+    {
+      "trait": "competence",
+      "action": "Refers to the pills left by Alex as 'A doper werewolf.'",
+      "assessment": "This sarcastic remark may indicate some resistance or denial about his condition, which could undermine his acceptance and management of his situation, reflecting a slight lack of adaptive competence.",
+      "rating": -1,
+      "chunk": 38
+    },
+    {
+      "trait": "competence",
+      "action": "Stands looking after Alex as she leaves, appearing somewhat passive.",
+      "assessment": "This moment of passivity could suggest hesitation or lack of initiative, which may be a minor negative indicator of confidence or decisiveness.",
+      "rating": -1,
+      "chunk": 38
+    },
+    {
+      "trait": "warmth",
+      "action": "Mutters to himself imitating a newscaster about a werewolf found frozen to death in London.",
+      "assessment": "This self-directed humor suggests a coping mechanism but does not directly indicate warmth toward others.",
+      "rating": 0,
+      "chunk": 39
+    },
+    {
+      "trait": "warmth",
+      "action": "Attempts to cautiously pat a hostile cat despite its aggressive behavior.",
+      "assessment": "Trying to show kindness or calm the cat despite its hostility indicates a gentle and tolerant nature.",
+      "rating": 2,
+      "chunk": 39
+    },
+    {
+      "trait": "warmth",
+      "action": "Climbs a brick wall barefoot to enter the flat through a small window.",
+      "assessment": "This action shows determination and self-reliance but does not directly reflect warmth.",
+      "rating": 0,
+      "chunk": 39
+    },
+    {
+      "trait": "warmth",
+      "action": "Examines his mouth in the mirror and mutters 'Snarl. Growl. Grrrr.'",
+      "assessment": "This behavior is introspective and self-focused, not indicative of warmth toward others.",
+      "rating": 0,
+      "chunk": 39
+    },
+    {
+      "trait": "warmth",
+      "action": "Goes to the fridge multiple times but states 'I'm not hungry' and does not eat.",
+      "assessment": "This may indicate internal struggle or detachment rather than warmth or coldness toward others.",
+      "rating": 0,
+      "chunk": 39
+    },
+    {
+      "trait": "competence",
+      "action": "Realizes he is cold outside and runs back up the steps to find the door locked.",
+      "assessment": "Shows awareness of his physical state and attempts to seek shelter, indicating basic situational awareness.",
+      "rating": 1,
+      "chunk": 39
+    },
+    {
+      "trait": "competence",
+      "action": "Notices a small window ajar about eleven feet off the ground and climbs the brick wall to reach it despite bare feet and injury.",
+      "assessment": "Demonstrates resourcefulness and physical capability by finding an alternative entry and persevering despite pain.",
+      "rating": 2,
+      "chunk": 39
+    },
+    {
+      "trait": "competence",
+      "action": "Attempts to cautiously pat the hostile cat, which then screeches and runs away.",
+      "assessment": "Shows a degree of calmness and willingness to engage with a threatening animal, though misjudges the cat's reaction, indicating some social or situational miscalculation.",
+      "rating": 0,
+      "chunk": 39
+    },
+    {
+      "trait": "competence",
+      "action": "Manages to pull himself into the window and awkwardly enters the bathroom.",
+      "assessment": "Successfully gains entry despite physical challenges, showing determination and problem-solving skills.",
+      "rating": 2,
+      "chunk": 39
+    },
+    {
+      "trait": "competence",
+      "action": "Examines his mouth and canines carefully in the mirror, muttering and showing self-awareness.",
+      "assessment": "Reflects on his condition thoughtfully, indicating introspection and cognitive engagement with his situation.",
+      "rating": 2,
+      "chunk": 39
+    },
+    {
+      "trait": "competence",
+      "action": "Goes to the fridge multiple times but closes it without eating, stating he is not hungry.",
+      "assessment": "Shows some indecision or internal conflict, possibly indicating distraction or emotional distress affecting basic self-care.",
+      "rating": -1,
+      "chunk": 39
+    },
+    {
+      "trait": "competence",
+      "action": "Lays down on the bed and stares at the ceiling before rising again.",
+      "assessment": "This passive behavior suggests fatigue or mental preoccupation, which may reflect a temporary lapse in active problem-solving or motivation.",
+      "rating": -1,
+      "chunk": 39
+    },
+    {
+      "trait": "warmth",
+      "action": "Sings 'Moon River' quietly to himself while nervously pacing.",
+      "assessment": "Singing a gentle, nostalgic song to himself suggests a tender, vulnerable side, indicating some warmth and sensitivity despite his distress.",
+      "rating": 1,
+      "chunk": 40
+    },
+    {
+      "trait": "warmth",
+      "action": "Opens the front door and looks outside fearfully but does not close the door completely.",
+      "assessment": "His hesitation and fear show vulnerability, but leaving the door ajar could be seen as careless or distracted rather than warm or considerate.",
+      "rating": 0,
+      "chunk": 40
+    },
+    {
+      "trait": "warmth",
+      "action": "Looks into the mirror and recites 'Fee fi fo fum, I smell the blood of an Englishman.'",
+      "assessment": "This self-directed ominous statement reflects internal turmoil and detachment rather than warmth or friendliness.",
+      "rating": -1,
+      "chunk": 40
+    },
+    {
+      "trait": "warmth",
+      "action": "Paces nervously like a caged animal.",
+      "assessment": "This behavior indicates anxiety and distress but does not directly reflect warmth or coldness.",
+      "rating": 0,
+      "chunk": 40
+    },
+    {
+      "trait": "warmth",
+      "action": "Clutches his head in pain and screams in agony.",
+      "assessment": "His intense suffering reveals vulnerability and humanizes him, but it does not directly indicate warmth toward others.",
+      "rating": 0,
+      "chunk": 40
+    },
+    {
+      "trait": "competence",
+      "action": "Turns on the television, quickly assesses the channels, and switches it off.",
+      "assessment": "This shows a basic level of situational awareness and decision-making, though it is a minor and routine action.",
+      "rating": 1,
+      "chunk": 40
+    },
+    {
+      "trait": "competence",
+      "action": "Sits nervously, drumming fingers and humming a song.",
+      "assessment": "This behavior indicates anxiety and distraction, suggesting a lack of emotional control and focus.",
+      "rating": -1,
+      "chunk": 40
+    },
+    {
+      "trait": "competence",
+      "action": "Opens the front door to look outside despite fear, then returns inside but leaves the door not fully closed.",
+      "assessment": "Shows some courage to confront fear but also carelessness or indecision by not securing the door properly, which could be a security risk.",
+      "rating": 0,
+      "chunk": 40
+    },
+    {
+      "trait": "competence",
+      "action": "Looks into the bathroom mirror and recites a rhyme ('Fee fi fo fum...').",
+      "assessment": "This may indicate an attempt to psych himself up or confront his fears, showing some mental engagement, but also a possible detachment from reality or immature coping mechanism.",
+      "rating": 0,
+      "chunk": 40
+    },
+    {
+      "trait": "competence",
+      "action": "Paces around the living room like a caged animal.",
+      "assessment": "This behavior reflects high anxiety and inability to calm himself, indicating poor emotional regulation and lack of control over his situation.",
+      "rating": -2,
+      "chunk": 40
+    },
+    {
+      "trait": "competence",
+      "action": "Suddenly clutches his head in pain, screams, and sweats profusely.",
+      "assessment": "This involuntary physical reaction suggests he is overwhelmed by his condition, showing a lack of control over his own body and situation.",
+      "rating": -2,
+      "chunk": 40
+    },
+    {
+      "trait": "warmth",
+      "action": "Calls out to Jack in pain and pleads for help, saying 'Help me! Somebody help me, please! Jack!!'",
+      "assessment": "David's plea for help shows vulnerability and a desire for connection, indicating some level of trust and sincerity toward Jack despite their conflict.",
+      "rating": 1,
+      "chunk": 41
+    },
+    {
+      "trait": "warmth",
+      "action": "Apologizes to Jack, saying 'I'm sorry I called you a meat loaf, Jack.'",
+      "assessment": "This apology reflects David's remorse and recognition of his own harshness, suggesting a capacity for sincerity and regret, which are positive warmth indicators.",
+      "rating": 2,
+      "chunk": 41
+    },
+    {
+      "trait": "warmth",
+      "action": "Shouts 'Jack!? Where are you now, you fucker!?'",
+      "assessment": "The use of an insult in a moment of distress reveals frustration and anger, which detracts somewhat from warmth, though it may be understandable given the circumstances.",
+      "rating": -1,
+      "chunk": 41
+    },
+    {
+      "trait": "warmth",
+      "action": "Focuses entirely on his own physical torment and transformation, showing no apparent concern for others during his suffering.",
+      "assessment": "David's self-absorption in his pain and transformation suggests a lack of outward warmth or consideration for others in this moment.",
+      "rating": -1,
+      "chunk": 41
+    },
+    {
+      "trait": "competence",
+      "action": "Rips off his shirt and pants as his body undergoes a painful transformation, trying to relieve the burning sensation.",
+      "assessment": "This shows a basic instinct to alleviate discomfort and a degree of self-awareness, but it is driven more by panic and pain than by rational control.",
+      "rating": 0,
+      "chunk": 41
+    },
+    {
+      "trait": "competence",
+      "action": "Calls out for help and pleads with Jack during his transformation.",
+      "assessment": "This indicates desperation and reliance on others rather than self-sufficiency or control, reflecting a lack of confidence and capability in managing the crisis alone.",
+      "rating": -1,
+      "chunk": 41
+    },
+    {
+      "trait": "competence",
+      "action": "Falls to his knees and then to all fours, ultimately surrendering to the transformation process.",
+      "assessment": "This shows an inability to resist or control the transformation, suggesting a lack of physical and mental control in a critical moment.",
+      "rating": -2,
+      "chunk": 41
+    },
+    {
+      "trait": "competence",
+      "action": "Endures extreme physical pain and the horrific metamorphosis without losing consciousness or completely collapsing.",
+      "assessment": "Despite the agony, David maintains some level of awareness and does not pass out, indicating a certain resilience and mental toughness.",
+      "rating": 1,
+      "chunk": 41
+    },
+    {
+      "trait": "warmth",
+      "action": "David says Jack comes to warn him.",
+      "assessment": "David's reporting of Jack's warnings suggests he is open and communicative about his fears and experiences, indicating a level of sincerity and trustworthiness.",
+      "rating": 2,
+      "chunk": 44
+    },
+    {
+      "trait": "warmth",
+      "action": "David is described as being more upset by the death of his friend than by his own werewolf fantasies.",
+      "assessment": "This shows David's capacity for empathy and emotional connection, highlighting his good-natured and sincere side.",
+      "rating": 3,
+      "chunk": 44
+    },
+    {
+      "trait": "warmth",
+      "action": "David knows no one in London besides Alex and has been left alone.",
+      "assessment": "David's isolation and lack of social connections may indicate difficulty in forming trusting or friendly relationships, which could be a negative indicator of warmth.",
+      "rating": -1,
+      "chunk": 44
+    },
+    {
+      "trait": "competence",
+      "action": "David says Jack comes to warn him.",
+      "assessment": "David is perceptive enough to recognize and communicate the significance of his friend's apparitions as warnings, indicating some level of awareness and insight.",
+      "rating": 1,
+      "chunk": 44
+    },
+    {
+      "trait": "competence",
+      "action": "Persisting in his werewolf fantasies despite others' skepticism.",
+      "assessment": "This persistence could indicate a strong conviction or insight, but also suggests possible detachment from reality, which may impair his ability to act competently in practical terms.",
+      "rating": 0,
+      "chunk": 44
+    },
+    {
+      "trait": "competence",
+      "action": "No direct action in this excerpt; he is described as suffering severe trauma and being alone in London.",
+      "assessment": "David's isolation and trauma imply vulnerability and potential inability to manage his situation effectively, which negatively impacts his competence.",
+      "rating": -2,
+      "chunk": 44
+    },
+    {
+      "trait": "competence",
+      "action": "Survives an attack by a werewolf, though his mental state is severely affected.",
+      "assessment": "Surviving a werewolf attack suggests physical resilience or luck, but the resulting trauma and deranged state indicate a compromised mental and emotional competence.",
+      "rating": 0,
+      "chunk": 45
+    },
+    {
+      "trait": "competence",
+      "action": "Is described as potentially dangerous to himself or others due to his deranged state.",
+      "assessment": "This implies a loss of control and inability to manage his condition effectively, reflecting negatively on his competence in self-regulation and situational awareness.",
+      "rating": -2,
+      "chunk": 45
+    },
+    {
+      "trait": "warmth",
+      "action": "Buys a Cadbury Chocolate Bar from a vending machine and eats it thoughtfully while alone in the subway station.",
+      "assessment": "This action shows a normal, relatable human behavior, but it does not directly indicate warmth or social engagement.",
+      "rating": 0,
+      "chunk": 46
+    },
+    {
+      "trait": "warmth",
+      "action": "Turns around and calls out 'Hello?' and 'Is there someone there?' when he senses he is being followed.",
+      "assessment": "Calling out to an unknown presence could indicate a desire for communication or connection, but also shows fear and self-protection rather than warmth or friendliness.",
+      "rating": 0,
+      "chunk": 46
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses frustration and warns the unseen follower that he will report the behavior.",
+      "assessment": "This shows assertiveness and a boundary-setting attitude, but not warmth or friendliness; it suggests distrust and self-preservation.",
+      "rating": -1,
+      "chunk": 46
+    },
+    {
+      "trait": "competence",
+      "action": "Looks around the platform and checks his watch before buying a chocolate bar from a vending machine.",
+      "assessment": "This shows a calm, methodical approach to his environment, indicating situational awareness and a degree of composure.",
+      "rating": 1,
+      "chunk": 46
+    },
+    {
+      "trait": "competence",
+      "action": "Eats the chocolate bar while walking down the tunnel, then pauses and turns when he thinks he hears something.",
+      "assessment": "His initial calmness suggests confidence, but the fact that he is unsure if he heard something and continues walking indicates some uncertainty or distraction.",
+      "rating": 0,
+      "chunk": 46
+    },
+    {
+      "trait": "competence",
+      "action": "Walks swiftly and silently up the escalator, then briskly down the tunnel to street level.",
+      "assessment": "This shows purposeful and efficient movement, suggesting physical capability and intent to leave quickly, which is a positive indicator of competence.",
+      "rating": 2,
+      "chunk": 46
+    },
+    {
+      "trait": "competence",
+      "action": "Stops and calls out when he hears the Wolf's breathing, expressing frustration and threatening to report the disturbance.",
+      "assessment": "While he shows some courage in confronting the unknown presence verbally, his panic and inability to immediately assess or evade the threat suggest limited situational control and a reactive rather than proactive stance.",
+      "rating": -1,
+      "chunk": 46
+    },
+    {
+      "trait": "warmth",
+      "action": "Decides to avoid meeting the women and children at the zoo due to his naked and disheveled state.",
+      "assessment": "David shows consideration for others by choosing to avoid an awkward or potentially disturbing encounter, indicating a thoughtful and socially aware nature.",
+      "rating": 2,
+      "chunk": 47
+    },
+    {
+      "trait": "competence",
+      "action": "Wakes up naked, dirty, scratched, and disoriented in a zoo cage, then quickly realizes his vulnerable state and decides to avoid contact with approaching people due to his lack of clothes.",
+      "assessment": "This shows a basic level of situational awareness and self-preservation, indicating some competence in assessing social norms and potential consequences despite his confused state.",
+      "rating": 1,
+      "chunk": 47
+    },
+    {
+      "trait": "competence",
+      "action": "Initially reacts to his situation with a Stan Laurel-like comedic gesture of covering his eyes before cautiously peeking through his fingers.",
+      "assessment": "This suggests a momentary lapse into confusion or denial, reflecting a lack of immediate control or confidence in his circumstances, which slightly detracts from his competence.",
+      "rating": -1,
+      "chunk": 47
+    },
+    {
+      "trait": "warmth",
+      "action": "Avoids being seen naked by zoo visitors by hiding behind bushes.",
+      "assessment": "David's decision to hide shows consideration for others' comfort and social norms, indicating a respectful and modest nature.",
+      "rating": 2,
+      "chunk": 48
+    },
+    {
+      "trait": "warmth",
+      "action": "Politely greets a dowager lady after emerging from hiding.",
+      "assessment": "His polite greeting despite his awkward situation suggests friendliness and sincerity.",
+      "rating": 2,
+      "chunk": 48
+    },
+    {
+      "trait": "warmth",
+      "action": "Attempts to get the attention of a little boy at the zoo by calling out and offering a pound to come closer.",
+      "assessment": "While trying to engage a child shows a friendly intent, offering money to lure a child is inappropriate and could be perceived as manipulative or untrustworthy.",
+      "rating": -1,
+      "chunk": 48
+    },
+    {
+      "trait": "competence",
+      "action": "Looks around for a suitable hiding place and dashes behind some bushes to avoid being seen.",
+      "assessment": "This action shows situational awareness and quick thinking to avoid an awkward or dangerous encounter, indicating a moderate level of competence.",
+      "rating": 2,
+      "chunk": 48
+    },
+    {
+      "trait": "competence",
+      "action": "Crouches down to remain hidden but scratches himself on a thorn, causing a small outburst.",
+      "assessment": "While the initial hiding is competent, the physical discomfort and noise could compromise his concealment, showing a minor lapse in carefulness.",
+      "rating": 1,
+      "chunk": 48
+    },
+    {
+      "trait": "competence",
+      "action": "Steps out from hiding to confront a dowager lady and politely asks her to move.",
+      "assessment": "This shows a willingness to engage socially and assert himself, but the lady's dumbfounded reaction and his quick retreat suggest awkwardness and lack of confidence in social interactions.",
+      "rating": 0,
+      "chunk": 48
+    },
+    {
+      "trait": "competence",
+      "action": "Attempts to communicate with a little boy near the wolf cage by calling out and offering a pound to lure him closer.",
+      "assessment": "This demonstrates resourcefulness and an understanding of how to motivate others, but the boy's refusal indicates limited success, reflecting moderate competence but some social ineffectiveness.",
+      "rating": 1,
+      "chunk": 48
+    },
+    {
+      "trait": "competence",
+      "action": "Negotiates with the Little Boy to get his balloons back by offering increasing amounts of money and coaxing him closer.",
+      "assessment": "This shows David's ability to think quickly and use persuasion to achieve his goal, indicating social and situational awareness.",
+      "rating": 2,
+      "chunk": 49
+    },
+    {
+      "trait": "competence",
+      "action": "Grabs the balloons to cover himself and runs off naked through the zoo, startling people.",
+      "assessment": "While resourceful in using the balloons for modesty, running naked through a public place is reckless and suggests poor judgment and lack of control over the situation.",
+      "rating": -1,
+      "chunk": 49
+    },
+    {
+      "trait": "warmth",
+      "action": "Greets a man at the bus stop cheerfully despite his odd appearance in a woman's raincoat.",
+      "assessment": "David's attempt to engage cheerfully with a stranger despite his unusual situation suggests a friendly and good-natured demeanor.",
+      "rating": 2,
+      "chunk": 50
+    },
+    {
+      "trait": "warmth",
+      "action": "Enters Alex's flat quickly and shares his bizarre experience openly, showing excitement and euphoria.",
+      "assessment": "David's openness and willingness to share his strange experience with Alex indicates sincerity and trust in their relationship.",
+      "rating": 3,
+      "chunk": 50
+    },
     {
-      "Action": "Points out the signpost towards East Proctor, indicating awareness of direction.",
-      "Competence": 1,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Expresses confusion and vulnerability about his recent behavior to Alex.",
+      "assessment": "Showing vulnerability and seeking connection reflects David's tolerance and trustworthiness in close relationships.",
+      "rating": 2,
+      "chunk": 50
     },
     {
-      "Action": "Engages in candid and blunt conversation with Jack, showing social confidence and straightforward honesty.",
-      "Competence": 1,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Alex puts her arm around David, and he accepts the comfort.",
+      "assessment": "While this is more Alex's action, David's acceptance of comfort suggests he is open to warmth and connection, reinforcing his friendly and sincere nature.",
+      "rating": 1,
+      "chunk": 50
     },
     {
-      "Action": "Fails to provide a meaningful or helpful answer when asked if Debbie will meet Jack in Rome ('I don't know').",
-      "Competence": -1,
-      "Chunk": 2
+      "trait": "competence",
+      "action": "Boards a crowded bus wearing only a woman's raincoat, trying to appear nonchalant despite his conspicuous appearance.",
+      "assessment": "This action shows a lack of situational awareness and poor judgment in blending in, indicating low social competence and poor planning.",
+      "rating": -2,
+      "chunk": 50
     },
     {
-      "Action": "Laughs heartily with Jack about Debbie and their history.",
-      "Warmth": 1,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Enters Alex's flat quickly and closes the door behind him, still wearing the woman's coat.",
+      "assessment": "This suggests some awareness of privacy and urgency, showing moderate situational competence.",
+      "rating": 1,
+      "chunk": 50
     },
     {
-      "Action": "Engages in friendly banter and takes responsibility for entering The Slaughtered Lamb pub despite ominous warnings.",
-      "Warmth": 1,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Admits confusion about his recent actions and lack of memory, but expresses excitement and euphoria about feeling 'terrific'.",
+      "assessment": "While honest and self-aware, his inability to recall recent events and his euphoric state suggest impaired cognitive competence.",
+      "rating": -1,
+      "chunk": 50
     },
     {
-      "Action": "Correctly identifies the symbol on the pub's sign repeatedly despite Jack's corrections, showing attention to detail and confidence.",
-      "Competence": 1,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Attempts to rationalize his bizarre behavior (waking up naked at the zoo) with humor and self-deprecation.",
+      "assessment": "This shows some emotional intelligence and coping skills, indicating moderate psychological competence.",
+      "rating": 1,
+      "chunk": 50
     },
     {
-      "Action": "Assumes full responsibility when Jack says whatever happens is David's fault, showing confidence and leadership.",
-      "Competence": 1,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "David kisses Alex, a desperate kiss, and she kisses back with equal passion.",
+      "assessment": "David's kiss shows a deep emotional connection and vulnerability, indicating sincerity and a capacity for affectionate, warm relationships.",
+      "rating": 3,
+      "chunk": 51
     },
     {
-      "Action": "Laughs excessively in response to conversation about Debbie, possibly indicating a lack of seriousness or distraction.",
-      "Competence": 0,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "David laughs when Alex asks where he got the coat.",
+      "assessment": "Laughing in response to a simple question suggests a relaxed and friendly demeanor, contributing positively to warmth.",
+      "rating": 2,
+      "chunk": 51
     },
     {
-      "Action": "Greets the hostile crowd politely and attempts to enter the pub calmly by smiling and making a polite request to come inside despite the unfriendly silence.",
-      "Competence": 1,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "David kisses Alex with desperation and passion, then laughs when asked about his coat.",
+      "assessment": "This shows emotional expressiveness and some social confidence, but does not directly indicate competence in a practical or intellectual sense.",
+      "rating": 0,
+      "chunk": 51
     },
     {
-      "Action": "Shows social awareness by cautiously removing his pack and sitting down carefully, indicating sensitivity to the uncomfortable situation.",
-      "Competence": 1,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "David wakes up at the zoo, confused and with no memory of where he was.",
+      "assessment": "This indicates disorientation and memory loss, which are negative indicators of competence, as he is not fully aware or in control of his situation.",
+      "rating": -2,
+      "chunk": 51
     },
     {
-      "Action": "Attempts to order something hot to drink, demonstrating practical thinking and effort to meet basic needs despite initial rejections.",
-      "Competence": 1,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "David is described as rational, excited, and confused but not crazy.",
+      "assessment": "Being rational despite confusion suggests some mental clarity and ability to function, a mild positive indicator of competence.",
+      "rating": 1,
+      "chunk": 51
     },
     {
-      "Action": "Participates in uncertain communication with the barkeep and accommodates the lack of desired options by accepting an offer to heat tea, showing adaptability.",
-      "Competence": 1,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "David does not remember where he was and is reliant on Alex and Dr. Hirsch to manage his situation.",
+      "assessment": "This reliance and memory gap show a lack of self-sufficiency and situational awareness, negative for competence.",
+      "rating": -2,
+      "chunk": 51
     },
     {
-      "Action": "Smiles politely along with others during group laughter.",
-      "Warmth": 1,
-      "Chunk": 5
+      "trait": "warmth",
+      "action": "David insists the taxi pull over when he hears about the murders and immediately decides to go to the police.",
+      "assessment": "David's immediate concern and decision to take responsibility by going to the police shows a sense of accountability and sincerity, indicating a trustworthy and conscientious nature.",
+      "rating": 2,
+      "chunk": 52
     },
     {
-      "Action": "Deflects a question about the pentangle back to Jack rather than engaging directly.",
-      "Warmth": 0,
-      "Chunk": 5
+      "trait": "warmth",
+      "action": "David pays the taxi driver promptly before getting out.",
+      "assessment": "Paying the driver without hesitation reflects respect and fairness toward others, a positive social behavior consistent with warmth.",
+      "rating": 2,
+      "chunk": 52
     },
     {
-      "Action": "Corrects a misunderstanding gently by explaining the film reference with courtesy (Thank you).",
-      "Warmth": 1,
-      "Chunk": 5
+      "trait": "warmth",
+      "action": "David appears physically upbeat and shares his positive feelings with Alex.",
+      "assessment": "Expressing his good mood openly to Alex suggests a friendly and open demeanor, which is a mild indicator of warmth.",
+      "rating": 1,
+      "chunk": 52
     },
     {
-      "Action": "Recognizes the threatening atmosphere and urges Jack to leave promptly.",
-      "Competence": 1,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "David abruptly leaves the taxi despite Alex's protests.",
+      "assessment": "While his intentions are sincere, his abruptness and disregard for Alex's concerns may indicate a lack of tolerance or consideration in this moment, slightly detracting from warmth.",
+      "rating": -1,
+      "chunk": 52
     },
     {
-      "Action": "Attempts to settle the debt with the villagers by asking how much they owe.",
-      "Competence": 1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "David insists the taxi pull over immediately upon hearing about the murders and decides to go to the police.",
+      "assessment": "This action shows decisiveness and a proactive approach to a serious situation, indicating a level of responsibility and awareness.",
+      "rating": 2,
+      "chunk": 52
     },
     {
-      "Action": "Acknowledges and appreciates the warning given by the villagers.",
-      "Competence": 1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "David expresses feeling physically alert and like an athlete after a period of not feeling well.",
+      "assessment": "This suggests self-awareness and an ability to assess his own physical state accurately, which is a positive indicator of competence.",
+      "rating": 1,
+      "chunk": 52
     },
     {
-      "Action": "Pushes Jack to leave despite Jack’s hesitation and confusion.",
-      "Competence": 1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "David abruptly leaves the taxi without waiting for Alex and heads toward the police.",
+      "assessment": "While his intentions are good, this sudden action without coordination or communication could be seen as impulsive and lacking in strategic planning.",
+      "rating": -1,
+      "chunk": 52
     },
     {
-      "Action": "Expresses uncertainty about the situation and what to do next ('I don't know').",
-      "Competence": 0,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "David states 'I should be committed' with a grin.",
+      "assessment": "This self-deprecating humor may indicate some self-doubt or lack of confidence, which can detract from perceived competence.",
+      "rating": -1,
+      "chunk": 52
     },
     {
-      "Action": "Decides to look for shelter or an inn after leaving the pub, suggesting a practical step.",
-      "Competence": 1,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Tells the police officer that he killed six people last night and demands to be arrested.",
+      "assessment": "David's willingness to take responsibility for his actions and seek help from authorities shows a degree of sincerity and accountability, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 53
     },
     {
-      "Action": "Responds calmly to uncertainty about supernatural events by reasoning it may have been embarrassment rather than truth, showing analytical thinking.",
-      "Competence": 1,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Shouts insults and offensive statements at the police officer, including vulgar language and provocative claims.",
+      "assessment": "This outburst is aggressive, disrespectful, and alienates others, indicating a lack of tolerance and friendliness in this moment, which negatively impacts his warmth.",
+      "rating": -2,
+      "chunk": 53
     },
     {
-      "Action": "Continues walking in heavy rain without taking proactive measures to seek shelter or prepare, indicating passivity or lack of practical foresight.",
-      "Competence": -1,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Denies knowing Alex and contradicts her attempts to explain the situation to the police.",
+      "assessment": "This denial suggests a breakdown in trust and sincerity toward Alex, which detracts from his warmth as it shows distancing and possible confusion or defensiveness.",
+      "rating": -1,
+      "chunk": 53
     },
     {
-      "Action": "Engages in light banter and witty remarks with Jack despite difficult circumstances, displaying social confidence and mental composure.",
-      "Competence": 1,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Walks briskly away from Alex despite her pleas to be rational and seek medical help.",
+      "assessment": "This action may indicate emotional distress and urgency, but also a lack of openness to support and cooperation, which can be seen as a mild negative indicator of warmth.",
+      "rating": -1,
+      "chunk": 53
     },
     {
-      "Action": "Suggests continuing to move forward despite uncertainty and danger.",
-      "Competence": 0,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Decides to go to the police to confess to the killings.",
+      "assessment": "This shows a degree of responsibility and willingness to face consequences, indicating some level of rational decision-making under extreme stress.",
+      "rating": 1,
+      "chunk": 53
     },
     {
-      "Action": "Attempts to calm the situation with light sarcasm while under stress.",
-      "Competence": 0,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Walks briskly to the police officer and openly admits to killing people.",
+      "assessment": "This demonstrates courage and directness, but also a lack of strategic thinking about how to handle the situation effectively.",
+      "rating": 0,
+      "chunk": 53
     },
     {
-      "Action": "Misidentifies the threatening creature as a 'sheep dog or something,' indicating poor situational assessment.",
-      "Competence": -1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Engages in erratic and offensive outbursts at the police officer, including shouting nonsensical and insulting statements.",
+      "assessment": "This behavior undermines his credibility and ability to communicate effectively, showing a significant loss of control and poor judgment.",
+      "rating": -3,
+      "chunk": 53
     },
     {
-      "Action": "Encourages slow and cautious retreat by turning and walking away from the threat.",
-      "Competence": 1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Refuses to cooperate with Alex's attempts to calm him and insists on being arrested.",
+      "assessment": "This stubbornness and refusal to accept help or alternative solutions reflects impaired problem-solving and emotional regulation.",
+      "rating": -2,
+      "chunk": 53
     },
     {
-      "Action": "Expresses controlled tears about treatment of his friend Jack, showing concern and emotional attachment.",
-      "Warmth": 1,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Appears desperate and confused when denying knowing Alex after she tries to intervene.",
+      "assessment": "This suggests disorientation and impaired social awareness, which negatively impacts his ability to manage interpersonal interactions.",
+      "rating": -2,
+      "chunk": 53
     },
     {
-      "Action": "Shouts aggressively and demands to know what is happening, struggles against being restrained.",
-      "Warmth": 0,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Yells at the police officer and onlookers in frustration and despair after his friend was killed and he is not believed.",
+      "assessment": "David's outburst reflects his intense emotional pain and desperation rather than malice; however, his aggressive tone and harsh words reduce his warmth in this moment.",
+      "rating": -1,
+      "chunk": 54
     },
     {
-      "Action": "Approaches situation with hysteria, shouts and struggles against medical staff restraining him.",
-      "Competence": -1,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Cries openly and expresses his anguish and need to get away from people who he feels do not understand him.",
+      "assessment": "Showing vulnerability and emotional openness can be a sign of sincerity and genuine feeling, indicating some warmth despite his distress.",
+      "rating": 1,
+      "chunk": 54
     },
     {
-      "Action": "Questions loudly and demands answers about his whereabouts and Jack's location.",
-      "Competence": 0,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Rejects Alex's attempts to calm him and pushes people away in his hysteria.",
+      "assessment": "Pushing away those who care and lashing out in anger suggests a breakdown in tolerance and friendliness, lowering perceived warmth.",
+      "rating": -2,
+      "chunk": 54
     },
     {
-      "Action": "Shows loss of control resulting in needing sedation to calm down.",
-      "Competence": -1,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Yells at the police officer and onlookers in frustration and despair.",
+      "assessment": "This reaction shows a lack of emotional control and poor interpersonal skills, undermining his ability to handle stressful situations effectively.",
+      "rating": -2,
+      "chunk": 54
     },
     {
-      "Action": "Runs fast and gracefully through the forest, moving with stealth and alertness, demonstrating physical skill and acute senses.",
-      "Competence": 1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Questions the onlooker about why he is not being arrested.",
+      "assessment": "This indicates some awareness of his situation and an attempt to understand others' perspectives, showing a minimal level of situational awareness.",
+      "rating": 0,
+      "chunk": 54
     },
     {
-      "Action": "Successfully stalks and attacks a fawn, exhibiting hunting prowess and animal-like capability.",
-      "Competence": 1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Runs into traffic in a panic, nearly causing an accident.",
+      "assessment": "This is a clear indicator of poor judgment and lack of self-preservation instincts, reflecting low competence in crisis management.",
+      "rating": -3,
+      "chunk": 54
     },
     {
-      "Action": "Appears startled and tense as an animal, showing high alertness but possibly overwhelmed by his new instincts.",
-      "Competence": 0,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Sobs uncontrollably in an alley after fleeing the scene.",
+      "assessment": "This behavior demonstrates emotional overwhelm and inability to cope with trauma, further highlighting his current incapacity to act competently.",
+      "rating": -3,
+      "chunk": 54
     },
     {
-      "Action": "While asleep in the hospital, passively takes the pills administered to him without questioning or resistance.",
-      "Competence": 0,
-      "Chunk": 19
+      "trait": "warmth",
+      "action": "Attempts to have himself arrested to get help.",
+      "assessment": "Trying to get arrested indicates a desperate plea for assistance, showing vulnerability and a desire for support, which can be seen as a sincere and honest action.",
+      "rating": 2,
+      "chunk": 55
     },
     {
-      "Action": "Clearly distinguishes between reality and fantasy when describing his attacker, insisting it was an animal rather than a man, showing awareness and attempt at rationalization.",
-      "Competence": 1,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Calls the United States to reverse charges on a phone call.",
+      "assessment": "This action shows responsibility and concern for his own situation, but it is neutral in terms of warmth as it is self-focused and does not directly involve others.",
+      "rating": 0,
+      "chunk": 55
     },
     {
-      "Action": "Upset and emotionally disturbed while recounting events, indicating impaired emotional control but still communicates clearly and thoughtfully.",
-      "Competence": 0,
-      "Chunk": 24
+      "trait": "competence",
+      "action": "Attempts to call the United States from a telephone booth to reverse charges.",
+      "assessment": "This action shows David's initiative and resourcefulness in trying to manage his situation despite being missing and presumably under stress.",
+      "rating": 2,
+      "chunk": 55
     },
     {
-      "Action": "Does not actively resist or question hospital procedures; remains passive and compliant, showing lack of agency in his current state.",
-      "Competence": -1,
-      "Chunk": 24
+      "trait": "competence",
+      "action": "Is missing and not immediately found by authorities despite ongoing investigations.",
+      "assessment": "His disappearance suggests a lack of control over his circumstances or an inability to maintain contact with allies, indicating some level of disorganization or vulnerability.",
+      "rating": -1,
+      "chunk": 55
     },
     {
-      "Action": "Attempts to communicate logically about the traumatic event despite his psychological and physical deterioration.",
-      "Competence": 1,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Calls Rachel to express love and concern for her and her family, urging her to keep peace with Max and to tell their parents he loves them.",
+      "assessment": "David shows sincere care and affection for his family, demonstrating good-natured and trustworthy behavior by reaching out despite his own distress.",
+      "rating": 3,
+      "chunk": 56
     },
     {
-      "Action": "Engages in calm, coherent conversation despite being in the hospital and having disturbing dreams.",
-      "Competence": 1,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Signs a $100 traveler's check and tells the ticket lady to keep the change when buying a cinema ticket.",
+      "assessment": "This act of generosity and friendliness toward a stranger reflects David's warm and sincere nature.",
+      "rating": 2,
+      "chunk": 56
     },
     {
-      "Action": "Shows vulnerability by openly discussing dreams of death and emotional connection with Alex, demonstrating self-awareness.",
-      "Competence": 1,
-      "Chunk": 26
+      "trait": "competence",
+      "action": "Calls Rachel and tries to communicate important emotional messages despite the difficulty of the situation.",
+      "assessment": "This shows emotional intelligence and a responsible attitude, indicating a level of maturity and capability in handling personal relationships under stress.",
+      "rating": 2,
+      "chunk": 56
     },
     {
-      "Action": "Asks direct but simple questions like Alex's age repeatedly, which suggests a possible disorientation or lack of social tact.",
-      "Competence": -1,
-      "Chunk": 26
+      "trait": "competence",
+      "action": "Pays for a cinema ticket with a $100 traveler's check and tells the ticket lady to keep the change.",
+      "assessment": "This demonstrates practical problem-solving and confidence in handling an unexpected payment method, showing social grace and financial competence.",
+      "rating": 2,
+      "chunk": 56
     },
     {
-      "Action": "Accepts Alex reading to him and follows along passively, showing limited active engagement or initiative.",
-      "Competence": 0,
-      "Chunk": 26
+      "trait": "competence",
+      "action": "Smiles and walks calmly toward the cinema after seeing the ghostly figure of Jack.",
+      "assessment": "Despite the disturbing sight, David maintains composure and proceeds with his plan, indicating emotional control and mental resilience.",
+      "rating": 2,
+      "chunk": 56
     },
     {
-      "Action": "Calms himself deliberately after bolting upright in bed, showing an effort to regain composure.",
-      "Competence": 1,
-      "Chunk": 28
+      "trait": "warmth",
+      "action": "Goes and sits next to Jack in the cinema despite the eerie situation.",
+      "assessment": "Choosing to sit with Jack, even in a strange and unsettling context, shows a willingness to connect and seek companionship.",
+      "rating": 2,
+      "chunk": 57
     },
     {
-      "Action": "Considers waking Alex but decides against it, showing judgment about when to disturb others.",
-      "Competence": 1,
-      "Chunk": 28
+      "trait": "warmth",
+      "action": "Quickly apologizes after telling Jack he looks awful.",
+      "assessment": "The quick apology indicates sensitivity and concern for Jack's feelings, reflecting sincerity and consideration.",
+      "rating": 2,
+      "chunk": 57
     },
     {
-      "Action": "Attempts to take the book gently from Alex without waking her.",
-      "Competence": 1,
-      "Chunk": 28
+      "trait": "warmth",
+      "action": "Expresses confusion and horror about the murders and his possible involvement.",
+      "assessment": "His openness about his uncertainty and horror suggests honesty and a troubled conscience, which can be seen as sincere and trustworthy.",
+      "rating": 2,
+      "chunk": 57
     },
     {
-      "Action": "Initiates a personal, somewhat forward conversation with Alex to improve his mood.",
-      "Competence": 0,
-      "Chunk": 28
+      "trait": "warmth",
+      "action": "Says 'I'm glad to see you, Jack' despite the surreal circumstances.",
+      "assessment": "Expressing gladness to see Jack, even though Jack is a corpse, shows David's need for connection and friendly regard.",
+      "rating": 2,
+      "chunk": 57
     },
     {
-      "Action": "Jokes about an affair with a nurse to cheer himself up, which could be seen as immature but also as using humor to cope.",
-      "Competence": 0,
-      "Chunk": 28
+      "trait": "warmth",
+      "action": "Greets Gerald Bringsly with a simple 'Hello' despite the grim introduction.",
+      "assessment": "Maintaining politeness and greeting a ghostly figure calmly reflects a basic level of friendliness and respect.",
+      "rating": 1,
+      "chunk": 57
     },
     {
-      "Action": "Responds with horror and disbelief to Jack's appearance, struggles to mentally process the situation, verbally expresses distress.",
-      "Competence": -1,
-      "Chunk": 30
+      "trait": "warmth",
+      "action": "Does not react with anger or aggression toward Jack or Gerald despite their unsettling presence and accusations.",
+      "assessment": "His calm and non-hostile demeanor in a frightening situation suggests tolerance and composure.",
+      "rating": 2,
+      "chunk": 57
     },
     {
-      "Action": "Engages in a conversation with the undead Jack despite his shock, listens to warnings.",
-      "Competence": 0,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Engages in a conversation with Jack, despite Jack being a corpse and the surreal nature of the situation.",
+      "assessment": "This shows David's ability to maintain composure and engage intellectually even in bizarre and stressful circumstances, indicating a degree of mental resilience and adaptability.",
+      "rating": 2,
+      "chunk": 57
     },
     {
-      "Action": "Talks to the dog and sarcastically thanks it when it barks aggressively.",
-      "Warmth": 0,
-      "Chunk": 39
+      "trait": "competence",
+      "action": "Expresses uncertainty about whether he killed people and does not remember doing it.",
+      "assessment": "This admission reveals a lack of self-awareness and control over his actions, suggesting impaired cognitive functioning or dissociation, which negatively impacts his competence.",
+      "rating": -2,
+      "chunk": 57
     },
     {
-      "Action": "Mutters to himself imitating a newscaster about a werewolf frozen to death, showing a sense of humor despite discomfort.",
-      "Warmth": 1,
-      "Chunk": 39
+      "trait": "competence",
+      "action": "Quickly apologizes after making a harsh comment about Jack's appearance.",
+      "assessment": "This shows social awareness and emotional intelligence, indicating that David can recognize and correct social missteps, a positive competence indicator.",
+      "rating": 1,
+      "chunk": 57
     },
     {
-      "Action": "Tries to pat the hostile, hissing cat cautiously despite its aggression.",
-      "Warmth": 1,
-      "Chunk": 39
+      "trait": "competence",
+      "action": "Acknowledges the absurdity of talking to a corpse and questions his own sanity.",
+      "assessment": "While this shows insight into his mental state, it also highlights his confusion and instability, which detracts from his overall competence.",
+      "rating": -1,
+      "chunk": 57
     },
     {
-      "Action": "Expresses confusion and mild frustration towards the cat’s hostile behavior without reacting aggressively.",
-      "Warmth": 1,
-      "Chunk": 39
+      "trait": "competence",
+      "action": "Greets Gerald Bringsly, the man he murdered, calmly despite the horror of the situation.",
+      "assessment": "David's ability to remain calm and polite in the face of a traumatic and supernatural event suggests a certain level of emotional control and composure.",
+      "rating": 2,
+      "chunk": 57
     },
     {
-      "Action": "Enters Alex's flat awkwardly through a small window and searches for food but admits not hungry, showing some self-restraint.",
-      "Warmth": 0,
-      "Chunk": 39
+      "trait": "warmth",
+      "action": "Expresses sorrow and apologizes to Mr. Bringsly, saying 'I have absolutely no idea what to say to you.'",
+      "assessment": "David shows remorse and a sincere attempt to acknowledge the pain he has caused, indicating a degree of empathy and good-naturedness.",
+      "rating": 2,
+      "chunk": 58
     },
     {
-      "Action": "Climbs a brick wall barefoot despite pain to reach a window and get inside the flat.",
-      "Competence": 1,
-      "Chunk": 39
+      "trait": "warmth",
+      "action": "Asks 'What shall I do?' and 'How shall I do it?' when confronted with the undead victims demanding his death.",
+      "assessment": "David's questions reveal a defeated but open attitude, showing he is willing to listen and consider others' perspectives, which suggests sincerity and a degree of trustworthiness.",
+      "rating": 1,
+      "chunk": 58
     },
     {
-      "Action": "Attempts to cautiously pat a hostile cat that hisses and runs away.",
-      "Competence": 0,
-      "Chunk": 39
+      "trait": "warmth",
+      "action": "Engages in conversation with the undead victims rather than reacting with anger or hostility.",
+      "assessment": "Despite the horrific situation, David remains communicative and does not lash out, indicating tolerance and a capacity for calm interaction under stress.",
+      "rating": 1,
+      "chunk": 58
     },
     {
-      "Action": "Muttering to himself with sarcasm when locked out, showing some presence of mind.",
-      "Competence": 0,
-      "Chunk": 39
+      "trait": "warmth",
+      "action": "Considers suicide methods suggested by others, including sleeping pills and hanging.",
+      "assessment": "While this reflects despair, it also shows David's willingness to consider the advice and concerns of others, which can be interpreted as a form of trust and openness.",
+      "rating": 0,
+      "chunk": 58
     },
     {
-      "Action": "Enters through small window awkwardly, but succeeds in getting inside.",
-      "Competence": 1,
-      "Chunk": 39
+      "trait": "competence",
+      "action": "Responds to the supernatural victims with horror and confusion, stating he has no idea what to say.",
+      "assessment": "This reaction shows David's emotional overwhelm and lack of preparedness to handle the situation, indicating low competence in managing crises or supernatural threats.",
+      "rating": -2,
+      "chunk": 58
     },
     {
-      "Action": "Checks himself in mirror and touches canines, showing awareness of physical changes.",
-      "Competence": 1,
-      "Chunk": 39
+      "trait": "competence",
+      "action": "Asks 'What shall I do?' and 'How shall I do it?' when confronted with the curse and the demand to commit suicide.",
+      "assessment": "These questions reveal David's uncertainty and lack of decisive action, reflecting a low level of competence in problem-solving under extreme pressure.",
+      "rating": -2,
+      "chunk": 58
     },
     {
-      "Action": "Lays down and stares at ceiling for a while then goes back to kitchen, seeming uncertain what to do.",
-      "Competence": -1,
-      "Chunk": 39
+      "trait": "competence",
+      "action": "Considers methods of suicide such as sleeping pills or hanging, but shows hesitation and is cautioned about the risks.",
+      "assessment": "While David is contemplating practical options, his indecision and reliance on others' input suggest limited confidence and skill in taking control of his fate.",
+      "rating": -1,
+      "chunk": 58
     },
     {
-      "Action": "Tries to persuade the Little Boy to come closer by offering money and engaging in playful banter.",
-      "Warmth": 1,
-      "Chunk": 49
+      "trait": "competence",
+      "action": "Engages in dialogue with the undead victims and Jack, seeking guidance despite the grim circumstances.",
+      "assessment": "This shows some level of engagement and willingness to understand his predicament, which is a modest positive indicator of competence in seeking information.",
+      "rating": 1,
+      "chunk": 58
     },
     {
-      "Action": "Grabs the Little Boy's balloons and uses them to cover his own nudity, then thanks the boy before running off.",
-      "Warmth": 0,
-      "Chunk": 49
+      "trait": "warmth",
+      "action": "Responds to the suggestion of suicide with sarcasm: 'Thank you, you're all so thoughtful.'",
+      "assessment": "David uses sarcasm to deflect the morbid suggestions, indicating a defensive but not hostile attitude; this shows some resilience but limited warmth in this moment.",
+      "rating": 0,
+      "chunk": 59
     },
     {
-      "Action": "Uses balloons to cover himself after stealing them to avoid complete nudity and quickly escapes the situation.",
-      "Competence": 1,
-      "Chunk": 49
+      "trait": "warmth",
+      "action": "Puts his head in his hands and admits 'Madness. I've gone totally mad.'",
+      "assessment": "This admission reveals vulnerability and self-awareness, which can be seen as sincere and humanizing, suggesting some openness and emotional honesty.",
+      "rating": 1,
+      "chunk": 59
     },
     {
-      "Action": "Attempts to lure a child closer in a suspicious manner by offering money and then suddenly grabs the balloons.",
-      "Competence": 0,
-      "Chunk": 49
+      "trait": "warmth",
+      "action": "Begins to panic and pleads with children in the cinema to 'Go away! Please! Go away!' and 'Run! Please...run.'",
+      "assessment": "David's plea to the children to leave shows concern for their safety despite his own distress, indicating a protective instinct and underlying care.",
+      "rating": 2,
+      "chunk": 59
     },
     {
-      "Action": "Loses patience while negotiating with the boy but continues to pressure him effectively.",
-      "Competence": 0,
-      "Chunk": 49
+      "trait": "competence",
+      "action": "David asks if he needs a silver bullet or something to deal with the threat.",
+      "assessment": "This question shows some awareness of the lore and a desire to find a practical solution, indicating a degree of intelligence and resourcefulness.",
+      "rating": 1,
+      "chunk": 59
     },
     {
-      "Action": "Kisses Alex passionately despite confusion and memory loss.",
-      "Competence": 0,
-      "Chunk": 51
+      "trait": "competence",
+      "action": "David puts his head in his hands and says, 'Madness. I've gone totally mad.'",
+      "assessment": "This reflects a moment of despair and self-doubt, suggesting a lack of emotional control and confidence, which undermines his competence.",
+      "rating": -2,
+      "chunk": 59
     },
     {
-      "Action": "Laughs when asked about the coat, showing some ease and confidence.",
-      "Competence": 0,
-      "Chunk": 51
+      "trait": "competence",
+      "action": "David is dripping wet, shaking violently, and experiencing uncontrollable seizures in public, pleading for children to go away.",
+      "assessment": "This loss of physical control and inability to manage his condition in a public setting indicates a significant lack of self-mastery and practical competence.",
+      "rating": -3,
+      "chunk": 59
     },
     {
-      "Action": "Is described as rational and lucid despite confusion and memory loss.",
-      "Competence": 1,
-      "Chunk": 51
+      "trait": "competence",
+      "action": "David's hands clutch the arms of his chair as thick hair splits his skin during his transformation.",
+      "assessment": "This involuntary physical reaction shows he is overwhelmed by his condition and unable to control the transformation process, highlighting a lack of bodily control and competence in managing his affliction.",
+      "rating": -3,
+      "chunk": 59
     },
     {
-      "Action": "Does not remember recent events and woke up at the zoo, indicating disorientation.",
-      "Competence": -1,
-      "Chunk": 51
+      "trait": "competence",
+      "action": "The Wolf (David) aggressively confronts Lt. Villiers and evades police pursuit, running into a cul de sac and defiantly roaring at the barricade.",
+      "assessment": "This shows physical strength and a certain boldness or confidence in the werewolf form, but it is more animalistic than skillful or intelligent behavior, indicating limited conscious competence.",
+      "rating": 0,
+      "chunk": 61
     },
     {
-      "Action": "Attempts to have himself arrested to get help.",
-      "Warmth": 1,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "David (as the Wolf) causes chaos in the city, leading to police mobilization and a tactical response.",
+      "assessment": "While this indicates David's presence and impact, it reflects a lack of control or strategic thinking, suggesting low competence in managing the situation effectively.",
+      "rating": -2,
+      "chunk": 61
     },
     {
-      "Action": "Attempts to call the United States to reverse telephone charges, showing awareness and resourcefulness.",
-      "Competence": 1,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "David does not appear to communicate or attempt to de-escalate the situation despite Alex's calls and the police presence.",
+      "assessment": "This omission suggests a lack of situational awareness or inability to act with intelligence or confidence in this critical moment, negatively impacting perceived competence.",
+      "rating": -2,
+      "chunk": 61
     }
   ]
 }

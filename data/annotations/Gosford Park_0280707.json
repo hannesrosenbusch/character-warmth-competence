@@ -1,384 +1,494 @@
 {
   "Sir William McCordle": [
     {
-      "Action": "Welcomes Constance by name as she arrives, turning back to greet her.",
-      "Warmth": 1,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "Greets Constance with a simple 'Welcome' as she arrives.",
+      "assessment": "The greeting is polite but minimal, showing basic courtesy without warmth or enthusiasm.",
+      "rating": 0,
+      "chunk": 3
     },
     {
-      "Action": "Holds a terrier described as 'vile' and 'wiry unattractive', reinforcing his pride in ownership despite negative opinion.",
-      "Warmth": -1,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "Carries a wiry unattractive terrier and is described as proud of his status as a rich parvenu.",
+      "assessment": "His pride in wealth and status suggests a focus on social standing rather than genuine warmth or friendliness.",
+      "rating": -1,
+      "chunk": 3
     },
     {
-      "Action": "Proudly carries his dog, shows ownership and control over his environment.",
-      "Competence": 1,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "Turns back upon seeing Constance arrive.",
+      "assessment": "Turning back to acknowledge Constance indicates some recognition and attention, but the interaction remains formal and restrained.",
+      "rating": 1,
+      "chunk": 3
     },
     {
-      "Action": "Turns back on arrival of Constance, indicating attention and social awareness.",
-      "Competence": 1,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Is described as 'the owner of all he surveys' and 'a rich parvenu and proud of it,' holding his dog confidently while overseeing arrivals.",
+      "assessment": "This description suggests a confident and authoritative presence, indicating social competence and self-assurance in his environment.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Behavior primarily described through possessions and pride rather than direct actions of skill or intelligence.",
-      "Competence": 0,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Turns back upon the arrival of Constance and greets her with a simple 'Constance, Welcome.'",
+      "assessment": "His greeting is brief and somewhat curt, which may indicate a lack of social grace or warmth, suggesting limited interpersonal skill in this interaction.",
+      "rating": 0,
+      "chunk": 3
     },
     {
-      "Action": "Feeds his terrier Pip and keeps Louisa company while working.",
-      "Warmth": 1,
-      "Chunk": 11
+      "trait": "warmth",
+      "action": "Feeds his terrier, Pip, and keeps company with Louisa Stockbridge at the work table.",
+      "assessment": "Showing care for his pet and engaging in casual company suggests a degree of warmth and approachability.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Pours whisky for himself and Louisa, encourages her to drink despite her protest.",
-      "Warmth": 0,
-      "Chunk": 11
+      "trait": "warmth",
+      "action": "Pours two whiskies, adds soda, and offers one to Louisa despite her initial refusal.",
+      "assessment": "Offering a drink and encouraging Louisa to partake, even playfully, indicates friendliness and a desire to include others in conviviality.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Politely acknowledges valet Probert's thoughtful gesture about bringing the Times.",
-      "Warmth": 1,
-      "Chunk": 11
+      "trait": "warmth",
+      "action": "Responds positively to Probert's thoughtfulness by saying 'Good thinking, Probert.'",
+      "assessment": "Acknowledging and appreciating the valet's considerate action reflects respect and warmth towards staff.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Welcomes a guest brought by a friend without objection, showing openness and social adaptability.",
-      "Competence": 1,
-      "Chunk": 11
+      "trait": "warmth",
+      "action": "Mentions he did not see why he shouldn't allow Weissman to come, showing openness to guests.",
+      "assessment": "Being open to new acquaintances and trusting Ivor's judgment suggests a tolerant and friendly nature.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Pays attention to practical matters, such as appreciating the valet's thoughtfulness in bringing the newspaper.",
-      "Competence": 1,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Sitting at a work table covered with gun tools and a pistol, feeding his terrier Pip while engaging in conversation.",
+      "assessment": "This suggests a level of comfort and familiarity with firearms and multitasking, indicating practical skill and confidence in his environment.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Insists Louisa take whisky despite her refusal, encouraging her to drink for her own good.",
-      "Competence": 0,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Pouring two whiskies and adding soda, then encouraging Louisa to drink despite her initial refusal.",
+      "assessment": "This shows social confidence and a degree of assertiveness, though it may also reflect a lack of sensitivity to others' preferences, which slightly detracts from interpersonal competence.",
+      "rating": 1,
+      "chunk": 11
     },
     {
-      "Action": "Engages in light-hearted conversation and hospitality, showing social confidence and control of the situation.",
-      "Competence": 1,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Responding to Probert's entrance with a polite and approving comment: 'Good thinking, Probert.'",
+      "assessment": "This indicates attentiveness and good social awareness, reinforcing his role as a capable and considerate host.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Deflects interaction politely but briefly and shows control over social situation by discouraging Anthony from speaking to him.",
-      "Competence": 1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Reluctantly accepts his valet Probert’s judgement on his evening dress and handkerchief choice.",
+      "assessment": "This shows a degree of humility and trust in his valet’s expertise, indicating practical decision-making and confidence in delegating to those more knowledgeable in specific areas.",
+      "rating": 2,
+      "chunk": 19
     },
     {
-      "Action": "Responds tersely and opts to remove himself from situation by going to change, possibly avoiding confrontation or social engagement.",
-      "Competence": 0,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Is described as 'terribly touchy' and 'thinks he’s the last Plantagenet and takes offence accordingly' after being made a baronet.",
+      "assessment": "This suggests a certain insecurity or sensitivity that may undermine his confidence and social competence, potentially impairing his ability to navigate social situations smoothly.",
+      "rating": -1,
+      "chunk": 19
     },
     {
-      "Action": "Is described as touchy and taking offence easily after being made a baronet, suggesting sensitivity or pride.",
-      "Warmth": 0,
-      "Chunk": 19
+      "trait": "warmth",
+      "action": "Complains about having to sit next to Aunt Constance and Lavinia at dinner, calling Constance an 'old trout' and expressing a preference for Louisa instead.",
+      "assessment": "This shows a lack of respect and consideration for family members, indicating impatience and a dismissive attitude rather than warmth.",
+      "rating": -2,
+      "chunk": 20
     },
     {
-      "Action": "Reluctantly accepts valet's judgment on his evening dress, showing some trust in others' expertise.",
-      "Competence": 1,
-      "Chunk": 19
+      "trait": "warmth",
+      "action": "Considers stopping Aunt Constance's allowance because she has been complaining it is not big enough.",
+      "assessment": "Threatening to cut off financial support out of spite suggests a punitive and unsympathetic nature, reflecting low warmth.",
+      "rating": -3,
+      "chunk": 20
     },
     {
-      "Action": "Shows touchiness and pride after being made a baronet, indicating sensitivity that might impair confident social behavior.",
-      "Competence": -1,
-      "Chunk": 19
+      "trait": "warmth",
+      "action": "Asks Sylvia to ensure Anthony does not get him alone because he is pulling out of Anthony's scheme and does not want to confront him.",
+      "assessment": "This shows avoidance and possible distrust, indicating a guarded and possibly unfriendly stance rather than openness or sincerity.",
+      "rating": -1,
+      "chunk": 20
     },
     {
-      "Action": "Complains about sitting next to Aunt Constance at dinner, uses derogatory term 'old trout' for her, and shows impatience and disrespect.",
-      "Warmth": -1,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Engages in a sarcastic and bullying manner with Sylvia, who responds with contempt and control.",
+      "assessment": "His bullying and unpleasant manner toward Sylvia, combined with her weary responses, suggest a lack of warmth and poor interpersonal sensitivity.",
+      "rating": -3,
+      "chunk": 20
     },
     {
-      "Action": "Threatens to cut off Aunt Constance’s allowance in a bullying and unpleasant manner.",
-      "Warmth": -1,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Complains about seating arrangements at dinner and dismisses the importance of the Table of Precedence.",
+      "assessment": "This shows a lack of social tact and understanding of the social hierarchy, which is important in his context, indicating a certain ignorance or carelessness about social protocols.",
+      "rating": -1,
+      "chunk": 20
     },
     {
-      "Action": "Expresses a wish to avoid being alone with Anthony to prevent an uncomfortable situation, implying some awareness of personal boundaries.",
-      "Warmth": 0,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Considers stopping Aunt Constance's allowance despite it being settled for her lifetime.",
+      "assessment": "This suggests impulsiveness and a lack of foresight or respect for established agreements, reflecting poor financial or relational management skills.",
+      "rating": -2,
+      "chunk": 20
     },
     {
-      "Action": "Shuts the door as the women leave, then returns to his seat and invites the other men to join him, creating a sense of gathering.",
-      "Warmth": 1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Uses bullying and unpleasant manner to assert himself.",
+      "assessment": "While this shows confidence and a degree of assertiveness, it also reveals poor interpersonal skills and a tendency to rely on intimidation rather than diplomacy, which undermines effective leadership.",
+      "rating": 0,
+      "chunk": 20
     },
     {
-      "Action": "Sits at his end of the table, irrespective of previous seating, indicating a desire for order or hierarchy rather than friendliness.",
-      "Warmth": 0,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Wishes to avoid being alone with Anthony because he is pulling out of Anthony's scheme and has not yet told him.",
+      "assessment": "This indicates some strategic thinking and awareness of potential conflict, showing a cautious and possibly shrewd approach to managing difficult conversations.",
+      "rating": 1,
+      "chunk": 20
     },
     {
-      "Action": "Shuts the door and confidently invites the other men to join him at his end of the table, asserting leadership in seating arrangement.",
-      "Competence": 1,
-      "Chunk": 30
+      "trait": "warmth",
+      "action": "Keeps his finger fixed on the number four spill and pulls it out before gathering the others, indicating he wants the best shooting position for himself.",
+      "assessment": "This action suggests a desire to secure a personal advantage, showing a somewhat self-centered or competitive nature rather than generosity or inclusiveness.",
+      "rating": -1,
+      "chunk": 40
     },
     {
-      "Action": "Passively waits for a telephone call without showing initiative or improvisation regarding the delay.",
-      "Competence": -1,
-      "Chunk": 30
+      "trait": "warmth",
+      "action": "Does not allow Weissman to have the number four peg and seems to dislike witnesses.",
+      "assessment": "Refusing to share the best shooting position and disliking witnesses indicates a lack of trust and openness, which are negative indicators of warmth.",
+      "rating": -2,
+      "chunk": 40
     },
     {
-      "Action": "Distrusts and disdainfully dismisses the attempt by a younger guest to form camaraderie, showing social confidence and control over his environment.",
-      "Competence": 1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Organizes the shooting party by distributing guns and assigning numbers using a slotted pouch with ivory spills, carefully controlling the selection by keeping his finger on one number and ultimately choosing number four for himself.",
+      "assessment": "This action demonstrates Sir William's methodical and strategic approach to managing the shooting event, indicating a high level of organizational skill and control over the proceedings.",
+      "rating": 2,
+      "chunk": 40
     },
     {
-      "Action": "Decides to exclude Lord Rupert and Mr Blond from joining him, indicating social decisiveness and awareness of his own priorities.",
-      "Competence": 1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Insists on no witnesses during the shooting, as noted by Raymond's comment that he 'can’t stand witnesses.'",
+      "assessment": "This suggests a cautious and possibly secretive nature, which could be interpreted as a strategic move to maintain control and avoid scrutiny, reflecting competence in managing risks, though it may also hint at distrust or paranoia.",
+      "rating": 1,
+      "chunk": 40
     },
     {
-      "Action": "Passively accepts butler's service and moves conversation along without engaging much, showing a measured and controlled demeanor.",
-      "Competence": 1,
-      "Chunk": 31
+      "trait": "warmth",
+      "action": "Refuses to give Freddie a job despite Isobel's pleas and his earlier indication that he might.",
+      "assessment": "Sir William's refusal to help Freddie, even after Isobel's direct request and his prior suggestion to keep Freddie quiet with a job, shows a lack of empathy and unwillingness to support those close to him, indicating low warmth.",
+      "rating": -2,
+      "chunk": 41
     },
     {
-      "Action": "No direct actions or statements by Sir William McCordle are present in the excerpt to evaluate his competence.",
-      "Competence": 0,
-      "Chunk": 33
+      "trait": "warmth",
+      "action": "Engages in a hunting activity, firing repeatedly at birds with his loaders.",
+      "assessment": "While hunting itself is a neutral activity, the focus on shooting and the somewhat frustrated tone ('Damn!', 'Blast!') suggest a preoccupation with sport and control rather than social or warm interactions, reflecting a more detached or self-centered demeanor.",
+      "rating": 0,
+      "chunk": 41
     },
     {
-      "Action": "Is implied to run the house but Robert's opinion suggests it may not be well-run.",
-      "Competence": -1,
-      "Chunk": 34
+      "trait": "competence",
+      "action": "Ready with gun in hand and fires multiple shots during the drive, quickly changing guns with his loaders to maintain firing.",
+      "assessment": "This action shows Sir William's familiarity and skill with shooting, as well as his ability to coordinate with his loaders efficiently, indicating a competent and practiced marksman.",
+      "rating": 2,
+      "chunk": 41
     },
     {
-      "Action": "Engages in shooting with intensity and frustration, expressing dissatisfaction with his aim ('Damn!', 'Blast!')",
-      "Warmth": 0,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Expresses frustration verbally ('Damn!', 'Blast!') after missing shots.",
+      "assessment": "While his frustration is understandable, it suggests a momentary lapse in effectiveness or precision, slightly detracting from an image of flawless competence.",
+      "rating": -1,
+      "chunk": 41
     },
     {
-      "Action": "Lifts his gun, fires multiple shots, and switches guns efficiently during the hunting drive.",
-      "Competence": 1,
-      "Chunk": 41
+      "trait": "warmth",
+      "action": "After being slightly wounded, he calmly instructs Derwent to find Strutt and have the responsible gunner return to the house.",
+      "assessment": "Sir William shows a composed and authoritative demeanor, but his focus is on control and order rather than concern for others' wellbeing, indicating limited warmth.",
+      "rating": 0,
+      "chunk": 42
     },
     {
-      "Action": "Expresses frustration verbally (e.g., 'Damn!', 'Blast!') during shooting, suggesting some difficulty in successfully hitting targets.",
-      "Competence": 0,
-      "Chunk": 41
+      "trait": "warmth",
+      "action": "Despite being injured, he quickly recovers and resumes shooting with determination.",
+      "assessment": "This demonstrates resilience and commitment, but not necessarily warmth, as it reflects more on his personal toughness than on friendliness or sincerity.",
+      "rating": 0,
+      "chunk": 42
     },
     {
-      "Action": "After being wounded, he quickly assesses the situation, instructs to find Strutt to identify the responsible gunner, and readies himself to continue shooting.",
-      "Competence": 1,
-      "Chunk": 42
+      "trait": "competence",
+      "action": "After being grazed by a bullet near his ear, he quickly assesses the situation and commands Derwent to find Strutt to identify the shooter and have them return to the house.",
+      "assessment": "This action shows situational awareness, quick thinking, and leadership under pressure, indicating a competent and confident approach to managing a dangerous situation.",
+      "rating": 2,
+      "chunk": 42
     },
     {
-      "Action": "Expresses confusion about the origin of the wound, showing a momentary lapse in situational awareness.",
-      "Competence": 0,
-      "Chunk": 42
+      "trait": "competence",
+      "action": "Despite being wounded, he recovers with a sigh and immediately resumes firing at the attackers.",
+      "assessment": "This demonstrates resilience, focus, and determination, reflecting a capable and skilled response in a crisis.",
+      "rating": 2,
+      "chunk": 42
     },
     {
-      "Action": "After resuming shooting following injury, he exclaims 'Damn it!' which may indicate frustration or difficulty handling the situation.",
-      "Competence": 0,
-      "Chunk": 42
+      "trait": "competence",
+      "action": "Says 'Damn it!' after taking a shot while shooting.",
+      "assessment": "This moment of frustration suggests some emotional reaction that might slightly undermine his otherwise composed demeanor, but it does not significantly detract from his overall competence.",
+      "rating": 0,
+      "chunk": 42
     },
     {
-      "Action": "Refuses to reconsider a decision despite Anthony's emotional plea, stating 'business is business' and showing irritation.",
-      "Warmth": -1,
-      "Chunk": 46
+      "trait": "warmth",
+      "action": "Responds to Anthony's plea about the project with irritation and insists 'business is business' and 'I’m not a Charity Commissioner.'",
+      "assessment": "William's response shows a lack of empathy and prioritizes business over personal relationships, indicating low warmth.",
+      "rating": -2,
+      "chunk": 46
     },
     {
-      "Action": "Displays contained anger when glass breaks but does not lash out or escalate the situation.",
-      "Warmth": 0,
-      "Chunk": 46
+      "trait": "warmth",
+      "action": "Holds up his glass for more drink when irritated and looks about for help.",
+      "assessment": "Seeking a drink to cope with irritation suggests avoidance rather than addressing conflict warmly; this is a neutral to slightly negative indicator.",
+      "rating": -1,
+      "chunk": 46
     },
     {
-      "Action": "Looks about for help and signals for more drink, indicating reliance on others in a social setting.",
-      "Warmth": 0,
-      "Chunk": 46
+      "trait": "warmth",
+      "action": "Tells Anthony to 'just leave it' after the Bloody Mary is spilled on him.",
+      "assessment": "His anger is obvious but contained, and he does not escalate the situation further, which shows some restraint but little warmth or friendliness.",
+      "rating": 0,
+      "chunk": 46
     },
     {
-      "Action": "Directly states his decision despite knowing it will upset the project and others involved, showing assertiveness and clarity.",
-      "Competence": 1,
-      "Chunk": 46
+      "trait": "competence",
+      "action": "Holds up his glass for more drink when irritated and looking for support from George during a tense conversation with Anthony.",
+      "assessment": "This action shows a moment of irritation and a somewhat passive way of seeking support rather than directly addressing the conflict, suggesting a lack of assertive conflict management skills.",
+      "rating": -1,
+      "chunk": 46
     },
     {
-      "Action": "Looks around for help and signals for more drink while in an uncomfortable situation, suggesting some loss of control or reliance on external support.",
-      "Competence": -1,
-      "Chunk": 46
+      "trait": "competence",
+      "action": "Responds to Anthony's plea about the business project with a firm stance, emphasizing that business is business and not charity.",
+      "assessment": "This demonstrates a clear, confident, and pragmatic approach to business decisions, indicating a competent and decisive mindset in professional matters.",
+      "rating": 2,
+      "chunk": 46
     },
     {
-      "Action": "Maintains contained anger when confronted and lets servants handle the broken glass, showing self-control and delegation.",
-      "Competence": 1,
-      "Chunk": 46
+      "trait": "competence",
+      "action": "Keeps his anger obvious but contained after Anthony accidentally breaks a glass on him.",
+      "assessment": "Maintaining composure in a potentially provocative situation reflects emotional control and social tact, which are indicators of competence.",
+      "rating": 2,
+      "chunk": 46
     },
     {
-      "Action": "Loves shooting but is clumsy at it; enjoys a simple pleasure without pretense.",
-      "Warmth": 1,
-      "Chunk": 47
+      "trait": "warmth",
+      "action": "Loves shooting despite being bad at it, described as 'Sweet, really' by Elsie.",
+      "assessment": "Elsie's description suggests a certain endearing quality to Sir William's enthusiasm, indicating a mild warmth in his character through his genuine enjoyment of a hobby.",
+      "rating": 1,
+      "chunk": 47
     },
     {
-      "Action": "Implied possible impropriety with a kitchen maid, causing gossip and doubt.",
-      "Warmth": -1,
-      "Chunk": 47
+      "trait": "warmth",
+      "action": "Possibly caught in a compromising situation with a kitchen maid, as suspected by Mary.",
+      "assessment": "If true, this behavior could indicate a lack of sincerity and respect, especially given his social position, which negatively impacts perceptions of his warmth.",
+      "rating": -2,
+      "chunk": 47
     },
     {
-      "Action": "Is the subject of joking and disbelief about his romantic choices, indicating a lack of respect or serious warmth from others.",
-      "Warmth": 0,
-      "Chunk": 47
+      "trait": "warmth",
+      "action": "Lady Sylvia and Lady Stockbridge 'cut cards' for him, implying he was treated as an object of competition.",
+      "assessment": "This suggests Sir William may be viewed more as a prize or possession rather than a warm, personable individual, reflecting a lack of genuine connection or warmth in his relationships.",
+      "rating": -1,
+      "chunk": 47
     },
     {
-      "Action": "Loves shooting but is unable to hit a barn door.",
-      "Competence": -1,
-      "Chunk": 47
+      "trait": "warmth",
+      "action": "Storms out of the dining room after Elsie, a servant, speaks familiarly to him and calls him 'Bill'.",
+      "assessment": "His reaction to Elsie's breach of social protocol is severe and unforgiving, showing little tolerance or friendliness toward a subordinate's attempt at familiarity.",
+      "rating": -2,
+      "chunk": 51
     },
     {
-      "Action": "Engages in an affair with a kitchen maid, showing poor discretion.",
-      "Competence": -1,
-      "Chunk": 47
+      "trait": "competence",
+      "action": "Throws down his napkin and storms out after Elsie calls him 'Billi' and speaks inappropriately at the family table.",
+      "assessment": "This reaction shows a lack of emotional control and poor interpersonal skills, especially in managing social situations and maintaining authority calmly. It suggests impulsiveness rather than confident leadership.",
+      "rating": -2,
+      "chunk": 51
     },
     {
-      "Action": "Sulks and exudes a terrible atmosphere during dinner, showing displeasure.",
-      "Warmth": -1,
-      "Chunk": 50
+      "trait": "competence",
+      "action": "Maintains a strong presence at the family table, commanding silence and attention after Elsie's breach of protocol.",
+      "assessment": "This indicates that he holds a position of authority and that others respect or fear him enough to respond immediately to his displeasure, reflecting some level of social competence and control.",
+      "rating": 1,
+      "chunk": 51
     },
     {
-      "Action": "Holds a subdued, acknowledging glance with Louisa, quietly connecting.",
-      "Warmth": 1,
-      "Chunk": 50
+      "trait": "warmth",
+      "action": "Responds to Mrs Wilson bringing coffee with impatience and knocks the tray out of her hand.",
+      "assessment": "This action shows a lack of consideration and kindness toward Mrs Wilson, indicating low warmth.",
+      "rating": -3,
+      "chunk": 54
     },
     {
-      "Action": "Sulked silently during a tense social situation, showing subdued demeanor rather than attempting to improve the atmosphere.",
-      "Competence": -1,
-      "Chunk": 50
+      "trait": "warmth",
+      "action": "Demands whisky instead of coffee and ignores Mrs Wilson as she serves it.",
+      "assessment": "His dismissive and commanding behavior reflects poor tolerance and friendliness, further indicating low warmth.",
+      "rating": -3,
+      "chunk": 54
     },
     {
-      "Action": "Held a meaningful glance with Louisa, indicating awareness and engagement despite his mood.",
-      "Competence": 0,
-      "Chunk": 50
+      "trait": "competence",
+      "action": "Impatiently knocks the tray of coffee out of Mrs Wilson's hand and demands whisky instead.",
+      "assessment": "This action shows a lack of patience and poor interpersonal skills, indicating a somewhat impulsive and domineering attitude rather than calm, confident competence.",
+      "rating": -1,
+      "chunk": 54
     },
     {
-      "Action": "Throws down his napkin and storms out when Elsie calls him 'Bill' and speaks familiarly.",
-      "Warmth": -1,
-      "Chunk": 51
+      "trait": "competence",
+      "action": "Files a metal part with angry passion and finesse.",
+      "assessment": "This suggests he has skill and focus in his hobby, demonstrating capability and control in a technical task, which is a positive indicator of competence.",
+      "rating": 2,
+      "chunk": 54
     },
     {
-      "Action": "Throws down his napkin and storms out after a domestic servant breaches a strict social rule.",
-      "Competence": -1,
-      "Chunk": 51
+      "trait": "warmth",
+      "action": "Is found alone in the library, intensely focused on his hobby, holding a gun part still, with an empty glass tipped over nearby.",
+      "assessment": "This scene shows Sir William in a solitary, absorbed state, with no direct interaction or warmth displayed toward others; his focus on his hobby and isolation suggest a lack of social warmth in this moment.",
+      "rating": 0,
+      "chunk": 56
     },
     {
-      "Action": "Knocks Mrs Wilson's coffee tray impatiently and demands whisky instead.",
-      "Warmth": -1,
-      "Chunk": 54
+      "trait": "warmth",
+      "action": "Is silently murdered by an unknown assailant while alone in the library.",
+      "assessment": "While this action is not performed by Sir William himself, the lack of any defensive or social behavior prior to the attack may imply vulnerability or detachment rather than warmth or trustworthiness.",
+      "rating": 0,
+      "chunk": 56
     },
     {
-      "Action": "Impatiently knocks the tray out of Mrs Wilson's hand when she brings coffee he did not request, demands whisky instead, showing control of the situation albeit brusque.",
-      "Competence": 1,
-      "Chunk": 54
+      "trait": "competence",
+      "action": "Is found in the library in a fiercely concentrated position, holding part of a gun quite still, apparently engaged in his hobby.",
+      "assessment": "This suggests that Sir William is capable of focused, skilled behavior related to his interests, indicating a degree of competence and confidence in his hobby.",
+      "rating": 2,
+      "chunk": 56
     },
     {
-      "Action": "Displays rude impatience and dismissiveness to Mrs Wilson, failing to communicate needs politely which could undermine effective interaction.",
-      "Competence": -1,
-      "Chunk": 54
+      "trait": "competence",
+      "action": "Is silently assassinated by an intruder who enters through a secret door and stabs him in the heart without any apparent resistance or warning.",
+      "assessment": "This indicates a significant lapse in situational awareness and personal security, reflecting poorly on his competence in protecting himself or anticipating danger.",
+      "rating": -3,
+      "chunk": 56
     },
     {
-      "Action": "His condition requires emergency police and medical attention, but he remains passive and unresponsive, demonstrating no active control over the situation.",
-      "Competence": -1,
-      "Chunk": 59
+      "trait": "competence",
+      "action": "Is found dead slumped over his work table with eyes open and tongue lolling out.",
+      "assessment": "The excerpt does not provide any direct evidence of Sir William's competence through his actions or statements; rather, it shows his death, which is a non-action that prevents further demonstration of competence. This omission of any active behavior in this scene neither supports nor detracts from his competence.",
+      "rating": 0,
+      "chunk": 57
     },
     {
-      "Action": "Is referred to as being right about his wife, implying insight into his relationship.",
-      "Warmth": 0,
-      "Chunk": 63
+      "trait": "warmth",
+      "action": "Was stabbed and poisoned, with no direct action shown in this excerpt.",
+      "assessment": "No direct actions or statements from Sir William McCordle are present in this excerpt to assess warmth. The discussion revolves around his death and circumstances, with no indication of his behavior or character traits.",
+      "rating": 0,
+      "chunk": 71
     },
     {
-      "Action": "His body is shown with a knife in his chest, no indication of warmth or coldness from his actions in text.",
-      "Warmth": 0,
-      "Chunk": 63
+      "trait": "competence",
+      "action": "Was stabbed but actually died from poison, indicating he was already incapacitated when stabbed.",
+      "assessment": "This suggests that Sir William was vulnerable to being poisoned without realizing it, which may indicate a lack of vigilance or awareness about threats to his safety.",
+      "rating": -1,
+      "chunk": 71
     },
     {
-      "Action": "Was right about his wife’s nature, indicating an understanding of personal relationships.",
-      "Competence": 1,
-      "Chunk": 63
+      "trait": "competence",
+      "action": "Surprised an intruder in the library, leading to his stabbing.",
+      "assessment": "This shows some alertness and presence of mind to confront an intruder, indicating a degree of situational awareness and courage, though ultimately it was not enough to prevent his death.",
+      "rating": 1,
+      "chunk": 71
     },
     {
-      "Action": "Obtain and keep a knife handy, suggesting some forethought about security or self-protection.",
-      "Competence": 1,
-      "Chunk": 65
+      "trait": "warmth",
+      "action": "Made a few enemies in his time, including potentially mistreating female factory workers and arranging adoptions if complaints arose.",
+      "assessment": "This suggests a lack of genuine care or tolerance toward his workers, indicating a harsh or authoritarian nature rather than warmth.",
+      "rating": -2,
+      "chunk": 72
     },
     {
-      "Action": "Forgetting or failing to bring important items (e.g., a knife from the silver pantry) despite their importance.",
-      "Competence": -1,
-      "Chunk": 65
+      "trait": "competence",
+      "action": "Made and managed four factories, two in Isleworth and two in Twickenham, employing many workers.",
+      "assessment": "This indicates a significant level of business acumen and organizational skill, suggesting competence in managing complex operations.",
+      "rating": 2,
+      "chunk": 72
     },
     {
-      "Action": "Surprises an intruder who breaks into the library, indicating vigilance and awareness of his surroundings.",
-      "Competence": 1,
-      "Chunk": 71
+      "trait": "competence",
+      "action": "Created enemies through his business practices and personal behavior.",
+      "assessment": "While this shows he was effective in exerting power, it also suggests a lack of diplomatic skill or emotional intelligence, which can be seen as a negative aspect of competence.",
+      "rating": -1,
+      "chunk": 72
     },
     {
-      "Action": "Is poisoned despite his apparent precautions, suggesting possible failure to anticipate or prevent threats.",
-      "Competence": -1,
-      "Chunk": 71
+      "trait": "competence",
+      "action": "Arranged adoptions to cover up potential scandals involving factory girls.",
+      "assessment": "This demonstrates a capacity for strategic thinking and damage control, indicating a pragmatic and capable approach to managing risks.",
+      "rating": 1,
+      "chunk": 72
     },
     {
-      "Action": "Mentioned to have had interactions about changing his will and noticing personal details, indicating some attentiveness.",
-      "Competence": 0,
-      "Chunk": 71
+      "trait": "warmth",
+      "action": "He used to tell Elsie she could be anything she wanted if she wanted it enough, encouraging her to seize the day.",
+      "assessment": "This shows a supportive and encouraging side, indicating a degree of warmth in motivating Elsie to improve her life and believe in herself.",
+      "rating": 2,
+      "chunk": 87
     },
     {
-      "Action": "Had a reputation for making enemies due to his treatment of female factory workers; arranged adoptions for unplanned children, implying a lack of personal warmth or responsibility.",
-      "Warmth": -1,
-      "Chunk": 72
+      "trait": "warmth",
+      "action": "Elsie says he only talked to her because he was sick of 'her' (presumably his wife), but she liked the way he talked to her.",
+      "assessment": "This suggests that his attention to Elsie was more about his own dissatisfaction than genuine warmth or affection, indicating a more self-centered or utilitarian approach rather than sincere friendliness.",
+      "rating": -1,
+      "chunk": 87
     },
     {
-      "Action": "His behavior caused fear or resentment among employees, as implied by mistrust and negative remarks about him.",
-      "Warmth": -1,
-      "Chunk": 72
+      "trait": "warmth",
+      "action": "Elsie describes their relationship as 'a bit of fun' and that she did not love him.",
+      "assessment": "This implies that Sir William's interactions with Elsie were casual and possibly superficial, lacking deeper emotional connection or sincerity, which lowers the warmth assessment.",
+      "rating": -1,
+      "chunk": 87
     },
     {
-      "Action": "Used kind words to encourage Elsie to believe in herself and pursue her ambitions despite social differences.",
-      "Competence": 1,
-      "Chunk": 87
+      "trait": "warmth",
+      "action": "Is revealed posthumously to have abandoned his illegitimate son Robert, who grew up in an orphanage unaware of his true parentage.",
+      "assessment": "This abandonment and lack of acknowledgment suggest a cold and untrustworthy nature, lacking in tolerance or sincerity toward his own family.",
+      "rating": -3,
+      "chunk": 88
     },
     {
-      "Action": "Appeared emotionally complicated and uninterested in deeper connections, treating Elsie as 'a bit of fun' rather than serious partner.",
-      "Competence": 0,
-      "Chunk": 87
+      "trait": "warmth",
+      "action": "Brought baby Robert to the orphanage door but did not claim or care for him afterward.",
+      "assessment": "This act shows a minimal gesture of responsibility but ultimately reflects emotional detachment and failure to provide care or warmth.",
+      "rating": -2,
+      "chunk": 88
     },
     {
-      "Action": "Was unaware of his own son Robert, who grew up in an orphanage and resented him.",
-      "Warmth": -1,
-      "Chunk": 88
+      "trait": "competence",
+      "action": "Maintains silence and does not respond when Mary questions him about disliking him or killing him.",
+      "assessment": "His silence in a tense situation could indicate a controlled, reserved demeanor, possibly reflecting confidence or an attempt to maintain composure, but it also suggests a lack of direct engagement or assertiveness.",
+      "rating": 0,
+      "chunk": 88
     },
     {
-      "Action": "Brought Robert, a two-day-old baby, to the orphanage door and left him there.",
-      "Warmth": -1,
-      "Chunk": 88
-    },
-    {
-      "Action": "Loved Gosford, enjoyed spending time on his estate and engaging in traditional country pursuits.",
-      "Warmth": 1,
-      "Chunk": 95
-    },
-    {
-      "Action": "Funds described as 'ill-gotten gains' by Sylvia, implying questionable ethics.",
-      "Warmth": -1,
-      "Chunk": 95
-    },
-    {
-      "Action": "Loved his estate, enjoyed managing his guns and walking his land.",
-      "Competence": 1,
-      "Chunk": 95
-    },
-    {
-      "Action": "Engaged in ill-gotten gains to acquire his estate.",
-      "Competence": -1,
-      "Chunk": 95
-    },
-    {
-      "Action": "Referred to as having 'ill-gotten gains,' implying dishonest or unscrupulous methods in acquiring wealth.",
-      "Competence": 0,
-      "Chunk": 96
-    },
-    {
-      "Action": "Induces complicated management situations involving household staff and relationships, suggesting a lack of direct control or effective oversight.",
-      "Competence": -1,
-      "Chunk": 96
+      "trait": "competence",
+      "action": "Is revealed to have abandoned Robert as a baby and kept this secret.",
+      "assessment": "This omission and secretive behavior suggest a lack of responsibility and transparency, which negatively impacts perceptions of his competence in personal and moral terms.",
+      "rating": -2,
+      "chunk": 88
     }
   ]
 }

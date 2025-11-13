@@ -1,1324 +1,2895 @@
 {
   "Jack Carter": [
     {
-      "Action": "Looks at Anna momentarily, indicating a connection between them.",
-      "Warmth": 1,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Jack and Anna look at each other momentarily. There is definitely something between them.",
+      "assessment": "The moment suggests a potential personal connection or warmth between Jack and Anna, indicating some capacity for interpersonal warmth.",
+      "rating": 1,
+      "chunk": 2
     },
     {
-      "Action": "Responds bluntly 'No.' to Gerald’s suggestion not to go north.",
-      "Warmth": 0,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Jack insists on going north to find out what happened despite warnings from Gerald and Sid.",
+      "assessment": "Jack's determination to pursue the truth shows a strong personal resolve but also a disregard for others' concerns, which may reflect a lack of consideration or warmth.",
+      "rating": -1,
+      "chunk": 2
     },
     {
-      "Action": "Determined to find out what happened despite warnings.",
-      "Warmth": 0,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Jack responds to Sid's comment that 'the law was satisfied' with 'Since when was that good enough?'",
+      "assessment": "This response suggests Jack's personal sense of justice and possibly a deeper concern beyond formalities, which can be seen as a sign of sincerity and moral engagement.",
+      "rating": 2,
+      "chunk": 2
     },
     {
-      "Action": "Dismissive of others' concerns and warnings ('Too bad').",
-      "Warmth": -1,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Jack reads a Raymond Chandler paperback alone in the train compartment.",
+      "assessment": "This action is neutral with respect to warmth; it shows introspection or detachment but no clear indication of warmth or coldness.",
+      "rating": 0,
+      "chunk": 2
     },
     {
-      "Action": "Questions the adequacy of the law being satisfied ('Since when was that good enough?').",
-      "Warmth": 1,
-      "Chunk": 2
+      "trait": "competence",
+      "action": "Responds to warnings about dangerous territory with a firm 'No' and 'Too bad.'",
+      "assessment": "Jack's refusal to be deterred by warnings about the risks involved shows confidence and determination, indicating a competent and resolute mindset.",
+      "rating": 2,
+      "chunk": 2
     },
     {
-      "Action": "Insists on pursuing his own course despite warnings and threats from others (e.g., 'No.', 'Too bad.').",
-      "Competence": 1,
-      "Chunk": 2
+      "trait": "competence",
+      "action": "States 'To find out what happened' when asked about his objective.",
+      "assessment": "This clear and focused goal demonstrates purposeful intent and a methodical approach, reflecting competence in his investigative role.",
+      "rating": 2,
+      "chunk": 2
     },
     {
-      "Action": "Shows determination to find out what happened, demonstrating focus and purpose.",
-      "Competence": 1,
-      "Chunk": 2
+      "trait": "competence",
+      "action": "Reads a Raymond Chandler paperback, Farewell My Lovely, on the train.",
+      "assessment": "Engaging with detective fiction suggests intellectual curiosity and possibly a reflective nature, which can contribute to his competence in understanding crime and human behavior.",
+      "rating": 1,
+      "chunk": 2
     },
     {
-      "Action": "Responds calmly to warnings and intimidation, showing confidence and resolve.",
-      "Competence": 1,
-      "Chunk": 2
+      "trait": "competence",
+      "action": "Steadies himself while moving along the train corridor.",
+      "assessment": "This small detail indicates physical control and awareness of his environment, subtle but positive indicators of competence.",
+      "rating": 1,
+      "chunk": 2
     },
     {
-      "Action": "Demonstrates a habitual or ritualistic behavior (drops in nose), possibly indicating preparation or attention to detail.",
-      "Competence": 1,
-      "Chunk": 2
+      "trait": "competence",
+      "action": "Dispenses drops into his nose in the train toilet.",
+      "assessment": "This action shows self-care and preparedness, suggesting he manages his physical condition to maintain effectiveness.",
+      "rating": 1,
+      "chunk": 2
     },
     {
-      "Action": "Shows defiance of authority or advice that could be seen as reckless or ignoring potential risks.",
-      "Competence": 0,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Snaps his fingers at the barman to get a thin glass for his beer instead of the usual mug.",
+      "assessment": "This action shows impatience and a lack of consideration for the barman, indicating low warmth.",
+      "rating": -2,
+      "chunk": 3
     },
     {
-      "Action": "Snaps fingers at the barman impatiently demanding a thin glass for his beer.",
-      "Warmth": -1,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "Answers the phone and immediately asks about Margaret, Doreen, and when he can see them.",
+      "assessment": "His concern about family or close relations suggests some degree of care and connection, a mild positive indicator of warmth.",
+      "rating": 1,
+      "chunk": 3
     },
     {
-      "Action": "Has a tense phone conversation, pressing Margaret about family matters in a direct, possibly demanding way.",
-      "Warmth": -1,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "Lights a cigarette while talking on the phone and uses a harsh tone ('Why the hell aren't you here?').",
+      "assessment": "The harsh language and tone imply frustration and possibly anger, which detracts from warmth.",
+      "rating": -2,
+      "chunk": 3
     },
     {
-      "Action": "Confidently requests a pint of bitter in a thin glass, asserting preference despite barman's reluctance.",
-      "Competence": 1,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Swallows a pill from a small phial while on the train.",
+      "assessment": "This suggests Carter is prepared and possibly managing a condition or maintaining alertness, indicating forethought and self-care.",
+      "rating": 1,
+      "chunk": 3
     },
     {
-      "Action": "Immediately responds to a phone call with purposeful, pointed questions regarding people and timing.",
-      "Competence": 1,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Pauses and looks about before crossing the street after exiting the train.",
+      "assessment": "This shows situational awareness and caution, traits of a competent and careful individual.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Swallows pills calmly and prepares himself on the train, indicating readiness for forthcoming action.",
-      "Competence": 1,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Snaps his fingers at the barman to get a thin glass instead of a mug.",
+      "assessment": "This demonstrates confidence and assertiveness, though it may also suggest impatience or brusqueness; nonetheless, it shows he knows what he wants and how to get it.",
+      "rating": 1,
+      "chunk": 3
     },
     {
-      "Action": "Pauses and looks about upon exiting the station before moving forward, demonstrating situational awareness.",
-      "Competence": 1,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Answers the phone calmly and questions Margaret about the situation.",
+      "assessment": "His questioning is direct and purposeful, indicating he is in control and focused on gathering information, reflecting competence in managing interpersonal communication under pressure.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Gently touches his dead brother's crossed hands and folds the shroud over his face before leaving the room and turning off the light.",
-      "Warmth": 1,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "Hangs up abruptly when the line goes dead.",
+      "assessment": "This could indicate frustration or impatience, but also a pragmatic acceptance of the situation; not wasting time on a dead line suggests practical competence.",
+      "rating": 1,
+      "chunk": 3
     },
     {
-      "Action": "Watches the landlady appreciatively from behind but provides a vague response about staying with a friend, avoiding direct interaction.",
-      "Warmth": 0,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "Gently touches his brother Frank's crossed hands and folds the shroud over his face at the funeral.",
+      "assessment": "This action shows a tender, respectful, and sincere moment of care and affection toward his deceased brother, indicating warmth.",
+      "rating": 3,
+      "chunk": 4
     },
     {
-      "Action": "Moves cautiously while surveying the surroundings, showing awareness and patience.",
-      "Competence": 1,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "Watches the landlady Edna appreciatively from behind as she climbs the stairs.",
+      "assessment": "While the appreciation may indicate some friendliness or interest, it is more observational and does not necessarily reflect warmth in terms of trustworthiness or sincerity.",
+      "rating": 1,
+      "chunk": 4
     },
     {
-      "Action": "Notices two men watching him and anticipates their reaction as they quickly drive off.",
-      "Competence": 1,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "Moves cautiously and scans the dilapidated house, recalling memories of growing up with Frank.",
+      "assessment": "This behavior shows a reflective and possibly nostalgic side, but it is neutral regarding warmth as it is more about internal processing than interaction with others.",
+      "rating": 0,
+      "chunk": 4
     },
     {
-      "Action": "Recalls memories by handling the shotgun and cartridges, indicating familiarity and preparedness.",
-      "Competence": 1,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "Moves cautiously and scans the environment carefully upon entering Frank Carter's house.",
+      "assessment": "This behavior shows situational awareness and a methodical approach, indicating competent and careful behavior.",
+      "rating": 2,
+      "chunk": 4
     },
     {
-      "Action": "Gently handles his deceased brother's body with care and respect before leaving, demonstrating emotional control.",
-      "Competence": 1,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "Notices two men in a Land Rover looking up at the house and observes their reaction as they quickly drive off.",
+      "assessment": "This shows alertness and the ability to read potentially hostile or suspicious behavior, reflecting competence in threat assessment.",
+      "rating": 2,
+      "chunk": 4
     },
     {
-      "Action": "Follows the landlady with his baggage and chooses not to use the room, implying a strategy though not explicitly explained here.",
-      "Competence": 0,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "Retrieves an old shotgun and box of cartridges from the wardrobe, recalling memories associated with them.",
+      "assessment": "This action suggests preparedness and a connection to his past that may inform his current capabilities, indicating practical competence.",
+      "rating": 1,
+      "chunk": 4
     },
     {
-      "Action": "Pays promptly for the room despite being told it's not necessary, showing confidence and control in social interactions.",
-      "Competence": 1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Gently touches his dead brother's hands and folds the shroud over his face before leaving.",
+      "assessment": "This shows emotional control and respect, but does not directly indicate competence in a practical or skillful sense.",
+      "rating": 0,
+      "chunk": 4
     },
     {
-      "Action": "Maintains composure and a deadpan exchange with Edna, indicating social skill and emotional control.",
-      "Competence": 1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Tells the landlady he won't be using the room and that he is staying with a friend, without elaborating.",
+      "assessment": "This suggests discretion and possibly strategic withholding of information, which can be a sign of competence in managing social interactions.",
+      "rating": 1,
+      "chunk": 4
     },
     {
-      "Action": "Moves purposefully around the coffin while shaving and watches undertakers calmly, suggesting mental focus and steadiness under unusual circumstances.",
-      "Competence": 1,
-      "Chunk": 5
+      "trait": "warmth",
+      "action": "Smiles and says 'It's not like that, luv.' to Edna.",
+      "assessment": "Carter's smile and informal address suggest a casual, somewhat friendly demeanor, though the phrase is ambiguous and may mask true feelings.",
+      "rating": 1,
+      "chunk": 5
     },
     {
-      "Action": "Does not explicitly take any action to express grief or shock upon his brother's death; instead, his behavior is dry and businesslike.",
-      "Competence": 0,
-      "Chunk": 5
+      "trait": "warmth",
+      "action": "Pays Edna for the room despite her reluctance.",
+      "assessment": "Paying Edna promptly and insisting on paying shows a sense of fairness and respect, indicating some degree of trustworthiness and sincerity.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Expresses sympathy to Doreen about her father’s death.",
-      "Warmth": 1,
-      "Chunk": 6
+      "trait": "warmth",
+      "action": "Makes a lighthearted comment about the mattress having 'seen some action' and shares a direct look with Edna.",
+      "assessment": "This teasing remark and eye contact suggest a playful, friendly interaction, indicating warmth and a capacity for light social connection.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Engages Doreen in gentle conversation despite her awkwardness and silence.",
-      "Warmth": 1,
-      "Chunk": 6
+      "trait": "warmth",
+      "action": "Moves around the coffin and shaves while watching the undertakers work.",
+      "assessment": "This behavior shows a matter-of-fact, perhaps emotionally detached attitude toward his brother's death, indicating limited warmth or emotional openness in this moment.",
+      "rating": -1,
+      "chunk": 5
     },
     {
-      "Action": "Invites Doreen to live with him and his fiancée in South America, suggesting care and inclusion.",
-      "Warmth": 1,
-      "Chunk": 6
+      "trait": "warmth",
+      "action": "Asks the undertaker 'Was he in bad shape?'",
+      "assessment": "The question shows some concern about his brother's condition, suggesting a degree of care and sincerity.",
+      "rating": 1,
+      "chunk": 5
     },
     {
-      "Action": "Shows slight indignation when Doreen refuses the invitation, but does not pressure her further.",
-      "Warmth": 0,
-      "Chunk": 6
+      "trait": "competence",
+      "action": "Offers to pay Edna for the room despite her reluctance.",
+      "assessment": "This shows Carter's confidence and straightforwardness in handling transactions, indicating a practical and capable approach to situations.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Engages calmly and thoughtfully with Doreen, asking questions to understand her situation and feelings.",
-      "Competence": 1,
-      "Chunk": 6
+      "trait": "competence",
+      "action": "Smiles and maintains eye contact with Edna when making a suggestive comment about the mattress.",
+      "assessment": "This demonstrates Carter's social confidence and control over interpersonal dynamics, suggesting skill in reading and influencing others.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Tries to persuade Doreen to come live with him and his fiancée in South America, showing confidence and initiative.",
-      "Competence": 1,
-      "Chunk": 6
+      "trait": "competence",
+      "action": "Moves around the coffin while shaving and watches the undertakers calmly.",
+      "assessment": "His calmness in the presence of his dead brother's coffin indicates emotional control and mental composure, traits associated with competence in stressful situations.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Converses awkwardly and somewhat indifferently, possibly missing an emotional connection with Doreen.",
-      "Competence": 0,
-      "Chunk": 6
+      "trait": "competence",
+      "action": "Asks the undertaker if his brother was in bad shape.",
+      "assessment": "This shows Carter's attention to detail and desire for information, reflecting an intelligent and inquisitive mindset.",
+      "rating": 1,
+      "chunk": 5
     },
     {
-      "Action": "Acknowledges the attendance of others at the funeral with a brief, polite comment ('Nice of you to come').",
-      "Warmth": 0,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Says 'Sorry about your father' to Doreen.",
+      "assessment": "Expressing sympathy shows a basic level of concern and acknowledges Doreen's loss, indicating some warmth.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Listens attentively to Keith when he expresses surprise and concern about Frank not showing up to work.",
-      "Warmth": 1,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Asks Doreen about the police and her situation.",
+      "assessment": "His questions show an attempt to understand her circumstances, reflecting a degree of attentiveness and care.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Echoes Eddie's somber reflection on Frank's behavior quietly and empathetically.",
-      "Warmth": 1,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Asks Doreen about school and work.",
+      "assessment": "Engaging in conversation about her life suggests a genuine interest in her wellbeing.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Acknowledges and politely greets people attending the funeral; engages in conversation to learn more about his brother's recent behavior.",
-      "Competence": 1,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Invites Doreen to come to South America with him and his fiancée, saying 'Your dad would have wanted it.'",
+      "assessment": "This invitation is an attempt to offer support and a new start, showing warmth and inclusiveness, though it may come across as slightly presumptive.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Shows attentiveness to information about his brother’s sudden absence from work and death.",
-      "Competence": 1,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Continues to press Doreen about her living arrangements despite her nervousness and reluctance.",
+      "assessment": "Persisting in questioning when Doreen is uncomfortable could be seen as insensitive or lacking in warmth.",
+      "rating": -1,
+      "chunk": 6
     },
     {
-      "Action": "Does not reveal any immediate plan or reaction upon hearing surprising information about his brother.",
-      "Competence": 0,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Engages Doreen in conversation about her situation and tries to offer her an alternative future by inviting her to South America with him and his fiancée.",
+      "assessment": "This shows Carter's social awareness and attempts to take control of a difficult emotional situation, indicating emotional intelligence and a proactive approach.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Acknowledges Margaret's presence quietly at the funeral, speaks to her calmly despite tension.",
-      "Warmth": 1,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Observes the scene carefully, noting the presence of two men who inspect the area and then leave.",
+      "assessment": "This suggests Carter's vigilance and situational awareness, important traits for someone operating in a dangerous environment.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Shows interest in understanding Margaret's relationship with Doreen rather than confronting aggressively.",
-      "Warmth": 1,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Shows some awkwardness and slight uncertainty in his interaction with Doreen, as evidenced by the awkward silence and his slightly indignant tone.",
+      "assessment": "While Carter is generally confident, this moment reveals a slight discomfort in handling sensitive emotional conversations, indicating a minor gap in interpersonal skills.",
+      "rating": -1,
+      "chunk": 6
     },
     {
-      "Action": "Presses Margaret about Doreen's involvement without hostility, indicating measured concern.",
-      "Warmth": 1,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Says 'Nice of you to come' to Eddie and Keith who came to the funeral.",
+      "assessment": "Acknowledging the presence of others at a funeral is a polite and somewhat warm gesture, showing appreciation for their attendance.",
+      "rating": 1,
+      "chunk": 7
     },
     {
-      "Action": "Observes attentively at the crematorium, quickly notices Margaret entering, and initiates a conversation with her.",
-      "Competence": 1,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Listens quietly and attentively when Eddie and Keith talk about Frank.",
+      "assessment": "Carter's attentiveness to others' memories of his brother suggests a respectful and sincere demeanor, indicating moderate warmth.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Questions Margaret assertively about Doreen, indicating focus and probing for information.",
-      "Competence": 1,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Responds with 'Yeah. A bloody funny thing!' to Eddie's reflection on Frank's calmness and sudden action.",
+      "assessment": "His quiet agreement shows empathy and shared understanding, reflecting a genuine connection and warmth.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Engages Margaret quietly and privately despite the presence of others, maintaining control over the interaction.",
-      "Competence": 1,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Carter listens attentively when Keith mentions Frank's absence from work and asks follow-up questions about Frank's employment.",
+      "assessment": "This shows Carter's ability to gather information carefully and engage with others to understand the situation better, indicating a competent and attentive approach.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Appears puzzled momentarily at Margaret's denial, suggesting some confusion or gap in understanding.",
-      "Competence": 0,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Carter remains quiet and reflective when Eddie comments on Frank's calm demeanor and unexpected actions.",
+      "assessment": "His quiet agreement suggests emotional control and thoughtful processing rather than impulsive reaction, which is a sign of competence in managing complex emotional situations.",
+      "rating": 1,
+      "chunk": 7
     },
     {
-      "Action": "Catches hold of Margaret's arm and insists on talking to her about Frank's death, looking her in the eye.",
-      "Warmth": 0,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Whispers to Doreen to identify Margaret during the funeral.",
+      "assessment": "Carter quietly shares information with Doreen, indicating a considerate and inclusive behavior in a solemn setting.",
+      "rating": 1,
+      "chunk": 8
     },
     {
-      "Action": "Remains sober while others drink heavily, showing self-control and steadiness.",
-      "Warmth": 0,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Approaches Margaret after the funeral and initiates a conversation despite the tension.",
+      "assessment": "Carter shows a willingness to engage and communicate, which can be seen as an attempt to resolve or understand issues, reflecting some degree of sincerity and openness.",
+      "rating": 1,
+      "chunk": 8
     },
     {
-      "Action": "Catches up with Margaret, insists on getting information, arranges a meeting despite her attempts to evade him.",
-      "Competence": 1,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Expresses interest in talking about Doreen with Margaret.",
+      "assessment": "Carter's focus on Doreen suggests concern for someone close to him, indicating protective or caring tendencies, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Remains stone-cold sober while others drink, maintaining clarity and control.",
-      "Competence": 1,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Maintains a puzzled tone when Margaret denies connection to Doreen.",
+      "assessment": "Carter's puzzled reaction shows he is trying to understand Margaret's perspective rather than reacting with hostility, suggesting tolerance and patience.",
+      "rating": 1,
+      "chunk": 8
     },
     {
-      "Action": "Lets Margaret walk off after arranging a meeting without pressing harder or taking more direct action.",
-      "Competence": 0,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Notices Margaret entering the crematorium and quietly confirms her identity with Doreen.",
+      "assessment": "This shows Carter's observational skills and situational awareness, indicating attentiveness and control in a sensitive setting.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Restrains Keith from following the upset Doreen, saying 'Let her go. She'll be OK.'",
-      "Warmth": 1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Approaches Margaret directly and initiates a conversation despite the tense atmosphere.",
+      "assessment": "This demonstrates confidence and social skill, as Carter is able to engage a potentially hostile or evasive person calmly and purposefully.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Offers an apology to Eddie after Doreen throws her drink in his face.",
-      "Warmth": 1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Focuses the conversation on Doreen, pressing Margaret for information.",
+      "assessment": "This indicates strategic thinking and a clear objective, showing Carter's ability to steer interactions toward his goals.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Offers to pay Eddie for cleaning his suit as a kind gesture.",
-      "Warmth": 1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Shows puzzlement when Margaret denies involvement with Doreen, but does not escalate or lose composure.",
+      "assessment": "Maintaining composure in the face of unexpected or evasive responses suggests emotional control and patience, important aspects of competence.",
+      "rating": 1,
+      "chunk": 8
     },
     {
-      "Action": "Calms Keith down, questions inconsistencies about Frank's death quietly and with insight.",
-      "Competence": 1,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Catches hold of Margaret's arm and looks her in the eye, insisting on talking about Frank's death.",
+      "assessment": "Carter's physical intervention and direct eye contact show a forceful but sincere attempt to get to the truth, indicating a serious and determined nature rather than warmth or friendliness.",
+      "rating": -1,
+      "chunk": 9
     },
     {
-      "Action": "Restrains Keith from following upset Doreen, showing control and emotional intelligence.",
-      "Competence": 1,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Invites Margaret to talk later and negotiates a meeting time despite her reluctance.",
+      "assessment": "Persisting in communication with Margaret despite her evasiveness shows some degree of patience and willingness to engage, but the interaction remains tense and lacks genuine warmth or trust.",
+      "rating": 0,
+      "chunk": 9
     },
     {
-      "Action": "Offers Eddie money to clean his suit to smooth over tension, demonstrating social tact and resourcefulness.",
-      "Competence": 1,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Sits stone-cold sober while others drink and become upset.",
+      "assessment": "Carter's sobriety amidst others' drinking could suggest self-control and steadiness, but also emotional distance and lack of shared camaraderie or warmth in the social setting.",
+      "rating": 0,
+      "chunk": 9
     },
     {
-      "Action": "Does not immediately intervene when Doreen lashes out, allowing emotions to run their course.",
-      "Competence": 0,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Catches hold of Margaret's arm and stops her when she tries to walk away.",
+      "assessment": "This shows Carter's assertiveness and ability to physically control a situation to get information, indicating confidence and decisiveness.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Smiles when recalling a shared school past with Albert Swift, calls him leader of their gang.",
-      "Warmth": 1,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Maintains eye contact and presses Margaret for information about Frank's death.",
+      "assessment": "Demonstrates Carter's interrogation skills and psychological insight, showing he can apply pressure effectively to extract information.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Leans forward to Keith, politely and clearly instructs him to alert him if anyone asks for him.",
-      "Warmth": 1,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Arranges a meeting with Margaret despite her initial reluctance.",
+      "assessment": "Shows Carter's persistence and strategic planning to follow up on leads, reflecting good investigative competence.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Carefully surveys surroundings and seeks information, showing guarded and cautious behavior.",
-      "Warmth": 0,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Remains stone-cold sober while others around him drink heavily.",
+      "assessment": "Indicates self-control and discipline, traits that support clear thinking and effective action in tense situations.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Asks Keith to alert him if anyone asks for him, showing caution and foresight.",
-      "Competence": 1,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Allows Margaret to walk off after securing a meeting time rather than forcing immediate answers.",
+      "assessment": "Shows patience and understanding of timing in interrogation, suggesting emotional intelligence and tactical restraint.",
+      "rating": 1,
+      "chunk": 9
     },
     {
-      "Action": "Asks Keith about Albert Swift and uses past knowledge (school connection) to locate him quickly.",
-      "Competence": 1,
-      "Chunk": 11
+      "trait": "warmth",
+      "action": "Puts his hand out to restrain Keith from following Doreen after she runs off crying.",
+      "assessment": "Carter shows a degree of emotional restraint and sensitivity by recognizing that Doreen needs space to process her grief, indicating some understanding and tolerance.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Observed pushing through the crowd while keeping alert, indicating situational awareness and confidence.",
-      "Competence": 1,
-      "Chunk": 11
+      "trait": "warmth",
+      "action": "Offers Eddie another drink and then gives him money to get his suit cleaned.",
+      "assessment": "Offering a drink and money to Eddie is a considerate and generous gesture, showing Carter's willingness to be supportive and kind in a difficult situation.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Approaches Eric Paice warmly, offers a cigarette, engages in friendly banter.",
-      "Warmth": 1,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Says 'Sorry about that' to Eddie after Doreen throws her drink in his face.",
+      "assessment": "Apologizing on behalf of the upset Doreen shows Carter's attempt to maintain civility and acknowledge others' feelings, reflecting a polite and sincere demeanor.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Mentions a bereavement gently without seeking sympathy.",
-      "Warmth": 1,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Engages Keith in conversation about Frank's death and tries to understand the situation.",
+      "assessment": "Carter's questioning shows concern and a desire to understand the truth, which can be seen as a sign of sincerity and attentiveness.",
+      "rating": 1,
+      "chunk": 10
     },
     {
-      "Action": "Teases Eric lightheartedly about his job.",
-      "Warmth": 1,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Carter restrains Keith from following Doreen when she runs off crying, calmly assessing the situation and deciding to let her be.",
+      "assessment": "This shows Carter's emotional intelligence and situational awareness, indicating a confident and controlled approach to managing others' emotions.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Approaches Eric Paice from behind, recognizes him quickly, and initiates a conversation smoothly and confidently, demonstrating social awareness and control.",
-      "Competence": 1,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Carter offers Eddie money to get his suit cleaned after Eddie is splashed with a drink.",
+      "assessment": "This action demonstrates Carter's practical problem-solving and social tact, showing he can handle awkward situations smoothly and maintain control.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Uses humor and casual banter effectively during the conversation to maintain control and gather information subtly.",
-      "Competence": 1,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Carter questions Keith about Frank's behavior and inconsistencies, such as drinking whisky, showing skepticism and probing for information.",
+      "assessment": "This indicates Carter's analytical mindset and intelligence, as he does not accept surface explanations and seeks deeper understanding.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Conceals true purpose by giving vague answers about visiting relatives, suggesting strategic thinking.",
-      "Competence": 1,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Carter apologizes to Eddie after Doreen splashes him with a drink.",
+      "assessment": "This shows Carter's social awareness and ability to maintain politeness under tense circumstances, reflecting interpersonal competence.",
+      "rating": 1,
+      "chunk": 10
     },
     {
-      "Action": "No clear sign of lack of awareness or missteps in this encounter; interaction is handled with apparent ease and confidence.",
-      "Competence": 0,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Carter initiates conversation with Keith about his work and Frank.",
+      "assessment": "This suggests Carter's proactive approach to gathering information, though the interaction is somewhat tentative and not fully assertive.",
+      "rating": 1,
+      "chunk": 10
     },
     {
-      "Action": "Says to Eric he has always had his welfare at heart, even calls himself 'nosy' in a playful manner.",
-      "Warmth": 1,
-      "Chunk": 13
+      "trait": "warmth",
+      "action": "Asks Keith to inform him if anyone asks for him, establishing a subtle connection and trust with a minor character.",
+      "assessment": "This shows a basic level of trust and reliance on others, indicating some social engagement and a willingness to involve others, which can be a mild positive indicator of warmth.",
+      "rating": 1,
+      "chunk": 11
     },
     {
-      "Action": "Lifts Eric's sunglasses to look into his eyes, showing a rare moment of personal connection.",
-      "Warmth": 1,
-      "Chunk": 13
+      "trait": "warmth",
+      "action": "Mentions to Keith that he went to school with Albert Swift and smiles while recalling that Albert was the leader of their gang.",
+      "assessment": "The smile and casual mention of a shared past suggest a moment of friendly reminiscence, indicating some warmth and familiarity in his interactions.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Makes a sarcastic comment 'They’re still the same. Piss holes in the snow.' about Eric's eyes, indicating familiarity but a biting humour.",
-      "Warmth": 0,
-      "Chunk": 13
+      "trait": "warmth",
+      "action": "Pushes his way through the crowd at the race track, looking about him intently.",
+      "assessment": "This behavior is more focused and purposeful, showing little regard for others around him; it suggests a lack of friendliness or consideration, a neutral to slightly negative indicator of warmth.",
+      "rating": -1,
+      "chunk": 11
     },
     {
-      "Action": "Warns Eric not to miss the start of the race, implying some care or concern.",
-      "Warmth": 1,
-      "Chunk": 13
+      "trait": "warmth",
+      "action": "Observes Albert Swift, causing Albert to pale and flee, stepping on his hot dog in the process.",
+      "assessment": "Carter's presence and demeanor intimidate Albert, indicating that Carter may inspire fear rather than warmth; this is a negative indicator of warmth.",
+      "rating": -2,
+      "chunk": 11
     },
     {
-      "Action": "Follows the Cadillac discreetly without confrontation or aggression.",
-      "Warmth": 0,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Instructs Keith to inform him if anyone asks for him and discreetly inquires about Albert Swift's whereabouts.",
+      "assessment": "This shows Carter's cautious and strategic approach, ensuring he has eyes and ears while maintaining a low profile, indicating good situational awareness and planning.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Lifts sunglasses off Eric's nose to get a better look and engages in subtle, probing conversation.",
-      "Competence": 1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Uses his past connection with Albert Swift to gain information about the town and its goings-on.",
+      "assessment": "Leveraging personal history to gather intelligence demonstrates social savvy and resourcefulness, reflecting competent interpersonal skills.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Follows the Cadillac at a safe distance, displays patient and cautious tailing behavior.",
-      "Competence": 1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Pushes his way through the crowd at the race track while continuously scanning his surroundings.",
+      "assessment": "Maintaining vigilance in a crowded, potentially hostile environment shows alertness and confidence, key indicators of competence.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Is nosy and asks pointed questions that unsettle Eric but does not reveal too much about himself.",
-      "Competence": 1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Albert Swift reacts with visible fear and attempts to hide upon seeing Carter.",
+      "assessment": "While this is an action by another character, it indirectly suggests Carter's intimidating reputation and effective presence, reinforcing his competence in commanding respect or fear.",
+      "rating": 1,
+      "chunk": 11
     },
     {
-      "Action": "Silently approaches and incapacitates a big man by hitting him on the head and causing him to fall unconscious into the lake.",
-      "Competence": 1,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "Offers Eric Paice a cigarette and shares a light with him.",
+      "assessment": "Sharing a cigarette and lighting it for someone is a small but friendly and inclusive gesture, indicating a degree of sociability and warmth.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Evades detection by charging men (Marty and Ray) by quickly breaking into the house and slipping into a small service room while they fail to see him.",
-      "Competence": 1,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "Engages Eric Paice in casual conversation, including light teasing about his uniform and work.",
+      "assessment": "The banter and casual conversation suggest Carter is approachable and willing to connect, showing some friendliness and tolerance.",
+      "rating": 1,
+      "chunk": 12
     },
     {
-      "Action": "Confidently walks past Ray after being announced and blows him a kiss, displaying calm and control in a tense intrusion.",
-      "Competence": 1,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "Mentions a bereavement in the family in a straightforward manner without seeking sympathy.",
+      "assessment": "While Carter is sincere in sharing personal information, the tone is somewhat detached, indicating limited emotional openness or warmth.",
+      "rating": 0,
+      "chunk": 12
     },
     {
-      "Action": "Accepts a drink from Glenda and looks at her as she sits beside him.",
-      "Warmth": 1,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Approaches Eric Paice from behind and immediately recognizes him despite the disguise and setting.",
+      "assessment": "This shows Carter's sharp observational skills and familiarity with people in his environment, indicating situational awareness and intelligence.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Replies briefly and somewhat coldly to Kinnear's comments about Eric's death.",
-      "Warmth": -1,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Engages Eric in casual conversation, subtly probing about his current employment and connections.",
+      "assessment": "Carter demonstrates social skill and strategic questioning, suggesting he is capable of gathering information without raising suspicion.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Engages with Kinnear and Harry in a lighthearted, somewhat sarcastic banter during card game.",
-      "Warmth": 0,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Maintains a calm and confident demeanor throughout the interaction, even when discussing sensitive topics like family bereavement.",
+      "assessment": "This indicates emotional control and confidence, traits associated with competence in handling delicate social situations.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Responds to Glenda's comments with amused sarcasm and dismissiveness ('Oh, do you?'), showing little genuine interest or warmth.",
-      "Warmth": -1,
-      "Chunk": 16
+      "trait": "competence",
+      "action": "Uses humor and light sarcasm ('Grey suits you, Eric' and 'What are you doing? Advertising Martini?') to disarm Eric.",
+      "assessment": "This suggests Carter is skilled at using wit to manage conversations and possibly to gain an upper hand, reflecting social intelligence.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Engages with others at the card game politely but without friendliness or openness, maintaining a controlled and somewhat detached demeanor.",
-      "Warmth": 0,
-      "Chunk": 16
+      "trait": "warmth",
+      "action": "Says to Eric, 'I've always had your welfare at heart, Eric. Besides which, I'm nosy.'",
+      "assessment": "Expressing concern for Eric's welfare indicates a degree of care and attentiveness, suggesting some warmth despite the somewhat casual phrasing.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Confidently claims to work for Sid Fletcher, handles Glenda's teasing with measured amusement and social control.",
-      "Competence": 1,
-      "Chunk": 16
+      "trait": "warmth",
+      "action": "Lifts Eric's sunglasses and looks into his eyes, commenting on their unchanged appearance.",
+      "assessment": "This action shows a personal and somewhat affectionate attention to detail, indicating familiarity and a subtle warmth in their interaction.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Maintains focus on the poker game despite distractions from Glenda.",
-      "Competence": 1,
-      "Chunk": 16
+      "trait": "warmth",
+      "action": "Comments, 'They're still the same. Piss holes in the snow.' about Eric's eyes.",
+      "assessment": "While the phrase is crude, it is delivered with humor and familiarity, suggesting a friendly rapport rather than hostility.",
+      "rating": 1,
+      "chunk": 13
     },
     {
-      "Action": "Does not react nervously to increasing bets and provocations, displays poise.",
-      "Competence": 1,
-      "Chunk": 16
+      "trait": "warmth",
+      "action": "Asks Eric about his prospects and pension, showing interest in his future.",
+      "assessment": "Showing interest in another's future and well-being is a positive indicator of warmth and genuine concern.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Smiles and puts Glenda's glass on the table when she asks him to.",
-      "Warmth": 1,
-      "Chunk": 17
+      "trait": "warmth",
+      "action": "Tells Eric, 'Don't miss the start on my account.' as Eric leaves.",
+      "assessment": "This is a polite and considerate remark, reflecting a courteous and friendly attitude.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Seems bored and distracted during conversation and poker game, focusing on the game rather than engaging with others.",
-      "Warmth": -1,
-      "Chunk": 17
+      "trait": "competence",
+      "action": "Engages Eric in conversation, subtly probing for information about Albert Swift while maintaining a casual demeanor.",
+      "assessment": "This shows Carter's skill in gathering intelligence through social interaction without raising suspicion, indicating social and investigative competence.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Keeps calm and uninterested during a tense poker game, does not get involved unnecessarily, and leaves with a plausible excuse.",
-      "Competence": 1,
-      "Chunk": 17
+      "trait": "competence",
+      "action": "Follows the Cadillac with dark-tinted windows at a safe distance, adjusting speed and route as the target vehicle changes roads.",
+      "assessment": "This demonstrates Carter's tactical awareness, patience, and driving skill in surveillance, reflecting a high level of operational competence.",
+      "rating": 3,
+      "chunk": 13
     },
     {
-      "Action": "Responds helpfully to Glenda's request to put her glass on the table with a smile.",
-      "Competence": 1,
-      "Chunk": 17
+      "trait": "competence",
+      "action": "Removes Eric's sunglasses to look directly into his eyes, breaking the social barrier to assert control.",
+      "assessment": "This action shows confidence and psychological insight, using subtle intimidation to unsettle Eric and gain an upper hand, indicating strong interpersonal competence.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Does not react verbally or emotionally to the poker tussle and tension among others, showing self-control.",
-      "Competence": 1,
-      "Chunk": 17
+      "trait": "competence",
+      "action": "Does not react impulsively when Eric is defensive or evasive, instead continuing the conversation calmly and redirecting focus.",
+      "assessment": "This restraint and control over emotional responses suggest emotional intelligence and strategic patience, important aspects of competence.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Tells Eric that he should have been warned about who he was working for, showing candid communication.",
-      "Warmth": 0,
-      "Chunk": 18
+      "trait": "warmth",
+      "action": "Silently attacks a man by hitting him on the head with a dead branch, rendering him unconscious.",
+      "assessment": "This violent and premeditated attack shows a lack of empathy and friendliness, indicating low warmth.",
+      "rating": -3,
+      "chunk": 14
     },
     {
-      "Action": "Dismisses the warning from Cyril and Eric, indifferent to their concerns.",
-      "Warmth": -1,
-      "Chunk": 18
+      "trait": "warmth",
+      "action": "Blows a kiss to Ray as he walks past him after Ray shouts Carter's presence.",
+      "assessment": "Blowing a kiss can be seen as a mocking or playful gesture rather than a sincere or friendly one, suggesting a sarcastic or antagonistic attitude rather than warmth.",
+      "rating": -1,
+      "chunk": 14
     },
     {
-      "Action": "Inquires about his brother's car and circumstances around the accident with straightforward but sincere questioning.",
-      "Warmth": 1,
-      "Chunk": 18
+      "trait": "warmth",
+      "action": "Engages in a poker game with others including Cyril Kinnear, Eric, and Glenda.",
+      "assessment": "Participating in a social game could indicate some level of sociability, but given the context and Carter's demeanor, it does not strongly suggest warmth or friendliness.",
+      "rating": 0,
+      "chunk": 14
     },
     {
-      "Action": "Confidently tells Eric it wouldn't take long, showing self-assurance.",
-      "Competence": 1,
-      "Chunk": 18
+      "trait": "competence",
+      "action": "Silently picks up a dead branch and knocks a big man unconscious by hitting him on the head, then moves on towards the house.",
+      "assessment": "This action shows Carter's ability to use stealth and improvised weapons effectively, indicating physical skill and tactical thinking.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Dismisses the warning and opens the front door to leave despite potential threats.",
-      "Competence": 0,
-      "Chunk": 18
+      "trait": "competence",
+      "action": "Breaks from the trees and darts for the side door, evading detection despite one of the men shouting after him.",
+      "assessment": "This demonstrates Carter's agility and situational awareness, as well as his ability to evade pursuers in a tense situation.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Directly questions Billy Laws about his brother's car, showing investigative skill and focus.",
-      "Competence": 1,
-      "Chunk": 18
+      "trait": "competence",
+      "action": "Runs into the house and slips into a small service room, avoiding being seen by Ray and Marty who charge inside.",
+      "assessment": "This shows Carter's quick thinking and ability to use the environment to his advantage, successfully avoiding capture.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Accepts Billy's claim that the car owner was drunk without pushing for further details that might be relevant.",
-      "Competence": 0,
-      "Chunk": 18
+      "trait": "competence",
+      "action": "Walks past Ray, blowing him a kiss after Ray announces Carter's presence.",
+      "assessment": "This confident and somewhat mocking gesture indicates Carter's self-assurance and psychological dominance over his adversaries.",
+      "rating": 1,
+      "chunk": 14
     },
     {
-      "Action": "Keeps to himself at the bar, politely interacts with Keith, acknowledging his discretion.",
-      "Warmth": 1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Engages in verbal exchange with Cyril Kinnear and Eric, showing calmness and control in a hostile environment.",
+      "assessment": "Carter's composed demeanor in a tense situation suggests mental resilience and social confidence, important aspects of competence.",
+      "rating": 1,
+      "chunk": 14
     },
     {
-      "Action": "Watches two women fighting, smiles, and leaves without intervening.",
-      "Warmth": -1,
-      "Chunk": 19
+      "trait": "warmth",
+      "action": "Accepts a drink from Glenda and looks at her as she sits beside him.",
+      "assessment": "Acknowledging Glenda's presence and accepting her drink suggests a basic level of social engagement and politeness, indicating mild warmth.",
+      "rating": 1,
+      "chunk": 15
     },
     {
-      "Action": "Notices Doreen, gently beckons her outside, showing concern or interest.",
-      "Warmth": 1,
-      "Chunk": 19
+      "trait": "warmth",
+      "action": "Responds briefly and somewhat detachedly to Kinnear's condolences about Eric's death.",
+      "assessment": "His terse and unemotional replies to condolences show a lack of openness or emotional warmth in this interaction.",
+      "rating": -1,
+      "chunk": 15
     },
     {
-      "Action": "Gently asks Doreen if she is all right, shows concern for her well-being.",
-      "Warmth": 1,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Engages in light banter with Kinnear and Harry about the card game and money.",
+      "assessment": "His willingness to engage in social banter and humor indicates some friendliness and social ease, a modest positive indicator of warmth.",
+      "rating": 1,
+      "chunk": 15
     },
     {
-      "Action": "Despite feeling hurt by rejection, offers money to Doreen to get her hair done and gives a caring warning not to trust boys.",
-      "Warmth": 1,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Does not challenge or correct Kinnear's somewhat dismissive or rude remarks about the drink glasses or the card game.",
+      "assessment": "His passivity in the face of Kinnear's brusque behavior may suggest tolerance or indifference, but also a lack of assertive warmth or friendliness.",
+      "rating": 0,
+      "chunk": 15
     },
     {
-      "Action": "Lifts Doreen's chin and looks at her, showing a tender moment of connection.",
-      "Warmth": 1,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Orders a Scotch calmly and accepts the drink from Glenda without hesitation.",
+      "assessment": "This shows Carter's composed and confident demeanor in a social setting, indicating self-assurance and control.",
+      "rating": 1,
+      "chunk": 15
     },
     {
-      "Action": "Refers to the dead brother's casket straightforwardly and treats the situation with dry humor, indicating emotional distance.",
-      "Warmth": 0,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Responds to Kinnear's comments about Eric's death with brief, controlled replies.",
+      "assessment": "His measured and unemotional responses suggest emotional control and an ability to maintain focus despite personal loss.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Speaks tenderly and affectionately to Anna and Edna on the phone, expressing desire and intimacy softly.",
-      "Warmth": 1,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Engages in a tense card game with Kinnear and Harry, responding to bluffs and challenges with calm, witty remarks.",
+      "assessment": "Carter demonstrates social intelligence, quick thinking, and confidence in high-pressure situations, indicating strong competence.",
+      "rating": 3,
+      "chunk": 15
     },
     {
-      "Action": "Pulls Keith inside and turns off the light to protect him from a potential threat.",
-      "Warmth": 1,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Replies to Harry's taunt about leaving soon with a sharp comeback.",
+      "assessment": "This shows Carter's mental agility and ability to maintain dominance in verbal exchanges, reinforcing his competence.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Responds to Thorpe's summons with sarcasm and guarded politeness.",
-      "Warmth": 0,
-      "Chunk": 22
+      "trait": "warmth",
+      "action": "Responds to Glenda's repeated mentions of Sid Fletcher with amused and slightly sarcastic remarks ('Oh, do you?', 'No, do you really?').",
+      "assessment": "Carter's tone here is teasing and somewhat dismissive, indicating a lack of sincere engagement or friendliness toward Glenda's attempts to connect.",
+      "rating": -1,
+      "chunk": 16
     },
     {
-      "Action": "Calmly assesses threat by pulling an ally inside and turning off the light to avoid detection.",
-      "Competence": 1,
-      "Chunk": 22
+      "trait": "warmth",
+      "action": "Focuses attention back on the card game and money on the table rather than on Glenda's social cues.",
+      "assessment": "This suggests Carter is more interested in the business at hand than in social warmth or building rapport, showing a pragmatic and somewhat detached demeanor.",
+      "rating": -1,
+      "chunk": 16
     },
     {
-      "Action": "Engages with potential enemies confidently and on own terms by stepping out to speak to Thorpe alone.",
-      "Competence": 1,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Maintains a calm, amused demeanor when Glenda repeatedly tries to engage him about Sid Fletcher, responding with dry, slightly mocking remarks.",
+      "assessment": "This shows Carter's social confidence and control over the interaction, indicating a level of skill in managing conversations and not being easily rattled.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Smiles upon receiving the railway ticket and interacts with Thorpe with light sarcasm ('You're getting very optimistic in your old age').",
-      "Warmth": 1,
-      "Chunk": 23
+      "trait": "competence",
+      "action": "Focuses attention back on the poker game and the money being pushed in, despite distractions from Glenda.",
+      "assessment": "This suggests Carter's ability to prioritize and stay focused on the task at hand, a sign of situational awareness and mental discipline.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Tears the railway ticket in half and drops it in the gutter, rejecting a potential opportunity or offer.",
-      "Warmth": 0,
-      "Chunk": 23
+      "trait": "competence",
+      "action": "Uses sarcasm and teasing ('Oh, do you?') to subtly undermine Glenda's attempts to impress or unsettle him.",
+      "assessment": "This indicates social intelligence and confidence, using verbal skill to maintain upper hand in social dynamics.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Violently slams the car door against a man, shattering the window and causing blood to spur, aggressively assaulting the man.",
-      "Warmth": -1,
-      "Chunk": 23
+      "trait": "competence",
+      "action": "Does not visibly react to the escalating bets and tension at the table, remaining composed.",
+      "assessment": "Shows emotional control and possibly experience in high-stakes situations, which is a positive indicator of competence.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Chases after Thorpe after he escapes, calling his name loudly, showing urgency and concern.",
-      "Warmth": 1,
-      "Chunk": 23
+      "trait": "competence",
+      "action": "Does not take any direct action to influence the betting or the game, remaining a passive observer in this scene.",
+      "assessment": "While this could be strategic patience, it might also suggest a lack of initiative or assertiveness in this moment, which could be a slight negative indicator.",
+      "rating": -1,
+      "chunk": 16
     },
     {
-      "Action": "Tears the railway ticket in half, rejecting a potentially cautious or planned escape, demonstrating confidence and defiance.",
-      "Competence": 1,
-      "Chunk": 23
+      "trait": "warmth",
+      "action": "Smiles and puts Glenda's glass on the table when she asks for a favour.",
+      "assessment": "Carter responds to Glenda's request with a smile and complies, showing a small but genuine friendly and considerate gesture.",
+      "rating": 2,
+      "chunk": 17
     },
     {
-      "Action": "Uses physical force skillfully by slamming the car door against the man, causing immediate incapacitation and chaos.",
-      "Competence": 1,
-      "Chunk": 23
+      "trait": "warmth",
+      "action": "Keeps his eyes on the game and seems bored during the conversation.",
+      "assessment": "His disinterest and detachment from the social interaction suggest a lack of engagement or warmth toward others in this scene.",
+      "rating": -1,
+      "chunk": 17
     },
     {
-      "Action": "Quickly spots Thorpe escaping and pursues him immediately, showing alertness and decisiveness.",
-      "Competence": 1,
-      "Chunk": 23
+      "trait": "warmth",
+      "action": "Gets up and leaves the gathering abruptly, citing 'things to see to.'",
+      "assessment": "Leaving without further interaction or explanation may indicate a reserved or distant nature, limiting warmth in social settings.",
+      "rating": -1,
+      "chunk": 17
     },
     {
-      "Action": "Quietly leans across and pulls the chain, terrifying Thorpe.",
-      "Warmth": -1,
-      "Chunk": 24
+      "trait": "competence",
+      "action": "Carter, getting bored, looks back at the game and engages minimally in the conversation, showing controlled detachment.",
+      "assessment": "This suggests Carter is confident and unruffled, able to maintain composure and focus without overreacting to social dynamics, indicating a calm and measured competence.",
+      "rating": 2,
+      "chunk": 17
     },
     {
-      "Action": "Greets Keith politely and directs Thorpe to stay put.",
-      "Warmth": 1,
-      "Chunk": 24
+      "trait": "competence",
+      "action": "Carter responds to Glenda's request to put her glass on the table with a smile and compliance.",
+      "assessment": "This shows social awareness and the ability to manage interpersonal interactions smoothly, reflecting competent social skills.",
+      "rating": 1,
+      "chunk": 17
     },
     {
-      "Action": "Smiles and apologizes to Edna, despite her anger.",
-      "Warmth": 1,
-      "Chunk": 24
+      "trait": "competence",
+      "action": "Carter gets up from the sofa and states he has things to see to, leaving the game without hesitation.",
+      "assessment": "This indicates decisiveness and confidence in managing his time and priorities, a positive indicator of competence.",
+      "rating": 2,
+      "chunk": 17
     },
     {
-      "Action": "Shows calm control entering a hostile environment and dealing with hostile neighbors.",
-      "Warmth": 0,
-      "Chunk": 24
+      "trait": "competence",
+      "action": "Carter does not engage in the poker game or the bluffing between Harry and Kinnear, remaining mostly an observer.",
+      "assessment": "While this could suggest strategic restraint, it might also indicate a missed opportunity to assert influence or gather information, a neutral to slightly negative indicator depending on context.",
+      "rating": 0,
+      "chunk": 17
     },
     {
-      "Action": "Quietly leans across lavatory partition and pulls the chain to surprise Thorpe, demonstrating situational awareness and tactical approach.",
-      "Competence": 1,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Tells Eric to tell Cyril to save the cost of the phone call, dismissing their concerns about Carter's interference.",
+      "assessment": "Carter's dismissive and somewhat sarcastic response to Eric and Cyril's concerns shows a lack of openness and consideration for others' feelings or opinions, indicating low warmth.",
+      "rating": -2,
+      "chunk": 18
     },
     {
-      "Action": "Calmly manages a tense situation outside Edna's house despite her fury and neighborhood hostility, maintaining control and directing Thorpe and Keith.",
-      "Competence": 1,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Approaches Billy Laws at the scrapyard and questions him about his brother's car with a calm, straightforward manner.",
+      "assessment": "Carter's approach is direct but not hostile; he shows some concern by investigating the circumstances of his brother's car, which suggests a degree of sincerity and care.",
+      "rating": 1,
+      "chunk": 18
     },
     {
-      "Action": "Uses smiles and measured speech to defuse tension momentarily despite Edna's aggression, showing social tact and confidence.",
-      "Competence": 1,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Asks specific questions about the car's condition and how the accident happened, showing interest in the truth.",
+      "assessment": "This behavior reflects a responsible and sincere attitude, indicating some warmth through his concern for facts and possibly for his brother's fate.",
+      "rating": 1,
+      "chunk": 18
     },
     {
-      "Action": "Allows himself to be challenged openly by Edna and the old woman without losing composure or escalating, indicating patience and situational control.",
-      "Competence": 1,
-      "Chunk": 24
+      "trait": "competence",
+      "action": "Told Eric it wouldn't take long to deal with Harry, then promptly left without further confrontation.",
+      "assessment": "This shows Carter's confidence and efficiency in handling situations quickly and decisively, indicating a competent and controlled approach.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Tells Edna to make tea and offers to let her watch.",
-      "Warmth": 0,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Dismisses Eric's warnings about Cyril and others disliking his interference, telling him to save the cost of the phone call.",
+      "assessment": "Carter demonstrates self-assurance and a refusal to be intimidated, suggesting mental toughness and strategic confidence.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Physically assaults Thorpe by punching him in the stomach.",
-      "Warmth": -1,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Examines the damaged Hillman car and questions the scrapyard owner about the cause of the accident.",
+      "assessment": "This shows Carter's methodical and investigative approach, indicating intelligence and attention to detail in pursuing his goals.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Tortures Thorpe by applying pressure to his testicles to extract information.",
-      "Warmth": -1,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Accepts Billy Laws' initial hostility but continues to press for information about the car.",
+      "assessment": "Carter's persistence and ability to handle suspicion without losing composure reflect interpersonal skill and resilience.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Shoves Thorpe and Keith into the room and confidently confronts Edna, defusing her threat to call the police by exploiting her feelings for him.",
-      "Competence": 1,
-      "Chunk": 25
+      "trait": "warmth",
+      "action": "Responds to Keith's inquiry about Thorpe with a friendly tone and calls Keith a 'Good lad' for not revealing information.",
+      "assessment": "Carter shows a degree of trust and appreciation toward Keith, indicating some warmth and loyalty in his interactions.",
+      "rating": 2,
+      "chunk": 19
     },
     {
-      "Action": "Carefully places the casket and calmly prepares to interrogate Thorpe by creating a threatening but controlled environment.",
-      "Competence": 1,
-      "Chunk": 25
+      "trait": "warmth",
+      "action": "Watches the fight between the two women and smiles before leaving without intervening.",
+      "assessment": "His amusement at the conflict and lack of intervention suggest a lack of empathy or concern for others' well-being, indicating low warmth.",
+      "rating": -2,
+      "chunk": 19
     },
     {
-      "Action": "Uses physical intimidation skillfully to coerce information from Thorpe, demonstrating calculated ruthlessness and control.",
-      "Competence": 1,
-      "Chunk": 25
+      "trait": "warmth",
+      "action": "Notices Doreen and beckons her outside, showing interest in her.",
+      "assessment": "While Carter initiates contact with Doreen, the excerpt does not provide enough context to determine if this is a warm or manipulative gesture; it shows some social engagement but is ambiguous.",
+      "rating": 0,
+      "chunk": 19
     },
     {
-      "Action": "Keeps composure and control over the situation despite the tension, indicating confidence and command.",
-      "Competence": 1,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Pushes his way through the packed drunken crowd to the bar and orders a large Scotch confidently.",
+      "assessment": "This shows Carter's assertiveness and confidence in navigating a crowded, potentially hostile environment without hesitation.",
+      "rating": 2,
+      "chunk": 19
     },
     {
-      "Action": "Applies physical pressure causing Thorpe pain to extract information.",
-      "Warmth": -1,
-      "Chunk": 26
+      "trait": "competence",
+      "action": "Engages in a subtle, guarded conversation with Keith about Thorpe, extracting information without revealing anything himself.",
+      "assessment": "This demonstrates Carter's skill in information gathering and maintaining control of the conversation, indicating intelligence and street savvy.",
+      "rating": 3,
+      "chunk": 19
     },
     {
-      "Action": "Invites Edna to join the tea set with a friendly tone.",
-      "Warmth": 1,
-      "Chunk": 26
+      "trait": "competence",
+      "action": "Observes the fight between the two women calmly, smiles, and then leaves without intervening.",
+      "assessment": "His calm detachment suggests emotional control and situational awareness, but also a possible lack of empathy or unwillingness to get involved, which could be seen as a negative omission depending on context.",
+      "rating": 1,
+      "chunk": 19
     },
     {
-      "Action": "Dismisses Edna's demand for explanation with a light comment then quickly leaves.",
-      "Warmth": -1,
-      "Chunk": 26
+      "trait": "competence",
+      "action": "Approaches Doreen discreetly by knocking on the window and beckoning her outside, showing patience and subtlety.",
+      "assessment": "This indicates Carter's ability to approach sensitive situations carefully and with tact, reflecting social intelligence and strategic thinking.",
+      "rating": 2,
+      "chunk": 19
     },
     {
-      "Action": "Laughs after threatening Thorpe not to reveal information, showing a casual, unsympathetic attitude.",
-      "Warmth": -1,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Gently asks Doreen if she is all right and offers her money to get her hair done.",
+      "assessment": "Carter shows a caring and protective attitude toward Doreen, offering help and advice in a gentle manner, which indicates a degree of warmth.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Interrogates Thorpe effectively, extracting critical information through applying pressure and using calculated intimidation.",
-      "Competence": 1,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Lifts Doreen's chin and tells her to be good and not to trust boys.",
+      "assessment": "This gesture is tender and protective, showing sincere concern for Doreen's well-being, reflecting warmth.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Quickly deduces Cliff Brumby’s connection to the arcade and uses this knowledge to track him down.",
-      "Competence": 1,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Expresses hurt and irritation when Doreen rejects his invitation to South America.",
+      "assessment": "His emotional reaction reveals vulnerability and a desire for connection, which can be seen as a sign of warmth, though tinged with frustration.",
+      "rating": 1,
+      "chunk": 20
     },
     {
-      "Action": "Maintains control of the situation, instructing Keith to guard Thorpe from the telephone and leaving without losing composure.",
-      "Competence": 1,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Pockets the envelope left for him and places the small wooden casket on a side table without comment.",
+      "assessment": "His subdued and somewhat detached handling of the casket and envelope suggests emotional restraint or suppression rather than warmth.",
+      "rating": -1,
+      "chunk": 20
     },
     {
-      "Action": "Watches a young man stumble and throw up at a party without intervening.",
-      "Warmth": -1,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Knocks on the window to get Doreen's attention and gently questions her about her plans.",
+      "assessment": "This shows Carter's ability to approach a delicate situation with tact and control, indicating social awareness and emotional intelligence.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Observes situation silently from behind a tree instead of engaging.",
-      "Warmth": -1,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Offers Doreen money to get her hair done after she rejects his invitation.",
+      "assessment": "This action demonstrates Carter's resourcefulness and understanding of how to maintain influence or goodwill, reflecting strategic thinking.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Watches quietly from behind a tree, observing the situation without intervening.",
-      "Competence": 1,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Pockets the envelope taped to the small wooden casket left for him without hesitation.",
+      "assessment": "This indicates alertness and decisiveness, showing he is quick to secure potentially important information or items.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Pauses outside the front door, listens to the row going on upstairs before entering silently.",
-      "Warmth": 0,
-      "Chunk": 28
+      "trait": "competence",
+      "action": "Asks to phone London despite the cost, showing willingness to take necessary steps to communicate.",
+      "assessment": "This reflects practical problem-solving and prioritization, suggesting he is focused and determined to act on important matters.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Greets Mrs Brumby politely with 'Good evening.'",
-      "Warmth": 1,
-      "Chunk": 28
+      "trait": "competence",
+      "action": "Shows hurt and irritation when rejected by Doreen but maintains composure.",
+      "assessment": "Maintaining emotional control in the face of personal rejection suggests strong self-discipline and confidence.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Sits in an armchair in the Brumby house to make his point without causing confrontation.",
-      "Warmth": 0,
-      "Chunk": 28
+      "trait": "warmth",
+      "action": "Engages in a sexually intimate phone conversation with Anna, expressing desire and affection.",
+      "assessment": "While Carter shows a degree of personal openness and intimacy, the interaction is focused on physical desire rather than emotional warmth or genuine connection, limiting the indication of warmth.",
+      "rating": 0,
+      "chunk": 21
     },
     {
-      "Action": "Intrudes at 2 a.m. and pressures Brumby, ignoring social norms about timing and privacy.",
-      "Warmth": -1,
-      "Chunk": 28
+      "trait": "competence",
+      "action": "Engages in a detailed, controlled, and intimate phone conversation with Anna, directing her actions and maintaining focus despite being physically separated.",
+      "assessment": "This demonstrates Carter's ability to maintain control and influence over a situation remotely, showing emotional intelligence and confidence in communication.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Pauses outside the door and listens to the argument before entering silently, showing cautious observation.",
-      "Competence": 1,
-      "Chunk": 28
+      "trait": "warmth",
+      "action": "Reassures Edna by holding her eyes and sharing a quiet moment as she rocks in the chair.",
+      "assessment": "Maintaining eye contact and sharing a calm moment suggests a degree of attentiveness and connection, indicating some warmth.",
+      "rating": 1,
+      "chunk": 22
     },
     {
-      "Action": "Engages Mrs Brumby informally but confidently, sits down to assert presence despite her uncertainty, and waits resolutely when confronted by Brumby late at night.",
-      "Competence": 1,
-      "Chunk": 28
+      "trait": "warmth",
+      "action": "Invites Keith inside and turns off the light to hide him from potential danger.",
+      "assessment": "Protecting a companion from harm shows loyalty and concern, positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Does not react hastily or nervously when Brumby yells and challenges him, maintaining composure and control of the situation.",
-      "Competence": 1,
-      "Chunk": 28
+      "trait": "warmth",
+      "action": "Responds to Thorpe's call with a polite but guarded greeting and agrees to listen to him confidentially.",
+      "assessment": "While polite, Carter's tone is somewhat sarcastic and cautious, reflecting a guarded nature rather than openness or friendliness.",
+      "rating": 0,
+      "chunk": 22
     },
     {
-      "Action": "Moves further into the room without permission after Mrs Brumby is reluctant, risking alienating the household.",
-      "Competence": 0,
-      "Chunk": 28
+      "trait": "competence",
+      "action": "Carter calmly pulls Keith inside and turns out the light when threatened by four men waiting outside.",
+      "assessment": "This action shows Carter's situational awareness and quick thinking to protect himself and his companion, indicating a competent and cautious approach.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Admits to making a mistake and tries to leave the awkward situation without escalating conflict.",
-      "Warmth": 1,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Carter confidently approaches the car where four men are waiting and agrees to listen to Thorpe's confidential message.",
+      "assessment": "This demonstrates Carter's confidence and willingness to confront potentially dangerous situations directly, reflecting a high level of competence and control.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Responds to physical aggression with multiple sharp blows, hurting Brumby significantly.",
-      "Warmth": -1,
-      "Chunk": 29
+      "trait": "warmth",
+      "action": "Tears the railway ticket in half and violently attacks the man getting out of the car, causing injury and bloodshed.",
+      "assessment": "This aggressive and violent behavior shows a lack of tolerance, friendliness, and sincerity, indicating low warmth.",
+      "rating": -3,
+      "chunk": 23
     },
     {
-      "Action": "Greets Mrs. Brumby politely when leaving.",
-      "Warmth": 1,
-      "Chunk": 29
+      "trait": "warmth",
+      "action": "Calls out to Thorpe as he runs after him, roaring his name.",
+      "assessment": "Calling out to Thorpe suggests a level of concern or urgency, which could indicate some personal connection or care, but the tone is aggressive rather than gentle.",
+      "rating": -1,
+      "chunk": 23
     },
     {
-      "Action": "Enters Edna's unlocked boarding house cautiously and quietly, showing respect for the space and situation.",
-      "Warmth": 1,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Tears the railway ticket in half and drops it in the gutter upon receiving it.",
+      "assessment": "This action shows Carter's confidence and refusal to be controlled or manipulated, indicating mental toughness and decisiveness.",
+      "rating": 2,
+      "chunk": 23
     },
     {
-      "Action": "Realizes Thorpe has lied to him and accepts that Brumby is not his man, demonstrating situational awareness.",
-      "Competence": 1,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Slams the car door against a man as he tries to get out, shattering the window and causing injury.",
+      "assessment": "This demonstrates Carter's quick reflexes, physical strength, and willingness to use violence effectively in a sudden confrontation, reflecting high situational competence.",
+      "rating": 3,
+      "chunk": 23
     },
     {
-      "Action": "Confronts Brumby but admits he made a mistake and tries to leave quietly, showing strategic withdrawal.",
-      "Competence": 1,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Spots Thorpe escaping and immediately begins to run after him, shouting his name.",
+      "assessment": "This shows Carter's alertness, situational awareness, and determination to pursue his target, indicating strong focus and initiative.",
+      "rating": 2,
+      "chunk": 23
     },
     {
-      "Action": "Calmly handles Brumby's aggression by avoiding the punch and delivering precise counter blows, showcasing physical skill and control.",
-      "Competence": 1,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Follows Thorpe into a crowded dance hall and scans the place to locate him.",
+      "assessment": "This indicates Carter's ability to maintain composure and effectively track a target in a complex, distracting environment, demonstrating good observational skills and persistence.",
+      "rating": 2,
+      "chunk": 23
     },
     {
-      "Action": "Enters Edna's place cautiously, moves quietly, and carefully surveys his surroundings, displaying careful observation and stealth.",
-      "Competence": 1,
-      "Chunk": 29
+      "trait": "warmth",
+      "action": "Pulls the chain on Thorpe in the lavatory, causing him to jump up terrified.",
+      "assessment": "This action is a prank that startles Thorpe, showing a teasing or intimidating side rather than warmth or friendliness.",
+      "rating": -1,
+      "chunk": 24
     },
     {
-      "Action": "Helps himself to water, offers to buy Edna another dress after hers is torn.",
-      "Warmth": 1,
-      "Chunk": 30
+      "trait": "warmth",
+      "action": "Greets Keith with a casual 'Hello, Keith' and instructs Thorpe to stay put.",
+      "assessment": "The greeting is neutral and somewhat friendly, but the tone is not clearly warm or sincere; it is functional and controlled.",
+      "rating": 0,
+      "chunk": 24
     },
     {
-      "Action": "Shrugs and avoids showing concern when Edna says their child was taken away.",
-      "Warmth": -1,
-      "Chunk": 30
+      "trait": "warmth",
+      "action": "Smiles and says 'I'm sorry' to Edna after she angrily confronts him.",
+      "assessment": "While Carter offers an apology and smiles, Edna perceives it as insincere, suggesting Carter's warmth here is limited or superficial.",
+      "rating": 0,
+      "chunk": 24
     },
     {
-      "Action": "Shrugs off Edna's pain and makes a cold remark about people being killed.",
-      "Warmth": -1,
-      "Chunk": 30
+      "trait": "warmth",
+      "action": "Calmly directs Keith and Thorpe to go inside the boarding house despite Edna's hostility.",
+      "assessment": "Carter shows a degree of tolerance and composure in the face of Edna's aggression, indicating some level of patience and steadiness.",
+      "rating": 1,
+      "chunk": 24
     },
     {
-      "Action": "Responds angrily and tells Edna to shut up when she presses him about the boy's whereabouts.",
-      "Warmth": -1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Carter enters the gents' lavatory, checks the cubicles until he finds Thorpe, then quietly leans over the partition and pulls the chain, startling Thorpe.",
+      "assessment": "This action shows Carter's careful observation, patience, and tactical approach to surprising Thorpe, indicating situational awareness and control.",
+      "rating": 2,
+      "chunk": 24
     },
     {
-      "Action": "Smiles and lightly teases Edna about her purple underwear, showing a moment of levity and personal familiarity.",
-      "Warmth": 1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Carter calmly greets Keith and Thorpe, then knocks on Edna's door despite the hostile environment.",
+      "assessment": "This demonstrates Carter's confidence and willingness to confront difficult social situations directly, suggesting emotional resilience and assertiveness.",
+      "rating": 1,
+      "chunk": 24
     },
     {
-      "Action": "Rips open Edna's blouse to prove his point about her underwear; an intimate but intrusive gesture.",
-      "Warmth": 0,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Carter manages to get inside Edna's house with Thorpe and Keith despite Edna's hostility and the old woman's interference.",
+      "assessment": "This indicates Carter's ability to navigate social resistance and maintain control of the situation, reflecting effective interpersonal skills and determination.",
+      "rating": 2,
+      "chunk": 24
     },
     {
-      "Action": "Puts his arm around Edna and makes love to her gently, shares intimate moment.",
-      "Warmth": 1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Carter smiles and apologizes to Edna when confronted, despite her anger and suspicion.",
+      "assessment": "While the smile and apology may be strategic, it also shows Carter's ability to use social cues to defuse tension, a sign of social intelligence.",
+      "rating": 1,
+      "chunk": 24
     },
     {
-      "Action": "Keeps a loaded shotgun by the bed, prepared for danger even in intimate moments.",
-      "Warmth": -1,
-      "Chunk": 31
+      "trait": "warmth",
+      "action": "Tells Edna to make tea and suggests she might watch while he talks to others.",
+      "assessment": "This interaction is somewhat dismissive and manipulative, showing a lack of genuine friendliness or respect toward Edna, despite his awareness of her feelings for him.",
+      "rating": -2,
+      "chunk": 25
     },
     {
-      "Action": "Suppresses waking up and avoids breakfast, showing controlled and deliberate behavior.",
-      "Competence": 1,
-      "Chunk": 31
+      "trait": "warmth",
+      "action": "Punches Thorpe hard in the stomach after Thorpe looks longingly at the whisky.",
+      "assessment": "Physically assaulting Thorpe to assert control demonstrates aggression and intimidation rather than warmth or trustworthiness.",
+      "rating": -3,
+      "chunk": 25
     },
     {
-      "Action": "Maintains composure and interacts calmly with Edna despite the tense situation.",
-      "Competence": 1,
-      "Chunk": 31
+      "trait": "warmth",
+      "action": "Applies painful pressure to Thorpe's testicles to force him to reveal information.",
+      "assessment": "Using torture to extract information is a clear indicator of cruelty and lack of empathy, strongly negative for warmth.",
+      "rating": -3,
+      "chunk": 25
     },
     {
-      "Action": "Has a shotgun within reach in the bedroom, indicating preparedness for danger.",
-      "Competence": 1,
-      "Chunk": 31
+      "trait": "warmth",
+      "action": "Carefully places Frank's casket on the chest of drawers.",
+      "assessment": "This action shows a degree of respect or care for the deceased, suggesting some capacity for sincerity or reverence.",
+      "rating": 1,
+      "chunk": 25
     },
     {
-      "Action": "Is caught off guard when armed men enter the room, indicating a lapse in vigilance.",
-      "Competence": -1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Calmly deflects Edna's threat to call the police by confidently asserting she won't.",
+      "assessment": "This shows Carter's confidence and understanding of social dynamics, indicating he is in control of the situation and aware of Edna's feelings, which enhances his competence.",
+      "rating": 2,
+      "chunk": 25
     },
     {
-      "Action": "Insists on being taken back to London despite Con and Peter's attempts to reason with him, pulls out a gun but does not use it.",
-      "Warmth": 0,
-      "Chunk": 32
+      "trait": "competence",
+      "action": "Carefully places Frank's casket on the chest of drawers and methodically opens his briefcase.",
+      "assessment": "This demonstrates Carter's carefulness and methodical approach, suggesting he is organized and deliberate, traits associated with competence.",
+      "rating": 2,
+      "chunk": 25
     },
     {
-      "Action": "Refuses to tolerate Con and Peter's intrusion, repeatedly says 'Out' to dismiss them.",
-      "Warmth": -1,
-      "Chunk": 32
+      "trait": "competence",
+      "action": "Punches Thorpe hard in the stomach to assert dominance and demand information.",
+      "assessment": "This action shows Carter's decisiveness and physical assertiveness, using intimidation effectively to control the situation, reflecting competence in handling threats.",
+      "rating": 2,
+      "chunk": 25
     },
     {
-      "Action": "Calmly retrieves the gun from beside the bed and asserts control despite being caught naked and surprised.",
-      "Competence": 1,
-      "Chunk": 32
+      "trait": "competence",
+      "action": "Applies painful pressure to Thorpe's testicles to coerce information.",
+      "assessment": "While brutal, this tactic is effective and shows Carter's willingness to use calculated physical coercion to achieve his goals, indicating a ruthless but competent approach.",
+      "rating": 2,
+      "chunk": 25
     },
     {
-      "Action": "Maintains composure and repeatedly commands Peter and Con to leave despite their provoking remarks and situation.",
-      "Competence": 1,
-      "Chunk": 32
+      "trait": "competence",
+      "action": "Tosses the whisky bottle to Keith and continues interrogation without distraction.",
+      "assessment": "This shows Carter's ability to maintain focus and control over the environment and people around him, a sign of competence.",
+      "rating": 2,
+      "chunk": 25
     },
     {
-      "Action": "Initially reaches toward the chamber pot instead of the gun, showing a brief hesitation or reflex.",
-      "Competence": 0,
-      "Chunk": 32
+      "trait": "warmth",
+      "action": "Applies physical pressure to Thorpe to extract information, causing him pain.",
+      "assessment": "Using physical coercion and causing pain to get information shows a lack of empathy and harshness, indicating low warmth.",
+      "rating": -3,
+      "chunk": 26
     },
     {
-      "Action": "Hands Edna the gun and casket, asks her to do a favor despite possible danger.",
-      "Warmth": 0,
-      "Chunk": 33
+      "trait": "warmth",
+      "action": "Invites Edna in and offers her tea in a casual manner.",
+      "assessment": "Inviting Edna in and including her in the situation is a mild gesture of friendliness, though somewhat perfunctory given the context.",
+      "rating": 1,
+      "chunk": 26
     },
     {
-      "Action": "Protects Edna from Con by covering Con with shotgun, directs Con to a secure place.",
-      "Warmth": 1,
-      "Chunk": 33
+      "trait": "warmth",
+      "action": "Laughs after Thorpe begs him not to reveal who sent him.",
+      "assessment": "Laughing at Thorpe's desperate plea suggests a lack of sympathy and insensitivity.",
+      "rating": -2,
+      "chunk": 26
     },
     {
-      "Action": "Maintains distance from neighbors, causes old woman to drop and break milk bottle due to presence with shotgun.",
-      "Warmth": -1,
-      "Chunk": 33
+      "trait": "warmth",
+      "action": "Acknowledges Edna's frustration but quickly dismisses it to continue his agenda.",
+      "assessment": "While Carter recognizes Edna's feelings, he does not engage sincerely, showing limited tolerance and consideration.",
+      "rating": -1,
+      "chunk": 26
     },
     {
-      "Action": "Replies to Edna with a witty, lighthearted comment about whistling 'Rule, Britannia' while sitting in the car.",
-      "Warmth": 1,
-      "Chunk": 34
+      "trait": "competence",
+      "action": "Interrogates Thorpe effectively, applying physical pressure to extract information about Brumby and his whereabouts.",
+      "assessment": "This action demonstrates Carter's skill in intimidation and interrogation, showing confidence and control in extracting useful intelligence.",
+      "rating": 2,
+      "chunk": 26
     },
     {
-      "Action": "Says 'How could I stay away?' when Edna asks if he's coming back, indicating a friendly or sincere attachment.",
-      "Warmth": 1,
-      "Chunk": 34
+      "trait": "competence",
+      "action": "Keeps Thorpe restrained and prevents him from contacting others by instructing Keith to keep him away from the telephone.",
+      "assessment": "This shows foresight and tactical thinking, ensuring that the information Carter has gained is not compromised.",
+      "rating": 2,
+      "chunk": 26
     },
     {
-      "Action": "Drives recklessly, tearing off Peter's Jaguar door and crashing it on the tarmac.",
-      "Warmth": -1,
-      "Chunk": 34
+      "trait": "competence",
+      "action": "Lets Edna in and manages the situation with her firmly but politely, maintaining control of the environment.",
+      "assessment": "Carter balances social interaction with maintaining authority, indicating social intelligence and situational awareness.",
+      "rating": 1,
+      "chunk": 26
     },
     {
-      "Action": "Throws the washing off the car's bonnet into a neglected garden.",
-      "Warmth": -1,
-      "Chunk": 34
+      "trait": "competence",
+      "action": "Leaves abruptly after securing the information, ignoring Edna's protests.",
+      "assessment": "This suggests decisiveness and prioritization of objectives over social niceties, reflecting confidence and focus.",
+      "rating": 1,
+      "chunk": 26
     },
     {
-      "Action": "Asks for Keith and enters his room uninvited while Keith is in a bad state.",
-      "Warmth": 0,
-      "Chunk": 34
+      "trait": "competence",
+      "action": "Laughs and closes the door after Thorpe pleads him not to reveal his cooperation.",
+      "assessment": "This indicates a level of psychological control and perhaps a dismissive attitude toward threats, showing confidence but also a potential underestimation of risks.",
+      "rating": 1,
+      "chunk": 26
     },
     {
-      "Action": "Shows concern by asking Keith what happened and if he was treated badly.",
-      "Warmth": 1,
-      "Chunk": 35
+      "trait": "warmth",
+      "action": "Watches the party guests from behind a tree without intervening when a young man throws up and is kicked into the lily pond.",
+      "assessment": "Carter's choice to observe rather than help or intervene suggests detachment and a lack of empathy or friendliness toward the party guests.",
+      "rating": -2,
+      "chunk": 27
     },
     {
-      "Action": "Offers Keith money to pay for a karate course.",
-      "Warmth": 1,
-      "Chunk": 35
+      "trait": "warmth",
+      "action": "Arrives at a lively party but does not engage with the guests or show any social warmth.",
+      "assessment": "His silent and distant behavior at a social event indicates a reserved or possibly cold demeanor, lacking in friendliness or sincerity.",
+      "rating": -1,
+      "chunk": 27
     },
     {
-      "Action": "Turns to leave despite Keith's anger and insults, not engaging in further conflict.",
-      "Warmth": 0,
-      "Chunk": 35
+      "trait": "competence",
+      "action": "Carter parks and gets out, then watches a young man throw up from behind a tree, and shifts his attention to the arrival of Cliff Brumby.",
+      "assessment": "This shows Carter's observational skills and patience, indicating he is cautious and aware of his surroundings, which are positive indicators of competence.",
+      "rating": 2,
+      "chunk": 27
     },
     {
-      "Action": "Finds Keith unexpectedly despite Keith's attempt to hide.",
-      "Competence": 1,
-      "Chunk": 35
+      "trait": "competence",
+      "action": "Carter remains hidden and does not intervene immediately when Brumby arrives angry and aggressive at the party.",
+      "assessment": "His choice to observe rather than act rashly suggests strategic thinking and self-control, reflecting competence in managing potentially volatile situations.",
+      "rating": 2,
+      "chunk": 27
     },
     {
-      "Action": "Offers Keith money sarcastically for a course in karate, showing awareness of the situation and control.",
-      "Competence": 1,
-      "Chunk": 35
+      "trait": "warmth",
+      "action": "Pauses outside the front door and listens to the row going on upstairs before entering quietly.",
+      "assessment": "Carter shows restraint and does not immediately intervene in a family dispute, indicating a degree of tolerance or at least non-aggression.",
+      "rating": 1,
+      "chunk": 28
     },
     {
-      "Action": "Engages Keith in conversation despite Keith's hostility, maintaining focus on his goals.",
-      "Competence": 1,
-      "Chunk": 35
+      "trait": "warmth",
+      "action": "Greets Mrs Brumby politely with 'Good evening' upon entering the house.",
+      "assessment": "Despite the tense situation, Carter maintains a courteous and calm demeanor, which suggests a basic level of friendliness and respect.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "Does not respond to Keith's insults or provocation, maintains composure and leaves without escalating the conflict.",
-      "Competence": 1,
-      "Chunk": 35
+      "trait": "warmth",
+      "action": "Sits down in an armchair to make his point after Mrs Brumby is uncertain.",
+      "assessment": "By sitting down, Carter attempts to appear non-threatening and composed, which can be seen as a way to ease tension and show sincerity.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "Gently takes sunglasses from Margaret's face and folds them up.",
-      "Warmth": 1,
-      "Chunk": 36
+      "trait": "warmth",
+      "action": "Does not respond to Brumby's aggressive questioning and remains still, weighing him up.",
+      "assessment": "Carter's silence and stillness in the face of aggression could be interpreted as calmness, but also as coldness or emotional distance, showing little warmth or empathy.",
+      "rating": -1,
+      "chunk": 28
     },
     {
-      "Action": "Expresses disbelief in Margaret's statement to comfort/protect her.",
-      "Warmth": 1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Pauses outside the front door, listens to the argument upstairs before entering silently.",
+      "assessment": "This shows Carter's cautious and observant nature, indicating he assesses situations carefully before acting, a sign of competence.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "Snaps Margaret's glasses in two and throws them away.",
-      "Warmth": -1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Opens the door and enters the house calmly despite the hostile environment.",
+      "assessment": "Demonstrates confidence and control in a potentially threatening situation, reflecting skill and self-assurance.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "Confronts Margaret aggressively to find out who killed Frank, showing determination and focus on his objective.",
-      "Competence": 1,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "Engages Mrs Brumby with a calm, controlled demeanor, claiming to be an old friend and stating urgency.",
+      "assessment": "Shows social tact and ability to manage interactions under pressure, indicating interpersonal competence.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "Reads the situation quickly and suspects Margaret betrayed him, indicating perceptiveness.",
-      "Competence": 1,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "Sits down in an armchair to make his point, asserting presence without aggression.",
+      "assessment": "This confident, non-verbal assertion of control suggests psychological insight and strategic thinking.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "Vaults over a handrail onto a corrugated roof to escape, demonstrating physical agility and resourcefulness.",
-      "Competence": 1,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "Does not respond immediately to Brumby's aggressive questioning, instead weighing him up silently.",
+      "assessment": "Exhibits patience and strategic evaluation rather than impulsive reaction, a sign of mental acuity and competence.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "Is pursued by Con and Peter who have a vehicle advantage, indicating he might be at a tactical disadvantage currently.",
-      "Competence": 0,
-      "Chunk": 37
+      "trait": "warmth",
+      "action": "Laughs upon realizing Brumby has lied to him, then admits he made a mistake and tries to leave without confrontation.",
+      "assessment": "Admitting a mistake and attempting to de-escalate the situation shows some level of humility and avoidance of unnecessary conflict, which can be seen as a mild positive indicator of warmth.",
+      "rating": 1,
+      "chunk": 29
     },
     {
-      "Action": "Accepts Glenda's spontaneous rescue and shares lighthearted banter with her.",
-      "Warmth": 1,
-      "Chunk": 38
+      "trait": "warmth",
+      "action": "Responds to Brumby's aggression by delivering several sharp blows to his head and neck, causing Brumby to collapse hurt.",
+      "assessment": "Using physical violence to handle confrontation reflects a harsh and aggressive approach, indicating low tolerance and a lack of friendly or trustworthy behavior, thus a negative indicator of warmth.",
+      "rating": -3,
+      "chunk": 29
     },
     {
-      "Action": "Keeps focus on Glenda with affectionate, teasing conversation while in the car.",
-      "Warmth": 1,
-      "Chunk": 38
+      "trait": "warmth",
+      "action": "Says 'Good night, Mrs Brumby' as he leaves after the violent encounter.",
+      "assessment": "Offering a polite farewell despite the violent encounter suggests a minimal degree of civility and respect, a slight positive gesture in an otherwise hostile interaction.",
+      "rating": 1,
+      "chunk": 29
     },
     {
-      "Action": "Smiles and engages in conversation with Brumby without hostility.",
-      "Warmth": 1,
-      "Chunk": 39
+      "trait": "warmth",
+      "action": "Enters Edna's boarding house cautiously and quietly, showing care in not disturbing or alarming anyone.",
+      "assessment": "Cautious and quiet behavior indicates a considerate and careful approach, which can be interpreted as a mild positive sign of warmth.",
+      "rating": 1,
+      "chunk": 29
     },
     {
-      "Action": "Gives a short, non-inquisitive 'Yes' response to Brumby's question about the restaurant.",
-      "Warmth": 0,
-      "Chunk": 39
+      "trait": "competence",
+      "action": "Realizes Thorpe has lied to him and that Brumby isn't his man, then decides to leave.",
+      "assessment": "This shows Carter's ability to quickly assess a situation and recognize misinformation, indicating situational awareness and intelligence.",
+      "rating": 2,
+      "chunk": 29
     },
     {
-      "Action": "Does not press Brumby for more details about his troubles, showing tolerance or patience.",
-      "Warmth": 1,
-      "Chunk": 39
+      "trait": "competence",
+      "action": "When Brumby blocks his exit and becomes aggressive, Carter dodges the punch and incapacitates Brumby with precise blows.",
+      "assessment": "This demonstrates Carter's physical skill, quick reflexes, and confidence in handling confrontation effectively.",
+      "rating": 3,
+      "chunk": 29
     },
     {
-      "Action": "Refuses to act on unverified information, challenges Brumby to provide proof.",
-      "Warmth": 1,
-      "Chunk": 40
+      "trait": "competence",
+      "action": "Enters the boarding house cautiously, closes the door quietly, pauses to listen, and moves quietly toward the sitting-room door upon hearing a noise.",
+      "assessment": "This indicates Carter's careful, methodical approach and stealth, reflecting tactical intelligence and caution.",
+      "rating": 3,
+      "chunk": 29
     },
     {
-      "Action": "Leaves Glenda's apartment quietly after sex without emotional connection or tenderness.",
-      "Warmth": -1,
-      "Chunk": 40
+      "trait": "competence",
+      "action": "Switches on the light abruptly upon entering the sitting room where Edna is found in distress.",
+      "assessment": "While Carter is decisive in illuminating the room, the sudden light might reduce stealth, suggesting a minor lapse in tactical subtlety.",
+      "rating": 0,
+      "chunk": 29
     },
     {
-      "Action": "Refuses to accept Brumby's accusation without evidence and challenges the basis of the claim, demonstrating skepticism and critical thinking.",
-      "Competence": 1,
-      "Chunk": 40
+      "trait": "warmth",
+      "action": "Helps himself to a glass of water but does not offer it to Edna, who is visibly distressed and has a torn dress.",
+      "assessment": "Carter's action shows a lack of consideration for Edna's immediate needs and discomfort, indicating low warmth.",
+      "rating": -2,
+      "chunk": 30
     },
     {
-      "Action": "Walks away confidently after shutting down Brumby's attempt to pin the murder on Kinnear, showing decisiveness and control.",
-      "Competence": 1,
-      "Chunk": 40
+      "trait": "warmth",
+      "action": "Responds to Edna's concerns about her son being taken away with a shrug and says 'Don't ask me.'",
+      "assessment": "This dismissive response to Edna's distress about her child suggests emotional coldness and untrustworthiness.",
+      "rating": -3,
+      "chunk": 30
     },
     {
-      "Action": "Carter quickly assesses the situation by asking Glenda pertinent questions about who set her up and potential dangers.",
-      "Competence": 1,
-      "Chunk": 41
+      "trait": "warmth",
+      "action": "Tells Edna 'You're lucky. They kill as well.' when she complains about being hurt.",
+      "assessment": "This comment is harsh and unsympathetic, showing a lack of empathy and warmth.",
+      "rating": -3,
+      "chunk": 30
     },
     {
-      "Action": "Carter notices and investigates the loaded film projector, demonstrating curiosity and attention to detail.",
-      "Competence": 1,
-      "Chunk": 41
+      "trait": "warmth",
+      "action": "Angrily tells Edna to 'shut up' when she presses him about the whereabouts of her son.",
+      "assessment": "This aggressive dismissal of Edna's concerns reflects low tolerance and friendliness.",
+      "rating": -3,
+      "chunk": 30
     },
     {
-      "Action": "Carter engages in casual conversation and physical intimacy, possibly lowering his guard.",
-      "Competence": 0,
-      "Chunk": 41
+      "trait": "warmth",
+      "action": "Smiles and teases Edna by referencing her purple underwear to defuse tension.",
+      "assessment": "This moment of light teasing shows a rare glimpse of warmth and familiarity, indicating some friendly and sincere behavior.",
+      "rating": 1,
+      "chunk": 30
     },
     {
-      "Action": "Carter does not seem alarmed or suspicious about Brumby's involvement despite potential risks.",
-      "Competence": 0,
-      "Chunk": 41
+      "trait": "warmth",
+      "action": "Offers to buy Edna another dress after seeing her torn one.",
+      "assessment": "Though minimal, this offer shows a small gesture of care and consideration.",
+      "rating": 1,
+      "chunk": 30
     },
     {
-      "Action": "Watches the disturbing scene without flinching, showing emotional restraint but also deep internal suffering with tears and looks defeated.",
-      "Warmth": 0,
-      "Chunk": 42
+      "trait": "competence",
+      "action": "Helps himself to a glass of water calmly upon entering the room.",
+      "assessment": "This action shows a composed and unflustered demeanor, suggesting confidence and control in a tense situation.",
+      "rating": 1,
+      "chunk": 30
     },
     {
-      "Action": "Does not intervene or stop the conflict or protect Doreen even though he watches closely, indicating emotional distance or inability to act warmly.",
-      "Warmth": -1,
-      "Chunk": 42
+      "trait": "competence",
+      "action": "Swallows a pill without hesitation despite the stressful situation.",
+      "assessment": "This indicates a level of self-control and preparedness, implying he manages his physical or mental state effectively.",
+      "rating": 1,
+      "chunk": 30
     },
     {
-      "Action": "Approaches Glenda gently and attempts to make a light joke about giving her an Oscar, showing some friendly warmth and connection.",
-      "Warmth": 1,
-      "Chunk": 42
+      "trait": "competence",
+      "action": "Shrugs when asked about the boy being taken away and shows no clear plan or knowledge of the boy's whereabouts.",
+      "assessment": "This suggests a lack of information or control over the situation, indicating a gap in his competence regarding intelligence gathering or planning.",
+      "rating": -1,
+      "chunk": 30
     },
     {
-      "Action": "Carter tenses but never flinches from what's happening in the film; watches carefully and processes the situation without reacting impulsively.",
-      "Competence": 1,
-      "Chunk": 42
+      "trait": "competence",
+      "action": "Responds to Edna's taunts and questions with sarcasm and deflection rather than clear answers.",
+      "assessment": "While this shows confidence and verbal skill, it also reveals evasiveness and possible avoidance of responsibility, which can undermine perceived competence.",
+      "rating": 0,
+      "chunk": 30
     },
     {
-      "Action": "When the reel runs out and emotional pain is evident (tears, looks old and defeated), Carter momentarily appears vulnerable and affected, showing some loss of control or confidence.",
-      "Competence": -1,
-      "Chunk": 42
+      "trait": "competence",
+      "action": "Angrily asserts he doesn't know where the boy has been taken and demands Edna to shut up.",
+      "assessment": "This moment of frustration and loss of composure indicates a crack in his usual control and suggests limitations in his situational command.",
+      "rating": -1,
+      "chunk": 30
     },
     {
-      "Action": "After a moment of apparent defeat, Carter's anger explodes and he throws back the bedclothes decisively, showing renewed determination and drive.",
-      "Competence": 1,
-      "Chunk": 42
+      "trait": "competence",
+      "action": "Uses knowledge of Edna's purple underwear to disarm her threat about calling the police.",
+      "assessment": "This demonstrates psychological insight and confidence, using personal knowledge to maintain dominance and control in the interaction.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Seizes Glenda and holds her underwater to coerce the truth.",
-      "Warmth": -1,
-      "Chunk": 43
+      "trait": "competence",
+      "action": "Physically rips open Edna's torn blouse to reveal the purple underwear, confirming his assertion.",
+      "assessment": "This bold and assertive action shows decisiveness and a willingness to take control of the situation, reinforcing his dominance and confidence.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Manhandles Glenda and forces her into the car boot.",
-      "Warmth": -1,
-      "Chunk": 43
+      "trait": "warmth",
+      "action": "Puts his arm around Edna and moves on top of her, initiating gentle lovemaking.",
+      "assessment": "This physical intimacy, combined with gentle behavior and a caring question about her well-being, suggests a degree of tenderness and connection, indicating some warmth.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Grabs a girl by the throat in a cafe demanding information.",
-      "Warmth": -1,
-      "Chunk": 43
+      "trait": "warmth",
+      "action": "Engages in light, playful conversation with Edna about breakfast and sleep.",
+      "assessment": "The casual, somewhat teasing exchange shows a relaxed and familiar rapport, reflecting friendliness and a sincere connection.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Systematically questions Glenda, using specific names and details to extract information about a complex situation.",
-      "Competence": 1,
-      "Chunk": 43
+      "trait": "warmth",
+      "action": "Keeps a loaded shotgun beside the bed while being intimate with Edna.",
+      "assessment": "The presence of a weapon in such a private moment suggests a guarded, possibly distrustful nature, which detracts from warmth.",
+      "rating": -1,
+      "chunk": 31
     },
     {
-      "Action": "Demonstrates emotional loss of control by violently submerging Glenda in the bathwater.",
-      "Competence": -1,
-      "Chunk": 43
+      "trait": "warmth",
+      "action": "Responds to Edna's question about sleep with a curt 'No' initially, then later 'Yes, thank you.'",
+      "assessment": "The initial curt response may indicate emotional distance or reticence, but the later polite answer shows some consideration; overall, mixed signals on warmth.",
+      "rating": 0,
+      "chunk": 31
     },
     {
-      "Action": "Uses intimidation and force effectively to compel Glenda to give useful information.",
-      "Competence": 1,
-      "Chunk": 43
+      "trait": "competence",
+      "action": "Maintains a calm, casual demeanor while interacting with Edna, including playful banter and intimacy, despite the presence of imminent danger.",
+      "assessment": "This suggests Carter's ability to stay composed and in control in potentially threatening situations, indicating emotional and situational competence.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Pushes Glenda into the car and drives off decisively to pursue his goals.",
-      "Competence": 1,
-      "Chunk": 43
+      "trait": "competence",
+      "action": "Keeps a shotgun within immediate reach under the bed while in bed with Edna.",
+      "assessment": "This shows foresight and preparedness, reflecting tactical awareness and readiness for confrontation.",
+      "rating": 3,
+      "chunk": 31
     },
     {
-      "Action": "Confronts another person aggressively at the cafe, showing directness and initiative.",
-      "Competence": 1,
-      "Chunk": 43
+      "trait": "competence",
+      "action": "Responds immediately and presumably alertly when two armed men enter the room, as indicated by his quick movement off the bed.",
+      "assessment": "This quick reaction demonstrates alertness and physical readiness, key indicators of competence in a dangerous environment.",
+      "rating": 3,
+      "chunk": 31
     },
     {
-      "Action": "Grabs the girl by the throat causing her fear.",
-      "Warmth": -1,
-      "Chunk": 44
+      "trait": "competence",
+      "action": "Engages in seemingly trivial conversation about breakfast and sleep while danger approaches.",
+      "assessment": "While this could be interpreted as maintaining calm, it might also suggest a degree of distraction or underestimation of the threat, slightly reducing the impression of situational awareness.",
+      "rating": 0,
+      "chunk": 31
     },
     {
-      "Action": "Lets go of the girl suddenly after grabbing her.",
-      "Warmth": 0,
-      "Chunk": 44
+      "trait": "warmth",
+      "action": "Refuses to engage violently despite being confronted and threatened with a gun by Peter and Con.",
+      "assessment": "Carter's decision not to use the gun, even when provoked and in a vulnerable state, suggests restraint and a lack of aggression, which can be seen as a moderate indicator of warmth.",
+      "rating": 1,
+      "chunk": 32
     },
     {
-      "Action": "Threatens Albert with death to get information.",
-      "Warmth": -1,
-      "Chunk": 44
+      "trait": "warmth",
+      "action": "Commands Peter and Con to leave his room repeatedly, asserting his boundaries.",
+      "assessment": "While Carter is firm and assertive, his tone is not hostile but rather direct; this shows a degree of self-respect but limited friendliness or warmth toward the intruders.",
+      "rating": 0,
+      "chunk": 32
     },
     {
-      "Action": "Offers Albert a cigarette when Albert asks for one.",
-      "Warmth": 1,
-      "Chunk": 44
+      "trait": "warmth",
+      "action": "Does not retaliate verbally or physically against the mocking and invasive behavior of Peter and Con.",
+      "assessment": "Carter's lack of retaliation could indicate tolerance or emotional control, but it may also reflect resignation or strategic restraint rather than warmth.",
+      "rating": 0,
+      "chunk": 32
     },
     {
-      "Action": "Threatens Albert with violence to extract information and ultimately kills him despite Albert's pleas and innocence.",
-      "Warmth": -1,
-      "Chunk": 45
+      "trait": "competence",
+      "action": "Carter's hand initially moves toward the chamber pot instead of the gun, but then quickly corrects and grabs the gun.",
+      "assessment": "This hesitation suggests a momentary lapse or distraction, indicating a slight lack of readiness or focus in a tense situation.",
+      "rating": -1,
+      "chunk": 32
     },
     {
-      "Action": "Watches a mother and her young children with regret and remorse.",
-      "Warmth": 1,
-      "Chunk": 46
+      "trait": "competence",
+      "action": "Carter pulls out the gun and asserts control by ordering Peter and Con to take him back to London.",
+      "assessment": "This shows Carter's ability to quickly regain composure, assert dominance, and take control of the situation despite being caught off guard.",
+      "rating": 2,
+      "chunk": 32
     },
     {
-      "Action": "Calmly walks through the betting shop, paying no particular attention to others.",
-      "Warmth": 0,
-      "Chunk": 46
+      "trait": "competence",
+      "action": "Carter remains firm and unflinching when Peter and Con mock him and laugh, repeatedly telling them to 'Out.'",
+      "assessment": "His confident and unyielding demeanor in the face of mockery demonstrates strong self-assurance and psychological resilience.",
+      "rating": 2,
+      "chunk": 32
     },
     {
-      "Action": "Holding a handgun, preparing for confrontation with Eric, Con, and Peter; engages in verbal sparring.",
-      "Warmth": -1,
-      "Chunk": 46
+      "trait": "competence",
+      "action": "Carter moves around the bed naked toward his adversaries, showing no hesitation or embarrassment.",
+      "assessment": "This indicates a high level of confidence and fearlessness, traits associated with competence in confrontational scenarios.",
+      "rating": 2,
+      "chunk": 32
     },
     {
-      "Action": "Shows no emotion but shoots Peter cold-bloodedly as he pleads, executing him without hesitation.",
-      "Warmth": -1,
-      "Chunk": 47
+      "trait": "warmth",
+      "action": "Slowly backs into the house when the old woman next door drops her milk in shock upon seeing him with a shotgun.",
+      "assessment": "Carter does not confront or threaten the old woman, indicating a degree of restraint and possibly concern for not alarming her further.",
+      "rating": 1,
+      "chunk": 33
     },
     {
-      "Action": "Watches impassively as a car is deliberately sent into the river, ignoring Glenda's screams.",
-      "Warmth": -1,
-      "Chunk": 47
+      "trait": "warmth",
+      "action": "Tells Edna that Peter and Con are friends of his and that he doesn't want to get rough.",
+      "assessment": "This shows Carter's attempt to reassure Edna and avoid unnecessary violence, suggesting some care for her feelings and safety.",
+      "rating": 2,
+      "chunk": 33
     },
     {
-      "Action": "Slams fist hard into Brumby's gut after a disagreement.",
-      "Warmth": -1,
-      "Chunk": 48
+      "trait": "warmth",
+      "action": "Hands Edna the gun case and casket, entrusting her with them.",
+      "assessment": "Entrusting Edna with potentially dangerous items could indicate trust and respect, reflecting warmth in their relationship.",
+      "rating": 2,
+      "chunk": 33
     },
     {
-      "Action": "Makes a covert phone call and carefully sends incriminating film evidence to the Vice Squad to expose crime.",
-      "Warmth": 1,
-      "Chunk": 48
+      "trait": "warmth",
+      "action": "Commands Con to enter the coalshed and locks him inside.",
+      "assessment": "This action is controlling and potentially threatening, showing a lack of tolerance and friendliness toward Con.",
+      "rating": -2,
+      "chunk": 33
     },
     {
-      "Action": "Engages in a secretive drug transaction, exchanging heroin and money.",
-      "Warmth": -1,
-      "Chunk": 48
+      "trait": "warmth",
+      "action": "Covers Con with a shotgun to control the situation.",
+      "assessment": "Using a weapon to intimidate an associate suggests a harsh, distrustful approach, indicating low warmth.",
+      "rating": -2,
+      "chunk": 33
     },
     {
-      "Action": "Negotiates a deal over the phone calmly and with clear terms, showing strategic thought and control.",
-      "Competence": 1,
-      "Chunk": 50
+      "trait": "competence",
+      "action": "Carries a shotgun across his chest while calmly backing into the house without taking his eyes off Peter and Con.",
+      "assessment": "This shows Carter's situational awareness and calm under pressure, indicating a confident and controlled demeanor.",
+      "rating": 2,
+      "chunk": 33
     },
     {
-      "Action": "Takes charge of the situation by directing Margaret and handling the injection of heroin with precision and decisiveness.",
-      "Competence": 1,
-      "Chunk": 50
+      "trait": "competence",
+      "action": "Hands Edna the gun, bis case, and casket, and asks her to do a favor despite the risk.",
+      "assessment": "This demonstrates Carter's ability to delegate and trust others with important tasks, reflecting strategic thinking and leadership.",
+      "rating": 2,
+      "chunk": 33
     },
     {
-      "Action": "Holds a struggling woman down and injects her with heroin without hesitation, then carries her away calmly.",
-      "Competence": 1,
-      "Chunk": 51
+      "trait": "competence",
+      "action": "Confronts Con with a shotgun, takes Con's handgun, and directs him to enter the coalshed, then bolts the door.",
+      "assessment": "This action shows Carter's tactical skill, control of the situation, and ability to neutralize threats efficiently.",
+      "rating": 3,
+      "chunk": 33
     },
     {
-      "Action": "Positions himself strategically to watch Kinnear's house from a distance, observing arrivals.",
-      "Competence": 1,
-      "Chunk": 51
+      "trait": "competence",
+      "action": "Moves quickly back to Edna and the car after securing Con.",
+      "assessment": "This indicates Carter's decisiveness and ability to maintain momentum in a tense situation.",
+      "rating": 2,
+      "chunk": 33
     },
     {
-      "Action": "Calls the police to initiate a raid on Kinnear's estate after careful surveillance.",
-      "Competence": 1,
-      "Chunk": 51
+      "trait": "warmth",
+      "action": "Tells Edna he is going to sit in the car and whistle 'Rule, Britannia'.",
+      "assessment": "This response is somewhat dismissive and detached, showing little emotional engagement or reassurance to Edna's question, indicating low warmth.",
+      "rating": -1,
+      "chunk": 34
     },
     {
-      "Action": "Drives alone to a remote coal jetty, carrying a shotgun and Scotch.",
-      "Warmth": 0,
-      "Chunk": 52
+      "trait": "warmth",
+      "action": "Says 'How could I stay away?' when Edna asks if he is coming back.",
+      "assessment": "This statement suggests a hint of loyalty or connection, implying he will return, which is a mild positive indicator of warmth.",
+      "rating": 1,
+      "chunk": 34
     },
     {
-      "Action": "Engages in a cat-and-mouse pursuit of Eric Paice on the jetty.",
-      "Warmth": 0,
-      "Chunk": 52
+      "trait": "warmth",
+      "action": "Drives recklessly through the alley, collecting towels and sheets on the windscreen, then throws the washing off the car's bonnet into a neglected garden.",
+      "assessment": "This behavior is careless and disrespectful to others' property, showing disregard and lack of consideration, a negative indicator of warmth.",
+      "rating": -2,
+      "chunk": 34
     },
     {
-      "Action": "Calls out a taunting remark to Eric during pursuit ('You couldn't win an egg and spoon race, Eric.')",
-      "Warmth": -1,
-      "Chunk": 53
+      "trait": "warmth",
+      "action": "Hits Peter's Jaguar door at speed, tearing it off and causing damage.",
+      "assessment": "Deliberately damaging someone's car is aggressive and inconsiderate, reflecting low warmth and hostility.",
+      "rating": -3,
+      "chunk": 34
     },
     {
-      "Action": "Threatens Eric with a gun to prevent him from reaching the car ('Stay away from the car or I'll blow you apart.')",
-      "Warmth": -1,
-      "Chunk": 53
+      "trait": "warmth",
+      "action": "Enters Keith's room after asking for him politely through Shamir.",
+      "assessment": "Asking for Keith and entering his room without apparent hostility shows some degree of straightforwardness but no clear warmth; neutral behavior.",
+      "rating": 0,
+      "chunk": 34
     },
     {
-      "Action": "Plays cat and mouse with Eric, keeps overhead position and pursues him intelligently across varied terrain.",
-      "Competence": 1,
-      "Chunk": 53
+      "trait": "competence",
+      "action": "Closes and bolts the door quickly after Con goes in, then moves swiftly back to Edna and the car.",
+      "assessment": "This shows Carter's awareness of security and quick, decisive action, indicating situational control and practical competence.",
+      "rating": 2,
+      "chunk": 34
     },
     {
-      "Action": "Commands Eric to stay away from the car with a firm threat, demonstrating control and confidence.",
-      "Competence": 1,
-      "Chunk": 53
+      "trait": "competence",
+      "action": "Drives full tilt through a back alley, collecting towels and sheets on the windscreen.",
+      "assessment": "Driving recklessly through a narrow alley suggests confidence and skill in handling the car under pressure, though it also shows a disregard for caution.",
+      "rating": 1,
+      "chunk": 34
     },
     {
-      "Action": "Watches Eric's movements carefully before pursuing, showing patience and tactical awareness.",
-      "Competence": 1,
-      "Chunk": 53
+      "trait": "competence",
+      "action": "Hits Peter's Jaguar door at speed, tearing it off and continuing over the wasteground.",
+      "assessment": "This aggressive maneuver demonstrates Carter's boldness and willingness to use his environment to his advantage, but also a reckless approach that risks damage and attention.",
+      "rating": 1,
+      "chunk": 34
     },
     {
-      "Action": "Encourages and forces Eric to keep drinking Scotch despite Eric's obvious distress and exhaustion.",
-      "Warmth": -1,
-      "Chunk": 54
+      "trait": "competence",
+      "action": "Removes washing from the car bonnet and throws it into a neglected garden before approaching the house.",
+      "assessment": "This shows practical awareness and attention to detail, clearing his vehicle to avoid distractions or evidence, reflecting methodical behavior.",
+      "rating": 2,
+      "chunk": 34
     },
     {
-      "Action": "Relentlessly pursues Eric despite exhaustion, maintaining pressure and control.",
-      "Competence": 1,
-      "Chunk": 54
+      "trait": "competence",
+      "action": "Presses the doorbell and calmly questions Shamir about Keith's whereabouts, then enters the house and closes the door behind him.",
+      "assessment": "Carter's direct and confident approach to gathering information and entering a potentially hostile environment indicates social and situational competence.",
+      "rating": 2,
+      "chunk": 34
     },
     {
-      "Action": "Uses psychological pressure on Eric by forcing him to drink whisky as a form of intimidation and control.",
-      "Competence": 1,
-      "Chunk": 54
+      "trait": "warmth",
+      "action": "Offers Keith money to pay for a karate course after seeing him badly beaten.",
+      "assessment": "Although Carter's gesture is somewhat brusque and not accompanied by comforting words, offering money to help Keith defend himself in the future shows a degree of concern and practical support.",
+      "rating": 1,
+      "chunk": 35
     },
     {
-      "Action": "Slight panting, indicating physical strain but still managing to maintain dominance in the situation.",
-      "Competence": 0,
-      "Chunk": 54
+      "trait": "warmth",
+      "action": "Engages with Keith despite Keith's hostility and insults.",
+      "assessment": "Carter remains present and attempts to 'square things' with Keith despite being verbally attacked, indicating a willingness to confront difficult situations and maintain some connection.",
+      "rating": 1,
+      "chunk": 35
     },
     {
-      "Action": "Delivers a fatal blow to Eric after letting him choke; coldly says goodbye before killing him.",
-      "Warmth": -1,
-      "Chunk": 55
+      "trait": "warmth",
+      "action": "Leaves Keith alone after the confrontation without further emotional support.",
+      "assessment": "Carter shuts the door and leaves Keith shouting and in pain, showing a lack of empathy or nurturing behavior in a vulnerable moment.",
+      "rating": -2,
+      "chunk": 35
     },
     {
-      "Action": "Laughs while escorting Eric's body on its final journey.",
-      "Warmth": -1,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "Finds Keith despite Keith's attempt to hide and his injured state.",
+      "assessment": "Carter's ability to locate Keith shows resourcefulness and determination, indicating competent investigative skills.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Decides to dispose of the shotgun after killing Eric, showing some reflection.",
-      "Warmth": 0,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "Offers money to Keith for a karate course after seeing his beaten condition.",
+      "assessment": "This action suggests Carter is pragmatic and tries to address problems with practical solutions, showing some foresight and emotional intelligence.",
+      "rating": 1,
+      "chunk": 35
     },
     {
-      "Action": "Kills Eric decisively after determining he has seen enough.",
-      "Competence": 1,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "Engages Keith in conversation to extract information and attempts to 'square things' with him.",
+      "assessment": "Carter demonstrates interpersonal skills and strategic thinking by trying to manage relationships and gather information, reflecting competence.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Decides to get rid of the shotgun to avoid evidence or suspicion.",
-      "Competence": 1,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "Leaves Keith after the confrontation without escalating the situation.",
+      "assessment": "Carter shows restraint and control, avoiding unnecessary conflict, which is a sign of confident and capable behavior.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Is unaware of the sniper aiming at him and is shot and killed.",
-      "Competence": -1,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "Moves quickly and purposefully after parking his car at the riverside.",
+      "assessment": "This indicates decisiveness and physical readiness, traits associated with competence.",
+      "rating": 2,
+      "chunk": 35
+    },
+    {
+      "trait": "warmth",
+      "action": "Gently takes the sunglasses from Margaret's face and folds them up.",
+      "assessment": "This action shows a moment of tenderness and care, indicating a gentle and considerate side to Carter.",
+      "rating": 2,
+      "chunk": 36
+    },
+    {
+      "trait": "warmth",
+      "action": "Snaps Margaret's glasses in two and throws them away after expressing disbelief in her story.",
+      "assessment": "This aggressive and dismissive act undermines trust and shows a lack of respect for Margaret's feelings, indicating low warmth.",
+      "rating": -3,
+      "chunk": 36
+    },
+    {
+      "trait": "warmth",
+      "action": "Questions Margaret repeatedly about her relationship with Frank, pressing her on details.",
+      "assessment": "While persistent questioning can show concern, here it comes across as intrusive and somewhat confrontational, reducing perceived warmth.",
+      "rating": -1,
+      "chunk": 36
+    },
+    {
+      "trait": "warmth",
+      "action": "Admits 'I'm the villain in the family, remember?' in response to Margaret's story.",
+      "assessment": "This self-aware statement suggests some honesty and acceptance of his negative role, but it does not necessarily convey warmth.",
+      "rating": 0,
+      "chunk": 36
+    },
+    {
+      "trait": "competence",
+      "action": "Questions Margaret persistently about her relationship with Frank, probing for inconsistencies.",
+      "assessment": "This shows Carter's skill in interrogation and his ability to read between the lines, indicating a confident and capable approach to gathering information.",
+      "rating": 2,
+      "chunk": 36
+    },
+    {
+      "trait": "competence",
+      "action": "Disbelieves Margaret's story about Frank threatening suicide and expresses skepticism.",
+      "assessment": "This demonstrates Carter's critical thinking and unwillingness to accept surface explanations, reflecting intelligence and experience.",
+      "rating": 2,
+      "chunk": 36
+    },
+    {
+      "trait": "competence",
+      "action": "Gently removes Margaret's sunglasses and then snaps them in two, throwing them away.",
+      "assessment": "This action reveals Carter's assertiveness and control in the situation, but also a potentially impulsive or emotionally driven side that could undermine his professionalism.",
+      "rating": 0,
+      "chunk": 36
+    },
+    {
+      "trait": "competence",
+      "action": "Shakes his head silently after hearing Margaret's story.",
+      "assessment": "This non-verbal reaction suggests internal processing and doubt, indicating thoughtful consideration rather than rash judgment.",
+      "rating": 1,
+      "chunk": 36
+    },
+    {
+      "trait": "warmth",
+      "action": "Shouts insults at Margaret and physically assaults her by smacking her hard across the face.",
+      "assessment": "Physically hitting and verbally abusing Margaret demonstrates aggression and cruelty, indicating a significant lack of warmth.",
+      "rating": -3,
+      "chunk": 37
+    },
+    {
+      "trait": "warmth",
+      "action": "Holds Margaret's arm while interrogating her, causing her to wince as if hurt.",
+      "assessment": "Grabbing someone in a way that causes them pain or discomfort shows intimidation rather than care or friendliness.",
+      "rating": -2,
+      "chunk": 37
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses determination to find out who killed Frank and states he won't leave until he does.",
+      "assessment": "While his determination could be seen as loyalty or commitment, it is driven by vengeance and does not reflect warmth or benevolence.",
+      "rating": 0,
+      "chunk": 37
+    },
+    {
+      "trait": "warmth",
+      "action": "Calls Margaret a 'bitch' and accuses her of betrayal.",
+      "assessment": "Using hostile language and accusing someone harshly reflects distrust and hostility, not warmth.",
+      "rating": -2,
+      "chunk": 37
+    },
+    {
+      "trait": "competence",
+      "action": "Snaps Margaret's glasses in two and throws them away.",
+      "assessment": "This shows Carter's quick, decisive, and intimidating behavior, indicating confidence and control in confrontational situations.",
+      "rating": 2,
+      "chunk": 37
+    },
+    {
+      "trait": "competence",
+      "action": "Holds Margaret's arm firmly, causing her to wince, to assert dominance and extract information.",
+      "assessment": "This physical intimidation tactic suggests Carter is willing to use force effectively to achieve his goals, demonstrating assertiveness and tactical awareness.",
+      "rating": 2,
+      "chunk": 37
+    },
+    {
+      "trait": "competence",
+      "action": "Shouts and aggressively questions Margaret about Frank's death.",
+      "assessment": "While aggressive, Carter's direct approach shows determination and focus on his objective, reflecting mental clarity and purpose.",
+      "rating": 1,
+      "chunk": 37
+    },
+    {
+      "trait": "competence",
+      "action": "Smacks Margaret hard across the face after accusing her of betrayal.",
+      "assessment": "This violent reaction may indicate impulsiveness and a lack of emotional control, which could undermine his competence in maintaining strategic advantage.",
+      "rating": -1,
+      "chunk": 37
+    },
+    {
+      "trait": "competence",
+      "action": "Vaults over the handrail onto a corrugated roof to evade Con and Peter.",
+      "assessment": "This physical agility and quick thinking to escape a dangerous situation demonstrates high competence in physical capability and situational awareness.",
+      "rating": 3,
+      "chunk": 37
+    },
+    {
+      "trait": "competence",
+      "action": "Runs down narrow, steep, overgrown steps to reach his car while being chased.",
+      "assessment": "His ability to navigate difficult terrain under pressure shows strong physical fitness and determination, reinforcing his competence.",
+      "rating": 2,
+      "chunk": 37
+    },
+    {
+      "trait": "competence",
+      "action": "Despite being pursued by Con and Peter, Carter remains focused on reaching his car and escaping.",
+      "assessment": "Maintaining focus and composure under threat indicates mental resilience and tactical competence.",
+      "rating": 2,
+      "chunk": 37
+    },
+    {
+      "trait": "warmth",
+      "action": "Vaults into Glenda's car as it accelerates off to help him evade Peter's Jaguar.",
+      "assessment": "Accepting Glenda's help and engaging with her in a playful, trusting manner shows a degree of openness and friendliness.",
+      "rating": 2,
+      "chunk": 38
+    },
+    {
+      "trait": "warmth",
+      "action": "Engages in light, teasing banter with Glenda during the car ride.",
+      "assessment": "His playful and relaxed interaction with Glenda suggests a friendly and sincere side, indicating warmth in social exchanges.",
+      "rating": 2,
+      "chunk": 38
+    },
+    {
+      "trait": "competence",
+      "action": "Vaults into Glenda's car as it accelerates off, trusting her driving and presence.",
+      "assessment": "This shows Carter's quick decision-making and confidence in a risky situation, indicating situational awareness and decisiveness.",
+      "rating": 2,
+      "chunk": 38
+    },
+    {
+      "trait": "competence",
+      "action": "Allows Glenda to take the lead in driving aggressively through the multi-storey car park without intervening.",
+      "assessment": "While Carter's trust in Glenda might be strategic, his passive role here could suggest a momentary lack of control or assertiveness in a critical situation.",
+      "rating": 0,
+      "chunk": 38
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in light banter with Glenda during a tense escape.",
+      "assessment": "Maintaining composure and conversational control under pressure reflects emotional intelligence and confidence, supporting his competence.",
+      "rating": 1,
+      "chunk": 38
+    },
+    {
+      "trait": "warmth",
+      "action": "Smiles when Glenda mentions a 'magic spell' that would make him come.",
+      "assessment": "Smiling in response to a lighthearted comment suggests a moment of friendliness and openness.",
+      "rating": 1,
+      "chunk": 39
+    },
+    {
+      "trait": "warmth",
+      "action": "Responds simply with 'Yes' when Brumby asks if he likes the restaurant.",
+      "assessment": "A brief, non-committal response indicates a neutral or reserved attitude rather than warmth or friendliness.",
+      "rating": 0,
+      "chunk": 39
+    },
+    {
+      "trait": "warmth",
+      "action": "Listens quietly as Brumby explains his troubles and concerns about his business and enemies.",
+      "assessment": "Listening attentively can be a sign of respect and tolerance, but Carter does not offer empathy or support here, so the warmth is minimal.",
+      "rating": 0,
+      "chunk": 39
+    },
+    {
+      "trait": "competence",
+      "action": "Responds calmly and affirmatively to Brumby's description of his problems and the situation.",
+      "assessment": "Carter's calm and measured response ('Yes') to Brumby's concerns suggests confidence and control in a tense situation, indicating a competent and composed demeanor.",
+      "rating": 2,
+      "chunk": 39
+    },
+    {
+      "trait": "competence",
+      "action": "Walks into a potentially hostile meeting with Brumby without visible hesitation or signs of nervousness.",
+      "assessment": "Entering a meeting with a known adversary or complicated figure without hesitation shows Carter's confidence and readiness to engage, reflecting competence in handling difficult social dynamics.",
+      "rating": 2,
+      "chunk": 39
+    },
+    {
+      "trait": "competence",
+      "action": "Listens attentively to Brumby's detailed explanation of his business troubles and threats.",
+      "assessment": "Carter's attentive listening and allowing Brumby to explain fully indicates strategic patience and intelligence, traits associated with competence.",
+      "rating": 2,
+      "chunk": 39
+    },
+    {
+      "trait": "warmth",
+      "action": "Refuses to act on Brumby's accusation without evidence, demanding more than hearsay before taking action.",
+      "assessment": "Carter shows a degree of fairness and integrity by not accepting accusations at face value, indicating a cautious but principled approach.",
+      "rating": 1,
+      "chunk": 40
+    },
+    {
+      "trait": "warmth",
+      "action": "Walks slowly back towards the entrance after looking at Glenda, then leaves Brumby without further engagement.",
+      "assessment": "His slow departure and lack of confrontation suggest a reserved and somewhat distant demeanor, not openly hostile but not warm or engaging either.",
+      "rating": 0,
+      "chunk": 40
+    },
+    {
+      "trait": "warmth",
+      "action": "Gets into Glenda's car without speaking after she arrives abruptly.",
+      "assessment": "The silence and lack of communication here may indicate emotional distance or detachment, showing little warmth or openness in their interaction.",
+      "rating": -1,
+      "chunk": 40
+    },
+    {
+      "trait": "warmth",
+      "action": "Engages in a sexual encounter with Glenda in her modest apartment.",
+      "assessment": "While this shows a physical intimacy, the context and lack of emotional exchange suggest this act is more transactional or detached than warm or affectionate.",
+      "rating": 0,
+      "chunk": 40
+    },
+    {
+      "trait": "competence",
+      "action": "Refuses to accept Brumby's claim about Kinnear without evidence and challenges him directly.",
+      "assessment": "This shows Carter's critical thinking and unwillingness to be manipulated based on hearsay, indicating a cautious and intelligent approach to his dangerous situation.",
+      "rating": 2,
+      "chunk": 40
+    },
+    {
+      "trait": "competence",
+      "action": "Walks slowly back towards the entrance after looking at Glenda, then decisively exits after rejecting Brumby's story.",
+      "assessment": "His measured physical behavior combined with a confident verbal dismissal suggests self-control and confidence in his judgment.",
+      "rating": 2,
+      "chunk": 40
+    },
+    {
+      "trait": "competence",
+      "action": "Gets into Glenda's car without speaking after she arrives quickly and brakes hard.",
+      "assessment": "This non-verbal communication and quick compliance may indicate trust and an ability to coordinate silently with allies, reflecting situational awareness and social competence.",
+      "rating": 1,
+      "chunk": 40
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in a sexual encounter with Glenda immediately after a tense confrontation.",
+      "assessment": "While this may show personal confidence, it does not directly reflect competence in his main conflict or strategic situation; it could be a coping mechanism or a moment of vulnerability.",
+      "rating": 0,
+      "chunk": 40
+    },
+    {
+      "trait": "warmth",
+      "action": "Plays with Glenda's hair and kisses her neck after being intimate.",
+      "assessment": "These actions show a degree of tenderness and physical affection, indicating some warmth and closeness in his relationship with Glenda.",
+      "rating": 2,
+      "chunk": 41
+    },
+    {
+      "trait": "warmth",
+      "action": "Engages in casual, somewhat teasing conversation with Glenda about her situation and the people around her.",
+      "assessment": "His tone is familiar and somewhat playful, suggesting a friendly and sincere rapport, though tinged with suspicion.",
+      "rating": 1,
+      "chunk": 41
+    },
+    {
+      "trait": "warmth",
+      "action": "Switches on the film projector and watches a private film of Glenda without her consent.",
+      "assessment": "This action invades Glenda's privacy and shows a lack of respect and trust, indicating low warmth.",
+      "rating": -2,
+      "chunk": 41
+    },
+    {
+      "trait": "warmth",
+      "action": "Questions Glenda about Kinnear and Brumby in a probing manner.",
+      "assessment": "His questioning suggests suspicion and mistrust rather than tolerance or friendliness, reflecting limited warmth.",
+      "rating": -1,
+      "chunk": 41
+    },
+    {
+      "trait": "competence",
+      "action": "Carter plays with Glenda's hair and engages her in conversation to gather information about Brumby, Kinnear, and the country place.",
+      "assessment": "This shows Carter's skill in using casual intimacy to extract useful information, indicating social and observational competence.",
+      "rating": 2,
+      "chunk": 41
+    },
+    {
+      "trait": "competence",
+      "action": "Carter notices the film projector, points it out, and later switches it on to watch the loaded film.",
+      "assessment": "This demonstrates Carter's curiosity and attention to detail, as well as his initiative to investigate potential clues, reflecting investigative competence.",
+      "rating": 2,
+      "chunk": 41
+    },
+    {
+      "trait": "competence",
+      "action": "Carter asks pointed questions about Kinnear's intentions and Glenda's safety.",
+      "assessment": "This indicates Carter's strategic thinking and awareness of possible threats, showing mental acuity and caution.",
+      "rating": 2,
+      "chunk": 41
+    },
+    {
+      "trait": "competence",
+      "action": "Carter allows Glenda to push him away and does not react aggressively or lose composure.",
+      "assessment": "This restraint suggests emotional control and confidence, traits associated with competent interpersonal behavior.",
+      "rating": 1,
+      "chunk": 41
+    },
+    {
+      "trait": "warmth",
+      "action": "Watches the disturbing scene involving Doreen, showing visible emotional reaction with tears forming in his eyes.",
+      "assessment": "Carter's tears and visible emotional response indicate a capacity for empathy and emotional sensitivity, suggesting some underlying warmth despite his tough exterior.",
+      "rating": 2,
+      "chunk": 42
+    },
+    {
+      "trait": "warmth",
+      "action": "Remains passive and does not intervene while Doreen is in a frightening and abusive situation.",
+      "assessment": "His failure to act or protect Doreen in this moment reflects a lack of protective warmth and possibly resignation or helplessness, which negatively impacts his warmth rating.",
+      "rating": -2,
+      "chunk": 42
+    },
+    {
+      "trait": "warmth",
+      "action": "Approaches Glenda gently after the film ends and makes a lighthearted comment about giving her an Oscar.",
+      "assessment": "This shows a moment of friendly, sincere interaction and a softer side, indicating some warmth in his interpersonal behavior.",
+      "rating": 1,
+      "chunk": 42
+    },
+    {
+      "trait": "competence",
+      "action": "Carter tenses but never flinches from what's happening in the film, maintaining composure despite emotional provocation.",
+      "assessment": "This shows Carter's strong emotional control and mental focus, indicating a high level of psychological resilience and self-discipline.",
+      "rating": 2,
+      "chunk": 42
+    },
+    {
+      "trait": "competence",
+      "action": "Carter watches Albert Swift entering and leaving rooms, observing the fight and Doreen's terrified state without intervening immediately.",
+      "assessment": "His patience and careful observation suggest strategic thinking and situational awareness, though the lack of immediate action could be seen as cautious or hesitant.",
+      "rating": 1,
+      "chunk": 42
+    },
+    {
+      "trait": "competence",
+      "action": "When the film reel runs out, Carter shows visible emotional breakdown—tears and a look of defeat—before his anger resurfaces and he throws back the bedclothes.",
+      "assessment": "The momentary emotional collapse indicates vulnerability and a lapse in emotional control, but the quick recovery and renewed anger demonstrate resilience and determination.",
+      "rating": 0,
+      "chunk": 42
+    },
+    {
+      "trait": "competence",
+      "action": "Carter moves slowly and deliberately towards Glenda in the bath after dressing.",
+      "assessment": "This measured approach suggests careful planning and control over his actions, reflecting confidence and tactical awareness.",
+      "rating": 2,
+      "chunk": 42
+    },
+    {
+      "trait": "warmth",
+      "action": "Seizes Glenda and plunges her under the bathwater, holding her there until she nearly drowns.",
+      "assessment": "This violent and threatening behavior shows a severe lack of warmth, indicating cruelty and intimidation rather than trustworthiness or friendliness.",
+      "rating": -3,
+      "chunk": 43
+    },
+    {
+      "trait": "warmth",
+      "action": "Calls Glenda a 'lying bitch' and forces her to tell the truth through intimidation.",
+      "assessment": "Using insults and coercion to extract information reflects hostility and a lack of respect or sincerity.",
+      "rating": -3,
+      "chunk": 43
+    },
+    {
+      "trait": "warmth",
+      "action": "Pushes Glenda to get dressed and forces her into the boot of a car, then drives away.",
+      "assessment": "This controlling and forceful behavior demonstrates a lack of tolerance and friendliness, showing dominance rather than warmth.",
+      "rating": -3,
+      "chunk": 43
+    },
+    {
+      "trait": "warmth",
+      "action": "Grabs a girl with a baby by the throat in a cafe, intimidating her to answer questions.",
+      "assessment": "Physical intimidation and inducing fear are clear indicators of coldness and untrustworthiness, severely lacking warmth.",
+      "rating": -3,
+      "chunk": 43
+    },
+    {
+      "trait": "warmth",
+      "action": "Asks questions persistently to uncover the truth about his brother's murder.",
+      "assessment": "While his persistence could be seen as determination, the aggressive and violent manner undermines any positive warmth; the intent is not benevolent.",
+      "rating": -1,
+      "chunk": 43
+    },
+    {
+      "trait": "competence",
+      "action": "Systematically questions Glenda about the girl and the people involved, piecing together information about the murder and those responsible.",
+      "assessment": "This shows Carter's methodical and focused approach to gathering intelligence, indicating strong investigative skills and situational awareness.",
+      "rating": 2,
+      "chunk": 43
+    },
+    {
+      "trait": "competence",
+      "action": "Loses control and violently submerges Glenda under bathwater when frustrated by her evasiveness.",
+      "assessment": "This loss of emotional control undermines his ability to maintain a calm and strategic approach, suggesting a momentary lapse in self-discipline and professionalism.",
+      "rating": -2,
+      "chunk": 43
+    },
+    {
+      "trait": "competence",
+      "action": "Uses intimidation and physical dominance to coerce Glenda into revealing the truth.",
+      "assessment": "While ethically questionable, this demonstrates Carter's confidence and willingness to use force effectively to achieve his goals, reflecting a pragmatic and assertive competence.",
+      "rating": 1,
+      "chunk": 43
+    },
+    {
+      "trait": "competence",
+      "action": "Quickly deduces the girl's last name and connection to his murdered brother, then commands Glenda to get dressed and leave.",
+      "assessment": "This shows Carter's ability to synthesize information rapidly and take decisive action, highlighting his decisiveness and clarity of purpose.",
+      "rating": 2,
+      "chunk": 43
+    },
+    {
+      "trait": "competence",
+      "action": "Manhandles Glenda into the car boot and drives off immediately to pursue leads.",
+      "assessment": "This action reflects Carter's decisiveness and readiness to take control of situations, though it also suggests a ruthless and forceful style that may alienate allies.",
+      "rating": 1,
+      "chunk": 43
+    },
+    {
+      "trait": "competence",
+      "action": "Confronts a frightened girl in a cafe and immediately demands to know Albert's whereabouts, grabbing her by the throat when she cannot answer.",
+      "assessment": "This shows Carter's aggressive interrogation tactics and confidence in intimidating suspects, but also a lack of subtlety that could compromise long-term effectiveness.",
+      "rating": 0,
+      "chunk": 43
+    },
+    {
+      "trait": "warmth",
+      "action": "Grabs the girl by the throat when she is numb with fear, then lets go suddenly.",
+      "assessment": "Physically intimidating a frightened girl is a harsh and threatening action, showing a lack of kindness or empathy.",
+      "rating": -3,
+      "chunk": 44
+    },
+    {
+      "trait": "warmth",
+      "action": "Speaks calmly to Albert Swift, offering him a cigarette when Albert asks for one.",
+      "assessment": "Offering a cigarette in a tense moment shows a small gesture of camaraderie or tolerance, indicating a slight moment of warmth.",
+      "rating": 1,
+      "chunk": 44
+    },
+    {
+      "trait": "warmth",
+      "action": "Follows Albert to the back of the betting shop and closes the door behind them to prevent escape.",
+      "assessment": "This action is controlling and threatening, demonstrating a lack of trust or friendliness.",
+      "rating": -2,
+      "chunk": 44
+    },
+    {
+      "trait": "warmth",
+      "action": "Uses direct threats to coerce Albert into talking.",
+      "assessment": "Threatening violence to extract information is an aggressive and intimidating behavior, reflecting low warmth.",
+      "rating": -3,
+      "chunk": 44
+    },
+    {
+      "trait": "competence",
+      "action": "Grabs the girl by the throat to intimidate her into revealing Albert's whereabouts, then lets go suddenly.",
+      "assessment": "This shows Carter's ability to use intimidation effectively and control the situation without unnecessary violence, indicating tactical restraint and confidence.",
+      "rating": 2,
+      "chunk": 44
+    },
+    {
+      "trait": "competence",
+      "action": "Walks quickly to the betting shop after deducing Albert's likely location from the girl's phone call.",
+      "assessment": "Demonstrates good situational awareness and decisiveness in following up on leads promptly.",
+      "rating": 2,
+      "chunk": 44
+    },
+    {
+      "trait": "competence",
+      "action": "Enters the betting shop calmly, approaches Albert without alerting him, and initiates a direct confrontation.",
+      "assessment": "Shows confidence and skill in approaching a potentially dangerous target without causing alarm, indicating control and tactical awareness.",
+      "rating": 2,
+      "chunk": 44
+    },
+    {
+      "trait": "competence",
+      "action": "Uses a casual question about the toilet to lure Albert away from the public area.",
+      "assessment": "This is a clever tactic to isolate Albert, showing Carter's strategic thinking and ability to manipulate situations to his advantage.",
+      "rating": 3,
+      "chunk": 44
+    },
+    {
+      "trait": "competence",
+      "action": "Quickly closes the door behind them in the backyard to prevent Albert's escape.",
+      "assessment": "Demonstrates quick reflexes and awareness of the environment to maintain control over the situation.",
+      "rating": 2,
+      "chunk": 44
+    },
+    {
+      "trait": "competence",
+      "action": "Easily pulls Albert down when he tries to climb the locked gate to escape.",
+      "assessment": "Shows physical dominance and readiness to act decisively to prevent escape, reinforcing his capability.",
+      "rating": 2,
+      "chunk": 44
+    },
+    {
+      "trait": "competence",
+      "action": "Offers Albert a cigarette after subduing him.",
+      "assessment": "This small gesture indicates psychological insight and control, using calmness and small rewards to keep Albert compliant.",
+      "rating": 2,
+      "chunk": 44
+    },
+    {
+      "trait": "warmth",
+      "action": "Threatens Albert with death to extract information about Frank's murder.",
+      "assessment": "Using intimidation and threats to get information shows a lack of trustworthiness and friendliness, indicating low warmth.",
+      "rating": -3,
+      "chunk": 45
+    },
+    {
+      "trait": "warmth",
+      "action": "Kills Albert despite his pleas and tears, even after Albert insists he did not kill Frank.",
+      "assessment": "Killing a man who is pleading and not the murderer demonstrates cruelty and a lack of benevolence or sincerity, strongly negative for warmth.",
+      "rating": -3,
+      "chunk": 45
+    },
+    {
+      "trait": "warmth",
+      "action": "Acknowledges that Albert did not kill Frank while killing him.",
+      "assessment": "Although Carter shows some recognition of Albert's innocence, this does not mitigate the violent and cold nature of his action, so it does not improve his warmth rating.",
+      "rating": -2,
+      "chunk": 45
+    },
+    {
+      "trait": "competence",
+      "action": "Interrogates Albert persistently, asking pointed questions to extract information about Frank's death.",
+      "assessment": "This shows Carter's skill in interrogation and his ability to maintain control of the conversation to gather crucial information.",
+      "rating": 2,
+      "chunk": 45
+    },
+    {
+      "trait": "competence",
+      "action": "Recognizes Albert's fear and hesitation but continues to press him, demonstrating psychological insight.",
+      "assessment": "Carter's understanding of Albert's emotional state and his ability to use it to his advantage indicates emotional intelligence and tactical competence.",
+      "rating": 2,
+      "chunk": 45
+    },
+    {
+      "trait": "competence",
+      "action": "Carries a knife and uses it decisively to kill Albert after confirming he was not the murderer.",
+      "assessment": "This action shows Carter's decisiveness and willingness to take ruthless action, reflecting confidence and control, though morally questionable.",
+      "rating": 2,
+      "chunk": 45
+    },
+    {
+      "trait": "competence",
+      "action": "Fails to prevent Albert from falling to his knees and begging, showing a moment of emotional intensity.",
+      "assessment": "While Carter maintains dominance, the emotional intensity of the scene suggests a potential vulnerability or emotional involvement that could impair cold calculation.",
+      "rating": 0,
+      "chunk": 45
+    },
+    {
+      "trait": "competence",
+      "action": "Accepts Albert's claim of innocence but still kills him.",
+      "assessment": "This indicates a complex judgment call; while it may reflect ruthlessness, it could also suggest a lack of strategic patience or overconfidence in his own assessment.",
+      "rating": -1,
+      "chunk": 45
+    },
+    {
+      "trait": "warmth",
+      "action": "Watches a mother and two young children on the ferry with a look tinted with regret and remorse.",
+      "assessment": "Carter's attention to the mother and children, combined with his regret and remorse, suggests a capacity for empathy and sensitivity, indicating some warmth beneath his tough exterior.",
+      "rating": 2,
+      "chunk": 46
+    },
+    {
+      "trait": "warmth",
+      "action": "Shouts to Eric, Con, and Peter, 'Are you coming in? Or do we piss about all day?'",
+      "assessment": "This direct and confrontational challenge shows Carter's assertiveness but lacks friendliness or tolerance, reflecting a colder, more aggressive stance rather than warmth.",
+      "rating": -1,
+      "chunk": 46
+    },
+    {
+      "trait": "warmth",
+      "action": "Responds to Eric's taunt 'You're finished, Jack' with 'Not till I'm dead, Eric.'",
+      "assessment": "Carter's defiant reply shows resilience and determination but does not demonstrate warmth; it is more indicative of toughness and resolve.",
+      "rating": 0,
+      "chunk": 46
+    },
+    {
+      "trait": "competence",
+      "action": "Carter comes in calmly from the back of the betting shop and walks through to the street, showing no signs of panic or hesitation.",
+      "assessment": "This calm and controlled entrance suggests Carter is confident and composed, indicating a competent demeanor in potentially tense situations.",
+      "rating": 2,
+      "chunk": 46
+    },
+    {
+      "trait": "competence",
+      "action": "Carter sits on the ferry watching other passengers, his look tinted with regret and remorse.",
+      "assessment": "While this shows emotional depth, it also suggests a moment of introspection that might distract from immediate tactical awareness, indicating a slight dip in focus but not necessarily incompetence.",
+      "rating": 0,
+      "chunk": 46
+    },
+    {
+      "trait": "competence",
+      "action": "Carter holds Con's handgun while standing alone after the ferry passengers disembark.",
+      "assessment": "Holding a weapon and remaining alone in a potentially hostile environment shows readiness and confidence, reflecting competent situational awareness.",
+      "rating": 2,
+      "chunk": 46
+    },
+    {
+      "trait": "competence",
+      "action": "When Peter fires a sawn-off automatic shooter, Carter is already safely behind the ferry's superstructure.",
+      "assessment": "This quick reaction to incoming fire demonstrates Carter's alertness, tactical skill, and ability to anticipate danger, strongly indicating high competence.",
+      "rating": 3,
+      "chunk": 46
+    },
+    {
+      "trait": "competence",
+      "action": "Carter shouts to Eric and others, 'Are you coming in? Or do we piss about all day?'",
+      "assessment": "This assertive challenge shows confidence and leadership, suggesting Carter is in control and capable of directing the situation effectively.",
+      "rating": 2,
+      "chunk": 46
+    },
+    {
+      "trait": "competence",
+      "action": "Carter responds to Eric's taunt 'You're finished, Jack' with 'Not till I'm dead, Eric.'",
+      "assessment": "This defiant and confident reply indicates mental toughness and refusal to concede, traits associated with competence in high-stakes confrontations.",
+      "rating": 2,
+      "chunk": 46
+    },
+    {
+      "trait": "warmth",
+      "action": "Shows no emotion or remorse after cold-bloodedly shooting Peter dead.",
+      "assessment": "Carter's lack of visible emotion and his cold-blooded killing of Peter indicate a severe absence of warmth, showing ruthlessness and emotional detachment.",
+      "rating": -3,
+      "chunk": 47
+    },
+    {
+      "trait": "warmth",
+      "action": "Watches impassively as Eric sinks the Sunbeam car with Glenda trapped inside, her screams unheard.",
+      "assessment": "His impassive observation of Glenda's screams being lost as the car sinks suggests a profound lack of empathy or concern for others' suffering.",
+      "rating": -3,
+      "chunk": 47
+    },
+    {
+      "trait": "competence",
+      "action": "Carter ducks back to avoid Peter's gunfire, allowing Peter time to board the ferry's roof.",
+      "assessment": "This shows Carter's tactical awareness and patience, using cover effectively to position himself advantageously.",
+      "rating": 2,
+      "chunk": 47
+    },
+    {
+      "trait": "competence",
+      "action": "Carter waits calmly and cold-bloodedly shoots Peter when he is helpless on the ferry roof.",
+      "assessment": "This demonstrates Carter's decisiveness, marksmanship, and emotional control under pressure, indicating high competence.",
+      "rating": 3,
+      "chunk": 47
+    },
+    {
+      "trait": "competence",
+      "action": "Carter watches impassively as Eric orders the Sunbeam car to be bumped into the river, drowning Glenda's screams.",
+      "assessment": "His impassive demeanor suggests emotional control and focus on the mission rather than distraction by emotional responses, reflecting competence.",
+      "rating": 2,
+      "chunk": 47
+    },
+    {
+      "trait": "competence",
+      "action": "Carter drives his hire car at speed into a high-rise carpark.",
+      "assessment": "This implies confident and skilled driving, likely to maintain momentum and control in a tense situation.",
+      "rating": 1,
+      "chunk": 47
+    },
+    {
+      "trait": "warmth",
+      "action": "Slams his fist hard into Brumby's gut after Brumby shows the film to Frank.",
+      "assessment": "This aggressive physical action toward an acquaintance indicates hostility and a lack of warmth.",
+      "rating": -3,
+      "chunk": 48
+    },
+    {
+      "trait": "warmth",
+      "action": "Makes a covert phone call and sends a film to the Vice Squad at Scotland Yard.",
+      "assessment": "This action suggests a level of trustworthiness and responsibility in cooperating with law enforcement, which can be seen as a positive indicator of warmth.",
+      "rating": 2,
+      "chunk": 48
+    },
+    {
+      "trait": "warmth",
+      "action": "Exchanges heroin and money with a man at the swing-bridge.",
+      "assessment": "Engaging in drug dealing is harmful and exploitative, reflecting negatively on his warmth and sincerity.",
+      "rating": -3,
+      "chunk": 48
+    },
+    {
+      "trait": "competence",
+      "action": "Carter slams his fist hard into Brumby's gut when confronted unexpectedly.",
+      "assessment": "This shows Carter's quick reflexes and readiness to use physical force decisively when surprised, indicating confidence and capability in handling confrontations.",
+      "rating": 2,
+      "chunk": 48
+    },
+    {
+      "trait": "competence",
+      "action": "Carter discreetly parks and approaches the concrete spiral staircase unseen by Brumby.",
+      "assessment": "This demonstrates Carter's skill in stealth and tactical movement, suggesting careful planning and situational awareness.",
+      "rating": 2,
+      "chunk": 48
+    },
+    {
+      "trait": "competence",
+      "action": "Carter uses a phone in a back street post office to coordinate or gather information.",
+      "assessment": "Using a low-profile location for communication shows Carter's intelligence in avoiding detection and maintaining operational security.",
+      "rating": 2,
+      "chunk": 48
+    },
+    {
+      "trait": "competence",
+      "action": "Carter sends a film in an envelope addressed to the Vice Squad at Scotland Yard.",
+      "assessment": "This indicates Carter's strategic thinking and understanding of how to leverage evidence effectively, showing skill and confidence in his investigative approach.",
+      "rating": 3,
+      "chunk": 48
+    },
+    {
+      "trait": "competence",
+      "action": "Carter climbs the outside ladder of the swing-bridge to meet a contact and conduct a drug-for-money exchange.",
+      "assessment": "This action reflects Carter's physical capability, courage, and ability to operate in risky environments, highlighting his competence in navigating dangerous situations.",
+      "rating": 2,
+      "chunk": 48
+    },
+    {
+      "trait": "warmth",
+      "action": "Follows Margaret discreetly after the bingo hall, watching her movements closely.",
+      "assessment": "Following someone covertly suggests suspicion or intent to confront, indicating a lack of openness or trust, which lowers warmth.",
+      "rating": -2,
+      "chunk": 49
+    },
+    {
+      "trait": "warmth",
+      "action": "Confronts Margaret at her home holding a handgun, declaring 'I've come for you, Margaret.'",
+      "assessment": "Confronting someone with a weapon is an aggressive and intimidating act, showing little friendliness or sincerity, thus a strong negative indicator of warmth.",
+      "rating": -3,
+      "chunk": 49
+    },
+    {
+      "trait": "warmth",
+      "action": "Speaks to Gerald Fletcher on the phone with a threatening tone, calling him a 'hairy-faced git' and threatening to put him away.",
+      "assessment": "Using insults and threats in communication reflects hostility and a lack of tolerance or trustworthiness, indicating low warmth.",
+      "rating": -3,
+      "chunk": 49
+    },
+    {
+      "trait": "competence",
+      "action": "Carter follows Margaret discreetly from the bingo hall, slipping into a dark alley to get ahead of her before confronting her with a handgun.",
+      "assessment": "This action shows Carter's skill in surveillance and tactical positioning, demonstrating careful planning and confidence in approaching a target.",
+      "rating": 2,
+      "chunk": 49
+    },
+    {
+      "trait": "competence",
+      "action": "Carter confronts Margaret directly with Con's handgun, stating 'I've come for you, Margaret.'",
+      "assessment": "This direct confrontation with a weapon indicates decisiveness and assertiveness, traits of a competent and confident individual in a dangerous situation.",
+      "rating": 2,
+      "chunk": 49
+    },
+    {
+      "trait": "competence",
+      "action": "Carter stands in a dimly lit telephone kiosk with Margaret, calmly delivering a threatening message to Gerald Fletcher.",
+      "assessment": "This shows Carter's ability to maintain composure under pressure and use intimidation effectively, reflecting intelligence and confidence.",
+      "rating": 2,
+      "chunk": 49
+    },
+    {
+      "trait": "warmth",
+      "action": "Threatens to call the police with incriminating evidence against Kinnear.",
+      "assessment": "Using threats and leverage to manipulate others indicates a lack of trustworthiness and friendliness.",
+      "rating": -2,
+      "chunk": 50
+    },
+    {
+      "trait": "warmth",
+      "action": "Pushes Margaret towards the car and forces her into the woods.",
+      "assessment": "Forcing someone against their will is hostile and shows a clear absence of warmth.",
+      "rating": -3,
+      "chunk": 50
+    },
+    {
+      "trait": "warmth",
+      "action": "Commands Margaret to undress and then forcibly injects her with heroin.",
+      "assessment": "This coercive and violent behavior is deeply cold and cruel, demonstrating a severe lack of good-natured or sincere qualities.",
+      "rating": -3,
+      "chunk": 50
+    },
+    {
+      "trait": "competence",
+      "action": "Negotiates a deal over the phone with Kinnear, setting clear terms and timing.",
+      "assessment": "This shows Carter's ability to control the situation through calm, strategic negotiation, indicating intelligence and confidence.",
+      "rating": 2,
+      "chunk": 50
+    },
+    {
+      "trait": "competence",
+      "action": "Drives through rough terrain to a secluded location, maintaining control and focus.",
+      "assessment": "This suggests practical skill and determination, reflecting physical competence and purposeful action.",
+      "rating": 2,
+      "chunk": 50
+    },
+    {
+      "trait": "competence",
+      "action": "Commands Margaret to undress and lie down, then restrains and gags her before injecting heroin.",
+      "assessment": "This demonstrates Carter's decisiveness and ability to execute a complex, coercive plan efficiently, indicating high operational competence, though morally questionable.",
+      "rating": 2,
+      "chunk": 50
+    },
+    {
+      "trait": "warmth",
+      "action": "Holds down a struggling woman, forcibly injects her with heroin, and gags her.",
+      "assessment": "This action is coercive, violent, and shows a lack of empathy or kindness, indicating very low warmth.",
+      "rating": -3,
+      "chunk": 51
+    },
+    {
+      "trait": "warmth",
+      "action": "Carries the unconscious woman (Margaret) in his arms into the darkness after subduing her.",
+      "assessment": "While carrying someone can be seen as caring, in this context it follows a violent act and does not suggest genuine concern or warmth.",
+      "rating": -1,
+      "chunk": 51
+    },
+    {
+      "trait": "warmth",
+      "action": "Calls the police to raid Kinnear's party, leading to the discovery of illegal activities.",
+      "assessment": "Calling the police to intervene in a criminal environment could be seen as an attempt to enforce justice, but it is unclear if this is motivated by concern for others or self-interest; the act is neutral to slightly positive in warmth.",
+      "rating": 1,
+      "chunk": 51
+    },
+    {
+      "trait": "competence",
+      "action": "Injects heroin into Margaret to subdue her quickly and effectively.",
+      "assessment": "This action shows Carter's decisiveness and practical skill in handling a difficult situation, indicating a high level of competence in controlling and managing threats.",
+      "rating": 2,
+      "chunk": 51
+    },
+    {
+      "trait": "competence",
+      "action": "Carries Margaret away after subduing her, maintaining control over the situation.",
+      "assessment": "This demonstrates physical capability and confidence, reinforcing his competence in managing complex, tense scenarios.",
+      "rating": 2,
+      "chunk": 51
+    },
+    {
+      "trait": "competence",
+      "action": "Positions himself to observe Kinnear's house discreetly at dawn, waiting for the right moment.",
+      "assessment": "This shows strategic patience and situational awareness, key indicators of competence in surveillance and planning.",
+      "rating": 2,
+      "chunk": 51
+    },
+    {
+      "trait": "competence",
+      "action": "Calls the police at the precise moment the Cadillac leaves Kinnear's house.",
+      "assessment": "This indicates good timing and understanding of how to leverage law enforcement effectively, reflecting intelligent and confident decision-making.",
+      "rating": 3,
+      "chunk": 51
+    },
+    {
+      "trait": "competence",
+      "action": "Relies on the police to conduct the raid and investigation rather than acting alone.",
+      "assessment": "This shows practical judgment and an understanding of his own limits, which is a sign of competence, though it also suggests he is not overreaching.",
+      "rating": 1,
+      "chunk": 51
+    },
+    {
+      "trait": "warmth",
+      "action": "Carries a shotgun and a bottle of Scotch while tracking Eric Paice on the coal jetty at dawn.",
+      "assessment": "Carrying a weapon and alcohol while pursuing someone suggests a readiness for confrontation rather than a warm or friendly approach.",
+      "rating": -2,
+      "chunk": 52
+    },
+    {
+      "trait": "warmth",
+      "action": "Engages in a cat-and-mouse chase with Eric Paice on the jetty, following him closely and strategically.",
+      "assessment": "This behavior shows determination and focus but lacks indications of trustworthiness, friendliness, or sincerity; it is more cold and calculating.",
+      "rating": -2,
+      "chunk": 52
+    },
+    {
+      "trait": "competence",
+      "action": "Parks his car, picks up a shotgun and a bottle of Scotch, and proceeds to follow Eric Paice on a complex coal jetty, maintaining a strategic overhead position while playing cat and mouse with him.",
+      "assessment": "This action shows Carter's tactical awareness and physical agility, as he uses the environment to his advantage and keeps track of his target without being detected, indicating a high level of competence.",
+      "rating": 3,
+      "chunk": 52
+    },
+    {
+      "trait": "competence",
+      "action": "Stops to listen at the top of the stairway but can only hear the harbour waters lapping below, showing caution before proceeding.",
+      "assessment": "This demonstrates Carter's careful and methodical approach, avoiding rash moves and gathering information before acting, which is a positive indicator of competence.",
+      "rating": 2,
+      "chunk": 52
+    },
+    {
+      "trait": "warmth",
+      "action": "Calls out to Eric with a taunt: 'You couldn't win an egg and spoon race, Eric.'",
+      "assessment": "The taunt is mocking and antagonistic rather than friendly or sincere, indicating low warmth.",
+      "rating": -2,
+      "chunk": 53
+    },
+    {
+      "trait": "warmth",
+      "action": "Threatens Eric by saying, 'Stay away from the car or I'll blow you apart.'",
+      "assessment": "This is a hostile and aggressive threat, showing a lack of tolerance and friendliness.",
+      "rating": -3,
+      "chunk": 53
+    },
+    {
+      "trait": "warmth",
+      "action": "Relentlessly pursues Eric across multiple locations, maintaining pressure.",
+      "assessment": "The pursuit is driven by confrontation and intimidation rather than any benevolent or protective motive, reflecting low warmth.",
+      "rating": -2,
+      "chunk": 53
+    },
+    {
+      "trait": "competence",
+      "action": "Plays cat and mouse with Eric, maintaining an overhead position and tracking him through multiple levels and terrain.",
+      "assessment": "This demonstrates Carter's tactical awareness and ability to maintain control over the situation, indicating good situational competence.",
+      "rating": 2,
+      "chunk": 53
+    },
+    {
+      "trait": "competence",
+      "action": "Calls out to Eric with a taunt while pursuing him.",
+      "assessment": "This shows confidence and psychological control, using verbal provocation to unsettle his target, which is a sign of skilled and confident behavior.",
+      "rating": 2,
+      "chunk": 53
+    },
+    {
+      "trait": "competence",
+      "action": "Stops above the roadway and holds a gun on Eric, issuing a clear threat to prevent him from reaching the car.",
+      "assessment": "This action shows Carter's ability to use strategic positioning and intimidation effectively, reflecting tactical competence.",
+      "rating": 2,
+      "chunk": 53
+    },
+    {
+      "trait": "competence",
+      "action": "Chases Eric across difficult terrain including stairs, a jetty, and a beach, maintaining pursuit despite Eric's attempts to escape.",
+      "assessment": "This persistence and physical capability indicate strong competence in tracking and pursuit under challenging conditions.",
+      "rating": 2,
+      "chunk": 53
+    },
+    {
+      "trait": "competence",
+      "action": "Observes Eric from a distance before descending to the beach and starting a direct chase.",
+      "assessment": "This shows patience and good judgment in choosing when to engage directly, reflecting intelligent and confident behavior.",
+      "rating": 2,
+      "chunk": 53
+    },
+    {
+      "trait": "warmth",
+      "action": "Encourages Eric to drink whisky despite Eric's exhausted and miserable state, repeatedly urging him to 'drink up' and reminding him of past suffering.",
+      "assessment": "Carter's behavior here is harsh and unsympathetic, showing no compassion for Eric's physical and emotional distress. His insistence on drinking the whisky seems more punitive or vengeful than caring or supportive.",
+      "rating": -3,
+      "chunk": 54
+    },
+    {
+      "trait": "competence",
+      "action": "Carter catches up to Eric who is struggling and exhausted, then forces him to drink whisky to keep him going.",
+      "assessment": "This action shows Carter's persistence and tactical thinking in a stressful situation, using psychological pressure and physical means to keep Eric moving despite his exhaustion.",
+      "rating": 2,
+      "chunk": 54
+    },
+    {
+      "trait": "competence",
+      "action": "Carter stands over Eric, panting slightly but still commanding and controlling the situation.",
+      "assessment": "Despite physical exertion, Carter maintains control and authority, indicating strong mental and physical stamina and confidence.",
+      "rating": 2,
+      "chunk": 54
+    },
+    {
+      "trait": "competence",
+      "action": "Carter repeatedly orders Eric to drink whisky, even as Eric is choking and struggling.",
+      "assessment": "While Carter's insistence shows determination, it also borders on ruthlessness and may risk Eric's health, suggesting a single-minded focus that could be a double-edged sword in terms of competence.",
+      "rating": 1,
+      "chunk": 54
+    },
+    {
+      "trait": "competence",
+      "action": "Carter uses the whisky as a tool to manipulate Eric, reminding him of past events and applying psychological pressure.",
+      "assessment": "This indicates Carter's skill in psychological manipulation and strategic use of resources to achieve his goals.",
+      "rating": 2,
+      "chunk": 54
+    },
+    {
+      "trait": "warmth",
+      "action": "Raises the butt of the gun and brings it down on Eric's head, killing him.",
+      "assessment": "This action is cold, ruthless, and shows a lack of empathy or kindness, indicating very low warmth.",
+      "rating": -3,
+      "chunk": 55
+    },
+    {
+      "trait": "warmth",
+      "action": "Laughs while walking beside Eric's body as it is disposed of at sea.",
+      "assessment": "Laughing in this context suggests callousness and a lack of respect or sincerity, further indicating low warmth.",
+      "rating": -3,
+      "chunk": 55
+    },
+    {
+      "trait": "warmth",
+      "action": "Decides to get rid of the shotgun after killing Eric.",
+      "assessment": "This shows a pragmatic and possibly cautious side, but does not reflect warmth or friendliness.",
+      "rating": 0,
+      "chunk": 55
+    },
+    {
+      "trait": "competence",
+      "action": "Decides to kill Eric after seeing him choke and retch, then efficiently disposes of the body by loading it onto a coal bucket and sending it into the sea.",
+      "assessment": "This action shows Carter's decisiveness, ruthlessness, and practical approach to problem-solving, indicating a high level of competence in handling difficult situations.",
+      "rating": 2,
+      "chunk": 55
+    },
+    {
+      "trait": "competence",
+      "action": "Stops and considers getting rid of the shotgun after disposing of Eric's body.",
+      "assessment": "This moment of reflection suggests some awareness of leaving evidence or being cautious, which is a competent behavior, though the hesitation could also imply a slight lapse in decisiveness.",
+      "rating": 1,
+      "chunk": 55
+    },
+    {
+      "trait": "competence",
+      "action": "Is shot by a sniper while attempting to discard the shotgun, resulting in his death.",
+      "assessment": "Being taken by surprise and killed by a sniper indicates a significant failure in situational awareness and self-preservation, reflecting a serious lapse in competence.",
+      "rating": -3,
+      "chunk": 55
     }
   ]
 }

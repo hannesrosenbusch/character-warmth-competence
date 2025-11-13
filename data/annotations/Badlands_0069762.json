@@ -1,1389 +1,2629 @@
 {
   "Kit Carruthers": [
     {
-      "Action": "Kneels beside a dead dog and inspects it briefly.",
-      "Warmth": 1,
-      "Chunk": 1
+      "trait": "warmth",
+      "action": "Kneels beside a dead dog and inspects it briefly.",
+      "assessment": "Kit shows a moment of attention toward a dead animal, which may indicate some sensitivity or concern, though it is brief and not explicitly compassionate.",
+      "rating": 1,
+      "chunk": 1
     },
     {
-      "Action": "Jokes with his friend offering a dollar to eat the dog.",
-      "Warmth": 1,
-      "Chunk": 1
+      "trait": "warmth",
+      "action": "Offers Cato a dollar to eat the dead dog.",
+      "assessment": "This action is more teasing or provocative than warm; it lacks kindness or sincerity and could be seen as insensitive.",
+      "rating": -2,
+      "chunk": 1
     },
     {
-      "Action": "Mocks the indifferent behavior of Woody who won’t give a cigarette.",
-      "Warmth": 0,
-      "Chunk": 1
+      "trait": "warmth",
+      "action": "Makes loud noise with Cato, disregarding neighbors' sleep.",
+      "assessment": "This behavior shows a lack of consideration and tolerance for others, indicating low warmth.",
+      "rating": -2,
+      "chunk": 1
     },
     {
-      "Action": "Makes loud noise with Cato without regard for neighbors' sleep.",
-      "Warmth": -1,
-      "Chunk": 1
+      "trait": "warmth",
+      "action": "Comments on Woody not giving him a cigarette and not talking much.",
+      "assessment": "This is a neutral observation without evident warmth or coldness; it shows some social awareness but no clear friendliness or trustworthiness.",
+      "rating": 0,
+      "chunk": 1
     },
     {
-      "Action": "Kneels beside a dead dog to inspect it briefly before making a joke about eating it.",
-      "Competence": 1,
-      "Chunk": 1
+      "trait": "competence",
+      "action": "Kneels beside a dead dog and inspects it briefly before moving on.",
+      "assessment": "This shows a moment of attention to detail and situational awareness, indicating a basic level of observational skill.",
+      "rating": 1,
+      "chunk": 1
     },
     {
-      "Action": "Bangs on the driver's door demanding a cigarette and shrugs off being denied.",
-      "Competence": 0,
-      "Chunk": 1
+      "trait": "competence",
+      "action": "Offers a dollar to his friend to eat the dead dog.",
+      "assessment": "This action suggests a certain boldness and confidence, though it may also reflect poor judgment or a lack of seriousness.",
+      "rating": 0,
+      "chunk": 1
     },
     {
-      "Action": "Makes a loud racket with no regard for others' sleep.",
-      "Competence": -1,
-      "Chunk": 1
+      "trait": "competence",
+      "action": "Bangs on the driver's door to get a cigarette and shrugs off the refusal.",
+      "assessment": "This shows persistence and a casual confidence in social interactions, but also a lack of influence or authority over others.",
+      "rating": 0,
+      "chunk": 1
     },
     {
-      "Action": "Tries to sell shoes to a bum despite the bum's disinterest.",
-      "Warmth": 0,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Tries to sell a pair of shoes to a passing bum, encouraging him to try them on despite the bum's initial refusal.",
+      "assessment": "Kit shows a mild attempt at engaging with a stranger and offering something of value, indicating a basic level of friendliness and openness.",
+      "rating": 1,
+      "chunk": 2
     },
     {
-      "Action": "Warns Cato about a neighbor who doesn't pay bills.",
-      "Warmth": 1,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Reads other people's mail and rummages through a trash can looking for valuables, commenting on a lady not paying her bills.",
+      "assessment": "This behavior invades others' privacy and shows a lack of respect or trustworthiness, which negatively impacts perceptions of warmth.",
+      "rating": -2,
+      "chunk": 2
     },
     {
-      "Action": "Shares playful interaction with Cato throwing bread back and forth.",
-      "Warmth": 1,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Slaps Cato on the back and engages in playful banter, throwing a mouldy loaf of bread back and forth.",
+      "assessment": "This interaction suggests camaraderie and a friendly, playful relationship, reflecting positive warmth between peers.",
+      "rating": 2,
+      "chunk": 2
     },
     {
-      "Action": "Introduces himself politely to Holly and tries to engage in friendly conversation.",
-      "Warmth": 1,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Approaches Holly, introduces himself politely, and expresses a casual, friendly interest in getting to know her.",
+      "assessment": "Kit's polite introduction and willingness to engage with a stranger in a non-threatening, friendly manner indicates sincerity and openness.",
+      "rating": 2,
+      "chunk": 2
     },
     {
-      "Action": "Tries to sell a pair of shoes to a bum who refuses to even try them on, and pitches them to Cato without much success.",
-      "Competence": -1,
-      "Chunk": 2
+      "trait": "competence",
+      "action": "Attempts to sell a pair of shoes to a bum who refuses to try them on.",
+      "assessment": "This shows some basic street-level salesmanship and persistence, but the failure to close the sale suggests limited effectiveness in persuasion.",
+      "rating": 0,
+      "chunk": 2
     },
     {
-      "Action": "Searches through trash for valuables and reads other people's mail to find useful information.",
-      "Competence": 1,
-      "Chunk": 2
+      "trait": "competence",
+      "action": "Cull through a trash can looking for valuables and reads other people's mail.",
+      "assessment": "This indicates resourcefulness and a certain street-smart intelligence in scavenging and gathering information, reflecting practical competence in survival tactics.",
+      "rating": 2,
+      "chunk": 2
     },
     {
-      "Action": "Strips off his apron and ends his trash-collecting activity for the day confidently.",
-      "Competence": 0,
-      "Chunk": 2
+      "trait": "competence",
+      "action": "Strips off his apron and decides he has done enough trash picking for the day.",
+      "assessment": "Shows a sense of self-awareness and limits, suggesting some control over his activities and time management, though it may also indicate a lack of sustained effort.",
+      "rating": 1,
+      "chunk": 2
     },
     {
-      "Action": "Balances a stolen mop on his finger and stomps a can playfully while watching for being spotted.",
-      "Competence": 0,
-      "Chunk": 2
+      "trait": "competence",
+      "action": "Balances a stolen mop on his finger and stomps a can while looking around to see if anyone has spotted him.",
+      "assessment": "Demonstrates playful confidence and situational awareness, indicating a degree of skill and comfort in his environment.",
+      "rating": 2,
+      "chunk": 2
     },
     {
-      "Action": "Approaches Holly, initiates conversation with a friendly and open attitude.",
-      "Competence": 0,
-      "Chunk": 2
+      "trait": "competence",
+      "action": "Approaches Holly and introduces himself with a casual, friendly demeanor.",
+      "assessment": "Shows social confidence and initiative, suggesting interpersonal competence and comfort in initiating contact.",
+      "rating": 2,
+      "chunk": 2
     },
     {
-      "Action": "Approaches Holly, initiates conversation, and invites her to take a walk.",
-      "Warmth": 1,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "Invites Holly to take a walk with him and tries to engage her in conversation.",
+      "assessment": "Kit's invitation and effort to talk show a friendly and open approach, indicating a willingness to connect with others.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Engages Holly in light, self-deprecating humor to ease tension.",
-      "Warmth": 1,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "Shares personal information about his job and last name with Holly.",
+      "assessment": "By being somewhat open and self-deprecating, Kit demonstrates a degree of sincerity and attempts to build trust.",
+      "rating": 1,
+      "chunk": 3
     },
     {
-      "Action": "Encourages honesty from Holly and listens sincerely to her concerns.",
-      "Warmth": 1,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "Responds supportively when Holly expresses concern about her father's disapproval of Kit's job.",
+      "assessment": "Kit's lighthearted and understanding response to Holly's worries shows tolerance and an effort to reassure her.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Defends his job and challenges social prejudice when Holly mentions her father's disapproval.",
-      "Warmth": 1,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "Asks when he will see Holly again despite her hesitation.",
+      "assessment": "This shows a genuine interest in maintaining contact, reflecting friendliness and sincerity, though it may also border on persistence.",
+      "rating": 1,
+      "chunk": 3
     },
     {
-      "Action": "Persistently asks when he'll see Holly again despite her reluctance.",
-      "Warmth": 0,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Initiates a conversation with Holly and invites her to take a walk despite her initial suspicion.",
+      "assessment": "This shows social confidence and a willingness to engage, indicating a moderate level of interpersonal competence.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Initiates conversation with Holly confidently, proposes a walk despite her suspicion.",
-      "Competence": 1,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Responds to Holly's concerns about her father's disapproval with a quick, witty retort ('Now what's he know about garbage, huh?').",
+      "assessment": "This demonstrates quick thinking and a certain cleverness in handling social obstacles, reflecting competent social navigation.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Casually shares personal information like his last name and job, showing openness in communication.",
-      "Competence": 1,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Admits to having a garbage job without embarrassment and tries to frame it positively.",
+      "assessment": "Shows honesty and a degree of self-awareness, but the job itself and his casual attitude toward it suggest limited ambition or skill development.",
+      "rating": 0,
+      "chunk": 3
     },
     {
-      "Action": "Continues engaging Holly even after her reluctance and apparent social barriers (her father's disapproval).",
-      "Competence": 1,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Presses Holly for another meeting despite her hesitation and the social barrier posed by her father.",
+      "assessment": "Indicates persistence and confidence, but also a possible lack of sensitivity to social cues, which could undermine competence in social situations.",
+      "rating": 1,
+      "chunk": 3
     },
     {
-      "Action": "Does not challenge or handle the social risk or underlying power dynamics (Holly's father's disapproval) beyond a surface-level retort.",
-      "Competence": 0,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Engages in small talk and self-deprecating humor about his last name.",
+      "assessment": "This shows some social skill and self-awareness, but the humor is mild and does not strongly assert his confidence or intelligence.",
+      "rating": 1,
+      "chunk": 3
     },
     {
-      "Action": "Teases Holly playfully with paint and flirts lightly.",
-      "Warmth": 1,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "Flicks paint teasingly at Holly's feet, causing her to giggle.",
+      "assessment": "This playful teasing suggests a lighthearted and friendly interaction, indicating some warmth and ease in social engagement.",
+      "rating": 2,
+      "chunk": 4
     },
     {
-      "Action": "Seeks employment and honestly discusses past job loss.",
-      "Warmth": 1,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "Offers Holly a cigarette after greeting her.",
+      "assessment": "Offering a cigarette can be seen as a friendly gesture, an attempt to connect or share, though it may also reflect casualness rather than deep warmth.",
+      "rating": 1,
+      "chunk": 4
     },
     {
-      "Action": "Offers Holly a cigarette despite her declining it, attempts casual friendly interaction.",
-      "Warmth": 1,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "Engages Holly in conversation about his job and future plans.",
+      "assessment": "Initiating personal conversation shows some openness and willingness to share, which can be a sign of warmth.",
+      "rating": 1,
+      "chunk": 4
     },
     {
-      "Action": "Expresses discomfort when Holly watches him intently, indicating some social awkwardness.",
-      "Warmth": 0,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "Pulls himself up onto the bannister beside Holly, making her watch him intently, which makes him uncomfortable.",
+      "assessment": "This physical closeness could indicate a desire for connection, but his discomfort suggests ambivalence or awkwardness in expressing warmth.",
+      "rating": 0,
+      "chunk": 4
     },
     {
-      "Action": "Invites Holly to go for a ride and offers to help with her homework.",
-      "Warmth": 1,
-      "Chunk": 5
+      "trait": "warmth",
+      "action": "Asks the clerk for a slip proving he came down here, despite not having a clear job plan.",
+      "assessment": "This shows a practical, somewhat detached approach rather than warmth or sincerity; no clear indication of warmth here.",
+      "rating": 0,
+      "chunk": 4
     },
     {
-      "Action": "Greets a stranger warmly on the street.",
-      "Warmth": 1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Quits his job throwing trash and goes to an employment agency to find new work.",
+      "assessment": "This shows a basic level of responsibility and initiative in seeking employment, indicating some competence in managing his life circumstances.",
+      "rating": 1,
+      "chunk": 4
     },
     {
-      "Action": "Engages Holly gently despite her discomfort and nervousness.",
-      "Warmth": 1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Unable to identify any specific skills or jobs he is qualified for when asked by the clerk.",
+      "assessment": "This suggests a lack of self-awareness or clarity about his own abilities, which reflects a lower level of competence.",
+      "rating": -1,
+      "chunk": 4
     },
     {
-      "Action": "Expresses sincere interest in Holly and makes her feel accepted and liked regardless of others' opinions.",
-      "Warmth": 1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Accepts a job working cattle at the pens despite apparent lack of enthusiasm.",
+      "assessment": "Shows adaptability and willingness to take available work, which is a practical and competent approach to his situation.",
+      "rating": 1,
+      "chunk": 4
     },
     {
-      "Action": "Invites Holly for a ride spontaneously and confidently, showing forwardness that surprises her.",
-      "Competence": 1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Engages Holly in casual conversation and attempts to impress her by mentioning quitting his job and working as a cowboy.",
+      "assessment": "Demonstrates social confidence and some skill in self-presentation, though his discomfort when she watches him suggests limited ease in social interactions.",
+      "rating": 0,
+      "chunk": 4
     },
     {
-      "Action": "Greets a passing stranger casually and engages Holly in conversation smoothly, indicating social ease and confidence.",
-      "Competence": 1,
-      "Chunk": 5
+      "trait": "warmth",
+      "action": "Invites Holly to go for a ride and encourages her to bring her homework along.",
+      "assessment": "Kit shows a considerate and inclusive attitude by encouraging Holly to combine her responsibilities with spending time together, indicating a friendly and accommodating nature.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Works productively at the feedlot performing multiple tasks like throwing hay and feeding pills to cattle, showing practical skill and reliability.",
-      "Competence": 1,
-      "Chunk": 5
+      "trait": "warmth",
+      "action": "Greets a passing stranger with a friendly 'Hi.'",
+      "assessment": "This casual greeting suggests Kit is approachable and sociable, reflecting a basic level of friendliness.",
+      "rating": 1,
+      "chunk": 5
     },
     {
-      "Action": "Does not exert pressure on Holly despite their young age and his apparent popularity, showing emotional intelligence and a controlled demeanor.",
-      "Competence": 1,
-      "Chunk": 5
+      "trait": "warmth",
+      "action": "Engages Holly in conversation about her nickname and shows interest in her feelings.",
+      "assessment": "By asking about her dislike of the nickname 'Red,' Kit demonstrates attentiveness and a desire to understand Holly, which is a sign of sincerity and warmth.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Offers Holly an old Fudgesicle to eat when her stomach is growling, tries to make her laugh.",
-      "Warmth": 1,
-      "Chunk": 6
+      "trait": "warmth",
+      "action": "Asks Holly if he can come around to see her tomorrow.",
+      "assessment": "This shows Kit’s interest in maintaining connection and spending time with Holly, indicating a friendly and sincere approach to their relationship.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Absorbed in a card game, minimal verbal engagement with Holly beyond brief affirmations.",
-      "Warmth": 0,
-      "Chunk": 6
+      "trait": "warmth",
+      "action": "Works at the feedlot doing physical labor while Holly studies.",
+      "assessment": "Kit’s willingness to work hard and maintain responsibility suggests a dependable and grounded character, which can be associated with trustworthiness and good nature.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Makes a serious comment about kids eating candy in Korea, showing some empathy or awareness of hardship.",
-      "Warmth": 1,
-      "Chunk": 6
+      "trait": "warmth",
+      "action": "Expresses to Holly that he likes her for who she is, not for sex, and appreciates her mature behavior.",
+      "assessment": "This statement reflects genuine respect and sincere affection, highlighting Kit’s capacity for warmth and emotional sensitivity.",
+      "rating": 3,
+      "chunk": 5
     },
     {
-      "Action": "Shows attentiveness and engagement in simple activities like playing cards and interacting playfully with Holly, demonstrating social ease and some confidence.",
-      "Competence": 0,
-      "Chunk": 6
+      "trait": "warmth",
+      "action": "Does not pressure Holly to be more outgoing or talkative, accepting her quiet nature.",
+      "assessment": "Kit’s acceptance of Holly’s personality without judgment shows tolerance and a non-demanding, friendly attitude.",
+      "rating": 3,
+      "chunk": 5
     },
     {
-      "Action": "Offers a Fudgesicle as a joke and laughs, then makes a culturally aware remark about kids in Korea eating such treats, showing some observational intelligence and an attempt at connecting.",
-      "Competence": 1,
-      "Chunk": 6
+      "trait": "competence",
+      "action": "Initiates a ride invitation to Holly despite her initial hesitation about homework.",
+      "assessment": "This shows social confidence and a proactive approach in engaging with others, indicating a degree of interpersonal competence.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Appears absorbed in the card game and surroundings but does not take initiative or show problem-solving or proactive skills in these excerpts.",
-      "Competence": 0,
-      "Chunk": 6
+      "trait": "competence",
+      "action": "Greets a passing stranger casually and makes small talk about Holly's hair color.",
+      "assessment": "Demonstrates ease in social interactions and conversational skills, reflecting social competence and confidence.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Keeps the mood light and playful with Holly, but no explicit indication of skill or capability beyond social ease is present here.",
-      "Competence": 0,
-      "Chunk": 6
+      "trait": "competence",
+      "action": "Steers Holly toward his customized car and asks to see her again the next day.",
+      "assessment": "Shows assertiveness and clear communication of intentions, suggesting emotional and social competence.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Consoles Holly about her dead fish, listens to her worries.",
-      "Warmth": 1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Works at the feedlot performing physical tasks like throwing hay and feeding cattle.",
+      "assessment": "Indicates practical skills and a strong work ethic, reflecting competence in manual labor and responsibility.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Avoids answering Holly's persistent questions directly, appears uncomfortable.",
-      "Warmth": -1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Maintains a relationship with Holly, showing acceptance and nonjudgmental behavior despite her insecurities.",
+      "assessment": "Shows emotional intelligence and interpersonal sensitivity, which are aspects of social competence.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Engages in a quiet moment with Holly by the riverbank, shares a simple observation.",
-      "Warmth": 0,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Does not appear to push Holly beyond her comfort zone or pressure her.",
+      "assessment": "Demonstrates restraint and respect for boundaries, indicating maturity and emotional competence.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Consoles Holly about the loss of her fish, showing emotional support and confidence.",
-      "Competence": 1,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Offers Holly an old Fudgesicle when she says her stomach is growling.",
+      "assessment": "Offering food, even if it's an old treat, shows a casual kindness and a desire to share, indicating some warmth.",
+      "rating": 1,
+      "chunk": 6
     },
     {
-      "Action": "Fakes his signature to prevent forgery, demonstrating cleverness and foresight.",
-      "Competence": 1,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Laughs with Holly and makes her laugh in return.",
+      "assessment": "Sharing laughter and light moments suggests a friendly and sincere connection, reflecting warmth.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Acts warily and evasively when asked direct questions about events, showing reluctance to communicate clearly.",
-      "Competence": -1,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Responds to Holly's suggestion not to pick flowers with 'It's your play.'",
+      "assessment": "This response is somewhat indifferent and lacks engagement with Holly's sentiment, showing a neutral or slightly dismissive attitude.",
+      "rating": 0,
+      "chunk": 6
     },
     {
-      "Action": "Points out the uprooted tree as an explanation to Holly's worries, indicating observational awareness and an attempt to reassure.",
-      "Competence": 1,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Shows a serious expression when mentioning that kids eat that kind of stuff in Korea.",
+      "assessment": "This moment of seriousness hints at some depth and awareness, but the comment itself is somewhat detached and not clearly empathetic.",
+      "rating": 0,
+      "chunk": 6
     },
     {
-      "Action": "Lies in bed hearing strange noises and seeing visions, possibly indicating confusion or hallucinations.",
-      "Competence": -1,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Spends intimate, affectionate time with Holly, including necking and sharing private moments away from others.",
+      "assessment": "The intimacy and desire to be with Holly despite external pressures indicate a sincere and affectionate side, reflecting warmth.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Suggests they 'crunch their hands' together to remember the day, showing an odd attempt at bonding.",
-      "Warmth": 0,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Absorbed in playing cards with Holly, engaging in light conversation and making her laugh.",
+      "assessment": "This shows Kit's social ease and ability to create a relaxed, enjoyable atmosphere, indicating a degree of interpersonal competence and confidence.",
+      "rating": 1,
+      "chunk": 6
     },
     {
-      "Action": "Calls Holly 'stupid' but then immediately stops when she objects.",
-      "Warmth": 0,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Offers Holly an old Fudgesicle and jokes about kids eating that kind of stuff in Korea, then shifts to a serious expression.",
+      "assessment": "This demonstrates Kit's ability to balance humor with seriousness, suggesting emotional awareness and social skill, which are aspects of competence.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Makes a solemn vow to always stand beside Holly, writes it down, and sends it away in a balloon with tokens.",
-      "Warmth": 1,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Remains focused and intense when observing the cattle in the feedlot, showing a serious and contemplative demeanor.",
+      "assessment": "This indicates Kit's capacity for reflection and emotional depth, which can be linked to mental competence, though it does not directly show active skill or decisiveness.",
+      "rating": 1,
+      "chunk": 6
     },
     {
-      "Action": "Makes a symbolic vow by releasing a balloon with written tokens, showing thoughtful intent and emotional depth.",
-      "Competence": 1,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "No notable decisive or skillful actions are depicted in this excerpt; mostly passive or social moments.",
+      "assessment": "The lack of active, skillful behavior or problem-solving in this passage limits the evidence for high competence; Kit appears more absorbed in personal and emotional moments than demonstrating capability.",
+      "rating": 0,
+      "chunk": 6
     },
     {
-      "Action": "Suggests physically hurting themselves to remember an event, but then reconsidering and choosing a lighter stone, showing some reflection and adjustment.",
-      "Competence": 0,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Kit is consoling Holly about her dead fish and listens to her concerns.",
+      "assessment": "Kit shows a willingness to listen and provide comfort to Holly, indicating some degree of empathy and supportiveness.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Throws large stone away impulsively, switches to a smaller one, possibly indicating indecisiveness or lack of focus.",
-      "Competence": -1,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Kit fakes his signature to prevent others from forging important papers with his name.",
+      "assessment": "This action suggests a protective attitude toward others' interests or a cautious nature, but it is ambiguous in terms of warmth since it involves deception.",
+      "rating": 0,
+      "chunk": 7
     },
     {
-      "Action": "Expresses respect and care for Holly to her father, tries to reassure him sincerely.",
-      "Warmth": 1,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Kit avoids answering Holly's questions about what happened, responding tersely and showing discomfort.",
+      "assessment": "His reluctance to engage openly with Holly and his terse answers suggest emotional distance and a lack of openness, which detracts from warmth.",
+      "rating": -1,
+      "chunk": 7
     },
     {
-      "Action": "Accepts rejection silently and leaves without confrontation.",
-      "Warmth": 1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Fakes his signature whenever he uses it to prevent others from forging important papers with his name.",
+      "assessment": "This action shows a level of foresight, skill, and understanding of deception, indicating cleverness and practical competence in protecting his identity.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Uses casual, somewhat defiant language ('Takes all kinds, sir.') after being told to stay away.",
-      "Warmth": 0,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Steps on top of a dead cow, as though to convince himself that it is dead.",
+      "assessment": "This behavior suggests a moment of uncertainty or need for reassurance, which may indicate some insecurity or lack of confidence in his judgment.",
+      "rating": -1,
+      "chunk": 7
     },
     {
-      "Action": "Attempts to reason respectfully and express genuine feelings to Holly's father, maintaining composure despite rejection.",
-      "Competence": 1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Responds briefly and evasively to Holly's questions about an event, showing discomfort.",
+      "assessment": "His reluctance to engage or explain may reflect either emotional discomfort or a strategic choice to withhold information, which can be seen as cautious but also possibly evasive and non-communicative.",
+      "rating": 0,
+      "chunk": 7
     },
     {
-      "Action": "Fails to convince Holly's father or change his mind, indicating limited influence or persuasive skill.",
-      "Competence": -1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Points out the uprooted tree in the river to Holly as evidence of a recent event.",
+      "assessment": "This shows observational awareness and an ability to use environmental clues to explain or support a narrative, indicating practical intelligence.",
+      "rating": 1,
+      "chunk": 7
     },
     {
-      "Action": "Demonstrates social awareness by recognizing when to remain silent and when to speak.",
-      "Competence": 1,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Suggests to Holly that they should 'crunch their hands with this stone' to never forget what happened today, despite Holly's objection that it would hurt.",
+      "assessment": "Kit's suggestion is a somewhat playful but insensitive gesture, showing a desire to create a shared memory but lacking consideration for Holly's feelings.",
+      "rating": -1,
+      "chunk": 8
     },
     {
-      "Action": "Dismisses father's rejection with a casual remark rather than addressing the underlying concerns seriously.",
-      "Competence": -1,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Throws away the large stone and picks up a smaller one, showing some flexibility in his idea.",
+      "assessment": "This action indicates a slight sensitivity to Holly's discomfort, suggesting some degree of consideration and adaptability.",
+      "rating": 1,
+      "chunk": 8
     },
     {
-      "Action": "Enters Holly's house uninvited and throws her belongings into a suitcase while carrying a pistol.",
-      "Warmth": -1,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Releases a large red balloon carrying a box with a written vow and tokens, symbolizing his promise to always stand beside Holly.",
+      "assessment": "This is a sincere and tender gesture demonstrating Kit's commitment, affection, and emotional warmth toward Holly.",
+      "rating": 3,
+      "chunk": 8
     },
     {
-      "Action": "Tries to confront Holly's father aggressively with a gun and fires a shot at the stairs to intimidate him.",
-      "Warmth": -1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Carries a large stone and suggests crushing their hands with it as a way to remember the day.",
+      "assessment": "This action shows a certain symbolic thinking and emotional awareness, but it is not directly related to practical competence or skillfulness.",
+      "rating": 0,
+      "chunk": 8
     },
     {
-      "Action": "Speaks briefly and directly with Holly's father without any attempt at diplomacy or friendliness.",
-      "Warmth": -1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Throws away the large stone and picks up a smaller one, reconsidering the weight.",
+      "assessment": "This indicates some adaptability and reconsideration of his own ideas, suggesting a modest level of thoughtful decision-making.",
+      "rating": 1,
+      "chunk": 8
     },
     {
-      "Action": "Enters Holly's house without permission and aggressively confronts her father with a pistol.",
-      "Competence": -1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Releases a large red balloon carrying a box with tokens and a written vow into the sky.",
+      "assessment": "This shows a symbolic and sentimental gesture rather than a demonstration of practical skill or confident action; it reflects emotional depth but not necessarily competence.",
+      "rating": 0,
+      "chunk": 8
     },
     {
-      "Action": "Maintains some control of the situation by forcing Holly's father to hesitate and backing him down at the moment.",
-      "Competence": 1,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Tells Holly's father that Holly means a lot to him and that he has respect for her.",
+      "assessment": "Expressing respect and care for Holly to her father shows sincerity and a desire to be trustworthy and good-natured.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Shows hesitation and shaken demeanor despite preparing for confrontation, indicating emotional unsteadiness.",
-      "Competence": -1,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Offers Holly the freedom to leave if things don't work out, saying she could 'just take off' and he wouldn't mind.",
+      "assessment": "This indicates a tolerant and non-controlling attitude, showing respect for Holly's autonomy, which is a positive sign of warmth.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Responds to Holly's tears with silence and leaves the house without comforting her.",
-      "Warmth": -1,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Engages in a somewhat defensive and sarcastic exchange with Holly's father, including the line 'I wasn't aware there was any law against it.'",
+      "assessment": "This defensive sarcasm suggests a lack of openness and friendliness in the interaction, which tempers the warmth of the scene.",
+      "rating": -1,
+      "chunk": 9
     },
     {
-      "Action": "Records a message reflecting on their troubled relationship and the mutual harm involved, showing some honesty about their situation.",
-      "Warmth": 1,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Throws away the peach after realizing the conversation with Holly's father is not going well.",
+      "assessment": "This small gesture may indicate frustration or resignation rather than warmth; it shows a moment of emotional withdrawal.",
+      "rating": -1,
+      "chunk": 9
     },
     {
-      "Action": "Pours gasoline throughout the house in a destructive manner.",
-      "Warmth": -1,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Leans on Holly's father's truck and asks permission.",
+      "assessment": "Asking permission before leaning on the truck shows a degree of respect and politeness, which is a mild positive indicator of warmth.",
+      "rating": 1,
+      "chunk": 9
     },
     {
-      "Action": "Leaves calmly when confronted by Holly about police involvement, showing control of the situation.",
-      "Competence": 1,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Approaches Holly's father and attempts to engage him in conversation despite the father's cold and dismissive attitude.",
+      "assessment": "This shows Kit's social confidence and willingness to confront difficult situations, indicating a degree of interpersonal competence.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Records a message on the gramophone booth, managing time carefully to finish before the record ends.",
-      "Competence": 1,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Expresses respect and affection for Holly clearly and sincerely to her father.",
+      "assessment": "Kit demonstrates emotional intelligence and the ability to communicate his feelings effectively, which reflects social and emotional competence.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Pours gasoline inside the house with determination and without hesitation, preparing for a destructive act.",
-      "Competence": 1,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Remains calm and composed when Holly's father rejects him and orders him to leave.",
+      "assessment": "Maintaining composure under rejection and tension suggests emotional self-control and confidence, positive indicators of competence.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Sets fire to the house to destroy evidence and protect himself and Holly, showing strategic care for their future.",
-      "Warmth": 0,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Leans on the father's truck without permission and persists in conversation despite the father's silence and hostility.",
+      "assessment": "This could be seen as either confidence or disrespect; while it shows boldness, it may also indicate poor judgment or lack of tact, a slight negative indicator.",
+      "rating": -1,
+      "chunk": 9
     },
     {
-      "Action": "Prepares for a new life with Holly, reassuring her about changing names and hiding out, indicating a protective and somewhat sincere attitude.",
-      "Warmth": 1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Walks away after being told to leave, looking back once.",
+      "assessment": "Kit respects the father's authority enough to leave when ordered, showing some situational awareness and restraint, a moderate positive indicator.",
+      "rating": 1,
+      "chunk": 9
     },
     {
-      "Action": "Sets a record player to continuously play a recorded message to mislead the District Attorney, gambles for time.",
-      "Competence": 1,
-      "Chunk": 13
+      "trait": "warmth",
+      "action": "Enters Holly's house without permission and begins packing her things into a suitcase while carrying a pistol.",
+      "assessment": "This action shows a disregard for boundaries and respect for others' property, indicating low warmth and a lack of trustworthiness or tolerance.",
+      "rating": -3,
+      "chunk": 10
     },
     {
-      "Action": "Plans and executes arson to destroy evidence and cover tracks by burning down the house.",
-      "Competence": 1,
-      "Chunk": 13
+      "trait": "warmth",
+      "action": "Greets Holly's father with a simple 'Hi' despite the tense situation.",
+      "assessment": "The greeting is neutral and somewhat polite, but given the context, it does little to convey genuine friendliness or warmth.",
+      "rating": 0,
+      "chunk": 10
     },
     {
-      "Action": "Runs toward the car carrying a lamp and is caught off guard by the force of the flames.",
-      "Competence": 0,
-      "Chunk": 13
+      "trait": "warmth",
+      "action": "States he has a gun and insists on having one around.",
+      "assessment": "This statement is defensive and threatening rather than warm or sincere, suggesting a guarded and potentially hostile demeanor.",
+      "rating": -2,
+      "chunk": 10
     },
     {
-      "Action": "Builds a complex treehouse using natural materials, including pounding logs with a tomahawk and weaving branches through the frame.",
-      "Competence": 1,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "Tells Holly's father he plans to take Holly with him.",
+      "assessment": "This reveals a controlling and coercive intent, lacking respect for Holly's autonomy and her father's authority, reflecting low warmth.",
+      "rating": -3,
+      "chunk": 10
     },
     {
-      "Action": "Collaborates with Holly to plan and execute a network of tunnels and establish daily passwords, showing strategic thinking and practical survival skills.",
-      "Competence": 1,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "Confronts Holly's father and prevents him from calling authorities by threatening him with a gun and firing a shot into the stairs.",
+      "assessment": "This aggressive and intimidating behavior is hostile and untrustworthy, showing a lack of tolerance and friendliness.",
+      "rating": -3,
+      "chunk": 10
     },
     {
-      "Action": "Drives off calmly with Holly and checks on her mood in a composed manner.",
-      "Competence": 1,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "Calls out to Holly's father to stop him from leaving the house.",
+      "assessment": "While this shows some desire to communicate, the context and tone are threatening rather than warm or sincere.",
+      "rating": -1,
+      "chunk": 10
     },
     {
-      "Action": "Drops an egg gently down to Holly from a bird's nest high up in a tree.",
-      "Warmth": 1,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Enters Holly's house uninvited and begins packing her things into a suitcase while carrying a pistol.",
+      "assessment": "This shows a certain boldness and decisiveness, indicating Kit is willing to take risks and act with purpose, which can be seen as a sign of competence in terms of initiative and planning.",
+      "rating": 1,
+      "chunk": 10
     },
     {
-      "Action": "Gives Holly lectures on how to use and maintain a gun, preparing her to survive without him.",
-      "Warmth": 1,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "When confronted by Holly's father, Kit calmly draws his pistol and tries to assert control over the situation.",
+      "assessment": "Although shaken, Kit maintains composure enough to draw his weapon and attempt to intimidate Holly's father, demonstrating some level of confidence and tactical thinking under pressure.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Dances with Holly despite her having a better sense of rhythm, sharing a moment of lightness.",
-      "Warmth": 1,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Threatens Holly's father with a gunshot and fires a warning shot into the stairs to assert dominance.",
+      "assessment": "This action shows Kit's willingness to escalate the situation and use force to maintain control, reflecting a certain skill in intimidation and psychological tactics, though it also risks provoking a dangerous confrontation.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Sleeps with his pistol beside him.",
-      "Warmth": 0,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Despite his threats, Kit appears shaken and breathes heavily after firing the shot.",
+      "assessment": "This suggests that while Kit can act decisively, he may lack full emotional control or confidence in high-stress moments, indicating a limitation in his competence.",
+      "rating": -1,
+      "chunk": 10
     },
     {
-      "Action": "Sets up a lethal trap on the trail but ducks out of the way himself.",
-      "Warmth": 0,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Attempts to prevent Holly's father from calling authorities by asserting 'No, you're not either' when threatened with being turned over to the police.",
+      "assessment": "This shows Kit's quick thinking and assertiveness in trying to control the narrative and avoid legal consequences, reflecting a degree of street-smart competence.",
+      "rating": 1,
+      "chunk": 10
     },
     {
-      "Action": "Attempts to catch a fish for Holly but struggles and fails.",
-      "Warmth": 1,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Fires two shots into Holly's father, killing him.",
+      "assessment": "This violent act is cold and ruthless, showing a lack of empathy or concern for human life, indicating very low warmth.",
+      "rating": -3,
+      "chunk": 11
     },
     {
-      "Action": "Cuts a piece of twine rigged to trigger a deadly spike trap and ducks out of the way in time.",
-      "Competence": 1,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Avoids Holly's gaze after shooting her father.",
+      "assessment": "Avoiding eye contact may suggest discomfort or guilt, hinting at some internal conflict or awareness of wrongdoing, a slight indication of emotional complexity but not necessarily warmth.",
+      "rating": -1,
+      "chunk": 11
     },
     {
-      "Action": "Wakes up with his pistol beside him, showing vigilance and preparedness.",
-      "Competence": 1,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Gently sets Holly's father down in the cellar after dragging him there.",
+      "assessment": "The gentle handling of the body shows a small measure of care or respect, which contrasts with the earlier violence and suggests a nuanced behavior.",
+      "rating": 1,
+      "chunk": 11
     },
     {
-      "Action": "Runs laps through the woods as physical and mental training, pushing himself to improve.",
-      "Competence": 1,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Follows Holly into the kitchen and tries to engage with her despite her slapping him.",
+      "assessment": "Persisting in communication and attempting to connect with Holly despite her rejection shows some degree of tolerance and desire for interaction.",
+      "rating": 1,
+      "chunk": 11
     },
     {
-      "Action": "Lectures Holly on gun mechanics and survival skills, demonstrating knowledge and leadership.",
-      "Competence": 1,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Sits down at the piano quietly after being slapped, allowing Holly to follow him.",
+      "assessment": "This non-confrontational response and allowing Holly to approach him may indicate a willingness to coexist peacefully, a mild sign of warmth.",
+      "rating": 1,
+      "chunk": 11
     },
     {
-      "Action": "Lifts an egg from a bird's nest high in a tree and drops it down carefully to Holly.",
-      "Competence": 1,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Dismisses Holly's suggestion to tell someone about the shooting, saying 'Too late now' and 'They're not going to listen to me. You either...'",
+      "assessment": "This cynical and dismissive attitude shows a lack of trust and openness, reflecting coldness and emotional distance.",
+      "rating": -2,
+      "chunk": 11
     },
     {
-      "Action": "Fails to catch the fish when it wriggles free, struggling in vain to retrieve it.",
-      "Competence": -1,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Fires two shots into Holly's father quickly and decisively as he walks into the living room.",
+      "assessment": "This action shows Kit's ability to act decisively and with precision under pressure, indicating a level of skill and confidence in handling dangerous situations.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Throws his net down in disgust, partly at Holly.",
-      "Warmth": -1,
-      "Chunk": 16
+      "trait": "competence",
+      "action": "Avoids Holly's gaze after shooting her father and follows her into the kitchen.",
+      "assessment": "Avoiding eye contact in a tense moment may suggest emotional discomfort or uncertainty, which could indicate a momentary lapse in emotional control, though not necessarily incompetence.",
+      "rating": 0,
+      "chunk": 11
     },
     {
-      "Action": "Tells Holly to take a break in a teasing or casual manner.",
-      "Warmth": 0,
-      "Chunk": 16
+      "trait": "competence",
+      "action": "Closes the back door after entering the house through the front.",
+      "assessment": "This shows awareness of security and attention to detail, reflecting a cautious and methodical approach.",
+      "rating": 1,
+      "chunk": 11
     },
     {
-      "Action": "Engages with Holly while she reads aloud; attempts to comment or connect by saying 'He was nervous.'",
-      "Warmth": 1,
-      "Chunk": 16
+      "trait": "competence",
+      "action": "Dismisses Holly's suggestion to call a doctor and insists her father does not need one.",
+      "assessment": "This indicates confidence in his assessment of the situation, but also a possible underestimation of consequences or lack of empathy, which could be a negative indicator depending on context.",
+      "rating": 0,
+      "chunk": 11
     },
     {
-      "Action": "Throws his net down in disgust, partly at Holly.",
-      "Competence": -1,
-      "Chunk": 16
+      "trait": "competence",
+      "action": "Touches the father's heart to check his condition.",
+      "assessment": "This shows practical knowledge and a hands-on approach to assessing the situation, suggesting some level of competence in first aid or medical awareness.",
+      "rating": 1,
+      "chunk": 11
     },
     {
-      "Action": "Walks off rather than addressing the issue or trying again after failing to catch the fish.",
-      "Competence": -1,
-      "Chunk": 16
+      "trait": "competence",
+      "action": "Drags Holly's father into the cellar and sets him down gently before leaving with a toaster.",
+      "assessment": "This action demonstrates physical capability and a strategic mindset, possibly to conceal the body or manage the aftermath, indicating planning and control.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Looks around to find somebody to share something amusing with (National Geographic)",
-      "Warmth": 1,
-      "Chunk": 17
+      "trait": "competence",
+      "action": "Engages with Holly calmly after the incident, despite her slapping him.",
+      "assessment": "Maintaining composure in a tense emotional situation suggests emotional resilience and self-control, which are aspects of competence.",
+      "rating": 1,
+      "chunk": 11
     },
     {
-      "Action": "Greets Holly as he walks by carrying a log",
-      "Warmth": 1,
-      "Chunk": 17
+      "trait": "competence",
+      "action": "Rejects Holly's idea to tell someone about the incident, stating it's too late and that no one will listen.",
+      "assessment": "This shows a realistic or possibly cynical understanding of their situation, indicating situational awareness, though it may also reflect resignation or defeatism.",
+      "rating": 1,
+      "chunk": 11
     },
     {
-      "Action": "Carrying a heavy log with apparent ease while passing by Holly, showing physical capability and purposeful action.",
-      "Competence": 1,
-      "Chunk": 17
+      "trait": "warmth",
+      "action": "Responds to Holly's concern about neighbors hearing noise with indifference and leaves the house despite her tears.",
+      "assessment": "Kit shows a lack of empathy and sensitivity toward Holly's emotional state, indicating low warmth in this interaction.",
+      "rating": -2,
+      "chunk": 12
     },
     {
-      "Action": "Fishing with a crude net, demonstrating practical survival skills.",
-      "Competence": 1,
-      "Chunk": 17
+      "trait": "warmth",
+      "action": "Records a message in a public booth explaining his and Holly's decision to kill themselves, acknowledging the pain but also the 'fun' they've had.",
+      "assessment": "While the message reveals some openness and a desire to communicate, the tone is detached and self-centered, lacking sincere warmth or concern for others.",
+      "rating": -1,
+      "chunk": 12
     },
     {
-      "Action": "Browsing a National Geographic magazine alone in a crow's nest and looking to share it, showing curiosity and a desire to engage but no evident deeper understanding or application.",
-      "Competence": 0,
-      "Chunk": 17
+      "trait": "warmth",
+      "action": "Pours gasoline inside Holly's house, preparing to set it on fire.",
+      "assessment": "This destructive act shows disregard for property and safety, and a lack of care or kindness, strongly indicating low warmth.",
+      "rating": -3,
+      "chunk": 12
     },
     {
-      "Action": "Warns Holly with a code word of approaching hunters, instructs her to hide, and takes protective action by hiding and confronting danger.",
-      "Warmth": 1,
-      "Chunk": 18
+      "trait": "competence",
+      "action": "Decides to leave Holly's house after a tense confrontation, despite her tears and pleas.",
+      "assessment": "This shows a certain decisiveness and control over the situation, indicating he is capable of making difficult choices without being swayed by emotion.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Shoots three hunters in the back after they pass over his hiding spot.",
-      "Warmth": -1,
-      "Chunk": 18
+      "trait": "competence",
+      "action": "Records a message in a gramophone booth explaining his and Holly's planned suicide and the circumstances leading to it.",
+      "assessment": "This action demonstrates forethought and an ability to communicate clearly under pressure, suggesting a level of intelligence and composure.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Frees the rooster by flipping over the wicker covering so it can walk off.",
-      "Warmth": 1,
-      "Chunk": 18
+      "trait": "competence",
+      "action": "Pours gasoline inside Holly's house aggressively, preparing to set it on fire.",
+      "assessment": "This shows a willingness to take bold, decisive action, but also recklessness and poor judgment, which undermines his competence.",
+      "rating": -1,
+      "chunk": 12
     },
     {
-      "Action": "Slams the trunk of the car in frustration.",
-      "Warmth": 0,
-      "Chunk": 18
+      "trait": "warmth",
+      "action": "Sets up a lamp and plays a record outdoors for the District Attorney to find, gambling for time to help Holly escape.",
+      "assessment": "This action shows a protective and strategic side, indicating care for Holly's well-being by trying to buy time for their escape, which suggests some warmth in his intentions.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Throws away a bird cage from the roof of the car stating they don't need it.",
-      "Warmth": 0,
-      "Chunk": 18
+      "trait": "warmth",
+      "action": "Pours gasoline inside the house and sets it on fire, destroying Holly's home.",
+      "assessment": "While this is a destructive act, it is done to cover their tracks and aid their escape, showing a willingness to sacrifice material things for their safety, but it also shows disregard for property and potential emotional impact on Holly.",
+      "rating": -1,
+      "chunk": 13
     },
     {
-      "Action": "Offers a chicken to Cato with a friendly gesture despite keeping a safe distance.",
-      "Warmth": 1,
-      "Chunk": 19
+      "trait": "warmth",
+      "action": "Encourages Holly to get her books from school so she won't fall behind and talks about starting a new life together.",
+      "assessment": "This shows concern for Holly's future and education, as well as a desire to protect and support her, reflecting a sincere and caring attitude.",
+      "rating": 3,
+      "chunk": 13
     },
     {
-      "Action": "Introduces Holly sincerely to Cato.",
-      "Warmth": 1,
-      "Chunk": 19
+      "trait": "warmth",
+      "action": "Plans to change their names and hide out like spies to avoid questions.",
+      "assessment": "This indicates a protective and inclusive approach, involving Holly in the plan and showing a desire to keep her safe, which is a warm and considerate behavior.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Keeps a safe distance and holds a rifle when meeting Cato.",
-      "Warmth": 0,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Sets a record playing on a victrola outdoors to mislead the District Attorney and buys time.",
+      "assessment": "This shows strategic thinking and planning, using a clever distraction to manipulate the situation in his favor.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Keeps a safe distance when meeting Cato and cautiously approaches with rifle in hand, showing awareness and caution.",
-      "Competence": 1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Pours gasoline inside the house and ignites it, causing a large fire to destroy evidence.",
+      "assessment": "Demonstrates decisiveness and willingness to take bold, risky actions to cover tracks, indicating confidence and capability in crisis.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Inspects the interior of Cato's house and asks about the antlers, indicating observation and information gathering.",
-      "Competence": 1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Runs to the car with the lamp after lighting the fire but is caught off guard by the force of the flames.",
+      "assessment": "While generally competent, this momentary surprise suggests a slight underestimation of the fire’s intensity, indicating a minor lapse in situational awareness.",
+      "rating": 0,
+      "chunk": 13
     },
     {
-      "Action": "Introduces Holly to Cato smoothly during the meeting, demonstrating social ease and situational management.",
-      "Competence": 1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Plans a new life with Holly, including changing their names and hiding out like spies.",
+      "assessment": "Shows foresight and an understanding of the need for careful identity management, reflecting intelligent and confident planning.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Conceals his feelings about a potential fortune, showing carefulness rather than openness.",
-      "Warmth": 0,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Waits for Holly at the car alone, ensuring privacy and safety before she gets in.",
+      "assessment": "Waiting alone for Holly shows attentiveness and a protective attitude, indicating care and consideration.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Refuses to let Holly keep a found pot lid by calling it dirty.",
-      "Warmth": -1,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Studies Holly for signs of her mood and initiates a gentle check-in by asking 'How you doing?'",
+      "assessment": "Kit’s effort to gauge Holly’s feelings and engage in conversation reflects a sincere concern for her well-being.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Engages in playful dirt throwing with Holly, making her squeal and dodge.",
-      "Warmth": 1,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Works collaboratively with Holly to build a treehouse using natural materials.",
+      "assessment": "Participating in a cooperative, creative project demonstrates a willingness to bond and share meaningful experiences.",
+      "rating": 3,
+      "chunk": 14
     },
     {
-      "Action": "Conceals his feelings about the chance to make a fortune from old coins, showing carefulness and control.",
-      "Competence": 1,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Engages in playful activities like deciding on passwords and sneaking out to steal food together.",
+      "assessment": "These shared playful and trusting behaviors suggest a warm companionship and mutual enjoyment.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Plans future travel with Holly, indicating a degree of forward thinking and decision-making.",
-      "Competence": 1,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Builds a complex treehouse with Holly using natural materials like tamarisk, willow, and cottonwood, including pounding logs with a tomahawk and weaving branches through the frame.",
+      "assessment": "This action demonstrates practical skills, resourcefulness, and a hands-on ability to create a functional shelter in the wilderness, indicating a good level of competence in survival and craftsmanship.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Tells Holly to put down a dirty pot lid, showing practical awareness and consideration.",
-      "Competence": 1,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Participates in planning a network of tunnels and establishing daily passwords for security.",
+      "assessment": "This shows foresight, strategic thinking, and an understanding of the need for security and secrecy, reflecting mental competence and careful planning.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Engages in throwing dirt clods with Holly, acting playfully but potentially immature.",
-      "Competence": 0,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Studies Holly for signs of her mood and initiates casual conversation.",
+      "assessment": "This indicates social awareness and emotional intelligence, suggesting competence in interpersonal interactions, though the exchange is fairly minimal and neutral.",
+      "rating": 1,
+      "chunk": 14
     },
     {
-      "Action": "Shoots Cato without warning but follows him and opens the door for him, allowing him inside.",
-      "Warmth": 0,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Does not take advantage of easier escape options (like sneaking out the back or hiding in the boiler room) and instead chooses to stay with Holly.",
+      "assessment": "While this shows loyalty and emotional commitment, it may also suggest a lack of tactical thinking or missed opportunity for self-preservation, indicating a slight negative impact on competence in terms of practical decision-making.",
+      "rating": -1,
+      "chunk": 14
     },
     {
-      "Action": "Calmly picks up a photo on the bureau and shows some curiosity about someone's past by asking about 'her'.",
-      "Warmth": 1,
-      "Chunk": 21
+      "trait": "warmth",
+      "action": "Drops an egg from a bird's nest down to Holly fifty feet below.",
+      "assessment": "This action shows a playful and gentle interaction with Holly, indicating a caring and tender side.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Shrugs off Cato's injury and shows no verbal concern when Holly asks if Cato is upset.",
-      "Warmth": -1,
-      "Chunk": 21
+      "trait": "warmth",
+      "action": "Gives Holly lectures on how a gun works and how to take it apart and put it back together.",
+      "assessment": "Teaching Holly survival skills demonstrates a protective and responsible attitude, reflecting concern for her safety and well-being.",
+      "rating": 3,
+      "chunk": 15
     },
     {
-      "Action": "Gives Holly a cigarette, sharing it with her.",
-      "Warmth": 1,
-      "Chunk": 21
+      "trait": "warmth",
+      "action": "Dances the stroll with Holly to music, despite having less rhythm than her.",
+      "assessment": "Engaging in a lighthearted activity together shows a willingness to share joyful moments and connect emotionally.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Remarks negatively about the clutter in the house but not directly at people.",
-      "Warmth": 0,
-      "Chunk": 21
+      "trait": "warmth",
+      "action": "Trains himself rigorously in the woods, exhorting himself to greater effort.",
+      "assessment": "While this shows discipline and determination, it is a self-focused behavior and does not directly indicate warmth.",
+      "rating": 0,
+      "chunk": 15
     },
     {
-      "Action": "Reveals that Cato stole a cage and indicates a desire for the shooting to be an execution not murder, indicating some moral boundary.",
-      "Warmth": 0,
-      "Chunk": 21
+      "trait": "warmth",
+      "action": "Cuts a twine trap on the trail, narrowly avoiding a lethal spike ball.",
+      "assessment": "This action shows alertness and survival instinct but is neutral regarding warmth as it is self-protective rather than other-oriented.",
+      "rating": 0,
+      "chunk": 15
     },
     {
-      "Action": "Suggests Holly go keep Cato company while he is injured.",
-      "Warmth": 1,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Kit lifts an egg out of a bird's nest at the top of a tree and drops it down to Holly, fifty feet below.",
+      "assessment": "This action shows physical agility and carefulness, indicating a certain level of skill and confidence in navigating the environment.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Shoots Cato through the belly and follows him calmly while opening the door for him.",
-      "Competence": 1,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Kit cuts a piece of twine across a trail, triggering a ball full of spikes that swings down with lethal force, and he ducks out of the way.",
+      "assessment": "This demonstrates alertness, quick reflexes, and situational awareness, all positive indicators of competence.",
+      "rating": 3,
+      "chunk": 15
     },
     {
-      "Action": "Calmly surveys the cluttered room and discusses practical concerns with Holly.",
-      "Competence": 1,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Kit runs laps through the woods as part of his training, exhorting himself to greater effort.",
+      "assessment": "This shows discipline, self-motivation, and a commitment to improving his physical condition, reflecting competence.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Shows contradictory behavior wanting the shooting to be seen as an execution rather than a murder, indicating conflicted intentions.",
-      "Competence": 0,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Kit gives Holly lectures on how a gun works, how to take it apart and put it back together again, preparing her to carry on without him.",
+      "assessment": "This indicates knowledge, teaching ability, and foresight, all strong signs of competence.",
+      "rating": 3,
+      "chunk": 15
     },
     {
-      "Action": "Leaves Cato partially conscious and unattended, only suggesting Holly keep him company later.",
-      "Competence": -1,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Kit lifts a fish out of the river with a crude device like a lacrosse net, but the fish wriggles free and falls back into the water; Kit struggles in vain to retrieve it.",
+      "assessment": "This suggests a lack of skill or experience in fishing or using the device effectively, a minor negative indicator of competence.",
+      "rating": -1,
+      "chunk": 15
     },
     {
-      "Action": "Draws his gun on the boy and girl, threatening to kill the boy if he enters the house, saying 'Can't afford to take chances.'",
-      "Warmth": -1,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Kit is shown asleep with his pistol beside him.",
+      "assessment": "While not directly indicative of competence, the presence of the pistol nearby suggests a readiness and awareness of danger, a subtle positive indicator.",
+      "rating": 1,
+      "chunk": 15
     },
     {
-      "Action": "Waves the boy and girl out into the neighboring field and keeps an eye on them rather than harming them directly.",
-      "Warmth": 0,
-      "Chunk": 22
+      "trait": "warmth",
+      "action": "Kit throws his net down in disgust, partly at Holly, and tells her to 'Take a break. Red... Life of Riley, huh?'",
+      "assessment": "Although Kit shows frustration, he also suggests Holly take a break, which can be seen as a mild attempt to care for her well-being, indicating some underlying concern.",
+      "rating": 1,
+      "chunk": 16
     },
     {
-      "Action": "Draws his gun to control the situation when suspicious of strangers trying to enter the house, insists on handling it cautiously.",
-      "Competence": 1,
-      "Chunk": 22
+      "trait": "warmth",
+      "action": "Kit listens quietly while Holly reads Kon-Tiki aloud and comments briefly that 'He was nervous.'",
+      "assessment": "Kit’s brief comment and attention to Holly’s reading shows a subtle engagement and willingness to share a moment, reflecting a modest degree of warmth and connection.",
+      "rating": 1,
+      "chunk": 16
     },
     {
-      "Action": "Communicates uncertainty but takes charge effectively by keeping the boy and girl at a distance and controlling their movements.",
-      "Competence": 1,
-      "Chunk": 22
+      "trait": "warmth",
+      "action": "Kit accuses Holly of only being along for the ride during their bad moments.",
+      "assessment": "This accusation is harsh and dismissive, indicating a lack of trust and tolerance, which negatively impacts perceptions of warmth.",
+      "rating": -2,
+      "chunk": 16
     },
     {
-      "Action": "Uses verbal commands and presence of mind to manage a potentially threatening situation without escalating violence.",
-      "Competence": 1,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Throws his net down in disgust, partly at Holly, after failing to catch the fish.",
+      "assessment": "This action shows frustration and a lack of patience or skill in fishing at that moment, indicating a minor lapse in competence.",
+      "rating": -1,
+      "chunk": 16
     },
     {
-      "Action": "Asks the Boy to promise to stay down in the cellar, then shoots down through the cellar seam to prevent escape, hesitates but follows through, retreats to Holly's side afterwards.",
-      "Warmth": -1,
-      "Chunk": 23
+      "trait": "competence",
+      "action": "Walks off after telling Holly to take a break, showing some leadership or decisiveness.",
+      "assessment": "This suggests a degree of confidence and control in the situation, reflecting moderate competence.",
+      "rating": 1,
+      "chunk": 16
     },
     {
-      "Action": "Offers his hand to Holly as they run from the cellar, although she does not see it.",
-      "Warmth": 1,
-      "Chunk": 23
+      "trait": "competence",
+      "action": "Shaving calmly in the morning while Holly attends to chores.",
+      "assessment": "This indicates a level of self-care and routine maintenance, implying basic competence in personal upkeep.",
+      "rating": 1,
+      "chunk": 16
     },
     {
-      "Action": "Carries an injured Cato to a boxcar and checks that Cato still has the shoes Kit gave him.",
-      "Warmth": 1,
-      "Chunk": 23
+      "trait": "competence",
+      "action": "Interrupts Holly reading by saying 'He was nervous.'",
+      "assessment": "This shows some observational insight or emotional intelligence, suggesting mental engagement and competence in social interaction.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Guides the couple into the storm cellar to protect them.",
-      "Competence": 1,
-      "Chunk": 23
+      "trait": "warmth",
+      "action": "Browsing through National Geographic, amused by what he sees, looking around to find somebody he can share it with.",
+      "assessment": "This shows a desire to connect and share experiences with others, indicating a friendly and inclusive nature.",
+      "rating": 2,
+      "chunk": 17
     },
     {
-      "Action": "Asks the boy to promise to stay down in the cellar and tests his resolve.",
-      "Competence": 1,
-      "Chunk": 23
+      "trait": "warmth",
+      "action": "Greeted Holly as he walked by with a log over his shoulder.",
+      "assessment": "A simple greeting while engaged in work suggests basic social politeness and acknowledgment of others, a mild positive indicator of warmth.",
+      "rating": 1,
+      "chunk": 17
     },
     {
-      "Action": "Shoots into the cellar to potentially eliminate witnesses but hesitates and shows some uncertainty afterward.",
-      "Competence": 0,
-      "Chunk": 23
+      "trait": "warmth",
+      "action": "Fishing alone with a crude net, stopping briefly to watch a truck passing by, then returning to work.",
+      "assessment": "This action is neutral with respect to warmth; it shows self-reliance and focus but no clear social or emotional engagement.",
+      "rating": 0,
+      "chunk": 17
     },
     {
-      "Action": "Runs away from the cellar after shooting instead of confirming the result, indicating reluctance or fear.",
-      "Competence": -1,
-      "Chunk": 23
+      "trait": "competence",
+      "action": "Sits in the crow's nest at the top of the treehouse, browsing through a copy of National Geographic and looking around to find somebody to share it with.",
+      "assessment": "This shows a calm, reflective side and some intellectual curiosity, but does not directly demonstrate skill or confident action; it suggests moderate competence in self-directed leisure and observation.",
+      "rating": 1,
+      "chunk": 17
     },
     {
-      "Action": "Carries Cato and secures him in a box car, checking details like his shoes to confirm identity.",
-      "Competence": 1,
-      "Chunk": 23
+      "trait": "competence",
+      "action": "Carries a log over his shoulder while walking by Holly.",
+      "assessment": "This indicates physical capability and a willingness to perform manual labor, suggesting basic practical competence.",
+      "rating": 1,
+      "chunk": 17
     },
     {
-      "Action": "Puts Cato in the boxcar 'just to keep him out of the sun' rather than harsher reasons.",
-      "Warmth": 1,
-      "Chunk": 24
+      "trait": "competence",
+      "action": "Fishes with a crude net near a river dangerously close to civilization, pausing briefly to watch a truck pass.",
+      "assessment": "This shows resourcefulness and some survival skills, but also a possible lack of caution or strategic awareness given the proximity to civilization, which could be risky.",
+      "rating": 0,
+      "chunk": 17
     },
     {
-      "Action": "Shrugs off Holly's question about putting Cato in the boxcar, showing defensiveness and avoidance.",
-      "Warmth": -1,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Gives Holly a code word to warn her of approaching hunters, enabling her to escape safely.",
+      "assessment": "This shows Kit's protective and caring nature toward Holly, indicating a degree of trustworthiness and concern for her safety.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Offers Holly reassurance by acknowledging her tiredness and promising to buy her a big steak after their troubles.",
-      "Warmth": 1,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Shoots three hunters in the back after they unknowingly pass over his hiding spot.",
+      "assessment": "While this action is violent and ruthless, it is motivated by self-preservation and protection of Holly, but the method (shooting in the back) suggests a lack of honor or direct confrontation, reducing warmth.",
+      "rating": -2,
+      "chunk": 18
     },
     {
-      "Action": "Shows frustration and bitterness, blaming others sarcastically for a wrecked car.",
-      "Warmth": -1,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Frees the rooster by flipping over its wicker cover, allowing it to walk off free.",
+      "assessment": "This small act of kindness toward an animal shows a gentle and considerate side, reflecting some warmth and benevolence.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Introduces Holly to the maid and winks at her, showing casual friendliness.",
-      "Warmth": 1,
-      "Chunk": 25
+      "trait": "warmth",
+      "action": "Slams the trunk of the Mercury in frustration.",
+      "assessment": "This expression of frustration is somewhat aggressive and may indicate irritability, which detracts slightly from warmth.",
+      "rating": -1,
+      "chunk": 18
     },
     {
-      "Action": "Deceives the maid and the rich man to gain entry by pretending to be a meter reader.",
-      "Warmth": -1,
-      "Chunk": 25
+      "trait": "warmth",
+      "action": "Throws away a bird cage from the car roof, saying 'We don't need this.'",
+      "assessment": "Discarding the cage and freeing the rooster suggests a desire for freedom and a rejection of confinement, which can be seen as a warm, empathetic gesture.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Politely says 'Excuse me' when passing through the house, showing manners.",
-      "Warmth": 1,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Fires at the fish but misses twice.",
+      "assessment": "This action suggests a lack of precision or patience in a simple task, indicating a minor lapse in skill or focus.",
+      "rating": -1,
+      "chunk": 18
     },
     {
-      "Action": "Asks the rich man if anyone else is home and requests to stay for a couple of hours, showing some respect despite the situation.",
-      "Warmth": 0,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Sits on watch in the crow's nest with binoculars, alert to sounds and movements.",
+      "assessment": "This shows vigilance and situational awareness, reflecting competent lookout behavior.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Poses as a meter reader and carries a suitcase with tools to enter a rich man's house undetected.",
-      "Competence": 1,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Shouts a code word to Holly upon spotting a hunter, prompting her to run and hide.",
+      "assessment": "Demonstrates quick thinking, effective communication, and leadership under pressure.",
+      "rating": 3,
+      "chunk": 18
     },
     {
-      "Action": "Forgets to convincingly explain himself clearly once inside the house, appearing somewhat overwhelmed and hesitant.",
-      "Competence": -1,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Clambers down, grabs a shotgun, instructs Holly to hide, and hides himself under leaves.",
+      "assessment": "Shows tactical awareness and ability to take cover, indicating practical survival skills.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Uses a casual wink to reassure Holly while maintaining the facade, showing confidence in the deception.",
-      "Competence": 1,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Remains hidden as hunters pass directly over his hiding spot without detection.",
+      "assessment": "Exhibits excellent stealth and patience, key indicators of competence in evasion.",
+      "rating": 3,
+      "chunk": 18
     },
     {
-      "Action": "Fails to detect that the maid is deaf despite interacting with her, indicating a lack of full situational awareness.",
-      "Competence": -1,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Rises slowly, warns the hunters with a gentlemanly word, then shoots all three in the back.",
+      "assessment": "Demonstrates confidence, decisiveness, and effective marksmanship, though the ethical dimension is questionable.",
+      "rating": 3,
+      "chunk": 18
     },
     {
-      "Action": "Rings dinner bell, sets a clear boundary by saying it means time to clear out.",
-      "Warmth": 0,
-      "Chunk": 26
+      "trait": "competence",
+      "action": "Checks for additional threats after shooting the hunters and calls out weakly to Holly.",
+      "assessment": "Shows thoroughness and concern for partner's safety, though calling out weakly may suggest some physical or emotional strain.",
+      "rating": 1,
+      "chunk": 18
     },
     {
-      "Action": "Studies a picture thoughtfully, showing contemplative behavior.",
-      "Warmth": 0,
-      "Chunk": 26
+      "trait": "competence",
+      "action": "Slams the trunk of the car and throws away a bird cage from the roof.",
+      "assessment": "Indicates decisiveness and a focus on practical needs, removing unnecessary items to travel light.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Gives advice on the dictaphone to listen to parents and teachers, keep an open mind and understand others' viewpoints.",
-      "Warmth": 1,
-      "Chunk": 26
+      "trait": "competence",
+      "action": "Climbs ladder to check the treehouse cabin for anything left behind, then frees the rooster.",
+      "assessment": "Shows thoroughness and a degree of care or sentimentality, suggesting attention to detail and humane consideration.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Rings the dinner bell to signal time to clear out, then calmly studies the room and objects like a picture on the mantel, demonstrating awareness and composed observation.",
-      "Competence": 1,
-      "Chunk": 26
+      "trait": "competence",
+      "action": "Surveys the woods before leaving with Holly.",
+      "assessment": "Demonstrates situational awareness and caution before departure, reflecting competent leadership.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Sits thoughtfully in the chair the Rich Man occupied, takes initiative to record advice on a dictaphone, showing reflective and communicative skills.",
-      "Competence": 1,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Offers a chicken to Cato while keeping a safe distance and greeting him.",
+      "assessment": "Offering food is a friendly and generous gesture, indicating some level of care and goodwill, though the safe distance and casual tone suggest a guarded warmth rather than full openness.",
+      "rating": 1,
+      "chunk": 19
     },
     {
-      "Action": "Speaks into the dictaphone, giving practical advice about listening to others and keeping an open mind, indicating intelligence and awareness.",
-      "Competence": 1,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Introduces Holly to Cato.",
+      "assessment": "Introducing his girlfriend to a friend shows a willingness to share his personal life and connect people, which is a positive indicator of warmth.",
+      "rating": 2,
+      "chunk": 19
     },
     {
-      "Action": "Advises to keep an open mind and understand others' viewpoints.",
-      "Warmth": 1,
-      "Chunk": 27
+      "trait": "warmth",
+      "action": "Engages in casual conversation and inspects Cato's house with curiosity.",
+      "assessment": "The casual conversation and interest in Cato's home suggest a friendly and sincere engagement, though somewhat reserved.",
+      "rating": 1,
+      "chunk": 19
     },
     {
-      "Action": "Acknowledges fun with Holly and their relationship is 'doing fine'.",
-      "Warmth": 1,
-      "Chunk": 27
+      "trait": "warmth",
+      "action": "Encourages Holly to tell a joke at lunch.",
+      "assessment": "Encouraging humor and lightheartedness in a social setting reflects a friendly and warm demeanor.",
+      "rating": 2,
+      "chunk": 19
     },
     {
-      "Action": "Politely greets a visitor and explains Scarborough is sick to avoid contagion.",
-      "Warmth": 1,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Approaches Cato cautiously, keeping a safe distance and holding a rifle while offering a chicken as a peace gesture.",
+      "assessment": "This shows Kit's awareness of potential danger and his ability to balance caution with social interaction, indicating situational intelligence and skill.",
+      "rating": 2,
+      "chunk": 19
     },
     {
-      "Action": "Sets gun aside and re-hides picture before answering door, suggesting caution.",
-      "Warmth": 0,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Inspects the interior of Cato's house and notices details like the mounted antlers.",
+      "assessment": "This demonstrates Kit's attentiveness and observational skills, which are important for assessing environments and potential threats.",
+      "rating": 2,
+      "chunk": 19
     },
     {
-      "Action": "Checks the chamber of his pistol before leaving the room, puts a picture back that he had moved, indicating attention to detail and caution.",
-      "Competence": 1,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Introduces Holly to Cato in a straightforward manner.",
+      "assessment": "This suggests social confidence and the ability to manage interpersonal relationships smoothly.",
+      "rating": 1,
+      "chunk": 19
     },
     {
-      "Action": "Answers the door for the visitor and gives a plausible excuse about Mister Scarborough being sick to avoid letting the visitor inside.",
-      "Competence": 1,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Engages in casual conversation and encourages Holly to tell a joke during lunch.",
+      "assessment": "This indicates emotional intelligence and the ability to maintain morale and normalcy in tense situations, a subtle but important competence.",
+      "rating": 1,
+      "chunk": 19
     },
     {
-      "Action": "Leans back in chair lost in reflection after setting down the dictaphone and cigarette, showing a moment of thoughtfulness.",
-      "Competence": 0,
-      "Chunk": 27
+      "trait": "warmth",
+      "action": "Tells a joke and asks if it is funny, seeking social connection.",
+      "assessment": "Attempting to share humor and engage others suggests a friendly and inclusive attitude.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Allows Visitor to leave a message and politely excuses himself.",
-      "Warmth": 1,
-      "Chunk": 28
+      "trait": "warmth",
+      "action": "Conceals his excitement about the potential fortune from the Spanish coins.",
+      "assessment": "Hiding his true feelings to avoid spoiling the mood shows some social tact and consideration.",
+      "rating": 1,
+      "chunk": 20
     },
     {
-      "Action": "Tells Rich Man and Maid they can take the Cadillac and provides a list of borrowed items.",
-      "Warmth": 1,
-      "Chunk": 28
+      "trait": "warmth",
+      "action": "Engages in playful dirt-throwing with Holly after she tosses a pot lid at him.",
+      "assessment": "Playful teasing indicates a friendly and warm interaction, showing comfort and camaraderie.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Points a pistol at the Maid while asking if she is okay.",
-      "Warmth": -1,
-      "Chunk": 28
+      "trait": "warmth",
+      "action": "Tells Holly to put down the pot lid because it is dirty.",
+      "assessment": "This could be seen as slightly dismissive or controlling, but also possibly protective or practical; overall neutral to mildly negative.",
+      "rating": -1,
+      "chunk": 20
     },
     {
-      "Action": "Locks Rich Man and Maid in a closet but reassures Rich Man by calling him a friend and requesting no trouble.",
-      "Warmth": 0,
-      "Chunk": 28
+      "trait": "warmth",
+      "action": "Invites Holly to visit her people in Texas and talks about future plans inclusively.",
+      "assessment": "Showing interest in Holly's background and including her in plans reflects openness and friendliness.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Wipes fingerprints from door handle to avoid detection.",
-      "Warmth": 0,
-      "Chunk": 28
+      "trait": "competence",
+      "action": "Kit sees the chance to make a fortune with the old Spanish coins but carefully conceals his feelings.",
+      "assessment": "This shows Kit's ability to control his emotions and think strategically, indicating a level of social and practical intelligence.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Accepts a note from the Visitor and discreetly hides it in a vase, showing awareness and caution.",
-      "Competence": 1,
-      "Chunk": 28
+      "trait": "competence",
+      "action": "Kit negotiates plans to go to Texas and possibly Mexico, showing some foresight and planning.",
+      "assessment": "This suggests Kit is capable of planning ahead and considering options, reflecting competent decision-making.",
+      "rating": 1,
+      "chunk": 20
     },
     {
-      "Action": "Takes the hat and coat found on a rack to presumably aid his disguise or escape.",
-      "Competence": 1,
-      "Chunk": 28
+      "trait": "competence",
+      "action": "Kit tells Holly to put down the dirty pot lid and then playfully throws dirt clods at her.",
+      "assessment": "While the initial command shows some assertiveness, the playful behavior indicates a casual, perhaps immature side that might undermine perceptions of competence in serious contexts.",
+      "rating": 0,
+      "chunk": 20
     },
     {
-      "Action": "Communicates clearly with the Rich Man about taking the Cadillac and reassures him regarding Holly's driving, demonstrating leadership and control.",
-      "Competence": 1,
-      "Chunk": 28
+      "trait": "competence",
+      "action": "Kit spots Cato suddenly and calls out to him.",
+      "assessment": "This quick situational awareness and ability to react promptly suggests attentiveness and alertness, positive indicators of competence.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Locks the Rich Man and Maid in a closet and wipes fingerprints off the door handle, showing careful planning and skill.",
-      "Competence": 1,
-      "Chunk": 28
+      "trait": "warmth",
+      "action": "Shoots Cato through the belly but then follows him and opens the door for him to enter the house.",
+      "assessment": "Although Kit shoots Cato, he shows a measure of care by following him and opening the door, indicating a complex mix of hostility and a minimal degree of consideration.",
+      "rating": -1,
+      "chunk": 21
     },
     {
-      "Action": "Leaving a list of borrowed items including the car with the Rich Man, displaying an unusual honesty and organization in a criminal situation.",
-      "Competence": 1,
-      "Chunk": 28
+      "trait": "warmth",
+      "action": "Calmly picks up a photo on the bureau and asks Holly about it.",
+      "assessment": "This shows some curiosity and a willingness to engage with others' personal histories, suggesting a slight openness and sincerity.",
+      "rating": 1,
+      "chunk": 21
     },
     {
-      "Action": "Grabs the seat of Holly's pants playfully but respects her boundary when she says 'Don't.'",
-      "Warmth": 0,
-      "Chunk": 29
+      "trait": "warmth",
+      "action": "Shrugs off Cato's injury and does not express concern about his condition.",
+      "assessment": "Kit's indifferent attitude toward Cato's serious wound reflects a lack of empathy and warmth.",
+      "rating": -2,
+      "chunk": 21
     },
     {
-      "Action": "Keeps an eye on propriety by hurrying back to open the car door for Holly after forgetting.",
-      "Warmth": 1,
-      "Chunk": 29
+      "trait": "warmth",
+      "action": "Offers Holly the cigarette after taking a drag.",
+      "assessment": "Sharing a cigarette is a small social gesture that can indicate friendliness or camaraderie.",
+      "rating": 1,
+      "chunk": 21
     },
     {
-      "Action": "Tells Holly to enjoy the scenery during their escape across the Great Plains.",
-      "Warmth": 1,
-      "Chunk": 29
+      "trait": "warmth",
+      "action": "Encourages Holly to go keep Cato company while he is injured.",
+      "assessment": "Suggesting Holly keep Cato company shows some concern for Cato's well-being and a recognition of the need for comfort, indicating a moderate degree of warmth.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Carries groceries, rifle, and a stolen trophy, and deliberately chooses a Cadillac over a Rolls Royce, showing awareness of practicality and style.",
-      "Competence": 1,
-      "Chunk": 29
+      "trait": "warmth",
+      "action": "Comments dismissively on the clutter and catalogue items, emphasizing they can't afford anything.",
+      "assessment": "This practical, somewhat harsh attitude toward possessions and finances suggests a lack of tolerance or warmth in this context.",
+      "rating": -1,
+      "chunk": 21
     },
     {
-      "Action": "Forgets to open the car door for Holly but quickly recovers and does so, showing some social awareness but a slight lapse.",
-      "Competence": 0,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Shoots Cato through the belly quickly upon spotting him.",
+      "assessment": "This action shows decisiveness and willingness to take control of a dangerous situation, indicating a level of tactical competence.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Tells Holly to enjoy the scenery while taking an indirect route across the Great Plains to avoid roadblocks, indicating strategic thinking and cautious planning.",
-      "Competence": 1,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Follows Cato for a while, then opens the door for him to enter the house.",
+      "assessment": "This suggests a calculated and controlled approach, showing Kit’s ability to manage the situation calmly rather than acting impulsively.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Engages in casual, somewhat awkward banter with Holly (grabbing her pants, questioning her past experiences) that suggests social discomfort or lack of emotional intelligence.",
-      "Competence": 0,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Calmly picks up a photo on the bureau and inspects the room.",
+      "assessment": "This behavior indicates observational skills and a composed demeanor, traits associated with competence.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Chuckles at Holly's comment, which pleases her.",
-      "Warmth": 1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Shrugs off the severity of shooting Cato and casually comments on the clutter in the room.",
+      "assessment": "This could indicate emotional detachment or a lack of empathy, which might undermine social competence, but does not necessarily reflect on practical competence.",
+      "rating": 0,
+      "chunk": 21
     },
     {
-      "Action": "Rams a cow to save ammo for food.",
-      "Warmth": 0,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Leaves Cato conscious but wounded without apparent medical attention, and does not engage further with him.",
+      "assessment": "This omission suggests a possible lack of thoroughness or care in managing the aftermath of his actions, which could be seen as a negative indicator of competence.",
+      "rating": -1,
+      "chunk": 21
     },
     {
-      "Action": "Curses the name of South Dakota and wishes atomic bomb on Rapid City.",
-      "Warmth": -1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Engages in casual banter with Holly while maintaining control of the environment.",
+      "assessment": "This shows social ease and confidence, supporting an image of competent interpersonal behavior.",
+      "rating": 1,
+      "chunk": 21
     },
     {
-      "Action": "Cooks meat over a fire for the group at the campsite.",
-      "Warmth": 1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Expresses a desire for the shooting to be seen as an execution rather than a murder.",
+      "assessment": "This reveals strategic thinking about consequences and appearances, indicating a higher level of competence in managing outcomes.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Responds to Holly's concerns about their loneliness and harsh conditions with lighthearted teasing and optimism.",
-      "Warmth": 0,
-      "Chunk": 31
+      "trait": "warmth",
+      "action": "Draws his gun on the Boy and Girl approaching Cato's house and threatens to kill if they enter the house without permission.",
+      "assessment": "Kit's immediate resort to violence and distrust toward the visitors shows a guarded, suspicious nature rather than warmth or friendliness.",
+      "rating": -2,
+      "chunk": 22
     },
     {
-      "Action": "Cooks meat over a fire while camping in the badlands.",
-      "Competence": 1,
-      "Chunk": 31
+      "trait": "warmth",
+      "action": "Waves the Boy and Girl out into the field and keeps a watchful eye on them, asking if they mind being monitored.",
+      "assessment": "While still controlling and suspicious, Kit shows a slight degree of consideration by asking if the Boy minds being watched, indicating some awareness of their feelings.",
+      "rating": -1,
+      "chunk": 22
     },
     {
-      "Action": "Carries his rifle confidently, emulating James Dean’s posture from 'Giant'.",
-      "Competence": 1,
-      "Chunk": 31
+      "trait": "warmth",
+      "action": "Refers the Girl to Holly for answers about their fate, indicating he defers to others in social interactions.",
+      "assessment": "Kit's deferral to Holly suggests a lack of direct engagement or warmth in handling the situation himself, possibly indicating emotional distance or avoidance.",
+      "rating": 0,
+      "chunk": 22
     },
     {
-      "Action": "Admits to never having been to Montana and not having any particular reason to go.",
-      "Competence": 0,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Kit draws his gun and threatens to kill the boy if he enters the house, asserting control over the situation.",
+      "assessment": "This action shows Kit's decisiveness and willingness to take control to protect his interests, indicating a level of confidence and tactical thinking.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Responds to Holly’s discomfort about their living conditions by promising to catch a big trout.",
-      "Competence": 1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Kit waves the boy and girl out into the field and insists on keeping an eye on them, managing the potential threat carefully.",
+      "assessment": "This demonstrates Kit's cautiousness and ability to manage potentially dangerous situations by controlling the environment and the people involved.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Buries some of their belongings carefully so they might be found in the future, showing a sentimental and thoughtful gesture.",
-      "Warmth": 1,
-      "Chunk": 32
+      "trait": "competence",
+      "action": "Kit refuses to let the boy enter the house and maintains a firm stance despite the boy's questions.",
+      "assessment": "This shows Kit's resolve and ability to maintain boundaries under pressure, reflecting a competent and confident demeanor.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Shoots a football he considers excess baggage to lighten their load, indicating practicality without overt consideration for others' feelings about the items.",
-      "Warmth": 0,
-      "Chunk": 32
+      "trait": "warmth",
+      "action": "Guides the couple into the storm cellar and instructs them to stay down for an hour.",
+      "assessment": "Kit shows a degree of responsibility and concern for the couple's safety by guiding them to shelter, which can be seen as a protective and caring act.",
+      "rating": 1,
+      "chunk": 23
     },
     {
-      "Action": "Discusses possibly being stuck in the Badlands with a hint of vulnerability or uncertainty, suggesting openness.",
-      "Warmth": 1,
-      "Chunk": 32
+      "trait": "warmth",
+      "action": "Fires two shots down into the cellar after pinning the latch.",
+      "assessment": "This action is aggressive and violent, indicating a lack of trust and empathy, and a willingness to harm others rather than protect or communicate, which negatively impacts perceptions of warmth.",
+      "rating": -3,
+      "chunk": 23
     },
     {
-      "Action": "Shoots a football from several feet away and then pounds it flat after noticing it didn't deflate.",
-      "Competence": 1,
-      "Chunk": 32
+      "trait": "warmth",
+      "action": "Offers Holly his hand as they run from the storm.",
+      "assessment": "Offering a hand is a small but sincere gesture of care and connection, suggesting some warmth and concern for Holly's well-being.",
+      "rating": 2,
+      "chunk": 23
     },
     {
-      "Action": "Buries some belongings in a bucket to hide them for possible future retrieval or for someone to find far in the future.",
-      "Competence": 1,
-      "Chunk": 32
+      "trait": "warmth",
+      "action": "Carries Cato's body and checks his shoes before placing him in the box car.",
+      "assessment": "This shows a certain attentiveness and respect for Cato, indicating a nuanced side to Kit's character that is capable of small acts of consideration, though within a grim context.",
+      "rating": 1,
+      "chunk": 23
     },
     {
-      "Action": "Considers and verbalizes the idea of pulling the car onto the train tracks to slow the train down, showing some strategic thinking, though it is immediately countered by Holly.",
-      "Competence": 0,
-      "Chunk": 32
+      "trait": "competence",
+      "action": "Guides the couple into the storm cellar and manages the situation by making the Boy promise to stay down there for an hour.",
+      "assessment": "This shows Kit's ability to take charge and control a tense situation with some level of authority and strategic thinking.",
+      "rating": 2,
+      "chunk": 23
     },
     {
-      "Action": "Expresses uncertainty about what to do next and ambivalence about being stuck, indicating some lack of clear direction or decisiveness.",
-      "Competence": -1,
-      "Chunk": 32
+      "trait": "competence",
+      "action": "Fires two shots down through a seam into the cellar after pinning the latch, then retreats instead of checking the result.",
+      "assessment": "While Kit demonstrates decisiveness and willingness to use force, his hesitation and refusal to verify the outcome suggests a lack of thoroughness or confidence in his actions.",
+      "rating": 0,
+      "chunk": 23
     },
     {
-      "Action": "Spins bottle to decide direction, attempts to find a fair way to choose path.",
-      "Warmth": 1,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "Runs away from the cellar after shooting, offering his hand to Holly but not ensuring she notices.",
+      "assessment": "This indicates some impulsiveness and possible lack of situational awareness or emotional intelligence, which detracts from his overall competence.",
+      "rating": -1,
+      "chunk": 23
     },
     {
-      "Action": "Expresses self-doubt about choosing the right direction, tells Holly he doesn't care if he's not worth a damn.",
-      "Warmth": 1,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "Carries the motionless Cato over his shoulder and moves him to a box car for containment.",
+      "assessment": "This action shows physical capability and practical problem-solving skills, reflecting competence in handling difficult circumstances.",
+      "rating": 2,
+      "chunk": 23
     },
     {
-      "Action": "Changes mind after starting toward Holly, heads back to tracks showing indecision and distance.",
-      "Warmth": 0,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "Checks Cato's shoes before closing the box car doors.",
+      "assessment": "This detail suggests attentiveness and a methodical approach, indicating a level of carefulness and competence.",
+      "rating": 2,
+      "chunk": 23
     },
     {
-      "Action": "Uses the spin of a bottle to decide direction but doubts the accuracy and questions the conditions affecting the spin.",
-      "Competence": 1,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "Is described as 'the most trigger happy person' who believes in shooting all witnesses when the law is coming.",
+      "assessment": "This reveals a reckless and ruthless mindset that prioritizes survival over caution or strategy, which can undermine long-term competence despite short-term decisiveness.",
+      "rating": -2,
+      "chunk": 23
     },
     {
-      "Action": "Decides ultimately that if he is competent he will pick the right direction and expresses a fatalistic attitude if not.",
-      "Competence": 0,
-      "Chunk": 33
+      "trait": "warmth",
+      "action": "Checks Cato's shoes after locking him in the box car to ensure they are the ones he gave him.",
+      "assessment": "This shows a small but considerate attention to Cato's well-being, indicating some level of care and responsibility.",
+      "rating": 1,
+      "chunk": 24
     },
     {
-      "Action": "Acknowledges uncertainty about the quality of his decisions and expresses that he shouldn't expect miracles.",
-      "Competence": -1,
-      "Chunk": 33
+      "trait": "warmth",
+      "action": "Shrugs off Holly's question about putting Cato in the box car, saying it was 'just to keep him out of the sun.'",
+      "assessment": "The explanation seems dismissive and lacks genuine concern, suggesting a defensive and somewhat cold attitude.",
+      "rating": -1,
+      "chunk": 24
     },
     {
-      "Action": "Reaches over and takes cigarette from Holly's mouth in a playful, familiar manner.",
-      "Warmth": 1,
-      "Chunk": 34
+      "trait": "warmth",
+      "action": "Offers to buy Holly a big, thick steak after their ordeal is over.",
+      "assessment": "This is a friendly and caring gesture, showing a desire to comfort and reward Holly, reflecting warmth and affection.",
+      "rating": 2,
+      "chunk": 24
     },
     {
-      "Action": "Responds with casual humor and openness about trying to get a job with the Mounties.",
-      "Warmth": 1,
-      "Chunk": 34
+      "trait": "warmth",
+      "action": "Acknowledges Holly looks tired and asks if she is.",
+      "assessment": "This shows attentiveness and concern for Holly's state, indicating a degree of warmth and empathy.",
+      "rating": 2,
+      "chunk": 24
     },
     {
-      "Action": "Dismisses Holly's apology for not listening without resentment.",
-      "Warmth": 1,
-      "Chunk": 34
+      "trait": "warmth",
+      "action": "Expresses frustration about being blamed for a wrecked car, calling others 'bastards.'",
+      "assessment": "While understandable, the use of harsh language and focus on blame reflects bitterness and defensiveness rather than warmth.",
+      "rating": -1,
+      "chunk": 24
     },
     {
-      "Action": "Confidently claims he can get a job with the Mounties and lists his relevant skills (ride, shoot, tolerate cold).",
-      "Competence": 1,
-      "Chunk": 34
+      "trait": "competence",
+      "action": "Checks Cato's shoes after locking him in the boxcar to ensure they are the ones he gave him.",
+      "assessment": "This action shows attention to detail and a cautious mindset, indicating a level of practical competence in managing his environment and resources.",
+      "rating": 2,
+      "chunk": 24
     },
     {
-      "Action": "Dismisses a practical obstacle (needing a driver's license) but remains confident he will overcome it.",
-      "Competence": 0,
-      "Chunk": 34
+      "trait": "competence",
+      "action": "Shrugs off Holly's concern about putting Cato in the boxcar, saying it was just to keep him out of the sun.",
+      "assessment": "This response suggests a defensive and somewhat evasive attitude, possibly indicating a lack of clear communication or confidence in his decisions.",
+      "rating": -1,
+      "chunk": 24
     },
     {
-      "Action": "Admits he often talks without thinking ('running off at the mouth'), which suggests a lack of self-discipline or awareness.",
-      "Competence": -1,
-      "Chunk": 34
+      "trait": "competence",
+      "action": "Walks up and down the boxcar, talking under his breath and throwing his rifle from hand to hand, appearing agitated and in a state.",
+      "assessment": "This behavior reflects internal anxiety and lack of calm control, which undermines his ability to act confidently and skillfully in a tense situation.",
+      "rating": -2,
+      "chunk": 24
     },
     {
-      "Action": "Pats her hand away to prevent changing the radio station, then dances with her and whispers about singing a song to express his feelings.",
-      "Warmth": 1,
-      "Chunk": 35
+      "trait": "competence",
+      "action": "Drives the Studebaker while engaging Holly in conversation, attempting to comfort her with promises of a steak after their troubles.",
+      "assessment": "This shows an ability to multitask and maintain some emotional control, as well as a degree of leadership and care, which are positive indicators of competence.",
+      "rating": 1,
+      "chunk": 24
     },
     {
-      "Action": "Shakes his head with admiration and wonder at the sight of the mountains, engaging Holly by asking her opinion.",
-      "Warmth": 1,
-      "Chunk": 35
+      "trait": "competence",
+      "action": "Acknowledges the wrecked car in the ditch and anticipates being blamed for it.",
+      "assessment": "This indicates situational awareness and a realistic understanding of consequences, reflecting a pragmatic and intelligent mindset.",
+      "rating": 2,
+      "chunk": 24
     },
     {
-      "Action": "Politely asks the roughneck for gas despite the roughneck's uncertain response.",
-      "Warmth": 1,
-      "Chunk": 35
+      "trait": "warmth",
+      "action": "Introduces Holly to the maid and winks at her when the maid is unsure.",
+      "assessment": "Kit's introduction of Holly and his lighthearted wink suggest a friendly and inclusive attitude, showing some warmth despite the tense situation.",
+      "rating": 1,
+      "chunk": 25
     },
     {
-      "Action": "Patting Holly's hand away to keep the radio on Nat King Cole, showing control in a subtle situation.",
-      "Competence": 1,
-      "Chunk": 35
+      "trait": "warmth",
+      "action": "Uses a deceptive excuse to enter a rich man's house and asks to stay for a couple of hours while on the run.",
+      "assessment": "Kit's willingness to deceive and intrude on a stranger's home for personal gain shows a lack of respect and sincerity, indicating low warmth.",
+      "rating": -2,
+      "chunk": 25
     },
     {
-      "Action": "Engages Holly with charm and emotionally connects by whispering about singing a song, demonstrating social skill and confidence.",
-      "Competence": 1,
-      "Chunk": 35
+      "trait": "warmth",
+      "action": "Politely says 'Excuse me' when entering the house after the maid lets them in.",
+      "assessment": "This polite behavior shows some basic courtesy, a minimal but positive indicator of warmth.",
+      "rating": 1,
+      "chunk": 25
     },
     {
-      "Action": "Observes the mountains at dawn with admiration and uses the moment to connect with Holly, showing awareness and emotional intelligence.",
-      "Competence": 1,
-      "Chunk": 35
+      "trait": "warmth",
+      "action": "Asks the rich man if anyone else is in the house and requests to stay for a while.",
+      "assessment": "While Kit is straightforward in his request, the context of being fugitives using the man's home without genuine permission reduces the sincerity and trustworthiness of the interaction.",
+      "rating": -1,
+      "chunk": 25
     },
     {
-      "Action": "Approaches the oil rig alone, confidently initiating contact with the roughneck and requesting gas despite uncertain reception.",
-      "Competence": 1,
-      "Chunk": 35
+      "trait": "competence",
+      "action": "Kit approaches a rich man's house and rings the bell, then confidently lies that he is there to check the meter, showing a suitcase of tools as a prop.",
+      "assessment": "This action demonstrates Kit's ability to improvise a plausible cover story and use props to support his deception, indicating cleverness and situational awareness.",
+      "rating": 2,
+      "chunk": 25
     },
     {
-      "Action": "Admits he has no time to explain their need for gas, indicating a sense of urgency but also showing straightforwardness.",
-      "Competence": 1,
-      "Chunk": 35
+      "trait": "competence",
+      "action": "Kit interacts with the maid and Holly, not noticing the maid is deaf but continuing the ruse smoothly.",
+      "assessment": "Although Kit misses the detail that the maid is deaf, he maintains composure and proceeds without breaking character, showing adaptability despite a minor oversight.",
+      "rating": 1,
+      "chunk": 25
     },
     {
-      "Action": "Offers to swap his Cadillac for the Roughneck's truck, attempting a fair deal.",
-      "Warmth": 1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Kit asks the rich man if anyone else is present and requests to stay for a couple of hours, managing to secure permission to remain in the house.",
+      "assessment": "This shows Kit's social confidence and ability to negotiate under pressure, though his approach is somewhat casual and could risk suspicion.",
+      "rating": 1,
+      "chunk": 25
     },
     {
-      "Action": "Points out he shoots people sometimes, implying toughness but not a medal-worthy hero—somewhat self-deprecating honesty.",
-      "Warmth": 0,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Kit looks around the mansion and appears overwhelmed by the luxury.",
+      "assessment": "This moment of being overwhelmed suggests a lapse in emotional control or unfamiliarity with such environments, which could undermine his confidence and effectiveness.",
+      "rating": -1,
+      "chunk": 25
     },
     {
-      "Action": "Encourages the Roughneck to run and tries to protect Holly by urging her to get in the car.",
-      "Warmth": 1,
-      "Chunk": 36
+      "trait": "warmth",
+      "action": "Rings a dinner bell and solemnly tells Holly that next time it means time to clear out.",
+      "assessment": "This action is somewhat playful but also carries a tone of control or warning, which is neutral in warmth—neither particularly friendly nor hostile.",
+      "rating": 0,
+      "chunk": 26
     },
     {
-      "Action": "Shows frustration when Holly refuses to run, kicks dust, and questions her insistently.",
-      "Warmth": -1,
-      "Chunk": 36
+      "trait": "warmth",
+      "action": "Sniffs a glass of sherry and studies a picture off the mantel quietly.",
+      "assessment": "This behavior is introspective and neutral, showing no clear warmth or coldness toward others.",
+      "rating": 0,
+      "chunk": 26
     },
     {
-      "Action": "After Holly refuses to go, he responds with a mixture of surprise and concern but ultimately walks off somewhat withdrawn.",
-      "Warmth": 0,
-      "Chunk": 36
+      "trait": "warmth",
+      "action": "Sits thoughtfully in the chair previously occupied by the Rich Man, recording advice for young people on a dictaphone.",
+      "assessment": "Recording advice that encourages listening to parents and teachers and keeping an open mind suggests a sincere and well-meaning attitude, indicating a positive inclination toward warmth.",
+      "rating": 2,
+      "chunk": 26
     },
     {
-      "Action": "Attempts to swap his Cadillac for the truck, showing negotiation skills and confidence.",
-      "Competence": 1,
-      "Chunk": 36
+      "trait": "warmth",
+      "action": "Advises young people to try to understand the viewpoint of others.",
+      "assessment": "Encouraging empathy and open-mindedness is a clear positive indicator of warmth, showing tolerance and sincerity.",
+      "rating": 3,
+      "chunk": 26
     },
     {
-      "Action": "Identifies the approaching helicopter quickly and draws his gun without hesitation.",
-      "Competence": 1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Rings a dinner bell to signal when it's time to clear out, then watches Holly's reactions carefully.",
+      "assessment": "This shows Kit's ability to control the situation subtly and communicate non-verbally, indicating situational awareness and a degree of leadership.",
+      "rating": 2,
+      "chunk": 26
     },
     {
-      "Action": "Tries to take charge and motivates roughneck to run, indicating decisiveness under pressure.",
-      "Competence": 1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Sniffs a glass of sherry and studies a picture on the mantel.",
+      "assessment": "These actions suggest Kit is observant and attentive to details in his environment, which can be a sign of intelligence and carefulness.",
+      "rating": 1,
+      "chunk": 26
     },
     {
-      "Action": "Reacting with frustration and confusion at Holly’s refusal, possibly losing composure.",
-      "Competence": 0,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Sits thoughtfully in the chair previously occupied by the Rich Man, recording advice on a dictaphone.",
+      "assessment": "This indicates reflective thinking and a capacity to articulate advice, showing intellectual competence and confidence.",
+      "rating": 2,
+      "chunk": 26
     },
     {
-      "Action": "Ultimately bows head and walks off after Holly’s refusal, showing some emotional vulnerability but no clear strategic action.",
-      "Competence": 0,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Records advice encouraging young people to listen to authority and keep an open mind.",
+      "assessment": "This demonstrates Kit's ability to think beyond himself and offer considered guidance, reflecting maturity and insight.",
+      "rating": 2,
+      "chunk": 26
     },
     {
-      "Action": "Offers to let the attendant take any of Holly's discarded belongings from the trash can, indicating a small gesture of sharing.",
-      "Warmth": 1,
-      "Chunk": 37
+      "trait": "warmth",
+      "action": "Tells the Visitor that Mister Scarborough is sick with the flu and declines to invite him inside to avoid spreading the illness.",
+      "assessment": "Kit shows consideration for the Visitor's health by not inviting him inside due to contagious illness, indicating a thoughtful and caring attitude.",
+      "rating": 2,
+      "chunk": 27
     },
     {
-      "Action": "Kicks at the rigs in frustration and is involved in a violent shootout with police.",
-      "Warmth": -1,
-      "Chunk": 37
+      "trait": "warmth",
+      "action": "Leans back in his chair, lost in reflection after speaking about trying to keep an open mind and understanding others' viewpoints.",
+      "assessment": "Kit's expressed advice to keep an open mind and understand others suggests a tolerant and sincere mindset, reflecting positive warmth.",
+      "rating": 2,
+      "chunk": 27
     },
     {
-      "Action": "Says to Holly, 'You want a second chance, then listen,' setting a meeting but in a commanding, tough manner.",
-      "Warmth": 0,
-      "Chunk": 37
+      "trait": "warmth",
+      "action": "Moves a picture back to its place on the mantel before leaving the room.",
+      "assessment": "This action shows a respect for order and the belongings of others, which can be interpreted as a subtle sign of respect and consideration.",
+      "rating": 1,
+      "chunk": 27
     },
     {
-      "Action": "Uses a discarded fender as a shield and successfully outguns a State Trooper, then escapes in a car.",
-      "Competence": 1,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "Checks the chamber of his pistol before leaving the room.",
+      "assessment": "This action shows a careful and methodical approach to handling a weapon, indicating awareness and preparedness.",
+      "rating": 2,
+      "chunk": 27
     },
     {
-      "Action": "Approaches a gas station and requests ammunition clearly, then methodically sorts through and discards another person's belongings to lighten his load or remove unnecessary items.",
-      "Competence": 1,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "Puts a picture back in place on the mantel before answering the door.",
+      "assessment": "This suggests attention to detail and an awareness of appearances, possibly to avoid suspicion or maintain a certain image.",
+      "rating": 1,
+      "chunk": 27
     },
     {
-      "Action": "Notices the approaching police car simultaneously as they spot him, quickly hides evidence (the book) in the car and escapes, leading police on a chase using dirt roads and gunfire to lose them.",
-      "Competence": 1,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "Answers the door calmly and lies about Mister Scarborough being sick to avoid the visitor entering.",
+      "assessment": "This demonstrates quick thinking and the ability to manage a potentially risky social interaction with composure and strategic deception.",
+      "rating": 2,
+      "chunk": 27
     },
     {
-      "Action": "Greets the police calmly with a casual 'Hi' and cooperates by throwing up his hands and walking toward them.",
-      "Warmth": 1,
-      "Chunk": 38
+      "trait": "competence",
+      "action": "Leans back in his chair, lost in reflection after setting down the dictaphone.",
+      "assessment": "While reflection can be a sign of thoughtfulness, in this context it may also suggest passivity or distraction rather than active problem-solving.",
+      "rating": 0,
+      "chunk": 27
     },
     {
-      "Action": "Makes a stack of rocks to mark the site of his capture for posterity.",
-      "Warmth": 1,
-      "Chunk": 38
+      "trait": "warmth",
+      "action": "Allows the Visitor to leave a message and politely excuses himself.",
+      "assessment": "Kit shows a basic level of politeness and tolerance by permitting the Visitor to leave a message and responding courteously.",
+      "rating": 1,
+      "chunk": 28
     },
     {
-      "Action": "Mocks the police by boasting about holding off an army.",
-      "Warmth": -1,
-      "Chunk": 38
+      "trait": "warmth",
+      "action": "Hides the Visitor's note in a vase instead of destroying or ignoring it.",
+      "assessment": "This action suggests a degree of respect or consideration for the Visitor's communication, indicating some trustworthiness or thoughtfulness.",
+      "rating": 1,
+      "chunk": 28
     },
     {
-      "Action": "Skillfully evades police by swerving off road, causing police car to lose control and stall, then successfully losing pursuers.",
-      "Competence": 1,
-      "Chunk": 38
+      "trait": "warmth",
+      "action": "Checks on the Maid's wellbeing by asking if she is okay.",
+      "assessment": "Kit's inquiry about the Maid's condition shows a moment of concern and friendliness, reflecting some warmth.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "Calmly checks his pulse and marks the site of his capture with a stack of rocks just before surrendering.",
-      "Competence": 1,
-      "Chunk": 38
+      "trait": "warmth",
+      "action": "Gives the Rich Man a list of everything borrowed, including the car.",
+      "assessment": "Providing a list demonstrates honesty and sincerity, positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "Demonstrates self-awareness by checking appearance and demeanor in the mirror during escape.",
-      "Competence": 1,
-      "Chunk": 38
+      "trait": "warmth",
+      "action": "Assures the Rich Man that Holly will not drive the Cadillac.",
+      "assessment": "This shows a protective attitude and consideration for others' safety, reflecting care and responsibility.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "Claims to have a flat tire as an excuse for capture, possibly deceiving but also indicating acceptance of situation.",
-      "Competence": 0,
-      "Chunk": 38
+      "trait": "warmth",
+      "action": "Locks the Rich Man and Maid in a closet but calls the Rich Man 'my friend' and asks for no 'monkey business'.",
+      "assessment": "While calling the Rich Man 'friend' suggests a friendly tone, locking them up is controlling and distrustful, indicating a lack of genuine warmth.",
+      "rating": -2,
+      "chunk": 28
     },
     {
-      "Action": "Reassures the Deputy with 'Well, you boys have performed like a couple of heroes...'",
-      "Warmth": 1,
-      "Chunk": 39
+      "trait": "warmth",
+      "action": "Wipes his fingerprints off the door handle after locking the closet.",
+      "assessment": "This action is self-protective and secretive, showing a lack of openness and sincerity.",
+      "rating": -2,
+      "chunk": 28
     },
     {
-      "Action": "Responds casually and without complaint when his hat is tossed out of the window",
-      "Warmth": 0,
-      "Chunk": 39
+      "trait": "competence",
+      "action": "Hides the Visitor's note in a vase after receiving it.",
+      "assessment": "This action shows Kit's awareness of the need for secrecy and his ability to take precautions to avoid detection, indicating a level of skill and intelligence.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "Replies tersely and dispassionately to the Deputy's question about liking people ('They're okay.')",
-      "Warmth": 0,
-      "Chunk": 39
+      "trait": "competence",
+      "action": "Takes a hat and coat from a rack before leaving.",
+      "assessment": "This suggests Kit's practical thinking and preparation for leaving the scene, showing foresight and resourcefulness.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "Admits uncertainty and self-awareness in his reasoning for crime: 'I don't know... Takes all kinds though.'",
-      "Warmth": 0,
-      "Chunk": 39
+      "trait": "competence",
+      "action": "Communicates clearly with the Rich Man and Maid about taking the Cadillac and provides a list of borrowed items.",
+      "assessment": "This demonstrates Kit's ability to manage the situation with calmness and clarity, maintaining control and order.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "Tosses souvenirs and personal items to a crowd of guardsmen and troopers despite being shackled, briefly engages in light banter.",
-      "Warmth": 1,
-      "Chunk": 40
+      "trait": "competence",
+      "action": "Locks the Rich Man and Maid in a closet and wipes his fingerprints off the door handle.",
+      "assessment": "This shows Kit's attention to detail and understanding of forensic risks, reflecting careful planning and skill.",
+      "rating": 3,
+      "chunk": 28
     },
     {
-      "Action": "Ignores most of the questions being asked by the crowd, providing minimal engagement.",
-      "Warmth": -1,
-      "Chunk": 40
+      "trait": "competence",
+      "action": "Points a pistol at the Maid while casually checking on her.",
+      "assessment": "This indicates Kit's confidence and control over the situation, though the casual tone may suggest a relaxed but competent demeanor.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "Interacts calmly and confidently with multiple people despite being restrained and under arrest, displaying poise and the ability to maintain control of the social situation.",
-      "Competence": 1,
-      "Chunk": 40
+      "trait": "warmth",
+      "action": "Grabs the seat of Holly's pants playfully and asks if anyone has done that to her before.",
+      "assessment": "This action shows a teasing, somewhat intimate interaction, indicating a level of comfort and friendliness, though it borders on intrusive; Holly's response is positive, suggesting trust.",
+      "rating": 1,
+      "chunk": 29
     },
     {
-      "Action": "Does not resist or attempt escape while shackled and surrounded by law enforcement, showing acceptance of circumstances rather than taking action to change them.",
-      "Competence": -1,
-      "Chunk": 40
+      "trait": "warmth",
+      "action": "Hurries back to open the car door for Holly after forgetting to do so initially.",
+      "assessment": "This shows a courteous and considerate behavior, reflecting respect and attentiveness toward Holly.",
+      "rating": 2,
+      "chunk": 29
     },
     {
-      "Action": "Asks the Deputy for a Coke while reading legal papers, making a small request politely.",
-      "Warmth": 1,
-      "Chunk": 41
+      "trait": "warmth",
+      "action": "Comments on the upkeep costs of the rich man's property and reflects on money not solving all problems.",
+      "assessment": "This shows some reflective and possibly empathetic thinking, indicating a thoughtful side, though it is more observational than directly warm.",
+      "rating": 1,
+      "chunk": 29
     },
     {
-      "Action": "Tells the Guardsmen to keep out of trouble, showing concern for others' well-being.",
-      "Warmth": 1,
-      "Chunk": 41
+      "trait": "warmth",
+      "action": "Tells Holly to enjoy the scenery as they drive across the Great Plains.",
+      "assessment": "Encouraging Holly to enjoy the moment suggests a gentle, caring attitude, showing some warmth in wanting her to have a positive experience.",
+      "rating": 2,
+      "chunk": 29
     },
     {
-      "Action": "Reassures Holly he will get her off charges and that she will have fun later.",
-      "Warmth": 1,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Kit carries groceries, a rifle, and a stolen silver trophy while disguised and prepares to leave the house.",
+      "assessment": "This shows Kit's ability to multitask and maintain composure while handling stolen goods and weapons, indicating practical skill and situational awareness.",
+      "rating": 2,
+      "chunk": 29
     },
     {
-      "Action": "Makes a dark joke about 'the guy with the deaf maid,' which Holly does not appreciate.",
-      "Warmth": -1,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Kit notices and comments on the upkeep costs of the property, showing awareness of financial and practical details.",
+      "assessment": "This reflects Kit's observational skills and understanding of economic realities, suggesting intelligence and practical competence.",
+      "rating": 1,
+      "chunk": 29
     },
     {
-      "Action": "Notices Holly's reaction and becomes serious, indicating some sensitivity.",
-      "Warmth": 1,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Kit forgets to open the car door for Holly initially but quickly corrects himself.",
+      "assessment": "Forgetting a simple courtesy momentarily suggests a slight lapse in attention or social awareness, but his quick correction shows adaptability and awareness.",
+      "rating": 0,
+      "chunk": 29
     },
     {
-      "Action": "Negotiates with the Deputy to read legal papers before signing and cleverly requests a Coke during the process.",
-      "Competence": 1,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Kit chooses to drive the Cadillac instead of the more luxurious Rolls Royce.",
+      "assessment": "This decision may indicate practical judgment or personal preference, showing some level of thoughtful decision-making.",
+      "rating": 1,
+      "chunk": 29
     },
     {
-      "Action": "Interacts confidently with guardsmen and legal authorities, showing leadership by telling others to stay out of trouble.",
-      "Competence": 1,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Kit instructs Holly to enjoy the scenery while they drive across the Great Plains to avoid roadblocks.",
+      "assessment": "This demonstrates foresight, planning, and confidence in navigating potential dangers, indicating competent leadership and situational control.",
+      "rating": 2,
+      "chunk": 29
     },
     {
-      "Action": "Attempts to comfort Holly and assures her they will get her off charges, showing confidence and emotional intelligence.",
-      "Competence": 1,
-      "Chunk": 41
+      "trait": "warmth",
+      "action": "Chuckles at Holly's joke about Frank Sinatra and Rita Hayworth, which pleases her.",
+      "assessment": "Kit's laughter and the resulting pleasure it brings Holly indicate a moment of lighthearted connection and friendliness.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Makes a dark joke about a serious situation (the man with the deaf maid), but recognizes the misstep and shifts to a serious tone.",
-      "Competence": 0,
-      "Chunk": 41
+      "trait": "warmth",
+      "action": "Rams a cow to save on ammo so they can cook it.",
+      "assessment": "While pragmatic and resourceful, this action shows a utilitarian approach to survival rather than warmth or kindness toward animals.",
+      "rating": -1,
+      "chunk": 30
     },
     {
-      "Action": "Thanks officials politely and wishes them good luck sincerely.",
-      "Warmth": 1,
-      "Chunk": 42
+      "trait": "warmth",
+      "action": "Taps gas from pipeline valves to fuel their Cadillac.",
+      "assessment": "This action reflects resourcefulness and practical survival skills but does not directly indicate warmth or interpersonal warmth.",
+      "rating": 0,
+      "chunk": 30
     },
     {
-      "Action": "Calls Holly affectionately 'Red' when boarding the plane.",
-      "Warmth": 1,
-      "Chunk": 42
+      "trait": "warmth",
+      "action": "Expresses gladness to leave South Dakota and curses its name harshly.",
+      "assessment": "This expression of bitterness and negativity suggests intolerance or harshness rather than warmth or tolerance.",
+      "rating": -2,
+      "chunk": 30
     },
     {
-      "Action": "Calmly signs extradition papers and thanks law enforcement politely, demonstrating composure and respect in a stressful situation.",
-      "Competence": 1,
-      "Chunk": 42
+      "trait": "competence",
+      "action": "Rams a cow to save on ammo while traveling and cooking it for food.",
+      "assessment": "This action shows resourcefulness and practical problem-solving skills in a survival situation, indicating a level of competence in managing scarce resources.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Calls Holly calmly to board the plane despite being under arrest and in custody.",
-      "Competence": 1,
-      "Chunk": 42
+      "trait": "competence",
+      "action": "Taps gas off the head of a pipeline valve to fuel the Cadillac.",
+      "assessment": "This demonstrates technical knowledge and ingenuity in finding unconventional fuel sources, reflecting skill and adaptability.",
+      "rating": 3,
+      "chunk": 30
     },
     {
-      "Action": "Accepts extradition and impending punishment without protest or apparent strategic resistance.",
-      "Competence": 0,
-      "Chunk": 42
+      "trait": "competence",
+      "action": "Expresses strong negative feelings about South Dakota and wishes for its destruction in a nuclear attack.",
+      "assessment": "While this shows emotional intensity, it does not directly relate to competence; it may suggest impulsiveness or bitterness but is neutral in terms of skill or capability.",
+      "rating": 0,
+      "chunk": 30
     },
     {
-      "Action": "Engages in light, friendly conversation with the Trooper, expressing admiration and maintaining a cordial tone.",
-      "Warmth": 1,
-      "Chunk": 43
+      "trait": "warmth",
+      "action": "Cooks some meat over a fire for Holly at the campsite.",
+      "assessment": "Cooking food for a companion shows a basic level of care and consideration, indicating some warmth.",
+      "rating": 1,
+      "chunk": 31
     },
     {
-      "Action": "Looks to Holly to check if his joking remark was received well, showing consideration for her feelings.",
-      "Warmth": 1,
-      "Chunk": 43
+      "trait": "warmth",
+      "action": "Responds to Holly's discomfort about their living conditions by promising to catch her a big trout.",
+      "assessment": "Kit attempts to alleviate Holly's discomfort with a practical promise, showing attentiveness and a desire to improve her situation, which reflects moderate warmth.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Engages politely and with curiosity by asking the Trooper about the military hat, showing social attunement and awareness.",
-      "Competence": 1,
-      "Chunk": 43
+      "trait": "warmth",
+      "action": "Kisses Holly and engages in necking despite her reluctance.",
+      "assessment": "While the kissing could be seen as affectionate, Holly's reluctance suggests Kit may be somewhat insensitive to her feelings, indicating a lack of full warmth or sincerity.",
+      "rating": -1,
+      "chunk": 31
     },
     {
-      "Action": "Attempts to gauge the Trooper's attitude through conversation, indicating a degree of social intelligence and confidence.",
-      "Competence": 1,
-      "Chunk": 43
+      "trait": "warmth",
+      "action": "Expresses enjoyment of their lifestyle and dismisses Holly's complaints.",
+      "assessment": "Kit's dismissal of Holly's concerns and focus on his own enjoyment suggests a lack of empathy and tolerance, which negatively impacts his warmth.",
+      "rating": -2,
+      "chunk": 31
     },
     {
-      "Action": "Shows no evidence of taking the situation seriously or assertively acting on it, instead sits passively during the flight.",
-      "Competence": 0,
-      "Chunk": 43
+      "trait": "competence",
+      "action": "Cooks some meat over a fire at the campsite in the badlands.",
+      "assessment": "This action shows basic survival skills and self-sufficiency, indicating a practical level of competence in outdoor living.",
+      "rating": 1,
+      "chunk": 31
+    },
+    {
+      "trait": "competence",
+      "action": "Carries his rifle over his shoulders the way James Dean did in 'Giant' while observing the prairie.",
+      "assessment": "This suggests a confident and composed demeanor, possibly indicating familiarity and comfort with his environment and weaponry, reflecting competent self-assurance.",
+      "rating": 2,
+      "chunk": 31
+    },
+    {
+      "trait": "competence",
+      "action": "Responds to Holly's complaints about their living conditions by saying 'I'm having fun... At least I'm not bitching' and promises to catch her a big trout.",
+      "assessment": "This shows a degree of emotional resilience and a willingness to take initiative to improve their situation, though it may also reflect a somewhat dismissive attitude toward practical concerns.",
+      "rating": 1,
+      "chunk": 31
+    },
+    {
+      "trait": "competence",
+      "action": "Shows limited knowledge of geography, admitting he has never been to Montana and only knows an acquaintance who has.",
+      "assessment": "This indicates a lack of worldly experience or curiosity, which may reflect a gap in knowledge that could be important for navigation or planning.",
+      "rating": -1,
+      "chunk": 31
+    },
+    {
+      "trait": "warmth",
+      "action": "Buries some of Holly's personal belongings in a bucket, saying that nobody else would know where they are and that they might come back someday to find them.",
+      "assessment": "This action shows a sentimental and thoughtful side, indicating care for shared memories and a desire to preserve their connection to the past, which reflects warmth.",
+      "rating": 2,
+      "chunk": 32
+    },
+    {
+      "trait": "warmth",
+      "action": "Shoots a football he considers excess baggage, then pounds it flat with the pistol barrel.",
+      "assessment": "This act seems indifferent or even destructive toward a shared object, lacking consideration for Holly's feelings or the symbolic value of the football, suggesting a colder or less warm attitude.",
+      "rating": -1,
+      "chunk": 32
+    },
+    {
+      "trait": "warmth",
+      "action": "Engages in a quiet moment watching the train with Holly, and contemplates the idea of being stuck here together.",
+      "assessment": "This moment of shared reflection and openness to uncertainty with Holly suggests a subtle warmth and connection, though it is understated.",
+      "rating": 1,
+      "chunk": 32
+    },
+    {
+      "trait": "competence",
+      "action": "Shoots a hole through a football with his pistol, then pounds it flat with the barrel when it doesn't deflate.",
+      "assessment": "This shows a practical, hands-on approach and adaptability when his initial action doesn't have the expected effect, indicating a degree of skill and problem-solving ability.",
+      "rating": 2,
+      "chunk": 32
+    },
+    {
+      "trait": "competence",
+      "action": "Buries some of their belongings in a bucket, reasoning that nobody else will know where they are and they might come back for them someday.",
+      "assessment": "This demonstrates foresight, planning, and a strategic mindset, reflecting competent behavior in preserving resources and options for the future.",
+      "rating": 2,
+      "chunk": 32
+    },
+    {
+      "trait": "competence",
+      "action": "Suggests pulling the car up on the train tracks to slow down the train so they could hop on.",
+      "assessment": "This idea shows creative thinking and confidence in his ability to manipulate the environment, though it also reveals a lack of full consideration of consequences, as Holly points out they'd be stuck.",
+      "rating": 1,
+      "chunk": 32
+    },
+    {
+      "trait": "competence",
+      "action": "Observes the train and contemplates their situation thoughtfully, including the possibility that maybe they ought to be stuck here.",
+      "assessment": "This reflects introspection and situational awareness, indicating a level of emotional and cognitive competence in assessing their circumstances.",
+      "rating": 2,
+      "chunk": 32
+    },
+    {
+      "trait": "warmth",
+      "action": "Spins a bottle to decide which direction to take, then questions the fairness of the outcome and ultimately decides to rely on his own judgment.",
+      "assessment": "Kit shows a moment of playfulness and openness to chance, but quickly retreats to self-reliance, indicating a somewhat guarded and self-centered approach rather than collaborative or trusting behavior.",
+      "rating": 0,
+      "chunk": 33
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses indifference about whether he picks the right direction, saying 'if I'm worth a damn, I'll pick the right direction. And if I'm not, well, I don't care.'",
+      "assessment": "This statement reveals a degree of emotional detachment and resignation, suggesting a lack of warmth or optimism about himself and his situation.",
+      "rating": -1,
+      "chunk": 33
+    },
+    {
+      "trait": "warmth",
+      "action": "Stops and looks out across the Badlands, acknowledging the difficulty of their journey and cautioning that it 'wasn't such a hot idea.'",
+      "assessment": "This shows some realism and perhaps a protective instinct, but also a subtle distancing from hope or enthusiasm, reflecting a cool rather than warm demeanor.",
+      "rating": 0,
+      "chunk": 33
+    },
+    {
+      "trait": "competence",
+      "action": "Spins a bottle to decide which direction to take, then questions the fairness of the result and considers environmental factors affecting it.",
+      "assessment": "This shows a degree of thoughtfulness and awareness of external variables, indicating some analytical thinking rather than blind reliance on chance.",
+      "rating": 1,
+      "chunk": 33
+    },
+    {
+      "trait": "competence",
+      "action": "Decides to disregard the bottle's result and rely on his own judgment about direction, stating 'If I'm worth a damn, I'll pick the right direction.'",
+      "assessment": "This reflects a mix of self-confidence and resignation; while he shows confidence in his own decision-making, the tone suggests some uncertainty or fatalism, which slightly undermines his decisiveness.",
+      "rating": 0,
+      "chunk": 33
+    },
+    {
+      "trait": "competence",
+      "action": "Expresses doubt about the plan to head toward the mountain, calling it 'not such a hot idea.'",
+      "assessment": "This indicates critical thinking and caution, showing he is not blindly optimistic and is aware of potential risks, a positive indicator of competence.",
+      "rating": 2,
+      "chunk": 33
+    },
+    {
+      "trait": "competence",
+      "action": "Leaps down from the trestle and moves with apparent ease.",
+      "assessment": "This physical action suggests agility and confidence in his bodily capabilities, a minor but positive indicator of competence.",
+      "rating": 1,
+      "chunk": 33
+    },
+    {
+      "trait": "competence",
+      "action": "Ultimately leaves the decision of direction to fate (the bottle) but then dismisses it and relies on his own judgment.",
+      "assessment": "This vacillation between chance and personal judgment may indicate indecisiveness or lack of a clear plan, a slight negative indicator of competence.",
+      "rating": -1,
+      "chunk": 33
+    },
+    {
+      "trait": "warmth",
+      "action": "Reaches over and takes the cigarette out of Holly's mouth.",
+      "assessment": "This gesture can be seen as playful and intimate, indicating a level of comfort and closeness with Holly, suggesting some warmth in their interaction.",
+      "rating": 1,
+      "chunk": 34
+    },
+    {
+      "trait": "warmth",
+      "action": "Talks about getting a job with the Mounties, showing willingness to change and provide.",
+      "assessment": "Expressing a desire to find legitimate work and improve their situation shows responsibility and care, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 34
+    },
+    {
+      "trait": "warmth",
+      "action": "Responds to Holly's statement about not tagging along with a hell-bent type with a somewhat dismissive 'I was just running off at the mouth... as usual.'",
+      "assessment": "This response may indicate defensiveness or avoidance rather than sincere engagement, suggesting a lack of openness or warmth in this moment.",
+      "rating": -1,
+      "chunk": 34
+    },
+    {
+      "trait": "competence",
+      "action": "Claims he could get a job with the Northwest Mounties, citing his qualifications like riding, shooting, and liking the cold.",
+      "assessment": "This statement shows Kit's confidence in his practical skills and his ability to adapt to challenging environments, indicating a degree of competence and self-assurance.",
+      "rating": 2,
+      "chunk": 34
+    },
+    {
+      "trait": "competence",
+      "action": "Dismisses the potential obstacle of needing a driver's license for a job with the Mounties by saying he won't let that stop him.",
+      "assessment": "This reflects a certain stubbornness or overconfidence that may undermine his practical competence, as it suggests a disregard for real-world requirements.",
+      "rating": -1,
+      "chunk": 34
+    },
+    {
+      "trait": "competence",
+      "action": "Interrupts Holly by taking the cigarette from her mouth and engages in casual banter about her smoking Pall Mall cigarettes.",
+      "assessment": "This action shows social confidence and a degree of control in the interaction, but it does not strongly indicate competence in a broader sense.",
+      "rating": 0,
+      "chunk": 34
+    },
+    {
+      "trait": "competence",
+      "action": "Admits to 'running off at the mouth' as usual when talking about his plans.",
+      "assessment": "This self-awareness about his tendency to talk without necessarily following through suggests some lack of focus or seriousness, which detracts from his overall competence.",
+      "rating": -1,
+      "chunk": 34
+    },
+    {
+      "trait": "warmth",
+      "action": "Pats Holly's hand away gently to keep the radio on Nat King Cole while they dance.",
+      "assessment": "This action shows a tender and affectionate side, indicating a desire to share a meaningful moment with Holly, reflecting warmth and intimacy.",
+      "rating": 2,
+      "chunk": 35
+    },
+    {
+      "trait": "warmth",
+      "action": "Whispers to Holly about wishing he could sing a song about how he feels.",
+      "assessment": "Expressing his feelings in a vulnerable and poetic way suggests sincerity and emotional openness, positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 35
+    },
+    {
+      "trait": "warmth",
+      "action": "Asks Holly what she thinks of the mountains at dawn, sharing a moment of admiration.",
+      "assessment": "Inviting Holly to share in his wonder shows inclusiveness and a gentle, friendly nature.",
+      "rating": 2,
+      "chunk": 35
+    },
+    {
+      "trait": "warmth",
+      "action": "Politely asks the roughneck for gas despite the roughneck's uncertain response.",
+      "assessment": "Kit's polite and respectful approach to a stranger in a difficult situation reflects good-natured and trustworthy behavior.",
+      "rating": 2,
+      "chunk": 35
+    },
+    {
+      "trait": "competence",
+      "action": "Pats Holly's hand away to prevent her from changing the radio station, insisting on keeping Nat King Cole playing.",
+      "assessment": "This shows Kit's confidence and control over small situations, indicating a calm and assertive demeanor, which can be a subtle sign of competence.",
+      "rating": 1,
+      "chunk": 35
+    },
+    {
+      "trait": "competence",
+      "action": "Whispers to Holly about singing a song like Nat King Cole, expressing his feelings poetically.",
+      "assessment": "While this reveals emotional sensitivity and charm, it does not directly indicate competence in terms of skill or capability.",
+      "rating": 0,
+      "chunk": 35
+    },
+    {
+      "trait": "competence",
+      "action": "Observes the mountains at dawn with admiration and wonder, engaging Holly in conversation about the sight.",
+      "assessment": "This shows appreciation and presence of mind but does not strongly reflect competence; it may suggest reflective intelligence but not necessarily skill or capability.",
+      "rating": 0,
+      "chunk": 35
+    },
+    {
+      "trait": "competence",
+      "action": "Approaches the oil rig, greets the roughneck politely, and straightforwardly asks for gas despite the uncertain response.",
+      "assessment": "This action demonstrates practical problem-solving, social skills, and confidence in handling a potentially difficult situation, indicating a moderate level of competence.",
+      "rating": 2,
+      "chunk": 35
+    },
+    {
+      "trait": "competence",
+      "action": "Admits to the roughneck that they are about out of gas and that he doesn't have time to explain the situation.",
+      "assessment": "This shows decisiveness and prioritization under pressure, traits associated with competence, though the lack of explanation might risk cooperation.",
+      "rating": 1,
+      "chunk": 35
+    },
+    {
+      "trait": "warmth",
+      "action": "Offers to swap his Cadillac for the Roughneck's truck, assuring him it's a fair deal.",
+      "assessment": "This action shows a willingness to negotiate and a somewhat friendly approach, indicating a degree of trustworthiness and fairness.",
+      "rating": 2,
+      "chunk": 36
+    },
+    {
+      "trait": "warmth",
+      "action": "Draws his gun and tells the Roughneck to start running when the helicopter approaches.",
+      "assessment": "While protective and alert, this action is aggressive and threatening, reflecting a lack of warmth in this moment.",
+      "rating": -1,
+      "chunk": 36
+    },
+    {
+      "trait": "warmth",
+      "action": "Joins Holly and tries to persuade her to run with him, showing concern for her safety.",
+      "assessment": "Kit’s concern for Holly’s safety and his attempt to get her to act with him shows care and a protective nature, a positive indicator of warmth.",
+      "rating": 2,
+      "chunk": 36
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses frustration and confusion when Holly refuses to run, kicking dust and questioning her.",
+      "assessment": "His frustration and harsh questioning suggest impatience and a lack of tolerance for Holly’s feelings, which detracts from warmth.",
+      "rating": -2,
+      "chunk": 36
+    },
+    {
+      "trait": "warmth",
+      "action": "After Holly refuses to run, he bows his head and walks off a distance, then returns to her.",
+      "assessment": "This moment of withdrawal followed by returning to Holly may indicate internal conflict and a reluctant attempt to connect, showing some sincerity despite frustration.",
+      "rating": 1,
+      "chunk": 36
+    },
+    {
+      "trait": "competence",
+      "action": "Attempts to trade his Cadillac for the Roughneck's truck by bluffing about the vehicle's value and his own dangerous reputation.",
+      "assessment": "This shows Kit's quick thinking and ability to negotiate under pressure, using bluff and confidence to try to gain an advantage.",
+      "rating": 2,
+      "chunk": 36
+    },
+    {
+      "trait": "competence",
+      "action": "Draws his gun and orders the Roughneck to run when he spots the approaching helicopter.",
+      "assessment": "This indicates Kit's situational awareness and readiness to act decisively in a threatening situation.",
+      "rating": 2,
+      "chunk": 36
+    },
+    {
+      "trait": "competence",
+      "action": "Starts to make a run for the car upon seeing the helicopter, showing initiative to escape.",
+      "assessment": "This demonstrates Kit's ability to quickly formulate a plan and take action to avoid danger.",
+      "rating": 2,
+      "chunk": 36
+    },
+    {
+      "trait": "competence",
+      "action": "Expresses frustration and confusion when Holly refuses to run with him, kicking dust and questioning her.",
+      "assessment": "While this shows emotional investment, it also reveals a momentary loss of composure and inability to manage the situation calmly.",
+      "rating": -1,
+      "chunk": 36
+    },
+    {
+      "trait": "competence",
+      "action": "Hesitates briefly before drawing his gun at the helicopter's approach.",
+      "assessment": "The hesitation could suggest a momentary uncertainty or caution, which might be prudent or indicate slight indecisiveness.",
+      "rating": 0,
+      "chunk": 36
+    },
+    {
+      "trait": "warmth",
+      "action": "Tells Holly to meet him at the Grand Coulee Dam for a second chance, giving her a specific time and place.",
+      "assessment": "Offering a second chance and clear instructions suggests a willingness to reconnect and possibly support Holly, indicating some degree of sincerity and trustworthiness.",
+      "rating": 1,
+      "chunk": 37
+    },
+    {
+      "trait": "warmth",
+      "action": "Throws Holly's belongings into a trash can but offers the attendant to take any of the discarded items.",
+      "assessment": "While discarding Holly's things may seem harsh or dismissive, offering the attendant to take any of the items shows a small gesture of generosity or sharing, which can be seen as a mild positive indicator of warmth.",
+      "rating": 0,
+      "chunk": 37
+    },
+    {
+      "trait": "warmth",
+      "action": "Engages in a violent shootout with a State Trooper and flees from the police.",
+      "assessment": "Engaging in violence and evading law enforcement reflects antisocial and dangerous behavior, which strongly undermines any perception of warmth.",
+      "rating": -3,
+      "chunk": 37
+    },
+    {
+      "trait": "competence",
+      "action": "Grabs a discarded fender and uses it as a shield while exchanging gunfire with a State Trooper.",
+      "assessment": "This shows quick thinking and resourcefulness under pressure, indicating practical combat skills and situational awareness.",
+      "rating": 2,
+      "chunk": 37
+    },
+    {
+      "trait": "competence",
+      "action": "Successfully shoots a State Trooper who arrives in a helicopter.",
+      "assessment": "Demonstrates marksmanship and calmness in a high-stress confrontation, reflecting strong physical and mental competence.",
+      "rating": 2,
+      "chunk": 37
+    },
+    {
+      "trait": "competence",
+      "action": "Throws Holly's belongings methodically into a trash can, then offers them to the attendant.",
+      "assessment": "This suggests a deliberate and controlled approach to disposing of evidence or unwanted items, showing a level of strategic thinking.",
+      "rating": 1,
+      "chunk": 37
+    },
+    {
+      "trait": "competence",
+      "action": "Notices the approaching police car at the gas station at the same time as the police notice him, then quickly throws a book into his car and speeds off.",
+      "assessment": "This indicates alertness and quick reaction to danger, as well as an ability to improvise under pressure.",
+      "rating": 2,
+      "chunk": 37
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in a high-speed chase, turning off the highway onto a dirt road and using the radio to fire back at pursuing police.",
+      "assessment": "Shows driving skill, tactical evasion, and offensive use of available resources, reflecting high competence in escape and combat scenarios.",
+      "rating": 3,
+      "chunk": 37
+    },
+    {
+      "trait": "warmth",
+      "action": "Checks his own appearance and demeanor in the mirror multiple times during the chase.",
+      "assessment": "This behavior suggests self-awareness and concern for how he presents himself, but it is largely self-focused and does not indicate warmth toward others.",
+      "rating": 0,
+      "chunk": 38
+    },
+    {
+      "trait": "warmth",
+      "action": "Shoots a hole in the tire of the Cadillac and climbs on the hood to mark the site of his capture with a stack of rocks.",
+      "assessment": "Marking the site of his capture with rocks is a somewhat playful or symbolic gesture, showing a reflective or sincere side, but it is not directly warm or friendly toward others.",
+      "rating": 1,
+      "chunk": 38
+    },
+    {
+      "trait": "warmth",
+      "action": "Greets the police with a simple 'Hi' and engages in casual banter about his capture location.",
+      "assessment": "His casual greeting and willingness to talk with the police in a non-hostile manner shows a degree of friendliness and sincerity, indicating some warmth despite the tense situation.",
+      "rating": 2,
+      "chunk": 38
+    },
+    {
+      "trait": "warmth",
+      "action": "Throws up his hands and walks forward to meet the police with their guns drawn.",
+      "assessment": "This action shows compliance and a lack of aggression, which can be interpreted as cooperative and non-threatening, reflecting a moderate level of warmth or at least non-hostility.",
+      "rating": 1,
+      "chunk": 38
+    },
+    {
+      "trait": "warmth",
+      "action": "Does not attempt to flee when he still has the chance, despite being pursued by police.",
+      "assessment": "His choice not to run could suggest resignation or despair rather than warmth, but it also avoids further violence or harm, which may reflect a passive tolerance or acceptance.",
+      "rating": 0,
+      "chunk": 38
+    },
+    {
+      "trait": "competence",
+      "action": "Swerves off the road onto the prairie, roars through a herd of cows and barbed wire fence, and causes the police car to roll and stall, losing them temporarily.",
+      "assessment": "This demonstrates strong driving skills, quick thinking, and tactical awareness under pressure, indicating a high level of competence in evasion and vehicle handling.",
+      "rating": 3,
+      "chunk": 38
+    },
+    {
+      "trait": "competence",
+      "action": "Checks his appearance and demeanor multiple times in the rear view mirror during the chase.",
+      "assessment": "This shows self-awareness and composure, suggesting confidence and control over the situation, which are positive indicators of competence.",
+      "rating": 2,
+      "chunk": 38
+    },
+    {
+      "trait": "competence",
+      "action": "Shoots a hole in the tire of the pursuing Cadillac and climbs on the hood to assess the distance of the police.",
+      "assessment": "This action reflects tactical thinking and marksmanship, as well as situational awareness, reinforcing his capability and skill.",
+      "rating": 3,
+      "chunk": 38
+    },
+    {
+      "trait": "competence",
+      "action": "Scurries around collecting rocks to make a stack marking the site of his capture just as the police arrive.",
+      "assessment": "This behavior is unusual and somewhat symbolic rather than practical; it may indicate a moment of resignation or detachment rather than tactical competence.",
+      "rating": 0,
+      "chunk": 38
+    },
+    {
+      "trait": "competence",
+      "action": "Does not attempt to run when he still has the chance, instead choosing to surrender calmly.",
+      "assessment": "While this could be interpreted as a lack of escape initiative, it may also reflect a calculated decision or acceptance of circumstances; however, it suggests a missed opportunity to demonstrate further competence.",
+      "rating": -1,
+      "chunk": 38
+    },
+    {
+      "trait": "competence",
+      "action": "Engages the police with casual, almost taunting remarks during his capture.",
+      "assessment": "This shows confidence and psychological composure, indicating mental sharpness and control even in defeat, which are positive competence indicators.",
+      "rating": 2,
+      "chunk": 38
+    },
+    {
+      "trait": "warmth",
+      "action": "Kit reassures the Deputy by saying, 'Well, you boys have performed like a couple of heroes... And don't think I'm not going to pass it around when we get to town.'",
+      "assessment": "Kit's comment is somewhat friendly and acknowledges the Deputy's actions in a lighthearted, inclusive way, showing a mild degree of warmth and social ease.",
+      "rating": 1,
+      "chunk": 39
+    },
+    {
+      "trait": "warmth",
+      "action": "Kit responds to the Deputy's question about liking people with 'They're okay.'",
+      "assessment": "This response is neutral and somewhat detached, indicating neither warmth nor coldness; it suggests a limited capacity or willingness to express genuine friendliness or trust.",
+      "rating": 0,
+      "chunk": 39
+    },
+    {
+      "trait": "warmth",
+      "action": "Kit jokes with the Sheriff about getting a cauliflower ear after being shoved.",
+      "assessment": "Using humor in a tense situation shows a degree of good-naturedness and an attempt to ease tension, which is a positive indicator of warmth.",
+      "rating": 2,
+      "chunk": 39
+    },
+    {
+      "trait": "warmth",
+      "action": "Kit does not react aggressively or with hostility when the Sheriff shoves him or when his hat is thrown out the window.",
+      "assessment": "Kit's lack of retaliation or complaint in these moments suggests tolerance and a certain level of composure, which can be seen as a mild positive indicator of warmth.",
+      "rating": 1,
+      "chunk": 39
+    },
+    {
+      "trait": "warmth",
+      "action": "Kit admits to the Deputy, 'I don't know. Always wanted to be a criminal, I guess. Just not this big a one... Takes all kinds though.'",
+      "assessment": "This admission is candid but reveals a self-centered and somewhat resigned attitude; it lacks sincerity or trustworthiness toward others, indicating low warmth.",
+      "rating": -1,
+      "chunk": 39
+    },
+    {
+      "trait": "competence",
+      "action": "Follows the Sheriff's order to put the other handcuff on himself without resistance.",
+      "assessment": "This shows a level of compliance and calmness under pressure, indicating situational awareness and control over his reactions, which can be seen as a competent behavior in a high-stress situation.",
+      "rating": 1,
+      "chunk": 39
+    },
+    {
+      "trait": "competence",
+      "action": "Engages the Deputy in conversation about the rifle and the shooting incident while in custody.",
+      "assessment": "This demonstrates social intelligence and the ability to maintain composure and control the interaction, suggesting mental sharpness and confidence despite being restrained.",
+      "rating": 2,
+      "chunk": 39
+    },
+    {
+      "trait": "competence",
+      "action": "Reassures the Deputy by complimenting their performance sarcastically and confidently.",
+      "assessment": "This indicates emotional control and a strategic use of humor to manage the mood and possibly manipulate the situation, reflecting social competence and self-assurance.",
+      "rating": 2,
+      "chunk": 39
+    },
+    {
+      "trait": "competence",
+      "action": "Does not react aggressively or attempt escape when the Sheriff shoves him or throws his hat out the window.",
+      "assessment": "This restraint suggests patience and an ability to assess the situation rather than acting impulsively, which is a sign of competence in managing adverse circumstances.",
+      "rating": 1,
+      "chunk": 39
+    },
+    {
+      "trait": "competence",
+      "action": "Admits uncertainty about why he became a criminal and downplays the severity of his crimes.",
+      "assessment": "This admission reveals a lack of clear self-understanding or strategic thinking about his own motivations, which may indicate a gap in introspective competence.",
+      "rating": -1,
+      "chunk": 39
+    },
+    {
+      "trait": "warmth",
+      "action": "Tosses souvenirs and small items like a cigarette lighter, comb, and pen to the crowd of Montana State Troopers and National Guardsmen.",
+      "assessment": "Sharing personal items with strangers in a restrained situation suggests a friendly and generous disposition, indicating some warmth despite his circumstances.",
+      "rating": 2,
+      "chunk": 40
+    },
+    {
+      "trait": "warmth",
+      "action": "Engages briefly in small talk with voices from the crowd, answering questions about his origin and favorite singer.",
+      "assessment": "Participating in light conversation shows a willingness to connect and be sociable, reflecting a degree of friendliness and sincerity.",
+      "rating": 1,
+      "chunk": 40
+    },
+    {
+      "trait": "warmth",
+      "action": "Ignores most of the questions coming at him from the crowd.",
+      "assessment": "While he does engage somewhat, his selective ignoring of questions may indicate a guarded or indifferent attitude, limiting warmth.",
+      "rating": -1,
+      "chunk": 40
+    },
+    {
+      "trait": "competence",
+      "action": "Kit stands shackled on the wing of a plane and casually tosses souvenirs to the crowd below, engaging in light banter despite his restrained situation.",
+      "assessment": "This behavior shows Kit's ability to maintain composure and social confidence even when physically restrained and vulnerable, indicating a level of psychological competence and self-assurance.",
+      "rating": 2,
+      "chunk": 40
+    },
+    {
+      "trait": "competence",
+      "action": "Kit ignores most of the questions coming at him from the crowd, selectively engaging only with some.",
+      "assessment": "This selective engagement suggests Kit is aware of his environment and controls interactions to maintain some authority or distance, reflecting social and situational intelligence.",
+      "rating": 2,
+      "chunk": 40
+    },
+    {
+      "trait": "competence",
+      "action": "Kit responds to the Deputy's comment about looking like James Dean by dropping his eyes and turning away, feeling gratified.",
+      "assessment": "This reaction reveals a moment of vulnerability and insecurity, showing that Kit is affected by others' opinions and may lack emotional control in this instance, which slightly undermines his overall competence.",
+      "rating": -1,
+      "chunk": 40
+    },
+    {
+      "trait": "warmth",
+      "action": "Tells the Deputy that the cuffs are pinching and asks for a Coke while reading legal papers.",
+      "assessment": "This shows a casual, somewhat lighthearted interaction with authority, indicating a degree of ease and friendliness.",
+      "rating": 1,
+      "chunk": 41
+    },
+    {
+      "trait": "warmth",
+      "action": "Tells the guardsmen 'You boys keep out of trouble.'",
+      "assessment": "This is a mild, friendly admonition that suggests some concern for others' well-being.",
+      "rating": 1,
+      "chunk": 41
+    },
+    {
+      "trait": "warmth",
+      "action": "Reassures Holly, 'Don't worry now.. I'm going to get you off these charges... There's a whole lot of other boys out there. You're going to have a lot of fun.'",
+      "assessment": "Kit attempts to comfort Holly and maintain a positive outlook, showing care and a protective attitude.",
+      "rating": 2,
+      "chunk": 41
+    },
+    {
+      "trait": "warmth",
+      "action": "Makes a dark joke about the man with the deaf maid being lucky not to be dead.",
+      "assessment": "The humor is insensitive and not appreciated by Holly, indicating a lack of empathy and poor social attunement in this moment.",
+      "rating": -1,
+      "chunk": 41
+    },
+    {
+      "trait": "warmth",
+      "action": "Turns serious and acknowledges 'Course it's too bad about your dad....' after Holly does not appreciate his humor.",
+      "assessment": "Shows some sensitivity and recognition of Holly's feelings, indicating a capacity for sincerity and empathy.",
+      "rating": 1,
+      "chunk": 41
+    },
+    {
+      "trait": "competence",
+      "action": "Negotiates with the Deputy to get a Coke while reading legal papers and insists on reading them before signing.",
+      "assessment": "This shows Kit's awareness of his rights and a degree of assertiveness and intelligence in handling his situation, indicating competent behavior.",
+      "rating": 2,
+      "chunk": 41
+    },
+    {
+      "trait": "competence",
+      "action": "Calmly interacts with guardsmen and law enforcement, maintaining composure and even humor despite being in custody.",
+      "assessment": "Kit's ability to stay composed and use humor in a tense situation suggests confidence and social skill, which are indicators of competence.",
+      "rating": 2,
+      "chunk": 41
+    },
+    {
+      "trait": "competence",
+      "action": "Promises Holly he will get her off the charges and reassures her about their situation.",
+      "assessment": "This shows Kit's confidence and leadership in taking responsibility, but it may also reflect overconfidence or naivety given the gravity of their circumstances.",
+      "rating": 1,
+      "chunk": 41
+    },
+    {
+      "trait": "competence",
+      "action": "Makes a dark joke about a man with a deaf maid being lucky not to be dead, which Holly does not appreciate.",
+      "assessment": "While this shows Kit's attempt to maintain control through humor, it also reveals a possible lack of emotional intelligence or sensitivity, which can undermine competence in interpersonal contexts.",
+      "rating": -1,
+      "chunk": 41
+    },
+    {
+      "trait": "competence",
+      "action": "Does not directly address or comfort Holly's evident distress about her father and their situation.",
+      "assessment": "Kit's failure to respond empathetically to Holly's feelings suggests a gap in emotional awareness, which can be seen as a limitation in his overall competence.",
+      "rating": -1,
+      "chunk": 41
+    },
+    {
+      "trait": "warmth",
+      "action": "Says to Holly, 'Course it's too bad about your dad.' after a failed attempt at humor.",
+      "assessment": "Kit shows a moment of genuine concern and shifts from joking to seriousness, indicating some sensitivity and care toward Holly's feelings.",
+      "rating": 2,
+      "chunk": 42
+    },
+    {
+      "trait": "warmth",
+      "action": "Thanks Chief Sims and the Deputy politely and shakes their hands before boarding the plane.",
+      "assessment": "Kit's polite and respectful behavior toward authority figures suggests a courteous and sincere demeanor, reflecting a degree of warmth.",
+      "rating": 2,
+      "chunk": 42
+    },
+    {
+      "trait": "warmth",
+      "action": "Calls Holly 'Red' as he urges her to come along to the plane.",
+      "assessment": "Using a nickname can indicate familiarity and affection, showing a friendly and warm connection with Holly.",
+      "rating": 2,
+      "chunk": 42
+    },
+    {
+      "trait": "warmth",
+      "action": "No visible attempt to comfort Holly or express deeper emotional support during the stressful moment of extradition and separation.",
+      "assessment": "Kit's behavior is somewhat reserved and lacks overt emotional warmth or reassurance toward Holly in a difficult situation, suggesting limited emotional expressiveness.",
+      "rating": -1,
+      "chunk": 42
+    },
+    {
+      "trait": "competence",
+      "action": "Signs his extradition papers calmly on the back of the Chief Trooper and exchanges polite handshakes with law enforcement officials.",
+      "assessment": "This action shows Kit's ability to handle formal and potentially stressful situations with composure and social grace, indicating a level of competence in managing official procedures.",
+      "rating": 2,
+      "chunk": 42
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in brief, respectful conversation with the Deputy and Chief, maintaining a confident tone despite his circumstances.",
+      "assessment": "Kit demonstrates social intelligence and confidence in interacting with authority figures, which reflects competence in communication and self-presentation.",
+      "rating": 2,
+      "chunk": 42
+    },
+    {
+      "trait": "competence",
+      "action": "Calls Holly 'Red' to come along as he is being pulled toward the plane.",
+      "assessment": "This shows a degree of leadership and control over the situation, as well as maintaining connection with his companion, suggesting competent interpersonal behavior.",
+      "rating": 1,
+      "chunk": 42
+    },
+    {
+      "trait": "competence",
+      "action": "Is taken back to South Dakota and kept in solitary confinement, with no mention of resistance or attempts to escape or negotiate.",
+      "assessment": "The lack of any attempt to resist or influence his situation could indicate passivity or resignation, which may reflect a lack of proactive competence in managing his fate.",
+      "rating": -1,
+      "chunk": 42
+    },
+    {
+      "trait": "competence",
+      "action": "Goes to sleep in the courtroom while his confession is being read.",
+      "assessment": "This behavior suggests disengagement and a lack of attentiveness at a critical moment, indicating a significant lapse in competence regarding self-preservation and awareness.",
+      "rating": -3,
+      "chunk": 42
     }
   ]
 }

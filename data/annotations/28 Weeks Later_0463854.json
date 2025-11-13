@@ -1,804 +1,1637 @@
 {
-  "Don Harris": [
+  "The protagonist of \"28 Weeks Later\" is Don Harris, portrayed by Robert Carlyle. ([en.wikipedia.org](https://en.wikipedia.org/wiki/28_Weeks_Later?utm_source=openai))": [
     {
-      "Action": "Moves to comfort Alice when she starts crying about their situation and reassures her about the safety of their children.",
-      "Warmth": 1,
-      "Chunk": 1
+      "trait": "warmth",
+      "action": "Comforts Alice when she starts crying about their situation and reassures her about their children's safety.",
+      "assessment": "Don shows empathy and concern for his wife's emotional state, offering comfort and reassurance during a distressing moment, which indicates warmth.",
+      "rating": 3,
+      "chunk": 1
     },
     {
-      "Action": "Jokes lightly about not having enough canned tomatoes but tries to find some humor in the situation.",
-      "Warmth": 1,
-      "Chunk": 1
+      "trait": "warmth",
+      "action": "Engages in light conversation about food and their supplies while preparing dinner together.",
+      "assessment": "This interaction reflects a friendly and caring domestic atmosphere, showing Don's effort to maintain normalcy and connection with his wife.",
+      "rating": 2,
+      "chunk": 1
     },
     {
-      "Action": "Interrupts Alice gently to provide reassurance and a positive perspective on their children's safety.",
-      "Warmth": 1,
-      "Chunk": 1
+      "trait": "competence",
+      "action": "Lights candles and a wood stove carefully to prepare a safe environment in a dark, presumably dangerous setting.",
+      "assessment": "This action shows practical survival skills and awareness of the need for light and warmth, indicating a competent and resourceful character.",
+      "rating": 2,
+      "chunk": 1
     },
     {
-      "Action": "Lights candles and wood stove efficiently to prepare for cooking in a tense environment.",
-      "Competence": 1,
-      "Chunk": 1
+      "trait": "competence",
+      "action": "Comforts his wife Alice when she becomes emotional about their situation.",
+      "assessment": "This demonstrates emotional intelligence and the ability to provide support, which is a positive interpersonal competence but less about practical skill.",
+      "rating": 1,
+      "chunk": 1
     },
     {
-      "Action": "Attempts to comfort his distressed wife Alice when she becomes emotional.",
-      "Competence": 1,
-      "Chunk": 1
+      "trait": "competence",
+      "action": "Expresses frustration about limited food supplies and questions the usefulness of chick-peas.",
+      "assessment": "This shows some awareness of resource management but also a slight lack of adaptability or knowledge about food options, which could be a minor negative indicator of competence.",
+      "rating": -1,
+      "chunk": 1
     },
     {
-      "Action": "Expresses concern about food supplies and acknowledges the scarcity, showing practical awareness.",
-      "Competence": 1,
-      "Chunk": 1
+      "trait": "competence",
+      "action": "Reassures his wife that their children are safe and far away despite the crisis.",
+      "assessment": "This shows confidence and a calm demeanor in a stressful situation, reflecting mental competence and leadership qualities.",
+      "rating": 2,
+      "chunk": 1
     },
     {
-      "Action": "Fails to immediately provide a solution to lack of canned tomatoes, questioning the usefulness of chick-peas.",
-      "Competence": 0,
-      "Chunk": 1
+      "trait": "warmth",
+      "action": "Don and Alice bring food and wine to share with others, and Don pours wine for Geoff, engaging in a communal meal.",
+      "assessment": "Don's actions of bringing food and wine and participating in a shared meal demonstrate thoughtfulness, generosity, and a desire to foster community, which are positive indicators of warmth.",
+      "rating": 3,
+      "chunk": 2
     },
     {
-      "Action": "Prioritizes emotional reassurance about children’s safety despite uncertain external threats.",
-      "Competence": 1,
-      "Chunk": 1
+      "trait": "warmth",
+      "action": "Don responds politely and warmly to Sally's welcome and compliments, returning her smile and expressing that they feel welcome.",
+      "assessment": "Don's polite and warm responses show sincerity and friendliness, reinforcing his good-natured and trustworthy character.",
+      "rating": 2,
+      "chunk": 2
     },
     {
-      "Action": "Stops Alice from opening the door hastily to consider the risk; cautions others about potential danger",
-      "Warmth": 1,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "Don does not intervene when Jacob makes a harsh, dismissive comment to Karen about her boyfriend running out on them.",
+      "assessment": "Don's omission to address Jacob's rude and potentially hurtful remark suggests a lack of tolerance or protective warmth toward Karen in this moment, indicating a negative aspect of his warmth.",
+      "rating": -1,
+      "chunk": 2
     },
     {
-      "Action": "Moves to open the door cautiously after assessing the situation",
-      "Warmth": 1,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Don brings a bottle of red wine and pasta to share with the group, attempting to create a hospitable and comforting atmosphere.",
+      "assessment": "This action shows social awareness and an effort to maintain morale and normalcy, indicating emotional intelligence and some degree of social competence.",
+      "rating": 2,
+      "chunk": 2
     },
     {
-      "Action": "Quickly slams the door shut and bolts it to protect the group from potential outside threats.",
-      "Warmth": 1,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "Don engages in polite conversation, pouring wine and responding warmly to Geoff’s comments.",
+      "assessment": "This demonstrates social skills and confidence in interacting with others, suggesting competent interpersonal behavior.",
+      "rating": 2,
+      "chunk": 2
     },
     {
-      "Action": "Exchanges a glance with Jacob, showing concern about the boy’s report of others infected nearby.",
-      "Warmth": 1,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "Don does not react to Karen’s odd behavior or the tension it creates at the table.",
+      "assessment": "This omission could indicate a lack of assertiveness or situational awareness in managing group dynamics, which may reflect a slight gap in competence.",
+      "rating": -1,
+      "chunk": 2
     },
     {
-      "Action": "Urgently instructs survivors to use the escape hatch and actively tries to protect others by pulling Alice and pursuing the boy to keep them safe",
-      "Warmth": 1,
-      "Chunk": 5
+      "trait": "warmth",
+      "action": "Intervenes when Alice tries to open the door to let in a boy, cautioning that he might be chased and they don't know the situation.",
+      "assessment": "Don shows cautious concern for the safety of the group, balancing empathy for the boy with protective instincts, indicating a responsible and caring nature.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Shows frustration or harshness in his tone ('Mat the fuck -') during a crisis moment",
-      "Warmth": 0,
-      "Chunk": 5
+      "trait": "warmth",
+      "action": "Eventually opens the door to let the boy in despite initial hesitation.",
+      "assessment": "Don's decision to open the door demonstrates trust and willingness to help others, reflecting sincerity and friendliness despite the risks.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Urgently commands others to use the escape hatch when the infected break in.",
-      "Competence": 1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Intervenes to stop Alice from opening the door immediately, cautioning that the boy might be being chased and they don't know the situation outside.",
+      "assessment": "This shows Don's cautious and thoughtful approach, indicating situational awareness and a protective instinct, which are signs of competence in a dangerous environment.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Attempts to control the panicking boy and keep him safe by pulling him along.",
-      "Competence": 1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Moves to open the door himself, sliding back multiple bolts including new ones screwed into the heavy oak door, and uses a key to unlock a complex five-lever lock.",
+      "assessment": "This demonstrates Don's practical skills, resourcefulness, and confidence in handling physical security measures, reflecting a high level of competence.",
+      "rating": 3,
+      "chunk": 3
     },
     {
-      "Action": "Fails to adequately restrain the boy who panics and runs away from safety.",
-      "Competence": -1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Responds with a muttered 'Bloody Hell' upon hearing the boy's voice and the situation unfolding.",
+      "assessment": "This reaction suggests a moment of surprise or frustration, which is a natural human response but does not strongly indicate either competence or incompetence.",
+      "rating": 0,
+      "chunk": 3
     },
     {
-      "Action": "Swiftly adapts and follows the boy to continue protecting him despite the chaos.",
-      "Competence": 1,
-      "Chunk": 5
+      "trait": "warmth",
+      "action": "Slams the door shut and quickly bolts it after the boy enters the cottage.",
+      "assessment": "Don’s action to secure the door shows a protective instinct towards the group, indicating care and concern for their safety, which is a positive indicator of warmth.",
+      "rating": 2,
+      "chunk": 4
     },
     {
-      "Action": "Pulls Alice away from the danger and locks the bathroom door to protect himself, despite Alice's desperate pleas to save the boy",
-      "Warmth": -1,
-      "Chunk": 6
+      "trait": "warmth",
+      "action": "Listens attentively to the boy’s story about being chased and the presence of others infected.",
+      "assessment": "By paying close attention to the boy’s fearful account, Don demonstrates empathy and a willingness to understand others’ experiences, reflecting warmth.",
+      "rating": 2,
+      "chunk": 4
     },
     {
-      "Action": "Looks back over his shoulder after escaping, indicating concern or remorse for those left behind",
-      "Warmth": 1,
-      "Chunk": 6
+      "trait": "warmth",
+      "action": "Exchanges a glance with Jacob upon hearing about the infected, showing concern.",
+      "assessment": "This nonverbal communication suggests Don is alert and concerned for the group’s wellbeing, indicating a protective and caring nature.",
+      "rating": 2,
+      "chunk": 4
     },
     {
-      "Action": "Locks Alice and the Boy in the bathroom for their safety and breaks the window to escape the infected.",
-      "Competence": 1,
-      "Chunk": 6
+      "trait": "warmth",
+      "action": "Does not intervene or warn Karen when she moves to open the shutter despite the danger.",
+      "assessment": "Don’s failure to prevent Karen from exposing the group to danger could be seen as a lapse in protective warmth or attentiveness, a negative indicator.",
+      "rating": -1,
+      "chunk": 4
     },
     {
-      "Action": "Attempts to pull Alice away from rescuing the Boy despite Alice’s emotional insistence.",
-      "Competence": 1,
-      "Chunk": 6
+      "trait": "competence",
+      "action": "Slams the door shut quickly and jams the bolts back into place after the boy enters.",
+      "assessment": "This action shows Don's quick reflexes and awareness of potential danger, indicating a competent and cautious mindset in a high-risk environment.",
+      "rating": 2,
+      "chunk": 4
     },
     {
-      "Action": "Looks back in horror after escaping, showing emotional vulnerability and momentary hesitation.",
-      "Competence": 0,
-      "Chunk": 6
+      "trait": "competence",
+      "action": "Exchanges a glance with Jacob upon hearing the boy mention 'loads' of others chasing him.",
+      "assessment": "This non-verbal communication suggests Don's situational awareness and ability to quickly assess threats, reflecting competent leadership and alertness.",
+      "rating": 2,
+      "chunk": 4
     },
     {
-      "Action": "Embraces his children tightly, choked with emotion and says he thought he'd never see them again.",
-      "Warmth": 1,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Fails to prevent Karen from unbolting the shutter despite Jacob's warning.",
+      "assessment": "This omission indicates a lapse in control or authority over the group, which leads to a dangerous breach, reflecting a momentary lack of competence in managing group safety.",
+      "rating": -1,
+      "chunk": 4
     },
     {
-      "Action": "Walks away from the station with his children, allowing them to take in their new surroundings calmly.",
-      "Warmth": 1,
-      "Chunk": 11
+      "trait": "warmth",
+      "action": "Pulls Alice to safety and chases after the boy to protect him during the infected attack.",
+      "assessment": "Don's action to physically protect Alice and pursue the boy shows a protective and caring attitude, indicating concern for others' safety.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Expresses gratitude and acknowledges others' help, saying 'If you hadn’t lifted the quarantine, my kids would still be in a Spanish refugee camp.'",
-      "Warmth": 1,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Commands others to run to the escape hatch to survive the infected attack.",
+      "assessment": "Taking charge in a crisis to help others escape demonstrates responsibility and a willingness to help, reflecting positive warmth.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Makes a lighthearted joke about karaoke, 'Safe - apart from the karaoke.'",
-      "Warmth": 1,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Does not hesitate to act decisively in a violent and chaotic situation to protect others.",
+      "assessment": "While decisive action is necessary, the excerpt does not show explicit kindness or friendliness, but rather survival-driven behavior; this is neutral to slightly positive in warmth.",
+      "rating": 1,
+      "chunk": 5
     },
     {
-      "Action": "Offers support and assistance to others, showing willingness to help the family and gratitude for their past acts.",
-      "Competence": 1,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Immediately reacts to the infected breaking in by shouting a warning and directing others to the escape hatch.",
+      "assessment": "This shows situational awareness and quick decision-making under pressure, indicating competent leadership and presence of mind.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Makes a lighthearted comment about karaoke in a tense situation, showing social awareness and confidence.",
-      "Competence": 1,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Attempts to pull Alice and the boy away from danger and guide them towards safety.",
+      "assessment": "This demonstrates protective instincts and an ability to act decisively to safeguard others, reflecting competence in crisis management.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Relies on others' information about the virus status without evident critical questioning or investigation.",
-      "Competence": 0,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Fails to prevent the boy from panicking and running towards a dangerous staircase.",
+      "assessment": "This suggests a limitation in controlling or calming others in high-stress situations, indicating a slight gap in leadership effectiveness.",
+      "rating": -1,
+      "chunk": 5
     },
     {
-      "Action": "No direct actions or statements from Don Harris are present in the excerpt; the focus is on military and political figures discussing the virus containment strategy.",
-      "Warmth": 0,
-      "Chunk": 18
+      "trait": "competence",
+      "action": "Does not successfully stop the infected from breaking into the cottage, resulting in casualties.",
+      "assessment": "While the situation is chaotic, this failure to contain the threat points to either insufficient preparation or inability to manage overwhelming danger, reflecting a moderate competence limitation.",
+      "rating": -1,
+      "chunk": 5
     },
     {
-      "Action": "Concerned about the potential trouble his father could face if involved, chooses to protect him from harm or risk.",
-      "Warmth": 1,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Pulls Alice back from the bedroom door to protect her from the infected.",
+      "assessment": "Don’s action to pull Alice away from danger shows a protective instinct and concern for her safety, indicating care and responsibility.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Allows his children to attempt risky actions on their own while he stays away, possibly indicating cautiousness but limited direct warmth.",
-      "Warmth": 0,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Locks Alice and the Boy in the bathroom, then escapes by breaking the window and running away.",
+      "assessment": "While locking them in the bathroom may be seen as an act of protection, his subsequent escape without them suggests a prioritization of his own survival over theirs, which reflects a lack of warmth and trustworthiness in this moment.",
+      "rating": -2,
+      "chunk": 6
     },
     {
-      "Action": "Lies on his back fixing tangled wiring behind the receptionist's desk; appears focused on helping with technical issues.",
-      "Warmth": 1,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Looks back over his shoulder after escaping, seeing Alice’s face at the window.",
+      "assessment": "This moment of looking back indicates remorse or concern for those he left behind, showing some emotional connection and regret, which is a sign of underlying warmth.",
+      "rating": 1,
+      "chunk": 6
     },
     {
-      "Action": "No indication of friendliness or direct interaction in this excerpt; no explicit positive or negative social behavior observed.",
-      "Warmth": 0,
-      "Chunk": 24
+      "trait": "competence",
+      "action": "Tries to pull Alice back out of the bedroom when infected reach the stairs, attempting to protect her and prevent her from risking further danger.",
+      "assessment": "This shows situational awareness and a protective instinct, indicating some level of competence in crisis management.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Frowns at the soldiers delivering unsettling news about his family’s quarantine; shows concern through his stunned expression.",
-      "Warmth": 1,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Shuts the bedroom door and pulls Alice into the en suite bathroom to try to isolate from the infected.",
+      "assessment": "This action demonstrates quick thinking and tactical use of the environment to create a temporary safe space, reflecting competent crisis response.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "No direct kindness or friendly interaction shown in this excerpt; reacts primarily with concern over family status.",
-      "Warmth": 0,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Locks the bathroom door and breaks the bathroom window to escape.",
+      "assessment": "This shows resourcefulness and decisiveness under pressure, indicating practical problem-solving skills.",
+      "rating": 3,
+      "chunk": 6
     },
     {
-      "Action": "Speaks gently and reassuringly to his children through an intercom, explaining the quarantine and encouraging hope by acknowledging that their mother is alive despite the strange circumstances.",
-      "Warmth": 1,
-      "Chunk": 26
+      "trait": "competence",
+      "action": "Looks back over his shoulder after escaping, seeing Alice's face at the window.",
+      "assessment": "While this shows emotional connection and concern, it also suggests a moment of hesitation or distraction that could compromise his escape, indicating a slight dip in focus.",
+      "rating": -1,
+      "chunk": 6
     },
     {
-      "Action": "Admits confusion and uncertainty about recent events openly to his children, showing vulnerability and sincerity.",
-      "Warmth": 1,
-      "Chunk": 26
+      "trait": "competence",
+      "action": "Fails to prevent Alice from going back for the boy, resulting in both being attacked by the infected.",
+      "assessment": "This indicates a limitation in his ability to control the situation or assert authority effectively, reflecting a weakness in crisis leadership.",
+      "rating": -2,
+      "chunk": 6
     },
     {
-      "Action": "Does not visibly display anger or frustration when his children express distress or ask difficult questions, maintaining calmness.",
-      "Warmth": 1,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Don looks back at the shore with tears streaming down his face, sobbing and raging after escaping on the boat.",
+      "assessment": "Don's emotional reaction shows his deep care and anguish over the fate of those left behind, indicating a capacity for empathy and emotional sincerity.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Looks silently and helplessly at his children during a tense moment, unable to provide immediate help.",
-      "Warmth": 1,
-      "Chunk": 27
+      "trait": "warmth",
+      "action": "Don tries to save Jacob by starting the boat engine quickly to escape the infected, despite the chaos and danger.",
+      "assessment": "Don's quick action to save Jacob and himself demonstrates a protective instinct and concern for others, reflecting a degree of trustworthiness and responsibility.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Avoids speaking or taking assertive action when pressed by family to do something.",
-      "Warmth": 0,
-      "Chunk": 27
+      "trait": "warmth",
+      "action": "Don loses balance and is forced to leave Jacob behind as Jacob is dragged underwater and infected.",
+      "assessment": "While Don's forced abandonment of Jacob is a survival necessity, it also reveals a painful omission in his ability to protect others, which may reflect limitations in his warmth under extreme stress.",
+      "rating": -1,
+      "chunk": 7
     },
     {
-      "Action": "Expresses remorse and emotional vulnerability but fails to prevent his infection and subsequent transformation, indicating lack of control over the situation.",
-      "Competence": -1,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Don quickly jumps into the boat and tries to start the outboard motor under extreme pressure.",
+      "assessment": "This action shows Don's ability to act decisively and skillfully in a high-stress, life-threatening situation, indicating strong competence.",
+      "rating": 3,
+      "chunk": 7
     },
     {
-      "Action": "Attempts to comfort and connect emotionally with Alice despite the dire situation, showing interpersonal presence but no evident skill or intelligence in addressing the crisis.",
-      "Competence": 0,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Don loses his balance when Jacob falls into the water and rocks the boat.",
+      "assessment": "This momentary loss of balance suggests a slight lapse in physical coordination or situational control, though it is understandable given the chaotic circumstances.",
+      "rating": -1,
+      "chunk": 7
     },
     {
-      "Action": "No direct actions or statements in this excerpt; observed others' chaos and military orders.",
-      "Warmth": 0,
-      "Chunk": 32
+      "trait": "competence",
+      "action": "Don scrambles to his feet and yanks at the engine’s starter cord despite the danger and emotional distress.",
+      "assessment": "This demonstrates resilience, quick reflexes, and technical knowledge under pressure, reinforcing his competence.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "No direct actions or decisions observed in the provided excerpt; mostly scenes focusing on Scarlet and others interacting with soldiers and civilians.",
-      "Competence": 0,
-      "Chunk": 32
+      "trait": "competence",
+      "action": "Don looks back to the shore, tears streaming down his face, sobbing and raging over the noise of the engine.",
+      "assessment": "While this emotional reaction is human and understandable, it may indicate a momentary emotional overwhelm that could impair clear-headed decision-making.",
+      "rating": -1,
+      "chunk": 7
     },
     {
-      "Action": "Lunges forward and attacks the Young Man who seems rooted to the spot during a crisis",
-      "Warmth": 0,
-      "Chunk": 34
+      "trait": "warmth",
+      "action": "Shows protective concern for his family, especially his children, throughout the story.",
+      "assessment": "Don's protective behavior towards his family indicates a caring and trustworthy nature, reflecting warmth.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Covered in blood and appearing frantic in a desperate situation involving infected people",
-      "Warmth": 0,
-      "Chunk": 34
+      "trait": "warmth",
+      "action": "At times, Don makes decisions that prioritize his own survival or desires over the safety of others.",
+      "assessment": "These self-centered actions suggest a lack of tolerance and sincerity, detracting from his warmth.",
+      "rating": -2,
+      "chunk": 8
     },
     {
-      "Action": "No direct action or statement in this excerpt; others (Doyle, Andy) take lead roles in protective or sacrificial behavior; Don Harris is not featured here.",
-      "Warmth": 0,
-      "Chunk": 42
+      "trait": "warmth",
+      "action": "Attempts to reconnect and rebuild relationships with his family after the outbreak.",
+      "assessment": "This effort to restore bonds shows friendliness and sincerity, positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Shows panic and poor marksmanship when shooting, indicating lack of skill and confidence in a critical situation.",
-      "Competence": -1,
-      "Chunk": 42
+      "trait": "warmth",
+      "action": "Sometimes reacts with anger and aggression towards others in stressful situations.",
+      "assessment": "Such reactions reduce his perceived tolerance and friendliness, negatively impacting warmth.",
+      "rating": -1,
+      "chunk": 8
     },
     {
-      "Action": "Not explicitly shown in this excerpt; focus is on other characters (Doyle, Scarlet, Andy, Tamwy)",
-      "Warmth": 0,
-      "Chunk": 46
+      "trait": "competence",
+      "action": "No direct actions, statements, or behaviors of Don Harris are present in the provided excerpt.",
+      "assessment": "The excerpt focuses on other characters and setting details without showing Don Harris's behavior, so no competence indicators can be inferred here.",
+      "rating": 0,
+      "chunk": 8
     },
     {
-      "Action": "Despite severe injuries, remains conscious briefly before transforming into an infected, showing physical resilience but no demonstration of skill or intelligence.",
-      "Competence": 0,
-      "Chunk": 49
+      "trait": "warmth",
+      "action": "Takes his son Andy and daughter Tamw to return to Britain and ensures they undergo medical checks.",
+      "assessment": "Don’s actions show responsibility and care for his children’s well-being, indicating a protective and trustworthy nature.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Begins to act aggressively as an infected, indicating a loss of prior competence and control.",
-      "Competence": -1,
-      "Chunk": 49
+      "trait": "warmth",
+      "action": "Does not intervene or show visible concern when Andy is spooked by the soldier and the empty terminal.",
+      "assessment": "This omission may suggest a lack of immediate emotional support or attentiveness to his son’s fear, which could indicate lower warmth in this moment.",
+      "rating": -1,
+      "chunk": 9
     },
     {
-      "Action": "No direct actions or statements related to Don Harris are present in the excerpt; mostly descriptions and other characters' actions are shown.",
-      "Warmth": 0,
-      "Chunk": 53
+      "trait": "competence",
+      "action": "No direct actions or statements by Don Harris are present in the provided excerpt.",
+      "assessment": "The excerpt does not provide any observable behavior, statements, or decisions by Don Harris to evaluate his competence.",
+      "rating": 0,
+      "chunk": 9
     },
     {
-      "Action": "No direct actions or statements in the excerpt to evaluate competence; the excerpt focuses on other characters (Doyle, Flynn).",
-      "Competence": 0,
-      "Chunk": 53
+      "trait": "warmth",
+      "action": "No direct actions, statements, or interactions by Don Harris are present in the excerpt; the scene focuses on other characters and setting.",
+      "assessment": "The excerpt does not provide any observable behavior or statements from Don Harris to assess his warmth.",
+      "rating": 0,
+      "chunk": 10
     },
     {
-      "Action": "Bites his son Andy's shoulder, attacking him violently despite being recognized by his daughter",
-      "Warmth": -1,
-      "Chunk": 56
+      "trait": "warmth",
+      "action": "Embraces his children tightly upon reunion, expressing emotional relief and love.",
+      "assessment": "Don's emotional embrace and expression of relief at seeing his children again demonstrate genuine affection and sincere warmth.",
+      "rating": 3,
+      "chunk": 11
     },
     {
-      "Action": "Momentarily seems to recognize his daughter Tammy during his infected attack, showing a fleeting connection",
-      "Warmth": 0,
-      "Chunk": 56
-    }
-  ],
-  "The protagonist of \"28 Weeks Later\" is Don Harris, portrayed by Robert Carlyle.": [
+      "trait": "warmth",
+      "action": "Walks with his children, allowing them to explore and take in their new surroundings after arrival.",
+      "assessment": "Allowing his children to observe and absorb their environment suggests a tolerant and caring attitude, fostering a sense of security and normalcy.",
+      "rating": 2,
+      "chunk": 11
+    },
+    {
+      "trait": "competence",
+      "action": "Reunites with his children at the station and embraces them tightly despite the overwhelming media presence.",
+      "assessment": "This action shows emotional strength and focus under pressure, indicating a competent ability to prioritize family and maintain composure in a chaotic environment.",
+      "rating": 2,
+      "chunk": 11
+    },
+    {
+      "trait": "competence",
+      "action": "Pushes his way to the front of the crowd to see his children as the train arrives.",
+      "assessment": "This demonstrates determination and assertiveness, traits associated with competence in navigating social situations effectively.",
+      "rating": 1,
+      "chunk": 11
+    },
+    {
+      "trait": "competence",
+      "action": "Does not engage with the media or General Stone, instead focusing on his children.",
+      "assessment": "While this shows emotional focus, it may also suggest a lack of engagement with broader situational awareness or strategic communication, which could be a slight negative indicator of competence in managing public or official interactions.",
+      "rating": -1,
+      "chunk": 11
+    },
+    {
+      "trait": "warmth",
+      "action": "Greets his kids warmly and leads them through the hotel, showing them their new suite and trying to make them feel comfortable.",
+      "assessment": "Don’s actions demonstrate care and a desire to provide comfort and security to his children in a difficult situation, indicating a good-natured and sincere approach.",
+      "rating": 2,
+      "chunk": 12
+    },
+    {
+      "trait": "warmth",
+      "action": "Explains to his children that the hotel is temporary and that they will be allocated a new house soon, while gently preparing them for the reality that they cannot return to their old home.",
+      "assessment": "Don shows honesty and a protective attitude, balancing truth with sensitivity, which reflects trustworthiness and sincerity.",
+      "rating": 2,
+      "chunk": 12
+    },
+    {
+      "trait": "warmth",
+      "action": "Responds to his daughter’s teasing about his job as janitor with a grin and light humor.",
+      "assessment": "This shows Don’s friendly and tolerant nature, able to engage warmly with his children and maintain a positive atmosphere.",
+      "rating": 2,
+      "chunk": 12
+    },
+    {
+      "trait": "warmth",
+      "action": "Keeps the heating, water, and lights running in the hotel, ensuring basic comforts for the residents.",
+      "assessment": "This practical care for others’ well-being indicates responsibility and a good-natured commitment to helping those around him.",
+      "rating": 2,
+      "chunk": 12
+    },
+    {
+      "trait": "competence",
+      "action": "Don confidently leads his children past armed soldiers who greet him familiarly, indicating he is known and trusted by security personnel.",
+      "assessment": "This suggests Don has established a reliable and authoritative presence within the secured environment, reflecting competence in navigating and operating within a high-security zone.",
+      "rating": 2,
+      "chunk": 12
+    },
+    {
+      "trait": "competence",
+      "action": "Don states he keeps the heating, water, and lights running in the hotel and shows a huge ring of keys giving him access to all non-military areas, claiming he 'basically runs the place.'",
+      "assessment": "This demonstrates Don’s practical knowledge, responsibility, and control over essential infrastructure, indicating a high level of competence in facility management and operational oversight.",
+      "rating": 3,
+      "chunk": 12
+    },
+    {
+      "trait": "competence",
+      "action": "Don refers to himself as 'the janitor' with a grin, downplaying his role despite his significant responsibilities.",
+      "assessment": "This self-deprecating humor may indicate humility or a lack of formal authority, but does not diminish his actual competence; it may also reflect a grounded, approachable personality.",
+      "rating": 1,
+      "chunk": 12
+    },
+    {
+      "trait": "competence",
+      "action": "Don leads his children into a large, luxurious suite and explains the temporary nature of their stay, preparing them for future changes and the reality of their situation.",
+      "assessment": "This shows Don’s ability to manage expectations and communicate difficult truths sensitively, reflecting emotional intelligence and competent leadership within his family context.",
+      "rating": 2,
+      "chunk": 12
+    },
+    {
+      "trait": "competence",
+      "action": "Don admits uncertainty about returning to their old home outside the security zone, showing honesty about the situation’s complexity.",
+      "assessment": "While this shows realistic appraisal rather than overconfidence, it also suggests a cautious and thoughtful mindset, which is a competent approach in uncertain and dangerous circumstances.",
+      "rating": 2,
+      "chunk": 12
+    },
+    {
+      "trait": "warmth",
+      "action": "Don tells his children the painful truth about what happened to Min, admitting he saw her get bitten and was unable to save her.",
+      "assessment": "Don's willingness to be honest and vulnerable with his children about a traumatic event shows sincerity and a desire to be trustworthy, indicating warmth.",
+      "rating": 2,
+      "chunk": 13
+    },
+    {
+      "trait": "warmth",
+      "action": "Don tries to go back for Min after she was bitten but ultimately abandons her when he realizes it is too late.",
+      "assessment": "Although Don attempts to help Min, his eventual abandonment could be seen as a failure to protect and support, which slightly diminishes the perception of warmth.",
+      "rating": -1,
+      "chunk": 13
+    },
+    {
+      "trait": "warmth",
+      "action": "Don works within the quarantine zone with the reconstruction effort, waiting for his children to come home.",
+      "assessment": "Don's commitment to rebuilding and his patience in waiting for his children reflect responsibility and care, suggesting a good-natured and trustworthy character.",
+      "rating": 2,
+      "chunk": 13
+    },
+    {
+      "trait": "competence",
+      "action": "Don calmly explains the traumatic events to his children, showing emotional control despite the pain of recounting the loss of Min and the infection.",
+      "assessment": "This indicates a level of emotional resilience and the ability to communicate difficult truths clearly, which are aspects of competence in leadership and caregiving.",
+      "rating": 2,
+      "chunk": 13
+    },
+    {
+      "trait": "competence",
+      "action": "Don admits he tried to go back for Min but ultimately had to abandon her when she was already infected.",
+      "assessment": "This shows situational awareness and a realistic assessment of danger, suggesting practical competence in crisis management, though it also reveals a painful limitation.",
+      "rating": 1,
+      "chunk": 13
+    },
+    {
+      "trait": "competence",
+      "action": "Don was stuck in the quarantine zone, working with the reconstruction effort and waiting for his children to come home.",
+      "assessment": "This suggests perseverance and a sense of responsibility, indicating competence in endurance and commitment under difficult circumstances.",
+      "rating": 2,
+      "chunk": 13
+    },
+    {
+      "trait": "competence",
+      "action": "Don breaks off his story abruptly and shows visible emotional distress when recounting Min's infection and abandonment.",
+      "assessment": "While emotional distress is natural, this momentary loss of composure may indicate a vulnerability that slightly undermines his usual competence.",
+      "rating": -1,
+      "chunk": 13
+    },
+    {
+      "trait": "warmth",
+      "action": "Compliments the food at the buffet, saying 'one thing about this place is that the food is pretty good.'",
+      "assessment": "This shows Don's ability to make positive, friendly remarks that contribute to a pleasant social atmosphere.",
+      "rating": 2,
+      "chunk": 14
+    },
+    {
+      "trait": "warmth",
+      "action": "Introduces himself to Scarlet in a friendly manner and extends his hand.",
+      "assessment": "Don's friendly introduction and gesture of extending his hand indicate openness and sincerity, reflecting good-natured and trustworthy behavior.",
+      "rating": 3,
+      "chunk": 14
+    },
+    {
+      "trait": "warmth",
+      "action": "Introduces his children to Scarlet and invites her to join them at their table.",
+      "assessment": "By including Scarlet and encouraging her to sit with them, Don demonstrates inclusiveness and friendliness, enhancing social bonds.",
+      "rating": 3,
+      "chunk": 14
+    },
+    {
+      "trait": "warmth",
+      "action": "Allows his son Andy to approach and interact with Scarlet, showing trust and tolerance.",
+      "assessment": "Don's tolerance and trust in his son’s social interactions reflect a warm and supportive parental attitude.",
+      "rating": 2,
+      "chunk": 14
+    },
+    {
+      "trait": "competence",
+      "action": "Introduces himself confidently as the section officer for the hotel and presents himself as responsible for his children.",
+      "assessment": "This shows Don's ability to take charge and present himself with authority, indicating a level of competence in leadership and social interaction.",
+      "rating": 2,
+      "chunk": 14
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in casual conversation with Scarlet, the medical team leader, and acknowledges her role.",
+      "assessment": "This demonstrates social awareness and the ability to build rapport with important figures, reflecting interpersonal competence.",
+      "rating": 1,
+      "chunk": 14
+    },
+    {
+      "trait": "competence",
+      "action": "Queues calmly at the buffet with his children and interacts normally in a social setting.",
+      "assessment": "This suggests Don is capable of maintaining composure and normal social behavior in a potentially stressful environment, indicating emotional and social competence.",
+      "rating": 1,
+      "chunk": 14
+    },
+    {
+      "trait": "warmth",
+      "action": "Says to Scarlet, 'Anything I can get you from the hotel, just let me know. WM family have a lot to thank you for. If you hadn’t lifted the quarantine, my kids would still be in a Spanish refugee camp.'",
+      "assessment": "Don expresses gratitude and offers help sincerely, showing appreciation and a willingness to support others, which indicates warmth.",
+      "rating": 2,
+      "chunk": 15
+    },
+    {
+      "trait": "warmth",
+      "action": "Makes a lighthearted joke about karaoke: 'Safe - apart from the karaoke.'",
+      "assessment": "This shows Don’s friendly and approachable side, using humor to ease tension and connect with others, reflecting warmth.",
+      "rating": 1,
+      "chunk": 15
+    },
+    {
+      "trait": "competence",
+      "action": "Offers to help by saying, 'Anything I can get you from the hotel, just let me know.'",
+      "assessment": "This shows Don's willingness to be resourceful and supportive, indicating social competence and a proactive attitude.",
+      "rating": 2,
+      "chunk": 15
+    },
+    {
+      "trait": "competence",
+      "action": "Makes a lighthearted joke about karaoke: 'Safe - apart from the karaoke.'",
+      "assessment": "This demonstrates social confidence and the ability to maintain morale, which is a subtle but important aspect of competence in stressful situations.",
+      "rating": 1,
+      "chunk": 15
+    },
+    {
+      "trait": "competence",
+      "action": "No direct action or decision-making shown in this excerpt beyond social interactions.",
+      "assessment": "The excerpt does not provide evidence of Don's strategic or problem-solving skills, limiting the assessment of his competence in critical situations.",
+      "rating": 0,
+      "chunk": 15
+    },
+    {
+      "trait": "warmth",
+      "action": "Shows concern about the possibility of the virus returning, questioning military assurances.",
+      "assessment": "Expressing concern about the virus's return indicates a protective and caring attitude towards others' safety, reflecting warmth through vigilance and empathy.",
+      "rating": 2,
+      "chunk": 18
+    },
+    {
+      "trait": "warmth",
+      "action": "Does not appear in this excerpt to directly engage in warm or friendly interactions; the dialogue is mostly between military and medical personnel.",
+      "assessment": "No direct evidence of warmth or coldness from Don Harris in this excerpt; his presence or actions are not shown, so no rating can be assigned based on this text alone.",
+      "rating": 0,
+      "chunk": 18
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in discussions about the virus and its containment, showing awareness of the political and military complexities involved.",
+      "assessment": "This indicates a level of understanding and situational awareness, suggesting competent handling of complex issues.",
+      "rating": 2,
+      "chunk": 18
+    },
+    {
+      "trait": "competence",
+      "action": "Does not intervene or challenge General Stone's harsh stance on handling the virus and political decisions.",
+      "assessment": "This omission may suggest either a lack of assertiveness or strategic restraint; however, it could also indicate a failure to influence critical decisions, reflecting a moderate competence.",
+      "rating": 0,
+      "chunk": 18
+    },
+    {
+      "trait": "warmth",
+      "action": "Allows his children, Tammy and Andy, to take risks without informing him, leading to potential danger.",
+      "assessment": "This omission suggests a lack of protective warmth and trustworthiness, as he is kept in the dark about their actions and unable to safeguard them.",
+      "rating": -2,
+      "chunk": 19
+    },
+    {
+      "trait": "competence",
+      "action": "No direct actions or statements by Don Harris are present in the provided excerpt; the scene focuses on Andy and Tamwy.",
+      "assessment": "Since Don Harris does not appear or act in this excerpt, no direct indicators of his competence can be inferred here.",
+      "rating": 0,
+      "chunk": 19
+    },
+    {
+      "trait": "warmth",
+      "action": "Considers the potential serious trouble his father might face if involved, and decides not to tell him to protect him from risk.",
+      "assessment": "This shows a protective and considerate attitude toward his father, indicating care and thoughtfulness.",
+      "rating": 2,
+      "chunk": 20
+    },
+    {
+      "trait": "warmth",
+      "action": "Allows children (Andy and Tamwy) to attempt sneaking past a soldier checkpoint, indirectly exposing them to danger.",
+      "assessment": "This could suggest a lack of protective warmth or a failure to fully safeguard those under his care, indicating a potential negative aspect of warmth.",
+      "rating": -1,
+      "chunk": 20
+    },
+    {
+      "trait": "competence",
+      "action": "No direct actions or statements by Don Harris are present in the provided excerpt; the scene focuses on children sneaking past a checkpoint and military personnel tracking them.",
+      "assessment": "Due to the absence of any direct behavior, actions, or decisions by Don Harris in this excerpt, no inference about his competence can be made here.",
+      "rating": 0,
+      "chunk": 20
+    },
+    {
+      "trait": "warmth",
+      "action": "No direct actions or statements by Don Harris are present in the provided excerpt; the scene focuses on Andy and Tamwy exploring a pizza delivery shop.",
+      "assessment": "The excerpt does not provide any observable behavior, statements, or omissions by Don Harris that can be assessed for warmth.",
+      "rating": 0,
+      "chunk": 21
+    },
+    {
+      "trait": "competence",
+      "action": "Carefully inspects a derelict pizza delivery shop to find usable transport.",
+      "assessment": "This shows resourcefulness and practical problem-solving skills, indicating competent situational awareness and planning.",
+      "rating": 2,
+      "chunk": 21
+    },
+    {
+      "trait": "competence",
+      "action": "Enters a dark, dusty shop cautiously and reacts quickly to a perceived threat (the helmet and jacket), avoiding panic.",
+      "assessment": "This demonstrates alertness and controlled response under uncertain conditions, reflecting competent mental composure.",
+      "rating": 2,
+      "chunk": 21
+    },
+    {
+      "trait": "competence",
+      "action": "No direct actions or statements by Don Harris are present in the provided excerpt; the scene focuses on other characters (Tamw and Andy) navigating an abandoned environment.",
+      "assessment": "The excerpt does not provide any information about Don Harris's behavior, skills, or decisions, so no assessment of his competence can be made from this text.",
+      "rating": 0,
+      "chunk": 22
+    },
+    {
+      "trait": "warmth",
+      "action": "Don’s presence is implied in the family home, but he does not directly interact with Andy or others in this excerpt, showing a lack of direct engagement or warmth in this scene.",
+      "assessment": "The excerpt does not show Don actively demonstrating warmth; his absence or non-action in a tense family moment suggests a neutral to slightly negative indicator of warmth due to omission of supportive behavior.",
+      "rating": -1,
+      "chunk": 23
+    },
+    {
+      "trait": "competence",
+      "action": "No direct actions or statements by Don Harris are present in the provided excerpt; the scene focuses on Andy exploring the house and encountering a mysterious woman.",
+      "assessment": "Since Don Harris does not appear or act in this excerpt, no direct indicators of his competence can be inferred from this text.",
+      "rating": 0,
+      "chunk": 23
+    },
+    {
+      "trait": "warmth",
+      "action": "Lies on his back fixing a tangled mess of wiring behind the receptionist’s desk while the receptionist looks concerned.",
+      "assessment": "Don’s action of fixing wiring in a public or shared space suggests a willingness to help maintain or improve the environment for others, indicating a practical and cooperative nature.",
+      "rating": 2,
+      "chunk": 24
+    },
+    {
+      "trait": "competence",
+      "action": "Don is lying on his back fixing a tangled mess of wiring behind the receptionist’s desk.",
+      "assessment": "This action shows Don’s technical skill and ability to handle practical problems, indicating a level of competence and resourcefulness.",
+      "rating": 2,
+      "chunk": 24
+    },
+    {
+      "trait": "warmth",
+      "action": "Shows visible concern and confusion when soldiers inform him that his wife and children are in quarantine at the medical center.",
+      "assessment": "Don's stunned and concerned reaction indicates a deep emotional connection and care for his family, reflecting his capacity for warmth and attachment.",
+      "rating": 2,
+      "chunk": 25
+    },
+    {
+      "trait": "warmth",
+      "action": "Frowns up at the soldiers when questioned about his identity.",
+      "assessment": "His frown suggests wariness or distrust towards authority figures, which may indicate a protective attitude but also a guarded nature, showing limited openness or friendliness in this moment.",
+      "rating": -1,
+      "chunk": 25
+    },
+    {
+      "trait": "competence",
+      "action": "Don is lying on his back fixing a tangled mess of wiring behind the receptionist’s desk.",
+      "assessment": "This action shows Don has some technical skill and practical problem-solving ability, indicating a competent and hands-on approach to challenges.",
+      "rating": 2,
+      "chunk": 25
+    },
+    {
+      "trait": "competence",
+      "action": "Don responds to the soldiers’ arrival and identification calmly and answers their questions directly.",
+      "assessment": "His calmness and directness in a tense situation suggest emotional control and situational awareness, which are signs of competence.",
+      "rating": 2,
+      "chunk": 25
+    },
+    {
+      "trait": "competence",
+      "action": "Don is stunned and silent upon hearing that his wife and children are in quarantine.",
+      "assessment": "While understandable given the emotional weight, this moment of stunned silence indicates a temporary lapse in emotional resilience and decisiveness, slightly detracting from his overall competence.",
+      "rating": -1,
+      "chunk": 25
+    },
+    {
+      "trait": "warmth",
+      "action": "Don talks to his children through an intercom, trying to reassure them about their mother being alive despite the strange circumstances.",
+      "assessment": "Don attempts to comfort his children and maintain hope, showing care and concern for their emotional state, which reflects a degree of warmth.",
+      "rating": 2,
+      "chunk": 26
+    },
+    {
+      "trait": "warmth",
+      "action": "Don admits to his children that he doesn’t understand what has happened but tries to frame the situation positively by emphasizing that their mother is alive.",
+      "assessment": "This shows Don’s sincerity and effort to be honest while still being supportive, indicating trustworthiness and good-naturedness.",
+      "rating": 2,
+      "chunk": 26
+    },
+    {
+      "trait": "warmth",
+      "action": "Don breaks off mid-sentence when trying to explain the situation to his children, showing vulnerability and emotional struggle.",
+      "assessment": "This moment of vulnerability suggests Don’s genuine emotional involvement and sincerity, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 26
+    },
+    {
+      "trait": "warmth",
+      "action": "Don explains to his children that survivors are interviewed and that it takes time, attempting to prepare them for the quarantine restrictions.",
+      "assessment": "Don’s effort to explain difficult circumstances to his children in a calm manner shows patience and a protective attitude, reflecting warmth.",
+      "rating": 2,
+      "chunk": 26
+    },
+    {
+      "trait": "competence",
+      "action": "Don calmly talks to the medical officer at the checkpoint and accepts the quarantine rules, showing patience and understanding.",
+      "assessment": "This shows Don's ability to remain composed and cooperative in a stressful situation, indicating a level of emotional intelligence and social competence.",
+      "rating": 2,
+      "chunk": 26
+    },
+    {
+      "trait": "competence",
+      "action": "Don talks to his children through the intercom, trying to reassure them despite his own confusion and fear.",
+      "assessment": "Don demonstrates emotional control and attempts to provide comfort, which reflects interpersonal competence and leadership in a crisis.",
+      "rating": 2,
+      "chunk": 26
+    },
+    {
+      "trait": "competence",
+      "action": "Don admits he cannot explain what has happened and breaks off mid-sentence.",
+      "assessment": "This moment reveals uncertainty and a lack of clear understanding, which may indicate limited situational awareness or cognitive processing under stress.",
+      "rating": -1,
+      "chunk": 26
+    },
+    {
+      "trait": "competence",
+      "action": "Don tries to rationalize the situation by saying 'it’s good' that Mini is alive, despite the eerie atmosphere.",
+      "assessment": "This shows Don's attempt to maintain optimism and reason, which is a positive cognitive coping strategy, though it may also reflect some denial or naivety about the danger.",
+      "rating": 1,
+      "chunk": 26
+    },
+    {
+      "trait": "warmth",
+      "action": "Looks at each of his two kids in turn after they plead with him.",
+      "assessment": "Don's act of looking at his children individually in a moment of tension suggests attentiveness and concern, indicating a caring and connected attitude toward his family.",
+      "rating": 2,
+      "chunk": 27
+    },
+    {
+      "trait": "warmth",
+      "action": "Appears helpless and unable to provide immediate help when asked by Tammy and Andy.",
+      "assessment": "Don's helplessness in the face of his children's urgent pleas may reflect emotional vulnerability, but also a lack of immediate agency or reassurance, which can be perceived as less warm in a crisis.",
+      "rating": -1,
+      "chunk": 27
+    },
+    {
+      "trait": "competence",
+      "action": "Don appears helpless and unable to respond effectively when pressed by his children to do something ('Can’t you do anything?' / 'You must be able to.' / 'Please, Dad.'), and he stammers in response ('I -').",
+      "assessment": "This hesitation and inability to act decisively in a critical moment suggests a lack of confidence and capability, indicating a lower level of competence in crisis situations.",
+      "rating": -2,
+      "chunk": 27
+    },
+    {
+      "trait": "competence",
+      "action": "Don looks at each of his two kids in turn silently before responding.",
+      "assessment": "This moment of silent consideration may indicate thoughtfulness and emotional awareness, but it also suggests indecision or paralysis under pressure, which can be a negative indicator of competence in urgent situations.",
+      "rating": -1,
+      "chunk": 27
+    },
+    {
+      "trait": "competence",
+      "action": "Don moves quickly and purposefully through an empty underground car park and a short service corridor painted red.",
+      "assessment": "This movement suggests a degree of decisiveness and focus, indicating some level of competence in navigating potentially dangerous or tense environments.",
+      "rating": 1,
+      "chunk": 27
+    },
+    {
+      "trait": "warmth",
+      "action": "Don moves to Alice's bedside, speaks to her gently, apologizes for leaving her, and expresses regret.",
+      "assessment": "Don's actions show sincere remorse and a caring attitude toward Alice, indicating emotional warmth and a desire to reconnect and comfort her.",
+      "rating": 3,
+      "chunk": 28
+    },
+    {
+      "trait": "warmth",
+      "action": "Don silently approaches the medical center and sits beside Alice without any visible hostility or aggression.",
+      "assessment": "This non-aggressive, calm approach in a tense environment suggests a gentle and trustworthy demeanor, reflecting warmth.",
+      "rating": 2,
+      "chunk": 28
+    },
+    {
+      "trait": "competence",
+      "action": "Don pulls out his ring of keys and opens a restricted access door to the medical center.",
+      "assessment": "This action shows that Don is prepared and has access to secure areas, indicating a level of resourcefulness and forethought.",
+      "rating": 2,
+      "chunk": 28
+    },
+    {
+      "trait": "competence",
+      "action": "Don moves to Alice's bedside and speaks to her with remorse and care.",
+      "assessment": "This shows emotional intelligence and a capacity for empathy, but does not directly indicate competence in a practical or strategic sense.",
+      "rating": 0,
+      "chunk": 28
+    },
+    {
+      "trait": "competence",
+      "action": "Don is present in a high-security medical area during a crisis, apparently able to bypass or avoid confrontation with armed personnel.",
+      "assessment": "His ability to access restricted areas without immediate conflict suggests some level of competence in navigating dangerous or controlled environments.",
+      "rating": 1,
+      "chunk": 28
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses deep remorse and sorrow to Alice, saying 'I’m so sorry. I thought there was nothing I could do. I should never have run. I should never have left you.'",
+      "assessment": "Don’s apology and expression of regret show his sincere remorse and emotional vulnerability, indicating a capacity for empathy and care.",
+      "rating": 2,
+      "chunk": 29
+    },
+    {
+      "trait": "warmth",
+      "action": "Shares a tender moment with Alice, including a kiss, showing affection and love.",
+      "assessment": "This intimate and sincere display of love reflects Don’s ability to connect emotionally and express warmth toward someone he cares about.",
+      "rating": 3,
+      "chunk": 29
+    },
+    {
+      "trait": "warmth",
+      "action": "Despite his infection taking hold, Don’s final act is to lunge at Alice, baring his teeth aggressively.",
+      "assessment": "This aggressive action, driven by infection, overrides his previous warmth and shows a loss of control and threat to others, negatively impacting perceptions of his warmth.",
+      "rating": -3,
+      "chunk": 29
+    },
+    {
+      "trait": "competence",
+      "action": "Don expresses deep remorse and emotional vulnerability, apologizing repeatedly and showing love to Alice even as he is succumbing to infection.",
+      "assessment": "This action reveals emotional depth and humanity but does not demonstrate competence in terms of skill, intelligence, or confident behavior; rather, it shows a loss of control and impending failure.",
+      "rating": -2,
+      "chunk": 29
+    },
+    {
+      "trait": "competence",
+      "action": "Don kisses Alice while his eyes glaze with the red of infection, then suddenly lunges at her with bared teeth as the infection takes hold.",
+      "assessment": "This indicates a complete loss of self-control and cognitive competence, as the infection overrides his rational behavior, leading to aggressive, animalistic actions.",
+      "rating": -3,
+      "chunk": 29
+    },
+    {
+      "trait": "competence",
+      "action": "No direct actions or statements from Don Harris are present in the excerpt; the scene focuses on other characters and the unfolding crisis.",
+      "assessment": "Due to the absence of Don Harris's actions or decisions in this excerpt, no direct inference about his competence can be made here.",
+      "rating": 0,
+      "chunk": 30
+    },
+    {
+      "trait": "warmth",
+      "action": "No direct actions or statements by Don Harris are present in the provided excerpt; the focus is on Scarlet and other characters.",
+      "assessment": "The excerpt does not provide any observable behavior, statements, or omissions by Don Harris to assess his warmth.",
+      "rating": 0,
+      "chunk": 31
+    },
+    {
+      "trait": "competence",
+      "action": "No direct actions or statements from Don Harris are present in the provided excerpt; the focus is on Scarlet and other characters.",
+      "assessment": "Since Don Harris does not appear or act in this excerpt, no direct inference about his competence can be drawn here.",
+      "rating": 0,
+      "chunk": 31
+    },
+    {
+      "trait": "warmth",
+      "action": "No direct action or statement by Don Harris is present in the excerpt; the focus is on Scarlet and the children.",
+      "assessment": "Since Don Harris does not appear or act in this excerpt, no direct inference about his warmth can be made here.",
+      "rating": 0,
+      "chunk": 32
+    },
+    {
+      "trait": "competence",
+      "action": "No direct actions, statements, or internal behaviors of Don Harris are present in the provided excerpt; the scene focuses on Scarlet, Andy, Tamw, and soldiers.",
+      "assessment": "Since Don Harris does not appear or act in this excerpt, no assessment of his competence can be made based on this text.",
+      "rating": 0,
+      "chunk": 32
+    },
+    {
+      "trait": "warmth",
+      "action": "Don sneaks into the medical centre, presumably to help or protect others.",
+      "assessment": "Don's action of sneaking into a restricted medical centre suggests a willingness to take risks potentially for the benefit of others, indicating a protective and possibly caring nature.",
+      "rating": 2,
+      "chunk": 33
+    },
+    {
+      "trait": "warmth",
+      "action": "Don appears suddenly, covered in blood, standing in the smashed door-frame.",
+      "assessment": "While the blood and sudden appearance may be alarming, it suggests Don has been involved in a violent or dangerous situation, possibly trying to save or defend others, which can indicate commitment and concern, but the lack of explicit caring behavior here tempers the warmth rating.",
+      "rating": 1,
+      "chunk": 33
+    },
+    {
+      "trait": "competence",
+      "action": "Don sneaks into the medical centre through a restricted access doorway, showing knowledge of the facility and ability to move covertly.",
+      "assessment": "This action indicates Don's familiarity with the environment and his capability to navigate restricted areas, suggesting skill and confidence.",
+      "rating": 2,
+      "chunk": 33
+    },
+    {
+      "trait": "competence",
+      "action": "Don appears suddenly in the smashed doorframe, covered in blood and wide-eyed.",
+      "assessment": "While the blood and wide eyes may indicate stress or injury, the fact that Don is at the forefront of a forced entry suggests decisiveness and willingness to confront danger, reflecting competence under pressure.",
+      "rating": 1,
+      "chunk": 33
+    },
+    {
+      "trait": "competence",
+      "action": "Don's sudden appearance after the door is kicked off its hinges.",
+      "assessment": "This could imply a lack of subtlety or stealth in this moment, possibly compromising the element of surprise, which may reflect a momentary lapse in tactical judgment.",
+      "rating": -1,
+      "chunk": 33
+    },
+    {
+      "trait": "warmth",
+      "action": "Don lunges forward and attacks the young man who is rooted to the spot.",
+      "assessment": "This aggressive action suggests a lack of tolerance and trust, indicating a defensive or hostile response rather than warmth.",
+      "rating": -2,
+      "chunk": 34
+    },
+    {
+      "trait": "warmth",
+      "action": "Don's eyes flick to Andy and then to the young man, showing awareness of others' presence and situation.",
+      "assessment": "This moment of awareness could indicate attentiveness and concern, a mild positive indicator of warmth.",
+      "rating": 1,
+      "chunk": 34
+    },
+    {
+      "trait": "competence",
+      "action": "Don lunges forwards and attacks the young man who is frozen to the spot.",
+      "assessment": "This shows Don's decisiveness and willingness to take immediate action in a tense situation, indicating a degree of confidence and assertiveness.",
+      "rating": 2,
+      "chunk": 34
+    },
+    {
+      "trait": "competence",
+      "action": "Don's eyes flick to Andy and then to the young man before attacking.",
+      "assessment": "This suggests situational awareness and quick assessment of threats, reflecting competent perception under pressure.",
+      "rating": 2,
+      "chunk": 34
+    },
+    {
+      "trait": "competence",
+      "action": "Don does not hesitate to physically engage the young man despite the chaotic environment.",
+      "assessment": "This indicates courage and physical capability, but also a potential impulsiveness that could be risky in such a volatile situation.",
+      "rating": 1,
+      "chunk": 34
+    },
+    {
+      "trait": "competence",
+      "action": "Don does not appear to coordinate or lead others in the crowd during the outbreak of infection.",
+      "assessment": "This omission suggests a lack of leadership or strategic thinking in managing group safety during a crisis, which detracts from his overall competence.",
+      "rating": -1,
+      "chunk": 34
+    },
+    {
+      "trait": "warmth",
+      "action": "No direct actions or statements by Don Harris are present in the excerpt; the focus is on other characters and the chaotic environment.",
+      "assessment": "Due to the absence of Don Harris's actions or statements in this excerpt, no clear indicators of warmth can be inferred.",
+      "rating": 0,
+      "chunk": 36
+    },
+    {
+      "trait": "competence",
+      "action": "No direct actions or statements by Don Harris are present in the excerpt; the scene focuses on other characters (Doyle, Andy, Jason).",
+      "assessment": "Due to the absence of Don Harris's actions or decisions in this excerpt, no inference about his competence can be made here.",
+      "rating": 0,
+      "chunk": 36
+    },
+    {
+      "trait": "warmth",
+      "action": "Don Harris risks his own safety to protect and reunite with his family during the chaos.",
+      "assessment": "This action shows a strong sense of care and emotional connection, indicating warmth through his protective and loving behavior.",
+      "rating": 3,
+      "chunk": 37
+    },
+    {
+      "trait": "warmth",
+      "action": "Don sometimes exhibits distrust and suspicion towards others, especially military personnel.",
+      "assessment": "While this may be a survival mechanism, it reflects a guarded nature that can limit openness and friendliness, slightly reducing perceived warmth.",
+      "rating": -1,
+      "chunk": 37
+    },
+    {
+      "trait": "competence",
+      "action": "No direct actions or statements by Don Harris are present in the provided excerpt; the focus is on other characters like Doyle and Andy.",
+      "assessment": "Due to the absence of Don Harris's actions or behavior in this excerpt, no assessment of his competence can be made here.",
+      "rating": 0,
+      "chunk": 37
+    },
+    {
+      "trait": "warmth",
+      "action": "Comforts Andy by telling him 'It’s okay' after the loss of his father.",
+      "assessment": "Offering reassurance in a moment of grief shows empathy and a caring nature, indicating warmth.",
+      "rating": 2,
+      "chunk": 38
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses determination to escape the dangerous situation rather than passively waiting to be killed.",
+      "assessment": "This shows a protective and proactive attitude towards others' safety, reflecting responsibility and concern, which are aspects of warmth.",
+      "rating": 2,
+      "chunk": 38
+    },
+    {
+      "trait": "warmth",
+      "action": "Does not intervene or challenge the harsh reality of the military’s 'extermination' policy as explained by Scarlet and Doyle.",
+      "assessment": "While this may be due to the situation’s severity, the lack of visible resistance or advocacy for others’ lives could indicate a limitation in warmth, showing possible resignation or detachment.",
+      "rating": -1,
+      "chunk": 38
+    },
+    {
+      "trait": "competence",
+      "action": "Expresses determination to not sit around and wait to be exterminated, insisting on taking action to get out of the dangerous situation.",
+      "assessment": "This shows a proactive mindset and willingness to take initiative in a crisis, indicating a degree of competence and confidence.",
+      "rating": 2,
+      "chunk": 38
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in discussion about the severity of the situation and the automatic three-step process of dealing with infection, showing awareness of the stakes.",
+      "assessment": "Demonstrates understanding of the situation and the protocols involved, reflecting intelligence and situational awareness.",
+      "rating": 2,
+      "chunk": 38
+    },
+    {
+      "trait": "competence",
+      "action": "Does not hesitate to challenge the fatalistic attitude of others who believe they cannot leave due to snipers and infected.",
+      "assessment": "Shows confidence and leadership by encouraging others to act despite risks, which is a positive indicator of competence.",
+      "rating": 2,
+      "chunk": 38
+    },
+    {
+      "trait": "warmth",
+      "action": "Leads a small group of survivors through dangerous territory, instructing them clearly and ensuring they follow his lead for safety.",
+      "assessment": "Taking responsibility for others' safety and giving clear guidance in a crisis shows a protective and trustworthy nature, indicating warmth.",
+      "rating": 2,
+      "chunk": 39
+    },
+    {
+      "trait": "warmth",
+      "action": "Moves cautiously and quickly through the streets, prioritizing safety and minimizing risk for the group.",
+      "assessment": "This careful behavior reflects concern for the well-being of others, a sign of good-natured and responsible behavior.",
+      "rating": 2,
+      "chunk": 39
+    },
+    {
+      "trait": "competence",
+      "action": "Moves through the streets quickly and quietly, always from point of cover to point of cover, never delaying long.",
+      "assessment": "This behavior demonstrates tactical awareness, caution, and skill in navigating dangerous environments, indicating a high level of competence.",
+      "rating": 3,
+      "chunk": 39
+    },
+    {
+      "trait": "competence",
+      "action": "Leads a small group of survivors and instructs them clearly to keep their eyes on him and run when he runs.",
+      "assessment": "This shows leadership skills, clear communication, and confidence, all positive indicators of competence.",
+      "rating": 2,
+      "chunk": 39
+    },
+    {
+      "trait": "competence",
+      "action": "Responds quickly and appropriately to a radio call by lowering volume and listening carefully.",
+      "assessment": "This indicates situational awareness and good communication protocol, reflecting competent behavior.",
+      "rating": 2,
+      "chunk": 39
+    },
+    {
+      "trait": "competence",
+      "action": "Communicates clearly and urgently with Doyle over radio, warning him about the severity of the situation and impending air bombardment.",
+      "assessment": "This shows Don's situational awareness and ability to convey critical information under pressure, indicating competence in crisis communication.",
+      "rating": 2,
+      "chunk": 40
+    },
+    {
+      "trait": "competence",
+      "action": "Informs Doyle that the outbreak is out of control and that the military is taking extreme measures without hesitation.",
+      "assessment": "This reflects Don's understanding of the gravity of the situation and his realistic appraisal of military decisions, showing intelligence and clear-headedness.",
+      "rating": 2,
+      "chunk": 40
+    },
+    {
+      "trait": "competence",
+      "action": "Offers to land in the park to extract Doyle despite the dangerous conditions.",
+      "assessment": "This demonstrates Don's confidence and skill as a pilot, as well as his willingness to take calculated risks to help others, indicating high competence.",
+      "rating": 3,
+      "chunk": 40
+    },
+    {
+      "trait": "warmth",
+      "action": "No direct actions or statements by Don Harris are present in the provided excerpt; the focus is on other characters under sniper attack.",
+      "assessment": "Since Don Harris does not appear or act in this excerpt, no inference about his warmth can be drawn here.",
+      "rating": 0,
+      "chunk": 41
+    },
+    {
+      "trait": "competence",
+      "action": "Does not appear directly in this excerpt; the scene focuses on Doyle and others reacting to sniper fire and managing injuries.",
+      "assessment": "No direct actions or statements from Don Harris are present in this excerpt to assess his competence.",
+      "rating": 0,
+      "chunk": 41
+    },
+    {
+      "trait": "warmth",
+      "action": "Does not intervene when Andy volunteers to run across the street under sniper fire, despite the obvious danger.",
+      "assessment": "Allowing Andy to take such a dangerous risk without objection suggests a lack of protective warmth and concern for others' safety.",
+      "rating": -2,
+      "chunk": 42
+    },
+    {
+      "trait": "warmth",
+      "action": "Follows Doyle's plan without questioning the morality or safety of using someone as bait.",
+      "assessment": "This compliance indicates a pragmatic but cold approach, prioritizing survival over individual well-being, reflecting low warmth.",
+      "rating": -1,
+      "chunk": 42
+    },
+    {
+      "trait": "competence",
+      "action": "Appears panicky and is described as 'no marksman' when attempting to shoot.",
+      "assessment": "This suggests a lack of composure and poor marksmanship skills, indicating lower competence in a critical combat situation.",
+      "rating": -2,
+      "chunk": 42
+    },
+    {
+      "trait": "competence",
+      "action": "Drops the bottle on the ground and turns to the reception area, seemingly losing focus on the immediate threat.",
+      "assessment": "This action implies a momentary lapse in situational awareness, which detracts from his overall competence.",
+      "rating": -1,
+      "chunk": 42
+    },
+    {
+      "trait": "warmth",
+      "action": "Don stares back towards his son from a distance, seemingly concerned.",
+      "assessment": "Don's act of looking back at his son suggests a protective and caring nature, indicating warmth through concern for family.",
+      "rating": 2,
+      "chunk": 43
+    },
+    {
+      "trait": "warmth",
+      "action": "Don disappears before Doyle can shoot him, avoiding confrontation.",
+      "assessment": "Don's avoidance of direct conflict here may indicate a desire to prevent harm or escalation, which can be seen as a cautious but non-aggressive behavior, moderately warm.",
+      "rating": 1,
+      "chunk": 43
+    },
+    {
+      "trait": "competence",
+      "action": "Don appears briefly in the moonlight, staring back towards his son, but then disappears before Doyle can take a shot.",
+      "assessment": "Don's ability to evade a sniper's aim suggests situational awareness and quick reflexes, indicating competent survival skills in a dangerous environment.",
+      "rating": 2,
+      "chunk": 43
+    },
+    {
+      "trait": "competence",
+      "action": "Don does not engage or respond directly when Doyle attempts to shoot him, instead disappearing quietly.",
+      "assessment": "This non-confrontational and evasive behavior shows strategic thinking and restraint, which are signs of competence in a hostile situation.",
+      "rating": 2,
+      "chunk": 43
+    },
+    {
+      "trait": "warmth",
+      "action": "Protects his family and other survivors during the chaos, showing concern for their safety.",
+      "assessment": "Demonstrating protective behavior in a crisis indicates care and responsibility towards others, reflecting warmth.",
+      "rating": 2,
+      "chunk": 45
+    },
+    {
+      "trait": "warmth",
+      "action": "Fails to prevent the outbreak from escalating despite being in a position to act.",
+      "assessment": "While this omission may be due to circumstances beyond his control, it suggests a lack of effective intervention that could have helped others, indicating a neutral to slightly negative impact on perceived warmth.",
+      "rating": -1,
+      "chunk": 45
+    },
+    {
+      "trait": "competence",
+      "action": "No direct actions or decisions by Don Harris are depicted in the provided excerpt; the focus is on other characters and events.",
+      "assessment": "The absence of any shown actions or decisions by Don Harris in this excerpt means no direct inference about his competence can be made here.",
+      "rating": 0,
+      "chunk": 45
+    },
+    {
+      "trait": "warmth",
+      "action": "Shows hesitation and refusal to shoot a civilian child despite orders.",
+      "assessment": "This action indicates a strong sense of empathy and moral integrity, reflecting warmth through his protective and humane instincts.",
+      "rating": 3,
+      "chunk": 46
+    },
+    {
+      "trait": "competence",
+      "action": "No direct actions or statements from Don Harris are present in the provided excerpt; the scene focuses on other characters (Doyle, Scarlet, Andy, Tamwy).",
+      "assessment": "Due to the absence of Don Harris's actions or statements in this excerpt, no direct inference about his competence can be made here.",
+      "rating": 0,
+      "chunk": 46
+    },
+    {
+      "trait": "warmth",
+      "action": "Thinks 'No. Not this time.' when aiming at the boy, choosing not to shoot.",
+      "assessment": "This moment shows restraint and a protective instinct, indicating a capacity for empathy and care, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 47
+    },
+    {
+      "trait": "competence",
+      "action": "Listens carefully to Scarlet's explanation about the genetic immunity possibility and acknowledges the importance of keeping the children alive.",
+      "assessment": "This shows Don's ability to process complex information and prioritize critical objectives, indicating thoughtful and strategic thinking.",
+      "rating": 2,
+      "chunk": 47
+    },
+    {
+      "trait": "competence",
+      "action": "Responds promptly and clearly to Flynn's radio communication, maintaining situational awareness about the presence of infected.",
+      "assessment": "This demonstrates Don's alertness and effective communication skills under pressure, reflecting operational competence.",
+      "rating": 2,
+      "chunk": 47
+    },
+    {
+      "trait": "competence",
+      "action": "Nods slowly in agreement after Scarlet emphasizes the importance of protecting the children.",
+      "assessment": "While this shows agreement and understanding, the slow nod may suggest hesitation or uncertainty, slightly tempering the impression of decisiveness.",
+      "rating": 0,
+      "chunk": 47
+    },
+    {
+      "trait": "competence",
+      "action": "Commands Flynn to take them to France over the Channel instead of the base, showing quick thinking under pressure.",
+      "assessment": "This action demonstrates strategic thinking and adaptability, indicating a competent and decisive mindset in a crisis.",
+      "rating": 2,
+      "chunk": 48
+    },
+    {
+      "trait": "competence",
+      "action": "Jumps off the helicopter skids just as it takes off to avoid being taken away.",
+      "assessment": "This shows physical agility and presence of mind, but also a risky move that could have led to injury or capture, reflecting both competence and desperation.",
+      "rating": 1,
+      "chunk": 48
+    },
+    {
+      "trait": "competence",
+      "action": "Fails to prevent the helicopter from taking off without the others, despite shouting and attempts to stop it.",
+      "assessment": "This suggests a lack of control over the situation and inability to coordinate effectively with allies, indicating a momentary lapse in competence.",
+      "rating": -1,
+      "chunk": 48
+    },
+    {
+      "trait": "warmth",
+      "action": "Don appears as an infected, staring down a severely injured man (Receptionist) and then lunges at him, ignoring his pitiful screams.",
+      "assessment": "This action shows a complete lack of empathy or kindness, indicating a very low level of warmth in this moment.",
+      "rating": -3,
+      "chunk": 49
+    },
+    {
+      "trait": "competence",
+      "action": "Don appears as an infected, staring down a severely injured Reception Staff member and then lunges downward to attack.",
+      "assessment": "This action shows Don in a state of infection, driven by primal aggression rather than skill or intelligence, indicating a loss of his previous competence.",
+      "rating": -3,
+      "chunk": 49
+    },
+    {
+      "trait": "competence",
+      "action": "Don is shown watching the apocalyptic scene of London from a distance, seemingly calm and observant.",
+      "assessment": "This moment suggests a degree of awareness and composure, but given the context of his infection, it does not clearly indicate competent or skillful behavior.",
+      "rating": 0,
+      "chunk": 49
+    },
+    {
+      "trait": "warmth",
+      "action": "Observes the dangerous situation silently without intervening or showing visible concern.",
+      "assessment": "Don's passive observation in a crisis without active engagement or protective behavior suggests emotional detachment or guardedness rather than warmth.",
+      "rating": -1,
+      "chunk": 50
+    },
     {
-      "Action": "Offers wine and food to the group, treats selves on a somber occasion, participates in communal meal with others.",
-      "Warmth": 1,
-      "Chunk": 2
+      "trait": "competence",
+      "action": "Don is calmly observing the chaotic street scene with corpses, smoke, and fire.",
+      "assessment": "This suggests Don maintains composure and situational awareness in a crisis, indicating a baseline level of competence.",
+      "rating": 1,
+      "chunk": 50
     },
     {
-      "Action": "Responds politely to Sally's hopes that guests feel welcome, shares light convivial moment at table.",
-      "Warmth": 1,
-      "Chunk": 2
+      "trait": "competence",
+      "action": "Don is present near infected individuals and bio squads but does not take immediate action in this excerpt.",
+      "assessment": "The lack of direct intervention or leadership in this critical moment may indicate hesitation or passivity, which could be seen as a slight negative indicator of competence.",
+      "rating": -1,
+      "chunk": 50
     },
     {
-      "Action": "Recognizes the potential danger in opening the door to the boy, cautiously stops Alice from rushing to open it, showing situational awareness and control.",
-      "Competence": 1,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "Although not directly described in this excerpt, Don Harris is part of the group trying to survive and protect others (Andy and Tamw) by seeking shelter in the abandoned truck and cooperating with others like Scarlet and Doyle.",
+      "assessment": "Don's involvement in a group effort to protect vulnerable individuals suggests a degree of responsibility and concern for others, indicating some warmth.",
+      "rating": 2,
+      "chunk": 51
     },
     {
-      "Action": "Despite his caution, ultimately decides to open the door after assessing the situation, balancing risk with compassion.",
-      "Competence": 1,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "No explicit warm or cold actions or statements by Don Harris are present in this excerpt; his behavior is largely reactive and survival-focused.",
+      "assessment": "The lack of explicit warmth-related actions or statements limits the ability to assess his warmth here; survival situations often constrain expressions of warmth.",
+      "rating": 0,
+      "chunk": 51
     },
     {
-      "Action": "Initially mutters an exclamation of frustration or disbelief ('Bloody Hell'), which could imply emotional strain affecting clear thinking.",
-      "Competence": 0,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "He checks behind him and assesses that the gas has almost reached them, indicating situational awareness.",
+      "assessment": "This shows Don's ability to remain aware of his environment and the imminent threat, a positive indicator of competence.",
+      "rating": 2,
+      "chunk": 51
     },
     {
-      "Action": "Does not appear or act in the provided excerpt; no demonstrated competence.",
-      "Competence": 0,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "He follows the group's decision to get inside the abandoned truck and helps seal the vehicle against the gas using available materials.",
+      "assessment": "This demonstrates practical problem-solving skills and adaptability under pressure, reflecting competent behavior.",
+      "rating": 2,
+      "chunk": 51
     },
     {
-      "Action": "Shares painful truth about Min's infection and death with his children, showing emotional vulnerability and honesty.",
-      "Warmth": 1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "He reacts quickly to the bio soldier with a flamethrower by shooting through the glass to kill the threat.",
+      "assessment": "This action shows decisiveness, marksmanship, and the ability to act under extreme stress, indicating high competence.",
+      "rating": 3,
+      "chunk": 51
     },
     {
-      "Action": "Breaks off when recounting failure to save Min, struggles emotionally, indicates sincere remorse.",
-      "Warmth": 1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "The group’s escape is complicated by the truck veering and hitting a building, suggesting some difficulty in vehicle control.",
+      "assessment": "While not directly attributed to Don, this situation may reflect on his or the group's overall control and coordination under pressure, a slight negative indicator.",
+      "rating": -1,
+      "chunk": 51
     },
     {
-      "Action": "Abandons Min in bathroom as she screams, suggesting a moment of failing to protect loved one.",
-      "Warmth": -1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "No direct actions or decisions by Don Harris are depicted in the provided excerpt; the focus is on Scarlet, Doyle, and others.",
+      "assessment": "The excerpt does not provide evidence of Don Harris's competence, as he is not shown acting or making decisions here.",
+      "rating": 0,
+      "chunk": 52
     },
     {
-      "Action": "Locks eyes with his children, showing direct communication and emotional connection.",
-      "Warmth": 1,
-      "Chunk": 13
+      "trait": "warmth",
+      "action": "No direct actions or statements by Don Harris are present in the provided excerpt; the focus is on Doyle and Flynn.",
+      "assessment": "Due to the absence of Don Harris's actions or statements in this excerpt, no inference about his warmth can be made here.",
+      "rating": 0,
+      "chunk": 53
     },
     {
-      "Action": "Is present in a crowded pub observing the atmosphere, appearing engaged and aware of surroundings.",
-      "Competence": 0,
-      "Chunk": 16
+      "trait": "competence",
+      "action": "No direct actions or statements by Don Harris are present in the provided excerpt; the focus is on Doyle, Flynn, and others.",
+      "assessment": "Due to the absence of Don Harris's actions or behaviors in this excerpt, no assessment of his competence can be made here.",
+      "rating": 0,
+      "chunk": 53
     },
     {
-      "Action": "Does not appear in this excerpt or take any action relevant to competence.",
-      "Competence": 0,
-      "Chunk": 19
+      "trait": "warmth",
+      "action": "Guides and protects children (Andy and Tammy) through dangerous, dark underground tunnels, using night vision and physical reassurance (hand on shoulder).",
+      "assessment": "Don’s actions show a protective and caring attitude toward vulnerable children, indicating trustworthiness and a nurturing nature.",
+      "rating": 3,
+      "chunk": 54
     },
     {
-      "Action": "No direct actions or behaviors of Don Harris present in the excerpt to assess competence.",
-      "Competence": 0,
-      "Chunk": 21
+      "trait": "warmth",
+      "action": "Keeps calm and reassures scared children by telling them not to worry and guiding them carefully through the environment.",
+      "assessment": "This demonstrates patience, tolerance, and a sincere effort to comfort others in distress, reflecting warmth.",
+      "rating": 2,
+      "chunk": 54
     },
     {
-      "Action": "Communicates calmly with his children through quarantine glass and tries to reassure them despite his own confusion about the situation.",
-      "Competence": 1,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Does not explicitly show any hostile or dismissive behavior toward the children or others in this excerpt.",
+      "assessment": "The absence of negative or cold behavior in a tense situation suggests a baseline of good-naturedness and sincerity.",
+      "rating": 1,
+      "chunk": 54
     },
     {
-      "Action": "Admits uncertainty about events (the survival of Alice), showing honesty but also lack of understanding.",
-      "Competence": 0,
-      "Chunk": 26
+      "trait": "competence",
+      "action": "Although not directly shown in this excerpt, Don Harris is known from the film to be a capable and resourceful character who takes initiative in crisis situations.",
+      "assessment": "The excerpt focuses on Doyle guiding children through dark tunnels, showing competence in navigation and caution, but does not provide direct evidence of Don Harris's competence here.",
+      "rating": 0,
+      "chunk": 54
     },
     {
-      "Action": "Does not challenge or question authority decisions (quarantine procedures), accepts the imposed restrictions without conflict.",
-      "Competence": 0,
-      "Chunk": 26
+      "trait": "competence",
+      "action": "No direct actions or statements from Don Harris are present in the excerpt.",
+      "assessment": "Due to the absence of Don Harris's actions or decisions in this passage, no positive or negative indicators of his competence can be inferred.",
+      "rating": 0,
+      "chunk": 54
     },
     {
-      "Action": "Uses a ring of keys to open a restricted access door, showing preparedness and familiarity with secure areas.",
-      "Competence": 1,
-      "Chunk": 28
+      "trait": "warmth",
+      "action": "Don jumps on his son Andy and bites into his shoulder, attacking him violently.",
+      "assessment": "This action shows extreme aggression and a loss of control, indicating a lack of warmth and care towards his own child.",
+      "rating": -3,
+      "chunk": 56
     },
     {
-      "Action": "Approaches Alice carefully and speaks to her with remorse and care, showing emotional intelligence but no clear indication of practical skill or confident problem-solving here.",
-      "Competence": 0,
-      "Chunk": 28
+      "trait": "warmth",
+      "action": "Don freezes and momentarily seems to recognize his daughter Tammy despite his infected state.",
+      "assessment": "This brief moment of recognition suggests a lingering connection and possible underlying warmth despite his infected madness.",
+      "rating": 1,
+      "chunk": 56
     },
     {
-      "Action": "Does not attempt to intervene directly in the conflict between Scarlet and General Stone regarding protocol for infected individuals, missing an opportunity for assertive leadership or innovative action.",
-      "Competence": -1,
-      "Chunk": 28
+      "trait": "warmth",
+      "action": "Don rises to attack again after the moment of recognition.",
+      "assessment": "His immediate return to aggression negates any positive warmth indicated by the momentary recognition, showing dominance of violent behavior.",
+      "rating": -2,
+      "chunk": 56
     },
     {
-      "Action": "Lunges forward and attacks the Young Man suddenly, attempting to take control in a tense situation.",
-      "Competence": 1,
-      "Chunk": 34
+      "trait": "competence",
+      "action": "Don jumps on Andy and bites into his son's shoulder in a sudden, violent attack.",
+      "assessment": "This action shows a loss of control and a regression into primal, infected behavior rather than deliberate, skillful action, indicating a lack of competent decision-making in this moment.",
+      "rating": -2,
+      "chunk": 56
     },
     {
-      "Action": "Focuses on the immediate threat and tries to shield or control the situation despite confusion around him.",
-      "Competence": 1,
-      "Chunk": 34
+      "trait": "competence",
+      "action": "Don freezes and momentarily recognizes his daughter Tam, showing a flicker of awareness despite his infection.",
+      "assessment": "This moment suggests some residual cognitive function and emotional connection, but it does not translate into effective or controlled behavior, reflecting limited competence under extreme conditions.",
+      "rating": 0,
+      "chunk": 56
     },
     {
-      "Action": "Shows decisive physical action instead of hesitation during a critical moment.",
-      "Competence": 1,
-      "Chunk": 34
+      "trait": "competence",
+      "action": "Don rises to attack Tam after the moment of recognition, ignoring the threat posed by her sniper rifle.",
+      "assessment": "This indicates poor situational awareness and inability to control impulses, which are negative indicators of competence.",
+      "rating": -3,
+      "chunk": 56
     },
     {
-      "Action": "Moves quickly and quietly with a group of survivors, takes responsibility to lead and protect others by giving them clear instructions.",
-      "Warmth": 1,
-      "Chunk": 39
+      "trait": "competence",
+      "action": "Don is shot clean through the forehead by Tam, ending his threat.",
+      "assessment": "While this is an action taken by Tam, Don's failure to avoid or neutralize the threat before being shot reflects a lack of competence in self-preservation and tactical thinking.",
+      "rating": -3,
+      "chunk": 56
     },
     {
-      "Action": "Observes others but does not intervene to help or reassure frightened group members explicitly.",
-      "Warmth": 0,
-      "Chunk": 39
+      "trait": "warmth",
+      "action": "Although not directly shown in this excerpt, Don Harris's role as a protective father figure in the story is implied through the concern and care shown by family members like Andy and Alice, which reflects the familial warmth Don embodies.",
+      "assessment": "Don's protective instincts and care for his family throughout the narrative indicate a capacity for warmth, trustworthiness, and sincerity, even under extreme stress.",
+      "rating": 2,
+      "chunk": 57
     },
     {
-      "Action": "Not present or active in the excerpt; main actions are performed by Doyle and others.",
-      "Competence": 0,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "No direct actions or statements by Don Harris are present in the provided excerpt; the focus is on Andy and other characters.",
+      "assessment": "Since Don Harris does not appear or act in this excerpt, no direct inference about his competence can be drawn from this section.",
+      "rating": 0,
+      "chunk": 57
     },
     {
-      "Action": "The excerpt does not show any direct action, statement, or decision involving Don Harris, so no specific competence indicator can be drawn from this passage.",
-      "Competence": 0,
-      "Chunk": 47
+      "trait": "warmth",
+      "action": "Fights viciously to protect himself and his mother from infected commuters trying to grab him.",
+      "assessment": "While the action is aggressive, it is motivated by a protective instinct toward his mother, indicating care and concern for loved ones.",
+      "rating": 1,
+      "chunk": 58
     },
     {
-      "Action": "No direct actions or dialogue attributed to Don Harris in this excerpt; other characters are acting under extreme stress without signs of warmth from Don.",
-      "Warmth": 0,
-      "Chunk": 51
+      "trait": "warmth",
+      "action": "Forces himself out of the infected attackers' grasp to reach his mother’s carriage and embrace her.",
+      "assessment": "This shows a sincere and strong emotional bond with his mother, reflecting warmth and trustworthiness in close relationships.",
+      "rating": 2,
+      "chunk": 58
     },
     {
-      "Action": "Fights viciously using fists and teeth to escape attackers who are infected, showing physical capability and determination.",
-      "Competence": 1,
-      "Chunk": 58
+      "trait": "competence",
+      "action": "Fights viciously using fists and teeth to break free from infected attackers trying to prevent him from entering his mother’s carriage.",
+      "assessment": "This action demonstrates physical courage, determination, and basic survival skills under extreme stress, indicating a competent and resourceful individual in a crisis.",
+      "rating": 2,
+      "chunk": 58
     },
     {
-      "Action": "Infection visibly affecting him, losing control as his face alternates between infected and normal—indicating vulnerability despite efforts.",
-      "Competence": -1,
-      "Chunk": 58
+      "trait": "competence",
+      "action": "Manages to force himself out of the grasp of multiple infected attackers despite being overwhelmed.",
+      "assessment": "Shows strong willpower and effective self-defense instincts, suggesting a high level of competence in immediate physical danger.",
+      "rating": 2,
+      "chunk": 58
     }
   ],
   "The protagonist of \"28 Weeks Later\" is Don Harris, portrayed by Robert Carlyle. ([en.wikipedia.org](https://en.wikipedia.org/wiki/28_Weeks_Later?utm_source=openai)) ": [
     {
-      "Action": "Don contributes to a calm, civilized dinner setting by bringing wine and sharing it, attempting to create normalcy and comfort.",
-      "Competence": 1,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Reassures Andy and Tamwy by telling them 'Everything's fine. Don’t worry.' before leaving the quarantine room.",
+      "assessment": "Don attempts to calm others in a tense situation, showing a desire to be reassuring and reduce fear, which indicates some degree of warmth.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Fails to detect or address Karen's obvious psychological damage and odd behavior in the social setting.",
-      "Competence": -1,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Leaves the quarantine room alone despite the evident danger and agitation.",
+      "assessment": "Leaving others behind in a moment of crisis without clear protective measures suggests a lack of consideration and trustworthiness, negatively impacting perceived warmth.",
+      "rating": -2,
+      "chunk": 30
     },
     {
-      "Action": "Engages in social niceties and attempts to foster group bonding through shared food and drink.",
-      "Competence": 1,
-      "Chunk": 2
+      "trait": "competence",
+      "action": "No direct actions or statements by Don Harris are present in the provided excerpt; the scene focuses on other characters and general chaos.",
+      "assessment": "Due to the absence of Don Harris's actions or decisions in this excerpt, no direct inference about his competence can be made here.",
+      "rating": 0,
+      "chunk": 35
     },
     {
-      "Action": "Frantically tries to save Jacob by starting the boat and attempts to escape despite the chaos and infected closing in.",
-      "Warmth": 1,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Shows concern for the children by urging the group to move on quickly after Scarlet's death.",
+      "assessment": "Don's promptness in moving the group forward suggests a protective and responsible attitude toward the survivors, indicating care and a sense of duty.",
+      "rating": 2,
+      "chunk": 52
     },
     {
-      "Action": "Looks back at the shore with tears streaming down his face, showing emotional distress over the fate of others.",
-      "Warmth": 1,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Does not intervene or show visible emotional response to Scarlet’s death in the excerpt.",
+      "assessment": "The lack of visible emotional reaction or comforting behavior toward others in the immediate aftermath of Scarlet’s death may indicate emotional detachment or difficulty expressing warmth in crisis.",
+      "rating": -1,
+      "chunk": 52
     },
     {
-      "Action": "Escapes on the boat, leaving infected and presumably Jacob behind in a chaotic, dangerous situation.",
-      "Warmth": -1,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Lunges aggressively at Doyle, showing violent and threatening behavior.",
+      "assessment": "Don's aggressive lunge indicates hostility and a lack of trust or friendliness, which negatively impacts perceptions of warmth.",
+      "rating": -3,
+      "chunk": 55
     },
     {
-      "Action": "Compliments the food to create a pleasant atmosphere while queuing at the buffet.",
-      "Warmth": 1,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "His eyes are wide and teeth bared, glowing greenish, suggesting a menacing and inhuman demeanor.",
+      "assessment": "This portrayal suggests a threatening and frightening presence, which is inconsistent with warmth.",
+      "rating": -3,
+      "chunk": 55
     },
     {
-      "Action": "Introduces himself warmly to Scarlet, making a friendly connection by acknowledging her role and introducing his children.",
-      "Warmth": 1,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "No evidence of friendly or trustworthy behavior in this excerpt; instead, Don's actions cause fear and danger to others.",
+      "assessment": "The absence of any benevolent or protective behavior here further diminishes the perception of warmth.",
+      "rating": -2,
+      "chunk": 55
     },
     {
-      "Action": "Sits with Scarlet and Andy to keep them company, engaging socially.",
-      "Warmth": 1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Don lunges suddenly from behind Tammy, catching Doyle off guard and ripping the night scope from his eyes.",
+      "assessment": "This action shows Don's ability to use surprise and aggression effectively, indicating a certain level of tactical competence in close quarters.",
+      "rating": 2,
+      "chunk": 55
     },
     {
-      "Action": "Andy cautiously investigates noises in the house, hesitates before opening a door, showing cautious and tentative behavior.",
-      "Competence": 0,
-      "Chunk": 23
-    },
-    {
-      "Action": "Andy enters his bedroom, notes the unchanged state of the room, and prepares himself by putting on battered trainers, indicating readiness and practical awareness.",
-      "Competence": 1,
-      "Chunk": 23
-    },
-    {
-      "Action": "Lying on his back fixing a tangled mess of wiring behind the receptionist’s desk, showing practical problem-solving and technical skill.",
-      "Competence": 1,
-      "Chunk": 24
-    },
-    {
-      "Action": "Looks at his two kids in turn, seeming at a loss to act or respond effectively to their pleas.",
-      "Competence": -1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Moves quickly and decisively out of the lift into an empty car park and proceeds purposefully toward a service corridor.",
-      "Competence": 1,
-      "Chunk": 27
-    },
-    {
-      "Action": "No direct action or statement by Don Harris is present in this excerpt to evaluate competence.",
-      "Competence": 0,
-      "Chunk": 30
-    },
-    {
-      "Action": "No direct action or statement by Don Harris in this excerpt; only descriptions of others’ actions and chaos.",
-      "Warmth": 0,
-      "Chunk": 36
-    },
-    {
-      "Action": "Reassures Andy with 'It’s okay, Andy. It’s okay...'",
-      "Warmth": 1,
-      "Chunk": 38
-    },
-    {
-      "Action": "Expresses a desire to escape rather than wait for extermination ('I’m not going to sit around and wait to get “exterminated”. We’ve got to get out of here.')",
-      "Warmth": 1,
-      "Chunk": 38
-    },
-    {
-      "Action": "Seemingly accepting the harsh reality pragmatically ('Right now, it’s dark out there. The snipers can see you through infra-red scopes, but at least you have some limited cover from the infected.'), showing calm and protective approach",
-      "Warmth": 1,
-      "Chunk": 38
-    },
-    {
-      "Action": "Moves from point of cover to point of cover quickly and quietly, not delaying long, showing tactical awareness.",
-      "Competence": 1,
-      "Chunk": 39
-    },
-    {
-      "Action": "Responds immediately and quietly to the walkie-talkie radio call, adjusting volume and listening attentively.",
-      "Competence": 1,
-      "Chunk": 39
-    },
-    {
-      "Action": "Don is seen staring back toward his son, indicating concern and protective feelings.",
-      "Warmth": 1,
-      "Chunk": 43
-    },
-    {
-      "Action": "Don disappears before being targeted by Doyle with a rifle, showing he avoids conflict or harm to others.",
-      "Warmth": 0,
-      "Chunk": 43
-    },
-    {
-      "Action": "Does not appear in this excerpt; focus is on other characters (Doyle, Scarlet, Andy, Tamwy), no direct actions/statements from Don Harris.",
-      "Competence": 0,
-      "Chunk": 46
-    },
-    {
-      "Action": "Demanding the helicopter pilot to take them to France instead of the base despite the pilot's objections.",
-      "Competence": 1,
-      "Chunk": 48
-    },
-    {
-      "Action": "Fails to communicate or plan adequately with the helicopter pilot leading to conflict and danger.",
-      "Competence": -1,
-      "Chunk": 48
-    },
-    {
-      "Action": "Lunges aggressively at Doyle and Tammy, showing impulsive and violent behavior rather than controlled or skillful action.",
-      "Competence": -1,
-      "Chunk": 55
-    },
-    {
-      "Action": "Eyes wide and teeth bared in a greenish glow, suggesting a loss of rational control and presence of mind.",
-      "Competence": -1,
-      "Chunk": 55
-    },
-    {
-      "Action": "Don leaps on his son Andy in a violent and aggressive manner, biting him impulsively under the influence of infection.",
-      "Competence": -1,
-      "Chunk": 56
-    },
-    {
-      "Action": "Don momentarily freezes and recognizes his daughter Tammy, showing a trace of awareness despite his infected state.",
-      "Competence": 0,
-      "Chunk": 56
-    },
-    {
-      "Action": "Don attempts to rise and attack after hearing his daughter’s voice, displaying aggressive but mindless behavior.",
-      "Competence": -1,
-      "Chunk": 56
-    }
-  ],
-  "The protagonist of \"28 Weeks Later\" is Don Harris, portrayed by Robert Carlyle. ([en.wikipedia.org](https://en.wikipedia.org/wiki/28_Weeks_Later?utm_source=openai))": [
-    {
-      "Action": "Slams the door shut quickly and jams the bolts to secure the group from potential danger.",
-      "Competence": 1,
-      "Chunk": 4
-    },
-    {
-      "Action": "Engages cautiously with the boy and listens to important information about danger and infected presence.",
-      "Competence": 1,
-      "Chunk": 4
-    },
-    {
-      "Action": "Does not immediately notice Karen unbolting the window shutter, leading to the infected entering.",
-      "Competence": -1,
-      "Chunk": 4
-    },
-    {
-      "Action": "Quickly assesses the danger, heads to the boat with Jacob to escape the infected.",
-      "Competence": 1,
-      "Chunk": 7
-    },
-    {
-      "Action": "Manages to start the outboard motor under pressure despite losing balance.",
-      "Competence": 1,
-      "Chunk": 7
-    },
-    {
-      "Action": "Is unable to prevent Jacob from falling into the water and being infected.",
-      "Competence": -1,
-      "Chunk": 7
-    },
-    {
-      "Action": "Despite emotional distress, Don manages to power the boat away from danger effectively.",
-      "Competence": 1,
-      "Chunk": 7
-    },
-    {
-      "Action": "Shows visible emotional breakdown (tears, sobbing, raging) immediately after escaping.",
-      "Competence": 0,
-      "Chunk": 7
-    },
-    {
-      "Action": "Leads his kids through a chaotic environment confidently, acknowledging their curiosity with straightforward, gentle responses.",
-      "Warmth": 1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Engages humorously with his daughter by playfully confirming he is the janitor, creating a light-hearted moment.",
-      "Warmth": 1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Reassures his children about their new living situation honestly but sensitively, trying to prepare them for change while maintaining optimism.",
-      "Warmth": 1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Avoids giving detailed or overly optimistic promises about the future house, showing realistic but reserved communication.",
-      "Warmth": 0,
-      "Chunk": 12
-    },
-    {
-      "Action": "Calmly explains a traumatic event to his children with honesty and emotional control.",
-      "Competence": 1,
-      "Chunk": 13
-    },
-    {
-      "Action": "Attempts to rescue an infected family member despite high personal risk.",
-      "Competence": 1,
-      "Chunk": 13
-    },
-    {
-      "Action": "Breaks under emotional strain, resulting in abandoning Alice in the bathroom.",
-      "Competence": -1,
-      "Chunk": 13
-    },
-    {
-      "Action": "Manages to reach a military camp and integrates into the reconstruction effort, showing adaptability and resilience.",
-      "Competence": 1,
-      "Chunk": 13
-    },
-    {
-      "Action": "Shows a moment of hesitation and emotional difficulty telling the full truth, delaying communication with his children.",
-      "Competence": 0,
-      "Chunk": 13
-    },
-    {
-      "Action": "Shows awareness of the virus's potential to return, questioning military assurances and expressing concern about insufficient understanding.",
-      "Competence": 1,
-      "Chunk": 18
-    },
-    {
-      "Action": "Passively accepts military and political assertions without insisting on further investigation or action.",
-      "Competence": -1,
-      "Chunk": 18
-    },
-    {
-      "Action": "Demonstrates hesitation or reliance on authority figures who dismiss risks, indicating a possible lack of proactive problem-solving.",
-      "Competence": 0,
-      "Chunk": 18
-    },
-    {
-      "Action": "Absent from the immediate caring interaction between Andy and Tammy, no direct evidence of warmth shown in this excerpt.",
-      "Warmth": 0,
-      "Chunk": 19
-    },
-    {
-      "Action": "Expresses remorse repeatedly, apologizes to Alice, and shows emotional vulnerability by crying and sharing an intimate kiss.",
-      "Warmth": 1,
-      "Chunk": 29
-    },
-    {
-      "Action": "After infection takes hold, lunges at Alice with bared teeth in an aggressive manner.",
-      "Warmth": -1,
-      "Chunk": 29
-    },
-    {
-      "Action": "Does not appear in the excerpt; no direct action to assess competence.",
-      "Competence": 0,
-      "Chunk": 31
-    },
-    {
-      "Action": "Sneaks into medical center cautiously, showing concern for safety and vulnerability of others around him.",
-      "Warmth": 1,
-      "Chunk": 33
-    },
-    {
-      "Action": "Appears covered in blood and wide-eyed at the doorframe, suggesting possible threat or danger rather than warmth in this moment.",
-      "Warmth": -1,
-      "Chunk": 33
-    },
-    {
-      "Action": "Sneaks into the medical centre through a restricted access doorway, showing initiative and willingness to take risks to navigate dangerous environments.",
-      "Competence": 1,
-      "Chunk": 33
-    },
-    {
-      "Action": "Appears suddenly in a bloody state, suggesting possible recklessness or lack of control over circumstances.",
-      "Competence": -1,
-      "Chunk": 33
-    },
-    {
-      "Action": "Understands and communicates the urgency and severity of the outbreak situation, relaying accurate and critical information under pressure.",
-      "Competence": 1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Demonstrates decisive communication and coordination with allies to maximize chances of survival.",
-      "Competence": 1,
-      "Chunk": 40
-    },
-    {
-      "Action": "Disappears from sniper's view quickly when targeted, showing situational awareness and ability to evade danger.",
-      "Competence": 1,
-      "Chunk": 43
-    },
-    {
-      "Action": "Is observed frozen or staring without taking action when under threat, potentially indicating hesitation or uncertainty.",
-      "Competence": -1,
-      "Chunk": 43
-    },
-    {
-      "Action": "Observes the dangerous street situation silently without intervening or showing overt emotional response.",
-      "Warmth": 0,
-      "Chunk": 50
-    },
-    {
-      "Action": "Observes the dangerous situation calmly without panicking, indicating situational awareness.",
-      "Competence": 1,
-      "Chunk": 50
-    },
-    {
-      "Action": "Relies on others (Doyle and bio squads) to handle the critical threat instead of taking direct action or planning an escape, showing possible passivity or lack of initiative.",
-      "Competence": -1,
-      "Chunk": 50
-    },
-    {
-      "Action": "Uses night scope effectively to guide children safely through pitch black tunnels and stairs.",
-      "Competence": 1,
-      "Chunk": 54
-    },
-    {
-      "Action": "Stops and warns others upon seeing a serious threat (carpet of corpses) ahead, showing situational awareness.",
-      "Competence": 1,
-      "Chunk": 54
-    },
-    {
-      "Action": "Fails to immediately identify the severity of the threat despite clearly seeing the corpses, hesitating to provide information.",
-      "Competence": 0,
-      "Chunk": 54
-    }
-  ],
-  "The protagonist of \"28 Weeks Later\" is Don Harris, portrayed by Robert Carlyle. (https://en.wikipedia.org/wiki/28_Weeks_Later?utm_source=openai)": [
-    {
-      "Action": "Suggests taking initiative and not sitting around waiting to be exterminated, expressing a desire to get out of danger.",
-      "Competence": 1,
-      "Chunk": 38
-    },
-    {
-      "Action": "Does not attempt to assess all risks fully, e.g., the severe threat from snipers and infected outside, showing potential impulsiveness.",
-      "Competence": -1,
-      "Chunk": 38
-    }
-  ],
-  "The protagonist of \"28 Weeks Later\" is Don Harris, portrayed by Robert Carlyle. (https://en.wikipedia.org/wiki/28_Weeks_Later?utm_source=openai) ": [
-    {
-      "Action": "Does not appear directly in this excerpt, but surrounding characters (Scarlet, Doyle) show panicked or impaired reactions (Scarlet blinded by tear gas, crashes truck). No clear demonstration of competence from Don Harris in this text.",
-      "Competence": 0,
-      "Chunk": 52
+      "trait": "competence",
+      "action": "Don is revealed standing behind Tammy, eyes wide and teeth bared in a greenish glow, suggesting infection or transformation.",
+      "assessment": "This suggests Don is no longer fully in control of his faculties, which severely undermines his competence in the situation.",
+      "rating": -3,
+      "chunk": 55
     }
   ]
 }

@@ -1,839 +1,1677 @@
 {
   "Victor Frankenstein": [
     {
-      "Action": "Creates a homemade 3D movie featuring Sparky, involving family in the fun.",
-      "Warmth": 1,
-      "Chunk": 1
+      "trait": "warmth",
+      "action": "Creates a homemade 3D movie starring his dog Sparky and shares it with his parents, who watch it together with him.",
+      "assessment": "Victor's effort to create a charming, homemade movie featuring his beloved dog and involving his family shows thoughtfulness, creativity, and a desire to share joy with loved ones, indicating warmth.",
+      "rating": 2,
+      "chunk": 1
     },
     {
-      "Action": "Built a twin projector system himself to screen his homemade 3D movie.",
-      "Competence": 1,
-      "Chunk": 1
+      "trait": "warmth",
+      "action": "Encourages Sparky by saying 'Bravo!' after Sparky defeats the monster and the troops.",
+      "assessment": "Victor shows support and pride in Sparky's actions, indicating a positive and encouraging attitude toward his companion.",
+      "rating": 2,
+      "chunk": 2
     },
     {
-      "Action": "Created a charming and engaging homemade film that impresses his parents.",
-      "Competence": 1,
-      "Chunk": 1
+      "trait": "warmth",
+      "action": "Takes initiative to fix the broken projectors himself, saying 'I can fix this. C'mon boy!'",
+      "assessment": "Victor demonstrates responsibility and a proactive approach, inviting Sparky along, which shows companionship and care.",
+      "rating": 2,
+      "chunk": 2
     },
     {
-      "Action": "Encourages Sparky and praises him ('Bravo!' from Dad reflects Victor's success and positive relationship).",
-      "Warmth": 1,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Spends a lot of time alone in his attic workshop with Sparky, working on inventions and movie set pieces.",
+      "assessment": "While Victor is dedicated and focused, his isolation and lack of friends (other than Sparky) suggest limited social warmth or engagement with others.",
+      "rating": -1,
+      "chunk": 2
     },
     {
-      "Action": "Immediately offers to fix the problem with the projectors and involves Sparky ('I can fix this. C'mon boy!').",
-      "Warmth": 1,
-      "Chunk": 2
+      "trait": "competence",
+      "action": "Victor flicks on the light switch after the projectors jam and the power is cut.",
+      "assessment": "This shows Victor's quick response and presence of mind in a moment of technical failure, indicating a basic level of competence and confidence.",
+      "rating": 1,
+      "chunk": 2
     },
     {
-      "Action": "Spends time alone with Sparky in his attic workshop, showing devotion to his dog but possibly being socially isolated (others comment he has no friends).",
-      "Warmth": 0,
-      "Chunk": 2
+      "trait": "competence",
+      "action": "Victor lugs the two heavy projectors upstairs to his attic workshop.",
+      "assessment": "This demonstrates physical capability and determination to solve the problem himself, reflecting a proactive and capable attitude.",
+      "rating": 2,
+      "chunk": 2
     },
     {
-      "Action": "Plays gently with Sparky, responds with 'Easy boy' when dog is exuberant.",
-      "Warmth": 1,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Victor disassembles the projectors, nimbly swapping pieces in and out.",
+      "assessment": "This action strongly indicates technical skill, dexterity, and knowledge, highlighting Victor's competence in mechanical repair and problem-solving.",
+      "rating": 3,
+      "chunk": 2
     },
     {
-      "Action": "Greets neighbor politely with 'Good morning, Mr. Burgemeister!'",
-      "Warmth": 1,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Victor spends a lot of time alone in his attic workshop, focusing on his inventions and movie set pieces.",
+      "assessment": "While this shows dedication and focus, the social isolation hinted at by his parents may suggest a lack of social competence or balance, but does not directly detract from his technical competence.",
+      "rating": 0,
+      "chunk": 2
     },
     {
-      "Action": "Promises neighbor to keep an eye on Sparky after complaint about dog disturbing garden.",
-      "Warmth": 1,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "Victor gently tells Sparky 'Easy boy' when Sparky tries to lick his face to play.",
+      "assessment": "Victor's gentle tone towards Sparky shows a caring and affectionate attitude toward his pet, indicating warmth.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Encourages Sparky warmly, saying 'Go on Sparky. That's right. Good boy.' and waves goodbye.",
-      "Warmth": 1,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "Victor throws a ball for Sparky to play with in the backyard.",
+      "assessment": "Engaging Sparky in play demonstrates Victor's friendly and nurturing behavior toward his dog, a positive indicator of warmth.",
+      "rating": 3,
+      "chunk": 3
     },
     {
-      "Action": "Raises his hand to respond during the science lesson, showing engagement and understanding.",
-      "Competence": 1,
-      "Chunk": 5
+      "trait": "warmth",
+      "action": "Victor greets his neighbor Mr. Burgemeister with a polite 'Good morning'.",
+      "assessment": "Victor's polite greeting shows basic friendliness and social courtesy, a mild positive sign of warmth.",
+      "rating": 1,
+      "chunk": 3
     },
     {
-      "Action": "Calmly locks his bike, acknowledges Weird Girl's strange behavior with mild curiosity and casual conversation.",
-      "Competence": 1,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Victor responds to Mr. Burgemeister's complaint about Sparky sniffing and peeing in his garden by saying 'I'll keep an eye on him.'",
+      "assessment": "Victor acknowledges the neighbor's concerns and promises to monitor Sparky, showing responsibility and respect, which reflects warmth and trustworthiness.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Responds to Weird Girl's odd omen with humor rather than confusion or fear, indicating social and emotional confidence.",
-      "Competence": 1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Carries the projector up into his attic workshop filled with inventions and movie set pieces, then disassembles the projector and nimbly swaps pieces in and out.",
+      "assessment": "This action demonstrates technical skill, dexterity, and familiarity with complex equipment, indicating a high level of competence in his technical and mechanical abilities.",
+      "rating": 3,
+      "chunk": 3
     },
     {
-      "Action": "Rejects Weird Girl's offer to keep the 'V.' gesture and side-steps around her, heading into class without engaging.",
-      "Warmth": -1,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Finishes tinkering and successfully splices the broken film, then snaps the reel back on the projector and starts it again.",
+      "assessment": "This shows problem-solving ability and technical know-how, reflecting competence in repairing and operating machinery.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Greets Sparky warmly upon returning home, showing affection and care.",
-      "Warmth": 1,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Takes Sparky around to the side of the house and throws a ball for him, engaging in normal pet care and neighborly greetings.",
+      "assessment": "While this shows responsibility and social awareness, it is a routine action that does not strongly indicate exceptional competence.",
+      "rating": 0,
+      "chunk": 3
     },
     {
-      "Action": "Politely refuses Edgar's persistent offer to be his partner, asserting his preference to work alone despite Edgar's loneliness.",
-      "Warmth": 0,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Responds politely and calmly to the neighbor's complaint about Sparky sniffing around the garden and promises to keep an eye on him.",
+      "assessment": "This shows social tact and a willingness to take responsibility, but it is a minimal demonstration of competence rather than a strong indicator.",
+      "rating": 0,
+      "chunk": 3
     },
     {
-      "Action": "Holds up the permission slip and points out the prohibited projects, showing understanding of rules and limitations.",
-      "Competence": 1,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Victor acknowledges Burgemeister's warning with a calm 'Yes sir.' and continues to walk to the backyard without hesitation.",
+      "assessment": "This shows that Victor is respectful and composed in the presence of authority, indicating a level of social competence and confidence in handling potentially tense situations.",
+      "rating": 1,
+      "chunk": 4
     },
     {
-      "Action": "Decides to work alone for the science fair, indicating confidence in his own abilities.",
-      "Competence": 1,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Victor encourages Sparky to go into the backyard and waves goodbye confidently.",
+      "assessment": "This demonstrates Victor's ability to manage and control his dog calmly and confidently, reflecting responsible and capable behavior.",
+      "rating": 2,
+      "chunk": 4
     },
     {
-      "Action": "Does not immediately accept partnership despite social pressure, showing independent judgment.",
-      "Competence": 1,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Tells Weird Girl 'You can keep it' when she offers him the 'V' sign, then side-steps around her and heads into class.",
+      "assessment": "Victor's response is somewhat dismissive and avoids engagement, indicating a lack of warmth or friendliness in this interaction.",
+      "rating": -1,
+      "chunk": 8
     },
     {
-      "Action": "Gives in to Edgar's request for partnership despite his initial refusal.",
-      "Competence": 0,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Greets Sparky warmly with 'Hey boy. How you doing?' upon arriving home.",
+      "assessment": "This shows a friendly and affectionate attitude toward his pet, indicating warmth and sincerity.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Persistently asks Mom and Dad to sign his permission slip despite distractions.",
-      "Warmth": 1,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Rejects Edgar's request to be his science fair partner, stating he likes to work alone.",
+      "assessment": "Victor's refusal to partner with Edgar, who admits to having no friends, suggests a lack of tolerance and friendliness, reflecting low warmth.",
+      "rating": -2,
+      "chunk": 8
     },
     {
-      "Action": "Engages in the conversation with Dad about compromise and shows understanding of the concept.",
-      "Warmth": 1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Victor holds up the permission slip and points out that death rays are prohibited for the science fair project.",
+      "assessment": "This shows Victor's attentiveness to rules and his ability to use information to make informed decisions, indicating a level of intelligence and responsibility.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Asks his dad to sign the permission slip persistently despite distractions.",
-      "Competence": 1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Victor declines Edgar's insistence on being his partner, stating he prefers to work alone.",
+      "assessment": "This suggests confidence in his own abilities and independence, which can be a sign of competence; however, it may also indicate a reluctance to collaborate, which could limit his effectiveness in some contexts.",
+      "rating": 1,
+      "chunk": 8
     },
     {
-      "Action": "Understands and summarizes his dad's metaphor about compromise with 'Nobody gets what they want.'",
-      "Competence": 1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Victor side-steps Weird Girl and heads into class without engaging further.",
+      "assessment": "This non-action shows a degree of social detachment or avoidance, which might reflect a lack of social confidence or skill, potentially limiting his overall competence in interpersonal situations.",
+      "rating": -1,
+      "chunk": 8
     },
     {
-      "Action": "Ties Sparky up reluctantly and apologizes to him to focus on the game.",
-      "Warmth": 1,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Asks his mom to sign his permission slip persistently despite the ongoing dinner preparations.",
+      "assessment": "Victor's persistence in asking for the permission slip shows a straightforward and sincere approach, but it is neutral in warmth as it does not demonstrate particular friendliness or consideration.",
+      "rating": 0,
+      "chunk": 9
     },
     {
-      "Action": "Seems distracted and unable to focus on the baseball game, showing concern for Sparky instead.",
-      "Warmth": 1,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Listens attentively to his dad's explanation about compromise and meeting halfway.",
+      "assessment": "Victor's engagement in the conversation about compromise suggests openness and respect for others' perspectives, indicating a moderate level of warmth.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Tries to focus on the game despite distractions.",
-      "Competence": 1,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Acknowledges that 'Nobody gets what they want' during the discussion about compromise.",
+      "assessment": "This statement reflects a realistic and somewhat resigned view rather than a warm or optimistic one; it shows understanding but lacks a positive or friendly tone.",
+      "rating": 0,
+      "chunk": 9
     },
     {
-      "Action": "Misses the ball when swinging, showing lack of skill in baseball.",
-      "Competence": -1,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Is supported by Sparky at the baseball field, showing a social connection.",
+      "assessment": "While this shows Victor has a companion in Sparky, the excerpt does not provide evidence of Victor's own warmth in this interaction.",
+      "rating": 0,
+      "chunk": 9
     },
     {
-      "Action": "Ties Sparky up reluctantly to follow instructions, showing responsible behavior.",
-      "Competence": 1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Victor persistently asks his parents to sign his permission slip despite their distractions.",
+      "assessment": "This shows Victor's focus and determination to achieve his goal, indicating a degree of assertiveness and practical competence.",
+      "rating": 1,
+      "chunk": 9
     },
     {
-      "Action": "Appears unable to maintain concentration fully on the game, distracted by other thoughts.",
-      "Competence": -1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Victor correctly identifies his dad's profession as a travel agent.",
+      "assessment": "This demonstrates Victor's attentiveness and understanding of his environment, reflecting basic cognitive competence.",
+      "rating": 1,
+      "chunk": 9
     },
     {
-      "Action": "Shows deep sadness and grief over Sparky's accident and death, expresses sincere emotion.",
-      "Warmth": 1,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Victor succinctly summarizes the compromise metaphor by stating 'Nobody gets what they want.'",
+      "assessment": "This shows Victor's ability to grasp and critically evaluate complex ideas, indicating intellectual competence.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Focuses intently on the lost dog, suggesting attachment and caring.",
-      "Warmth": 1,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Victor does not interrupt or argue when his dad explains the compromise metaphor and the idea of balancing science fair and baseball.",
+      "assessment": "Victor's patience and willingness to listen suggest emotional intelligence and social competence, though it may also reflect passivity.",
+      "rating": 1,
+      "chunk": 9
     },
     {
-      "Action": "Tries repeatedly to hit the baseball, finally succeeds in hitting it.",
-      "Competence": 1,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Victor does not immediately respond or push further when his dad delays signing the permission slip.",
+      "assessment": "This could indicate a lack of assertiveness or confidence in advocating for himself, a slight negative indicator of competence.",
+      "rating": -1,
+      "chunk": 9
     },
     {
-      "Action": "Distracted and nearly forgets to run after hitting the ball without immediate reaction.",
-      "Competence": 0,
-      "Chunk": 11
+      "trait": "warmth",
+      "action": "Ties Sparky up during the baseball game after his dad insists, apologizing to Sparky by saying 'Sorry boy.'",
+      "assessment": "Victor shows a gentle and apologetic attitude toward Sparky, indicating care and affection despite having to restrain him, which reflects warmth.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Expresses clear emotional distress and grief over Sparky's accident and death, but does not take immediate action to prevent or respond effectively.",
-      "Competence": 0,
-      "Chunk": 11
+      "trait": "warmth",
+      "action": "Tries to focus on the baseball game and participate despite distractions and pressure from his dad.",
+      "assessment": "Victor's effort to engage in the game and respond to his dad's encouragement suggests a desire to connect and be part of the group, showing some social warmth.",
+      "rating": 1,
+      "chunk": 10
     },
     {
-      "Action": "Expresses deep grief and desire for Sparky to be physically present rather than just in memory.",
-      "Warmth": 1,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Victor tries to keep focused on the baseball game despite distractions and attempts to participate actively by swinging at the ball.",
+      "assessment": "This shows some effort and willingness to engage, but his repeated misses and difficulty concentrating suggest limited skill and focus in this context.",
+      "rating": 0,
+      "chunk": 10
     },
     {
-      "Action": "Smiles briefly at the Sparky-saurus attacking the Pterodactyl in the projector, showing affection and fondness.",
-      "Warmth": 1,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Victor takes Sparky to the bleachers and ties him up when asked to do so by his dad and the gym teacher.",
+      "assessment": "This action indicates that Victor is capable of following instructions and managing responsibilities, showing a degree of practical competence and obedience.",
+      "rating": 1,
+      "chunk": 10
     },
     {
-      "Action": "Struggles to concentrate in class because of sadness over Sparky, doodling pictures of him.",
-      "Warmth": 1,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Victor recalls the wise words of Mr. Rzykruski during the game.",
+      "assessment": "This suggests that Victor is reflective and able to draw on past advice to improve his focus and performance, indicating intellectual competence and self-awareness.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Works quietly and skillfully in his attic workshop to finish setting up his projector and prepare for his experiment.",
-      "Competence": 1,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Victor is cheered on by his family and friends during the baseball game, showing he is part of a supportive social circle.",
+      "assessment": "Victor's engagement with others in a friendly, communal activity suggests he is socially connected and likely friendly, though this is more about others' warmth toward him than his own actions.",
+      "rating": 1,
+      "chunk": 11
     },
     {
-      "Action": "Is consumed by sadness and unable to concentrate in class, doodling instead of paying attention to the lesson.",
-      "Competence": -1,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Victor shows deep emotional distress and calls out for Sparky after the dog is hit by a car.",
+      "assessment": "Victor's strong emotional reaction to Sparky's injury shows his sincere affection and attachment, indicating warmth in his capacity for love and care.",
+      "rating": 3,
+      "chunk": 11
     },
     {
-      "Action": "Looks back and forth between Mr. Ryzkruski's demonstration and his doodle of Sparky, gets an idea and immediately runs home to try to revive Sparky.",
-      "Warmth": 1,
-      "Chunk": 13
+      "trait": "warmth",
+      "action": "Victor quietly grieves at Sparky's burial, with his parents giving him space to mourn.",
+      "assessment": "Victor's grief and the respectful way he is allowed to mourn suggest he is sensitive and capable of deep emotional bonds, reflecting warmth.",
+      "rating": 3,
+      "chunk": 11
     },
     {
-      "Action": "Digs up Sparky's grave quietly, trying not to be noticed.",
-      "Warmth": 1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Continues to try hitting the baseball despite missing multiple times.",
+      "assessment": "This persistence shows determination and willingness to improve, indicating a positive aspect of competence related to perseverance and learning.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Waves off a black cat that screeches nearby while digging the grave, showing focus and determination.",
-      "Warmth": 0,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Hits the baseball successfully after multiple attempts.",
+      "assessment": "Successfully hitting the ball after repeated failure demonstrates developing skill and coordination, reflecting growing competence.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Raids the kitchen for household appliances without informing his mother, who barely registers what he is doing.",
-      "Warmth": 0,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Almost forgets to run after hitting the ball until Sparky barks at him.",
+      "assessment": "This momentary lapse suggests a lack of situational awareness or focus, indicating a minor shortcoming in competence.",
+      "rating": -1,
+      "chunk": 11
     },
     {
-      "Action": "Sneaks around carrying Sparky's wrapped corpse, accidentally causing a lamp to flicker.",
-      "Warmth": 1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Shows visible devastation and grief after Sparky is hit by a car.",
+      "assessment": "While this emotional response is understandable and humanizing, it does not directly reflect competence; however, no action is taken to prevent or respond effectively to the accident, which may imply a lack of preparedness or control.",
+      "rating": -1,
+      "chunk": 11
     },
     {
-      "Action": "Pets Sparky's lifeless form one last time for courage.",
-      "Warmth": 1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Passively watches as Sparky is buried without taking any active role.",
+      "assessment": "This omission may reflect emotional overwhelm, but also suggests a lack of agency or initiative in dealing with difficult situations, indicating a negative aspect of competence.",
+      "rating": -1,
+      "chunk": 11
     },
     {
-      "Action": "Sneaks behind parents hiding with corpse but does not alert or involve them.",
-      "Warmth": 0,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "Victor expresses that he doesn't want Sparky just in his heart, but wants him here with him.",
+      "assessment": "Victor's statement reveals his deep emotional attachment and sincere love for Sparky, showing his capacity for strong affectionate bonds.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Uses household items including Mom's belongings respectfully in experiment.",
-      "Warmth": 0,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "Victor smiles briefly while watching Sparky-saurus attack the Pterodactyl on the projector, then his sadness returns.",
+      "assessment": "The brief smile indicates Victor's fondness and warmth toward Sparky, though his sadness suggests he is struggling emotionally, reflecting genuine feelings rather than cold detachment.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Carefully makes repairs to Sparky’s corpse using available materials, demonstrating resourcefulness and manual skill.",
-      "Competence": 1,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "Victor is despondent and unable to concentrate at school, doodling pictures of Sparky.",
+      "assessment": "Victor's preoccupation with Sparky shows his sincere attachment and emotional vulnerability, indicating warmth through his mourning and remembrance.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Innovatively repurposes household items into an elaborate electrical apparatus, showing creativity and technical knowledge.",
-      "Competence": 1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Victor is finishing work on his projector in his attic workshop and successfully threads the film and starts it playing.",
+      "assessment": "This action shows that Victor possesses technical skill and focus to complete a mechanical task, indicating a level of competence in handling equipment and projects.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Checks wind direction and adjusts equipment accordingly when setting up the conductor on the roof, indicating thoughtful planning and attention to detail.",
-      "Competence": 1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Victor lies in bed staring at the ceiling, unable to sleep, overwhelmed by grief over Sparky's death.",
+      "assessment": "This indicates emotional distress that impairs his ability to rest and recover, suggesting a temporary lapse in emotional resilience which can affect overall competence.",
+      "rating": -1,
+      "chunk": 12
     },
     {
-      "Action": "Hesitates and freezes hiding from Dad, suggesting a lack of confidence or decisiveness in social situations.",
-      "Competence": -1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "At school, Victor is despondent, unable to concentrate, doodling pictures of Sparky and barely listening to the lecture.",
+      "assessment": "This shows a lack of focus and engagement in academic settings due to emotional distraction, reflecting a diminished capacity to perform competently in this context.",
+      "rating": -2,
+      "chunk": 12
     },
     {
-      "Action": "Lays his head down on the workbench, letting out exhausted, sniffly tears and says 'I'm sorry, boy.'",
-      "Warmth": 1,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Runs home excitedly after seeing the frog leg jump in Mr. Rzykruski's demonstration, inspired to try to bring Sparky back to life.",
+      "assessment": "Victor's excitement and determination to revive Sparky shows a deep affection and attachment to his pet, indicating warmth through his caring nature.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Laughs off Sparky knocking him to the ground and says 'I can fix that.'",
-      "Warmth": 1,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Quietly digs up Sparky's grave at night, trying to be discreet so as not to disturb others.",
+      "assessment": "Victor's careful and quiet behavior suggests respect for others and a sincere, gentle approach to his goal, reflecting warmth and consideration.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Plays joyfully with Sparky on the attic floor, expressing excitement to be reunited.",
-      "Warmth": 1,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Mom barely registers Victor's actions as he raids the kitchen for appliances, and Victor responds with a simple 'Ok' when asked about school.",
+      "assessment": "Victor's minimal interaction with his mother here shows a lack of open communication or warmth in family relations at this moment, indicating some emotional distance.",
+      "rating": -1,
+      "chunk": 13
     },
     {
-      "Action": "Sleeps on the floor sharing a blanket with Sparky.",
-      "Warmth": 1,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Waves off a black cat that screeches nearby while digging up Sparky's grave.",
+      "assessment": "Victor's reaction to the cat is neutral and practical, showing no hostility or friendliness; this is a neutral indicator of warmth.",
+      "rating": 0,
+      "chunk": 13
     },
     {
-      "Action": "Carefully sets up an elaborate scientific experiment involving electrical equipment and a metal table to bring Sparky back to life.",
-      "Competence": 1,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Victor observes Mr. Ryzkruski's demonstration of electrical stimulation on a frog and immediately gets an idea to apply this to Sparky.",
+      "assessment": "This shows Victor's ability to learn from observation and connect scientific principles to his own goals, indicating intellectual curiosity and quick thinking.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Systematically observes the storm and waits patiently for the lightning strike to power his experiment.",
-      "Competence": 1,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Victor bursts out of school and runs home to gather tools, gear, and household appliances to attempt his experiment.",
+      "assessment": "This action demonstrates decisiveness, resourcefulness, and planning, as he quickly mobilizes the necessary materials for his project.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Uses protective goggles and a stethoscope to monitor Sparky's condition after the experiment, showing preparedness and scientific method.",
-      "Competence": 1,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Victor digs up Sparky's grave quietly at night, despite the physical difficulty and the risk of being caught.",
+      "assessment": "This shows determination, physical endurance, and a willingness to take risks to achieve his goal, reflecting a competent and committed mindset.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Continues to check Sparky's vitals even after initial failure, demonstrating persistence and attentiveness.",
-      "Competence": 1,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Victor inadvertently knocks into a lamp causing it to flicker while sneaking behind his parents.",
+      "assessment": "This suggests a lack of stealth and situational awareness in this moment, indicating a minor lapse in competence related to careful execution.",
+      "rating": -1,
+      "chunk": 13
     },
     {
-      "Action": "Initially accepts the apparent failure of the experiment and shows emotional vulnerability through tears.",
-      "Competence": 0,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Victor's mother barely registers his gathering of appliances and tools, indicating he acts without drawing attention.",
+      "assessment": "This implies Victor is capable of acting discreetly in his environment, which supports his competence in managing his secretive project.",
+      "rating": 1,
+      "chunk": 13
     },
     {
-      "Action": "Reacting with surprise and joy when Sparky unexpectedly revives, showing some emotional impulsivity but genuine care.",
-      "Competence": 0,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Pets Sparky's lifeless form one last time for courage before attempting to bring him back to life.",
+      "assessment": "This action shows Victor's affection and sincere care for Sparky, indicating a warm and tender side despite the macabre nature of the experiment.",
+      "rating": 3,
+      "chunk": 14
     },
     {
-      "Action": "Quickly reassures Sparky when the dog shows signs of uncontrolled excitement, indicating problem-solving and confidence.",
-      "Competence": 1,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Secretly works through the night to repair Sparky's corpse and bring him back to life.",
+      "assessment": "Victor's dedication to Sparky suggests loyalty and a strong emotional bond, reflecting warmth through his commitment to his pet.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Protects Sparky from being discovered by his mom, hides him behind a curtain and under a bucket.",
-      "Warmth": 1,
-      "Chunk": 16
+      "trait": "warmth",
+      "action": "Hides from his parents while carrying Sparky's wrapped corpse.",
+      "assessment": "Victor's secrecy may indicate a lack of openness or trust with his family, which could reflect a more reserved or isolated nature, somewhat limiting warmth in interpersonal relations.",
+      "rating": -1,
+      "chunk": 14
     },
     {
-      "Action": "Explains to his mom that Sparky is a science project robot to avoid suspicion.",
-      "Warmth": 0,
-      "Chunk": 16
+      "trait": "warmth",
+      "action": "Uses household items and repurposes them creatively to build his apparatus.",
+      "assessment": "This shows resourcefulness and a hopeful, positive attitude, but does not directly indicate warmth toward others.",
+      "rating": 0,
+      "chunk": 14
     },
     {
-      "Action": "Tells Sparky he can't let anyone know about him and makes him stay hidden all day.",
-      "Warmth": 0,
-      "Chunk": 16
+      "trait": "competence",
+      "action": "Carefully sneaks past his parents while carrying Sparky's wrapped corpse, hiding and freezing when necessary.",
+      "assessment": "This shows Victor's awareness, stealth, and ability to avoid detection, indicating situational competence and caution.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Shows nervousness about leaving Sparky alone, indicating concern but possible lack of confidence in leaving his creation unattended.",
-      "Competence": 0,
-      "Chunk": 17
+      "trait": "competence",
+      "action": "Makes precise repairs to Sparky's corpse using tools and hardware, including threading a needle and selecting appropriate bolts.",
+      "assessment": "This demonstrates technical skill, dexterity, and knowledge of mechanical repair, reflecting a high level of competence in his craft.",
+      "rating": 3,
+      "chunk": 14
     },
     {
-      "Action": "Apologizes immediately and respectfully when Burgemeister admonishes him for stepping off the sidewalk and near tulips, demonstrating social awareness and self-control.",
-      "Competence": 1,
-      "Chunk": 17
+      "trait": "competence",
+      "action": "Constructs an elaborate apparatus from repurposed household items (colanders, pans, fish tank, Christmas reindeer) and sets up pulleys and a metal swing set on the roof to conduct his experiment.",
+      "assessment": "This indicates creativity, resourcefulness, and engineering skill, showing Victor's ability to innovate and adapt materials for complex scientific purposes.",
+      "rating": 3,
+      "chunk": 14
     },
     {
-      "Action": "Reanimates Sparky successfully, demonstrating scientific skill and confidence.",
-      "Competence": 1,
-      "Chunk": 18
+      "trait": "competence",
+      "action": "Checks wind direction and uses balloons attached to an umbrella as a conductor for his experiment.",
+      "assessment": "This shows careful planning, environmental awareness, and thoughtful application of scientific principles, reflecting intelligent and confident behavior.",
+      "rating": 3,
+      "chunk": 14
     },
     {
-      "Action": "Fails to foresee or control side effects of Sparky’s reanimation, such as Sparky swallowing a fly and causing neighborhood disturbances.",
-      "Competence": -1,
-      "Chunk": 18
+      "trait": "competence",
+      "action": "Starts the Schwinn bicycle wheels spinning to power the apparatus and hoists Sparky up through the skylight during a storm.",
+      "assessment": "This action demonstrates coordination, timing, and the ability to operate complex machinery under pressure, indicating strong competence.",
+      "rating": 3,
+      "chunk": 14
     },
     {
-      "Action": "Shows persistence in experimentation and belief in his work despite social misunderstandings.",
-      "Competence": 1,
-      "Chunk": 18
+      "trait": "competence",
+      "action": "Pauses to pet Sparky's lifeless form for courage before initiating the experiment.",
+      "assessment": "While this shows emotional vulnerability, it also reflects self-awareness and mental preparation, which can be seen as a positive internal behavior supporting competence.",
+      "rating": 1,
+      "chunk": 14
     },
     {
-      "Action": "Does not intervene quickly to prevent Sparky’s chaotic chase and damage, indicating some lack of control over outcomes.",
-      "Competence": -1,
-      "Chunk": 18
+      "trait": "warmth",
+      "action": "Victor lays his head down on the workbench, letting out exhausted, sniffly tears and says, 'I'm sorry, boy.'",
+      "assessment": "Victor's expression of sorrow and apology toward Sparky shows genuine care, empathy, and emotional connection, indicating warmth.",
+      "rating": 3,
+      "chunk": 15
     },
     {
-      "Action": "Revives Sparky, showing care and attachment to his pet dog.",
-      "Warmth": 1,
-      "Chunk": 19
+      "trait": "warmth",
+      "action": "Victor celebrates Sparky's revival enthusiastically, laughing and playing with him on the attic floor.",
+      "assessment": "Victor's joyful and playful interaction with Sparky demonstrates friendliness, affection, and sincere happiness, all positive indicators of warmth.",
+      "rating": 3,
+      "chunk": 15
     },
     {
-      "Action": "Hatches a plan to interact with Sparky after seeing his seemingly impossible survival.",
-      "Warmth": 1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Victor sets up an elaborate apparatus to revive Sparky, including hoisting him up through the sky light and using the storm's lightning to power the process.",
+      "assessment": "This demonstrates Victor's technical skill, planning, and understanding of electricity and mechanics, indicating a high level of competence in his scientific endeavors.",
+      "rating": 3,
+      "chunk": 15
     },
     {
-      "Action": "Indirectly causes Sparky to become an object of neighborhood fear and suspicion due to the power surges and unusual events around his house.",
-      "Competence": -1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "After the initial failure to detect Sparky's heartbeat, Victor persistently checks for signs of life and does not give up immediately.",
+      "assessment": "This persistence and careful observation show patience and dedication, traits associated with competence, though the initial failure suggests some limitations.",
+      "rating": 1,
+      "chunk": 15
     },
     {
-      "Action": "Successfully reanimates Sparky, demonstrating significant scientific skill and knowledge.",
-      "Competence": 1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Victor quickly removes his goggles and springs into action as soon as the lightning strikes, cranking down the metal table to check the results.",
+      "assessment": "This quick, confident response indicates readiness and decisiveness, reflecting competence in managing his experiment.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Kneels down and pets Sparky lovingly after finding him",
-      "Warmth": 1,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Victor laughs off Sparky's overly enthusiastic behavior and calmly says, 'I can fix that,' showing an ability to handle unexpected situations with composure.",
+      "assessment": "This shows adaptability and confidence in problem-solving, positive indicators of competence.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Expresses concern for Sparky’s well-being, asks if he is ok and hungry",
-      "Warmth": 1,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Victor lays his head down and cries when Sparky initially appears lifeless.",
+      "assessment": "While this shows emotional vulnerability, it also reflects a momentary loss of composure, which can be seen as a slight dip in professional confidence, though understandable given the circumstances.",
+      "rating": -1,
+      "chunk": 15
     },
     {
-      "Action": "Runs an extension cord to Sparky to help him feel better",
-      "Warmth": 1,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Victor wakes up to Sparky licking his face and responds by rubbing his eyes and interacting gently with Sparky.",
+      "assessment": "Victor shows affection and a gentle bond with Sparky, indicating warmth and care toward his pet.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Heads upstairs quickly without chatting with his mom, responding briefly and abruptly",
-      "Warmth": -1,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Victor hides Sparky from his mom by putting a bucket over him and inventing a story about a robotic bucket to keep Sparky secret.",
+      "assessment": "Victor's protective behavior toward Sparky shows his loyalty and concern, but the need to hide Sparky suggests a lack of openness and trust with his mother, which slightly limits warmth expression.",
+      "rating": 1,
+      "chunk": 16
     },
     {
-      "Action": "Quickly notices Sparky is missing in the attic and actively searches for him, showing situational awareness and care.",
-      "Competence": 1,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Victor apologizes to Sparky for having to keep him hidden and kisses him before leaving the attic.",
+      "assessment": "Victor's apology and kiss demonstrate sincere affection and regret, reflecting a warm and caring nature toward Sparky.",
+      "rating": 3,
+      "chunk": 16
     },
     {
-      "Action": "Attaches the extension cord to Sparky's bolts to recharge him when he appears low on energy, demonstrating technical skill and problem-solving.",
-      "Competence": 1,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Victor chooses to keep Sparky hidden all day to protect him from misunderstanding.",
+      "assessment": "While protective, Victor's decision to isolate Sparky may indicate a lack of trust or openness with others, which can be seen as a limitation in warmth toward his social environment.",
+      "rating": 0,
+      "chunk": 16
     },
     {
-      "Action": "Shows slight panic when Sparky initially doesn't respond, indicating some emotional vulnerability but does not freeze or give up.",
-      "Competence": 0,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Hides Sparky behind a curtain and then under a tin bucket when his mom comes looking for him.",
+      "assessment": "This action shows quick thinking and resourcefulness in an unexpected situation, indicating a moderate level of competence in problem-solving and secrecy.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Responds to a call from his mom immediately, switching off the power source quickly without hesitation, showing the ability to multitask responsibly.",
-      "Competence": 1,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Invents a plausible explanation for the moving bucket by calling it a 'robotic bucket' science project.",
+      "assessment": "Victor demonstrates creativity and the ability to improvise a believable cover story on the spot, reflecting intelligence and social awareness.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Reluctantly agrees to show Edgar his experiment rather than outright rejecting him or getting angry.",
-      "Warmth": 1,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Keeps Sparky hidden and insists he must stay hidden because others may not understand.",
+      "assessment": "Victor shows foresight and caution, understanding the potential consequences of revealing Sparky, which suggests maturity and strategic thinking.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Shushes Edgar to keep the secret from his mother, showing consideration for others.",
-      "Warmth": 1,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Panics when he hears his mom coming up the stairs.",
+      "assessment": "The panic indicates a momentary lapse in composure, which slightly detracts from his overall competence, though it is understandable given the circumstances.",
+      "rating": -1,
+      "chunk": 16
     },
     {
-      "Action": "Stalls and tries to think of an explanation when confronted, indicating caution but not hostility.",
-      "Warmth": 0,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Quickly recovers from panic and manages to hide Sparky successfully.",
+      "assessment": "Despite initial panic, Victor's ability to regain control and act effectively shows resilience and adaptability.",
+      "rating": 1,
+      "chunk": 16
     },
     {
-      "Action": "Refuses to let Edgar perform the experiment, insisting it is personal and not a game.",
-      "Warmth": 0,
-      "Chunk": 21
+      "trait": "warmth",
+      "action": "Victor kisses Sparky goodbye before leaving him alone in the attic, showing concern for his pet's well-being.",
+      "assessment": "Kissing Sparky and feeling nervous about leaving him alone indicates Victor's affectionate and caring nature toward his dog.",
+      "rating": 2,
+      "chunk": 17
     },
     {
-      "Action": "Constructs a device and uses a storm and lightning rod to attempt to revive a dead fish, showing initiative and mechanical skill.",
-      "Competence": 1,
-      "Chunk": 22
+      "trait": "warmth",
+      "action": "Victor apologizes sincerely to Burgemeister after almost stepping on his tulips.",
+      "assessment": "Victor's immediate apology shows politeness and respect for others' property, reflecting a considerate and trustworthy attitude.",
+      "rating": 2,
+      "chunk": 17
     },
     {
-      "Action": "Does not understand or cannot explain why the fish turned invisible after revival.",
-      "Competence": -1,
-      "Chunk": 22
+      "trait": "warmth",
+      "action": "Victor walks to school looking nervous about leaving Sparky alone.",
+      "assessment": "His nervousness about Sparky's safety suggests a protective and caring disposition, which is a positive indicator of warmth.",
+      "rating": 2,
+      "chunk": 17
     },
     {
-      "Action": "Leans in and explores the unexpected result with curiosity and uses a specialized flashlight to observe the invisible fish skeleton.",
-      "Competence": 1,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Victor kisses Sparky and heads out of the attic, leaving Sparky alone despite his nervousness about it.",
+      "assessment": "Victor shows some confidence in leaving Sparky alone, but his nervousness suggests a lack of full assurance in his decision, indicating moderate competence with some hesitation.",
+      "rating": 1,
+      "chunk": 17
     },
     {
-      "Action": "Expresses uncertainty and admits not knowing what happened, indicating a possible gap in knowledge or experiment control.",
-      "Competence": -1,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Victor walks down the sidewalk to school but almost steps off the sidewalk and nearly damages Burgemeister's tulips.",
+      "assessment": "This momentary lack of attention and spatial awareness suggests a slight lapse in situational awareness, reflecting a minor dip in competence.",
+      "rating": -1,
+      "chunk": 17
     },
     {
-      "Action": "Asks E to promise not to tell anyone until they figure out the secret, showing trust and protective concern.",
-      "Warmth": 1,
-      "Chunk": 23
+      "trait": "competence",
+      "action": "Victor immediately apologizes sincerely to Burgemeister after almost damaging the tulips.",
+      "assessment": "His quick and polite response shows social awareness and responsibility, indicating a competent and respectful demeanor.",
+      "rating": 2,
+      "chunk": 17
     },
     {
-      "Action": "Tries to quiet Sparky and ties him up to prevent others from seeing him again.",
-      "Warmth": 0,
-      "Chunk": 24
+      "trait": "competence",
+      "action": "Victor does not intervene or check on Sparky after Sparky falls through the window and slides down the roof.",
+      "assessment": "Victor's omission to ensure Sparky's safety after a dangerous fall suggests a lack of attentiveness or decisiveness in a critical moment, indicating lower competence in care and vigilance.",
+      "rating": -2,
+      "chunk": 17
     },
     {
-      "Action": "Tries to quiet Sparky and ties him up to prevent anyone from seeing him again, indicating caution and control.",
-      "Competence": 1,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Allows Sparky to chase the cat through neighbors' yards, resulting in destruction of flowers and garden decorations.",
+      "assessment": "Victor does not intervene to prevent Sparky from causing damage or distress to neighbors, indicating a lack of consideration for others' property and feelings.",
+      "rating": -2,
+      "chunk": 18
     },
     {
-      "Action": "Does not engage with Sparky’s emotions beyond quieting him, potentially showing a lack of emotional intelligence or empathy impacting his handling of the situation.",
-      "Competence": 0,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Does not react or take responsibility when Sparky's actions cause fear and alarm to Bob's mother.",
+      "assessment": "Victor's omission to calm or explain the situation to Bob's mother shows a lack of empathy and social responsibility, reducing perceived warmth.",
+      "rating": -2,
+      "chunk": 18
     },
     {
-      "Action": "Ponders E's missing fish seriously and runs back to check on Sparky immediately.",
-      "Warmth": 1,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Victor reanimates Sparky, bringing him back to life with electrical power.",
+      "assessment": "Although not directly shown in this excerpt, the context implies Victor's scientific skill and intelligence in successfully reanimating Sparky, demonstrating high competence in his experimental abilities.",
+      "rating": 3,
+      "chunk": 18
     },
     {
-      "Action": "Ponders the possibilities about the missing fish before reacting.",
-      "Competence": 1,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Victor does not intervene or control Sparky's chaotic chase through neighbors' yards, resulting in property damage and alarm.",
+      "assessment": "Victor's failure to manage or anticipate the consequences of his experiment's effects suggests a lack of foresight and control, indicating a moderate lack of competence in practical responsibility.",
+      "rating": -1,
+      "chunk": 18
     },
     {
-      "Action": "Suddenly panicked, runs back to his house to investigate the missing dog.",
-      "Competence": 0,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Victor remains largely absent or passive during Sparky's misadventures, with no indication of corrective action or problem-solving.",
+      "assessment": "This omission reflects a lack of active management or confidence in handling the outcomes of his creation, which detracts from his overall competence.",
+      "rating": -2,
+      "chunk": 18
     },
     {
-      "Action": "Checks immediately the place where he last left Sparky after noticing the dog is missing.",
-      "Competence": 1,
-      "Chunk": 25
+      "trait": "warmth",
+      "action": "Brings Sparky back to life, allowing him to interact with others again, including Persephone.",
+      "assessment": "Reviving Sparky shows Victor's deep affection and care for his pet, indicating a sincere and warm attachment.",
+      "rating": 2,
+      "chunk": 19
     },
     {
-      "Action": "Rushed over to Sparky immediately when he thought something was wrong, showing concern.",
-      "Warmth": 1,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Sparky hides and is frightened by neighbors' reactions, but Victor does not intervene or protect Sparky from social rejection or fear.",
+      "assessment": "Victor's omission to shield Sparky from negative social reactions suggests a lack of proactive warmth or tolerance toward others' feelings and social challenges Sparky faces.",
+      "rating": -1,
+      "chunk": 19
     },
     {
-      "Action": "Reassured Sparky that he could fix his ear, demonstrating care and comfort.",
-      "Warmth": 1,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Kneels down and pets Sparky lovingly after finding him in the attic.",
+      "assessment": "Victor shows genuine affection and concern for Sparky, indicating a caring and warm attitude toward his pet.",
+      "rating": 3,
+      "chunk": 20
     },
     {
-      "Action": "Gently patted Sparky's head and said good night, showing tenderness and affection.",
-      "Warmth": 1,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Expresses concern about Sparky being alone all day and checks if he is hungry or unwell.",
+      "assessment": "Victor demonstrates attentiveness and empathy toward Sparky's wellbeing, reflecting warmth and responsibility.",
+      "rating": 3,
+      "chunk": 20
     },
     {
-      "Action": "Recognizes Sparky's ear has fallen off and confidently states he can fix it.",
-      "Competence": 1,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Runs an extension cord to Sparky to 'top him up' and revive his energy.",
+      "assessment": "Victor takes active steps to care for Sparky's needs, showing nurturing behavior and kindness.",
+      "rating": 3,
+      "chunk": 20
     },
     {
-      "Action": "Quickly checks on Sparky and gently pats his head before going to sleep, indicating calm, attentive behavior.",
-      "Competence": 1,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Responds briefly and somewhat abruptly to his mother when she asks how school was, saying 'GoodGottaGo' and quickly leaving.",
+      "assessment": "Victor's rushed and curt response suggests a momentary lack of warmth or engagement with his mother, indicating some social withdrawal or distraction.",
+      "rating": -1,
+      "chunk": 20
     },
     {
-      "Action": "Expresses distress (gasping) upon noticing Sparky missing but immediately finds him unharmed.",
-      "Competence": 0,
-      "Chunk": 26
+      "trait": "competence",
+      "action": "Victor calmly checks the attic workshop for Sparky, calling out and looking behind the curtain.",
+      "assessment": "This shows Victor's methodical and attentive approach to finding Sparky, indicating a reasonable level of situational awareness and care.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Covers Sparky's mouth to prevent barking and talk quietly to avoid detection, showing consideration.",
-      "Warmth": 1,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Victor quickly reacts to Sparky's low energy by running an extension cord and recharging him via the bolts on his neck.",
+      "assessment": "This demonstrates Victor's technical skill and knowledge about Sparky's condition, as well as his ability to act promptly and effectively to solve a problem.",
+      "rating": 3,
+      "chunk": 20
     },
     {
-      "Action": "Greets Elsa politely and compliments her song practice.",
-      "Warmth": 1,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Victor shows slight panic when Sparky does not immediately respond to his calls.",
+      "assessment": "The brief panic suggests some emotional vulnerability or lack of complete confidence in the situation, though it is understandable given his concern for Sparky.",
+      "rating": 0,
+      "chunk": 20
     },
     {
-      "Action": "Pretends to bark and howl to connect playfully with Elsa.",
-      "Warmth": 1,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Victor quickly obeys his mother's call and switches off the plug before heading downstairs.",
+      "assessment": "This indicates a capacity to multitask and respond to social cues, but also a possible interruption in his focus on Sparky, which could be seen as a minor distraction.",
+      "rating": 1,
+      "chunk": 20
     },
     {
-      "Action": "Does not invite Elsa over or engage more deeply.",
-      "Warmth": 0,
-      "Chunk": 29
+      "trait": "warmth",
+      "action": "Reluctantly agrees to show Edgar how he brought his dog back to life, despite wanting to keep it a secret.",
+      "assessment": "Victor's decision to share his secret with Edgar, even though he is hesitant, shows a degree of trust and willingness to connect, indicating some warmth.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Carefully tries to keep Sparky from barking and revealing himself to Elsa, covering Sparky's mouth and mimicking a bark to avoid detection.",
-      "Competence": 1,
-      "Chunk": 29
+      "trait": "warmth",
+      "action": "Shushes Edgar when Mom returns to avoid revealing the secret.",
+      "assessment": "Victor's protective behavior suggests he is considerate of his mother's feelings and the consequences of revealing the secret, reflecting responsibility and sincerity.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Struggles to fully control Sparky, who manages to break free momentarily and howl.",
-      "Competence": -1,
-      "Chunk": 29
+      "trait": "warmth",
+      "action": "Explains his scientific findings patiently to Edgar in the attic workshop.",
+      "assessment": "Taking time to explain complex ideas to a friend shows patience and a friendly, inclusive attitude, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Races up to Mr. Rzykruski to express disbelief and concern about the gym teacher judging the science fair, showing loyalty and respect for his science teacher.",
-      "Warmth": 1,
-      "Chunk": 30
+      "trait": "warmth",
+      "action": "Initially tries to deny or avoid acknowledging that his dog is alive.",
+      "assessment": "Victor's denial may reflect fear or shame rather than coldness, but it also shows reluctance to share or be open, which can be seen as a mild negative indicator of warmth.",
+      "rating": -1,
+      "chunk": 21
     },
     {
-      "Action": "Dismisses scientists by saying 'Nobody likes scientists,' which suggests insecurity or negativity towards his own identity.",
-      "Warmth": -1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Victor quickly switches off the plug and heads downstairs upon hearing a noise.",
+      "assessment": "This shows Victor's alertness and quick reaction to unexpected events, indicating situational awareness and decisiveness.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Questions the change of science teacher and expresses concern about the science fair judging.",
-      "Competence": 1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Victor is initially confused and tries to understand what Edgar knows about his secret.",
+      "assessment": "Victor's attempts to clarify the situation demonstrate his cautiousness and intelligence in handling sensitive information, though he appears somewhat flustered.",
+      "rating": 1,
+      "chunk": 21
     },
     {
-      "Action": "Looks out the window distractedly as the teacher packs up, indicating possible disengagement.",
-      "Competence": 0,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Victor stalls and tries to think of an explanation when Edgar threatens to reveal his secret.",
+      "assessment": "This hesitation suggests a momentary lapse in confidence and quick thinking under pressure, indicating some vulnerability in managing crises.",
+      "rating": -1,
+      "chunk": 21
     },
     {
-      "Action": "Races up to Mr. Rzykruski to express disbelief about the new science fair judge's qualifications, showing awareness and initiative.",
-      "Competence": 1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Victor reluctantly agrees to show Edgar his experiment and leads him to the attic workshop.",
+      "assessment": "While reluctant, Victor demonstrates control over the situation by choosing to reveal his work on his own terms, showing a degree of confidence and assertiveness.",
+      "rating": 1,
+      "chunk": 21
     },
     {
-      "Action": "States that nobody likes scientists, reflecting a possible lack of confidence or resignation about his chosen path.",
-      "Competence": -1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Victor explains his scientific theory about wind, lightning, and the force needed to bring an animal back to life using a chalkboard filled with symbols and variables.",
+      "assessment": "This action highlights Victor's intellectual capability, scientific knowledge, and ability to communicate complex ideas, reflecting high competence.",
+      "rating": 3,
+      "chunk": 21
     },
     {
-      "Action": "Admits that the experiment worked the first time but failed to replicate the success and does not understand why.",
-      "Competence": -1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Victor firmly tells Edgar that the experiment is not something to be replicated and that it is personal.",
+      "assessment": "Victor's clear boundary-setting and protective attitude toward his work show confidence and control, reinforcing his competence in managing his scientific endeavors.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Shows willingness to reflect on the failure when puzzled and intrigued by Mr. Rzykruski’s comments.",
-      "Competence": 1,
-      "Chunk": 31
+      "trait": "warmth",
+      "action": "Victor helps E set up the apparatus to try to bring the dead fish back to life, showing involvement in E's experiment.",
+      "assessment": "Victor's willingness to assist E in his experiment suggests a supportive and encouraging attitude, indicating some warmth and friendliness.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Admits to changing variables and doing the experiment for the wrong reasons, indicating a lack of understanding or consistency.",
-      "Competence": -1,
-      "Chunk": 31
+      "trait": "warmth",
+      "action": "Victor throws E to the floor when the lightning strikes, seemingly to protect him from harm.",
+      "assessment": "This protective action shows concern for E's safety, reflecting care and responsibility, which are positive indicators of warmth.",
+      "rating": 3,
+      "chunk": 22
     },
     {
-      "Action": "Maintains a respectful and open attitude towards a mentor figure, accepting advice on the ethical use of science.",
-      "Competence": 1,
-      "Chunk": 31
+      "trait": "warmth",
+      "action": "Victor expresses wonder and curiosity about the invisible goldfish, sharing the moment with E.",
+      "assessment": "Sharing a moment of wonder and curiosity can foster connection and sincerity, indicating warmth.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Successfully brought his dog Sparky back to life using lightning, demonstrating scientific skill and innovation.",
-      "Competence": 1,
-      "Chunk": 32
+      "trait": "competence",
+      "action": "Sets up a complex apparatus with electrodes, a metal table, and a lightning rod to attempt reanimation of a dead fish.",
+      "assessment": "This demonstrates technical skill and knowledge in assembling scientific equipment and an understanding of electrical principles, indicating a high level of competence.",
+      "rating": 3,
+      "chunk": 22
     },
     {
-      "Action": "His resurrection of Sparky causes disbelief and suspicion among peers, implying potential social oversight or lack of cautious communication.",
-      "Competence": -1,
-      "Chunk": 32
+      "trait": "competence",
+      "action": "Throws E to the floor to protect him from the lightning strike.",
+      "assessment": "This quick protective action shows situational awareness and decisiveness, reflecting competent behavior in a dangerous moment.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Horrified and concerned about Sparky's frightened state and tries to call him back, showing care and urgency.",
-      "Warmth": 1,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "Expresses uncertainty about why the experiment resulted in an invisible fish.",
+      "assessment": "Admitting lack of understanding shows intellectual honesty but also reveals limits in his knowledge or preparation, suggesting moderate competence with room for improvement.",
+      "rating": 1,
+      "chunk": 22
     },
     {
-      "Action": "Attempts to go after Sparky despite Dad holding him back, demonstrating protective and caring instincts.",
-      "Warmth": 1,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "Investigates the jar with a specialized steampunk flashlight to observe the invisible fish skeleton.",
+      "assessment": "Using a specialized tool to analyze unexpected results indicates resourcefulness and scientific curiosity, reinforcing his competence.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Defends his actions by referencing his Dad's earlier statement about bringing Sparky back to life, indicating a belief in honesty and sincerity.",
-      "Warmth": 1,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "Fails to anticipate or control the invisibility effect of the reanimated fish.",
+      "assessment": "This oversight suggests incomplete understanding or insufficient experimental control, reflecting a gap in competence.",
+      "rating": -1,
+      "chunk": 22
     },
     {
-      "Action": "Created a scientific diagram and successfully brought Sparky back to life, demonstrating innovative skill and intelligence.",
-      "Competence": 1,
-      "Chunk": 33
+      "trait": "warmth",
+      "action": "Tells E that he can't tell anyone about the invisible goldfish until they figure out how it works, and asks for a promise of secrecy.",
+      "assessment": "Victor shows a protective and trusting attitude toward E by involving him in a secret and asking for a promise, indicating a bond and sincere concern for their shared project.",
+      "rating": 2,
+      "chunk": 23
     },
     {
-      "Action": "Is horrified and panics when Sparky runs away, failing to control the situation.",
-      "Competence": -1,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "Instructs E not to tell anyone about the invisible goldfish until they figure out how it works.",
+      "assessment": "This shows Victor's awareness of the importance of secrecy and control over sensitive information, indicating thoughtful and cautious behavior.",
+      "rating": 2,
+      "chunk": 23
     },
     {
-      "Action": "Expresses strong determination to find Sparky despite danger and opposition.",
-      "Competence": 0,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "Relies on E to keep the secret, despite E crossing his fingers behind his back.",
+      "assessment": "Victor's trust in E, who is clearly not trustworthy, suggests a lapse in judgment or overconfidence in others' reliability.",
+      "rating": -1,
+      "chunk": 23
     },
     {
-      "Action": "Expresses deep emotional pain and longing for his dog Sparky, tears welling up, showing his sincere affection.",
-      "Warmth": 1,
-      "Chunk": 34
+      "trait": "warmth",
+      "action": "Ties up Sparky to keep him quiet and hidden, saying 'Sorry, boy. But we can't risk anyone seeing you again.'",
+      "assessment": "Victor's action shows concern for Sparky's safety and the need to protect him, but physically restraining Sparky and silencing him may cause the dog distress, indicating a somewhat conflicted approach to care.",
+      "rating": 0,
+      "chunk": 24
     },
     {
-      "Action": "Takes initiative to search for his lost dog and communicates clearly with his parents, demonstrating responsibility and cooperativeness.",
-      "Warmth": 1,
-      "Chunk": 34
+      "trait": "warmth",
+      "action": "Responds to Sparky's barking by shushing him and asking him to sit still.",
+      "assessment": "Victor attempts to calm Sparky gently, showing patience and a desire to soothe his pet, which reflects some degree of warmth and care.",
+      "rating": 1,
+      "chunk": 24
     },
     {
-      "Action": "Expresses deep emotional distress over losing Sparky and immediately takes initiative to search for him, directing his parents to split up and cover more ground.",
-      "Competence": 1,
-      "Chunk": 34
+      "trait": "warmth",
+      "action": "Victor listens to E's concern about the invisible fish and responds thoughtfully, asking if the lid was on the jar and considering possible explanations.",
+      "assessment": "Victor shows attentiveness and a willingness to engage with E's problem, indicating a degree of care and sincerity.",
+      "rating": 2,
+      "chunk": 25
     },
     {
-      "Action": "Shines flashlight into dog house and calls out for Sparky, showing attentiveness and practical search behavior.",
-      "Competence": 1,
-      "Chunk": 34
+      "trait": "warmth",
+      "action": "Upon hearing that the invisible fish is gone, Victor immediately runs back to his house and checks on Sparky, his dog tied up in the attic.",
+      "assessment": "Victor's quick reaction and concern for Sparky demonstrate responsibility and emotional attachment, reflecting warmth and trustworthiness.",
+      "rating": 3,
+      "chunk": 25
     },
     {
-      "Action": "Rushing out hastily on his bike without coordinating a more strategic search plan with his parents.",
-      "Competence": 0,
-      "Chunk": 34
+      "trait": "competence",
+      "action": "Victor ponders the possibilities when E tells him the invisible fish is gone, showing thoughtful consideration of the problem.",
+      "assessment": "This indicates Victor's ability to think through unexpected situations logically and consider plausible explanations, reflecting competent problem-solving skills.",
+      "rating": 2,
+      "chunk": 25
     },
     {
-      "Action": "Runs around the baseball field searching anxiously for Sparky, calling out his name.",
-      "Warmth": 1,
-      "Chunk": 35
+      "trait": "competence",
+      "action": "Victor suddenly panics and runs back to his house upon hearing the fish is gone.",
+      "assessment": "This reaction suggests a momentary lapse in emotional control and possibly impulsiveness, which detracts from his overall competence.",
+      "rating": -1,
+      "chunk": 25
     },
     {
-      "Action": "Runs around the baseball field searching for Sparky with a flashlight, showing urgency and focus.",
-      "Competence": 1,
-      "Chunk": 35
+      "trait": "competence",
+      "action": "Victor quickly runs through the attic to check on Sparky after realizing the fish is missing.",
+      "assessment": "This shows Victor's promptness and decisiveness in responding to a potential problem, indicating a competent and proactive attitude.",
+      "rating": 2,
+      "chunk": 25
     },
     {
-      "Action": "No direct interaction with the scientific equipment or formulas visible in this excerpt; others examine his setup but he does not display immediate skill here.",
-      "Competence": 0,
-      "Chunk": 35
+      "trait": "competence",
+      "action": "Victor notices the rope is still there but Sparky is gone.",
+      "assessment": "Victor's attention to detail is evident here, as he observes the unchanged rope, which may help him deduce what happened, reflecting competent observational skills.",
+      "rating": 2,
+      "chunk": 25
     },
     {
-      "Action": "Stops at the pet cemetery gates, uses flashlight to look for Sparky, recognizes Sparky and reassures him gently, leads Sparky away safely.",
-      "Competence": 1,
-      "Chunk": 40
+      "trait": "warmth",
+      "action": "Rushes over to Sparky when he notices Sparky's ear has fallen off and reassures him by saying 'Oh! Don't worry. I can fix that too.'",
+      "assessment": "Victor shows concern and care for Sparky's well-being, indicating a nurturing and affectionate attitude toward his dog.",
+      "rating": 3,
+      "chunk": 26
     },
     {
-      "Action": "Notices suspicious signs at the cemetery (open grave and mausoleum door ajar) and questions if someone else was there.",
-      "Competence": 1,
-      "Chunk": 40
+      "trait": "warmth",
+      "action": "Reaches under the bed to pat Sparky's head and says 'Good night, boy.' before switching off the light.",
+      "assessment": "This gentle and tender gesture reflects Victor's affectionate and sincere bond with Sparky, demonstrating warmth and kindness.",
+      "rating": 3,
+      "chunk": 26
     },
     {
-      "Action": "Responds quickly to Toshiaki's call for help despite Bob's objection, shows concern for the situation he caused, and takes initiative to act by rushing off with Sparky and Bob.",
-      "Warmth": 1,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Victor notices Sparky's ear has fallen off and immediately reassures Sparky that he can fix it.",
+      "assessment": "This shows Victor's quick observation skills and confidence in his ability to solve problems, indicating a competent and proactive mindset.",
+      "rating": 2,
+      "chunk": 26
     },
     {
-      "Action": "Thinks fast when confronted with a sudden problem and quickly comes up with a plan to address it with Sparky and Bob.",
-      "Competence": 1,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Victor rushes over to Sparky after noticing the ear is missing.",
+      "assessment": "Victor's prompt response to Sparky's injury demonstrates attentiveness and care, reflecting a responsible and capable attitude.",
+      "rating": 2,
+      "chunk": 26
     },
     {
-      "Action": "Takes initiative by deciding to act quickly and lead the group toward solving the issue of the giant turtle.",
-      "Competence": 1,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Victor pats Sparky's head and switches off the light before going to sleep.",
+      "assessment": "This action shows a calm and composed demeanor, suggesting Victor is able to manage his emotions and maintain control in a stressful situation, a sign of competence.",
+      "rating": 1,
+      "chunk": 26
     },
     {
-      "Action": "Comes up with a clever plan to trap sea monkeys by exploiting their inability to tolerate saltwater, shows teamwork with Bob and Sparky.",
-      "Warmth": 1,
-      "Chunk": 43
+      "trait": "warmth",
+      "action": "Covers Sparky's mouth to stop him from barking and disturbing Elsa and others nearby.",
+      "assessment": "Victor shows consideration for others by trying to keep Sparky quiet, indicating thoughtfulness and respect for social boundaries.",
+      "rating": 2,
+      "chunk": 29
     },
     {
-      "Action": "Runs to rescue Elsa and Persephone from the Wererat alongside Sparky.",
-      "Warmth": 1,
-      "Chunk": 44
+      "trait": "warmth",
+      "action": "Pretends to bark and howl to cover Sparky's noise and maintain the quiet.",
+      "assessment": "This playful and sincere attempt to mask Sparky's barking suggests a friendly and good-natured side, showing warmth in his interaction with Elsa.",
+      "rating": 2,
+      "chunk": 29
     },
     {
-      "Action": "Rushes to check on Sparky immediately after the fight.",
-      "Warmth": 1,
-      "Chunk": 44
+      "trait": "warmth",
+      "action": "Greets Elsa politely and engages briefly in conversation about her song and Sparky.",
+      "assessment": "Victor is courteous and friendly, showing a willingness to connect with a neighbor, which reflects warmth.",
+      "rating": 2,
+      "chunk": 29
     },
     {
-      "Action": "Victor and Sparky come running to the rescue when Elsa, Persephone, and E are attacked by the Wererat, showing quick response and bravery.",
-      "Competence": 1,
-      "Chunk": 44
+      "trait": "warmth",
+      "action": "Crouches low to avoid being seen by Elsa while managing Sparky.",
+      "assessment": "This behavior may indicate a desire to avoid direct social interaction or embarrassment, suggesting some social reticence or discomfort rather than warmth.",
+      "rating": -1,
+      "chunk": 29
     },
     {
-      "Action": "Checks if Sparky is hurt immediately after the battle, showing concern and presence of mind.",
-      "Competence": 1,
-      "Chunk": 44
+      "trait": "warmth",
+      "action": "Quickly ends the conversation and leaves when his parents arrive.",
+      "assessment": "Victor's abrupt departure could be seen as somewhat distant or reserved, showing limited openness or warmth in this moment.",
+      "rating": 0,
+      "chunk": 29
     },
     {
-      "Action": "No indication that Victor takes charge or devises a plan in the chaotic situation after the tent explosion and the attack; mostly reactive.",
-      "Competence": 0,
-      "Chunk": 44
+      "trait": "competence",
+      "action": "Crouches low to avoid being seen by Elsa while trying to keep Sparky from barking again.",
+      "assessment": "This shows Victor's awareness and cautiousness, indicating a thoughtful and skillful attempt to manage the situation discreetly.",
+      "rating": 2,
+      "chunk": 29
     },
     {
-      "Action": "Hears Elsa's screams and immediately goes after her to help.",
-      "Warmth": 1,
-      "Chunk": 46
+      "trait": "competence",
+      "action": "Quickly grabs Sparky's mouth shut when he howls and then tries to mimic the bark himself.",
+      "assessment": "This demonstrates quick reflexes and creative problem-solving to cover up Sparky's noise, reflecting intelligence and adaptability.",
+      "rating": 2,
+      "chunk": 29
     },
     {
-      "Action": "Responds quickly to Elsa's screams and goes after her to help.",
-      "Competence": 1,
-      "Chunk": 46
+      "trait": "competence",
+      "action": "Tells Sparky to be quick because his parents will be home soon.",
+      "assessment": "This indicates Victor's awareness of time constraints and responsibility, showing good situational judgment.",
+      "rating": 1,
+      "chunk": 29
     },
     {
-      "Action": "Calls out reassuringly to Elsa, showing presence of mind despite the chaos.",
-      "Competence": 1,
-      "Chunk": 46
+      "trait": "competence",
+      "action": "Denies having a new dog when Elsa asks.",
+      "assessment": "This could suggest either a deliberate attempt to conceal the truth or a lack of confidence in being honest; it reflects some social awkwardness or evasiveness, which may detract from perceived competence.",
+      "rating": -1,
+      "chunk": 29
     },
     {
-      "Action": "Rushes inside the windmill upon arriving, immediately trying to reach Elsa in danger.",
-      "Competence": 1,
-      "Chunk": 47
+      "trait": "warmth",
+      "action": "Victor shows concern about the science fair and the replacement teacher's lack of interest in science.",
+      "assessment": "Victor's concern about the quality of the science fair judging indicates he values fairness and the integrity of the event, showing a sincere and engaged attitude.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Climbs the rickety, winding stairs quickly despite danger, showing determination and focus.",
-      "Competence": 1,
-      "Chunk": 47
+      "trait": "warmth",
+      "action": "Victor races up to Mr. Rzykruski in the parking lot to speak with him.",
+      "assessment": "Victor's eagerness to connect with his teacher suggests he values relationships and respects Mr. Rzykruski, indicating friendliness and trustworthiness.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Rushes up the burning windmill to save Elsa and Persephone despite danger.",
-      "Warmth": 1,
-      "Chunk": 48
+      "trait": "warmth",
+      "action": "Victor states 'Nobody likes scientists' in response to Mr. Rzykruski's encouragement.",
+      "assessment": "This statement reflects a somewhat negative or dismissive attitude toward scientists, possibly indicating insecurity or social alienation, which may reduce perceived warmth.",
+      "rating": -1,
+      "chunk": 30
     },
     {
-      "Action": "Throws a rope to save Elsa just as she loses grip.",
-      "Warmth": 1,
-      "Chunk": 48
+      "trait": "competence",
+      "action": "Victor questions the replacement of his science teacher and expresses concern about the gym teacher judging the science fair.",
+      "assessment": "This shows Victor's awareness and concern for the quality and integrity of scientific evaluation, indicating a thoughtful and engaged mindset.",
+      "rating": 1,
+      "chunk": 30
     },
     {
-      "Action": "Holds out his hand encouraging Elsa to hang on.",
-      "Warmth": 1,
-      "Chunk": 48
+      "trait": "competence",
+      "action": "Victor races up to Mr. Rzykruski in the parking lot to speak with him.",
+      "assessment": "This action demonstrates initiative and eagerness to engage with his mentor, reflecting confidence and proactive behavior.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Attempts to protect Elsa and Persephone but is vulnerable to vampire cat attack.",
-      "Warmth": 1,
-      "Chunk": 48
+      "trait": "competence",
+      "action": "Victor states 'Nobody likes scientists.'",
+      "assessment": "This statement reveals a possible lack of confidence or social awareness about his chosen field, which may undermine his self-perception of competence.",
+      "rating": -1,
+      "chunk": 30
     },
     {
-      "Action": "Climbs quickly up the windmill stairs despite danger, attempting to rescue Elsa and Persephone.",
-      "Competence": 1,
-      "Chunk": 48
+      "trait": "warmth",
+      "action": "Victor smiles a little when Mr. Rzykruski encourages him to ask questions and reflects on his experiment.",
+      "assessment": "Victor's smile indicates a moment of openness and receptiveness, suggesting a sincere and friendly engagement with his mentor.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Throws a rope over the side just in time for Elsa to catch and swing to safety.",
-      "Competence": 1,
-      "Chunk": 48
+      "trait": "warmth",
+      "action": "Victor admits to Mr. Rzykruski that the second time he did the experiment, he did not love it and just wanted it over.",
+      "assessment": "This admission shows Victor's honesty and self-awareness, which are sincere traits, though it also reveals a lack of passion or care in his actions at that moment.",
+      "rating": 1,
+      "chunk": 31
     },
     {
-      "Action": "Attempts to physically hold onto Elsa despite her struggling grip, showing persistence.",
-      "Competence": 1,
-      "Chunk": 48
+      "trait": "warmth",
+      "action": "Victor hangs his head in his hands, defeated, after his experiment fails.",
+      "assessment": "This shows vulnerability and emotional openness, which can be interpreted as a sign of sincerity and genuine feeling.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Is knocked off the windmill and falls along with the Vampire Cat, putting himself in harm's way.",
-      "Competence": 0,
-      "Chunk": 48
+      "trait": "warmth",
+      "action": "Victor watches Mr. Rzykruski drive off after their conversation and handshake.",
+      "assessment": "The handshake and attentive watching suggest respect and trustworthiness, indicating positive warmth.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Shouts in despair when Sparky is dragged back into the fire and later when the windmill collapses.",
-      "Warmth": 1,
-      "Chunk": 49
+      "trait": "warmth",
+      "action": "Victor changes the variables in his experiment for the wrong reasons, motivated by wanting to be done rather than genuine curiosity or care.",
+      "assessment": "This indicates a lack of patience and possibly a disregard for the integrity of his work, reflecting a momentary lapse in sincerity and dedication, which can be seen as a negative indicator of warmth.",
+      "rating": -1,
+      "chunk": 31
     },
     {
-      "Action": "Shows deep emotional attachment and concern for Sparky's safety throughout the fire incident.",
-      "Warmth": 1,
-      "Chunk": 49
+      "trait": "competence",
+      "action": "Victor reflects on his experiment: the first time it worked great, but the second time it only sort of worked and then failed, and he doesn't know why.",
+      "assessment": "This shows Victor's honest self-awareness about his limitations and gaps in understanding, indicating a developing but incomplete grasp of his scientific work.",
+      "rating": 0,
+      "chunk": 31
     },
     {
-      "Action": "Attaches jumper cables skillfully to Sparky in an attempt to revive him.",
-      "Competence": 1,
-      "Chunk": 50
+      "trait": "competence",
+      "action": "Victor changes the variables in his experiment after realizing he was doing it for the wrong reason.",
+      "assessment": "This demonstrates adaptability and willingness to learn from mistakes, a positive indicator of scientific competence and intellectual flexibility.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Shows hope and patience despite the initial failure of the revival attempt.",
-      "Competence": 1,
-      "Chunk": 50
+      "trait": "competence",
+      "action": "Victor initially loved his experiment but lost enthusiasm the second time, wanting it just to be over.",
+      "assessment": "This suggests a decline in motivation and possibly a lack of sustained commitment, which can undermine competence in complex tasks requiring persistence.",
+      "rating": -1,
+      "chunk": 31
     },
     {
-      "Action": "Demonstrates emotional intelligence by accepting the possibility of loss and expressing heartfelt farewell before retrying.",
-      "Competence": 1,
-      "Chunk": 50
+      "trait": "competence",
+      "action": "Victor listens thoughtfully to Mr. Rzykruski's advice about the emotional and ethical dimensions of science.",
+      "assessment": "Shows openness to guidance and recognition that competence involves more than technical skill, reflecting maturity and depth.",
+      "rating": 1,
+      "chunk": 31
+    },
+    {
+      "trait": "warmth",
+      "action": "Victor brings Sparky back to life, motivated by love and attachment to his dog.",
+      "assessment": "Victor's action to revive Sparky shows deep affection and loyalty, indicating warmth through his sincere care and emotional bond.",
+      "rating": 3,
+      "chunk": 33
+    },
+    {
+      "trait": "warmth",
+      "action": "Victor urgently calls out to Sparky and tries to catch him when Sparky runs away frightened.",
+      "assessment": "Victor's concern and immediate attempt to comfort and protect Sparky demonstrate his caring and protective nature.",
+      "rating": 3,
+      "chunk": 33
+    },
+    {
+      "trait": "warmth",
+      "action": "Victor argues with his Dad, insisting on going after Sparky despite being held back.",
+      "assessment": "Victor's insistence reflects his strong emotional attachment and determination to care for Sparky, showing sincerity and trustworthiness in his intentions.",
+      "rating": 2,
+      "chunk": 33
+    },
+    {
+      "trait": "warmth",
+      "action": "Victor is horrified to see Sparky's frightened reaction and the chaos caused.",
+      "assessment": "Victor's horror and distress indicate empathy and sensitivity to Sparky's feelings and the situation, which are positive warmth indicators.",
+      "rating": 2,
+      "chunk": 33
+    },
+    {
+      "trait": "warmth",
+      "action": "Victor does not immediately consider the potential fear or trauma Sparky might experience upon being revived in such a grotesque form.",
+      "assessment": "This omission suggests a lack of foresight or tolerance for Sparky's distress, indicating a possible blind spot in Victor's warmth and sensitivity.",
+      "rating": -1,
+      "chunk": 33
+    },
+    {
+      "trait": "competence",
+      "action": "Creates detailed diagrams on a chalkboard for bringing Sparky back to life.",
+      "assessment": "This indicates a high level of technical skill, planning, and scientific knowledge, reflecting strong competence in his field.",
+      "rating": 3,
+      "chunk": 33
+    },
+    {
+      "trait": "competence",
+      "action": "Successfully brings Sparky back to life.",
+      "assessment": "This demonstrates exceptional capability and mastery over complex scientific processes, a clear positive indicator of competence.",
+      "rating": 3,
+      "chunk": 33
+    },
+    {
+      "trait": "competence",
+      "action": "Is horrified and panicked when Sparky runs away and is frightened.",
+      "assessment": "Victor's emotional reaction and inability to immediately control the situation suggest a momentary lapse in confidence and control, slightly detracting from his competence.",
+      "rating": -1,
+      "chunk": 33
+    },
+    {
+      "trait": "competence",
+      "action": "Attempts to pursue Sparky but is physically restrained by his father.",
+      "assessment": "While his intention to act decisively is positive, being held back and unable to follow through indicates limited immediate control over the situation.",
+      "rating": 0,
+      "chunk": 33
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in a serious conversation with his father about the consequences of his actions.",
+      "assessment": "Shows awareness and willingness to confront the gravity of his experiment, reflecting intellectual maturity and responsibility, which supports competence.",
+      "rating": 2,
+      "chunk": 33
+    },
+    {
+      "trait": "warmth",
+      "action": "Victor expresses deep anguish and tears up, saying 'I just wanted my dog back.'",
+      "assessment": "Victor's emotional vulnerability and sincere desire to reunite with his dog show genuine affection and sensitivity, indicating warmth.",
+      "rating": 3,
+      "chunk": 34
+    },
+    {
+      "trait": "warmth",
+      "action": "Victor asks his parents to split up and search different areas for Sparky, showing cooperation and trust.",
+      "assessment": "Victor's willingness to coordinate with his parents and share the search effort reflects trust and a collaborative spirit, positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 34
+    },
+    {
+      "trait": "competence",
+      "action": "Victor looks in the backyard and shines his flashlight into the empty dog house, then quickly decides to check out the school and the park while instructing his parents to search the town square.",
+      "assessment": "This shows Victor's proactive and organized approach to searching for Sparky, demonstrating situational awareness and a willingness to take initiative.",
+      "rating": 2,
+      "chunk": 34
+    },
+    {
+      "trait": "competence",
+      "action": "Victor hurries past his parents on his bike to search for Sparky in different locations.",
+      "assessment": "Victor's quick action and determination to find his dog indicate decisiveness and a focused mindset, reflecting competent behavior under emotional stress.",
+      "rating": 2,
+      "chunk": 34
+    },
+    {
+      "trait": "competence",
+      "action": "Victor's anguish and tears well up as he expresses his desire to have his dog back.",
+      "assessment": "While this shows emotional vulnerability, it does not directly reflect on competence; however, it may suggest that his emotional state could impact his ability to act rationally.",
+      "rating": 0,
+      "chunk": 34
+    },
+    {
+      "trait": "competence",
+      "action": "Runs around the baseball field shining the flashlight under the bleachers and into the dugout searching for Sparky.",
+      "assessment": "This action shows Victor's determination and resourcefulness in actively searching for his missing dog, indicating a proactive and capable approach to problem-solving.",
+      "rating": 2,
+      "chunk": 35
+    },
+    {
+      "trait": "competence",
+      "action": "No direct interaction with the scientific apparatus or formulas in the attic workshop scene.",
+      "assessment": "Victor's absence or omission in engaging with his own scientific equipment or explaining his work in this scene suggests a missed opportunity to demonstrate his technical skill or confidence in his expertise.",
+      "rating": -1,
+      "chunk": 35
+    },
+    {
+      "trait": "warmth",
+      "action": "Victor searches for Sparky at the pet cemetery, calls out to him gently, and comforts him when Sparky appears frightened.",
+      "assessment": "Victor shows care and concern for Sparky, expressing a desire to protect and not lose him, which reflects a sincere and affectionate attitude.",
+      "rating": 3,
+      "chunk": 40
+    },
+    {
+      "trait": "warmth",
+      "action": "Victor holds Sparky tightly and reassures him, telling him it's okay and asking for a promise that Sparky won't run off.",
+      "assessment": "This tender interaction demonstrates Victor's trustworthiness and protective nature, indicating warmth and emotional connection.",
+      "rating": 3,
+      "chunk": 40
+    },
+    {
+      "trait": "warmth",
+      "action": "Victor notices the open grave of Shelley and the ajar mausoleum door and questions if someone else was there.",
+      "assessment": "Victor's curiosity about the disturbance suggests vigilance and concern for others, though it is more neutral in warmth and more about responsibility.",
+      "rating": 1,
+      "chunk": 40
+    },
+    {
+      "trait": "competence",
+      "action": "Victor stops his bike at the pet cemetery gates and cautiously enters with a flashlight, searching for Sparky.",
+      "assessment": "This shows Victor's careful and deliberate approach, indicating situational awareness and a methodical mindset.",
+      "rating": 2,
+      "chunk": 40
+    },
+    {
+      "trait": "competence",
+      "action": "Victor recognizes Sparky's frightened face and comforts him, reassuring Sparky and leading him away from the cemetery.",
+      "assessment": "Victor demonstrates emotional intelligence and calm leadership, managing a tense situation with care and confidence.",
+      "rating": 2,
+      "chunk": 40
+    },
+    {
+      "trait": "competence",
+      "action": "Victor notices the open grave of Shelley and the ajar mausoleum door, immediately questioning if someone else was there.",
+      "assessment": "This indicates alertness and critical observation skills, showing he is attentive to his surroundings and potential threats.",
+      "rating": 2,
+      "chunk": 40
+    },
+    {
+      "trait": "competence",
+      "action": "Victor engages with Bob about the sea monkeys and the strange events.",
+      "assessment": "Victor is responsive and communicative, showing willingness to collaborate and problem-solve.",
+      "rating": 1,
+      "chunk": 40
+    },
+    {
+      "trait": "warmth",
+      "action": "Victor looks down at Sparky and gets an idea to help with the giant turtle problem, then says 'Ok let's go!' and rushes off with Sparky and Bob to address the situation.",
+      "assessment": "Victor takes initiative to solve a problem that is causing distress in the town, showing responsibility and willingness to help others despite the danger, which reflects a positive degree of warmth.",
+      "rating": 2,
+      "chunk": 41
+    },
+    {
+      "trait": "competence",
+      "action": "Victor quickly thinks on his feet when confronted with the giant turtle problem, looks down at Sparky, gets an idea, and immediately says 'Ok let's go!' before rushing off to address the situation.",
+      "assessment": "This action demonstrates Victor's ability to rapidly assess a crisis, generate a plan, and act decisively, indicating a good level of competence in problem-solving and leadership under pressure.",
+      "rating": 2,
+      "chunk": 41
+    },
+    {
+      "trait": "warmth",
+      "action": "Victor and Bob work together to lure the sea monkeys into a tent using popcorn, aiming to stop the havoc they are causing in the town square.",
+      "assessment": "Victor demonstrates resourcefulness and cooperation with Bob to solve a community problem, showing concern for the town's well-being and a willingness to take action to protect others.",
+      "rating": 2,
+      "chunk": 43
+    },
+    {
+      "trait": "warmth",
+      "action": "Victor observes the sea monkeys' behavior and uses his knowledge about freshwater animals to devise a plan to stop them.",
+      "assessment": "Victor's use of knowledge to help manage a chaotic situation reflects a thoughtful and caring attitude, indicating a sincere desire to help and protect others.",
+      "rating": 2,
+      "chunk": 43
+    },
+    {
+      "trait": "competence",
+      "action": "Observes the sea monkeys causing havoc and quickly deduces that they are freshwater animals and cannot tolerate salt.",
+      "assessment": "This shows Victor's ability to analyze a situation intelligently and apply biological knowledge effectively to solve a problem.",
+      "rating": 3,
+      "chunk": 43
+    },
+    {
+      "trait": "competence",
+      "action": "Implements a plan to lure the sea monkeys into a popcorn tent and uses salt to exploit their weakness.",
+      "assessment": "Victor demonstrates practical problem-solving skills and confidence in executing a plan, indicating high competence.",
+      "rating": 3,
+      "chunk": 43
+    },
+    {
+      "trait": "competence",
+      "action": "Works collaboratively with Bob and Sparky to carry out the plan.",
+      "assessment": "Shows ability to coordinate and lead a small team, reflecting social and organizational competence.",
+      "rating": 2,
+      "chunk": 43
+    },
+    {
+      "trait": "warmth",
+      "action": "Victor and Sparky come running to the rescue when Elsa, Persephone, and E are attacked by the Wererat.",
+      "assessment": "Victor's immediate response to help others in danger shows concern and protective instincts, indicating a good-natured and friendly disposition.",
+      "rating": 3,
+      "chunk": 44
+    },
+    {
+      "trait": "warmth",
+      "action": "Victor races over to check if Sparky is hurt after the fight with the Wererat.",
+      "assessment": "Victor's care and worry for Sparky demonstrate sincerity and trustworthiness in his relationships, reflecting warmth.",
+      "rating": 3,
+      "chunk": 44
+    },
+    {
+      "trait": "warmth",
+      "action": "Victor stands by the beer stall with Bob and Sparky watching the sea monkeys' antics.",
+      "assessment": "This shows Victor engaging in a relaxed, social moment with friends, suggesting friendliness and tolerance.",
+      "rating": 1,
+      "chunk": 44
+    },
+    {
+      "trait": "competence",
+      "action": "Victor and Sparky duck behind a nearby keg just as the tent suddenly explodes.",
+      "assessment": "This action shows Victor's quick reflexes and situational awareness, indicating a competent response to sudden danger.",
+      "rating": 2,
+      "chunk": 44
+    },
+    {
+      "trait": "competence",
+      "action": "Victor and Sparky come running to the rescue when Elsa, Persephone, and E are attacked by the Wererat.",
+      "assessment": "Victor demonstrates bravery and a readiness to intervene in a dangerous situation, reflecting confidence and a proactive attitude.",
+      "rating": 2,
+      "chunk": 44
+    },
+    {
+      "trait": "competence",
+      "action": "Victor races over to check on Sparky after the Wererat is zapped and collapses.",
+      "assessment": "Victor shows care and attentiveness to his creation's wellbeing, indicating responsibility and emotional intelligence, which support competent behavior.",
+      "rating": 2,
+      "chunk": 44
+    },
+    {
+      "trait": "competence",
+      "action": "Victor relies on Sparky to fight the Wererat, who takes the lead in the battle.",
+      "assessment": "While Victor acts quickly to help, he does not directly engage in the fight, suggesting some dependence on Sparky's abilities rather than his own combat skills.",
+      "rating": 0,
+      "chunk": 44
+    },
+    {
+      "trait": "competence",
+      "action": "Victor does not intervene when E abandons Elsa and Persephone during the attack.",
+      "assessment": "Victor's decision to act contrasts with E's flight, highlighting Victor's competence by comparison; however, the text does not show Victor addressing E's failure, which could be seen as a missed leadership opportunity.",
+      "rating": 1,
+      "chunk": 44
+    },
+    {
+      "trait": "warmth",
+      "action": "Throws a live electrical wire into a puddle to shock the turtle monster and save Toshiaki from being harmed.",
+      "assessment": "Victor acts decisively and selflessly to protect Toshiaki, showing concern for another's safety and quick thinking to prevent harm.",
+      "rating": 3,
+      "chunk": 45
+    },
+    {
+      "trait": "competence",
+      "action": "Victor quickly assesses the danger posed by the turtle monster standing in a flooded square near a sparking electrical fuse box.",
+      "assessment": "This shows Victor's ability to think quickly and apply his scientific knowledge under pressure, indicating intelligence and situational awareness.",
+      "rating": 2,
+      "chunk": 45
+    },
+    {
+      "trait": "competence",
+      "action": "Victor grabs the sparking wire and throws it into the puddle to electrocute the turtle monster, causing it to drop Toshiaki.",
+      "assessment": "This action demonstrates decisiveness, courage, and practical problem-solving skills, reflecting a high level of competence in a crisis.",
+      "rating": 3,
+      "chunk": 45
+    },
+    {
+      "trait": "competence",
+      "action": "Victor does not hesitate or show panic when Toshiaki is in danger, instead immediately taking action to save him.",
+      "assessment": "Victor's calm and confident response under stress is a strong indicator of competence.",
+      "rating": 2,
+      "chunk": 45
+    },
+    {
+      "trait": "warmth",
+      "action": "Hears Elsa's screams and immediately goes after her to help.",
+      "assessment": "Victor responds promptly and with concern to Elsa's distress, showing attentiveness and a protective instinct.",
+      "rating": 2,
+      "chunk": 46
+    },
+    {
+      "trait": "competence",
+      "action": "Victor hears Elsa's screams and immediately goes after her to help.",
+      "assessment": "This shows Victor's attentiveness and prompt response to an emergency, indicating situational awareness and a readiness to act.",
+      "rating": 2,
+      "chunk": 46
+    },
+    {
+      "trait": "competence",
+      "action": "Victor calls out reassuringly to Elsa while pursuing the threat.",
+      "assessment": "This demonstrates his ability to communicate clearly under pressure, which is a sign of confidence and leadership.",
+      "rating": 2,
+      "chunk": 46
+    },
+    {
+      "trait": "competence",
+      "action": "Victor does not appear to coordinate or lead the townsfolk after the chaos, nor does he intervene in the misunderstanding about Elsa's disappearance.",
+      "assessment": "His omission to organize or calm the crowd or clarify the situation suggests a lack of initiative or leadership in managing the aftermath, reflecting a gap in competence in crisis management.",
+      "rating": -1,
+      "chunk": 46
+    },
+    {
+      "trait": "competence",
+      "action": "Victor arrives at the windmill and rushes inside upon hearing Elsa's scream.",
+      "assessment": "This action shows Victor's quick response and situational awareness, indicating a capable and decisive reaction in a crisis.",
+      "rating": 2,
+      "chunk": 47
+    },
+    {
+      "trait": "competence",
+      "action": "Victor climbs the winding, rickety stair to reach Elsa in the crow's nest.",
+      "assessment": "Victor demonstrates physical agility and determination by navigating a dangerous environment to reach someone in need, reflecting competence and courage.",
+      "rating": 2,
+      "chunk": 47
+    },
+    {
+      "trait": "warmth",
+      "action": "Climbs the burning windmill to reach Elsa and Persephone and tries to save them despite the danger to himself.",
+      "assessment": "Victor's willingness to risk his own safety to save others demonstrates courage, care, and a protective nature, which are positive indicators of warmth.",
+      "rating": 3,
+      "chunk": 48
+    },
+    {
+      "trait": "warmth",
+      "action": "Throws a rope over the side of the windmill to help Elsa catch it and swing to safety.",
+      "assessment": "This quick thinking and practical action to save Elsa shows resourcefulness combined with genuine concern for her wellbeing, reflecting warmth.",
+      "rating": 3,
+      "chunk": 48
+    },
+    {
+      "trait": "warmth",
+      "action": "Calls out encouragement to Elsa and Persephone to hang on and not let go.",
+      "assessment": "Victor's verbal support and encouragement in a crisis shows empathy and a caring attitude, reinforcing his warmth.",
+      "rating": 2,
+      "chunk": 48
+    },
+    {
+      "trait": "warmth",
+      "action": "Holds Sparky safely after the dog escapes the vampire cat attack.",
+      "assessment": "Victor's protective behavior towards Sparky, his pet, indicates affection and trustworthiness, positive signs of warmth.",
+      "rating": 2,
+      "chunk": 48
+    },
+    {
+      "trait": "warmth",
+      "action": "Engages in a dangerous situation without hesitation to protect others.",
+      "assessment": "While this shows bravery and care, it could also suggest impulsiveness or recklessness; however, in terms of warmth, it primarily reflects selflessness and concern for others.",
+      "rating": 2,
+      "chunk": 48
+    },
+    {
+      "trait": "competence",
+      "action": "Climbs the stairs quickly to reach Elsa despite smoke and flames.",
+      "assessment": "This shows physical capability, determination, and situational awareness under pressure, indicating competent behavior.",
+      "rating": 2,
+      "chunk": 48
+    },
+    {
+      "trait": "competence",
+      "action": "Throws a rope over the side just as Elsa loses her grip, enabling her to catch it and swing to safety.",
+      "assessment": "This action demonstrates quick thinking, resourcefulness, and presence of mind in a critical moment, reflecting high competence.",
+      "rating": 3,
+      "chunk": 48
+    },
+    {
+      "trait": "competence",
+      "action": "Attempts to reach Elsa and Persephone by holding out his hand multiple times.",
+      "assessment": "Shows persistence and concern, but inability to physically reach them suggests some limitation in effectiveness.",
+      "rating": 1,
+      "chunk": 48
+    },
+    {
+      "trait": "competence",
+      "action": "Relies on Sparky to fend off the Vampire Cat attacking him.",
+      "assessment": "While Victor is in danger and needs assistance, he does not appear to effectively defend himself, indicating a moderate lack of combat or defensive skill.",
+      "rating": -1,
+      "chunk": 48
+    },
+    {
+      "trait": "competence",
+      "action": "Falls through the floor boards with the Vampire Cat into the burning windmill.",
+      "assessment": "This suggests a moment of miscalculation or loss of control in a dangerous environment, reflecting a lapse in competence.",
+      "rating": -2,
+      "chunk": 48
+    },
+    {
+      "trait": "warmth",
+      "action": "Victor shouts 'Noooo!' in distress when Sparky is dragged back into the collapsing windmill and later wipes away tears, smudged with soot, showing visible grief.",
+      "assessment": "Victor's emotional reaction to Sparky's danger and apparent death demonstrates sincere affection and deep care, indicating warmth through his strong bond and empathy toward his pet.",
+      "rating": 3,
+      "chunk": 49
+    },
+    {
+      "trait": "warmth",
+      "action": "Victor allows Sparky to be rescued by the dog himself and does not intervene physically in the fight between Sparky and the Vampire Cat inside the burning windmill.",
+      "assessment": "While Victor shows concern, his lack of direct action to protect Sparky in the moment could suggest a limitation in proactive warmth or protective behavior, though the dangerous situation may justify his restraint.",
+      "rating": 0,
+      "chunk": 49
+    },
+    {
+      "trait": "competence",
+      "action": "Victor and the Vampire Cat plummet through the floorboards into the burning windmill and end up unconscious on the floor.",
+      "assessment": "This suggests a lack of situational awareness or physical coordination in a dangerous environment, indicating a momentary lapse in competence.",
+      "rating": -1,
+      "chunk": 49
+    },
+    {
+      "trait": "competence",
+      "action": "Victor shouts 'Sparky!' as the vampire cat drags Sparky back into the collapsing windmill.",
+      "assessment": "Victor's reaction shows emotional investment and concern but no immediate action to intervene, reflecting limited agency or capability in the crisis moment.",
+      "rating": -1,
+      "chunk": 49
+    },
+    {
+      "trait": "competence",
+      "action": "Victor wipes away tears, smudged with soot, after the fire is out and Sparky's body is recovered.",
+      "assessment": "Victor's emotional response is appropriate but passive; there is no indication of problem-solving or leadership, suggesting limited competence in managing the aftermath.",
+      "rating": 0,
+      "chunk": 49
+    },
+    {
+      "trait": "warmth",
+      "action": "Kneels over the lifeless body of his dog Sparky, showing visible grief and tenderness.",
+      "assessment": "Victor's grief and tenderness toward Sparky demonstrate his capacity for deep affection and emotional sincerity.",
+      "rating": 3,
+      "chunk": 50
+    },
+    {
+      "trait": "warmth",
+      "action": "Reassures Sparky quietly that he doesn't have to come back and that he'll always be in his heart.",
+      "assessment": "This gentle and sincere farewell shows Victor's loving and considerate nature, respecting Sparky's state and feelings.",
+      "rating": 3,
+      "chunk": 50
+    },
+    {
+      "trait": "warmth",
+      "action": "Organizes and participates in a community effort to revive Sparky using car batteries and jumper cables.",
+      "assessment": "Victor's initiative to involve the townspeople in helping Sparky reflects his trust in others and his friendly, inclusive approach.",
+      "rating": 2,
+      "chunk": 50
+    },
+    {
+      "trait": "warmth",
+      "action": "Hugs Sparky joyfully when the dog revives, sharing his happiness openly.",
+      "assessment": "Victor's open expression of joy and affection highlights his warm and sincere emotional connection.",
+      "rating": 3,
+      "chunk": 50
+    },
+    {
+      "trait": "competence",
+      "action": "Organizes the townspeople to use car batteries and jumper cables to try to revive Sparky.",
+      "assessment": "This action demonstrates Victor's resourcefulness, technical knowledge, and leadership in a crisis, indicating a high level of competence.",
+      "rating": 3,
+      "chunk": 50
+    },
+    {
+      "trait": "competence",
+      "action": "Kneels over Sparky's lifeless body and quietly accepts the possibility that Sparky may not come back.",
+      "assessment": "This shows emotional maturity and realistic acceptance, but also a moment of hesitation or lack of confidence in his ability to revive Sparky, suggesting moderate competence.",
+      "rating": 1,
+      "chunk": 50
+    },
+    {
+      "trait": "competence",
+      "action": "Removes the jumper cables and walks away after the initial attempt seems to fail.",
+      "assessment": "This could indicate a lack of persistence or premature giving up, which may reflect a slight dip in confidence or skill in this moment.",
+      "rating": -1,
+      "chunk": 50
+    },
+    {
+      "trait": "competence",
+      "action": "Responds with hope and joy when Sparky revives and runs to him.",
+      "assessment": "While this is an emotional reaction rather than a skillful action, it reflects confidence in his work paying off and a positive outcome of his efforts.",
+      "rating": 2,
+      "chunk": 50
     }
   ]
 }

@@ -1,129 +1,256 @@
 {
   "Liz Lemon": [
     {
-      "Action": "Says 'Excuse me' multiple times trying to get past the moms blocking the entrance.",
-      "Warmth": 1,
-      "Chunk": 1
+      "trait": "warmth",
+      "action": "Politely says 'Excuse me' multiple times to the moms blocking the entrance, trying to get by.",
+      "assessment": "Liz attempts to be courteous and patient despite being physically blocked, showing tolerance and politeness.",
+      "rating": 2,
+      "chunk": 1
     },
     {
-      "Action": "Backs up and runs over children to enter the bagel place when blocked.",
-      "Warmth": 0,
-      "Chunk": 1
+      "trait": "warmth",
+      "action": "Takes a running jump over the children to get into the bagel place after being ignored.",
+      "assessment": "While this action shows determination, it also suggests a moment of frustration and a lack of gentle assertiveness, which may reduce perceived warmth.",
+      "rating": -1,
+      "chunk": 1
     },
     {
-      "Action": "Politely challenges a man cutting in line by saying 'Whoa, whoa, Excuse me. There's a line, buddy.'",
-      "Warmth": 1,
-      "Chunk": 1
+      "trait": "warmth",
+      "action": "Confronts a man who cuts in line by saying 'Whoa, whoa, Excuse me. There’s a line, buddy.'",
+      "assessment": "Liz stands up for fairness and order, but the tone implied by 'buddy' may come off as slightly confrontational rather than friendly.",
+      "rating": 0,
+      "chunk": 1
     },
     {
-      "Action": "Hands out bagels to everyone to make up for the cell phone guy's selfishness despite most throwing them away",
-      "Warmth": 1,
-      "Chunk": 2
+      "trait": "competence",
+      "action": "Attempts to get through a blocked entrance by politely asking the moms to let her pass, then resorts to a running jump over the children when ignored.",
+      "assessment": "This shows Liz's persistence and quick thinking in a social situation, but also a slight lack of tact or social grace, as jumping over children is unconventional and might be seen as socially awkward.",
+      "rating": 0,
+      "chunk": 1
     },
     {
-      "Action": "Smiles embarrassedly and waves when introduced awkwardly by Kenneth in front of a tour group.",
-      "Warmth": 1,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Confronts a man who is cutting in line by firmly telling him there is a line and he cannot skip.",
+      "assessment": "This indicates Liz's assertiveness and willingness to stand up for fairness, demonstrating social confidence and situational awareness.",
+      "rating": 2,
+      "chunk": 1
     },
     {
-      "Action": "Complains about Kenneth embarrassing her in front of a tour group to Pete.",
-      "Warmth": 0,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "Lisa buys all the bagels to give to everyone in line after the guy cuts in front of them.",
+      "assessment": "Buying all the bagels to share with everyone is a generous and inclusive act, showing concern for others and a desire to restore fairness.",
+      "rating": 3,
+      "chunk": 2
     },
     {
-      "Action": "Appears embarrassed and passive when Kenneth embarrasses her in front of a tour group, does not assertively correct the situation herself.",
-      "Competence": -1,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "Lisa passes out bagels to everyone she sees, despite some people being mistrustful and throwing them away.",
+      "assessment": "Persisting in sharing despite mistrust demonstrates sincerity and goodwill, reflecting a warm and good-natured character.",
+      "rating": 2,
+      "chunk": 2
     },
     {
-      "Action": "Informs Pete about the inappropriate behavior of Kenneth so that he can handle it, showing delegation but not direct confrontation.",
-      "Competence": 0,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "Smiles embarrassedly and waves when introduced to a tour group.",
+      "assessment": "Liz shows a polite and friendly response despite feeling embarrassed, indicating a basic level of social warmth and approachability.",
+      "rating": 1,
+      "chunk": 3
     },
     {
-      "Action": "Manages a complex show as head writer (alluded to as 'front line' managing of sketches and content).",
-      "Competence": 1,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "Brings bagels to the studio and shares the story with Pete.",
+      "assessment": "Bringing food to share suggests thoughtfulness and a desire to contribute positively to the workplace environment.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Interrupts writers' room discussion with an off-topic personal story (bagel story), losing the group's focus.",
-      "Competence": -1,
-      "Chunk": 6
+      "trait": "warmth",
+      "action": "Complains to Pete about Kenneth embarrassing her in front of a tour group.",
+      "assessment": "Liz feels comfortable expressing her feelings to a friend, showing trust and openness, which are aspects of warmth.",
+      "rating": 1,
+      "chunk": 3
     },
     {
-      "Action": "Offers to get the coffee maker and other items enthusiastically for the team after the bagel incident.",
-      "Warmth": 1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Liz (referred to as Lisa Lemon here) is introduced as the head writer of a comedy show, but is embarrassed by an NBC page's awkward introduction in front of a tour group.",
+      "assessment": "Being the head writer indicates a position of responsibility and skill, suggesting competence. However, the embarrassment caused by Kenneth's behavior and her passive reaction (smiling embarrassedly and waving) may indicate some social awkwardness or lack of assertiveness in public situations.",
+      "rating": 1,
+      "chunk": 3
     },
     {
-      "Action": "Encourages Josh with a supportive phrase: 'bend it, don’t break it.'",
-      "Warmth": 1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Liz runs into Pete Hornberger and immediately discusses the length of a sketch and the behavior of the NBC page.",
+      "assessment": "This shows Liz is attentive to the details of the show (noticing the sketch is too long) and is proactive in addressing issues (wanting Pete to talk to Kenneth). This reflects a level of professional competence and awareness.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Enthusiastically volunteers to get what they want from Gary, showing initiative and confidence.",
-      "Competence": 1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Stops the writers' discussion to tell her bagel story, which the others find uninteresting and distracting.",
+      "assessment": "This action suggests a lack of focus and poor judgment in managing the writers' room, indicating a momentary lapse in leadership and prioritization.",
+      "rating": -1,
+      "chunk": 6
     },
     {
-      "Action": "Displays quick wit in the interaction about fake cereal names, indicating intelligence and social skill.",
-      "Competence": 1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Attempts to engage the writers in rewriting a sketch despite distractions and interruptions.",
+      "assessment": "This shows persistence and dedication to her work, reflecting a competent effort to maintain productivity under less-than-ideal circumstances.",
+      "rating": 1,
+      "chunk": 6
     },
     {
-      "Action": "Seems dependent on Gary to provide wants, showing some reliance on others rather than direct action.",
-      "Competence": 0,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Lisa enthusiastically offers to get the coffee maker, coffee, and an array of milks for the team, saying 'I’ll get it right now. I’m still fired up from my bagel incident.'",
+      "assessment": "Liz’s willingness to take initiative and fulfill the team’s needs shows a helpful and considerate attitude, indicating warmth.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Mentions trying a new restaurant and handling social attention from a waiter with humor and self-awareness about her limits with alcohol.",
-      "Competence": 1,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Liz encourages Josh with the phrase 'Josh, bend it, don’t break it.'",
+      "assessment": "This supportive and encouraging statement reflects friendliness and a positive, trusting attitude toward a colleague.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Accepts a cappuccino and is modestly acknowledged by colleagues for her effort.",
-      "Warmth": 1,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Immediately offers to get the coffee maker, coffee, and milks requested by the team, showing readiness to take action ('I’ll get it right now').",
+      "assessment": "This demonstrates Liz's proactive attitude and willingness to take responsibility, indicating a competent and engaged approach to her role.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Engages in conversation about a colleague's unfortunate death, showing curiosity and concern.",
-      "Warmth": 1,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Refers to the 'bagel incident' as a motivating factor for her eagerness to act.",
+      "assessment": "While the reference is humorous and somewhat vague, it suggests Liz uses past experiences to fuel her motivation, showing some self-awareness and emotional intelligence, which supports competence.",
+      "rating": 1,
+      "chunk": 7
     },
     {
-      "Action": "Questions quitting in the face of adversity, showing resilience.",
-      "Warmth": 0,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Engages in light banter and humor with colleagues (e.g., 'Josh, bend it, don’t break it').",
+      "assessment": "This indicates social skill and leadership through rapport-building, which are important aspects of competence in a team environment.",
+      "rating": 1,
+      "chunk": 7
     },
     {
-      "Action": "Clarifies to Josh firmly that Lawrence Jordan will not be joining the cast or taking over for Jenna, maintaining control over the show's direction.",
-      "Competence": 1,
-      "Chunk": 16
+      "trait": "competence",
+      "action": "Relies on Pete's assurance that Gary will provide the requested items without verifying or planning a backup.",
+      "assessment": "This shows a degree of over-reliance on others and possible lack of contingency planning, which can be a slight negative indicator of competence.",
+      "rating": -1,
+      "chunk": 7
     },
     {
-      "Action": "Does not intervene further after Josh seems uninformed about cast changes, simply says 'Nothing.'",
-      "Competence": 0,
-      "Chunk": 16
+      "trait": "warmth",
+      "action": "Asks Pete about the death of Gary and shows concern by engaging in the conversation about the unusual circumstances.",
+      "assessment": "Liz demonstrates genuine interest and empathy by inquiring about a colleague's death and reacting with concern, indicating a caring and attentive nature.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Does not appear or act in the excerpt; no demonstration of skill or confidence.",
-      "Competence": 0,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Questions whether they should quit after hearing about Gary's death, showing concern for the group's well-being.",
+      "assessment": "Liz's suggestion to quit reflects her protective instincts and consideration for the safety and emotional state of her coworkers, which is a warm and thoughtful response.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Stops to help Jenna who is drunk and in a baby outfit, and pushes her down the street in a stroller despite the odd situation.",
-      "Warmth": 1,
-      "Chunk": 21
+      "trait": "warmth",
+      "action": "Engages in lighthearted mimicry of Pete's hand gesture about the deer attack.",
+      "assessment": "This playful interaction suggests Liz's ability to connect with others through humor and shared experiences, reflecting friendliness and approachability.",
+      "rating": 1,
+      "chunk": 15
     },
     {
-      "Action": "Jokes about killing someone after discussing making music more palatable for a mainstream audience, showing a sarcastic humor but no real malice.",
-      "Warmth": 0,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Secures a new high-end coffee machine, snack basket, and cable TV for the writer's room quickly.",
+      "assessment": "This action demonstrates Liz's ability to effectively manage resources and improve workplace conditions, indicating organizational skill and initiative.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Rejects Jenna’s party behavior with gentle insistence ('No, no. Come on, friend.'), indicating concern and care.",
-      "Warmth": 1,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Responds to Pete's story about Gary's death with curiosity and engagement, asking clarifying questions.",
+      "assessment": "Liz shows active listening and critical thinking by seeking to understand the situation fully, reflecting intellectual engagement and social awareness.",
+      "rating": 1,
+      "chunk": 15
+    },
+    {
+      "trait": "competence",
+      "action": "Asks 'What are we gonna do? We quit, right? Do we quit?' after hearing about the dangerous situation with the deer.",
+      "assessment": "This shows some indecision and a tendency to consider quitting rather than problem-solving, which may indicate a lack of confidence or resilience in crisis situations.",
+      "rating": -1,
+      "chunk": 15
+    },
+    {
+      "trait": "competence",
+      "action": "Lisa firmly tells Josh that Lawrence Jordan is not joining the cast and that they are not turning into The Lawrence Jordan Show.",
+      "assessment": "This action shows Liz (as Lisa) exercising clear authority and decisiveness in managing the show's casting and direction, indicating competence in leadership and communication.",
+      "rating": 2,
+      "chunk": 16
+    },
+    {
+      "trait": "competence",
+      "action": "Liz does not appear directly in this excerpt, but Lisa (a colleague) criticizes the management decisions affecting the show, implying a lack of control and poor communication among leadership.",
+      "assessment": "Although Liz is not explicitly shown here, the chaotic environment and poor decisions by leadership suggest challenges Liz might face in managing the show effectively. The absence of Liz taking charge or intervening in this turmoil could indicate a missed opportunity to demonstrate competence.",
+      "rating": -1,
+      "chunk": 20
+    },
+    {
+      "trait": "warmth",
+      "action": "Climbs down into the studio to introduce herself to Lawrence Jordan.",
+      "assessment": "Taking the initiative to introduce herself to a new person shows openness and friendliness.",
+      "rating": 2,
+      "chunk": 21
+    },
+    {
+      "trait": "warmth",
+      "action": "Helps Jenna, who is wasted and still in a baby outfit, by stopping a couple with a baby to borrow the stroller and pushing Jenna down the street.",
+      "assessment": "Despite Jenna's irresponsible behavior, Liz shows patience and care by helping her friend in a difficult state, indicating loyalty and kindness.",
+      "rating": 3,
+      "chunk": 21
+    },
+    {
+      "trait": "warmth",
+      "action": "Tells Jenna 'No, no. Come on, friend.' when Jenna demands another mojito.",
+      "assessment": "Liz gently tries to restrain Jenna from further drinking, showing concern for her friend's well-being.",
+      "rating": 2,
+      "chunk": 21
+    },
+    {
+      "trait": "warmth",
+      "action": "Jokes with Lawrence about killing somebody after agreeing to work with him.",
+      "assessment": "The humor here is lighthearted and helps build rapport, indicating a friendly and sincere interaction.",
+      "rating": 1,
+      "chunk": 21
+    },
+    {
+      "trait": "warmth",
+      "action": "Focuses all her rage and hatred on Jack instead of Lawrence, telling Lisa to be nice to Lawrence because it’s not his fault.",
+      "assessment": "Liz shows tolerance and fairness by directing negative feelings away from an innocent party, demonstrating good-natured behavior.",
+      "rating": 2,
+      "chunk": 21
+    },
+    {
+      "trait": "competence",
+      "action": "Climbs down into the studio to introduce herself to Lawrence Jordan and handles the interaction with humor and confidence.",
+      "assessment": "This action shows Liz's social skills and ability to engage with new people in a professional setting, indicating competence in interpersonal communication.",
+      "rating": 2,
+      "chunk": 21
+    },
+    {
+      "trait": "competence",
+      "action": "Struggles to help Jenna out of the restaurant and borrows a stroller to push her down the street.",
+      "assessment": "While Liz is proactive in managing a difficult situation with Jenna, the need to borrow a stroller and the struggle suggest some lack of preparedness or resourcefulness, reflecting moderate competence.",
+      "rating": 1,
+      "chunk": 21
+    },
+    {
+      "trait": "competence",
+      "action": "Uses humor to defuse Jenna's expressed rage by saying 'It could be worse. You could have nipple confusion.'",
+      "assessment": "This demonstrates Liz's quick wit and emotional intelligence, helping to manage tense situations effectively, which is a positive indicator of competence.",
+      "rating": 2,
+      "chunk": 21
     }
   ]
 }

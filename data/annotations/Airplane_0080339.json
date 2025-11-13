@@ -1,679 +1,1614 @@
 {
   "Ted Striker": [
     {
-      "Action": "Drops the flag and rushes out after taxiing a businessman, indicating willingness to help and promptness.",
-      "Warmth": 1,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "Drops the taxi flag and rushes out after the businessman gets in his cab, saying 'Back in a minute.'",
+      "assessment": "Ted shows a sense of responsibility and attentiveness by promptly attending to the businessman and indicating he will return shortly, suggesting reliability and consideration.",
+      "rating": 2,
+      "chunk": 4
     },
     {
-      "Action": "Keeps walking and avoids a Zealot pinning a flower on his jacket by slipping out of his coat, showing dismissal and avoidance rather than friendliness.",
-      "Warmth": -1,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "Walks briskly through the terminal looking around as if searching for someone.",
+      "assessment": "This behavior implies concern or care for another person, indicating a warm and attentive nature.",
+      "rating": 2,
+      "chunk": 4
     },
     {
-      "Action": "Actively seeks to talk to Elaine to resolve their issues, expresses willingness to work things out and asks for patience.",
-      "Competence": 1,
-      "Chunk": 5
+      "trait": "warmth",
+      "action": "Avoids a persistent Zealot trying to pin a flower on his jacket by slipping out of the jacket and leaving it behind.",
+      "assessment": "Ted's avoidance of the Zealot's friendly gesture could be seen as dismissive or unfriendly, showing a lack of tolerance or warmth in this interaction.",
+      "rating": -1,
+      "chunk": 4
     },
     {
-      "Action": "Fails to realize Elaine no longer respects him, indicating a lack of awareness of his relationship problems.",
-      "Competence": -1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Drives a taxi cab and quickly drops the flag to rush out after a businessman gets in.",
+      "assessment": "This action shows that Ted is capable of performing a service job efficiently and is attentive to his duties, indicating basic competence in his current role.",
+      "rating": 1,
+      "chunk": 4
     },
     {
-      "Action": "Promises Elaine he can change, showing sincerity and hope.",
-      "Warmth": 1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Walks briskly through the terminal while searching for someone and manages to evade a persistent Zealot by slipping out of his jacket.",
+      "assessment": "Ted demonstrates situational awareness and quick thinking to avoid an unwanted interaction, suggesting a moderate level of social and situational competence.",
+      "rating": 2,
+      "chunk": 4
     },
     {
-      "Action": "Glares with determination after Elaine leaves, indicating persistence.",
-      "Warmth": 0,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Catches up to Elaine and tries to talk to her about their relationship, expressing a desire to work things out and asking for patience.",
+      "assessment": "Ted shows a willingness to communicate and repair his relationship, indicating sincerity and a desire to reconnect, which are positive warmth indicators.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Punches a religious zealot who tries to pin a flower on him without looking.",
-      "Warmth": -1,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Asks Elaine if she feels anything for him anymore.",
+      "assessment": "This question reveals vulnerability and a need for emotional connection, suggesting Ted cares about Elaine's feelings, a sign of warmth.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Asks if Elaine Dickinson is on the flight, showing concern for her presence.",
-      "Warmth": 1,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Responds to Elaine's rejection with the comment 'What a pisser.'",
+      "assessment": "This reaction is somewhat dismissive and cynical, showing frustration rather than empathy or understanding, which lowers the warmth rating.",
+      "rating": -1,
+      "chunk": 5
     },
     {
-      "Action": "Musters courage to board the plane despite terror from war recollections.",
-      "Warmth": 1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Catches up to Elaine and tries to talk to her about their relationship.",
+      "assessment": "This shows initiative and emotional engagement, indicating some level of interpersonal competence and willingness to address problems.",
+      "rating": 1,
+      "chunk": 5
     },
     {
-      "Action": "Purchases a ticket smoking section without complaint, polite interaction with check-in.",
-      "Warmth": 0,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Attempts to reassure Elaine that he can work things out if she is patient.",
+      "assessment": "This reflects confidence and a proactive attitude, but also may suggest some naivety or over-optimism given the context of their troubled relationship.",
+      "rating": 1,
+      "chunk": 5
     },
     {
-      "Action": "Approaches check-in counter to buy ticket showing initiative to board the plane.",
-      "Competence": 1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Expresses frustration silently to the camera after Elaine leaves.",
+      "assessment": "This indicates emotional vulnerability and a lack of control over the situation, which may undermine his perceived competence in handling personal conflicts.",
+      "rating": -1,
+      "chunk": 5
     },
     {
-      "Action": "Forgets to bring baggage despite traveling, potentially showing a minor oversight.",
-      "Competence": -1,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Offers Elaine to have dinner and talk it over when she returns to town.",
+      "assessment": "Inviting Elaine to dinner and a conversation shows a friendly and sincere effort to maintain connection and resolve issues.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Freezes in terror and agonizes over war recollections before boarding, indicating hesitation and anxiety affecting competence.",
-      "Competence": -1,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Promises Elaine that he can change and asks her to give him a chance.",
+      "assessment": "This shows Ted's sincerity and desire to improve himself, indicating a hopeful and earnest nature.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Musters courage and proceeds toward airplane despite fear, showing some level of bravery and resolve.",
-      "Competence": 1,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Glares with determination after Elaine leaves.",
+      "assessment": "His determined glare suggests commitment and seriousness about making amends, reflecting a genuine emotional investment.",
+      "rating": 1,
+      "chunk": 7
     },
     {
-      "Action": "Politely thanks Randy after ticket is taken.",
-      "Warmth": 1,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Punches the religious zealot who tries to pin a flower on his lapel without looking.",
+      "assessment": "This aggressive and dismissive act shows a lack of tolerance and friendliness, reducing perceptions of warmth.",
+      "rating": -2,
+      "chunk": 7
     },
     {
-      "Action": "Replies honestly to Mrs. Elderly about being nervous.",
-      "Warmth": 1,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Engages in a serious conversation with Elaine about his past and responsibility.",
+      "assessment": "Engaging openly about personal struggles indicates a level of trustworthiness and sincerity.",
+      "rating": 1,
+      "chunk": 7
     },
     {
-      "Action": "Acknowledges his nervousness but maintains composure while boarding and sitting down, interacts politely with attendant.",
-      "Competence": 0,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Says he hasn't been able to get near an airplane since the war and believes he wouldn't be hired because of his war record.",
+      "assessment": "This statement reveals a lack of confidence and a self-imposed limitation on his professional opportunities, indicating diminished competence or self-doubt.",
+      "rating": -2,
+      "chunk": 7
     },
     {
-      "Action": "Mentions having been a pilot during the war, implying past competence.",
-      "Competence": 1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Responds to Elaine's criticism about his inability to accept responsibility by trying to convince her to give him another chance.",
+      "assessment": "While this shows some persistence and willingness to improve, it also highlights his past failures to demonstrate responsibility, suggesting moderate incompetence.",
+      "rating": -1,
+      "chunk": 7
     },
     {
-      "Action": "Appears nervous looking out the window and openly admits nervousness when asked.",
-      "Competence": -1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Punches a religious zealot without hesitation when offered a flower.",
+      "assessment": "This action shows decisiveness and physical assertiveness, but it may also reflect impulsiveness rather than calculated competence.",
+      "rating": 0,
+      "chunk": 7
     },
     {
-      "Action": "Walks to rear of plane and looks out window, swallows a couple of pills when approached by Randy",
-      "Warmth": 0,
-      "Chunk": 13
+      "trait": "warmth",
+      "action": "Asks if Elaine Dickinson is on the flight and purchases a ticket to Chicago without baggage.",
+      "assessment": "Ted's inquiry about Elaine suggests a personal connection and concern, indicating sincerity and a friendly disposition. Purchasing a ticket to be near her shows a willingness to reconnect or support.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Walks to rear of plane, looks out window, swallows a couple of pills, admits he hasn't flown for a long time.",
-      "Competence": -1,
-      "Chunk": 13
+      "trait": "warmth",
+      "action": "Freezes in terror upon seeing the airplane, agonizing over war recollections but then musters courage to walk toward the airplane.",
+      "assessment": "Though this shows internal struggle and fear, his decision to face his fears and proceed demonstrates responsibility and commitment, which can be seen as a positive aspect of his character's sincerity and trustworthiness.",
+      "rating": 1,
+      "chunk": 9
     },
     {
-      "Action": "Approaches Elaine to talk despite her reluctance.",
-      "Warmth": 1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Approaches check-in counter and confidently asks if Elaine Dickinson is on the flight.",
+      "assessment": "This shows initiative and purposeful behavior, indicating some level of confidence and goal-directed action.",
+      "rating": 1,
+      "chunk": 9
     },
     {
-      "Action": "Sits down next to Mrs. Elderly and Elaine, showing willingness to engage.",
-      "Warmth": 1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Requests a ticket to Chicago without baggage and chooses smoking section without hesitation.",
+      "assessment": "These actions suggest decisiveness and clarity in his intentions, reflecting moderate competence in handling routine tasks.",
+      "rating": 1,
+      "chunk": 9
     },
     {
-      "Action": "Feels captivated and entranced by Elaine, shows sincere admiration.",
-      "Warmth": 1,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Freezes in terror upon seeing the airplane, agonizing over war recollections.",
+      "assessment": "This hesitation and visible fear indicate a significant lack of confidence and emotional control, negatively impacting his competence.",
+      "rating": -2,
+      "chunk": 9
     },
     {
-      "Action": "Asks longshoreman to pinch him to confirm reality, indicating vulnerability and openness.",
-      "Warmth": 1,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Despite terror, musters courage and walks toward the airplane.",
+      "assessment": "This demonstrates resilience and the ability to overcome fear, a positive indicator of competence under pressure.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Is afraid to approach Elaine but remains hopeful, showing cautious friendliness and sincerity.",
-      "Warmth": 1,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Politely thanks Randy when given his seat assignment.",
+      "assessment": "Expressing gratitude in a simple interaction shows basic courtesy and friendliness.",
+      "rating": 1,
+      "chunk": 10
     },
     {
-      "Action": "Asks a burly longshoreman to pinch him to make sure he isn't dreaming about seeing Elaine.",
-      "Competence": 0,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Acknowledges nervousness when asked by the elderly woman and shares a bit about his past as a pilot.",
+      "assessment": "Being open about his feelings and past suggests a degree of sincerity and willingness to connect, indicating warmth.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Is captivated and entranced by Elaine dancing with a cutthroat.",
-      "Competence": 0,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Sits quietly and observes Elaine without making his presence known to her.",
+      "assessment": "This omission to reveal himself to Elaine could indicate hesitance or emotional distance, which may reflect lower warmth in this context.",
+      "rating": -1,
+      "chunk": 10
     },
     {
-      "Action": "Is afraid to approach Elaine but stays at the bar instead of taking direct action.",
-      "Competence": -1,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Musters his courage and walks toward the airplane despite obvious nervousness.",
+      "assessment": "This shows a degree of bravery and determination, indicating some inner strength and willingness to face challenges, which are positive indicators of competence.",
+      "rating": 1,
+      "chunk": 10
     },
     {
-      "Action": "Eagerly fills in as Elaine's dancing partner and performs impressive dance stunts with her, indicating enthusiasm and engagement.",
-      "Warmth": 1,
-      "Chunk": 16
+      "trait": "competence",
+      "action": "Acknowledges his nervousness openly to the elderly woman and admits he used to be a pilot during the war.",
+      "assessment": "His honesty and self-awareness about his nervousness suggest a realistic self-assessment, but the nervousness itself may imply some lack of current confidence or readiness.",
+      "rating": 0,
+      "chunk": 10
     },
     {
-      "Action": "Expresses sincere emotions about dancing and talking with Elaine, showing openness and friendliness.",
-      "Warmth": 1,
-      "Chunk": 16
+      "trait": "competence",
+      "action": "Sits down and fastens his seat belt promptly after boarding.",
+      "assessment": "This shows basic situational awareness and adherence to safety protocols, a minimal but positive sign of competence.",
+      "rating": 1,
+      "chunk": 10
     },
     {
-      "Action": "Acknowledges getting carried away when talking about Elaine, showing candidness and sincerity.",
-      "Warmth": 1,
-      "Chunk": 16
+      "trait": "warmth",
+      "action": "Walks to rear of plane and looks out window, swallows a couple of pills when feeling uneasy about flying.",
+      "assessment": "Ted's behavior shows vulnerability and a need for self-care, but he does not interact with others in this moment, indicating a neutral level of warmth.",
+      "rating": 0,
+      "chunk": 13
     },
     {
-      "Action": "Striker eagerly fills in unnoticed, demonstrating confidence and enthusiasm in social interaction (dancing complex routines and stunts).",
-      "Competence": 1,
-      "Chunk": 16
+      "trait": "competence",
+      "action": "Walks to rear of plane and looks out window, then swallows a couple of pills.",
+      "assessment": "This action suggests nervousness or lack of confidence about flying, indicating some self-doubt or anxiety rather than assured competence.",
+      "rating": -1,
+      "chunk": 13
     },
     {
-      "Action": "Shows awkwardness or distraction when a woman nearby hangs herself unnoticed while he talks, revealing a lack of awareness of his surroundings.",
-      "Competence": -1,
-      "Chunk": 16
+      "trait": "competence",
+      "action": "Responds to Randy's inquiry about feeling all right by admitting he hasn't flown for a long time.",
+      "assessment": "This honest admission reflects self-awareness but also highlights a potential gap in recent practical experience, which may undermine his current competence.",
+      "rating": -1,
+      "chunk": 13
     },
     {
-      "Action": "Embraces Elaine passionately, expresses love sincerely despite upcoming dangerous mission.",
-      "Warmth": 1,
-      "Chunk": 18
+      "trait": "warmth",
+      "action": "Approaches Elaine to talk to her despite her initial reluctance.",
+      "assessment": "Ted's decision to approach Elaine and attempt communication shows a willingness to engage and resolve issues, indicating sincerity and a desire to maintain connection.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Expresses concern and seriousness about leading an important mission, indicating awareness and responsibility.",
-      "Competence": 1,
-      "Chunk": 18
+      "trait": "warmth",
+      "action": "Sits down near Mrs. Elderly and Elaine despite the awkwardness.",
+      "assessment": "By sitting down and staying present, Ted demonstrates a degree of tolerance and patience, even in a socially uncomfortable situation.",
+      "rating": 1,
+      "chunk": 14
     },
     {
-      "Action": "Appears bored while on the plane, possibly disengaged or distracted.",
-      "Competence": -1,
-      "Chunk": 18
+      "trait": "warmth",
+      "action": "Reflects on his past relationship with Elaine and acknowledges that things used to be different.",
+      "assessment": "This reflection suggests Ted values his past connection and is emotionally sincere, showing a capacity for warmth through nostalgia and regret.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Tries to reconcile with Elaine and asks her to hear him out, expressing a desire to return to better times.",
-      "Warmth": 1,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Approaches Elaine to talk despite her reluctance and sits down next to her.",
+      "assessment": "This shows Ted's determination and willingness to confront difficult personal issues, indicating some emotional courage and initiative, which can be aspects of competence in interpersonal situations.",
+      "rating": 1,
+      "chunk": 14
     },
     {
-      "Action": "Reflects on past emotional moments sincerely, showing vulnerability and longing for connection.",
-      "Warmth": 1,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Reflects on his past, recalling when he first met Elaine during the war.",
+      "assessment": "This introspection suggests self-awareness and the ability to connect past experiences to present circumstances, which can be a sign of thoughtful competence.",
+      "rating": 1,
+      "chunk": 14
     },
     {
-      "Action": "Appears withdrawn and troubled by past trauma, struggling with living in the past.",
-      "Warmth": 0,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Striker's seat is initially vacant, implying he was not present or engaged earlier.",
+      "assessment": "His absence from his seat at a critical time may indicate a lack of responsibility or focus, which detracts from his overall competence.",
+      "rating": -1,
+      "chunk": 14
     },
     {
-      "Action": "Continues to engage with Elaine despite emotional distance and her tears, indicating persistence and care.",
-      "Warmth": 1,
-      "Chunk": 21
+      "trait": "warmth",
+      "action": "Striker is captivated by Elaine dancing with a dangerous-looking man and feels entranced by her.",
+      "assessment": "His immediate captivation and entrancement suggest a sincere and genuine emotional response, indicating warmth through his openness to connection.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Attempts to reconcile with Elaine and expresses a desire for a better future.",
-      "Competence": 0,
-      "Chunk": 21
+      "trait": "warmth",
+      "action": "Striker asks the burly longshoreman next to him to pinch him to make sure he isn't dreaming.",
+      "assessment": "This action shows vulnerability and a childlike sincerity, reflecting a warm and genuine internal state.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Remembers crashing his fighter plane after being warned he was too low.",
-      "Competence": -1,
-      "Chunk": 21
+      "trait": "warmth",
+      "action": "Striker is afraid to approach Elaine but is hopeful that fate will help him.",
+      "assessment": "His hesitation indicates a respectful and cautious approach rather than aggressive or intrusive behavior, which can be seen as a positive indicator of warmth.",
+      "rating": 1,
+      "chunk": 15
     },
     {
-      "Action": "Recovers sufficiently to be cleared of blame for the raid, implying some measure of competence.",
-      "Competence": 1,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Asks the burly longshoreman next to him to pinch him to make sure he isn't dreaming.",
+      "assessment": "This action shows Ted's emotional vulnerability and hesitation, indicating a lack of confidence and decisiveness in approaching Elaine.",
+      "rating": -1,
+      "chunk": 15
     },
     {
-      "Action": "Expresses deep remorse and sorrow for his mistake causing death of comrades.",
-      "Warmth": 1,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Observes the chaotic bar scene and maintains composure, narrating the environment calmly.",
+      "assessment": "Ted demonstrates situational awareness and the ability to stay composed in a rough environment, suggesting moderate competence in handling stressful social settings.",
+      "rating": 1,
+      "chunk": 15
     },
     {
-      "Action": "Allows Sgt. McCobb to take a break from posing for his painting, showing practical consideration.",
-      "Warmth": 1,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Does not immediately approach Elaine despite being captivated and entranced.",
+      "assessment": "Ted's hesitation to act on his feelings shows a lack of assertiveness and confidence, which detracts from his overall competence.",
+      "rating": -1,
+      "chunk": 15
     },
     {
-      "Action": "Shows despondency and self-blame, which could indicate introspection but not necessarily warmth.",
-      "Warmth": 0,
-      "Chunk": 22
+      "trait": "warmth",
+      "action": "Eagerly fills in as Elaine's dancing partner after her original partner is stabbed.",
+      "assessment": "Stepping in to support Elaine in a moment of crisis shows attentiveness and willingness to help, indicating warmth.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Identifies Lieutenant Hurwitz's condition as severe shell shock and understands his delusion.",
-      "Competence": 1,
-      "Chunk": 23
+      "trait": "warmth",
+      "action": "Performs impressive and daring dance moves with Elaine, including jumping through flaming hoops.",
+      "assessment": "Engaging in fun and impressive activities together suggests a friendly and sincere effort to connect and entertain, reflecting positive warmth.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Politely refuses coffee service.",
-      "Competence": 0,
-      "Chunk": 23
+      "trait": "warmth",
+      "action": "Dances slowly with Elaine as the bar closes, enjoying a quiet moment together.",
+      "assessment": "Sharing a calm, intimate moment indicates genuine affection and friendliness, supporting a warm character trait.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Striker attempts to demonstrate a two-handed set shot but misses.",
-      "Competence": -1,
-      "Chunk": 27
+      "trait": "warmth",
+      "action": "Talks openly and enthusiastically about Elaine, losing track of time.",
+      "assessment": "Expressing sincere feelings and enthusiasm about someone he cares for shows emotional openness and warmth.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Striker successfully implements a physical fitness and nutrition program that improves natives' abilities, encouraging group cooperation and controlled competition.",
-      "Competence": 1,
-      "Chunk": 27
+      "trait": "warmth",
+      "action": "Makes a lighthearted comment about losing track of time when talking about Elaine.",
+      "assessment": "Using humor to connect and engage others in conversation suggests friendliness and approachability.",
+      "rating": 1,
+      "chunk": 16
     },
     {
-      "Action": "Striker expresses optimism and plans to teach baseball, showing leadership and initiative.",
-      "Competence": 1,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Eagerly fills in as Elaine's dancing partner and performs fancy disco steps, flips, acrobatics, and incredible stunts like jumping through flaming hoops.",
+      "assessment": "This action demonstrates physical skill, confidence, and the ability to perform complex and risky maneuvers, indicating a high level of competence in this context.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Striker does not address Elaine's doubts about their relationship effectively, leading to her walking away dejectedly.",
-      "Competence": -1,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Engages in slow dancing and conversation with Elaine, showing emotional openness and social ease.",
+      "assessment": "While not directly related to technical competence, this shows interpersonal confidence and emotional intelligence, which can be considered positive indicators of overall competence.",
+      "rating": 1,
+      "chunk": 16
     },
     {
-      "Action": "Striker acknowledges his drinking problem triggered by relationship and personal struggles, indicating self-awareness but also personal difficulties impacting competence.",
-      "Competence": 0,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Distractedly talks about Elaine and loses track of time, even as a woman nearby has hung herself.",
+      "assessment": "This suggests a lack of situational awareness and emotional detachment from serious surroundings, indicating a lapse in competence in terms of attention and judgment.",
+      "rating": -2,
+      "chunk": 16
     },
     {
-      "Action": "Admits he couldn't bring himself to take a job at Boeing, showing vulnerability and understanding of Elaine's desire for a career.",
-      "Warmth": 1,
-      "Chunk": 28
+      "trait": "warmth",
+      "action": "Embraces Elaine passionately and expresses love to her despite the looming danger of deployment.",
+      "assessment": "Ted's affectionate embrace and sincere declaration of love show his capacity for deep emotional connection and care, indicating warmth.",
+      "rating": 3,
+      "chunk": 18
     },
     {
-      "Action": "Reflects on past job offers and personal failures, indicating he couldn't bring himself to take a reasonable job at Boeing.",
-      "Competence": -1,
-      "Chunk": 28
+      "trait": "warmth",
+      "action": "Frowns upon hearing his orders to ship out on an important mission, showing concern about leaving Elaine.",
+      "assessment": "His visible concern about leaving Elaine behind reflects his emotional sensitivity and attachment, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "No active involvement or response shown in critical flight situation; remains absent or passive during cockpit struggles.",
-      "Competence": -1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Frowns and reveals that his squadron ships out tomorrow and he will be leading a very important mission.",
+      "assessment": "This indicates that Ted holds a position of responsibility and leadership in a military context, suggesting a level of competence and trust placed in him by superiors.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Struggles with a drinking problem, pouring a drink between his cheek and ear indicating distraction or avoidance.",
-      "Warmth": -1,
-      "Chunk": 38
+      "trait": "competence",
+      "action": "Embraces Elaine passionately and shares a tender moment despite upcoming mission.",
+      "assessment": "While this shows emotional connection and focus on personal relationships, it does not directly reflect on his professional competence.",
+      "rating": 0,
+      "chunk": 18
     },
     {
-      "Action": "Struggling with drinking problem, pours drink between his cheek and ear instead of drinking properly.",
-      "Competence": -1,
-      "Chunk": 38
+      "trait": "warmth",
+      "action": "Striker tries to reconcile with Elaine by asking her to hear him out and reminding her of their past together.",
+      "assessment": "This shows a sincere and vulnerable attempt to reconnect and restore a meaningful relationship, indicating warmth and emotional openness.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Sits next to a man and tries to engage him in conversation by telling a story about his village and travel struggles.",
-      "Warmth": 1,
-      "Chunk": 40
+      "trait": "warmth",
+      "action": "Striker expresses a desire for their relationship to be like it was in the beginning, emphasizing shared positive memories.",
+      "assessment": "Focusing on positive shared experiences reflects a hopeful and affectionate attitude, which is a warm and genuine behavior.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Continues talking while the man next to him begins to self-immolate, not noticing the man's distress.",
-      "Warmth": -1,
-      "Chunk": 40
+      "trait": "warmth",
+      "action": "Striker remains silent and introspective after Elaine leaves teary-eyed.",
+      "assessment": "His silence here may indicate emotional pain and regret, but also a lack of immediate defensive or hostile reaction, suggesting a sensitive and sincere nature.",
+      "rating": 1,
+      "chunk": 21
     },
     {
-      "Action": "Engages in storytelling calmly while a tense situation unfolds nearby.",
-      "Competence": 0,
-      "Chunk": 40
+      "trait": "warmth",
+      "action": "Striker is shown painting a canvas in a psychiatric hospital, with Elaine sitting at his bedside.",
+      "assessment": "Engaging in creative expression and having Elaine present suggests he values connection and is open to healing, which are positive warmth indicators.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Hesitates but ultimately agrees to assist with flying duties despite personal doubts.",
-      "Warmth": 1,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Attempts to reconcile with Elaine by appealing to their past relationship and expressing a desire to change.",
+      "assessment": "This shows emotional awareness and a willingness to take responsibility, but it does not directly demonstrate professional or practical competence.",
+      "rating": 0,
+      "chunk": 21
     },
     {
-      "Action": "Responds politely and sincerely when questioned about his flying experience.",
-      "Warmth": 1,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Flashback to fighter plane diving too low and crashing.",
+      "assessment": "This indicates a critical failure in piloting skills under pressure, suggesting a significant lapse in competence in his military role.",
+      "rating": -3,
+      "chunk": 21
     },
     {
-      "Action": "Has moment of indecision before agreeing to help in the cockpit, shows hesitation and self-doubt about his flying ability.",
-      "Competence": -1,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Striker is shown in a psychiatric hospital recovering from trauma related to his crash.",
+      "assessment": "This implies that his mental state and coping mechanisms were compromised, negatively impacting his ability to perform competently as a pilot.",
+      "rating": -2,
+      "chunk": 21
     },
     {
-      "Action": "Acknowledges he flew in the war but claims not to know anything about the plane, indicating lack of confidence or current knowledge.",
-      "Competence": -1,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Receiving a telegram clearing him of blame for the raid incident.",
+      "assessment": "Being officially cleared suggests that external authorities recognize mitigating circumstances or that he was not grossly negligent, which somewhat mitigates the negative view of his competence.",
+      "rating": 1,
+      "chunk": 21
     },
     {
-      "Action": "Responds to question about flying experience with a qualified statement about flying single-engine fighters but doubts ability to fly a complex four-engine plane, showing partial honesty but uncertainty.",
-      "Competence": 0,
-      "Chunk": 41
+      "trait": "warmth",
+      "action": "Expresses deep guilt and sorrow over the deaths of men in the raid, including Lieutenant Zipp.",
+      "assessment": "Ted's remorse and acknowledgment of responsibility for the loss of his comrades shows his sincere and caring nature, indicating emotional warmth and a strong sense of loyalty.",
+      "rating": 3,
+      "chunk": 22
     },
     {
-      "Action": "Admits he hasn't flown any kind of plane in six years and expresses concern about flying a plane very different from his military single-engine experience.",
-      "Competence": -1,
-      "Chunk": 42
+      "trait": "warmth",
+      "action": "Allows Sgt. McCobb to take a break from posing for his painting.",
+      "assessment": "Granting a break to Sgt. McCobb suggests Ted is considerate and respectful of others' comfort, reflecting a friendly and tolerant attitude.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Turns to face the controls and is identified by Dr. Rumack as the only person on the plane who can possibly fly it, indicating trust in his ability despite his doubts.",
-      "Competence": 1,
-      "Chunk": 42
+      "trait": "warmth",
+      "action": "Responds to Elaine's encouragement with despondency and reluctance to move on from his guilt.",
+      "assessment": "While his despondency shows emotional struggle, it also reveals a sincere and vulnerable side, which can be interpreted as a form of warmth through emotional honesty, though it may limit his outward friendliness at this moment.",
+      "rating": 1,
+      "chunk": 22
     },
     {
-      "Action": "Is described as someone who 'felt too much inside' and 'ate his heart out over every name on the casualty lists.'",
-      "Warmth": 1,
-      "Chunk": 43
+      "trait": "competence",
+      "action": "Expresses deep guilt over his mistake that led to the deaths of six men on a raid.",
+      "assessment": "This shows self-awareness and responsibility, which are important for competence, but also suggests he may be burdened by past failure, potentially impairing confidence.",
+      "rating": 0,
+      "chunk": 22
     },
     {
-      "Action": "Failed to perform under pressure during one mission, 'went all to pieces.'",
-      "Warmth": 0,
-      "Chunk": 43
+      "trait": "competence",
+      "action": "Is despondent and emotionally affected by the loss of comrades.",
+      "assessment": "Emotional despondency indicates a lack of emotional resilience, which can negatively impact his ability to act competently under pressure.",
+      "rating": -1,
+      "chunk": 22
     },
     {
-      "Action": "Attempts to pilot the plane in a desperate situation despite his own doubts.",
-      "Warmth": 1,
-      "Chunk": 44
+      "trait": "competence",
+      "action": "Is recognized by others (Elaine) as someone who needs time to recover and is not expected to immediately overcome his trauma.",
+      "assessment": "This external perception suggests that Ted is currently not seen as fully competent or ready, implying a temporary lapse in his usual capability.",
+      "rating": -1,
+      "chunk": 22
     },
     {
-      "Action": "Calmly communicates mayday and tries to manage the situation without panic.",
-      "Warmth": 1,
-      "Chunk": 44
+      "trait": "warmth",
+      "action": "Responds politely to Randy's offer of coffee with 'No. No thank you.'",
+      "assessment": "Ted's polite refusal shows basic courtesy but no additional warmth or friendliness.",
+      "rating": 1,
+      "chunk": 23
     },
     {
-      "Action": "Recites technical flight details accurately and attempts to operate controls, showing knowledge and initial confidence.",
-      "Competence": 1,
-      "Chunk": 44
+      "trait": "warmth",
+      "action": "Striker and Elaine join the Peace Corps and are assigned to an isolated tribe, where they work to gain the tribe's trust.",
+      "assessment": "Joining the Peace Corps and working to build trust with an isolated tribe shows a willingness to engage positively with others and a sincere effort to connect across cultural boundaries.",
+      "rating": 3,
+      "chunk": 26
     },
     {
-      "Action": "Flips a switch that causes the plane to dive unintentionally, indicating lack of control or error under pressure.",
-      "Competence": -1,
-      "Chunk": 44
+      "trait": "warmth",
+      "action": "Striker uses a power grip handshake and gives the chief a 'five' after the chief extends his hand.",
+      "assessment": "Attempting to engage in friendly gestures and adapting to social cues indicates friendliness and a desire to be accepted, though the chief's reaction suggests some cultural misunderstanding.",
+      "rating": 1,
+      "chunk": 26
     },
     {
-      "Action": "Calls Mayday and regains control by flipping a switch to right the plane, demonstrating some ability to recover from mistakes.",
-      "Competence": 1,
-      "Chunk": 44
+      "trait": "warmth",
+      "action": "Striker perseveres in introducing Western culture to the tribe despite challenges.",
+      "assessment": "While the effort to share culture can be seen as open and engaging, it may also reflect a lack of full cultural sensitivity or tolerance, depending on the approach; however, the persistence suggests good-natured intent.",
+      "rating": 1,
+      "chunk": 26
     },
     {
-      "Action": "Claims he was 'just trying out the landing lights' to McCroskey, which seems like a weak excuse and suggests lack of full confidence or control in communication.",
-      "Competence": -1,
-      "Chunk": 44
+      "trait": "warmth",
+      "action": "Striker is shown nailing a crude basketball rim and net to a tree in the jungle.",
+      "assessment": "Creating a recreational activity for the tribe shows thoughtfulness and a friendly attempt to bring enjoyment and community bonding.",
+      "rating": 2,
+      "chunk": 26
     },
     {
-      "Action": "Previously was a top-notch squadron leader during the war.",
-      "Competence": 1,
-      "Chunk": 46
+      "trait": "competence",
+      "action": "Striker and Elaine joined the Peace Corps and were assigned to an isolated tribe, the Molombos.",
+      "assessment": "This indicates a willingness to take on challenging and unfamiliar situations, suggesting adaptability and a degree of competence in handling new environments.",
+      "rating": 1,
+      "chunk": 26
     },
     {
-      "Action": "Currently has no airline experience, described as a terrible risk and a menace in the air.",
-      "Competence": -1,
-      "Chunk": 46
+      "trait": "competence",
+      "action": "Striker attempts a power grip handshake with the tribal chief and follows it with a 'five' gesture.",
+      "assessment": "This shows an attempt to connect and communicate using familiar cultural gestures, but the chief's reaction (decking Striker) suggests a misjudgment or lack of cultural competence in this interaction.",
+      "rating": -1,
+      "chunk": 26
     },
     {
-      "Action": "Expected by colleagues to possibly 'fold up' under pressure during a critical flight.",
-      "Competence": -1,
-      "Chunk": 46
+      "trait": "competence",
+      "action": "Striker narrates that they gained the tribe's trust over time despite initial uncertainty.",
+      "assessment": "This implies persistence and eventual success in building rapport, reflecting social competence and patience.",
+      "rating": 2,
+      "chunk": 26
     },
     {
-      "Action": "Admits to lacking experience and need for luck to Captain Kramer.",
-      "Warmth": 1,
-      "Chunk": 47
+      "trait": "competence",
+      "action": "Striker is shown nailing a crude basketball rim and net to a tree in the jungle.",
+      "assessment": "This demonstrates practical skills and resourcefulness in creating recreational equipment in a remote setting, indicating hands-on competence.",
+      "rating": 2,
+      "chunk": 26
     },
     {
-      "Action": "Admits he has never flown a plane like this and says he will need all the luck there is.",
-      "Competence": -1,
-      "Chunk": 47
+      "trait": "warmth",
+      "action": "Nails a basketball rim and net to a tree and teaches isolated natives basketball, emphasizing physical fitness, nutrition, group cooperation, and controlled-competitive activity.",
+      "assessment": "Striker’s efforts to teach and improve the natives’ physical fitness and social cooperation demonstrate a good-natured, sincere, and inclusive attitude, reflecting warmth through his willingness to help and engage positively with others.",
+      "rating": 3,
+      "chunk": 27
     },
     {
-      "Action": "Admits to never having flown a multi-engine plane before.",
-      "Warmth": 1,
-      "Chunk": 48
+      "trait": "warmth",
+      "action": "Expresses enthusiasm about teaching the natives baseball if they re-enlist.",
+      "assessment": "Shows friendly and optimistic intentions to continue engaging with the group and fostering camaraderie, indicating warmth and a positive outlook.",
+      "rating": 2,
+      "chunk": 27
     },
     {
-      "Action": "Listens carefully to Kramer's instructions, showing willingness to cooperate.",
-      "Warmth": 1,
-      "Chunk": 48
+      "trait": "warmth",
+      "action": "Responds to Elaine’s desire to leave by referencing others who made plans before the war, such as George Zipp.",
+      "assessment": "This comment is somewhat dismissive and indirect, potentially showing a lack of direct emotional support or empathy toward Elaine’s feelings, which may indicate a lower level of warmth in this interaction.",
+      "rating": -1,
+      "chunk": 27
     },
     {
-      "Action": "Internalizes negativity from Kramer's earlier harsh words overheard on radio.",
-      "Warmth": 0,
-      "Chunk": 48
+      "trait": "warmth",
+      "action": "Reflects internally that Elaine’s doubts about their relationship contributed to his drinking problem.",
+      "assessment": "This self-awareness and acknowledgment of personal struggles related to relationships show sincerity and vulnerability, which are aspects of warmth, though it also reveals personal difficulty.",
+      "rating": 1,
+      "chunk": 27
     },
     {
-      "Action": "Admits he has never flown a multi-engine plane before.",
-      "Competence": -1,
-      "Chunk": 48
+      "trait": "warmth",
+      "action": "Pours Gator-Ade on his forehead instead of drinking it.",
+      "assessment": "This action suggests self-destructive or avoidant behavior rather than warmth; it may indicate emotional distress and a lack of self-care, which negatively impacts his warmth perception.",
+      "rating": -2,
+      "chunk": 27
     },
     {
-      "Action": "Attempts to follow instructions and familiarize himself with the controls.",
-      "Competence": 1,
-      "Chunk": 48
+      "trait": "competence",
+      "action": "Nails a crude basketball rim and net to a tree to teach natives basketball.",
+      "assessment": "This shows initiative and resourcefulness in creating a makeshift sports setup, indicating practical problem-solving skills.",
+      "rating": 2,
+      "chunk": 27
     },
     {
-      "Action": "Hesitates and appears inexperienced while attempting to disengage the autopilot.",
-      "Competence": -1,
-      "Chunk": 48
+      "trait": "competence",
+      "action": "Demonstrates a two-handed set shot to natives but misses.",
+      "assessment": "Missing the shot suggests a lack of skill or coordination in basketball, which slightly undermines his physical competence in this context.",
+      "rating": -1,
+      "chunk": 27
     },
     {
-      "Action": "Struggles desperately to control the plane despite difficult conditions.",
-      "Warmth": 1,
-      "Chunk": 49
+      "trait": "competence",
+      "action": "Teaches isolated natives physical fitness, nutrition, and group cooperation through basketball.",
+      "assessment": "This reflects leadership, planning, and the ability to communicate and implement a fitness program effectively, indicating strong competence.",
+      "rating": 3,
+      "chunk": 27
     },
     {
-      "Action": "Reassures Elaine by assigning her the radio and asking her to monitor engine status.",
-      "Warmth": 1,
-      "Chunk": 49
+      "trait": "competence",
+      "action": "Expresses optimism about teaching baseball after basketball.",
+      "assessment": "Shows forward-thinking and confidence in his ability to continue teaching and leading, a positive indicator of competence.",
+      "rating": 2,
+      "chunk": 27
     },
     {
-      "Action": "Acknowledges Elaine's report and shares weather conditions openly, maintaining communication.",
-      "Warmth": 1,
-      "Chunk": 49
+      "trait": "competence",
+      "action": "Acknowledges Elaine's doubts about their relationship and links it to his drinking problem.",
+      "assessment": "Demonstrates self-awareness about personal issues affecting his life, but the drinking problem itself is a negative factor that can impair competence.",
+      "rating": -2,
+      "chunk": 27
     },
     {
-      "Action": "Struggles to regain control of the plane during a crisis to protect and calm passengers.",
-      "Warmth": 1,
-      "Chunk": 54
+      "trait": "competence",
+      "action": "Pours Gator-Ade on his forehead instead of drinking it.",
+      "assessment": "This odd behavior suggests a lack of focus or possible emotional distress, indicating a momentary lapse in competence.",
+      "rating": -1,
+      "chunk": 27
     },
     {
-      "Action": "Communicates to Chicago that passengers are panicking and seeks instructions, showing concern for others' safety and well-being.",
-      "Warmth": 1,
-      "Chunk": 54
+      "trait": "warmth",
+      "action": "Says 'You know, I really couldn't blame Elaine. She wanted a career.'",
+      "assessment": "Ted shows understanding and acceptance of Elaine's desire for independence and career, indicating tolerance and sincerity.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "Struggling with the controls during a critical moment but ultimately regains control of the plane.",
-      "Competence": 1,
-      "Chunk": 54
+      "trait": "warmth",
+      "action": "Mentions he was offered a job at Boeing but couldn't bring himself to take it.",
+      "assessment": "This reveals Ted's internal struggle and possible self-doubt, but does not directly reflect warmth; it shows vulnerability but not necessarily warmth toward others.",
+      "rating": 0,
+      "chunk": 28
     },
     {
-      "Action": "Appears tense and under pressure but acts decisively by communicating with Chicago about passenger panic and landing plans.",
-      "Competence": 1,
-      "Chunk": 54
+      "trait": "competence",
+      "action": "Reflects on his inability to take a job at Boeing despite being offered one.",
+      "assessment": "This suggests a lack of confidence or motivation to pursue a stable career opportunity, indicating some self-doubt or emotional barriers affecting his competence.",
+      "rating": -2,
+      "chunk": 28
     },
     {
-      "Action": "Communicates with Chicago regarding passengers panicking and asks when to start descent.",
-      "Competence": 0,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "Acknowledges Elaine's desire for a career and seems to accept his own shortcomings.",
+      "assessment": "This shows a degree of self-awareness and emotional intelligence, which can be a subtle positive indicator of competence in interpersonal understanding.",
+      "rating": 1,
+      "chunk": 28
     },
     {
-      "Action": "Does not appear to take immediate corrective action or show problem-solving when off course.",
-      "Competence": -1,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "No direct action or statement from Ted Striker is present in this excerpt; the cockpit is occupied by other characters, and Ted's behavior is not described.",
+      "assessment": "Since Ted Striker does not appear or act in this section, no inference about his competence can be made here.",
+      "rating": 0,
+      "chunk": 30
     },
     {
-      "Action": "Plays a musical instrument with others in cockpit instead of focusing on piloting.",
-      "Competence": -1,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "Ted Striker is notably absent from taking control or attempting to assist in the cockpit during the crisis.",
+      "assessment": "Ted's lack of action in a critical emergency situation suggests a failure to step up or demonstrate competence when needed most.",
+      "rating": -2,
+      "chunk": 34
     },
     {
-      "Action": "Is identified as the pilot of the plane by McCroskey, noted as an experienced air force pilot who flew during the war, suggesting recognized competence.",
-      "Competence": 1,
-      "Chunk": 56
+      "trait": "competence",
+      "action": "No direct action or statement by Ted Striker is present in this excerpt; the focus is on McCroskey, Elaine, and air traffic control.",
+      "assessment": "Ted Striker does not appear or act in this section, so no direct indicators of his competence can be inferred here.",
+      "rating": 0,
+      "chunk": 36
     },
     {
-      "Action": "Asks about the passengers and shows concern for their condition.",
-      "Warmth": 1,
-      "Chunk": 57
+      "trait": "warmth",
+      "action": "Struggling with his drinking problem, pours a drink between his cheek and ear instead of drinking it.",
+      "assessment": "This action shows Ted's internal struggle and vulnerability, indicating a flawed but human side rather than outright coldness or hostility. However, it also suggests avoidance rather than proactive care for others at a critical moment.",
+      "rating": 0,
+      "chunk": 38
     },
     {
-      "Action": "Tries to stay calm and keep his wits to handle the crisis effectively.",
-      "Warmth": 1,
-      "Chunk": 57
+      "trait": "competence",
+      "action": "Struggling with drinking problem, pours drink between his cheek and ear.",
+      "assessment": "This action indicates a lack of focus and possible impairment, suggesting Ted is currently not in a competent state to handle critical situations.",
+      "rating": -2,
+      "chunk": 38
     },
     {
-      "Action": "Gently dismisses Elaine's self-blame with 'Forget it. It's not your fault.'",
-      "Warmth": 1,
-      "Chunk": 57
+      "trait": "warmth",
+      "action": "Engages in friendly conversation with a man from India, sharing a personal story about his village and travel experiences.",
+      "assessment": "Striker's willingness to share personal stories and engage with a stranger in a friendly manner indicates openness and a degree of sincerity, reflecting positive warmth.",
+      "rating": 2,
+      "chunk": 40
     },
     {
-      "Action": "Thinks about telling Elaine something important, showing emotional openness.",
-      "Warmth": 1,
-      "Chunk": 57
+      "trait": "warmth",
+      "action": "Sits quietly next to the man from India without noticing or reacting to the man's self-immolation attempt.",
+      "assessment": "Striker appears unaware or unresponsive to the serious distress of the man next to him, which suggests a lack of attentiveness or empathy in this moment, indicating lower warmth.",
+      "rating": -1,
+      "chunk": 40
     },
     {
-      "Action": "Asks about hospital equipment and passengers' condition; expresses concern and tries to stay calm and keep wits about him.",
-      "Competence": 1,
-      "Chunk": 57
+      "trait": "competence",
+      "action": "Sitting calmly next to a man who is about to self-immolate, continuing to tell a story about his village and jeep troubles.",
+      "assessment": "Ted's calm demeanor in a tense and dangerous situation suggests a degree of composure, but his failure to immediately react to the imminent threat indicates a lack of situational awareness or urgency, which detracts from his competence.",
+      "rating": -1,
+      "chunk": 40
     },
     {
-      "Action": "Shows some doubt and worry, seeks reassurance and support, indicating internal struggle.",
-      "Competence": 0,
-      "Chunk": 57
+      "trait": "warmth",
+      "action": "Agrees to go to the cockpit to help with flying despite his hesitation and self-doubt.",
+      "assessment": "Although initially hesitant and doubtful of his abilities, Striker ultimately chooses to help in a crisis, showing a willingness to support others in need.",
+      "rating": 2,
+      "chunk": 41
     },
     {
-      "Action": "Admits to forgetting to check oil pressure and acknowledges he can't handle the pressure.",
-      "Warmth": 1,
-      "Chunk": 60
+      "trait": "warmth",
+      "action": "Downplays his flying experience and expresses insecurity about his ability to fly the plane.",
+      "assessment": "His modesty and honesty about his limitations suggest sincerity and a lack of arrogance, which are positive warmth indicators, though it also reflects some self-doubt.",
+      "rating": 1,
+      "chunk": 41
     },
     {
-      "Action": "Expresses self-doubt about his ability to land the plane.",
-      "Warmth": 0,
-      "Chunk": 60
+      "trait": "competence",
+      "action": "Hesitates initially when asked if he knows anything about planes, downplaying his experience by saying 'I wouldn't know anything about it.'",
+      "assessment": "This hesitation and self-doubt suggest a lack of confidence in his own skills, which negatively impacts his perceived competence.",
+      "rating": -1,
+      "chunk": 41
     },
     {
-      "Action": "Admits he cannot take the pressure and chooses not to attempt landing the plane.",
-      "Competence": -1,
-      "Chunk": 61
+      "trait": "competence",
+      "action": "Accepts to go to the cockpit to assist despite his hesitation and admitted long time since last flying.",
+      "assessment": "This willingness to step up in a crisis indicates a baseline level of responsibility and capability, a positive indicator of competence.",
+      "rating": 1,
+      "chunk": 41
     },
     {
-      "Action": "Leaves autopilot in pilot's seat and pours water on his head, showing dejection.",
-      "Competence": -1,
-      "Chunk": 61
+      "trait": "competence",
+      "action": "Upon entering the cockpit, quickly assesses the situation by noting the empty pilot's seat and the inflated automatic pilot.",
+      "assessment": "This quick situational awareness shows observational skills and presence of mind, reflecting competent behavior.",
+      "rating": 2,
+      "chunk": 41
     },
     {
-      "Action": "Acknowledges he has done the best he could according to Dr. Rumack's words.",
-      "Competence": 0,
-      "Chunk": 61
+      "trait": "competence",
+      "action": "Responds to Dr. Rumack's question about flying the plane with a sarcastic 'Surely you can't be serious.'",
+      "assessment": "This sarcastic reply may indicate nervousness or lack of confidence, slightly undermining his perceived competence.",
+      "rating": -1,
+      "chunk": 41
     },
     {
-      "Action": "Shows determination to land the plane despite risks, taking responsibility for the safety of all onboard.",
-      "Warmth": 1,
-      "Chunk": 62
+      "trait": "competence",
+      "action": "Explains his flying experience honestly, noting he flew single-engine fighters but acknowledges the difference with the current four-engine plane.",
+      "assessment": "This honest self-assessment shows awareness of his limitations, which is a mature and competent trait, though it also highlights his lack of recent or relevant experience.",
+      "rating": 0,
+      "chunk": 41
     },
     {
-      "Action": "Urgently communicates the critical condition of sick people, emphasizing the urgency sincerely.",
-      "Warmth": 1,
-      "Chunk": 62
+      "trait": "competence",
+      "action": "Acknowledges that he has not flown any kind of plane in six years and that flying a four-engine plane is entirely different from his single-engine fighter experience.",
+      "assessment": "This shows self-awareness and honesty about his current skill level, which is a positive indicator of competence as it reflects realistic self-assessment.",
+      "rating": 1,
+      "chunk": 42
     },
     {
-      "Action": "Takes control and asserts authority in a crisis to protect others.",
-      "Warmth": 1,
-      "Chunk": 62
+      "trait": "competence",
+      "action": "Turns to face the controls when told he is the only person who can possibly fly the plane.",
+      "assessment": "Despite his doubts and long absence from flying, he steps up to the challenge, indicating a willingness to act under pressure, which is a positive sign of competence.",
+      "rating": 2,
+      "chunk": 42
     },
     {
-      "Action": "Decides to take control of the plane and insists on landing despite warnings.",
-      "Competence": 1,
-      "Chunk": 62
+      "trait": "warmth",
+      "action": "Kramer describes Ted Striker as someone who 'felt too much inside' and 'ate his heart out over every name on the casualty lists.'",
+      "assessment": "This suggests Ted is a deeply sensitive and caring individual, showing emotional investment and sincerity, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 43
     },
     {
-      "Action": "Shows renewed confidence after hearing George Zipp's words.",
-      "Competence": 1,
-      "Chunk": 62
+      "trait": "warmth",
+      "action": "Kramer notes that Ted 'went all to pieces on one particular mission' and 'didn't have it' under pressure.",
+      "assessment": "While this indicates a weakness in stress tolerance, it also implies vulnerability and emotional openness rather than coldness or callousness, which can be seen as a neutral to slightly positive aspect of warmth.",
+      "rating": 1,
+      "chunk": 43
     },
     {
-      "Action": "Boldly moves toward the cockpit and takes the pilot seat without hesitation.",
-      "Competence": 1,
-      "Chunk": 62
+      "trait": "competence",
+      "action": "Was a crack flight leader during the war.",
+      "assessment": "This indicates that Ted Striker once demonstrated high skill and capability as a pilot, showing strong competence in his profession.",
+      "rating": 3,
+      "chunk": 43
     },
     {
-      "Action": "Challenges orders from Kramer and asserts command over the situation.",
-      "Competence": 1,
-      "Chunk": 62
+      "trait": "competence",
+      "action": "Felt too much inside and ate his heart out over casualty lists, leading to going all to pieces on a particular mission.",
+      "assessment": "This suggests that Ted's emotional sensitivity negatively impacted his ability to perform under pressure, indicating a significant lapse in competence at a critical moment.",
+      "rating": -2,
+      "chunk": 43
     },
     {
-      "Action": "Insists on landing despite bad weather and risking damaging the airplane, motivated by concern for passenger safety.",
-      "Warmth": 1,
-      "Chunk": 66
+      "trait": "competence",
+      "action": "Kramer states that Striker did not have the temperament to perform under pressure.",
+      "assessment": "This external assessment implies that Ted struggles with confidence and composure in high-stress situations, which undermines his overall competence.",
+      "rating": -2,
+      "chunk": 43
     },
     {
-      "Action": "Disregards Kramer's warning about erratic altitude and remaining fuel, decides to land immediately to save passengers.",
-      "Competence": 0,
-      "Chunk": 66
+      "trait": "warmth",
+      "action": "Attempts to fly the plane despite his lack of experience, recognizing he is the only hope for everyone on board.",
+      "assessment": "Shows a sense of responsibility and willingness to help others in a crisis, indicating good-natured and trustworthy behavior.",
+      "rating": 3,
+      "chunk": 44
     },
     {
-      "Action": "Thanks Randy and shows concern by telling her to leave for her safety (calling her 'sweetheart').",
-      "Warmth": 1,
-      "Chunk": 67
+      "trait": "warmth",
+      "action": "Flips a switch that causes the plane to dive initially.",
+      "assessment": "While his intentions are good, this action shows a lack of competence or care that could endanger others, reflecting a momentary lapse in warmth due to potential recklessness.",
+      "rating": -1,
+      "chunk": 44
     },
     {
-      "Action": "Responds briefly to Elaine's pride and proceeds with the landing instructions without overt emotional engagement.",
-      "Warmth": 0,
-      "Chunk": 67
+      "trait": "warmth",
+      "action": "Calls Mayday to signal distress and request help.",
+      "assessment": "Demonstrates sincerity and concern for the safety of everyone on board, reinforcing his trustworthy and responsible nature.",
+      "rating": 2,
+      "chunk": 44
     },
     {
-      "Action": "Tells Randy to leave the cockpit to avoid getting hurt, showing awareness of safety and control.",
-      "Competence": 1,
-      "Chunk": 67
+      "trait": "warmth",
+      "action": "Responds to McCroskey's inquiry by downplaying the seriousness of the situation, saying he was just trying out the landing lights.",
+      "assessment": "This could be seen as an attempt to reassure others and reduce panic, showing friendliness and calmness, but might also reflect avoidance of full transparency.",
+      "rating": 1,
+      "chunk": 44
     },
     {
-      "Action": "Instructs Elaine to announce the gear is down and ready to land, taking clear command during landing.",
-      "Competence": 1,
-      "Chunk": 67
+      "trait": "competence",
+      "action": "Recites flight parameters aloud: altitude, airspeed, course, trim, mixture, landing gear, balance.",
+      "assessment": "This shows that Striker has a working knowledge of the aircraft's key flight instruments and controls, indicating baseline technical competence.",
+      "rating": 2,
+      "chunk": 44
     },
     {
-      "Action": "Despite turmoil and warnings about his flying ability, pushes forward with landing effort, showing persistence and guts.",
-      "Competence": 1,
-      "Chunk": 67
+      "trait": "competence",
+      "action": "Flips a switch to turn on landing lights but causes the plane to dive.",
+      "assessment": "This suggests a lack of precise control or situational awareness under pressure, indicating a momentary lapse or incomplete mastery of the aircraft systems.",
+      "rating": -1,
+      "chunk": 44
     },
     {
-      "Action": "No direct display of technical flying skill or precise cockpit handling in the excerpt; mostly relies on others for updates and confirmation.",
-      "Competence": 0,
-      "Chunk": 67
+      "trait": "competence",
+      "action": "Calls Mayday over the radio.",
+      "assessment": "Initiating a Mayday call demonstrates presence of mind and understanding of emergency protocol, a positive indicator of competence.",
+      "rating": 2,
+      "chunk": 44
     },
     {
-      "Action": "Pulls red handle for brake even though it comes off in his hand, quickly compensates by pushing brake with his feet.",
-      "Competence": 1,
-      "Chunk": 72
+      "trait": "competence",
+      "action": "Flips switch and rights the plane after the dive.",
+      "assessment": "Successfully recovering the plane from a dive shows practical piloting skill and ability to regain control under stress.",
+      "rating": 3,
+      "chunk": 44
     },
     {
-      "Action": "Struggles with controls, sweating profusely, water gushing down his face.",
-      "Competence": -1,
-      "Chunk": 72
+      "trait": "competence",
+      "action": "Responds to McCroskey's inquiry by downplaying the situation, saying he was just trying out the landing lights.",
+      "assessment": "This may indicate a lack of confidence or an attempt to mask uncertainty, which could be a negative indicator of competence.",
+      "rating": -1,
+      "chunk": 44
     },
     {
-      "Action": "Struggles with controls during emergency landing.",
-      "Competence": -1,
-      "Chunk": 73
+      "trait": "competence",
+      "action": "Has no airline flying experience at all, considered a menace by air controllers.",
+      "assessment": "This indicates a significant lack of formal competence in commercial aviation, suggesting he is unqualified for the task at hand.",
+      "rating": -3,
+      "chunk": 46
     },
     {
-      "Action": "Reassures that he and Elaine are fine after the rough landing.",
-      "Warmth": 1,
-      "Chunk": 74
+      "trait": "competence",
+      "action": "Was a top-notch squadron leader during the war, according to Kramer.",
+      "assessment": "This past military leadership and flying experience suggests a high level of skill and competence in stressful flying situations, albeit from a different context.",
+      "rating": 2,
+      "chunk": 46
     },
     {
-      "Action": "Leaves cockpit calmly after landing, showing responsibility.",
-      "Warmth": 0,
-      "Chunk": 74
+      "trait": "competence",
+      "action": "Kramer doubts Striker will perform well under pressure and predicts he will 'fold up' when things get rough.",
+      "assessment": "This implies concerns about Striker's current mental or emotional readiness, indicating potential instability or lack of confidence affecting his competence.",
+      "rating": -2,
+      "chunk": 46
     },
     {
-      "Action": "Receives Kramer’s offer of a drink and handshake, suggesting others see him as trustworthy and sincere.",
-      "Warmth": 0,
-      "Chunk": 74
+      "trait": "competence",
+      "action": "McCroskey insists Striker must be talked down by radio and guided through the approach and landing.",
+      "assessment": "This reliance on external guidance suggests that Striker is not fully confident or capable of handling the situation independently, reflecting limited competence in this scenario.",
+      "rating": -1,
+      "chunk": 46
     },
     {
-      "Action": "Successfully lands the airplane safely despite difficult circumstances.",
-      "Competence": 1,
-      "Chunk": 74
+      "trait": "warmth",
+      "action": "Takes a swig from a flask, indicating he is struggling with quitting drinking.",
+      "assessment": "This action shows vulnerability and personal struggle, which can elicit sympathy but does not directly indicate warmth.",
+      "rating": 0,
+      "chunk": 47
     },
     {
-      "Action": "Admits landing was poor and describes it as 'probably the lousiest landing in the history of this airport.'",
-      "Competence": 0,
-      "Chunk": 74
+      "trait": "warmth",
+      "action": "Responds to Captain Kramer with a dramatic but clear acknowledgment: 'Yes, Captain Kramer. Read you loud and clear.'",
+      "assessment": "Striker's clear communication and willingness to engage with Kramer suggests a cooperative and sincere attitude, indicating some degree of warmth.",
+      "rating": 1,
+      "chunk": 47
     },
     {
-      "Action": "Embraces and kisses Elaine confidently on the runway, showing calmness and control in a tense situation.",
-      "Competence": 1,
-      "Chunk": 75
+      "trait": "warmth",
+      "action": "Admits to Kramer that he has never flown a plane like this and will need all the luck there is.",
+      "assessment": "This honest admission shows humility and sincerity, traits associated with warmth.",
+      "rating": 2,
+      "chunk": 47
     },
     {
-      "Action": "Watches plane take off on its belly with automatic pilot, not intervening or escalating the situation.",
-      "Competence": 0,
-      "Chunk": 75
+      "trait": "competence",
+      "action": "Pulls a flask from the drawer and takes a swig before communicating with Captain Kramer.",
+      "assessment": "This action suggests reliance on alcohol possibly as a coping mechanism, which may undermine his mental clarity and readiness, indicating a potential lack of professional composure.",
+      "rating": -2,
+      "chunk": 47
+    },
+    {
+      "trait": "competence",
+      "action": "Responds to Captain Kramer with a clear and confident radio communication: 'Yes, Captain Kramer. Read you loud and clear.'",
+      "assessment": "This shows that despite his internal doubts, Striker can maintain professional communication and follow protocol, indicating a baseline level of competence and situational awareness.",
+      "rating": 1,
+      "chunk": 47
+    },
+    {
+      "trait": "competence",
+      "action": "Admits to Captain Kramer that he has never flown this type of plane and will need luck.",
+      "assessment": "This honest admission reveals self-awareness but also highlights a lack of experience and confidence, which negatively impacts his perceived competence.",
+      "rating": -1,
+      "chunk": 47
+    },
+    {
+      "trait": "warmth",
+      "action": "Listens carefully to Kramer's instructions despite his own fear and inexperience.",
+      "assessment": "Ted shows willingness to trust and cooperate with others in a stressful situation, indicating a basic level of sincerity and openness.",
+      "rating": 1,
+      "chunk": 48
+    },
+    {
+      "trait": "warmth",
+      "action": "Overhears Kramer's negative and dismissive comments about his ability to land the plane.",
+      "assessment": "Although Ted is subjected to harsh criticism, he does not respond with hostility or bitterness, suggesting tolerance and restraint.",
+      "rating": 1,
+      "chunk": 48
+    },
+    {
+      "trait": "warmth",
+      "action": "Does not retaliate or argue when Kramer calls the situation a 'goddamn waste of time' and suggests crashing the plane to avoid killing innocent people.",
+      "assessment": "Ted's lack of confrontation in the face of discouragement shows a degree of patience and composure, which can be linked to warmth.",
+      "rating": 1,
+      "chunk": 48
+    },
+    {
+      "trait": "warmth",
+      "action": "Focuses on following instructions and attempts to engage with the controls despite his admitted lack of experience.",
+      "assessment": "This demonstrates Ted's sincerity and earnestness in trying to help others, reflecting positive warmth traits.",
+      "rating": 2,
+      "chunk": 48
+    },
+    {
+      "trait": "competence",
+      "action": "Admits he has never flown a multi-engine plane before.",
+      "assessment": "This admission reveals a significant lack of experience and technical skill relevant to the current situation, indicating low competence in piloting this type of aircraft.",
+      "rating": -3,
+      "chunk": 48
+    },
+    {
+      "trait": "competence",
+      "action": "Follows Kramer's instructions to familiarize himself with the controls and prepare for landing.",
+      "assessment": "Despite his inexperience, Striker shows willingness to learn and follow expert guidance, which is a positive indicator of his ability to adapt and perform under pressure.",
+      "rating": 1,
+      "chunk": 48
+    },
+    {
+      "trait": "competence",
+      "action": "Prepares to disengage the automatic pilot carefully, mindful of violent control movements he used to make in other aircraft.",
+      "assessment": "This cautious approach suggests some prior flying experience and an awareness of the need for control precision, reflecting moderate competence and self-control.",
+      "rating": 1,
+      "chunk": 48
+    },
+    {
+      "trait": "warmth",
+      "action": "Reassures Elaine by acknowledging her presence and assigning her the radio duties, saying 'The radio's all yours now.'",
+      "assessment": "Delegating responsibility and showing trust in Elaine's abilities reflects a friendly and cooperative attitude.",
+      "rating": 2,
+      "chunk": 49
+    },
+    {
+      "trait": "warmth",
+      "action": "Warns Elaine to keep an eye on the number three engine, noting it is running hot.",
+      "assessment": "Showing concern for safety and sharing important information demonstrates care and sincerity.",
+      "rating": 2,
+      "chunk": 49
+    },
+    {
+      "trait": "warmth",
+      "action": "Struggles desperately to control the plane despite the autopilot interfering and causing Elaine to be thrown to the floor.",
+      "assessment": "While his focus is on controlling the plane, the accidental harm to Elaine suggests a lack of immediate awareness or gentleness in a stressful moment, slightly reducing perceived warmth.",
+      "rating": -1,
+      "chunk": 49
+    },
+    {
+      "trait": "competence",
+      "action": "Striker switches off automatic pilot button despite it reacting violently and throwing Elaine to the floor.",
+      "assessment": "This shows decisiveness and willingness to take manual control under difficult circumstances, indicating a competent and proactive approach.",
+      "rating": 2,
+      "chunk": 49
+    },
+    {
+      "trait": "competence",
+      "action": "Struggles desperately to control the plane while fighting the autopilot which is drifting in his way.",
+      "assessment": "Although he struggles, he persists and eventually overcomes the autopilot interference, demonstrating determination and some skill under pressure.",
+      "rating": 1,
+      "chunk": 49
+    },
+    {
+      "trait": "competence",
+      "action": "Throws the autopilot to the rear of the cockpit to regain control.",
+      "assessment": "This action shows resourcefulness and quick problem-solving to eliminate an obstacle to control, reflecting practical competence.",
+      "rating": 2,
+      "chunk": 49
+    },
+    {
+      "trait": "competence",
+      "action": "Delegates radio operation to Elaine and instructs her to monitor the number three engine.",
+      "assessment": "Shows situational awareness and ability to manage resources effectively, indicating good leadership and competence.",
+      "rating": 2,
+      "chunk": 49
+    },
+    {
+      "trait": "competence",
+      "action": "Communicates clearly about weather conditions and aircraft handling.",
+      "assessment": "Demonstrates situational awareness and clear communication, both important aspects of competent piloting.",
+      "rating": 2,
+      "chunk": 49
+    },
+    {
+      "trait": "competence",
+      "action": "Perspiring and struggling to concentrate in the cockpit during a crisis.",
+      "assessment": "This indicates that Ted is under significant stress and having difficulty maintaining focus, which suggests a momentary lapse in his competence under pressure.",
+      "rating": -1,
+      "chunk": 53
+    },
+    {
+      "trait": "competence",
+      "action": "Attempts to concentrate despite mental distractions and echoing thoughts.",
+      "assessment": "Shows determination and awareness of his mental state, indicating some level of self-monitoring and effort to regain control, which is a mild positive indicator of competence.",
+      "rating": 1,
+      "chunk": 53
+    },
+    {
+      "trait": "warmth",
+      "action": "Struggles with the controls to regain control of the plane during a crisis.",
+      "assessment": "Despite the high-pressure situation, Ted is actively trying to manage the safety of the passengers, showing responsibility and care.",
+      "rating": 2,
+      "chunk": 54
+    },
+    {
+      "trait": "warmth",
+      "action": "Communicates to Chicago that passengers are beginning to panic and inquires about when to start descent.",
+      "assessment": "Ted is transparent about the situation and concerned about the passengers' emotional state, indicating sincerity and a protective attitude.",
+      "rating": 2,
+      "chunk": 54
+    },
+    {
+      "trait": "competence",
+      "action": "Struggling with the controls during a severe nose-down dive but eventually regains control of the plane.",
+      "assessment": "Despite initial difficulty, Ted demonstrates the ability to recover control in a critical situation, indicating underlying piloting skill and resilience under pressure.",
+      "rating": 2,
+      "chunk": 54
+    },
+    {
+      "trait": "competence",
+      "action": "Communicates with Chicago air traffic control, informing them of passenger panic and inquiring about descent procedures.",
+      "assessment": "Shows situational awareness and attempts to manage the crisis by seeking guidance, reflecting responsible and competent behavior.",
+      "rating": 2,
+      "chunk": 54
+    },
+    {
+      "trait": "competence",
+      "action": "Playing trumpet in a Benny Goodman swing band style with Elaine, Randy, and Rumack in the cockpit during a critical flight situation.",
+      "assessment": "This action suggests a lack of focus and seriousness in a high-pressure situation, indicating a potential lapse in professional competence and prioritization.",
+      "rating": -2,
+      "chunk": 55
+    },
+    {
+      "trait": "competence",
+      "action": "Described by McCroskey as an experienced air force pilot who flew during the war and is now flying the plane.",
+      "assessment": "This description implies that Ted has significant prior experience and skill as a pilot, indicating a baseline of competence and capability in handling the aircraft under pressure.",
+      "rating": 2,
+      "chunk": 56
+    },
+    {
+      "trait": "warmth",
+      "action": "Asks Dr. Rumack about the hospital equipment and the condition of the passengers.",
+      "assessment": "Ted shows concern for the passengers' wellbeing, indicating care and responsibility.",
+      "rating": 2,
+      "chunk": 57
+    },
+    {
+      "trait": "warmth",
+      "action": "Thinks to himself that he must stay calm and keep his wits about him to not mess things up.",
+      "assessment": "This internal self-encouragement reflects a sincere desire to do well and help others in a crisis.",
+      "rating": 2,
+      "chunk": 57
+    },
+    {
+      "trait": "warmth",
+      "action": "Mentally reassures Elaine by telling her 'Forget it. It's not your fault.'",
+      "assessment": "Ted shows empathy and kindness by comforting Elaine, indicating warmth and understanding.",
+      "rating": 3,
+      "chunk": 57
+    },
+    {
+      "trait": "warmth",
+      "action": "Engages in a mental exchange of thoughts with Elaine, expressing a desire to communicate and connect.",
+      "assessment": "This suggests Ted's openness and willingness to be sincere and emotionally available.",
+      "rating": 2,
+      "chunk": 57
+    },
+    {
+      "trait": "competence",
+      "action": "Responds calmly to Dr. Rumack's update about running out of time and tries to stay composed by telling himself to keep his wits about him.",
+      "assessment": "This internal self-reminder to stay calm and focused under pressure indicates a conscious effort to behave competently and maintain control in a crisis situation.",
+      "rating": 2,
+      "chunk": 57
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in a brief exchange with Dr. Rumack, asking about hospital equipment and passenger condition.",
+      "assessment": "Shows situational awareness and concern for the passengers, indicating some level of responsibility and engagement, though no direct action is taken here.",
+      "rating": 1,
+      "chunk": 57
+    },
+    {
+      "trait": "competence",
+      "action": "Does not take visible immediate action to pilot or manage the emergency despite the urgency conveyed by Dr. Rumack.",
+      "assessment": "The excerpt shows Ted mostly in thought and conversation, with no direct demonstration of skill or decisive action, which may suggest hesitation or lack of immediate competence in handling the crisis.",
+      "rating": -1,
+      "chunk": 57
+    },
+    {
+      "trait": "competence",
+      "action": "McCroskey and Kramer discuss that Striker has the guts to attempt a difficult belly landing and deserves the best shot they can give him.",
+      "assessment": "This indicates that Ted Striker is perceived by others as having courage and some level of piloting skill, suggesting a moderate degree of competence under pressure.",
+      "rating": 2,
+      "chunk": 59
+    },
+    {
+      "trait": "warmth",
+      "action": "Admits to Elaine that he forgot to check the oil pressure and acknowledges his mistake.",
+      "assessment": "Ted's honesty and willingness to admit his error shows sincerity and accountability, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 60
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses self-doubt and says he can't take the pressure and was crazy to think he could land the plane.",
+      "assessment": "While this shows vulnerability, it also suggests a lack of confidence and possibly a tendency to withdraw under stress, which may limit his ability to be supportive or reassuring to others in crisis.",
+      "rating": -1,
+      "chunk": 60
+    },
+    {
+      "trait": "competence",
+      "action": "Forgets to check the oil pressure, resulting in engine number three flaming out.",
+      "assessment": "This indicates a significant oversight in basic aircraft operation, reflecting a lapse in attention to critical details and a lack of thoroughness.",
+      "rating": -2,
+      "chunk": 60
+    },
+    {
+      "trait": "competence",
+      "action": "Admits to Elaine and himself that he can't take the pressure and was crazy to think he could land the plane.",
+      "assessment": "This shows a lack of confidence and self-doubt in a high-pressure situation, undermining his ability to act capably and decisively.",
+      "rating": -2,
+      "chunk": 60
+    },
+    {
+      "trait": "competence",
+      "action": "Is still in the cockpit, attempting to manage the situation despite his admitted doubts.",
+      "assessment": "Remaining at the controls suggests some level of responsibility and willingness to face the challenge, though overshadowed by his expressed lack of confidence.",
+      "rating": 0,
+      "chunk": 60
+    },
+    {
+      "trait": "warmth",
+      "action": "Striker tells Elaine he doesn't care and that they would be better off with someone who'd never flown before, then leaves her on the verge of tears.",
+      "assessment": "Striker's dismissal of Elaine's encouragement and his withdrawal in a moment of crisis shows a lack of emotional support and sensitivity toward her feelings, indicating low warmth.",
+      "rating": -2,
+      "chunk": 61
+    },
+    {
+      "trait": "warmth",
+      "action": "Striker pours water on his head and sits dejectedly, showing visible signs of distress and vulnerability.",
+      "assessment": "This action reveals Striker's internal struggle and emotional openness, which can be seen as sincere and humanizing, though it does not directly demonstrate warmth toward others.",
+      "rating": 1,
+      "chunk": 61
+    },
+    {
+      "trait": "warmth",
+      "action": "Striker acknowledges Dr. Rumack's attempt to comfort him without argument or defensiveness.",
+      "assessment": "By quietly accepting support and not pushing others away, Striker shows a degree of trust and openness, which are components of warmth.",
+      "rating": 1,
+      "chunk": 61
+    },
+    {
+      "trait": "competence",
+      "action": "Says 'I can't take the pressure. I was crazy to think I could land this plane.' and decides to leave the cockpit, putting the autopilot in the pilot's seat.",
+      "assessment": "This action shows a lack of confidence and self-doubt in his ability to handle the critical situation, indicating a perceived incompetence or inability to perform under pressure.",
+      "rating": -2,
+      "chunk": 61
+    },
+    {
+      "trait": "competence",
+      "action": "Pours water on his head and sits dejectedly in the stewardess' fold-out seat.",
+      "assessment": "This behavior reflects emotional distress and withdrawal rather than proactive problem-solving, suggesting a momentary lapse in competence and resilience.",
+      "rating": -2,
+      "chunk": 61
+    },
+    {
+      "trait": "competence",
+      "action": "Acknowledges Rumack's presence but preempts any encouragement by saying 'I know what you're going to say, so save your breath.'",
+      "assessment": "This indicates a defeatist attitude and closed mindset, which undermines his ability to regain confidence and act competently.",
+      "rating": -2,
+      "chunk": 61
+    },
+    {
+      "trait": "warmth",
+      "action": "Striker insists on taking control of the plane to land immediately, citing the critical condition of the sick passengers and the urgency of the situation.",
+      "assessment": "Striker demonstrates a strong sense of responsibility and concern for others' well-being, showing sincerity and a protective attitude toward the passengers.",
+      "rating": 3,
+      "chunk": 62
+    },
+    {
+      "trait": "warmth",
+      "action": "Striker confidently asserts his authority over the radio despite opposition from Kramer, prioritizing the needs of the passengers over protocol.",
+      "assessment": "This shows Ted's determination and willingness to stand up for what he believes is right, reflecting trustworthiness and a caring nature.",
+      "rating": 2,
+      "chunk": 62
+    },
+    {
+      "trait": "competence",
+      "action": "Striker boldly starts toward cockpit and takes control of the plane despite difficult conditions.",
+      "assessment": "This action shows initiative, confidence, and willingness to take responsibility in a critical situation, indicating a positive level of competence.",
+      "rating": 2,
+      "chunk": 62
+    },
+    {
+      "trait": "competence",
+      "action": "Striker insists on landing the plane immediately despite warnings from Kramer about the dangers.",
+      "assessment": "This demonstrates decisiveness and prioritization of urgent needs (critical patients), but also suggests potential recklessness or overconfidence, as he disregards expert advice.",
+      "rating": 1,
+      "chunk": 62
+    },
+    {
+      "trait": "competence",
+      "action": "Striker confidently communicates with Kramer and Elaine, asserting command over the situation.",
+      "assessment": "Shows clear leadership and communication skills under pressure, which are positive indicators of competence.",
+      "rating": 2,
+      "chunk": 62
+    },
+    {
+      "trait": "competence",
+      "action": "Striker's internal rejuvenation after hearing about George Zipp's last words.",
+      "assessment": "This internal motivation boosts his confidence and resolve, indirectly supporting his competence by improving his mental state.",
+      "rating": 1,
+      "chunk": 62
+    },
+    {
+      "trait": "warmth",
+      "action": "Insists on landing the plane immediately despite dangerous weather, saying 'We have people up here who will die in less than an hour, never mind two.'",
+      "assessment": "Ted's urgency to save the passengers' lives shows a sincere concern for others' well-being, indicating a good-natured and trustworthy character.",
+      "rating": 3,
+      "chunk": 66
+    },
+    {
+      "trait": "competence",
+      "action": "Attempts to land the airplane despite severe weather conditions and erratic altitude fluctuations.",
+      "assessment": "This action shows Ted's willingness to take responsibility and act decisively under pressure, indicating a degree of confidence and determination.",
+      "rating": 2,
+      "chunk": 66
+    },
+    {
+      "trait": "competence",
+      "action": "Disregards air traffic control's advice to stay aloft until weather improves, insisting on immediate landing due to passengers' critical condition.",
+      "assessment": "While this demonstrates decisiveness and prioritization of human life, it also suggests a potential recklessness or overconfidence that may compromise safety.",
+      "rating": 0,
+      "chunk": 66
+    },
+    {
+      "trait": "competence",
+      "action": "Communicates clearly and assertively with air traffic control, taking charge of the situation.",
+      "assessment": "This indicates effective communication skills and leadership under stress, positive indicators of competence.",
+      "rating": 2,
+      "chunk": 66
+    },
+    {
+      "trait": "warmth",
+      "action": "Tells Randy, 'You better leave sweetheart. You might get hurt in here.'",
+      "assessment": "Ted shows concern for Randy's safety, using a term of endearment that suggests a friendly and protective attitude.",
+      "rating": 2,
+      "chunk": 67
+    },
+    {
+      "trait": "warmth",
+      "action": "Responds to Elaine's pride with focus on the task: 'Tell them the gear is down and we're ready to land.'",
+      "assessment": "While Ted acknowledges Elaine's support, he quickly redirects to the critical task, showing responsibility but limited emotional engagement in this moment.",
+      "rating": 1,
+      "chunk": 67
+    },
+    {
+      "trait": "competence",
+      "action": "Tells Randy to leave the cockpit for safety reasons before landing.",
+      "assessment": "This shows situational awareness and concern for others' safety, indicating responsible and competent behavior.",
+      "rating": 2,
+      "chunk": 67
+    },
+    {
+      "trait": "competence",
+      "action": "Confidently instructs Elaine to announce that the gear is down and they are ready to land.",
+      "assessment": "Demonstrates command presence and clear communication under pressure, reflecting competence.",
+      "rating": 2,
+      "chunk": 67
+    },
+    {
+      "trait": "competence",
+      "action": "Despite the dangerous situation (fog, thunder, lightning), he proceeds with landing preparations.",
+      "assessment": "Shows determination and focus in a high-stress environment, suggesting capable handling of crisis.",
+      "rating": 2,
+      "chunk": 67
+    },
+    {
+      "trait": "competence",
+      "action": "McCroskey comments 'He may not be able to fly, but he's sure got guts.'",
+      "assessment": "This implies some doubt about Ted's flying skills, indicating a perceived lack of technical competence despite courage.",
+      "rating": -1,
+      "chunk": 67
+    },
+    {
+      "trait": "competence",
+      "action": "Follows instructions to adjust heading, flaps, and airspeed under pressure.",
+      "assessment": "This shows that Striker is able to comprehend and attempt to execute complex flight instructions, indicating a baseline level of competence.",
+      "rating": 2,
+      "chunk": 68
+    },
+    {
+      "trait": "competence",
+      "action": "Loses altitude rapidly, dropping below safe levels and nearly hitting buildings.",
+      "assessment": "This suggests poor situational awareness or difficulty in controlling the aircraft, which is a significant negative indicator of competence.",
+      "rating": -2,
+      "chunk": 68
+    },
+    {
+      "trait": "competence",
+      "action": "Responds to altitude warnings with uncertainty, asking how high a building floor is instead of providing altitude.",
+      "assessment": "This indicates a lack of precise knowledge or confidence about his current altitude, reflecting poor cockpit awareness and competence.",
+      "rating": -2,
+      "chunk": 68
+    },
+    {
+      "trait": "competence",
+      "action": "Correctly identifies and activates the landing lights switch after initial confusion.",
+      "assessment": "Despite initial hesitation, Striker is able to locate and operate critical controls, showing some practical knowledge and ability to recover from mistakes.",
+      "rating": 1,
+      "chunk": 68
+    },
+    {
+      "trait": "competence",
+      "action": "Looks for ignition switches in the cockpit when instructed by Kramer.",
+      "assessment": "This action shows that Striker is able to follow technical instructions under pressure, indicating a basic level of competence and situational awareness.",
+      "rating": 1,
+      "chunk": 69
+    },
+    {
+      "trait": "competence",
+      "action": "Communicates with Elaine to confirm he has located the ignition switches.",
+      "assessment": "This demonstrates clear communication and teamwork, which are important aspects of competent behavior in a crisis.",
+      "rating": 2,
+      "chunk": 69
+    },
+    {
+      "trait": "competence",
+      "action": "Struggles to visually locate the airfield and runway at night.",
+      "assessment": "This suggests some difficulty or lack of confidence in navigation under challenging conditions, indicating a moderate limitation in competence.",
+      "rating": -1,
+      "chunk": 69
+    },
+    {
+      "trait": "competence",
+      "action": "Relies heavily on external guidance from Kramer and others in the tower.",
+      "assessment": "While seeking guidance is prudent, the dependence on others for critical decisions may reflect a lack of full confidence or mastery in piloting skills.",
+      "rating": 0,
+      "chunk": 69
+    },
+    {
+      "trait": "warmth",
+      "action": "Striker and Elaine are searching for the airfield together, communicating and cooperating under pressure.",
+      "assessment": "Striker's collaboration with Elaine in a stressful situation shows a willingness to work with others and a sense of responsibility, indicating positive warmth.",
+      "rating": 2,
+      "chunk": 70
+    },
+    {
+      "trait": "warmth",
+      "action": "Striker acknowledges he is coming in too fast when warned by Kramer.",
+      "assessment": "By openly admitting his mistake, Striker demonstrates honesty and sincerity, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 70
+    },
+    {
+      "trait": "warmth",
+      "action": "Points out the airport to Elaine during the landing approach.",
+      "assessment": "This action shows attentiveness and a desire to help his co-pilot, reflecting cooperative and friendly behavior.",
+      "rating": 2,
+      "chunk": 70
+    },
+    {
+      "trait": "competence",
+      "action": "Striker and Elaine are searching for the airfield at night, despite difficult conditions.",
+      "assessment": "This shows that Striker is actively engaged in the critical task of locating the airfield, demonstrating situational awareness and focus under pressure.",
+      "rating": 2,
+      "chunk": 70
+    },
+    {
+      "trait": "competence",
+      "action": "Striker acknowledges he is coming in too fast when warned by Kramer.",
+      "assessment": "His immediate recognition of the problem indicates self-awareness and responsiveness, important aspects of competence.",
+      "rating": 2,
+      "chunk": 70
+    },
+    {
+      "trait": "competence",
+      "action": "Striker points out the airport to Elaine as they approach.",
+      "assessment": "This action shows good communication and teamwork, as well as the ability to identify critical visual cues under stress.",
+      "rating": 2,
+      "chunk": 70
+    },
+    {
+      "trait": "competence",
+      "action": "Striker and Elaine look panicked when the runway lights go out.",
+      "assessment": "The panic suggests a momentary lapse in composure, which could undermine confidence and decision-making in a crisis.",
+      "rating": -1,
+      "chunk": 70
+    },
+    {
+      "trait": "warmth",
+      "action": "Struggles intensely to control the plane and follow instructions despite the difficulty and stress.",
+      "assessment": "Ted's determination to manage the crisis and listen to guidance shows responsibility and care for others' safety, indicating a sincere and trustworthy nature.",
+      "rating": 2,
+      "chunk": 71
+    },
+    {
+      "trait": "warmth",
+      "action": "Bangs the control panel in frustration when the flap switch is stuck.",
+      "assessment": "While this shows frustration, it is a natural human reaction under extreme stress and does not reflect negatively on his warmth.",
+      "rating": 0,
+      "chunk": 71
+    },
+    {
+      "trait": "competence",
+      "action": "Struggles with steering wheel and sweating profusely while trying to control the plane.",
+      "assessment": "This indicates high stress and difficulty managing the controls, suggesting a lack of calm and smooth handling under pressure.",
+      "rating": -1,
+      "chunk": 71
+    },
+    {
+      "trait": "competence",
+      "action": "Attempts to put down thirty degrees of flap but reports the flap switch is stuck and unresponsive.",
+      "assessment": "Shows awareness of necessary procedures but inability to execute them effectively, indicating partial competence but technical or situational failure.",
+      "rating": 0,
+      "chunk": 71
+    },
+    {
+      "trait": "competence",
+      "action": "Bangs the control panel in frustration to try to fix the stuck flap switch.",
+      "assessment": "This is an impulsive and unskilled reaction rather than a calculated troubleshooting step, reflecting poor problem-solving under pressure.",
+      "rating": -2,
+      "chunk": 71
+    },
+    {
+      "trait": "competence",
+      "action": "Struggles to keep the plane steady as the wheel fights back and the plane comes in too fast and too low.",
+      "assessment": "Demonstrates difficulty in controlling the aircraft during a critical landing phase, indicating limited skill or confidence in this high-stakes moment.",
+      "rating": -1,
+      "chunk": 71
+    },
+    {
+      "trait": "warmth",
+      "action": "Struggles intensely to land the plane safely despite extreme difficulty and physical discomfort.",
+      "assessment": "Ted's determination to safely land the plane under pressure shows a sincere commitment to the well-being of the passengers and crew, reflecting a trustworthy and responsible nature.",
+      "rating": 3,
+      "chunk": 72
+    },
+    {
+      "trait": "competence",
+      "action": "Pushes wheel forward as tires screech and pulls red handle (which comes off) then uses feet to apply brake.",
+      "assessment": "Despite the red handle breaking off, Ted adapts quickly by using his feet to brake, showing resourcefulness and presence of mind under pressure.",
+      "rating": 2,
+      "chunk": 72
+    },
+    {
+      "trait": "competence",
+      "action": "Struggles with controls, sweating profusely, water gushing down his face.",
+      "assessment": "Ted's visible struggle and physical distress indicate he is under extreme stress and possibly overwhelmed, which detracts from his overall competence in this critical moment.",
+      "rating": -1,
+      "chunk": 72
+    },
+    {
+      "trait": "competence",
+      "action": "Follows instructions from Kramer and attempts to control the plane during landing.",
+      "assessment": "Ted demonstrates willingness to listen and act on guidance, which is a positive indicator of competence, though his execution appears shaky.",
+      "rating": 1,
+      "chunk": 72
+    },
+    {
+      "trait": "competence",
+      "action": "Struggles with controls in the cockpit during a critical landing situation.",
+      "assessment": "This indicates difficulty in managing the aircraft under pressure, suggesting a lack of confident or skilled handling at this moment.",
+      "rating": -2,
+      "chunk": 73
+    },
+    {
+      "trait": "competence",
+      "action": "Despite struggling, he is actively attempting to control the plane and prevent disaster.",
+      "assessment": "Shows persistence and willingness to take responsibility in a crisis, which is a positive indicator of competence even if skill is lacking.",
+      "rating": 1,
+      "chunk": 73
+    },
+    {
+      "trait": "warmth",
+      "action": "Responds to Kramer's inquiry with 'Yeah, we're okay.' after the difficult landing.",
+      "assessment": "Ted's brief but reassuring response shows consideration for others' concern, indicating a basic level of sincerity and trustworthiness.",
+      "rating": 1,
+      "chunk": 74
+    },
+    {
+      "trait": "warmth",
+      "action": "Leaves the cockpit with Elaine after the landing without further interaction with passengers or crew.",
+      "assessment": "Ted's lack of visible engagement or comforting behavior toward passengers or crew after a stressful event suggests a missed opportunity to demonstrate warmth or friendliness.",
+      "rating": -1,
+      "chunk": 74
+    },
+    {
+      "trait": "competence",
+      "action": "Successfully lands the plane despite difficult circumstances.",
+      "assessment": "Although Kramer criticizes the landing as 'probably the lousiest in the history of this airport,' the fact that Striker managed to land the plane safely under pressure demonstrates a significant level of skill and capability.",
+      "rating": 2,
+      "chunk": 74
+    },
+    {
+      "trait": "competence",
+      "action": "Responds calmly to Kramer's inquiry about his condition after landing.",
+      "assessment": "Striker's composed response ('Yeah, we're okay.') indicates confidence and presence of mind following a high-stress event, reflecting competent emotional control.",
+      "rating": 2,
+      "chunk": 74
+    },
+    {
+      "trait": "competence",
+      "action": "Leaves the cockpit promptly after landing.",
+      "assessment": "This shows appropriate situational awareness and professionalism, as he does not linger unnecessarily, allowing others to take over.",
+      "rating": 1,
+      "chunk": 74
+    },
+    {
+      "trait": "competence",
+      "action": "No explicit display of advanced piloting technique or confident communication during landing.",
+      "assessment": "The excerpt lacks evidence of Striker demonstrating exceptional piloting skill or leadership beyond the basic successful landing, suggesting competence but not mastery.",
+      "rating": 0,
+      "chunk": 74
+    },
+    {
+      "trait": "warmth",
+      "action": "Embraces and kisses Elaine on the runway, sharing a romantic moment before the plane takes off.",
+      "assessment": "This affectionate gesture shows Ted's capacity for sincere emotional connection and warmth toward Elaine.",
+      "rating": 2,
+      "chunk": 75
+    },
+    {
+      "trait": "warmth",
+      "action": "Waves goodbye to the plane arm in arm with Elaine as it takes off.",
+      "assessment": "Waving goodbye together suggests a friendly and supportive demeanor, reinforcing his warmth in shared experiences.",
+      "rating": 1,
+      "chunk": 75
     }
   ]
 }

@@ -1,171 +1,370 @@
 {
-  "Devon Terrell ": [
-    {
-      "Action": "Engages quickly and decisively in a conversation about a new criminal opportunity, asks relevant questions about logistics and conditions.",
-      "Competence": 1,
-      "Chunk": 2
-    },
-    {
-      "Action": "Exhibits casual attitude and calm demeanor despite sudden early morning call and major life decision, showing confidence under pressure.",
-      "Competence": 1,
-      "Chunk": 2
-    },
-    {
-      "Action": "Shows hesitation or concern about distance to LA, indicating some practical caution.",
-      "Competence": 0,
-      "Chunk": 2
-    },
-    {
-      "Action": "Finds the car by checking license plates and confirms it despite it being a 'shitty Camry'.",
-      "Competence": 1,
-      "Chunk": 3
-    },
-    {
-      "Action": "Aware that flying into Ontario instead of LAX is a smarter choice to cover tracks, despite it being inconvenient.",
-      "Competence": 1,
-      "Chunk": 3
-    },
-    {
-      "Action": "Reluctantly accepts the plan to fly into Ontario but questions it (complains about it being cheaper and inconvenient).",
-      "Competence": 0,
-      "Chunk": 3
-    },
-    {
-      "Action": "Does not question Fuches’s guidance not to be afraid to sell himself to Goran, shows some hesitance or lack of self-promotion.",
-      "Competence": 0,
-      "Chunk": 3
-    },
-    {
-      "Action": "No direct actions or statements from Devon Terrell in the excerpt to evaluate competence.",
-      "Competence": 0,
-      "Chunk": 6
-    },
-    {
-      "Action": "Hesitates when Ryan offers a partnership and a script, unsure of how to respond.",
-      "Competence": -1,
-      "Chunk": 10
-    },
-    {
-      "Action": "Eventually shakes Ryan’s hand despite hesitation.",
-      "Competence": 0,
-      "Chunk": 10
-    },
-    {
-      "Action": "Offers payoff money in an envelope for peace of mind, refusing to negotiate more than his set price.",
-      "Warmth": 0,
-      "Chunk": 11
-    },
-    {
-      "Action": "Represents Barry delivering a calm, strategic verbal confrontation emphasizing control, awareness, and emotional steadiness.",
-      "Competence": 1,
-      "Chunk": 11
-    },
-    {
-      "Action": "Portrays Barry passing an empty envelope as a psychological tactic, showing understanding of negotiation and manipulation.",
-      "Competence": 1,
-      "Chunk": 11
-    },
-    {
-      "Action": "Maintains composure under threat when Ryan threatens violence.",
-      "Competence": 1,
-      "Chunk": 11
-    },
-    {
-      "Action": "Passive in conversation, does not actively contribute ideas or drive the discussion.",
-      "Competence": -1,
-      "Chunk": 13
-    },
-    {
-      "Action": "Listens and tries to understand new social environment though does not confidently engage.",
-      "Competence": 0,
-      "Chunk": 13
-    },
-    {
-      "Action": "Engages in casual conversation, listens and reflects thoughtfully on Ryan's aspirations and advice about changing a name to be memorable.",
-      "Competence": 1,
-      "Chunk": 16
-    },
-    {
-      "Action": "Appears uncertain about his job and future, saying 'I don’t know. It’s fine. I guess it’s like you being a trainer. I’m good at it.' suggesting ambivalence or lack of confidence.",
-      "Competence": -1,
-      "Chunk": 16
-    },
-    {
-      "Action": "Deflects suspicion by explaining the hug as part of his style to gather intel on marks.",
-      "Competence": 1,
-      "Chunk": 19
-    },
-    {
-      "Action": "Attempts to finish the task tonight despite pressure and complications.",
-      "Competence": 1,
-      "Chunk": 19
-    },
-    {
-      "Action": "Fails to prevent the destruction of his apartment despite knowing the risks.",
-      "Competence": -1,
-      "Chunk": 19
-    },
-    {
-      "Action": "No direct actions or statements by Devon Terrell in this excerpt to evaluate competence.",
-      "Competence": 0,
-      "Chunk": 20
-    },
-    {
-      "Action": "Barry waves and politely asks Cousineau about his acting, showing vulnerability and seeking honest feedback.",
-      "Warmth": 1,
-      "Chunk": 21
-    },
-    {
-      "Action": "Barry openly admits his troubled past and fears about his future plans, showing sincerity and openness.",
-      "Warmth": 1,
-      "Chunk": 21
-    },
-    {
-      "Action": "Asks for honest feedback about his acting ability, acknowledging his uncertainty.",
-      "Competence": 0,
-      "Chunk": 21
-    },
-    {
-      "Action": "Admits his lack of truthfulness in acting as pointed out by Cousineau, showing awareness of his limitations.",
-      "Competence": 0,
-      "Chunk": 21
-    },
-    {
-      "Action": "Responds quickly and collectively to an ambush, kills three armed opponents decisively and efficiently.",
-      "Competence": 1,
-      "Chunk": 23
-    },
-    {
-      "Action": "Calmly disassembles his gun and disposes of evidence methodically after the shooting.",
-      "Competence": 1,
-      "Chunk": 23
-    }
-  ],
   "Devon Terrell": [
     {
-      "Action": "No direct actions or statements present in the excerpt to evaluate warmth.",
-      "Warmth": 0,
-      "Chunk": 16
+      "trait": "competence",
+      "action": "Barry is asleep on the couch but quickly answers the phone and engages in a serious conversation about a dangerous criminal organization.",
+      "assessment": "Barry's ability to respond promptly and maintain focus on a high-stakes topic despite being woken up suggests alertness and mental readiness, indicating competent situational awareness.",
+      "rating": 2,
+      "chunk": 2
     },
     {
-      "Action": "Keeps doing morally questionable tasks without feeling bad about impact on others' lives and families.",
-      "Warmth": -1,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Barry agrees to a sudden, high-risk assignment involving travel to LA on very short notice.",
+      "assessment": "This shows decisiveness and willingness to act under pressure, reflecting confidence and adaptability, which are positive indicators of competence.",
+      "rating": 2,
+      "chunk": 2
     },
     {
-      "Action": "Willingly pays cash in advance for a class and expresses eagerness to learn, indicating sincerity and respect for the process.",
-      "Warmth": 1,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Barry shuffles over to the coffee maker during the phone call.",
+      "assessment": "This casual physical action during a serious conversation might suggest a degree of calmness and control, but could also imply a lack of urgency or focus.",
+      "rating": 0,
+      "chunk": 2
     },
     {
-      "Action": "Successfully carries out multiple tasks involving surveillance and retrieval without getting caught, repeatedly doing so over seven years with apparent ease and confidence.",
-      "Competence": 1,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Barry insists on doing his own recon to make the job clean and professional.",
+      "assessment": "This shows Barry's preference for thoroughness and control, indicating a competent and methodical approach to his work.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Shows emotional detachment or lack of remorse regarding morally questionable actions, which may indicate a compartmentalized mindset but does not directly speak to skill or intelligence.",
-      "Competence": 0,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Barry negotiates terms firmly, refusing to take money upfront and focusing on the task.",
+      "assessment": "This demonstrates confidence and a clear understanding of his role and boundaries, reflecting competence in negotiation and self-assurance.",
+      "rating": 2,
+      "chunk": 6
+    },
+    {
+      "trait": "competence",
+      "action": "Barry calmly handles the awkwardness of Pazer's childish behavior and Noho Hank's politeness.",
+      "assessment": "His ability to remain composed in tense or strange social situations suggests emotional intelligence and social competence.",
+      "rating": 1,
+      "chunk": 6
+    },
+    {
+      "trait": "competence",
+      "action": "Barry visualizes a mouse crawling on him in his sleep, showing discomfort in his environment.",
+      "assessment": "This indicates some vulnerability or lack of adaptability to his surroundings, which could be seen as a minor competence weakness.",
+      "rating": -1,
+      "chunk": 6
+    },
+    {
+      "trait": "competence",
+      "action": "Barry questions Fuches about the use of 'we' and 'us', showing skepticism about their partnership.",
+      "assessment": "This shows critical thinking and awareness of his position, reflecting competence in assessing relationships and potential risks.",
+      "rating": 2,
+      "chunk": 6
+    },
+    {
+      "trait": "competence",
+      "action": "Hesitates before shaking Ryan's hand and accepting to help with the scene despite not knowing what to say.",
+      "assessment": "This hesitation suggests some initial uncertainty or lack of confidence in a new social and performance situation, indicating a moderate lack of immediate competence.",
+      "rating": -1,
+      "chunk": 10
+    },
+    {
+      "trait": "competence",
+      "action": "Agrees to perform a scene on short notice with Ryan, who is a known class member, despite being new and unfamiliar with the script.",
+      "assessment": "This shows a willingness to engage and adapt quickly, reflecting a basic level of competence and confidence in handling unexpected challenges.",
+      "rating": 1,
+      "chunk": 10
+    },
+    {
+      "trait": "competence",
+      "action": "Reads and performs lines from the script during the scene, responding appropriately to Ryan's character.",
+      "assessment": "This indicates an ability to follow directions and perform under pressure, demonstrating functional competence in acting and quick learning.",
+      "rating": 2,
+      "chunk": 10
+    },
+    {
+      "trait": "warmth",
+      "action": "Barry (as Clarence) refuses to eat or engage with Ryan's provocations, stating he is not scared but simply does not like him, and offers an empty envelope as 'payoff money' for his peace of mind.",
+      "assessment": "Barry's refusal to escalate the conflict and his calm, controlled demeanor suggest a boundary-setting behavior rather than warmth. Offering an empty envelope as a symbolic gesture is clever but insincere, indicating a lack of genuine friendliness or trustworthiness in this interaction.",
+      "rating": -1,
+      "chunk": 11
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in casual conversation with other actors at Residuals, showing openness to socializing and networking.",
+      "assessment": "This indicates a basic level of social competence and willingness to integrate into the acting community, which is important for career development.",
+      "rating": 1,
+      "chunk": 13
+    },
+    {
+      "trait": "competence",
+      "action": "Declines offers to get involved in bartending or waiting tables, stating he already has a job in auto parts sales.",
+      "assessment": "This shows a degree of confidence and self-sufficiency, but also a possible reluctance to fully commit to the acting profession or to take on roles that might be necessary stepping stones.",
+      "rating": 0,
+      "chunk": 13
+    },
+    {
+      "trait": "warmth",
+      "action": "Advises Ryan to be careful about his affair with a married client, warning that her husband might find out and it could be bad for him.",
+      "assessment": "This shows a degree of concern for Ryan's well-being and the potential consequences of his actions, indicating some care and thoughtfulness.",
+      "rating": 2,
+      "chunk": 16
+    },
+    {
+      "trait": "competence",
+      "action": "No direct actions or statements by Devon Terrell in the provided excerpt.",
+      "assessment": "The excerpt does not include any observable behavior, statements, or internal thoughts from Devon Terrell, making it impossible to assess his competence from this section.",
+      "rating": 0,
+      "chunk": 17
+    },
+    {
+      "trait": "competence",
+      "action": "Barry (Devon Terrell) calmly contacts Noho Hank to clarify the situation about his apartment and the job.",
+      "assessment": "This shows initiative and a level of confidence in handling a tense situation by directly communicating with a key player.",
+      "rating": 2,
+      "chunk": 19
+    },
+    {
+      "trait": "competence",
+      "action": "Barry explains his unusual method of 'getting off on knowing his marks' to Fuches and Noho Hank.",
+      "assessment": "While this explanation reveals a unique approach, it may also suggest a lack of conventional professionalism or strategic thinking, potentially undermining his perceived competence.",
+      "rating": 0,
+      "chunk": 19
+    },
+    {
+      "trait": "competence",
+      "action": "Barry agrees to finish the job tonight despite the complications.",
+      "assessment": "This indicates determination and a willingness to follow through on commitments, reflecting positively on his competence.",
+      "rating": 2,
+      "chunk": 19
+    },
+    {
+      "trait": "competence",
+      "action": "Barry shows some hesitation and defensiveness when questioned by Noho Hank.",
+      "assessment": "This could imply insecurity or lack of full control over the situation, slightly detracting from his competence.",
+      "rating": -1,
+      "chunk": 19
+    },
+    {
+      "trait": "competence",
+      "action": "Barry approaches Cousineau to ask for honest feedback about his acting ability.",
+      "assessment": "This shows initiative and a willingness to seek constructive criticism, indicating self-awareness and a desire to improve, which are positive competence indicators.",
+      "rating": 2,
+      "chunk": 21
+    },
+    {
+      "trait": "competence",
+      "action": "Barry admits to Cousineau that he kills people for a living and has military experience.",
+      "assessment": "This statement reflects confidence and honesty about his background, suggesting a level of self-assuredness and capability in his past profession, which supports competence.",
+      "rating": 2,
+      "chunk": 21
+    },
+    {
+      "trait": "competence",
+      "action": "Barry struggles with acting and receives harsh criticism from Cousineau about his lack of truth and authenticity in performance.",
+      "assessment": "This indicates a current deficiency in acting skill and emotional authenticity, which negatively impacts his competence in this domain.",
+      "rating": -2,
+      "chunk": 21
+    },
+    {
+      "trait": "competence",
+      "action": "Barry expresses uncertainty about his future career path, mentioning selling frozen yogurt as a fallback.",
+      "assessment": "This suggests a lack of clear direction and confidence in his professional abilities outside of his military background, reflecting some incompetence or insecurity.",
+      "rating": -1,
+      "chunk": 21
+    },
+    {
+      "trait": "competence",
+      "action": "Successfully conducts a covert operation by identifying a target, tapping him, and receiving payment without getting caught.",
+      "assessment": "This action demonstrates skill, confidence, and effectiveness in carrying out a potentially risky task, indicating a high level of competence in this context.",
+      "rating": 2,
+      "chunk": 22
+    },
+    {
+      "trait": "competence",
+      "action": "Continues to perform the task repeatedly over seven years without feeling remorse.",
+      "assessment": "Sustained success over a long period suggests reliability and capability, though the emotional detachment might hint at a lack of moral reflection rather than competence.",
+      "rating": 1,
+      "chunk": 22
+    },
+    {
+      "trait": "competence",
+      "action": "Admits to improvising a story convincingly when questioned by Cousineau.",
+      "assessment": "The ability to improvise a believable narrative on the spot shows quick thinking and adaptability, positive indicators of competence.",
+      "rating": 2,
+      "chunk": 22
+    },
+    {
+      "trait": "competence",
+      "action": "Expresses willingness and ability to pay for a class upfront without hesitation.",
+      "assessment": "Shows financial responsibility and confidence in investing in self-improvement, reflecting practical competence.",
+      "rating": 1,
+      "chunk": 22
+    }
+  ],
+  "Devon Terrell ": [
+    {
+      "trait": "competence",
+      "action": "FUCHES advises Barry to fly into Ontario instead of LAX to cover their tracks.",
+      "assessment": "This shows strategic thinking and awareness of operational security, indicating competence in planning and risk management.",
+      "rating": 2,
+      "chunk": 3
+    },
+    {
+      "trait": "competence",
+      "action": "FUCHES arranges for a car to be waiting at the airport on short notice.",
+      "assessment": "Demonstrates resourcefulness and ability to coordinate logistics efficiently, reflecting competent organizational skills.",
+      "rating": 2,
+      "chunk": 3
+    },
+    {
+      "trait": "competence",
+      "action": "FUCHES advises Barry to 'sell yourself a bit' when meeting Goran, specifically referencing Barry's past with Canton.",
+      "assessment": "Shows insight into interpersonal dynamics and how to leverage personal history for influence, indicating social intelligence and strategic communication skills.",
+      "rating": 2,
+      "chunk": 3
+    },
+    {
+      "trait": "competence",
+      "action": "FUCHES does not explain why Ontario is smarter beyond 'covering tracks' and quickly ends the call with 'Safe travels, call me when you get there.'",
+      "assessment": "While the advice is sound, the lack of detailed explanation or contingency planning suggests a slight omission in thorough communication, which could undermine confidence or preparedness.",
+      "rating": -1,
+      "chunk": 3
+    },
+    {
+      "trait": "competence",
+      "action": "Barry looks around, not sure what to do when encountering Sally sobbing and mumbling in the alley.",
+      "assessment": "Barry's hesitation and uncertainty in responding to a distressed person suggests a momentary lack of decisiveness and confidence, indicating a slight dip in competence.",
+      "rating": -1,
+      "chunk": 8
+    },
+    {
+      "trait": "competence",
+      "action": "Barry instinctively drops into a defensive pose when Sally wheels on him.",
+      "assessment": "This quick defensive reaction shows alertness and readiness to respond to potential threats, reflecting competent situational awareness.",
+      "rating": 2,
+      "chunk": 8
+    },
+    {
+      "trait": "competence",
+      "action": "Barry remains confused but does not escalate the situation after Sally storms off.",
+      "assessment": "His restraint in not escalating the situation despite confusion indicates emotional control and situational judgment, a positive competence indicator.",
+      "rating": 1,
+      "chunk": 8
+    },
+    {
+      "trait": "competence",
+      "action": "Barry (as Clarence) calmly refuses to eat, sit, or watch the movie, and confidently delivers a detailed, knowledgeable monologue about the film and the situation, then places an envelope on the table as a payoff demand.",
+      "assessment": "This action demonstrates strong situational awareness, confidence, and control over the interaction. Barry’s detailed knowledge of the movie and his calm demeanor suggest intelligence and preparation, indicating competence.",
+      "rating": 2,
+      "chunk": 11
+    },
+    {
+      "trait": "competence",
+      "action": "Barry states that the envelope contains payoff money and sets a firm, non-negotiable price for his peace of mind.",
+      "assessment": "This shows decisiveness and clarity in communication, traits associated with competence. However, the fact that the envelope is later revealed to be empty introduces ambiguity about his actual preparedness or strategy.",
+      "rating": 1,
+      "chunk": 11
+    },
+    {
+      "trait": "competence",
+      "action": "Barry stands firm and does not react when Ryan discovers the envelope is empty, maintaining composure despite the provocation.",
+      "assessment": "Maintaining composure under threat is a sign of confidence and mental control, reflecting competence in high-pressure situations.",
+      "rating": 2,
+      "chunk": 11
+    },
+    {
+      "trait": "competence",
+      "action": "Barry’s choice to use an empty envelope as a bluff payoff.",
+      "assessment": "This could indicate cleverness and strategic thinking, but also carries risk. The bluff could backfire, suggesting a calculated but potentially reckless move, which tempers the competence rating.",
+      "rating": 1,
+      "chunk": 11
+    },
+    {
+      "trait": "warmth",
+      "action": "Barry offers to get his car and drive Ryan home after Ryan pukes and is in a vulnerable state.",
+      "assessment": "Barry's willingness to help Ryan despite the awkward situation shows a considerate and supportive nature, indicating warmth.",
+      "rating": 2,
+      "chunk": 15
+    },
+    {
+      "trait": "warmth",
+      "action": "Barry engages in a calm, friendly conversation with Ryan, listening to his story about his baseball injury and new path in acting.",
+      "assessment": "Barry's attentive and nonjudgmental listening reflects sincerity and tolerance, positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 15
+    },
+    {
+      "trait": "warmth",
+      "action": "Barry responds with brief but empathetic comments like 'That's too bad' and 'Maybe. Yeah.'",
+      "assessment": "Though somewhat reserved, Barry's responses show he is engaged and sympathetic, suggesting moderate warmth.",
+      "rating": 1,
+      "chunk": 15
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in a casual conversation about jobs and personal details without showing much enthusiasm or strong opinions.",
+      "assessment": "This suggests a somewhat passive and uncertain demeanor, indicating moderate self-awareness but limited assertiveness or confidence in his own choices.",
+      "rating": 0,
+      "chunk": 16
+    },
+    {
+      "trait": "competence",
+      "action": "Responds to Ryan's suggestion about changing his name with curiosity but no decisive reaction.",
+      "assessment": "This shows a lack of decisiveness or initiative in shaping his own identity or career branding, reflecting a neutral to slightly low level of confidence and strategic thinking.",
+      "rating": -1,
+      "chunk": 16
+    },
+    {
+      "trait": "competence",
+      "action": "Warns Ryan about the risks of his affair being discovered.",
+      "assessment": "This indicates a level of practical intelligence and caution, showing that Devon can think ahead and consider consequences, a positive indicator of competence.",
+      "rating": 2,
+      "chunk": 16
+    },
+    {
+      "trait": "warmth",
+      "action": "Barry waves to Cousineau and politely addresses him to ask for feedback on his acting.",
+      "assessment": "Barry's polite approach and willingness to seek honest feedback shows openness and sincerity, indicating a degree of warmth.",
+      "rating": 2,
+      "chunk": 21
+    },
+    {
+      "trait": "warmth",
+      "action": "Barry admits to Cousineau that he kills people for a living and shares personal details about his military service and struggles.",
+      "assessment": "Sharing vulnerable and difficult personal information demonstrates trust and sincerity, which are positive indicators of warmth.",
+      "rating": 3,
+      "chunk": 21
+    },
+    {
+      "trait": "warmth",
+      "action": "Calmly and efficiently kills three people without hesitation or visible emotional response.",
+      "assessment": "Barry's cold, detached reaction to lethal violence and lack of remorse or empathy indicates a very low level of warmth.",
+      "rating": -3,
+      "chunk": 23
+    },
+    {
+      "trait": "warmth",
+      "action": "Disassembles his gun and disposes of evidence calmly after the shootings.",
+      "assessment": "This behavior shows calculated self-preservation rather than warmth or sincerity; it reflects detachment and lack of trustworthiness in a social or moral sense.",
+      "rating": -2,
+      "chunk": 23
+    },
+    {
+      "trait": "competence",
+      "action": "Responds instantly and accurately to a surprise sniper attack by shooting Lucky, Noho Hank, and Thick Neck with precise, controlled bursts.",
+      "assessment": "This action demonstrates exceptional situational awareness, marksmanship, and calmness under extreme pressure, indicating a high level of competence.",
+      "rating": 3,
+      "chunk": 23
+    },
+    {
+      "trait": "competence",
+      "action": "Calmly disassembles his gun and disposes of the pieces and car keys in various locations immediately after the shooting.",
+      "assessment": "This shows strategic thinking, foresight, and skill in covering his tracks, reinforcing his competence in handling dangerous situations.",
+      "rating": 3,
+      "chunk": 23
+    },
+    {
+      "trait": "competence",
+      "action": "Walks away casually and inconspicuously after the violent encounter, blending in as just another person on the street.",
+      "assessment": "This indicates confidence and self-control, as well as an understanding of how to avoid drawing attention, further supporting his competence.",
+      "rating": 2,
+      "chunk": 23
     }
   ]
 }

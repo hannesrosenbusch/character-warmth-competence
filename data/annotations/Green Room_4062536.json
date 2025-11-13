@@ -1,1116 +1,1999 @@
 {
   "Pat": [
     {
-      "Action": "Wakes up the others by gently putting a hand on Sam and saying 'Sam. Wake-up.'",
-      "Warmth": 1,
-      "Chunk": 1
+      "trait": "warmth",
+      "action": "Wakes Sam up gently by putting a hand on him and saying 'Sam. Wake-up.'",
+      "assessment": "Pat's action shows concern for his friend’s well-being and a gentle approach to waking him, indicating care and attentiveness.",
+      "rating": 2,
+      "chunk": 1
     },
     {
-      "Action": "Yanks the keys and kills the local radio",
-      "Warmth": 0,
-      "Chunk": 1
+      "trait": "warmth",
+      "action": "Points out that the engine was running while Tiger fell asleep.",
+      "assessment": "Pat's comment is factual and slightly critical but not hostile; it suggests responsibility and a desire to address the problem rather than blame, showing a level of trustworthiness and straightforwardness.",
+      "rating": 1,
+      "chunk": 1
     },
     {
-      "Action": "Wakes up anxiously, checks surroundings, notices the van is off-road and the fuel gauge is empty.",
-      "Competence": 1,
-      "Chunk": 1
+      "trait": "warmth",
+      "action": "Reaches over and kills the local radio after hearing it chirp.",
+      "assessment": "This action is practical and neutral; it neither strongly indicates warmth nor coldness but shows Pat’s attentiveness to the situation.",
+      "rating": 0,
+      "chunk": 1
     },
     {
-      "Action": "Kills the local radio promptly after noticing the critical situation.",
-      "Competence": 1,
-      "Chunk": 1
+      "trait": "competence",
+      "action": "Blinks awake and quickly assesses the situation after the van drifts off the road into a cornfield.",
+      "assessment": "Pat shows alertness and situational awareness immediately upon waking, indicating a level of attentiveness and presence of mind.",
+      "rating": 2,
+      "chunk": 1
     },
     {
-      "Action": "Relies on Tiger's response and others rather than taking charge or problem solving himself.",
-      "Competence": 0,
-      "Chunk": 1
+      "trait": "competence",
+      "action": "Crawls between seats to wake Sam and points out the engine was running while Tiger fell asleep.",
+      "assessment": "Pat takes initiative to rouse others and identifies a critical detail about the engine running, showing responsibility and observational skills.",
+      "rating": 2,
+      "chunk": 1
     },
     {
-      "Action": "Politely asks if it's ice skating or roller skating, showing interest in Sam's suggestion.",
-      "Warmth": 1,
-      "Chunk": 2
+      "trait": "competence",
+      "action": "Reaches over and kills the local radio after hearing it chirp.",
+      "assessment": "This action suggests Pat is methodical and cautious, possibly trying to avoid drawing attention or conserve battery, indicating practical thinking.",
+      "rating": 1,
+      "chunk": 1
     },
     {
-      "Action": "Quietly prepares to siphon gas with Sam without objection or conflict, showing cooperative behavior.",
-      "Warmth": 0,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Hops from the van, dragging out a battered BMX bike and suggests going skating with Sam.",
+      "assessment": "Pat initiates a casual, potentially fun activity, indicating a friendly and inclusive attitude.",
+      "rating": 2,
+      "chunk": 2
     },
     {
-      "Action": "Prepares and uses a siphon kit to siphon gas from an SUV, demonstrating practical and stealthy skill.",
-      "Competence": 1,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Engages in conversation with Sam about skating and the nature of their trip.",
+      "assessment": "Pat shows openness and a relaxed demeanor, fostering camaraderie.",
+      "rating": 2,
+      "chunk": 2
     },
     {
-      "Action": "Efficiently organizes gear (bicycle, duffel bag, gas can) and plans the task ahead with minimal fuss.",
-      "Competence": 1,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Uses a siphon kit to siphon gas from a monster SUV in the parking lot.",
+      "assessment": "This action suggests a willingness to engage in deceptive or illegal behavior, which undermines trustworthiness and warmth.",
+      "rating": -3,
+      "chunk": 2
     },
     {
-      "Action": "Uses clear reasoning to distinguish between a meaningful quest and a simple errand, showing pragmatic thinking.",
-      "Competence": 1,
-      "Chunk": 2
+      "trait": "competence",
+      "action": "Hops from the van, dragging out a battered BMX bike and prepares to use it for transportation.",
+      "assessment": "This shows resourcefulness and readiness to use available tools for mobility, indicating practical competence.",
+      "rating": 2,
+      "chunk": 2
     },
     {
-      "Action": "Shares grins with Sam during gas siphoning, showing camaraderie.",
-      "Warmth": 1,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Pulls a duffel bag and gas can from the van, preparing equipment for siphoning gas.",
+      "assessment": "Demonstrates foresight and preparedness by bringing necessary tools for the task, reflecting skill and planning.",
+      "rating": 3,
+      "chunk": 2
     },
     {
-      "Action": "Signals to pack up and avoid getting caught when parents approach.",
-      "Warmth": 0,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Uses a siphon kit to stealthily siphon gas from a monster SUV in a parking lot.",
+      "assessment": "Shows technical knowledge and ability to perform a covert operation effectively, indicating high competence.",
+      "rating": 3,
+      "chunk": 2
     },
     {
-      "Action": "Curses when the SUV approaches, indicating frustration but not hostility.",
-      "Warmth": 0,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Comments on the nature of their task as an 'errand' rather than a quest, showing awareness of the situation.",
+      "assessment": "This reflects clear-headedness and an ability to contextualize their actions realistically, a sign of mental competence.",
+      "rating": 2,
+      "chunk": 2
     },
     {
-      "Action": "Apologizes sincerely to the Hockey Mom for siphoning gas.",
-      "Warmth": 1,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Pedals the BMX bike down the highway with Sam riding on the luggage rack.",
+      "assessment": "Demonstrates physical coordination and confidence in handling a less-than-ideal mode of transport, indicating practical competence.",
+      "rating": 2,
+      "chunk": 2
     },
     {
-      "Action": "Nods earnestly and accepts the Hockey Mom's scolding respectfully.",
-      "Warmth": 1,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "Pat and Sam steal gas from an SUV but share a grin after successfully siphoning it.",
+      "assessment": "Stealing gas is an illegal and selfish act, indicating a lack of respect for others' property and safety, which negatively impacts warmth.",
+      "rating": -2,
+      "chunk": 3
     },
     {
-      "Action": "Declines the Hockey Mom’s offer for a ride but thanks her politely.",
-      "Warmth": 1,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "Pat stops when confronted by the Hockey Mom and apologizes sincerely.",
+      "assessment": "Pat's willingness to admit wrongdoing and apologize sincerely shows respect, remorse, and a capacity for honesty, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Makes the sign of the cross before resuming pedaling, indicating composure and routine behavior under pressure.",
-      "Competence": 1,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "Pat declines the Hockey Mom's offer for a ride, insisting they will be fine.",
+      "assessment": "While polite, Pat's refusal of help may suggest a desire for independence or pride, which is neutral but could be seen as less warm if it rejects kindness.",
+      "rating": 0,
+      "chunk": 3
     },
     {
-      "Action": "Pushes the van from sunken soil and chases it onto the highway shoulder, showing physical capability and teamwork.",
-      "Competence": 1,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "Pat nods earnestly after Hockey Mom advises them to ask next time.",
+      "assessment": "Pat's earnest nod indicates respect and a willingness to learn from the encounter, reflecting a sincere and friendly attitude.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Stands up early, quietly powers down the music, cleans up beer cans, and opens the door for Tad.",
-      "Competence": 1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Feeds one end of the clear tubing into the tank, the other into their canister, seals the hose with a rag, and blows two hard breaths into the hose to siphon gas.",
+      "assessment": "This action demonstrates practical knowledge and skill in siphoning gas, showing Pat's capability and resourcefulness in a challenging situation.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Expresses the importance of live music as a shared experience with energy that can’t be replicated virtually",
-      "Warmth": 1,
-      "Chunk": 6
+      "trait": "competence",
+      "action": "Springs up and peers through the tinted SUV windows to assess the situation when hearing a metal clank and echoes.",
+      "assessment": "Pat's quick situational awareness and cautious observation indicate alertness and good judgment under pressure.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Winces when called out about social media absence, indicating discomfort or possible sensitivity",
-      "Warmth": 0,
-      "Chunk": 6
+      "trait": "competence",
+      "action": "Signals to pack up and stop siphoning when noticing parents and children nearby.",
+      "assessment": "This shows Pat's ability to read social cues and potential risks, acting prudently to avoid confrontation or trouble.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Expresses thoughtful insights about the importance of live music over virtual presence, showing an understanding of the artistic and experiential aspects of their work.",
-      "Competence": 1,
-      "Chunk": 6
+      "trait": "competence",
+      "action": "Turns to see the SUV gaining and immediately instructs Sam to cover the gas and get ready to run.",
+      "assessment": "Pat demonstrates quick thinking and leadership in a tense moment, preparing for a possible threat.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Uses a moldy bar of soap to scrub his face and has a sharpie drawing on his face, possibly suggesting carelessness or lack of attention to self-presentation.",
-      "Competence": -1,
-      "Chunk": 6
+      "trait": "competence",
+      "action": "Stops and apologizes sincerely to the Hockey Mom after being confronted.",
+      "assessment": "Pat shows emotional intelligence and social competence by de-escalating the situation through a sincere apology, which helps avoid further conflict.",
+      "rating": 1,
+      "chunk": 3
     },
     {
-      "Action": "Drifts and stresses out when asked to name a desert island band, hesitates, does not contribute confidently to conversation.",
-      "Competence": -1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Declines the Hockey Mom's offer for a ride, stating 'We'll be fine.'",
+      "assessment": "This could indicate confidence and self-reliance, but also a possible missed opportunity for safety or assistance, reflecting a mixed competence signal.",
+      "rating": 0,
+      "chunk": 3
     },
     {
-      "Action": "Questions if the segment will be edited, showing some awareness of the situation.",
-      "Competence": 0,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Pours half-empty beer cans into the sink the next morning, cleaning up after the group.",
+      "assessment": "Pat's action of cleaning up leftover beer cans suggests a responsible and considerate nature, indicating a degree of warmth by caring for shared space.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Lifts the equipment cases into the van, helps with practical tasks without complaint.",
-      "Warmth": 1,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Opens the door for Tad when he arrives with groceries.",
+      "assessment": "Opening the door for Tad is a polite and friendly gesture, showing attentiveness and respect towards others.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Intervenes verbally to deescalate physical violence between Reece and Tad, warns about consequences.",
-      "Warmth": 1,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Says 'I'm going to bed' when others plan to drink.",
+      "assessment": "Pat's choice to withdraw rather than engage in social drinking could be neutral or slightly negative for warmth, as it may indicate a preference for solitude or disconnection from the group.",
+      "rating": 0,
+      "chunk": 5
     },
     {
-      "Action": "Does not engage in aggressive behavior despite tension, remains calm and practical.",
-      "Warmth": 1,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Examines a cluster of framed cat photos on a dresser.",
+      "assessment": "This action shows Pat's attention to detail and curiosity, suggesting observational skills but not necessarily competence in a broader sense.",
+      "rating": 0,
+      "chunk": 5
     },
     {
-      "Action": "Asks if Tad's cousin is cool, showing interest and consideration about the situation and people involved.",
-      "Warmth": 1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Decides to go to bed early while others plan to drink.",
+      "assessment": "This indicates self-discipline and awareness of personal limits, reflecting a degree of maturity and responsible behavior.",
+      "rating": 1,
+      "chunk": 5
     },
     {
-      "Action": "Engages in conversation about the political nature of the venue, showing awareness but no judgment or hostility.",
-      "Warmth": 1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Next morning, zombie-walks to the turntable and powers it down, then cleans up half-empty beer cans.",
+      "assessment": "Pat's actions show a sense of responsibility and tidiness, as well as the ability to manage their environment, which are positive indicators of competence.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Asks informed questions about security and affiliations of the venue (e.g., SHARP, DMS, Sabre).",
-      "Competence": 1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Opens the door for Tad when he arrives.",
+      "assessment": "This courteous and timely action suggests social awareness and attentiveness, though it is a minor indicator of competence.",
+      "rating": 1,
+      "chunk": 5
     },
     {
-      "Action": "Engages in relevant discussion about the gig and venue safety.",
-      "Competence": 1,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Expresses a preference for live music and shared experiences over virtual ones, emphasizing the importance of being present and the fleeting energy of live performance.",
+      "assessment": "Pat's emphasis on shared, live experiences suggests a valuing of genuine connection and presence, which are indicators of warmth and sincerity.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Smacks Reece’s arm playfully as they pull out.",
-      "Warmth": 1,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Wincing when the topic of social media presence and band promotion comes up, indicating some discomfort or reluctance.",
+      "assessment": "Pat's discomfort may reflect sensitivity or a reluctance to engage in self-promotion, which could be interpreted as modesty or social awkwardness rather than coldness; this is a neutral to slightly positive indicator of warmth.",
+      "rating": 1,
+      "chunk": 6
     },
     {
-      "Action": "Inspects and compliments the flyer, calling it 'Pretty sweet.'",
-      "Warmth": 1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Scrubs his face with a moldy bar of soap despite having a crude Sharpie drawing on his face.",
+      "assessment": "This suggests a lack of attention to personal hygiene or self-presentation, which may reflect a momentary lapse in competence or care.",
+      "rating": -1,
+      "chunk": 6
     },
     {
-      "Action": "Pounces on Reece playfully after Reece farts, joining in the group's laughter.",
-      "Warmth": 1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Expresses a thoughtful perspective on the importance of live music and its 'texture' and energy that cannot be replicated virtually.",
+      "assessment": "This shows intellectual engagement and a nuanced understanding of music culture, indicating competence in his domain.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Inspects the flyer carefully and offers it to Reece, showing engagement and attention to detail.",
-      "Competence": 1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Contains a wince when questioned about social media presence, indicating some discomfort or reluctance.",
+      "assessment": "This hesitation suggests a possible lack of confidence or skill in navigating modern promotional tools, a minor negative indicator of competence.",
+      "rating": -1,
+      "chunk": 6
     },
     {
-      "Action": "Smacks Reece's arm as the van pulls out, indicating casual or playful behavior but no clear signal of competence.",
-      "Competence": 0,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Pat drifts during the conversation and struggles to name a 'desert island' band, muttering 'Shit man...' under his breath and shaking his head, stressing out.",
+      "assessment": "This behavior suggests a lack of confidence and decisiveness in a social or group setting, indicating some difficulty in responding promptly and assertively.",
+      "rating": -1,
+      "chunk": 7
     },
     {
-      "Action": "Responds to Reece's intense stare with interest, maintaining social awareness.",
-      "Competence": 1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Pat rubs his face and asks if the segment will be edited after awkwardly responding with 'Ah, man.'",
+      "assessment": "This shows self-awareness and a desire to manage how he is perceived, which can be a sign of social competence, though it also reveals discomfort and uncertainty.",
+      "rating": 0,
+      "chunk": 7
     },
     {
-      "Action": "Pounces on the flyer after Reece tosses it, joining in on the playful moment.",
-      "Competence": 0,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Lifts cases into the van and helps with loading equipment.",
+      "assessment": "Helping with physical tasks shows a cooperative and supportive nature, indicating warmth.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Calls off Tiger with a look to prevent him from speaking out of turn.",
-      "Competence": 1,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Tells Reece 'Let’s not go to jail too' and acknowledges the seriousness of the conflict.",
+      "assessment": "Pat attempts to de-escalate violence and prevent harm, showing concern for others' well-being and a calming influence.",
+      "rating": 3,
+      "chunk": 8
     },
     {
-      "Action": "Straps on guitar and scans graffiti carefully, engaging with band environment.",
-      "Competence": 1,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Suggests an alternative plan to head north and catch 80 all the way.",
+      "assessment": "Offering a practical solution in a tense moment reflects a problem-solving attitude and willingness to keep the group together, which is supportive and friendly.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Proposes a dumb idea to the group.",
-      "Competence": 0,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Lifts heavy cases into the van efficiently.",
+      "assessment": "This action shows Pat's physical capability and willingness to contribute to practical tasks, indicating basic competence in handling logistical needs.",
+      "rating": 1,
+      "chunk": 8
     },
     {
-      "Action": "Shares nervous smiles with Sam after a bottle smashes on stage, stays calm on stage despite the chaos.",
-      "Competence": 1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Calms Reece down by advising 'Let’s not go to jail too.'",
+      "assessment": "Pat demonstrates emotional intelligence and conflict management skills by intervening to prevent escalation, reflecting social competence and situational awareness.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Searches for Emily among the crowd but cannot find her, then notices Daniel watching him and responds appropriately by joining Sam off-mic for the chorus.",
-      "Competence": 1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Suggests a practical plan to head north and catch highway 80.",
+      "assessment": "Pat shows strategic thinking and problem-solving ability by proposing a clear next step for the group, indicating forward planning and leadership potential.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Tunes down his guitar along with Sam, adapting to the change in music style and mood.",
-      "Competence": 1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Keeps eyes trained on the floor while playing bass.",
+      "assessment": "This could suggest either focus on the music or possible social withdrawal; without further context, it is ambiguous but may indicate a lack of confident engagement with the environment.",
+      "rating": 0,
+      "chunk": 8
     },
     {
-      "Action": "Holds up a hand to stop Sam from leaving so Sam can retrieve his phone, saying 'I got you.'",
-      "Warmth": 1,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Engages in informed conversation about the political affiliations of the venue's crowd, asking about SHARP, DMS, Sabre, and clarifying the nature of the scene.",
+      "assessment": "This shows Pat's awareness and knowledge of subcultural groups and potential risks, indicating situational intelligence and social competence.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Grabs cases and rolls them out in unison with the band—shows coordination and reliability.",
-      "Competence": 1,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Questions Tad about the cousin and the venue's owner to assess safety and reliability.",
+      "assessment": "Pat demonstrates prudence and cautiousness, which are important for competent decision-making in uncertain social environments.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Notices that Sam forgot his phone and immediately offers to go back and retrieve it, demonstrating awareness and helpfulness.",
-      "Competence": 1,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Sits quietly in the back of the van, eyeballing Reece without initiating conversation or action.",
+      "assessment": "This non-action could suggest passivity or hesitation, which may reflect a lack of confidence or assertiveness in group dynamics.",
+      "rating": -1,
+      "chunk": 9
     },
     {
-      "Action": "Casually turns the knob and pushes open the green room door after knocking, despite Big Justin's shout to stop—shows confidence but possibly a lack of caution or disregard for authority/instructions.",
-      "Competence": 0,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Smacks Reece’s arm as they pull out.",
+      "assessment": "The playful physical gesture suggests a friendly and familiar rapport with Reece, indicating warmth and camaraderie.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Immediately tries to call 911 after discovering Emily with a knife in her skull.",
-      "Warmth": 1,
-      "Chunk": 16
+      "trait": "warmth",
+      "action": "Inspects the flyer and offers it to Reece, saying 'Pretty sweet.'",
+      "assessment": "Pat’s positive comment and sharing of the flyer shows an encouraging and inclusive attitude, reflecting warmth.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Yanks the charger from Sam’s phone without asking, interrupting the silence in the room.",
-      "Warmth": 0,
-      "Chunk": 16
+      "trait": "warmth",
+      "action": "Pounces on Reece after he rips a fart, joining in the laughter.",
+      "assessment": "Pat’s willingness to engage in lighthearted teasing and laughter demonstrates a good-natured and friendly demeanor.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "BOLTS to the door with the phone to get help despite physical confrontation from Big Justin and Gabe.",
-      "Warmth": 1,
-      "Chunk": 16
+      "trait": "competence",
+      "action": "Inspects the flyer handed to him and offers it to Reece, commenting 'Pretty sweet.'",
+      "assessment": "Pat demonstrates attentiveness and engagement by examining the flyer and sharing it with others, indicating a level of social awareness and participation.",
+      "rating": 1,
+      "chunk": 10
     },
     {
-      "Action": "Immediately attempts to call 911 after discovering the stabbing, takes urgent action despite chaos.",
-      "Competence": 1,
-      "Chunk": 16
+      "trait": "competence",
+      "action": "Pounces on Reece after he rips a fart, joining in the laughter.",
+      "assessment": "Pat shows quick social responsiveness and a sense of humor, which suggests confidence and ease in group dynamics, a subtle indicator of social competence.",
+      "rating": 1,
+      "chunk": 10
     },
     {
-      "Action": "Runs through the venue navigating obstacles while trying to make the call.",
-      "Competence": 1,
-      "Chunk": 16
+      "trait": "warmth",
+      "action": "Asks Sam 'You okay?'",
+      "assessment": "Pat shows concern for Sam's well-being, indicating attentiveness and care toward others.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Is physically overpowered; phone is knocked away preventing the emergency call.",
-      "Competence": 0,
-      "Chunk": 16
+      "trait": "warmth",
+      "action": "Notices the swastika graffiti and interacts with Tiger about it.",
+      "assessment": "Pat acknowledges a potentially offensive symbol, which could indicate awareness and sensitivity, though the excerpt does not show Pat's explicit response to it.",
+      "rating": 1,
+      "chunk": 12
     },
     {
-      "Action": "No actions or statements present in the excerpt to evaluate competence.",
-      "Competence": 0,
-      "Chunk": 22
+      "trait": "warmth",
+      "action": "Calls out 'Hey ya’ll. I got a dumb idea.'",
+      "assessment": "Pat attempts to engage the group with an idea, showing willingness to contribute and participate, which can be seen as friendly and inclusive.",
+      "rating": 1,
+      "chunk": 12
     },
     {
-      "Action": "Repeatedly demands to know where the cops are, insisting on their presence for a safer resolution.",
-      "Warmth": 1,
-      "Chunk": 24
+      "trait": "competence",
+      "action": "Calls off Tiger with a look before he speaks up about the sign.",
+      "assessment": "This shows Pat's situational awareness and ability to manage group dynamics non-verbally, indicating social and leadership competence.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Supports opening the door only for a cop, or keeping bullets in the gun for protection.",
-      "Warmth": 0,
-      "Chunk": 24
+      "trait": "competence",
+      "action": "Straps on guitar and scans the graffiti, noticing the swastika and reacting to it.",
+      "assessment": "Pat demonstrates attentiveness to the environment and sensitivity to potentially problematic symbols, reflecting awareness and social intelligence.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Insists on opening the door only for the police or keeping bullets in the gun, asserting a cautious and controlled stance.",
-      "Competence": 1,
-      "Chunk": 24
+      "trait": "competence",
+      "action": "Plays a familiar bass riff during sound check, contributing confidently to the band's setup.",
+      "assessment": "This indicates musical skill and confidence in a professional setting, showing competence in their role.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Asks repeatedly 'Where are the cops?' displaying urgency but potentially lacking strategic input beyond that.",
-      "Competence": 0,
-      "Chunk": 24
+      "trait": "competence",
+      "action": "Asks Sam if he is okay and questions the nature of the other guys.",
+      "assessment": "This shows empathy and concern for others, which is a positive interpersonal skill but less directly related to competence in a task-oriented sense.",
+      "rating": 1,
+      "chunk": 12
     },
     {
-      "Action": "Helps move the couch to block the door with Amber, cooperating to secure the situation.",
-      "Warmth": 1,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Shares nervous smiles with Sam after a bottle smashes on stage.",
+      "assessment": "Sharing nervous smiles suggests a moment of camaraderie and mutual support under pressure, indicating some warmth and connection with bandmates.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Motions for Sam to lower the barrel of the gun, signaling a desire to reduce hostility or danger.",
-      "Warmth": 1,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Searches for Emily after she flips him off.",
+      "assessment": "Pat’s attempt to find Emily despite her hostile gesture shows a willingness to engage and possibly understand or reconcile, reflecting a degree of tolerance and sincerity.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Helps Tiger to the couch, showing care and attentiveness.",
-      "Warmth": 1,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Joins Sam off-mic for the chorus and participates actively in the band’s anti-Nazi chant.",
+      "assessment": "Pat’s active participation in a collective, socially conscious act demonstrates solidarity and a friendly, trustworthy stance against hate, which is a positive indicator of warmth.",
+      "rating": 3,
+      "chunk": 14
     },
     {
-      "Action": "Fumbles with the revolver, indicating nervousness or uncertainty but still taking part in protecting the group.",
-      "Warmth": 0,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Does not confront or react negatively to Emily’s rude gesture (flipping him off).",
+      "assessment": "Pat’s non-retaliation to a hostile gesture can be seen as tolerance and emotional control, which are aspects of warmth, though the lack of engagement could also be neutral.",
+      "rating": 1,
+      "chunk": 14
     },
     {
-      "Action": "Refuses to take the revolver and explicitly says 'Can’t shoot.'",
-      "Warmth": 1,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Shares nervous smiles with Sam after a bottle smashes on stage.",
+      "assessment": "Pat's nervous smile suggests some anxiety or discomfort in a chaotic environment, indicating a slight lack of confidence or composure under pressure.",
+      "rating": -1,
+      "chunk": 14
     },
     {
-      "Action": "Asks Amber if there is another way out, showing concern for alternatives beyond violence.",
-      "Warmth": 1,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Searches for Emily after the incident but finds Daniel instead and then joins Sam off-mic for the chorus.",
+      "assessment": "Pat demonstrates situational awareness and social attentiveness by looking for Emily and then quickly adapting to the situation by joining the chorus, showing flexibility and engagement.",
+      "rating": 1,
+      "chunk": 14
     },
     {
-      "Action": "Refuses to take the gun and shoot despite the tension, showing self-awareness and restraint.",
-      "Competence": 1,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Tunes down his guitar along with Sam, accepting the new brooding drum beat and shifting the band's tone to a more aggressive style.",
+      "assessment": "Pat shows musical skill and adaptability by responding promptly to the band's changing dynamics, indicating competence in his role as a musician.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Asks Amber if there is another way out, actively seeking alternatives.",
-      "Competence": 1,
-      "Chunk": 27
+      "trait": "warmth",
+      "action": "Holds up a hand to stop Sam from leaving and says 'I GOT YOU,' then turns back to help him retrieve his phone.",
+      "assessment": "Pat's action shows attentiveness and willingness to help a bandmate in need, indicating reliability and friendliness.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Asks Amber about her phone to help, gestures respectfully to the corpse, asks permission to search her, shows concern and reverence.",
-      "Warmth": 1,
-      "Chunk": 30
+      "trait": "warmth",
+      "action": "Casually turns the knob and knocks before entering the green room despite Big Justin's call to stop.",
+      "assessment": "While knocking shows some respect, ignoring Big Justin's call suggests a lack of full consideration for others' authority or boundaries, which slightly detracts from warmth.",
+      "rating": -1,
+      "chunk": 15
     },
     {
-      "Action": "Searches the corpse's pockets, cooperates with the group, shares findings, tries to make sense of clues in a calm manner.",
-      "Warmth": 1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Grabs cases and rolls them out in unison with the band, showing coordination and teamwork.",
+      "assessment": "This action indicates Pat is reliable and able to work smoothly with others in a logistical task, reflecting practical competence.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Orders Big Justin to empty his pockets after he insults him, maintains control without escalating conflict.",
-      "Warmth": 0,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Notices Sam forgot his phone and immediately offers to go back and get it, saying 'I GOT YOU.'",
+      "assessment": "This shows situational awareness, responsibility, and confidence in handling unexpected issues, which are positive indicators of competence.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Takes initiative to search the corpse despite hesitation from Amber, showing leadership and decisiveness.",
-      "Competence": 1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Casually turns the knob and pushes open the green room door after knocking, despite Big Justin's call to stop.",
+      "assessment": "This suggests a degree of confidence and decisiveness, but also a possible disregard for authority or protocol, which could be seen as a negative or risky omission.",
+      "rating": 0,
+      "chunk": 15
     },
     {
-      "Action": "Finds a folded napkin with a cryptic word and brings it to group's attention, demonstrating observational skill and communication.",
-      "Competence": 1,
-      "Chunk": 30
+      "trait": "warmth",
+      "action": "Yanks the charger and grabs Sam's phone to call for help upon seeing Emily stabbed.",
+      "assessment": "Pat immediately takes initiative to get help in a crisis, showing concern and responsibility.",
+      "rating": 3,
+      "chunk": 16
     },
     {
-      "Action": "Suggests and participates in logical actions like searching, interpreting clues, and questioning Big Justin, showing situational awareness and strategic thinking.",
-      "Competence": 1,
-      "Chunk": 30
+      "trait": "warmth",
+      "action": "BOLTS to the door with the phone despite Big Justin grabbing his hoodie.",
+      "assessment": "Pat prioritizes getting help over personal safety or confrontation, indicating sincerity and urgency to assist.",
+      "rating": 3,
+      "chunk": 16
     },
     {
-      "Action": "Sets out items found (lighter, cigarettes) possibly with an implied strategic thought (e.g., fire), indicating tactical thinking.",
-      "Competence": 1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Goes straight for Sam’s phone and yanks the charger to make a call after discovering Emily stabbed.",
+      "assessment": "This shows Pat’s quick recognition of the emergency and immediate attempt to get help, indicating situational awareness and decisiveness.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Does not appear to take precaution against potential dangers like asbestos or hostile reactions beyond ordering the search, indicating a slight omission in risk management.",
-      "Competence": 0,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "BOLTS TO THE DOOR WITH THE PHONE despite Big Justin grabbing and ripping his hoodie.",
+      "assessment": "Pat demonstrates physical agility and determination to escape and call for help, showing resourcefulness under pressure.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Throws napkin at Big Justin and commands him to empty pockets, adopting an assertive, commanding role, indicating confidence and control.",
-      "Competence": 1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Leaps across the threshold and dials while flailing, charger dangling.",
+      "assessment": "While Pat is clearly trying to act quickly, the flailing and dangling charger suggest some lack of composure or finesse in a high-stress moment.",
+      "rating": 0,
+      "chunk": 16
     },
     {
-      "Action": "Curses himself after Big Justin smashes the phone, showing frustration but no aggression toward others.",
-      "Warmth": 0,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Attempts to call 911 and relay information about the stabbing while running and being pursued.",
+      "assessment": "Pat’s effort to communicate critical information under duress shows presence of mind and prioritization of the emergency, a positive competence indicator.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Commands to aim at the door during a tense situation, demonstrating protectiveness and readiness to defend the group.",
-      "Warmth": 1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Phone is smacked from Pat’s hand and call is ended by Gabe.",
+      "assessment": "This is a negative external event rather than a direct failure of Pat’s competence, but it does highlight Pat’s vulnerability and inability to maintain control of the situation fully.",
+      "rating": -1,
+      "chunk": 16
     },
     {
-      "Action": "Commands Big Justin to 'Turn ‘em out,' showing decisiveness and leadership in a tense situation.",
-      "Competence": 1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Closes his eyes while Tiger's eyes dart around the room during a tense moment after the victim's injury is revealed.",
+      "assessment": "Closing his eyes in a critical moment suggests avoidance or inability to face the situation directly, indicating a lack of emotional control or readiness to act under pressure.",
+      "rating": -2,
+      "chunk": 19
     },
     {
-      "Action": "Curses himself after Big Justin snaps the phone in half, suggesting frustration at a blown opportunity.",
-      "Competence": -1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Repeatedly asks 'Where are the cops?' during a tense standoff.",
+      "assessment": "Pat's insistence on involving law enforcement shows situational awareness and a preference for lawful resolution, indicating a level of prudence and strategic thinking.",
+      "rating": 2,
+      "chunk": 24
     },
     {
-      "Action": "Orders to 'Aim at the door' during the blackout, indicating a clear-headed and tactical response under pressure.",
-      "Competence": 1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Supports Amber and Reece in approaching Big Justin despite the threat.",
+      "assessment": "Pat demonstrates confidence and willingness to confront danger alongside others, suggesting courage and teamwork, which are positive competence indicators.",
+      "rating": 2,
+      "chunk": 24
     },
     {
-      "Action": "Elects to be the single voice communicating with Darcy, inches closer to the door to engage in negotiation.",
-      "Competence": 1,
-      "Chunk": 34
+      "trait": "competence",
+      "action": "Insists on opening the door only for a cop or keeping the bullets in the revolver.",
+      "assessment": "This shows Pat's cautious and controlled approach to a volatile situation, emphasizing safety and control, reflecting good judgment and competence.",
+      "rating": 3,
+      "chunk": 24
     },
     {
-      "Action": "Clearly and calmly states that they have a loaded gun, demonstrating honesty and straightforwardness.",
-      "Competence": 1,
-      "Chunk": 34
+      "trait": "warmth",
+      "action": "Helps Tiger to the couch after the tense situation.",
+      "assessment": "Helping someone physically after a stressful event shows care and concern for others' well-being.",
+      "rating": 2,
+      "chunk": 26
     },
     {
-      "Action": "Looks back to the band for consensus but receives none, showing awareness of group dynamics but perhaps a lack of leadership to secure agreement.",
-      "Competence": 0,
-      "Chunk": 34
+      "trait": "warmth",
+      "action": "Motions for Sam to lower the revolver's barrel despite the threat.",
+      "assessment": "This action suggests Pat is trying to de-escalate tension and avoid unnecessary violence, indicating a protective and considerate nature.",
+      "rating": 2,
+      "chunk": 26
     },
     {
-      "Action": "Responds with 'No shit!' revealing some frustration but maintaining confrontation during a tense negotiation.",
-      "Competence": 0,
-      "Chunk": 34
+      "trait": "warmth",
+      "action": "Works with Amber to blockade the door by sliding the couch together.",
+      "assessment": "Collaborating to secure the environment shows teamwork and a protective attitude toward the group.",
+      "rating": 1,
+      "chunk": 26
     },
     {
-      "Action": "Attempts to negotiate for a phone and ensures safety by proposing to hand over the gun only if they get a cell phone; shows concern for group's leverage and safety.",
-      "Warmth": 1,
-      "Chunk": 35
+      "trait": "warmth",
+      "action": "Fumbles with the revolver, showing some hesitation or lack of confidence.",
+      "assessment": "This may indicate discomfort with violence or weapons, which can be interpreted as a reluctance to harm others, a positive sign of warmth.",
+      "rating": 1,
+      "chunk": 26
     },
     {
-      "Action": "Consults group and seeks consensus before approaching door, showing respect and inclusiveness.",
-      "Warmth": 1,
-      "Chunk": 35
+      "trait": "warmth",
+      "action": "Says 'IT’S FINE. WE’D JUST RATHER WAIT FOR THE POLICE.'",
+      "assessment": "Preferring to wait for authorities rather than taking matters into their own hands suggests trust in proper procedures and a non-aggressive approach.",
+      "rating": 2,
+      "chunk": 26
     },
     {
-      "Action": "Focuses on tactical and practical concerns, no explicit friendly or warm expressions observed in this excerpt.",
-      "Warmth": 0,
-      "Chunk": 35
+      "trait": "competence",
+      "action": "Fumbles with the revolver while grabbing the side of the couch and looking to Sam.",
+      "assessment": "This action suggests some awkwardness or lack of familiarity with the weapon, indicating a momentary lapse in skill or confidence.",
+      "rating": -1,
+      "chunk": 26
     },
     {
-      "Action": "Grabs Tiger’s shoulders to calm him down and encourages buying time instead of panic.",
-      "Warmth": 1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Works with Amber to slide the couch and blockade the door.",
+      "assessment": "This shows practical problem-solving and teamwork under pressure, reflecting capable and quick thinking.",
+      "rating": 2,
+      "chunk": 26
     },
     {
-      "Action": "Leads group discussion asking for ideas and trying to manage the tense situation.",
-      "Warmth": 1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Rushes with Amber to dig cartridges from Big Justin’s pocket and load the revolver.",
+      "assessment": "This demonstrates resourcefulness and ability to act decisively in a tense situation, indicating competence.",
+      "rating": 2,
+      "chunk": 26
     },
     {
-      "Action": "Firmly negotiates handing over the gun but insists on keeping the ammo, showing both cooperation and caution.",
-      "Warmth": 0,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Motions for Sam to lower the barrel of the revolver aimed at Big Justin.",
+      "assessment": "This shows situational awareness and control, preventing unnecessary escalation, which reflects good judgment and confidence.",
+      "rating": 2,
+      "chunk": 26
     },
     {
-      "Action": "Asks the group for smart ideas and attempts to keep control of the situation by negotiating and buying time.",
-      "Competence": 1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Helps Tiger to the couch after he plants his hands to rise.",
+      "assessment": "This indicates attentiveness and willingness to assist others, though it is a neutral indicator of competence rather than a strong positive or negative.",
+      "rating": 0,
+      "chunk": 26
     },
     {
-      "Action": "Intervenes physically to calm Tiger down, showing presence of mind under stress.",
-      "Competence": 1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "States calmly that they’d rather wait for the police despite the tense situation.",
+      "assessment": "This suggests Pat is measured and confident in their approach, showing restraint and strategic thinking.",
+      "rating": 2,
+      "chunk": 26
     },
     {
-      "Action": "Agrees to hand over the gun but insists on keeping the ammo, indicating tactical thinking.",
-      "Competence": 1,
-      "Chunk": 36
+      "trait": "warmth",
+      "action": "Refuses to shoot the revolver when offered, shaking head and saying 'Can’t shoot.'",
+      "assessment": "Pat’s refusal to use the gun suggests a reluctance to engage in violence, indicating a conscientious and possibly protective nature, which is a positive indicator of warmth.",
+      "rating": 2,
+      "chunk": 27
     },
     {
-      "Action": "Expresses uncertainty about the situation but still tries to lead the group.",
-      "Competence": 0,
-      "Chunk": 36
+      "trait": "warmth",
+      "action": "Asks Amber if there is another way out.",
+      "assessment": "By seeking a non-violent solution, Pat demonstrates concern for the safety of others and a preference for peaceful resolution, reflecting thoughtfulness and care.",
+      "rating": 2,
+      "chunk": 27
     },
     {
-      "Action": "Asks others to step back for safety before handling a gun, carefully unloads rounds into Sam's hands.",
-      "Warmth": 1,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "Refuses to take the revolver and shoot, saying 'Can’t shoot.'",
+      "assessment": "Pat demonstrates self-awareness and restraint by refusing to take an action they are not comfortable or capable of performing, which can be seen as a responsible and competent decision in a high-stress situation.",
+      "rating": 1,
+      "chunk": 27
     },
     {
-      "Action": "Shoots an item Darcy values despite her warning.",
-      "Warmth": -1,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "Asks Amber if there is another way out.",
+      "assessment": "Pat shows situational awareness and problem-solving skills by seeking alternative solutions rather than relying on violence or force, indicating thoughtful and strategic thinking.",
+      "rating": 2,
+      "chunk": 27
     },
     {
-      "Action": "Commands others to step back, safely unloads revolver, carefully opens locked door while maintaining a sturdy stance and cautious posture.",
-      "Competence": 1,
-      "Chunk": 37
+      "trait": "warmth",
+      "action": "Asks Amber if she has a phone and gently asks to search the corpse, showing reverence and obtaining consent.",
+      "assessment": "Pat's respectful approach to Amber and the deceased indicates sensitivity and consideration, reflecting warmth.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Refuses Darcy's request to approach, preferring to throw instead, indicating situational judgment.",
-      "Competence": 1,
-      "Chunk": 37
+      "trait": "warmth",
+      "action": "Kneels by the body and searches pockets carefully, then shares findings with the group.",
+      "assessment": "Pat's willingness to share information and work collaboratively suggests trustworthiness and friendliness.",
+      "rating": 1,
+      "chunk": 30
     },
     {
-      "Action": "Fails to notice or avoid the hand grabbing his wrist when opening the door, leading to potential compromise.",
-      "Competence": -1,
-      "Chunk": 37
+      "trait": "warmth",
+      "action": "Tosses the napkin to Big Justin and commands him to empty his pockets.",
+      "assessment": "While Pat is assertive and takes charge, the tone is somewhat confrontational, which may reduce perceived warmth.",
+      "rating": -1,
+      "chunk": 30
     },
     {
-      "Action": "Struggles fiercely to protect himself and others during the violent confrontation, showing determination and resilience.",
-      "Warmth": 1,
-      "Chunk": 38
+      "trait": "competence",
+      "action": "Asks Amber if she has a phone and quickly decides to search the corpse for useful items.",
+      "assessment": "This shows situational awareness and practical problem-solving, indicating a competent and resourceful mindset.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Crumples in pain and expresses distress after being injured, indicating vulnerability and sincerity.",
-      "Warmth": 1,
-      "Chunk": 38
+      "trait": "competence",
+      "action": "Reverently asks permission before searching Amber's corpse, despite the urgency of the situation.",
+      "assessment": "This demonstrates social intelligence and respect for others, which can be a sign of emotional competence and leadership.",
+      "rating": 1,
+      "chunk": 30
     },
     {
-      "Action": "Attempts to fire a gun but it clicks without firing; struggles physically against attackers but ultimately injured and overwhelmed.",
-      "Competence": -1,
-      "Chunk": 38
+      "trait": "competence",
+      "action": "Finds a lighter, cigarettes, and a folded napkin with a cryptic message on the corpse.",
+      "assessment": "Pat’s thoroughness and attention to detail in searching the body suggest methodical and careful behavior, reflecting competence.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Fights to maintain leverage against attackers and tries to hold the door closed despite injury.",
-      "Competence": 1,
-      "Chunk": 38
+      "trait": "competence",
+      "action": "Interprets the word 'Fleischwolf' on the napkin and attempts to understand its meaning.",
+      "assessment": "Shows intellectual curiosity and attempts to make sense of clues, indicating cognitive competence.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Shows panic verbally ('Oh god. Oh no...'), indicating emotional overwhelm after being injured.",
-      "Competence": -1,
-      "Chunk": 38
+      "trait": "competence",
+      "action": "Tosses the napkin to Big Justin and commands him to empty his pockets.",
+      "assessment": "Exhibits confidence and assertiveness in a tense situation, which are signs of competent leadership and control.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Remains composed and repeats 'Okayokayokayokay' to likely manage the situation despite visible distress and severe injury.",
-      "Competence": 1,
-      "Chunk": 39
+      "trait": "competence",
+      "action": "Does not react aggressively to Big Justin’s insult but maintains control of the situation.",
+      "assessment": "Shows emotional regulation and strategic restraint, which are important aspects of competence.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Allows Tiger to tightly wrap a tube sock above his elbow to control bleeding, cooperating in first aid despite the pain and shock.",
-      "Competence": 1,
-      "Chunk": 39
+      "trait": "competence",
+      "action": "After searching the corpse, states 'Nothing here' and looks to Big Justin.",
+      "assessment": "This could indicate either a quick judgment or a lack of thoroughness; however, given the context, it seems Pat is efficiently moving the investigation forward.",
+      "rating": 1,
+      "chunk": 30
     },
     {
-      "Action": "Shows vulnerability through grunts, sobs, and spits, indicating the severity of wounds but stays present in the moment instead of freezing or panicking.",
-      "Competence": 0,
-      "Chunk": 39
+      "trait": "warmth",
+      "action": "Curses himself after Big Justin snaps the phone in half and tosses it forward.",
+      "assessment": "Pat's self-directed frustration suggests a sense of responsibility and regret, indicating some conscientiousness and sincerity.",
+      "rating": 1,
+      "chunk": 31
     },
     {
-      "Action": "Clutches his wound, blood seeping through the jacket, does not attempt to fix or indicate a plan to manage the injury or help himself further",
-      "Competence": -1,
-      "Chunk": 40
+      "trait": "warmth",
+      "action": "Commands 'Turn 'em out.' to Big Justin.",
+      "assessment": "This command is neutral and functional, showing leadership but no clear warmth or hostility.",
+      "rating": 0,
+      "chunk": 31
     },
     {
-      "Action": "Allows Tiger to wrap his jacket around his mangled arm, implicitly relying on others for medical aid",
-      "Competence": 0,
-      "Chunk": 40
+      "trait": "warmth",
+      "action": "Tells others to 'Aim at the door' during a tense moment.",
+      "assessment": "Pat takes a protective and alert stance, indicating concern for group safety, which can be seen as a warm, responsible behavior.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Admits to losing the gun but held on longer than others expected.",
-      "Competence": 0,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Commands Big Justin to turn out his pockets and reacts to the situation by instructing to aim at the door when the lights go out.",
+      "assessment": "Pat demonstrates situational awareness and attempts to maintain control during a tense moment, indicating a level of confidence and tactical thinking.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Gives a drowsy smile after losing the gun, showing possible lack of alertness or energy.",
-      "Competence": -1,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Curses himself after Big Justin snaps the phone in half, losing a potentially important item.",
+      "assessment": "This reaction suggests frustration and a momentary lapse in control or foresight, reflecting a minor failure in managing the situation effectively.",
+      "rating": -1,
+      "chunk": 31
     },
     {
-      "Action": "Huddled against the wall with labored breaths, defers to others for information and action.",
-      "Competence": -1,
-      "Chunk": 42
+      "trait": "warmth",
+      "action": "In response to Darcy's request, Pat agrees to be the single voice communicating with them.",
+      "assessment": "Volunteering to be the spokesperson shows a willingness to take responsibility and facilitate communication, which can be seen as a cooperative and trustworthy behavior.",
+      "rating": 2,
+      "chunk": 34
     },
     {
-      "Action": "Offers to be informed and stays ready to assist despite physical state.",
-      "Competence": 0,
-      "Chunk": 42
+      "trait": "warmth",
+      "action": "Pat informs Darcy that they have a loaded gun, stating it as a fact.",
+      "assessment": "While Pat is honest and straightforward, the tone and content here are defensive and potentially confrontational, which may reduce perceived warmth.",
+      "rating": 0,
+      "chunk": 34
     },
     {
-      "Action": "Eager presence among the group despite serious injury.",
-      "Warmth": 1,
-      "Chunk": 43
+      "trait": "warmth",
+      "action": "Pat shoots a look back at the band and looks for consensus before responding.",
+      "assessment": "Seeking group consensus indicates consideration for others' opinions and a collaborative approach, reflecting some degree of warmth and respect.",
+      "rating": 1,
+      "chunk": 34
     },
     {
-      "Action": "Keeps gritting teeth and tolerates pain silently, not complaining or causing trouble for others.",
-      "Warmth": 1,
-      "Chunk": 43
+      "trait": "warmth",
+      "action": "Pat responds to Darcy's apology for associates panicking with 'No shit!'",
+      "assessment": "This response is blunt and somewhat sarcastic, which may undermine warmth by showing irritation or lack of tact.",
+      "rating": -1,
+      "chunk": 34
     },
     {
-      "Action": "Shows eagerness and stays engaged in the operation despite dangerous conditions.",
-      "Competence": 1,
-      "Chunk": 43
+      "trait": "competence",
+      "action": "In response to Darcy's announcement, Pat calmly confirms communication and volunteers to be the single voice for the group.",
+      "assessment": "This shows Pat's willingness to take responsibility and communicate clearly under pressure, indicating a level of confidence and leadership.",
+      "rating": 2,
+      "chunk": 34
     },
     {
-      "Action": "Has a severely injured hand with exposed tendons and losing blood fast, suggesting poor personal safety or lack of caution.",
-      "Competence": -1,
-      "Chunk": 43
+      "trait": "competence",
+      "action": "Pat asserts to Darcy that they have a loaded gun, stating it as a fact.",
+      "assessment": "This demonstrates Pat's straightforwardness and strategic communication, signaling awareness of the situation and readiness to assert their position.",
+      "rating": 2,
+      "chunk": 34
     },
     {
-      "Action": "Expresses concern that they can’t just go missing and need to be found.",
-      "Warmth": 1,
-      "Chunk": 44
+      "trait": "competence",
+      "action": "Pat looks back at the band seeking consensus before continuing the negotiation.",
+      "assessment": "This indicates Pat's consideration for group input and cautious decision-making, reflecting social intelligence and prudence.",
+      "rating": 1,
+      "chunk": 34
     },
     {
-      "Action": "Tries to lighten the mood by comparing the dangerous situation to paintball and shares a personal story about feeling afraid.",
-      "Warmth": 1,
-      "Chunk": 44
+      "trait": "competence",
+      "action": "Pat responds with frustration and sarcasm ('No shit! And we’re in a r-') during a tense negotiation.",
+      "assessment": "This moment of emotional outburst could undermine Pat's control and negotiation effectiveness, suggesting a slight lapse in composure.",
+      "rating": -1,
+      "chunk": 34
     },
     {
-      "Action": "Suggests treating the dangerous situation like a paintball game, sharing relevant personal experience with ex-Marines and the importance of not taking it too seriously.",
-      "Competence": 1,
-      "Chunk": 44
+      "trait": "warmth",
+      "action": "Attempts to negotiate with the people outside by asking for a cell phone and a registered firearm in exchange for handing over the gun.",
+      "assessment": "Pat shows a willingness to communicate and find a peaceful resolution, indicating a concern for the group's safety and a desire to avoid violence.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Admits to cowering behind trees and being ineffective in the paintball game, implying past fear and lack of skill.",
-      "Competence": -1,
-      "Chunk": 44
+      "trait": "warmth",
+      "action": "Gathers the group in a huddle and asks 'What do we do?'",
+      "assessment": "Pat demonstrates inclusiveness and openness to others' input, showing respect and trust towards the group members.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "(waving off concern) 'I’m just gonna run.'",
-      "Warmth": -1,
-      "Chunk": 45
+      "trait": "warmth",
+      "action": "Nods to the group and approaches the door to negotiate.",
+      "assessment": "Pat takes on a leadership role with calmness and responsibility, suggesting reliability and sincerity in handling a tense situation.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Waves off concerns and decides confidently to run, showing decisiveness.",
-      "Competence": 1,
-      "Chunk": 45
+      "trait": "competence",
+      "action": "Initiates communication with the door, asking clear and relevant questions about the police presence.",
+      "assessment": "This shows Pat's awareness of the situation and desire to gather important information, indicating situational understanding and proactive behavior.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Observes and acknowledges that they were well equipped ('They loaded us out'), demonstrating awareness of their preparedness.",
-      "Competence": 1,
-      "Chunk": 45
+      "trait": "competence",
+      "action": "Leads a huddle with others to discuss options and strategies.",
+      "assessment": "Taking initiative to organize a group discussion demonstrates leadership and problem-solving skills, reflecting competence.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Snatches the microphone from the stand and uses it to create loud feedback, saving Amber from the attacking dog.",
-      "Warmth": 1,
-      "Chunk": 47
+      "trait": "competence",
+      "action": "Considers suggestions from others and weighs options before deciding to negotiate with the door.",
+      "assessment": "Shows openness to input and thoughtful decision-making, indicating intelligence and collaborative competence.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Snatches the microphone from the stand and uses it to create ear-splitting feedback, causing Brownie to release Amber.",
-      "Competence": 1,
-      "Chunk": 47
+      "trait": "competence",
+      "action": "Negotiates by proposing to hand over the gun in exchange for a cell phone or a registered firearm.",
+      "assessment": "This is a strategic move to gain leverage or communication tools, reflecting tactical thinking and negotiation skills.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Identifies and confirms the song name on the set list, assisting Sam in understanding the set list under pressure.",
-      "Competence": 1,
-      "Chunk": 48
+      "trait": "competence",
+      "action": "Agrees to test the response by seeing what the other side says about tying up Big Justin.",
+      "assessment": "Demonstrates cautious testing of boundaries and willingness to explore options, showing practical judgment.",
+      "rating": 1,
+      "chunk": 35
     },
     {
-      "Action": "Moves with the others to barricade the door, actively participating in their defense.",
-      "Competence": 1,
-      "Chunk": 48
+      "trait": "warmth",
+      "action": "Intercepts Tiger’s pacing and grabs his shoulders to calm him down.",
+      "assessment": "Pat’s physical intervention to steady Tiger shows concern and an attempt to provide reassurance in a tense moment, indicating care and support.",
+      "rating": 2,
+      "chunk": 36
     },
     {
-      "Action": "Does not intervene or take charge despite Sam fumbling the extinguisher situation; remains passive during crisis.",
-      "Competence": 0,
-      "Chunk": 48
+      "trait": "warmth",
+      "action": "Asks the group if anyone has smart ideas, inviting input.",
+      "assessment": "By soliciting ideas from others, Pat demonstrates openness and respect for others’ opinions, fostering a collaborative and inclusive atmosphere.",
+      "rating": 2,
+      "chunk": 36
     },
     {
-      "Action": "Steps back calmly as others prepare to defend against the door being kicked in.",
-      "Competence": 0,
-      "Chunk": 49
+      "trait": "warmth",
+      "action": "Acknowledges the difficulty of the situation and the lack of good options.",
+      "assessment": "Pat’s honest recognition of the grim circumstances shows sincerity and realism, which can build trust among the group.",
+      "rating": 1,
+      "chunk": 36
     },
     {
-      "Action": "Holds up the napkin as evidence, looks to Amber to connect the dots.",
-      "Warmth": 1,
-      "Chunk": 50
+      "trait": "warmth",
+      "action": "Nods in agreement when Amber says 'For them.'",
+      "assessment": "Pat’s agreement with Amber’s comment suggests empathy and alignment with the group’s concern for others’ safety.",
+      "rating": 2,
+      "chunk": 36
     },
     {
-      "Action": "Stays involved and attentive during a tense confrontation, showing engagement and sincerity.",
-      "Warmth": 1,
-      "Chunk": 50
+      "trait": "warmth",
+      "action": "Decides to hand over the gun but keep the ammo.",
+      "assessment": "This decision balances cooperation with caution, showing Pat’s pragmatic concern for safety but also willingness to compromise, reflecting responsibility and care.",
+      "rating": 1,
+      "chunk": 36
     },
     {
-      "Action": "Calls out for Sam upon entering an empty lab, showing concern or hope.",
-      "Warmth": 1,
-      "Chunk": 51
+      "trait": "competence",
+      "action": "Turns to the group and asks, 'Anyone got smart ideas?'",
+      "assessment": "This shows Pat's willingness to seek input and collaborate, indicating situational awareness and leadership skills.",
+      "rating": 2,
+      "chunk": 36
     },
     {
-      "Action": "Remains silent and passive after being lowered into the lab, avoiding confrontation or engagement.",
-      "Warmth": 0,
-      "Chunk": 51
+      "trait": "competence",
+      "action": "Intercepts Tiger’s pacing and grabs his shoulders to calm him down.",
+      "assessment": "Pat demonstrates emotional control and the ability to manage group tension, which is a competent leadership behavior in a crisis.",
+      "rating": 2,
+      "chunk": 36
     },
     {
-      "Action": "Is lowered carefully into the underground lab by another character, indicating vulnerability or reliance on others for physical support.",
-      "Competence": -1,
-      "Chunk": 51
+      "trait": "competence",
+      "action": "Takes position by the door and negotiates terms, agreeing to hand over the gun but keep the ammo.",
+      "assessment": "Pat shows strategic thinking and negotiation skills, balancing risk and control in a tense situation.",
+      "rating": 3,
+      "chunk": 36
     },
     {
-      "Action": "Calls out 'Sam?' in the empty lab, showing initiative and attempt to communicate despite isolation.",
-      "Competence": 1,
-      "Chunk": 51
+      "trait": "competence",
+      "action": "Says, 'No one’s saying it is. We either hand over the gun, or open fire with it.'",
+      "assessment": "Pat realistically assesses the gravity of the situation and presents clear options, reflecting practical and decisive thinking.",
+      "rating": 2,
+      "chunk": 36
     },
     {
-      "Action": "Reassures others by saying 'It's okay' despite the tense situation.",
-      "Warmth": 1,
-      "Chunk": 52
+      "trait": "warmth",
+      "action": "Instructs others to step back for safety and carefully handles the revolver, unloading the rounds into Sam's hands.",
+      "assessment": "Pat demonstrates a responsible and protective attitude, prioritizing everyone's safety and showing trustworthiness in handling a dangerous weapon.",
+      "rating": 2,
+      "chunk": 37
     },
     {
-      "Action": "Acknowledges the difficulty but expresses group loyalty with 'he's with us. We gotta split.'",
-      "Warmth": 1,
-      "Chunk": 52
+      "trait": "warmth",
+      "action": "Opens the door cautiously and communicates clearly with Darcy, refusing her approach to avoid risk.",
+      "assessment": "Pat's cautiousness and clear communication reflect a sincere concern for the group's wellbeing, showing good-natured leadership and consideration.",
+      "rating": 2,
+      "chunk": 37
     },
     {
-      "Action": "Offers to have Daniel help with the escape plan despite uncertainty around Daniel's loyalty.",
-      "Warmth": 1,
-      "Chunk": 52
+      "trait": "warmth",
+      "action": "Responds with 'Get off!' when a hand grabs his wrist unexpectedly.",
+      "assessment": "Pat's reaction is defensive and abrupt, indicating a moment of tension and mistrust; while understandable, it shows limited tolerance and friendliness in this moment.",
+      "rating": -1,
+      "chunk": 37
     },
     {
-      "Action": "Reacts calmly when finding the empty lab, acknowledges the situation but remains focused on the task of splitting and moving forward.",
-      "Competence": 1,
-      "Chunk": 52
+      "trait": "competence",
+      "action": "Scoots the couch back to create a defensive position and empties the revolver's rounds into Sam's hands.",
+      "assessment": "This shows Pat's practical awareness and readiness to manage weapons and prepare for confrontation, indicating skill and calm under pressure.",
+      "rating": 2,
+      "chunk": 37
     },
     {
-      "Action": "Assesses the situation with the industrial fan and concludes they won’t fit through it, showing practical spatial judgment.",
-      "Competence": 1,
-      "Chunk": 52
+      "trait": "competence",
+      "action": "Slides the dead-bolt unlocked, takes a sturdy stance, blows on his palms, and carefully cracks the door open while coordinating with others.",
+      "assessment": "Pat demonstrates methodical, confident, and tactical behavior, showing control and composure in a tense situation.",
+      "rating": 3,
+      "chunk": 37
     },
     {
-      "Action": "Suggests Daniel can help despite unknowns about him, showing some trust but also possible gap in full risk assessment.",
-      "Competence": 0,
-      "Chunk": 52
+      "trait": "competence",
+      "action": "Refuses Darcy's request to approach and instead decides to throw the door open, signaling command over the situation.",
+      "assessment": "This indicates decisiveness and authority, suggesting Pat is confident in managing the threat and directing others.",
+      "rating": 2,
+      "chunk": 37
     },
     {
-      "Action": "Jumps and drops the box-cutter reflexively after Daniel is killed, then grabs Daniel’s machete and attacks the Bartender to protect the group.",
-      "Warmth": 1,
-      "Chunk": 53
+      "trait": "competence",
+      "action": "Adjusts posture to accommodate the big-bore snub nose revolver needing more clearance while opening the door.",
+      "assessment": "This small but important adjustment shows attention to detail and practical skill with weapons.",
+      "rating": 2,
+      "chunk": 37
     },
     {
-      "Action": "Jumps and drops the box-cutter when Daniel is shot unexpectedly.",
-      "Competence": -1,
-      "Chunk": 53
+      "trait": "competence",
+      "action": "Is grabbed by a hand thrusting inside the door and struggles to get off.",
+      "assessment": "While being caught off guard here might suggest a momentary lapse or vulnerability, the immediate resistance indicates resilience and fighting spirit.",
+      "rating": 0,
+      "chunk": 37
     },
     {
-      "Action": "Quickly grabs Daniel's machete and reflexively attacks the Bartender, successfully incapacitating him.",
-      "Competence": 1,
-      "Chunk": 53
+      "trait": "warmth",
+      "action": "Fights fiercely to protect himself and others during a violent confrontation, screaming and struggling to maintain leverage against an attacker.",
+      "assessment": "Pat's actions show determination and a protective instinct, which can be interpreted as a form of care and concern for the group, indicating some warmth despite the violent context.",
+      "rating": 1,
+      "chunk": 38
     },
     {
-      "Action": "Pockets some shot shells and promptly hands over two shells to Amber when requested, supporting the team's defense efforts.",
-      "Warmth": 1,
-      "Chunk": 54
+      "trait": "warmth",
+      "action": "Allows Amber and Sam to help him after his hand is nearly hacked off, showing vulnerability and trust.",
+      "assessment": "Pat's acceptance of help and reliance on others in a moment of pain suggests openness and trustworthiness, positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 38
     },
     {
-      "Action": "Shouts encouragement to Sam during a chaotic and dangerous situation, urging him to act quickly.",
-      "Warmth": 1,
-      "Chunk": 54
+      "trait": "warmth",
+      "action": "Repeatedly says 'Oh god. Oh no...oh god...' after being injured.",
+      "assessment": "This expression of pain and distress reveals Pat's human vulnerability and sincerity, which can evoke empathy and indicate emotional warmth.",
+      "rating": 2,
+      "chunk": 38
     },
     {
-      "Action": "Pockets some shot shells off the bar and promptly hands over two shells to Amber when requested, enabling her to reload quickly.",
-      "Competence": 1,
-      "Chunk": 54
+      "trait": "competence",
+      "action": "Pulls the trigger repeatedly but the gun clicks empty.",
+      "assessment": "This suggests a lack of preparedness or oversight regarding ammunition, indicating a momentary lapse in competence.",
+      "rating": -1,
+      "chunk": 38
     },
     {
-      "Action": "Responds affirmatively and supports the group’s move towards exit with coordinated momentum, showing readiness and alertness.",
-      "Competence": 1,
-      "Chunk": 54
+      "trait": "competence",
+      "action": "Fights for leverage and presses the door against his own arm despite being grabbed and overpowered.",
+      "assessment": "Demonstrates physical resilience and determination under pressure, reflecting competent physical and mental endurance.",
+      "rating": 2,
+      "chunk": 38
     },
     {
-      "Action": "Shouts encouragement to Sam during a tense moment, attempting to prompt action.",
-      "Competence": 1,
-      "Chunk": 54
+      "trait": "competence",
+      "action": "Screams and shows visible distress after being injured and nearly losing his hand.",
+      "assessment": "While understandable, this reaction shows vulnerability and a momentary loss of composure, slightly detracting from an image of calm competence.",
+      "rating": -1,
+      "chunk": 38
     },
     {
-      "Action": "Does not take direct control or initiative in the shootout scene, mostly supporting roles and reacting to others’ moves.",
-      "Competence": 0,
-      "Chunk": 54
+      "trait": "competence",
+      "action": "Commands 'Gimme my hand!' to a teammate during a critical moment.",
+      "assessment": "Shows presence of mind and leadership in a crisis, indicating competent situational awareness and communication.",
+      "rating": 2,
+      "chunk": 38
     },
     {
-      "Action": "Pulls Amber back through the entrance and sets her on the couch.",
-      "Warmth": 1,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "Crumbles to the ground, hunched over his wound, repeatedly saying 'Oh god.'",
+      "assessment": "This reaction reveals physical pain and emotional overwhelm, which while humanizing, suggests a temporary breakdown in maintaining control and confidence.",
+      "rating": -2,
+      "chunk": 38
     },
     {
-      "Action": "Questions Amber about her experiences with a tone that could be seen as challenging or dismissive.",
-      "Warmth": -1,
-      "Chunk": 55
+      "trait": "warmth",
+      "action": "Allows Tiger to wrap a tube sock tightly above Pat’s elbow to stop bleeding despite the pain, grunting, sobbing, and spitting.",
+      "assessment": "Pat endures physical pain without complaint and cooperates with others trying to help, showing trust and tolerance in a stressful situation.",
+      "rating": 2,
+      "chunk": 39
     },
     {
-      "Action": "Uses humor and sarcasm in a tense moment ('Fuck yourself' said kindly) to perhaps defuse tension and bond with Amber.",
-      "Warmth": 1,
-      "Chunk": 55
+      "trait": "warmth",
+      "action": "Faces Tiger who is assessing Pat’s severe wounds calmly.",
+      "assessment": "Pat remains composed and allows others to assist, indicating a level of trust and acceptance of help.",
+      "rating": 1,
+      "chunk": 39
     },
     {
-      "Action": "Shares a personal story about being frustrated with family over something trivial, shows vulnerability by admitting strong emotions.",
-      "Warmth": 1,
-      "Chunk": 56
+      "trait": "warmth",
+      "action": "Does not intervene or attempt to escalate the violent confrontation despite being injured and present.",
+      "assessment": "Pat’s non-action here suggests restraint and possibly a desire to avoid further conflict, which can be seen as a positive indicator of tolerance and self-control.",
+      "rating": 1,
+      "chunk": 39
     },
     {
-      "Action": "Expresses concern that he cannot die with Amber, indicating emotional attachment and care.",
-      "Warmth": 1,
-      "Chunk": 56
+      "trait": "competence",
+      "action": "Responds to Tiger wrapping a tube sock above his elbow with grunts, sobs, and spits, indicating pain but allowing the tourniquet to be applied.",
+      "assessment": "Pat endures severe pain without resisting the necessary medical intervention, showing resilience and presence of mind under extreme physical distress.",
+      "rating": 2,
+      "chunk": 39
     },
     {
-      "Action": "Admits to fear and cowering during paintball against skilled opponents, showing honesty and humility.",
-      "Warmth": 1,
-      "Chunk": 56
+      "trait": "competence",
+      "action": "Does not intervene directly in the fight but remains present and responsive while others subdue Big Justin.",
+      "assessment": "Pat's lack of direct action in the fight could suggest either a strategic choice to conserve strength or a limitation in combat ability; however, his focus on the injury and allowing Tiger to apply aid indicates situational awareness.",
+      "rating": 0,
+      "chunk": 39
     },
     {
-      "Action": "Reflects on a past failure in a paintball game against skilled opponents and admits to cowering rather than leading or fighting back.",
-      "Competence": -1,
-      "Chunk": 56
+      "trait": "competence",
+      "action": "Pat admits, 'I lost the gun...'",
+      "assessment": "Losing a weapon in a tense or dangerous situation indicates a significant lapse in responsibility and control, reflecting poorly on Pat's competence.",
+      "rating": -2,
+      "chunk": 41
     },
     {
-      "Action": "Acknowledges the severity of their situation calmly without panic despite being injured and in a hopeless setting.",
-      "Competence": 1,
-      "Chunk": 56
+      "trait": "competence",
+      "action": "Pat gives a drowsy smile after being told he held on longer than Reece would have.",
+      "assessment": "The drowsy smile suggests a lack of alertness or engagement, which undermines Pat's ability to act skillfully or confidently in a critical moment.",
+      "rating": -1,
+      "chunk": 41
     },
     {
-      "Action": "Expresses emotional vulnerability and frustration about personal family events rather than focusing on immediate problem-solving.",
-      "Competence": -1,
-      "Chunk": 56
+      "trait": "warmth",
+      "action": "Pat sinks down after being injured, showing vulnerability and endurance.",
+      "assessment": "Pat's endurance despite injury suggests resilience but does not directly indicate warmth.",
+      "rating": 0,
+      "chunk": 43
     },
     {
-      "Action": "Acknowledges the danger of real guns and refuses to engage in 'real war' play, showing awareness and prudence.",
-      "Competence": 1,
-      "Chunk": 57
+      "trait": "warmth",
+      "action": "Tiger knee-slides to Pat's side and helps by pulling the jacket from around Pat’s hand to stop bleeding.",
+      "assessment": "While this action is by Tiger, Pat’s acceptance of help without resistance shows trust and openness to support, which can be seen as a mild indicator of warmth.",
+      "rating": 1,
+      "chunk": 43
     },
     {
-      "Action": "Engages in discussion about the impossibility of playing real war with real guns, indicating realistic judgment.",
-      "Competence": 1,
-      "Chunk": 57
+      "trait": "competence",
+      "action": "Pat remains eager and present in the Green Room despite the tense situation.",
+      "assessment": "Pat's eagerness suggests mental engagement and readiness, indicating a positive level of competence in terms of attitude and focus.",
+      "rating": 1,
+      "chunk": 43
     },
     {
-      "Action": "Disguises himself with face paint and wears a jacket to impersonate a threat, then drops into a hole confidently, navigating the underground lab.",
-      "Competence": 1,
-      "Chunk": 60
+      "trait": "competence",
+      "action": "Pat suffers a severe hand injury with exposed tendons and losing blood fast, but grits his teeth and endures the pain.",
+      "assessment": "Pat's ability to endure significant pain without losing composure shows mental toughness and resilience, which are components of competence under pressure.",
+      "rating": 2,
+      "chunk": 43
     },
     {
-      "Action": "Leaves hair clippings littering the floor, indicating a lack of preparedness or attention to detail.",
-      "Competence": -1,
-      "Chunk": 61
+      "trait": "competence",
+      "action": "Pat does not appear to take any direct action to address or stop the bleeding from his injury.",
+      "assessment": "The omission of attempting to self-treat or signal for immediate medical aid suggests a lack of practical skill or presence of mind in managing his own injury, a negative indicator of competence.",
+      "rating": -1,
+      "chunk": 43
     },
     {
-      "Action": "Creeps behind Jonathan in war paint with machete raised, attempts to engage but then scrambles back as bullets whiz and ricochet; falters and cowers behind a container wall.",
-      "Competence": -1,
-      "Chunk": 62
+      "trait": "competence",
+      "action": "Pat allows Tiger to remove his jacket to expose the injury for treatment.",
+      "assessment": "This shows Pat's trust in teammates and willingness to cooperate, which is a positive social competence indicator, though it does not directly reflect personal skill or confidence.",
+      "rating": 1,
+      "chunk": 43
     },
     {
-      "Action": "Speaks quietly through the floor to Amber, first calling her but then dismissing it with 'Nevermind...', then rises to his feet.",
-      "Competence": 0,
-      "Chunk": 62
+      "trait": "warmth",
+      "action": "Says '...can’t just go missing. They need us found...'",
+      "assessment": "Pat expresses concern for the group’s safety and the need to be found, showing care and responsibility toward others.",
+      "rating": 2,
+      "chunk": 44
     },
     {
-      "Action": "Turns out pockets, drops shotgun shells, loads and fires shotgun under pressure.",
-      "Warmth": 0,
-      "Chunk": 63
+      "trait": "warmth",
+      "action": "Encourages the group to treat the situation like paintball, trying to lighten the mood and reduce fear.",
+      "assessment": "Attempting to use humor and analogy to ease tension demonstrates friendliness and a desire to support others emotionally.",
+      "rating": 2,
+      "chunk": 44
     },
     {
-      "Action": "Turns out pockets to hand over shells, quickly reloads and fires one-handed mid-flinch.",
-      "Competence": 1,
-      "Chunk": 63
+      "trait": "warmth",
+      "action": "Shares a personal story about being scared and cowering during paintball games.",
+      "assessment": "Pat’s openness about personal fear shows sincerity and vulnerability, which can foster trust and connection.",
+      "rating": 2,
+      "chunk": 44
     },
     {
-      "Action": "Clings to the shotgun defensively and suffers a violent struggle with Jonathan.",
-      "Warmth": 0,
-      "Chunk": 64
+      "trait": "warmth",
+      "action": "Accepts Reece’s apology and departure with a simple 'Okay.'",
+      "assessment": "Pat’s calm and non-confrontational response suggests tolerance and steadiness, though it is a neutral interaction.",
+      "rating": 1,
+      "chunk": 44
     },
     {
-      "Action": "Looks pained but shows relief when Amber shoots Jonathan, showing reliance and trust in companion.",
-      "Warmth": 1,
-      "Chunk": 64
+      "trait": "competence",
+      "action": "Says 'We gotta treat this like paintball' and tries to frame the dangerous situation in a less serious, more manageable way.",
+      "assessment": "This suggests Pat attempts to use humor or reframing to reduce tension, which can be a coping mechanism but may also indicate a lack of full grasp of the gravity of the situation.",
+      "rating": -1,
+      "chunk": 44
     },
     {
-      "Action": "Allows Amber to help him to his feet after the fight, indicating mutual support and openness.",
-      "Warmth": 1,
-      "Chunk": 64
+      "trait": "competence",
+      "action": "Shares a story about playing paintball with ex-Marines and admits to cowering behind trees until shot.",
+      "assessment": "This admission reveals a lack of confidence and combat readiness, indicating low competence in high-pressure or combat-like scenarios.",
+      "rating": -2,
+      "chunk": 44
     },
     {
-      "Action": "Engages in brief, strained communication with Gabe and Amber post-conflict.",
-      "Warmth": 0,
-      "Chunk": 64
+      "trait": "competence",
+      "action": "Allows Tiger to wrap his wounded arm with duct tape, remaining passive during the process.",
+      "assessment": "Pat accepts help and does not resist treatment, which shows some level of practical acceptance but no active initiative in self-care or leadership.",
+      "rating": 0,
+      "chunk": 44
     },
     {
-      "Action": "Fires shotgun mid-flinch and misses by a mile.",
-      "Competence": -1,
-      "Chunk": 64
+      "trait": "competence",
+      "action": "Responds calmly with 'Okay' when told they have to go.",
+      "assessment": "This shows Pat can follow orders without hesitation, indicating a baseline level of composure and cooperation.",
+      "rating": 1,
+      "chunk": 44
     },
     {
-      "Action": "Clings on for life during a struggle with Jonathan.",
-      "Competence": 0,
-      "Chunk": 64
+      "trait": "warmth",
+      "action": "Waves off concern and says 'I’m just gonna run.'",
+      "assessment": "Pat's dismissal of concern and focus on self-preservation suggests a lack of consideration for others' feelings or safety in this moment.",
+      "rating": -1,
+      "chunk": 45
     },
     {
-      "Action": "Recovers with help from Amber and gets to feet after the fight.",
-      "Competence": 0,
-      "Chunk": 64
+      "trait": "warmth",
+      "action": "Joins the group in preparing to enter the venue with weapons ready.",
+      "assessment": "Pat's willingness to stand with the group and face danger together indicates a degree of loyalty and camaraderie.",
+      "rating": 2,
+      "chunk": 45
     },
     {
-      "Action": "Heads off and picks up the paper scrap (Tad’s flyer) showing attentiveness to surroundings and preserving a clue.",
-      "Warmth": 1,
-      "Chunk": 65
+      "trait": "warmth",
+      "action": "Comments on their gear being loaded out after entering the venue.",
+      "assessment": "Pat shares useful observations with the group, showing attentiveness and a cooperative spirit.",
+      "rating": 2,
+      "chunk": 45
     },
     {
-      "Action": "Suggests staying quiet until they’re out, showing prudence and concern for group safety.",
-      "Warmth": 1,
-      "Chunk": 65
+      "trait": "competence",
+      "action": "Waves off concern and says 'I’m just gonna run.'",
+      "assessment": "This suggests a somewhat impulsive or simplistic approach to a dangerous situation, indicating a possible lack of strategic thinking or confidence in handling the threat.",
+      "rating": -1,
+      "chunk": 45
     },
     {
-      "Action": "Asks Gabe if he saw them die, showing concern about traumatic events and empathy for others.",
-      "Warmth": 1,
-      "Chunk": 65
+      "trait": "competence",
+      "action": "Acknowledges that 'They loaded us out' referring to their gear.",
+      "assessment": "This shows situational awareness and recognition of their preparedness, indicating some level of competence in understanding their equipment and readiness.",
+      "rating": 1,
+      "chunk": 45
     },
     {
-      "Action": "Mentions leaving ('Think I'm going...') after a tense conversation, potentially indicating withdrawal or avoidance.",
-      "Warmth": 0,
-      "Chunk": 65
+      "trait": "competence",
+      "action": "Moves with the group through the venue, following others and scanning the environment.",
+      "assessment": "Pat’s behavior here is cooperative and alert, but largely reactive rather than leading or decisively acting, suggesting moderate competence but no clear leadership or exceptional skill.",
+      "rating": 0,
+      "chunk": 45
     },
     {
-      "Action": "Takes out a .25 handgun and cautiously approaches to monitor a tense situation, focusing on safety and control.",
-      "Warmth": 1,
-      "Chunk": 66
+      "trait": "competence",
+      "action": "Hobbles after Sam up the stage stairs during a chaotic escape.",
+      "assessment": "Pat's hobbling suggests a physical limitation or injury that slows him down, indicating reduced physical capability in this moment.",
+      "rating": -1,
+      "chunk": 46
     },
     {
-      "Action": "Suggests to Amber that she should go with them to 'hedge bets', showing concern for her safety.",
-      "Warmth": 1,
-      "Chunk": 66
+      "trait": "competence",
+      "action": "Follows the group closely without breaking formation despite the sudden attack.",
+      "assessment": "Maintaining group cohesion under pressure shows some situational awareness and discipline, reflecting moderate competence.",
+      "rating": 1,
+      "chunk": 46
     },
     {
-      "Action": "Quietly observes disturbing scene, fights gag reflex, showing restraint and composed demeanor.",
-      "Warmth": 1,
-      "Chunk": 66
+      "trait": "warmth",
+      "action": "Snatches the microphone and presses it to the monitor, creating ear-splitting feedback that scares Brownie off Amber's leg.",
+      "assessment": "Pat acts decisively and selflessly to help Amber by using the microphone to create feedback that forces Brownie to release his grip, showing concern and willingness to assist despite being scared.",
+      "rating": 3,
+      "chunk": 47
     },
     {
-      "Action": "Trains weapon on Alan and Amber while confirming if they have the dog, showing protective behavior and situational awareness.",
-      "Warmth": 1,
-      "Chunk": 66
+      "trait": "competence",
+      "action": "Snatches the microphone from the stand and presses it to the monitor, creating an ear-splitting feedback that forces Brownie to release Amber and retreat.",
+      "assessment": "Despite being scared, Pat quickly identifies and uses the environment (the microphone and monitor) as a tool to neutralize a dangerous threat, demonstrating resourcefulness and presence of mind under pressure.",
+      "rating": 2,
+      "chunk": 47
     },
     {
-      "Action": "Firmly confronts Clark with 'Police or murder,' indicating a serious but controlled approach to conflict.",
-      "Warmth": 1,
-      "Chunk": 66
+      "trait": "warmth",
+      "action": "Pat solemnly shakes head with Amber when asked about Reece's whereabouts.",
+      "assessment": "Pat shares a moment of concern and solidarity with Amber, indicating empathy and a shared emotional experience.",
+      "rating": 2,
+      "chunk": 48
     },
     {
-      "Action": "Takes the .25 pistol from his belt and cautiously approaches, training it on Alan while coordinating with Amber who has the shotgun, demonstrating tactical awareness and readiness.",
-      "Competence": 1,
-      "Chunk": 66
+      "trait": "warmth",
+      "action": "Pat picks the napkin off Emily’s corpse and hands Sam the set list.",
+      "assessment": "Pat shows attentiveness and helpfulness by carefully retrieving and passing important information to Sam, demonstrating cooperation and consideration.",
+      "rating": 2,
+      "chunk": 48
     },
     {
-      "Action": "Suggests to Amber that she should go along to 'hedge their bets,' showing strategic thinking and prudence.",
-      "Competence": 1,
-      "Chunk": 66
+      "trait": "warmth",
+      "action": "Pat agrees with Amber’s interpretation of the song title 'Fleischwolf'.",
+      "assessment": "Pat’s agreement shows openness and support for Amber’s input, reflecting a respectful and inclusive attitude.",
+      "rating": 1,
+      "chunk": 48
     },
     {
-      "Action": "Calmly demands confirmation of threat ('You got the dog?') and identifies presence as police or murder, indicating situational awareness and clear communication.",
-      "Competence": 1,
-      "Chunk": 66
+      "trait": "competence",
+      "action": "Picks the napkin off Emily’s corpse and correctly identifies the song 'Fleischwolf' on the set list.",
+      "assessment": "This shows Pat's attention to detail and ability to make connections under pressure, indicating situational awareness and intelligence.",
+      "rating": 2,
+      "chunk": 48
     },
     {
-      "Action": "Jumps in shock when Clark is shot, voice carries with shock and adrenaline, shows emotional reaction to the carnage",
-      "Warmth": 1,
-      "Chunk": 68
+      "trait": "competence",
+      "action": "Converges with Amber and Sam at the Green Room and participates in shoving the couch against the door.",
+      "assessment": "This demonstrates Pat's willingness to take practical action in a tense situation, showing resourcefulness and teamwork.",
+      "rating": 1,
+      "chunk": 48
     },
     {
-      "Action": "Misses Darcy with a gunshot and accidentally hits him in the back",
-      "Warmth": -1,
-      "Chunk": 68
+      "trait": "competence",
+      "action": "Crinkles a brow, peels it up.",
+      "assessment": "This subtle facial expression suggests Pat is processing information or reacting thoughtfully, indicating cognitive engagement though not a direct action.",
+      "rating": 1,
+      "chunk": 48
     },
     {
-      "Action": "Attempts to communicate and asks Darcy if he has a cell phone, shows some concern about communication",
-      "Warmth": 1,
-      "Chunk": 68
+      "trait": "warmth",
+      "action": "Holds up the napkin and looks to Amber to identify the person who gave it to Emily.",
+      "assessment": "Pat attempts to provide crucial information to others in a tense situation, showing a willingness to communicate and help clarify events.",
+      "rating": 1,
+      "chunk": 50
     },
     {
-      "Action": "Jumps immediately when Amber shoots Clark; reacts quickly to chaos and trauma.",
-      "Competence": 1,
-      "Chunk": 68
+      "trait": "warmth",
+      "action": "Does not intervene physically or verbally to de-escalate the violent confrontation between Daniel and Sam.",
+      "assessment": "Pat's lack of action to calm the situation or protect others suggests a limited display of warmth in this moment.",
+      "rating": -1,
+      "chunk": 50
     },
     {
-      "Action": "Swallows, turns to look at carnage, admits 'this IS A NIGHTMARE' openly showing shock and adrenaline.",
-      "Competence": 0,
-      "Chunk": 68
+      "trait": "competence",
+      "action": "Commands 'GET BACK!' during a chaotic and dangerous situation with zero visibility.",
+      "assessment": "Pat demonstrates situational awareness and attempts to assert control in a high-stress environment, indicating a degree of confidence and leadership.",
+      "rating": 2,
+      "chunk": 50
     },
     {
-      "Action": "Asks if Darcy has a cell phone, attempts to use resources thoughtfully after shooting.",
-      "Competence": 1,
-      "Chunk": 68
+      "trait": "competence",
+      "action": "Holds up a napkin as evidence and connects it to Emily, trying to communicate important information to Amber and others.",
+      "assessment": "This shows Pat's observational skills and ability to piece together clues under pressure, reflecting intelligence and resourcefulness.",
+      "rating": 2,
+      "chunk": 50
     },
     {
-      "Action": "Misses a shot with the .25, kicking up dirt.",
-      "Competence": -1,
-      "Chunk": 68
+      "trait": "competence",
+      "action": "Does not physically intervene when Daniel overpowers Sam and aggressively questions others.",
+      "assessment": "Pat's lack of direct intervention could suggest either prudence or hesitation; without further context, this omission slightly lowers the impression of assertiveness and capability.",
+      "rating": -1,
+      "chunk": 50
     },
     {
-      "Action": "Successfully hits Darcy in the back with a shot.",
-      "Competence": 1,
-      "Chunk": 68
+      "trait": "warmth",
+      "action": "Calls out 'Sam?' upon entering the empty underground lab, showing concern and seeking connection.",
+      "assessment": "Pat's immediate call for Sam suggests a caring and attentive nature, indicating warmth through concern for others.",
+      "rating": 2,
+      "chunk": 51
     },
     {
-      "Action": "Hits Darcy in the eyebrow with a gunshot, effectively stopping him.",
-      "Competence": 1,
-      "Chunk": 69
+      "trait": "competence",
+      "action": "Is lowered by his good arm from the hole above and lands on his feet in the underground lab.",
+      "assessment": "Pat demonstrates physical control and presence of mind by managing to descend safely despite injury, indicating a moderate level of physical competence and situational awareness.",
+      "rating": 2,
+      "chunk": 51
     },
     {
-      "Action": "Approaches Darcy cautiously with guns raised, then lowers weapon when Darcy fades.",
-      "Competence": 1,
-      "Chunk": 69
+      "trait": "competence",
+      "action": "Calls out 'Sam?' upon entering the empty lab.",
+      "assessment": "Pat shows alertness and attempts to communicate or seek assistance, reflecting situational awareness and a proactive approach, though the response is limited by the environment.",
+      "rating": 1,
+      "chunk": 51
     },
     {
-      "Action": "Raises gun quickly when spotting the wounded dog approaching, showing awareness and readiness.",
-      "Competence": 1,
-      "Chunk": 70
+      "trait": "warmth",
+      "action": "Says 'It’s okay.' to reassure others despite the difficult situation.",
+      "assessment": "Pat attempts to provide reassurance and calm to the group, showing a supportive and steady presence.",
+      "rating": 2,
+      "chunk": 52
     },
     {
-      "Action": "Slumps back quietly after the threat passes, demonstrating calmness and emotional control.",
-      "Competence": 1,
-      "Chunk": 70
+      "trait": "warmth",
+      "action": "Acknowledges the seriousness of the situation by saying 'I mean, it’s not okay, but he’s with us. We gotta split.'",
+      "assessment": "Pat balances honesty with encouragement, demonstrating sincerity and a protective attitude toward the group.",
+      "rating": 2,
+      "chunk": 52
     },
     {
-      "Action": "Makes an obscure, somewhat dismissive comment about their 'desert island band' after a tense moment.",
-      "Competence": 0,
-      "Chunk": 70
-    }
-  ],
-  "Pat ": [
+      "trait": "warmth",
+      "action": "Offers Daniel's help to Sam when discussing escape options.",
+      "assessment": "Pat shows trust and inclusiveness by involving Daniel, indicating openness and willingness to collaborate.",
+      "rating": 2,
+      "chunk": 52
+    },
+    {
+      "trait": "competence",
+      "action": "Pat is lowered by his good arm from the hole above, his feet hit the floor.",
+      "assessment": "This shows physical capability and control in a potentially precarious situation, indicating a moderate level of competence.",
+      "rating": 2,
+      "chunk": 52
+    },
+    {
+      "trait": "competence",
+      "action": "Pat continues towards the adjacent shipping container after assessing the empty lab.",
+      "assessment": "Pat demonstrates decisiveness and situational awareness by quickly moving forward despite uncertainty, reflecting competent leadership and confidence.",
+      "rating": 2,
+      "chunk": 52
+    },
+    {
+      "trait": "competence",
+      "action": "Pat assesses the industrial fan and concludes 'We won’t fit through there...'",
+      "assessment": "Pat shows practical judgment and spatial awareness, recognizing physical limitations of their escape route, which is a positive indicator of competence.",
+      "rating": 2,
+      "chunk": 52
+    },
+    {
+      "trait": "competence",
+      "action": "Pat suggests 'Daniel can help' after Sam doubts the escape plan.",
+      "assessment": "Pat is open to collaboration and resourceful in seeking assistance, indicating adaptive thinking and problem-solving skills.",
+      "rating": 1,
+      "chunk": 52
+    },
+    {
+      "trait": "warmth",
+      "action": "Jumps and drops the box-cutter after Daniel is shot.",
+      "assessment": "Pat's startled reaction shows a natural human response to trauma, neither cold nor particularly warm, indicating vulnerability rather than hostility or kindness.",
+      "rating": 0,
+      "chunk": 53
+    },
+    {
+      "trait": "warmth",
+      "action": "Grabs Daniel’s machete and swings it reflexively into the Bartender’s neck and back to protect the group.",
+      "assessment": "Pat acts decisively and protectively to defend others, demonstrating loyalty and courage, which are positive indicators of warmth in a dangerous situation.",
+      "rating": 2,
+      "chunk": 53
+    },
+    {
+      "trait": "warmth",
+      "action": "Says 'Oh dear......' after injuring the Bartender.",
+      "assessment": "This understated, almost polite expression in a violent moment suggests a degree of sincerity and perhaps discomfort with violence, hinting at a fundamentally good-natured and sincere character.",
+      "rating": 2,
+      "chunk": 53
+    },
+    {
+      "trait": "competence",
+      "action": "Jumps and drops the box-cutter when Daniel is shot.",
+      "assessment": "This reaction shows a momentary lapse in composure and coordination under sudden stress, indicating a slight lack of readiness or control in a critical moment.",
+      "rating": -1,
+      "chunk": 53
+    },
+    {
+      "trait": "competence",
+      "action": "Grabs Daniel’s machete and reflexively swings it into the Bartender’s neck and back.",
+      "assessment": "This action demonstrates quick reflexes, physical capability, and effective use of available weapons in a high-pressure situation, indicating strong competence.",
+      "rating": 3,
+      "chunk": 53
+    },
+    {
+      "trait": "warmth",
+      "action": "Pockets some shot shells off the bar and promptly hands over two shells to Amber when she asks.",
+      "assessment": "Pat's readiness to assist by providing ammunition in a tense situation shows a cooperative and supportive nature, indicating a degree of trustworthiness and helpfulness.",
+      "rating": 2,
+      "chunk": 54
+    },
+    {
+      "trait": "warmth",
+      "action": "Encourages Sam by calling out 'SAM! Come on!' during the confrontation.",
+      "assessment": "Pat's urging of Sam to act suggests a willingness to support and motivate others under pressure, reflecting engagement and camaraderie.",
+      "rating": 1,
+      "chunk": 54
+    },
+    {
+      "trait": "competence",
+      "action": "Pockets some shot shells off the bar and promptly hands over two shells to Amber when asked.",
+      "assessment": "This shows Pat is alert, resourceful, and ready to support teammates by providing necessary ammunition quickly, indicating situational awareness and preparedness.",
+      "rating": 2,
+      "chunk": 54
+    },
+    {
+      "trait": "competence",
+      "action": "Encourages Sam to act quickly by shouting 'SAM! Come on!' during a chaotic gunfight.",
+      "assessment": "Pat demonstrates leadership and decisiveness under pressure, trying to motivate an uncertain teammate, which reflects confidence and command in a crisis.",
+      "rating": 2,
+      "chunk": 54
+    },
+    {
+      "trait": "competence",
+      "action": "Does not directly engage in the gunfight or take a more active combat role despite the danger.",
+      "assessment": "Pat’s lack of direct action in a critical moment could suggest hesitation or a more passive role, which may indicate a moderate limitation in combat competence or confidence.",
+      "rating": -1,
+      "chunk": 54
+    },
+    {
+      "trait": "warmth",
+      "action": "Pulls Amber back through the entrance to safety and helps her onto the couch.",
+      "assessment": "Pat's action of physically helping Amber to safety and making sure she is seated comfortably shows care and concern for her well-being.",
+      "rating": 2,
+      "chunk": 55
+    },
+    {
+      "trait": "warmth",
+      "action": "Engages Amber in conversation about her past trauma and experiences.",
+      "assessment": "Although Pat's curiosity about Amber's past is blunt and somewhat insensitive, it indicates a desire to understand her better, which can be a sign of warmth if handled with empathy.",
+      "rating": 1,
+      "chunk": 55
+    },
+    {
+      "trait": "warmth",
+      "action": "Responds to Amber's 'Fuck you' with 'Fuck yourself' kindly and then sits with her on the couch.",
+      "assessment": "Pat's ability to respond to hostility with a kind tone and remain present with Amber suggests tolerance and a friendly, sincere demeanor.",
+      "rating": 2,
+      "chunk": 55
+    },
+    {
+      "trait": "warmth",
+      "action": "Comments on cell phones ruining everything while looking at the unplugged hair clippers.",
+      "assessment": "This action is neutral and does not directly reflect warmth; it shows Pat's reflective or possibly cynical side but does not indicate warmth positively or negatively.",
+      "rating": 0,
+      "chunk": 55
+    },
+    {
+      "trait": "competence",
+      "action": "Pulls Amber back through the entrance and shuts the door behind them, then helps her hobble back up the stage stairs.",
+      "assessment": "This shows Pat's quick thinking and protective instincts in a dangerous situation, indicating situational awareness and a degree of physical capability.",
+      "rating": 2,
+      "chunk": 55
+    },
+    {
+      "trait": "competence",
+      "action": "Sets Amber on the couch and goes to the bathroom to get water, then engages Amber in conversation about the situation.",
+      "assessment": "Pat demonstrates calmness under pressure and attempts to assess the situation and Amber's mindset, reflecting emotional intelligence and composure.",
+      "rating": 2,
+      "chunk": 55
+    },
+    {
+      "trait": "competence",
+      "action": "Questions Amber about the nature of the threat and the racial dynamics involved, showing curiosity and critical thinking.",
+      "assessment": "Pat's inquiry suggests an analytical approach to understanding the problem, which is a positive indicator of competence.",
+      "rating": 2,
+      "chunk": 55
+    },
+    {
+      "trait": "competence",
+      "action": "Notes the unplugged hair clippers and comments that cell phones ruin everything.",
+      "assessment": "This observation shows Pat's attention to detail and awareness of how small factors can impact their situation, indicating practical intelligence.",
+      "rating": 2,
+      "chunk": 55
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in a somewhat sarcastic and confrontational exchange with Amber, telling her to 'fuck yourself' kindly.",
+      "assessment": "While the tone is abrasive, Pat maintains control of the interaction and uses humor to diffuse tension, showing social confidence and emotional regulation.",
+      "rating": 1,
+      "chunk": 55
+    },
+    {
+      "trait": "warmth",
+      "action": "Shares a personal story about being upset with his sister and niece over a trivial matter (left hummus out), showing vulnerability.",
+      "assessment": "Pat's willingness to reveal a personal flaw and express regret indicates sincerity and openness, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 56
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses a desire not to die with Amber, showing concern for her.",
+      "assessment": "This statement reveals Pat's care and emotional connection to Amber, reflecting good-natured and sincere feelings.",
+      "rating": 3,
+      "chunk": 56
+    },
+    {
+      "trait": "warmth",
+      "action": "Admits to cowering during paintball against more experienced opponents.",
+      "assessment": "Pat's honesty about his fear and vulnerability suggests self-awareness and sincerity, which are positive for warmth, though it does not directly show friendliness or tolerance.",
+      "rating": 1,
+      "chunk": 56
+    },
+    {
+      "trait": "competence",
+      "action": "Regards his ruined, duct-taped arm and reflects on past frustrations and current hopelessness.",
+      "assessment": "Pat shows self-awareness and emotional honesty but also a sense of defeat and lack of confidence in the situation, indicating diminished mental resilience and low confidence in his own capability.",
+      "rating": -1,
+      "chunk": 56
+    },
+    {
+      "trait": "competence",
+      "action": "Admits to cowering during a paintball game against experienced opponents using real military tactics.",
+      "assessment": "This admission reveals Pat's recognition of his own limitations and fear in a competitive, tactical environment, suggesting a lack of skill and confidence in high-pressure situations.",
+      "rating": -2,
+      "chunk": 56
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in a candid conversation with Amber about his feelings and past experiences.",
+      "assessment": "Pat demonstrates emotional intelligence and openness, which can be a component of competence in interpersonal contexts, though it does not directly reflect skill or confidence in action.",
+      "rating": 1,
+      "chunk": 56
+    },
+    {
+      "trait": "competence",
+      "action": "Disguises himself as a skinhead with war paint and wears Justin's jacket to mislead intruders.",
+      "assessment": "This shows Pat's strategic thinking and ability to use deception effectively to confuse opponents.",
+      "rating": 2,
+      "chunk": 60
+    },
+    {
+      "trait": "competence",
+      "action": "Drops through a hole in the floor quickly and disappears into an underground lab.",
+      "assessment": "Pat demonstrates agility and familiarity with the environment, indicating preparedness and physical capability.",
+      "rating": 2,
+      "chunk": 60
+    },
+    {
+      "trait": "competence",
+      "action": "Clanks his machete loudly against metal walls while moving deeper underground.",
+      "assessment": "This noisy movement could be seen as careless or reckless, potentially compromising stealth and tactical advantage.",
+      "rating": -1,
+      "chunk": 60
+    },
+    {
+      "trait": "competence",
+      "action": "Pat's hair clippings litter the floor.",
+      "assessment": "This detail suggests Pat was recently involved in some activity involving hair clippers but does not directly indicate competence or incompetence; it is neutral.",
+      "rating": 0,
+      "chunk": 61
+    },
+    {
+      "trait": "competence",
+      "action": "Creeps behind Jonathan in war paint with machete raised, attempting a stealth attack.",
+      "assessment": "This shows initiative and willingness to engage the enemy directly, indicating some level of tactical awareness and courage.",
+      "rating": 1,
+      "chunk": 62
+    },
+    {
+      "trait": "competence",
+      "action": "Scrambles back as bullets whiz and ricochet, then falters and cowers behind a container wall.",
+      "assessment": "This reaction suggests a lack of composure and confidence under fire, indicating lower competence in high-pressure combat situations.",
+      "rating": -2,
+      "chunk": 62
+    },
+    {
+      "trait": "competence",
+      "action": "Calls out to Amber from below the floor, then dismisses his own call with 'Nevermind...'",
+      "assessment": "This hesitation and self-correction may reflect uncertainty or lack of clear communication, which can undermine effective teamwork.",
+      "rating": -1,
+      "chunk": 62
+    },
+    {
+      "trait": "warmth",
+      "action": "Turns out his pockets, dropping .12 gauge shells but hanging on to one to help in the fight.",
+      "assessment": "Pat's action of holding onto a shell and actively participating in the defense suggests a willingness to support and protect others, indicating a degree of trustworthiness and commitment to the group.",
+      "rating": 2,
+      "chunk": 63
+    },
+    {
+      "trait": "warmth",
+      "action": "Fires the shotgun mid-flinch when Jonathan charges him.",
+      "assessment": "Although Pat is under threat and acts in self-defense, the readiness to engage in violence may reflect a survival instinct rather than warmth; however, it also shows a protective stance toward the group.",
+      "rating": 0,
+      "chunk": 63
+    },
+    {
+      "trait": "competence",
+      "action": "Turns out his pockets, dropping .12 gauge shells but keeps one shell ready.",
+      "assessment": "This shows Pat is aware of his ammunition situation and is preparing to act despite limited resources, indicating situational awareness and readiness.",
+      "rating": 2,
+      "chunk": 63
+    },
+    {
+      "trait": "competence",
+      "action": "Slaps in the shot shell and pumps the shotgun action one-handed under pressure.",
+      "assessment": "Reloading a shotgun one-handed in a high-stress moment demonstrates skill, calmness, and physical coordination, all positive indicators of competence.",
+      "rating": 3,
+      "chunk": 63
+    },
+    {
+      "trait": "competence",
+      "action": "Fires mid-flinch as Jonathan charges at him.",
+      "assessment": "Although firing while flinching might reduce accuracy, Pat still manages to shoot under intense pressure, showing determination and quick reflexes, though possibly some tension affecting precision.",
+      "rating": 1,
+      "chunk": 63
+    },
+    {
+      "trait": "warmth",
+      "action": "Clings to the shotgun during a violent struggle with Jonathan, showing vulnerability and reliance on others.",
+      "assessment": "Pat's clinging suggests a moment of vulnerability and trust in his companions, indicating some level of interpersonal connection and reliance.",
+      "rating": 1,
+      "chunk": 64
+    },
+    {
+      "trait": "warmth",
+      "action": "Accepts help from Amber as she helps him to his feet after the confrontation.",
+      "assessment": "Allowing Amber to help him up shows Pat's openness to support and cooperation, reflecting a degree of warmth and trust.",
+      "rating": 2,
+      "chunk": 64
+    },
+    {
+      "trait": "warmth",
+      "action": "Engages in brief, pained communication with Amber and Gabe after the fight, showing shared experience and camaraderie.",
+      "assessment": "Pat's interaction with Amber and Gabe in a moment of shared hardship suggests a bond and mutual concern, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 64
+    },
+    {
+      "trait": "warmth",
+      "action": "Brings up the rear when leaving the venue, following Amber and Gabe.",
+      "assessment": "Pat's position at the back could imply deference or a willingness to let others lead, which may indicate humility and respect, subtle signs of warmth.",
+      "rating": 1,
+      "chunk": 64
+    },
+    {
+      "trait": "competence",
+      "action": "Slaps in the shot shell and pumps the action one-handed under pressure.",
+      "assessment": "This shows a degree of familiarity and skill with the shotgun, indicating some competence in handling weapons even in a stressful situation.",
+      "rating": 2,
+      "chunk": 64
+    },
+    {
+      "trait": "competence",
+      "action": "Fires mid-flinch and misses by a mile.",
+      "assessment": "Missing the shot by a wide margin while flinching suggests a lack of composure and precision under pressure, indicating a momentary lapse in competence.",
+      "rating": -1,
+      "chunk": 64
+    },
+    {
+      "trait": "competence",
+      "action": "Clings on for his life while Jonathan throttles him.",
+      "assessment": "This shows determination and physical resilience, but also suggests he is overpowered and unable to effectively defend himself, reflecting limited competence in close combat.",
+      "rating": 0,
+      "chunk": 64
+    },
+    {
+      "trait": "competence",
+      "action": "Is helped up by Amber and remains conscious and engaged after the fight.",
+      "assessment": "Despite being beaten, Pat stays alert and participates in assessing the situation, showing mental resilience and situational awareness.",
+      "rating": 1,
+      "chunk": 64
+    },
+    {
+      "trait": "competence",
+      "action": "Brings up the rear when exiting the venue at dawn.",
+      "assessment": "Taking the rear position could indicate a protective or cautious approach, but also might suggest a less assertive or leading role, reflecting moderate competence in group dynamics.",
+      "rating": 0,
+      "chunk": 64
+    },
+    {
+      "trait": "warmth",
+      "action": "Heads off and picks up the weathered paper scrap (Tad’s flyer) while moving through the woods.",
+      "assessment": "Pat’s action of picking up the flyer shows attentiveness and a degree of care for their surroundings, which can be interpreted as a thoughtful and considerate behavior.",
+      "rating": 1,
+      "chunk": 65
+    },
+    {
+      "trait": "warmth",
+      "action": "Suggests to Gabe and Amber to stay quiet until they’re out of the woods.",
+      "assessment": "This shows Pat’s concern for the safety and well-being of the group, indicating a protective and considerate nature.",
+      "rating": 2,
+      "chunk": 65
+    },
+    {
+      "trait": "warmth",
+      "action": "Asks Gabe if he saw the others die and inquires about their condition.",
+      "assessment": "Pat’s questions reveal empathy and a desire to understand the trauma experienced by others, reflecting emotional sensitivity and sincerity.",
+      "rating": 2,
+      "chunk": 65
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses intention to leave the group and go to the road despite the danger.",
+      "assessment": "This could be seen as a lack of solidarity or possible self-preservation at the expense of group cohesion, which may indicate a lower level of warmth in this moment.",
+      "rating": -1,
+      "chunk": 65
+    },
+    {
+      "trait": "competence",
+      "action": "Asks if anyone can hot-wire a car when they need to escape quickly.",
+      "assessment": "This shows Pat's practical thinking and awareness of the need for a quick getaway, indicating situational awareness and problem-solving skills.",
+      "rating": 2,
+      "chunk": 65
+    },
+    {
+      "trait": "competence",
+      "action": "Suggests staying quiet until they are out of the woods.",
+      "assessment": "This demonstrates Pat's cautiousness and tactical thinking, showing an understanding of the importance of stealth in a dangerous situation.",
+      "rating": 2,
+      "chunk": 65
+    },
+    {
+      "trait": "competence",
+      "action": "Intercepts and picks up a weathered paper scrap with a flyer from a cancelled show.",
+      "assessment": "This indicates attentiveness to detail and situational awareness, as Pat notices and investigates potentially relevant information.",
+      "rating": 2,
+      "chunk": 65
+    },
+    {
+      "trait": "competence",
+      "action": "Questions Gabe about what they are doing and if he saw them die.",
+      "assessment": "Pat's questioning shows a desire to understand the situation fully, reflecting intelligence and a proactive approach to gathering information.",
+      "rating": 1,
+      "chunk": 65
+    },
+    {
+      "trait": "competence",
+      "action": "Decides to go towards the road despite the danger.",
+      "assessment": "This decision could indicate confidence and decisiveness, but also potential recklessness depending on context; the excerpt does not clarify the outcome.",
+      "rating": 0,
+      "chunk": 65
+    },
+    {
+      "trait": "warmth",
+      "action": "Tells Amber 'You should go too. Hedge our bets.'",
+      "assessment": "Pat shows concern for Amber's safety by suggesting she leave as well, indicating a protective and considerate attitude.",
+      "rating": 2,
+      "chunk": 66
+    },
+    {
+      "trait": "warmth",
+      "action": "Takes the .25 from his belt and trains it on Alan and Amber with the shotgun leveled at the Presa Canario.",
+      "assessment": "Pat is cautious and defensive in a tense situation, prioritizing safety over friendliness; this shows wariness rather than warmth.",
+      "rating": 0,
+      "chunk": 66
+    },
+    {
+      "trait": "warmth",
+      "action": "Asks 'You got the dog?' when Clark is handling the aggressive dog.",
+      "assessment": "Pat's question indicates attentiveness and concern for control of a dangerous situation, but is neutral in terms of warmth.",
+      "rating": 0,
+      "chunk": 66
+    },
+    {
+      "trait": "competence",
+      "action": "Takes the .25 from his belt and trains it on Alan while coordinating with Amber who has the shotgun leveled at the dog.",
+      "assessment": "This shows Pat's situational awareness and readiness to respond to threats, indicating a level of tactical competence and confidence under pressure.",
+      "rating": 2,
+      "chunk": 66
+    },
     {
-      "Action": "Calls off Tiger with a look before he speaks up.",
-      "Competence": 1,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Suggests to Amber that she should go too to hedge their bets.",
+      "assessment": "This demonstrates strategic thinking and prudence, showing Pat's ability to plan ahead and consider contingencies.",
+      "rating": 2,
+      "chunk": 66
     },
     {
-      "Action": "Asks Sam 'You okay?', showing concern.",
-      "Warmth": 1,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Questions if they have the dog under control and communicates clearly with Amber.",
+      "assessment": "This indicates Pat's attention to detail and effective communication skills in a tense situation, reinforcing competence.",
+      "rating": 2,
+      "chunk": 66
     },
     {
-      "Action": "Notices Tiger’s discomfort at the swastika graffiti but does not react strongly or confront it.",
-      "Warmth": 0,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Fights a gag reflex upon seeing the dog dragging a corpse but maintains composure.",
+      "assessment": "Despite a natural emotional reaction, Pat manages to stay focused and not let it impair his actions, showing emotional resilience and self-control.",
+      "rating": 1,
+      "chunk": 66
     },
     {
-      "Action": "Helps slide the couch with Amber to blockade the door, showing quick thinking and teamwork.",
-      "Competence": 1,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Jumps in reaction to Clark being shot and crumpling, showing shock and adrenaline.",
+      "assessment": "Pat's immediate physical reaction to Clark's injury indicates a natural human response to trauma, suggesting some level of concern or emotional engagement.",
+      "rating": 1,
+      "chunk": 68
     },
     {
-      "Action": "Rushes to dig cartridges from Big Justin’s pocket and actively loads the revolver under Reece’s direction.",
-      "Competence": 1,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Looks back at the carnage and admits 'this IS A NIGHTMARE!'",
+      "assessment": "Expressing shock and calling the situation a nightmare shows Pat's emotional sensitivity and recognition of the gravity of the violence, which can be seen as a sign of sincerity and emotional openness.",
+      "rating": 2,
+      "chunk": 68
     },
     {
-      "Action": "Motions for Sam to lower the gun barrel when aiming at Justin, indicating situational awareness and control.",
-      "Competence": 1,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Asks Darcy if he has a cell phone, attempting to communicate or seek help.",
+      "assessment": "This shows Pat's practical concern and attempt to find a way to manage the crisis, indicating a responsible and cooperative attitude.",
+      "rating": 2,
+      "chunk": 68
     },
     {
-      "Action": "Fumbles with the revolver initially, indicating nervousness or lack of skill.",
-      "Competence": -1,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Misses with the .25 pistol and then shoots Darcy in the back.",
+      "assessment": "Shooting Darcy in the back is an aggressive and potentially ruthless act, indicating a willingness to harm others without confrontation, which detracts from warmth.",
+      "rating": -3,
+      "chunk": 68
     },
     {
-      "Action": "Holds up the napkin as evidence and tries to clarify a key detail by linking it to Amber.",
-      "Competence": 1,
-      "Chunk": 50
+      "trait": "warmth",
+      "action": "Swallows and turns to look back at the carnage, showing visible emotional distress.",
+      "assessment": "Pat's visible distress and hesitation suggest an internal conflict and some degree of empathy or remorse, which are positive indicators of warmth.",
+      "rating": 1,
+      "chunk": 68
     },
     {
-      "Action": "Does not directly intervene physically or challenge Daniel at a critical moment despite the escalation.",
-      "Competence": 0,
-      "Chunk": 50
+      "trait": "competence",
+      "action": "Jumps when Amber hits Clark with buckshot, then regards Clark’s dead body and speaks with shock and adrenaline.",
+      "assessment": "Pat’s initial jump shows a natural reaction to sudden violence, indicating alertness, but also some vulnerability to surprise. His ability to vocalize the situation and acknowledge the nightmare suggests situational awareness.",
+      "rating": 1,
+      "chunk": 68
     },
     {
-      "Action": "Pulls Amber back through the entrance and shuts the door, helping to secure their position.",
-      "Competence": 1,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "Attempts to shoot Darcy with a .25 but misses, kicking up distant dirt.",
+      "assessment": "Missing a shot in a critical moment indicates a lack of marksmanship skill or composure under pressure, which detracts from Pat’s competence.",
+      "rating": -2,
+      "chunk": 68
     },
     {
-      "Action": "Sets Amber on the couch and goes to get water, showing presence of mind and care in a stressful situation.",
-      "Competence": 1,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "Hits Darcy in the back with a follow-up shot after missing the first.",
+      "assessment": "Despite the initial miss, Pat recovers quickly and manages to hit a moving target, showing some resilience and basic shooting ability.",
+      "rating": 1,
+      "chunk": 68
     },
     {
-      "Action": "Questions Amber about her experiences and the situation with some skepticism and insight.",
-      "Competence": 1,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "Asks Darcy if he has a cell phone after the shooting begins.",
+      "assessment": "This question shows Pat’s attempt to think practically and gather resources, indicating some presence of mind and problem-solving under stress.",
+      "rating": 1,
+      "chunk": 68
     },
     {
-      "Action": "Reflects on the situation calmly, noting the impact of cell phones on their predicament.",
-      "Competence": 1,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "Pat hits Darcy in the eyebrow, causing a steady arc of blood to eject from the small caliber entry wound.",
+      "assessment": "This action demonstrates Pat's marksmanship and ability to effectively neutralize a threat under pressure, indicating skill and precision.",
+      "rating": 2,
+      "chunk": 69
     },
     {
-      "Action": "Engages in a hostile exchange with Amber using sarcasm and swearing.",
-      "Competence": 0,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "Pat approaches the downed Darcy with Amber, guns raised, but lowers the weapon as Darcy fades.",
+      "assessment": "This shows Pat's situational awareness and control, knowing when to maintain readiness and when to stand down, reflecting confidence and good judgment.",
+      "rating": 2,
+      "chunk": 69
     },
     {
-      "Action": "Asks if anyone can hot-wire a car, showing practical problem-solving thinking.",
-      "Competence": 1,
-      "Chunk": 65
+      "trait": "warmth",
+      "action": "Raises gun alongside Amber at the wounded pit bull approaching them.",
+      "assessment": "Pat's readiness to raise a gun suggests caution or fear rather than warmth; this action indicates a defensive stance rather than friendliness or trust.",
+      "rating": -1,
+      "chunk": 70
     },
     {
-      "Action": "Suggests staying quiet until they are out, demonstrating cautious and strategic behavior.",
-      "Competence": 1,
-      "Chunk": 65
+      "trait": "warmth",
+      "action": "Slumps back quietly with Amber after the pit bull curls up next to Clark’s body.",
+      "assessment": "The quiet moment shared with Amber reflects a somber, possibly empathetic response to the situation, showing some emotional connection and sincerity.",
+      "rating": 1,
+      "chunk": 70
     },
     {
-      "Action": "Heads off and picks up the paper scrap with the flyer, showing alertness and attention to detail.",
-      "Competence": 1,
-      "Chunk": 65
+      "trait": "warmth",
+      "action": "Makes a lighthearted comment about his 'desert island band' in a tense moment.",
+      "assessment": "This attempt at humor or levity in a grim situation suggests a friendly and sincere effort to connect or ease tension, indicating warmth.",
+      "rating": 2,
+      "chunk": 70
     },
     {
-      "Action": "Questions what others are doing and whether they saw deaths, showing situational awareness and concern.",
-      "Competence": 1,
-      "Chunk": 65
+      "trait": "competence",
+      "action": "Raises gun alongside Amber when the wounded pit bull approaches, but the guns click on empty.",
+      "assessment": "Pat shows readiness and situational awareness by raising the gun in response to a threat, but the failure to check ammunition beforehand suggests a lapse in preparation and practical competence.",
+      "rating": -1,
+      "chunk": 70
     },
     {
-      "Action": "Slumps back quietly with Amber after the pit bull passes, showing a moment of shared calm and acknowledgment.",
-      "Warmth": 1,
-      "Chunk": 70
+      "trait": "competence",
+      "action": "Recognizes the wounded pit bull and identifies it as his 'desert island band' despite the tense situation.",
+      "assessment": "This indicates emotional intelligence and calmness under pressure, showing Pat's ability to maintain composure and interpret the situation beyond immediate threat.",
+      "rating": 1,
+      "chunk": 70
     },
     {
-      "Action": "Raises gun alongside Amber towards the wounded pit bull, indicating readiness to potentially harm despite the animal's suffering.",
-      "Warmth": -1,
-      "Chunk": 70
+      "trait": "competence",
+      "action": "Slumps back quietly after the pit bull passes, showing acceptance of the situation.",
+      "assessment": "This non-action reflects a level of emotional maturity and situational acceptance, but also a possible resignation or lack of proactive problem-solving.",
+      "rating": 0,
+      "chunk": 70
     }
   ]
 }

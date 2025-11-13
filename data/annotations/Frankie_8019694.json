@@ -1,726 +1,1341 @@
 {
   "Frankie": [
     {
-      "Action": "Greets Maya with a friendly 'Good morning' and engages in lighthearted banter about being photogenic despite people being around",
-      "Warmth": 1,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "Greets Maya with a simple 'Good morning' after surfacing near her in the pool.",
+      "assessment": "Frankie's greeting is polite and friendly, indicating a basic level of social warmth and openness.",
+      "rating": 1,
+      "chunk": 3
     },
     {
-      "Action": "Hands Sylvia the bracelet and allows her to try it on, shares a personal story about the bracelet without hesitation.",
-      "Warmth": 1,
-      "Chunk": 6
+      "trait": "warmth",
+      "action": "Responds to Maya's warning about people in the hotel with humor, saying 'That's okay. I’m very photogenic.'",
+      "assessment": "Using humor in response to a potential concern shows a relaxed and confident demeanor, which can be seen as friendly and approachable, though it may also suggest a degree of detachment.",
+      "rating": 1,
+      "chunk": 3
     },
     {
-      "Action": "Describes the bracelet with detailed knowledge and confidence, explains its background clearly, manages social interaction smoothly with Sylvia.",
-      "Competence": 1,
-      "Chunk": 6
+      "trait": "competence",
+      "action": "Kneels by the pool and performs a ritual of dipping her wrists in water and splashing the back of her neck before swimming.",
+      "assessment": "This action suggests a deliberate and mindful preparation, indicating self-awareness and a calm, controlled approach to her activity.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Appears relaxed and casual about wearing an expensive bracelet despite fears of theft, shows self-awareness about her appearance and situation.",
-      "Competence": 1,
-      "Chunk": 6
+      "trait": "competence",
+      "action": "Dives into the swimming pool topless and swims gracefully underwater.",
+      "assessment": "Swimming gracefully and confidently in a public setting shows physical skill and comfort in her environment, reflecting competence.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Responds candidly to Sylvia about love and money, showing emotional intelligence and honesty.",
-      "Competence": 1,
-      "Chunk": 6
+      "trait": "competence",
+      "action": "Responds to Maya's comment about people in the hotel with humor and confidence, saying she is very photogenic.",
+      "assessment": "This witty and confident response demonstrates social ease and self-assurance, positive indicators of competence.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Calmly intervenes to stop the argument between Paul and Sylvia by softly saying 'Children. I haven’t even had coffee yet.'",
-      "Warmth": 1,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Hands Sylvia a cardigan sweater and shares a personal story about a bracelet she rarely wears.",
+      "assessment": "Frankie’s willingness to share a personal item and story indicates openness and a friendly, trusting nature.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Gently reminds Sylvia about the bracelet and puts it back on after Sylvia removes it, showing attention and care.",
-      "Warmth": 1,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Places the bracelet onto Sylvia’s wrist so she can try it on.",
+      "assessment": "Allowing Sylvia to try on an expensive and personal bracelet shows generosity and warmth.",
+      "rating": 3,
+      "chunk": 6
     },
     {
-      "Action": "Engages tenderly with her son Paul in French, addressing his unhappiness and trying to comfort him by highlighting positive aspects of his life and encouraging perspective.",
-      "Warmth": 1,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Responds to Sylvia’s comment about love with a pragmatic and somewhat detached view.",
+      "assessment": "Frankie’s skepticism about love and focus on practical aspects may suggest emotional guardedness, which can reduce perceived warmth.",
+      "rating": -1,
+      "chunk": 6
     },
     {
-      "Action": "Uses mild irony ('Yes, of course') in response to Paul's unhappiness, which could be interpreted as slightly dismissive but is softened by later caring words.",
-      "Warmth": 0,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Interacts casually and comfortably with Sylvia and Paul in a relaxed home setting.",
+      "assessment": "Frankie’s casual and easy interaction with family members suggests a friendly and sincere demeanor.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Encourages Paul to move on from his past relationships and stop hurting himself with unrealistic hopes.",
-      "Warmth": 1,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Frankie chooses not to wear a flashy, expensive bracelet because she fears it might get stolen, but eventually decides to wear it and share it with Sylvia.",
+      "assessment": "This shows a practical awareness and cautiousness about her possessions, balanced with a willingness to relax her guard and share with others, indicating a measured and confident approach to personal belongings.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Dismisses Paul's feelings of still being in love as impossible, showing little empathy for his emotional state.",
-      "Warmth": -1,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Frankie calmly explains the origin and significance of the bracelet to Sylvia, including her emotional detachment from it.",
+      "assessment": "Her clear, composed communication and emotional control suggest a level of self-awareness and social skill, reflecting competence in interpersonal interactions.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Offers a realistic, critical perspective on Paul's romantic situation, encouraging him to move on.",
-      "Competence": 1,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Frankie dismisses the idea of confusing money with love when discussing the man who gave her the bracelet.",
+      "assessment": "This indicates emotional intelligence and a realistic perspective, which are aspects of competence in managing personal relationships and emotions.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Firmly challenges Paul's feelings with logical reasoning based on past patterns.",
-      "Competence": 1,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Frankie gently puts the bracelet back on after Sylvia takes it off, showing attentiveness to small details and respect for Sylvia's feelings.",
+      "assessment": "This action suggests a considerate and respectful nature, indicating warmth through attentiveness and sensitivity.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Dismisses Paul's emotional state without apparent empathy or flexibility.",
-      "Competence": 0,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Frankie responds to Paul's unhappiness with a mix of irony and gentle realism, acknowledging his feelings but also encouraging him by highlighting positive aspects of his life.",
+      "assessment": "Frankie's approach shows a caring and sincere attempt to comfort Paul, balancing empathy with encouragement, which reflects warmth.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Confidently asserts that once you meet the right person, you'll forget past loves, showing confidence and decisiveness.",
-      "Competence": 1,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Frankie calls out 'Children. I haven’t even had coffee yet.' to interrupt a tense exchange between Paul and Sylvia.",
+      "assessment": "This interjection suggests a desire to defuse tension and maintain peace, indicating a warm and mediating role in family dynamics.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Speaks as if certain of knowing 'the right one', demonstrating self-assurance and confidence in judgment.",
-      "Competence": 1,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Frankie does not engage in the argument between Paul and Sylvia, instead choosing to focus on her own routine (putting on makeup).",
+      "assessment": "This omission could be seen as a lack of direct intervention in conflict, which might indicate emotional distance or avoidance, slightly reducing perceived warmth.",
+      "rating": -1,
+      "chunk": 7
     },
     {
-      "Action": "Does not appear or act in this excerpt; no demonstration of skill or capability observed.",
-      "Competence": 0,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Frankie calmly observes the tense interaction between Paul and Sylvia, understanding the sensitivity of the situation without intervening unnecessarily.",
+      "assessment": "This shows emotional intelligence and social awareness, indicating a competent ability to read and navigate complex interpersonal dynamics.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Carries pastries and shares food delightfully with Jimmy.",
-      "Warmth": 1,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Frankie gently reminds Sylvia to take off the bracelet and then puts it back on after Sylvia leaves.",
+      "assessment": "This small but attentive action suggests mindfulness and care, reflecting a competent attention to detail and personal belongings.",
+      "rating": 1,
+      "chunk": 7
     },
     {
-      "Action": "Wants Ilene and Paul to get along and be good for each other, showing concern for their well-being.",
-      "Warmth": 1,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Frankie engages in a calm, supportive conversation with her son Paul in French, acknowledging his unhappiness but encouraging him by highlighting positive aspects of his life.",
+      "assessment": "This demonstrates emotional support, linguistic skill, and the ability to comfort and motivate, all signs of interpersonal competence.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Accepts and counters Jimmy’s teasing about playing Cupid with good humor and openness.",
-      "Warmth": 1,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Frankie applies makeup methodically while interacting with Paul.",
+      "assessment": "This multitasking shows a degree of composure and self-care, though it is a neutral indicator of competence in a broader sense.",
+      "rating": 0,
+      "chunk": 7
     },
     {
-      "Action": "Does not conceal her intention to help Paul avoid loneliness, indicating sincere care.",
-      "Warmth": 1,
-      "Chunk": 21
+      "trait": "warmth",
+      "action": "Tells Paul that he cannot still be in love with Anne-Sophie and criticizes his pattern of relationships.",
+      "assessment": "Frankie's blunt and somewhat dismissive response to Paul's feelings shows a lack of empathy and tolerance for his emotional state, indicating low warmth in this interaction.",
+      "rating": -2,
+      "chunk": 8
     },
     {
-      "Action": "Engages in light teasing and jokes with Jimmy, indicating friendly and warm interactions.",
-      "Warmth": 1,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Frankie challenges Paul's belief that he is still in love with Anne-Sophie, pointing out the repetitive pattern of his relationships and urging him to stop going in circles.",
+      "assessment": "This shows Frankie’s ability to analyze Paul's behavior critically and offer a realistic perspective, indicating emotional intelligence and insight.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Laughs along with Jimmy despite initial misunderstanding.",
-      "Warmth": 1,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Frankie encourages Paul by highlighting his youth, health, and the exciting opportunity of moving to New York City, trying to shift his focus to positive aspects.",
+      "assessment": "This demonstrates Frankie’s supportive and motivational skills, showing confidence in framing situations constructively.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Is visibly upset about Ilene bringing an unplanned guest.",
-      "Warmth": -1,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Frankie dismisses the idea of eternal love, expressing skepticism about it.",
+      "assessment": "While this may reflect a pragmatic or realistic worldview, it could also suggest a limitation in emotional openness or idealism, which might affect interpersonal competence in romantic contexts.",
+      "rating": 0,
+      "chunk": 8
     },
     {
-      "Action": "Pulls away gently from Jimmy’s affectionate approach to assert her own desire to hike alone.",
-      "Warmth": 0,
-      "Chunk": 22
+      "trait": "warmth",
+      "action": "Tells Paul that once he meets the right woman, he will forget Anne-Sophie and that she might know who the right one is.",
+      "assessment": "Frankie tries to comfort Paul by encouraging him to move on and be hopeful about future love, showing a supportive and optimistic attitude toward a friend’s emotional healing.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "States 'I’m usually right' confidently in response to being accused of imagining scenarios.",
-      "Competence": 1,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Confidently asserts to Paul that once he meets the right woman, he will forget Anne-Sophie, implying Frankie believes he knows who the right woman is.",
+      "assessment": "This shows Frankie’s confidence and decisiveness in matters of love, suggesting a degree of social and emotional competence.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Expresses displeasure and frustration when Ilene brings an unexpected guest, showing she is unsettled by changes.",
-      "Competence": 0,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Engages in a somewhat playful but assured exchange with Paul about knowing the 'right woman'.",
+      "assessment": "Frankie demonstrates social ease and self-assurance in conversation, indicating interpersonal competence.",
+      "rating": 1,
+      "chunk": 9
     },
     {
-      "Action": "Insists on hiking to Peninha despite Jimmy’s invitation to go to another place, showing decisiveness and making clear priorities.",
-      "Competence": 1,
-      "Chunk": 22
+      "trait": "warmth",
+      "action": "No direct action or statement from Frankie in this excerpt; Frankie is absent from the interaction between Sylvia and Maya.",
+      "assessment": "Frankie does not appear or intervene in this scene, so no direct indicators of warmth can be inferred here.",
+      "rating": 0,
+      "chunk": 14
     },
     {
-      "Action": "Laughs with Jimmy, initially misunderstanding the reason for his laughter, indicating slight social misreading.",
-      "Competence": -1,
-      "Chunk": 22
+      "trait": "warmth",
+      "action": "Introduces Ilene as a good friend from New York to Jimmy and others.",
+      "assessment": "Introducing friends warmly suggests Frankie values her relationships and is inclusive.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Stops midway and turns back to respond after Jimmy and Michel call her, showing attentiveness and consideration.",
-      "Warmth": 1,
-      "Chunk": 27
+      "trait": "warmth",
+      "action": "Michel, Frankie’s first husband, is mentioned with some humor and affection.",
+      "assessment": "The positive and lighthearted way others speak about Frankie’s relationships implies she maintains sincere and friendly connections.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Impatiently starts to walk away ignoring others’ requests initially.",
-      "Warmth": -1,
-      "Chunk": 27
+      "trait": "warmth",
+      "action": "Suggests that Ilene and Paul get along and tries to set them up, hoping to prevent Paul from ending up alone.",
+      "assessment": "Frankie's desire to help Paul find companionship shows care, thoughtfulness, and a nurturing attitude, reflecting warmth.",
+      "rating": 3,
+      "chunk": 21
     },
     {
-      "Action": "Playfully comments 'The two of you together... I can’t take it.' indicating a teasing, friendly tone.",
-      "Warmth": 1,
-      "Chunk": 27
+      "trait": "warmth",
+      "action": "Carries a box of pastries and shares a lighthearted moment with Jimmy, playfully reacting to his comment about 'mature'.",
+      "assessment": "Frankie's playful and friendly interaction with Jimmy indicates a good-natured and sincere demeanor.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Corrects Tiago's inaccurate statement about the healing taking place immediately",
-      "Competence": 1,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Suggests talking to the mother about the incorporating idea to save money and help her father.",
+      "assessment": "This shows practical thinking and an understanding of family dynamics and financial matters, indicating a level of competence in problem-solving and negotiation.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Starts walking away impatiently without waiting for clarification or following group consensus",
-      "Competence": -1,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Carries a box of pastries and engages in light conversation with Jimmy about Ilene and Paul.",
+      "assessment": "This action is neutral regarding competence; it shows social engagement but no particular skill or confidence.",
+      "rating": 0,
+      "chunk": 21
     },
     {
-      "Action": "Stops midway when realizing the others are calling her back and responds to them",
-      "Competence": 1,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Advocates for Ilene and Paul to get along and tries to play matchmaker.",
+      "assessment": "While well-intentioned and socially aware, this could be seen as meddling or overstepping boundaries, which may reflect a lack of social tact or confidence in letting others manage their own relationships.",
+      "rating": -1,
+      "chunk": 21
     },
     {
-      "Action": "Tells Michel to stop making a scene and stop looking miserable, expressing frustration with the sad atmosphere.",
-      "Warmth": -1,
-      "Chunk": 28
+      "trait": "competence",
+      "action": "Defends her matchmaking efforts confidently when challenged by Jimmy.",
+      "assessment": "Shows confidence and assertiveness in standing by her beliefs and actions, which is a positive indicator of competence.",
+      "rating": 1,
+      "chunk": 21
     },
     {
-      "Action": "Asks Michel and another to at least pretend to accept her fate for the sake of the family and the trip.",
-      "Warmth": 1,
-      "Chunk": 28
+      "trait": "warmth",
+      "action": "Expresses unhappiness when Ilene brings an unplanned guest to the family trip.",
+      "assessment": "Frankie's displeasure at Ilene bringing a friend suggests a preference for clear boundaries and possibly a lack of tolerance for unexpected changes, which may indicate lower warmth in this context.",
+      "rating": -1,
+      "chunk": 22
     },
     {
-      "Action": "Asks Michel to stop making a scene and to pretend to accept her fate for the sake of the family and the trip.",
-      "Competence": 1,
-      "Chunk": 28
+      "trait": "warmth",
+      "action": "Laughs with Jimmy when he laughs, initially thinking it’s about her comment.",
+      "assessment": "Sharing laughter with Jimmy shows a friendly and warm interaction, indicating good-natured and sincere behavior.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Shows frustration and emotional overwhelm, telling Michel to stop with the sad face and expressing that she can't bear it.",
-      "Competence": 0,
-      "Chunk": 28
+      "trait": "warmth",
+      "action": "Pulls away from Jimmy’s affectionate gesture and insists on hiking alone to Peninha.",
+      "assessment": "Frankie’s refusal to join Jimmy and desire to be alone may suggest emotional distance or a moment of withdrawal, which can be seen as less warm in this situation.",
+      "rating": -1,
+      "chunk": 22
     },
     {
-      "Action": "Leaves the group and walks alone through the woods to find a moment of calm and composure.",
-      "Competence": 1,
-      "Chunk": 28
+      "trait": "competence",
+      "action": "Claims 'I’m usually right' when accused of imagining crazy scenarios.",
+      "assessment": "This statement reflects confidence in her judgment and suggests a tendency to trust her own reasoning, indicating a degree of mental competence.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Nods and smiles, acknowledges the family’s presence, responds jokingly to Antonia and raises a glass in a toast with them",
-      "Warmth": 1,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Is unhappy and surprised when Ilene brings an unexpected guest, Gary.",
+      "assessment": "Her displeasure at the unexpected situation shows a preference for control and planning, but also a possible difficulty adapting quickly to unforeseen changes, which may slightly reduce perceived competence.",
+      "rating": 0,
+      "chunk": 22
     },
     {
-      "Action": "Acknowledges the family’s presence with a nod and smile, engages politely with Antonia, and responds with light humor when praised.",
-      "Competence": 1,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Insists on hiking to Peninha despite Jimmy’s invitation to go elsewhere.",
+      "assessment": "This demonstrates decisiveness and confidence in her own plans, reflecting personal agency and a clear sense of priorities, which are positive competence indicators.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Attempts to keep moving forward despite the whole family staring at her, showing grace under pressure.",
-      "Competence": 1,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Pulls away from Jimmy’s attempt to persuade her to change plans.",
+      "assessment": "Shows assertiveness and the ability to stand firm on her decisions, reinforcing her self-confidence and control over her actions.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Joins in the toast enthusiastically with 'Os Arquivos do Vaticano forever!'",
-      "Competence": 1,
-      "Chunk": 29
+      "trait": "warmth",
+      "action": "Corrects Tiago gently about the timing of the boy's healing, emphasizing the gradual nature of recovery.",
+      "assessment": "Frankie's correction shows attentiveness and a desire for accuracy without dismissing Tiago, indicating a respectful and sincere interaction.",
+      "rating": 2,
+      "chunk": 27
     },
     {
-      "Action": "Smiles with no conviction when complimented by Ermelinda about her bravery.",
-      "Warmth": 0,
-      "Chunk": 31
+      "trait": "warmth",
+      "action": "Starts to walk away impatiently when Michel and Jimmy call her back.",
+      "assessment": "Frankie's impatience and initial disregard for others' requests suggest a lack of tolerance and friendliness in this moment.",
+      "rating": -1,
+      "chunk": 27
     },
     {
-      "Action": "Smiles without conviction when praised for her bravery and fighting spirit.",
-      "Competence": 0,
-      "Chunk": 31
+      "trait": "warmth",
+      "action": "Stops midway and turns back to respond to Jimmy and Michel after a thought disturbs her.",
+      "assessment": "Despite initial impatience, Frankie shows consideration by returning to engage with others, indicating some level of warmth and responsiveness.",
+      "rating": 1,
+      "chunk": 27
     },
     {
-      "Action": "Turns to greet Gary promptly and responds warmly to his greeting.",
-      "Warmth": 1,
-      "Chunk": 37
+      "trait": "warmth",
+      "action": "Says 'The two of you together... I can’t take it. Worst combination!'",
+      "assessment": "This statement is teasing and possibly playful, but could also be interpreted as mildly critical; the tone is ambiguous but not overtly hostile.",
+      "rating": 0,
+      "chunk": 27
     },
     {
-      "Action": "Refers to Gary as 'the friend' and acknowledges the social connection indirectly.",
-      "Warmth": 1,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "Corrects Tiago's inaccurate statement about the speed of the boy's recovery from the disease.",
+      "assessment": "This shows attentiveness to detail and a willingness to assert knowledge, indicating intellectual engagement and confidence.",
+      "rating": 2,
+      "chunk": 27
     },
     {
-      "Action": "Engages in polite, friendly conversation smoothly with Gary, showing social ease and attentiveness.",
-      "Competence": 1,
-      "Chunk": 38
+      "trait": "competence",
+      "action": "Starts to walk away impatiently when the group lingers near the fountain instead of following the story.",
+      "assessment": "This impatience suggests a lack of patience or tolerance for the group's pace, which may reflect poor social or leadership skills in this context.",
+      "rating": -1,
+      "chunk": 27
     },
     {
-      "Action": "Responds appropriately to Gary's remarks, indicating understanding and social awareness.",
-      "Competence": 1,
-      "Chunk": 38
+      "trait": "competence",
+      "action": "Stops midway and turns back when called by Jimmy and Michel despite initial impatience.",
+      "assessment": "This shows responsiveness and ability to reconsider actions, indicating some social awareness and flexibility.",
+      "rating": 1,
+      "chunk": 27
     },
     {
-      "Action": "Admits to not being able to sing when discussed for a singing role, showing honesty about personal limitations.",
-      "Competence": 1,
-      "Chunk": 38
+      "trait": "competence",
+      "action": "Expresses frustration openly by saying 'The two of you together... I can’t take it. Worst combination!'",
+      "assessment": "While this shows frankness and confidence in expressing feelings, it may also indicate difficulty managing interpersonal dynamics effectively.",
+      "rating": 0,
+      "chunk": 27
     },
     {
-      "Action": "Describes Ilene as sincere and straightforward, expressing admiration for her realness and honesty.",
-      "Warmth": 1,
-      "Chunk": 39
+      "trait": "warmth",
+      "action": "Tells Michel to stop making a scene and to stop looking so miserable, saying she can't bear the sad face because she already has enough with Jimmy's situation.",
+      "assessment": "Frankie's words come across as blunt and somewhat insensitive to Michel's feelings, showing impatience and a lack of tolerance in a difficult emotional moment.",
+      "rating": -2,
+      "chunk": 28
     },
     {
-      "Action": "Responds to Gary's suggestion about Ilene with detached rhetorical questions and walks away quietly to find her son, highlighting her concern for family despite social discomfort.",
-      "Warmth": 1,
-      "Chunk": 39
+      "trait": "warmth",
+      "action": "Asks Michel and others to at least pretend to accept her fate for the sake of the trip and the family.",
+      "assessment": "This request shows a desire for harmony and cooperation within the family, indicating some concern for others' feelings and the group's well-being, though it is framed in a somewhat self-centered way.",
+      "rating": 1,
+      "chunk": 28
     },
     {
-      "Action": "Engages thoughtfully in the conversation, acknowledging the difficulty of the project timeline and responding calmly to Gary's somewhat intrusive comments.",
-      "Competence": 1,
-      "Chunk": 39
+      "trait": "warmth",
+      "action": "Turns away and walks into the woods alone after making her request.",
+      "assessment": "Choosing to leave the group rather than engage further may indicate emotional withdrawal or difficulty in managing interpersonal warmth at this moment, suggesting a lack of openness or friendliness.",
+      "rating": -1,
+      "chunk": 28
     },
     {
-      "Action": "Asserts boundaries subtly and walks away to attend to family responsibilities instead of engaging in an uncomfortable discussion.",
-      "Competence": 1,
-      "Chunk": 39
+      "trait": "competence",
+      "action": "Refuses to accept Michel's insistence on splashing water, expressing disbelief and frustration.",
+      "assessment": "This shows Frankie’s confidence in her own beliefs and willingness to stand her ground, indicating a degree of assertiveness and self-assurance.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "Does not challenge Gary’s assumptions directly and leaves some questions open-ended, which could be seen as passivity.",
-      "Competence": -1,
-      "Chunk": 39
+      "trait": "competence",
+      "action": "Asks Michel and others to at least pretend to accept her fate for the sake of the trip and family.",
+      "assessment": "This demonstrates emotional intelligence and social skill, as she tries to manage the group’s mood and maintain peace despite her own distress.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "Rushes to embrace Paul and holds him for a long moment, embracing warmly.",
-      "Warmth": 1,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Turns away from the group and walks into the woods alone, pausing to appreciate the sunlight before continuing.",
+      "assessment": "This shows self-awareness and the ability to regulate her emotions by seeking a calming environment, reflecting maturity and inner strength.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "Expresses reluctance to take a selfie due to appearance, showing a light, informal interaction.",
-      "Warmth": 1,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Uses somewhat harsh language and dismissive tone towards Michel (e.g., 'Arrête ton cirque', 'Je ne crois pas à ces conneries').",
+      "assessment": "While this indicates confidence, it also suggests a lack of tact and possible difficulty in managing interpersonal conflict smoothly, which can undermine competence in social situations.",
+      "rating": -1,
+      "chunk": 28
     },
     {
-      "Action": "Openly calls out to Paul and embraces him warmly, showing confidence in initiating connection and emotional support.",
-      "Competence": 1,
-      "Chunk": 41
+      "trait": "warmth",
+      "action": "Nods and smiles, acknowledging the presence of the family at the picnic.",
+      "assessment": "Frankie's smile and acknowledgment show politeness and a friendly demeanor toward strangers.",
+      "rating": 2,
+      "chunk": 29
     },
     {
-      "Action": "Responds quickly and appropriately to Paul, engaging in a lighthearted exchange about taking a selfie despite feeling self-conscious.",
-      "Competence": 1,
-      "Chunk": 41
+      "trait": "warmth",
+      "action": "Accepts a glass of wine offered by Antonia and responds with a joke.",
+      "assessment": "Accepting the offer and joking back demonstrates openness, good-naturedness, and a willingness to engage warmly with others.",
+      "rating": 3,
+      "chunk": 29
     },
     {
-      "Action": "Accepts a sincere compliment from Paul and participates willingly in taking selfies together.",
-      "Warmth": 1,
-      "Chunk": 42
+      "trait": "warmth",
+      "action": "Raises her glass and toasts 'Os Arquivos do Vaticano forever!' with the family.",
+      "assessment": "Joining in the toast shows sincerity, friendliness, and a desire to connect with the family on a personal level.",
+      "rating": 3,
+      "chunk": 29
     },
     {
-      "Action": "Shares personal information about her worsening migraines with Paul.",
-      "Warmth": 1,
-      "Chunk": 42
+      "trait": "warmth",
+      "action": "Responds appreciatively to the family's request to make a toast for a birthday.",
+      "assessment": "Frankie's willingness to participate in the family's celebration indicates respect, warmth, and kindness.",
+      "rating": 3,
+      "chunk": 29
     },
     {
-      "Action": "Expresses caution about increasing medication without consulting her doctor.",
-      "Warmth": 1,
-      "Chunk": 42
+      "trait": "competence",
+      "action": "Nods and smiles, acknowledging the presence of the family at the picnic, and tries to keep going despite the attention.",
+      "assessment": "This shows social awareness and composure in a somewhat unexpected social situation, indicating moderate social competence.",
+      "rating": 1,
+      "chunk": 29
     },
     {
-      "Action": "Tries to hide her tears from her son but he knows anyway.",
-      "Warmth": 1,
-      "Chunk": 43
+      "trait": "competence",
+      "action": "Engages in light joking with Antonia about her good taste in movies and raises a glass to toast with the family.",
+      "assessment": "This demonstrates social confidence, quick wit, and the ability to connect positively with strangers, reflecting good interpersonal skills.",
+      "rating": 2,
+      "chunk": 29
     },
     {
-      "Action": "Tells Paul 'Nothing to be sorry about' after he apologizes.",
-      "Warmth": 1,
-      "Chunk": 43
+      "trait": "competence",
+      "action": "Accepts the invitation to make a toast for Antonia's mother, who identifies with Frankie's character.",
+      "assessment": "Shows adaptability and willingness to engage in social rituals, which suggests emotional intelligence and social competence.",
+      "rating": 2,
+      "chunk": 29
     },
     {
-      "Action": "Offers her expensive bracelet to Paul, encouraging him to keep it safe for the future.",
-      "Warmth": 1,
-      "Chunk": 43
+      "trait": "warmth",
+      "action": "Frankie does not appear in this excerpt and takes no action or statement.",
+      "assessment": "No direct evidence of warmth or lack thereof can be inferred from this excerpt as Frankie is absent.",
+      "rating": 0,
+      "chunk": 30
     },
     {
-      "Action": "Insists Paul take the bracelet despite his refusal, highlighting practical concern for his future.",
-      "Warmth": 1,
-      "Chunk": 43
+      "trait": "warmth",
+      "action": "Sits quietly next to Ermelinda, an elderly woman surrounded by family, and listens to her with a polite smile.",
+      "assessment": "Frankie’s willingness to sit with an older woman and listen, even if she is unsure how to respond, shows a respectful and gentle demeanor.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Calmly handles her emotional pain by pretending to be fine and masks her true feelings.",
-      "Competence": 1,
-      "Chunk": 43
+      "trait": "warmth",
+      "action": "Smiles with no conviction when Ermelinda praises her bravery.",
+      "assessment": "The lack of genuine warmth in her smile suggests some emotional distance or discomfort, indicating a limited expression of sincerity or openness in this moment.",
+      "rating": 0,
+      "chunk": 31
     },
     {
-      "Action": "Offers Paul an expensive bracelet with a practical financial explanation, showing foresight and understanding of future benefits.",
-      "Competence": 1,
-      "Chunk": 43
+      "trait": "competence",
+      "action": "Smiles with no conviction when complimented on her bravery and strength after a tough battle.",
+      "assessment": "Frankie's uncertain or unconvincing smile suggests some internal doubt or lack of confidence in her own strength or competence, indicating a momentary lapse in self-assurance.",
+      "rating": -1,
+      "chunk": 31
     },
     {
-      "Action": "Pushes the bracelet onto Paul despite his refusal, showing persistence and confidence in her decision.",
-      "Competence": 1,
-      "Chunk": 43
+      "trait": "competence",
+      "action": "Sits quietly and listens attentively to Ermelinda's words and the family around her during a social gathering.",
+      "assessment": "This behavior shows social awareness and patience, reflecting a calm and composed demeanor, which are subtle indicators of competence in social situations.",
+      "rating": 1,
+      "chunk": 31
     },
     {
-      "Action": "Advises Paul to take the bracelet and put it somewhere safe to avoid taxes and keep it for the future, demonstrating practical financial advice.",
-      "Competence": 1,
-      "Chunk": 44
+      "trait": "competence",
+      "action": "Acted shocked upon hearing about Michel leaving, despite it being something she should have anticipated.",
+      "assessment": "Frankie's reaction suggests a lack of emotional awareness or denial, indicating a possible blind spot in perceiving important relationship dynamics, which reflects a moderate lack of competence in emotional intelligence.",
+      "rating": -1,
+      "chunk": 36
     },
     {
-      "Action": "Acknowledges the complexity of the 'trust' issue and suggests involving a skilled lawyer to handle it properly.",
-      "Competence": 1,
-      "Chunk": 44
+      "trait": "competence",
+      "action": "Was very worried about Paul and how changes in relationships would affect him.",
+      "assessment": "This shows Frankie’s attentiveness and concern for others, particularly a child, which indicates a responsible and thoughtful approach, reflecting positively on her competence in caregiving and emotional responsibility.",
+      "rating": 2,
+      "chunk": 36
     },
     {
-      "Action": "Has already put the Paris apartment up for sale and plans to bequeath the proceeds, showing foresight and responsibility.",
-      "Competence": 1,
-      "Chunk": 44
+      "trait": "warmth",
+      "action": "Engages in polite small talk with Gary, showing interest in his work and experiences.",
+      "assessment": "Frankie demonstrates friendliness and openness by engaging in conversation and showing interest in Gary's background and feelings.",
+      "rating": 2,
+      "chunk": 38
     },
     {
-      "Action": "Does not explicitly argue or press Paul further when he refuses the bracelet initially, indicating some lack of assertive persuasion.",
-      "Competence": 0,
-      "Chunk": 44
+      "trait": "warmth",
+      "action": "Responds modestly to Gary's compliment about her appearance by saying 'You're being kind.'",
+      "assessment": "Frankie's modesty and polite response indicate sincerity and a gentle demeanor, reflecting warmth.",
+      "rating": 2,
+      "chunk": 38
     },
     {
-      "Action": "Expresses disapproval of Paul's financial success without elaboration, which may suggest judgment without constructive engagement.",
-      "Competence": 0,
-      "Chunk": 44
+      "trait": "warmth",
+      "action": "Laughs at Gary's description of the film project about an opera singer who loses her voice.",
+      "assessment": "Her laughter shows a friendly and lighthearted attitude, contributing to a warm interaction.",
+      "rating": 2,
+      "chunk": 38
     },
     {
-      "Action": "Plans to donate the proceeds from selling her Paris apartment to the Conservatoire.",
-      "Warmth": 1,
-      "Chunk": 45
+      "trait": "warmth",
+      "action": "Does not immediately dismiss Gary's suggestion that she would be perfect for the role despite her saying she can't sing.",
+      "assessment": "Frankie remains open and engaged in the conversation, showing tolerance and receptiveness.",
+      "rating": 1,
+      "chunk": 38
     },
     {
-      "Action": "Reassures that Jimmy and Sylvia are financially well taken care of, showing trust and confidence in others.",
-      "Warmth": 1,
-      "Chunk": 45
+      "trait": "competence",
+      "action": "Engages in polite, casual conversation with Gary, asking relevant questions about his work and background.",
+      "assessment": "This shows social awareness and conversational skill, indicating a competent ability to engage professionally and personally.",
+      "rating": 2,
+      "chunk": 38
     },
     {
-      "Action": "Responds defensively and asks not to be belittled when Paul questions her about the apartment price.",
-      "Warmth": -1,
-      "Chunk": 45
+      "trait": "competence",
+      "action": "Responds to Gary's compliment with modesty and a light, humorous tone.",
+      "assessment": "This suggests emotional intelligence and confidence in handling compliments gracefully, a sign of social competence.",
+      "rating": 2,
+      "chunk": 38
     },
     {
-      "Action": "Has already put the Paris apartment on the market and plans to donate proceeds to the Conservatoire.",
-      "Competence": 1,
-      "Chunk": 45
+      "trait": "competence",
+      "action": "Expresses skepticism or confusion with 'I’m not sure what that means' when Gary says 'We’ve been hanging out, you know.'",
+      "assessment": "This indicates attentiveness and critical thinking, not just passively accepting statements, which is a positive competence indicator.",
+      "rating": 2,
+      "chunk": 38
     },
     {
-      "Action": "Confidently states that Jimmy and Sylvia are financially secure and that others can handle their own matters.",
-      "Competence": 1,
-      "Chunk": 45
+      "trait": "competence",
+      "action": "Laughs at the irony of the film project about an opera singer who loses her voice, despite not being able to sing herself.",
+      "assessment": "This shows a sense of humor and self-awareness, reflecting mental agility and confidence.",
+      "rating": 2,
+      "chunk": 38
     },
     {
-      "Action": "Asks Paul not to belittle her by suggesting she is mistaken about the apartment’s value.",
-      "Competence": 0,
-      "Chunk": 45
+      "trait": "competence",
+      "action": "Does not immediately accept Gary’s offer or flattery, instead responding with a realistic comment 'I can’t sing.'",
+      "assessment": "This demonstrates groundedness and honesty, traits associated with competence in self-assessment.",
+      "rating": 2,
+      "chunk": 38
     },
     {
-      "Action": "Insists on creating a scholarship for young actors, showing concern for others' futures.",
-      "Warmth": 1,
-      "Chunk": 46
+      "trait": "warmth",
+      "action": "Describes Ilene as someone who is very real and sincere, appreciating her straightforwardness and intolerance for insincerity.",
+      "assessment": "Frankie's appreciation for sincerity and realness suggests she values genuine and trustworthy relationships, indicating warmth.",
+      "rating": 2,
+      "chunk": 39
     },
     {
-      "Action": "Responds defensively and tells Paul not to put her down when he questions her valuation, showing sensitivity.",
-      "Warmth": 0,
-      "Chunk": 46
+      "trait": "warmth",
+      "action": "Responds to Gary's invitation and plans with a measured, somewhat detached 'Does it matter what I think?'",
+      "assessment": "This response shows a degree of emotional distance or guardedness, which may indicate lower warmth in this interaction.",
+      "rating": -1,
+      "chunk": 39
     },
     {
-      "Action": "Insists on the creation of the Frangoise Cremont Scholarship and takes steps to ensure it happens by enlisting Paul to guarantee the promise",
-      "Competence": 1,
-      "Chunk": 46
+      "trait": "warmth",
+      "action": "Leaves Gary alone after expressing concern about her son and the family vacation.",
+      "assessment": "Frankie's priority on family and concern for her son reflects caring and responsibility, positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 39
     },
     {
-      "Action": "Asks for a high price for the apartment and firmly defends the valuation despite Paul's doubts",
-      "Competence": 1,
-      "Chunk": 46
+      "trait": "competence",
+      "action": "Engages in a calm, thoughtful conversation with Gary about the film project timeline and expectations.",
+      "assessment": "Frankie demonstrates patience and understanding of the complexities involved in creative projects, showing emotional intelligence and realistic perspective.",
+      "rating": 2,
+      "chunk": 39
     },
     {
-      "Action": "Appears sensitive to criticism and reacts defensively when Paul questions her",
-      "Competence": 0,
-      "Chunk": 46
+      "trait": "competence",
+      "action": "Responds to Gary's comments about Ilene with clear, direct observations about her character and values.",
+      "assessment": "Frankie shows insight and confidence in expressing opinions about others, indicating social awareness and assertiveness.",
+      "rating": 2,
+      "chunk": 39
     },
     {
-      "Action": "Speaks warmly and positively about Ilene, highlighting her talents and personality, expressing confidence that Paul would like her.",
-      "Warmth": 1,
-      "Chunk": 47
+      "trait": "competence",
+      "action": "Walks away to look for her son after the conversation, prioritizing family responsibilities.",
+      "assessment": "This action reflects responsible behavior and the ability to shift focus to important personal matters, showing practical competence.",
+      "rating": 2,
+      "chunk": 39
     },
     {
-      "Action": "Downplays Ilene’s relationship status uncertainly but focuses on positive traits rather than gossip or judgment.",
-      "Warmth": 1,
-      "Chunk": 47
+      "trait": "competence",
+      "action": "Asks 'Does it matter what I think?' in response to Gary's plans.",
+      "assessment": "This question may indicate some uncertainty or a feeling of diminished influence in the situation, suggesting a slight lack of confidence or assertiveness.",
+      "rating": -1,
+      "chunk": 39
     },
     {
-      "Action": "Clearly describes Ilene’s talents and current work, showing awareness and ability to promote her friend effectively.",
-      "Competence": 1,
-      "Chunk": 47
+      "trait": "warmth",
+      "action": "Rushes down to embrace Paul warmly when he calls out to him, holding each other for a long moment.",
+      "assessment": "Frankie's immediate and affectionate response to Paul shows a sincere and caring nature, indicating strong warmth and emotional connection.",
+      "rating": 3,
+      "chunk": 41
     },
     {
-      "Action": "Appears unaware or uncertain about basic personal details about Ilene (e.g., her relationship status).",
-      "Competence": -1,
-      "Chunk": 47
+      "trait": "warmth",
+      "action": "Engages in lighthearted conversation with Paul about the flowers and taking a selfie.",
+      "assessment": "This playful and easy interaction reflects friendliness and a good-natured attitude, reinforcing Frankie's warmth.",
+      "rating": 2,
+      "chunk": 41
     },
     {
-      "Action": "Confronts Paul about his dissatisfaction despite her giving him everything he wanted.",
-      "Warmth": 1,
-      "Chunk": 48
+      "trait": "warmth",
+      "action": "Accepts Paul's compliment and cooperates in taking selfies together.",
+      "assessment": "Frankie shows openness and friendliness by accepting compliments and engaging in a shared, lighthearted activity with Paul.",
+      "rating": 2,
+      "chunk": 42
     },
     {
-      "Action": "Shows concern and shock when Paul throws the bracelet and walks away angrily, running after him.",
-      "Warmth": 1,
-      "Chunk": 48
+      "trait": "warmth",
+      "action": "Suggests sending the photo to Jimmy.",
+      "assessment": "This indicates thoughtfulness and a desire to share positive moments with others, reflecting warmth and inclusiveness.",
+      "rating": 2,
+      "chunk": 42
     },
     {
-      "Action": "Confronts Paul directly about his dissatisfaction and tries to assert her viewpoint firmly.",
-      "Competence": 1,
-      "Chunk": 48
+      "trait": "warmth",
+      "action": "Shares personal health struggles (bad sleep and worsening migraines) with Paul.",
+      "assessment": "Frankie demonstrates trust and sincerity by confiding in Paul about her difficulties, which is a positive indicator of warmth.",
+      "rating": 3,
+      "chunk": 42
     },
     {
-      "Action": "Runs after Paul impulsively, dropping the bouquet she was carrying.",
-      "Competence": -1,
-      "Chunk": 48
+      "trait": "warmth",
+      "action": "Refuses to simply increase medication without consulting her doctor.",
+      "assessment": "This shows responsibility and self-care, but also a degree of assertiveness that may limit impulsive actions; it does not directly reflect warmth but rather prudence.",
+      "rating": 0,
+      "chunk": 42
     },
     {
-      "Action": "Shares a lighthearted moment with Ilene laughing together while searching for lost bracelet",
-      "Warmth": 1,
-      "Chunk": 50
+      "trait": "competence",
+      "action": "Accepts Paul's compliment but quickly adjusts her hair and positions herself for a photo.",
+      "assessment": "This shows social awareness and adaptability, indicating a moderate level of confidence and skill in managing social interactions.",
+      "rating": 1,
+      "chunk": 42
     },
     {
-      "Action": "Holds Ilene’s hand to get up and leans into her arms showing trust and affection",
-      "Warmth": 1,
-      "Chunk": 50
+      "trait": "competence",
+      "action": "Insists on taking another photo and directs Paul to send it to Jimmy.",
+      "assessment": "Demonstrates decisiveness and clear communication, reflecting competent social behavior and assertiveness.",
+      "rating": 2,
+      "chunk": 42
     },
     {
-      "Action": "Expresses genuine happiness to see Ilene",
-      "Warmth": 1,
-      "Chunk": 50
+      "trait": "competence",
+      "action": "Acknowledges worsening migraines and insists on consulting Dr. Bernhard rather than simply increasing medication as Paul suggests.",
+      "assessment": "Shows good judgment and self-advocacy regarding her health, indicating intelligence and responsible decision-making.",
+      "rating": 3,
+      "chunk": 42
     },
     {
-      "Action": "Asks for help when feeling weak and allows Ilene to support her",
-      "Warmth": 1,
-      "Chunk": 50
+      "trait": "competence",
+      "action": "Expresses doubt about the effectiveness of simply increasing medication dosage without medical advice.",
+      "assessment": "Reflects critical thinking and understanding of her medical condition, a strong indicator of competence.",
+      "rating": 3,
+      "chunk": 42
     },
     {
-      "Action": "Refuses help initially and fails to find lost bracelet despite searching.",
-      "Competence": -1,
-      "Chunk": 50
+      "trait": "warmth",
+      "action": "Tries to hide her tears from Paul but he knows, showing vulnerability yet protecting him.",
+      "assessment": "Frankie's attempt to shield her son from her pain shows a protective and caring nature, indicating warmth.",
+      "rating": 2,
+      "chunk": 43
     },
     {
-      "Action": "Admits to being overwhelmed by her son and asks for help getting up.",
-      "Competence": 0,
-      "Chunk": 50
+      "trait": "warmth",
+      "action": "Offers Paul her expensive bracelet as a gift to keep safe for him.",
+      "assessment": "Offering a valuable personal item to her son as a gesture of trust and care is a sincere and warm act.",
+      "rating": 3,
+      "chunk": 43
     },
     {
-      "Action": "Tries to stay standing despite dizziness and weakness but ultimately fails.",
-      "Competence": -1,
-      "Chunk": 50
+      "trait": "warmth",
+      "action": "Encourages Paul to keep the bracelet for his future wife.",
+      "assessment": "Frankie shows thoughtfulness and a desire to support her son's future happiness, reflecting warmth.",
+      "rating": 2,
+      "chunk": 43
     },
     {
-      "Action": "Assures Ilene that she is fine despite having had a seizure and apologizes sincerely.",
-      "Warmth": 1,
-      "Chunk": 52
+      "trait": "warmth",
+      "action": "Responds to Paul's apology with 'Nothing to be sorry about.'",
+      "assessment": "Her forgiving and gentle response demonstrates tolerance and kindness.",
+      "rating": 2,
+      "chunk": 43
     },
     {
-      "Action": "Insists she is fine after having a seizure and downplays the seriousness of her condition.",
-      "Competence": -1,
-      "Chunk": 52
+      "trait": "warmth",
+      "action": "Says 'I'm good at pretending' when Paul comments she looks rested.",
+      "assessment": "This statement reveals her internal struggle and emotional honesty, which may evoke empathy but also suggests emotional distance.",
+      "rating": 0,
+      "chunk": 43
     },
     {
-      "Action": "Responds without panic and answers Ilene calmly about how she felt after her seizure episode.",
-      "Competence": 0,
-      "Chunk": 52
+      "trait": "competence",
+      "action": "Frankie takes off her bracelet and offers it to Paul, explaining its value and advising him to keep it safe as an investment for the future.",
+      "assessment": "This action shows Frankie’s practical thinking and financial savvy, as well as her ability to plan ahead and communicate clearly about important matters.",
+      "rating": 2,
+      "chunk": 43
     },
     {
-      "Action": "Shares honestly about her illness and expresses a wish to have a good time with friends and family despite the prognosis.",
-      "Warmth": 1,
-      "Chunk": 53
+      "trait": "competence",
+      "action": "Frankie says 'I'm good at pretending' when Paul comments she looks rested.",
+      "assessment": "This statement reveals self-awareness and emotional control, indicating that Frankie can manage her outward appearance despite inner struggles, which is a sign of psychological competence.",
+      "rating": 1,
+      "chunk": 43
     },
     {
-      "Action": "Requests Ilene not to cry and wants to keep the mood positive.",
-      "Warmth": 1,
-      "Chunk": 53
+      "trait": "competence",
+      "action": "Frankie responds to Paul's insensitive comment by trying to hide her tears and looking away.",
+      "assessment": "While this shows emotional restraint, it also suggests a tendency to suppress vulnerability rather than address it openly, which may limit her effectiveness in emotional communication.",
+      "rating": 0,
+      "chunk": 43
     },
     {
-      "Action": "Continues to work on difficult film shoots despite physical exhaustion and cold weather.",
-      "Competence": 1,
-      "Chunk": 53
+      "trait": "competence",
+      "action": "Frankie repeatedly insists Paul take the bracelet despite his refusals, offering various reasons to convince him.",
+      "assessment": "This persistence demonstrates determination and confidence in her judgment, but it could also be seen as somewhat forceful or dismissive of Paul's feelings, indicating a mixed level of interpersonal competence.",
+      "rating": 1,
+      "chunk": 43
     },
     {
-      "Action": "Recognizes symptoms and reluctantly seeks medical help after finishing a work commitment.",
-      "Competence": 1,
-      "Chunk": 53
+      "trait": "warmth",
+      "action": "Forcefully hands Paul a bracelet despite his refusal.",
+      "assessment": "Frankie insists on giving Paul a valuable gift even though he clearly does not want it, which may indicate a lack of sensitivity to his feelings and boundaries.",
+      "rating": -1,
+      "chunk": 44
     },
     {
-      "Action": "Openly communicates about her illness and plans with calmness and clarity.",
-      "Competence": 1,
-      "Chunk": 53
+      "trait": "warmth",
+      "action": "Acknowledges Paul's good income but states disapproval.",
+      "assessment": "Frankie is honest about her feelings but her disapproval might come across as judgmental rather than supportive.",
+      "rating": 0,
+      "chunk": 44
     },
     {
-      "Action": "Downplays physical symptoms initially and delays seeing a doctor.",
-      "Competence": -1,
-      "Chunk": 53
+      "trait": "warmth",
+      "action": "Discusses practical matters about money and trusts openly with Paul.",
+      "assessment": "Frankie shows a willingness to engage in serious, responsible conversations, indicating sincerity and trustworthiness.",
+      "rating": 2,
+      "chunk": 44
     },
     {
-      "Action": "Laughs at her own poor sense of direction and quickly signals a Tuk Tuk to help.",
-      "Warmth": 1,
-      "Chunk": 54
+      "trait": "warmth",
+      "action": "Plans to sell her Paris apartment and leave the proceeds to the Conservatoire.",
+      "assessment": "This demonstrates generosity and a thoughtful, altruistic attitude.",
+      "rating": 3,
+      "chunk": 44
     },
     {
-      "Action": "Laughs with Ilene while holding on during the bumpy ride, sharing a light moment.",
-      "Warmth": 1,
-      "Chunk": 54
+      "trait": "competence",
+      "action": "Explains to Paul the financial advantage of taking the bracelet now to avoid taxes later, suggesting to put it somewhere safe for future benefit.",
+      "assessment": "This shows Frankie has a practical understanding of financial matters and can communicate a strategic approach to money management, indicating competence.",
+      "rating": 2,
+      "chunk": 44
     },
     {
-      "Action": "Talks openly and playfully about meeting Ilene's fiancé, making jokes about the script and starring role.",
-      "Warmth": 1,
-      "Chunk": 54
+      "trait": "competence",
+      "action": "Insists Paul take the bracelet despite his reluctance, showing persistence and decisiveness.",
+      "assessment": "Frankie's insistence reflects confidence and a proactive attitude, traits associated with competence, though it may border on pushiness.",
+      "rating": 1,
+      "chunk": 44
     },
     {
-      "Action": "Encourages Ilene to believe there is a 'right one' for her, showing care and support.",
-      "Warmth": 1,
-      "Chunk": 54
+      "trait": "competence",
+      "action": "Acknowledges the complexity of the trust issue and suggests consulting a knowledgeable lawyer rather than trying to resolve it hastily.",
+      "assessment": "This demonstrates good judgment and awareness of limits, recognizing when expert help is needed, which is a sign of competence.",
+      "rating": 3,
+      "chunk": 44
     },
     {
-      "Action": "Shares a thoughtful quote to encourage Ilene.",
-      "Warmth": 1,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "Mentions having already put the Paris apartment up for sale and plans to bequeath the proceeds to the Conservatory.",
+      "assessment": "This indicates forward planning and responsibility in managing assets and legacy, reflecting competence.",
+      "rating": 2,
+      "chunk": 44
     },
     {
-      "Action": "Quotes a phrase in French with uncertainty about its origin but uses it confidently in conversation.",
-      "Competence": 0,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "Expresses disapproval of Paul's financial success but does not engage in detailed discussion or argument.",
+      "assessment": "While showing personal values, Frankie’s refusal to engage deeply here might suggest a missed opportunity to influence or clarify, a slight negative for competence in communication.",
+      "rating": -1,
+      "chunk": 44
     },
     {
-      "Action": "Smiles warmly at the cleaning lady, though she lowers her head shyly",
-      "Warmth": 1,
-      "Chunk": 62
+      "trait": "warmth",
+      "action": "Intends to donate the proceeds from selling her Paris apartment to the Conservatoire.",
+      "assessment": "Donating the proceeds to a cultural institution shows generosity and a desire to support the arts, reflecting a good-natured and sincere character.",
+      "rating": 3,
+      "chunk": 45
     },
     {
-      "Action": "Continues playing piano gently while giving space to Jimmy and looks into his eyes with calm acceptance",
-      "Warmth": 1,
-      "Chunk": 62
+      "trait": "warmth",
+      "action": "Assures Paul that Jimmy and Sylvia are well taken care of financially and emotionally by themselves and their partners.",
+      "assessment": "This shows trust in her children’s independence and respect for their relationships, indicating tolerance and a lack of controlling behavior.",
+      "rating": 2,
+      "chunk": 45
     },
     {
-      "Action": "Plays piano skillfully with ease and confidence, maintaining performance despite a slight mistake.",
-      "Competence": 1,
-      "Chunk": 62
+      "trait": "warmth",
+      "action": "Responds defensively to Paul's suggestion that she might be mistaken about the apartment's value, saying 'Don't tell me I'm wrong. You don't have to put me down like that. It's really not necessary.'",
+      "assessment": "Her defensive reaction suggests sensitivity and a feeling of being undervalued, which may indicate some insecurity or difficulty in accepting criticism, slightly reducing perceived warmth.",
+      "rating": -1,
+      "chunk": 45
     },
     {
-      "Action": "Smiles politely at the cleaning lady, demonstrating social grace and awareness.",
-      "Competence": 0,
-      "Chunk": 62
+      "trait": "competence",
+      "action": "Has already put the Paris apartment on the market and intends to donate the proceeds to the Conservatoire.",
+      "assessment": "This shows foresight, decisiveness, and a clear plan for her assets, indicating competent management of her affairs.",
+      "rating": 2,
+      "chunk": 45
     },
     {
-      "Action": "Gives Jimmy a small kiss on his head before leaving",
-      "Warmth": 1,
-      "Chunk": 63
+      "trait": "competence",
+      "action": "Confidently asserts that Jimmy has saved enough and that Sylvia can count on Ian, showing trust in others' capabilities.",
+      "assessment": "This reflects good judgment and confidence in delegating responsibilities, a sign of competence.",
+      "rating": 2,
+      "chunk": 45
     },
     {
-      "Action": "Refuses to play another song and chooses to go for a walk alone, distancing herself",
-      "Warmth": 0,
-      "Chunk": 63
+      "trait": "competence",
+      "action": "Responds defensively when Paul suggests she might be mistaken about the apartment's value.",
+      "assessment": "Her defensive reaction suggests some insecurity or sensitivity to criticism, which may slightly undermine her confidence and competence.",
+      "rating": -1,
+      "chunk": 45
     },
     {
-      "Action": "Picks up the beaten bouquet of flowers from the street and smells it, evoking memories",
-      "Warmth": 1,
-      "Chunk": 63
+      "trait": "warmth",
+      "action": "Insists on the creation of a scholarship for young actors in the name of Frangoise Cremont.",
+      "assessment": "Frankie's desire to establish a scholarship shows a commitment to supporting others and fostering talent, which is a positive and generous act.",
+      "rating": 3,
+      "chunk": 46
     },
     {
-      "Action": "Observes Jimmy kindly putting his jacket over Ilene’s shoulders, recognizing the gentle, caring nature of the act and feeling a sense of lightness about Jimmy",
-      "Warmth": 1,
-      "Chunk": 66
+      "trait": "warmth",
+      "action": "Responds defensively to Paul's skepticism about the scholarship and the apartment's value.",
+      "assessment": "Frankie's defensiveness and insistence on being right may indicate sensitivity and a need for respect, but also a lack of openness and tolerance in this interaction.",
+      "rating": -1,
+      "chunk": 46
     },
     {
-      "Action": "Walks ahead to the cliff edge then turns to see the group coming to join her.",
-      "Warmth": 1,
-      "Chunk": 68
+      "trait": "competence",
+      "action": "Insists on the creation of a scholarship in her name and takes steps to ensure it happens by asking Paul to guarantee it.",
+      "assessment": "This shows foresight, planning, and assertiveness, indicating a proactive and confident approach to achieving her goals.",
+      "rating": 2,
+      "chunk": 46
     },
     {
-      "Action": "Allows Jimmy to put his arm around her and feels his presence warmly.",
-      "Warmth": 1,
-      "Chunk": 68
+      "trait": "competence",
+      "action": "Responds firmly to Paul's skepticism about the scholarship and the apartment's value, refusing to be put down or dismissed.",
+      "assessment": "This demonstrates self-assurance and the ability to stand her ground, which are positive indicators of competence.",
+      "rating": 2,
+      "chunk": 46
     },
     {
-      "Action": "Leads the group back without hesitation, including insisting Michel and Tiago follow despite Michel's fuss about missing the view.",
-      "Warmth": 0,
-      "Chunk": 68
-    }
-  ],
-  "Frankie ": [
+      "trait": "competence",
+      "action": "Admits that her desire for the scholarship is vanity but still pursues it seriously.",
+      "assessment": "This self-awareness combined with determination suggests emotional intelligence and realistic self-assessment, supporting competence.",
+      "rating": 1,
+      "chunk": 46
+    },
+    {
+      "trait": "competence",
+      "action": "Gives away the rest of her possessions gradually without apparent concern.",
+      "assessment": "This could indicate either a strategic distribution or a lack of careful management; the excerpt does not clarify, so the competence level is neutral.",
+      "rating": 0,
+      "chunk": 46
+    },
+    {
+      "trait": "warmth",
+      "action": "Speaks enthusiastically and positively about her friend Ilene, highlighting her talents, intelligence, and humor, and expresses confidence that Paul would like her.",
+      "assessment": "Frankie's warm and sincere praise of her friend shows her good-natured and friendly attitude, as well as her desire to connect others through positive introductions.",
+      "rating": 2,
+      "chunk": 47
+    },
+    {
+      "trait": "warmth",
+      "action": "Mentions Ilene's presence and work in a casual, conversational way despite Paul's mild skepticism about the timing of Ilene's arrival.",
+      "assessment": "Frankie remains open and tolerant, not defensive or dismissive, showing trustworthiness and sincerity in sharing information about her friend.",
+      "rating": 1,
+      "chunk": 47
+    },
+    {
+      "trait": "competence",
+      "action": "Describes Ilene as talented, smart, and working on a major film project, showing awareness of her professional achievements.",
+      "assessment": "This indicates that Frankie is observant and values skill and talent, reflecting a competent social awareness and ability to recognize merit.",
+      "rating": 2,
+      "chunk": 47
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in conversation with Paul, providing detailed information about Ilene and her work, despite some uncertainty about personal details.",
+      "assessment": "Frankie communicates clearly and confidently about relevant topics, though the admission of not knowing some details shows honesty rather than overconfidence.",
+      "rating": 1,
+      "chunk": 47
+    },
+    {
+      "trait": "competence",
+      "action": "Mentions Ilene’s coincidental presence in Sintra during their vacation.",
+      "assessment": "This shows attentiveness to circumstances and the ability to connect social events, suggesting situational awareness.",
+      "rating": 1,
+      "chunk": 47
+    },
+    {
+      "trait": "competence",
+      "action": "Does not attempt to hide uncertainty about Ilene’s relationship status.",
+      "assessment": "This omission reflects honesty and realistic self-presentation, which can be a sign of emotional intelligence and competence.",
+      "rating": 1,
+      "chunk": 47
+    },
+    {
+      "trait": "warmth",
+      "action": "Frankie expresses frustration that Paul is never satisfied despite her giving him everything he wanted.",
+      "assessment": "Frankie's statement reveals a mix of care and exasperation; she acknowledges her efforts to support Paul, indicating a desire to be good-natured and supportive, though her tone may lack patience.",
+      "rating": 1,
+      "chunk": 48
+    },
+    {
+      "trait": "warmth",
+      "action": "Frankie reacts with concern and alarm when Paul throws the bracelet away, shouting 'Paul?! Are you crazy??'",
+      "assessment": "Her immediate concern and vocal reaction show genuine care and worry for Paul's well-being, reflecting warmth and sincerity.",
+      "rating": 2,
+      "chunk": 48
+    },
+    {
+      "trait": "warmth",
+      "action": "Frankie runs down the hill after Paul, dropping her bouquet of flowers behind her.",
+      "assessment": "This action demonstrates urgency and a willingness to pursue Paul despite personal loss, indicating strong emotional investment and warmth.",
+      "rating": 3,
+      "chunk": 48
+    },
+    {
+      "trait": "competence",
+      "action": "Frankie confronts Paul about his dissatisfaction and accuses him of never being content despite everything she has given him.",
+      "assessment": "This shows Frankie’s willingness to address difficult emotional issues directly and assertively, indicating emotional intelligence and confidence.",
+      "rating": 2,
+      "chunk": 48
+    },
+    {
+      "trait": "competence",
+      "action": "Frankie reacts with shock and concern when Paul throws the bracelet away and calls out to him.",
+      "assessment": "This reaction demonstrates attentiveness and quick emotional responsiveness, though it may also suggest some impulsiveness or lack of control in a tense moment.",
+      "rating": 1,
+      "chunk": 48
+    },
+    {
+      "trait": "competence",
+      "action": "Frankie immediately runs down the hill after Paul, dropping the bouquet of flowers behind her.",
+      "assessment": "This shows determination and decisiveness to follow up on a conflict, but the act of dropping the flowers may indicate a momentary lapse in composure or prioritization.",
+      "rating": 1,
+      "chunk": 48
+    },
+    {
+      "trait": "warmth",
+      "action": "Frankie is seen combing through the foliage, looking for a lost Bulgari bracelet, and does not immediately get up when Ilene offers help.",
+      "assessment": "Frankie's behavior shows a moment of vulnerability and trust in Ilene's presence, but her reluctance to immediately accept help may indicate a guarded or self-reliant attitude rather than openness or warmth.",
+      "rating": 0,
+      "chunk": 49
+    },
+    {
+      "trait": "competence",
+      "action": "Frankie is seen on all fours, combing through foliage, looking for a lost Bulgari bracelet.",
+      "assessment": "This action shows attentiveness and persistence in searching for a valuable item, indicating a degree of responsibility and care, though it also suggests a moment of vulnerability or carelessness in having lost something important.",
+      "rating": 1,
+      "chunk": 49
+    },
+    {
+      "trait": "warmth",
+      "action": "Laughs with Ilene while searching for the lost bracelet on the ground.",
+      "assessment": "Sharing a lighthearted moment during a frustrating situation shows friendliness and a good-natured attitude.",
+      "rating": 2,
+      "chunk": 50
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses relief and affection by saying 'Oh Ilene. It’s so good to see you.' and embraces her.",
+      "assessment": "This demonstrates sincerity, warmth, and trust in her relationship with Ilene.",
+      "rating": 3,
+      "chunk": 50
+    },
+    {
+      "trait": "warmth",
+      "action": "Asks Ilene for help to get up and allows herself to be supported when feeling weak.",
+      "assessment": "Frankie’s willingness to accept help and show vulnerability indicates trust and openness, positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 50
+    },
+    {
+      "trait": "competence",
+      "action": "Looks everywhere for the lost Bulgari bracelet but cannot find it.",
+      "assessment": "This shows persistence and attentiveness in searching for a valuable item, indicating some level of responsibility and care.",
+      "rating": 1,
+      "chunk": 50
+    },
+    {
+      "trait": "competence",
+      "action": "Falls into Ilene's arms and later collapses due to dizziness and weakness.",
+      "assessment": "This physical collapse suggests a moment of vulnerability and lack of physical control, which negatively impacts the perception of competence in this situation.",
+      "rating": -2,
+      "chunk": 50
+    },
+    {
+      "trait": "competence",
+      "action": "Attempts to stay upright and insists 'I'm okay' despite feeling dizzy and weak.",
+      "assessment": "This shows some mental resilience and desire to maintain composure, reflecting a degree of confidence and self-control.",
+      "rating": 1,
+      "chunk": 50
+    },
+    {
+      "trait": "competence",
+      "action": "Asks for help when unable to stay standing.",
+      "assessment": "Recognizing one's limits and asking for help is a sign of practical intelligence and self-awareness, which are components of competence.",
+      "rating": 2,
+      "chunk": 50
+    },
+    {
+      "trait": "warmth",
+      "action": "Reassures Ilene that she is fine after having a seizure and apologizes for causing worry.",
+      "assessment": "Frankie shows consideration for Ilene's feelings by apologizing and trying to reassure her, indicating sincerity and concern for others.",
+      "rating": 2,
+      "chunk": 52
+    },
+    {
+      "trait": "warmth",
+      "action": "Downplays the severity of her seizure and insists she is okay despite Ilene's concern.",
+      "assessment": "While Frankie is trying to be reassuring, her minimization of the situation may reflect a reluctance to burden others, which can be seen as both protective and somewhat dismissive of others' worries.",
+      "rating": 1,
+      "chunk": 52
+    },
+    {
+      "trait": "competence",
+      "action": "Insists she is fine and refuses to call a doctor after having a seizure.",
+      "assessment": "Frankie's dismissal of a serious medical event and refusal to seek help suggests a lack of sound judgment and self-awareness, indicating lower competence in managing her own health and safety.",
+      "rating": -2,
+      "chunk": 52
+    },
+    {
+      "trait": "competence",
+      "action": "Acknowledges feeling faint after being down on her knees for a long time.",
+      "assessment": "Frankie shows some awareness of her physical state, which is a positive indicator of competence, though it is overshadowed by her underestimation of the severity of her condition.",
+      "rating": 0,
+      "chunk": 52
+    },
+    {
+      "trait": "warmth",
+      "action": "Frankie asks Ilene not to cry and expresses a desire to have a good time together with family and friends despite her terminal diagnosis.",
+      "assessment": "Frankie's request to avoid tears and focus on spending quality time shows emotional strength, sincerity, and a wish to maintain positive connections, reflecting warmth.",
+      "rating": 3,
+      "chunk": 53
+    },
+    {
+      "trait": "warmth",
+      "action": "Frankie openly shares the difficult news about her cancer spreading with Ilene.",
+      "assessment": "Being open and honest about her condition demonstrates trustworthiness and sincerity, key aspects of warmth.",
+      "rating": 2,
+      "chunk": 53
+    },
+    {
+      "trait": "warmth",
+      "action": "Frankie invites Ilene to meet her family and spend time together.",
+      "assessment": "Inviting someone into her personal life during a difficult time shows friendliness and a desire for connection, indicating warmth.",
+      "rating": 3,
+      "chunk": 53
+    },
+    {
+      "trait": "competence",
+      "action": "Frankie continues working on films and a series after initial cancer treatment, despite feeling exhausted and unwell.",
+      "assessment": "This shows determination, resilience, and professional commitment, indicating a degree of competence in managing work under difficult personal circumstances.",
+      "rating": 2,
+      "chunk": 53
+    },
+    {
+      "trait": "competence",
+      "action": "Frankie delays seeing a doctor despite feeling nauseous and suspecting something is wrong.",
+      "assessment": "This hesitation to seek timely medical help suggests a lack of proactive self-care and possibly poor judgment, which negatively impacts competence.",
+      "rating": -1,
+      "chunk": 53
+    },
+    {
+      "trait": "competence",
+      "action": "Frankie openly communicates the severity of her illness to Ilene and expresses a clear wish to spend meaningful time with loved ones.",
+      "assessment": "This demonstrates emotional intelligence, clarity, and confidence in facing difficult realities, reflecting competence in emotional and social domains.",
+      "rating": 2,
+      "chunk": 53
+    },
+    {
+      "trait": "competence",
+      "action": "Frankie downplays her symptoms initially by attributing exhaustion to long shoots and cold weather.",
+      "assessment": "While this may reflect optimism or denial, it also suggests a tendency to minimize problems, which can hinder effective problem-solving and self-management.",
+      "rating": -1,
+      "chunk": 53
+    },
+    {
+      "trait": "warmth",
+      "action": "Immediately gestures to stop a passing Tuk Tuk to help Ilene and herself when they are lost.",
+      "assessment": "Frankie's quick action to secure transportation shows attentiveness and a desire to help, indicating friendliness and practical care.",
+      "rating": 2,
+      "chunk": 54
+    },
+    {
+      "trait": "warmth",
+      "action": "Laughs and shares a lighthearted moment with Ilene despite being lost and uncomfortable on the Tuk Tuk.",
+      "assessment": "Maintaining humor and closeness in a stressful situation reflects warmth through friendliness and good-natured behavior.",
+      "rating": 3,
+      "chunk": 54
+    },
+    {
+      "trait": "warmth",
+      "action": "Tells Ilene that her fiancé is not the right one for her and encourages belief in 'the right one'.",
+      "assessment": "Frankie shows concern for Ilene's well-being and is sincere in offering guidance, demonstrating trustworthiness and care, though it may come across as somewhat direct.",
+      "rating": 1,
+      "chunk": 54
+    },
+    {
+      "trait": "competence",
+      "action": "Admits openly 'I have no sense of direction!' when asked about their location.",
+      "assessment": "This admission shows self-awareness but also reveals a clear lack of navigational skill, indicating a gap in competence in this area.",
+      "rating": -2,
+      "chunk": 54
+    },
+    {
+      "trait": "competence",
+      "action": "Immediately signals a passing Tuk Tuk to stop upon seeing it.",
+      "assessment": "This quick reaction to secure transportation demonstrates situational awareness and decisiveness, reflecting competent behavior in an uncertain situation.",
+      "rating": 2,
+      "chunk": 54
+    },
+    {
+      "trait": "competence",
+      "action": "Maintains a lighthearted and confident demeanor despite being lost, laughing and engaging playfully with Ilene.",
+      "assessment": "This shows emotional resilience and social skill, which are components of competence, especially in managing stress and interpersonal dynamics.",
+      "rating": 1,
+      "chunk": 54
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in candid conversation about Ilene's fiancé and future plans, including negotiating a starring role in a movie.",
+      "assessment": "This indicates social confidence and assertiveness, suggesting competence in communication and self-advocacy.",
+      "rating": 2,
+      "chunk": 54
+    },
+    {
+      "trait": "warmth",
+      "action": "Shares a comforting and somewhat cryptic quote with Ilene: 'Trouve avant de chercher.' ('Find it before you look for it.')",
+      "assessment": "Frankie attempts to offer Ilene reassurance and wisdom during a moment of uncertainty, showing a desire to support and encourage her friend.",
+      "rating": 2,
+      "chunk": 55
+    },
+    {
+      "trait": "warmth",
+      "action": "Lies sleeping vulnerably while Jimmy watches over her closely and carefully undresses to join her in bed, showing a quiet intimacy and trust between them.",
+      "assessment": "Frankie's vulnerability and the intimate, trusting setting with Jimmy suggest she is capable of sincere and warm connections, indicating underlying warmth through her openness and trust.",
+      "rating": 2,
+      "chunk": 56
+    },
+    {
+      "trait": "warmth",
+      "action": "Smiles at the cleaning lady who lowers her head shyly and discreetly.",
+      "assessment": "Frankie's smile towards the cleaning lady suggests a friendly and kind disposition, showing warmth and approachability even in a brief interaction.",
+      "rating": 2,
+      "chunk": 62
+    },
+    {
+      "trait": "warmth",
+      "action": "Continues to play piano gently and makes space for Jimmy to sit next to her.",
+      "assessment": "Making space for Jimmy and continuing to play music in a calm manner indicates a considerate and sincere nature, reflecting warmth through gentle attentiveness.",
+      "rating": 2,
+      "chunk": 62
+    },
+    {
+      "trait": "warmth",
+      "action": "Looks into Jimmy's eyes and responds softly when he apologizes.",
+      "assessment": "Frankie's gentle response to Jimmy's apology and her eye contact show empathy and sincerity, reinforcing her warm and trustworthy character.",
+      "rating": 3,
+      "chunk": 62
+    },
+    {
+      "trait": "competence",
+      "action": "Plays the piano with ease and fluidity, showing trained skill though not professional level, and continues playing despite making a slight mistake.",
+      "assessment": "This action indicates that Frankie has a solid level of skill and confidence in her musical ability, demonstrating competence through persistence and technical ability.",
+      "rating": 2,
+      "chunk": 62
+    },
+    {
+      "trait": "warmth",
+      "action": "Gives Jimmy a small kiss on his head before leaving the room.",
+      "assessment": "This small, tender gesture shows care and affection, indicating warmth and a gentle nature.",
+      "rating": 2,
+      "chunk": 63
+    },
     {
-      "Action": "Dips both wrists in water and splashes water on the back of her neck as part of a ritual before swimming.",
-      "Competence": 1,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "Picks up a beaten up bouquet of flowers from the ground and smells them, recalling memories.",
+      "assessment": "This action reflects sensitivity and a sentimental, reflective side, suggesting an appreciation for small, meaningful moments, which aligns with warmth.",
+      "rating": 1,
+      "chunk": 63
     },
     {
-      "Action": "Takes a deep breath and dives into the pool confidently.",
-      "Competence": 1,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Frankie decides to leave the piano session politely and confidently, stating she will go for a walk and meet later.",
+      "assessment": "This shows Frankie’s ability to assert her own needs and manage social interactions with calm confidence, indicating emotional and social competence.",
+      "rating": 2,
+      "chunk": 63
     },
     {
-      "Action": "Responds calmly and wittily to Maya’s warning about people in the hotel who might take pictures.",
-      "Competence": 1,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Frankie walks up a steep incline with determination, pausing briefly to catch her breath but continuing onward.",
+      "assessment": "This demonstrates physical endurance and mental resolve, reflecting competence in self-discipline and persistence.",
+      "rating": 2,
+      "chunk": 63
     },
     {
-      "Action": "Frankie’s friends and acquaintances show respect and admiration for her, indicating her reputation for competence.",
-      "Competence": 1,
-      "Chunk": 18
+      "trait": "competence",
+      "action": "Frankie notices the beaten-up bouquet on the road, pauses, picks it up, and smells the flowers, triggering memories.",
+      "assessment": "This action shows attentiveness and emotional awareness, but also a moment of distraction or sentimental reflection that might slow her progress; overall, it suggests thoughtful awareness rather than a lack of competence.",
+      "rating": 1,
+      "chunk": 63
     },
     {
-      "Action": "Acts shocked upon hearing unexpected news about Michel leaving, indicating possible denial or avoidance of difficult truths.",
-      "Competence": -1,
-      "Chunk": 36
+      "trait": "warmth",
+      "action": "Observes Jimmy taking off his jacket and putting it over Ilene's shoulders to keep her warm.",
+      "assessment": "Frankie notices and appreciates a gentle, caring gesture between others, indicating her sensitivity to warmth in social interactions, though she does not intervene or comment.",
+      "rating": 1,
+      "chunk": 66
     },
     {
-      "Action": "Shows concern and worry about Paul and how situations affect him, demonstrating care and some thoughtful consideration.",
-      "Competence": 1,
-      "Chunk": 36
+      "trait": "warmth",
+      "action": "Frankie is seen wearing a shiny bracelet that later appears on another woman who is affectionate with her boyfriend.",
+      "assessment": "The presence of Frankie's bracelet on another woman suggests possible unfaithfulness or betrayal, which negatively impacts perceptions of her sincerity and trustworthiness.",
+      "rating": -2,
+      "chunk": 67
     },
     {
-      "Action": "Engages in friendly small talk with Gary, showing interest in his work and background.",
-      "Warmth": 1,
-      "Chunk": 38
+      "trait": "warmth",
+      "action": "Frankie touches the walls of the abandoned chapel, feeling the rock and water, and listens to her own footsteps in a quiet, dark space.",
+      "assessment": "This introspective and gentle interaction with her environment shows a sensitive and reflective side, indicating a capacity for warmth and connection, albeit in a solitary manner.",
+      "rating": 1,
+      "chunk": 67
     },
     {
-      "Action": "Responds modestly to Gary’s compliment by saying 'You’re being kind.'",
-      "Warmth": 1,
-      "Chunk": 38
+      "trait": "warmth",
+      "action": "Frankie and Tiago look at each other warily, and Frankie slowly leaves the sanctuary towards the light outside.",
+      "assessment": "Frankie's cautious and non-confrontational behavior suggests a reserved or guarded nature, which may limit open warmth but also avoids conflict.",
+      "rating": 0,
+      "chunk": 67
     },
     {
-      "Action": "Uses humor in response to Gary’s film idea ('Ha. That’s funny.'), keeping the tone light and friendly.",
-      "Warmth": 1,
-      "Chunk": 38
+      "trait": "competence",
+      "action": "Frankie touches the walls, feeling the rock, and listening to her own footsteps in the dark, abandoned chapel.",
+      "assessment": "This action shows sensory awareness and cautious exploration, indicating a careful and attentive approach to an unfamiliar environment.",
+      "rating": 2,
+      "chunk": 67
     },
     {
-      "Action": "Searching frantically on the ground, somewhat vulnerable and open when spotted by Ilene.",
-      "Warmth": 1,
-      "Chunk": 49
+      "trait": "competence",
+      "action": "Frankie sees Tiago in the rear of the chapel, they look at each other warily, and Frankie starts moving slowly, leaving the Sanctuary and heading towards the light outside.",
+      "assessment": "Frankie's slow, deliberate movement away from a potentially tense situation suggests prudence and self-control, reflecting competent judgment in avoiding conflict.",
+      "rating": 2,
+      "chunk": 67
     },
     {
-      "Action": "Not immediately accepting Ilene’s help, showing some guarded behavior.",
-      "Warmth": 0,
-      "Chunk": 49
+      "trait": "competence",
+      "action": "Frankie tightens up her jacket, protecting herself against a sudden chill while walking outside on a rocky pasture.",
+      "assessment": "This shows practical awareness and self-care, indicating a competent response to environmental conditions.",
+      "rating": 1,
+      "chunk": 67
     },
     {
-      "Action": "Is meticulously combing through foliage looking for a lost Bulgari bracelet, showing careful attention to detail and persistence.",
-      "Competence": 1,
-      "Chunk": 49
+      "trait": "warmth",
+      "action": "Welcomes Jimmy, Ilene, Paul, Ian, Sylvia, Maya, Michel, and Tiago as they come to meet her at the cliff, and then leads them back towards town without hesitation.",
+      "assessment": "Frankie’s readiness to lead the group and her attentiveness to Michel’s reluctance show her sense of responsibility and care for others, indicating a warm and inclusive nature.",
+      "rating": 2,
+      "chunk": 68
     },
     {
-      "Action": "Firmly refuses to play one more song with Jimmy, asserting her intent to leave for a walk.",
-      "Competence": 1,
-      "Chunk": 63
+      "trait": "warmth",
+      "action": "Accepts Jimmy’s comforting gesture of putting his arm around her and acknowledges his presence.",
+      "assessment": "Frankie’s receptiveness to Jimmy’s support suggests openness and trust in close relationships, reflecting warmth.",
+      "rating": 2,
+      "chunk": 68
     },
     {
-      "Action": "Pauses to catch her breath while climbing a steep incline, then continues determinedly.",
-      "Competence": 1,
-      "Chunk": 63
+      "trait": "competence",
+      "action": "She tightens up her jacket, protecting herself against a sudden chill.",
+      "assessment": "This action shows attentiveness to her environment and practical self-care, indicating situational awareness and preparedness.",
+      "rating": 1,
+      "chunk": 68
     },
     {
-      "Action": "Pauses upon seeing discarded flowers, reflects quietly on the memory the scent evokes.",
-      "Competence": 0,
-      "Chunk": 63
+      "trait": "competence",
+      "action": "Frankie is ready to go, ready to continue, before the others have even fully arrived to see the view.",
+      "assessment": "This suggests decisiveness and confidence in her leadership, showing she is proactive and forward-looking.",
+      "rating": 2,
+      "chunk": 68
     },
     {
-      "Action": "Touches the walls and water in the abandoned chapel, showing awareness and sensitivity to her environment.",
-      "Competence": 1,
-      "Chunk": 67
+      "trait": "competence",
+      "action": "She leads Jimmy and the rest back towards the town without pause or hesitation.",
+      "assessment": "Her ability to lead the group confidently and without hesitation reflects strong leadership skills and decisiveness.",
+      "rating": 3,
+      "chunk": 68
     },
     {
-      "Action": "Looks warily at Tiago with a lit cigarette but chooses to leave the sanctuary slowly and carefully.",
-      "Competence": 1,
-      "Chunk": 67
+      "trait": "competence",
+      "action": "Frankie insists that Michel and Tiago turn around and follow the group despite Michel's fuss about missing the view.",
+      "assessment": "This indicates assertiveness and the ability to maintain group cohesion and focus on the goal, demonstrating effective leadership.",
+      "rating": 2,
+      "chunk": 68
     }
   ]
 }

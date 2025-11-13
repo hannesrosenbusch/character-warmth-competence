@@ -1,784 +1,1586 @@
 {
   "J.T. 'Joker' Davis": [
     {
-      "Action": "Whispers a sarcastic remark questioning the drill sergeant's behavior.",
-      "Warmth": 0,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Whispers a sarcastic comment ('Is that you, John Wayne? Is this me?') during Sergeant Hartman's harsh speech.",
+      "assessment": "This shows a subtle attempt at humor and coping, but it is not directed warmly toward others; it may indicate some emotional distance or defiance rather than warmth.",
+      "rating": 0,
+      "chunk": 2
     },
     {
-      "Action": "Admits to having made a disrespectful comment when confronted.",
-      "Warmth": 1,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Admits to Sergeant Hartman that he made the sarcastic comment ('Sir, I said it, sir!').",
+      "assessment": "Joker's honesty in owning up to his comment demonstrates sincerity and straightforwardness, which are positive indicators of trustworthiness and warmth.",
+      "rating": 2,
+      "chunk": 2
     },
     {
-      "Action": "Whispers sarcastic comment under breath during Sergeant Hartman's tirade.",
-      "Competence": -1,
-      "Chunk": 2
+      "trait": "competence",
+      "action": "Whispers sarcastic comment 'Is that you, John Wayne? Is this me?' under his breath during Sergeant Hartman's tirade.",
+      "assessment": "This shows Joker's quick wit and mental agility, but also a risky lack of discipline in a high-pressure military environment, which could undermine his perceived competence.",
+      "rating": 0,
+      "chunk": 2
     },
     {
-      "Action": "Admits to Sergeant Hartman that he made the sarcastic comment instead of denying it.",
-      "Competence": 1,
-      "Chunk": 2
+      "trait": "competence",
+      "action": "Admits to Sergeant Hartman that he made the sarcastic comment when confronted.",
+      "assessment": "This demonstrates honesty and confidence, traits that can be seen as signs of personal integrity and mental toughness, contributing positively to competence.",
+      "rating": 2,
+      "chunk": 2
     },
     {
-      "Action": "Responds respectfully and obediently to Sergeant Hartman's harsh treatment without retaliation.",
-      "Warmth": 1,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "Responds to Sergeant Hartman's aggressive and insulting behavior with disciplined compliance and respect, saying 'Sir, yes, sir!'",
+      "assessment": "Joker maintains a respectful and controlled demeanor despite provocation, indicating tolerance and self-control rather than hostility or resentment.",
+      "rating": 1,
+      "chunk": 3
     },
     {
-      "Action": "Uses humor in tense situations, such as jokingly inviting Hartman to fuck his sister.",
-      "Warmth": 1,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "Answers Sergeant Hartman's question about why he joined the Corps with 'Sir, to kill, sir!'",
+      "assessment": "Joker's straightforward and honest answer shows sincerity, though the content is militaristic and not inherently warm; still, the honesty is a positive indicator.",
+      "rating": 1,
+      "chunk": 3
     },
     {
-      "Action": "Shows no visible resentment or anger toward verbal abuse and physical punishment by Sergeant Hartman.",
-      "Warmth": 1,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "Attempts to perform a 'war face' as ordered by Sergeant Hartman, despite the absurdity and intimidation of the situation.",
+      "assessment": "Joker's willingness to engage with the drill sergeant's demands without complaint suggests compliance and a cooperative attitude, but does not strongly indicate warmth.",
+      "rating": 0,
+      "chunk": 3
     },
     {
-      "Action": "Responds promptly and obediently to Sergeant Hartman's aggressive commands and physical punishment without hesitation.",
-      "Competence": 1,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Responds promptly and respectfully to Sergeant Hartman's aggressive commands with 'Sir, yes, sir!'",
+      "assessment": "Joker demonstrates discipline and the ability to follow orders under intense pressure, indicating a baseline military competence and mental resilience.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Follows commands accurately including giving a war face and answering questions, showing discipline and willingness to learn.",
-      "Competence": 1,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Attempts to show a 'war face' as ordered by Sergeant Hartman, but fails to convincingly intimidate.",
+      "assessment": "While Joker tries to comply, his inability to produce a convincing war face suggests a lack of emotional intensity or theatrical skill required for this specific military persona, reflecting a minor gap in his performative competence.",
+      "rating": 0,
+      "chunk": 3
     },
     {
-      "Action": "Fails to convincingly perform the war face to Sergeant Hartman’s satisfaction; visibly does not intimidate or display strong aggression.",
-      "Competence": 0,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Sags to his knees after being punched in the stomach by Sergeant Hartman.",
+      "assessment": "This reaction shows physical vulnerability and perhaps a lack of conditioning or toughness expected in a Marine recruit, indicating a slight deficiency in physical competence at this moment.",
+      "rating": -1,
+      "chunk": 3
     },
     {
-      "Action": "Narrates the training environment with a level-headed and confident tone, showing awareness and mental acuity.",
-      "Competence": 1,
-      "Chunk": 6
+      "trait": "competence",
+      "action": "Responds promptly and correctly to Sergeant Hartman's rapid-fire, aggressive questioning with proper military protocol.",
+      "assessment": "Joker's ability to maintain composure and respond appropriately under intense verbal pressure suggests a baseline level of discipline and mental readiness, indicating competent behavior in a stressful environment.",
+      "rating": 1,
+      "chunk": 4
     },
     {
-      "Action": "Passively observes rigorous and intense training without evident panic or confusion, maintaining composure.",
-      "Competence": 1,
-      "Chunk": 6
+      "trait": "warmth",
+      "action": "No direct action or statement by Joker in this excerpt; he remains silent and passive during Hartman's verbal abuse of Pyle.",
+      "assessment": "Joker's lack of intervention or support for Pyle during Hartman's harsh treatment suggests a neutral to slightly negative indicator of warmth, as he neither defends nor comforts a fellow recruit under stress.",
+      "rating": -1,
+      "chunk": 5
     },
     {
-      "Action": "No direct actions or statements from Joker in this excerpt to evaluate competence.",
-      "Competence": 0,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "No direct actions or statements by Joker in this excerpt; he remains silent and passive during the intense interaction between Hartman and Pyle.",
+      "assessment": "Joker's lack of intervention or response in this scene neither demonstrates nor undermines his competence. His silence could indicate restraint or uncertainty, but there is no clear evidence of skill or confidence here.",
+      "rating": 0,
+      "chunk": 5
     },
     {
-      "Action": "Follows drill instructor's commands and participates in the rifle oath with the platoon, demonstrating discipline and attentiveness.",
-      "Competence": 1,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Narrates the training environment at Parris Island with a clear, confident voice, providing insight into the Marine Corps recruit experience.",
+      "assessment": "Joker's ability to articulate and frame the situation with clarity and a touch of wit suggests intellectual competence and situational awareness.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Recites the rifleman's creed with seriousness and focus, demonstrating understanding of his role and responsibility.",
-      "Competence": 1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Participates in the rigorous physical training and marching drills under Gunnery Sergeant Hartman without any noted mistakes or hesitation.",
+      "assessment": "Although the excerpt does not highlight any specific actions by Joker, his presence and participation alongside other recruits in demanding training exercises imply a baseline level of physical and mental competence required to keep up with the platoon.",
+      "rating": 1,
+      "chunk": 7
     },
     {
-      "Action": "Follows orders during drills and marching cadence efficiently alongside other recruits.",
-      "Competence": 1,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Remains silent and does not intervene while Pyle is harshly reprimanded and humiliated by Hartman.",
+      "assessment": "Joker's lack of intervention or support for Pyle during Hartman's verbal and physical abuse suggests a limited display of warmth, possibly due to the strict military environment or self-preservation.",
+      "rating": -1,
+      "chunk": 8
     },
     {
-      "Action": "No mistakes or hesitation shown while handling his rifle during training exercises.",
-      "Competence": 1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "No direct actions or statements by Joker in this excerpt; the focus is on Pyle and Hartman.",
+      "assessment": "This excerpt does not provide any direct evidence of Joker's competence, as he is not actively engaged or described in this scene.",
+      "rating": 0,
+      "chunk": 8
     },
     {
-      "Action": "Joker and another recruit go over the 'dirty name' obstacle easily.",
-      "Competence": 1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Follows drill instructor Hartman's commands precisely during rifle handling and marching drills.",
+      "assessment": "Joker's adherence to strict military discipline and ability to execute complex physical commands under pressure indicates a solid level of competence and discipline.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Responds promptly and confidently to Gunnery Sergeant Hartman's question by yelling a war cry.",
-      "Competence": 1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Participates in repetitive rifle and marching drills with the rest of the recruits.",
+      "assessment": "While participation shows willingness and basic capability, there is no indication of exceptional skill or leadership here, so this is a neutral indicator of competence.",
+      "rating": 0,
+      "chunk": 9
     },
     {
-      "Action": "Finishes many pull-ups before dropping to the ground.",
-      "Competence": 1,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Responds in unison with other recruits during the rifle creed and cadence calls.",
+      "assessment": "This shows conformity and ability to work as part of a unit, but does not directly demonstrate individual competence beyond basic training compliance.",
+      "rating": 0,
+      "chunk": 9
     },
     {
-      "Action": "Supports Private Pyle by half-carrying him through mud obstacle despite difficulty",
-      "Warmth": 1,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Joker and another recruit go over the 'Dirty Name' obstacle easily.",
+      "assessment": "This action demonstrates physical capability and confidence in completing a challenging task efficiently, indicating solid competence in physical training.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Supports Private Pyle during forced march despite Pyle staggering and nearly collapsing.",
-      "Competence": 1,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Responds promptly and confidently to Hartman's question 'Private Joker, are you a killer?' with 'Sir, yes, sir!' and delivers a loud war cry.",
+      "assessment": "Joker shows mental readiness, confidence, and the ability to perform under pressure, reflecting psychological competence and adaptability to the military environment.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Falls down when Pyle falls while running through mud obstacle.",
-      "Competence": 0,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Finishes many pull-ups while other recruits struggle.",
+      "assessment": "This action demonstrates physical capability, endurance, and determination, indicating a solid level of competence in physical training.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Answers honestly and respectfully to harsh questioning from Hartman, tries to explain the situation of other privates to the instructor.",
-      "Warmth": 1,
-      "Chunk": 13
+      "trait": "warmth",
+      "action": "Supports Private Pyle by half-carrying him during a difficult forced march when Pyle is ready to drop.",
+      "assessment": "Joker's action of physically supporting Pyle, who is struggling and near collapse, shows a degree of care and concern for a fellow soldier, indicating warmth and empathy.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Refuses to lie about believing in the Virgin Mary despite threat and physical punishment.",
-      "Warmth": 1,
-      "Chunk": 13
+      "trait": "warmth",
+      "action": "Falls down with Pyle when Pyle stumbles in the mud obstacle course.",
+      "assessment": "While this fall is accidental, Joker's close proximity and shared struggle with Pyle may reflect solidarity and a non-hostile attitude, suggesting tolerance and camaraderie.",
+      "rating": 1,
+      "chunk": 12
     },
     {
-      "Action": "Does not show fear or submissiveness beyond respectful address under Hartman's aggression.",
-      "Warmth": 0,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Supports Private Pyle by half-carrying him during the forced march despite the difficult conditions.",
+      "assessment": "This action shows physical capability, endurance, and a willingness to assist a struggling comrade, indicating practical competence and teamwork under stress.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Responds honestly to harsh questioning by Hartman, even when it leads to physical punishment.",
-      "Competence": 0,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Falls when Pyle falls during the mud obstacle course.",
+      "assessment": "This suggests a momentary lapse in physical coordination or situational awareness, though it may be due to circumstances beyond his control.",
+      "rating": -1,
+      "chunk": 12
     },
     {
-      "Action": "Demonstrates wit and awareness of drill instructor's behavior by explaining the no-win communication situation to Hartman.",
-      "Competence": 1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Responds promptly and respectfully to Drill Instructor Hartman's commands.",
+      "assessment": "This indicates discipline, attentiveness, and an understanding of military protocol, reflecting mental competence and confidence in following orders.",
+      "rating": 1,
+      "chunk": 12
     },
     {
-      "Action": "Gets unexpectedly promoted to squad leader by Hartman, indicating recognition of some leadership potential or competence.",
-      "Competence": 1,
-      "Chunk": 13
+      "trait": "warmth",
+      "action": "Responds honestly and respectfully to Hartman's question about believing in the Virgin Mary, despite knowing it will provoke a harsh reaction.",
+      "assessment": "Joker's honesty and straightforwardness show integrity and sincerity, though it also reveals a lack of tact in a hostile environment.",
+      "rating": 1,
+      "chunk": 13
     },
     {
-      "Action": "Complies immediately and respectfully with military discipline and orders.",
-      "Competence": 1,
-      "Chunk": 13
+      "trait": "warmth",
+      "action": "Explains to Hartman that any answer he gives will be wrong and that the Senior Drill Instructor will beat him harder if he reverses himself.",
+      "assessment": "This shows Joker's awareness of the difficult situation and his attempt to communicate the unfairness of the environment, indicating a level of trustworthiness and candidness.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Patiently explains disassembly of rifle to Pyle.",
-      "Warmth": 1,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "Accepts promotion to squad leader and the responsibility to teach Private Pyle everything, including basic tasks.",
+      "assessment": "Joker's acceptance of leadership and mentorship role suggests a willingness to support and guide others, reflecting friendliness and a nurturing attitude.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Instructs Pyle in correct method of lacing boots.",
-      "Warmth": 1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Responds honestly and directly to Hartman's question about believing in the Virgin Mary, despite the risk of punishment.",
+      "assessment": "This action shows a degree of integrity and straightforwardness, but also a lack of social tact or strategic thinking in a high-pressure environment, which may undermine his competence in navigating military hierarchy.",
+      "rating": -1,
+      "chunk": 13
     },
     {
-      "Action": "Gently talks Pyle over confidence climb and congratulates him.",
-      "Warmth": 1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Explains to Hartman that any answer he gives will be wrong and that the Senior Drill Instructor will beat him harder if he reverses himself.",
+      "assessment": "This demonstrates situational awareness and an understanding of the harsh training environment, indicating intelligence and perceptiveness.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Teaches Pyle how to make his bed correctly.",
-      "Warmth": 1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Is promoted to squad leader by Hartman after Snowball is fired.",
+      "assessment": "The promotion suggests that Hartman sees leadership potential or competence in Joker, indicating external recognition of his capability.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Works with Pyle on Manual of Arms drill.",
-      "Warmth": 1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Accepts the responsibility of being squad leader and tasked with teaching Private Pyle everything, including basic skills.",
+      "assessment": "This acceptance shows willingness to take on leadership and instructional roles, reflecting confidence and a sense of duty, positive indicators of competence.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Runs up a ramp, grabs ropes and swings across a ditch successfully along with others.",
-      "Competence": 1,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Patiently explains the disassembly of an M-14 rifle to Pyle.",
+      "assessment": "Taking time to patiently teach a fellow recruit demonstrates patience and a willingness to help others learn.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Participates actively in squad drills and cadence with confidence and synchronization.",
-      "Competence": 1,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Instructs Pyle in the correct method of lacing his combat boots.",
+      "assessment": "Providing detailed guidance on small but important tasks shows attentiveness and a supportive attitude.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Observes the conflict between Hartman and Pyle without intervening or expressing sympathy.",
-      "Warmth": 0,
-      "Chunk": 17
+      "trait": "warmth",
+      "action": "Gently talks Pyle over the top of the confidence climb, encouraging him step-by-step.",
+      "assessment": "Offering gentle encouragement to help someone overcome fear reflects kindness and emotional support.",
+      "rating": 3,
+      "chunk": 14
     },
     {
-      "Action": "Remains silent and obedient during Hartman's disciplinary actions; shows no signs of undermining authority or causing further disruption.",
-      "Competence": 0,
-      "Chunk": 17
+      "trait": "warmth",
+      "action": "Congratulates Pyle after he completes the confidence climb.",
+      "assessment": "Acknowledging and celebrating another's achievement is a sincere and friendly gesture.",
+      "rating": 3,
+      "chunk": 14
     },
     {
-      "Action": "Quietly tells Pyle he looks bad, tries to offer encouragement and help despite Pyle's struggles.",
-      "Warmth": 1,
-      "Chunk": 18
+      "trait": "warmth",
+      "action": "Instructs Pyle on how to make his bed properly.",
+      "assessment": "Patiently teaching routine tasks indicates a nurturing and helpful nature.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Gently corrects Pyle by telling him to tuck his shirt in, showing patience.",
-      "Warmth": 1,
-      "Chunk": 18
+      "trait": "warmth",
+      "action": "Works with Pyle on the Manual of Arms and obstacle course activities.",
+      "assessment": "Collaborating and supporting a less experienced recruit in training activities shows teamwork and tolerance.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Hesitates before hitting Pyle and covers his ears afterwards, indicating internal conflict and discomfort with the violence",
-      "Warmth": 1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Patiently explains the disassembly of an M-14 rifle to Pyle, detailing parts like the bolt and operating rod handle.",
+      "assessment": "This demonstrates technical knowledge and the ability to communicate complex information clearly and patiently, indicating competence.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Participates in the physical abuse of Pyle along with the rest of the platoon, inflicting pain on a helpless individual",
-      "Warmth": -1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Instructs Pyle in the correct method of lacing his combat boots, carefully guiding him step-by-step.",
+      "assessment": "Shows attention to detail and teaching skill, reflecting competence in basic soldiering tasks and leadership.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Hesitates before hitting Pyle but ultimately carries out the action effectively when pressured.",
-      "Competence": 0,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Gently talks Pyle over the top of the confidence climb, encouraging and coaching him to complete the task.",
+      "assessment": "Exhibits emotional intelligence and leadership by supporting a scared recruit, indicating competence in motivating others.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Jumps back into his bunk promptly after hitting Pyle, showing awareness of situational dynamics and self-preservation.",
-      "Competence": 1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Instructs Pyle on how to properly make his bed with precise folding instructions.",
+      "assessment": "Demonstrates thoroughness and discipline, reinforcing standards expected in military life, which reflects competence.",
+      "rating": 1,
+      "chunk": 14
     },
     {
-      "Action": "Covers his ears lying in his bunk afterward, indicating emotional or psychological distress impacting his mental readiness.",
-      "Competence": -1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Works with Pyle on the Manual of Arms and participates in physical training exercises like the obstacle course.",
+      "assessment": "Shows active engagement in training and physical capability, supporting competence in both knowledge and physical readiness.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Raises hand to answer Hartman's question confidently and correctly.",
-      "Warmth": 1,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Runs up a ramp, grabs the ropes, and swings across a ditch during the obstacle course alongside Cowboy and Pyle.",
+      "assessment": "This action shows physical capability and coordination, indicating a baseline level of competence in physical training.",
+      "rating": 1,
+      "chunk": 15
     },
     {
-      "Action": "Raises his hand to answer Hartman's question about where skilled shooters learned to shoot, confidently responding 'In the Marines'",
-      "Competence": 1,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Participates in cadence running and drill exercises under Hartman's command without making mistakes.",
+      "assessment": "Following orders and maintaining cadence demonstrates discipline and attentiveness, reflecting competent behavior in a military training context.",
+      "rating": 1,
+      "chunk": 15
     },
     {
-      "Action": "Looks at Pyle uneasily while Pyle talks to his rifle.",
-      "Warmth": 1,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Listens attentively to Hartman's speech about the importance of killer instinct and the role of the rifle.",
+      "assessment": "While this shows mental engagement and understanding of the training's seriousness, it is a passive indicator of competence rather than an active demonstration.",
+      "rating": 0,
+      "chunk": 15
     },
     {
-      "Action": "Makes a joking, crass comment to Cowboy about slipping his tubesteak into his sister.",
-      "Warmth": -1,
-      "Chunk": 21
+      "trait": "warmth",
+      "action": "Remains silent and does not intervene when Private Pyle is harshly reprimanded and humiliated by Hartman for hiding a jelly doughnut.",
+      "assessment": "Joker's lack of intervention or support in this moment suggests a neutral or possibly detached stance toward Pyle's suffering, indicating limited warmth in this context.",
+      "rating": 0,
+      "chunk": 17
     },
     {
-      "Action": "Expresses concern about Pyle's mental state in a low voice to Cowboy.",
-      "Warmth": 1,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Remains silent and does not intervene during the confrontation between Hartman and Private Pyle over the hidden jelly doughnut.",
+      "assessment": "Joker's lack of action or statement in this moment suggests a passive stance, possibly indicating a reluctance or inability to assert himself in tense situations, which may reflect a moderate lack of social or leadership competence in this context.",
+      "rating": -1,
+      "chunk": 17
     },
     {
-      "Action": "Narrates the recruits' readiness and transformation, showing observation without judgment.",
-      "Warmth": 0,
-      "Chunk": 23
+      "trait": "warmth",
+      "action": "Quietly checks Pyle's uniform and tells him, 'You really look like shit today, Leonard.'",
+      "assessment": "Although the comment is blunt, Joker addresses Pyle directly and with a tone that suggests concern rather than ridicule, indicating a level of sincerity and care.",
+      "rating": 1,
+      "chunk": 18
     },
     {
-      "Action": "Narrates confidently about the platoon's readiness and their transformation under training, showing insight and awareness of military expectations.",
-      "Competence": 1,
-      "Chunk": 23
+      "trait": "warmth",
+      "action": "Reassures Pyle by saying, 'Nobody hates you, Leonard. You just keep making mistakes, getting everybody in trouble.'",
+      "assessment": "Joker attempts to comfort Pyle by separating his mistakes from his worth as a person, showing tolerance and a desire to support him.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Responds to Hartman's harsh critique with matter-of-fact acknowledgment ('A killer, yes, sir!') without resentment.",
-      "Warmth": 1,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Says to Pyle, 'I'm trying to help you, Leonard. I'm really trying.'",
+      "assessment": "This statement reveals Joker's genuine effort to assist Pyle, reflecting good-naturedness and sincerity.",
+      "rating": 3,
+      "chunk": 18
     },
     {
-      "Action": "Walks slowly down the squad bay on fire watch at night, attentive to potential sounds, suggesting sense of responsibility towards others' safety.",
-      "Warmth": 1,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Tells Pyle to tuck his shirt in.",
+      "assessment": "This is a straightforward, practical instruction without warmth or coldness; it is neutral in terms of warmth.",
+      "rating": 0,
+      "chunk": 18
     },
     {
-      "Action": "Enters latrine cautiously upon hearing a muffled sound, demonstrates concern and attentiveness to fellow platoon member.",
-      "Warmth": 1,
-      "Chunk": 24
+      "trait": "competence",
+      "action": "Quietly checks Pyle's uniform and gives him direct, practical advice ('Tuck your shirt in').",
+      "assessment": "This shows Joker's attentiveness to detail and his attempt to help a struggling recruit improve, indicating a responsible and capable attitude.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Responds promptly and correctly to orders during roll call.",
-      "Competence": 1,
-      "Chunk": 24
+      "trait": "competence",
+      "action": "Reassures Pyle that nobody hates him and expresses genuine effort to help him.",
+      "assessment": "Demonstrates emotional intelligence and leadership qualities, which are important aspects of competence in a team environment.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "States he wrote for his high school newspaper when challenged about his writing skills.",
-      "Competence": 0,
-      "Chunk": 24
+      "trait": "competence",
+      "action": "Does not intervene more forcefully or escalate when Pyle continues to make mistakes and struggle.",
+      "assessment": "While showing patience, Joker's limited intervention might suggest a lack of assertiveness or inability to fully manage a problematic situation, indicating a moderate gap in competence.",
+      "rating": -1,
+      "chunk": 18
     },
     {
-      "Action": "Walks slowly and cautiously with flashlight on fire watch at night, investigates strange muffled sound carefully.",
-      "Competence": 1,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Hesitates before hitting Pyle and then hits him several times as part of the group bullying.",
+      "assessment": "Joker's hesitation indicates some internal conflict or reluctance, suggesting he is not fully comfortable with the cruelty, but ultimately he participates in the abuse, showing limited warmth in this moment.",
+      "rating": -2,
+      "chunk": 19
     },
     {
-      "Action": "Warns Pyle about the danger if caught, showing concern.",
-      "Warmth": 1,
-      "Chunk": 25
+      "trait": "warmth",
+      "action": "Covers his ears after the bullying episode, withdrawing from the situation.",
+      "assessment": "This non-verbal reaction suggests Joker is disturbed by the violence inflicted on Pyle, indicating some empathy and sensitivity, which are positive indicators of warmth.",
+      "rating": 1,
+      "chunk": 19
     },
     {
-      "Action": "Reports Pyle to Hartman without harming him, showing restraint and responsibility.",
-      "Warmth": 1,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Hesitates before hitting Pyle several times during the group assault, then quickly jumps into his bunk to avoid further involvement.",
+      "assessment": "Joker's hesitation and reluctance to fully engage in the assault suggest a moral or emotional conflict that undermines his decisiveness and confidence in this situation, indicating a momentary lapse in competence related to leadership and assertiveness.",
+      "rating": -1,
+      "chunk": 19
     },
     {
-      "Action": "Tries to calm Pyle down by pleading 'Easy, Leonard. Go easy, man.' when Pyle aims rifle at him.",
-      "Warmth": 1,
-      "Chunk": 26
+      "trait": "competence",
+      "action": "Covers his ears and withdraws emotionally after the assault on Pyle.",
+      "assessment": "This reaction shows emotional vulnerability and avoidance rather than resilience or control, which can be seen as a lack of emotional competence in handling stressful or violent group dynamics.",
+      "rating": -1,
+      "chunk": 19
     },
     {
-      "Action": "Appears scared but does not provoke Pyle when threatened with rifle.",
-      "Warmth": 1,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Raises his hand to answer Hartman's question about where Charles Whitman and Lee Harvey Oswald learned to shoot.",
+      "assessment": "By participating and engaging in the group discussion, Joker shows a willingness to contribute and connect with others, indicating a friendly and cooperative attitude.",
+      "rating": 1,
+      "chunk": 20
     },
     {
-      "Action": "Calmly tries to de-escalate the situation with Pyle by speaking gently and urging him to go easy despite being scared.",
-      "Competence": 1,
-      "Chunk": 26
+      "trait": "competence",
+      "action": "Raises his hand to answer Hartman's question about where Charles Whitman and Lee Harvey Oswald learned to shoot.",
+      "assessment": "This action shows that Joker is attentive, confident, and willing to participate actively in training, indicating a level of intellectual engagement and self-assurance.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Displays fear and trembling during a life-threatening moment but manages to maintain some control and awareness.",
-      "Competence": 0,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Looks at Pyle uneasily while Pyle talks softly to his rifle.",
+      "assessment": "Joker's uneasy observation of Pyle suggests a degree of empathy or concern for Pyle's mental state, indicating some sensitivity and awareness of others' feelings.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Fails to physically prevent Pyle’s suicide or neutralize the threat posed by Pyle's rifle.",
-      "Competence": -1,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Engages in casual, crude banter with Cowboy about slipping his tubesteak into Cowboy's sister.",
+      "assessment": "This crude joke reflects a lack of respect and insensitivity, which detracts from warmth and suggests a more rough, irreverent demeanor.",
+      "rating": -2,
+      "chunk": 21
     },
     {
-      "Action": "Puts his arm around the hooker, joking about illness and caution.",
-      "Warmth": 0,
-      "Chunk": 27
+      "trait": "warmth",
+      "action": "Shares a private, somewhat serious comment with Cowboy about Pyle possibly being a Section Eight (mentally unfit).",
+      "assessment": "This shows Joker's willingness to confide and discuss concerns about a fellow recruit, indicating some trust and openness, though the tone is somewhat detached.",
+      "rating": 1,
+      "chunk": 21
     },
     {
-      "Action": "Laughs at the Vietnamese boy who steals the camera and does Bruce Lee moves.",
-      "Warmth": 0,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Looks at Pyle uneasily while Pyle talks softly to his rifle.",
+      "assessment": "Joker's uneasy observation suggests awareness of Pyle's unstable mental state, indicating perceptiveness and situational awareness.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Negotiates the price with the hooker and tries to minimize spending based on personal budget constraints.",
-      "Competence": 1,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Engages in casual conversation with Cowboy about Pyle's mental state, suggesting Pyle might be a Section Eight (mentally unfit).",
+      "assessment": "This shows Joker's ability to assess and discuss complex psychological issues among peers, reflecting emotional intelligence and practical judgment.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Recognizes and verbally differentiates the risks involved with prostitutes (coughing and infection risk).",
-      "Competence": 1,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Stops mopping to ensure they are alone before speaking candidly to Cowboy.",
+      "assessment": "This demonstrates Joker's situational awareness and discretion, indicating social intelligence and cautiousness.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Laughs off the theft of the camera with amusement rather than reacting with anger or concern.",
-      "Competence": 0,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Makes a crude joke to Cowboy about slipping his tubesteak into Cowboy's sister.",
+      "assessment": "While this shows Joker's use of humor to bond, it also reflects a lack of professionalism and maturity, which can undermine perceived competence.",
+      "rating": -1,
+      "chunk": 21
     },
     {
-      "Action": "Tries to comfort Rafterman by telling him not to take frustrations too hard and to see things as business.",
-      "Warmth": 1,
-      "Chunk": 28
+      "trait": "competence",
+      "action": "Recites the sixth General Order correctly but admits that the private has been instructed but does not know it.",
+      "assessment": "Joker demonstrates knowledge of military protocol but also shows a subtle awareness of the recruit's actual understanding, indicating both competence and critical thinking.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Warns Rafterman realistically about dangers in a somewhat humorous way to prevent reckless behavior.",
-      "Warmth": 1,
-      "Chunk": 28
+      "trait": "competence",
+      "action": "Responds promptly and respectfully to Hartman's reprimand by dropping and doing push-ups.",
+      "assessment": "Shows discipline and ability to follow orders under pressure, reflecting competent military behavior.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Discusses rumors about Tet ceasefire calmly and shares intelligence info with peers.",
-      "Warmth": 0,
-      "Chunk": 28
+      "trait": "competence",
+      "action": "Engages in the inspection process with Hartman, answering questions and participating actively.",
+      "assessment": "Demonstrates confidence and familiarity with military procedures, indicating solid competence.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Responds promptly and respectfully to instructions, uses humor lightly ('Got it. Very catchy.')",
-      "Warmth": 1,
-      "Chunk": 29
+      "trait": "warmth",
+      "action": "Responds promptly and respectfully to Hartman's roll call with 'Sir, yes, sir!'",
+      "assessment": "Joker demonstrates discipline and respect toward authority, which can be seen as a baseline for trustworthiness and sincerity.",
+      "rating": 1,
+      "chunk": 24
     },
     {
-      "Action": "Briefly acknowledges query about 'the weenie' with 'Sir!' but offers no additional explanation or elaboration",
-      "Warmth": 0,
-      "Chunk": 29
+      "trait": "warmth",
+      "action": "Walks slowly down the squad bay with a flashlight during the night watch, alert to sounds and potential issues.",
+      "assessment": "Joker shows conscientiousness and a protective attitude toward his fellow soldiers by taking his watch seriously and investigating unusual sounds.",
+      "rating": 2,
+      "chunk": 24
     },
     {
-      "Action": "Acknowledges and repeats new directive correctly when instructed (e.g., replacing 'search and destroy' with 'sweep and clear').",
-      "Competence": 1,
-      "Chunk": 29
+      "trait": "warmth",
+      "action": "Approaches Pyle in the latrine after hearing a muffled sound, showing concern or curiosity.",
+      "assessment": "Joker's decision to check on Pyle indicates attentiveness and a degree of care for his comrades, reflecting warmth and responsibility.",
+      "rating": 2,
+      "chunk": 24
     },
     {
-      "Action": "Responds promptly and respectfully when called on ('Sir!').",
-      "Competence": 1,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Responds promptly and correctly to Hartman's roll call with 'Sir, yes, sir!'",
+      "assessment": "This shows Joker's attentiveness and ability to follow military protocol, indicating basic competence and discipline.",
+      "rating": 1,
+      "chunk": 24
     },
     {
-      "Action": "Replies with casual or slightly sarcastic remark ('Got it. Very catchy.') instead of straightforward confirmation.",
-      "Competence": 0,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "States that he wrote for his high school newspaper when challenged by Hartman about being a writer.",
+      "assessment": "This reveals Joker's self-awareness and honesty about his skills, but also suggests a lack of confidence or experience in his chosen specialty, indicating moderate competence but not mastery.",
+      "rating": 0,
+      "chunk": 24
     },
     {
-      "Action": "Does not see or report on expected action of grunts hitting a target ('Didn't see ‘em....').",
-      "Competence": -1,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Walks slowly down the squad bay with a flashlight on fire watch during the platoon's sleep.",
+      "assessment": "This demonstrates responsibility and vigilance in performing his duties, reflecting reliability and situational awareness.",
+      "rating": 2,
+      "chunk": 24
     },
     {
-      "Action": "Responds to Lockhart’s requests with sarcastic humor and light teasing; suggests making a kill an officer or a general for laughs.",
-      "Warmth": 0,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Investigates a muffled sound in the latrine cautiously and discovers Pyle loading his rifle.",
+      "assessment": "This shows Joker's alertness, curiosity, and willingness to investigate potential threats, indicating good situational judgment and initiative.",
+      "rating": 2,
+      "chunk": 24
     },
     {
-      "Action": "Counters Lockhart’s criticism with a sharp remark about finding blood trails if he went on operations himself, maintaining a friendly, if somewhat irreverent, tone.",
-      "Warmth": 1,
-      "Chunk": 30
+      "trait": "warmth",
+      "action": "Warns Pyle that if Hartman catches them with live rounds, they will be in serious trouble.",
+      "assessment": "Joker shows concern for both himself and Pyle, indicating a protective and cautious attitude toward his fellow soldier.",
+      "rating": 2,
+      "chunk": 25
     },
     {
-      "Action": "Stays relaxed and social with peers in hootch, engaging in leisure activities and writing in notebook.",
-      "Warmth": 1,
-      "Chunk": 30
+      "trait": "warmth",
+      "action": "Informs Hartman that Private Pyle has a full magazine and is locked and loaded.",
+      "assessment": "Joker acts responsibly and honestly, fulfilling his duty while indirectly looking out for Pyle by not allowing the situation to escalate unnoticed.",
+      "rating": 2,
+      "chunk": 25
     },
     {
-      "Action": "Engages in witty, confident banter with Lockhart, demonstrating quick thinking and control of the narrative despite not having concrete evidence.",
-      "Competence": 1,
-      "Chunk": 30
+      "trait": "warmth",
+      "action": "Does not physically confront or harm Pyle despite Hartman's expectation to 'stomp Private Pyle's guts out.'",
+      "assessment": "Joker refrains from violence against a troubled comrade, suggesting a degree of tolerance and restraint, which reflects underlying warmth.",
+      "rating": 2,
+      "chunk": 25
     },
     {
-      "Action": "Shows skepticism towards official narratives and media reports, suggesting a nuanced understanding of the situation.",
-      "Competence": 1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Questions Pyle about the live rounds and recognizes the danger of the situation.",
+      "assessment": "This shows situational awareness and an understanding of the seriousness of Pyle's actions, indicating a level of intelligence and alertness.",
+      "rating": 2,
+      "chunk": 25
     },
     {
-      "Action": "Mentions writing in a notebook, indicating a habit of documentation and reflection.",
-      "Competence": 1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Warns Pyle that if Hartman catches them, they will be in serious trouble.",
+      "assessment": "This demonstrates foresight and an attempt to prevent escalation, reflecting responsible and prudent behavior.",
+      "rating": 2,
+      "chunk": 25
     },
     {
-      "Action": "Engages in lighthearted banter and humor with peers, adopts a playful John Wayne persona.",
-      "Warmth": 1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Reports to Hartman that Pyle is out of his bunk with a loaded weapon and that it is his duty to inform the Senior Drill Instructor.",
+      "assessment": "Joker follows protocol and communicates critical information clearly and confidently, showing procedural competence and presence of mind under pressure.",
+      "rating": 3,
+      "chunk": 25
     },
     {
-      "Action": "Dismisses Payback's claims sarcastically, mockingly calling out ‘bullshit’ but keeping tone casual.",
-      "Warmth": 0,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Does not physically intervene or attempt to disarm Pyle despite the obvious danger.",
+      "assessment": "This omission could suggest hesitation or lack of confidence in handling a volatile situation directly, which may reflect a limitation in practical competence or courage.",
+      "rating": -1,
+      "chunk": 25
     },
     {
-      "Action": "Expresses boredom and eagerness to return to combat, showing awareness of the situation and desire to be active rather than passive.",
-      "Competence": 1,
-      "Chunk": 31
+      "trait": "warmth",
+      "action": "Trembling and pleading with Private Pyle to go easy and not shoot him.",
+      "assessment": "Joker's trembling and pleading indicate a sincere and vulnerable attempt to de-escalate a dangerous situation, showing concern for Pyle's well-being despite his own fear.",
+      "rating": 2,
+      "chunk": 26
     },
     {
-      "Action": "Uses humor and mimics John Wayne to lighten mood and maintain morale among peers.",
-      "Competence": 1,
-      "Chunk": 31
+      "trait": "warmth",
+      "action": "Staring at Pyle after Hartman's death, showing visible fear but not retaliating or escalating the conflict.",
+      "assessment": "Joker's restraint in a highly tense moment suggests a degree of tolerance and an effort to avoid further violence, reflecting a cautious but good-natured approach.",
+      "rating": 1,
+      "chunk": 26
     },
     {
-      "Action": "Engages in banter about combat experience, but is called out for lacking 'the stare,' indicating limited actual combat experience.",
-      "Competence": 0,
-      "Chunk": 31
+      "trait": "warmth",
+      "action": "Responding to the hooker's approach with a casual, non-hostile reply.",
+      "assessment": "Joker's neutral and somewhat friendly response to the hooker shows a basic level of social warmth and tolerance in a difficult environment.",
+      "rating": 1,
+      "chunk": 26
     },
     {
-      "Action": "Admits he is not ready for the combat attack, showing vulnerability and honesty.",
-      "Warmth": 1,
-      "Chunk": 32
+      "trait": "competence",
+      "action": "Joker tries to calm Private Pyle by saying 'Easy, Leonard. Go easy, man.' while Pyle is aiming a rifle at him.",
+      "assessment": "This shows Joker's attempt to de-escalate a highly dangerous situation through verbal intervention, indicating presence of mind and emotional control under extreme stress.",
+      "rating": 2,
+      "chunk": 26
     },
     {
-      "Action": "Loads weapon and fights alongside comrades during attack, showing solidarity and responsibility.",
-      "Warmth": 1,
-      "Chunk": 32
+      "trait": "competence",
+      "action": "Joker stands frozen and trembling when Pyle points a rifle at him.",
+      "assessment": "Joker's fear and trembling suggest a momentary lapse in confidence and composure, which is understandable but indicates some vulnerability in crisis management.",
+      "rating": -1,
+      "chunk": 26
     },
     {
-      "Action": "Loads an M-60 machine gun and assumes a defensive position at the main gate during an unexpected attack.",
-      "Competence": 1,
-      "Chunk": 32
+      "trait": "competence",
+      "action": "Joker does not attempt to physically disarm Pyle or take more assertive action when Pyle threatens him with a rifle.",
+      "assessment": "While this could be seen as prudence given the danger, it also reflects a lack of assertiveness or tactical decisiveness in a critical moment.",
+      "rating": 0,
+      "chunk": 26
     },
     {
-      "Action": "Expresses doubt and admits he is not ready for the combat situation.",
-      "Competence": 0,
-      "Chunk": 32
+      "trait": "competence",
+      "action": "Joker reacts with a desperate 'No!!!' when Pyle commits suicide.",
+      "assessment": "This reaction shows emotional vulnerability and shock, which is natural but also highlights Joker's limited control over the unfolding tragic events.",
+      "rating": -1,
+      "chunk": 26
     },
     {
-      "Action": "Participates immediately in the defense, firing upon and helping repel the enemy truck and troops breaking through the gate.",
-      "Competence": 1,
-      "Chunk": 32
+      "trait": "warmth",
+      "action": "Puts his arm around the hooker while joking about the risks of sleeping with local women.",
+      "assessment": "While the gesture of putting an arm around someone can be friendly, Joker's comments are dismissive and derogatory towards the women, showing a lack of respect and empathy.",
+      "rating": -2,
+      "chunk": 27
     },
     {
-      "Action": "Makes a joke to lighten the mood after a serious briefing ('Sir ... does this mean that Ann-Margret's not coming?') and elicits laughter.",
-      "Warmth": 1,
-      "Chunk": 33
+      "trait": "warmth",
+      "action": "Laughs at the Vietnamese boy who steals the camera and performs mock Bruce Lee moves.",
+      "assessment": "Joker's laughter at the boy's antics suggests a lighthearted and tolerant attitude toward local children, indicating some friendliness and good-naturedness.",
+      "rating": 1,
+      "chunk": 27
     },
     {
-      "Action": "Asks permission not to take Rafterman with him, indicating consideration of others’ presence and perhaps respect.",
-      "Warmth": 1,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "Negotiates with the hooker to lower the price from fifteen dollars each to ten dollars total.",
+      "assessment": "This shows Joker's practical negotiation skills and ability to manage limited resources, reflecting a degree of street-smart competence.",
+      "rating": 2,
+      "chunk": 27
     },
     {
-      "Action": "Follows orders without protest, including taking responsibility for Rafterman, showing reliability and responsibility.",
-      "Warmth": 1,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "Warns about the health risks of the prostitutes, advising to only engage with those who cough.",
+      "assessment": "This indicates Joker's awareness and cautiousness regarding health and safety, demonstrating practical intelligence and situational awareness.",
+      "rating": 2,
+      "chunk": 27
     },
     {
-      "Action": "Asks permission not to take Rafterman with him but ultimately follows orders responsibly by accepting responsibility for Rafterman.",
-      "Competence": 1,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "Laughs off the theft of the camera by a local boy and comments on the boy's Bruce Lee moves.",
+      "assessment": "Joker's reaction shows a relaxed confidence and ability to maintain composure in unexpected situations, though it may also suggest a certain naivety or underestimation of local threats.",
+      "rating": 1,
+      "chunk": 27
     },
     {
-      "Action": "Maintains composure during tense moments (e.g., sitting calmly during the helicopter flight while others are frightened or joking).",
-      "Competence": 1,
-      "Chunk": 33
+      "trait": "warmth",
+      "action": "Tells Rafterman not to take the locals' hostility too hard, saying 'It's just business.'",
+      "assessment": "Joker shows a tolerant and understanding attitude toward the difficult situation, attempting to soothe Rafterman's frustration with a pragmatic and calming perspective.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "Makes a sarcastic or flippant comment ('Sir ... does this mean that Ann-Margret's not coming?') during a serious briefing.",
-      "Competence": -1,
-      "Chunk": 33
+      "trait": "warmth",
+      "action": "Warns Rafterman that if he gets killed in the field, Joker's mom will 'beat the shit out of me.'",
+      "assessment": "This comment reveals Joker's protective and caring nature toward his fellow marine, showing concern for Rafterman's safety in a somewhat humorous but sincere way.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "Questions Doorgunner about shooting women and children, expressing moral concern.",
-      "Warmth": 1,
-      "Chunk": 34
+      "trait": "warmth",
+      "action": "Engages in casual conversation with Rafterman about the rumors of the Tet ceasefire being cancelled.",
+      "assessment": "Joker participates in group discussions and shares information, indicating a friendly and open communication style, though this is a neutral social behavior rather than a strongly warm gesture.",
+      "rating": 1,
+      "chunk": 28
     },
     {
-      "Action": "Politely interacts with Lieutenant, salutes and respectfully asks to tag along.",
-      "Warmth": 1,
-      "Chunk": 34
+      "trait": "competence",
+      "action": "Calmly advises Rafterman not to take the hostility from locals too personally, framing it as 'just business.'",
+      "assessment": "This shows emotional intelligence and a measured, experienced perspective, indicating competence in managing interpersonal and cultural challenges.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "Approaches Lieutenant Cleves politely and respectfully, greeting him with 'Good morning' and engaging professionally.",
-      "Warmth": 1,
-      "Chunk": 35
+      "trait": "competence",
+      "action": "Warns Rafterman about the dangers of going into the field and the consequences if he gets killed.",
+      "assessment": "This demonstrates practical judgment and responsibility, showing awareness of risks and a protective attitude toward his comrades, reflecting competent leadership.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "Shows concern about civilian casualties by bringing up reports of executions and seeking confirmation.",
-      "Warmth": 1,
-      "Chunk": 35
+      "trait": "competence",
+      "action": "Shares intelligence about a rumored Tet ceasefire cancellation and potential enemy action during the Tet holiday.",
+      "assessment": "By bringing up relevant intelligence and rumors, Joker shows situational awareness and engagement with operational information, indicating competence in his role as a correspondent.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "Interacts smoothly and maintains a friendly tone with Touchdown despite the grim military situation.",
-      "Warmth": 1,
-      "Chunk": 35
+      "trait": "competence",
+      "action": "Responds to skepticism from Lieutenant Lockhart about the Tet rumors with reasoned persistence.",
+      "assessment": "Joker's ability to maintain his position despite dismissal suggests confidence and critical thinking, though he does not push aggressively, showing measured competence.",
+      "rating": 1,
+      "chunk": 28
     },
     {
-      "Action": "Observes mass grave with detached voice-over reflecting on death impersonally; lacks emotional expression.",
-      "Warmth": 0,
-      "Chunk": 35
+      "trait": "warmth",
+      "action": "Responds to Lockhart's directive about changing 'search and destroy' to 'sweep and clear' with a light, somewhat sarcastic comment: 'Got it. Very catchy.'",
+      "assessment": "Joker's response shows a degree of humor and lightheartedness, which can be a sign of friendliness and approachability, but it also hints at a subtle skepticism or detachment, suggesting he may not fully embrace the directive sincerely.",
+      "rating": 1,
+      "chunk": 29
     },
     {
-      "Action": "Engages with a superior officer (Touchdown) with respectful and pertinent questions, showing awareness of the tactical situation and confirming details about enemy positions and casualties.",
-      "Competence": 1,
-      "Chunk": 35
+      "trait": "warmth",
+      "action": "Replies promptly and respectfully to Lockhart's questions and commands, e.g., 'Got it,' and 'Sir!'",
+      "assessment": "Joker demonstrates politeness and respect in his interactions, indicating a baseline of sincerity and trustworthiness in his communication.",
+      "rating": 2,
+      "chunk": 29
     },
     {
-      "Action": "Approaches Lieutenant Cleves professionally to confirm official body count and identify himself and his unit, maintaining composure and protocol in a sensitive situation.",
-      "Competence": 1,
-      "Chunk": 35
+      "trait": "warmth",
+      "action": "When asked about the kill, Joker says, 'Didn't see ‘em....'",
+      "assessment": "This response is neutral and factual, showing no eagerness to embellish or deceive, which suggests honesty and straightforwardness, positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 29
     },
     {
-      "Action": "Responds respectfully to Colonel's aggressive questioning without hostility, tries to explain his helmet writing and peace button as a thoughtful, philosophical statement.",
-      "Warmth": 1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Responds promptly and correctly to Lockhart's instructions about terminology changes, saying 'Got it. Very catchy.'",
+      "assessment": "This shows that Joker is attentive, understands the importance of language in military communication, and can follow orders with a degree of engagement and wit, indicating competent cognitive processing.",
+      "rating": 2,
+      "chunk": 29
     },
     {
-      "Action": "Keeps calm and sincere under pressure, shows no signs of hostility or sarcasm when challenged.",
-      "Warmth": 1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "When asked about the kill, Joker replies 'Didn't see ‘em....'",
+      "assessment": "This response suggests either a lack of direct observation or reluctance to provide information, which may indicate a gap in situational awareness or a cautious approach. It reflects a neutral to slightly negative indicator of competence in this context.",
+      "rating": 0,
+      "chunk": 29
     },
     {
-      "Action": "Maintains composure under pressure from the Colonel and provides a thoughtful, if somewhat abstract, answer about the 'duality of man.'",
-      "Competence": 1,
-      "Chunk": 36
+      "trait": "warmth",
+      "action": "Responds to Lockhart's cynical briefing with humor, suggesting 'an officer. How about a general?' and making light of the grim situation.",
+      "assessment": "Joker's use of humor in a tense and morally ambiguous context shows a friendly and approachable demeanor, helping to ease tension and connect with others.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Fails to provide a direct answer initially about the peace button and helmet writing, seeming somewhat evasive or unsure.",
-      "Competence": -1,
-      "Chunk": 36
+      "trait": "warmth",
+      "action": "Challenges Lockhart's detached perspective by suggesting he go on operations himself to see the reality.",
+      "assessment": "This indicates a sincere and candid attitude, showing Joker's willingness to confront uncomfortable truths and encourage empathy, reflecting trustworthiness and openness.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Greets Cowboy warmly, engages in friendly banter and physical hug.",
-      "Warmth": 1,
-      "Chunk": 37
+      "trait": "warmth",
+      "action": "Spends downtime with fellow soldiers reading, lazing, and smoking grass together in the hootch.",
+      "assessment": "Sharing relaxed moments with comrades suggests Joker is friendly and tolerant, fostering camaraderie and mutual comfort.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Responds to Colonel's harsh views with compliant but unemotional answers.",
-      "Warmth": 0,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "Engages in a sarcastic exchange with Lockhart about rewriting a combat story to include a kill, showing quick wit and understanding of military-media dynamics.",
+      "assessment": "This interaction demonstrates Joker's intelligence, situational awareness, and ability to navigate bureaucratic demands with humor, indicating mental agility and confidence.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Responds promptly and respectfully to Colonel's orders with 'Yes, sir!' and 'Aye-aye, sir.' showing discipline and confidence.",
-      "Competence": 1,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "Suggests Lockhart should go on operations himself to find more blood trails and drag marks.",
+      "assessment": "This statement reflects Joker's critical thinking and willingness to challenge authority, showing confidence and insight into the realities of combat versus media portrayal.",
+      "rating": 1,
+      "chunk": 30
     },
     {
-      "Action": "Shows good situational awareness and initiative by efficiently locating First Platoon with RAFTERMAN, asking multiple marines for directions.",
-      "Competence": 1,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "Writes in a notebook while others are lazing around in the hootch.",
+      "assessment": "This behavior indicates discipline, focus, and a proactive attitude, suggesting competence in maintaining personal responsibility and possibly professional duties.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Engages in casual banter with Cowboy, demonstrating social ease and confidence within his peer group.",
-      "Competence": 1,
-      "Chunk": 37
+      "trait": "warmth",
+      "action": "Engages in lighthearted banter and joking with fellow marines, including adopting a John Wayne voice to entertain the group.",
+      "assessment": "Joker's use of humor and playful imitation suggests a friendly and sociable demeanor, helping to maintain camaraderie among the group.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Returns Animal Mother's smile and shares a lighthearted exchange with the marines, including humor and playful banter.",
-      "Warmth": 1,
-      "Chunk": 38
+      "trait": "warmth",
+      "action": "Responds to Payback's boasting and insults with teasing rather than hostility.",
+      "assessment": "By not escalating tensions and instead responding with humor, Joker demonstrates tolerance and a good-natured approach to interpersonal conflict.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Responds to Animal Mother's aggressive joke with a humorous retort, maintaining good-natured interaction despite underlying threat.",
-      "Warmth": 1,
-      "Chunk": 38
+      "trait": "warmth",
+      "action": "Does not intervene or react to Stork's racially charged joke.",
+      "assessment": "Joker's silence or lack of objection to a racially insensitive joke may indicate a tolerance of inappropriate humor, which could reflect a limitation in warmth or sincerity in addressing offensive behavior.",
+      "rating": -1,
+      "chunk": 31
     },
     {
-      "Action": "Responds quickly and confidently with humor to intimidation from Animal Mother, engaging in verbal sparring and maintaining composure among hostile peers.",
-      "Competence": 1,
-      "Chunk": 38
+      "trait": "competence",
+      "action": "Writes in a notebook while others laze around, showing engagement and mental activity during downtime.",
+      "assessment": "This suggests a level of self-discipline and intellectual engagement, indicating competence in maintaining focus and preparedness even when bored.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Admits having only seen combat on TV when asked about combat experience, showing honesty but also limited direct experience.",
-      "Competence": 0,
-      "Chunk": 38
+      "trait": "competence",
+      "action": "Expresses boredom and eagerness to get back into action, stating 'A day without blood is like a day without sunshine.'",
+      "assessment": "This shows confidence and a proactive attitude toward combat, reflecting psychological readiness and a warrior mindset, which are positive indicators of competence.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Engages in light-hearted banter with the squad, adopting a playful John Wayne voice.",
-      "Warmth": 1,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Engages in banter with Payback and others, using humor and impersonations (John Wayne voice).",
+      "assessment": "This demonstrates social intelligence and the ability to maintain morale, which are important for leadership and competence in stressful environments.",
+      "rating": 1,
+      "chunk": 31
     },
     {
-      "Action": "Asks a sincere question about a fallen comrade (Hand Job).",
-      "Warmth": 1,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Is called out by Payback and others for not having 'the stare' and never having been 'in the shit.'",
+      "assessment": "This indicates a perceived lack of combat experience and possibly a gap in battlefield credibility, which can be seen as a negative indicator of competence in a combat context.",
+      "rating": -1,
+      "chunk": 31
     },
     {
-      "Action": "Uses humor (John Wayne voice) to lighten the mood during a tense moment, engaging with the team.",
-      "Competence": 1,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Dismisses Payback's claims and maintains a confident demeanor despite being challenged.",
+      "assessment": "Shows confidence and resilience in social interactions, which supports competence in leadership and psychological toughness.",
+      "rating": 1,
+      "chunk": 31
     },
     {
-      "Action": "Asks a straightforward question about Hand Job's condition, showing attentiveness and care.",
-      "Competence": 1,
-      "Chunk": 41
+      "trait": "warmth",
+      "action": "Reassures Rafterman by confirming the reality of the attack calmly when asked.",
+      "assessment": "Joker responds straightforwardly and calmly to Rafterman's question, showing a level of trustworthiness and sincerity in communication.",
+      "rating": 2,
+      "chunk": 32
     },
     {
-      "Action": "Participates cooperatively in the television interview with squad members, showing camaraderie.",
-      "Warmth": 1,
-      "Chunk": 42
+      "trait": "warmth",
+      "action": "Loads an M-60 machine gun and prepares to defend the base during the attack.",
+      "assessment": "Joker's readiness to protect his comrades and base indicates responsibility and a protective nature, which can be seen as an expression of care and warmth toward others.",
+      "rating": 2,
+      "chunk": 32
     },
     {
-      "Action": "Remains mostly silent during others' harsh or cynical statements about the war and Vietnamese people, showing restraint.",
-      "Warmth": 1,
-      "Chunk": 42
+      "trait": "warmth",
+      "action": "Expresses hope that the attack is not real and admits he is not ready for combat.",
+      "assessment": "This admission reveals vulnerability and honesty, which can foster trust and sincerity, but also shows some anxiety that might limit warmth in high-stress situations.",
+      "rating": 1,
+      "chunk": 32
     },
     {
-      "Action": "States clearly his initial motivation for being in Vietnam was to achieve a kill and be the first among peers, showing self-awareness and a candid expression of personal ambition.",
-      "Competence": 0,
-      "Chunk": 43
+      "trait": "warmth",
+      "action": "Walks through the wreckage with Rafterman after the battle.",
+      "assessment": "Walking alongside a comrade through the aftermath suggests solidarity and companionship, indicating a friendly and supportive demeanor.",
+      "rating": 2,
+      "chunk": 32
     },
     {
-      "Action": "Punches squad leader Cowboy reassuringly in the arm and says 'I'll follow you anywhere, scumbag' to boost morale.",
-      "Competence": 1,
-      "Chunk": 46
+      "trait": "competence",
+      "action": "Loads an M-60 machine gun and takes a defensive position watching the main gate during an enemy attack.",
+      "assessment": "This action shows that Joker is prepared, alert, and capable of handling his weapon under pressure, indicating practical combat competence.",
+      "rating": 2,
+      "chunk": 32
     },
     {
-      "Action": "Runs into dangerous situation to assist the squad after Crazy Earl is hit by a booby trap.",
-      "Competence": 1,
-      "Chunk": 46
+      "trait": "competence",
+      "action": "Expresses doubt and admits he is not ready for the attack ('I ain't ready for this shit').",
+      "assessment": "This statement reveals a moment of self-doubt and lack of confidence, which slightly undermines his overall competence, though it also shows honesty and situational awareness.",
+      "rating": -1,
+      "chunk": 32
     },
     {
-      "Action": "Questions the squad's direction with a sarcastic tone ('What, are we lost?') when tension is high.",
-      "Warmth": -1,
-      "Chunk": 47
+      "trait": "competence",
+      "action": "Walks through the wreckage of the night's battle with Rafterman, observing prisoners being led past.",
+      "assessment": "This behavior suggests composure and the ability to process the aftermath of combat, reflecting emotional and professional steadiness.",
+      "rating": 1,
+      "chunk": 32
     },
     {
-      "Action": "Questions the change in direction by asking 'What, are we lost?'",
-      "Competence": -1,
-      "Chunk": 47
+      "trait": "warmth",
+      "action": "Requests permission not to take Rafterman with him, showing concern for his own responsibility.",
+      "assessment": "Joker's hesitation to take Rafterman along suggests a sense of responsibility and care for his comrade, indicating a protective and considerate nature.",
+      "rating": 2,
+      "chunk": 33
     },
     {
-      "Action": "Engages with the squad and recognizes the situation quickly by asking 'What's up?'",
-      "Competence": 0,
-      "Chunk": 47
+      "trait": "warmth",
+      "action": "Accepts responsibility for Rafterman when ordered by Lockhart.",
+      "assessment": "Although initially reluctant, Joker complies with the order and takes responsibility for Rafterman, showing reliability and trustworthiness.",
+      "rating": 2,
+      "chunk": 33
     },
     {
-      "Action": "Does not directly engage in the chaotic firing, allowing the squad leader to control the situation.",
-      "Competence": 1,
-      "Chunk": 48
+      "trait": "warmth",
+      "action": "Makes a joke about Ann-Margret not coming during a serious briefing.",
+      "assessment": "Using humor in a tense situation can be a way to ease tension and connect with others, reflecting a friendly and approachable demeanor.",
+      "rating": 1,
+      "chunk": 33
     },
     {
-      "Action": "No direct action in this excerpt; others take initiative while Joker remains passive.",
-      "Competence": 0,
-      "Chunk": 50
+      "trait": "competence",
+      "action": "Responds promptly and respectfully to orders from Lockhart, acknowledging the need to proceed to Phu Bai and take responsibility for Rafterman.",
+      "assessment": "Joker demonstrates discipline and acceptance of command structure, showing readiness to fulfill his duties and manage subordinates, which reflects competent military behavior.",
+      "rating": 2,
+      "chunk": 33
     },
     {
-      "Action": "Shouts encouragement to Cowboy after being shot, attempts to comfort him sincerely, calls him his 'favorite turd'.",
-      "Warmth": 1,
-      "Chunk": 53
+      "trait": "competence",
+      "action": "Attempts to avoid taking Rafterman along by requesting permission not to take him.",
+      "assessment": "This shows a moment of hesitation or reluctance to assume responsibility, which could indicate a slight lack of confidence or avoidance, but is quickly overridden by orders.",
+      "rating": -1,
+      "chunk": 33
     },
     {
-      "Action": "Immediately takes charge to organize aid for Cowboy after he is shot, tries to calm the wounded man and reassure him confidently.",
-      "Competence": 1,
-      "Chunk": 53
+      "trait": "competence",
+      "action": "Sits calmly looking out the helicopter door while Rafterman is airsick and frightened.",
+      "assessment": "Joker's calm demeanor in a stressful situation suggests emotional control and steadiness, traits associated with competence in high-pressure environments.",
+      "rating": 2,
+      "chunk": 33
     },
     {
-      "Action": "Shouts orders to direct his comrades to remove Cowboy from danger quickly.",
-      "Competence": 1,
-      "Chunk": 53
+      "trait": "competence",
+      "action": "Makes a sarcastic joke about Ann-Margret not coming during a serious briefing.",
+      "assessment": "While this shows a sense of humor and ability to lighten tension, it may also indicate a casual or irreverent attitude that could undermine perceived seriousness or professionalism.",
+      "rating": 0,
+      "chunk": 33
     },
     {
-      "Action": "Bends down and hugs Cowboy as he dies in his arms.",
-      "Warmth": 1,
-      "Chunk": 54
+      "trait": "warmth",
+      "action": "Questions Doorgunner about shooting women and children, expressing moral concern.",
+      "assessment": "Joker's question reveals a sense of empathy and moral awareness, indicating a degree of warmth and concern for innocent lives.",
+      "rating": 2,
+      "chunk": 34
     },
     {
-      "Action": "Holds dying Cowboy in his arms and shows a moment of compassion but is the last to get up, indicating emotional control and readiness.",
-      "Competence": 1,
-      "Chunk": 54
+      "trait": "warmth",
+      "action": "Politely asks a lieutenant for permission to tag along and shows respect by saluting.",
+      "assessment": "Joker demonstrates respect and courteous behavior toward military personnel, reflecting friendliness and sincerity.",
+      "rating": 2,
+      "chunk": 34
     },
     {
-      "Action": "Responds to Animal Mother’s call for action with cold anger and agrees to proceed carefully.",
-      "Competence": 1,
-      "Chunk": 54
+      "trait": "warmth",
+      "action": "Expresses eagerness to get into the combat zone ('get in the shit').",
+      "assessment": "While this shows enthusiasm and courage, it does not directly indicate warmth; it is more neutral or related to bravery.",
+      "rating": 0,
+      "chunk": 34
     },
     {
-      "Action": "Participates in coordinated use of smoke grenades to cross dangerous open ground under sniper threat.",
-      "Competence": 1,
-      "Chunk": 54
+      "trait": "competence",
+      "action": "Questions Doorgunner about shooting women and children, showing moral awareness and critical thinking.",
+      "assessment": "This indicates Joker's ability to think critically about the actions around him, reflecting intellectual competence and ethical consideration.",
+      "rating": 2,
+      "chunk": 34
     },
     {
-      "Action": "Follows orders and adapts to splitting up from the team without hesitation, showing discipline and situational awareness.",
-      "Competence": 1,
-      "Chunk": 54
+      "trait": "competence",
+      "action": "Jumps out of helicopter, ducks low, and moves tactically through pink smoke.",
+      "assessment": "This shows Joker's situational awareness and tactical skill, suggesting physical competence and battlefield savvy.",
+      "rating": 2,
+      "chunk": 34
     },
     {
-      "Action": "Acts cautiously when entering a door alone as directed, indicating prudence and situational awareness.",
-      "Competence": 1,
-      "Chunk": 54
+      "trait": "competence",
+      "action": "Approaches a Lieutenant, salutes, and confidently requests to tag along with First Platoon, Hotel two-five.",
+      "assessment": "This demonstrates social competence, confidence, and clear communication skills in a military context.",
+      "rating": 2,
+      "chunk": 34
     },
     {
-      "Action": "Hesitates and ducks behind a column instead of immediately shooting the sniper, showing caution and restraint.",
-      "Warmth": 1,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "Identifies himself and his purpose clearly as a reporter for Stars and Stripes.",
+      "assessment": "This shows professionalism and clarity in his role, indicating competence in his journalistic duties.",
+      "rating": 2,
+      "chunk": 34
     },
     {
-      "Action": "Frantically tries to clear his jammed weapon rather than immediately harming the sniper.",
-      "Warmth": 1,
-      "Chunk": 55
+      "trait": "warmth",
+      "action": "Engages in polite and respectful conversation with Touchdown and Lieutenant Cleves, using courteous language such as 'sir' and 'Good morning'.",
+      "assessment": "Joker's respectful and courteous manner indicates a friendly and sincere approach to others, reflecting positive warmth.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Stands trembling after the sniper is shot, indicating emotional impact and possible empathy.",
-      "Warmth": 1,
-      "Chunk": 55
+      "trait": "warmth",
+      "action": "Approaches the mass grave and acknowledges the dead with a somber voice-over: 'The dead only know one thing. It is better to be alive.'",
+      "assessment": "This shows Joker's reflective and empathetic nature, indicating a thoughtful and sincere recognition of human suffering, which is a positive indicator of warmth.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Insists they cannot just leave the wounded sniper to die despite pressure from others to abandon her.",
-      "Warmth": 1,
-      "Chunk": 56
+      "trait": "warmth",
+      "action": "Asks Lieutenant Cleves for the official body count in a straightforward and professional manner.",
+      "assessment": "Joker's directness here is professional and neutral, showing no evident warmth or coldness; it is a necessary inquiry rather than a warm interaction.",
+      "rating": 0,
+      "chunk": 35
     },
     {
-      "Action": "Attempts to advocate for mercy and humane treatment in a harsh and hostile environment.",
-      "Warmth": 1,
-      "Chunk": 56
+      "trait": "competence",
+      "action": "Engages Lieutenant Cleves politely and professionally, identifying himself and his photographer clearly as reporters.",
+      "assessment": "This demonstrates social and professional competence, showing Joker's ability to navigate military and journalistic environments with confidence and clarity.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Insists on not leaving the wounded sniper behind despite pressure from Animal Mother to abandon her.",
-      "Competence": 1,
-      "Chunk": 56
+      "trait": "competence",
+      "action": "Requests to see the site of the reported executions and mass grave.",
+      "assessment": "This shows initiative and thoroughness in his role as a reporter, indicating competence in pursuing important information firsthand.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Challenges Animal Mother's harsher decision with a calm, reasoned argument rather than escalating conflict.",
-      "Competence": 1,
-      "Chunk": 56
+      "trait": "competence",
+      "action": "Maintains composure and professionalism while observing the mass grave and interacting with military personnel.",
+      "assessment": "His calm demeanor in a grim situation reflects emotional resilience and situational awareness, important aspects of competence in a war zone.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Fails to assert command over the squad despite recognizing the moral issue, ultimately letting Animal Mother dictate the situation.",
-      "Competence": -1,
-      "Chunk": 56
+      "trait": "competence",
+      "action": "Uses military rank and unit identification to establish credibility with Lieutenant Cleves.",
+      "assessment": "This indicates an understanding of military protocol and effective communication skills, enhancing his ability to gather information.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Kills the sniper who begs to be shot, then stares down at her dead body blankly.",
-      "Warmth": -1,
-      "Chunk": 57
+      "trait": "warmth",
+      "action": "Wears a peace symbol button alongside 'Born to Kill' written on his helmet, and explains it as representing the duality of man.",
+      "assessment": "This action shows a thoughtful and sincere attempt to express complexity and humanity in a harsh environment, indicating openness and a nuanced perspective rather than simple aggression.",
+      "rating": 2,
+      "chunk": 36
     },
     {
-      "Action": "Participates in the platoon's singing, joining in a friendly and inclusive group activity.",
-      "Warmth": 1,
-      "Chunk": 57
+      "trait": "warmth",
+      "action": "Responds respectfully and calmly to the Colonel's aggressive questioning without losing composure.",
+      "assessment": "Maintaining respect and composure under pressure suggests emotional control and tolerance, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 36
+    },
+    {
+      "trait": "warmth",
+      "action": "Answers the Colonel's questions honestly and thoughtfully, even when challenged.",
+      "assessment": "Honesty and sincerity in communication reflect trustworthiness and good-natured behavior.",
+      "rating": 2,
+      "chunk": 36
+    },
+    {
+      "trait": "competence",
+      "action": "Snaps to attention immediately when addressed by the Colonel.",
+      "assessment": "This shows discipline and awareness of military protocol, indicating a competent soldier in terms of behavior and respect for hierarchy.",
+      "rating": 2,
+      "chunk": 36
+    },
+    {
+      "trait": "competence",
+      "action": "Wears a peace symbol button alongside 'Born to Kill' written on his helmet.",
+      "assessment": "This suggests a complex, possibly thoughtful mindset, but also risks confusing superiors and peers, potentially undermining his perceived reliability or seriousness.",
+      "rating": 0,
+      "chunk": 36
+    },
+    {
+      "trait": "competence",
+      "action": "Responds to the Colonel's aggressive questioning calmly and respectfully.",
+      "assessment": "Maintaining composure under pressure reflects emotional intelligence and confidence, positive indicators of competence.",
+      "rating": 2,
+      "chunk": 36
+    },
+    {
+      "trait": "competence",
+      "action": "Explains the 'Born to Kill' and peace symbol as representing 'the duality of man' referencing Jungian psychology.",
+      "assessment": "This shows intellectual depth and the ability to articulate complex ideas, which is a sign of cognitive competence, though it may not be fully appreciated in a military context.",
+      "rating": 2,
+      "chunk": 36
+    },
+    {
+      "trait": "competence",
+      "action": "Fails to recall where he got the peace symbol button.",
+      "assessment": "This minor lapse in memory is not critical but suggests a slight lack of attention to detail.",
+      "rating": -1,
+      "chunk": 36
+    },
+    {
+      "trait": "warmth",
+      "action": "Greets Cowboy warmly and they hug each other upon meeting.",
+      "assessment": "Joker's friendly greeting and physical embrace indicate a genuine camaraderie and friendliness toward a fellow marine.",
+      "rating": 2,
+      "chunk": 37
+    },
+    {
+      "trait": "warmth",
+      "action": "Engages in teasing banter with Cowboy, including a crude joke about Cowboy's sister.",
+      "assessment": "While the teasing shows familiarity and a relaxed rapport, the crude joke may undermine sincerity and respect, slightly detracting from warmth.",
+      "rating": 0,
+      "chunk": 37
+    },
+    {
+      "trait": "competence",
+      "action": "Responds promptly and respectfully to the Colonel's commands with 'Yes, sir!' and 'Aye-aye, sir.'",
+      "assessment": "This shows that Joker is attentive and able to follow orders, indicating a baseline level of military discipline and competence.",
+      "rating": 1,
+      "chunk": 37
+    },
+    {
+      "trait": "competence",
+      "action": "Navigates through the field and pagoda, asking marines for directions to First Platoon.",
+      "assessment": "Joker demonstrates situational awareness and effective communication skills, showing he can operate capably in an unfamiliar environment.",
+      "rating": 2,
+      "chunk": 37
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in casual banter and camaraderie with Cowboy upon meeting him.",
+      "assessment": "While this social interaction shows Joker's ability to maintain morale and build rapport, it does not directly indicate competence in a military or operational sense.",
+      "rating": 0,
+      "chunk": 37
+    },
+    {
+      "trait": "warmth",
+      "action": "Returns Animal Mother's smile and engages in lighthearted banter with the other marines.",
+      "assessment": "Joker's willingness to smile and participate in humor with his peers shows a friendly and approachable demeanor, indicating a moderate level of warmth.",
+      "rating": 2,
+      "chunk": 38
+    },
+    {
+      "trait": "warmth",
+      "action": "Responds to Animal Mother's aggressive teasing with a playful John Wayne voice and witty comeback.",
+      "assessment": "By responding with humor rather than hostility, Joker demonstrates tolerance and good-naturedness, helping to defuse tension and build camaraderie.",
+      "rating": 2,
+      "chunk": 38
+    },
+    {
+      "trait": "warmth",
+      "action": "Does not escalate the confrontation with Animal Mother despite the aggressive tone.",
+      "assessment": "Joker's restraint and choice to keep the interaction lighthearted rather than confrontational suggests emotional maturity and sincerity in maintaining friendly relations.",
+      "rating": 2,
+      "chunk": 38
+    },
+    {
+      "trait": "warmth",
+      "action": "Allows Eightball to intervene and does not respond negatively to the interruption.",
+      "assessment": "Joker's acceptance of peer mediation without defensiveness indicates trustworthiness and respect for group dynamics, reflecting warmth.",
+      "rating": 2,
+      "chunk": 38
+    },
+    {
+      "trait": "competence",
+      "action": "Responds to Animal Mother's aggressive teasing with humor and confidence, using a John Wayne voice and witty retorts.",
+      "assessment": "This demonstrates Joker's social intelligence and confidence in handling potentially hostile interactions, indicating a level of competence in interpersonal dynamics.",
+      "rating": 2,
+      "chunk": 38
+    },
+    {
+      "trait": "competence",
+      "action": "Admits to having only seen combat on TV when asked about combat experience.",
+      "assessment": "This honesty shows self-awareness but also reveals a lack of direct combat experience, which may limit his perceived competence in a combat environment.",
+      "rating": 0,
+      "chunk": 38
+    },
+    {
+      "trait": "competence",
+      "action": "Introduces himself clearly and confidently as a combat correspondent.",
+      "assessment": "This clear self-identification suggests confidence and clarity about his role, reflecting competence in understanding and communicating his position.",
+      "rating": 1,
+      "chunk": 38
+    },
+    {
+      "trait": "warmth",
+      "action": "Engages in lighthearted banter with his squadmates, adopting a John Wayne voice and participating in playful role assignments.",
+      "assessment": "Joker's playful interaction suggests an attempt to maintain camaraderie and lighten the mood amidst a grim situation, indicating friendliness and a good-natured attitude.",
+      "rating": 2,
+      "chunk": 41
+    },
+    {
+      "trait": "warmth",
+      "action": "Asks Cowboy about Hand Job's condition after his death.",
+      "assessment": "Joker's inquiry shows concern and attentiveness toward a fallen comrade, reflecting sincerity and a degree of trustworthiness.",
+      "rating": 2,
+      "chunk": 41
+    },
+    {
+      "trait": "competence",
+      "action": "Uses humor and impersonation (John Wayne voice) to lighten the mood during a tense situation.",
+      "assessment": "This shows social intelligence and emotional coping skills, which can be important for maintaining morale and mental resilience in stressful environments.",
+      "rating": 2,
+      "chunk": 41
+    },
+    {
+      "trait": "competence",
+      "action": "Asks a straightforward question about Hand Job's condition after hearing about his medical status.",
+      "assessment": "This indicates attentiveness and a desire to understand the situation clearly, reflecting situational awareness and engagement.",
+      "rating": 1,
+      "chunk": 41
+    },
+    {
+      "trait": "competence",
+      "action": "Does not intervene or challenge the crude and dismissive attitudes expressed by others about the war and casualties.",
+      "assessment": "This omission may suggest a lack of assertiveness or leadership in addressing morale or ethical concerns, which could be seen as a minor negative indicator of competence in group dynamics.",
+      "rating": -1,
+      "chunk": 41
+    },
+    {
+      "trait": "competence",
+      "action": "Says 'Oh, I'm so horny. I can't even get a piece of hand.' during the interaction with the prostitutes and other soldiers.",
+      "assessment": "This statement reflects a casual, somewhat immature attitude and does not demonstrate skill, intelligence, or confidence in this context. It suggests a lack of seriousness or control in a potentially tense or complex situation.",
+      "rating": -1,
+      "chunk": 44
+    },
+    {
+      "trait": "warmth",
+      "action": "Punches Cowboy reassuringly in the arm and says, 'I'll follow you anywhere, scumbag.'",
+      "assessment": "This physical gesture combined with a friendly, if rough, verbal expression shows camaraderie, support, and trust toward Cowboy, indicating warmth and loyalty.",
+      "rating": 2,
+      "chunk": 46
+    },
+    {
+      "trait": "competence",
+      "action": "Runs in quickly to the wounded Crazy Earl after the booby trap explosion.",
+      "assessment": "This shows promptness and willingness to engage in a dangerous situation, indicating situational awareness and readiness to act under pressure.",
+      "rating": 2,
+      "chunk": 46
+    },
+    {
+      "trait": "competence",
+      "action": "Punches Cowboy reassuringly in the arm and says, 'I'll follow you anywhere, scumbag.'",
+      "assessment": "This action demonstrates confidence, morale-boosting, and supportive leadership qualities, which are important for maintaining unit cohesion and effectiveness.",
+      "rating": 2,
+      "chunk": 46
+    },
+    {
+      "trait": "competence",
+      "action": "Does not take charge despite Cowboy looking scared and the squad leader being uncertain.",
+      "assessment": "Joker's choice to support rather than assume command in a moment of uncertainty may reflect good judgment in respecting the chain of command, but also could be seen as a missed opportunity to assert leadership in a crisis.",
+      "rating": 0,
+      "chunk": 46
+    },
+    {
+      "trait": "warmth",
+      "action": "Asks 'What's up?' when the squad stops and changes direction.",
+      "assessment": "Joker's question shows engagement and concern for the squad's situation, indicating attentiveness and a friendly, involved demeanor.",
+      "rating": 1,
+      "chunk": 47
+    },
+    {
+      "trait": "warmth",
+      "action": "Responds to Cowboy's terse 'shut the fuck up' with no visible retaliation or escalation.",
+      "assessment": "Joker's restraint in the face of harsh language suggests tolerance and an ability to maintain group cohesion without conflict.",
+      "rating": 2,
+      "chunk": 47
+    },
+    {
+      "trait": "competence",
+      "action": "Asks 'What's up?' and 'What, are we lost?' when the squad is uncertain about their position and direction.",
+      "assessment": "Joker's questions indicate situational awareness and a desire for clarity, but his tone may come off as challenging or sarcastic, which could undermine group cohesion in a tense moment.",
+      "rating": 0,
+      "chunk": 47
+    },
+    {
+      "trait": "competence",
+      "action": "No direct action or statement from Joker in this excerpt; the focus is on Cowboy and the squad's response to sniper fire.",
+      "assessment": "Joker's competence cannot be directly assessed from this excerpt as he is not actively involved or mentioned in the tactical decisions or actions described.",
+      "rating": 0,
+      "chunk": 49
+    },
+    {
+      "trait": "competence",
+      "action": "No direct action or statement from Joker in this excerpt; the squad is under fire and reacting to casualties and sniper threat.",
+      "assessment": "Joker's absence from active decision-making or visible action here neither positively nor negatively reflects on his competence; it is a neutral indicator due to lack of evidence.",
+      "rating": 0,
+      "chunk": 50
+    },
+    {
+      "trait": "competence",
+      "action": "Volunteers to go with Cowboy and the squad to investigate the sniper despite the danger.",
+      "assessment": "This shows initiative and willingness to engage in a risky situation, indicating confidence and a proactive attitude, which are positive indicators of competence.",
+      "rating": 2,
+      "chunk": 52
+    },
+    {
+      "trait": "warmth",
+      "action": "Shouts encouragement to Cowboy after he is shot, telling him 'You'll be all right' and 'You're gonna be all right.'",
+      "assessment": "Joker's repeated verbal reassurances demonstrate concern and a desire to comfort a wounded comrade, reflecting warmth and sincerity.",
+      "rating": 2,
+      "chunk": 53
+    },
+    {
+      "trait": "warmth",
+      "action": "Responds to Cowboy's doubt and pain with humor, calling him 'my favorite turd.'",
+      "assessment": "Using humor to lighten a dire situation shows Joker's friendly and good-natured approach, helping to ease tension and maintain morale.",
+      "rating": 2,
+      "chunk": 53
+    },
+    {
+      "trait": "warmth",
+      "action": "Commands others to 'Get him the fuck outta here!!' after Cowboy is shot.",
+      "assessment": "Joker's urgency and insistence on getting help for Cowboy indicates protective instincts and care for his fellow soldier.",
+      "rating": 2,
+      "chunk": 53
+    },
+    {
+      "trait": "warmth",
+      "action": "Tells Cowboy 'I wouldn't shit you, man.' when Cowboy expresses disbelief.",
+      "assessment": "This statement conveys honesty and a sincere attempt to reassure Cowboy, reinforcing trustworthiness.",
+      "rating": 2,
+      "chunk": 53
+    },
+    {
+      "trait": "competence",
+      "action": "Immediately orders to get Cowboy out of the line of fire and behind the building after he is shot.",
+      "assessment": "This shows situational awareness and quick decision-making under pressure, indicating competence in a combat scenario.",
+      "rating": 2,
+      "chunk": 53
+    },
+    {
+      "trait": "competence",
+      "action": "Calms the panicked soldiers by shouting 'Easy! Easy!' and reassuring Cowboy that he will be all right.",
+      "assessment": "Demonstrates leadership and emotional control, helping to maintain order and morale in a chaotic situation, which reflects competence.",
+      "rating": 2,
+      "chunk": 53
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in light-hearted banter with the wounded Cowboy to keep his spirits up.",
+      "assessment": "Shows emotional intelligence and the ability to use humor to support comrades, a subtle but important aspect of competent leadership.",
+      "rating": 1,
+      "chunk": 53
+    },
+    {
+      "trait": "competence",
+      "action": "Does not directly administer medical aid but coordinates others to tend to Cowboy.",
+      "assessment": "While he does not personally provide medical treatment, his role in organizing care is appropriate and shows delegation skills, though it does not strongly highlight personal technical competence.",
+      "rating": 1,
+      "chunk": 53
+    },
+    {
+      "trait": "warmth",
+      "action": "Bends down and hugs Cowboy as he dies in his arms.",
+      "assessment": "This action shows a moment of genuine compassion and tenderness toward a fallen comrade, indicating warmth and emotional sincerity.",
+      "rating": 3,
+      "chunk": 54
+    },
+    {
+      "trait": "warmth",
+      "action": "Responds to Animal Mother's call for payback with cold anger but agrees to follow.",
+      "assessment": "While Joker's anger is cold and controlled, his willingness to support his team shows loyalty and solidarity, though the emotional warmth is somewhat muted.",
+      "rating": 1,
+      "chunk": 54
+    },
+    {
+      "trait": "warmth",
+      "action": "Waits for others to get up first after Cowboy's death, being the last to rise.",
+      "assessment": "This hesitation may reflect respect or emotional processing, suggesting sensitivity and a thoughtful nature, which are aspects of warmth.",
+      "rating": 2,
+      "chunk": 54
+    },
+    {
+      "trait": "competence",
+      "action": "Bends down and hugs Cowboy as he dies in his arms, then is the last to get up and stands looking at the body with the others.",
+      "assessment": "This shows emotional composure and respect in a tense moment, indicating a level of emotional intelligence and self-control, which supports competent leadership under stress.",
+      "rating": 2,
+      "chunk": 54
+    },
+    {
+      "trait": "competence",
+      "action": "Responds to Animal Mother’s call for payback with cold anger and agrees to proceed.",
+      "assessment": "His calm but resolute acceptance of the situation demonstrates mental toughness and readiness to act decisively, reflecting competent battlefield mindset.",
+      "rating": 2,
+      "chunk": 54
+    },
+    {
+      "trait": "competence",
+      "action": "Works with Animal Mother to toss smoke grenades into the open square to provide cover for crossing.",
+      "assessment": "This shows tactical awareness and teamwork, using available resources effectively to mitigate risk, indicating practical competence in combat situations.",
+      "rating": 3,
+      "chunk": 54
+    },
+    {
+      "trait": "competence",
+      "action": "Follows Animal Mother’s lead through a dangerous, shattered building and cautiously enters a door when directed.",
+      "assessment": "His cautious approach and adherence to orders in a hazardous environment reflect disciplined and prudent behavior, supporting competent operational conduct.",
+      "rating": 2,
+      "chunk": 54
+    },
+    {
+      "trait": "warmth",
+      "action": "Raises his rifle and attempts to shoot the sniper, who turns out to be a young girl.",
+      "assessment": "Joker's initial reaction is to engage the enemy, showing his role as a soldier rather than personal animosity; there is no indication of cruelty or malice, but rather a professional response to a threat.",
+      "rating": 0,
+      "chunk": 55
+    },
+    {
+      "trait": "warmth",
+      "action": "Stands trembling against the shattered column after the sniper is shot.",
+      "assessment": "Joker's trembling suggests an emotional or human response to the violence and the realization that the sniper is a child, indicating underlying empathy and sensitivity.",
+      "rating": 2,
+      "chunk": 55
+    },
+    {
+      "trait": "warmth",
+      "action": "Cautiously approaches the wounded sniper with Rafterman.",
+      "assessment": "Approaching the injured girl cautiously rather than with aggression shows a degree of concern and restraint, reflecting a respectful and humane attitude despite the circumstances.",
+      "rating": 2,
+      "chunk": 55
+    },
+    {
+      "trait": "competence",
+      "action": "JOKER cautiously enters the burning lobby, moves slowly, and takes cover behind a column upon hearing a noise.",
+      "assessment": "This shows situational awareness and tactical caution, indicating competent behavior in a dangerous environment.",
+      "rating": 2,
+      "chunk": 55
+    },
+    {
+      "trait": "competence",
+      "action": "JOKER raises his rifle, aims, and squeezes the trigger but experiences a misfire (a loud click).",
+      "assessment": "The misfire suggests a failure in weapon maintenance or readiness, which is a negative indicator of competence in combat.",
+      "rating": -2,
+      "chunk": 55
+    },
+    {
+      "trait": "competence",
+      "action": "JOKER frantically works the bolt of his M-16 to clear the jam while under fire.",
+      "assessment": "His quick reaction to unjam the weapon under pressure shows technical skill and presence of mind, a positive competence indicator.",
+      "rating": 2,
+      "chunk": 55
+    },
+    {
+      "trait": "competence",
+      "action": "JOKER ducks behind the column to avoid incoming fire and attempts to regain control of his weapon.",
+      "assessment": "This demonstrates good use of cover and self-preservation instincts, reflecting competent combat behavior.",
+      "rating": 2,
+      "chunk": 55
+    },
+    {
+      "trait": "competence",
+      "action": "JOKER stands trembling against the shattered column after the sniper is neutralized by RAFTERMAN.",
+      "assessment": "The trembling suggests emotional or physical stress impacting his composure, which may slightly detract from his overall competence under fire.",
+      "rating": -1,
+      "chunk": 55
+    },
+    {
+      "trait": "warmth",
+      "action": "Insists that the squad cannot just leave the wounded sniper behind to die.",
+      "assessment": "Joker shows compassion and a sense of responsibility toward a vulnerable enemy, indicating empathy and moral concern beyond mere survival or squad loyalty.",
+      "rating": 3,
+      "chunk": 56
+    },
+    {
+      "trait": "warmth",
+      "action": "Refuses to adopt Animal Mother's harsh, dismissive attitude toward the wounded sniper.",
+      "assessment": "By opposing Animal Mother's callousness, Joker demonstrates tolerance and a more humane, sincere approach to others, even enemies.",
+      "rating": 2,
+      "chunk": 56
+    },
+    {
+      "trait": "warmth",
+      "action": "Does not escalate conflict with Animal Mother despite disagreement.",
+      "assessment": "Joker remains calm and measured, showing restraint and a friendly, non-confrontational demeanor in a tense situation.",
+      "rating": 1,
+      "chunk": 56
+    },
+    {
+      "trait": "competence",
+      "action": "Insists on not leaving the wounded sniper behind despite pressure from Animal Mother to abandon her.",
+      "assessment": "This shows moral courage and a sense of responsibility, indicating emotional intelligence and leadership qualities, which are components of competence beyond mere tactical skill.",
+      "rating": 2,
+      "chunk": 56
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in a calm, reasoned dialogue with Animal Mother about the fate of the sniper.",
+      "assessment": "Demonstrates composure and the ability to communicate effectively under stress, reflecting mental competence and confidence.",
+      "rating": 2,
+      "chunk": 56
+    },
+    {
+      "trait": "competence",
+      "action": "Relies on others (Animal Mother) to make the final decision about leaving the sniper.",
+      "assessment": "While showing respect for the chain of command, this could also suggest some hesitation or lack of assertiveness in leadership, slightly detracting from perceived competence.",
+      "rating": -1,
+      "chunk": 56
+    },
+    {
+      "trait": "competence",
+      "action": "Identifies that the sniper is praying and interprets her behavior accurately.",
+      "assessment": "Shows situational awareness and perceptiveness, indicating good observational skills and intelligence.",
+      "rating": 2,
+      "chunk": 56
+    },
+    {
+      "trait": "warmth",
+      "action": "Shoots the sniper at her own request, then stares down at the dead girl silently.",
+      "assessment": "Joker complies with the sniper's request to be shot, showing a complex mix of duty and detachment rather than warmth; his blank stare suggests emotional distance rather than empathy or friendliness.",
+      "rating": -2,
+      "chunk": 57
+    },
+    {
+      "trait": "warmth",
+      "action": "Participates in the platoon's singing of a cheerful, inclusive song while moving through the burning city.",
+      "assessment": "Joining in the communal singing reflects a moment of camaraderie and shared morale, indicating friendliness and a desire for group harmony despite harsh circumstances.",
+      "rating": 2,
+      "chunk": 57
+    },
+    {
+      "trait": "competence",
+      "action": "Joker slowly lifts his pistol and shoots the sniper who challenges him to shoot her.",
+      "assessment": "This action demonstrates Joker's ability to make a decisive and difficult choice under pressure, showing mental resolve and marksmanship skill.",
+      "rating": 2,
+      "chunk": 57
+    },
+    {
+      "trait": "competence",
+      "action": "Joker stares down at the dead girl silently after shooting her.",
+      "assessment": "This moment of silence suggests a level of emotional control and reflection, indicating maturity and psychological resilience in a stressful combat situation.",
+      "rating": 1,
+      "chunk": 57
+    },
+    {
+      "trait": "competence",
+      "action": "Joker looks at Rafterman blankly after a sarcastic comment about a medal.",
+      "assessment": "The blank look may indicate a momentary emotional detachment or difficulty processing the levity in a grim situation, which could suggest a slight lapse in social or emotional competence.",
+      "rating": -1,
+      "chunk": 57
+    },
+    {
+      "trait": "competence",
+      "action": "Joker narrates confidently about the platoon's historical impact and leads the group as they move through the city.",
+      "assessment": "This narration and leadership in movement show confidence, situational awareness, and a sense of purpose, reflecting strong competence in leadership and morale maintenance.",
+      "rating": 2,
+      "chunk": 57
     }
   ]
 }

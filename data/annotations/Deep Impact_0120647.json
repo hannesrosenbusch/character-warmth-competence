@@ -1,514 +1,1033 @@
 {
   "Leo Biederman": [
     {
-      "Action": "Shows interest in Sarah and engages with her about the stars, demonstrates willingness to share knowledge and corrects himself in a friendly manner.",
-      "Warmth": 1,
-      "Chunk": 1
+      "trait": "warmth",
+      "action": "Shows interest in Sarah and tries to engage her in conversation about a party.",
+      "assessment": "Leo's interest in Sarah and his attempt to engage her socially suggests a friendly and approachable demeanor, indicating some warmth.",
+      "rating": 2,
+      "chunk": 1
     },
     {
-      "Action": "Responds somewhat possessively or dismissively when Sarah mentions Matt Sheperd asking her to a party ('To you maybe...').",
-      "Warmth": -1,
-      "Chunk": 1
+      "trait": "warmth",
+      "action": "Corrects Sarah about the identification of a star, insisting on his own knowledge.",
+      "assessment": "While Leo is confident in his knowledge, his correction comes off as somewhat dismissive of Sarah's input, which may indicate a lack of tolerance or friendliness in this interaction.",
+      "rating": -1,
+      "chunk": 1
     },
     {
-      "Action": "Accurately identifies stars Mizar and Alcor and discusses their positions confidently.",
-      "Competence": 1,
-      "Chunk": 1
+      "trait": "warmth",
+      "action": "Allows Mr. Perry to look through his telescope and helps him identify stars.",
+      "assessment": "Leo's willingness to share his telescope and knowledge with others shows generosity and a cooperative spirit, reflecting warmth.",
+      "rating": 2,
+      "chunk": 1
     },
     {
-      "Action": "Hesitates and admits he does not know the name of one star but knows its location and resists incorrect identification.",
-      "Competence": 1,
-      "Chunk": 1
+      "trait": "competence",
+      "action": "Correctly identifies Mizar and Alcor as stars and attempts to identify a third star, showing knowledge of the night sky.",
+      "assessment": "This demonstrates Leo's solid understanding of astronomy and his ability to engage with the subject matter intelligently, indicating competence in his area of interest.",
+      "rating": 2,
+      "chunk": 1
     },
     {
-      "Action": "Compares the image on the monitor carefully, inputs precise coordinates and observation times, effectively uses telescope controls to lock the image and analyze data.",
-      "Competence": 1,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Hesitates and admits he does not know the name of a star when asked by Mr. Perry.",
+      "assessment": "This shows intellectual honesty and self-awareness rather than guessing, which is a positive indicator of competence, though it also reveals a gap in his knowledge.",
+      "rating": 1,
+      "chunk": 1
     },
     {
-      "Action": "Smiles confidently after matching images and data, showing assurance in his skills and findings.",
-      "Competence": 1,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Engages in a somewhat dismissive exchange with Sarah about the star's identity.",
+      "assessment": "While confident, Leo's dismissiveness could suggest a lack of openness to correction, which may limit learning and adaptability, slightly detracting from his competence.",
+      "rating": -1,
+      "chunk": 1
     },
     {
-      "Action": "Stands quietly in shock with family watching news about discovery.",
-      "Warmth": 0,
-      "Chunk": 31
+      "trait": "warmth",
+      "action": "Glances down at Sarah's jeans as she leans over the telescope, showing a distracted reaction.",
+      "assessment": "This moment suggests a lapse in attentiveness and respect, indicating a lack of social sensitivity and warmth in this interaction.",
+      "rating": -1,
+      "chunk": 2
     },
     {
-      "Action": "Responds calmly and sincerely to Sarah's excitement at the open door.",
-      "Warmth": 1,
-      "Chunk": 31
+      "trait": "warmth",
+      "action": "Takes initiative to snap a picture of the distant light through the telescope and send it to Dr. Wolf as Perry suggests.",
+      "assessment": "Following through on a collaborative suggestion shows responsibility and willingness to contribute, reflecting a positive, cooperative attitude.",
+      "rating": 2,
+      "chunk": 2
     },
     {
-      "Action": "Discovered the comet alongside Marcus Wolf, leading to it being named after them, indicating significant scientific achievement.",
-      "Competence": 1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Looks through his telescope at a distant light, snaps the shutter to capture the image, and sends it to Dr. Wolf as instructed.",
+      "assessment": "This action shows that Leo is attentive, follows instructions, and is capable of using technical equipment properly, indicating a basic level of competence in his role.",
+      "rating": 2,
+      "chunk": 2
     },
     {
-      "Action": "Appears in shock and somewhat passive when confronted with sudden media attention and the gravity of the situation.",
-      "Competence": 0,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Distracted by Sarah's jeans parting from her lower back when she leans over the telescope, causing him to respond with 'Huh?' when Perry speaks.",
+      "assessment": "This moment of distraction suggests a lapse in focus and professionalism, which slightly undermines his overall competence in a critical observational setting.",
+      "rating": -1,
+      "chunk": 2
     },
     {
-      "Action": "On stage, humbly credits Dr. Wolf for the discovery and clarifies he is not trying to take credit away from him.",
-      "Warmth": 1,
-      "Chunk": 32
+      "trait": "competence",
+      "action": "Compares the screen image to the photo and smiles after locking the image into place.",
+      "assessment": "This shows Leo's ability to accurately identify and confirm the object of interest, indicating observational skill and confidence.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Expresses a down-to-earth attitude saying it was just luck and anyone could have found the comet.",
-      "Warmth": 1,
-      "Chunk": 32
+      "trait": "competence",
+      "action": "Enters ascension and declination directions and observation time, analyzing trajectories and speed.",
+      "assessment": "Demonstrates technical knowledge and skill in handling astronomical data and calculations, reflecting strong competence.",
+      "rating": 3,
+      "chunk": 3
     },
     {
-      "Action": "Responds to Sarah's question with self-deprecating humor about being scared of a history test rather than the comet situation.",
-      "Warmth": 1,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "Attempts to download data via modem despite busy signals and connection issues, persistently redialing backup numbers.",
+      "assessment": "Shows resourcefulness and determination in overcoming technical difficulties, indicating problem-solving skills and persistence.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Sneaks a look out to Sarah and shares a moment of mutual smile despite the teasing atmosphere.",
-      "Warmth": 1,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "Addresses and prepares a manilla envelope to send data to a professional astronomer, including labeling the disk with 'WOLF-BIEDERMAN'.",
+      "assessment": "Exhibits organizational skills and awareness of proper scientific communication protocols, reflecting responsibility and competence.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Acknowledges fear but with humor and perspective by saying he’s more scared of a history test than the comet situation.",
-      "Competence": 1,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "Attempts to dial his portable cellular phone while driving the Jeep on snowy mountain curves.",
+      "assessment": "This multitasking behavior shows a lack of prudence and situational awareness, as it compromises safe driving under hazardous conditions.",
+      "rating": -2,
+      "chunk": 4
     },
     {
-      "Action": "Handles adolescent teasing and attention with a subtle, understated reaction rather than losing composure or reacting inappropriately.",
-      "Competence": 1,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "Identified a comet with a potentially catastrophic trajectory while working alone on a mountaintop in Arizona.",
+      "assessment": "This action demonstrates Leo's strong observational skills, scientific knowledge, and ability to work independently on complex astronomical problems, indicating high competence.",
+      "rating": 3,
+      "chunk": 24
     },
     {
-      "Action": "Rollerblades across the street to meet Sarah, smiles and watches her approach, engages in a friendly and sincere conversation about the stars and astronomy club, showing consideration for her interests.",
-      "Warmth": 1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Says 'Nobody say anything' to his family while watching the President's announcement.",
+      "assessment": "This shows Leo's awareness of the gravity of the situation and his ability to maintain composure and control in a tense moment, reflecting emotional intelligence and situational competence.",
+      "rating": 2,
+      "chunk": 24
     },
     {
-      "Action": "Expresses that he joined the astronomy club because Sarah liked stars, showing thoughtfulness and a desire to connect with her.",
-      "Warmth": 1,
-      "Chunk": 36
+      "trait": "warmth",
+      "action": "Allows his little sister Jane to stand beside him and acknowledges her presence quietly during a tense moment.",
+      "assessment": "Leo's gentle acknowledgment of his younger sister in a stressful situation suggests a caring and considerate nature.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Mentions the White House invitation casually, sharing important news with Sarah in an inclusive way.",
-      "Warmth": 1,
-      "Chunk": 36
+      "trait": "warmth",
+      "action": "Responds to Sarah, a breathless and excited visitor, with a calm and slightly humorous remark: 'I'm not dead.'",
+      "assessment": "Leo's lighthearted response to Sarah's excitement shows approachability and friendliness, indicating warmth.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Rollerblades calmly across the street at night, shows confidence and composure.",
-      "Competence": 1,
-      "Chunk": 36
+      "trait": "warmth",
+      "action": "Turns away from the TV and walks to the open front door despite being in shock.",
+      "assessment": "Though in shock, Leo chooses to engage with the outside world and visitors, showing openness and a willingness to connect.",
+      "rating": 1,
+      "chunk": 31
     },
     {
-      "Action": "Joins the astronomy club motivated by personal reasons rather than pure curiosity or expertise.",
-      "Competence": 0,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Discovered the comet Wolf-Biederman along with Marcus Wolf.",
+      "assessment": "This indicates a high level of scientific skill and capability, as discovering a comet is a significant achievement requiring expertise and dedication.",
+      "rating": 3,
+      "chunk": 31
     },
     {
-      "Action": "Informed and involved enough to be invited to the White House and attend the launch with the President, indicating recognition of capability or potential.",
-      "Competence": 1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Appears in shock watching the news about the comet discovery and the global reaction.",
+      "assessment": "His shock suggests a momentary difficulty in processing the gravity of the situation, which may indicate some lack of emotional readiness or confidence in handling sudden public attention.",
+      "rating": 0,
+      "chunk": 31
     },
     {
-      "Action": "Engages in a calm, thoughtful conversation about the stars and situation, demonstrating emotional composure in a tense moment.",
-      "Competence": 1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Walks to the front door to answer it despite being in shock.",
+      "assessment": "This shows a basic level of composure and responsibility, indicating he can still act appropriately under stress, though not necessarily with full confidence or control.",
+      "rating": 1,
+      "chunk": 31
     },
     {
-      "Action": "Responds respectfully and politely to the President, smiling and answering with 'Yessir.'",
-      "Warmth": 1,
-      "Chunk": 41
+      "trait": "warmth",
+      "action": "Says 'It's not going to end.' to Sarah, who is excited about the comet discovery.",
+      "assessment": "Leo reassures Sarah in a calm and gentle way, showing a considerate and comforting attitude.",
+      "rating": 2,
+      "chunk": 32
     },
     {
-      "Action": "Appears nervous or unsure about the President's intentions regarding the book, showing honest uncertainty.",
-      "Warmth": 1,
-      "Chunk": 41
+      "trait": "warmth",
+      "action": "On stage, modestly says 'It was really just luck, I guess, that I found it. Anyone could have.'",
+      "assessment": "Leo shows humility and avoids taking undue credit, which reflects sincerity and a lack of arrogance.",
+      "rating": 3,
+      "chunk": 32
     },
     {
-      "Action": "Responds to President Beck's challenging questions with uncertainty but remains respectful and polite, smiling and agreeing when appropriate.",
-      "Competence": 0,
-      "Chunk": 41
+      "trait": "warmth",
+      "action": "Says 'I don't want anyone to think that I'm trying to take something away from Dr. Wolf.'",
+      "assessment": "Leo demonstrates respect and fairness by acknowledging Dr. Wolf's contribution, indicating trustworthiness and good-naturedness.",
+      "rating": 3,
+      "chunk": 32
     },
     {
-      "Action": "Shows difficulty in confidently navigating a conversation with the President and Commander in Chief, appearing unsure of how to respond to political or economic implications.",
-      "Competence": -1,
-      "Chunk": 41
+      "trait": "warmth",
+      "action": "Responds to a question about regret by saying 'No. If I hadn't taken that picture... who knows what would have happened?'",
+      "assessment": "Leo accepts responsibility without bitterness or blame, showing maturity and a positive outlook.",
+      "rating": 2,
+      "chunk": 32
     },
     {
-      "Action": "Maintains composure during tense moments such as the countdown and shuttle launch, not visibly panicking or losing focus.",
-      "Competence": 1,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Leo calmly explains the circumstances of the comet discovery during a public event, acknowledging the role of Dr. Wolf and clarifying misunderstandings about his own involvement.",
+      "assessment": "This shows Leo's ability to communicate clearly and honestly under public scrutiny, demonstrating maturity and confidence in handling attention and potential controversy.",
+      "rating": 2,
+      "chunk": 32
     },
     {
-      "Action": "Accurately identifies and tracks the Orion pulse through his telescope, demonstrating technical skill and observational competence.",
-      "Competence": 1,
-      "Chunk": 44
+      "trait": "competence",
+      "action": "Leo downplays his own role by attributing the discovery largely to luck and Dr. Wolf's involvement.",
+      "assessment": "While this humility is socially positive, it may also indicate a lack of assertiveness in claiming credit for his own achievements, which could be seen as a slight lack of self-confidence or self-promotion skill.",
+      "rating": 0,
+      "chunk": 32
     },
     {
-      "Action": "Engages in morbid hypothetical speculation about the comet causing the world to end, showing a tendency toward brooding rather than acting decisively.",
-      "Competence": -1,
-      "Chunk": 44
+      "trait": "warmth",
+      "action": "Responds to Sarah's question about being scared by joking that he is scared of a history test tomorrow.",
+      "assessment": "Leo uses humor to deflect a serious question, which shows a lighthearted and approachable side, making him seem friendly and relatable.",
+      "rating": 2,
+      "chunk": 33
     },
     {
-      "Action": "No direct actions or statements from Leo Biederman in the provided excerpt to evaluate competence.",
-      "Competence": 0,
-      "Chunk": 49
+      "trait": "warmth",
+      "action": "Sneaks a look at Sarah and smiles back when the class talks about sex and fame.",
+      "assessment": "Leo's subtle smile and shared moment with Sarah indicate a warm, friendly connection and a sensitivity to social cues, suggesting sincerity and a good-natured demeanor.",
+      "rating": 2,
+      "chunk": 33
     },
     {
-      "Action": "Observes the MOLE drilling operation and listens attentively to technical updates on the mission.",
-      "Competence": 1,
-      "Chunk": 51
+      "trait": "competence",
+      "action": "Takes a picture of the comet and sends it to Dr. Wolf at the observatory.",
+      "assessment": "This action shows initiative, technical skill, and presence of mind, indicating a high level of competence in recognizing the importance of his discovery and acting on it.",
+      "rating": 3,
+      "chunk": 33
     },
     {
-      "Action": "No explicit personal action or decision-making shown in the excerpt; mostly passive observation and reception of information.",
-      "Competence": 0,
-      "Chunk": 51
+      "trait": "competence",
+      "action": "Responds to Sarah's question about fear by joking about a history test instead of the comet threat.",
+      "assessment": "This response suggests a degree of emotional composure and the ability to deflect tension with humor, which can be seen as a competent social coping mechanism, though it may also indicate avoidance of the gravity of the situation.",
+      "rating": 1,
+      "chunk": 33
     },
     {
-      "Action": "Watches the news with others; unlike everyone else, he does not hug or show elation after the comet break-up success.",
-      "Warmth": -1,
-      "Chunk": 60
+      "trait": "competence",
+      "action": "Sneaks a look at Sarah and notices her smiling back despite the awkward conversation about sex.",
+      "assessment": "This shows social awareness and subtle confidence in a stressful public setting, reflecting competent interpersonal skills.",
+      "rating": 1,
+      "chunk": 33
     },
     {
-      "Action": "Watches the successful detonation of the comet and remains outwardly unelated while others celebrate.",
-      "Competence": 0,
-      "Chunk": 60
+      "trait": "warmth",
+      "action": "Rollerblades across the street to meet Sarah and smiles at her.",
+      "assessment": "Leo's action of approaching Sarah with a smile shows friendliness and a warm, approachable demeanor.",
+      "rating": 2,
+      "chunk": 36
     },
     {
-      "Action": "Shows visible worry and concern while others celebrate, indicating awareness of the seriousness of the situation.",
-      "Competence": 1,
-      "Chunk": 61
+      "trait": "warmth",
+      "action": "Joins Sarah in staring at the peaceful night sky and shares a personal reason for joining the astronomy club (because of her).",
+      "assessment": "This reveals Leo's sincerity, thoughtfulness, and a gentle way of expressing his feelings, indicating warmth.",
+      "rating": 3,
+      "chunk": 36
     },
     {
-      "Action": "Remains silent and does not respond when Sarah tries to engage him, potentially indicating internal processing or hesitation.",
-      "Competence": 0,
-      "Chunk": 61
+      "trait": "warmth",
+      "action": "Mentions the White House invitation and the upcoming launch with the President, including his whole family.",
+      "assessment": "Sharing this news with Sarah in a casual, inclusive way suggests openness and a desire to connect, reflecting warmth.",
+      "rating": 2,
+      "chunk": 36
     },
     {
-      "Action": "Is recognized by family as a key person related to selection for evacuation, indicating trust in his capabilities by others.",
-      "Competence": 1,
-      "Chunk": 65
+      "trait": "competence",
+      "action": "Rollerblades across the street under the streetlight and confidently approaches Sarah to talk.",
+      "assessment": "This action shows physical coordination and social confidence, indicating a level of ease and capability in casual interaction.",
+      "rating": 1,
+      "chunk": 36
     },
     {
-      "Action": "No direct actions or statements shown in this excerpt indicating decisiveness, problem solving, or skill.",
-      "Competence": 0,
-      "Chunk": 65
+      "trait": "competence",
+      "action": "States that he joined the astronomy club because of Sarah's interest in stars.",
+      "assessment": "While this shows motivation influenced by personal feelings rather than pure intellectual curiosity, it also suggests a willingness to engage with complex subjects, which can be a positive indicator of competence.",
+      "rating": 1,
+      "chunk": 36
     },
     {
-      "Action": "No direct actions or statements available in the provided excerpt to assess warmth.",
-      "Warmth": 0,
-      "Chunk": 67
+      "trait": "competence",
+      "action": "Mentions being invited to the White House and going to see the launch with the President, indicating his involvement in important scientific events.",
+      "assessment": "This implies recognition of his capabilities and importance in the scientific community, reflecting competence and trustworthiness.",
+      "rating": 2,
+      "chunk": 36
     },
     {
-      "Action": "Engages in friendly, light-hearted banter with neighbor Chuck Hotchner, showing awareness of others' perspectives.",
-      "Warmth": 1,
-      "Chunk": 69
+      "trait": "competence",
+      "action": "Engages in a calm, composed conversation about the comet and the mission despite the tense situation.",
+      "assessment": "Maintaining composure and engaging thoughtfully in a high-pressure context suggests emotional intelligence and mental competence.",
+      "rating": 2,
+      "chunk": 36
     },
     {
-      "Action": "Rides his bike fast and confidently, approaches Chuck Hotchner with a friendly and witty remark about the neighborhood bike culture.",
-      "Competence": 1,
-      "Chunk": 69
+      "trait": "competence",
+      "action": "Leo tries to concentrate on the TV but can't help staring at his surroundings, the Presidential Seal, the desk.",
+      "assessment": "This action suggests a momentary distraction and awe in a high-pressure, prestigious environment, indicating some difficulty maintaining focus under stress.",
+      "rating": -1,
+      "chunk": 40
     },
     {
-      "Action": "Observes and describes the neighborhood's transformation in detail, showing situational awareness.",
-      "Competence": 1,
-      "Chunk": 69
+      "trait": "warmth",
+      "action": "Responds politely and respectfully to President Beck's teasing and commands, smiling and answering 'Yessir.'",
+      "assessment": "Leo shows respect and good-natured compliance toward an authority figure, indicating a friendly and sincere demeanor in a high-pressure situation.",
+      "rating": 2,
+      "chunk": 41
     },
     {
-      "Action": "Expresses concern when startled by loud noise, quickly looks for Sarah to make sure she is safe.",
-      "Warmth": 1,
-      "Chunk": 70
+      "trait": "warmth",
+      "action": "Maintains composure and focus during the tense shuttle launch, despite distractions and the presence of the President.",
+      "assessment": "His ability to stay calm and attentive suggests reliability and trustworthiness, which are aspects of warmth in stressful contexts.",
+      "rating": 2,
+      "chunk": 41
     },
     {
-      "Action": "Grabs heavy bars to secure the bay window despite being startled by a loud explosion nearby.",
-      "Competence": 1,
-      "Chunk": 70
+      "trait": "warmth",
+      "action": "Does not assert himself or correct the President when Beck makes a bad joke or misstates details (e.g., M&M's color).",
+      "assessment": "While this shows deference, it may also indicate a lack of assertiveness or openness, which could limit warmth if it prevents genuine, sincere interaction.",
+      "rating": 0,
+      "chunk": 41
     },
     {
-      "Action": "Checks on Sarah by running up to the hill promptly when informed of her location, showing responsiveness and concern.",
-      "Competence": 1,
-      "Chunk": 70
+      "trait": "competence",
+      "action": "Responds to President Beck's unexpected questions with polite but uncertain answers, e.g., when asked about writing a book, he says he has a book report due and is unsure about writing a book.",
+      "assessment": "Leo's hesitation and lack of a confident response in a high-pressure situation with the President suggests some uncertainty and lack of assertiveness, indicating moderate to low confidence and decisiveness.",
+      "rating": -1,
+      "chunk": 41
     },
     {
-      "Action": "Offers to marry Sarah to protect her and her family from the catastrophe, demonstrating selflessness and concern for others' safety.",
-      "Warmth": 1,
-      "Chunk": 71
+      "trait": "competence",
+      "action": "Maintains composure and smiles politely when the President makes a bad joke and issues an executive order.",
+      "assessment": "This shows Leo's social awareness and ability to manage interpersonal dynamics with a powerful figure, reflecting emotional intelligence and situational competence.",
+      "rating": 1,
+      "chunk": 41
     },
     {
-      "Action": "Shows vulnerability and sincerity by admitting his love for Sarah and his youth and uncertainty during the kiss.",
-      "Warmth": 1,
-      "Chunk": 71
+      "trait": "competence",
+      "action": "Focuses on the TV and surroundings (Presidential Seal, desk) during a tense moment, showing awareness of the gravity of the situation.",
+      "assessment": "Leo's attention to detail and situational awareness in a high-stakes environment indicates a level of mental focus and respect for the moment, a positive indicator of competence.",
+      "rating": 2,
+      "chunk": 41
     },
     {
-      "Action": "Digs out wedding rings and explains a plan to marry Sarah so she can get into the Ark, demonstrating clear understanding of the situation and government rules.",
-      "Competence": 1,
-      "Chunk": 71
+      "trait": "warmth",
+      "action": "Steps back to let Sarah look through his telescope and shares the moment with her.",
+      "assessment": "Allowing Sarah to share the experience shows consideration and a desire to connect, indicating warmth.",
+      "rating": 2,
+      "chunk": 44
     },
     {
-      "Action": "Successfully used his influence and fame to secure safety not only for himself but also for Sarah's family, showing resourcefulness and initiative.",
-      "Competence": 1,
-      "Chunk": 71
+      "trait": "warmth",
+      "action": "Engages Sarah in a morbid but playful conversation about the comet possibly ending the world.",
+      "assessment": "While the topic is grim, Leo's teasing tone suggests a close, trusting relationship and a way to cope together, reflecting warmth.",
+      "rating": 1,
+      "chunk": 44
     },
     {
-      "Action": "Persuades Sarah with a logical and emotional appeal despite their youth and the gravity of the situation, showing maturity and confidence.",
-      "Competence": 1,
-      "Chunk": 71
+      "trait": "warmth",
+      "action": "Discusses the potential catastrophic effects of the comet openly with Sarah, despite her discomfort.",
+      "assessment": "Leo's willingness to confront harsh realities with Sarah shows sincerity, but pressing the topic when she is upset may indicate a lack of sensitivity.",
+      "rating": 0,
+      "chunk": 44
     },
     {
-      "Action": "Shows some uncertainty and hesitation in intimate moments, revealing his youth and inexperience, but this does not detract from his competence overall.",
-      "Competence": 0,
-      "Chunk": 71
+      "trait": "competence",
+      "action": "Observes the Orion pulses through his telescope and accurately identifies it.",
+      "assessment": "This shows Leo's technical skill and knowledge in astronomy, indicating a competent and attentive observer.",
+      "rating": 2,
+      "chunk": 44
     },
     {
-      "Action": "Responds calmly and cooperatively to soldiers checking IDs during evacuation.",
-      "Competence": 1,
-      "Chunk": 76
+      "trait": "competence",
+      "action": "Engages Sarah in a morbid hypothetical discussion about the comet impact and its consequences.",
+      "assessment": "While this shows intellectual engagement and willingness to confront difficult topics, it also suggests a tendency to provoke or unsettle others rather than provide reassurance, which may undermine his social competence in crisis situations.",
+      "rating": 0,
+      "chunk": 44
     },
     {
-      "Action": "Does not resist or argue when told only one suitcase is allowed despite multiple family members present.",
-      "Competence": 0,
-      "Chunk": 76
+      "trait": "competence",
+      "action": "Expresses detailed knowledge about the potential effects of the comet, including heat burning forests.",
+      "assessment": "This indicates a strong understanding of the scientific implications of the comet, reflecting intellectual competence and informed thinking.",
+      "rating": 2,
+      "chunk": 44
     },
     {
-      "Action": "Refuses to leave without Sarah, insisting on staying with her despite the danger.",
-      "Warmth": 1,
-      "Chunk": 78
+      "trait": "competence",
+      "action": "Fails to provide comfort or hope to Sarah when she expresses sadness and fear about the future.",
+      "assessment": "Leo's focus on grim possibilities without offering emotional support suggests a lack of emotional intelligence or social competence in managing others' fears.",
+      "rating": -1,
+      "chunk": 44
     },
     {
-      "Action": "Shows visible anguish and tears when parting from Sarah, indicating deep emotional connection and sincerity.",
-      "Warmth": 1,
-      "Chunk": 78
+      "trait": "competence",
+      "action": "No direct actions or statements by Leo Biederman are present in the excerpt; the scene focuses on Tanner and Baker managing the ship's landing on the comet surface.",
+      "assessment": "The excerpt does not provide any observable behavior, statements, or decisions by Leo Biederman to assess his competence.",
+      "rating": 0,
+      "chunk": 49
     },
     {
-      "Action": "Supports Sarah’s decision even when it conflicts with others’ urgings, respecting her feelings and autonomy.",
-      "Warmth": 1,
-      "Chunk": 78
+      "trait": "warmth",
+      "action": "Watches the news coverage of the comet event silently, while others around him are elated, hugging, and celebrating.",
+      "assessment": "Leo's lack of visible emotional response and failure to join in the collective celebration suggests emotional distance or reservation, indicating lower warmth in this moment.",
+      "rating": -1,
+      "chunk": 60
     },
     {
-      "Action": "Stands firm in refusing to leave Sarah behind, showing emotional strength and commitment.",
-      "Competence": 1,
-      "Chunk": 78
+      "trait": "competence",
+      "action": "Watches the successful comet detonation and breakup on TV with others, but remains emotionally distant and does not join in the celebration.",
+      "assessment": "Leo's emotional distance in a moment of collective relief and joy may indicate a reserved or contemplative nature rather than a lack of competence. However, his lack of visible engagement could suggest difficulty in expressing confidence or processing success in high-pressure situations.",
+      "rating": 0,
+      "chunk": 60
     },
     {
-      "Action": "Listens to others' advice but ultimately makes his own decision to board the bus, demonstrating sound judgment under pressure.",
-      "Competence": 1,
-      "Chunk": 78
+      "trait": "warmth",
+      "action": "Does not join in the elation and hugging when the Messiah spacecraft responds; instead, he remains worried and silent, not answering Sarah's attempt to engage him emotionally.",
+      "assessment": "Leo's withdrawal and silence in a moment of collective relief suggest emotional distance or preoccupation, indicating a lack of outward warmth or expressiveness in this scene.",
+      "rating": -1,
+      "chunk": 61
     },
     {
-      "Action": "Appears anguished and struggles emotionally, but follows through with the difficult choice to ensure Sarah's safety.",
-      "Competence": 1,
-      "Chunk": 78
+      "trait": "competence",
+      "action": "Leo remains focused and worried, watching the TV intently while others are elated and hugging.",
+      "assessment": "This behavior suggests Leo is thoughtful and serious, indicating an ability to assess situations carefully rather than reacting emotionally, which is a positive indicator of competence.",
+      "rating": 2,
+      "chunk": 61
     },
     {
-      "Action": "Does not physically force Sarah to come with him but accepts her decision and boards alone, showing respect but also a possible limitation in exerting control in crisis.",
-      "Competence": 0,
-      "Chunk": 78
+      "trait": "competence",
+      "action": "Does not respond when Sarah calls him, indicating he is preoccupied and possibly processing critical information.",
+      "assessment": "While this could be seen as socially inattentive, in the context it shows Leo's intense focus and prioritization of the situation, reflecting mental engagement and competence.",
+      "rating": 1,
+      "chunk": 61
     },
     {
-      "Action": "Stares out the window, lost and empty on the crowded bus, showing internal struggle but does not interact with others.",
-      "Warmth": 0,
-      "Chunk": 80
+      "trait": "competence",
+      "action": "Remains calm and silent when Ellen announces they have been pre-selected for evacuation, while others react impulsively (e.g., Chuck rushing to answer the phone).",
+      "assessment": "Leo's composed demeanor in a tense moment suggests emotional control and situational awareness, indicating a competent mindset under pressure.",
+      "rating": 2,
+      "chunk": 65
     },
     {
-      "Action": "Refuses to stay with family and group to go back for his wife Sarah despite danger and uncertainty.",
-      "Warmth": 1,
-      "Chunk": 81
+      "trait": "competence",
+      "action": "Does not immediately act on the ringing phone or the news, instead observing the reactions of others.",
+      "assessment": "While this could indicate patience and thoughtfulness, it might also suggest hesitation or passivity in a critical moment, which could be a slight negative indicator of decisiveness.",
+      "rating": 0,
+      "chunk": 65
     },
     {
-      "Action": "Expresses love sincerely to his family before leaving.",
-      "Warmth": 1,
-      "Chunk": 81
+      "trait": "warmth",
+      "action": "Greets Chuck Hotchner politely and engages in light-hearted banter about the dirt bike.",
+      "assessment": "Leo's friendly and respectful interaction with an adult neighbor shows his good-natured and sincere demeanor.",
+      "rating": 2,
+      "chunk": 69
     },
     {
-      "Action": "Does not argue or express anger at being stopped, but insists with calm determination.",
-      "Warmth": 0,
-      "Chunk": 81
+      "trait": "warmth",
+      "action": "Rides his bike quickly through a neighborhood transformed by fear and preparation for disaster.",
+      "assessment": "While this action itself is neutral, Leo's presence in the neighborhood during a tense time suggests a willingness to remain connected and engaged with his community.",
+      "rating": 1,
+      "chunk": 69
     },
     {
-      "Action": "Decides not to follow the group into the shelter, insists on going back for his wife despite the risks.",
-      "Competence": 1,
-      "Chunk": 81
+      "trait": "competence",
+      "action": "Rides his bike fast, standing on the pedals, with knapsack slung over one shoulder, navigating a transformed, tense neighborhood.",
+      "assessment": "This shows physical confidence and agility, suggesting Leo is comfortable and capable in a changed, possibly stressful environment.",
+      "rating": 2,
+      "chunk": 69
     },
     {
-      "Action": "Takes Swiss Army knife and some money from his father to aid in survival and trade.",
-      "Competence": 1,
-      "Chunk": 81
+      "trait": "competence",
+      "action": "Engages in casual, light-hearted conversation with Chuck Hotchner about the dirt bike and neighborhood dynamics.",
+      "assessment": "This indicates social ease and the ability to maintain normalcy and rapport despite the tense circumstances, reflecting emotional intelligence and interpersonal competence.",
+      "rating": 1,
+      "chunk": 69
     },
     {
-      "Action": "Leaves his family behind and ventures alone into a chaotic, dangerous environment with confidence and determination.",
-      "Competence": 1,
-      "Chunk": 81
+      "trait": "warmth",
+      "action": "Runs up to the hilltop to find Sarah sitting alone under a tree, visibly concerned about her whereabouts.",
+      "assessment": "Leo’s action shows care and concern for Sarah’s safety and well-being, indicating a friendly and protective nature.",
+      "rating": 2,
+      "chunk": 70
     },
     {
-      "Action": "Smiles looking up at the clear night sky with comets, showing a peaceful and sincere moment.",
-      "Warmth": 1,
-      "Chunk": 84
+      "trait": "competence",
+      "action": "Grabs the heavy bars going up over the bay window to help secure the house.",
+      "assessment": "This action shows Leo is willing to engage in practical, physical tasks and contribute to fortifying their environment, indicating a level of capability and initiative.",
+      "rating": 1,
+      "chunk": 70
     },
     {
-      "Action": "Is present in a crowded, difficult situation with men, women, and children, quietly reflecting rather than showing distress or selfishness.",
-      "Warmth": 1,
-      "Chunk": 84
+      "trait": "competence",
+      "action": "Is startled by a big boom nearby and asks about it.",
+      "assessment": "Being startled suggests a momentary lack of composure or preparedness in a chaotic environment, though his immediate inquiry shows awareness and desire to understand the situation.",
+      "rating": 0,
+      "chunk": 70
     },
     {
-      "Action": "Looks up at the comet in the clear night sky, smiles and closes his eyes despite difficult circumstances.",
-      "Competence": 1,
-      "Chunk": 84
+      "trait": "competence",
+      "action": "Runs up to the hilltop to find Sarah after noticing she was missing.",
+      "assessment": "This demonstrates attentiveness and concern, as well as decisiveness in seeking out a missing person, reflecting responsible and capable behavior.",
+      "rating": 2,
+      "chunk": 70
     },
     {
-      "Action": "Rides passively in the back of a truck filled with refugees or displaced people, showing acceptance but no visible leadership or active problem-solving.",
-      "Competence": 0,
-      "Chunk": 84
+      "trait": "warmth",
+      "action": "Offers Sarah a way to survive by proposing marriage so she can be included in the Ark and be safe.",
+      "assessment": "Leo's proposal is a deeply caring and protective gesture, showing his sincere concern for Sarah's safety and well-being, even though it involves a serious and mature commitment at a young age.",
+      "rating": 3,
+      "chunk": 71
     },
     {
-      "Action": "Stands alone in the road, hesitates to get on the truck with others, then runs toward the horizon by himself.",
-      "Warmth": 0,
-      "Chunk": 87
+      "trait": "warmth",
+      "action": "Explains to Sarah that he used his influence and fame to get her family included in the Ark as well.",
+      "assessment": "This shows Leo's generosity and thoughtfulness, extending his care beyond Sarah to her family, indicating a trustworthy and inclusive nature.",
+      "rating": 3,
+      "chunk": 71
     },
     {
-      "Action": "Stands in the road while the truck he could board leaves; hesitates or chooses not to get on with others.",
-      "Competence": -1,
-      "Chunk": 87
+      "trait": "warmth",
+      "action": "Expresses his love for Sarah honestly and vulnerably.",
+      "assessment": "Leo's open admission of love and his emotional vulnerability demonstrate sincerity and genuine affection, key indicators of warmth.",
+      "rating": 2,
+      "chunk": 71
     },
     {
-      "Action": "Turns and runs east toward the lightening horizon despite others fleeing west, indicating decisiveness and independent thinking under pressure.",
-      "Competence": 1,
-      "Chunk": 87
+      "trait": "warmth",
+      "action": "Insists on marriage as a means of survival despite their youth and the gravity of the situation.",
+      "assessment": "While well-intentioned, this insistence may reflect a lack of full understanding of Sarah's feelings and the emotional complexity involved, showing some insensitivity or naivety.",
+      "rating": -1,
+      "chunk": 71
     },
     {
-      "Action": "Pedals hard into abandoned, looted neighborhood despite apparent danger and desolation.",
-      "Warmth": 0,
-      "Chunk": 91
+      "trait": "competence",
+      "action": "Leo digs two wedding bands out of his pocket and explains he got them from Jeremy Landers’ dad in exchange for a Coleman lantern.",
+      "assessment": "This shows resourcefulness and quick thinking, indicating Leo’s ability to improvise and use available resources effectively.",
+      "rating": 2,
+      "chunk": 71
     },
     {
-      "Action": "Calls out desperately for Sarah, showing concern and panic for her safety.",
-      "Warmth": 1,
-      "Chunk": 91
+      "trait": "competence",
+      "action": "Leo explains to Sarah that if they marry, she can be considered family and gain access to the Ark, showing he has knowledge of the FCDA’s rules and procedures.",
+      "assessment": "This demonstrates Leo’s intelligence and understanding of bureaucratic systems, as well as his ability to use that knowledge strategically.",
+      "rating": 3,
+      "chunk": 71
     },
     {
-      "Action": "Navigates against heavy traffic on a bike, shows determination returning to his neighborhood despite evident danger and decay.",
-      "Competence": 1,
-      "Chunk": 91
+      "trait": "competence",
+      "action": "Leo persuades Sarah to consider marriage as a survival strategy despite their youth and the emotional complexity involved.",
+      "assessment": "This indicates Leo’s confidence and maturity in handling a difficult situation, showing emotional and social competence beyond his years.",
+      "rating": 2,
+      "chunk": 71
     },
     {
-      "Action": "Rushes into a looted, vandalized house calling out for Sarah, showing urgency but no indication of a plan or cautious approach.",
-      "Competence": 0,
-      "Chunk": 91
+      "trait": "competence",
+      "action": "Leo admits his feelings for Sarah honestly and vulnerably.",
+      "assessment": "While this shows emotional honesty, it also reveals a certain youthful uncertainty and lack of full emotional control, which slightly tempers his overall competence.",
+      "rating": 0,
+      "chunk": 71
     },
     {
-      "Action": "Checks the empty street repeatedly, searches for Sarah, gets visibly spooked but keeps looking and acting urgently.",
-      "Warmth": 1,
-      "Chunk": 92
+      "trait": "warmth",
+      "action": "Says 'I do' during his wedding vows to Sarah and kisses her.",
+      "assessment": "Leo's participation in a sincere and loving wedding ceremony, including his kiss, indicates commitment, sincerity, and affectionate warmth toward Sarah.",
+      "rating": 3,
+      "chunk": 76
     },
     {
-      "Action": "Unlocks his dad's dirt bike and rides out aggressively despite the chaos around him.",
-      "Warmth": 0,
-      "Chunk": 92
+      "trait": "warmth",
+      "action": "Stands with his family and neighbors on the sidewalk, preparing to board the army bus with suitcases.",
+      "assessment": "Leo's presence with his family and neighbors in a tense, uncertain situation suggests solidarity and support, reflecting a sense of community and trustworthiness.",
+      "rating": 2,
+      "chunk": 76
     },
     {
-      "Action": "Checks cars for keys, searches deserted neighborhood persistently, locates hidden keys among scattered items, expertly starts and rides dirt bike quickly away.",
-      "Competence": 1,
-      "Chunk": 92
+      "trait": "warmth",
+      "action": "No explicit interaction or dialogue shown during the ID check and boarding process.",
+      "assessment": "Leo's quiet compliance and calm demeanor during a stressful, militarized situation may indicate tolerance and steadiness, but lack of active comforting or engagement limits warmth expression here.",
+      "rating": 0,
+      "chunk": 76
     },
     {
-      "Action": "Appears spooked and panicked while calling for Sarah in empty, eerie surroundings.",
-      "Competence": 0,
-      "Chunk": 92
+      "trait": "warmth",
+      "action": "Leo insists that the Hotchners are on the evacuation list and pleads with the Lieutenant to check again.",
+      "assessment": "Leo shows concern and advocacy for others, trying to help the Hotchners despite the official denial, indicating empathy and a protective attitude.",
+      "rating": 2,
+      "chunk": 77
     },
     {
-      "Action": "ROARS along the shoulder, navigating abandoned cars and slow traffic skillfully while searching for the Astrovan.",
-      "Competence": 1,
-      "Chunk": 93
+      "trait": "warmth",
+      "action": "Leo reassures Sarah and supports her by saying she can come on the bus.",
+      "assessment": "Leo demonstrates care and support for his wife, showing warmth and solidarity in a stressful situation.",
+      "rating": 2,
+      "chunk": 77
     },
     {
-      "Action": "Navigates through heavy traffic on a motorbike, attempts to find the correct vehicle despite difficulties.",
-      "Competence": 1,
-      "Chunk": 94
+      "trait": "warmth",
+      "action": "Leo shows no hesitation in giving up his belongings and prioritizing family and others' safety.",
+      "assessment": "This reflects selflessness and a focus on what truly matters, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 77
     },
     {
-      "Action": "Stops and turns around after initially not hearing Sarah calling him.",
-      "Warmth": 1,
-      "Chunk": 95
+      "trait": "warmth",
+      "action": "Leo and Sarah smile at each other after showing their IDs and marriage license.",
+      "assessment": "This small moment of shared warmth and connection between Leo and Sarah highlights his friendly and sincere nature.",
+      "rating": 2,
+      "chunk": 77
     },
     {
-      "Action": "Rides back to Sarah when she approaches him.",
-      "Warmth": 1,
-      "Chunk": 95
+      "trait": "competence",
+      "action": "Shows his ID and notarized marriage license to the Lieutenant to gain permission to board the bus.",
+      "assessment": "This action demonstrates Leo's preparedness and ability to use official documentation effectively to navigate a tense situation, indicating practical competence.",
+      "rating": 2,
+      "chunk": 77
     },
     {
-      "Action": "Promises to take care of Sarah and Vicky's baby.",
-      "Warmth": 1,
-      "Chunk": 95
+      "trait": "competence",
+      "action": "Insists repeatedly that the Hotchners are on the list and should be allowed to board, despite the Lieutenant's initial refusal.",
+      "assessment": "Leo shows persistence and advocacy for others, but his inability to produce proof or resolve the issue suggests limited influence or effectiveness in this bureaucratic context, reflecting moderate competence but some limitations.",
+      "rating": 1,
+      "chunk": 77
     },
     {
-      "Action": "Stops and turns around after realizing Sarah is trying to get his attention, then rides back to her.",
-      "Competence": 1,
-      "Chunk": 95
+      "trait": "competence",
+      "action": "Stops the Lieutenant multiple times to question the list and advocate for the Hotchners.",
+      "assessment": "This shows Leo's assertiveness and willingness to challenge authority when he believes an error has been made, a positive indicator of competence in stressful situations.",
+      "rating": 2,
+      "chunk": 77
     },
     {
-      "Action": "Keeps focus on the urgent situation and quickly agrees to take care of Sarah and the baby, then leaves immediately to help them escape.",
-      "Competence": 1,
-      "Chunk": 95
+      "trait": "competence",
+      "action": "Fails to secure passage for the Hotchners despite his efforts and documentation.",
+      "assessment": "While Leo tries to help, his failure to resolve the situation or provide additional proof limits his effectiveness, indicating a gap in his ability to influence or problem-solve under pressure.",
+      "rating": -1,
+      "chunk": 77
     },
     {
-      "Action": "Yells a clear, informative warning about the shock wave timing while driving urgently to safety with Sarah and the baby.",
-      "Competence": 1,
-      "Chunk": 96
+      "trait": "warmth",
+      "action": "Refuses to leave Sarah behind and insists 'I'm not going without you!'",
+      "assessment": "Leo's refusal to abandon Sarah shows his deep care and protective nature toward his family, indicating strong warmth.",
+      "rating": 3,
+      "chunk": 78
     },
     {
-      "Action": "Flies off road to find a way through traffic, showing determination and protecting Sarah.",
-      "Warmth": 1,
-      "Chunk": 100
+      "trait": "warmth",
+      "action": "Encourages Sarah to listen to the adults warning her that she will die if she stays.",
+      "assessment": "Though painful, Leo tries to be sincere and protective by urging Sarah to prioritize her safety, showing responsible warmth.",
+      "rating": 2,
+      "chunk": 78
     },
     {
-      "Action": "After crashing, immediately checks on Sarah and the baby, showing care and concern.",
-      "Warmth": 1,
-      "Chunk": 100
+      "trait": "warmth",
+      "action": "Shows visible anguish and tears when Sarah decides to leave, and kisses her before she boards the bus.",
+      "assessment": "Leo's emotional vulnerability and physical affection demonstrate his sincere love and warmth toward Sarah.",
+      "rating": 3,
+      "chunk": 78
     },
     {
-      "Action": "Revs the engine and takes a risky off-road path to escape traffic, showing resourcefulness and decisiveness under pressure.",
-      "Competence": 1,
-      "Chunk": 100
+      "trait": "warmth",
+      "action": "Backs away slowly from Sarah, respecting her decision despite his own pain.",
+      "assessment": "Leo respects Sarah's wishes and supports her autonomy, reflecting trust and tolerance, aspects of warmth.",
+      "rating": 2,
+      "chunk": 78
     },
     {
-      "Action": "Attempts to stop the bike before crashing but fails, resulting in a crash and injury.",
-      "Competence": -1,
-      "Chunk": 100
+      "trait": "warmth",
+      "action": "Rushes to the bus window and presses his hand against the glass to connect with Sarah as she leaves.",
+      "assessment": "This gesture shows Leo's longing and affectionate connection, highlighting his good-natured and sincere character.",
+      "rating": 3,
+      "chunk": 78
     },
     {
-      "Action": "Immediately checks on Sarah and the baby after the crash, showing presence of mind and concern.",
-      "Competence": 1,
-      "Chunk": 100
+      "trait": "competence",
+      "action": "Insists on staying with Sarah and refuses to leave without her despite the Lieutenant's orders and the urgency of the situation.",
+      "assessment": "This shows Leo's strong emotional commitment and courage, but also a potential lack of practical judgment in a crisis where evacuation is critical.",
+      "rating": -1,
+      "chunk": 78
     },
     {
-      "Action": "Despite the crash, quickly regains composure and motivates Sarah to keep going, showing resilience and leadership.",
-      "Competence": 1,
-      "Chunk": 100
+      "trait": "competence",
+      "action": "Eventually complies with the evacuation order and boards the bus after Sarah encourages him to go for her own safety.",
+      "assessment": "This indicates that Leo can be persuaded to act rationally and prioritize survival despite his emotional turmoil, reflecting a degree of self-control and situational awareness.",
+      "rating": 1,
+      "chunk": 78
     },
     {
-      "Action": "Drags Sarah behind him over the tree to help her escape danger.",
-      "Warmth": 1,
-      "Chunk": 101
+      "trait": "competence",
+      "action": "Rushes to the back window of the bus and watches Sarah leave, showing visible anguish and emotional vulnerability.",
+      "assessment": "While this demonstrates deep empathy and emotional connection, it also suggests that Leo is overwhelmed by the situation, which may impair his ability to act decisively in a crisis.",
+      "rating": 0,
+      "chunk": 78
     },
     {
-      "Action": "Drags Sarah behind him and keeps moving despite danger, showing physical capability and determination.",
-      "Competence": 1,
-      "Chunk": 101
+      "trait": "competence",
+      "action": "Leo and his family are on the crowded bus, and Leo stares out the window, lost and empty, showing no active engagement with the situation.",
+      "assessment": "Leo's passive and withdrawn demeanor in a critical, high-stress evacuation scenario suggests a lack of emotional resilience or situational awareness, which may reflect lower competence in managing crisis moments.",
+      "rating": -1,
+      "chunk": 80
     },
     {
-      "Action": "Navigates through dangerous terrain under extreme conditions, maintaining focus and urgency.",
-      "Competence": 1,
-      "Chunk": 101
+      "trait": "competence",
+      "action": "Leo follows the section leader and files off the bus with the group to the orientation gallery without hesitation.",
+      "assessment": "This action indicates that Leo is able to follow instructions and adapt to new environments, showing a basic level of competence and compliance in an organized evacuation setting.",
+      "rating": 1,
+      "chunk": 80
     },
     {
-      "Action": "Allows Sarah to hold the baby and shares a quiet, mesmerized moment watching the meteor shower together.",
-      "Warmth": 1,
-      "Chunk": 105
+      "trait": "warmth",
+      "action": "Refuses to proceed with the group into the shelter and insists on going back to find his wife, Sarah.",
+      "assessment": "Leo's decision to leave safety and return for his wife shows strong loyalty, love, and commitment, reflecting deep care and sincerity toward his family.",
+      "rating": 3,
+      "chunk": 81
     },
     {
-      "Action": "Stands silently, unable to speak, while witnessing a spectacular meteor shower.",
-      "Competence": 0,
-      "Chunk": 105
+      "trait": "warmth",
+      "action": "Hugs his family and expresses love before leaving.",
+      "assessment": "Expressing love openly and physically embracing family members demonstrates warmth, emotional openness, and genuine affection.",
+      "rating": 3,
+      "chunk": 81
+    },
+    {
+      "trait": "warmth",
+      "action": "Accepts his father's gifts (money, watch, ring, Swiss Army knife) for trade and survival.",
+      "assessment": "Leo's acceptance of these items shows trust in his family and readiness to face hardship, indicating a responsible and sincere nature.",
+      "rating": 1,
+      "chunk": 81
+    },
+    {
+      "trait": "warmth",
+      "action": "Walks away quickly without looking back after saying goodbye.",
+      "assessment": "While practical under the circumstances, not looking back might suggest emotional restraint or difficulty in showing vulnerability, which could be seen as a slight omission in warmth.",
+      "rating": 0,
+      "chunk": 81
+    },
+    {
+      "trait": "competence",
+      "action": "Decides not to proceed with the group into the underground shelter and instead chooses to go back for his wife, Sarah, despite the danger and distance involved.",
+      "assessment": "This action demonstrates Leo's strong resolve, decisiveness, and willingness to take personal responsibility in a crisis, indicating emotional and moral competence. However, it also suggests a potential underestimation of the risks and logistical challenges, which could reflect a lack of practical judgment or strategic planning.",
+      "rating": 1,
+      "chunk": 81
+    },
+    {
+      "trait": "competence",
+      "action": "Accepts and prepares by taking his father's money, watch, ring, and Swiss Army knife for trade and survival.",
+      "assessment": "This shows foresight and practical thinking, indicating that Leo understands the need for resources and tools in uncertain circumstances, which is a positive indicator of competence.",
+      "rating": 2,
+      "chunk": 81
+    },
+    {
+      "trait": "competence",
+      "action": "Hugs his family and leaves quickly without looking back, disappearing into the crowd.",
+      "assessment": "This suggests emotional strength and focus, as he controls his emotions to maintain momentum and avoid hesitation, which is a competent behavior in a crisis situation.",
+      "rating": 2,
+      "chunk": 81
+    },
+    {
+      "trait": "warmth",
+      "action": "Smiles and closes his eyes while looking up at the comet in the night sky, despite the cold and darkness in the truck filled with men, women, and children.",
+      "assessment": "Leo's smile in a difficult and tense situation suggests a hopeful, gentle, and sincere nature, showing an ability to find peace and warmth even in hardship.",
+      "rating": 2,
+      "chunk": 84
+    },
+    {
+      "trait": "warmth",
+      "action": "Is present among a group of people (men, women, children) in a cold, dark truck, sharing the experience of the comet's approach.",
+      "assessment": "His presence among a diverse group in a challenging environment indicates a willingness to be with others and share communal hardship, reflecting tolerance and friendliness.",
+      "rating": 1,
+      "chunk": 84
+    },
+    {
+      "trait": "competence",
+      "action": "Leo looks up into the crystal clear night sky, observing the comets and smiles with eyes closed.",
+      "assessment": "This action shows Leo's calmness and ability to find a moment of peace and reflection amid crisis, indicating emotional resilience but does not directly demonstrate technical or practical competence.",
+      "rating": 1,
+      "chunk": 84
+    },
+    {
+      "trait": "warmth",
+      "action": "Leo hesitates and does not get on the truck evacuating west with the others; instead, he stands in the road and then runs east toward the lightning horizon.",
+      "assessment": "Leo's choice to stay behind and run toward danger rather than evacuate with others suggests a solitary, possibly self-sacrificing or mission-driven behavior, but it also indicates a lack of immediate concern for group safety or social connection in this moment, which can be seen as low warmth.",
+      "rating": -1,
+      "chunk": 87
+    },
+    {
+      "trait": "competence",
+      "action": "Stands in the road as the truck leaves without him, then turns and runs east toward the lightning horizon instead of following the crowd west.",
+      "assessment": "This action suggests Leo is making an independent decision rather than following the group, which could indicate confidence and a willingness to take initiative. However, it also shows a potential lack of quick situational judgment, as he misses the immediate opportunity to escape with the others and instead runs toward an uncertain and possibly dangerous direction.",
+      "rating": 0,
+      "chunk": 87
+    },
+    {
+      "trait": "warmth",
+      "action": "Leo pedals hard into his neighborhood despite the desolation and chaos, rushes into Sarah's house calling out for her in panic.",
+      "assessment": "Leo's immediate concern for Sarah and his urgent search for her in a dangerous, abandoned environment shows his sincere care and emotional connection, indicating a warm and caring nature.",
+      "rating": 3,
+      "chunk": 91
+    },
+    {
+      "trait": "competence",
+      "action": "Leo pedals hard on his bike against heavy traffic, heading into town while others are stuck in gridlock.",
+      "assessment": "This shows Leo's determination and ability to navigate difficult circumstances effectively, indicating resourcefulness and physical capability.",
+      "rating": 2,
+      "chunk": 91
+    },
+    {
+      "trait": "competence",
+      "action": "Leo arrives at Sarah's house, notices the looted, damaged state of the home, and immediately calls out for Sarah in near panic.",
+      "assessment": "Leo's quick arrival and immediate concern demonstrate situational awareness and emotional investment, but his panic suggests a momentary loss of composure under stress.",
+      "rating": 1,
+      "chunk": 91
+    },
+    {
+      "trait": "warmth",
+      "action": "Calls out repeatedly for Sarah while searching the deserted street and his looted garage, showing concern and urgency.",
+      "assessment": "Leo's persistent calling for Sarah demonstrates genuine care and worry for another person's safety, indicating a warm and caring nature.",
+      "rating": 2,
+      "chunk": 92
+    },
+    {
+      "trait": "warmth",
+      "action": "Checks both cars for keys and searches the neighborhood despite the eerie emptiness.",
+      "assessment": "His proactive and thorough search suggests responsibility and concern for others, reflecting a trustworthy and attentive character.",
+      "rating": 2,
+      "chunk": 92
+    },
+    {
+      "trait": "warmth",
+      "action": "Finds the keys hidden among paint cans and uses his dad's dirt bike to quickly leave the area.",
+      "assessment": "While this action is practical and self-reliant, it does not directly reflect warmth but rather resourcefulness; no clear warmth indicator here.",
+      "rating": 0,
+      "chunk": 92
+    },
+    {
+      "trait": "competence",
+      "action": "Checks both cars for keys, finds none, then runs along deserted houses calling for Sarah.",
+      "assessment": "Shows situational awareness and urgency, but no immediate solution; indicates moderate competence under stress.",
+      "rating": 1,
+      "chunk": 92
+    },
+    {
+      "trait": "competence",
+      "action": "Notices the looted garage and the chained dirt bike with evidence of attempted break-ins.",
+      "assessment": "Demonstrates observational skills and attention to detail, which are positive indicators of competence.",
+      "rating": 2,
+      "chunk": 92
+    },
+    {
+      "trait": "competence",
+      "action": "Finds the hidden keys among scattered paint cans, unlocks the dirt bike, starts it, and rides off quickly.",
+      "assessment": "Exhibits resourcefulness, practical knowledge, and decisiveness in a tense situation, strongly indicating competence.",
+      "rating": 3,
+      "chunk": 92
+    },
+    {
+      "trait": "competence",
+      "action": "Runs around calling for Sarah repeatedly with no apparent plan beyond searching.",
+      "assessment": "While understandable given the stress, this shows some lack of strategic thinking or broader problem-solving at this moment.",
+      "rating": -1,
+      "chunk": 92
+    },
+    {
+      "trait": "competence",
+      "action": "Roars along the shoulder, up and down the grass embankments trying to miss abandoned cars, surfing the sea of slow moving traffic, searching for the Astrovan.",
+      "assessment": "This action shows Leo's ability to navigate a chaotic and dangerous traffic situation skillfully and with urgency, indicating good situational awareness and driving capability under pressure.",
+      "rating": 2,
+      "chunk": 93
+    },
+    {
+      "trait": "competence",
+      "action": "Navigates his motorbike through heavy, nearly gridlocked traffic while wearing a helmet.",
+      "assessment": "This action suggests Leo has good motorbike handling skills and situational awareness, demonstrating physical competence and confidence in a difficult environment.",
+      "rating": 2,
+      "chunk": 94
+    },
+    {
+      "trait": "competence",
+      "action": "Approaches multiple Astrovan vehicles but identifies them as the wrong family, not wasting time or effort on incorrect targets.",
+      "assessment": "This shows Leo's ability to quickly assess and make decisions under pressure, indicating mental sharpness and focus.",
+      "rating": 2,
+      "chunk": 94
+    },
+    {
+      "trait": "warmth",
+      "action": "Stops and turns around when Sarah calls to him, then rides back to her despite the chaotic traffic.",
+      "assessment": "Leo responds promptly and attentively to Sarah's call, showing care and concern by stopping and returning to her in a stressful situation.",
+      "rating": 2,
+      "chunk": 95
+    },
+    {
+      "trait": "warmth",
+      "action": "Kisses Sarah and promises to take care of the baby.",
+      "assessment": "Leo's promise to care for the baby demonstrates a sincere and responsible attitude, reflecting trustworthiness and warmth.",
+      "rating": 3,
+      "chunk": 95
+    },
+    {
+      "trait": "warmth",
+      "action": "Quickly helps Sarah and the baby onto his motorbike and leaves to protect them.",
+      "assessment": "Leo acts decisively to ensure the safety of Sarah and the baby, showing protective and caring behavior.",
+      "rating": 2,
+      "chunk": 95
+    },
+    {
+      "trait": "competence",
+      "action": "Drives up onto the center median and navigates through heavy traffic with other motorcyclists.",
+      "assessment": "This action suggests Leo is skilled and confident in handling his motorcycle in difficult traffic conditions, indicating good situational awareness and control.",
+      "rating": 2,
+      "chunk": 95
+    },
+    {
+      "trait": "competence",
+      "action": "Stops and turns around promptly when he notices Sarah trying to get his attention.",
+      "assessment": "This shows Leo's attentiveness and quick reaction to unexpected stimuli, reflecting good observational skills and responsiveness.",
+      "rating": 2,
+      "chunk": 95
+    },
+    {
+      "trait": "competence",
+      "action": "Rides back to Sarah and quickly takes the baby from her, then escapes rapidly on the motorbike.",
+      "assessment": "This demonstrates decisiveness, responsibility, and ability to act under pressure, all positive indicators of competence.",
+      "rating": 3,
+      "chunk": 95
+    },
+    {
+      "trait": "competence",
+      "action": "Promises to take care of Sarah and the baby, showing emotional commitment.",
+      "assessment": "While this shows emotional maturity and confidence in his role, it is more about character than direct competence in skill or action.",
+      "rating": 1,
+      "chunk": 95
+    },
+    {
+      "trait": "competence",
+      "action": "Does not immediately hear Sarah calling him despite her shouting and climbing on the van.",
+      "assessment": "This could indicate a momentary lack of situational awareness or distraction, a minor negative indicator of competence.",
+      "rating": -1,
+      "chunk": 95
+    },
+    {
+      "trait": "competence",
+      "action": "Yells over the noise of the bike to Sarah, informing her that the shock wave will hit fifteen minutes after impact and urges her to hold on.",
+      "assessment": "This shows Leo's situational awareness and ability to communicate critical information clearly under pressure, indicating good competence.",
+      "rating": 2,
+      "chunk": 96
+    },
+    {
+      "trait": "competence",
+      "action": "Lays on the gas on the motorcycle, speeding past slow-moving traffic to escape the area quickly with Sarah and the baby.",
+      "assessment": "This demonstrates decisiveness, confidence, and skill in handling a dangerous situation, reflecting a high level of competence.",
+      "rating": 3,
+      "chunk": 96
+    },
+    {
+      "trait": "warmth",
+      "action": "After crashing the motorcycle, Leo immediately checks on Sarah and the baby, showing concern for their wellbeing.",
+      "assessment": "Leo's immediate focus on Sarah and the baby after the accident demonstrates care, protectiveness, and sincerity, indicating a warm and trustworthy nature.",
+      "rating": 3,
+      "chunk": 100
+    },
+    {
+      "trait": "warmth",
+      "action": "Encourages Sarah to keep moving despite their injuries, showing determination and support.",
+      "assessment": "By motivating Sarah to continue despite the difficult circumstances, Leo shows supportive and encouraging behavior, reflecting warmth and a good-natured attitude.",
+      "rating": 2,
+      "chunk": 100
+    },
+    {
+      "trait": "competence",
+      "action": "Idles briefly to assess the jammed traffic situation before deciding to take an alternative route through the brush on a motorcycle.",
+      "assessment": "This shows situational awareness and quick decision-making under pressure, indicating competent problem-solving skills.",
+      "rating": 2,
+      "chunk": 100
+    },
+    {
+      "trait": "competence",
+      "action": "Revs the engine and flies off into the brush, navigating a difficult, steep, and unsuitable trail for motorcycles.",
+      "assessment": "Demonstrates courage and willingness to take risks, as well as some off-road riding skill, though the choice is risky.",
+      "rating": 1,
+      "chunk": 100
+    },
+    {
+      "trait": "competence",
+      "action": "Loses control of the motorcycle, skids, and crashes into a tree, resulting in a fall and injury.",
+      "assessment": "This indicates a lapse in control or misjudgment of the terrain or speed, reflecting a momentary lack of skill or caution.",
+      "rating": -1,
+      "chunk": 100
+    },
+    {
+      "trait": "competence",
+      "action": "Immediately checks on Sarah and the baby after the crash, showing concern and presence of mind.",
+      "assessment": "Shows emotional intelligence and responsibility, important aspects of competence in crisis situations.",
+      "rating": 2,
+      "chunk": 100
+    },
+    {
+      "trait": "competence",
+      "action": "Encourages Sarah to keep moving despite their injuries and the crash.",
+      "assessment": "Demonstrates leadership and determination, maintaining focus on survival and progress.",
+      "rating": 2,
+      "chunk": 100
+    },
+    {
+      "trait": "competence",
+      "action": "Drags Sarah behind him over the tree and continues moving despite the mangled bike and difficult terrain.",
+      "assessment": "This action shows physical strength, quick thinking, and determination to keep moving forward under pressure, indicating capable and skillful behavior.",
+      "rating": 2,
+      "chunk": 101
+    },
+    {
+      "trait": "competence",
+      "action": "Runs with Sarah away from the approaching wave and people behind them, maintaining awareness of their surroundings.",
+      "assessment": "Demonstrates situational awareness and the ability to act decisively in a life-threatening situation, reflecting intelligence and confidence.",
+      "rating": 2,
+      "chunk": 101
+    },
+    {
+      "trait": "warmth",
+      "action": "Sarah holds Leo and the baby; the baby laughs while watching the meteor shower.",
+      "assessment": "Although Leo is silent and does not initiate interaction, he allows Sarah to hold both himself and the baby, indicating a level of trust and comfort. His quiet presence during a moment of awe and wonder suggests a gentle, non-disruptive warmth.",
+      "rating": 1,
+      "chunk": 105
+    },
+    {
+      "trait": "competence",
+      "action": "Leo is unable to speak while witnessing the meteor shower and the ocean receding.",
+      "assessment": "This moment of speechlessness suggests a temporary overwhelm or shock, indicating a lack of immediate verbal response or control in a high-stress, awe-inspiring situation.",
+      "rating": -1,
+      "chunk": 105
+    },
+    {
+      "trait": "competence",
+      "action": "Leo allows Sarah to hold both him and the baby, remaining silent and still as the natural spectacle unfolds.",
+      "assessment": "Leo's passivity here may reflect emotional vulnerability rather than active competence; he does not take charge or attempt to interpret or act, which could be seen as a lack of assertiveness or leadership in a critical moment.",
+      "rating": -1,
+      "chunk": 105
     }
   ]
 }

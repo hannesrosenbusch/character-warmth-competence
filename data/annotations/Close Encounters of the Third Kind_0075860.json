@@ -1,189 +1,340 @@
 {
   "Roy Neary": [
     {
-      "Action": "Tries to conceal his fear from Janice to avoid worrying her.",
-      "Warmth": 1,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "Does not tell Janice that he is scared, trying to protect her from his fear.",
+      "assessment": "Roy's choice to hide his fear from Janice shows a protective and considerate attitude, indicating warmth through his desire to shield a loved one from distress.",
+      "rating": 2,
+      "chunk": 4
     },
     {
-      "Action": "Expresses intense personal fear but still wants to protect Janice’s feelings.",
-      "Warmth": 1,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "Observes the strange object carefully and tries to understand it despite his fear.",
+      "assessment": "His curiosity and calm observation in a frightening situation suggest a sincere and thoughtful nature, which can be linked to warmth.",
+      "rating": 1,
+      "chunk": 4
     },
     {
-      "Action": "Pulls the car to the shoulder and cuts the engine to get a better look at the light in the sky, showing deliberate observation and caution.",
-      "Competence": 1,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "Does not attempt to flee immediately but stands frozen, unable to move.",
+      "assessment": "While this is more an internal reaction to fear than a social behavior, it shows vulnerability but does not directly indicate warmth or coldness.",
+      "rating": 0,
+      "chunk": 4
     },
     {
-      "Action": "Despite being scared, stays still and observes the object carefully, drawing on his pilot experience to describe it accurately.",
-      "Competence": 1,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "Pulls the car to the shoulder and cuts the engine to get a better look at the mysterious light in the sky.",
+      "assessment": "This shows situational awareness and a calm, deliberate approach to an unusual event, indicating a competent and thoughtful response.",
+      "rating": 2,
+      "chunk": 4
     },
     {
-      "Action": "Wants to run but his legs won’t move, indicating a temporary freeze in response to fear.",
-      "Competence": -1,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "Observes and describes the hovering object in detail, noting its shape, material, and movement.",
+      "assessment": "His detailed and accurate observation reflects intelligence, attention to detail, and an ability to analyze unfamiliar phenomena, all signs of competence.",
+      "rating": 3,
+      "chunk": 4
     },
     {
-      "Action": "Uses knowledge of aviation and astronomy to conclude the object is not a plane, star, or meteor.",
-      "Competence": 1,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "Despite fear, he remains physically still and does not run away when the object approaches.",
+      "assessment": "His ability to control his fear and stay rooted in place suggests emotional control and presence of mind, which are positive indicators of competence.",
+      "rating": 2,
+      "chunk": 4
     },
     {
-      "Action": "No direct actions or statements made in this excerpt to evaluate competence.",
-      "Competence": 0,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Attempts to start the car to escape but it won't turn over.",
+      "assessment": "While the failure to start the car is not directly his fault, the fact that he tries to use available resources to respond to the threat shows practical thinking, though the outcome is negative.",
+      "rating": 1,
+      "chunk": 4
     },
     {
-      "Action": "No action or presence indicated in this excerpt; only other characters are described.",
-      "Competence": 0,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Calculates the speed and trajectory of the object based on its movement across the sky.",
+      "assessment": "This demonstrates his knowledge of aviation and astronomy, as well as his ability to apply that knowledge quickly and accurately, indicating high competence.",
+      "rating": 3,
+      "chunk": 4
     },
     {
-      "Action": "No direct action or statement from Roy Neary in this excerpt; other characters display confusion and disorganized behavior in response to the UFO sighting.",
-      "Competence": 0,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Listens patiently to Mr. Estes' story about his missing cow and the space creatures.",
+      "assessment": "Roy shows tolerance and a willingness to hear out others, even when the story seems unbelievable, indicating a degree of open-mindedness and sincerity.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Does not appear or act in this excerpt; no demonstration of skills, decisiveness, or confident behavior visible here.",
-      "Competence": 0,
-      "Chunk": 27
+      "trait": "warmth",
+      "action": "Does not dismiss Mr. Estes outright despite the incredulity of the claim.",
+      "assessment": "By not ridiculing or dismissing Mr. Estes, Roy demonstrates respect and a friendly demeanor toward someone distressed, which reflects warmth.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Steps outside the stalled car to investigate the strange phenomena despite fear.",
-      "Competence": 1,
-      "Chunk": 29
+      "trait": "warmth",
+      "action": "Roy Neary does not appear directly in this excerpt, but the group including VanOwen, Ames, Lawson, and Gouda interact with some light teasing and compromise about where to sit during the event.",
+      "assessment": "While Roy Neary is not explicitly present or acting in this scene, the social dynamics suggest a friendly, tolerant atmosphere among the group. The teasing is mild and the group compromises, indicating a generally warm social environment, though Roy's personal warmth cannot be directly assessed here.",
+      "rating": 0,
+      "chunk": 19
     },
     {
-      "Action": "Fails to keep control of the vehicle as it malfunctions and stalls.",
-      "Competence": -1,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Expresses fear and paranoia, saying 'I seen ‘em, and now they're gonna get me!'",
+      "assessment": "This statement reveals a high level of fear and a lack of composure, suggesting Roy is overwhelmed and not thinking strategically in a stressful situation.",
+      "rating": -2,
+      "chunk": 27
     },
     {
-      "Action": "Shows presence of mind by slowly guiding the dead car onto the shoulder.",
-      "Competence": 1,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Slams the receiver down after a tense phone call.",
+      "assessment": "This impulsive action indicates frustration and a lack of patience or control, which undermines his ability to handle stressful communication effectively.",
+      "rating": -1,
+      "chunk": 27
     },
     {
-      "Action": "Walks backward down the road in fear without taking clear action to resolve the situation.",
-      "Competence": 0,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Presses the accelerator to the floor when the car begins to decelerate, attempting to maintain speed despite the car's malfunction.",
+      "assessment": "This shows a basic understanding of how to respond to a vehicle losing power, indicating some practical driving skill and presence of mind.",
+      "rating": 1,
+      "chunk": 29
     },
     {
-      "Action": "Sweats profusely, lips tremble, wants to run but is frozen in fear when confronted by the unknown phenomenon.",
-      "Competence": -1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Guides the dead car slowly onto the shoulder after the engine conks out.",
+      "assessment": "This action demonstrates calmness and control in an emergency situation, reflecting competent handling of a vehicle failure.",
+      "rating": 2,
+      "chunk": 29
     },
     {
-      "Action": "Observes and mentally processes extraordinary and incomprehensible phenomena without losing all composure.",
-      "Competence": 0,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Steps outside the car despite the strange glowing light and mechanical sound.",
+      "assessment": "This shows a degree of courage and willingness to confront an unknown situation, but also a potential lack of caution or risk assessment.",
+      "rating": 0,
+      "chunk": 29
     },
     {
-      "Action": "No direct actions, statements, or behaviors by Roy Neary are shown in this excerpt; rather, the focus is on VanOwen's behavior.",
-      "Competence": 0,
-      "Chunk": 32
+      "trait": "competence",
+      "action": "Walks backward down the road as fear sets in after seeing the saucer.",
+      "assessment": "This indicates a retreat response driven by fear rather than a strategic or confident approach, suggesting a momentary lapse in composure and competence.",
+      "rating": -1,
+      "chunk": 29
     },
     {
-      "Action": "Abruptly stands up and leaves church service, restless and uncomfortable.",
-      "Warmth": 0,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Sweat pours across his face; his lips tremble. He wants to run but his body won't oblige: he is frozen.",
+      "assessment": "This indicates a moment of intense fear and paralysis, suggesting a lack of control and inability to respond effectively in a critical situation.",
+      "rating": -2,
+      "chunk": 30
     },
     {
-      "Action": "Seems unaware and inattentive to others in church, picks up tracts without interest.",
-      "Warmth": 0,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "His eyes open as big as saucers, fear fills his every pore. He is seeing something of incredible grandeur or horror.",
+      "assessment": "His wide-eyed reaction shows shock and awe, but also a lack of preparedness or composure when confronted with the unknown.",
+      "rating": -1,
+      "chunk": 30
     },
     {
-      "Action": "Stands up abruptly and leaves the church with long confident strides, showing decisiveness and confidence in acting on urgent internal pressure.",
-      "Competence": 1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "His face and body are transformed as if by X-Ray, revealing his inner layers and soul.",
+      "assessment": "This is a metaphorical or supernatural experience rather than a direct action, so it does not directly reflect on his competence.",
+      "rating": 0,
+      "chunk": 30
     },
     {
-      "Action": "Becomes aware of what he has done and scans the tract rack inattentively, demonstrating a momentary lapse in focused awareness.",
-      "Competence": -1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "He raises his hand before him and sees only a skeleton's palm bathed in red light.",
+      "assessment": "Despite his fear and paralysis, he is able to perform a deliberate action (raising his hand) and observe the phenomenon, indicating some level of awareness and presence of mind.",
+      "rating": 1,
+      "chunk": 30
     },
     {
-      "Action": "Shows increasing connection to a subconscious memory through transforming church sounds into celestial/outer space sounds, indicating intuitive engagement and inner awareness that may guide his behavior effectively.",
-      "Competence": 0,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "He sits at the wheel of his station wagon with the engine running and car lights on after the encounter.",
+      "assessment": "This suggests he regains composure and returns to normal functioning, showing resilience and ability to resume control after a traumatic event.",
+      "rating": 1,
+      "chunk": 30
     },
     {
-      "Action": "Interacts with Sharon, insists on leaving to get fresh air despite emotional tension, showing some decisiveness.",
-      "Competence": 1,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "Engages in a heated argument with Sharon, refusing to discuss his feelings and abruptly deciding not to attend church anymore.",
+      "assessment": "This behavior shows emotional volatility and poor communication skills, indicating a lack of emotional competence and self-control, which can undermine overall competence.",
+      "rating": -2,
+      "chunk": 37
     },
     {
-      "Action": "Refuses to engage in constructive conversation about his feelings and problems with Sharon, demonstrating poor communication skills.",
-      "Competence": -1,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "Decides to leave the house to get fresh air after the argument.",
+      "assessment": "This action suggests a moment of self-awareness and an attempt to regain composure, reflecting a minimal but positive step toward managing stress.",
+      "rating": 1,
+      "chunk": 37
     },
     {
-      "Action": "Studies UFO files thoroughly, jots down notes, organizes information methodically on a large bulletin board.",
-      "Competence": 1,
-      "Chunk": 38
+      "trait": "competence",
+      "action": "Walks into Higby's office looking haggard and confronts him about an investigation into his report.",
+      "assessment": "Despite his disheveled appearance, Roy shows initiative and assertiveness by directly addressing the issue with his superior, indicating a degree of professional competence and confidence.",
+      "rating": 2,
+      "chunk": 37
     },
     {
-      "Action": "Leaves an apologetic note on the dresser before leaving.",
-      "Competence": 0,
-      "Chunk": 38
+      "trait": "warmth",
+      "action": "Approaches his ex-wife Sharon quietly and greets her with a casual, gentle 'Hello, dear. How'd things go today?'",
+      "assessment": "Roy's approach is tentative and non-confrontational, showing a respectful and gentle demeanor toward Sharon despite their past, indicating a degree of sincerity and warmth.",
+      "rating": 2,
+      "chunk": 43
     },
     {
-      "Action": "No direct action or statement present in the excerpt to evaluate competence.",
-      "Competence": 0,
-      "Chunk": 39
+      "trait": "warmth",
+      "action": "Follows Sharon into the house after she invites him in, despite the awkwardness between them.",
+      "assessment": "His willingness to engage and accept Sharon's invitation suggests openness and a desire to reconnect or at least maintain civility, reflecting a friendly and tolerant attitude.",
+      "rating": 1,
+      "chunk": 43
     },
     {
-      "Action": "Accepts the cover story and behaves as a good career man.",
-      "Competence": 1,
-      "Chunk": 67
+      "trait": "warmth",
+      "action": "Sharon offers VanOwen a drink and tries to ease the tension by pouring scotch for both of them.",
+      "assessment": "Although this action is by Sharon, it sets a warm, hospitable tone in the scene that Roy Neary is indirectly part of, reflecting a context of openness and friendliness.",
+      "rating": 1,
+      "chunk": 44
     },
     {
-      "Action": "No direct action or statement in this excerpt indicating competence or incompetence.",
-      "Competence": 0,
-      "Chunk": 67
+      "trait": "warmth",
+      "action": "VanOwen (not Roy Neary) hesitates and struggles to explain his reasons for returning, avoiding direct eye contact and showing discomfort.",
+      "assessment": "This hesitation and avoidance suggest emotional distance and difficulty in sincere communication, which could be interpreted as a lack of warmth or difficulty expressing it.",
+      "rating": -1,
+      "chunk": 44
     },
     {
-      "Action": "Calls a former student warmly and is delighted to hear from her, showing friendly outreach.",
-      "Warmth": 1,
-      "Chunk": 88
+      "trait": "warmth",
+      "action": "Pokes his head into Judy Nicholas' suite and greets her, then steps in and sits down when invited.",
+      "assessment": "Roy shows a friendly and approachable demeanor by checking on Judy and accepting her invitation to sit and talk, indicating openness and sincerity.",
+      "rating": 2,
+      "chunk": 53
     },
     {
-      "Action": "Waits patiently for the woman to arrive by bus despite the inconvenience.",
-      "Warmth": 1,
-      "Chunk": 88
+      "trait": "warmth",
+      "action": "Engages in a conversation about personal loss with Judy, responding thoughtfully and showing willingness to share feelings.",
+      "assessment": "Roy's willingness to discuss sensitive topics like his ex-wife and his feelings about her remarriage suggests trustworthiness and emotional openness, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 53
     },
     {
-      "Action": "Takes initiative to engage with a former student by calling her despite uncertainty, showing proactive behavior.",
-      "Competence": 1,
-      "Chunk": 88
+      "trait": "warmth",
+      "action": "Turns back to Becky with a satisfied expression after his accomplishment, and Becky properly acknowledges his accomplishment.",
+      "assessment": "Roy's satisfaction and Becky's positive response suggest a warm, affirming interaction, indicating a friendly and supportive dynamic.",
+      "rating": 2,
+      "chunk": 61
     },
     {
-      "Action": "Demonstrates confusion about his own motivations and actions, admitting he does not know the reason for his presence.",
-      "Competence": -1,
-      "Chunk": 88
+      "trait": "warmth",
+      "action": "Plays in his seat next to Becky and encourages her by saying, 'Now it's your turn.'",
+      "assessment": "Encouraging Becky to participate and sharing the moment with her shows Roy's supportive and inclusive nature, reflecting warmth.",
+      "rating": 2,
+      "chunk": 61
     },
     {
-      "Action": "Recognizes telepathic communication and correctly interprets the message, indicating insight and perceptiveness.",
-      "Competence": 1,
-      "Chunk": 88
+      "trait": "warmth",
+      "action": "Swigs from his beer and makes light comments during the interaction.",
+      "assessment": "While casual and somewhat dismissive, this behavior may indicate a relaxed, informal approach rather than coldness; however, it could also suggest a lack of sensitivity in a serious moment.",
+      "rating": 0,
+      "chunk": 61
     },
     {
-      "Action": "Passively accepts strange circumstances without evident skepticism or critical thinking (e.g. easily convinced the caller is not who he thought).",
-      "Competence": -1,
-      "Chunk": 88
+      "trait": "warmth",
+      "action": "Does not respond directly to Becky's serious and emotional questions about his absence and failures as a father.",
+      "assessment": "Roy's omission to engage sincerely with Becky's heartfelt concerns suggests a lack of trustworthiness and sincerity, negatively impacting perceptions of warmth.",
+      "rating": -2,
+      "chunk": 61
     },
     {
-      "Action": "Expresses willingness to face unknown dangers and uncertainties with determination and readiness.",
-      "Competence": 1,
-      "Chunk": 99
+      "trait": "competence",
+      "action": "Accepts the cover story about the UFO incident and does not challenge the official explanation.",
+      "assessment": "This suggests a tendency to conform and avoid conflict, which may indicate a lack of assertiveness or critical engagement in situations requiring independent judgment.",
+      "rating": -1,
+      "chunk": 67
     },
     {
-      "Action": "Does not appear in this excerpt directly, so no direct competence or incompetence can be assessed here.",
-      "Competence": 0,
-      "Chunk": 99
+      "trait": "competence",
+      "action": "No direct action or statement in this excerpt; the focus is on other characters (Tupelo, VanOwen, Akins).",
+      "assessment": "Roy Neary's absence or silence in this critical discussion about the UFO incident may indicate passivity or lack of initiative in important moments, which can be seen as a negative indicator of competence.",
+      "rating": -2,
+      "chunk": 67
+    },
+    {
+      "trait": "warmth",
+      "action": "Tipped the bellboy upon arrival at the hotel.",
+      "assessment": "Tipping the bellboy is a courteous and considerate gesture, indicating basic kindness and respect toward service workers.",
+      "rating": 2,
+      "chunk": 88
+    },
+    {
+      "trait": "warmth",
+      "action": "Called Miss S, a former student, and was pleased to hear from her.",
+      "assessment": "Reaching out to a former student shows a friendly and sincere attempt to maintain personal connections.",
+      "rating": 2,
+      "chunk": 88
+    },
+    {
+      "trait": "warmth",
+      "action": "Waited patiently for Miss S to arrive by bus despite the hour it would take.",
+      "assessment": "Demonstrates patience and respect for others' circumstances, reflecting tolerance and consideration.",
+      "rating": 2,
+      "chunk": 88
+    },
+    {
+      "trait": "warmth",
+      "action": "Did not express frustration or impatience when realizing the call was not actually with Miss S but a telepathic message.",
+      "assessment": "Shows openness and acceptance of unusual circumstances without negativity, indicating tolerance and sincerity.",
+      "rating": 2,
+      "chunk": 88
+    },
+    {
+      "trait": "warmth",
+      "action": "Accepted the presence and guidance of extraterrestrial beings (Rakon and Daru) without hostility or fear.",
+      "assessment": "His openness and trust toward these beings suggest a good-natured and sincere disposition.",
+      "rating": 3,
+      "chunk": 88
+    },
+    {
+      "trait": "warmth",
+      "action": "Did not react negatively or dismissively to Lou Hekman's departure and irritation.",
+      "assessment": "His tolerance of others' moods and behaviors without confrontation reflects patience and friendliness.",
+      "rating": 2,
+      "chunk": 88
+    },
+    {
+      "trait": "competence",
+      "action": "Decides to go downstairs and wander into the cocktail lounge despite not knowing the reason for his trip.",
+      "assessment": "This shows a degree of decisiveness and willingness to act even in uncertainty, indicating moderate confidence and initiative.",
+      "rating": 1,
+      "chunk": 88
+    },
+    {
+      "trait": "competence",
+      "action": "Calls Miss S, a former student, expecting her to come immediately, but quickly realizes the call is not to her but a telepathic message from Venusians.",
+      "assessment": "This suggests some confusion or lack of situational awareness initially, but also an openness to unusual experiences and adaptability to unexpected circumstances.",
+      "rating": 0,
+      "chunk": 88
+    },
+    {
+      "trait": "competence",
+      "action": "Accepts a ride from Rakon, a Venusian, and travels through the outskirts of town to see the scout ship.",
+      "assessment": "This indicates trust and courage to engage with unknown entities and situations, reflecting confidence and openness, though it may also suggest some naivety.",
+      "rating": 1,
+      "chunk": 88
+    },
+    {
+      "trait": "competence",
+      "action": "Mentions his previous voyage to Venus and his book about it, showing familiarity with extraordinary events.",
+      "assessment": "This implies a level of expertise and experience in dealing with unusual phenomena, suggesting intellectual competence and self-assurance.",
+      "rating": 2,
+      "chunk": 88
+    },
+    {
+      "trait": "warmth",
+      "action": "No direct action or interaction by Roy Neary is present in this excerpt; the focus is on VanOwen and Hekman preparing for a mission.",
+      "assessment": "This excerpt does not provide any observable behavior, statements, or omissions by Roy Neary that would indicate warmth or lack thereof.",
+      "rating": 0,
+      "chunk": 99
     }
   ]
 }

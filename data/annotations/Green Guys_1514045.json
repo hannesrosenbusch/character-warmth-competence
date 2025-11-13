@@ -1,581 +1,1201 @@
 {
-  "Travis ": [
-    {
-      "Action": "States 'We're trying to maintain an image' and 'Someone's gonna get rich. It might as well be you.' showing an attempt to include the client positively.",
-      "Warmth": 1,
-      "Chunk": 2
-    },
-    {
-      "Action": "Expresses hesitation about the current plan, wants to aim for a bigger goal instead of settling for small gains.",
-      "Warmth": 0,
-      "Chunk": 7
-    },
-    {
-      "Action": "Describes playing skillfully and confidently in a high-stakes poker tournament, acting as a chip leader and bluffing effectively.",
-      "Competence": 1,
-      "Chunk": 8
-    },
-    {
-      "Action": "Loses everything to a straight flush and gets pulled aside for a potential opportunity, showing resilience and ability to leverage a loss into a business lead.",
-      "Competence": 1,
-      "Chunk": 8
-    },
-    {
-      "Action": "Hesitates briefly before sharing his information, showing some lack of initial decisiveness.",
-      "Competence": 0,
-      "Chunk": 8
-    },
-    {
-      "Action": "Pumps up the potential investors about the group's reputation and track record.",
-      "Competence": 1,
-      "Chunk": 11
-    },
-    {
-      "Action": "Acknowledges taking risks and understands that it takes money to make money.",
-      "Competence": 1,
-      "Chunk": 13
-    },
-    {
-      "Action": "Volunteers Billy to face a serious threat (getting 'balls cut off') without considering Billy's feelings or the seriousness of the threat.",
-      "Competence": -1,
-      "Chunk": 13
-    },
-    {
-      "Action": "Remains silent or absent during Levi's coaching, not displaying initiative or skill in telemarketing.",
-      "Competence": -1,
-      "Chunk": 18
-    },
-    {
-      "Action": "No direct actions, statements, or behaviors of Travis are present in this excerpt.",
-      "Competence": 0,
-      "Chunk": 24
-    },
-    {
-      "Action": "Shoves back after being physically shoved and tries to escalate the situation by threatening.",
-      "Competence": 0,
-      "Chunk": 27
-    },
-    {
-      "Action": "Relies on boasting about money and connections instead of de-escalating or acting calmly.",
-      "Competence": -1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Allows others to intervene (Billy stops him), indicating lack of control over the situation.",
-      "Competence": -1,
-      "Chunk": 27
-    },
-    {
-      "Action": "Dismisses a colleague’s concerns harshly, telling him to stop speculating and get facts, ending with a harsh command to 'turn your teeth into fangs and start making some arrests.'",
-      "Warmth": -1,
-      "Chunk": 42
-    },
-    {
-      "Action": "Is mentioned as being back home instead of present with the group, no indication of participation or contribution in the scene.",
-      "Competence": 0,
-      "Chunk": 44
-    },
-    {
-      "Action": "No direct actions or statements from Travis in the excerpt; no indication of warmth or coldness.",
-      "Warmth": 0,
-      "Chunk": 46
-    },
-    {
-      "Action": "Not present or mentioned in the excerpt; no relevant behavior to assess competence.",
-      "Competence": 0,
-      "Chunk": 46
-    },
-    {
-      "Action": "Asks clear, direct questions to understand the situation ('So what's this about?', 'What the fuck is goin' on?') showing engagement and initiative.",
-      "Competence": 1,
-      "Chunk": 53
-    },
-    {
-      "Action": "Follows Levi and Billy toward the building after being given some context, indicating readiness to face the problem.",
-      "Competence": 1,
-      "Chunk": 53
-    },
-    {
-      "Action": "No evident action showing specific skill, strategic thinking, or leadership in this excerpt beyond initial inquiry and following others.",
-      "Competence": 0,
-      "Chunk": 53
-    },
-    {
-      "Action": "Quickly covers Andrew's mouth again when Levi motions to silence him.",
-      "Competence": 1,
-      "Chunk": 55
-    },
-    {
-      "Action": "Lights a cigarette and waits silently across the street, showing calmness and patience during a tense situation.",
-      "Competence": 1,
-      "Chunk": 57
-    },
-    {
-      "Action": "Expresses frustration verbally ('Shit! I told you I should do it!') suggesting some confidence in his own ideas or initiative.",
-      "Competence": 1,
-      "Chunk": 57
-    },
-    {
-      "Action": "Fails to provide useful information regarding Heather's whereabouts, indicating limited knowledge or control of the situation.",
-      "Competence": -1,
-      "Chunk": 57
-    },
-    {
-      "Action": "Calmly acknowledges the seriousness of being shot with a somewhat composed remark ('This feels... pretty real.') despite bleeding heavily.",
-      "Competence": 1,
-      "Chunk": 59
-    },
-    {
-      "Action": "Was allowing a dangerous situation to escalate without apparent defensive or evasive action, resulting in being shot unexpectedly.",
-      "Competence": -1,
-      "Chunk": 59
-    }
-  ],
   "Travis": [
     {
-      "Action": "Uses a casual and confident tone in conversation, asserts himself playfully as 'Wyatt' over Andrew's suggestion.",
-      "Warmth": 0,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "Says 'We're trying to maintain an image.' during a meeting with a potential investor.",
+      "assessment": "This statement reflects a focus on reputation and professionalism rather than personal warmth or friendliness; it is neutral in terms of warmth.",
+      "rating": 0,
+      "chunk": 2
     },
     {
-      "Action": "Tells Levi 'Whatever, Levi.' when Levi asserts his identity as Jesse James.",
-      "Warmth": -1,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "Says 'Someone's gonna get rich. It might as well be you.' to the potential investor.",
+      "assessment": "This comment shows a friendly and somewhat encouraging attitude, attempting to include the investor in the potential success, which can be seen as a positive indicator of warmth.",
+      "rating": 2,
+      "chunk": 2
     },
     {
-      "Action": "Responds to Levi's challenge with dismissive remarks like 'Yeah, you're gonna have to be...well...you're fucked.'",
-      "Warmth": -1,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "Travis contributes to the conversation by stating, 'We're trying to maintain an image.' and 'Someone's gonna get rich. It might as well be you.'",
+      "assessment": "This shows Travis is aware of the importance of branding and investor confidence, indicating a level of business acumen and social awareness.",
+      "rating": 2,
+      "chunk": 2
     },
     {
-      "Action": "Joins group in casual banter without apparent malice, e.g., jokingly calls Levi 'Black Sinatra?'.",
-      "Warmth": 0,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "Says 'Fuck that, Andrew. I'm Wyatt.' in a playful exchange about outlaw nicknames.",
+      "assessment": "Travis engages in lighthearted banter with his friends, showing a friendly and humorous side that suggests camaraderie and ease in social interaction.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Has no demonstrated attempts to ease tensions or show empathy during the group's conflicts and identity disputes.",
-      "Warmth": -1,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "Confidently asserts that investors will be eager to give more money after seeing returns in the first two months.",
+      "assessment": "This statement shows Travis's confidence and persuasive ability, suggesting he understands investor psychology and is assertive in sales or negotiation contexts.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "No way I'm Doc Holliday.",
-      "Competence": 0,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "Engages in playful banter claiming to be Wyatt Earp, rejecting the sidekick role.",
+      "assessment": "This shows social confidence and a willingness to assert leadership or prominence in group dynamics, indicating self-assurance but not necessarily skill or intelligence.",
+      "rating": 1,
+      "chunk": 3
     },
     {
-      "Action": "Yeah, you're gonna have to be... well... you're fucked.",
-      "Competence": 0,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "Responds to Levi's claim of being Jesse James with 'Whatever, Levi.'",
+      "assessment": "Travis's dismissive response to Levi's identity claim shows a lack of tolerance and friendliness toward Levi's self-expression.",
+      "rating": -1,
+      "chunk": 4
     },
     {
-      "Action": "Whatever, Levi.",
-      "Competence": -1,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "Engages in the group's banter about who will be which outlaw or Rat Pack member.",
+      "assessment": "Travis participates in the group's playful conversation, indicating some level of friendliness and social engagement.",
+      "rating": 1,
+      "chunk": 4
     },
     {
-      "Action": "And what are we called?",
-      "Competence": 0,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "Says to Levi, 'Yeah, you're gonna have to be... well... you're fucked.'",
+      "assessment": "This statement is blunt and somewhat harsh, lacking empathy or kindness, which reflects low warmth.",
+      "rating": -2,
+      "chunk": 4
     },
     {
-      "Action": "Black Sinatra?",
-      "Competence": 0,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "Asks 'And what are we called?' showing interest in group identity.",
+      "assessment": "This question suggests Travis cares about group cohesion and inclusion, a positive indicator of warmth.",
+      "rating": 2,
+      "chunk": 4
     },
     {
-      "Action": "Says 'Gotta keep it going is all.', showing commitment to the group's goals.",
-      "Warmth": 1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Engages in the group's discussion about identities and roles, responding with dismissive but clear statements like 'Whatever, Levi.'",
+      "assessment": "Travis shows a casual confidence and a willingness to assert his opinions, indicating a moderate level of social competence and self-assurance in group dynamics.",
+      "rating": 1,
+      "chunk": 4
     },
     {
-      "Action": "Supports the idea of getting a call room and hiring a manager, indicating willingness to adapt and contribute.",
-      "Warmth": 1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Asks 'And what are we called?' after roles are assigned, seeking clarity on group identity.",
+      "assessment": "This question demonstrates an awareness of the importance of group cohesion and identity, reflecting thoughtful engagement and a degree of strategic thinking.",
+      "rating": 2,
+      "chunk": 4
     },
     {
-      "Action": "No explicit display of warmth or coldness while agreeing with others silently.",
-      "Warmth": 0,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Responds to Levi's suggestion of being 'Sinatra' with 'Black Sinatra?'",
+      "assessment": "This response shows quick wit and the ability to engage in banter, suggesting social agility and mental sharpness.",
+      "rating": 1,
+      "chunk": 4
     },
     {
-      "Action": "Gets angry and swears at another player after losing a hand, reacts with frustration and insults.",
-      "Warmth": -1,
-      "Chunk": 6
+      "trait": "competence",
+      "action": "Does not challenge Levi's aggressive language or the group's ethical discussion about scamming.",
+      "assessment": "Travis's silence or lack of challenge in this morally ambiguous conversation may indicate passivity or lack of assertiveness in critical ethical matters, which could be seen as a negative indicator of competence.",
+      "rating": -1,
+      "chunk": 4
     },
     {
-      "Action": "Pushes all-in confidently at poker table.",
-      "Competence": 1,
-      "Chunk": 6
+      "trait": "warmth",
+      "action": "Says 'Gotta keep it going is all' in response to the group's plan to continue raising money.",
+      "assessment": "This statement shows a pragmatic and supportive attitude toward the group's collective goal, indicating a cooperative and encouraging nature.",
+      "rating": 1,
+      "chunk": 5
     },
     {
-      "Action": "Pulls out cigarette and attempts to light in a no smoking environment, ignoring rules.",
-      "Competence": -1,
-      "Chunk": 6
+      "trait": "warmth",
+      "action": "Supports the idea of getting a call room and mentions hiring the main manager.",
+      "assessment": "By endorsing the expansion and taking responsibility for hiring, Travis demonstrates engagement and willingness to contribute to the group's efforts, reflecting a degree of trustworthiness and commitment.",
+      "rating": 1,
+      "chunk": 5
     },
     {
-      "Action": "Gets shocked when opponent calls his all-in bet.",
-      "Competence": -1,
-      "Chunk": 6
+      "trait": "warmth",
+      "action": "No direct interaction with Andrew's concerns about cold calls; does not address Andrew's hesitation.",
+      "assessment": "Travis does not attempt to soothe or acknowledge Andrew's discomfort with the new approach, which could suggest a lack of sensitivity or tolerance toward differing opinions within the group.",
+      "rating": -1,
+      "chunk": 5
     },
     {
-      "Action": "Fails to recognize slow play and reacts emotionally, yelling insults.",
-      "Competence": -1,
-      "Chunk": 6
+      "trait": "warmth",
+      "action": "Sits alone at a casino poker table and goes all-in.",
+      "assessment": "This action may indicate risk-taking and possible isolation, which does not directly reflect warmth; it could suggest self-centeredness or detachment from others at this moment.",
+      "rating": -1,
+      "chunk": 5
     },
     {
-      "Action": "Expresses hesitation about current strategy and pushes for a bigger goal, showing ambition and strategic thinking.",
-      "Competence": 1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Says 'Gotta keep it going is all' in response to the group's discussion about sustaining their investment scheme.",
+      "assessment": "This statement shows Travis's understanding of the need for persistence and continuity, indicating a practical and steady mindset.",
+      "rating": 1,
+      "chunk": 5
     },
     {
-      "Action": "Hesitates and trails off when asked if he has a plan, indicating uncertainty or lack of readiness.",
-      "Competence": -1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Supports the idea of getting a call room and reports that they have hired the main manager but not the telemarketers yet.",
+      "assessment": "Travis demonstrates initiative and some organizational awareness by following up on hiring progress, suggesting moderate competence in managing operational details.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Confronts Andrew to speak for himself instead of letting Andrew speak for him.",
-      "Warmth": 1,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Sits at a Texas Hold'em table and goes all-in on a hand.",
+      "assessment": "Going all-in can indicate confidence and decisiveness, but without context on his skill or reasoning, it could also suggest recklessness or impulsiveness.",
+      "rating": 0,
+      "chunk": 5
     },
     {
-      "Action": "Tells a story about a high-stakes poker game confidently and with some bravado.",
-      "Warmth": 0,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Freaks out and insults another player after losing a poker hand, calling him a 'fuckin' bitch!'",
+      "assessment": "Travis's outburst is aggressive and hostile, showing a lack of tolerance and friendliness in a stressful situation.",
+      "rating": -3,
+      "chunk": 6
     },
     {
-      "Action": "Identifies and honestly communicates the high stakes and dangers of dealing with a powerful drug lord.",
-      "Competence": 1,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Attempts to light a cigarette during a no-smoking game.",
+      "assessment": "This action shows a disregard for rules and others' comfort, indicating low consideration and warmth.",
+      "rating": -2,
+      "chunk": 6
     },
     {
-      "Action": "Uses vivid metaphor (Moby Dick) to emphasize the magnitude of the threat, showing awareness and understanding of the situation.",
-      "Competence": 1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Pushes his chips into the middle of the table and attempts to light a cigarette during a high-stakes poker game.",
+      "assessment": "This shows a lack of focus and poor timing in a tense situation, indicating a degree of impulsiveness and distraction rather than calm, calculated behavior.",
+      "rating": -1,
+      "chunk": 6
     },
     {
-      "Action": "Greets Mr. Garcia warmly and shakes hands with him and Levi.",
-      "Warmth": 1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Reacting with shock and anger when losing to a slow-played pocket Kings hand, yelling 'FUCK! You're slow playing Kings! You fuckin' bitch!'",
+      "assessment": "This outburst reveals poor emotional control and a tendency to lose composure under pressure, which undermines his ability to behave skillfully and confidently in competitive situations.",
+      "rating": -2,
+      "chunk": 6
     },
     {
-      "Action": "Engages in light-hearted banter with Tan'el Garcia, sharing a joke and smiling.",
-      "Warmth": 1,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Expresses doubts about the current business deal and suggests aiming for bigger opportunities instead of settling for smaller investments.",
+      "assessment": "Travis shows ambition and a desire for greater success, but his reluctance to fully support the group's current plan may indicate a lack of trust or alignment with the team, which could be seen as less collaborative or supportive.",
+      "rating": 0,
+      "chunk": 7
     },
     {
-      "Action": "Greets Mr. Garcia with a confident and polite remark, maintaining composure when meeting a potentially formidable figure.",
-      "Competence": 1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Expresses a desire to pursue bigger opportunities rather than settling for small investments.",
+      "assessment": "This shows ambition and strategic thinking, indicating a willingness to aim higher and not be complacent with minimal gains.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Engages in light banter with Tan'el Garcia around the dining table, showing social ease and confidence in a tense or high-stakes environment.",
-      "Competence": 1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Hesitates and trails off when asked if he has a specific plan for going after bigger targets.",
+      "assessment": "This hesitation suggests a lack of preparedness or concrete ideas, which undermines his confidence and capability in this situation.",
+      "rating": -1,
+      "chunk": 7
     },
     {
-      "Action": "Acknowledges and compliments Tan'el's rule about not trusting anyone.",
-      "Warmth": 0,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Defends himself when Andrew tries to speak for him by saying, 'Can I speak for myself?'",
+      "assessment": "Travis asserts his own voice and boundaries, which can indicate self-respect and sincerity, but it is a neutral indicator of warmth as it does not directly show friendliness or trustworthiness toward others.",
+      "rating": 0,
+      "chunk": 8
     },
     {
-      "Action": "Guesses the price of the painting humorously and takes a lighthearted hit on the arm from Levi.",
-      "Warmth": 1,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Shares a personal story about meeting Tan'el Garcia and the poker tournament experience openly with his friends.",
+      "assessment": "By sharing a personal and somewhat vulnerable story, Travis shows a willingness to be open and sincere with his peers, which is a positive indicator of warmth.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Agrees with Tan'el's rule about making good decisions and not trusting anyone.",
-      "Competence": 1,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Confidently recounts his experience playing in a high-stakes underground hold'em tournament, describing his strategic play and ability to lead in chips.",
+      "assessment": "This shows Travis has skill and confidence in poker, indicating intelligence and strategic thinking under pressure.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Guesses the painting costs sixty dollars, which is far from the actual price of one hundred thousand dollars.",
-      "Competence": -1,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Successfully pitches himself as a broker, adopting a convincing persona to engage with a powerful player.",
+      "assessment": "This demonstrates social skill, adaptability, and confidence in managing impressions, which are positive indicators of competence.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Encourages Billy to 'take one for the team' regarding a violent threat",
-      "Warmth": -1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Loses everything to a straight flush but remains composed and uses the loss as an opportunity to gain a new lead (the Mexico City contact).",
+      "assessment": "While losing all chips is a failure in the game, Travis's ability to turn the situation into a potential business opportunity shows resilience and strategic thinking, reflecting competence.",
+      "rating": 1,
+      "chunk": 8
     },
     {
-      "Action": "Takes the pocket knife from Tan'El and clutches it tight.",
-      "Warmth": 0,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Initially hesitates to reveal the name of his contact but ultimately shares it when pressed.",
+      "assessment": "This hesitation could suggest some uncertainty or caution, but overall he manages the situation well, so the impact on competence is neutral to slightly positive.",
+      "rating": 0,
+      "chunk": 8
     },
     {
-      "Action": "Tells Billy to chill out when he starts hyperventilating, showing little sympathy.",
-      "Warmth": -1,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "Greets Tan'el Garcia warmly with 'Good to see you again, Mr. Garcia.' and shakes hands.",
+      "assessment": "Travis's greeting is polite and respectful, indicating friendliness and sincerity.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Teasing Levi about being on edge, joining the group's laughter.",
-      "Warmth": 1,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "Engages in light-hearted banter with Tan'el about gambling tables, smiling and grinning.",
+      "assessment": "This playful exchange shows Travis's ability to be friendly and approachable, fostering camaraderie.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Doing cocaine at the club and getting hammered while at work.",
-      "Competence": -1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Walks ahead with Levi, staring straight forward, showing focus and purpose.",
+      "assessment": "This behavior suggests Travis is confident and purposeful, indicating a competent demeanor in unfamiliar or high-stakes environments.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Ignoring the need to moderate his drinking and focus on job responsibilities.",
-      "Competence": -1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Greets Tan'el Garcia politely and professionally: 'Good to see you again, Mr. Garcia.'",
+      "assessment": "This shows social skill and professionalism, reflecting competence in interpersonal interactions.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Buys drinks for the ladies and shares his wealth openly.",
-      "Warmth": 1,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Engages in light banter with Tan'el about gambling losses, responding with a grin and a confident 'Any time, any place.'",
+      "assessment": "This indicates Travis is comfortable, confident, and skilled in social situations, able to maintain rapport and assertiveness.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Dismisses advice to slow down, shows impatience and recklessness.",
-      "Warmth": -1,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Travis pumps up Tan'el about Andrew and Levi's reputation and track record.",
+      "assessment": "This suggests Travis is knowledgeable about the business and confident enough to promote his associates, indicating a level of competence in understanding and communicating their value.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Sips beer, contemplates dying young as a way to become a legend, referencing cultural icons",
-      "Warmth": 0,
-      "Chunk": 21
+      "trait": "warmth",
+      "action": "Responds to Tan'el's harsh rules with 'That's a pretty good rule.'",
+      "assessment": "Travis shows a degree of acceptance and perhaps camaraderie by acknowledging Tan'el's tough stance, indicating some openness and friendliness in a tense situation.",
+      "rating": 1,
+      "chunk": 12
     },
     {
-      "Action": "Articulates a confident philosophy about living fast and becoming a legend by dying young, referencing iconic figures.",
-      "Competence": 1,
-      "Chunk": 21
+      "trait": "warmth",
+      "action": "Guesses the price of the painting as 'Um...sixty bucks?'",
+      "assessment": "Travis's casual and somewhat humorous guess in a serious context suggests a relaxed and approachable demeanor, which can be seen as friendly and sincere.",
+      "rating": 1,
+      "chunk": 12
     },
     {
-      "Action": "Appears passed out drunk and face down in the middle of a room, showing a lack of self-control or responsibility.",
-      "Competence": -1,
-      "Chunk": 21
+      "trait": "warmth",
+      "action": "Accepts Tan'el's card and investment despite Tan'el expressing guilt about taking his money.",
+      "assessment": "Travis does not react negatively or confrontationally to Tan'el's guilt, showing tolerance and a willingness to maintain the relationship, which reflects warmth.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "No direct actions or statements from Travis in the excerpt to assess competence.",
-      "Competence": 0,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Responds to Tan'el's rule about not trusting anyone with 'That's a pretty good rule.'",
+      "assessment": "Travis shows some understanding and agreement with a cautious, strategic mindset, indicating a moderate level of insight and prudence.",
+      "rating": 1,
+      "chunk": 12
     },
     {
-      "Action": "Dismisses Billy abruptly with 'Yeah, yeah' without engagement.",
-      "Warmth": -1,
-      "Chunk": 26
+      "trait": "competence",
+      "action": "Guesses the value of the painting as 'Um...sixty bucks?'",
+      "assessment": "This guess is significantly off from the actual value of one hundred thousand dollars, suggesting a lack of knowledge or awareness about high-value investments or appearances, which reflects poorly on his competence in this context.",
+      "rating": -2,
+      "chunk": 12
     },
     {
-      "Action": "Celebrates a poker win loudly and taunts opponent excessively, provoking conflict.",
-      "Warmth": -1,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Billy volunteers to take the risk of having his balls cut off, and Travis encourages him by saying, 'C'mon, Bill! Take one for the team here!'",
+      "assessment": "Travis's encouragement of Billy to volunteer for a painful and dangerous consequence shows a lack of sensitivity and empathy toward Billy's feelings and well-being, indicating low warmth.",
+      "rating": -2,
+      "chunk": 13
     },
     {
-      "Action": "Asks bystanders to intervene in a tense situation rather than de-escalating verbally.",
-      "Warmth": -1,
-      "Chunk": 26
+      "trait": "competence",
+      "action": "Volunteers Billy to take the risk of having his balls cut off.",
+      "assessment": "This action shows a lack of tact and poor judgment, as it puts a friend in harm's way without considering the consequences or Billy's feelings, indicating low social competence and poor leadership.",
+      "rating": -2,
+      "chunk": 13
     },
     {
-      "Action": "Scowls and looks away after a threat; responds with aggression and bragging about money",
-      "Warmth": -1,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Engages in a high-stakes negotiation involving a large investment and risk.",
+      "assessment": "Travis demonstrates some understanding of risk and investment, showing willingness to engage in serious financial dealings, which suggests a moderate level of competence in business matters.",
+      "rating": 1,
+      "chunk": 13
     },
     {
-      "Action": "Apologizes for being late and takes his seat despite feeling uncomfortable.",
-      "Warmth": 1,
-      "Chunk": 28
+      "trait": "competence",
+      "action": "Fails to intervene or moderate the escalating tension when Tan’el threatens violence.",
+      "assessment": "Travis does not display control or confidence in managing a volatile situation, which reflects negatively on his competence in conflict resolution and leadership.",
+      "rating": -1,
+      "chunk": 13
     },
     {
-      "Action": "Responds defensively and insults Andrew by calling him a 'tattle-tale'.",
-      "Warmth": -1,
-      "Chunk": 28
+      "trait": "warmth",
+      "action": "Clutches the pocket knife tossed to him by Tan'el, showing attentiveness to the group's symbols.",
+      "assessment": "While this shows attentiveness and perhaps respect for the group's dynamics, it does not directly indicate warmth.",
+      "rating": 0,
+      "chunk": 14
     },
     {
-      "Action": "Rejects leadership and lashes out at Levi with profanity during disagreement.",
-      "Warmth": -1,
-      "Chunk": 28
+      "trait": "warmth",
+      "action": "Tells Billy to 'chill out' when Billy starts hyperventilating about the pressure of the score.",
+      "assessment": "This response is somewhat dismissive of Billy's anxiety and lacks empathy, indicating a lower level of warmth.",
+      "rating": -1,
+      "chunk": 14
     },
     {
-      "Action": "Eventually sighs and agrees to be more cautious after being confronted.",
-      "Warmth": 1,
-      "Chunk": 28
+      "trait": "warmth",
+      "action": "Sits down and lights a cigarette after telling Billy to chill out.",
+      "assessment": "This action suggests a calm, perhaps detached demeanor rather than engagement or support, which does not strongly indicate warmth.",
+      "rating": 0,
+      "chunk": 14
     },
     {
-      "Action": "Arrives late disheveled to an important meeting.",
-      "Competence": -1,
-      "Chunk": 28
+      "trait": "warmth",
+      "action": "Jokes about Levi being on edge because he 'put his balls on the line,' joining in the group's laughter.",
+      "assessment": "Participating in humor with the group can be a sign of friendliness and camaraderie, a mild positive indicator of warmth.",
+      "rating": 1,
+      "chunk": 14
     },
     {
-      "Action": "Dismisses concerns about drawing attention and argues that their cover is credible.",
-      "Competence": -1,
-      "Chunk": 28
+      "trait": "competence",
+      "action": "Clutches the pocket knife tossed to him by Tan'el tightly.",
+      "assessment": "This shows Travis is alert and takes the significance of the knife seriously, indicating a level of situational awareness and readiness.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Refuses to heed warnings about being cautious and acts defiantly.",
-      "Competence": -1,
-      "Chunk": 28
+      "trait": "competence",
+      "action": "Tells Billy to 'chill out' when Billy starts hyperventilating about the pressure of the ten million dollar score.",
+      "assessment": "Travis demonstrates emotional control and attempts to calm others, suggesting confidence and a steady demeanor under pressure.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Eventually takes a deep breath and concedes to behaving more cautiously.",
-      "Competence": 0,
-      "Chunk": 28
+      "trait": "competence",
+      "action": "Lights a cigarette calmly after telling Billy to relax.",
+      "assessment": "This action reinforces Travis's composed and confident attitude in a high-stress situation, showing he is not easily rattled.",
+      "rating": 1,
+      "chunk": 14
     },
     {
-      "Action": "Asserts leadership and ownership of the scheme clearly and confidently in the argument.",
-      "Competence": 1,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Gives Billy a strange look when he hyperventilates.",
+      "assessment": "This could indicate Travis's critical or skeptical thinking, possibly assessing the emotional state of his team, which is a competent leadership trait.",
+      "rating": 1,
+      "chunk": 14
     },
     {
-      "Action": "Frustrated and wanders away rubbing his head instead of actively managing the crisis with Richard.",
-      "Competence": -1,
-      "Chunk": 29
+      "trait": "warmth",
+      "action": "Doing cocaine in the club and getting hammered while taking shots with women.",
+      "assessment": "Engaging in heavy drug and alcohol use in a social setting suggests reckless behavior and a lack of concern for others' well-being, which detracts from warmth.",
+      "rating": -2,
+      "chunk": 19
     },
     {
-      "Action": "Reads the room well enough to let others handle the interrogation and steps back.",
-      "Competence": 0,
-      "Chunk": 29
+      "trait": "warmth",
+      "action": "Laughs with Billy and reacts casually to Levi's trouble.",
+      "assessment": "Laughing and showing a casual, dismissive attitude toward a friend's problems indicates a lack of empathy and sincerity.",
+      "rating": -2,
+      "chunk": 19
     },
     {
-      "Action": "Agrees with killing Richard without hesitation, despite Richard's pleas.",
-      "Warmth": -1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Doing cocaine in the club and getting hammered while at work.",
+      "assessment": "This behavior indicates poor self-control and lack of professionalism, which negatively impacts his ability to perform competently in a work environment.",
+      "rating": -3,
+      "chunk": 19
     },
     {
-      "Action": "Says 'Sorry guys...nothing like that will ever happen again...'",
-      "Warmth": 1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Taking shots with attractive women at the club during work hours.",
+      "assessment": "This suggests distraction and prioritizing personal pleasure over job responsibilities, reflecting low competence in managing work-life boundaries.",
+      "rating": -2,
+      "chunk": 19
     },
     {
-      "Action": "Promises that 'nothing like that will ever happen again' after a security breach, showing awareness and taking ownership of a problem.",
-      "Competence": 1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Looking at his watch while drinking and partying.",
+      "assessment": "This could indicate some awareness of time and responsibilities, a minor positive sign of competence, though overshadowed by his intoxicated state.",
+      "rating": 0,
+      "chunk": 19
     },
     {
-      "Action": "Only makes a verbal assurance without proposing a concrete plan or action, reflecting a limited demonstration of problem-solving skills in this excerpt.",
-      "Competence": 0,
-      "Chunk": 31
+      "trait": "warmth",
+      "action": "Takes out a huge wad of twenties and tells the bartender to get the ladies whatever they want, making them laugh and smiling.",
+      "assessment": "This action shows generosity and a friendly, sociable attitude, indicating a warm and inclusive nature toward others in a social setting.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Engages in lighthearted banter about jinx and karma, smiles, suggests a group trip to Vegas to relax and bond.",
-      "Warmth": 1,
-      "Chunk": 33
+      "trait": "warmth",
+      "action": "Argues with Billy about not slowing down and living fast, showing impatience and a disregard for caution or others' advice.",
+      "assessment": "Travis's insistence on pushing forward recklessly and dismissing Billy's concerns suggests a lack of tolerance and consideration, which detracts from warmth.",
+      "rating": -1,
+      "chunk": 20
     },
     {
-      "Action": "Challenges Levi's seriousness about work by questioning if they really need to work, encourages fun despite workload.",
-      "Warmth": 1,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "Insists on going full speed ahead despite warnings from Billy to slow down.",
+      "assessment": "This shows Travis's confidence and decisiveness, but also a reckless disregard for caution, which undermines his competence in managing risk.",
+      "rating": -1,
+      "chunk": 20
     },
     {
-      "Action": "Jokes about Levi being jealous of Andrew in a friendly, teasing manner causing others to laugh.",
-      "Warmth": 1,
-      "Chunk": 34
+      "trait": "competence",
+      "action": "Expresses strong belief in their financial success and future potential.",
+      "assessment": "This demonstrates Travis's optimism and vision, indicating mental confidence and a forward-looking mindset, which are positive competence indicators.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Walks into casino and slaps down a huge wad of money with a smile, causing the cashier to look at him strangely.",
-      "Warmth": 0,
-      "Chunk": 34
+      "trait": "competence",
+      "action": "Flashes large amounts of cash to buy drinks for women at the club.",
+      "assessment": "This action shows social confidence and a willingness to take initiative, but may also reflect impulsiveness rather than strategic thinking.",
+      "rating": 1,
+      "chunk": 20
     },
     {
-      "Action": "No direct actions or statements in the provided excerpt related to competence observed for Travis.",
-      "Competence": 0,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Rejects advice to be more low key, insisting on living fast.",
+      "assessment": "This suggests a strong-willed and self-assured personality, but also a potential blind spot in self-regulation and adaptability, which can limit competence.",
+      "rating": 0,
+      "chunk": 20
     },
     {
-      "Action": "Criticizes Mikey for lacking tangible evidence and skepticism, demands facts and arrests, asserting the need for concrete investigative work.",
-      "Competence": 1,
-      "Chunk": 42
+      "trait": "warmth",
+      "action": "Sips his beer and philosophizes about dying young making you a legend, referencing famous figures like James Dean and Marilyn Monroe.",
+      "assessment": "This action shows Travis reflecting on life and legacy in a somewhat detached, self-centered way rather than expressing genuine warmth or concern for others.",
+      "rating": -1,
+      "chunk": 21
     },
     {
-      "Action": "Fails to show up on time as expected, causing inconvenience to partners.",
-      "Warmth": -1,
-      "Chunk": 43
+      "trait": "warmth",
+      "action": "Passed out face down in the middle of the room, snoring, showing a lack of self-care or consideration for his surroundings.",
+      "assessment": "This behavior suggests neglect or disregard for himself and possibly others, indicating low warmth due to irresponsibility or indifference.",
+      "rating": -2,
+      "chunk": 21
     },
     {
-      "Action": "Fails to show up on time to meet Levi and Andrew despite being their connection to Tan’el.",
-      "Competence": -1,
-      "Chunk": 43
+      "trait": "competence",
+      "action": "Travis sips his beer, takes a deep breath, and confidently states, 'Dying young makes you a legend,' referencing famous figures who died young.",
+      "assessment": "This shows Travis has a certain self-awareness and philosophical outlook, expressing his thoughts clearly and confidently, which suggests a degree of mental competence and composure.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Suggests killing Tan'el to keep the money",
-      "Warmth": -1,
-      "Chunk": 48
+      "trait": "competence",
+      "action": "Travis is found passed out face down in the middle of the room, snoring.",
+      "assessment": "This indicates a lack of self-control or discipline in this moment, reflecting poorly on his physical or situational competence.",
+      "rating": -2,
+      "chunk": 21
     },
     {
-      "Action": "Pressures Andrew by repeatedly asking what he would do for ten million dollars",
-      "Warmth": -1,
-      "Chunk": 48
+      "trait": "warmth",
+      "action": "No direct actions or statements by Travis in this excerpt; he is absent from the interaction.",
+      "assessment": "Travis does not appear or participate in this scene, so no indicators of warmth can be inferred from this excerpt.",
+      "rating": 0,
+      "chunk": 24
     },
     {
-      "Action": "Tells Andrew 'You stay here, be a pussy.'",
-      "Warmth": -1,
-      "Chunk": 49
+      "trait": "competence",
+      "action": "No direct actions, statements, or internal behaviors of Travis are present in this excerpt.",
+      "assessment": "Travis does not appear or act in this passage, so no assessment of his competence can be made based on this text.",
+      "rating": 0,
+      "chunk": 24
     },
     {
-      "Action": "Leans back and says 'I think [murdering Tan'el] should be an option.'",
-      "Warmth": -1,
-      "Chunk": 49
+      "trait": "warmth",
+      "action": "Celebrates his poker win by pumping his fist and taunting the other player.",
+      "assessment": "Travis's exuberant celebration and taunting show competitiveness but lack consideration for others' feelings, indicating low warmth.",
+      "rating": -2,
+      "chunk": 26
     },
     {
-      "Action": "Expresses surprise and distrust upon learning Levi tapped Andrew's phones ('You're a liar.')",
-      "Warmth": 0,
-      "Chunk": 49
+      "trait": "warmth",
+      "action": "Responds to the other player's anger with dismissive and provocative remarks.",
+      "assessment": "His dismissive and provocative responses escalate tension rather than defuse it, reflecting low tolerance and friendliness.",
+      "rating": -3,
+      "chunk": 26
     },
     {
-      "Action": "Considers murder as an option in a tense situation, indicating a willingness to contemplate extreme measures without clear alternative solutions.",
-      "Competence": -1,
-      "Chunk": 49
+      "trait": "warmth",
+      "action": "Scowls and looks away when threatened physically.",
+      "assessment": "Though he avoids physical confrontation, his reaction seems more out of self-preservation than sincere warmth or friendliness.",
+      "rating": -1,
+      "chunk": 26
     },
     {
-      "Action": "Leans back in chair and remains mostly silent or passive during critical conversations, lacking proactive problem solving or leadership.",
-      "Competence": -1,
-      "Chunk": 49
+      "trait": "competence",
+      "action": "Plays hold'em confidently, raises ten thousand, and wins the hand.",
+      "assessment": "This action shows Travis has skill and confidence in poker, indicating a competent understanding of the game and risk-taking ability.",
+      "rating": 2,
+      "chunk": 26
     },
     {
-      "Action": "Expresses surprise and distrust when learning about phone tapping but does not immediately follow up or confront decisively.",
-      "Competence": -1,
-      "Chunk": 49
+      "trait": "competence",
+      "action": "Celebrates his win by pumping his fist and taunting the other player.",
+      "assessment": "While confident, this behavior is immature and provokes conflict, suggesting a lack of emotional control and social tact, which detracts from overall competence.",
+      "rating": -1,
+      "chunk": 26
     },
     {
-      "Action": "Calmly asks to close the door before detaining Andrew; quickly restrains Andrew with duct tape to prevent escape.",
-      "Warmth": -1,
-      "Chunk": 54
+      "trait": "competence",
+      "action": "Responds to the aggressive player by telling him to 'chill the fuck out' but then looks away and does not escalate.",
+      "assessment": "Travis attempts to de-escalate verbally but ultimately avoids direct confrontation, which may indicate some social awareness but also a lack of assertiveness or control in tense situations.",
+      "rating": 0,
+      "chunk": 26
     },
     {
-      "Action": "Calmly asks to close the door, quickly restrains Andrew with duct tape effectively and decisively.",
-      "Competence": 1,
-      "Chunk": 54
+      "trait": "competence",
+      "action": "Travis scowls and looks away after being threatened but then reacts by shoving back and threatening the Player verbally, claiming he knows powerful people and has money.",
+      "assessment": "Travis shows some confidence and bravado in his verbal threats, indicating a degree of social or street competence, but his reaction to being shoved—flying back and needing to be stopped—suggests a lack of physical control or dominance in the confrontation.",
+      "rating": 0,
+      "chunk": 27
     },
     {
-      "Action": "Lights a cigarette and waits silently with Levi, showing no interaction or concern.",
-      "Warmth": 0,
-      "Chunk": 57
+      "trait": "competence",
+      "action": "Travis flies back when shoved and is stopped by Billy from continuing the scuffle.",
+      "assessment": "This physical reaction indicates a lack of physical competence or control in a fight situation, as he is easily pushed back and restrained.",
+      "rating": -1,
+      "chunk": 27
     },
     {
-      "Action": "Expresses frustration when Levi hesitates to act ('Shit! I told you I should do it!').",
-      "Warmth": -1,
-      "Chunk": 57
+      "trait": "warmth",
+      "action": "Arrives late to the meeting, looking disheveled and uncomfortable when confronted by others.",
+      "assessment": "Travis's lateness and disheveled appearance suggest a lack of consideration for others' time and the group's expectations, indicating lower warmth.",
+      "rating": -1,
+      "chunk": 28
     },
     {
-      "Action": "Commands others to be shot and tries to take the gun aggressively.",
-      "Warmth": -1,
-      "Chunk": 58
+      "trait": "warmth",
+      "action": "Responds defensively and sarcastically when asked to be more discreet about his wealth, including calling Andrew a 'tattle-tale' and telling Levi 'fuck you'.",
+      "assessment": "His defensive and hostile responses show a lack of tolerance and friendliness toward his teammates, reflecting low warmth.",
+      "rating": -3,
+      "chunk": 28
     },
     {
-      "Action": "Harshly insults Andrew and encourages violence.",
-      "Warmth": -1,
-      "Chunk": 58
+      "trait": "warmth",
+      "action": "Eventually agrees to take it easy and be more cautious after being confronted.",
+      "assessment": "Despite his initial resistance, Travis shows some willingness to listen and compromise, which is a mild positive indicator of warmth.",
+      "rating": 1,
+      "chunk": 28
     },
     {
-      "Action": "Accuses Levi of being paranoid but tries to assert trust and loyalty.",
-      "Warmth": 0,
-      "Chunk": 58
+      "trait": "competence",
+      "action": "Walks into the meeting late, looking disheveled in his suit.",
+      "assessment": "Arriving late and appearing disheveled suggests a lack of punctuality and attention to professional appearance, which can undermine perceptions of competence.",
+      "rating": -1,
+      "chunk": 28
     },
     {
-      "Action": "Tells Levi that if he can't trust Travis, he can't trust anyone, implying some level of sincerity.",
-      "Warmth": 1,
-      "Chunk": 58
+      "trait": "competence",
+      "action": "Feels uncomfortable when others look at him after he sits down.",
+      "assessment": "His discomfort indicates a lack of confidence or awareness of the situation, which may reflect lower social or emotional competence in group settings.",
+      "rating": -1,
+      "chunk": 28
     },
     {
-      "Action": "Confronts Andrew about self-destructing the situation, expressing concern about losing their advantage.",
-      "Warmth": 0,
-      "Chunk": 59
+      "trait": "competence",
+      "action": "Dismisses concerns about drawing attention by insisting their cover is credible.",
+      "assessment": "This shows some confidence in his understanding of their situation, but also a possible underestimation of risks, indicating overconfidence or poor judgment.",
+      "rating": 0,
+      "chunk": 28
     },
     {
-      "Action": "Despite being shot, he shows no anger, only a resigned comment about feeling the pain, and no retaliation.",
-      "Warmth": 1,
-      "Chunk": 59
+      "trait": "competence",
+      "action": "Responds defensively and provocatively to warnings, calling Andrew a 'tattle-tale' and challenging Levi's authority.",
+      "assessment": "This reaction suggests poor emotional regulation and difficulty accepting feedback, which undermines his ability to act skillfully and collaboratively.",
+      "rating": -2,
+      "chunk": 28
+    },
+    {
+      "trait": "competence",
+      "action": "Eventually takes a deep breath and agrees to be more cautious, though sarcastically.",
+      "assessment": "Shows some ability to adapt and accept advice, indicating a baseline level of competence, but the sarcastic tone suggests incomplete buy-in and potential future issues.",
+      "rating": 1,
+      "chunk": 28
+    },
+    {
+      "trait": "warmth",
+      "action": "Travis insists that no one is in charge and emphasizes that they are a team, saying 'We get busted, we all go down together. Together. No one is different here.'",
+      "assessment": "This statement reflects a sense of solidarity and inclusiveness, suggesting Travis values equality and shared responsibility among the group, which is a positive indicator of warmth.",
+      "rating": 2,
+      "chunk": 29
+    },
+    {
+      "trait": "warmth",
+      "action": "Travis aggressively claims credit for the scam, shouting 'this whole fucking scam was my idea!'",
+      "assessment": "While taking responsibility can be positive, the aggressive and confrontational manner reduces the sincerity and friendliness of the statement, indicating low warmth.",
+      "rating": -1,
+      "chunk": 29
+    },
+    {
+      "trait": "warmth",
+      "action": "Travis wanders away rubbing his head in frustration after the confrontation with Richard.",
+      "assessment": "This non-action shows some emotional vulnerability but also a withdrawal from the tense situation, which neither strongly supports nor undermines warmth.",
+      "rating": 0,
+      "chunk": 29
+    },
+    {
+      "trait": "competence",
+      "action": "Travis asserts that no one is in charge and emphasizes team unity, stating 'We get busted, we all go down together.'",
+      "assessment": "This shows Travis has a clear understanding of group dynamics and the risks involved, indicating situational awareness and leadership qualities.",
+      "rating": 2,
+      "chunk": 29
+    },
+    {
+      "trait": "competence",
+      "action": "Travis openly admits that the entire scam was his idea, taking ownership of the plan.",
+      "assessment": "Taking responsibility for the scheme demonstrates confidence and a willingness to lead, which are positive indicators of competence.",
+      "rating": 2,
+      "chunk": 29
+    },
+    {
+      "trait": "competence",
+      "action": "When Richard is caught spying, Travis initially reacts with confusion and frustration, then wanders away rubbing his head.",
+      "assessment": "His initial confusion and physical gesture of rubbing his head suggest some stress or lack of immediate control over the situation, which slightly detracts from his competence.",
+      "rating": -1,
+      "chunk": 29
+    },
+    {
+      "trait": "competence",
+      "action": "Travis does not take a direct role in interrogating Richard, leaving it to others.",
+      "assessment": "This omission may indicate a lack of assertiveness or unwillingness to confront threats directly, which could be seen as a minor negative indicator of competence.",
+      "rating": -1,
+      "chunk": 29
+    },
+    {
+      "trait": "competence",
+      "action": "Admits to the group that they do have to kill Richard after Richard reveals he heard about the fake accounts.",
+      "assessment": "Travis shows decisiveness and clarity in a tense situation, indicating a level of confidence and understanding of the stakes involved.",
+      "rating": 2,
+      "chunk": 30
+    },
+    {
+      "trait": "warmth",
+      "action": "Says, 'Sorry guys...nothing like that will ever happen again...'",
+      "assessment": "Travis attempts to reassure the group, indicating a desire to maintain peace and trust among them, which reflects a positive, sincere attitude.",
+      "rating": 2,
+      "chunk": 31
+    },
+    {
+      "trait": "competence",
+      "action": "Says, 'Sorry guys...nothing like that will ever happen again...' after a tense discussion about Richard potentially talking to authorities.",
+      "assessment": "Travis attempts to assert control and reassure the group, indicating awareness of the gravity of the situation and a desire to maintain order. However, his statement is vague and lacks a concrete plan or demonstration of capability, suggesting limited confidence or skill in managing the threat.",
+      "rating": 0,
+      "chunk": 31
+    },
+    {
+      "trait": "warmth",
+      "action": "Engages in lighthearted banter about jinxes and karma with his friends.",
+      "assessment": "Travis's playful teasing and joking around with the group shows a friendly and easygoing side, contributing to group camaraderie.",
+      "rating": 2,
+      "chunk": 33
+    },
+    {
+      "trait": "warmth",
+      "action": "Suggests flying out to Vegas for a weekend trip.",
+      "assessment": "By proposing a group trip, Travis demonstrates a desire to bond and enjoy time with friends, indicating sociability and friendliness.",
+      "rating": 2,
+      "chunk": 33
+    },
+    {
+      "trait": "warmth",
+      "action": "Questions whether they really need to work instead of going to Vegas.",
+      "assessment": "This could be seen as encouraging relaxation and fun, but also might reflect a lack of consideration for group responsibilities, showing a somewhat carefree attitude.",
+      "rating": 0,
+      "chunk": 33
+    },
+    {
+      "trait": "competence",
+      "action": "Collecting more chips at the casino during the montage of success.",
+      "assessment": "This action suggests Travis is capable of generating or acquiring resources, indicating skill and confidence in a high-stakes environment.",
+      "rating": 2,
+      "chunk": 33
+    },
+    {
+      "trait": "competence",
+      "action": "Engaging in casual banter about jinxes and karma with the group, showing skepticism.",
+      "assessment": "This shows Travis as confident and rational, not easily swayed by superstition, which can be a sign of clear thinking and mental competence.",
+      "rating": 1,
+      "chunk": 33
+    },
+    {
+      "trait": "competence",
+      "action": "Suggesting a trip to Vegas despite the group's workload.",
+      "assessment": "This could indicate a lack of prioritization or poor judgment about work responsibilities, reflecting a potential weakness in planning or discipline.",
+      "rating": -1,
+      "chunk": 33
+    },
+    {
+      "trait": "competence",
+      "action": "Challenging Levi's assertion about needing to work instead of going to Vegas.",
+      "assessment": "This shows confidence and willingness to question others, but may also suggest a disregard for collective goals or responsibilities, which can undermine competence in teamwork or leadership.",
+      "rating": 0,
+      "chunk": 33
+    },
+    {
+      "trait": "warmth",
+      "action": "Jokes with Andrew and Levi by saying Levi is jealous because he wanted Andrew all for himself, causing the others to laugh.",
+      "assessment": "Travis's teasing is lighthearted and inclusive, showing a friendly and sociable side that contributes to group camaraderie.",
+      "rating": 2,
+      "chunk": 34
+    },
+    {
+      "trait": "warmth",
+      "action": "Walks into the casino, puts out his cigarette, and confidently slaps down a large wad of money at the cashier, smiling.",
+      "assessment": "This action shows confidence and perhaps generosity or willingness to engage, but it is neutral in terms of warmth as it lacks clear interpersonal kindness or sincerity.",
+      "rating": 0,
+      "chunk": 34
+    },
+    {
+      "trait": "competence",
+      "action": "Walks into the casino, confidently slaps down a huge wad of money at the cashier, and smiles at the cashier's surprised look.",
+      "assessment": "This action suggests Travis is confident and comfortable handling large sums of money in a high-stakes environment, indicating a level of social and situational competence.",
+      "rating": 2,
+      "chunk": 34
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in casual banter with friends, making a joke about Levi being jealous of Andrew.",
+      "assessment": "This shows Travis's social ease and ability to navigate group dynamics with humor, reflecting competent interpersonal skills.",
+      "rating": 1,
+      "chunk": 34
+    },
+    {
+      "trait": "competence",
+      "action": "Travis is absent when the team needs him to perform his usual task of vetting a potential client, Jonathan Mitchell.",
+      "assessment": "Travis's absence at a critical moment suggests unreliability and a failure to fulfill his responsibilities, which negatively impacts the team's operations.",
+      "rating": -2,
+      "chunk": 35
+    },
+    {
+      "trait": "competence",
+      "action": "Andrew states that background checking the client is usually Travis' job.",
+      "assessment": "This indicates that Travis is normally trusted with an important and skilled task, implying a baseline level of competence in vetting and due diligence.",
+      "rating": 1,
+      "chunk": 35
+    },
+    {
+      "trait": "competence",
+      "action": "No direct actions, statements, or internal behaviors of Travis are present in the excerpt.",
+      "assessment": "The excerpt does not provide any information about Travis's behavior or competence, making it impossible to assess his competence from this passage.",
+      "rating": 0,
+      "chunk": 41
+    },
+    {
+      "trait": "competence",
+      "action": "Delivers a blunt reprimand to Mikey about the need for tangible evidence and criminal investigating, dismissing speculation and emphasizing facts.",
+      "assessment": "This action shows Travis's clear understanding of investigative priorities and his insistence on factual, evidence-based work, reflecting a competent and no-nonsense approach to his role.",
+      "rating": 2,
+      "chunk": 42
+    },
+    {
+      "trait": "competence",
+      "action": "Fails to show up on time to meet Levi and Andrew, causing Andrew to say 'Travis isn’t coming' and that he was their connection to Tan’el.",
+      "assessment": "Travis's failure to arrive as expected indicates unreliability and a lack of professionalism, which negatively impacts the business dealings and the trust others place in him.",
+      "rating": -2,
+      "chunk": 43
+    },
+    {
+      "trait": "warmth",
+      "action": "Is mentioned as being back home while the others meet Tan'el and his assistant in Mexico.",
+      "assessment": "Travis's absence from the group during this social and potentially tense meeting may suggest a lack of engagement or support in this moment, which could be seen as a neutral or slightly negative indicator of warmth due to omission.",
+      "rating": -1,
+      "chunk": 44
+    },
+    {
+      "trait": "competence",
+      "action": "Is mentioned as being back home while the others meet Tan'el in person.",
+      "assessment": "Travis's absence from the meeting could suggest a lack of involvement or confidence in handling direct negotiations or confrontations, which may reflect negatively on his competence in this context.",
+      "rating": -1,
+      "chunk": 44
+    },
+    {
+      "trait": "warmth",
+      "action": "No direct actions or statements by Travis in the excerpt; the scene focuses on Billy's behavior.",
+      "assessment": "Travis does not appear or act in this excerpt, so no indicators of warmth can be inferred here.",
+      "rating": 0,
+      "chunk": 46
+    },
+    {
+      "trait": "competence",
+      "action": "No direct actions or statements by Travis in the excerpt; he is absent from the scene.",
+      "assessment": "Travis does not appear or act in this excerpt, so no direct indicators of his competence can be inferred here.",
+      "rating": 0,
+      "chunk": 46
+    },
+    {
+      "trait": "competence",
+      "action": "Does not respond when called or when his whereabouts are questioned by Andrew and others.",
+      "assessment": "Travis's lack of response or presence during a critical moment suggests a possible failure to stay engaged or informed, indicating a lapse in situational awareness or responsibility.",
+      "rating": -2,
+      "chunk": 47
+    },
+    {
+      "trait": "competence",
+      "action": "Is expected by others to be informed about the hostage situation and to take charge or be involved.",
+      "assessment": "The fact that others look for Travis and expect him to know about the situation implies that he holds a position of responsibility or competence within the group, even if he is not currently demonstrating it.",
+      "rating": 1,
+      "chunk": 47
+    },
+    {
+      "trait": "warmth",
+      "action": "Suggests killing Tan'el to keep the money.",
+      "assessment": "Proposing murder for financial gain shows a severe lack of empathy, trustworthiness, and moral warmth.",
+      "rating": -3,
+      "chunk": 48
+    },
+    {
+      "trait": "warmth",
+      "action": "Pressures Andrew by repeatedly asking what he would do for ten million dollars.",
+      "assessment": "This behavior is manipulative and aggressive rather than friendly or sincere, indicating low warmth.",
+      "rating": -2,
+      "chunk": 48
+    },
+    {
+      "trait": "competence",
+      "action": "Proposes killing Tan'el to keep the money, suggesting a ruthless but decisive solution to a problem.",
+      "assessment": "This shows Travis is willing to consider extreme measures and is confident in proposing bold plans, indicating a certain decisiveness and strategic thinking, though morally questionable.",
+      "rating": 1,
+      "chunk": 48
+    },
+    {
+      "trait": "competence",
+      "action": "Engages Andrew in a pointed, articulate challenge about what he would do for ten million dollars.",
+      "assessment": "This demonstrates Travis's ability to think critically and provoke reflection in others, showing intellectual engagement and confidence in his argumentation.",
+      "rating": 2,
+      "chunk": 48
+    },
+    {
+      "trait": "competence",
+      "action": "Participates in a dream sequence where he and others approach Tan'el with a gun, implying readiness to act on his plan.",
+      "assessment": "This suggests Travis is mentally prepared to follow through on his ideas, showing resolve and a willingness to take action, though the plan itself is ethically dubious.",
+      "rating": 1,
+      "chunk": 48
+    },
+    {
+      "trait": "competence",
+      "action": "Does not back down when Andrew rejects the murder plan, instead reiterating his willingness to do it himself.",
+      "assessment": "This persistence indicates confidence and commitment to his ideas, reflecting a strong-willed and assertive personality.",
+      "rating": 1,
+      "chunk": 48
+    },
+    {
+      "trait": "warmth",
+      "action": "Tells Andrew 'You stay here, be a pussy.'",
+      "assessment": "This statement is dismissive and derogatory, showing a lack of empathy and friendliness toward Andrew's concerns.",
+      "rating": -2,
+      "chunk": 49
+    },
+    {
+      "trait": "warmth",
+      "action": "Leans back in his chair when Billy questions the idea of murdering Tan'el and says 'I think it should be an option.'",
+      "assessment": "Expressing openness to violence without apparent remorse or concern indicates coldness and a lack of benevolence.",
+      "rating": -3,
+      "chunk": 49
+    },
+    {
+      "trait": "warmth",
+      "action": "Reacts with surprise and distrust when Levi reveals he tapped Andrew's phones, saying 'Wait-You tap my shit?' and 'You're a liar.'",
+      "assessment": "Travis shows some sense of personal boundaries and distrust toward Levi's secretive actions, which could indicate a desire for honesty and trustworthiness, but his reaction is confrontational rather than conciliatory.",
+      "rating": -1,
+      "chunk": 49
+    },
+    {
+      "trait": "competence",
+      "action": "Leans back in his chair when Billy questions the seriousness of murdering Tan'el and says 'I think it should be an option.'",
+      "assessment": "This shows a calm, composed demeanor in a tense discussion, suggesting confidence and a willingness to consider difficult options, which can be a sign of competence.",
+      "rating": 2,
+      "chunk": 49
+    },
+    {
+      "trait": "competence",
+      "action": "Responds with surprise and disbelief when Levi reveals he tapped Andrew's phones, saying 'What? Are you kidding?' and 'Wait-You tap my shit?'",
+      "assessment": "Travis's reaction indicates a lack of awareness about internal security measures and possible vulnerabilities within his group, which suggests a gap in his situational awareness and control.",
+      "rating": -2,
+      "chunk": 49
+    },
+    {
+      "trait": "competence",
+      "action": "Calls Andrew a 'pussy' and insists 'You stay here, be a pussy.'",
+      "assessment": "This shows a blunt, confrontational style that may undermine group cohesion and rational decision-making, reflecting poor interpersonal skills and possibly impulsiveness rather than strategic competence.",
+      "rating": -1,
+      "chunk": 49
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in the discussion about whether to murder Tan'el or give him his money back, but ultimately says 'I just don't see any other way.'",
+      "assessment": "This indicates some level of strategic thinking and acceptance of harsh realities, but also a possible lack of creativity or flexibility in problem-solving, showing moderate competence.",
+      "rating": 1,
+      "chunk": 49
+    },
+    {
+      "trait": "competence",
+      "action": "Travis approaches Levi and Billy to ask directly, 'So what's this about?' and 'What the fuck is goin' on?'",
+      "assessment": "This shows Travis is proactive and assertive in seeking information, indicating a level of confidence and engagement with the situation.",
+      "rating": 1,
+      "chunk": 53
+    },
+    {
+      "trait": "competence",
+      "action": "Travis looks around before pressing Levi for answers.",
+      "assessment": "This suggests some situational awareness and caution, which are positive indicators of competence.",
+      "rating": 1,
+      "chunk": 53
+    },
+    {
+      "trait": "competence",
+      "action": "Travis follows Levi and Billy toward the office building after Levi indicates there is a serious problem.",
+      "assessment": "This shows Travis is willing to engage and respond to emerging issues, demonstrating reliability and readiness.",
+      "rating": 1,
+      "chunk": 53
+    },
+    {
+      "trait": "competence",
+      "action": "Travis is absent from his office when Andrew walks through the building.",
+      "assessment": "While this is a neutral observation, the lack of presence in his office during a critical moment could suggest a missed opportunity to monitor or intervene, a slight negative indicator.",
+      "rating": -1,
+      "chunk": 53
+    },
+    {
+      "trait": "warmth",
+      "action": "Calmly asks Andrew to close the door before the confrontation.",
+      "assessment": "While calmness can be a positive social trait, here it serves a threatening situation, indicating controlled but cold behavior rather than warmth.",
+      "rating": -1,
+      "chunk": 54
+    },
+    {
+      "trait": "warmth",
+      "action": "Immediately tapes Andrew's mouth and body to restrain him.",
+      "assessment": "This action is aggressive, controlling, and hostile, showing a lack of trust, friendliness, or sincerity toward Andrew.",
+      "rating": -3,
+      "chunk": 54
+    },
+    {
+      "trait": "warmth",
+      "action": "Works with Billy to hold Andrew down and restrain him further.",
+      "assessment": "Participating in physical restraint during a threatening situation reflects coldness and a lack of benevolence or tolerance.",
+      "rating": -3,
+      "chunk": 54
+    },
+    {
+      "trait": "competence",
+      "action": "Calmly asks Andrew to close the door before the confrontation escalates.",
+      "assessment": "This shows Travis's ability to maintain composure and control the situation, indicating situational awareness and calmness under pressure.",
+      "rating": 2,
+      "chunk": 54
+    },
+    {
+      "trait": "competence",
+      "action": "Immediately uses duct tape to restrain Andrew efficiently and effectively.",
+      "assessment": "This action demonstrates Travis's preparedness, quick thinking, and practical skills in subduing a threat without hesitation.",
+      "rating": 3,
+      "chunk": 54
+    },
+    {
+      "trait": "competence",
+      "action": "Works with Billy to hold Andrew down and reinforce the restraints when Andrew struggles.",
+      "assessment": "This shows Travis's teamwork and persistence in ensuring the task is completed, reflecting reliability and capability.",
+      "rating": 2,
+      "chunk": 54
+    },
+    {
+      "trait": "warmth",
+      "action": "Quickly covers Andrew's mouth again after Levi exposes Andrew's intent to rat them out.",
+      "assessment": "Travis's action to silence Andrew suggests complicity in suppressing a friend’s attempt to explain himself, showing a lack of trust and empathy.",
+      "rating": -2,
+      "chunk": 55
+    },
+    {
+      "trait": "competence",
+      "action": "Quickly covers Andrew's mouth again after Levi motions to him.",
+      "assessment": "This action shows Travis is alert, responsive, and able to follow orders promptly, indicating a level of situational awareness and reliability.",
+      "rating": 2,
+      "chunk": 55
+    },
+    {
+      "trait": "competence",
+      "action": "Does not intervene or attempt to stop Levi from knocking Andrew out.",
+      "assessment": "Travis's omission to act against violence or to de-escalate the situation may suggest either a lack of confidence or unwillingness to take initiative in tense moments, which could be seen as a lack of assertive competence.",
+      "rating": -1,
+      "chunk": 55
+    },
+    {
+      "trait": "warmth",
+      "action": "Is mentioned as someone who could kill, possibly having already killed someone.",
+      "assessment": "This suggests a capacity for violence and a lack of hesitation to harm others, which indicates low warmth.",
+      "rating": -2,
+      "chunk": 56
+    },
+    {
+      "trait": "warmth",
+      "action": "Is contrasted with Billy, who expresses regret and a desire to change, implying Travis remains involved in harmful actions.",
+      "assessment": "Travis's continued involvement in violent or harmful behavior without expressed remorse suggests a colder, less warm disposition.",
+      "rating": -2,
+      "chunk": 56
+    },
+    {
+      "trait": "warmth",
+      "action": "Lights a cigarette and waits silently in the car with Levi, showing no attempt to engage or comfort Andrew when he arrives.",
+      "assessment": "Travis's silence and detachment in a tense situation suggest a lack of warmth or friendliness; he does not offer reassurance or support.",
+      "rating": -1,
+      "chunk": 57
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses frustration by saying 'Shit! I told you I should do it!' after Levi holds a gun and Andrew arrives.",
+      "assessment": "This statement reveals impatience and possible internal conflict but does not demonstrate warmth; it may indicate tension and a lack of trust or cooperation.",
+      "rating": -1,
+      "chunk": 57
+    },
+    {
+      "trait": "warmth",
+      "action": "Asks Andrew 'Where's Billy?' after Andrew asks about his wife.",
+      "assessment": "By asking about Billy, Travis shows some concern or interest in others' whereabouts, which could be a mild indicator of engagement and care.",
+      "rating": 1,
+      "chunk": 57
+    },
+    {
+      "trait": "competence",
+      "action": "Lights a cigarette and waits silently in the car with Levi, eyes fixed on the front door.",
+      "assessment": "This shows patience and composure, indicating a calm and controlled demeanor while on a stakeout or waiting for a target.",
+      "rating": 1,
+      "chunk": 57
+    },
+    {
+      "trait": "competence",
+      "action": "Expresses frustration by saying, 'Shit! I told you I should do it!' after Levi holds a gun and Andrew freezes.",
+      "assessment": "This suggests some self-doubt or second-guessing about his role or actions, which may indicate a lack of confidence or decisiveness in a critical moment.",
+      "rating": -1,
+      "chunk": 57
+    },
+    {
+      "trait": "competence",
+      "action": "Stands with Levi holding a gun when Andrew arrives, maintaining presence in a tense situation.",
+      "assessment": "Maintaining position in a high-pressure confrontation shows a level of steadiness and readiness, reflecting competent behavior under stress.",
+      "rating": 2,
+      "chunk": 57
+    },
+    {
+      "trait": "warmth",
+      "action": "Shuts down Andrew's attempt to reveal dissent and encourages Levi to shoot Andrew.",
+      "assessment": "Travis aggressively suppresses dissent and shows willingness to harm a former ally, indicating hostility and lack of empathy.",
+      "rating": -3,
+      "chunk": 58
+    },
+    {
+      "trait": "warmth",
+      "action": "Repeatedly demands the gun to shoot Andrew and supports violent action to resolve conflict.",
+      "assessment": "This behavior reflects aggression, intimidation, and a lack of trustworthiness or friendliness.",
+      "rating": -3,
+      "chunk": 58
+    },
+    {
+      "trait": "warmth",
+      "action": "Calls Levi paranoid and challenges his trust issues, telling him to figure things out for himself.",
+      "assessment": "While somewhat direct, this could be seen as blunt honesty, but overall it lacks warmth and is dismissive rather than supportive.",
+      "rating": -1,
+      "chunk": 58
+    },
+    {
+      "trait": "warmth",
+      "action": "Lights a cigarette calmly amid the tension and tries to assert control over the situation.",
+      "assessment": "This action shows composure but also detachment and lack of concern for others' feelings or safety.",
+      "rating": -1,
+      "chunk": 58
+    },
+    {
+      "trait": "competence",
+      "action": "Repeatedly demands the gun from Levi and urges him to shoot Andrew, showing aggressive decisiveness.",
+      "assessment": "Travis demonstrates assertiveness and a willingness to take control in a tense situation, indicating confidence and decisiveness, which are positive indicators of competence.",
+      "rating": 2,
+      "chunk": 58
+    },
+    {
+      "trait": "competence",
+      "action": "Lunges for the gun when Levi hesitates, but Levi steps back and points it at him.",
+      "assessment": "While Travis shows initiative and boldness, lunging for the gun impulsively could be seen as reckless and potentially undermines his control, suggesting a slight lack of strategic thinking.",
+      "rating": 0,
+      "chunk": 58
+    },
+    {
+      "trait": "competence",
+      "action": "Calls out Levi's paranoia and challenges his trust issues, then calmly lights a cigarette.",
+      "assessment": "This shows Travis's ability to remain composed under pressure and to use psychological tactics to influence Levi, reflecting emotional intelligence and confidence.",
+      "rating": 2,
+      "chunk": 58
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in heated verbal exchanges with Andrew, shutting him down aggressively.",
+      "assessment": "Travis's confrontational style may assert dominance but also risks escalating conflict unnecessarily, which could be a negative indicator of social competence and conflict management.",
+      "rating": -1,
+      "chunk": 58
+    },
+    {
+      "trait": "competence",
+      "action": "Attempts to manipulate Levi by framing Andrew as untrustworthy and urging violent action.",
+      "assessment": "This suggests strategic thinking and manipulation skills, which can be seen as competence in achieving goals, though ethically questionable.",
+      "rating": 1,
+      "chunk": 58
+    },
+    {
+      "trait": "warmth",
+      "action": "Travis questions Andrew about wanting the situation to self-destruct, indicating awareness of their shared success and the gravity of the moment.",
+      "assessment": "Travis shows concern and a sense of camaraderie by addressing Andrew directly about their downfall, suggesting he values their partnership and the good times they had.",
+      "rating": 1,
+      "chunk": 59
+    },
+    {
+      "trait": "warmth",
+      "action": "Travis is shot by Levi and coughs up blood but does not express anger or blame Levi, who immediately apologizes.",
+      "assessment": "Despite being shot, Travis does not retaliate verbally or physically, which could indicate a level of tolerance or restraint, though it may also reflect shock or weakness.",
+      "rating": 1,
+      "chunk": 59
+    },
+    {
+      "trait": "warmth",
+      "action": "Travis drops his cigarette after being shot and coughs, showing vulnerability in a critical moment.",
+      "assessment": "This moment reveals Travis's human vulnerability, but it does not directly indicate warmth; it is more neutral in terms of warmth.",
+      "rating": 0,
+      "chunk": 59
+    },
+    {
+      "trait": "competence",
+      "action": "Questions Andrew about the plan to self-destruct, indicating awareness of the stakes and consequences.",
+      "assessment": "This shows Travis is thoughtful and aware of the gravity of the situation, suggesting a level of situational understanding and intelligence.",
+      "rating": 2,
+      "chunk": 59
+    },
+    {
+      "trait": "competence",
+      "action": "Is shot unexpectedly by Levi after Heather screams.",
+      "assessment": "Travis appears caught off guard and unable to avoid being shot, indicating a momentary lapse in vigilance or situational awareness.",
+      "rating": -1,
+      "chunk": 59
+    },
+    {
+      "trait": "competence",
+      "action": "Maintains composure enough to speak despite being shot, saying 'This feels...pretty real.'",
+      "assessment": "Despite severe injury, Travis shows mental clarity and a degree of calmness, reflecting resilience and mental strength.",
+      "rating": 1,
+      "chunk": 59
     }
   ]
 }

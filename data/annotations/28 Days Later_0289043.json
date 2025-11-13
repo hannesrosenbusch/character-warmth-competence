@@ -1,1454 +1,2587 @@
 {
   "Jim": [
     {
-      "Action": "Wakes up weak and disheveled but stands and moves on despite pain.",
-      "Warmth": 0,
-      "Chunk": 5
+      "trait": "warmth",
+      "action": "Jim wakes up confused and weak, but despite his condition, he carefully removes the needles from his arms and attempts to stand and move through the hospital.",
+      "assessment": "Jim's actions show determination and self-reliance rather than direct warmth toward others; however, his carefulness in removing the needles suggests a degree of self-care and respect for his own wellbeing, which can be a foundation for warmth.",
+      "rating": 1,
+      "chunk": 5
     },
     {
-      "Action": "Despite weakness and confusion, he sits up, stands, removes needles causing himself pain, and leaves his room, opening locked doors and moving through the hospital driven by adrenaline.",
-      "Competence": 1,
-      "Chunk": 5
+      "trait": "warmth",
+      "action": "Jim picks up the key from the floor and opens the locked door to exit his hospital room.",
+      "assessment": "This action shows initiative and resourcefulness but does not directly indicate warmth toward others.",
+      "rating": 0,
+      "chunk": 5
     },
     {
-      "Action": "Moves quickly through deserted, chaotic hospital showing determination.",
-      "Warmth": 0,
-      "Chunk": 6
+      "trait": "warmth",
+      "action": "Jim walks through the hospital corridors, noticing the silence and signs of death around him.",
+      "assessment": "Jim's observation of his surroundings without panic or aggression suggests a calm and tolerant demeanor, but no explicit warmth is demonstrated here.",
+      "rating": 0,
+      "chunk": 5
     },
     {
-      "Action": "Attempts to use public phones to seek contact.",
-      "Warmth": 0,
-      "Chunk": 6
+      "trait": "competence",
+      "action": "Despite being weak and dishevelled, Jim manages to sit up, stand, and pull the needles from his arms, then finds and uses the key to unlock his hospital room door.",
+      "assessment": "This shows a basic level of physical capability and situational awareness, indicating that Jim is able to act despite his weakened state, which is a positive indicator of competence.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Takes soft drinks from smashed machine to sustain himself.",
-      "Warmth": 0,
-      "Chunk": 6
+      "trait": "competence",
+      "action": "Jim walks quickly through the hospital corridors, moving despite his weakness and confusion.",
+      "assessment": "This suggests determination and some physical resilience, but no clear evidence of skill or strategic thinking yet, so a moderate positive indicator.",
+      "rating": 1,
+      "chunk": 5
     },
     {
-      "Action": "Calls out 'Hello?' in empty city, seeking connection.",
-      "Warmth": 1,
-      "Chunk": 6
+      "trait": "competence",
+      "action": "Jim does not hesitate to remove the taped needles from his arms despite the pain.",
+      "assessment": "This shows decisiveness and a willingness to endure discomfort to gain mobility, reflecting practical competence.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Walks quietly and respectfully into church, showing consideration.",
-      "Warmth": 1,
-      "Chunk": 6
+      "trait": "competence",
+      "action": "Jim does not appear to check for other survivors or assess the situation beyond moving through the hospital.",
+      "assessment": "This omission may indicate a lack of strategic thinking or situational assessment, a slight negative indicator of competence.",
+      "rating": -1,
+      "chunk": 5
     },
     {
-      "Action": "Moves quickly through the hospital despite weakness, tries all pay phones looking for a connection",
-      "Competence": 1,
-      "Chunk": 6
+      "trait": "warmth",
+      "action": "Jim moves quickly through the hospital, tries all the pay phones, and calls out 'Hello?' in the empty city, seemingly seeking contact with others.",
+      "assessment": "Jim's attempts to reach out and find other people indicate a hopeful and sincere desire for connection, reflecting a friendly and trustworthy nature.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Takes and drinks soft drinks to regain energy",
-      "Competence": 1,
-      "Chunk": 6
+      "trait": "warmth",
+      "action": "Jim enters a church at night and moves with respectful quietness.",
+      "assessment": "Showing respect for the church environment suggests a tolerant and considerate attitude, which is a positive indicator of warmth.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Walks cautiously through a deserted, potentially dangerous city looking for shelter",
-      "Competence": 1,
-      "Chunk": 6
+      "trait": "warmth",
+      "action": "Jim grabs and drinks soft drinks from a smashed vending machine without hesitation.",
+      "assessment": "While this action is driven by survival, taking what is available without apparent concern for others could be seen as neutral or slightly self-centered, but given the context, it is understandable and not strongly negative.",
+      "rating": 0,
+      "chunk": 6
     },
     {
-      "Action": "Wears hospital pyjamas and carries a bag of cans while navigating outside",
-      "Competence": 0,
-      "Chunk": 6
+      "trait": "competence",
+      "action": "Moves quickly through the hospital despite still feeling weak, driven by adrenaline.",
+      "assessment": "This shows Jim's ability to push through physical weakness and maintain focus under stress, indicating resilience and determination.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Heads into a church and moves quietly and respectfully",
-      "Competence": 1,
-      "Chunk": 6
+      "trait": "competence",
+      "action": "Systematically tries all the public pay phones to find a working line.",
+      "assessment": "This demonstrates methodical thinking and problem-solving skills, showing he is thorough and practical in assessing his environment.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Walks inside the church with respectful quietness, showing consideration for the setting.",
-      "Warmth": 1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Grabs and drinks soft drinks quickly to regain energy.",
+      "assessment": "This indicates practical self-care and awareness of his physical needs, reflecting basic survival skills.",
+      "rating": 1,
+      "chunk": 6
     },
     {
-      "Action": "Hesitates before speaking to the four motionless figures, indicating caution and a lack of immediate aggression.",
-      "Warmth": 1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Walks through deserted London landmarks, carrying supplies and looking for shelter.",
+      "assessment": "His navigation through the city and carrying provisions shows situational awareness and planning, though his hospital pyjamas suggest a lack of preparation or resources.",
+      "rating": 1,
+      "chunk": 6
     },
     {
-      "Action": "Addresses the charging infected priest with 'Father?' suggesting a hope for recognition or connection despite danger.",
-      "Warmth": 1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Enters a church at night quietly and respectfully, considering it as a place to rest.",
+      "assessment": "This shows cautiousness and respect for his surroundings, as well as an ability to seek shelter thoughtfully, indicating prudent decision-making.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Carefully assesses locked doors, tries handle gently, finds alternative entrance.",
-      "Competence": 1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Still wearing hospital pyjamas while navigating a dangerous, deserted city.",
+      "assessment": "This suggests a lack of preparedness and possibly vulnerability, which could undermine his competence in a survival situation.",
+      "rating": -1,
+      "chunk": 6
     },
     {
-      "Action": "Moves cautiously and quietly through church interiors, showing awareness of environment.",
-      "Competence": 1,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Jim hesitates before speaking and says 'Hello?' to the four motionless figures in the church gallery.",
+      "assessment": "Jim's hesitation and attempt to communicate shows a cautious but friendly and sincere approach, indicating a willingness to connect rather than assume hostility.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Hesitates before speaking to ambiguous figures, indicating caution and situational awareness.",
-      "Competence": 1,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Jim addresses the charging Infected Priest as 'Father' and asks 'Father, what are you...'",
+      "assessment": "Jim's use of a respectful and familiar term suggests an attempt to recognize the humanity in the figure, reflecting trust and a hopeful, good-natured attitude despite the danger.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Grips bag of soft drinks tightly when threatened, indicating nervousness but preparedness to react.",
-      "Competence": 0,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Jim moves quietly and respectfully when entering the church, adopting the quietness people use in such a place.",
+      "assessment": "This behavior shows respect and consideration for the setting, indicating a sincere and tolerant nature.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Seems momentarily stunned by the scene of massacre and presence of infected, showing some emotional overwhelm.",
-      "Competence": 0,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Jim tries the locked doors gently and then notices another open door to his left, which he uses to enter the church.",
+      "assessment": "This shows situational awareness and adaptability, as Jim does not waste time forcing locked doors and instead looks for alternative access.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Strikes the Priest in self-defense but immediately regrets the act and acknowledges it was wrong.",
-      "Warmth": 1,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Jim moves quietly and respectfully inside the church, adopting a cautious approach.",
+      "assessment": "This indicates a level of situational caution and respect for the environment, suggesting thoughtful and careful behavior.",
+      "rating": 1,
+      "chunk": 7
     },
     {
-      "Action": "Runs away from danger showing self-preservation rather than confrontation.",
-      "Warmth": 0,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Jim pauses to observe the stained-glass window and then looks down to see hundreds of dead bodies, standing stunned.",
+      "assessment": "While his observation skills are good, his stunned reaction suggests a momentary shock or hesitation that could impair immediate decision-making.",
+      "rating": 0,
+      "chunk": 7
     },
     {
-      "Action": "In a movement of pure instinct, Jim swings the bag and hits the Priest, then immediately regrets it and runs.",
-      "Competence": 0,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Jim hesitates before speaking to the four motionless figures, unsure of their status.",
+      "assessment": "This hesitation shows caution but also uncertainty, reflecting a lack of confidence or experience in dealing with unknown threats.",
+      "rating": -1,
+      "chunk": 7
     },
     {
-      "Action": "Runs from the Infected when the church door is breached, showing quick reaction to danger.",
-      "Competence": 1,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Jim clutches his bag of soft drinks as the infected begin to move and a door is being smashed open.",
+      "assessment": "Holding onto a non-essential item in a threatening situation may indicate a lack of preparedness or prioritization under stress.",
+      "rating": -1,
+      "chunk": 7
     },
     {
-      "Action": "Looks bewildered when others use Molotov cocktails against the Infected and does not immediately take effective action.",
-      "Competence": -1,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Jim turns quickly to face the source of the noise and prepares to confront the incoming threat.",
+      "assessment": "This quick reaction to an immediate threat shows alertness and readiness to respond, a positive indicator of competence.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Allows himself to be hurried along by Selena and Mark without complaint despite being dazed and confused.",
-      "Warmth": 1,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Swings a bag to hit the Priest who is about to reach him.",
+      "assessment": "Jim acts out of pure instinct to protect himself, showing a survival-driven reaction rather than a warm or hostile intent. His immediate regret and verbal admission ('Oh, that, was bad, that was bad... I shouldn't have done that...') indicate a conscience and remorse, suggesting underlying sincerity and a non-aggressive nature.",
+      "rating": 1,
+      "chunk": 8
     },
     {
-      "Action": "Engages cooperatively with Selena and Mark to secure safety by entering the newsagent and pulling down the grill.",
-      "Warmth": 1,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Runs away from the Infected and does not engage in unnecessary violence beyond self-defense.",
+      "assessment": "Jim prioritizes escape over confrontation, which can be seen as a non-aggressive and cautious approach, reflecting a tendency to avoid harm when possible, a mild indicator of tolerance and good-naturedness.",
+      "rating": 1,
+      "chunk": 8
     },
     {
-      "Action": "Allows himself to be hurried along without resisting or attempting to take control.",
-      "Competence": -1,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Looks bewildered and turns toward the Molotov cocktails thrown by Selena and Mark, who are fighting the Infected.",
+      "assessment": "Jim’s bewilderment and attention to others’ actions suggest openness and receptiveness to help, indicating trust and a willingness to connect with others in a crisis, which are positive warmth indicators.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Enters the shop with Mark and Selena and participates in securing the location by pulling down the grill.",
-      "Competence": 0,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "In a movement of pure instinct, Jim swings the bag just as the Priest is about to reach him - and connects squarely with the man's head.",
+      "assessment": "This action shows quick reflexes and the ability to respond under pressure, indicating a basic level of physical competence and situational awareness.",
+      "rating": 1,
+      "chunk": 8
     },
     {
-      "Action": "Admits confusion and disorientation after waking up, speaks honestly about his situation.",
-      "Warmth": 1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Jim says, 'Oh, that, was bad, that was bad... I shouldn't have done that...' and then breaks into a run.",
+      "assessment": "Jim's immediate regret and flight suggest a lack of confidence in his own actions and possibly poor judgment in provoking the Priest, indicating some insecurity and hesitation.",
+      "rating": -1,
+      "chunk": 8
     },
     {
-      "Action": "Asks about the others' families, showing concern.",
-      "Warmth": 1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Jim sprints down the stone steps and runs as the Infected break through the church doors and give chase.",
+      "assessment": "Jim demonstrates physical fitness and the ability to maintain composure while fleeing a dangerous situation, which is a positive indicator of competence in survival scenarios.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Expresses determination to find his family despite bleak news, showing hope and sincerity.",
-      "Warmth": 1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Jim turns and watches as Molotov cocktails are thrown, setting the Infected on fire, and then looks bewildered as he sees Selena and Mark fighting back.",
+      "assessment": "Jim's bewilderment and passive observation of others taking effective action suggest a lack of initiative and tactical thinking, indicating a lower level of competence in crisis leadership or combat.",
+      "rating": -1,
+      "chunk": 8
     },
     {
-      "Action": "Provides clear and relevant information about his background and recent experience when asked.",
-      "Competence": 1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Allows himself to be hurried along by Selena and Mark without resistance or apparent situational awareness.",
+      "assessment": "Jim's dazed state and passive compliance suggest a lack of alertness and initiative, indicating low competence in this moment.",
+      "rating": -2,
+      "chunk": 9
     },
     {
-      "Action": "Asks logical questions about the situation (Where are your families?).",
-      "Competence": 1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Asks questions about the people they encountered despite being dazed.",
+      "assessment": "This shows some cognitive engagement and desire to understand the situation, a mild positive indicator of competence.",
+      "rating": 1,
+      "chunk": 9
     },
     {
-      "Action": "Decides to go find his family despite the dangerous circumstances, showing determination and goal orientation.",
-      "Competence": 1,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Asks Selena and Mark where their families are.",
+      "assessment": "Jim's question shows concern and interest in others' well-being, indicating empathy and a caring nature.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Shows some confusion or disorientation about his surroundings and situation (mentions hallucinations).",
-      "Competence": 0,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Responds to the news of widespread infection and death with determination to find his own family.",
+      "assessment": "His insistence on finding his family despite the grim news reflects loyalty and emotional attachment, which are warm traits.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Ignores warnings about the safety of his family and the reality of the danger he faces.",
-      "Competence": -1,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Introduces himself honestly and shares his situation openly with strangers.",
+      "assessment": "Jim's openness and straightforwardness suggest sincerity and trustworthiness.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Reassures Selena he will go and come back, showing sincerity and a desire to comfort.",
-      "Warmth": 1,
-      "Chunk": 11
+      "trait": "warmth",
+      "action": "Ignores the grim warnings from Selena and Mark and heads for the exit to find his family.",
+      "assessment": "While his determination is positive, his disregard for others' advice could indicate a lack of tolerance for differing perspectives or a somewhat impulsive nature.",
+      "rating": -1,
+      "chunk": 10
     },
     {
-      "Action": "Catches up to Mark who slows down for him, indicating group cohesion and responsiveness.",
-      "Warmth": 1,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Jim clearly states his background as a bicycle courier and describes his confusion about waking up in the hospital and hallucinating.",
+      "assessment": "This shows Jim's ability to communicate his situation clearly and logically, indicating a reasonable level of self-awareness and articulation.",
+      "rating": 1,
+      "chunk": 10
     },
     {
-      "Action": "Turns on a mobile phone hoping to find a network, showing a proactive attitude to help or connect.",
-      "Warmth": 1,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Jim asks where Mark and Selena's families are.",
+      "assessment": "This question demonstrates Jim's concern for others and an attempt to gather important information, reflecting some situational awareness and social intelligence.",
+      "rating": 1,
+      "chunk": 10
     },
     {
-      "Action": "Pulls at the grill insisting to leave alone despite being told it's unsafe.",
-      "Competence": -1,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Upon hearing that Mark and Selena's families are dead, Jim insists he will find his own family and attempts to leave immediately.",
+      "assessment": "While this shows determination and confidence, it also suggests impulsiveness and a lack of caution given the dangerous context, which may undermine his overall competence.",
+      "rating": -1,
+      "chunk": 10
     },
     {
-      "Action": "Accepts the rules of survival and prepares to move with the group the next day.",
-      "Competence": 0,
-      "Chunk": 11
+      "trait": "warmth",
+      "action": "Jim agrees to go out alone despite warnings and pulls at the grill to leave.",
+      "assessment": "Jim's insistence on going alone shows determination but also a disregard for group safety and advice, indicating a lack of consideration for collective well-being.",
+      "rating": -1,
+      "chunk": 11
     },
     {
-      "Action": "Switches on a mobile phone to check for network signal while walking.",
-      "Competence": 1,
-      "Chunk": 11
+      "trait": "warmth",
+      "action": "Jim catches up to Mark and Selena on the train tracks and accepts the bag from Mark.",
+      "assessment": "Jim's cooperation in the group and willingness to engage with others suggests a basic level of trust and friendliness.",
+      "rating": 1,
+      "chunk": 11
     },
     {
-      "Action": "Gestures towards a likely safe street to head towards, showing concern and guidance.",
-      "Warmth": 1,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Jim switches on the mobile phone and looks around, seemingly searching for a network.",
+      "assessment": "This action shows Jim's hopefulness and desire to reconnect, which can be interpreted as a sincere attempt to maintain bonds and communication.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Repeatedly says 'I understand' to Selena when she states anyone in the house isn't human, showing acknowledgment and trust.",
-      "Warmth": 1,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Pulls out a mobile phone and switches it on to check for network.",
+      "assessment": "This action shows Jim's practical approach to assessing their situation by attempting to use available technology to communicate or gather information, indicating a degree of resourcefulness and presence of mind.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Waits patiently outside the house while Selena scans the facade, showing respect for others' roles.",
-      "Warmth": 1,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Pulling at the grill and insisting he will go and come back.",
+      "assessment": "Jim demonstrates determination and confidence in his ability to undertake a risky task, which suggests a willingness to take initiative, though it may also reflect some impulsiveness or underestimation of danger.",
+      "rating": 1,
+      "chunk": 11
     },
     {
-      "Action": "Uses the key under the flowerpot to quietly open the back door, demonstrating thoughtfulness and consideration in approach.",
-      "Warmth": 1,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "No reply when asked about how his head feels.",
+      "assessment": "Jim's silence here could indicate shock, disorientation, or difficulty processing the situation, which may reflect a temporary lapse in mental clarity or emotional overwhelm, detracting from his overall competence.",
+      "rating": -1,
+      "chunk": 11
     },
     {
-      "Action": "Pushes past caution by advancing alone upstairs despite Mark's whisper to wait, potentially showing recklessness or disregard for group safety.",
-      "Warmth": -1,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Jim gestures towards one of the streets on the far side of the green, giving clear directions to Selena and Mark.",
+      "assessment": "Providing clear guidance to his companions shows consideration and a cooperative spirit.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Gestures confidently towards a direction for the others to follow, demonstrating situational awareness and leadership.",
-      "Competence": 1,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Jim waits patiently while Selena scans the house, showing respect for her caution.",
+      "assessment": "Waiting patiently indicates respect and trust in others' judgments, reflecting warmth.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Uses a key hidden under the flowerpot to open the back door, showing preparedness and practical problem-solving.",
-      "Competence": 1,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Jim uses the key under the flowerpot to open the back door for the group.",
+      "assessment": "Taking initiative to open the door for the group is a helpful and considerate action.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Moves quietly through the house with others, indicating cautious and careful movement in a dangerous situation.",
-      "Competence": 1,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Jim pushes past Mark's whispered warning and advances along the top landing despite the alarmed atmosphere.",
+      "assessment": "Ignoring a companion's caution and pushing forward recklessly suggests a lack of sensitivity and consideration, which detracts from warmth.",
+      "rating": -2,
+      "chunk": 12
     },
     {
-      "Action": "Nods in response to Selena's signal to ascend the stairs, displaying good communication and attentiveness.",
-      "Competence": 1,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Jim drops the phone and breaks into a run - running past Mark and Selena.",
+      "assessment": "This action shows Jim's quick reaction to a disturbing or urgent situation, indicating alertness and decisiveness.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Notices a strange smell and the alarm it causes, showing alertness to environmental cues.",
-      "Competence": 1,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Jim gestures towards one of the streets on the far side of the green and gives clear directions: 'Down there. Westlink Street. Second on the left.'",
+      "assessment": "This demonstrates Jim's situational awareness and ability to navigate effectively, suggesting good spatial orientation and leadership.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Pushes past a warning to advance down the landing alone, potentially overconfident or impulsive.",
-      "Competence": -1,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Jim uses the key under the flowerpot to open the back door.",
+      "assessment": "This shows Jim's preparedness and knowledge of practical survival tactics, indicating resourcefulness and foresight.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Stares at his deceased parents' bodies for a moment, then sits alone crying holding their note, showing grief and emotional openness.",
-      "Warmth": 1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Jim, Selena, and Mark move quietly through the house, with Jim participating in the cautious advance.",
+      "assessment": "This suggests Jim's ability to act stealthily and cooperate in a tense environment, reflecting tactical awareness and discipline.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Expresses clearly and sincerely that he is not grateful his parents died peacefully, indicating honest emotional expression.",
-      "Warmth": 1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Despite Selena's warning, Jim pushes past and advances along the top landing until he reaches a door.",
+      "assessment": "This action shows Jim's confidence and willingness to take initiative, but also a possible recklessness or underestimation of danger, which could be a negative indicator.",
+      "rating": -1,
+      "chunk": 12
     },
     {
-      "Action": "Pushes past Mark and advances to open the door despite strong, unpleasant smell.",
-      "Competence": 1,
-      "Chunk": 13
+      "trait": "warmth",
+      "action": "Jim pushes open the door to see his deceased parents lying side by side.",
+      "assessment": "Jim shows courage and a willingness to confront painful reality, which can be seen as sincere and genuine, though not directly an act of warmth toward others.",
+      "rating": 1,
+      "chunk": 13
     },
     {
-      "Action": "Sits alone crying on the toilet, emotionally overwhelmed and unresponsive to the situation.",
-      "Competence": -1,
-      "Chunk": 13
+      "trait": "warmth",
+      "action": "Jim sits alone in the bathroom crying, clutching a note from his parents.",
+      "assessment": "Jim's emotional vulnerability and grief reveal his capacity for deep feeling and sincerity, indicating warmth in his internal emotional life.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Looks dazed and uncomprehending while others explain the situation.",
-      "Competence": -1,
-      "Chunk": 13
+      "trait": "warmth",
+      "action": "Jim tells Selena 'I'm not grateful' after she says he should be grateful his parents died peacefully.",
+      "assessment": "Jim's blunt honesty shows sincerity, but also a lack of tolerance for what he perceives as dismissive comfort, reflecting a complex but genuine emotional response.",
+      "rating": 1,
+      "chunk": 13
     },
     {
-      "Action": "Offers his old room to Selena and Mark, choosing to sleep separately in the living room.",
-      "Warmth": 1,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "Jim listens quietly as Mark recounts the chaos and loss experienced by their family.",
+      "assessment": "Jim's attentive listening suggests respect and trustworthiness toward his brother, indicating warmth in his interpersonal relations.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Watches Selena sleeping quietly, then leaves the room silently to avoid disturbing her.",
-      "Warmth": 1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Pushes open the door despite the overwhelming smell and the sight of his decomposed parents.",
+      "assessment": "This action shows a degree of emotional strength and determination to face harsh realities, indicating mental resilience and a capacity to act under distress.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Climbs on top of a kiosk to escape infection, demonstrating quick thinking under pressure.",
-      "Competence": 1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Sits alone in the bathroom crying, clutching the note from his parents.",
+      "assessment": "While this shows emotional vulnerability, it also reflects a moment of processing trauma rather than incompetence; however, it does not demonstrate active coping or problem-solving skills.",
+      "rating": 0,
+      "chunk": 13
     },
     {
-      "Action": "Allocates sleeping arrangements logically to keep others safe, offering to sleep separately to protect the group.",
-      "Competence": 1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Appears dazed and uncomprehending while sitting with Selena and Mark.",
+      "assessment": "This suggests a temporary mental overwhelm and lack of situational awareness, indicating a momentary lapse in competence.",
+      "rating": -1,
+      "chunk": 13
     },
     {
-      "Action": "Stays awake and vigilant at night while others sleep, indicating awareness and responsibility.",
-      "Competence": 1,
-      "Chunk": 14
+      "trait": "competence",
+      "action": "Engages in conversation with Selena, clearly stating 'I'm not grateful' in response to her comment.",
+      "assessment": "This shows emotional honesty and assertiveness, which are components of psychological competence, though it does not directly reflect practical or strategic skill.",
+      "rating": 1,
+      "chunk": 13
     },
     {
-      "Action": "Leaves the room quietly and covertly to inspect the kitchen during the night, showing caution and observational skills.",
-      "Competence": 1,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "Jim offers his old room at the end of the landing to Selena and Mark, choosing to sleep downstairs himself.",
+      "assessment": "Jim's gesture of giving up his own room to others shows consideration and a protective attitude, indicating warmth and selflessness.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Appears uncertain and hesitant when responding to Selena about the sleeping arrangements, showing some doubt or lack of decisiveness.",
-      "Competence": 0,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "Jim watches Selena sleeping quietly and then leaves the room without waking anyone.",
+      "assessment": "Jim's behavior demonstrates respect for others' rest and a gentle, caring nature, reflecting warmth and thoughtfulness.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Touches the photo of himself with his parents lightly, showing affection.",
-      "Warmth": 1,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Climbs on top of a kiosk to escape the infected crowd.",
+      "assessment": "This action shows quick thinking and physical agility under extreme stress, indicating a capable and resourceful response to danger.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Drains the carton of orange juice without offering to share before his dad asks.",
-      "Warmth": -1,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Offers his old room to Selena and Mark and chooses to sleep separately downstairs.",
+      "assessment": "This demonstrates a thoughtful and protective attitude, suggesting emotional intelligence and a willingness to prioritize others' safety, which is a competent social behavior.",
+      "rating": 1,
+      "chunk": 14
     },
     {
-      "Action": "Rolls the Infected Man off quickly, showing situational awareness and timely response.",
-      "Competence": 1,
-      "Chunk": 16
+      "trait": "competence",
+      "action": "Stays awake at night while others sleep, quietly leaving the living room to check the kitchen.",
+      "assessment": "This indicates vigilance and a sense of responsibility, showing that Jim is alert and cautious in a dangerous environment, which are signs of competence.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Hyperventilates and stares at the corpse, indicating emotional overwhelm and loss of composure.",
-      "Competence": -1,
-      "Chunk": 16
+      "trait": "competence",
+      "action": "Looks around the kitchen, noting personal items like the kid's drawing and recipe album.",
+      "assessment": "This moment of observation suggests awareness and a reflective mindset, but it does not directly demonstrate skill or confidence in handling the crisis.",
+      "rating": 0,
+      "chunk": 14
     },
     {
-      "Action": "Answers Selena's questions clearly about being bitten or blood exposure, demonstrating clarity and presence of mind.",
-      "Competence": 1,
-      "Chunk": 16
+      "trait": "warmth",
+      "action": "Touches the photo of himself with his parents lightly, showing a moment of tenderness and connection to family.",
+      "assessment": "This small gesture indicates Jim's affectionate and sincere nature towards his family, reflecting warmth.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Focuses on identifying Mr. Bridges and his daughter, showing observational skills and memory.",
-      "Competence": 1,
-      "Chunk": 16
+      "trait": "warmth",
+      "action": "Shouts for help when attacked by the Infected Man.",
+      "assessment": "Jim's call for help shows vulnerability and a reliance on others, which can indicate trust and openness, aspects of warmth.",
+      "rating": 1,
+      "chunk": 15
     },
     {
-      "Action": "Does not intervene or attempt to prevent escalating violence between Selena and Mark, potentially showing passivity in critical moments.",
-      "Competence": -1,
-      "Chunk": 16
+      "trait": "competence",
+      "action": "Freezes and slowly turns his head upon hearing scratching noises at the back door.",
+      "assessment": "Jim's initial reaction to the threat is hesitation and freezing, which suggests a lack of immediate readiness or situational awareness in a dangerous moment.",
+      "rating": -1,
+      "chunk": 15
     },
     {
-      "Action": "Scrabbles backwards away from the infected, frightened but cooperative when asked to clean blood off the floor.",
-      "Warmth": 1,
-      "Chunk": 17
+      "trait": "competence",
+      "action": "Shouts for help while struggling under the Infected Man.",
+      "assessment": "Jim's response to being attacked is to call out for assistance rather than attempting to fight back or escape, indicating limited self-defense skills or confidence in handling the threat alone.",
+      "rating": -1,
+      "chunk": 15
     },
     {
-      "Action": "Changes clothes and prepares to leave quickly when instructed.",
-      "Warmth": 0,
-      "Chunk": 17
+      "trait": "competence",
+      "action": "Uses his arms to hold back the Infected Man's assault.",
+      "assessment": "Despite being overwhelmed, Jim attempts to physically resist the attacker, showing some instinctive defensive behavior, though it is not sufficient to repel the threat.",
+      "rating": 0,
+      "chunk": 15
     },
     {
-      "Action": "Asks Selena quietly and insistently how she knew Mark was infected, showing curiosity and need for understanding.",
-      "Warmth": 1,
-      "Chunk": 17
+      "trait": "warmth",
+      "action": "Rolls the Infected Man off to protect others and reacts with visible distress upon seeing the corpses.",
+      "assessment": "Jim's action to roll the infected man off shows concern for others' safety, and his hyperventilating and emotional reaction indicate empathy and sensitivity.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Does not display aggression or hostility despite tense situation, remains engaged and sincere in conversation with Selena.",
-      "Warmth": 1,
-      "Chunk": 17
+      "trait": "warmth",
+      "action": "Informs Selena that the dead man is Mr. Bridges and that the girl is his daughter.",
+      "assessment": "Jim shares personal information about the victims, showing sincerity and a desire to communicate clearly in a tense situation.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Scrabbles backwards on the floor away from Selena finishing Mark off, appearing fazed and frightened.",
-      "Competence": -1,
-      "Chunk": 17
+      "trait": "warmth",
+      "action": "Answers Selena's questions honestly and calmly about being bitten or exposed to blood.",
+      "assessment": "Jim's straightforward and truthful responses demonstrate trustworthiness and cooperation under pressure.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Hurriedly starts to wipe the infected's blood from his neck when given a dishcloth by Selena.",
-      "Competence": 0,
-      "Chunk": 17
+      "trait": "warmth",
+      "action": "Does not intervene or attempt to stop Selena from attacking Mark despite the escalating violence.",
+      "assessment": "Jim's omission to de-escalate the conflict or protect Mark suggests passivity or lack of assertiveness in preventing harm to others, which may indicate lower warmth in this moment.",
+      "rating": -1,
+      "chunk": 16
     },
     {
-      "Action": "Responds to Selena's orders with uncertainty and hesitation ('I... I don't know. I think so.' regarding clothes).",
-      "Competence": -1,
-      "Chunk": 17
+      "trait": "competence",
+      "action": "Rolls the Infected Man off just in time to see Mark dispatch the Girl.",
+      "assessment": "This shows Jim's alertness and quick physical response in a dangerous situation, indicating situational awareness and some physical capability.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Changes out of hospital clothes into practical attire, dons a backpack, and carries a baseball bat, preparing to leave quickly.",
-      "Competence": 1,
-      "Chunk": 17
+      "trait": "competence",
+      "action": "Hyperventilates and stares at the corpse on the kitchen floor.",
+      "assessment": "This reaction suggests a momentary loss of composure and emotional overwhelm, which may impair his ability to act effectively under stress.",
+      "rating": -1,
+      "chunk": 16
     },
     {
-      "Action": "Walks fast and alert with Selena on the street, showing awareness of danger.",
-      "Competence": 1,
-      "Chunk": 17
+      "trait": "competence",
+      "action": "Answers Selena's questions clearly and calmly about being bitten and blood exposure.",
+      "assessment": "Jim demonstrates clear communication and presence of mind despite the tense situation, reflecting some mental clarity and control.",
+      "rating": 1,
+      "chunk": 16
     },
     {
-      "Action": "Questions Selena quietly and insistently about how she knew Mark was infected, seeking understanding.",
-      "Competence": 0,
-      "Chunk": 17
+      "trait": "competence",
+      "action": "Turns to Mark and observes the blood on his arm and the fresh scratch.",
+      "assessment": "Jim shows observational skills and awareness of potential danger signs, which is important for survival and decision-making.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Remains silent when Selena discusses grim realities and plans, showing restraint and attentiveness.",
-      "Warmth": 0,
-      "Chunk": 18
+      "trait": "competence",
+      "action": "Does not intervene or attempt to stop Selena from attacking Mark.",
+      "assessment": "Jim's omission to intervene in a critical moment could indicate hesitation, lack of confidence, or inability to assert control in a volatile situation.",
+      "rating": -1,
+      "chunk": 16
     },
     {
-      "Action": "Follows Selena quietly, respecting her lead and decisions without interruption.",
-      "Warmth": 1,
-      "Chunk": 18
+      "trait": "warmth",
+      "action": "Picks up the rag and hurriedly starts to wipe the Infected's blood from around his neck after Selena kills Mark.",
+      "assessment": "Jim's action to clean the blood shows a desire to maintain cleanliness and possibly respect for the dead, indicating a conscientious and considerate nature despite the traumatic situation.",
+      "rating": 2,
+      "chunk": 17
     },
     {
-      "Action": "Lifts his hand and opens his mouth to speak but doesn’t, allowing Selena to continue.",
-      "Warmth": 1,
-      "Chunk": 18
+      "trait": "warmth",
+      "action": "Follows Selena's instructions to get dressed and prepare to leave quickly.",
+      "assessment": "Jim's compliance with Selena's urgent commands suggests trust and cooperation, reflecting a willingness to work with others and adapt in crisis.",
+      "rating": 1,
+      "chunk": 17
     },
     {
-      "Action": "Asks relevant questions to understand the situation better (e.g., 'How long had you known him?').",
-      "Competence": 1,
-      "Chunk": 18
+      "trait": "warmth",
+      "action": "Breaks the silence to ask Selena how she knew Mark was infected.",
+      "assessment": "Jim's insistence on understanding the situation shows curiosity and a need for clarity, which can be seen as sincere and open communication, though it also hints at some anxiety.",
+      "rating": 1,
+      "chunk": 17
     },
     {
-      "Action": "Remains silent and thoughtful when Selena discusses plans, indicating reflection and restraint.",
-      "Competence": 1,
-      "Chunk": 18
+      "trait": "warmth",
+      "action": "Appears fazed and frightened when Selena questions him about clothes.",
+      "assessment": "Jim's fear and hesitation reveal vulnerability and a lack of assertiveness, which may limit his ability to be warm in this moment, but also show his human side.",
+      "rating": 0,
+      "chunk": 17
     },
     {
-      "Action": "Follows Selena but maintains a few steps behind, showing caution and awareness.",
-      "Competence": 1,
-      "Chunk": 18
+      "trait": "competence",
+      "action": "Scrabbles backwards on the floor away from Selena and the infected, rather than intervening or taking control.",
+      "assessment": "This action suggests a lack of confidence and physical assertiveness in a dangerous situation, indicating lower competence under pressure.",
+      "rating": -2,
+      "chunk": 17
     },
     {
-      "Action": "Attempts to speak but is cut off without reaction, showing passivity in decision-making moments.",
-      "Competence": 0,
-      "Chunk": 18
+      "trait": "competence",
+      "action": "Picks up the dishcloth and hurriedly starts to wipe the infected's blood from around his neck when instructed by Selena.",
+      "assessment": "Although he acts quickly on instruction, his behavior is reactive and lacks initiative, showing limited competence but willingness to follow orders.",
+      "rating": 0,
+      "chunk": 17
     },
     {
-      "Action": "Admits to having a headache and opening up to Selena despite initial reluctance.",
-      "Warmth": 1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Responds to Selena's question about clothes with uncertainty and hesitation ('I... I don't know. I think so.'), showing fear and being fazed.",
+      "assessment": "This indicates uncertainty and lack of preparedness, reflecting lower competence in managing his own resources and readiness.",
+      "rating": -1,
+      "chunk": 17
     },
     {
-      "Action": "Initially claims nothing is wrong when asked by Selena, showing some emotional guardedness.",
-      "Warmth": 0,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Changes out of hospital gear into jeans and sweatshirt, equips himself with a small backpack and baseball bat before leaving the house.",
+      "assessment": "This shows some practical awareness and ability to prepare for travel and potential conflict, indicating moderate competence.",
+      "rating": 1,
+      "chunk": 17
     },
     {
-      "Action": "Expresses doubt that Selena would care about his headache.",
-      "Warmth": -1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Walks fast and alert with Selena, maintaining vigilance during a dangerous situation.",
+      "assessment": "Demonstrates situational awareness and physical readiness, suggesting a reasonable level of competence in a threatening environment.",
+      "rating": 2,
+      "chunk": 17
     },
     {
-      "Action": "Checks carefully around the corner before proceeding up the stairwell.",
-      "Competence": 1,
-      "Chunk": 19
+      "trait": "competence",
+      "action": "Insists on understanding how Selena knew Mark was infected, showing curiosity and desire for information.",
+      "assessment": "This reflects cognitive engagement and a willingness to learn, which are positive indicators of competence.",
+      "rating": 1,
+      "chunk": 17
     },
     {
-      "Action": "Acknowledges physical limits by requesting a break despite initial reluctance, showing some self-awareness.",
-      "Competence": 1,
-      "Chunk": 19
+      "trait": "warmth",
+      "action": "Jim says nothing when Selena talks about killing infected loved ones without hesitation.",
+      "assessment": "Jim's silence in response to Selena's harsh but pragmatic statement may indicate emotional restraint or internal conflict, showing a reserved but possibly empathetic nature.",
+      "rating": 1,
+      "chunk": 18
     },
     {
-      "Action": "Initially hides his headache and does not ask for help, assuming others would not care.",
-      "Competence": -1,
-      "Chunk": 19
+      "trait": "warmth",
+      "action": "Jim follows Selena closely but keeps a few steps behind, and attempts to speak but is cut off.",
+      "assessment": "Jim's behavior suggests he is respectful and cautious around Selena, possibly indicating deference and a non-confrontational attitude, which can be seen as warm in terms of social sensitivity.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Accepts codeine tablets and sugar from Selena without complaint.",
-      "Warmth": 1,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Jim says nothing when Selena challenges him about having a plan and follows a few steps behind her silently.",
+      "assessment": "Jim's silence and passive following suggest hesitation or lack of initiative, indicating a possible lack of confidence or decisiveness in a critical situation.",
+      "rating": -1,
+      "chunk": 18
     },
     {
-      "Action": "Responds to Selena with a terse comment ('Because I didn't think you'd give a shit').",
-      "Warmth": -1,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Jim lifts his hand and opens his mouth to speak but is cut off by Selena before he can say anything.",
+      "assessment": "This moment shows Jim's attempt to contribute or assert himself, but being interrupted may reflect his lower assertiveness or difficulty in taking charge, slightly undermining his perceived competence.",
+      "rating": 0,
+      "chunk": 18
     },
     {
-      "Action": "Accepts codeine tablets and sugar to manage his crashing condition, showing awareness of his physical state.",
-      "Competence": 1,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Expresses doubt that Selena would care about his headache ('Because I didn't think you'd give a shit...').",
+      "assessment": "This statement reveals a lack of trust and low expectation of empathy toward Selena, indicating emotional distance and a somewhat cynical or guarded attitude.",
+      "rating": -2,
+      "chunk": 19
     },
     {
-      "Action": "Asks for Sprite after accepting codeine, indicating some forethought about practical matters.",
-      "Competence": 1,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Admits to needing a break and eventually shares his headache with Selena after some prompting.",
+      "assessment": "Although initially reluctant, Jim does open up about his discomfort, showing some level of sincerity and willingness to be honest about his state.",
+      "rating": 1,
+      "chunk": 19
     },
     {
-      "Action": "Grabs weapon quickly along with Selena in response to a scream, showing alertness and readiness to react.",
-      "Competence": 1,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Moves steadily and quietly up the stairwell, checking around corners before proceeding.",
+      "assessment": "This shows cautious and deliberate movement, indicating situational awareness and a careful approach, which are signs of competence.",
+      "rating": 2,
+      "chunk": 19
     },
     {
-      "Action": "Runs up multiple flight of stairs while being chased despite exhaustion, demonstrating determination but possibly poor assessment of his physical limits.",
-      "Competence": 0,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Expresses hope that they don't have to get out in a hurry due to obstacles.",
+      "assessment": "This comment reflects awareness of their environment and potential challenges, showing foresight and practical thinking.",
+      "rating": 1,
+      "chunk": 19
     },
     {
-      "Action": "Despite exhaustion, Jim pushes himself to sprint past Selena to escape Infected.",
-      "Warmth": 0,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Admits to needing a break after initially denying it.",
+      "assessment": "While admitting physical limits is realistic and can be a strength, the initial denial and delayed honesty may suggest some lack of self-awareness or poor communication under stress.",
+      "rating": 0,
+      "chunk": 19
     },
     {
-      "Action": "Looks back to see the Riot Gear Man saving them by attacking the Infected.",
-      "Warmth": 0,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Hides his headache initially and claims 'Nothing' when asked what's wrong.",
+      "assessment": "This omission suggests a reluctance to communicate openly, which could hinder group effectiveness and indicates a potential weakness in emotional intelligence or leadership.",
+      "rating": -1,
+      "chunk": 19
     },
     {
-      "Action": "Runs with Selena towards safety and together they seek help by knocking on the door and pleading to be let in.",
-      "Warmth": 1,
-      "Chunk": 21
+      "trait": "warmth",
+      "action": "Does not initially disclose his poor condition to Selena, saying 'Because I didn't think you'd give a shit.'",
+      "assessment": "Jim's reluctance to share his struggles suggests a lack of openness and trust, which may hinder warmth in relationships.",
+      "rating": -1,
+      "chunk": 20
     },
     {
-      "Action": "Allows himself and Selena to be welcomed into the flat by the Man and the family, indicating trust and acceptance of others.",
-      "Warmth": 1,
-      "Chunk": 22
+      "trait": "warmth",
+      "action": "Accepts codeine tablets from Selena and chews them, then asks for Sprite.",
+      "assessment": "Jim's acceptance of help and small interaction about the drink shows a degree of trust and friendly engagement with Selena.",
+      "rating": 1,
+      "chunk": 20
     },
     {
-      "Action": "Looks back down the corridor when asked about 'Dad', showing attentiveness and concern.",
-      "Warmth": 1,
-      "Chunk": 22
+      "trait": "warmth",
+      "action": "Immediately reacts with alarm and readiness when hearing a scream, grabbing his weapon and sprinting up the stairs with Selena.",
+      "assessment": "Jim's quick protective response indicates concern for safety and solidarity with Selena, reflecting a responsible and caring nature.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Looks down the corridor to assess the situation before entering the flat.",
-      "Competence": 1,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Accepts codeine tablets and sugar from Selena to manage his physical crash due to lack of proper nutrition.",
+      "assessment": "This shows Jim's awareness of his physical state and willingness to take practical steps to maintain his condition, indicating a reasonable level of self-care and understanding.",
+      "rating": 1,
+      "chunk": 20
     },
     {
-      "Action": "Follows the Man and the girl inside without apparent hesitation, showing calmness and trust.",
-      "Competence": 1,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Immediately grabs his weapon with Selena upon hearing a scream from below.",
+      "assessment": "This quick reaction to a potential threat demonstrates alertness and readiness to respond to danger, reflecting competent situational awareness.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "No immediate proactive actions or decisions shown in this excerpt; mostly following others.",
-      "Competence": 0,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Sprints up multiple flights of stairs while being chased by infected despite exhaustion.",
+      "assessment": "Although physically strained, Jim pushes himself to keep moving and escape danger, showing determination and endurance, which are positive competence indicators.",
+      "rating": 2,
+      "chunk": 20
     },
     {
-      "Action": "Hesitates briefly but shakes Frank's hand after introduction.",
-      "Warmth": 1,
-      "Chunk": 23
+      "trait": "competence",
+      "action": "Asks for Sprite instead of the offered sugary drinks.",
+      "assessment": "This may suggest a preference or slight lack of focus on immediate practical needs (any sugar would help), but it is a minor detail and does not strongly affect competence.",
+      "rating": 0,
+      "chunk": 20
     },
     {
-      "Action": "Accepts Selena's invitation and sits on the sofa to make guests comfortable.",
-      "Warmth": 1,
-      "Chunk": 23
+      "trait": "warmth",
+      "action": "Looks back over his shoulder to see the Riot Gear Man fighting the Infected, ensuring the others are protected while he escapes with Selena.",
+      "assessment": "Jim's glance back shows concern for others' safety, indicating a caring and considerate nature despite the danger.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Engages with Hannah by acknowledging 'This is your place, then.' showing attempt to connect.",
-      "Warmth": 1,
-      "Chunk": 23
+      "trait": "warmth",
+      "action": "Runs with Selena towards safety and tries to get into Flat 157 to find refuge.",
+      "assessment": "Jim's actions demonstrate a cooperative and trusting attitude, working with others to survive and seeking shelter together.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Briefly hesitates but shakes Frank's hand when introduced, showing social awareness and cautious engagement.",
-      "Competence": 1,
-      "Chunk": 23
+      "trait": "warmth",
+      "action": "Initially says he can't continue climbing the stairs due to exhaustion.",
+      "assessment": "Expressing his limits honestly shows sincerity and self-awareness, which are components of warmth, though it also reflects vulnerability.",
+      "rating": 1,
+      "chunk": 21
     },
     {
-      "Action": "Accepts seating suggestion and sits with Selena instead of standing awkwardly, demonstrating adaptability.",
-      "Competence": 1,
-      "Chunk": 23
+      "trait": "competence",
+      "action": "Despite exhaustion and saying 'I can't,' Jim suddenly finds an amazing burst of energy and speed to sprint past Selena up the stairs.",
+      "assessment": "This shows Jim's ability to push beyond his physical limits when necessary, indicating resilience and determination, which are positive indicators of competence.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Does not take charge or assert himself in the unfamiliar social situation, showing passivity.",
-      "Competence": -1,
-      "Chunk": 23
+      "trait": "competence",
+      "action": "Jim looks over his shoulder to see the Riot Gear Man fighting the Infected, then follows the instruction to run down the corridor towards Flat 157.",
+      "assessment": "Jim demonstrates situational awareness and the ability to respond quickly to new information, showing good presence of mind under pressure.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Engages in light conversation and acknowledges the surroundings (comments 'This is your place, then.'), showing observational skill.",
-      "Competence": 1,
-      "Chunk": 23
+      "trait": "competence",
+      "action": "Jim and Selena hammer on the door of Flat 157 and call out to be let in.",
+      "assessment": "While this is a natural reaction, it also shows Jim's ability to seek shelter and safety promptly, though it lacks any tactical approach or alternative plan, indicating moderate competence.",
+      "rating": 1,
+      "chunk": 21
     },
     {
-      "Action": "Expresses polite appreciation for the place by saying 'It's nice.'",
-      "Warmth": 1,
-      "Chunk": 24
+      "trait": "competence",
+      "action": "Jim initially says 'I can't' when asked to continue running up the stairs.",
+      "assessment": "This admission of physical limitation could be seen as a moment of vulnerability or lack of stamina, which slightly detracts from his overall competence.",
+      "rating": -1,
+      "chunk": 21
     },
     {
-      "Action": "Engages in conversation, asking about others in the building, showing concern.",
-      "Warmth": 1,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Allows the Man and his family to let Jim and Selena inside their flat after a tense moment at the door.",
+      "assessment": "Jim's acceptance of the Man's invitation and entering the flat shows a willingness to trust and engage with others in a difficult situation, indicating openness and friendliness.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Asks if there are others in the building, showing awareness and concern for safety.",
-      "Competence": 1,
-      "Chunk": 24
+      "trait": "competence",
+      "action": "Looks back down the corridor to assess the situation when the girl asks about her father.",
+      "assessment": "Jim demonstrates situational awareness by checking the corridor and noticing the Man handling the Infected, indicating attentiveness and cautiousness.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Responds politely to Frank's explanations about the bathroom situation without complaint.",
-      "Warmth": 1,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Follows the Man and Selena into the flat without hesitation.",
+      "assessment": "Jim shows confidence and decisiveness in moving forward with the group, suggesting trust and a proactive approach to the situation.",
+      "rating": 1,
+      "chunk": 22
     },
     {
-      "Action": "Cuts himself multiple times shaving but does not complain or seek help, wiping away blood himself.",
-      "Warmth": 0,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Enters a flat with multiple security measures (locks, deadbolts) and observes the environment carefully.",
+      "assessment": "Jim's awareness of the security setup and environment indicates a careful and intelligent approach to safety, reflecting competence in assessing risk.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Chooses to take the living room rather than the spare room, possibly giving Selena and Frank privacy.",
-      "Warmth": 1,
-      "Chunk": 25
+      "trait": "warmth",
+      "action": "Jim hesitates very briefly, then shakes Frank's hand.",
+      "assessment": "Jim's willingness to shake hands despite initial hesitation shows openness and a polite attempt to connect.",
+      "rating": 2,
+      "chunk": 23
     },
     {
-      "Action": "Responds briefly to Frank's good night with a polite farewell.",
-      "Warmth": 1,
-      "Chunk": 25
+      "trait": "warmth",
+      "action": "Jim and Selena take the sofa after Frank invites them to sit.",
+      "assessment": "Jim follows social cues and accepts hospitality, indicating respect and friendliness.",
+      "rating": 1,
+      "chunk": 23
     },
     {
-      "Action": "Engages minimally with Selena after entering the living room, responding with short statements.",
-      "Warmth": 0,
-      "Chunk": 25
+      "trait": "warmth",
+      "action": "Jim says to Hannah, 'This is your place, then.'",
+      "assessment": "Jim's comment is gentle and inclusive, acknowledging Hannah's presence and ownership, showing sensitivity.",
+      "rating": 2,
+      "chunk": 23
     },
     {
-      "Action": "Shaves beard off carefully despite limited resources (dry shaving) and manages to clean wounds with spit.",
-      "Competence": 1,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Jim hesitates very briefly, then shakes Frank's hand.",
+      "assessment": "Jim shows a momentary hesitation but quickly recovers and engages in a social gesture, indicating moderate social confidence and adaptability in an uncertain situation.",
+      "rating": 1,
+      "chunk": 23
     },
     {
-      "Action": "Opens the door to Frank after finishing shaving and calmly accepts the lack of modern conveniences.",
-      "Competence": 1,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Jim and Selena take the sofa after Frank exits, following Selena's gesture.",
+      "assessment": "Jim follows social cues and settles down appropriately, showing situational awareness and cooperation, though he does not take initiative here.",
+      "rating": 1,
+      "chunk": 23
     },
     {
-      "Action": "Agrees to take the living room without hesitation, showing adaptability.",
-      "Competence": 1,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Jim attempts light conversation by saying 'This is your place, then.' to Hannah.",
+      "assessment": "Jim tries to engage with Hannah, demonstrating social awareness and an effort to build rapport, which reflects interpersonal competence.",
+      "rating": 2,
+      "chunk": 23
     },
     {
-      "Action": "Feels his way down a dark corridor relying on touch, indicating cautiousness and situational awareness.",
-      "Competence": 1,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Jim does not take charge or assert himself during the awkward moments and waits for others to act.",
+      "assessment": "Jim's passivity in a tense and uncertain social situation suggests a lack of assertiveness and leadership, indicating lower competence in managing social dynamics.",
+      "rating": -1,
+      "chunk": 23
     },
     {
-      "Action": "Expresses belief that the newcomers are good people despite Selena's practical concerns.",
-      "Warmth": 1,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Says 'It's nice.' upon seeing Hannah's place.",
+      "assessment": "Jim's brief positive comment shows a polite and friendly acknowledgment, indicating a mild warmth.",
+      "rating": 1,
+      "chunk": 24
     },
     {
-      "Action": "Refuses to leave the newcomers behind even if it might slow him down or risk his safety.",
-      "Warmth": 1,
-      "Chunk": 26
+      "trait": "warmth",
+      "action": "Asks if there are any others in the building.",
+      "assessment": "Jim's question reflects concern for others' wellbeing, showing care and attentiveness.",
+      "rating": 2,
+      "chunk": 24
     },
     {
-      "Action": "Acknowledges Selena's importance to his survival and sincerely thanks her.",
-      "Warmth": 1,
-      "Chunk": 26
+      "trait": "competence",
+      "action": "Jim asks if there are any others in the building after hearing about the survivors and the precautions taken.",
+      "assessment": "This question shows Jim's awareness and concern for safety, indicating a thoughtful and cautious approach to the situation, which is a positive indicator of competence.",
+      "rating": 2,
+      "chunk": 24
     },
     {
-      "Action": "Listens attentively to Frank's worries about water shortage without dismissing or arguing.",
-      "Warmth": 1,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Jim responds with a simple, polite comment: 'It's nice.' when shown the place.",
+      "assessment": "This response is neutral and does not demonstrate particular skill or confidence; it suggests social politeness but not necessarily competence.",
+      "rating": 0,
+      "chunk": 24
     },
     {
-      "Action": "Shakes head when Frank asks if he has a solution, indicating honesty about his inability to help.",
-      "Warmth": 1,
-      "Chunk": 27
+      "trait": "warmth",
+      "action": "Responds politely to Frank's apology about the lack of water and toilet facilities, saying 'It's fine.'",
+      "assessment": "Jim shows tolerance and understanding toward the inconveniences, indicating patience and good-natured acceptance.",
+      "rating": 2,
+      "chunk": 25
     },
     {
-      "Action": "Responds with a simple 'Right' to the bad news about water insufficiency for him and Selena, showing acceptance without argument or blame.",
-      "Warmth": 1,
-      "Chunk": 27
+      "trait": "warmth",
+      "action": "Offers to take the living room instead of the spare bedroom.",
+      "assessment": "By choosing the less comfortable space, Jim demonstrates consideration and selflessness, which are positive indicators of warmth.",
+      "rating": 3,
+      "chunk": 25
     },
     {
-      "Action": "Listens attentively to Frank's explanation about the water shortage and the empty pans, acknowledges the severity by responding 'Right.'",
-      "Competence": 1,
-      "Chunk": 27
+      "trait": "warmth",
+      "action": "Engages in light, somewhat self-deprecating banter with Selena about the state of the flat ('Very shredded').",
+      "assessment": "This interaction suggests a friendly and sincere rapport, showing Jim's ability to connect warmly with others.",
+      "rating": 2,
+      "chunk": 25
     },
     {
-      "Action": "Shakes his head when Frank asks if he knows how to set up a plastic sheet to catch dew, indicating lack of practical knowledge or skill in this survival technique.",
-      "Competence": -1,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Shaves his beard off using a dry razor and cuts himself several times, wiping away the blood with spit.",
+      "assessment": "This action suggests a lack of preparation and care, indicating some clumsiness or impatience, which reflects a lower level of practical competence in self-care.",
+      "rating": -1,
+      "chunk": 25
     },
     {
-      "Action": "Recognizes and takes seriously the water scarcity problem expressed by Frank, showing awareness and readiness to address it.",
-      "Competence": 1,
-      "Chunk": 27
+      "trait": "competence",
+      "action": "Responds calmly and politely to Frank about the lack of water and toilet facilities, accepting the situation without complaint.",
+      "assessment": "This shows emotional resilience and adaptability, indicating a competent attitude toward difficult living conditions.",
+      "rating": 1,
+      "chunk": 25
     },
     {
-      "Action": "Listens attentively to the radio broadcast and discusses plans with the group.",
-      "Warmth": 1,
-      "Chunk": 28
+      "trait": "competence",
+      "action": "Chooses to take the living room rather than the spare bedroom without hesitation.",
+      "assessment": "This decision suggests confidence and a willingness to assert himself in a new environment, reflecting moderate social competence.",
+      "rating": 1,
+      "chunk": 25
     },
     {
-      "Action": "Engages cooperatively in group decision-making, showing openness to others.",
-      "Warmth": 1,
-      "Chunk": 28
+      "trait": "competence",
+      "action": "Navigates the dark corridor by feeling his way back to the candlelit living room.",
+      "assessment": "This shows practical awareness and cautiousness, indicating competent navigation skills in low-visibility conditions.",
+      "rating": 2,
+      "chunk": 25
     },
     {
-      "Action": "Questions whether the radio message is a recording, demonstrating critical listening and comprehension.",
-      "Competence": 1,
-      "Chunk": 28
+      "trait": "warmth",
+      "action": "Says 'I think they're good people' when discussing others who seem desperate and in need.",
+      "assessment": "Jim shows a tendency to see the good in others and to be trusting and benevolent, indicating a positive inclination toward warmth.",
+      "rating": 2,
+      "chunk": 26
     },
     {
-      "Action": "Acknowledges the location on the map and considers the journey ahead, showing situational awareness and planning.",
-      "Competence": 1,
-      "Chunk": 28
+      "trait": "warmth",
+      "action": "Refuses to leave others behind even if it might slow him down, saying 'I wouldn't [leave them behind]'.",
+      "assessment": "Jim demonstrates loyalty and a willingness to support others despite personal risk, reflecting a sincere and trustworthy nature.",
+      "rating": 3,
+      "chunk": 26
     },
     {
-      "Action": "Suggests maybe they have a cure, showing hope and willingness to believe in positive outcomes.",
-      "Warmth": 1,
-      "Chunk": 29
+      "trait": "warmth",
+      "action": "Thanks Selena sincerely for saving his life, acknowledging 'I know I'd be dead already if I hadn't met you.'",
+      "assessment": "Jim expresses genuine gratitude and acknowledges the importance of others in his survival, showing sincerity and appreciation.",
+      "rating": 3,
+      "chunk": 26
     },
     {
-      "Action": "Questions Hannah 'Get there how?', showing engagement and concern for practical steps, suggesting care for group safety.",
-      "Warmth": 1,
-      "Chunk": 29
+      "trait": "warmth",
+      "action": "Blows out candles but leaves one burning beside the sofa before going out onto the balcony.",
+      "assessment": "This small action may suggest a thoughtful or cautious nature, possibly indicating care for the environment or others who might return, but it is ambiguous and subtle.",
+      "rating": 1,
+      "chunk": 26
     },
     {
-      "Action": "Expresses cautious hope that a cure may exist, showing openness to possibilities.",
-      "Competence": 0,
-      "Chunk": 29
+      "trait": "warmth",
+      "action": "Engages in a calm, reflective moment alone on the balcony and later sitting quietly nursing a drink.",
+      "assessment": "While introspective behavior is neutral, it may indicate emotional depth and a capacity for empathy, but does not strongly indicate warmth by itself.",
+      "rating": 0,
+      "chunk": 26
     },
     {
-      "Action": "Questions practical matters with 'Get there how?', indicating a concern for logistics and feasibility.",
-      "Competence": 1,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Expresses empathy and trust towards others by saying 'I think they're good people' despite Selena's pragmatic warnings.",
+      "assessment": "This shows emotional intelligence and a capacity for nuanced judgment, indicating social competence and confidence in his own moral compass.",
+      "rating": 1,
+      "chunk": 26
     },
     {
-      "Action": "Expresses concern about the safety of the tunnel route, suggests a safer alternative in broad daylight.",
-      "Warmth": 1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Refuses to abandon others even when warned it could get him killed.",
+      "assessment": "This demonstrates strong personal conviction and loyalty, but also suggests a potential lack of pragmatic risk assessment, which could be a liability in survival situations.",
+      "rating": -1,
+      "chunk": 26
     },
     {
-      "Action": "Complains bluntly about the bad idea of driving into the tunnel, using strong language.",
-      "Warmth": 0,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Acknowledges Selena's importance to his survival and expresses gratitude.",
+      "assessment": "Shows self-awareness and humility, recognizing his own limitations and the value of allies, which is a sign of mature competence.",
+      "rating": 2,
+      "chunk": 26
     },
     {
-      "Action": "Voices concern about taking the tunnel route and suggests the safer alternative of the indirect, daylight route.",
-      "Competence": 1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Blows out candles but leaves one burning beside the sofa before going out onto the balcony.",
+      "assessment": "This action suggests a cautious and thoughtful approach to safety and comfort, indicating practical competence and attention to detail.",
+      "rating": 2,
+      "chunk": 26
     },
     {
-      "Action": "Clearly anticipates the dangers of the tunnel route, calling it a 'shit idea' before the hazards appear.",
-      "Competence": 1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Spends time alone on the balcony, observing the city and the burning petrol station in the distance.",
+      "assessment": "This reflects situational awareness and a contemplative mindset, which can contribute to strategic thinking and planning.",
+      "rating": 1,
+      "chunk": 26
     },
     {
-      "Action": "Does not attempt to take control or suggest alternative actions once the cab hits the barricade and suffers a tire blowout; remains a passenger during the crisis.",
-      "Competence": 0,
-      "Chunk": 30
+      "trait": "warmth",
+      "action": "Listens quietly to Frank's explanation about the water shortage and the failed attempts to collect water.",
+      "assessment": "Jim's attentive listening and lack of dismissiveness show a respectful and considerate attitude toward Frank's concerns.",
+      "rating": 2,
+      "chunk": 27
     },
     {
-      "Action": "Stands at the back of the cab with Selena, ready to protect the group, shining flashlight into darkness.",
-      "Warmth": 1,
-      "Chunk": 31
+      "trait": "warmth",
+      "action": "Acknowledges the severity of the water shortage with a simple 'Right.'",
+      "assessment": "Jim's brief but serious acknowledgment indicates he is taking the problem seriously, showing responsibility and concern for others.",
+      "rating": 2,
+      "chunk": 27
     },
     {
-      "Action": "Gets nervous but remains alert to potential danger alongside Selena.",
-      "Warmth": 1,
-      "Chunk": 31
+      "trait": "warmth",
+      "action": "Does not offer solutions or suggestions when Frank asks if he knows how to trap dew or condensation.",
+      "assessment": "Jim's inability or unwillingness to help with the water problem may suggest a lack of initiative or resourcefulness in this moment, which could be seen as a mild negative indicator of warmth.",
+      "rating": -1,
+      "chunk": 27
     },
     {
-      "Action": "Leans out the window and shouts an insult at the Infected ('Fuck you!') as they escape.",
-      "Warmth": 0,
-      "Chunk": 32
+      "trait": "competence",
+      "action": "Looks at the empty pans on the roof and acknowledges the lack of rain and water scarcity.",
+      "assessment": "Jim demonstrates awareness of the critical situation regarding water shortage, showing observational skills and situational understanding.",
+      "rating": 1,
+      "chunk": 27
     },
     {
-      "Action": "Helps lift the cab to free Hannah's tire, working together under pressure.",
-      "Competence": 1,
-      "Chunk": 32
+      "trait": "competence",
+      "action": "Shakes his head when Frank asks if he knows how to set up a plastic sheet to catch dew and condensation.",
+      "assessment": "Jim honestly admits his lack of knowledge or skill in this specific survival technique, indicating realistic self-assessment rather than overconfidence.",
+      "rating": 0,
+      "chunk": 27
     },
     {
-      "Action": "Leans out the window and taunts the Infected with 'Fuck you!' just before driving off.",
-      "Competence": 0,
-      "Chunk": 32
+      "trait": "competence",
+      "action": "Listens attentively to Frank's explanation about the water problem and the need to ration water for himself and Selena.",
+      "assessment": "Jim shows a calm and receptive attitude, which is important for making informed decisions, though no active problem-solving is demonstrated here.",
+      "rating": 1,
+      "chunk": 27
     },
     {
-      "Action": "Tells Selena to wait when she tries to get out of the cab, showing concern.",
-      "Warmth": 1,
-      "Chunk": 33
+      "trait": "warmth",
+      "action": "Listens attentively to the radio broadcast and discusses the possibility of traveling to find other survivors with Frank and Selena.",
+      "assessment": "Jim shows openness and willingness to cooperate with others, indicating a friendly and trustworthy nature in a difficult situation.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "Looks at caviar but chooses to take it anyway, disregarding Selena's suggestion to avoid items they need to cook.",
-      "Warmth": -1,
-      "Chunk": 33
+      "trait": "warmth",
+      "action": "Engages in the conversation about the need to travel together for safety and support.",
+      "assessment": "By participating in the group discussion and acknowledging the need for mutual support, Jim demonstrates tolerance and sincerity.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "Examines the label on a bottle of whisky to judge its quality.",
-      "Competence": 1,
-      "Chunk": 34
+      "trait": "competence",
+      "action": "Questions whether the radio broadcast is a recording by asking, 'It's a recording?'",
+      "assessment": "This shows Jim's attentiveness and critical thinking, indicating he is processing information carefully rather than accepting it at face value.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "Accepts Frank's advice on choosing a better single malt whisky without argument.",
-      "Competence": 1,
-      "Chunk": 34
+      "trait": "competence",
+      "action": "Engages in the discussion about the location and the plan to travel north.",
+      "assessment": "Jim's participation in strategic planning suggests he is mentally engaged and willing to contribute to group decisions, reflecting situational awareness and a proactive mindset.",
+      "rating": 1,
+      "chunk": 28
     },
     {
-      "Action": "Expresses concern about being unable to get out of London due to traffic jam.",
-      "Competence": 0,
-      "Chunk": 35
+      "trait": "warmth",
+      "action": "Says 'Maybe they've got a cure.' in response to Selena's pessimism about the infection.",
+      "assessment": "Jim expresses hope and optimism, which can be encouraging and supportive to others in a dire situation, reflecting a positive and warm attitude.",
+      "rating": 2,
+      "chunk": 29
     },
     {
-      "Action": "Notices and appreciates the cab driver's skillful cut-through to avoid traffic.",
-      "Competence": 1,
-      "Chunk": 35
+      "trait": "warmth",
+      "action": "Asks 'Get there how?' after Hannah suggests they need to try to reach the soldiers.",
+      "assessment": "Jim's question shows engagement and willingness to consider the group's plan, indicating openness and cooperative spirit, which are aspects of warmth.",
+      "rating": 1,
+      "chunk": 29
     },
     {
-      "Action": "Observes scenes of devastation quietly without taking any direct action.",
-      "Competence": 0,
-      "Chunk": 35
+      "trait": "competence",
+      "action": "Suggests that maybe the soldiers have a cure for the infection.",
+      "assessment": "This shows Jim's willingness to consider hopeful possibilities and maintain optimism, which can be important for problem-solving and morale, but it is speculative rather than based on concrete knowledge.",
+      "rating": 1,
+      "chunk": 29
     },
     {
-      "Action": "Tosses his bat into the air showing off, despite Selena's disapproval.",
-      "Warmth": -1,
-      "Chunk": 36
+      "trait": "competence",
+      "action": "Asks 'Get there how?' after the group agrees they need to reach the soldiers.",
+      "assessment": "This question indicates Jim's practical mindset and focus on logistics, showing he is thinking about the means to achieve the goal rather than just the goal itself.",
+      "rating": 2,
+      "chunk": 29
     },
     {
-      "Action": "Responds to Selena's command but questions it ('...What?').",
-      "Warmth": 0,
-      "Chunk": 36
+      "trait": "warmth",
+      "action": "Suggests taking the indirect route in broad daylight instead of the tunnel under the river Thames.",
+      "assessment": "Jim's suggestion shows concern for the safety of the group, indicating a protective and caring attitude toward others.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Walks into the cafe to look for food despite Selena saying they have enough, showing a desire to contribute.",
-      "Warmth": 1,
-      "Chunk": 37
+      "trait": "warmth",
+      "action": "Expresses frustration and criticism about driving into the dark tunnel full of smashed cars and broken glass.",
+      "assessment": "While Jim's bluntness may come off as harsh, it reflects his honesty and desire to avoid unnecessary danger for the group, which can be seen as a form of sincere care.",
+      "rating": 1,
+      "chunk": 30
     },
     {
-      "Action": "Momentarily stunned and appalled after accidentally hitting an Infected Kid with his bat.",
-      "Warmth": 1,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "Suggests taking the indirect route in broad daylight instead of the tunnel under the river.",
+      "assessment": "This shows Jim's cautious and strategic thinking, preferring a safer, more visible route over a risky, confined one.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Swings bat down to finish off the Infected Kid, showing practical but grim necessity rather than cruelty.",
-      "Warmth": 0,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "Voices his concern about driving into a dark tunnel full of smashed cars and broken glass, calling it a 'shit idea'.",
+      "assessment": "Jim demonstrates situational awareness and the ability to anticipate danger, indicating good judgment.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Does not engage with Selena's repeated questions about what he found, remaining silent and withdrawn.",
-      "Warmth": -1,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "Does not take control or suggest an alternative plan when the cab hits the barricade and the tire blows.",
+      "assessment": "Jim's passivity in a critical moment suggests a lack of leadership or initiative under pressure.",
+      "rating": -1,
+      "chunk": 30
     },
     {
-      "Action": "Makes a sarcastic internal comment about Selena ('like going on holiday with your fucking aunt'), indicating irritation.",
-      "Warmth": -1,
-      "Chunk": 37
+      "trait": "warmth",
+      "action": "Stands at the back of the cab with Selena, weapons ready, shining flashlights into the darkness to protect the group while Hannah changes the tire.",
+      "assessment": "Jim's readiness to stand guard and protect others in a dangerous situation shows responsibility and concern for the group's safety, indicating a degree of trustworthiness and care.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Instinctively snaps around and swings his bat immediately upon hearing a noise, which demonstrates quick reflexes and preparedness.",
-      "Competence": 1,
-      "Chunk": 37
+      "trait": "warmth",
+      "action": "Notices the noise and alerts the group by asking '...You heard that?'",
+      "assessment": "Jim's attentiveness and willingness to communicate potential danger to the group reflects his engagement and consideration for others' well-being.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Mistakenly attacks an Infected Kid who appears motionless but is still alive, showing a failure to accurately assess the threat before acting.",
-      "Competence": -1,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "Stands at the back of the cab with Selena, weapons ready, shining flashlights into the darkness while the others work on the flat tire.",
+      "assessment": "This shows Jim is alert and prepared to defend the group, indicating situational awareness and readiness.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "Walks into a dangerous location (the cafe) despite warnings about sufficient supplies, motivated by the lack of cheeseburgers, which could be seen as impractical or low priority in the context.",
-      "Competence": -1,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "Notices the noise from further down the tunnel and exchanges a glance with Selena, then questions if she heard it too.",
+      "assessment": "Jim demonstrates attentiveness to environmental cues and communicates effectively with his companion, reflecting good observational skills.",
+      "rating": 2,
+      "chunk": 31
     },
     {
-      "Action": "After the encounter, provides a brief and clear verbal update ('No') when asked if he found anything, which is straightforward though minimal.",
-      "Competence": 0,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "Reacts with surprise and alarm when he sees the tide of rats rushing under their feet.",
+      "assessment": "While the reaction is natural, it suggests a momentary lapse in preparedness for unexpected threats, indicating some vulnerability under stress.",
+      "rating": -1,
+      "chunk": 31
     },
     {
-      "Action": "Uses his hand out the window playfully, seemingly relaxed and engaged with the group.",
-      "Warmth": 1,
-      "Chunk": 38
+      "trait": "warmth",
+      "action": "Jim, Selena, and Frank get their hands under the side of the cab and pull upwards to lift it off Hannah so she can change the tire.",
+      "assessment": "Jim actively helps others in a stressful and dangerous situation, showing cooperation and concern for the group's wellbeing.",
+      "rating": 2,
+      "chunk": 32
     },
     {
-      "Action": "Offers to have a picnic, showing consideration and care for the group's well-being.",
-      "Warmth": 1,
-      "Chunk": 38
+      "trait": "warmth",
+      "action": "As the cab races off, Jim leans out the window and shouts 'Fuck you!' at the Infected.",
+      "assessment": "While this shows defiance and courage, the aggressive language is not particularly warm or friendly, but understandable given the threat; it reflects a protective attitude rather than hostility toward people.",
+      "rating": 0,
+      "chunk": 32
     },
     {
-      "Action": "Suggests having a picnic during the long drive, showing practical judgment in choosing to break and eat while traveling.",
-      "Competence": 1,
-      "Chunk": 38
+      "trait": "competence",
+      "action": "Jim, Selena, and Frank get their hands under the side of the cab, and pull upwards to lift it off Hannah's tire.",
+      "assessment": "This action shows Jim's willingness to physically assist in a critical and urgent situation, indicating practical capability and teamwork under pressure.",
+      "rating": 1,
+      "chunk": 32
     },
     {
-      "Action": "Engages in relaxed, reflective behavior such as catching the wind with his hand out the window, indicating calmness and situational awareness.",
-      "Competence": 1,
-      "Chunk": 38
+      "trait": "competence",
+      "action": "As the cab races off, Jim leans out the window and shouts 'Fuck you!' at the Infected.",
+      "assessment": "This action demonstrates a confident and defiant attitude, but it is more bravado than a display of skill or intelligence, and could be seen as risky or reckless.",
+      "rating": -1,
+      "chunk": 32
     },
     {
-      "Action": "Does not display any clear signs of confusion, panic, or poor decision-making in this excerpt.",
-      "Competence": 0,
-      "Chunk": 38
+      "trait": "warmth",
+      "action": "Tells Selena 'Wait!' when she tries to get out of the cab to enter the supermarket alone.",
+      "assessment": "Jim shows concern for Selena's safety by asking her to wait, indicating protectiveness and care for others.",
+      "rating": 2,
+      "chunk": 33
     },
     {
-      "Action": "Offers half of his stale hot-cross bun to Hannah.",
-      "Warmth": 1,
-      "Chunk": 39
+      "trait": "warmth",
+      "action": "Takes more stuff off shelves in the supermarket, including caviar, and responds to Selena's caution about cooking ingredients by saying 'It's okay. I think you can eat this stuff raw.'",
+      "assessment": "Jim appears cooperative and considerate, trying to reassure Selena and contribute to the group's needs, showing a friendly and helpful attitude.",
+      "rating": 2,
+      "chunk": 33
     },
     {
-      "Action": "Makes a playful, unintelligible comment causing others to laugh.",
-      "Warmth": 1,
-      "Chunk": 39
+      "trait": "competence",
+      "action": "Jim questions Selena about getting out of the cab and tries to intervene by saying 'Wait!'",
+      "assessment": "This shows Jim's cautiousness and situational awareness, indicating a thoughtful and careful approach to potentially risky situations.",
+      "rating": 2,
+      "chunk": 33
     },
     {
-      "Action": "Shares food with others and makes lighthearted conversation, showing social confidence and calmness in a tense situation.",
-      "Competence": 1,
-      "Chunk": 39
+      "trait": "competence",
+      "action": "Jim takes items off the supermarket shelves, including caviar, and justifies that it can be eaten raw despite Selena's warning about cooking.",
+      "assessment": "Jim demonstrates some knowledge about food safety and practicality, showing resourcefulness and confidence in his decisions.",
+      "rating": 2,
+      "chunk": 33
     },
     {
-      "Action": "Mumbles unintelligibly when speaking with mouth full, indicating minor lack of communication clarity.",
-      "Competence": 0,
-      "Chunk": 39
+      "trait": "competence",
+      "action": "Jim does not argue further when Selena warns not to take anything that needs cooking.",
+      "assessment": "This suggests Jim is willing to listen and adapt, showing good judgment and teamwork, which are aspects of competence.",
+      "rating": 1,
+      "chunk": 33
     },
     {
-      "Action": "Shares a sincere and gentle moment of mutual understanding with Selena, smiles warmly, and accepts a light kiss on the cheek with pleasure.",
-      "Warmth": 1,
-      "Chunk": 40
+      "trait": "competence",
+      "action": "Examines the label on a bottle of whisky and defends the choice against Frank's criticism.",
+      "assessment": "Jim shows some knowledge and confidence in selecting supplies, indicating a degree of discernment and practical judgment.",
+      "rating": 1,
+      "chunk": 34
     },
     {
-      "Action": "Engages in reflective and hopeful conversation with Selena, showing self-awareness and the ability to reconsider prior beliefs.",
-      "Competence": 1,
-      "Chunk": 40
+      "trait": "competence",
+      "action": "Starts to back his trolley away after Frank selects a better whisky.",
+      "assessment": "Jim defers to Frank's expertise without argument, showing flexibility and willingness to accept better judgment, which is a competent social behavior.",
+      "rating": 1,
+      "chunk": 34
     },
     {
-      "Action": "Focuses on a philosophical discussion rather than practical survival concerns in a post-apocalyptic setting.",
-      "Competence": 0,
-      "Chunk": 40
+      "trait": "competence",
+      "action": "Participates in shopping with the group, pushing a full trolley past empty checkout desks.",
+      "assessment": "Jim contributes to the group's efforts in a calm and orderly manner, indicating reliability and practical competence in a survival context.",
+      "rating": 1,
+      "chunk": 34
     },
     {
-      "Action": "Reaches over and gently shakes Selena's shoulder to check on her well-being.",
-      "Warmth": 1,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Observes the extensive gridlock and comments, 'Jesus Christ. We're never going to be able to get out of London.'",
+      "assessment": "Jim demonstrates situational awareness and realistic assessment of their predicament, indicating cognitive competence in understanding the severity of the situation.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Voices concern about safety while others sleep, showing care for group security.",
-      "Warmth": 1,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Notes and appreciates the cab driver's shortcut by saying, 'Nice cut-through.'",
+      "assessment": "Jim shows attentiveness and the ability to recognize and value practical solutions, reflecting observational skills and a cooperative attitude.",
+      "rating": 1,
+      "chunk": 35
     },
     {
-      "Action": "Inspects the pills Selena offers and expresses worry about their effects on safety during an attack.",
-      "Warmth": 1,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Gazes out the window at the cluster of rotting corpses without visible panic or distraction.",
+      "assessment": "Jim maintains composure in the face of disturbing sights, suggesting emotional control and mental resilience, which are components of competence in crisis situations.",
+      "rating": 2,
+      "chunk": 35
     },
     {
-      "Action": "Raises his hand to reply to Frank's suggestion to stay the night, showing engagement and communication.",
-      "Competence": 1,
-      "Chunk": 41
+      "trait": "warmth",
+      "action": "Tosses his bat into the air, giving it a single flip, catching it as the handle comes back around, being a bit flash while standing guard with Selena and Frank.",
+      "assessment": "Jim's playful and somewhat showy behavior in a tense situation may indicate a desire to lighten the mood or assert confidence, but it also shows a lack of sensitivity to the seriousness of the moment and to Selena's feelings, who does not look impressed.",
+      "rating": -1,
+      "chunk": 36
     },
     {
-      "Action": "Expresses concern about safety outdoors at night, indicating awareness of risks.",
-      "Competence": 1,
-      "Chunk": 41
+      "trait": "warmth",
+      "action": "Begins to walk towards the cafe after Selena's disapproval of his bat trick.",
+      "assessment": "Jim's decision to walk away after Selena's nonverbal disapproval could suggest a lack of engagement or unwillingness to connect or respond warmly to group dynamics at a critical moment.",
+      "rating": -1,
+      "chunk": 36
     },
     {
-      "Action": "Notices Selena's ability to sleep and actively wakes her to ask how she managed it, showing observational skill and initiative.",
-      "Competence": 1,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Holds his weapon at the ready while approaching the truck with Frank and Selena.",
+      "assessment": "This shows Jim is alert and prepared for potential danger, indicating a basic level of situational awareness and readiness.",
+      "rating": 1,
+      "chunk": 36
     },
     {
-      "Action": "Inspects the pills Selena gives him and astutely realizes the danger of Valium in their situation (could impair reaction if attacked).",
-      "Competence": 1,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Tosses his bat into the air, flipping it and catching it while waiting for the fuel can to fill.",
+      "assessment": "This action suggests a degree of confidence and dexterity, but also a lack of focus or seriousness in a potentially dangerous situation, which could undermine group safety.",
+      "rating": -1,
+      "chunk": 36
     },
     {
-      "Action": "Does not prevent or suggest avoiding taking the Valium despite recognizing the risk it poses.",
-      "Competence": -1,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Begins to walk towards the cafe after being told to stay close by Selena.",
+      "assessment": "Ignoring a direct instruction to stay close in a tense environment indicates poor judgment and a lapse in discipline, reflecting negatively on his competence.",
+      "rating": -2,
+      "chunk": 36
     },
     {
-      "Action": "Offers Valium to Hannah when she can't sleep, trying to help her.",
-      "Warmth": 1,
-      "Chunk": 42
+      "trait": "warmth",
+      "action": "Jim instinctively swings his bat at a sudden noise behind him, hitting what turns out to be an Infected Kid.",
+      "assessment": "Jim's immediate reaction is defensive and violent, but given the dangerous context, it reflects survival instinct rather than malice. However, the fact that he is stunned and appalled after realizing he hit a child shows some underlying empathy and sensitivity.",
+      "rating": 1,
+      "chunk": 37
     },
     {
-      "Action": "Engages in an angry exchange with a driver (uses harsh language).",
-      "Warmth": -1,
-      "Chunk": 42
+      "trait": "warmth",
+      "action": "Jim looks down at the dead family in the cafe, including a mother protecting her infant.",
+      "assessment": "Jim's observation of the tragic scene suggests a moment of reflection and sorrow, indicating a capacity for empathy and respect for human life.",
+      "rating": 2,
+      "chunk": 37
     },
     {
-      "Action": "Inspects the Valium and thoughtfully considers its effects on their safety and awareness during the night.",
-      "Competence": 1,
-      "Chunk": 42
+      "trait": "warmth",
+      "action": "Jim points his bat towards the cafe to indicate he is going there despite Selena saying they have enough food.",
+      "assessment": "Jim's insistence on going to the cafe for cheeseburgers shows a somewhat self-centered or trivial motivation in a dire situation, which may suggest a lack of sensitivity to group needs or priorities.",
+      "rating": -1,
+      "chunk": 37
     },
     {
-      "Action": "Offers medication to Hannah, showing care and some leadership in the group.",
-      "Competence": 1,
-      "Chunk": 42
+      "trait": "warmth",
+      "action": "Jim says 'No' when asked if he found anything in the cafe, without elaboration.",
+      "assessment": "Jim's minimal communication here could indicate reticence or emotional withdrawal, possibly due to trauma, but also suggests a lack of openness or warmth in social interaction.",
+      "rating": -1,
+      "chunk": 37
     },
     {
-      "Action": "In his valium dream, rides a bike recklessly, weaving between cars, shooting a red light, and nearly collides with a car.",
-      "Competence": -1,
-      "Chunk": 42
+      "trait": "competence",
+      "action": "Tosses his bat into the air, giving it a single flip and catching it.",
+      "assessment": "This action shows a degree of physical skill and confidence, though it may be more about showmanship than practical competence.",
+      "rating": 1,
+      "chunk": 37
     },
     {
-      "Action": "Reactively yells at the driver but stops and watches pedestrians thoughtfully.",
-      "Competence": 0,
-      "Chunk": 42
+      "trait": "competence",
+      "action": "Points his bat towards the cafe and insists on going despite having enough food.",
+      "assessment": "This suggests a certain decisiveness and willingness to take initiative, but also a possible stubbornness or lack of strategic thinking given the risk.",
+      "rating": 0,
+      "chunk": 37
     },
     {
-      "Action": "Distracted by dream figures and allows his bike to drift into traffic, resulting in an accident.",
-      "Competence": -1,
-      "Chunk": 42
+      "trait": "competence",
+      "action": "Walks into the cafe and surveys the scene of carnage calmly.",
+      "assessment": "This indicates a level of composure and situational awareness in a dangerous environment, reflecting competent behavior.",
+      "rating": 2,
+      "chunk": 37
     },
     {
-      "Action": "Responds to Frank's comforting touch and words with relaxed demeanor and a half-asleep 'Okay, Dad.'",
-      "Warmth": 1,
-      "Chunk": 43
+      "trait": "competence",
+      "action": "Instinctively swings his bat at a sudden noise behind him, hitting an Infected Kid.",
+      "assessment": "This shows quick reflexes and readiness to defend himself, a positive indicator of competence in a hostile situation.",
+      "rating": 2,
+      "chunk": 37
     },
     {
-      "Action": "Shares practical advice about catching dew with Frank and offers his own discomfort ('I'm covered in the fucking stuff').",
-      "Warmth": 1,
-      "Chunk": 43
+      "trait": "competence",
+      "action": "Looks stunned and appalled after hitting the Infected Kid, then decisively swings the bat down to finish the threat.",
+      "assessment": "The initial hesitation suggests emotional conflict that momentarily impairs his decisiveness, but he ultimately acts decisively, showing a mix of vulnerability and competence.",
+      "rating": 1,
+      "chunk": 37
     },
     {
-      "Action": "Expresses disbelief and concern about the city burning ('It can't be...') showing emotional sensitivity and realism.",
-      "Warmth": 1,
-      "Chunk": 44
+      "trait": "competence",
+      "action": "Responds tersely and non-verbally when asked if he found anything.",
+      "assessment": "His silence and minimal communication could indicate emotional withdrawal or lack of engagement, which may reflect negatively on his interpersonal competence in the group context.",
+      "rating": -1,
+      "chunk": 37
     },
     {
-      "Action": "Suggests trying the horn at the blockade indicating a proactive and perhaps helpful attitude.",
-      "Warmth": 1,
-      "Chunk": 44
+      "trait": "warmth",
+      "action": "Uses his hand like an aerofoil, catching the wind, dipping and rising while driving.",
+      "assessment": "This playful, carefree gesture suggests a relaxed and friendly demeanor, indicating openness and a positive mood.",
+      "rating": 2,
+      "chunk": 38
     },
     {
-      "Action": "Suggests trying the horn at a military blockade to get attention.",
-      "Competence": 0,
-      "Chunk": 44
+      "trait": "warmth",
+      "action": "Looks through bags of food and asks, 'Who's unbelievably hungry?'",
+      "assessment": "Jim's inclusive question shows consideration for others' needs and a desire to care for the group, reflecting thoughtfulness and friendliness.",
+      "rating": 3,
+      "chunk": 38
     },
     {
-      "Action": "Pushes open the flaps of a tent with his baseball bat, investigates cautiously.",
-      "Competence": 1,
-      "Chunk": 45
+      "trait": "warmth",
+      "action": "Suggests having a picnic in a beautiful spot during their journey.",
+      "assessment": "Proposing a picnic demonstrates Jim's effort to create a pleasant, communal experience, fostering group bonding and comfort, which is a warm and sincere gesture.",
+      "rating": 3,
+      "chunk": 38
     },
     {
-      "Action": "States 'They didn't all leave' after discovering body bags, showing awareness of danger.",
-      "Competence": 1,
-      "Chunk": 45
+      "trait": "competence",
+      "action": "Uses his hand like an aerofoil, catching the wind, dipping and rising while riding in the cab.",
+      "assessment": "This action shows a relaxed and playful side, indicating comfort and confidence in the situation, though it does not directly demonstrate skill or intelligence.",
+      "rating": 0,
+      "chunk": 38
     },
     {
-      "Action": "Stands with Hannah calmly while Frank loses his temper and lashes out.",
-      "Warmth": 1,
-      "Chunk": 47
+      "trait": "competence",
+      "action": "Looks through some of the bags of food and initiates a picnic by suggesting 'Let's have a picnic.'",
+      "assessment": "This shows practical thinking and leadership in making the best of their situation, demonstrating situational awareness and the ability to organize a break, which is a positive indicator of competence.",
+      "rating": 2,
+      "chunk": 38
     },
     {
-      "Action": "Stands near Hannah and Selena during tense moments without intervening as Frank becomes aggressive and violent.",
-      "Competence": -1,
-      "Chunk": 47
+      "trait": "warmth",
+      "action": "Offers half of his stale hot-cross bun to Hannah.",
+      "assessment": "Sharing food, even if not fresh, is a friendly and inclusive gesture showing consideration for others.",
+      "rating": 2,
+      "chunk": 39
     },
     {
-      "Action": "Frozen and hesitant to kill his infected father despite danger.",
-      "Warmth": 1,
-      "Chunk": 48
+      "trait": "warmth",
+      "action": "Makes a humorous, unintelligible comment while eating, causing Hannah and Selena to laugh.",
+      "assessment": "His playful behavior and ability to make others laugh indicates a warm, good-natured personality.",
+      "rating": 2,
+      "chunk": 39
     },
     {
-      "Action": "Steps in to protect Hannah and pulls her away from Frank's infected body, calming her down.",
-      "Warmth": 1,
-      "Chunk": 48
+      "trait": "competence",
+      "action": "Offers half of his stale hot-cross bun to Hannah and engages in light-hearted conversation.",
+      "assessment": "This action shows social confidence and a friendly, sharing attitude, indicating emotional competence and ease in group dynamics, though it does not directly reflect technical or survival skills.",
+      "rating": 1,
+      "chunk": 39
     },
     {
-      "Action": "Frozen holding his bat, unable to act immediately to the infected Frank despite being urged to kill him.",
-      "Competence": -1,
-      "Chunk": 48
+      "trait": "competence",
+      "action": "Attempts to speak clearly despite having his mouth full, resulting in unintelligible speech.",
+      "assessment": "This suggests a lack of situational awareness or self-control in communication, which slightly undermines his competence in social interactions.",
+      "rating": -1,
+      "chunk": 39
     },
     {
-      "Action": "Steps forward and pulls Hannah away from the danger after soldiers arrive, showing protective action and some situational awareness.",
-      "Competence": 1,
-      "Chunk": 48
+      "trait": "competence",
+      "action": "Observes and comments on the quality of the food (raisins still moist).",
+      "assessment": "This shows attentiveness and a positive, appreciative attitude, reflecting a competent mindset in making the best of limited resources.",
+      "rating": 1,
+      "chunk": 39
     },
     {
-      "Action": "Dismounts from jeep silently with Selena and Hannah, showing no outward reaction to Henry's offer but appears tired and tear-streaked, suggesting vulnerability and endurance.",
-      "Warmth": 0,
-      "Chunk": 49
+      "trait": "warmth",
+      "action": "Engages in a thoughtful and hopeful conversation with Selena about life and meaning despite the surrounding death.",
+      "assessment": "Jim shows openness and sincerity by sharing his inner thoughts and engaging in a meaningful dialogue, indicating emotional warmth and trustworthiness.",
+      "rating": 2,
+      "chunk": 40
     },
     {
-      "Action": "Engages in a calm, respectful conversation with Major Henry West, responding briefly and acknowledging the situation without hostility.",
-      "Warmth": 1,
-      "Chunk": 49
+      "trait": "warmth",
+      "action": "Smiles and responds playfully when Selena kisses him on the cheek.",
+      "assessment": "His positive and gentle reaction to Selena's affectionate gesture reflects friendliness and a good-natured disposition.",
+      "rating": 2,
+      "chunk": 40
     },
     {
-      "Action": "Takes a shower and remains observant, noticing the cab driving in circles outside the window.",
-      "Competence": 1,
-      "Chunk": 49
+      "trait": "competence",
+      "action": "Engages in a thoughtful and reflective conversation with Selena about the meaning of survival and hope despite the surrounding death and chaos.",
+      "assessment": "This shows Jim's capacity for introspection and emotional intelligence, indicating mental and emotional competence in processing difficult circumstances.",
+      "rating": 2,
+      "chunk": 40
     },
     {
-      "Action": "Walks down to the front hall and notes scattered military gear, indicating awareness of surroundings.",
-      "Competence": 1,
-      "Chunk": 49
+      "trait": "competence",
+      "action": "Smiles and lightly banters with Selena, showing ease and confidence in social interaction even in a tense environment.",
+      "assessment": "This suggests social competence and emotional resilience, important for maintaining morale and connection in crisis situations.",
+      "rating": 1,
+      "chunk": 40
     },
     {
-      "Action": "Engages in calm conversation with Major Henry West, showing composure and attentive listening.",
-      "Competence": 1,
-      "Chunk": 49
+      "trait": "warmth",
+      "action": "Reaches over and shakes Selena's shoulder to wake her and asks how she managed to get to sleep.",
+      "assessment": "Jim shows concern for the wellbeing of Selena, indicating attentiveness and care for others' comfort.",
+      "rating": 2,
+      "chunk": 41
     },
     {
-      "Action": "Gazes blankly at Major Henry when he offers showers, showing possible emotional overwhelm or distraction.",
-      "Competence": 0,
-      "Chunk": 49
+      "trait": "warmth",
+      "action": "Expresses unease about sleeping outdoors and shares his feelings with Hannah.",
+      "assessment": "Jim is open about his fears, which can foster trust and emotional connection with others.",
+      "rating": 1,
+      "chunk": 41
     },
     {
-      "Action": "Expresses gratitude and acknowledges luck in finding Henry and his group.",
-      "Competence": 0,
-      "Chunk": 50
+      "trait": "warmth",
+      "action": "Inspects the Valium pills Selena gives him and comments on their effect.",
+      "assessment": "While practical, Jim's comment about the pills making them not care if attacked shows a somewhat cynical or resigned attitude, which may reduce warmth.",
+      "rating": -1,
+      "chunk": 41
     },
     {
-      "Action": "Questions Henry about keeping Mailer alive, showing concern about the infected soldier's condition.",
-      "Warmth": 1,
-      "Chunk": 51
+      "trait": "competence",
+      "action": "Raises a hand in reply to Frank's suggestion to stay the night at the picnic spot.",
+      "assessment": "This shows Jim's ability to communicate non-verbally and agree with group decisions, indicating social awareness and cooperation.",
+      "rating": 1,
+      "chunk": 41
     },
     {
-      "Action": "Exits immediately after Mailer lunges at him without retaliation or aggression.",
-      "Warmth": 1,
-      "Chunk": 51
+      "trait": "competence",
+      "action": "Expresses concern about safety while trying to sleep outdoors.",
+      "assessment": "Jim demonstrates situational awareness and caution, which are important aspects of competence in a dangerous environment.",
+      "rating": 2,
+      "chunk": 41
     },
     {
-      "Action": "Jumps back quickly when Infected is revealed, showing alertness and appropriate caution.",
-      "Competence": 1,
-      "Chunk": 51
+      "trait": "competence",
+      "action": "Notices Selena sleeping easily and wakes her to ask how she managed to sleep.",
+      "assessment": "This shows Jim's curiosity and attentiveness to others' behavior, suggesting analytical thinking and a desire to understand the situation better.",
+      "rating": 2,
+      "chunk": 41
     },
     {
-      "Action": "Questions Henry about keeping Mailer alive and the purpose behind it, demonstrating curiosity and critical thinking.",
-      "Competence": 1,
-      "Chunk": 51
+      "trait": "competence",
+      "action": "Inspects the Valium pills Selena gives him and immediately recognizes the potential danger of being sedated if attacked.",
+      "assessment": "Jim's quick assessment of the risks associated with taking Valium indicates good critical thinking and awareness of consequences.",
+      "rating": 3,
+      "chunk": 41
     },
     {
-      "Action": "Exits after Mailer lunges at him without showing hesitation or panic, suggesting control and composure.",
-      "Competence": 1,
-      "Chunk": 51
+      "trait": "warmth",
+      "action": "Offers Valium to Hannah when she says she can't sleep.",
+      "assessment": "Jim shows concern for Hannah's comfort and well-being by suggesting medication to help her sleep, indicating a caring and considerate nature.",
+      "rating": 2,
+      "chunk": 42
     },
     {
-      "Action": "Carefully opens the door to the girls' bedroom, displaying cautious behavior and respect for the situation.",
-      "Competence": 1,
-      "Chunk": 51
+      "trait": "warmth",
+      "action": "Engages in a hostile exchange with a driver, responding to road rage with profanity.",
+      "assessment": "Jim's reaction is aggressive and confrontational, showing a lack of tolerance and friendliness in this moment.",
+      "rating": -2,
+      "chunk": 42
     },
     {
-      "Action": "Tries to comfort Selena by telling her Hannah is tough and will cope.",
-      "Warmth": 1,
-      "Chunk": 52
+      "trait": "warmth",
+      "action": "Observes pedestrians around him with attention to their expressions and interactions.",
+      "assessment": "Jim's attentive observation of others suggests a reflective and possibly empathetic side, indicating some warmth and sincerity.",
+      "rating": 1,
+      "chunk": 42
     },
     {
-      "Action": "Seemingly unable to find words to respond to Selena's grief.",
-      "Warmth": 0,
-      "Chunk": 52
+      "trait": "warmth",
+      "action": "Mistakenly almost collides with his parents while distracted.",
+      "assessment": "This moment of distraction and confusion may indicate emotional distance or preoccupation, suggesting a lapse in attentiveness to important personal relationships.",
+      "rating": -1,
+      "chunk": 42
     },
     {
-      "Action": "Lifts Selena's face and kisses her on the lips when she is upset.",
-      "Warmth": 1,
-      "Chunk": 52
+      "trait": "competence",
+      "action": "Inspects the Valium bottle and immediately recognizes the potential danger of taking it before a possible attack.",
+      "assessment": "This shows Jim's awareness and critical thinking about the effects of medication in a dangerous situation, indicating good situational judgment.",
+      "rating": 2,
+      "chunk": 42
     },
     {
-      "Action": "Stands quietly observing the soldiers and their actions without intervening in Mitchell's inappropriate behavior toward Selena.",
-      "Warmth": -1,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "Offers to give Valium to Hannah despite Frank's doubt, showing concern for her well-being.",
+      "assessment": "This demonstrates Jim's empathy and willingness to take responsibility, though it is a cautious and measured action rather than a display of skill or confidence.",
+      "rating": 1,
+      "chunk": 42
     },
     {
-      "Action": "Stands calmly watching the soldiers after the fight without intervening or showing panic.",
-      "Competence": 0,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "In his Valium dream, rides his bike fast and skillfully through busy London streets, weaving between cars and reacting to hazards.",
+      "assessment": "This suggests that Jim has good physical coordination and confidence in normal circumstances, reflecting competence in everyday skills.",
+      "rating": 2,
+      "chunk": 42
     },
     {
-      "Action": "Does not react to Mitchell's inappropriate behavior towards Selena, nor intervenes to stop it.",
-      "Competence": -1,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "In the dream, after being nearly hit by a car, he reacts with anger and stops safely, maintaining balance and composure.",
+      "assessment": "This indicates quick reflexes and emotional assertiveness, which are positive competence indicators.",
+      "rating": 2,
+      "chunk": 42
     },
     {
-      "Action": "Angrily grabs Mitchell to stop him harassing Selena.",
-      "Warmth": 1,
-      "Chunk": 56
+      "trait": "competence",
+      "action": "Becomes distracted by seeing his parents in the dream, causing him to drift into the path of a second car and get hit.",
+      "assessment": "This moment of distraction and loss of control suggests a lapse in attention and situational awareness, negatively impacting his competence.",
+      "rating": -2,
+      "chunk": 42
     },
     {
-      "Action": "Stays behind with Henry and Selena after the soldiers leave; does not follow Selena who is shaken and avoids his eyes.",
-      "Warmth": 0,
-      "Chunk": 56
+      "trait": "warmth",
+      "action": "Responds to Frank's comforting gesture by calling him 'Dad' while half-asleep.",
+      "assessment": "Jim's use of 'Dad' suggests a trusting and affectionate bond with Frank, indicating warmth and a sense of security in their relationship.",
+      "rating": 2,
+      "chunk": 43
     },
     {
-      "Action": "Angrily grabs Mitchell to stop his inappropriate behavior towards Selena.",
-      "Competence": 1,
-      "Chunk": 56
+      "trait": "warmth",
+      "action": "Offers practical advice to Frank on how to catch dew, despite being wet himself.",
+      "assessment": "Jim's willingness to share useful survival knowledge with Frank shows helpfulness and consideration for others' well-being.",
+      "rating": 2,
+      "chunk": 43
     },
     {
-      "Action": "Does not follow Selena when she leaves the room after receiving her machete back.",
-      "Competence": 0,
-      "Chunk": 56
+      "trait": "warmth",
+      "action": "Expresses awe and concern about the burning city with the group.",
+      "assessment": "Jim's shared emotional reaction with others demonstrates empathy and a connection to the group's feelings, reflecting warmth.",
+      "rating": 1,
+      "chunk": 43
     },
     {
-      "Action": "Expresses gratitude for protection and finding other people.",
-      "Warmth": 1,
-      "Chunk": 57
+      "trait": "competence",
+      "action": "Half-wakes confused but calms down when Frank reassures him.",
+      "assessment": "Jim shows some disorientation and confusion upon waking, indicating a momentary lapse in alertness, but he quickly relaxes, suggesting he can regain composure.",
+      "rating": 0,
+      "chunk": 43
     },
     {
-      "Action": "Admits to killing a boy, showing honesty despite the gravity of the act.",
-      "Warmth": 1,
-      "Chunk": 57
+      "trait": "competence",
+      "action": "Explains to Frank how to catch dew, noting he is covered in it.",
+      "assessment": "This demonstrates practical knowledge and resourcefulness in a survival context, indicating a competent and observant mindset.",
+      "rating": 2,
+      "chunk": 43
     },
     {
-      "Action": "Turns and runs out of the room after hearing Henry's difficult reasoning and promise to the men.",
-      "Warmth": 0,
-      "Chunk": 57
+      "trait": "competence",
+      "action": "Expresses awe and concern upon seeing the burning city ahead.",
+      "assessment": "While this shows emotional reaction rather than direct action, it reflects situational awareness and the ability to assess the gravity of their environment.",
+      "rating": 1,
+      "chunk": 43
     },
     {
-      "Action": "Bursts into the girls' bedroom commanding Selena and Hannah to get up, indicating urgency but possibly abrasive behavior.",
-      "Warmth": 0,
-      "Chunk": 57
+      "trait": "warmth",
+      "action": "Suggests trying the horn at the military blockade.",
+      "assessment": "Jim's suggestion to try the horn could be seen as an attempt to communicate or seek help, indicating a proactive and possibly trusting nature, which can be a sign of warmth.",
+      "rating": 1,
+      "chunk": 44
     },
     {
-      "Action": "Admits to having killed a boy, showing honesty under pressure.",
-      "Competence": 1,
-      "Chunk": 57
+      "trait": "competence",
+      "action": "Suggests trying the horn at the military blockade.",
+      "assessment": "Jim takes initiative to test the situation by suggesting the use of the horn, indicating a proactive and practical approach to assessing potential danger or communication.",
+      "rating": 2,
+      "chunk": 44
     },
     {
-      "Action": "Attempts to address a critical issue (men being stopped from certain behavior) calmly with Henry.",
-      "Competence": 1,
-      "Chunk": 57
+      "trait": "competence",
+      "action": "Does not insist on using the horn after Selena advises against it.",
+      "assessment": "Jim shows good judgment and restraint by deferring to Selena's caution, demonstrating flexibility and the ability to listen to others' input in a tense situation.",
+      "rating": 2,
+      "chunk": 44
     },
     {
-      "Action": "Turns and runs out of the room abruptly after hearing Henry's justification and promise, possibly indicating emotional overwhelm or impulsiveness.",
-      "Competence": -1,
-      "Chunk": 57
+      "trait": "warmth",
+      "action": "Pushes open the flaps of another tent with his baseball bat to investigate.",
+      "assessment": "Jim takes initiative to explore cautiously, showing concern for the group's safety and awareness of potential danger, which reflects responsibility and care.",
+      "rating": 2,
+      "chunk": 45
     },
     {
-      "Action": "Urgently wakes Selena and Hannah with insistence to leave immediately.",
-      "Warmth": 1,
-      "Chunk": 58
+      "trait": "warmth",
+      "action": "Notes that 'They didn't all leave' upon seeing body bags inside the tent.",
+      "assessment": "Jim demonstrates attentiveness and a sober recognition of the grim reality, which suggests sincerity and a grounded perspective, though it is emotionally neutral rather than warm.",
+      "rating": 1,
+      "chunk": 45
     },
     {
-      "Action": "Hauls the girls up and forces them to move quickly to safety despite their hesitations.",
-      "Warmth": 1,
-      "Chunk": 58
+      "trait": "competence",
+      "action": "Observes the blockade and correctly assesses that it looks deserted.",
+      "assessment": "Jim demonstrates situational awareness and cautious judgment by noting the apparent abandonment of the blockade, indicating a reasonable level of competence.",
+      "rating": 1,
+      "chunk": 45
     },
     {
-      "Action": "Urgently insists that Selena and Hannah get up and leave immediately, showing quick decision-making under pressure.",
-      "Competence": 1,
-      "Chunk": 58
+      "trait": "competence",
+      "action": "Exits the cab armed with a baseball bat and cautiously explores the area with others.",
+      "assessment": "Jim shows preparedness and caution by arming himself and moving carefully, which reflects competent behavior in a dangerous environment.",
+      "rating": 2,
+      "chunk": 45
     },
     {
-      "Action": "Runs to the front door but fails to anticipate or avoid Mitchell waiting there with a weapon, leading to Jim being hit and losing consciousness.",
-      "Competence": -1,
-      "Chunk": 58
+      "trait": "competence",
+      "action": "Pushes open the flaps of a tent with his baseball bat and discovers several body bags inside.",
+      "assessment": "Jim takes initiative to investigate the surroundings thoroughly, using his bat to maintain distance and safety, demonstrating practical and cautious competence.",
+      "rating": 2,
+      "chunk": 45
     },
     {
-      "Action": "Appears mentally engaged with Farrell's reasoning about the quarantine and the world outside, showing attentiveness and a thoughtful demeanor.",
-      "Warmth": 1,
-      "Chunk": 59
+      "trait": "competence",
+      "action": "States 'They didn't all leave' upon seeing the body bags.",
+      "assessment": "Jim shows perceptiveness and an ability to interpret the situation beyond surface appearances, indicating thoughtful and intelligent assessment.",
+      "rating": 2,
+      "chunk": 45
     },
     {
-      "Action": "Remains passive and resigned despite being beaten, bloodied, and in a dire situation, showing no hostile or aggressive reaction toward captors or others.",
-      "Warmth": 1,
-      "Chunk": 59
+      "trait": "warmth",
+      "action": "Stands with Hannah and Selena near Frank, showing concern as Frank loses his temper and health deteriorates.",
+      "assessment": "Jim's presence alongside Hannah and Selena during a tense moment suggests a supportive and protective stance, indicating care and attentiveness.",
+      "rating": 2,
+      "chunk": 47
     },
     {
-      "Action": "Does not act violently or retaliate when captured and abused, suggesting a tolerant or non-aggressive nature.",
-      "Warmth": 1,
-      "Chunk": 59
+      "trait": "warmth",
+      "action": "Does not intervene when Frank shoves Hannah away and demands she get away.",
+      "assessment": "Jim's failure to step in or comfort Hannah during Frank's aggressive outburst may indicate passivity or reluctance to protect, which detracts from warmth.",
+      "rating": -1,
+      "chunk": 47
     },
     {
-      "Action": "Shows awareness by questioning 'Quarantine?' indicating attempts to understand the situation despite being blindfolded and restrained.",
-      "Competence": 1,
-      "Chunk": 59
+      "trait": "competence",
+      "action": "Stands near Hannah and Selena as Frank loses control and lashes out.",
+      "assessment": "Jim remains present and close to the situation, indicating awareness and readiness to respond, but he does not intervene or attempt to de-escalate the situation.",
+      "rating": 0,
+      "chunk": 47
     },
     {
-      "Action": "Is restrained and beaten, appears dazed and numbed rather than actively resisting or strategizing an escape.",
-      "Competence": -1,
-      "Chunk": 59
+      "trait": "competence",
+      "action": "Does not physically intervene when Frank shoves Hannah and demands distance.",
+      "assessment": "Jim's lack of action in a critical moment suggests hesitation or inability to manage a volatile situation effectively, reflecting a missed opportunity to demonstrate leadership or protective skills.",
+      "rating": -1,
+      "chunk": 47
     },
     {
-      "Action": "Vanishes unexpectedly from the immediate area, evading detection and capture despite being surrounded by hostile individuals.",
-      "Competence": 1,
-      "Chunk": 60
+      "trait": "warmth",
+      "action": "Jim is frozen, holding his baseball bat, unable to act when his infected father Frank is threatening his family.",
+      "assessment": "Jim's freezing in a moment of crisis suggests hesitation and emotional overwhelm rather than coldness; it reflects human vulnerability rather than a lack of warmth.",
+      "rating": 0,
+      "chunk": 48
     },
     {
-      "Action": "Remains quiet and motionless within a pile of bodies until opportunity arises.",
-      "Competence": 1,
-      "Chunk": 60
+      "trait": "warmth",
+      "action": "Jim steps towards Hannah and grabs her, pulling her away from Frank's dead body to protect her from further harm.",
+      "assessment": "This protective action shows Jim's care and concern for Hannah's wellbeing, indicating a warm and responsible nature in a traumatic situation.",
+      "rating": 2,
+      "chunk": 48
     },
     {
-      "Action": "Does not appear or take action in this scene; no observed competence displayed or challenged.",
-      "Competence": 0,
-      "Chunk": 62
+      "trait": "competence",
+      "action": "Jim is frozen, holding his baseball bat half-raised when Frank is infected and threatening.",
+      "assessment": "Jim's hesitation and freezing in a critical moment suggests a lack of decisiveness and confidence under pressure, indicating lower competence in crisis response.",
+      "rating": -2,
+      "chunk": 48
     },
     {
-      "Action": "Jim climbs over the wall into the blockade, a risky but decisive action that surprises the soldiers and suggests bravery and initiative.",
-      "Competence": 1,
-      "Chunk": 63
+      "trait": "competence",
+      "action": "Jim steps towards Hannah and grabs her, pulling her away from Frank's infected body.",
+      "assessment": "This action shows Jim's ability to act protectively and take control of a dangerous situation, demonstrating situational awareness and some level of competence.",
+      "rating": 2,
+      "chunk": 48
     },
     {
-      "Action": "Jim is at the blockade and actively turning the handle of a siren, showing he understands his environment and is taking deliberate, purposeful action.",
-      "Competence": 1,
-      "Chunk": 63
+      "trait": "warmth",
+      "action": "Jim showers and notices the cab driving in circles outside the shower window.",
+      "assessment": "Jim's observation of the cab suggests alertness and concern, but no direct interaction or warmth is shown here.",
+      "rating": 0,
+      "chunk": 49
     },
     {
-      "Action": "Jim stops and lets the siren's sound start to fade, indicating some control over the situation and situational awareness.",
-      "Competence": 1,
-      "Chunk": 63
+      "trait": "warmth",
+      "action": "Jim dismounts from the jeep with Selena and Hannah, gazing blankly at Major Henry's offer of clean beds and hot showers.",
+      "assessment": "Jim's blank gaze may indicate shock or emotional numbness rather than warmth or coldness; no clear warmth is expressed in this moment.",
+      "rating": 0,
+      "chunk": 49
     },
     {
-      "Action": "Moves stealthily through a dangerous area, evades detection.",
-      "Competence": 1,
-      "Chunk": 64
+      "trait": "warmth",
+      "action": "Jim walks down the mansion's staircase, observing scattered military gear.",
+      "assessment": "This action is neutral and observational, showing no particular warmth or coldness.",
+      "rating": 0,
+      "chunk": 49
     },
     {
-      "Action": "Launches a surprise attack with a weapon, showing aggression and intent.",
-      "Competence": 1,
-      "Chunk": 64
+      "trait": "warmth",
+      "action": "Jim sits with Major Henry on the veranda and engages in conversation about their expectations and the reality of the situation.",
+      "assessment": "Jim's willingness to engage in dialogue and acknowledge disappointment shows openness and sincerity, indicating moderate warmth.",
+      "rating": 2,
+      "chunk": 49
     },
     {
-      "Action": "Disappears mysteriously after assaulting Davis, leaving Henry unable to find him or respond together.",
-      "Competence": -1,
-      "Chunk": 65
+      "trait": "competence",
+      "action": "Jim takes a shower despite the unsettling sight of the cab driving in circles outside the window.",
+      "assessment": "This shows a degree of calmness and ability to maintain routine hygiene under stressful and uncertain conditions, indicating some level of self-discipline and mental steadiness.",
+      "rating": 1,
+      "chunk": 49
     },
     {
-      "Action": "Successfully incapacitates Davis, implying physical capability and strategic aggression.",
-      "Competence": 1,
-      "Chunk": 65
+      "trait": "competence",
+      "action": "Jim walks down the mansion's sweeping staircase and notices scattered military gear, including muddy boots and assorted kit.",
+      "assessment": "Jim's observant behavior suggests situational awareness and an ability to gather information from his environment, which are positive indicators of competence.",
+      "rating": 2,
+      "chunk": 49
     },
     {
-      "Action": "Appears above Mailer in his pit and shoots off Mailer's chain.",
-      "Competence": 1,
-      "Chunk": 66
+      "trait": "competence",
+      "action": "Jim engages in a conversation with Major Henry West, responding appropriately and acknowledging the situation.",
+      "assessment": "Jim's ability to communicate clearly and maintain composure in a tense situation reflects social competence and confidence.",
+      "rating": 2,
+      "chunk": 49
     },
     {
-      "Action": "Is not mentioned or involved in the events; no action or decision shown.",
-      "Competence": 0,
-      "Chunk": 67
+      "trait": "competence",
+      "action": "Jim and the others gaze blankly at Major Henry's offer of showers and clean beds.",
+      "assessment": "This blank reaction may indicate shock or emotional overwhelm, which could temporarily impair Jim's ability to process information and respond effectively, a slight negative indicator.",
+      "rating": -1,
+      "chunk": 49
     },
     {
-      "Action": "Stands at the kitchen window, passively watching Bedford be killed by Mailer and Clifton without intervening.",
-      "Warmth": -1,
-      "Chunk": 68
+      "trait": "warmth",
+      "action": "Questions Henry about keeping Mailer, the infected soldier, alive.",
+      "assessment": "Jim's question shows concern and a degree of empathy toward Mailer, indicating he is troubled by the idea of keeping a suffering person alive in such conditions.",
+      "rating": 2,
+      "chunk": 51
     },
     {
-      "Action": "Kills Jones by bayonet without hesitation and steps over his body.",
-      "Warmth": -1,
-      "Chunk": 70
+      "trait": "warmth",
+      "action": "Exits the courtyard after Mailer lunges at him without retaliating or showing aggression.",
+      "assessment": "Jim's non-aggressive response to a threatening situation suggests restraint and a lack of cruelty, reflecting a humane and tolerant nature.",
+      "rating": 2,
+      "chunk": 51
     },
     {
-      "Action": "Runs urgently searching for Hannah and Selena, calling their names.",
-      "Warmth": 1,
-      "Chunk": 70
+      "trait": "warmth",
+      "action": "Carefully opens the door to the girls' bedroom and respects Selena's silent request for quiet.",
+      "assessment": "Jim's careful and respectful behavior toward the girls' privacy and emotional state shows sensitivity and consideration, positive indicators of warmth.",
+      "rating": 3,
+      "chunk": 51
     },
     {
-      "Action": "Moves a sofa to block a doorway to protect or hide Bell, who is terrified.",
-      "Warmth": 1,
-      "Chunk": 70
+      "trait": "competence",
+      "action": "Jim jumps back instinctively when the Infected is revealed nearby.",
+      "assessment": "This reaction shows a natural and appropriate survival instinct, indicating alertness and situational awareness.",
+      "rating": 2,
+      "chunk": 51
     },
     {
-      "Action": "Kills Jones quickly and decisively with a bayonet, demonstrating combat skill and decisiveness.",
-      "Competence": 1,
-      "Chunk": 70
+      "trait": "competence",
+      "action": "Jim questions Henry about keeping an infected alive and the purpose behind it.",
+      "assessment": "This demonstrates curiosity and critical thinking, suggesting Jim is engaged and trying to understand the situation rather than blindly accepting it.",
+      "rating": 2,
+      "chunk": 51
     },
     {
-      "Action": "Moves quickly and confidently through the mansion, trying doors systematically while calling out for others, showing situational awareness and urgency.",
-      "Competence": 1,
-      "Chunk": 70
+      "trait": "competence",
+      "action": "Jim exits the courtyard calmly after Mailer lunges at him, without showing panic or rash behavior.",
+      "assessment": "Jim's ability to remain composed in a threatening situation indicates emotional control and practical judgment.",
+      "rating": 2,
+      "chunk": 51
     },
     {
-      "Action": "Blocks the doorway with a sofa, using available resources to protect or contain, displaying resourcefulness and tactical thinking.",
-      "Competence": 1,
-      "Chunk": 70
+      "trait": "competence",
+      "action": "Jim carefully opens the door to the girls' bedroom, showing caution and respect for their privacy and safety.",
+      "assessment": "This careful approach reflects thoughtfulness and a measured demeanor, traits consistent with competent behavior.",
+      "rating": 2,
+      "chunk": 51
     },
     {
-      "Action": "Leaves Bell behind to escape through the window and climbs along the building's ledge and roof, avoiding the infected and thereby preserving his own life.",
-      "Competence": 1,
-      "Chunk": 71
+      "trait": "warmth",
+      "action": "Jim tries to comfort Selena by telling her that Hannah is tough and will cope with the loss of her dad.",
+      "assessment": "Jim's attempt to reassure Selena shows a caring and supportive attitude, indicating warmth, though his words may come off as somewhat inadequate given the emotional context.",
+      "rating": 2,
+      "chunk": 52
     },
     {
-      "Action": "Beats Mitchell to death with incredible viciousness; smashes his head against the wall and jams thumbs in his eyes.",
-      "Warmth": -1,
-      "Chunk": 73
+      "trait": "warmth",
+      "action": "Jim lifts Selena's face and kisses her on the lips when she is on the verge of tears.",
+      "assessment": "This physical gesture suggests Jim's desire to provide comfort and emotional support, reflecting warmth and sincerity, even if Selena rejects the gesture.",
+      "rating": 2,
+      "chunk": 52
     },
     {
-      "Action": "Kisses Selena simply and hard, then passionately; tries to comfort her by telling her the world isn't hopeless and they have a chance.",
-      "Warmth": 1,
-      "Chunk": 73
+      "trait": "warmth",
+      "action": "Jim remains silent and does not respond verbally when Selena pushes him away and leaves the room.",
+      "assessment": "Jim's silence here could indicate sensitivity and respect for Selena's feelings, showing restraint rather than insensitivity, which is a subtle positive indicator of warmth.",
+      "rating": 1,
+      "chunk": 52
     },
     {
-      "Action": "Beats Mitchell to death with incredible viciousness, demonstrating physical capability and decisiveness in a dangerous confrontation.",
-      "Competence": 1,
-      "Chunk": 73
+      "trait": "competence",
+      "action": "Jim tries to comfort Selena by telling her Hannah is tough and will cope.",
+      "assessment": "Jim attempts to provide emotional support and reassurance, showing some emotional intelligence and confidence in his words, though it may come off as somewhat simplistic or inadequate given the gravity of the situation.",
+      "rating": 1,
+      "chunk": 52
     },
     {
-      "Action": "Approaches Selena calmly after a violent fight, showing emotional control and confidence.",
-      "Competence": 1,
-      "Chunk": 73
+      "trait": "competence",
+      "action": "Jim seems at a loss for words when Selena breaks down in tears and does not respond verbally.",
+      "assessment": "This hesitation and inability to find the right words in a critical emotional moment suggests a lack of emotional or social competence in handling distressing situations.",
+      "rating": -1,
+      "chunk": 52
     },
     {
-      "Action": "Attempting to reassure Selena that the world is not hopeless and that they have a chance, indicating leadership and optimism.",
-      "Competence": 1,
-      "Chunk": 73
+      "trait": "competence",
+      "action": "Jim lifts Selena's face and kisses her on the lips in an attempt to comfort her.",
+      "assessment": "This action shows Jim taking initiative to provide comfort through physical affection, indicating some confidence and decisiveness, though it may be perceived as inappropriate or ineffective given Selena's emotional state.",
+      "rating": 0,
+      "chunk": 52
     },
     {
-      "Action": "Is caught off guard by Hannah smashing a vase over his head and attacking him, showing a lapse in situational awareness.",
-      "Competence": -1,
-      "Chunk": 73
+      "trait": "warmth",
+      "action": "Stands quietly looking out of the open French windows at the soldiers, without intervening in their behavior.",
+      "assessment": "Jim's passive observation and lack of intervention during the soldiers' inappropriate and aggressive behavior towards Selena suggests a lack of protective warmth or assertiveness in this moment.",
+      "rating": -1,
+      "chunk": 55
     },
     {
-      "Action": "Holds the back of his head and explains he was kissing Selena, attempting to clarify a misunderstanding calmly.",
-      "Warmth": 1,
-      "Chunk": 74
+      "trait": "competence",
+      "action": "Stands looking out of the open French windows at the soldiers without intervening or reacting.",
+      "assessment": "Jim's passive observation without taking any action or showing leadership in a tense moment suggests a lack of assertiveness or confidence in handling the situation.",
+      "rating": -1,
+      "chunk": 55
     },
     {
-      "Action": "Falls wounded into Selena's arms after being shot, allowing himself to be supported, showing trust and connection.",
-      "Warmth": 1,
-      "Chunk": 74
+      "trait": "competence",
+      "action": "Allows Mitchell to take Selena's machete without objection.",
+      "assessment": "Jim does not intervene to protect or assert control over the situation, indicating a possible lack of decisiveness or authority.",
+      "rating": -2,
+      "chunk": 55
     },
     {
-      "Action": "Urges Hannah to crash the cab through the locked gates, showing determination to survive despite danger.",
-      "Warmth": 1,
-      "Chunk": 75
+      "trait": "warmth",
+      "action": "Angrily grabs Mitchell and tells him to 'Cut it out!' when Mitchell is harassing Selena.",
+      "assessment": "Jim intervenes to protect Selena from unwanted physical contact, showing a protective and caring attitude.",
+      "rating": 2,
+      "chunk": 56
     },
     {
-      "Action": "Wakes suddenly from a nightmare alone in the farmhouse, noticing Selena's clothes indicating concern or connection.",
-      "Warmth": 1,
-      "Chunk": 75
+      "trait": "warmth",
+      "action": "Does not follow Selena when she leaves the room after receiving her machete back.",
+      "assessment": "Jim's choice not to follow Selena might indicate a lack of immediate emotional support or connection in this moment, suggesting some emotional distance or hesitation.",
+      "rating": -1,
+      "chunk": 56
     },
     {
-      "Action": "Tells Hannah to just crash through the locked gates, showing decisiveness under pressure.",
-      "Competence": 1,
-      "Chunk": 75
+      "trait": "competence",
+      "action": "Jim snaps and angrily grabs Mitchell to stop his inappropriate behavior.",
+      "assessment": "This action shows Jim's willingness to assert himself and intervene in a tense situation, indicating some level of confidence and social assertiveness.",
+      "rating": 1,
+      "chunk": 56
     },
     {
-      "Action": "Braces for impact with Selena during the crash, indicating readiness to face danger.",
-      "Competence": 1,
-      "Chunk": 75
+      "trait": "competence",
+      "action": "Jim does not follow Selena when she exits after receiving her machete back.",
+      "assessment": "Jim's choice not to follow Selena could suggest hesitation or uncertainty, possibly indicating a lack of decisiveness or confidence in this moment.",
+      "rating": -1,
+      "chunk": 56
     },
     {
-      "Action": "Compliments Selena on her dress material in a sincere tone.",
-      "Warmth": 1,
-      "Chunk": 76
+      "trait": "warmth",
+      "action": "Expresses gratitude to Henry for protection and finding other people.",
+      "assessment": "Showing gratitude indicates Jim's recognition of others' efforts and a friendly, appreciative attitude.",
+      "rating": 2,
+      "chunk": 57
     },
     {
-      "Action": "Jim opens the door and looks outside quietly without imposing on others.",
-      "Warmth": 1,
-      "Chunk": 76
+      "trait": "warmth",
+      "action": "Admits to killing a boy when questioned by Henry.",
+      "assessment": "Jim's honesty about a difficult and morally troubling action suggests sincerity and trustworthiness, even under pressure.",
+      "rating": 2,
+      "chunk": 57
     },
     {
-      "Action": "Observes surroundings carefully by walking downstairs and peering into the living room, then opening the front door to assess the outside environment.",
-      "Competence": 1,
-      "Chunk": 76
+      "trait": "warmth",
+      "action": "Runs out of the room after hearing Henry's plan and promise to the men.",
+      "assessment": "Jim's abrupt exit may indicate emotional distress or discomfort, possibly showing empathy or internal conflict, but also a lack of direct confrontation or communication at this moment.",
+      "rating": 0,
+      "chunk": 57
     },
     {
-      "Action": "Makes a casual comment to Selena about the red material, but does not engage further when ignored, potentially missing a social cue.",
-      "Competence": 0,
-      "Chunk": 76
+      "trait": "warmth",
+      "action": "Bursts into the girls' bedroom and tells Selena and Hannah to get up.",
+      "assessment": "The urgency and forcefulness of this action could be protective or caring, but the lack of context about tone or manner leaves ambiguity about warmth; it may be more commanding than gentle.",
+      "rating": 1,
+      "chunk": 57
     },
     {
-      "Action": "Does not intervene or inquire about the strange stitched letters being formed on the grass or the unusual activities of others.",
-      "Competence": -1,
-      "Chunk": 76
+      "trait": "competence",
+      "action": "Jim tries to address Henry about stopping his men from certain actions, showing initiative to influence group behavior.",
+      "assessment": "This indicates Jim's willingness to take responsibility and attempt to assert control in a difficult social situation, reflecting some level of social and leadership competence.",
+      "rating": 1,
+      "chunk": 57
+    },
+    {
+      "trait": "competence",
+      "action": "Jim admits to killing a boy when questioned by Henry.",
+      "assessment": "This honesty under pressure suggests moral courage and self-awareness, which are components of emotional intelligence and competence in high-stress situations.",
+      "rating": 2,
+      "chunk": 57
+    },
+    {
+      "trait": "competence",
+      "action": "Jim runs out of the room abruptly after hearing Henry's explanation about promising women to the men for survival and future.",
+      "assessment": "This impulsive reaction may indicate emotional overwhelm or inability to process complex social dynamics calmly, reflecting a momentary lapse in emotional regulation and situational competence.",
+      "rating": -1,
+      "chunk": 57
+    },
+    {
+      "trait": "competence",
+      "action": "Jim bursts into the girls' bedroom and commands Selena and Hannah to get up.",
+      "assessment": "This shows decisiveness and urgency, suggesting Jim can take quick action when necessary, a positive indicator of competence in crisis situations.",
+      "rating": 2,
+      "chunk": 57
+    },
+    {
+      "trait": "warmth",
+      "action": "Bursts into the girls' bedroom and urgently tells Selena and Hannah to get up and leave immediately.",
+      "assessment": "Jim's urgency and insistence on getting the girls to safety shows a protective and caring attitude, indicating concern for their wellbeing.",
+      "rating": 2,
+      "chunk": 58
+    },
+    {
+      "trait": "warmth",
+      "action": "Hauls Selena and Hannah up to leave quickly despite their hesitation.",
+      "assessment": "While forceful, Jim's actions are motivated by a desire to protect, showing a willingness to take charge in a crisis for others' safety.",
+      "rating": 1,
+      "chunk": 58
+    },
+    {
+      "trait": "warmth",
+      "action": "Looks at Selena holding Hannah tightly and sees her terrified expression.",
+      "assessment": "Jim's awareness of others' emotional states suggests empathy and sensitivity, positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 58
+    },
+    {
+      "trait": "warmth",
+      "action": "Does not retaliate or escalate violence after being hit and waking up tied up.",
+      "assessment": "Jim's restraint in a hostile situation may indicate a level of tolerance or composure, but could also be due to circumstance; this is a neutral to slightly positive indicator.",
+      "rating": 1,
+      "chunk": 58
+    },
+    {
+      "trait": "competence",
+      "action": "Bursts into the girls' bedroom and urgently orders Selena and Hannah to get up and leave immediately.",
+      "assessment": "This shows decisiveness and a sense of urgency, indicating Jim's ability to take charge in a crisis situation.",
+      "rating": 2,
+      "chunk": 58
+    },
+    {
+      "trait": "competence",
+      "action": "Hauls Selena and Hannah up and insists on leaving now despite their hesitation.",
+      "assessment": "Jim demonstrates assertiveness and leadership, prioritizing safety over others' doubts, which reflects competence in crisis management.",
+      "rating": 2,
+      "chunk": 58
+    },
+    {
+      "trait": "competence",
+      "action": "Runs down the stairs with the girls, heading for the front door.",
+      "assessment": "This action shows physical capability and focus on escape, reinforcing his proactive approach.",
+      "rating": 1,
+      "chunk": 58
+    },
+    {
+      "trait": "competence",
+      "action": "Is hit full in the face by Mitchell and blacks out.",
+      "assessment": "Being caught off guard and incapacitated suggests a vulnerability or lack of preparedness for the threat, indicating a lapse in situational awareness or defensive skill.",
+      "rating": -2,
+      "chunk": 58
+    },
+    {
+      "trait": "competence",
+      "action": "Upon regaining consciousness, listens and observes the chaotic situation around him, including Farrell's confrontation and Henry's offer.",
+      "assessment": "Jim's ability to quickly assess the situation after being knocked out shows mental resilience and situational awareness.",
+      "rating": 1,
+      "chunk": 58
+    },
+    {
+      "trait": "competence",
+      "action": "Stares back at Henry, who reads Jim's expression and decides to accept him.",
+      "assessment": "Jim's calm and unreadable demeanor under pressure suggests emotional control and mental strength, which are components of competence.",
+      "rating": 2,
+      "chunk": 58
+    },
+    {
+      "trait": "competence",
+      "action": "Does not resist or attempt escape when tied up blindfolded in the cellar.",
+      "assessment": "This could indicate either strategic patience or helplessness; without further context, it suggests a lack of immediate action or initiative, which may reflect a temporary dip in competence.",
+      "rating": -1,
+      "chunk": 58
+    },
+    {
+      "trait": "warmth",
+      "action": "Listens quietly to Farrell's explanation about the situation and the quarantine.",
+      "assessment": "Jim's attentive listening suggests openness and a willingness to understand others, indicating a degree of sincerity and trustworthiness.",
+      "rating": 1,
+      "chunk": 59
+    },
+    {
+      "trait": "warmth",
+      "action": "Remains mostly passive and dazed after being beaten, showing numbness rather than aggression or hostility.",
+      "assessment": "Jim's lack of retaliatory aggression or hostility in a stressful and violent situation may reflect tolerance and a non-confrontational nature, which can be a positive indicator of warmth.",
+      "rating": 1,
+      "chunk": 59
+    },
+    {
+      "trait": "competence",
+      "action": "Jim listens carefully to Farrell's reasoning about the quarantine and the situation outside.",
+      "assessment": "Jim's attentiveness to Farrell's explanation shows a capacity for critical thinking and situational awareness, indicating some intellectual competence.",
+      "rating": 1,
+      "chunk": 59
+    },
+    {
+      "trait": "competence",
+      "action": "Jim remains physically restrained, blindfolded, and later is led beaten and dazed without apparent resistance or escape attempts.",
+      "assessment": "Jim's passivity and lack of resistance in captivity suggest a limited ability or willingness to act decisively under pressure, indicating a lower level of practical competence in this scenario.",
+      "rating": -1,
+      "chunk": 59
+    },
+    {
+      "trait": "competence",
+      "action": "Despite being beaten and injured, Jim appears more numb and dazed by the situation than by physical pain.",
+      "assessment": "This emotional numbness could reflect mental resilience or detachment, which might help him endure trauma, but also may impair active problem-solving or assertive behavior.",
+      "rating": 0,
+      "chunk": 59
+    },
+    {
+      "trait": "warmth",
+      "action": "Vanishes from the scene as Mitchell and Jones argue and prepare to kill Farrell, avoiding direct involvement in the violent confrontation.",
+      "assessment": "Jim's choice to disappear rather than engage in the violent conflict suggests a tendency to avoid unnecessary aggression, which can be seen as a neutral or slightly positive indicator of warmth, reflecting a preference for non-violence or self-preservation without causing harm.",
+      "rating": 1,
+      "chunk": 60
+    },
+    {
+      "trait": "competence",
+      "action": "Jim vanishes suddenly from the clearing just as Mitchell turns on Jones after killing Farrell.",
+      "assessment": "This action suggests Jim is capable of quick, stealthy movement and situational awareness, allowing him to evade immediate danger effectively.",
+      "rating": 2,
+      "chunk": 60
+    },
+    {
+      "trait": "competence",
+      "action": "Jim remains hidden among a pile of bodies, sitting up unnoticed after the confrontation.",
+      "assessment": "This indicates Jim's ability to use his environment strategically for concealment, demonstrating patience and tactical thinking.",
+      "rating": 2,
+      "chunk": 60
+    },
+    {
+      "trait": "competence",
+      "action": "Runs through the woods with his hands still tied, despite being out of breath and frightened.",
+      "assessment": "This shows determination and some physical capability under duress, but his fear and exhaustion indicate limited control and confidence in the situation.",
+      "rating": 1,
+      "chunk": 61
+    },
+    {
+      "trait": "competence",
+      "action": "Trips and rolls down a short slope while fleeing.",
+      "assessment": "This suggests a lack of physical coordination or situational awareness in a critical moment, which detracts from his overall competence.",
+      "rating": -1,
+      "chunk": 61
+    },
+    {
+      "trait": "competence",
+      "action": "Stops and looks up at the sky after falling, noticing the vapor trail and sonic boom.",
+      "assessment": "This moment of observation indicates some presence of mind and awareness of his environment, which is a positive sign of competence.",
+      "rating": 1,
+      "chunk": 61
+    },
+    {
+      "trait": "competence",
+      "action": "No direct action or statement by Jim is present in this excerpt; he remains absent or passive during a critical confrontation involving Selena, Hannah, and hostile soldiers.",
+      "assessment": "Jim's lack of presence or intervention in a tense and dangerous situation suggests a missed opportunity to demonstrate leadership, decisiveness, or protective instincts, which are key aspects of competence.",
+      "rating": -2,
+      "chunk": 62
+    },
+    {
+      "trait": "warmth",
+      "action": "Jim stands in the blockade, turning the handle of a siren despite rain and blood on his face.",
+      "assessment": "Jim's persistence in maintaining the blockade and sounding the siren under harsh conditions suggests a sense of responsibility and care for others' safety, indicating a protective and trustworthy nature.",
+      "rating": 2,
+      "chunk": 63
+    },
+    {
+      "trait": "competence",
+      "action": "Jim stands in the blockade, turning the handle of a siren despite rain and blood on his face.",
+      "assessment": "This action shows Jim's ability to maintain focus and perform a critical task under physically and emotionally challenging conditions, indicating resilience and determination.",
+      "rating": 2,
+      "chunk": 63
+    },
+    {
+      "trait": "competence",
+      "action": "Jim went over the wall to reach the blockade, a risky move that others thought would lead to his death.",
+      "assessment": "This suggests Jim is willing to take bold, potentially dangerous actions to achieve objectives, reflecting courage and initiative, though it also implies some recklessness.",
+      "rating": 1,
+      "chunk": 63
+    },
+    {
+      "trait": "warmth",
+      "action": "Jim attacks Davis suddenly, flying towards him with a lead pipe and a murderous expression.",
+      "assessment": "Jim's aggressive and violent attack on Davis shows hostility and a lack of trust or friendliness, indicating low warmth in this moment.",
+      "rating": -3,
+      "chunk": 64
+    },
+    {
+      "trait": "competence",
+      "action": "Jim uses stealth to move around the blockade, evading Davis's search.",
+      "assessment": "This action shows Jim's ability to move quietly and avoid detection, indicating good situational awareness and stealth skills.",
+      "rating": 2,
+      "chunk": 64
+    },
+    {
+      "trait": "competence",
+      "action": "Jim attacks Davis suddenly, flying towards him with a lead pipe and a fierce expression.",
+      "assessment": "This demonstrates Jim's decisiveness and willingness to take aggressive action when the opportunity arises, reflecting confidence and combat readiness.",
+      "rating": 2,
+      "chunk": 64
+    },
+    {
+      "trait": "competence",
+      "action": "Jim is implied to be the figure sitting in the driver's seat of the jeep, but he is not present when Henry arrives, and Henry finds Davis dead instead.",
+      "assessment": "Jim's absence at a critical moment and the confusion it causes suggests a lack of situational awareness or poor timing, which negatively impacts his competence.",
+      "rating": -1,
+      "chunk": 65
+    },
+    {
+      "trait": "competence",
+      "action": "Jim is described as 'the vision of the Infected' in his expression, movements, and blood, implying he is either infected or mimicking the infected.",
+      "assessment": "This suggests Jim is either incapacitated or acting irrationally, which indicates a significant drop in competence in terms of self-control and effective action.",
+      "rating": -3,
+      "chunk": 65
+    },
+    {
+      "trait": "warmth",
+      "action": "Jim appears above Mailer in his pit, and shoots off Mailer's chain.",
+      "assessment": "Jim's action to free Mailer by shooting off his chain suggests a willingness to help others and act decisively to assist someone in distress, indicating a positive and caring nature.",
+      "rating": 2,
+      "chunk": 66
+    },
+    {
+      "trait": "competence",
+      "action": "Jim appears above Mailer in his pit, and shoots off Mailer's chain.",
+      "assessment": "This action shows Jim's decisiveness and ability to take effective action under pressure, indicating a level of skill and confidence in a tense situation.",
+      "rating": 2,
+      "chunk": 66
+    },
+    {
+      "trait": "warmth",
+      "action": "Jim is at the kitchen window, looking in as Bedford is killed by Mailer and Clifton.",
+      "assessment": "Jim's action here is passive observation during a violent and dangerous moment, showing no direct intervention or assistance to Bedford or others in immediate danger.",
+      "rating": -1,
+      "chunk": 68
+    },
+    {
+      "trait": "competence",
+      "action": "Jim is at the kitchen window, looking in as Bedford is killed by Mailer and Clifton.",
+      "assessment": "Jim's position at the window, merely observing the violent confrontation without intervening or taking action, suggests passivity and a lack of immediate response in a critical situation, indicating limited situational control or decisiveness.",
+      "rating": -1,
+      "chunk": 68
+    },
+    {
+      "trait": "warmth",
+      "action": "Jim kills Jones by bayoneting him without any shown hesitation or dialogue.",
+      "assessment": "Jim's action of killing Jones abruptly and without any visible remorse or attempt at communication suggests a cold, ruthless side, indicating low warmth.",
+      "rating": -3,
+      "chunk": 70
+    },
+    {
+      "trait": "warmth",
+      "action": "Jim steps over Jones's body and continues into the house without looking back or showing concern.",
+      "assessment": "Ignoring a dying man and moving on without any sign of empathy or care reflects a lack of warmth and compassion.",
+      "rating": -3,
+      "chunk": 70
+    },
+    {
+      "trait": "warmth",
+      "action": "Jim runs through the mansion calling out for Hannah and Selena.",
+      "assessment": "Calling out for others shows concern and a desire to find and possibly protect them, indicating some degree of warmth.",
+      "rating": 2,
+      "chunk": 70
+    },
+    {
+      "trait": "warmth",
+      "action": "Jim moves a sofa to block the doorway to protect Bell, who is hiding and terrified.",
+      "assessment": "Blocking the doorway to shield a frightened child demonstrates protective instincts and kindness, a clear positive indicator of warmth.",
+      "rating": 3,
+      "chunk": 70
+    },
+    {
+      "trait": "competence",
+      "action": "Stands firmly in front of Jones, causing Jones to run straight into Jim's bayonet, effectively neutralizing him.",
+      "assessment": "This action demonstrates Jim's quick thinking, physical presence, and ability to use his weapon effectively in a tense situation, indicating strong competence.",
+      "rating": 3,
+      "chunk": 70
+    },
+    {
+      "trait": "competence",
+      "action": "Steps over the fallen Jones and proceeds into the house without hesitation.",
+      "assessment": "This shows Jim's decisiveness and confidence in moving forward despite danger, reflecting a competent and focused mindset.",
+      "rating": 2,
+      "chunk": 70
+    },
+    {
+      "trait": "competence",
+      "action": "Runs through the radio room and up the stairs quickly during a stormy night.",
+      "assessment": "Jim's swift movement through the environment suggests agility and urgency, traits associated with competence, though no specific skill is demonstrated here.",
+      "rating": 1,
+      "chunk": 70
+    },
+    {
+      "trait": "competence",
+      "action": "Tries multiple doors to find Hannah and Selena, showing persistence and problem-solving.",
+      "assessment": "Jim's methodical approach to searching for others indicates practical intelligence and determination, positive indicators of competence.",
+      "rating": 2,
+      "chunk": 70
+    },
+    {
+      "trait": "competence",
+      "action": "Moves a sofa to block the doorway to protect Bell, who is hiding and terrified.",
+      "assessment": "This action reveals Jim's protective instincts and quick improvisation to create a barrier, demonstrating situational awareness and care, which are competent behaviors.",
+      "rating": 2,
+      "chunk": 70
+    },
+    {
+      "trait": "warmth",
+      "action": "Jim leaves Bell, who is terrified and screaming for help, and climbs out the window to escape.",
+      "assessment": "Jim's decision to leave Bell behind in a moment of extreme danger, despite her pleas, suggests a lack of immediate concern or protective instinct toward her, indicating low warmth in this situation.",
+      "rating": -2,
+      "chunk": 71
+    },
+    {
+      "trait": "competence",
+      "action": "Jim leaves Bell, who is terrified and pleading, and climbs out the window to escape the Infected.",
+      "assessment": "Jim's decision to escape through the window rather than stay and fight or attempt a rescue shows quick thinking and prioritization of survival, indicating situational awareness and practical competence under pressure.",
+      "rating": 2,
+      "chunk": 71
+    },
+    {
+      "trait": "competence",
+      "action": "Jim climbs along the outside ledge in heavy rain, navigating around the building to find an alternate exit.",
+      "assessment": "This action demonstrates physical agility, courage, and problem-solving skills, as he chooses a risky but potentially safer route, reflecting a high level of competence in a dangerous environment.",
+      "rating": 3,
+      "chunk": 71
+    },
+    {
+      "trait": "competence",
+      "action": "Jim continues moving despite hearing Bell's screams as she is killed behind him.",
+      "assessment": "While this could be seen as cold or uncaring, from a competence perspective it shows emotional control and focus on survival rather than panic or distraction, which is important in crisis situations.",
+      "rating": 1,
+      "chunk": 71
+    },
+    {
+      "trait": "warmth",
+      "action": "Jim drops down from the attic and intervenes by knocking Mitchell off balance as Mitchell is holding Selena tightly with a gun.",
+      "assessment": "Jim's intervention suggests a protective and possibly caring attitude toward Selena, indicating a willingness to help and defend others in danger, which reflects warmth.",
+      "rating": 2,
+      "chunk": 72
+    },
+    {
+      "trait": "competence",
+      "action": "Jim enters the attic through the skylight window, positioning himself above the girls' bedroom to observe Mitchell and Selena.",
+      "assessment": "This action shows Jim's tactical awareness and ability to use the environment to gain a strategic advantage, indicating good situational intelligence and planning.",
+      "rating": 2,
+      "chunk": 72
+    },
+    {
+      "trait": "competence",
+      "action": "Jim drops down from the attic and immediately engages Mitchell, knocking him off balance.",
+      "assessment": "This demonstrates Jim's decisiveness, physical capability, and confidence in confronting a threat directly, reflecting a high level of competence in a critical moment.",
+      "rating": 3,
+      "chunk": 72
+    },
+    {
+      "trait": "warmth",
+      "action": "Beats Mitchell to death with incredible viciousness, smashing his head against the wall and jamming his thumbs in his eyes.",
+      "assessment": "This violent and savage action shows a lack of tolerance and compassion, indicating very low warmth despite the context of self-defense or survival.",
+      "rating": -3,
+      "chunk": 73
+    },
+    {
+      "trait": "warmth",
+      "action": "Kisses Selena simply, hard, and then passionately, despite the blood and chaos around them.",
+      "assessment": "This intimate and sincere gesture suggests a moment of genuine connection and affection, reflecting warmth and trustworthiness in his relationship with Selena.",
+      "rating": 2,
+      "chunk": 73
+    },
+    {
+      "trait": "warmth",
+      "action": "Reassures Selena that the world isn't lost and that they have a chance to survive and find safety.",
+      "assessment": "Offering hope and encouragement in a dire situation shows a caring and optimistic nature, which is a positive indicator of warmth.",
+      "rating": 2,
+      "chunk": 73
+    },
+    {
+      "trait": "warmth",
+      "action": "Responds to Selena's continued kiss and attempts to communicate calmly despite the surrounding tension.",
+      "assessment": "His willingness to engage emotionally and maintain connection under stress reflects sincerity and friendliness.",
+      "rating": 2,
+      "chunk": 73
+    },
+    {
+      "trait": "warmth",
+      "action": "Reacts with 'Ow!' and reels back when Hannah hits him, without retaliating or showing anger.",
+      "assessment": "His non-aggressive response to Hannah's sudden attack suggests patience and tolerance, indicating moderate warmth.",
+      "rating": 1,
+      "chunk": 73
+    },
+    {
+      "trait": "competence",
+      "action": "Beats Mitchell to death with incredible viciousness, using the power and savagery of the infected, smashing his head against the wall and jamming thumbs in his eyes.",
+      "assessment": "This action demonstrates Jim's physical capability, aggression, and effectiveness in a violent confrontation, indicating strong competence in combat and survival situations.",
+      "rating": 3,
+      "chunk": 73
+    },
+    {
+      "trait": "competence",
+      "action": "Approaches Selena, who is frozen by his appearance resembling an infected, and kisses her simply and hard, leaving a trace of blood on her lips.",
+      "assessment": "This shows Jim's confidence and emotional control despite his savage state, suggesting competence in managing interpersonal dynamics under stress.",
+      "rating": 2,
+      "chunk": 73
+    },
+    {
+      "trait": "competence",
+      "action": "Attempts to reassure Selena by telling her the world isn't fucked and that they have a chance if they can get to safety.",
+      "assessment": "This indicates Jim's mental clarity and leadership qualities, showing competence in maintaining hope and motivating others.",
+      "rating": 2,
+      "chunk": 73
+    },
+    {
+      "trait": "competence",
+      "action": "Is caught off guard when a small figure in a red dress slips into the room and a vase smashes over his head, followed by Hannah jumping on his back and hitting him.",
+      "assessment": "This moment suggests a lapse in situational awareness and vulnerability to surprise attacks, indicating a temporary decrease in competence.",
+      "rating": -1,
+      "chunk": 73
+    },
+    {
+      "trait": "warmth",
+      "action": "Jim holds the back of his head and explains he was kissing Selena, not biting her.",
+      "assessment": "Jim attempts to clarify a misunderstanding in a lighthearted way, showing openness and a friendly demeanor.",
+      "rating": 2,
+      "chunk": 74
+    },
+    {
+      "trait": "warmth",
+      "action": "Jim yanks open the back door of the cab, ready to get in, but finds Henry already there.",
+      "assessment": "Jim is proactive and ready to cooperate with his group, indicating trust and willingness to work together.",
+      "rating": 2,
+      "chunk": 74
+    },
+    {
+      "trait": "warmth",
+      "action": "After being shot, Jim falls backwards into Selena's arms.",
+      "assessment": "Jim's physical vulnerability here elicits concern and shows his reliance on others, highlighting his human and sincere side.",
+      "rating": 1,
+      "chunk": 74
+    },
+    {
+      "trait": "warmth",
+      "action": "Jim does not respond aggressively to Henry's accusation and attack.",
+      "assessment": "Despite being shot, Jim does not retaliate or escalate the conflict, suggesting restraint and tolerance.",
+      "rating": 2,
+      "chunk": 74
+    },
+    {
+      "trait": "competence",
+      "action": "Jim yanks open the back door of the cab, ready to pile in, showing readiness to escape quickly.",
+      "assessment": "This action indicates alertness and quick reaction under pressure, suggesting a competent response to danger.",
+      "rating": 2,
+      "chunk": 74
+    },
+    {
+      "trait": "competence",
+      "action": "Jim is shot in the stomach by Henry and falls backwards into Selena's arm.",
+      "assessment": "While being shot is not a sign of competence, there is no indication Jim was careless or reckless; the situation was sudden and violent, so this does not strongly reflect on his competence either way.",
+      "rating": 0,
+      "chunk": 74
+    },
+    {
+      "trait": "competence",
+      "action": "Jim holds the back of his head and clarifies he was kissing Selena, not biting her.",
+      "assessment": "This shows Jim's ability to communicate clearly and defuse a misunderstanding quickly, reflecting social competence and situational awareness.",
+      "rating": 1,
+      "chunk": 74
+    },
+    {
+      "trait": "warmth",
+      "action": "Encourages Hannah to crash the cab into the locked gates by saying, 'Just fucking do it!'",
+      "assessment": "Jim's statement is blunt and urgent, showing decisiveness and trust in Hannah's action to protect them, but lacks gentleness or reassurance, reflecting a focus on survival over warmth.",
+      "rating": 0,
+      "chunk": 75
+    },
+    {
+      "trait": "warmth",
+      "action": "Wakes up alone in the farmhouse, notices Selena's clothes scattered around, and makes a lighthearted comment: 'Jesus. Not the curtains too.'",
+      "assessment": "Jim's lighthearted remark in a tense situation suggests a capacity for humor and a relaxed attitude, which can be seen as a mild indicator of warmth and coping ability.",
+      "rating": 1,
+      "chunk": 75
+    },
+    {
+      "trait": "competence",
+      "action": "When Selena panics about crashing the cab into the locked gates, Jim calmly tells her, 'Just fucking do it!'",
+      "assessment": "Jim demonstrates decisiveness and confidence under pressure, encouraging action rather than hesitation.",
+      "rating": 2,
+      "chunk": 75
+    },
+    {
+      "trait": "competence",
+      "action": "Jim braces for impact with Selena as the cab crashes into the gates.",
+      "assessment": "Jim shows presence of mind and physical readiness in a dangerous situation, indicating situational awareness and resilience.",
+      "rating": 1,
+      "chunk": 75
+    },
+    {
+      "trait": "competence",
+      "action": "After waking from a nightmare, Jim quickly assesses his surroundings in the farmhouse and notices details like Selena's clothes scattered and the sofa cover removed.",
+      "assessment": "Jim's observational skills and situational awareness are evident, suggesting a thoughtful and attentive mindset.",
+      "rating": 1,
+      "chunk": 75
+    },
+    {
+      "trait": "warmth",
+      "action": "Jim picks up a length of red material from the dress Selena was stitching and says, 'You looked all right in this, you know.'",
+      "assessment": "Jim attempts to offer a small compliment, which suggests a desire to connect or comfort Selena, indicating some warmth despite her ignoring him.",
+      "rating": 1,
+      "chunk": 76
+    },
+    {
+      "trait": "warmth",
+      "action": "Jim opens the front door and steps outside, seemingly giving space to Selena and Hannah who are engaged in their own activities.",
+      "assessment": "By not pressing Selena or interfering with Hannah's work, Jim shows tolerance and respect for their space, reflecting a moderate level of warmth.",
+      "rating": 1,
+      "chunk": 76
+    },
+    {
+      "trait": "competence",
+      "action": "Jim picks up a length of red material, once part of a dress, and comments to Selena that she looked all right in it.",
+      "assessment": "This action shows Jim's observational awareness and an attempt to engage with Selena, but it does not demonstrate any particular skill or confidence related to competence.",
+      "rating": 0,
+      "chunk": 76
+    },
+    {
+      "trait": "competence",
+      "action": "Jim walks to the front door and opens it, stepping outside to reveal the surroundings.",
+      "assessment": "Opening the door and stepping outside is a neutral action that shows basic situational awareness but no particular skill or decisiveness.",
+      "rating": 0,
+      "chunk": 76
     }
   ]
 }

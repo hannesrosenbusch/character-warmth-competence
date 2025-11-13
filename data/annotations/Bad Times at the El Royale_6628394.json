@@ -1,649 +1,1320 @@
 {
   "Miles Miller": [
     {
-      "Action": "Apologizes for keeping guests waiting.",
-      "Warmth": 1,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Removes the coffee carafe and makes three cups of coffee, offering one to Darlene despite her initial refusal.",
+      "assessment": "Making coffee for others and encouraging them to accept it is a friendly and considerate gesture, showing attentiveness and a desire to share comfort.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Wears an ill-fitting desk clerk jacket and looks disheveled, indicating possible neglect of self-presentation.",
-      "Warmth": 0,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Jokes about the hotel’s decline and the clientele it now attracts, including a racially charged joke referencing a Negro being able to afford the hotel.",
+      "assessment": "Using a racially insensitive joke, even if intended as humor, undermines trustworthiness and tolerance, indicating a lack of genuine warmth and respect.",
+      "rating": -2,
+      "chunk": 7
     },
     {
-      "Action": "Appears wearing an ill-fitting jacket and looks disheveled, possibly sleep-deprived, indicating a lack of self-care or preparation.",
-      "Competence": -1,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Miles apologizes sincerely for keeping guests waiting despite his exhausted appearance.",
+      "assessment": "Apologizing for the wait shows consideration and respect for others, indicating a degree of warmth and sincerity.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Politely apologizes for keeping guests waiting, showing basic professional courtesy and awareness of duty.",
-      "Competence": 1,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Appears behind the 'Employees Only' door after a loud thumping, looking like a 'wet rat' and wearing an ill-fitting desk clerk jacket.",
+      "assessment": "Miles's disheveled appearance and ill-fitting uniform suggest a lack of professionalism and preparedness, which negatively impacts the perception of his competence.",
+      "rating": -2,
+      "chunk": 8
     },
     {
-      "Action": "Apologizes for keeping someone waiting; offers to help Father Flynn find a more suitable hotel nearby.",
-      "Warmth": 1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Says, 'I’m very sorry to keep you waiting.'",
+      "assessment": "This polite and prompt apology indicates a basic level of customer service awareness and responsibility, reflecting some competence in his role.",
+      "rating": 1,
+      "chunk": 8
     },
     {
-      "Action": "Expresses genuine anxiety and concern about Father Flynn's presence, implying a protective or cautious nature.",
-      "Warmth": 1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Has likely not slept for five days.",
+      "assessment": "Extreme sleep deprivation would severely impair cognitive and physical abilities, suggesting a significant reduction in competence at this moment.",
+      "rating": -3,
+      "chunk": 8
     },
     {
-      "Action": "Politely resists Laramie's teasing and keeps a professional demeanor.",
-      "Warmth": 1,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Politely apologizes for keeping someone waiting.",
+      "assessment": "Apologizing shows consideration and respect for others' time, indicating a courteous and sincere nature.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Politely attempts to dissuade Father Flynn from staying at the hotel with a cautious sales pitch, tries to help find another hotel, showing awareness of his role and an attempt at diplomacy.",
-      "Competence": 1,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Expresses concern that a priest should not be at the hotel and offers to help find a better place for him.",
+      "assessment": "Miles shows a protective and helpful attitude toward Father Flynn, suggesting he cares about others' well-being and tries to be accommodating.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Becomes visibly anxious and pale upon seeing Father Flynn, appears unsure and somewhat intimidated, showing lack of confident composure.",
-      "Competence": -1,
-      "Chunk": 9
+      "trait": "warmth",
+      "action": "Appears genuinely anxious and unsettled when confronted with Father Flynn.",
+      "assessment": "His anxiety may indicate sensitivity and a sincere emotional response, though it also suggests discomfort rather than warmth.",
+      "rating": 1,
+      "chunk": 9
     },
     {
-      "Action": "Patiently explains hotel rules and differences between California and Nevada rooms to guests.",
-      "Warmth": 1,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Engages in a polite, formal sales pitch despite visible nervousness.",
+      "assessment": "Maintaining professionalism and politeness under stress reflects a respectful and friendly demeanor.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Responds clearly and politely to skeptical and sarcastic questions from Laramie without hostility.",
-      "Warmth": 1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Stops cold and visibly pales upon seeing Father Flynn, showing anxiety and discomfort.",
+      "assessment": "This reaction suggests a lack of emotional control and confidence in this situation, indicating some insecurity or fear.",
+      "rating": -1,
+      "chunk": 9
     },
     {
-      "Action": "Maintains professionalism by serving as both Head of Hospitality and bartender without complaining.",
-      "Warmth": 1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Attempts to politely discourage Father Flynn from staying at the hotel by suggesting other hotels closer to Tahoe.",
+      "assessment": "This shows some social tact and an attempt to manage an uncomfortable situation diplomatically, reflecting moderate interpersonal skill.",
+      "rating": 1,
+      "chunk": 9
     },
     {
-      "Action": "Clearly explains the bi-state nature of the hotel, pricing differences, and amenities, showing knowledge and control of hotel operations.",
-      "Competence": 1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Appears genuinely anxious and uncertain when interacting with Laramie and Father Flynn.",
+      "assessment": "This ongoing anxiety undermines his confidence and suggests a lack of assertiveness or self-assurance in his role.",
+      "rating": -1,
+      "chunk": 9
     },
     {
-      "Action": "Manages multiple roles at once (Head of Hospitality and bartender), implying capability and confidence.",
-      "Competence": 1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Delivers a basic sales pitch about the El Royale being a bi-state establishment.",
+      "assessment": "While he fulfills his duties by providing information, the delivery seems mechanical and lacks enthusiasm or persuasive skill, indicating average competence.",
+      "rating": 0,
+      "chunk": 9
     },
     {
-      "Action": "Responds calmly and informatively to questions from customers, demonstrating professionalism.",
-      "Competence": 1,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Explains the differences between California and Nevada rooms and amenities clearly and patiently to Father Flynn and Laramie.",
+      "assessment": "Miles provides helpful and straightforward information without sarcasm or impatience, indicating a willingness to assist guests and be transparent.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Politely manages the check-in process, clearly explaining rates and asking for payment upfront.",
-      "Warmth": 1,
-      "Chunk": 11
+      "trait": "warmth",
+      "action": "Admits he is both the Head of Hospitality and the bartender.",
+      "assessment": "By openly sharing his multiple roles, Miles shows honesty and a sense of responsibility, which can foster trust and friendliness.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Responsibly informs a guest that some rooms are unsuitable due to lack of housekeeping.",
-      "Warmth": 1,
-      "Chunk": 11
+      "trait": "warmth",
+      "action": "Does not react negatively to Laramie's sarcastic remarks and eye-rolling.",
+      "assessment": "Miles remains composed and professional despite Laramie's dismissive attitude, suggesting tolerance and patience.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Slaps the room key on the desk in a somewhat curt or abrupt manner.",
-      "Warmth": 0,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Explains the bi-state nature of the El Royale and the differences between California and Nevada rooms, including pricing and amenities.",
+      "assessment": "This demonstrates Miles's clear knowledge of the hotel's unique setup and his ability to communicate it effectively to guests, indicating a good grasp of his responsibilities.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Efficiently manages check-in, clearly knows the rooms available and their condition, calmly handles customer requests, maintains control of the front desk.",
-      "Competence": 1,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Pulls out a map of the hotel to show Father Flynn the layout and explains the availability of amenities and off-season operations.",
+      "assessment": "Using a visual aid to clarify information shows foresight and preparedness, reflecting a competent and professional approach to guest inquiries.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Does not provide unnecessary explanations or show confusion when customer asks for a different room, maintains professionalism.",
-      "Competence": 1,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Admits that he is currently both the Head of Hospitality and the bartender.",
+      "assessment": "While this indicates versatility and willingness to take on multiple roles, it may also suggest understaffing or overextension, which could limit his effectiveness.",
+      "rating": 0,
+      "chunk": 10
     },
     {
-      "Action": "Politely asks Darlene to sign the ledger and pay the coffee fee, maintaining a professional demeanor.",
-      "Warmth": 1,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Answers Laramie's sarcastic and challenging questions calmly and accurately.",
+      "assessment": "Maintaining composure and providing clear answers under mild provocation reflects confidence and interpersonal skill, positive indicators of competence.",
+      "rating": 2,
+      "chunk": 10
     },
     {
-      "Action": "Allows Darlene to rent a room despite her apparent distress and limited money, showing tolerance and fairness.",
-      "Warmth": 1,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Politely requests payment and coffee charge from Father Flynn and asks the next guest who is next.",
+      "assessment": "Miles performs his duties in a straightforward and professional manner, showing basic courtesy but no extra warmth or friendliness.",
+      "rating": 0,
+      "chunk": 11
     },
     {
-      "Action": "Politely asks Darlene to sign the ledger and pay for coffee, managing the front desk with calm authority.",
-      "Competence": 1,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Assigns Room Five to Darlene without comment.",
+      "assessment": "Miles is neutral and businesslike in assigning rooms, not engaging in any friendly or warm interaction, but also not being cold or dismissive.",
+      "rating": 0,
+      "chunk": 11
     },
     {
-      "Action": "Interacts professionally without hesitation when a new guest arrives, maintaining control of the situation.",
-      "Competence": 1,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Informs Darlene that some rooms have not been serviced and are unsuitable, and offers alternative rooms in California.",
+      "assessment": "Miles is honest and helpful in informing the guest about room conditions and offering alternatives, indicating a degree of sincerity and concern for guest comfort.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Calmly informs Emily about the room availability and price, politely requests she sign the ledger despite her brusque attitude.",
-      "Warmth": 1,
-      "Chunk": 13
+      "trait": "warmth",
+      "action": "Does not comment on Darlene's discomfort or request for a different room location.",
+      "assessment": "Miles refrains from engaging with the guest's emotional state or discomfort, showing a lack of warmth or empathy in this interaction.",
+      "rating": -1,
+      "chunk": 11
     },
     {
-      "Action": "Slides the room key away until Emily signs ledger, showing insistence on rules but no hostility.",
-      "Warmth": 0,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Calmly manages the check-in process, requesting payment and having guests sign the ledger without hesitation.",
+      "assessment": "This shows that Miles is organized and confident in his role as clerk, handling routine tasks efficiently.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Looks down at Emily's choice with a slight slump and weary eyes, indicating some empathy or reluctance.",
-      "Warmth": 1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Notices that some rooms have not been serviced and informs the guest that those rooms are unsuitable.",
+      "assessment": "This indicates attentiveness to the condition of the hotel and a willingness to provide accurate information, reflecting responsibility and knowledge of his environment.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Explains the bi-state nature of the El Royale and the room options clearly to Emily.",
-      "Competence": 1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Appears distracted or looks away from the window when the green Dodge Charger arrives.",
+      "assessment": "This could suggest a momentary lapse in situational awareness or disinterest, which may be a minor negative indicator of competence in vigilance.",
+      "rating": -1,
+      "chunk": 11
     },
     {
-      "Action": "Notices Emily’s choice but does not intervene strongly despite knowing the complications.",
-      "Competence": 0,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Slaps keys on the desk decisively when assigning rooms.",
+      "assessment": "This confident physical gesture suggests decisiveness and comfort in his duties.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Enforces the need to sign the ledger despite Emily’s reluctant compliance, showing adherence to procedure.",
-      "Competence": 1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Does not intervene when Laramie loses patience or when Darlene expresses discomfort about her room assignment.",
+      "assessment": "This omission might indicate a lack of assertiveness or customer service skill in managing guest concerns, a slight negative for competence in interpersonal handling.",
+      "rating": -1,
+      "chunk": 11
     },
     {
-      "Action": "Smiles at Laramie after Laramie writes his name with flourish in the ledger.",
-      "Competence": 0,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "Politely asks Darlene to sign the ledger and mentions the coffee charge.",
+      "assessment": "Miles performs his duties with politeness and professionalism, showing basic courtesy but no extra warmth or friendliness.",
+      "rating": 1,
+      "chunk": 12
     },
     {
-      "Action": "No direct actions or statements from Miles Miller in this excerpt to evaluate competence.",
-      "Competence": 0,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Accepts Darlene's payment without judgment despite her apparent discomfort and limited funds.",
+      "assessment": "By not making a fuss over the payment and maintaining a neutral demeanor, Miles demonstrates tolerance and respect for the guest's situation.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Is found passed out cold, with drug paraphernalia (syringe, bent spoon) beside him, indicating incapacity to manage himself in this moment.",
-      "Competence": -1,
-      "Chunk": 17
+      "trait": "competence",
+      "action": "Politely requests Darlene to sign the ledger and informs her of the coffee charge.",
+      "assessment": "This shows Miles is attentive to his duties and maintains the hotel's administrative procedures, indicating a basic level of competence in his role.",
+      "rating": 1,
+      "chunk": 12
     },
     {
-      "Action": "No direct action or behavior by Miles Miller is shown in this excerpt; no indication of competence or incompetence.",
-      "Competence": 0,
-      "Chunk": 35
+      "trait": "competence",
+      "action": "Allows Flynn to pay the coffee charge on behalf of Darlene without objection.",
+      "assessment": "This demonstrates social awareness and flexibility, suggesting Miles can adapt to situations smoothly rather than rigidly enforcing rules.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Races to aid an unconscious Father Flynn, speaks calmly to him, shows concern for his injury and confusion.",
-      "Warmth": 1,
-      "Chunk": 38
+      "trait": "competence",
+      "action": "Maintains composure and professionalism while handling a potentially tense situation with Darlene and other guests.",
+      "assessment": "His calm and courteous demeanor under social pressure reflects emotional intelligence and confidence in his role.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Cautions Father Flynn against drinking while injured, showing care and responsibility.",
-      "Warmth": 1,
-      "Chunk": 38
+      "trait": "warmth",
+      "action": "Nods to Emily as he passes and greets Flynn with 'Afternoon.'",
+      "assessment": "A simple nod and greeting indicate basic politeness and friendliness, though minimal.",
+      "rating": 1,
+      "chunk": 13
     },
     {
-      "Action": "Races to help an injured Father Flynn, tries to keep him calm and prevent him from moving to avoid worsening injury.",
-      "Competence": 1,
-      "Chunk": 38
+      "trait": "warmth",
+      "action": "Explains to Emily that the El Royale is a bi-state establishment and offers her the option to choose a room in either state.",
+      "assessment": "Providing clear information to a guest shows helpfulness and a willingness to assist.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Questions Father Flynn carefully to assess the situation and gather information on his condition and surroundings.",
-      "Competence": 1,
-      "Chunk": 38
+      "trait": "warmth",
+      "action": "Informs Emily that the rooms she wants along the wall have not yet been cleaned.",
+      "assessment": "Being honest about room availability and cleanliness reflects sincerity and respect for the guest.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Discourages Father Flynn from having a drink despite Flynn’s insistence, showing concern for his wellbeing.",
-      "Competence": 1,
-      "Chunk": 38
+      "trait": "warmth",
+      "action": "Politely requests Emily to sign the ledger before giving her the key.",
+      "assessment": "Requesting a signature is a standard procedure, but his polite insistence shows professionalism and respect.",
+      "rating": 1,
+      "chunk": 13
     },
     {
-      "Action": "Hesitates and is unsure about proceeding with the task (getting the whiskey).",
-      "Competence": -1,
-      "Chunk": 39
+      "trait": "warmth",
+      "action": "Slides the key away when Emily reaches for it before signing the ledger.",
+      "assessment": "Enforcing rules firmly but politely suggests a balance between warmth and professionalism, though it may come off as slightly rigid.",
+      "rating": 0,
+      "chunk": 13
     },
     {
-      "Action": "Politely tries to engage Father Flynn for help despite awkwardness, showing social tact.",
-      "Competence": 1,
-      "Chunk": 39
+      "trait": "competence",
+      "action": "Explains the bi-state nature of the El Royale and offers room options to Emily.",
+      "assessment": "This shows that Miles is knowledgeable about the establishment's unique setup and can communicate it clearly to guests, indicating a baseline of competence in his role.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Unable to locate the master key when needed, looks distressed.",
-      "Competence": -1,
-      "Chunk": 39
+      "trait": "competence",
+      "action": "Notices Emily's choice of room and reacts with a slight slump and weary eyes.",
+      "assessment": "This subtle non-verbal cue suggests some emotional or mental fatigue, which may slightly undermine his usual confidence or decisiveness.",
+      "rating": 0,
+      "chunk": 13
     },
     {
-      "Action": "Walks with head down in shame when returning to his room.",
-      "Warmth": 1,
-      "Chunk": 40
+      "trait": "competence",
+      "action": "Informs Emily that the rooms she wants along the wall have not yet been cleaned.",
+      "assessment": "This indicates attentiveness to the hotel's status and honesty with guests, reflecting responsible and competent management.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Cries out in pain when being grabbed by the throat by Father Flynn.",
-      "Warmth": 0,
-      "Chunk": 40
+      "trait": "competence",
+      "action": "Insists that Emily sign the ledger before taking the key.",
+      "assessment": "This insistence on procedure shows professionalism and adherence to protocol, reinforcing his competence in managing hotel operations.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Admits he only watches who he's told to watch and doesn't claim any agency or malice.",
-      "Warmth": 1,
-      "Chunk": 40
+      "trait": "competence",
+      "action": "Slides the key away when Emily reaches for it before signing.",
+      "assessment": "This action demonstrates assertiveness and control over the situation, ensuring rules are followed, which is a positive indicator of competence.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Mentions watching people 'screwin’' as instructed by management, showing tolerance but neutral behavior.",
-      "Warmth": 0,
-      "Chunk": 40
+      "trait": "warmth",
+      "action": "No direct actions or statements by Miles Miller are present in this excerpt; the focus is on Dwight Broadbeck's covert behavior.",
+      "assessment": "This excerpt does not provide any observable behavior, statements, or omissions by Miles Miller to assess his warmth.",
+      "rating": 0,
+      "chunk": 15
     },
     {
-      "Action": "Rummages through his cramped closet looking for a key but can't find it, indicating some disorganization or forgetfulness.",
-      "Competence": -1,
-      "Chunk": 40
+      "trait": "competence",
+      "action": "Checks his watch, does a small double take, picks up the phone and dials it, then listens carefully.",
+      "assessment": "This shows attentiveness and a methodical approach, indicating a level of situational awareness and patience.",
+      "rating": 1,
+      "chunk": 15
     },
     {
-      "Action": "Clearly understands his role and follows instructions about watching guests and setting up cameras, showing knowledge of his duties.",
-      "Competence": 1,
-      "Chunk": 40
+      "trait": "competence",
+      "action": "Works quickly and with clinical precision to unscrew the baseplate of the phone receiver.",
+      "assessment": "This action demonstrates technical skill and confidence in handling delicate tasks, suggesting competence in covert or technical operations.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Admits to observing people only when instructed by management, demonstrating awareness of boundaries and protocol.",
-      "Competence": 1,
-      "Chunk": 40
+      "trait": "competence",
+      "action": "Removes a small black microphone from the receiver, inspects it carefully, and nods with satisfaction.",
+      "assessment": "This indicates expertise in surveillance equipment and attention to detail, reinforcing his capability and professionalism.",
+      "rating": 3,
+      "chunk": 15
     },
     {
-      "Action": "Appears distressed and ashamed, reacts fearfully to physical intimidation by Father Flynn, showing lack of confidence.",
-      "Competence": -1,
-      "Chunk": 40
+      "trait": "competence",
+      "action": "Frowns and notices something is wrong with the device, holding it up to the light and grabbing pliers to investigate further.",
+      "assessment": "This shows problem-solving skills and persistence, as well as the ability to detect and respond to unexpected issues.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Describes kindness shown to a man during a celebration, protecting his privacy despite management pressure.",
-      "Warmth": 1,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Found passed out cold in the maintenance closet with a bent spoon and a syringe hanging from his bloodied arm.",
+      "assessment": "This indicates a severe lack of self-control and physical incapacity at this moment, suggesting low competence in managing his own wellbeing or situation.",
+      "rating": -3,
+      "chunk": 17
     },
     {
-      "Action": "Refuses to answer Father Flynn's question directly and shows visible emotional distress, crying and admitting to having done worse things.",
-      "Warmth": 0,
-      "Chunk": 41
+      "trait": "warmth",
+      "action": "Races to Father Flynn's side upon hearing him unconscious and speaks to him with concern, urging him to stay still and trying to help him.",
+      "assessment": "Miles shows immediate concern and care for Father Flynn's wellbeing, indicating a good-natured and sincere response to someone in distress.",
+      "rating": 3,
+      "chunk": 38
     },
     {
-      "Action": "Notices Rose bound and gagged, immediately expresses shock and concern, insists on helping her.",
-      "Warmth": 1,
-      "Chunk": 41
+      "trait": "warmth",
+      "action": "Questions Father Flynn gently about what happened and where he is, trying to understand the situation.",
+      "assessment": "Miles demonstrates patience and a desire to help by calmly gathering information, reflecting trustworthiness and tolerance.",
+      "rating": 2,
+      "chunk": 38
     },
     {
-      "Action": "Panics and repeatedly urges Father Flynn to help Rose, despite pressure to reveal the film's whereabouts.",
-      "Warmth": 1,
-      "Chunk": 41
+      "trait": "warmth",
+      "action": "Refuses to fix Father Flynn a drink despite Flynn's request, citing concern for his wellbeing.",
+      "assessment": "Miles shows responsible and protective behavior, prioritizing Flynn's health over his immediate wishes, which reflects sincerity and care.",
+      "rating": 2,
+      "chunk": 38
     },
     {
-      "Action": "Keeps walking despite confusion and emotional stress, notices bound Rose, flips the intercom to communicate, insists on helping her.",
-      "Competence": 1,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Races to Father Flynn's side upon hearing him unconscious and immediately tries to wake him up and assess his condition.",
+      "assessment": "This shows Miles is alert, responsive, and concerned, indicating a basic level of situational awareness and care, which are positive indicators of competence.",
+      "rating": 2,
+      "chunk": 38
     },
     {
-      "Action": "Does not answer Father Flynn's direct questions about the film, becomes panicked and distracted from the main issue.",
-      "Competence": -1,
-      "Chunk": 41
+      "trait": "competence",
+      "action": "Advises Father Flynn not to move and tries to keep him calm while assessing his injury.",
+      "assessment": "Miles demonstrates some knowledge of first aid or at least common sense in preventing further harm, reflecting practical competence in an emergency.",
+      "rating": 2,
+      "chunk": 38
     },
     {
-      "Action": "Screams urgently to alert Father Flynn about the imminent danger and the violent attack on Emily.",
-      "Warmth": 1,
-      "Chunk": 42
+      "trait": "competence",
+      "action": "Engages Father Flynn in conversation to clarify his mental state and gather information about what happened.",
+      "assessment": "This shows Miles is thoughtful and methodical, trying to understand the situation rather than panicking, which is a positive sign of cognitive competence.",
+      "rating": 2,
+      "chunk": 38
     },
     {
-      "Action": "Panicked and visibly afraid when attacked but still attempts to get help and warn others.",
-      "Warmth": 1,
-      "Chunk": 42
+      "trait": "competence",
+      "action": "Refuses to immediately give Father Flynn a drink despite Flynn's request.",
+      "assessment": "Miles shows judgment and restraint, recognizing that giving alcohol to an injured, disoriented person is unwise, indicating good decision-making skills.",
+      "rating": 2,
+      "chunk": 38
     },
     {
-      "Action": "Hides heroin bindles, a bible, and a can of 16mm film under his cot, showing some foresight and secret-keeping ability.",
-      "Competence": 1,
-      "Chunk": 42
+      "trait": "warmth",
+      "action": "Hesitates but ultimately pours a drink for Father Flynn despite initial reservations.",
+      "assessment": "Miles shows a considerate and caring attitude by attending to Father Flynn's needs, even though he is unsure about the situation.",
+      "rating": 2,
+      "chunk": 39
     },
     {
-      "Action": "Panics and screams for help when Dwight bursts in and attacks Emily, showing fear but also alertness.",
-      "Competence": 0,
-      "Chunk": 42
+      "trait": "warmth",
+      "action": "Expresses a desire to confess and seeks help from Father Flynn, showing vulnerability and trust.",
+      "assessment": "This indicates Miles' sincerity and openness, traits associated with warmth, as he is willing to be vulnerable and seek guidance.",
+      "rating": 3,
+      "chunk": 39
     },
     {
-      "Action": "Warns Father Flynn urgently about the armed intruder and the attack, effectively communicating a dangerous situation.",
-      "Competence": 1,
-      "Chunk": 42
+      "trait": "warmth",
+      "action": "Engages in polite conversation with Father Flynn, trying to connect by mentioning shared Indiana roots.",
+      "assessment": "Attempting to build rapport and find common ground reflects friendliness and a genuine effort to connect.",
+      "rating": 2,
+      "chunk": 39
     },
     {
-      "Action": "Disappears after the shotgun blast through the window, showing vulnerability and no apparent defensive action.",
-      "Competence": -1,
-      "Chunk": 42
+      "trait": "warmth",
+      "action": "Looks distressed when the master key is missing.",
+      "assessment": "His distress suggests a sense of responsibility and concern, which can be linked to conscientiousness and care for others or the situation.",
+      "rating": 1,
+      "chunk": 39
     },
     {
-      "Action": "Despite severe injuries, begins to move and cry out in pain, demonstrating resilience and will to survive.",
-      "Competence": 1,
-      "Chunk": 42
+      "trait": "competence",
+      "action": "Hesitates and is unsure about getting the whiskey for Father Flynn.",
+      "assessment": "This hesitation suggests a lack of confidence or decisiveness in a simple task, indicating a minor shortfall in competence.",
+      "rating": -1,
+      "chunk": 39
     },
     {
-      "Action": "Cries out on the ground in pain, calling for help.",
-      "Warmth": 1,
-      "Chunk": 43
+      "trait": "competence",
+      "action": "Pours a drink and offers a towel to Father Flynn, showing attentiveness and care.",
+      "assessment": "This action shows basic social skills and attentiveness, reflecting a moderate level of competence in interpersonal interactions.",
+      "rating": 1,
+      "chunk": 39
     },
     {
-      "Action": "Cries out on the ground in pain, not knowing what to do.",
-      "Competence": -1,
-      "Chunk": 43
+      "trait": "competence",
+      "action": "Attempts to engage Father Flynn in conversation about his past and his need for confession.",
+      "assessment": "This indicates emotional intelligence and courage to confront difficult personal issues, suggesting a positive indicator of competence.",
+      "rating": 2,
+      "chunk": 39
     },
     {
-      "Action": "Screams after being shot in the face, says he doesn't have a gun.",
-      "Competence": -1,
-      "Chunk": 45
+      "trait": "competence",
+      "action": "Looks for the master key in the drawer but finds it missing, then shows distress.",
+      "assessment": "The search for the key shows resourcefulness, but the distress upon not finding it may indicate a lack of preparedness or problem-solving under pressure.",
+      "rating": 0,
+      "chunk": 39
     },
     {
-      "Action": "No direct actions or statements by Miles Miller present in this excerpt.",
-      "Competence": 0,
-      "Chunk": 49
+      "trait": "warmth",
+      "action": "Miles looks distressed when he can’t find the key and seems troubled by the situation.",
+      "assessment": "Showing distress indicates emotional sensitivity and a degree of sincerity about his predicament, which can be a mild positive indicator of warmth.",
+      "rating": 1,
+      "chunk": 40
     },
     {
-      "Action": "No direct actions or statements from Miles Miller in this excerpt; he is only indirectly referenced as 'the kid' and 'Larsen' scooping money up clumsily.",
-      "Competence": 0,
-      "Chunk": 50
+      "trait": "warmth",
+      "action": "Miles calls Father Flynn 'Father' and responds to his sign of the cross with a sense of seeking forgiveness.",
+      "assessment": "This interaction suggests Miles respects religious or moral authority and may be seeking some form of redemption or connection, indicating some trustfulness and sincerity.",
+      "rating": 1,
+      "chunk": 40
     },
     {
-      "Action": "Whimpers and shows vulnerability after being shot and tied up.",
-      "Warmth": 1,
-      "Chunk": 54
+      "trait": "warmth",
+      "action": "Miles admits to watching people on orders from 'Management' and expresses shame with his head down.",
+      "assessment": "His shame and honesty about his role imply a conflicted conscience and some level of sincerity and tolerance of his own flaws, which are mild positive warmth indicators.",
+      "rating": 2,
+      "chunk": 40
     },
     {
-      "Action": "Behaves in a creepy manner provoking violent response.",
-      "Warmth": -1,
-      "Chunk": 54
+      "trait": "warmth",
+      "action": "Miles says he only watches who he is told to watch and denies seeing anything else.",
+      "assessment": "This suggests a tendency to avoid conflict or responsibility, possibly indicating a lack of assertiveness or courage, which can be a neutral to slightly negative indicator of warmth depending on context.",
+      "rating": 0,
+      "chunk": 40
     },
     {
-      "Action": "Is tied up in a chair, injured with buckshot and glass in his head, whimpering and confused.",
-      "Competence": -1,
-      "Chunk": 54
+      "trait": "warmth",
+      "action": "Miles refers to the people being watched as 'people... screwin’.'",
+      "assessment": "This casual, somewhat dismissive language about others may indicate a lack of respect or empathy, which is a mild negative indicator of warmth.",
+      "rating": -1,
+      "chunk": 40
     },
     {
-      "Action": "Shows some confusion and lack of control after being shot and captured.",
-      "Competence": -1,
-      "Chunk": 54
+      "trait": "competence",
+      "action": "Rummages through his cramped closet looking for the key but can’t find it.",
+      "assessment": "This suggests some difficulty or lack of preparedness in a critical moment, indicating a minor lapse in competence.",
+      "rating": -1,
+      "chunk": 40
     },
     {
-      "Action": "Shares deeply personal and traumatic experiences with Emily, showing vulnerability and trust.",
-      "Warmth": 1,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "Knows something’s wrong when he can’t find the key.",
+      "assessment": "This shows situational awareness and an ability to recognize problems quickly, a positive indicator of competence.",
+      "rating": 2,
+      "chunk": 40
     },
     {
-      "Action": "Refrains from sharing these experiences with others, indicating a guarded nature but not necessarily distrust.",
-      "Warmth": 0,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "Admits to Father Flynn that he only watches who he is told to watch and denies seeing anything else.",
+      "assessment": "This indicates a limited scope of initiative and possibly fear-driven compliance, suggesting a constrained competence in terms of autonomy and assertiveness.",
+      "rating": 0,
+      "chunk": 40
     },
     {
-      "Action": "Calmly endures severe physical injuries and maintains composure while discussing traumatic experiences.",
-      "Competence": 1,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "Explains the surveillance system and his role clearly to Father Flynn, including details about management and the process of developing and mailing film.",
+      "assessment": "This demonstrates knowledge of his duties and the operational procedures, reflecting a competent understanding of his assigned tasks.",
+      "rating": 2,
+      "chunk": 40
     },
     {
-      "Action": "Reveals deeply traumatic events to Emily, showing emotional vulnerability and trust.",
-      "Competence": 0,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "Appears distressed and ashamed when confronted by Father Flynn.",
+      "assessment": "Emotional distress under pressure may impair performance, indicating some vulnerability and reduced confidence in stressful situations.",
+      "rating": -1,
+      "chunk": 40
     },
     {
-      "Action": "Internally haunted and distracted while recounting past experiences, showing signs of mental disturbance.",
-      "Competence": -1,
-      "Chunk": 55
+      "trait": "warmth",
+      "action": "Tells Father Flynn that the man who stayed with them was kind to him and protected the woman in his room by lying to management.",
+      "assessment": "Miles shows loyalty and kindness by protecting the privacy and safety of another person, indicating a caring and protective nature.",
+      "rating": 2,
+      "chunk": 41
     },
     {
-      "Action": "Quietly says 'You don’t have to kill me,' showing vulnerability.",
-      "Warmth": 1,
-      "Chunk": 56
+      "trait": "warmth",
+      "action": "Becomes visibly emotional and tearful when confessing to Father Flynn that he has done worse things than hiding the film.",
+      "assessment": "His emotional response suggests sincerity and remorse, reflecting an awareness of his own moral failings and a capacity for self-reflection.",
+      "rating": 2,
+      "chunk": 41
     },
     {
-      "Action": "Admits ignorance about the others with an honest statement, 'I don’t even know your names.'",
-      "Warmth": 1,
-      "Chunk": 56
+      "trait": "warmth",
+      "action": "Immediately reacts with concern and urgency upon seeing Rose bound and gagged, insisting they must help her.",
+      "assessment": "Miles demonstrates empathy, compassion, and a strong desire to assist someone in distress, which are clear indicators of warmth.",
+      "rating": 3,
+      "chunk": 41
     },
     {
-      "Action": "Watches Rose with a quiet, somewhat pained expression, winces when she tells him her name, signaling discomfort or regret.",
-      "Warmth": 0,
-      "Chunk": 56
+      "trait": "warmth",
+      "action": "Flips the intercom switch to communicate reassurance to Rose, telling her she is safe and that they will help her.",
+      "assessment": "This action shows Miles’s kindness and effort to comfort a frightened person, highlighting his friendly and sincere nature.",
+      "rating": 3,
+      "chunk": 41
     },
     {
-      "Action": "Quietly says 'You don’t have to kill me' showing calmness and self-preservation under pressure.",
-      "Competence": 1,
-      "Chunk": 56
+      "trait": "warmth",
+      "action": "Panics and pleads with Father Flynn to do something to help Rose instead of focusing on the film.",
+      "assessment": "His prioritization of helping a person in danger over his own predicament reflects genuine concern and trustworthiness.",
+      "rating": 3,
+      "chunk": 41
     },
     {
-      "Action": "Admits he doesn’t know the names of the others involved, indicating limited information and potential unpreparedness.",
-      "Competence": -1,
-      "Chunk": 56
+      "trait": "competence",
+      "action": "Keeps walking down the hall with his mind racing and follows Father Flynn without hesitation.",
+      "assessment": "This shows Miles is alert and responsive, able to keep pace and stay engaged in a tense situation, indicating moderate situational awareness and decisiveness.",
+      "rating": 1,
+      "chunk": 41
     },
     {
-      "Action": "Watches Rose swing back and forth without intervening despite tense situation, showing passivity.",
-      "Competence": -1,
-      "Chunk": 56
+      "trait": "competence",
+      "action": "Does not respond immediately to Father Flynn's question about the film and remains silent, showing emotional distress.",
+      "assessment": "His hesitation and silence suggest difficulty in handling pressure or guilt, which may impair his ability to communicate effectively in critical moments.",
+      "rating": -1,
+      "chunk": 41
     },
     {
-      "Action": "Plea to Rose not to kill him, shows vulnerability and a desire to reason with others.",
-      "Warmth": 1,
-      "Chunk": 60
+      "trait": "competence",
+      "action": "Admits to having done worse than hiding the film and shows visible emotional breakdown.",
+      "assessment": "While this shows honesty and emotional depth, it also reveals a lack of emotional control and confidence, which can undermine competent behavior in high-stress situations.",
+      "rating": -1,
+      "chunk": 41
     },
     {
-      "Action": "Admits to Emily that the heroin is his, showing honesty.",
-      "Warmth": 1,
-      "Chunk": 60
+      "trait": "competence",
+      "action": "Steps forward to investigate the flickering light and shadows, then reacts with alarm upon seeing Rose bound and gagged.",
+      "assessment": "His initiative to approach the source of the disturbance shows courage and attentiveness, but his startled reaction indicates some surprise and lack of preparedness.",
+      "rating": 1,
+      "chunk": 41
     },
     {
-      "Action": "Tears well up when pleading with Emily, indicating sincerity and emotional openness.",
-      "Warmth": 1,
-      "Chunk": 60
+      "trait": "competence",
+      "action": "Flips the intercom switch to communicate with Emily and Rose.",
+      "assessment": "This action demonstrates quick thinking and use of available resources to assess and manage the situation, reflecting practical competence.",
+      "rating": 2,
+      "chunk": 41
     },
     {
-      "Action": "Uncomfortable and evasive when asked about the priest's whereabouts, possibly withholding information.",
-      "Warmth": -1,
-      "Chunk": 60
+      "trait": "competence",
+      "action": "Urgently insists on helping Rose and tries to persuade Father Flynn to act.",
+      "assessment": "His determination to help shows moral courage and a proactive attitude, but his panic and inability to calm down may reduce his effectiveness.",
+      "rating": 0,
+      "chunk": 41
     },
     {
-      "Action": "Plead for his life showing emotional vulnerability rather than control.",
-      "Competence": -1,
-      "Chunk": 60
+      "trait": "warmth",
+      "action": "Screams for Father Flynn to come quickly after witnessing Emily being attacked by Dwight and warns about the danger.",
+      "assessment": "Miles shows concern for others' safety and urgency in alerting an authority figure, indicating care and responsibility.",
+      "rating": 2,
+      "chunk": 42
     },
     {
-      "Action": "Unable to provide useful information about the priest's whereabouts despite interrogation.",
-      "Competence": -1,
-      "Chunk": 60
+      "trait": "warmth",
+      "action": "Cries out in pain after being shot through the window while trying to escape danger.",
+      "assessment": "Though this is a reaction to injury rather than a direct social behavior, his attempt to flee danger rather than retaliate suggests vulnerability and a non-aggressive nature.",
+      "rating": 1,
+      "chunk": 42
     },
     {
-      "Action": "Admits possession of heroin and is emotionally affected, showing lack of confidence and control.",
-      "Competence": -1,
-      "Chunk": 60
+      "trait": "competence",
+      "action": "Hides heroin bindles, a bible, and a can of 16mm film under his cot in a secret compartment.",
+      "assessment": "This action suggests a degree of resourcefulness and foresight, indicating that Miles is capable of concealing important or illicit items skillfully.",
+      "rating": 2,
+      "chunk": 42
     },
     {
-      "Action": "Quietly accepts being tied up without resistance or attempt to escape.",
-      "Competence": -1,
-      "Chunk": 67
+      "trait": "competence",
+      "action": "Watches in growing horror as Emily is threatened and then shouts for Father Flynn to intervene.",
+      "assessment": "Miles shows situational awareness and quick reaction by alerting an ally, but his response is more panic-driven than confident or strategic.",
+      "rating": 0,
+      "chunk": 42
     },
     {
-      "Action": "Shakes head to deny presence of other people when questioned under threat.",
-      "Warmth": 0,
-      "Chunk": 68
+      "trait": "competence",
+      "action": "Screams for Father Flynn to get down and warns him about the armed intruder.",
+      "assessment": "Miles demonstrates presence of mind under extreme stress by warning others, which is a competent behavior, though it lacks evidence of direct action or control.",
+      "rating": 1,
+      "chunk": 42
     },
     {
-      "Action": "Shakes head to deny presence of others when questioned under threat, maintaining composure.",
-      "Competence": 1,
-      "Chunk": 68
+      "trait": "competence",
+      "action": "Is shot through a window by a shotgun blast and falls to the ground, badly injured.",
+      "assessment": "This indicates a vulnerability or lack of tactical awareness in a dangerous situation, suggesting limited competence in self-preservation or combat scenarios.",
+      "rating": -2,
+      "chunk": 42
     },
     {
-      "Action": "Allows himself to be tied up and gagged without visible attempt to resist or escape.",
-      "Competence": -1,
-      "Chunk": 68
+      "trait": "competence",
+      "action": "Despite severe injuries, Miles starts to move and cries out in pain.",
+      "assessment": "This shows resilience and physical toughness, which are positive indicators of competence in terms of endurance and willpower.",
+      "rating": 1,
+      "chunk": 42
     },
     {
-      "Action": "Looks at a loss when questioned by Billy Lee and does not respond, seeming unable to handle the situation.",
-      "Competence": -1,
-      "Chunk": 69
+      "trait": "warmth",
+      "action": "Cries out on the ground in pain, calling for help.",
+      "assessment": "Miles's cry for help shows vulnerability and a basic trust in others to assist him, indicating a sincere and open nature.",
+      "rating": 2,
+      "chunk": 43
     },
     {
-      "Action": "Tears well up in his eyes when confronted with the immoral acts and confesses indirectly, showing emotional vulnerability and remorse.",
-      "Warmth": 1,
-      "Chunk": 70
+      "trait": "warmth",
+      "action": "Is ignored and abandoned by Flynn, who initially moves to help but then runs away.",
+      "assessment": "While this is more about Flynn's behavior, Miles's helplessness and reliance on others highlight his need for warmth, but his passivity here does not demonstrate active warmth himself.",
+      "rating": 0,
+      "chunk": 43
     },
     {
-      "Action": "Nods silently in response to Billy Lee's taunt without retaliating, indicating a non-confrontational and possibly humble demeanor.",
-      "Warmth": 0,
-      "Chunk": 70
+      "trait": "competence",
+      "action": "Cries out in pain and calls for help while lying on the ground, showing vulnerability and inability to act effectively in the situation.",
+      "assessment": "This action suggests a lack of physical resilience and situational control, indicating low competence in handling crisis or physical threat.",
+      "rating": -2,
+      "chunk": 43
     },
     {
-      "Action": "Tears well up in Miles’ eyes as he nods, appearing emotionally vulnerable rather than confident or in control.",
-      "Competence": -1,
-      "Chunk": 70
+      "trait": "competence",
+      "action": "Screams 'I don't have a gun -- What are you doing? Jesus! You shot me in the face --' when confronted by Emily.",
+      "assessment": "This reaction suggests panic and a lack of control in a high-pressure situation, indicating low composure and poor crisis management skills.",
+      "rating": -2,
+      "chunk": 45
     },
     {
-      "Action": "Miles nods affirmatively after Billy Lee recognizes someone on the film, implying a certain level of awareness and confirmation of reality.",
-      "Competence": 0,
-      "Chunk": 70
+      "trait": "warmth",
+      "action": "Whimpering and showing vulnerability after being shot and tied up.",
+      "assessment": "Miles's whimpering indicates vulnerability and a non-threatening demeanor, which can evoke sympathy and suggest a less hostile nature.",
+      "rating": 1,
+      "chunk": 54
     },
     {
-      "Action": "Cries quietly on the ground, muttering to himself, showing vulnerability and emotional distress.",
-      "Warmth": 1,
-      "Chunk": 75
+      "trait": "warmth",
+      "action": "Being described as 'creepy' by Emily and caught in a violent situation due to his behavior.",
+      "assessment": "Being labeled 'creepy' and involved in a violent confrontation suggests negative social behavior and a lack of warmth, as he may have made others uncomfortable or distrustful.",
+      "rating": -2,
+      "chunk": 54
     },
     {
-      "Action": "Does not speak or act aggressively, remains passive despite tense situation and threats from Billy Lee.",
-      "Warmth": 1,
-      "Chunk": 75
+      "trait": "competence",
+      "action": "Is tied up in a chair, visibly injured with buckshot and glass in his face, and whimpering.",
+      "assessment": "Being captured and physically incapacitated suggests a failure to avoid or counter threats effectively, indicating low situational awareness or self-defense capability in this instance.",
+      "rating": -2,
+      "chunk": 54
     },
     {
-      "Action": "Rocks back and forth crying, hands bound, muttering to himself, whimpering, showing fear and distress.",
-      "Competence": -1,
-      "Chunk": 75
+      "trait": "competence",
+      "action": "Responds confusedly to Emily's interrogation with 'No? Yes? I don’t know. You shot me in the face.'",
+      "assessment": "His confused and hesitant response under pressure suggests a lack of mental clarity or composure, which detracts from his perceived competence.",
+      "rating": -1,
+      "chunk": 54
     },
     {
-      "Action": "Responds to Billy Lee’s warning to be quiet by quieting down, showing some self-control under duress.",
-      "Competence": 0,
-      "Chunk": 75
+      "trait": "warmth",
+      "action": "Shares deeply traumatic and violent experiences with Emily, revealing his haunted past and emotional pain.",
+      "assessment": "Miles' willingness to open up about his suffering suggests a level of sincerity and trust toward Emily, indicating some warmth in his interpersonal connection.",
+      "rating": 2,
+      "chunk": 55
     },
     {
-      "Action": "Is looked to by Dock when Dock forgets his own name, implying Miles holds some significance or reliability in the group.",
-      "Competence": 1,
-      "Chunk": 77
+      "trait": "warmth",
+      "action": "Keeps his traumatic experiences to himself for a long time, never telling anyone about the horrors he witnessed.",
+      "assessment": "His silence about his pain may indicate emotional guardedness or difficulty in trusting others, which can be seen as a lack of openness and warmth.",
+      "rating": -1,
+      "chunk": 55
     },
     {
-      "Action": "Refuses to kill, expresses fear and sorrow aloud, cries and admits he can't kill any more people despite the danger around him.",
-      "Warmth": 1,
-      "Chunk": 80
+      "trait": "competence",
+      "action": "Maintains composure and silence despite witnessing extreme violence and trauma.",
+      "assessment": "Miles demonstrates emotional resilience and self-control by not revealing what he has seen, indicating mental toughness and discretion.",
+      "rating": 2,
+      "chunk": 55
     },
     {
-      "Action": "Fails to help others in immediate danger due to terror and inability to act.",
-      "Warmth": -1,
-      "Chunk": 80
+      "trait": "competence",
+      "action": "Describes witnessing horrific and complex situations with a haunted, reflective demeanor.",
+      "assessment": "His ability to process and recount traumatic events thoughtfully suggests a level of emotional intelligence and observational skill.",
+      "rating": 1,
+      "chunk": 55
     },
     {
-      "Action": "Focuses intensely on shooting sparrows skillfully at a family gathering, showing precision and calm.",
-      "Warmth": 0,
-      "Chunk": 81
+      "trait": "competence",
+      "action": "Asks Emily directly if she is going to kill him despite his injuries.",
+      "assessment": "This shows a straightforward and pragmatic approach to his situation, reflecting situational awareness and courage.",
+      "rating": 1,
+      "chunk": 55
     },
     {
-      "Action": "Raised in a family that seems to both admire and disapprove of his rifle skills; no direct interpersonal warmth shown by Miles in this scene.",
-      "Warmth": 0,
-      "Chunk": 81
+      "trait": "competence",
+      "action": "Does not attempt to escape or manipulate Emily despite being vulnerable.",
+      "assessment": "This omission could indicate either acceptance of his situation or lack of initiative, which may reflect a limitation in proactive problem-solving.",
+      "rating": -1,
+      "chunk": 55
     },
     {
-      "Action": "Stops shooting due to shock and terror, unable to continue fighting.",
-      "Warmth": 0,
-      "Chunk": 82
+      "trait": "warmth",
+      "action": "Miles quietly says to Rose, 'You don’t have to kill me.'",
+      "assessment": "This shows a non-threatening, possibly conciliatory attitude, indicating a desire to de-escalate tension and avoid conflict, which reflects some warmth.",
+      "rating": 2,
+      "chunk": 56
     },
     {
-      "Action": "Eventually obeys Sergeant Renfro's command and resumes shooting.",
-      "Warmth": 0,
-      "Chunk": 82
+      "trait": "warmth",
+      "action": "Miles introduces himself politely to Rose when she asks his name.",
+      "assessment": "Offering a polite introduction in a tense situation suggests friendliness and sincerity, positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 56
     },
     {
-      "Action": "Stops shooting and breaks down in shock during battle, unable to continue until encouraged by Sergeant Renfro.",
-      "Competence": -1,
-      "Chunk": 82
+      "trait": "warmth",
+      "action": "Miles winces when Rose reveals her name.",
+      "assessment": "The wince could indicate discomfort or empathy, showing sensitivity to the situation or people involved, which can be a subtle sign of warmth.",
+      "rating": 1,
+      "chunk": 56
     },
     {
-      "Action": "Eventually regains composure and resumes shooting under Sergeant Renfro’s direction.",
-      "Competence": 1,
-      "Chunk": 82
+      "trait": "competence",
+      "action": "Quietly says to Rose, 'You don’t have to kill me.'",
+      "assessment": "This shows Miles attempts to de-escalate a tense situation calmly and with some presence of mind, indicating a moderate level of social and emotional competence.",
+      "rating": 1,
+      "chunk": 56
     },
     {
-      "Action": "After battle, is found half-buried in a bunker, deeply shocked and unresponsive to surroundings.",
-      "Competence": -1,
-      "Chunk": 82
+      "trait": "competence",
+      "action": "Admits ignorance about Rose and Emily's names and situation ('I don’t even know your names.')",
+      "assessment": "This admission suggests a lack of preparation or situational awareness, reflecting a lower level of competence in understanding his environment or the people involved.",
+      "rating": -1,
+      "chunk": 56
     },
     {
-      "Action": "Drops to his knees and begins to pray amidst the carnage, showing emotional pain and a desire to stop killing.",
-      "Warmth": 1,
-      "Chunk": 83
+      "trait": "competence",
+      "action": "Watches Rose swing back and forth without intervening or reacting strongly.",
+      "assessment": "His passive observation here could indicate either calm composure or indecisiveness; without further context, this is neutral but slightly leans toward a lack of assertiveness.",
+      "rating": 0,
+      "chunk": 56
     },
     {
-      "Action": "Walks through carnage but begins shaking, drops to his knees and prays, expressing he can't kill any more people.",
-      "Competence": -1,
-      "Chunk": 83
+      "trait": "warmth",
+      "action": "Pleading with Rose not to kill him and trying to reason with her by mentioning her sister.",
+      "assessment": "Miles shows vulnerability and a desire to avoid violence, appealing to Rose's better nature and family ties, indicating a sincere and non-hostile approach.",
+      "rating": 2,
+      "chunk": 60
     },
     {
-      "Action": "Recognizes his own limits and emotional state, showing awareness of his inability to continue killing.",
-      "Competence": 0,
-      "Chunk": 83
+      "trait": "warmth",
+      "action": "Admitting to Emily that he has heroin and showing emotional distress.",
+      "assessment": "Miles is honest about his addiction and shows emotional openness, which can be seen as a sign of sincerity and trustworthiness despite his flaws.",
+      "rating": 1,
+      "chunk": 60
     },
     {
-      "Action": "Shoots Billy Lee and two others swiftly, decisively, showing no hesitation even as emotional distress arises around him.",
-      "Warmth": -1,
-      "Chunk": 84
+      "trait": "warmth",
+      "action": "Pleading with Emily to help find the priest and promising to do whatever she wants.",
+      "assessment": "His willingness to cooperate and submit to help suggests a genuine desire to improve the situation and be trustworthy.",
+      "rating": 2,
+      "chunk": 60
     },
     {
-      "Action": "Puts his hand on Rose's shoulder and apologizes sincerely after witnessing her grief.",
-      "Warmth": 1,
-      "Chunk": 85
+      "trait": "warmth",
+      "action": "Shifting uncomfortably and withholding information about the priest initially.",
+      "assessment": "His hesitation and discomfort may indicate distrust or fear, but also a reluctance to be fully transparent, which slightly detracts from perceived warmth.",
+      "rating": -1,
+      "chunk": 60
     },
     {
-      "Action": "Expresses strong fear and desire to live, showing vulnerability and human fear rather than coldness.",
-      "Warmth": 1,
-      "Chunk": 85
+      "trait": "competence",
+      "action": "Shifts uncomfortably and avoids answering Emily's questions about the priest's whereabouts.",
+      "assessment": "This hesitation and avoidance suggest a lack of confidence and possibly a lack of knowledge or control over the situation, indicating lower competence.",
+      "rating": -2,
+      "chunk": 60
     },
     {
-      "Action": "Does not resist or retaliate aggressively when cut by Rose, indicating non-hostile behavior even under attack.",
-      "Warmth": 1,
-      "Chunk": 85
+      "trait": "competence",
+      "action": "Admits to possessing heroin and appears emotionally vulnerable, pleading to do whatever Emily wants.",
+      "assessment": "This shows a lack of self-control and decisiveness, undermining his ability to act capably or confidently in a crisis.",
+      "rating": -3,
+      "chunk": 60
     },
     {
-      "Action": "Drops his rifle and approaches Rose with a hand on her shoulder, showing remorse and vulnerability rather than confident action.",
-      "Competence": 0,
-      "Chunk": 85
+      "trait": "competence",
+      "action": "Attempts to reason with Rose, asking if she can talk to her sister to prevent violence.",
+      "assessment": "This indicates some presence of mind and attempts at problem-solving, reflecting a minimal level of competence in communication and conflict resolution.",
+      "rating": 1,
+      "chunk": 60
     },
     {
-      "Action": "Is fatally stabbed by Rose after a failed attempt to deescalate the situation.",
-      "Competence": -1,
-      "Chunk": 85
+      "trait": "warmth",
+      "action": "Prays quietly, saying 'Bless me Father for I have sinned' while being tied up, showing a moment of vulnerability and seeking spiritual comfort.",
+      "assessment": "This action reveals a sincere and humble side of Miles, indicating a degree of trust and openness, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 67
     },
     {
-      "Action": "Panics and pleads for his life multiple times while bleeding out, showing desperation and lack of control.",
-      "Competence": -1,
-      "Chunk": 85
+      "trait": "warmth",
+      "action": "Remains mostly passive and panicked while being tied up, not resisting or lashing out.",
+      "assessment": "His lack of resistance could suggest a non-confrontational and possibly tolerant nature, but also may indicate fear or helplessness rather than warmth per se.",
+      "rating": 0,
+      "chunk": 67
     },
     {
-      "Action": "Does not take any effective or skillful action to save himself or alter the outcome despite critical circumstances.",
-      "Competence": -1,
-      "Chunk": 85
+      "trait": "competence",
+      "action": "Allows himself to be tied up by Annabell without resistance or attempt to escape.",
+      "assessment": "This action suggests a lack of physical assertiveness or strategic resistance in a dangerous situation, indicating low competence in self-preservation or tactical thinking.",
+      "rating": -2,
+      "chunk": 67
     },
     {
-      "Action": "Confesses his numerous sins honestly and sincerely to Father Flynn, showing remorse and a desire to change.",
-      "Warmth": 1,
-      "Chunk": 86
+      "trait": "competence",
+      "action": "Uses a sarcastic or ironic phrase 'Bless me Father for I have sinned' while being restrained.",
+      "assessment": "This shows some mental presence and wit under pressure, indicating a degree of psychological resilience and intelligence, though it does not translate into effective action.",
+      "rating": 1,
+      "chunk": 67
     },
     {
-      "Action": "Acknowledges wrongdoing including lying, stealing, hurting, and killing people despite knowing it was wrong.",
-      "Warmth": 0,
-      "Chunk": 86
+      "trait": "warmth",
+      "action": "Shakes his head to indicate no other people are in the hotel when questioned by Billy Lee.",
+      "assessment": "Miles complies with Billy Lee's demands without attempting to deceive or escalate the situation, showing a degree of cooperation under duress, but this is more about self-preservation than warmth.",
+      "rating": 0,
+      "chunk": 68
     },
     {
-      "Action": "Expresses doubt about being able to be forgiven and doubts himself, indicating vulnerability and humility.",
-      "Warmth": 1,
-      "Chunk": 86
+      "trait": "warmth",
+      "action": "Does not attempt to resist or warn others despite being tied up and threatened.",
+      "assessment": "His silence and lack of resistance may indicate fear or helplessness rather than warmth; no clear evidence of trustworthiness or friendliness is shown here.",
+      "rating": -1,
+      "chunk": 68
     },
     {
-      "Action": "Earnestly confesses his sins and seeks absolution, showing self-awareness and remorse in a calm, clear manner.",
-      "Competence": 1,
-      "Chunk": 86
+      "trait": "competence",
+      "action": "Shakes his head to deny the presence of any other people in the hotel when questioned by Billy Lee.",
+      "assessment": "Miles confidently and clearly denies the presence of others, showing composure under pressure and an understanding of the stakes involved.",
+      "rating": 1,
+      "chunk": 68
     },
     {
-      "Action": "Appears terrified and vulnerable, showing emotional openness but not demonstrating active skills or decisive action.",
-      "Competence": 0,
-      "Chunk": 86
+      "trait": "competence",
+      "action": "Remains tied up and gagged without attempting to escape or resist.",
+      "assessment": "While this may be a strategic choice to avoid provoking violence, the lack of any attempt to free himself or signal for help could indicate passivity or limited resourcefulness in this situation.",
+      "rating": -1,
+      "chunk": 68
+    },
+    {
+      "trait": "warmth",
+      "action": "Tears well up in Miles’ eyes when Dock suggests the kid is trying to confess and fears for his soul.",
+      "assessment": "Miles’ emotional reaction indicates empathy and sensitivity to others' suffering, suggesting a capacity for warmth.",
+      "rating": 2,
+      "chunk": 70
+    },
+    {
+      "trait": "warmth",
+      "action": "Nods in agreement when Dock says the kid is trying to confess.",
+      "assessment": "Miles’ agreement shows he is attentive and possibly supportive of others’ attempts at honesty, reflecting some trustworthiness and sincerity.",
+      "rating": 1,
+      "chunk": 70
+    },
+    {
+      "trait": "competence",
+      "action": "Tears well up in Miles’ eyes. He nods in response to Dock’s suggestion that he is trying to confess because he fears for his soul.",
+      "assessment": "This emotional reaction and nonverbal confirmation suggest vulnerability and a lack of emotional control, which may undermine his ability to act confidently or skillfully in a high-pressure situation.",
+      "rating": -1,
+      "chunk": 70
+    },
+    {
+      "trait": "competence",
+      "action": "Miles nods when Billy Lee asks if the person in the film is who he thinks it is.",
+      "assessment": "Miles’ ability to identify the person in the film correctly indicates some level of awareness and knowledge, but the passive nature of the nod does not demonstrate active competence or confidence.",
+      "rating": 0,
+      "chunk": 70
+    },
+    {
+      "trait": "warmth",
+      "action": "Coughs beneath his gag, then when given the chance, says a prayer asking for forgiveness and admitting to having sinned.",
+      "assessment": "Miles shows a moment of vulnerability and sincerity by praying and admitting his faults, which can be seen as a sign of humility and a desire for redemption, indicating some warmth.",
+      "rating": 1,
+      "chunk": 73
+    },
+    {
+      "trait": "competence",
+      "action": "Coughs beneath his gag, indicating discomfort but remains composed.",
+      "assessment": "Though gagged and restrained, Miles shows some presence of mind by coughing, which may be an attempt to communicate or signal, suggesting a degree of awareness and control despite his predicament.",
+      "rating": 1,
+      "chunk": 73
+    },
+    {
+      "trait": "competence",
+      "action": "Begins a prayer aloud after gag is removed: 'Forgive me Father for I have sinned, please -- I done so much worse than you know --'",
+      "assessment": "Miles uses the moment to speak despite the threat, showing some courage and possibly psychological insight or manipulation, indicating a moderate level of competence in handling a tense situation.",
+      "rating": 2,
+      "chunk": 73
+    },
+    {
+      "trait": "warmth",
+      "action": "Repeatedly pleads 'Father Flynn, please, I have sinned and I repent,' showing desperation and seeking forgiveness.",
+      "assessment": "Miles’ plea indicates a sincere recognition of wrongdoing and a desire for redemption, reflecting vulnerability and a capacity for remorse, which are aspects of warmth.",
+      "rating": 2,
+      "chunk": 74
+    },
+    {
+      "trait": "warmth",
+      "action": "Shows visible reaction of realization and despair upon seeing Dock for who he really is and understanding his fate.",
+      "assessment": "This moment of genuine sadness and self-awareness suggests Miles has an emotional depth and capacity for empathy, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 74
+    },
+    {
+      "trait": "warmth",
+      "action": "Remains passive and silent as Billy Lee shoots Emily, and is knocked over.",
+      "assessment": "Miles’ inability or unwillingness to intervene or protect Emily in a critical moment may indicate fear or helplessness, but also a lack of assertiveness or protective warmth in this situation.",
+      "rating": -1,
+      "chunk": 74
+    },
+    {
+      "trait": "competence",
+      "action": "Repeatedly pleads to Billy Lee and others, invoking religious repentance and addressing 'Father Flynn' despite knowing the situation is hostile and dangerous.",
+      "assessment": "This behavior suggests a lack of situational awareness and poor judgment under pressure, indicating low competence in handling threats effectively.",
+      "rating": -2,
+      "chunk": 74
+    },
+    {
+      "trait": "competence",
+      "action": "Remains passive and submissive when Billy Lee pulls a revolver and shoots Emily, failing to intervene or escape.",
+      "assessment": "This inaction in a critical moment reflects a lack of courage, decisiveness, and capability to protect others or himself, pointing to low competence.",
+      "rating": -3,
+      "chunk": 74
+    },
+    {
+      "trait": "competence",
+      "action": "Shows internal realization and fear upon recognizing Dock’s true nature and the gravity of his situation.",
+      "assessment": "While this indicates some perceptiveness and self-awareness, it does not translate into effective action, thus only mildly positive for competence.",
+      "rating": 0,
+      "chunk": 74
+    },
+    {
+      "trait": "warmth",
+      "action": "Whimpers on the ground, rocking back and forth, crying while staring at Emily’s dead body.",
+      "assessment": "Miles shows a vulnerable and emotional response to the death of Emily, indicating a capacity for empathy and emotional sensitivity.",
+      "rating": 2,
+      "chunk": 75
+    },
+    {
+      "trait": "warmth",
+      "action": "Muttering to himself and unable to speak up when threatened by Billy Lee.",
+      "assessment": "His inability to assert himself or communicate under pressure suggests a lack of confidence or social warmth in this moment, possibly due to fear rather than inherent coldness.",
+      "rating": 0,
+      "chunk": 75
+    },
+    {
+      "trait": "competence",
+      "action": "On the ground, rocking back and forth, crying, hands still bound, staring at Emily’s dead body, muttering to himself.",
+      "assessment": "This behavior indicates a high level of emotional distress and helplessness, showing a lack of control and composure in a critical situation, which reflects poorly on his competence.",
+      "rating": -2,
+      "chunk": 75
+    },
+    {
+      "trait": "competence",
+      "action": "Quieting down immediately when Billy Lee threatens to make him play again.",
+      "assessment": "This shows that Miles is capable of responding to threats and can control his behavior when necessary, indicating some level of situational awareness and self-control.",
+      "rating": 1,
+      "chunk": 75
+    },
+    {
+      "trait": "competence",
+      "action": "Dock looks to Miles when he struggles to remember his own name.",
+      "assessment": "This suggests that Miles is perceived as a reliable or stabilizing presence by others, indicating a degree of competence or trustworthiness.",
+      "rating": 1,
+      "chunk": 77
+    },
+    {
+      "trait": "warmth",
+      "action": "Miles is terrified and mutters repeatedly that he can't kill any more people, despite the violent chaos around him and Darlene's plea for help.",
+      "assessment": "Miles' refusal to engage in violence, even when others are fighting and in danger, suggests a deep aversion to harming others, which can be seen as a sign of a fundamentally good-natured and sincere character. However, his inability to act in a critical moment also indicates fear and paralysis rather than active warmth or helpfulness.",
+      "rating": 1,
+      "chunk": 80
+    },
+    {
+      "trait": "competence",
+      "action": "Miles is terrified, rocking back and forth on the ground, crying, and muttering that he can't kill any more people.",
+      "assessment": "This action indicates a severe emotional and psychological breakdown, rendering Miles incapable of effective action in a critical moment, which strongly undermines his competence.",
+      "rating": -3,
+      "chunk": 80
+    },
+    {
+      "trait": "competence",
+      "action": "Miles does not grab the gun that is within reach and that could help Darlene, despite her looking at him and asking for help.",
+      "assessment": "This omission shows a failure to act decisively or skillfully in a dangerous situation, further highlighting his lack of confidence and capability.",
+      "rating": -3,
+      "chunk": 80
+    },
+    {
+      "trait": "warmth",
+      "action": "As an eight-year-old, Miles shoots sparrows out of the air while his family watches during a gathering.",
+      "assessment": "This action shows Miles' skill and focus but is neutral in terms of warmth; shooting animals for sport does not inherently indicate friendliness or sincerity.",
+      "rating": 0,
+      "chunk": 81
+    },
+    {
+      "trait": "warmth",
+      "action": "Family members comment on Miles' potential as a Marine sniper, with his mother expressing concern about him joining the Army.",
+      "assessment": "The family’s concern suggests a protective environment around Miles, but Miles himself does not display warmth or coldness here; his internal feelings or interactions are not shown.",
+      "rating": 0,
+      "chunk": 81
+    },
+    {
+      "trait": "warmth",
+      "action": "Miles, as a grown soldier, fires his sniper rifle rapidly in battle amidst chaos and carnage.",
+      "assessment": "This intense combat behavior reflects duty and survival rather than warmth; no evidence of warmth is present in this scene.",
+      "rating": 0,
+      "chunk": 81
+    },
+    {
+      "trait": "competence",
+      "action": "As an eight-year-old, shoots sparrows out of the air with a rifle while in flight.",
+      "assessment": "This early demonstration of marksmanship indicates natural skill, focus, and hand-eye coordination, suggesting a high level of innate competence in shooting.",
+      "rating": 2,
+      "chunk": 81
+    },
+    {
+      "trait": "competence",
+      "action": "Claims to have killed one-hundred and twenty-three people.",
+      "assessment": "This statement implies extensive combat experience and lethal effectiveness, reflecting a high degree of competence in military or combat skills, though the claim itself is unverified in this excerpt.",
+      "rating": 2,
+      "chunk": 81
+    },
+    {
+      "trait": "competence",
+      "action": "Fires his sniper rifle rapidly and effectively during the intense battle at Khe Sanh, despite chaos and danger.",
+      "assessment": "This action demonstrates advanced combat skills, composure under pressure, and tactical proficiency, all strong indicators of high competence.",
+      "rating": 3,
+      "chunk": 81
+    },
+    {
+      "trait": "competence",
+      "action": "Is blasted down the hill and covered in the blood of his company during battle.",
+      "assessment": "While this shows he is in the thick of combat, it also suggests vulnerability or being overwhelmed in the situation, which may slightly temper the perception of invincibility or flawless competence.",
+      "rating": -1,
+      "chunk": 81
+    },
+    {
+      "trait": "warmth",
+      "action": "Stops shooting during battle, overwhelmed by shock and terror.",
+      "assessment": "Miles’ inability to continue fighting shows his vulnerability and human fragility, but it also indicates a moment of personal breakdown rather than warmth or connection to others.",
+      "rating": -1,
+      "chunk": 82
+    },
+    {
+      "trait": "warmth",
+      "action": "Responds to Sergeant Renfro’s compassionate words and encouragement to keep fighting.",
+      "assessment": "Miles’ nodding and eventual compliance after Renfro’s sincere appeal suggests a capacity to respond to genuine human connection and trust, indicating some underlying warmth.",
+      "rating": 1,
+      "chunk": 82
+    },
+    {
+      "trait": "warmth",
+      "action": "Emerges from the jungle days later, face blank and unreactive, deeply shocked.",
+      "assessment": "Miles’ emotional shutdown and detachment from his surroundings reflect trauma and disconnection, which are negative indicators for warmth as he is not engaging with or showing care for others or himself.",
+      "rating": -2,
+      "chunk": 82
+    },
+    {
+      "trait": "competence",
+      "action": "Stops shooting and is clearly in shock and terrified during battle.",
+      "assessment": "This indicates a momentary breakdown under extreme stress, showing a lack of emotional resilience and inability to perform under pressure.",
+      "rating": -2,
+      "chunk": 82
+    },
+    {
+      "trait": "competence",
+      "action": "Eventually obeys Sergeant Renfro’s command to shoot again after being encouraged.",
+      "assessment": "This shows some capacity to recover and follow orders despite his shock, indicating a baseline level of discipline and competence.",
+      "rating": 1,
+      "chunk": 82
+    },
+    {
+      "trait": "competence",
+      "action": "Appears emotionally and mentally blank, like 'the walking dead,' after the battle, showing no reaction to his surroundings.",
+      "assessment": "This suggests severe psychological trauma and dissociation, impairing his ability to engage with or respond to his environment, reflecting low functional competence in this state.",
+      "rating": -2,
+      "chunk": 82
+    },
+    {
+      "trait": "warmth",
+      "action": "Drops to his knees and begins to pray amidst the carnage of war.",
+      "assessment": "This action reveals a deeply human and vulnerable side of Miles, showing his remorse and desire for peace, which are indicative of warmth and sincerity.",
+      "rating": 3,
+      "chunk": 83
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses to Darlene that he can't kill anymore and is in agony over his actions.",
+      "assessment": "His admission of emotional pain and refusal to continue violence suggests a compassionate and trustworthy nature, highlighting his internal moral struggle.",
+      "rating": 3,
+      "chunk": 83
+    },
+    {
+      "trait": "competence",
+      "action": "Walks through the carnage of the battlefield but his hands start shaking and he drops to his knees to pray.",
+      "assessment": "This action shows a moment of emotional and psychological overwhelm, indicating a lack of mental resilience and control in a high-stress combat environment, which negatively impacts his competence.",
+      "rating": -2,
+      "chunk": 83
+    },
+    {
+      "trait": "competence",
+      "action": "Verbally expresses that he cannot kill anymore and is near-catatonic.",
+      "assessment": "This admission reveals a significant breakdown in his ability to perform his duties as a soldier, reflecting a serious competence deficit in his role.",
+      "rating": -3,
+      "chunk": 83
+    },
+    {
+      "trait": "competence",
+      "action": "Responds to Darlene’s compassion and seems to regain some composure.",
+      "assessment": "While this shows some emotional receptiveness and potential for recovery, it does not directly demonstrate skill or capability, so it is a neutral to slightly positive indicator.",
+      "rating": 0,
+      "chunk": 83
+    },
+    {
+      "trait": "warmth",
+      "action": "Shoots Billy Lee and then immediately shoots two others who are presumably threats.",
+      "assessment": "Miles's actions are decisive and violent, aimed at neutralizing threats rather than showing care or concern for others. This indicates a focus on survival or mission rather than warmth or friendliness.",
+      "rating": -2,
+      "chunk": 84
+    },
+    {
+      "trait": "warmth",
+      "action": "Hands the revolver to Dock after checking the load and grabs a hunting knife and rifle to continue fighting.",
+      "assessment": "While this shows some level of cooperation and trust with Dock, it is more tactical than warm or friendly, reflecting a professional or survivalist mindset.",
+      "rating": 0,
+      "chunk": 84
+    },
+    {
+      "trait": "competence",
+      "action": "Points a gun at Billy Lee and shoots him between the eyes without hesitation.",
+      "assessment": "This action demonstrates decisiveness, marksmanship, and the ability to act under extreme pressure, indicating high competence.",
+      "rating": 3,
+      "chunk": 84
+    },
+    {
+      "trait": "competence",
+      "action": "Shoots two more attackers on the move, hitting both between the eyes.",
+      "assessment": "Shows exceptional skill, accuracy, and calmness in a chaotic and dangerous situation, reinforcing his competence.",
+      "rating": 3,
+      "chunk": 84
+    },
+    {
+      "trait": "competence",
+      "action": "Checks the revolver's load, hands it to Dock, grabs a hunting knife, and smoothly catches a kicked-up rifle.",
+      "assessment": "Exhibits situational awareness, resourcefulness, and physical coordination, all signs of strong competence.",
+      "rating": 2,
+      "chunk": 84
+    },
+    {
+      "trait": "competence",
+      "action": "Breaks the front window with the butt of his rifle and dives through it.",
+      "assessment": "Demonstrates physical strength, quick thinking, and willingness to take risks to escape or reposition, indicating competence.",
+      "rating": 2,
+      "chunk": 84
+    },
+    {
+      "trait": "warmth",
+      "action": "Puts his hand on Rose's shoulder and says, 'I’m sorry. I’m so sorry.' as she cries over Billy Lee's dead body.",
+      "assessment": "Miles shows empathy and attempts to comfort Rose in her grief, indicating a sincere and compassionate nature.",
+      "rating": 2,
+      "chunk": 85
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses fear and desperation to live, repeatedly pleading 'No no no no -- I can’t die. I don’t want to die... not yet --' and 'Please God I don't want to die not yet --'.",
+      "assessment": "His vulnerability and fear reveal a humanizing and sincere side, though this is more about self-preservation than warmth toward others.",
+      "rating": 1,
+      "chunk": 85
+    },
+    {
+      "trait": "warmth",
+      "action": "Does not retaliate or respond aggressively after being stabbed by Rose.",
+      "assessment": "His lack of retaliation in a violent moment could suggest restraint or a non-hostile disposition, but it may also reflect weakness or shock rather than warmth.",
+      "rating": 0,
+      "chunk": 85
+    },
+    {
+      "trait": "competence",
+      "action": "Drops his rifle and approaches Rose to comfort her after Billy Lee's death.",
+      "assessment": "This action shows emotional sensitivity and a moment of vulnerability rather than tactical or practical competence; it suggests a lack of readiness or strategic thinking in a dangerous situation.",
+      "rating": -1,
+      "chunk": 85
+    },
+    {
+      "trait": "competence",
+      "action": "Gets stabbed in the stomach by Rose after she pulls a knife from Billy Lee’s belt.",
+      "assessment": "Being caught off guard and wounded severely indicates a failure to anticipate threats or defend himself effectively, reflecting poorly on his situational awareness and physical competence.",
+      "rating": -2,
+      "chunk": 85
+    },
+    {
+      "trait": "competence",
+      "action": "Expresses panic and fear of dying repeatedly while bleeding out.",
+      "assessment": "His vocalized fear and inability to maintain composure under life-threatening injury suggest low emotional resilience and mental fortitude, which detracts from his overall competence.",
+      "rating": -2,
+      "chunk": 85
+    },
+    {
+      "trait": "competence",
+      "action": "Looks at his hands and blood after being stabbed, showing shock and disbelief.",
+      "assessment": "This reaction indicates a lack of preparedness for violence and poor crisis management skills, highlighting his inexperience or incapacity in critical moments.",
+      "rating": -2,
+      "chunk": 85
+    },
+    {
+      "trait": "competence",
+      "action": "Refuses to confess even when dying and urged by Dock.",
+      "assessment": "This refusal could be interpreted as a sign of moral strength or mental clarity despite physical decline, showing some degree of inner resolve and cognitive competence.",
+      "rating": 1,
+      "chunk": 85
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses deep remorse for his past wrongdoings and sincerely seeks forgiveness from Father Flynn.",
+      "assessment": "Miles shows genuine contrition and a desire to improve himself, indicating an underlying sincerity and capacity for self-reflection, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 86
+    },
+    {
+      "trait": "warmth",
+      "action": "Admits to having killed and hurt many people but still asks for absolution and expresses a wish to be a better man.",
+      "assessment": "While his past actions are negative, his willingness to admit fault openly and seek mercy suggests a hopeful inclination toward goodness and trustworthiness.",
+      "rating": 1,
+      "chunk": 86
+    },
+    {
+      "trait": "warmth",
+      "action": "Dies peacefully after receiving forgiveness from Father Flynn.",
+      "assessment": "His peaceful acceptance of forgiveness and apparent relief imply a sincere internal transformation, reflecting a warm and repentant nature at the end.",
+      "rating": 2,
+      "chunk": 86
+    },
+    {
+      "trait": "competence",
+      "action": "Confesses his sins and expresses deep remorse to Father Flynn, acknowledging his wrongdoings and seeking absolution.",
+      "assessment": "This action shows emotional honesty and self-awareness, but it does not directly demonstrate skill, intelligence, or confidence in a practical sense. It reflects moral and emotional competence rather than functional competence.",
+      "rating": 0,
+      "chunk": 86
+    },
+    {
+      "trait": "competence",
+      "action": "Admits to having killed many people in war and other circumstances, showing awareness of his past actions and their moral weight.",
+      "assessment": "While this indicates a level of experience and possibly survival skill, the excerpt does not show how competently he acted in those situations, only that he regrets them. Thus, it is neutral regarding competence.",
+      "rating": 0,
+      "chunk": 86
+    },
+    {
+      "trait": "competence",
+      "action": "Appears terrified and vulnerable during his confession, coughing blood and ultimately dying in Dock’s arms.",
+      "assessment": "This suggests physical weakness and a lack of control over his circumstances at this moment, indicating low competence in terms of physical or situational control.",
+      "rating": -2,
+      "chunk": 86
     }
   ]
 }

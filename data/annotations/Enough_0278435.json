@@ -1,1266 +1,2741 @@
 {
-  "Slim Hiller ": [
-    {
-      "Action": "Greets customers warmly, uses friendly casual language, wishes them well.",
-      "Warmth": 1,
-      "Chunk": 1
-    },
-    {
-      "Action": "Responds to a come-on with a good-humored rejection and a playful eye roll.",
-      "Warmth": 1,
-      "Chunk": 1
-    },
-    {
-      "Action": "Speaks with moments of embarrassment when correcting a time-of-day greeting.",
-      "Warmth": 1,
-      "Chunk": 1
-    },
-    {
-      "Action": "Jokes with Ginny about sweating, showing casual friendliness and humor.",
-      "Warmth": 1,
-      "Chunk": 3
-    },
-    {
-      "Action": "Notices Ginny's discomfort but continues playful teasing.",
-      "Warmth": 0,
-      "Chunk": 3
-    },
-    {
-      "Action": "Engages politely with customer, offers menu and drink, shows attentiveness.",
-      "Warmth": 1,
-      "Chunk": 3
-    },
-    {
-      "Action": "Refuses to share real name with customer without rudeness or hostility.",
-      "Warmth": 0,
-      "Chunk": 3
-    },
-    {
-      "Action": "Responds to the Hero's question politely and shares his reading choice sincerely.",
-      "Warmth": 1,
-      "Chunk": 4
-    },
-    {
-      "Action": "Calls the Hero an 'asshole' after the interaction.",
-      "Warmth": -1,
-      "Chunk": 4
-    },
-    {
-      "Action": "Joins in the playful banter with Ginny, showing a friendly rapport.",
-      "Warmth": 1,
-      "Chunk": 4
-    },
-    {
-      "Action": "Nods soberly, acknowledges personal flaws with humor ('my personality bites').",
-      "Warmth": 1,
-      "Chunk": 5
-    },
-    {
-      "Action": "Writes a check for a customer and carries food to the table.",
-      "Warmth": 1,
-      "Chunk": 5
-    },
-    {
-      "Action": "Engages in friendly, casual conversation with Our Hero, including small teasing ('You don't really write books, do you?').",
-      "Warmth": 1,
-      "Chunk": 5
-    },
-    {
-      "Action": "Frowns and steps closer to overhear a potentially harmful, private conversation implying a bet about her, indicating awareness and concern.",
-      "Warmth": 1,
-      "Chunk": 5
-    },
-    {
-      "Action": "Shakes head, touched by Phil's money gift, hugs Phil, calls him best substitute Dad she could have.",
-      "Warmth": 1,
-      "Chunk": 9
-    },
-    {
-      "Action": "Crying and showing vulnerability after a miscarriage, expressing apology over the phone",
-      "Warmth": 1,
-      "Chunk": 11
-    },
-    {
-      "Action": "Drops a bottle of oil which then smashes on the floor, visibly upset, unable to complete a simple task calmly.",
-      "Competence": -1,
-      "Chunk": 11
-    },
-    {
-      "Action": "Immediately attempts to make a phone call to apologize and communicate despite emotional distress.",
-      "Competence": 1,
-      "Chunk": 11
-    },
-    {
-      "Action": "Loses the baby during delivery ('I lost this one too').",
-      "Competence": -1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Manages to maintain composure and adoringly watches the father and baby, indicating emotional steadiness.",
-      "Competence": 1,
-      "Chunk": 12
-    },
-    {
-      "Action": "Laughs together with Gracie, engaging warmly in their shared moment.",
-      "Warmth": 1,
-      "Chunk": 13
-    },
-    {
-      "Action": "Looks at Mitch with apparent acknowledgment of emotional distance but quickly returns attention to Gracie and the girls, excluding Mitch.",
-      "Warmth": -1,
-      "Chunk": 13
-    },
-    {
-      "Action": "Flirtatiously offers to join Mitch in the shower, showing openness and playful friendliness.",
-      "Warmth": 1,
-      "Chunk": 13
-    },
-    {
-      "Action": "Shows disappointment when Mitch declines her offer, indicating investment in connection.",
-      "Warmth": 1,
-      "Chunk": 13
-    },
-    {
-      "Action": "Confronts the woman on the phone, asks her name gently as a 'simple plea, one woman to another'",
-      "Warmth": 1,
-      "Chunk": 14
-    },
-    {
-      "Action": "Calls the woman a coward for hanging up, pushes for honesty aggressively",
-      "Warmth": -1,
-      "Chunk": 14
-    },
-    {
-      "Action": "Keeps silent and meek in response to Mitch's abuse and domination, showing restraint and avoidance of conflict.",
-      "Warmth": 1,
-      "Chunk": 17
-    },
-    {
-      "Action": "Internalizes frustration and does not retaliate or express anger outwardly during Mitch's violent and controlling behavior.",
-      "Warmth": 1,
-      "Chunk": 17
-    },
-    {
-      "Action": "Responds with a pointed, internal rejection of Mitch’s control ('Tomorrow will be great. (Without you.)'), indicating emotional withdrawal but not aggression.",
-      "Warmth": 0,
-      "Chunk": 17
-    },
-    {
-      "Action": "Gives a kiss on the head, does not show anger when confronted, calmly discusses a difficult situation, and tries to keep peace regarding his daughter Gracie.",
-      "Warmth": 1,
-      "Chunk": 18
-    },
-    {
-      "Action": "Watches coldly and is emotionally distant when Mitch expresses feelings and threats, does not respond to Mitch’s vulnerability.",
-      "Warmth": -1,
-      "Chunk": 18
-    },
-    {
-      "Action": "Starts to dial the phone slowly and deliberately, indicating careful thought before acting.",
-      "Competence": 1,
-      "Chunk": 18
-    },
-    {
-      "Action": "Answers Mitch calmly and directly about calling his mother and possible plans regarding Gracie.",
-      "Competence": 1,
-      "Chunk": 18
-    },
-    {
-      "Action": "Stares at Mitch after his threat but does not immediately react fearfully or irrationally, suggesting controlled composure.",
-      "Competence": 1,
-      "Chunk": 18
-    },
-    {
-      "Action": "Responds with defiant whistling after Mitch leaves, which could imply emotional resistance but also potential recklessness or provocation.",
-      "Competence": 0,
-      "Chunk": 18
-    },
-    {
-      "Action": "Sits paralyzed, unable to open the door, showing vulnerability and internal struggle.",
-      "Warmth": 1,
-      "Chunk": 19
-    },
-    {
-      "Action": "Does not respond or retaliate when Mrs. Tyler expresses concern and warmth after seeing her bruise, indicating possible withdrawal or inability to connect.",
-      "Warmth": 0,
-      "Chunk": 19
-    },
-    {
-      "Action": "Nods in acknowledgment that Mitch knows cops, quietly accepting dangerous situation.",
-      "Warmth": 0,
-      "Chunk": 20
-    },
-    {
-      "Action": "Shakes head, gives excuse about preschool pick-up to avoid leaving abusive partner immediately.",
-      "Warmth": -1,
-      "Chunk": 20
-    },
-    {
-      "Action": "Displays a slight frozen smile when talking to preschool director but does not reveal true feelings or seek help.",
-      "Warmth": 0,
-      "Chunk": 20
-    },
-    {
-      "Action": "Remains frozen with Gracie in hand, hesitating at the door despite rescuers waiting outside, showing cautiousness and perhaps fear.",
-      "Warmth": 0,
-      "Chunk": 23
-    },
-    {
-      "Action": "Hears the dove noise signal from the rescuers and starts to pull the door, indicating trust and willingness to be helped.",
-      "Warmth": 1,
-      "Chunk": 23
-    },
-    {
-      "Action": "Expresses concern for Ginny and Phil, urges them to leave immediately when sensing danger.",
-      "Warmth": 1,
-      "Chunk": 31
-    },
-    {
-      "Action": "Observes the Truck pulling out and blocking traffic to prevent pursuit; attempts to engage the Driver by looking into his eyes and asking where they are going.",
-      "Competence": 1,
-      "Chunk": 34
-    },
-    {
-      "Action": "Accepts assistance from Phil and the others, but expresses concern about the money and the situation, showing some hesitation.",
-      "Competence": 0,
-      "Chunk": 34
-    },
-    {
-      "Action": "Nods and shows gratitude after receiving the envelope of money despite misgivings, indicating reliance on others and some passivity.",
-      "Competence": 0,
-      "Chunk": 34
-    },
-    {
-      "Action": "Expresses reluctance to kill or harm anyone even in self-defense, showing a conscientious attitude.",
-      "Warmth": 1,
-      "Chunk": 35
-    },
-    {
-      "Action": "Nods thoughtfully when considering difficult options, indicating openness but not fully embracing aggressive solutions.",
-      "Warmth": 0,
-      "Chunk": 35
-    },
-    {
-      "Action": "Desperately seeks help and offers all her money to get someone to listen to her plight.",
-      "Warmth": 1,
-      "Chunk": 57
-    },
-    {
-      "Action": "Surprises Ginny at the airport to ensure she is not followed, showing concern for her safety.",
-      "Warmth": 1,
-      "Chunk": 59
-    },
-    {
-      "Action": "Offers Ginny a credit card and cash without hesitation, supporting her financially and trusting her to avoid contacting people who might cause trouble.",
-      "Warmth": 1,
-      "Chunk": 59
-    },
-    {
-      "Action": "Interacts warmly with Gracie, allowing the child to stay close and use a nickname, showing friendliness and affection.",
-      "Warmth": 1,
-      "Chunk": 59
-    },
-    {
-      "Action": "Recognizes that opponent is much stronger but insists confidently that 'No way' he can hit her.",
-      "Competence": 1,
-      "Chunk": 61
-    },
-    {
-      "Action": "Explains intelligently that it takes twice as much energy to swing and miss as to swing and hit.",
-      "Competence": 1,
-      "Chunk": 61
-    },
-    {
-      "Action": "Dismisses possibility of being hit when distracted, saying 'That's not possible.'",
-      "Competence": -1,
-      "Chunk": 61
-    },
-    {
-      "Action": "Smiles slightly to herself when noticing she is being followed, indicating calmness and confidence rather than fear.",
-      "Warmth": 0,
-      "Chunk": 65
-    },
-    {
-      "Action": "Arranges for Tova to impersonate her for safety, showing trust and collaboration with Tova.",
-      "Warmth": 1,
-      "Chunk": 65
-    },
-    {
-      "Action": "Plans a phone call to her dad via Tova, showing consideration for keeping family informed and involved.",
-      "Warmth": 1,
-      "Chunk": 65
-    },
-    {
-      "Action": "Speaks in a low, cautious voice and deceives others about her location and condition for protection purposes.",
-      "Warmth": 0,
-      "Chunk": 65
-    },
-    {
-      "Action": "Listens quietly from the rafters to Mitch's story about his missing daughter and tense situation.",
-      "Warmth": 0,
-      "Chunk": 68
-    },
-    {
-      "Action": "Turns off the still-running Mr. Coffee machine in Mitch’s kitchen, showing consideration.",
-      "Warmth": 1,
-      "Chunk": 68
-    },
-    {
-      "Action": "Hides silently to avoid detection when Mitch arrives home, indicating secretive or cautious behavior but no hostile intent.",
-      "Warmth": 0,
-      "Chunk": 68
-    },
-    {
-      "Action": "Calls Ginny and asks her to repeat a supportive statement about protecting one's life and offspring.",
-      "Warmth": 1,
-      "Chunk": 71
-    },
-    {
-      "Action": "Says nothing initially when Ginny calls, indicating reserved or withdrawn behavior.",
-      "Warmth": 0,
-      "Chunk": 71
-    },
-    {
-      "Action": "Calls 911 repeatedly when unable to find help, showing concern for safety.",
-      "Warmth": 1,
-      "Chunk": 72
-    },
-    {
-      "Action": "Tosses papers onto the floor in frustration, fails to maintain calm.",
-      "Warmth": -1,
-      "Chunk": 72
-    },
-    {
-      "Action": "Challenges Mitch to face the threat honestly without running, encourages courage.",
-      "Warmth": 1,
-      "Chunk": 72
-    },
-    {
-      "Action": "Dismisses Mitch's doubt about being alone, shows blunt and terse communication.",
-      "Warmth": 0,
-      "Chunk": 72
-    },
-    {
-      "Action": "Fails to find the gun quietly, gives up trying to be quiet, tosses papers onto the floor.",
-      "Competence": -1,
-      "Chunk": 72
-    },
-    {
-      "Action": "Attempts to call 911 on his cell phone multiple times despite interference, realizes the phone is jammed.",
-      "Competence": 1,
-      "Chunk": 72
-    },
-    {
-      "Action": "Throws the cell phone onto the bed out of frustration and tries to assess his environment calmly.",
-      "Competence": 0,
-      "Chunk": 72
-    },
-    {
-      "Action": "Stops and hesitates, not knowing where to go or what to do next.",
-      "Competence": -1,
-      "Chunk": 72
-    },
-    {
-      "Action": "Maintains composure in a tense situation and speaks calmly to Mitch, trying to provoke a decision.",
-      "Competence": 1,
-      "Chunk": 72
-    },
-    {
-      "Action": "Attempts to fight using a lamp as a weapon, shows physical aggression during conflict.",
-      "Warmth": -1,
-      "Chunk": 76
-    },
-    {
-      "Action": "Expresses pain after hitting the wall but continues engagement, showing resilience rather than warmth.",
-      "Warmth": 0,
-      "Chunk": 76
-    },
-    {
-      "Action": "Wields a lamp as a weapon and attempts to use martial-arts tactics.",
-      "Competence": 0,
-      "Chunk": 76
-    },
-    {
-      "Action": "Misses three attacks in a row and injures his own hand by smashing the lamp against the wall.",
-      "Competence": -1,
-      "Chunk": 76
-    },
-    {
-      "Action": "Is overpowered and knocked unconscious after a series of failed attacks.",
-      "Competence": -1,
-      "Chunk": 76
-    },
-    {
-      "Action": "Turns away, tears in her eyes, unable to kill Mitch despite violence suffered.",
-      "Warmth": 1,
-      "Chunk": 77
-    },
-    {
-      "Action": "Confesses her limits and moral stance over the phone to Ginny, showing sincerity.",
-      "Warmth": 1,
-      "Chunk": 77
-    },
-    {
-      "Action": "Does not retaliate with lethal violence against Mitch, even when attacked.",
-      "Warmth": 1,
-      "Chunk": 77
-    },
-    {
-      "Action": "Defends herself from Mitch's attack decisively and effectively, showing strength and self-protection.",
-      "Warmth": 0,
-      "Chunk": 78
-    },
-    {
-      "Action": "Executes a perfectly timed and skillful uppercut that decisively incapacitates her attacker.",
-      "Competence": 1,
-      "Chunk": 78
-    },
-    {
-      "Action": "Remains calm and alert under extreme physical threat, showing readiness and control.",
-      "Competence": 1,
-      "Chunk": 78
-    },
-    {
-      "Action": "Waits patiently as Joe hugs Gracie first, then shares a kiss with Joe that is casual yet affectionate.",
-      "Warmth": 1,
-      "Chunk": 80
-    },
-    {
-      "Action": "Tells Jupiter to 'be nice' to Gracie, expressing concern for the child's well-being.",
-      "Warmth": 1,
-      "Chunk": 80
-    },
-    {
-      "Action": "Waits patiently for Joe to pick up Gracie and lingers without showing frustration.",
-      "Competence": 1,
-      "Chunk": 80
-    },
-    {
-      "Action": "Responds to Joe's teasing with a quick, socially adept kiss that fits the situation.",
-      "Competence": 1,
-      "Chunk": 80
-    },
-    {
-      "Action": "Instructs Jupiter to be nice to Gracie, showing assertiveness and clear communication.",
-      "Competence": 1,
-      "Chunk": 80
-    }
-  ],
   "Slim Hiller": [
     {
-      "Action": "Moves quickly and with almost athletic grace while working as a waitress, showing smartness and good attitude",
-      "Competence": 1,
-      "Chunk": 1
+      "trait": "warmth",
+      "action": "Greets customers warmly with phrases like 'Hi, can I help you?', 'Want a menu?', and 'Have a good one.'",
+      "assessment": "Slim's friendly and polite greetings show a good-natured and sincere attitude toward others, indicating warmth.",
+      "rating": 3,
+      "chunk": 1
     },
     {
-      "Action": "Embarrassed moment when she greets someone at the wrong time of day (says morning instead of afternoon)",
-      "Competence": 0,
-      "Chunk": 1
+      "trait": "warmth",
+      "action": "Responds good-humoredly to a come-on with a playful 'Nice try, bud -'",
+      "assessment": "Her lighthearted and good-humored rejection suggests tolerance and friendliness rather than rudeness.",
+      "rating": 2,
+      "chunk": 1
     },
     {
-      "Action": "Engages in friendly banter with Ginny, shows self-awareness about returning to school and contributing to society.",
-      "Competence": 1,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Carries lunch food while serving customers, showing she is busy and multitasking.",
+      "assessment": "Her ability to manage multiple tasks efficiently while maintaining a positive attitude reflects responsibility and a sincere work ethic, indirectly supporting warmth.",
+      "rating": 1,
+      "chunk": 1
     },
     {
-      "Action": "Admits uncertainty about what to do next (career/education plans).",
-      "Competence": -1,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Notices Ginny has a wet spot under her arm and jokingly suggests she try a deodorant called 'the rock'.",
+      "assessment": "Although the comment is teasing, it is delivered in a lighthearted, familiar manner that suggests camaraderie rather than malice.",
+      "rating": 1,
+      "chunk": 3
     },
     {
-      "Action": "Efficiently works through a busy lunch rush without stopping, coordinating with coworkers to handle tasks.",
-      "Competence": 1,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "Carries dirty dishes with Ginny and helps pile them up for the busboy, working hard during a busy lunch rush.",
+      "assessment": "Sharing the workload and cooperating during a stressful time shows a sense of responsibility and teamwork, which are positive social traits.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Uses light humor and informal language with Ginny to ease tension and keep morale high.",
-      "Competence": 1,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "Approaches a new customer with a polite greeting and offers a menu and drink options.",
+      "assessment": "Slim is friendly and attentive to customers, demonstrating professionalism and a welcoming attitude.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Maintains composure and professionalism when serving a customer, engaging politely despite personal discomfort.",
-      "Competence": 1,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "Refuses to tell her real name when asked by the customer.",
+      "assessment": "This refusal may indicate a guarded or distant nature, potentially limiting trust and openness, which detracts from warmth.",
+      "rating": -1,
+      "chunk": 3
     },
     {
-      "Action": "Refuses to reveal her real name when asked by a customer, showing cautiousness or reluctance.",
-      "Competence": 0,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "Responds to the customer's question about her name with a firm 'No' and does not elaborate.",
+      "assessment": "The curt response could be perceived as unfriendly or evasive, reducing the impression of sincerity and approachability.",
+      "rating": -1,
+      "chunk": 3
     },
     {
-      "Action": "Claims to be reading Finneaan's Wake, known as the hardest book in the English language, and admits he has been working on it for six years.",
-      "Competence": 1,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "Works non-stop for two hours during the lunch rush, carrying dirty dishes and helping the busboy.",
+      "assessment": "This shows Slim's strong work ethic and ability to maintain stamina and focus during busy periods, indicating practical competence in a demanding environment.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Responds to OUR HERO's attempt to gauge his intelligence with a sarcastic remark calling him an 'asshole'.",
-      "Competence": 0,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "Notices a wet spot under Ginny's arm and tactfully brings up deodorant in a joking manner.",
+      "assessment": "This demonstrates social awareness and a subtle way of addressing a potentially awkward issue, reflecting emotional intelligence and interpersonal skill.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Misreads social cues about OUR HERO's interest and Ginny's advice about relationships.",
-      "Competence": -1,
-      "Chunk": 4
+      "trait": "competence",
+      "action": "Approaches a new customer confidently, initiates conversation, and offers menu and drink options.",
+      "assessment": "This indicates good customer service skills and confidence in social interactions, important for his role.",
+      "rating": 2,
+      "chunk": 3
     },
     {
-      "Action": "Writes up a check for a customer efficiently and carries the food to the table, maintaining polite interaction.",
-      "Competence": 1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Refuses to give his real name when asked by the customer.",
+      "assessment": "This could suggest a guarded or secretive nature, which might be a protective or strategic choice, but also may hinder trust-building; competence here is ambiguous but leans toward cautiousness.",
+      "rating": 0,
+      "chunk": 3
     },
     {
-      "Action": "Questions Our Hero with casual, straightforward dialogue showing social awareness and engagement.",
-      "Competence": 1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Responds with a simple 'Oh....' when the customer says he writes books.",
+      "assessment": "This brief and non-engaging response might indicate a missed opportunity to connect or show interest, suggesting a slight lack of social finesse or curiosity.",
+      "rating": -1,
+      "chunk": 3
     },
     {
-      "Action": "Frowns and steps closer to overhear a suspicious exchange, exhibiting alertness and initiative.",
-      "Competence": 1,
-      "Chunk": 5
+      "trait": "warmth",
+      "action": "Responds to Our Hero's question about reading with a half-nod, half-shrug and minimal engagement.",
+      "assessment": "Slim's minimal and somewhat indifferent response suggests a reserved or distant demeanor, indicating low warmth in this interaction.",
+      "rating": -1,
+      "chunk": 4
     },
     {
-      "Action": "Responds briefly to Mitch with 'What're you -' showing slight confusion or hesitation in a tense moment.",
-      "Competence": 0,
-      "Chunk": 5
+      "trait": "warmth",
+      "action": "Mentions reading Finneaan's Wake by James Joyce and explains his motivation to Our Hero.",
+      "assessment": "Sharing a personal intellectual pursuit can be seen as an attempt to connect, but the tone is somewhat defensive and not particularly inviting, showing mild warmth.",
+      "rating": 1,
+      "chunk": 4
     },
     {
-      "Action": "Thanks Mitch for speaking up and expresses gratitude for his intervention.",
-      "Warmth": 1,
-      "Chunk": 6
+      "trait": "warmth",
+      "action": "Calls Our Hero an 'asshole' after the conversation.",
+      "assessment": "Using a derogatory term reflects impatience or hostility, which is a negative indicator of warmth.",
+      "rating": -2,
+      "chunk": 4
     },
     {
-      "Action": "Initiates or is connected to a bet about 'getting in someone's pants,' treating a person as a wagerable object.",
-      "Warmth": -1,
-      "Chunk": 6
+      "trait": "warmth",
+      "action": "Dismisses Our Hero's interest in her by calling him a 'dick' and denying any liking.",
+      "assessment": "Slim's blunt dismissal and use of harsh language show defensiveness and a lack of openness, indicating low warmth.",
+      "rating": -2,
+      "chunk": 4
     },
     {
-      "Action": "Appears shaken and tearful after confrontation, showing vulnerability and emotional response.",
-      "Warmth": 1,
-      "Chunk": 6
+      "trait": "warmth",
+      "action": "Engages in banter with Ginny about Our Hero's attractiveness and intentions.",
+      "assessment": "The playful exchange with Ginny shows some friendly and sincere interaction, suggesting moderate warmth in private conversations.",
+      "rating": 2,
+      "chunk": 4
     },
     {
-      "Action": "Asks calmly and clearly about the bet amount, maintaining composure in a tense situation.",
-      "Competence": 1,
-      "Chunk": 6
+      "trait": "competence",
+      "action": "Claims to be reading Finneaan's Wake by James Joyce, described as the hardest book in the English language, and has been reading it for six years.",
+      "assessment": "This suggests intellectual ambition and persistence, indicating a degree of intellectual competence and dedication to challenging goals.",
+      "rating": 2,
+      "chunk": 4
     },
     {
-      "Action": "Shows visible emotional vulnerability (shaken, tears in eyes) after the confrontation, indicating difficulty coping with the situation.",
-      "Competence": -1,
-      "Chunk": 6
+      "trait": "competence",
+      "action": "Responds to the other character's inquiry about his reading by stating the difficulty of the book and his goal to get through it.",
+      "assessment": "Shows confidence and a thoughtful approach to self-improvement, reflecting intellectual competence and self-awareness.",
+      "rating": 2,
+      "chunk": 4
     },
     {
-      "Action": "Expresses genuine gratitude towards Mitch for intervening, showing social awareness and acknowledgement.",
-      "Competence": 1,
-      "Chunk": 6
+      "trait": "competence",
+      "action": "Calls the other character an 'asshole' under his breath after the conversation.",
+      "assessment": "This shows a lack of social tact and emotional control, which may undermine interpersonal competence.",
+      "rating": -1,
+      "chunk": 4
     },
     {
-      "Action": "Responds promptly and confidently to Mitch's romantic advance (says 'Oh yeah' to having babies).",
-      "Competence": 1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Fails to recognize or accept that the other character likes him despite clear signs and advice from Ginny.",
+      "assessment": "This indicates a lack of social perceptiveness and self-confidence, suggesting a gap in social competence.",
+      "rating": -1,
+      "chunk": 4
     },
     {
-      "Action": "Eagerly asks 'How soon can we get out of here?' showing decisiveness and desire for change.",
-      "Competence": 1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Engages in banter with Ginny about attractiveness and social dynamics.",
+      "assessment": "Demonstrates some social engagement and humor, which can be a sign of social competence, though it is somewhat defensive.",
+      "rating": 1,
+      "chunk": 4
     },
     {
-      "Action": "Carries emotional weight by being presented as Mitch's wife in a confident romantic scenario.",
-      "Competence": 1,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Nods soberly and admits 'my personality bites' after being told no one will go for her because of her looks.",
+      "assessment": "Slim shows a degree of self-awareness and honesty about her own personality, which can be seen as sincere and grounded rather than defensive or hostile.",
+      "rating": 1,
+      "chunk": 5
     },
     {
-      "Action": "Is mostly passive or silent during negotiation with home owner; Mitch leads interactions.",
-      "Competence": 0,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Carries the turkey burger to the table and engages in light, friendly banter with Our Hero about books and career plans.",
+      "assessment": "Her casual, somewhat playful conversation and attentiveness in serving food indicate a friendly and approachable demeanor.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Lies in bed in labor, allows Mitch to hold the baby first and seems content watching him, shows adoring look at father and daughter moment.",
-      "Warmth": 1,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Asks 'Who's the rose for?' and wishes Our Hero to 'Enjoy your grub' before leaving.",
+      "assessment": "These small, polite interactions show basic friendliness and consideration for others' feelings.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Looks cautiously at Mitch after he dismissively turns off his phone and avoids looking at her, indicating possible emotional distance or mistrust.",
-      "Warmth": -1,
-      "Chunk": 12
+      "trait": "warmth",
+      "action": "Frowns and steps closer to overhear Mitch's intrusive question about a bet involving Our Hero.",
+      "assessment": "Slim's reaction to Mitch's inappropriate behavior suggests protectiveness and concern, indicating a trustworthy and possibly tolerant nature toward her friend.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Plays and laughs warmly with her daughter Gracie, sharing joy and connection.",
-      "Warmth": 1,
-      "Chunk": 12
+      "trait": "competence",
+      "action": "Nods soberly when told his personality 'bites' and accepts the criticism without defensiveness.",
+      "assessment": "This shows a level of self-awareness and emotional maturity, indicating competence in handling social feedback.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Maintains a playful, flirtatious interaction with Mitch, navigating social cues smoothly.",
-      "Competence": 1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Writes up a check for a customer efficiently and serves food promptly.",
+      "assessment": "Demonstrates basic job competence and responsibility in a service role, indicating reliability and skill in routine tasks.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Accepts Mitch's need to leave without complaint, showing emotional control.",
-      "Competence": 1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Engages in light, witty banter about literature and career plans with Our Hero.",
+      "assessment": "Shows social intelligence and conversational skill, suggesting mental agility and confidence.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Does not intervene or assert herself more strongly when Mitch is distant or disengaged.",
-      "Competence": 0,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Frowns and steps closer to overhear a suspicious conversation between Mitch and Our Hero.",
+      "assessment": "Indicates alertness and situational awareness, a sign of competence in reading social cues and potential threats.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Engages positively with Gracie and creates a lively atmosphere, keeping the child's spirits up.",
-      "Competence": 1,
-      "Chunk": 13
+      "trait": "competence",
+      "action": "Challenges Mitch with a direct question 'What're you -' when overhearing the bet about Our Hero.",
+      "assessment": "Shows assertiveness and willingness to confront potentially problematic situations, reflecting confidence and capability.",
+      "rating": 2,
+      "chunk": 5
     },
     {
-      "Action": "Recognizes the pager code 33 as meaningful and takes the initiative to use Mitch's cell phone to recall the page, successfully reaching out and engaging the woman on the other end to glean information.",
-      "Competence": 1,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "Leans against the counter, shaken and with tears in her eyes after the confrontation, and thanks Mitch for intervening on her behalf.",
+      "assessment": "Slim's emotional reaction and gratitude toward Mitch show vulnerability and sincere appreciation, indicating warmth and trust.",
+      "rating": 3,
+      "chunk": 6
     },
     {
-      "Action": "Persists with questioning the woman, demanding her name and chastising her for cowardice, showing confident confrontation skills.",
-      "Competence": 1,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "Asks calmly about the bet amount, wanting to know what she is 'worth'.",
+      "assessment": "Though the question is about a bet on her, Slim's calm demeanor suggests a composed and straightforward nature rather than hostility, showing a degree of self-respect and openness.",
+      "rating": 1,
+      "chunk": 6
     },
     {
-      "Action": "After the call ends, Slim reacts slowly and seems almost detached or shocked, staring at the phone and the room, indicating some internal confusion or emotional overwhelm.",
-      "Competence": 0,
-      "Chunk": 14
+      "trait": "warmth",
+      "action": "Does not escalate the conflict between Our Hero and Mitch, allowing Mitch to handle the situation and expressing gratitude afterward.",
+      "assessment": "Slim's choice to not inflame the situation and to appreciate Mitch's protective actions reflects a tolerant and trusting attitude.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Sits down silently, holding a toy connected to Mitch, showing vulnerability and pain.",
-      "Warmth": 1,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Asks calmly and directly about the bet amount, showing composure in a tense situation.",
+      "assessment": "This indicates Slim's ability to remain calm and focused under pressure, a sign of emotional and social competence.",
+      "rating": 2,
+      "chunk": 6
     },
     {
-      "Action": "Asks Mitch to sit with her, seeking connection and support.",
-      "Warmth": 1,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Leans against the counter, shaken and with tears in his eyes after the confrontation.",
+      "assessment": "This suggests a moment of emotional vulnerability and possible difficulty managing stress, which may reflect a lapse in emotional resilience.",
+      "rating": -1,
+      "chunk": 6
     },
     {
-      "Action": "Expresses fear of losing happiness and life stability, showing emotional sincerity.",
-      "Warmth": 1,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Expresses genuine gratitude to Mitch for intervening on his behalf.",
+      "assessment": "Shows social awareness and humility, recognizing when help is needed and appreciating it, which is a positive interpersonal skill.",
+      "rating": 1,
+      "chunk": 6
     },
     {
-      "Action": "Confronts Mitch about his infidelity involving Gracie, displaying hurt but direct communication.",
-      "Warmth": 1,
-      "Chunk": 15
+      "trait": "competence",
+      "action": "Does not physically intervene or escalate the conflict between Our Hero and Mitch, remaining passive.",
+      "assessment": "This omission could indicate a lack of assertiveness or confidence in handling confrontations directly, suggesting a moderate deficiency in personal agency.",
+      "rating": -1,
+      "chunk": 6
     },
     {
-      "Action": "Slumps to the floor, sits, frozen and silent, unable to articulate her feelings or take action in a crisis moment.",
-      "Competence": -1,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Hugs Phil and thanks him sincerely for giving her away at the wedding, calling him the best substitute dad she could have.",
+      "assessment": "This shows Slim's ability to express gratitude and affection openly, indicating warmth and appreciation for meaningful relationships.",
+      "rating": 3,
+      "chunk": 9
     },
     {
-      "Action": "Attempts to engage Mitch in conversation about the situation and her feelings, showing some initiative to seek clarity and support.",
-      "Competence": 0,
-      "Chunk": 15
+      "trait": "warmth",
+      "action": "Shakes her head when Phil offers money to Mitch, touched by the gesture.",
+      "assessment": "Slim's reaction shows sensitivity and respect for others' kindness, reflecting a warm and sincere nature.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Expresses intense sadness and outrage over Mitch's infidelity, tries to confront him emotionally, says 'I love you' and demands change.",
-      "Warmth": 1,
-      "Chunk": 16
+      "trait": "warmth",
+      "action": "Happily putting away groceries and whistling to herself in a simple, casual, friendly home environment.",
+      "assessment": "This behavior suggests a content, peaceful, and approachable demeanor, indicating a warm and good-natured side.",
+      "rating": 2,
+      "chunk": 11
     },
     {
-      "Action": "Though confronted with Mitch's violence and intimidation, maintains emotional honesty and does not retaliate physically, indicating vulnerability and sincerity.",
-      "Warmth": 1,
-      "Chunk": 16
+      "trait": "warmth",
+      "action": "After miscarrying, she cries and apologizes through the phone, asking to convey her sorrow.",
+      "assessment": "Her emotional vulnerability and sincere apology show sincerity and a capacity for emotional openness, which are positive indicators of warmth.",
+      "rating": 3,
+      "chunk": 11
     },
     {
-      "Action": "Remains mostly silent and meek in response to Mitch's aggression and verbal dominance, showing no overt resistance or strategic response.",
-      "Competence": -1,
-      "Chunk": 17
+      "trait": "competence",
+      "action": "While putting away groceries, Slim accidentally drops a bottle of oil which shatters on the floor, then she becomes visibly upset and cries.",
+      "assessment": "This moment shows a lapse in focus or coordination, possibly due to emotional distress, indicating a temporary reduction in competence.",
+      "rating": -1,
+      "chunk": 11
     },
     {
-      "Action": "Subtly implies a threat of leaving ('Tomorrow will be great. Without you.'), showing passive resistance and some cleverness despite oppressive circumstances.",
-      "Competence": 1,
-      "Chunk": 17
+      "trait": "competence",
+      "action": "After the miscarriage, Slim immediately tries to communicate by calling and asking to speak to someone, apologizing and showing emotional vulnerability.",
+      "assessment": "This action demonstrates emotional awareness and a willingness to take responsibility, but also reveals vulnerability and a lack of composed problem-solving in a crisis.",
+      "rating": 0,
+      "chunk": 11
     },
     {
-      "Action": "Fails to directly confront or challenge Mitch’s physical and verbal control, appearing to accept the situation outwardly.",
-      "Competence": -1,
-      "Chunk": 17
+      "trait": "warmth",
+      "action": "Lies in hospital bed after childbirth, looks adoringly at Mitch and their baby, sharing a tender family moment.",
+      "assessment": "Slim's adoring gaze and shared intimate moment with Mitch and their newborn reflect genuine affection and warmth.",
+      "rating": 3,
+      "chunk": 12
     },
     {
-      "Action": "Nods knowingly when Ginny says Mitch knows every cop in the city.",
-      "Competence": 1,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Plays and laughs with her 4-year-old daughter Gracie on a hillside, engaging in joyful interaction.",
+      "assessment": "Playing and laughing with her child demonstrates Slim's affectionate, nurturing, and warm nature.",
+      "rating": 3,
+      "chunk": 12
     },
     {
-      "Action": "Shakes head and says she has to pick up Gracie at preschool instead of leaving Mitch immediately as suggested.",
-      "Competence": -1,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Responds cautiously to Mitch's distracted behavior when his phone rings repeatedly during their bonding time with the baby.",
+      "assessment": "Slim's cautious nod and questioning of Mitch's distraction suggest sensitivity and a desire for sincere connection, indicating warmth but also some emotional reservation.",
+      "rating": 1,
+      "chunk": 12
     },
     {
-      "Action": "Waits in the preschool pick-up line while Gracie is actually with her husband, not showing immediate awareness or control over the situation.",
-      "Competence": -1,
-      "Chunk": 20
+      "trait": "warmth",
+      "action": "Tells Mitch 'I lost this one too' after seeing the doctor, implying a shared disappointment or loss.",
+      "assessment": "Sharing a vulnerable moment with Mitch shows openness and trust, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Maintains a frozen slight smile with feigned casualness when confronted with the reality that Mitch has Gracie, masking her inner tension.",
-      "Competence": 0,
-      "Chunk": 20
+      "trait": "competence",
+      "action": "Lies in bed pale and sweating during labor, showing physical vulnerability but enduring the process.",
+      "assessment": "While this shows physical vulnerability, it is a natural human response and does not reflect on competence in a broader sense.",
+      "rating": 0,
+      "chunk": 12
     },
     {
-      "Action": "Uses the cell phone efficiently to make quick calls and reconnect immediately after hanging up, indicating decisiveness and control in communication.",
-      "Competence": 1,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Nods to allow Mitch to hold the baby, showing trust and cooperation.",
+      "assessment": "This indicates emotional intelligence and the ability to share important moments, reflecting interpersonal competence.",
+      "rating": 1,
+      "chunk": 12
     },
     {
-      "Action": "Shrugs off Mitch's nervousness and challenges him to educate her about how bad things can get, showing confidence and willingness to engage intellectually.",
-      "Competence": 1,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Looks at Mitch as he ignores a ringing phone and does not explain who is calling.",
+      "assessment": "Slim notices Mitch's distracted behavior and questions it, showing awareness and attentiveness, which are signs of competence.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Allows Mitch to make a serious ultimatum in front of their child without visibly intervening or reacting strongly, which might show reluctance to handle the emotional situation directly.",
-      "Competence": -1,
-      "Chunk": 21
+      "trait": "competence",
+      "action": "Nods cautiously when Mitch praises the baby.",
+      "assessment": "Her cautious nod suggests some reservation or emotional complexity, possibly indicating a thoughtful and measured response rather than blind enthusiasm, which can be a sign of emotional competence.",
+      "rating": 1,
+      "chunk": 12
     },
     {
-      "Action": "Willing to give Gracie the benefit of the doubt despite uncertainty.",
-      "Warmth": 1,
-      "Chunk": 22
+      "trait": "competence",
+      "action": "Plays and laughs with her daughter Gracie, engaging warmly and positively.",
+      "assessment": "This demonstrates her ability to connect and nurture, reflecting social and emotional competence.",
+      "rating": 2,
+      "chunk": 12
     },
     {
-      "Action": "Quietly and carefully carries Gracie out of the house at night to protect her from Mitch's potential violence.",
-      "Warmth": 1,
-      "Chunk": 22
+      "trait": "warmth",
+      "action": "Keeps laughing with Gracie, sharing a private moment of joy between mother and child.",
+      "assessment": "Slim's laughter and engagement with Gracie show a warm, affectionate connection, indicating good-natured and friendly behavior.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Remains frozen with hand on door knob, listening carefully, responding only when certain signal is heard.",
-      "Competence": 1,
-      "Chunk": 23
+      "trait": "warmth",
+      "action": "Flirtatiously offers to join Mitch in the shower to wake him up.",
+      "assessment": "This playful and intimate gesture suggests a friendly and sincere attempt to connect, reflecting warmth in her behavior.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Fails to attempt an immediate escape or call for help after hearing the rescuers' dove call outside and after being grabbed by Mitch.",
-      "Competence": -1,
-      "Chunk": 23
+      "trait": "warmth",
+      "action": "Shows disappointment when Mitch declines her offer to join him.",
+      "assessment": "Her disappointment reveals vulnerability and a desire for closeness, indicating sincerity and emotional openness.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Survives a violent encounter and remains alive despite being attacked and wounded.",
-      "Competence": 1,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Looks in on Gracie sleeping peacefully, finding consolation in the image.",
+      "assessment": "This act of quietly checking on Gracie demonstrates care and tenderness, reinforcing her warm and nurturing side.",
+      "rating": 3,
+      "chunk": 13
     },
     {
-      "Action": "Lies unconscious or incapacitated on the floor, unable to respond actively.",
-      "Competence": -1,
-      "Chunk": 24
+      "trait": "warmth",
+      "action": "Washes dishes alone, bored, humming to herself, surrounded by take-out containers.",
+      "assessment": "While this shows a degree of self-sufficiency, the lack of cooking or shared activity may suggest some emotional distance or neglect, a subtle negative indicator of warmth.",
+      "rating": -1,
+      "chunk": 13
     },
     {
-      "Action": "Softly expresses concern about humiliation and potential danger to herself, showing vulnerability and care.",
-      "Warmth": 1,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Engages in light, flirtatious banter with Mitch in the shower stall scene, showing social ease and confidence.",
+      "assessment": "This indicates Slim's ability to navigate social interactions smoothly and with a degree of charm, reflecting competent interpersonal skills.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Holds Gracie gently and rocks her comforting in the van and on the airplane, evoking a nurturing, Madonna and child image.",
-      "Warmth": 1,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Observes Mitch and Gracie's interaction quietly, acknowledging the emotional distance without intervening.",
+      "assessment": "This shows Slim's perceptiveness and emotional intelligence, recognizing social dynamics and tensions, which is a sign of competence.",
+      "rating": 2,
+      "chunk": 13
     },
     {
-      "Action": "Slim softly acknowledges the danger by saying 'This is no good' and warns others that Mitch will come after her and kill her.",
-      "Competence": 1,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Does not cook dinner, instead relies on take-out food.",
+      "assessment": "This could suggest a lack of initiative or practical competence in managing household responsibilities, a minor negative indicator.",
+      "rating": -1,
+      "chunk": 13
     },
     {
-      "Action": "Does not attempt to confront Mitch or devise a plan to counter him, instead passively allowing others to lead the group away.",
-      "Competence": -1,
-      "Chunk": 25
+      "trait": "competence",
+      "action": "Washes dishes while bored and humming, maintaining household chores despite low enthusiasm.",
+      "assessment": "Shows a basic level of responsibility and follow-through, indicating moderate competence in managing daily tasks.",
+      "rating": 1,
+      "chunk": 13
     },
     {
-      "Action": "Holds Gracie gently and calmly in the van and on the airplane, giving comfort and reassurance.",
-      "Competence": 1,
-      "Chunk": 25
+      "trait": "warmth",
+      "action": "Confronts the woman on the phone who paged her husband, pleading with her not to hang up and asking for her name.",
+      "assessment": "Slim's approach shows a vulnerable, sincere attempt to connect with another woman in a difficult situation, appealing to shared womanhood and seeking honesty rather than anger or aggression.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Hides quietly and watches the threatening situation unfold, restraining herself from impulsively intervening when Joe is threatened, showing self-control and awareness of dangers.",
-      "Competence": 1,
-      "Chunk": 28
+      "trait": "warmth",
+      "action": "After the call ends, Slim quietly reflects on the scene around her, noticing her child's toy on the floor and scanning the room as if seeing it anew.",
+      "assessment": "This moment of introspection suggests a tender, caring nature and a deep emotional sensitivity, indicating warmth beneath her distress.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Does not take overt action to help Joe when he is threatened with a knife, potentially risking his safety by inaction.",
-      "Competence": -1,
-      "Chunk": 28
+      "trait": "competence",
+      "action": "Recognizes the pager code '33' and correctly interprets it as a code, then uses Mitch's cell phone to recall the page.",
+      "assessment": "This shows Slim's resourcefulness and ability to understand and act on subtle clues, indicating a good level of situational awareness and technical competence.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Hugs Gracie and shows concern for Joe's wellbeing by asking if he is okay.",
-      "Warmth": 1,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Engages the woman on the other end of the call with a firm, direct approach, demanding her name and refusing to let her hang up.",
+      "assessment": "This demonstrates confidence, assertiveness, and emotional control in a tense situation, reflecting strong interpersonal and investigative skills.",
+      "rating": 2,
+      "chunk": 14
     },
     {
-      "Action": "Takes protective action by guiding Gracie into the next room during a tense phone call.",
-      "Warmth": 1,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "After the call ends, Slim reacts with a slow, almost stunned physical response, blinking and pressing OFF, then scanning the room as if seeing it anew.",
+      "assessment": "This moment suggests a temporary emotional or cognitive overload, possibly indicating a momentary lapse in composure or difficulty processing the situation fully.",
+      "rating": -1,
+      "chunk": 14
     },
     {
-      "Action": "Looks through the door back at Joe, showing concern and connection.",
-      "Warmth": 1,
-      "Chunk": 30
+      "trait": "warmth",
+      "action": "Reaches down to pick up Gracie's toy but instead slumps to the floor, sitting silently and staring.",
+      "assessment": "This moment shows vulnerability and emotional overwhelm rather than active warmth, but her attention to the child's toy indicates care and concern.",
+      "rating": 1,
+      "chunk": 15
     },
     {
-      "Action": "Hesitates and expresses feeling 'dangerous to know right now,' showing vulnerability.",
-      "Warmth": 1,
-      "Chunk": 30
+      "trait": "warmth",
+      "action": "Asks Mitch to sit with her and share the moment despite her pain.",
+      "assessment": "Inviting Mitch to sit with her shows a desire for connection and openness, reflecting trust and sincerity.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Makes phone calls to friends when prompted, indicating reliance and trust.",
-      "Warmth": 1,
-      "Chunk": 30
+      "trait": "warmth",
+      "action": "Expresses distress about Mitch's relationship with Darcelle and its impact on Gracie and their lives.",
+      "assessment": "Her concern for Gracie and the family’s wellbeing demonstrates protective and caring qualities, indicating warmth.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "Does not contradict Joe's support or dismiss his invitation, showing openness and trust.",
-      "Warmth": 1,
-      "Chunk": 30
+      "trait": "warmth",
+      "action": "Engages in a vulnerable conversation with Mitch, expressing her fears and hopes.",
+      "assessment": "Her willingness to be emotionally open and honest reflects sincerity and trustworthiness.",
+      "rating": 3,
+      "chunk": 15
     },
     {
-      "Action": "Listens on the phone patiently and attempts to contact friends despite repeated ringing and no immediate answer.",
-      "Competence": 1,
-      "Chunk": 30
+      "trait": "warmth",
+      "action": "Falls into an embrace with Mitch, showing mutual need and emotional support.",
+      "assessment": "The embrace signifies a deep emotional bond and warmth between them, highlighting her capacity for affection and connection.",
+      "rating": 3,
+      "chunk": 15
     },
     {
-      "Action": "Expresses hesitation and self-doubt by saying 'I shouldn't be here' and 'I'm dangerous to know right now.'",
-      "Competence": -1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Reaches down to pick up the toy but instead slumps to the floor and sits frozen, head bowed.",
+      "assessment": "This action suggests a moment of emotional overwhelm and inability to act decisively, indicating a lapse in mental or emotional competence in this situation.",
+      "rating": -2,
+      "chunk": 15
     },
     {
-      "Action": "Recognizes danger through intuition and urges immediate evacuation despite police presence.",
-      "Competence": 1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Holds Mitch's phone and the toy silently, then confronts Mitch about his actions and their impact on Gracie.",
+      "assessment": "Despite her emotional state, Slim attempts to address the situation directly and seeks clarity, showing some level of cognitive engagement and assertiveness.",
+      "rating": 1,
+      "chunk": 15
     },
     {
-      "Action": "Persistent in convincing others to leave the dangerous area, showing leadership and concern.",
-      "Competence": 1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Asks Mitch to sit with her and tries to communicate her feelings and fears about their lives being destroyed.",
+      "assessment": "This shows emotional intelligence and a desire to resolve conflict through communication, reflecting interpersonal competence.",
+      "rating": 2,
+      "chunk": 15
     },
     {
-      "Action": "No indication of hesitation or confusion, instead acts decisively in a crisis.",
-      "Competence": 1,
-      "Chunk": 31
+      "trait": "competence",
+      "action": "Expresses vulnerability and fear about losing her happiness and safety with Mitch.",
+      "assessment": "While this reveals emotional openness, it also indicates a dependence on Mitch for security, which may reflect a lack of self-reliance or confidence in managing the situation independently.",
+      "rating": 0,
+      "chunk": 15
     },
     {
-      "Action": "Calls for help and tries to reach someone despite the phone line going dead; looks concerned about the situation",
-      "Warmth": 1,
-      "Chunk": 32
+      "trait": "warmth",
+      "action": "Whispers 'I smell her' and asks Mitch how many women there have been, showing emotional pain and confusion.",
+      "assessment": "Slim's expression of hurt and desire for honesty reveals vulnerability and a sincere emotional connection, indicating warmth through openness and emotional sincerity.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Carrying Gracie and seeking help from Jupiter, showing care for her child and desperation",
-      "Warmth": 1,
-      "Chunk": 32
+      "trait": "warmth",
+      "action": "Screams at Mitch, 'I can't do this anymore! I love you and I'm your wife and you can't do this!'",
+      "assessment": "Though intense and confrontational, Slim's outburst stems from love and a plea for respect and fidelity, showing deep emotional investment and sincerity.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Confronts Jupiter about being her father and reveals her mother's death and lack of support",
-      "Warmth": 1,
-      "Chunk": 32
+      "trait": "warmth",
+      "action": "Does not retaliate physically when Mitch slaps her, instead touches her cheek in shock and confusion.",
+      "assessment": "Slim's restraint in the face of physical violence suggests tolerance and a non-aggressive nature, which can be seen as a positive indicator of warmth.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Accuses Jupiter of ignoring her and indirectly of complicity in her mother’s death",
-      "Warmth": 0,
-      "Chunk": 32
+      "trait": "warmth",
+      "action": "Calmly but firmly tells Mitch 'No. You can't' when he asks if he can hit her.",
+      "assessment": "Slim asserts boundaries with quiet strength and dignity, demonstrating self-respect and a sincere demand for respectful treatment, reflecting warmth through integrity.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Despite Jupiter's cold and perfunctory response, introduces her daughter to him",
-      "Warmth": 1,
-      "Chunk": 32
+      "trait": "competence",
+      "action": "Detects the scent of another woman’s perfume and immediately questions Mitch about infidelity.",
+      "assessment": "This shows Slim's perceptiveness and attentiveness to subtle details, indicating emotional intelligence and situational awareness.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Admits need for money honestly to Jupiter, showing vulnerability.",
-      "Warmth": 1,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "Confronts Mitch directly and emotionally about the affair, demanding honesty and expressing his pain and outrage.",
+      "assessment": "While emotionally charged, Slim demonstrates courage and assertiveness in addressing a difficult issue head-on, which reflects a degree of personal strength and confidence.",
+      "rating": 2,
+      "chunk": 16
     },
     {
-      "Action": "Cries quietly while comforting Gracie, showing emotional sincerity and care.",
-      "Warmth": 1,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "Screams and invades Mitch’s personal space, aggressively challenging his authority.",
+      "assessment": "This behavior, though understandable emotionally, may undermine Slim’s ability to maintain control and communicate effectively, suggesting a lapse in strategic competence.",
+      "rating": -1,
+      "chunk": 16
     },
     {
-      "Action": "Silent and stunned reaction upon receiving small amount of money, indicating possible respect or surprise.",
-      "Warmth": 0,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "Expresses vulnerability openly by admitting she can’t take the situation anymore and pleading for change.",
+      "assessment": "This honesty shows emotional authenticity but may also indicate a momentary loss of composure and resilience, which can be seen as a weakness in maintaining personal stability.",
+      "rating": 0,
+      "chunk": 16
     },
     {
-      "Action": "Negotiates with Jupiter for money and accepts the modest amount offered without argument.",
-      "Competence": 1,
-      "Chunk": 33
+      "trait": "competence",
+      "action": "Stands firm and calmly but firmly tells Mitch he cannot hit her after he slaps her.",
+      "assessment": "This response demonstrates clear boundary-setting and assertiveness in the face of physical abuse, reflecting strength and self-respect.",
+      "rating": 3,
+      "chunk": 16
     },
     {
-      "Action": "Stunned reaction to the money offered, showing surprise and perhaps lack of preparation for the meeting.",
-      "Competence": -1,
-      "Chunk": 33
+      "trait": "warmth",
+      "action": "Keeps silent and meekly responds to Mitch's abusive and controlling behavior without confrontation.",
+      "assessment": "Slim's silence and meekness in response to abuse suggest a lack of assertiveness and self-protection, which may reflect low warmth in terms of self-trust and openness, though it may also indicate fear or resignation rather than unkindness.",
+      "rating": -1,
+      "chunk": 17
     },
     {
-      "Action": "Stands behind the building in shadows, carrying Gracie and crying silently, showing emotional vulnerability but also protective behavior.",
-      "Competence": 0,
-      "Chunk": 33
+      "trait": "warmth",
+      "action": "Internally resolves that 'Tomorrow will be great. (Without you.)' but does not voice it.",
+      "assessment": "This internal rejection of Mitch's control shows Slim's desire for autonomy and possibly a better life, but her failure to express it openly limits warmth in interpersonal communication and sincerity.",
+      "rating": 0,
+      "chunk": 17
     },
     {
-      "Action": "Confused and cautious when approached suddenly by unknown men at the train station, questioning the situation.",
-      "Competence": 1,
-      "Chunk": 33
+      "trait": "warmth",
+      "action": "Does not retaliate or escalate conflict despite being physically abused and demeaned.",
+      "assessment": "While non-retaliation can be seen as tolerance or restraint, in this context it appears more as submission or fear, which does not strongly indicate warmth toward others.",
+      "rating": -1,
+      "chunk": 17
     },
     {
-      "Action": "Tries to reassure Gracie despite the tense situation.",
-      "Warmth": 1,
-      "Chunk": 34
+      "trait": "competence",
+      "action": "Keeps silent and meekly responds to Mitch's aggressive and controlling statements without confrontation.",
+      "assessment": "This suggests a lack of assertiveness and confidence in standing up for herself, indicating lower competence in managing the situation effectively.",
+      "rating": -2,
+      "chunk": 17
     },
     {
-      "Action": "Attempts to communicate and understand the situation by asking questions.",
-      "Warmth": 1,
-      "Chunk": 34
+      "trait": "competence",
+      "action": "Subtly implies her intention to leave Mitch by saying 'Tomorrow will be great. (Without you.)' without directly confronting him.",
+      "assessment": "This shows a degree of strategic thinking and emotional intelligence, using indirect communication to assert her position while avoiding immediate conflict.",
+      "rating": 1,
+      "chunk": 17
     },
     {
-      "Action": "Shows hesitation and concern when offered money, implying moral reservations.",
-      "Warmth": 1,
-      "Chunk": 34
+      "trait": "competence",
+      "action": "Does not physically or verbally resist Mitch's violence and control during the interaction.",
+      "assessment": "Her non-action here reflects either fear or resignation, which can be seen as a lack of immediate capability to change her circumstances, lowering perceived competence in this context.",
+      "rating": -2,
+      "chunk": 17
     },
     {
-      "Action": "Contacts Mrs. Tyler to check on legal matters, shows awareness of potential risks (phone call needs to be short to avoid being traced).",
-      "Competence": 1,
-      "Chunk": 40
+      "trait": "warmth",
+      "action": "Starts to dial the phone slowly and deliberately after Mitch leaves, indicating a desire to reach out or seek connection.",
+      "assessment": "This action suggests some internal conflict and a possible wish to communicate, which can be seen as a sign of vulnerability and openness.",
+      "rating": 1,
+      "chunk": 18
     },
     {
-      "Action": "\"Erin\" (Slim) manages the phone call efficiently and ensures secrecy by cutting the call quickly when needed.",
-      "Competence": 1,
-      "Chunk": 40
+      "trait": "warmth",
+      "action": "Opens the car window for Mitch and answers his question about who she is calling.",
+      "assessment": "Opening the window and responding to Mitch shows a minimal level of engagement and civility, though it is somewhat guarded.",
+      "rating": 0,
+      "chunk": 18
     },
     {
-      "Action": "Delegates phone call to daughter despite risk of revealing identity, but monitors and corrects daughter immediately to maintain secrecy.",
-      "Competence": 1,
-      "Chunk": 40
+      "trait": "warmth",
+      "action": "Stares coldly at Mitch when he expresses his feelings and threats.",
+      "assessment": "Her cold stare and lack of emotional response indicate detachment and a lack of warmth or empathy in this interaction.",
+      "rating": -2,
+      "chunk": 18
     },
     {
-      "Action": "No direct actions or statements by Slim Hiller in this excerpt to evaluate competence.",
-      "Competence": 0,
-      "Chunk": 54
+      "trait": "warmth",
+      "action": "Starts to whistle loudly and defiantly to herself after Mitch leaves.",
+      "assessment": "This defiant behavior suggests emotional distance and possibly bitterness, which detracts from warmth and friendliness.",
+      "rating": -2,
+      "chunk": 18
     },
     {
-      "Action": "Nods sadly and makes a realistic, sober comment to Queen Elizabeth about not being queen anymore.",
-      "Competence": 1,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "Calmly tells Mitch he is supposed to bring Gracie tomorrow and might cancel, deflecting Mitch's aggressive threat.",
+      "assessment": "Slim demonstrates composure and presence of mind in a tense confrontation, indicating emotional control and situational awareness.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Shows no appetite while others eat voraciously, possibly indicating stress or lack of focus.",
-      "Competence": 0,
-      "Chunk": 55
+      "trait": "competence",
+      "action": "Stares at Mitch calmly after the threat and does not react impulsively.",
+      "assessment": "This shows confidence and restraint, suggesting Slim is not easily intimidated and can maintain control under pressure.",
+      "rating": 2,
+      "chunk": 18
     },
     {
-      "Action": "Acknowledges waitress politely with a nod and thanks.",
-      "Warmth": 1,
-      "Chunk": 56
+      "trait": "competence",
+      "action": "Allows Mitch to approach and speak without escalating the situation.",
+      "assessment": "By not provoking further conflict, Slim shows skill in de-escalation and strategic patience.",
+      "rating": 1,
+      "chunk": 18
     },
     {
-      "Action": "Gives Gracie responsibility to signal for help if needed.",
-      "Warmth": 1,
-      "Chunk": 56
+      "trait": "competence",
+      "action": "Does not take immediate action after Mitch's threat and instead shuts the window and whistles defiantly.",
+      "assessment": "While the defiant whistle may indicate confidence, it could also be seen as provocative and risky, suggesting a possible lapse in judgment.",
+      "rating": 0,
+      "chunk": 18
     },
     {
-      "Action": "Appeals sincerely to county clerk for a lawyer’s name, recognizing her decency.",
-      "Warmth": 1,
-      "Chunk": 56
+      "trait": "warmth",
+      "action": "Slim parks near the gardener's truck but cannot bring herself to open the door, sitting paralyzed and feeling like a failure.",
+      "assessment": "This hesitation and self-directed judgment reveal vulnerability and emotional pain, but do not directly indicate warmth toward others.",
+      "rating": 0,
+      "chunk": 19
     },
     {
-      "Action": "Whispers to Gracie to observe how to act in a lawyer’s office.",
-      "Warmth": 1,
-      "Chunk": 56
+      "trait": "warmth",
+      "action": "Slim shows the bruise on her cheek to Mrs. Tyler, who responds with a warm, motherly hug and sympathy.",
+      "assessment": "While Slim is a recipient of warmth here, her allowing Mrs. Tyler to comfort her suggests some openness to receiving kindness, though Slim herself does not initiate warmth in this moment.",
+      "rating": 1,
+      "chunk": 19
     },
     {
-      "Action": "Interrupts receptionist to get to lawyer, asserting she’s not crazy.",
-      "Warmth": 0,
-      "Chunk": 56
+      "trait": "warmth",
+      "action": "Slim freezes and shows a sad, shocked reaction when Mrs. Tyler asks what she did or said to provoke Mitch's brutality.",
+      "assessment": "Slim's silence and shock indicate emotional pain and possibly shame, but also a lack of defensive or hostile response, which can be seen as a non-aggressive, sincere demeanor.",
+      "rating": 1,
+      "chunk": 19
     },
     {
-      "Action": "Approaches Jim Toller despite lacking manners and desperation, shows willingness to seek help even by offering all her money.",
-      "Competence": 0,
-      "Chunk": 57
+      "trait": "competence",
+      "action": "Slim parks near the gardener's truck but cannot bring herself to open the door, sitting paralyzed and feeling like a failure.",
+      "assessment": "This hesitation and paralysis in a moment of emotional distress indicate a lack of confidence and inability to act decisively under pressure, reflecting low competence in managing her situation.",
+      "rating": -2,
+      "chunk": 19
     },
     {
-      "Action": "Fails to file a complaint with the police when she had chances, thereby escalating her danger.",
-      "Competence": -1,
-      "Chunk": 57
+      "trait": "competence",
+      "action": "Slim shows the visible bruise from Mitch's brutality but does not respond or defend herself when Mrs. Tyler asks what she did or said to provoke him.",
+      "assessment": "Her freezing and lack of verbal response suggest difficulty in asserting herself or handling confrontation, which points to limited emotional and interpersonal competence in this context.",
+      "rating": -2,
+      "chunk": 19
     },
     {
-      "Action": "Acknowledges custody hearing has already been initiated, showing some awareness of her legal situation.",
-      "Competence": 0,
-      "Chunk": 57
+      "trait": "warmth",
+      "action": "Nods when Ginny says Mitch knows every cop in the city.",
+      "assessment": "Slim's nodding shows acknowledgment but no active engagement or support; it is neutral and somewhat passive.",
+      "rating": 0,
+      "chunk": 20
     },
     {
-      "Action": "Drives with Gracie, makes a solemn promise to protect her from harm, expresses deep concern and care.",
-      "Warmth": 1,
-      "Chunk": 58
+      "trait": "warmth",
+      "action": "Shakes her head and says she has to pick up Gracie at pre-school instead of leaving Mitch immediately.",
+      "assessment": "Slim prioritizes a practical responsibility over leaving an abusive situation, indicating a sense of duty but also a possible avoidance of confronting danger, showing limited warmth in terms of self-care and seeking help.",
+      "rating": 0,
+      "chunk": 20
     },
     {
-      "Action": "Stares in disbelief when Jim offers no help, shows implicit trust and need for support.",
-      "Warmth": 1,
-      "Chunk": 58
+      "trait": "warmth",
+      "action": "Sits quietly in her car with a frozen slight smile after the preschool director mentions her husband picked up Gracie.",
+      "assessment": "Slim's frozen smile and quiet demeanor suggest emotional restraint and possible internal conflict; she does not reach out for help or express openness, indicating low warmth in terms of trust and sincerity.",
+      "rating": -1,
+      "chunk": 20
     },
     {
-      "Action": "Stares in disbelief when Jim Toller refuses to help, showing some surprise but no immediate alternative plan.",
-      "Competence": 0,
-      "Chunk": 58
+      "trait": "competence",
+      "action": "Nods knowingly when Ginny says Mitch knows every cop in the city.",
+      "assessment": "This shows Slim's awareness of the local power dynamics and connections, indicating some situational understanding.",
+      "rating": 1,
+      "chunk": 20
     },
     {
-      "Action": "Drives calmly at night with Gracie, reflects internally and makes a solemn promise to protect her, indicating thoughtful concern and emotional awareness.",
-      "Competence": 1,
-      "Chunk": 58
+      "trait": "competence",
+      "action": "Shakes head and says he has to pick up Gracie at pre-school instead of leaving Mitch immediately as Ginny urges.",
+      "assessment": "This suggests Slim feels trapped or hesitant to take decisive action against a dangerous situation, reflecting a lack of assertiveness or confidence in handling the threat.",
+      "rating": -2,
+      "chunk": 20
     },
     {
-      "Action": "Does not challenge or question Jim Toller's bleak assessment and refusal to help, showing passive acceptance without proactive steps.",
-      "Competence": -1,
-      "Chunk": 58
+      "trait": "competence",
+      "action": "Sits in the pre-school pick-up line waiting for Gracie, but the girls who get in the car are not hers.",
+      "assessment": "This indicates a lack of attention to detail or awareness, possibly distracted or overwhelmed, which may reflect poorly on her practical competence.",
+      "rating": -1,
+      "chunk": 20
     },
     {
-      "Action": "Pulls Gracie back into a hug and holds her as long as she can tolerate, showing emotional openness with tears in her eyes.",
-      "Warmth": 1,
-      "Chunk": 60
+      "trait": "competence",
+      "action": "Feigns casualness and manages a slight frozen smile when the preschool director comments on her husband picking up Gracie.",
+      "assessment": "This shows some social skill and ability to mask true feelings under pressure, a subtle but important competence in difficult emotional situations.",
+      "rating": 1,
+      "chunk": 20
     },
     {
-      "Action": "Gives Gracie a cell phone and asks her to take care of her with extra ice cream, showing care and concern.",
-      "Warmth": 1,
-      "Chunk": 60
+      "trait": "warmth",
+      "action": "Calls Mitch and tries to reach him multiple times, showing concern about his whereabouts and the situation with Gracie.",
+      "assessment": "Repeatedly attempting to contact Mitch indicates Slim's care and concern for her family, reflecting a responsible and attentive nature.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Makes a joke with Ginny about calls running seconds or less, engaging in friendly banter.",
-      "Warmth": 1,
-      "Chunk": 60
+      "trait": "warmth",
+      "action": "Shrugs off Mitch's nervousness about not being able to reach her during dinner, remaining emotionally reserved.",
+      "assessment": "Slim's nonchalant reaction to Mitch's expressed concern suggests emotional distance or reluctance to engage warmly, which may indicate lower warmth in this interaction.",
+      "rating": -1,
+      "chunk": 21
     },
     {
-      "Action": "Shows intense focus and determination in gym, but this is neutral toward warmth as it reflects internal resolve more than interpersonal warmth.",
-      "Warmth": 0,
-      "Chunk": 60
+      "trait": "warmth",
+      "action": "Engages Mitch in a calm, somewhat challenging conversation about their relationship and future.",
+      "assessment": "Slim's willingness to engage directly and ask Mitch to 'educate me' shows openness and sincerity, though the tone is guarded rather than warmly inviting.",
+      "rating": 1,
+      "chunk": 21
     },
     {
-      "Action": "Softly acknowledges the potential violence in exercise, shows internal understanding and calm",
-      "Warmth": 1,
-      "Chunk": 62
+      "trait": "competence",
+      "action": "Calls Mitch and tries to reach him about picking up Gracie, but disconnects after one ring and immediately calls back.",
+      "assessment": "This shows Slim is proactive and persistent in communication, indicating a level of attentiveness and responsibility.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Strides through office unapologetically interrupting conversations and demands attention",
-      "Warmth": 0,
-      "Chunk": 62
+      "trait": "competence",
+      "action": "Shrugs off Mitch's nervousness about not being reachable and responds calmly to his veiled threat about their future.",
+      "assessment": "Slim's calm and composed demeanor in a tense situation suggests emotional control and confidence, which are aspects of competence.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Responds tersely to Jupiter's irritation, showing indifference to his displeasure",
-      "Warmth": 0,
-      "Chunk": 62
+      "trait": "competence",
+      "action": "Asks Mitch to 'educate me' after Mitch warns her about how bad things can get.",
+      "assessment": "This indicates intellectual engagement and willingness to understand the situation fully, reflecting thoughtful and capable behavior.",
+      "rating": 2,
+      "chunk": 21
     },
     {
-      "Action": "Answers questions about dating with simple honesty and openness",
-      "Warmth": 1,
-      "Chunk": 62
+      "trait": "competence",
+      "action": "Does not directly confront or escalate the conflict with Mitch despite his aggressive tone and ultimatum.",
+      "assessment": "While this could be seen as restraint and strategic, it might also suggest passivity or avoidance, which can be a negative indicator of assertive competence.",
+      "rating": 0,
+      "chunk": 21
     },
     {
-      "Action": "Strides through the office unapologetically interrupting conversations and demands attention from Jupiter.",
-      "Competence": 1,
-      "Chunk": 62
+      "trait": "warmth",
+      "action": "Silently and carefully carries Gracie out of the house at night to protect her from potential violence.",
+      "assessment": "This action shows Slim's protective and caring nature toward Gracie, indicating a strong sense of responsibility and warmth despite the fear and danger present.",
+      "rating": 3,
+      "chunk": 22
     },
     {
-      "Action": "Responds confidently to Jupiter's irritation and surprising questions, maintaining composure.",
-      "Competence": 1,
-      "Chunk": 62
+      "trait": "warmth",
+      "action": "Observes Gracie's reaction to Mitch's tone and worries about the impact of Mitch's potential violence on her.",
+      "assessment": "Slim's concern for Gracie's emotional well-being and safety reflects her empathy and attentiveness, positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "In the training exercise, shows internal calm and confidence despite vulnerability.",
-      "Competence": 1,
-      "Chunk": 62
+      "trait": "warmth",
+      "action": "Wakes up quietly at night to take action without disturbing others.",
+      "assessment": "This shows consideration and thoughtfulness, traits associated with warmth, as she prioritizes others' rest while acting on her concerns.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Does not appear intimidated by Jupiter's attempts to control her presence.",
-      "Competence": 1,
-      "Chunk": 62
+      "trait": "competence",
+      "action": "Notices Gracie's subtle reaction to Mitch's tone and tries to gauge Mitch's awareness of it.",
+      "assessment": "This shows Slim's attentiveness and situational awareness, indicating a thoughtful and perceptive mindset.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Clearly communicates specific criteria for the kind of woman she needs and gives precise instructions (photo, key, time).",
-      "Competence": 1,
-      "Chunk": 63
+      "trait": "competence",
+      "action": "Plans and executes a quiet nighttime escape with Gracie, moving silently and cautiously through the house.",
+      "assessment": "This action demonstrates careful planning, stealth, and a calm demeanor under pressure, all signs of competence.",
+      "rating": 3,
+      "chunk": 22
     },
     {
-      "Action": "Shows confidence and control by handling logistics (credit card purchase, phone calls) efficiently and politely.",
-      "Competence": 1,
-      "Chunk": 63
+      "trait": "competence",
+      "action": "Pauses at the front door to ensure the house is quiet before attempting to leave.",
+      "assessment": "This cautious behavior reflects good judgment and patience, reinforcing her capability in a tense situation.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Uses humor or sarcasm (calling Jupiter all-powerful) in a tense situation, revealing quick thinking.",
-      "Competence": 1,
-      "Chunk": 63
+      "trait": "competence",
+      "action": "Internalizes anxiety and fear but maintains control to carry out the escape plan.",
+      "assessment": "Her ability to manage internal emotions while acting decisively suggests emotional intelligence and resilience, important aspects of competence.",
+      "rating": 2,
+      "chunk": 22
     },
     {
-      "Action": "Walks away after giving instructions without unnecessary hesitation, showing decisiveness.",
-      "Competence": 1,
-      "Chunk": 63
+      "trait": "warmth",
+      "action": "Carries Gracie carefully while trying to open the door despite danger.",
+      "assessment": "Slim's protective behavior toward Gracie shows care and responsibility, indicating warmth through her concern for others' safety.",
+      "rating": 2,
+      "chunk": 23
     },
     {
-      "Action": "Calmly confronts and deflects a potentially threatening Shady Character by making light, showing composure and confidence.",
-      "Warmth": 1,
-      "Chunk": 64
+      "trait": "warmth",
+      "action": "Hesitates and listens carefully before opening the door, responding to the rescuers' dove cooing signal.",
+      "assessment": "Her cautiousness and responsiveness to the rescuers' signal suggest trust and a desire to connect safely, reflecting a sincere and thoughtful nature.",
+      "rating": 2,
+      "chunk": 23
     },
     {
-      "Action": "Agrees to bring Gracie by after a hearing, showing thoughtfulness and responsibility toward others' feelings.",
-      "Warmth": 1,
-      "Chunk": 64
+      "trait": "warmth",
+      "action": "Does not attempt to escape or call for help immediately when Mitch attacks her.",
+      "assessment": "While this could be due to fear or shock, the lack of immediate resistance or seeking help may indicate passivity or resignation rather than warmth; however, it is more a non-action than a direct indicator of warmth.",
+      "rating": 0,
+      "chunk": 23
     },
     {
-      "Action": "Uses a fake voice and disguise to create an alibi, instructs an accomplice to use her phone and simulate her presence, carefully plans and executes deception to mislead pursuers.",
-      "Competence": 1,
-      "Chunk": 65
+      "trait": "competence",
+      "action": "Remains frozen in place with Gracie, hand on the doorknob, listening carefully and turning her head to detect sounds outside before attempting to open the door.",
+      "assessment": "This shows cautiousness and situational awareness, indicating a careful and deliberate approach rather than reckless action, which is a positive indicator of competence.",
+      "rating": 2,
+      "chunk": 23
     },
     {
-      "Action": "Notices she is being followed and calmly reacts by quickening pace and glancing over shoulder, indicating awareness and situational control.",
-      "Competence": 1,
-      "Chunk": 65
+      "trait": "competence",
+      "action": "Attempts to open the door only after hearing the dove cooing signal from her rescuers.",
+      "assessment": "This demonstrates discipline and the ability to follow a planned signal, reflecting good coordination and trust in her team, which supports her competence.",
+      "rating": 2,
+      "chunk": 23
     },
     {
-      "Action": "Waits silently in the rafters; notices the coffee machine is still on and turns it off; drops silently to the floor when the alarm beeps again; successfully hides from Mitch without being detected.",
-      "Competence": 1,
-      "Chunk": 68
+      "trait": "competence",
+      "action": "Gets grabbed and pulled away from the door by Mitch, who also pulls her hair hard.",
+      "assessment": "While this shows she was caught off guard and physically overpowered, it may reflect a momentary lapse in vigilance or underestimation of the threat, slightly detracting from her competence.",
+      "rating": -1,
+      "chunk": 23
     },
     {
-      "Action": "Hesitates before turning off the coffee machine, showing some uncertainty or cautiousness.",
-      "Competence": 0,
-      "Chunk": 68
+      "trait": "competence",
+      "action": "Does not immediately respond or struggle when Mitch grabs her, remaining frozen.",
+      "assessment": "Her lack of immediate resistance could indicate shock or paralysis, which may suggest a temporary failure to act decisively under pressure, a negative indicator of competence.",
+      "rating": -1,
+      "chunk": 23
     },
     {
-      "Action": "Carefully searches the apartment using tools and equipment, disconnects the phone line, secures the electrical box, removes knives, and assesses fighting spaces and angles.",
-      "Competence": 1,
-      "Chunk": 69
+      "trait": "warmth",
+      "action": "Slim makes a sound as Ginny strokes her head while injured.",
+      "assessment": "Despite being gravely injured, Slim's response to Ginny's comforting gesture suggests a level of trust and connection, indicating warmth in her relationship with Ginny.",
+      "rating": 2,
+      "chunk": 24
     },
     {
-      "Action": "Eats a snack while in a tense, focused state during her search.",
-      "Competence": 0,
-      "Chunk": 69
+      "trait": "competence",
+      "action": "Lies unconscious or severely incapacitated on the floor after an attack, requiring others to rescue and assist her.",
+      "assessment": "This indicates a moment of vulnerability and incapacity, suggesting that Slim was overwhelmed or caught off guard, which reflects negatively on her immediate competence in this situation.",
+      "rating": -2,
+      "chunk": 24
     },
     {
-      "Action": "Discovers a false bottom in the drawer containing a second gun and important papers, demonstrating thoroughness and attention to detail.",
-      "Competence": 1,
-      "Chunk": 70
+      "trait": "competence",
+      "action": "Despite being injured or incapacitated, makes a sound indicating consciousness when Ginny strokes her head.",
+      "assessment": "This small sign of responsiveness shows some resilience and presence of mind, though it is minimal and does not demonstrate active competence.",
+      "rating": 0,
+      "chunk": 24
     },
     {
-      "Action": "Hides guns carefully and prepares an electronic device and cell phone for a covert purpose.",
-      "Competence": 1,
-      "Chunk": 70
+      "trait": "warmth",
+      "action": "Helps Phil up and is gently holding Gracie, rocking her softly in the van.",
+      "assessment": "Slim's physical care and gentle behavior toward Gracie and Phil indicate a nurturing and protective nature, reflecting warmth and sincerity.",
+      "rating": 3,
+      "chunk": 25
     },
     {
-      "Action": "Conducts a meticulous search of every wall, surface, and drawer and practices moving around the space with grace and precision, building situational awareness.",
-      "Competence": 1,
-      "Chunk": 70
+      "trait": "warmth",
+      "action": "Softly tells others that Mitch is humiliating Phil and expresses fear that Mitch will come after her and kill her.",
+      "assessment": "Slim shows concern for Phil's dignity and is honest about her fear, indicating sincerity and a protective attitude, though also vulnerability.",
+      "rating": 2,
+      "chunk": 25
     },
     {
-      "Action": "Rips up a photo of herself with Mitch and Gracie, indicating emotional resolve but no clear negative impact on competence in this context.",
-      "Competence": 0,
-      "Chunk": 70
+      "trait": "warmth",
+      "action": "Does not confront Mitch aggressively despite his threats and intimidation.",
+      "assessment": "Slim's restraint in the face of intimidation may reflect caution or fear rather than warmth; the omission of confrontation suggests a lack of assertiveness but not necessarily coldness.",
+      "rating": 0,
+      "chunk": 25
     },
     {
-      "Action": "Engages in a controlled self-defense practice with Mitch, avoids hurting him, maintains focus and calmness.",
-      "Warmth": 1,
-      "Chunk": 73
+      "trait": "competence",
+      "action": "Softly voices concern that Mitch is humiliating Phil and warns that Mitch will come after her and kill her.",
+      "assessment": "This shows Slim's awareness of the danger they are in and her understanding of Mitch's violent nature, indicating perceptiveness and situational awareness.",
+      "rating": 2,
+      "chunk": 25
     },
     {
-      "Action": "States calmly that self-defense is not murder, challenging Mitch's aggression without escalating the conflict.",
-      "Warmth": 1,
-      "Chunk": 73
+      "trait": "competence",
+      "action": "Allows Phil and others to help her up and does not resist when leaving with the group despite the threat.",
+      "assessment": "This could indicate a pragmatic acceptance of the situation, but also a lack of active resistance or strategic planning, suggesting limited assertiveness or control in the moment.",
+      "rating": 0,
+      "chunk": 25
     },
     {
-      "Action": "Refuses to respond verbally to provocations, maintaining a neutral expression and composure.",
-      "Warmth": 0,
-      "Chunk": 73
+      "trait": "competence",
+      "action": "Holds Gracie gently and rocks her in the van, providing comfort despite the tense situation.",
+      "assessment": "This demonstrates emotional competence and the ability to provide calm and care under stress, which is a positive indicator of competence in interpersonal and caregiving skills.",
+      "rating": 2,
+      "chunk": 25
     },
     {
-      "Action": "Insists he is defending himself while aggressively attacking Mitch, showing no regard for her safety.",
-      "Warmth": -1,
-      "Chunk": 74
+      "trait": "warmth",
+      "action": "Carries Gracie on her shoulders, horsing around and having a good time with her and Joe at Navy Pier.",
+      "assessment": "This playful and affectionate behavior shows Slim's friendly and caring nature toward Gracie, indicating warmth.",
+      "rating": 3,
+      "chunk": 26
     },
     {
-      "Action": "Smiles sweetly while threatening self-harm to fabricate abuse, indicating manipulative and insincere behavior.",
-      "Warmth": -1,
-      "Chunk": 74
+      "trait": "warmth",
+      "action": "Whips her hand over Gracie's mouth to silence her when the doorbell rings, then quickly takes Gracie's hand and hides with her.",
+      "assessment": "While this action is protective and shows concern for Gracie's safety, it also causes Gracie to feel horrified and confused, suggesting a moment of harshness or lack of gentle communication.",
+      "rating": 0,
+      "chunk": 26
     },
     {
-      "Action": "Lunges aggressively but shows poor balance and coordination, stumbles after jumping over the couch.",
-      "Competence": -1,
-      "Chunk": 74
+      "trait": "competence",
+      "action": "Quickly covers Gracie's mouth and signals her to be quiet when the doorbell rings unexpectedly.",
+      "assessment": "This action shows Slim's alertness and quick thinking in a potentially risky situation, indicating situational awareness and protective instincts.",
+      "rating": 2,
+      "chunk": 26
     },
     {
-      "Action": "Recovers from being hit and continues to stalk and attack despite injury and pain.",
-      "Competence": 0,
-      "Chunk": 74
+      "trait": "competence",
+      "action": "Takes Gracie's hand and moves her out of sight immediately after the doorbell rings.",
+      "assessment": "This demonstrates Slim's ability to act decisively and strategically to keep Gracie safe and avoid drawing attention.",
+      "rating": 2,
+      "chunk": 26
     },
     {
-      "Action": "Uses the presence of letters as supposed proof, but Mitch has never seen them and is stunned, indicating a bluff or poor understanding of the situation.",
-      "Competence": -1,
-      "Chunk": 74
+      "trait": "competence",
+      "action": "Engages in playful, relaxed behavior with Gracie and Joe at the Navy Pier and in the car.",
+      "assessment": "While this shows social ease and ability to maintain a calm atmosphere, it does not strongly indicate competence in a broader sense.",
+      "rating": 0,
+      "chunk": 26
     },
     {
-      "Action": "Tries to rationalize his violence as self-defense, but this is contradicted by his aggressive and uncontrolled behavior.",
-      "Competence": -1,
-      "Chunk": 74
+      "trait": "competence",
+      "action": "Hides with Gracie in a cabinet, watching the Third FBI Man approach through a narrow slit, remaining silent and still despite the danger.",
+      "assessment": "This action shows Slim's ability to stay calm, composed, and aware under extreme pressure, indicating good situational awareness and self-control.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "His attacks are physically forceful and terrifying due to his size and reach.",
-      "Competence": 1,
-      "Chunk": 74
+      "trait": "competence",
+      "action": "Suppresses the impulse to burst out and intervene when Joe is threatened with a knife.",
+      "assessment": "This restraint suggests emotional control and strategic thinking, recognizing that impulsive action could worsen the situation.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "Becomes berserk and attacks a much smaller opponent wildly and violently, showing little restraint despite the risk of severe harm.",
-      "Warmth": -1,
-      "Chunk": 75
+      "trait": "warmth",
+      "action": "Hugs Gracie and asks Joe if he is okay after the FBI men leave.",
+      "assessment": "Slim shows concern and care for both Gracie and Joe, indicating a protective and nurturing attitude.",
+      "rating": 2,
+      "chunk": 29
     },
     {
-      "Action": "Shows frustration and anger by hurling objects and swinging wildly, indicating aggressive and hostile behavior.",
-      "Warmth": -1,
-      "Chunk": 75
+      "trait": "warmth",
+      "action": "Takes Gracie into the next room when Joe answers the phone.",
+      "assessment": "Slim acts considerately to shield Gracie from potentially stressful or dangerous information, showing sensitivity and protective warmth.",
+      "rating": 2,
+      "chunk": 29
     },
     {
-      "Action": "Makes an effort to pull himself together after a violent outburst, suggesting some internal struggle or self-control.",
-      "Warmth": 0,
-      "Chunk": 75
+      "trait": "warmth",
+      "action": "Fights the impulse to burst out to save Joe when the FBI men threaten him.",
+      "assessment": "Slim’s internal struggle reveals deep concern and protective instincts, though she restrains herself, showing self-control and care.",
+      "rating": 2,
+      "chunk": 29
     },
     {
-      "Action": "Misses multiple punches, throws wild and comical blows, fails to land a hit despite power.",
-      "Competence": -1,
-      "Chunk": 75
+      "trait": "competence",
+      "action": "Fights the impulse to burst out to save Joe when the FBI men threaten him with a shiv.",
+      "assessment": "This shows Slim's ability to control her emotions and think strategically under pressure, indicating self-restraint and situational awareness.",
+      "rating": 2,
+      "chunk": 29
     },
     {
-      "Action": "Attempts to regain control by grabbing objects (ashtray, lamp cord) as weapons to increase his chances.",
-      "Competence": 0,
-      "Chunk": 75
+      "trait": "competence",
+      "action": "Hugs Gracie and checks on Joe's condition immediately after the FBI men leave.",
+      "assessment": "This demonstrates Slim's quick shift to caretaking and emotional support, showing presence of mind and concern for others in a crisis.",
+      "rating": 1,
+      "chunk": 29
     },
     {
-      "Action": "Turns away deliberately to avoid hitting Mitch, showing restraint and control in a highly emotional situation.",
-      "Competence": 1,
-      "Chunk": 77
+      "trait": "competence",
+      "action": "Takes Gracie into the next room upon Joe's silent instruction during the phone call.",
+      "assessment": "This indicates Slim's ability to follow nonverbal cues and act decisively to protect others, reflecting situational understanding and responsiveness.",
+      "rating": 2,
+      "chunk": 29
     },
     {
-      "Action": "Uses her cell phone strategically by turning off the blocker and redialing for help, indicating resourcefulness and calm under pressure.",
-      "Competence": 1,
-      "Chunk": 77
+      "trait": "competence",
+      "action": "No direct action to intervene physically or verbally against the FBI men despite the threat to Joe.",
+      "assessment": "While this could be seen as a lack of direct intervention, it may also reflect prudent judgment to avoid escalating a dangerous situation, so it is a neutral indicator.",
+      "rating": 0,
+      "chunk": 29
     },
     {
-      "Action": "Expresses awareness of danger and consequences (knows Mitch will come after her and Gracie), demonstrating situational understanding.",
-      "Competence": 1,
-      "Chunk": 77
+      "trait": "warmth",
+      "action": "Slim comes back out after Joe hangs up and asks if Mitch scared him.",
+      "assessment": "Slim shows concern for Joe's feelings, indicating attentiveness and care.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Despite her efforts, she is struck and knocked to the floor, unable to defend adequately against the lamp attack, indicating some physical vulnerability or lack of defensive skill in that moment.",
-      "Competence": -1,
-      "Chunk": 77
+      "trait": "warmth",
+      "action": "Slim admits to Joe that she shouldn't be there and that she's dangerous to know right now.",
+      "assessment": "Slim is honest and self-aware, showing sincerity, though her self-description suggests emotional distance or vulnerability.",
+      "rating": 1,
+      "chunk": 30
     },
     {
-      "Action": "Voices that she 'can't kill him' and refuses to become like Mitch, showing moral clarity but also internal conflict that may limit decisive action.",
-      "Competence": 0,
-      "Chunk": 77
+      "trait": "warmth",
+      "action": "Slim is on the phone trying to reach her friends after Mitch's suggestion.",
+      "assessment": "Slim attempts to connect with her friends, showing a willingness to seek support and maintain social bonds.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Calls Ginny and informs her about the emergency sincerely, cooperates with the police arriving on the scene.",
-      "Warmth": 1,
-      "Chunk": 79
+      "trait": "warmth",
+      "action": "Slim listens patiently as the phone rings repeatedly.",
+      "assessment": "Her patience and persistence in trying to reach friends suggests a hopeful and trusting nature.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Drops the cell phone and duffle bag into the water to avoid further trouble, showing pragmatic and protective behavior.",
-      "Warmth": 0,
-      "Chunk": 79
+      "trait": "competence",
+      "action": "Slim comes back out after Joe hangs up and calmly asks if Mitch scared him.",
+      "assessment": "Slim demonstrates situational awareness and emotional intelligence by gauging Joe's reaction and addressing it directly, indicating social competence and confidence.",
+      "rating": 2,
+      "chunk": 30
     },
     {
-      "Action": "Calmly communicates the emergency situation over the phone, uses a cell-phone blocker to prevent tracking, and disposes of evidence by dropping phone and duffle into water.",
-      "Competence": 1,
-      "Chunk": 79
+      "trait": "competence",
+      "action": "Slim admits 'I shouldn't be here' and 'I'm dangerous to know right now.'",
+      "assessment": "This shows self-awareness and honesty about her current state, which can be a sign of emotional competence, though it also suggests vulnerability that might impair her effectiveness.",
+      "rating": 1,
+      "chunk": 30
     },
     {
-      "Action": "Nods silently when told cops are on their way rather than engaging further, showing controlled but non-verbal responsiveness.",
-      "Competence": 0,
-      "Chunk": 79
+      "trait": "competence",
+      "action": "Slim makes a phone call to her friends at the restaurant despite the tense situation.",
+      "assessment": "Taking initiative to reach out for support or information in a stressful context reflects resourcefulness and proactive behavior, indicating competence.",
+      "rating": 2,
+      "chunk": 30
+    },
+    {
+      "trait": "competence",
+      "action": "Slim listens patiently as the phone rings multiple times before Ginny answers.",
+      "assessment": "This patience and persistence in communication show composure and determination, traits associated with competence.",
+      "rating": 2,
+      "chunk": 30
+    },
+    {
+      "trait": "warmth",
+      "action": "Urgently warns Ginny and Phil to get out of the restaurant due to a bad feeling about a bomb threat.",
+      "assessment": "Slim shows concern and protective instincts toward Ginny and Phil, prioritizing their safety over protocol or police instructions.",
+      "rating": 3,
+      "chunk": 31
+    },
+    {
+      "trait": "warmth",
+      "action": "Insists that Ginny and Phil leave immediately despite the police presence.",
+      "assessment": "This insistence reflects Slim's trustworthiness and care, valuing the well-being of others above formal authority.",
+      "rating": 2,
+      "chunk": 31
+    },
+    {
+      "trait": "competence",
+      "action": "Expresses a bad feeling about the bomb threat and urgently tells Ginny to get Phil and leave immediately.",
+      "assessment": "This shows Slim's intuition and situational awareness, as well as his ability to act decisively under pressure, indicating competent judgment.",
+      "rating": 2,
+      "chunk": 31
+    },
+    {
+      "trait": "competence",
+      "action": "Insists that Ginny and Phil leave the restaurant immediately despite the presence of police.",
+      "assessment": "This demonstrates Slim's prioritization of safety over protocol, reflecting practical and confident decision-making in a crisis.",
+      "rating": 2,
+      "chunk": 31
+    },
+    {
+      "trait": "competence",
+      "action": "Does not physically intervene or attempt to assist directly during the explosion or evacuation.",
+      "assessment": "While this could be seen as a lack of direct action, it may also reflect prudence in avoiding unnecessary risk; however, the omission slightly lowers the impression of hands-on competence.",
+      "rating": -1,
+      "chunk": 31
+    },
+    {
+      "trait": "warmth",
+      "action": "Slim carries Gracie through a crowded street and seeks out Jupiter Slakowski, her estranged father, despite his skepticism.",
+      "assessment": "Slim's willingness to reach out to a distant family member and bring her child along shows a desire for connection and support, indicating a degree of sincerity and trustworthiness.",
+      "rating": 2,
+      "chunk": 32
+    },
+    {
+      "trait": "warmth",
+      "action": "Slim tells Jupiter that she had nowhere else to go and that she is desperate.",
+      "assessment": "Expressing vulnerability openly suggests sincerity and a genuine need for help, which can be seen as a warm and honest behavior.",
+      "rating": 2,
+      "chunk": 32
+    },
+    {
+      "trait": "warmth",
+      "action": "Slim accuses Jupiter of not wanting to see her and implies he wanted her dead.",
+      "assessment": "This accusation is harsh and confrontational, showing a lack of tolerance and friendliness in this interaction, which detracts from warmth.",
+      "rating": -2,
+      "chunk": 32
+    },
+    {
+      "trait": "warmth",
+      "action": "Slim says she didn't have enough money to bury her mother.",
+      "assessment": "Sharing such a personal and painful detail indicates openness and a willingness to be vulnerable, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 32
+    },
+    {
+      "trait": "warmth",
+      "action": "Slim tries to introduce her daughter Gracie to Jupiter.",
+      "assessment": "Attempting to build family ties and include her child in this process reflects a sincere and friendly intention, showing warmth.",
+      "rating": 2,
+      "chunk": 32
+    },
+    {
+      "trait": "competence",
+      "action": "Presses redial after the phone line goes dead and checks outside the window to see the FBI men in their car.",
+      "assessment": "This shows situational awareness and quick thinking, indicating a competent response to a potentially dangerous or urgent situation.",
+      "rating": 2,
+      "chunk": 32
+    },
+    {
+      "trait": "competence",
+      "action": "Walks through a crowded street carrying Gracie and confidently enters a basement garage and then an office loft.",
+      "assessment": "Her ability to navigate a busy urban environment while caring for a child suggests practical competence and composure under pressure.",
+      "rating": 2,
+      "chunk": 32
+    },
+    {
+      "trait": "competence",
+      "action": "Approaches Jupiter Slakowski, claiming to be his daughter despite his skepticism, and directly asks for his help.",
+      "assessment": "This demonstrates courage and assertiveness, though the approach is somewhat emotionally charged and may lack strategic subtlety.",
+      "rating": 1,
+      "chunk": 32
+    },
+    {
+      "trait": "competence",
+      "action": "Confronts Jupiter about his lack of response to her previous attempts to contact him and about her mother's death.",
+      "assessment": "While emotionally raw, this shows persistence and a willingness to face difficult truths, which can be seen as a form of emotional competence.",
+      "rating": 1,
+      "chunk": 32
+    },
+    {
+      "trait": "competence",
+      "action": "Attempts to introduce her daughter Gracie to Jupiter despite his indifferent reaction.",
+      "assessment": "This indicates a hopeful and proactive attitude, but also a possible naivety about Jupiter's likely response, suggesting mixed competence in social judgment.",
+      "rating": 0,
+      "chunk": 32
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses vulnerability by crying quietly while holding Gracie after a difficult encounter with Jupiter.",
+      "assessment": "Showing emotion and vulnerability in front of his child indicates a sincere and tender side, reflecting genuine care and warmth.",
+      "rating": 3,
+      "chunk": 33
+    },
+    {
+      "trait": "warmth",
+      "action": "Attempts to protect Gracie by standing behind Jupiter's building in the shadows, holding her close.",
+      "assessment": "This protective behavior demonstrates concern and a desire to keep his child safe, a positive indicator of warmth.",
+      "rating": 2,
+      "chunk": 33
+    },
+    {
+      "trait": "warmth",
+      "action": "Acknowledges the need for money openly and honestly to Jupiter.",
+      "assessment": "Being straightforward about his needs shows sincerity and trustworthiness, which are aspects of warmth.",
+      "rating": 2,
+      "chunk": 33
+    },
+    {
+      "trait": "warmth",
+      "action": "Responds to Jupiter's dismissive attitude and minimal financial help without anger or confrontation.",
+      "assessment": "Maintaining composure despite being treated dismissively suggests tolerance and patience, positive warmth indicators.",
+      "rating": 1,
+      "chunk": 33
+    },
+    {
+      "trait": "warmth",
+      "action": "Does not challenge Jupiter's minimal financial offer or his disparaging remarks about his own past.",
+      "assessment": "While this could be seen as tolerance, it may also indicate passivity or lack of assertiveness, which is neutral or slightly negative in terms of warmth.",
+      "rating": 0,
+      "chunk": 33
+    },
+    {
+      "trait": "competence",
+      "action": "Accepts the small amount of money offered by Jupiter without protest and pockets it.",
+      "assessment": "This shows Slim's practical acceptance of limited resources and a realistic approach to his situation, indicating a level of pragmatic competence in managing scarce resources.",
+      "rating": 1,
+      "chunk": 33
+    },
+    {
+      "trait": "competence",
+      "action": "Stands behind Jupiter's building in the shadows, carrying Gracie, and is revealed to be crying.",
+      "assessment": "While Slim is physically present and protective, his emotional breakdown suggests vulnerability and a momentary lapse in emotional control, which may undermine his overall competence in stressful situations.",
+      "rating": -1,
+      "chunk": 33
+    },
+    {
+      "trait": "competence",
+      "action": "Questions the two men who immediately shepherd him and Gracie off the train, showing confusion and hesitation.",
+      "assessment": "Slim's hesitation and lack of immediate control in this encounter indicate a possible lack of situational awareness or preparedness, reflecting a lower level of competence in handling unexpected threats.",
+      "rating": -2,
+      "chunk": 33
+    },
+    {
+      "trait": "warmth",
+      "action": "Tries to reassure Gracie by saying 'It's okay, Sweetheart, they're friends of Phil's.'",
+      "assessment": "Slim attempts to comfort Gracie in a tense situation, showing concern and a protective attitude toward her.",
+      "rating": 2,
+      "chunk": 34
+    },
+    {
+      "trait": "warmth",
+      "action": "Looks to meet the Driver's eyes and asks 'Hello? Where are we going?'",
+      "assessment": "Slim shows a desire for communication and understanding, indicating openness and trustworthiness despite uncertainty.",
+      "rating": 1,
+      "chunk": 34
+    },
+    {
+      "trait": "warmth",
+      "action": "Nods in response to Phil's assurances and accepts the envelope with money, despite initial hesitation.",
+      "assessment": "Slim shows trust and gratitude toward Phil and Ginny, indicating a willingness to accept help and a sense of connection.",
+      "rating": 2,
+      "chunk": 34
+    },
+    {
+      "trait": "warmth",
+      "action": "Questions Phil about the police and the fire.",
+      "assessment": "Slim demonstrates concern for safety and responsibility, reflecting sincerity and care for the situation and others involved.",
+      "rating": 2,
+      "chunk": 34
+    },
+    {
+      "trait": "competence",
+      "action": "Tries to communicate with the driver despite language barrier, asking 'Hello? Where are we going?'",
+      "assessment": "This shows Slim's attempt to gather information and assert some control in an uncertain situation, indicating situational awareness and a proactive mindset.",
+      "rating": 2,
+      "chunk": 34
+    },
+    {
+      "trait": "competence",
+      "action": "Nods and accepts Phil's firm refusal to discuss insurance details, despite her reservations.",
+      "assessment": "Slim demonstrates restraint and adaptability by accepting the limits of the conversation, which suggests emotional intelligence and pragmatism in a tense environment.",
+      "rating": 1,
+      "chunk": 34
+    },
+    {
+      "trait": "competence",
+      "action": "Questions Phil about contacting the police regarding the fire.",
+      "assessment": "This indicates Slim's concern for safety and procedure, showing she is thinking ahead and considering official channels, which is a competent approach to crisis management.",
+      "rating": 2,
+      "chunk": 34
+    },
+    {
+      "trait": "competence",
+      "action": "Does not resist or attempt to escape when forcibly put into the car and taken away.",
+      "assessment": "While this could be seen as a lack of immediate resistance, it may also reflect strategic patience or assessment of the situation; however, it also suggests a possible passivity or lack of assertiveness in a critical moment.",
+      "rating": 0,
+      "chunk": 34
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses reluctance to consider killing someone even in self-defense, saying 'I'm not that kind of person, okay?'",
+      "assessment": "Slim's refusal to contemplate lethal violence, even in a dire situation, suggests a fundamentally non-violent and possibly compassionate nature, indicating some degree of warmth.",
+      "rating": 2,
+      "chunk": 35
+    },
+    {
+      "trait": "warmth",
+      "action": "Nods at Ginny's concerns but does not engage deeply or offer reassurance.",
+      "assessment": "Slim's non-committal nod and lack of further engagement with Ginny's serious concerns may indicate emotional distance or reluctance to confront difficult realities, which could be seen as a lack of warmth.",
+      "rating": -1,
+      "chunk": 35
+    },
+    {
+      "trait": "warmth",
+      "action": "Assumes a new identity (Erin Shleeter) and changes appearance, seemingly to protect herself and Gracie.",
+      "assessment": "Taking proactive steps to protect herself and Gracie by assuming a new identity shows responsibility and care, reflecting a protective and sincere side, which is a positive indicator of warmth.",
+      "rating": 2,
+      "chunk": 35
+    },
+    {
+      "trait": "competence",
+      "action": "Considers the legal implications of self-defense and homicide carefully, expressing doubt about his own willingness to kill even in self-defense.",
+      "assessment": "This shows Slim's thoughtful and cautious nature, indicating some level of intelligence and self-awareness, but also a possible lack of decisiveness or assertiveness in critical situations.",
+      "rating": 1,
+      "chunk": 35
+    },
+    {
+      "trait": "competence",
+      "action": "Obtains multiple forms of identification under a new identity (birth certificate, social security card, driver's license) and adopts a new appearance.",
+      "assessment": "This demonstrates resourcefulness, planning, and skill in navigating bureaucratic systems, reflecting a high degree of competence in managing complex and risky tasks.",
+      "rating": 3,
+      "chunk": 35
+    },
+    {
+      "trait": "warmth",
+      "action": "\"Erin\" (Slim Hiller) sets up a new home with care, hanging sheets as curtains and fixing Gracie's room with new teddy bears.",
+      "assessment": "This shows a nurturing and protective side, indicating concern for Gracie's comfort and emotional security.",
+      "rating": 2,
+      "chunk": 37
+    },
+    {
+      "trait": "warmth",
+      "action": "\"Erin\" tries to reassure Gracie about the move and encourages her to call her Mom or Erin instead of Slim.",
+      "assessment": "This reflects an effort to create a stable and warm family environment despite difficult circumstances, showing sensitivity to Gracie's feelings.",
+      "rating": 2,
+      "chunk": 37
+    },
+    {
+      "trait": "warmth",
+      "action": "\"Erin\" interacts playfully with Gracie about names, engaging in lighthearted banter.",
+      "assessment": "This indicates a friendly and sincere relationship, fostering closeness and trust.",
+      "rating": 2,
+      "chunk": 37
+    },
+    {
+      "trait": "warmth",
+      "action": "\"Erin\" approaches the preschool director to introduce herself and her daughter.",
+      "assessment": "This shows responsibility and a proactive attitude toward Gracie's social integration, reflecting care and trustworthiness.",
+      "rating": 2,
+      "chunk": 37
+    },
+    {
+      "trait": "warmth",
+      "action": "Calls Mrs. Tyler to inform her about the situation and to keep communication open regarding Mitch's legal threats.",
+      "assessment": "Slim's action shows responsibility and consideration for others involved, indicating a trustworthy and sincere nature.",
+      "rating": 2,
+      "chunk": 40
+    },
+    {
+      "trait": "warmth",
+      "action": "Allows 'Queen Elizabeth' to speak to her grandmother on the phone, despite the need for secrecy and caution.",
+      "assessment": "Permitting the child to connect with family demonstrates warmth and a nurturing attitude, balancing caution with kindness.",
+      "rating": 2,
+      "chunk": 40
+    },
+    {
+      "trait": "warmth",
+      "action": "Tells 'Queen Elizabeth' not to beg and says 'You look like a dog.'",
+      "assessment": "This statement is somewhat harsh and lacks sensitivity, showing a moment of impatience or bluntness that detracts from warmth.",
+      "rating": -1,
+      "chunk": 40
+    },
+    {
+      "trait": "warmth",
+      "action": "Comments on 'Queen Elizabeth's' mournful expression as 'the most pitiful expression I've ever seen.'",
+      "assessment": "This remark is somewhat teasing but not cruel; it suggests a candid and familiar relationship, though it may lack gentle empathy.",
+      "rating": 0,
+      "chunk": 40
+    },
+    {
+      "trait": "competence",
+      "action": "No direct actions or statements by Slim Hiller are present in the excerpt; the scene focuses on Erin and Mitch's struggle.",
+      "assessment": "The excerpt does not provide any observable behavior, statements, or omissions by Slim Hiller to assess his competence.",
+      "rating": 0,
+      "chunk": 52
+    },
+    {
+      "trait": "competence",
+      "action": "No direct actions, statements, or internal behaviors of Slim Hiller are present in the excerpt; the focus is on Erin and the chase scene.",
+      "assessment": "Since Slim Hiller does not appear or act in this passage, no assessment of his competence can be made based on this text.",
+      "rating": 0,
+      "chunk": 54
+    },
+    {
+      "trait": "warmth",
+      "action": "Nods and thanks the waitress when asked if everything is okay, without elaborating.",
+      "assessment": "Slim's brief and somewhat closed response suggests a reserved or distracted demeanor, showing limited openness or warmth in this interaction.",
+      "rating": 0,
+      "chunk": 56
+    },
+    {
+      "trait": "warmth",
+      "action": "Tells Gracie to hit the horn if anyone talks to her.",
+      "assessment": "This protective instruction shows care and concern for Gracie's safety, indicating a responsible and warm attitude toward her child.",
+      "rating": 2,
+      "chunk": 56
+    },
+    {
+      "trait": "warmth",
+      "action": "Approaches the county recorder and appeals sincerely for the name of the best lawyer, acknowledging the law but expressing trust in the person's decency.",
+      "assessment": "Slim's polite and earnest appeal demonstrates trust in others and a respectful, sincere approach, reflecting warmth and good-natured behavior.",
+      "rating": 2,
+      "chunk": 56
+    },
+    {
+      "trait": "warmth",
+      "action": "Whispers to Gracie to watch how it's done before entering the lawyer's office.",
+      "assessment": "This shows Slim's intention to teach and prepare Gracie, indicating a nurturing and caring attitude.",
+      "rating": 2,
+      "chunk": 56
+    },
+    {
+      "trait": "warmth",
+      "action": "Walks past the receptionist after stating 'I'm not a crazy person' and enters the lawyer's office despite being told she can't.",
+      "assessment": "This action shows determination and assertiveness but also a disregard for social boundaries and others' authority, which may reduce perceptions of warmth.",
+      "rating": -1,
+      "chunk": 56
+    },
+    {
+      "trait": "competence",
+      "action": "Nods in response to waitress's question about not eating, without elaboration.",
+      "assessment": "Slim's minimal response suggests a reserved or distracted demeanor, which may indicate emotional preoccupation but does not strongly reflect competence or incompetence.",
+      "rating": 0,
+      "chunk": 56
+    },
+    {
+      "trait": "competence",
+      "action": "Tells Gracie to hit the horn if anyone talks to her while Slim is inside the courthouse.",
+      "assessment": "This shows foresight and protective instincts, indicating situational awareness and a proactive approach to safety, reflecting competent behavior.",
+      "rating": 2,
+      "chunk": 56
+    },
+    {
+      "trait": "competence",
+      "action": "Approaches the county recorder's desk and directly asks for the best lawyer in town, acknowledging legal constraints but appealing to the person's decency.",
+      "assessment": "This demonstrates resourcefulness, clear communication, and persistence, showing Slim's ability to navigate bureaucratic obstacles effectively.",
+      "rating": 2,
+      "chunk": 56
+    },
+    {
+      "trait": "competence",
+      "action": "Slides paper and pencil across the desk to get a name despite the official's reluctance.",
+      "assessment": "This action reflects cleverness and determination to obtain necessary information through subtle means, indicating competent problem-solving skills.",
+      "rating": 2,
+      "chunk": 56
+    },
+    {
+      "trait": "competence",
+      "action": "Walks past the receptionist after stating 'I'm not a crazy person' and enters the lawyer's office despite being told she can't.",
+      "assessment": "This shows confidence and assertiveness, possibly bordering on disregard for protocol, but effectively achieving her goal, which suggests a pragmatic and bold approach to problem-solving.",
+      "rating": 1,
+      "chunk": 56
+    },
+    {
+      "trait": "warmth",
+      "action": "Desperately seeks help from Jim Toller, offering almost all her money to be heard about her husband's attempts to kill her.",
+      "assessment": "Slim's willingness to be vulnerable and seek help shows sincerity and a trust in others despite her dire situation, indicating a degree of warmth.",
+      "rating": 2,
+      "chunk": 57
+    },
+    {
+      "trait": "warmth",
+      "action": "Admits to Jim Toller that she already faced a custody hearing initiated by her husband.",
+      "assessment": "Her openness and honesty in sharing difficult personal information suggests sincerity and trustworthiness.",
+      "rating": 2,
+      "chunk": 57
+    },
+    {
+      "trait": "competence",
+      "action": "Approaches Jim Toller, admits desperation, and offers almost all her money to get help.",
+      "assessment": "This shows resourcefulness and determination to seek help despite limited options, indicating some level of practical competence under pressure.",
+      "rating": 1,
+      "chunk": 57
+    },
+    {
+      "trait": "competence",
+      "action": "Fails to file a police complaint after two chances despite ongoing threats from her husband.",
+      "assessment": "This omission is a significant lapse in judgment and legal prudence, suggesting a lack of strategic thinking and self-protection skills.",
+      "rating": -2,
+      "chunk": 57
+    },
+    {
+      "trait": "competence",
+      "action": "Breaks into Jim Toller's office uninvited.",
+      "assessment": "This action reflects poor planning and disregard for legal boundaries, undermining her credibility and indicating impulsiveness rather than skill.",
+      "rating": -1,
+      "chunk": 57
+    },
+    {
+      "trait": "warmth",
+      "action": "Stares at Jim Toller in disbelief and asks if he is not going to help her.",
+      "assessment": "Slim's reaction shows vulnerability and a desire for support, indicating she values help and connection, which reflects warmth.",
+      "rating": 1,
+      "chunk": 58
+    },
+    {
+      "trait": "warmth",
+      "action": "Drives late at night with Gracie asleep beside her and makes a solemn promise to protect her from all harm, even if it means absorbing pain herself.",
+      "assessment": "This action reveals deep care, protectiveness, and sincere love, strongly indicating high warmth.",
+      "rating": 3,
+      "chunk": 58
+    },
+    {
+      "trait": "competence",
+      "action": "Drives carefully while watching over Gracie, who is asleep beside him, and makes a solemn promise to protect her from harm.",
+      "assessment": "This shows Slim's sense of responsibility and emotional intelligence, indicating a thoughtful and protective nature, which are aspects of competence in personal and caregiving roles.",
+      "rating": 2,
+      "chunk": 58
+    },
+    {
+      "trait": "competence",
+      "action": "Stares in disbelief and questions Jim Toller's refusal to help.",
+      "assessment": "Slim's reaction suggests a moment of surprise and perhaps a lack of preparedness for the bluntness of the situation, indicating some vulnerability or uncertainty in handling difficult negotiations or confrontations.",
+      "rating": 0,
+      "chunk": 58
+    },
+    {
+      "trait": "warmth",
+      "action": "Surprises Ginny at the airport to make sure she isn't followed and provides her with a credit card and cash, telling her to think of it as a vacation until the Orca reopens.",
+      "assessment": "Slim's actions show care, protectiveness, and generosity, indicating a sincere concern for Ginny's safety and well-being.",
+      "rating": 3,
+      "chunk": 59
+    },
+    {
+      "trait": "warmth",
+      "action": "Introduces Gracie to Ginny and facilitates a warm reunion with hugs.",
+      "assessment": "This demonstrates friendliness and a nurturing attitude, fostering connection and comfort.",
+      "rating": 2,
+      "chunk": 59
+    },
+    {
+      "trait": "competence",
+      "action": "Anticipates potential danger and shows up unexpectedly at the airport parking garage to ensure Ginny is not being followed.",
+      "assessment": "This action demonstrates foresight, vigilance, and protective instincts, indicating a high level of situational awareness and competence.",
+      "rating": 3,
+      "chunk": 59
+    },
+    {
+      "trait": "competence",
+      "action": "Provides Ginny with a credit card and cash, instructing her not to make calls home or to Phil, framing it as a temporary vacation.",
+      "assessment": "This shows resourcefulness and strategic thinking, as Slim is supporting Ginny financially and tactically to maintain secrecy and safety.",
+      "rating": 2,
+      "chunk": 59
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in a phone conversation with Ginny, suggesting a complex plan involving renting a car, driving to Denver, then flying to Reno.",
+      "assessment": "This indicates planning ability and an understanding of logistics, though the plan is met with disbelief by Ginny, suggesting it might be risky or unconventional.",
+      "rating": 1,
+      "chunk": 59
+    },
+    {
+      "trait": "warmth",
+      "action": "Pulls Gracie back into a hug and holds her for as long as she can tolerate, showing visible tears in her eyes.",
+      "assessment": "This action demonstrates genuine affection, care, and emotional openness toward Gracie, indicating a strong capacity for warmth.",
+      "rating": 3,
+      "chunk": 60
+    },
+    {
+      "trait": "warmth",
+      "action": "Gives Gracie a cell phone and instructs Ginny to take care of her, emphasizing extra ice cream and quick calls only in emergencies.",
+      "assessment": "Providing a phone and specific instructions shows responsibility and concern, though the insistence on very brief calls and avoiding friends suggests a protective but somewhat controlling approach.",
+      "rating": 1,
+      "chunk": 60
+    },
+    {
+      "trait": "warmth",
+      "action": "Engages in light banter with Ginny about calling strangers and cake versus pie.",
+      "assessment": "The playful exchange indicates friendliness and a relaxed rapport, reflecting a warm and approachable side.",
+      "rating": 2,
+      "chunk": 60
+    },
+    {
+      "trait": "warmth",
+      "action": "Maintains intense focus and determination during a physical challenge in the gym, showing no fear despite the opponent's size.",
+      "assessment": "While this shows strength and resolve, it does not directly reflect warmth; it is more indicative of inner toughness and focus.",
+      "rating": 0,
+      "chunk": 60
+    },
+    {
+      "trait": "competence",
+      "action": "Pulls Gracie back into a hug to prevent her from climbing into the car, holding her for as long as she can tolerate.",
+      "assessment": "This action shows emotional awareness and control, indicating Slim's ability to manage difficult emotional situations with care and sensitivity.",
+      "rating": 2,
+      "chunk": 60
+    },
+    {
+      "trait": "competence",
+      "action": "Hands Gracie a cell phone with instructions to only call in emergencies and sets herself as the top contact on the auto-dialer.",
+      "assessment": "This demonstrates foresight, planning, and clear communication, reflecting Slim's practical and responsible approach to caregiving and crisis management.",
+      "rating": 3,
+      "chunk": 60
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in a focused, intense mental or physical preparation in the gym, showing determination and confidence when asked if she can lose or be hurt.",
+      "assessment": "Slim's intense focus and confident denial of vulnerability suggest strong mental resilience and physical preparedness, key indicators of competence.",
+      "rating": 3,
+      "chunk": 60
+    },
+    {
+      "trait": "competence",
+      "action": "Responds quietly and honestly about the size difference with her opponent ('He's a lot bigger...').",
+      "assessment": "This shows realistic self-awareness and honesty about challenges, which is a sign of mature competence rather than denial or overconfidence.",
+      "rating": 2,
+      "chunk": 60
+    },
+    {
+      "trait": "warmth",
+      "action": "Responds quietly and confidently to the instructor's questions about strength and defense.",
+      "assessment": "Slim's calm and focused demeanor suggests self-trust and sincerity, but there is little direct evidence of warmth toward others in this interaction.",
+      "rating": 1,
+      "chunk": 61
+    },
+    {
+      "trait": "warmth",
+      "action": "Sits beside the instructor after successfully defending against the attack and closes her eyes when signaled.",
+      "assessment": "Her willingness to follow the instructor's lead and show trust indicates respect and openness, which are mild positive indicators of warmth.",
+      "rating": 1,
+      "chunk": 61
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses disbelief when told to prepare for the impossible (being hit when distracted).",
+      "assessment": "Her resistance to accepting harsh realities may reflect a limited tolerance for difficult truths, showing some rigidity rather than warmth.",
+      "rating": -1,
+      "chunk": 61
+    },
+    {
+      "trait": "competence",
+      "action": "Acknowledges that the opponent is bigger and stronger, but confidently asserts 'No way' when asked if the opponent can hit her.",
+      "assessment": "This shows Slim's confidence and mental preparedness, indicating a competent mindset in facing a stronger adversary.",
+      "rating": 2,
+      "chunk": 61
+    },
+    {
+      "trait": "competence",
+      "action": "Explains that it takes twice as much energy to swing and miss as to swing and hit.",
+      "assessment": "This demonstrates Slim's understanding of combat efficiency and energy conservation, reflecting skill and intelligence in fighting strategy.",
+      "rating": 2,
+      "chunk": 61
+    },
+    {
+      "trait": "competence",
+      "action": "Responds with disbelief when told that a sudden unexpected hit could occur if distracted.",
+      "assessment": "This reaction suggests a slight underestimation of unpredictability in combat, indicating a potential gap in situational awareness or acceptance of uncertainty.",
+      "rating": -1,
+      "chunk": 61
+    },
+    {
+      "trait": "warmth",
+      "action": "Nods almost imperceptibly to the instructor's guidance during a difficult exercise, showing trust and willingness to engage.",
+      "assessment": "Slim's subtle nod indicates a respectful and sincere openness to learning and trusting the instructor, reflecting a gentle and receptive nature.",
+      "rating": 2,
+      "chunk": 62
+    },
+    {
+      "trait": "warmth",
+      "action": "Strides through the office unapologetically interrupting various conversations to demand Jupiter's attention.",
+      "assessment": "While determined and assertive, this behavior shows a lack of tact and consideration for others' time, suggesting lower warmth in social interactions.",
+      "rating": -1,
+      "chunk": 62
+    },
+    {
+      "trait": "warmth",
+      "action": "Responds to Jupiter's irritation with indifference to his wishes, saying 'I don't care what you want.'",
+      "assessment": "This blunt dismissal of another's feelings or requests indicates a degree of insensitivity and low tolerance, negatively impacting perceived warmth.",
+      "rating": -2,
+      "chunk": 62
+    },
+    {
+      "trait": "warmth",
+      "action": "Answers Jupiter's question about the man he set her up with honestly and without malice.",
+      "assessment": "Her straightforward and sincere response suggests honesty and trustworthiness, positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 62
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses hope that the man taught her how to think, showing openness to growth and learning.",
+      "assessment": "This reflects humility and a willingness to improve, traits associated with a good-natured and sincere character.",
+      "rating": 2,
+      "chunk": 62
+    },
+    {
+      "trait": "competence",
+      "action": "Strides through the office unapologetically interrupting various conversations and demands Jupiter's attention without hesitation.",
+      "assessment": "This action demonstrates confidence and assertiveness, indicating a strong sense of self-assurance and social boldness, which are positive indicators of competence.",
+      "rating": 2,
+      "chunk": 62
+    },
+    {
+      "trait": "competence",
+      "action": "Responds calmly and succinctly to Jupiter's irritation, showing no sign of backing down.",
+      "assessment": "Her ability to maintain composure and stand her ground in a tense interaction suggests emotional control and interpersonal skill, supporting a competent demeanor.",
+      "rating": 2,
+      "chunk": 62
+    },
+    {
+      "trait": "competence",
+      "action": "Engages thoughtfully with Jupiter's unexpected question about whether her mentor taught her how to think.",
+      "assessment": "This shows intellectual openness and self-awareness, reflecting cognitive competence and a willingness to learn and reflect.",
+      "rating": 2,
+      "chunk": 62
+    },
+    {
+      "trait": "competence",
+      "action": "Mentions multiple mentors (the black guy and the English guy) as sources of learning.",
+      "assessment": "This indicates resourcefulness and an ability to seek knowledge from diverse sources, a positive sign of competence.",
+      "rating": 2,
+      "chunk": 62
+    },
+    {
+      "trait": "competence",
+      "action": "In the training exercise, she lies still as if dead while hearing the instructor's voice, showing internal focus and control despite vulnerability.",
+      "assessment": "Her ability to maintain calm and focus under simulated threat conditions suggests mental discipline and situational awareness, which are positive competence indicators.",
+      "rating": 2,
+      "chunk": 62
+    },
+    {
+      "trait": "warmth",
+      "action": "Hands over a photo and key, requesting a woman who looks like her and can handle herself, specifying details and instructions in a businesslike manner.",
+      "assessment": "Slim's approach is very transactional and focused on practical needs, showing little warmth or personal connection in this interaction.",
+      "rating": -1,
+      "chunk": 63
+    },
+    {
+      "trait": "warmth",
+      "action": "Requests Jupiter to acknowledge that he is her kid, but says it should not be done immediately to avoid phoniness.",
+      "assessment": "This indicates a desire for sincere emotional connection, suggesting some underlying warmth, though the phrasing is cautious and guarded.",
+      "rating": 1,
+      "chunk": 63
+    },
+    {
+      "trait": "warmth",
+      "action": "Thanks the clerk after purchasing electronics and confirms the product will work.",
+      "assessment": "Polite and courteous behavior, showing basic friendliness and respect in everyday interactions.",
+      "rating": 2,
+      "chunk": 63
+    },
+    {
+      "trait": "warmth",
+      "action": "Calls the Tyler residence and politely asks the butler to inform Mrs. Tyler she will call later.",
+      "assessment": "Demonstrates good manners and consideration, indicating a respectful and sincere demeanor.",
+      "rating": 2,
+      "chunk": 63
+    },
+    {
+      "trait": "competence",
+      "action": "Clearly communicates specific requirements for a woman who can handle herself, including physical description and meeting details.",
+      "assessment": "This shows Slim's ability to be precise and organized in planning, indicating a high level of competence in managing complex tasks.",
+      "rating": 3,
+      "chunk": 63
+    },
+    {
+      "trait": "competence",
+      "action": "Hands over a key and photo with clear instructions and timing.",
+      "assessment": "Demonstrates confidence and trust in delegation, reflecting skillful and strategic thinking.",
+      "rating": 2,
+      "chunk": 63
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in light banter about Jupiter being 'all-powerful' before returning to business.",
+      "assessment": "Shows social ease and confidence, balancing professionalism with a relaxed demeanor, which can be a sign of competent interpersonal skills.",
+      "rating": 1,
+      "chunk": 63
+    },
+    {
+      "trait": "competence",
+      "action": "Signs credit card slip and confirms the functionality of purchased merchandise.",
+      "assessment": "Indicates practical awareness and attention to detail, ensuring tools or equipment are reliable, a positive competence indicator.",
+      "rating": 2,
+      "chunk": 63
+    },
+    {
+      "trait": "competence",
+      "action": "Makes a polite phone call to arrange a callback with Mrs. Tyler through the butler.",
+      "assessment": "Shows social tact and ability to navigate formal communication channels effectively.",
+      "rating": 2,
+      "chunk": 63
+    },
+    {
+      "trait": "competence",
+      "action": "Leaves the electronics store and proceeds with her plan without hesitation.",
+      "assessment": "Demonstrates decisiveness and confidence in executing her plans.",
+      "rating": 2,
+      "chunk": 63
+    },
+    {
+      "trait": "warmth",
+      "action": "Engages in a lock-picking attempt with Alex, maintaining composure and a lighthearted attitude when confronted by a shady character, responding with a grin and a casual remark.",
+      "assessment": "Slim's calm and somewhat playful response to a potentially threatening situation suggests a friendly and sincere demeanor, showing confidence without aggression.",
+      "rating": 2,
+      "chunk": 64
+    },
+    {
+      "trait": "warmth",
+      "action": "Plans to bring Gracie by after the hearing and coordinates travel plans, showing consideration for family and future connection.",
+      "assessment": "This indicates a caring and trustworthy nature, valuing family relationships and making sincere efforts to maintain them.",
+      "rating": 3,
+      "chunk": 64
+    },
+    {
+      "trait": "competence",
+      "action": "Prepares her lockpicking tools and begins working quietly and with concentration to slip her tool into the lock.",
+      "assessment": "This action shows that Slim is skilled and focused, demonstrating technical ability and calmness under pressure.",
+      "rating": 2,
+      "chunk": 64
+    },
+    {
+      "trait": "competence",
+      "action": "Continues working on the lock despite the approach of a shady character, maintaining composure and not panicking.",
+      "assessment": "Her ability to stay calm and focused in a potentially threatening situation indicates confidence and situational awareness.",
+      "rating": 2,
+      "chunk": 64
+    },
+    {
+      "trait": "competence",
+      "action": "Responds to the shady character's question with a casual, confident remark about hoping to see some action despite the place being closed.",
+      "assessment": "This shows social confidence and quick thinking, using humor or deflection to handle suspicion without escalating tension.",
+      "rating": 1,
+      "chunk": 64
+    },
+    {
+      "trait": "competence",
+      "action": "Nods in understanding when Alex explains the alarm situation and readiness to proceed.",
+      "assessment": "This indicates that Slim is attentive and able to quickly grasp and adapt to new information, a sign of mental agility.",
+      "rating": 1,
+      "chunk": 64
+    },
+    {
+      "trait": "competence",
+      "action": "Does not successfully pick the lock quickly enough, leading Alex to open the door instead.",
+      "assessment": "This suggests a limitation in her speed or skill in this particular task, indicating some room for improvement.",
+      "rating": -1,
+      "chunk": 64
+    },
+    {
+      "trait": "warmth",
+      "action": "Smiles slightly to herself when noticing she is being followed by a man in a green trenchcoat.",
+      "assessment": "The slight smile suggests a calm, perhaps confident demeanor, but it is a private reaction rather than an expression of warmth toward others.",
+      "rating": 0,
+      "chunk": 65
+    },
+    {
+      "trait": "warmth",
+      "action": "Instructs Tova to use her cell phone to call her dad and to maintain the illusion that Slim is still present.",
+      "assessment": "This action shows trust and reliance on Tova, indicating a degree of sincerity and cooperation, but it is primarily strategic rather than warm or friendly.",
+      "rating": 1,
+      "chunk": 65
+    },
+    {
+      "trait": "warmth",
+      "action": "Allows Tova to wear her coat and imitate her appearance and voice.",
+      "assessment": "This suggests a level of trust and willingness to share identity, which can be seen as a sign of warmth and trustworthiness toward Tova.",
+      "rating": 2,
+      "chunk": 65
+    },
+    {
+      "trait": "competence",
+      "action": "Explains to Mrs. Tyler that he is in a big city using multiple cell phones to avoid being traced.",
+      "assessment": "This shows awareness of surveillance risks and a strategic approach to communication security, indicating intelligence and caution.",
+      "rating": 2,
+      "chunk": 65
+    },
+    {
+      "trait": "competence",
+      "action": "Notices a man in a green trench coat following him and reacts by walking hurriedly and glancing over his shoulder.",
+      "assessment": "Slim demonstrates situational awareness and caution, recognizing potential threats and adjusting behavior accordingly, which reflects competence.",
+      "rating": 2,
+      "chunk": 65
+    },
+    {
+      "trait": "competence",
+      "action": "Smiles slightly to himself upon noticing the follower.",
+      "assessment": "The smile suggests confidence and possibly a plan or control over the situation, indicating calmness under pressure and self-assurance.",
+      "rating": 2,
+      "chunk": 65
+    },
+    {
+      "trait": "competence",
+      "action": "Uses a lookalike, Tova, who resembles him and can imitate his voice, to create a decoy by having her use his cell phone and wear his coat.",
+      "assessment": "This is a clever and skillful tactic to mislead pursuers, showing strategic thinking, resourcefulness, and planning ability.",
+      "rating": 3,
+      "chunk": 65
+    },
+    {
+      "trait": "competence",
+      "action": "Uses the cell phone's autodial function to automate a call to his father, ensuring the decoy's actions appear authentic.",
+      "assessment": "This demonstrates technical savvy and attention to detail in executing a deception plan, reinforcing competence.",
+      "rating": 3,
+      "chunk": 65
+    },
+    {
+      "trait": "competence",
+      "action": "Feigns a bronchial illness over the phone to explain a change in voice.",
+      "assessment": "This quick improvisation to maintain the ruse shows adaptability and presence of mind.",
+      "rating": 2,
+      "chunk": 65
+    },
+    {
+      "trait": "warmth",
+      "action": "Advises Tova to stay in, order room service, and keep phone calls brief when she is unwell.",
+      "assessment": "Slim shows concern for Tova's wellbeing by giving practical advice to help her rest and avoid trouble, indicating a protective and caring attitude.",
+      "rating": 2,
+      "chunk": 66
+    },
+    {
+      "trait": "warmth",
+      "action": "Wishes Tova luck before undertaking a risky action herself.",
+      "assessment": "Slim's interaction with Tova is sincere and supportive, showing a friendly and encouraging demeanor.",
+      "rating": 2,
+      "chunk": 66
+    },
+    {
+      "trait": "warmth",
+      "action": "Prepares to enter a potentially dangerous situation alone, removing her wig and adopting a low profile.",
+      "assessment": "While this action shows courage and determination, it also suggests a solitary approach and a lack of seeking help or companionship, which may indicate limited warmth in terms of openness or trust.",
+      "rating": -1,
+      "chunk": 66
+    },
+    {
+      "trait": "competence",
+      "action": "Instructs Tova clearly on how to behave while she is being followed, including specific details like calling twice, keeping it brief, and where to eat.",
+      "assessment": "This shows Slim's ability to plan and communicate effectively under pressure, indicating good situational awareness and strategic thinking.",
+      "rating": 2,
+      "chunk": 66
+    },
+    {
+      "trait": "competence",
+      "action": "Removes her wig and adopts a low-profile appearance before leaving the hotel.",
+      "assessment": "This demonstrates Slim's understanding of disguise and operational security, reflecting skill and confidence in covert actions.",
+      "rating": 2,
+      "chunk": 66
+    },
+    {
+      "trait": "competence",
+      "action": "Waits calmly for the service elevator and exits through a rear entrance, moving cautiously through a dark, deserted street.",
+      "assessment": "This behavior indicates patience, caution, and tactical awareness, all signs of competent and careful execution of a plan.",
+      "rating": 2,
+      "chunk": 66
+    },
+    {
+      "trait": "competence",
+      "action": "Approaches a warehouse, surveys the environment carefully, and works on the lock of a secured door.",
+      "assessment": "This shows Slim's ability to conduct reconnaissance and perform a potentially difficult task (lockpicking) under pressure, suggesting skill and confidence.",
+      "rating": 2,
+      "chunk": 66
+    },
+    {
+      "trait": "competence",
+      "action": "Says 'Luck has nothing to do with it' when Tova wishes her luck.",
+      "assessment": "This statement reflects Slim's confidence in her own skills and preparation rather than relying on chance, indicating a competent mindset.",
+      "rating": 2,
+      "chunk": 66
+    },
+    {
+      "trait": "warmth",
+      "action": "Listens silently from the rafters to Mitch's phone conversation about his daughter and custody issues.",
+      "assessment": "Slim's choice to listen in secret rather than confront or engage directly suggests a guarded, possibly distrustful stance rather than openness or warmth.",
+      "rating": -1,
+      "chunk": 68
+    },
+    {
+      "trait": "warmth",
+      "action": "Turns off the Mr. Coffee machine left on by Mitch.",
+      "assessment": "This small considerate act shows attentiveness to others' needs and a responsible nature, indicating a mild positive warmth.",
+      "rating": 1,
+      "chunk": 68
+    },
+    {
+      "trait": "warmth",
+      "action": "Drops silently to the floor and hides when Mitch enters the kitchen, avoiding detection.",
+      "assessment": "Her stealth and avoidance of confrontation here suggest fear or mistrust rather than friendliness or sincerity, indicating low warmth.",
+      "rating": -2,
+      "chunk": 68
+    },
+    {
+      "trait": "competence",
+      "action": "Waits silently in the rafters until the alarm system is armed before climbing down.",
+      "assessment": "This shows patience, awareness of security measures, and tactical caution, indicating a competent and careful approach.",
+      "rating": 2,
+      "chunk": 68
+    },
+    {
+      "trait": "competence",
+      "action": "Notices the Mr. Coffee machine is still on and turns it off.",
+      "assessment": "This action demonstrates attention to detail and an understanding of how to avoid leaving traces, reflecting competence.",
+      "rating": 2,
+      "chunk": 68
+    },
+    {
+      "trait": "competence",
+      "action": "Drops silently to the floor and hides when the alarm beeps and the front door opens.",
+      "assessment": "Her ability to react quickly and silently to unexpected danger shows skill and presence of mind, indicating competence.",
+      "rating": 3,
+      "chunk": 68
+    },
+    {
+      "trait": "competence",
+      "action": "Freezes and tries not to breathe when Mitch is nearby, looking for a place to hide.",
+      "assessment": "While freezing can be a natural fear response, in this context it shows self-control and survival instinct, which are positive indicators of competence under pressure.",
+      "rating": 2,
+      "chunk": 68
+    },
+    {
+      "trait": "competence",
+      "action": "Scuttles away silently as Mitch enters, avoiding detection.",
+      "assessment": "This demonstrates stealth and situational awareness, reinforcing her capability in covert situations.",
+      "rating": 3,
+      "chunk": 68
+    },
+    {
+      "trait": "warmth",
+      "action": "Asks Ginny to stay off the phone for her, addressing her as 'honey' and expressing hope that she will.",
+      "assessment": "This shows a friendly and affectionate tone toward Ginny, indicating warmth and a trusting relationship.",
+      "rating": 2,
+      "chunk": 69
+    },
+    {
+      "trait": "warmth",
+      "action": "Focuses intensely on securing the apartment and preparing for potential danger, including removing knives and finding a pistol.",
+      "assessment": "While this demonstrates responsibility and self-protection, it reflects caution and fear rather than warmth; it is a neutral action regarding warmth.",
+      "rating": 0,
+      "chunk": 69
+    },
+    {
+      "trait": "warmth",
+      "action": "Throws away papers found in the drawer without apparent consideration.",
+      "assessment": "Discarding potentially important papers without review may suggest a lack of trust or care, which could be seen as a negative indicator of warmth.",
+      "rating": -1,
+      "chunk": 69
+    },
+    {
+      "trait": "competence",
+      "action": "Pours herself some coffee, replaces the liquid with water, and auto-dials her cell phone to check in.",
+      "assessment": "This shows Slim's ability to maintain calm and control, using routine actions to steady herself while preparing for what comes next.",
+      "rating": 2,
+      "chunk": 69
+    },
+    {
+      "trait": "competence",
+      "action": "Retrieves tools and equipment from a hidden duffle bag and begins systematically searching the apartment, checking the phone line and electrical box.",
+      "assessment": "This demonstrates technical skill, preparedness, and methodical problem-solving, indicating a high level of competence in handling potentially dangerous or complex situations.",
+      "rating": 3,
+      "chunk": 69
+    },
+    {
+      "trait": "competence",
+      "action": "Removes all knives from the kitchen and hides them, then assesses the apartment's layout and fighting spaces by moving furniture slightly and gauging distances.",
+      "assessment": "This action reflects strategic thinking, situational awareness, and proactive defense planning, all strong indicators of competence.",
+      "rating": 3,
+      "chunk": 69
+    },
+    {
+      "trait": "competence",
+      "action": "Uses a metal detector to search the apartment and finds a pistol, which she removes, and discards suspicious papers.",
+      "assessment": "This shows resourcefulness, attention to detail, and decisiveness in neutralizing potential threats, further underscoring her competence.",
+      "rating": 3,
+      "chunk": 69
+    },
+    {
+      "trait": "competence",
+      "action": "Eats a snack from the refrigerator during her preparations.",
+      "assessment": "This small action suggests self-care and maintaining energy, which supports sustained competence but is a minor indicator.",
+      "rating": 1,
+      "chunk": 69
+    },
+    {
+      "trait": "warmth",
+      "action": "Writes letters acknowledging the physical abuse she endured and expresses a willingness to work things out with the abuser, noting his new attitude.",
+      "assessment": "Despite the abuse, Slim shows a degree of openness and a desire for reconciliation, which can indicate a hopeful and sincere attempt at resolution.",
+      "rating": 1,
+      "chunk": 70
+    },
+    {
+      "trait": "warmth",
+      "action": "Rips up a photo of herself with Mitch and Gracie.",
+      "assessment": "Destroying a family photo suggests emotional pain and detachment, reflecting a moment of bitterness or loss rather than warmth.",
+      "rating": -2,
+      "chunk": 70
+    },
+    {
+      "trait": "warmth",
+      "action": "Hides guns and prepares a surveillance device in her home, carefully checking every corner and moving with stealth.",
+      "assessment": "These actions show caution and self-protection rather than trust or openness; they indicate a guarded and defensive stance, which is a negative indicator of warmth.",
+      "rating": -2,
+      "chunk": 70
+    },
+    {
+      "trait": "competence",
+      "action": "Carefully searches the desk with a metal detector, discovers a false bottom drawer containing a hidden gun and important papers.",
+      "assessment": "This action demonstrates thoroughness, attention to detail, and resourcefulness, indicating a high level of competence in investigation and situational awareness.",
+      "rating": 3,
+      "chunk": 70
+    },
+    {
+      "trait": "competence",
+      "action": "Hides the guns in the bottom of the laundry hamper and rips up a photo of herself with Mitch and Gracie.",
+      "assessment": "These actions show strategic thinking and emotional decisiveness, suggesting she is capable of taking practical steps to protect herself and sever ties with her past.",
+      "rating": 2,
+      "chunk": 70
+    },
+    {
+      "trait": "competence",
+      "action": "Sets up an electronic device hidden behind the couch and places her cell phone beside it.",
+      "assessment": "This indicates technical savvy and careful preparation, reflecting competence in planning and using technology for surveillance or communication.",
+      "rating": 2,
+      "chunk": 70
+    },
+    {
+      "trait": "competence",
+      "action": "Moves barefoot around the space, backing up and sliding deftly to learn the layout and navigate around furniture with ease and grace.",
+      "assessment": "Her physical control, spatial awareness, and methodical rehearsal of movement show skill, confidence, and readiness, all strong indicators of competence.",
+      "rating": 3,
+      "chunk": 70
+    },
+    {
+      "trait": "competence",
+      "action": "Stands perfectly still, poised like an animal in the forest, after finishing her movement rehearsal.",
+      "assessment": "This moment of stillness and alertness suggests mental discipline and situational awareness, reinforcing her competent and prepared mindset.",
+      "rating": 2,
+      "chunk": 70
+    },
+    {
+      "trait": "warmth",
+      "action": "Calls Ginny and asks her to repeat her reassurance about the right to protect oneself and offspring.",
+      "assessment": "Slim seeks comfort and validation from a trusted friend, indicating vulnerability and a desire for sincere support.",
+      "rating": 2,
+      "chunk": 71
+    },
+    {
+      "trait": "warmth",
+      "action": "Remains silent and composed on the phone after hearing Ginny's words, then quietly resumes her waiting.",
+      "assessment": "Her calm and reserved demeanor suggests introspection rather than hostility or coldness, showing a sincere and grounded nature.",
+      "rating": 1,
+      "chunk": 71
+    },
+    {
+      "trait": "warmth",
+      "action": "Speaks quietly to Mitch, acknowledging his presence and engaging in a subtle, familiar exchange about everyday details like the coffee.",
+      "assessment": "This interaction shows a level of trust and warmth in their relationship, with Slim using gentle humor and normalcy to connect.",
+      "rating": 2,
+      "chunk": 71
+    },
+    {
+      "trait": "competence",
+      "action": "Turns off the machine, picks up her cell phone, and auto-dials without hesitation.",
+      "assessment": "This action shows decisiveness and familiarity with technology, indicating a calm and capable approach to communication under pressure.",
+      "rating": 2,
+      "chunk": 71
+    },
+    {
+      "trait": "competence",
+      "action": "Listens carefully to Ginny's voice and requests her to repeat the important statement.",
+      "assessment": "This demonstrates Slim's focus and desire to internalize critical information, reflecting thoughtful and deliberate behavior.",
+      "rating": 2,
+      "chunk": 71
+    },
+    {
+      "trait": "competence",
+      "action": "Hangs up, turns the machine back on, stashes her phone, and lowers herself onto the chair facing the door, waiting calmly.",
+      "assessment": "Her composed and strategic positioning suggests situational awareness and patience, hallmarks of competent behavior in a tense situation.",
+      "rating": 3,
+      "chunk": 71
+    },
+    {
+      "trait": "competence",
+      "action": "Speaks quietly to Mitch, confirming her identity and engaging in subtle communication.",
+      "assessment": "This indicates control over the situation and effective use of low-profile communication, showing skill and confidence.",
+      "rating": 2,
+      "chunk": 71
+    },
+    {
+      "trait": "competence",
+      "action": "Leaves letters in the drawer for Mitch to find, using indirect communication.",
+      "assessment": "This shows foresight and strategic thinking, using indirect methods to convey information, which is a sign of competence.",
+      "rating": 3,
+      "chunk": 71
+    },
+    {
+      "trait": "warmth",
+      "action": "Attempts to call 911 multiple times when he cannot find the gun and cannot see the other person.",
+      "assessment": "Trying to get help in a tense situation shows concern for safety and a responsible attitude, indicating some degree of warmth and care.",
+      "rating": 2,
+      "chunk": 72
+    },
+    {
+      "trait": "warmth",
+      "action": "Engages in a tense conversation with Mitch, challenging him to decide whether he is a coward and offering him the option to run without stopping him.",
+      "assessment": "While the tone is confrontational, Slim's willingness to let Mitch leave without force suggests a degree of respect and non-hostility, which can be seen as a moderate positive indicator of warmth.",
+      "rating": 1,
+      "chunk": 72
+    },
+    {
+      "trait": "warmth",
+      "action": "Throws the cell phone onto the bed in frustration after failed attempts to call 911.",
+      "assessment": "This action shows frustration and a lack of patience, which may indicate stress but also a momentary lapse in warmth.",
+      "rating": -1,
+      "chunk": 72
+    },
+    {
+      "trait": "warmth",
+      "action": "Does not take immediate aggressive action despite the tense situation and presence of a threat.",
+      "assessment": "His hesitation and uncertainty about what to do next could indicate caution and a reluctance to escalate conflict, which may reflect a more tolerant and less hostile nature.",
+      "rating": 1,
+      "chunk": 72
+    },
+    {
+      "trait": "competence",
+      "action": "Fails to find the gun quickly and gives up trying to be quiet, tossing papers onto the floor.",
+      "assessment": "This suggests a lack of stealth and possibly poor situational control under pressure, indicating a momentary lapse in competence.",
+      "rating": -1,
+      "chunk": 72
+    },
+    {
+      "trait": "competence",
+      "action": "Attempts to call 911 multiple times on his cell phone, but the calls do not go through due to a machine knocking out cell phones.",
+      "assessment": "Shows presence of mind to seek help, but lack of awareness about the environment's interference with communication reduces effectiveness.",
+      "rating": 0,
+      "chunk": 72
+    },
+    {
+      "trait": "competence",
+      "action": "Throws the cell phone onto the bed after failed attempts to call for help and then surveys the space carefully.",
+      "assessment": "Demonstrates adaptability by ceasing ineffective actions and shifting to observation, indicating situational awareness.",
+      "rating": 1,
+      "chunk": 72
+    },
+    {
+      "trait": "competence",
+      "action": "Stops and appears uncertain about where to go or what to do next.",
+      "assessment": "This hesitation reflects indecisiveness and lack of clear planning in a critical moment, detracting from competence.",
+      "rating": -2,
+      "chunk": 72
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in a psychological dialogue with Mitch, challenging him about fear and the nature of their confrontation.",
+      "assessment": "Shows mental resilience and attempts to assert control over the situation through verbal dominance, indicating some level of confidence and strategic thinking.",
+      "rating": 2,
+      "chunk": 72
+    },
+    {
+      "trait": "warmth",
+      "action": "Engages in a physical confrontation with Mitch but maintains a neutral, focused expression and does not escalate beyond self-defense.",
+      "assessment": "Slim's calm and controlled demeanor during the confrontation suggests restraint and a lack of aggression beyond necessary self-defense, indicating a level of self-control and respect for boundaries.",
+      "rating": 1,
+      "chunk": 73
+    },
+    {
+      "trait": "warmth",
+      "action": "States 'Self defense is not murder' to Mitch, correcting his misunderstanding.",
+      "assessment": "By calmly clarifying the nature of her actions, Slim demonstrates sincerity and a desire for honest communication, which are positive indicators of warmth.",
+      "rating": 2,
+      "chunk": 73
+    },
+    {
+      "trait": "warmth",
+      "action": "Does not respond verbally to Mitch's provocations and instead focuses on watching his movements carefully.",
+      "assessment": "Her silence and focus suggest tolerance and patience, avoiding unnecessary conflict escalation, which reflects a degree of warmth.",
+      "rating": 1,
+      "chunk": 73
+    },
+    {
+      "trait": "warmth",
+      "action": "Moves gracefully and avoids Mitch's attacks without retaliating aggressively.",
+      "assessment": "Her avoidance rather than aggression shows a preference for non-violence and possibly a protective attitude, which can be seen as a warm behavior.",
+      "rating": 2,
+      "chunk": 73
+    },
+    {
+      "trait": "warmth",
+      "action": "Engages in a tense, potentially hostile situation without showing overt friendliness or attempts to de-escalate verbally.",
+      "assessment": "While she is restrained, the lack of attempts to verbally ease tensions or show friendliness limits the warmth perceived in this interaction.",
+      "rating": 0,
+      "chunk": 73
+    },
+    {
+      "trait": "competence",
+      "action": "Slowly comes out from hiding and engages in a physical confrontation with Mitch, who is bigger and armed with aggression.",
+      "assessment": "Slim demonstrates calmness and confidence by not rushing out but approaching deliberately, indicating control and readiness.",
+      "rating": 2,
+      "chunk": 73
+    },
+    {
+      "trait": "competence",
+      "action": "Positions herself barefoot, feet spread for balance, arms slightly raised, showing a prepared and balanced stance.",
+      "assessment": "This posture shows awareness of physical readiness and tactical positioning, suggesting skill and training.",
+      "rating": 2,
+      "chunk": 73
+    },
+    {
+      "trait": "competence",
+      "action": "Evades Mitch's lunging attack by sliding to the side, causing him to miss.",
+      "assessment": "This quick, graceful evasion indicates agility and effective defensive skill.",
+      "rating": 3,
+      "chunk": 73
+    },
+    {
+      "trait": "competence",
+      "action": "Moves backward slowly and gracefully while stalking opponent, maintaining focus on his eyes and chest to anticipate attacks.",
+      "assessment": "Shows strategic thinking and situational awareness, using practiced movements to control distance and read opponent's intentions.",
+      "rating": 3,
+      "chunk": 73
+    },
+    {
+      "trait": "competence",
+      "action": "Remains silent and neutral in expression despite Mitch's provocations and verbal taunts.",
+      "assessment": "Demonstrates emotional control and mental discipline, not allowing opponent to unsettle her.",
+      "rating": 2,
+      "chunk": 73
+    },
+    {
+      "trait": "competence",
+      "action": "Correctly asserts that self-defense is not murder, stopping Mitch's aggressive argument.",
+      "assessment": "Shows clarity of thought and confidence in her moral and legal position, effectively countering opponent's reasoning.",
+      "rating": 2,
+      "chunk": 73
+    },
+    {
+      "trait": "competence",
+      "action": "Does not respond verbally to Mitch's repeated questions and provocations, maintaining focus on the physical confrontation.",
+      "assessment": "This omission could be seen as strategic restraint, avoiding giving away information or emotional reactions, indicating competence.",
+      "rating": 1,
+      "chunk": 73
+    },
+    {
+      "trait": "warmth",
+      "action": "Claims he is just defending himself and insists on self-defense despite aggressive behavior.",
+      "assessment": "Slim's insistence on self-defense while aggressively attacking Mitch suggests a lack of genuine concern or empathy, indicating low warmth.",
+      "rating": -2,
+      "chunk": 74
+    },
+    {
+      "trait": "warmth",
+      "action": "Smiles sweetly while saying 'I'll have to give myself bruises' to justify his actions.",
+      "assessment": "The use of a 'sweet smile' in a threatening context appears insincere and manipulative rather than friendly or warm.",
+      "rating": -2,
+      "chunk": 74
+    },
+    {
+      "trait": "warmth",
+      "action": "Engages in violent physical aggression against Mitch, a smaller opponent.",
+      "assessment": "Resorting to violence and intimidation, especially against someone physically weaker, strongly indicates a lack of warmth.",
+      "rating": -3,
+      "chunk": 74
+    },
+    {
+      "trait": "competence",
+      "action": "Lunges and rushes at Mitch but stumbles after jumping over the couch, losing balance.",
+      "assessment": "This shows a lack of physical coordination and balance compared to Mitch, indicating a weakness in agility and control during combat.",
+      "rating": -1,
+      "chunk": 74
+    },
+    {
+      "trait": "competence",
+      "action": "Gets punched in the nose by Mitch and goes down, but quickly climbs to his feet and continues the fight.",
+      "assessment": "Demonstrates resilience and persistence, showing mental toughness and willingness to continue despite injury.",
+      "rating": 1,
+      "chunk": 74
+    },
+    {
+      "trait": "competence",
+      "action": "Resumes stalking Mitch with anger, becoming more aggressive and scary.",
+      "assessment": "While this shows determination and intimidation, it also suggests a loss of composure and possible impulsiveness, which can undermine strategic competence.",
+      "rating": 0,
+      "chunk": 74
+    },
+    {
+      "trait": "competence",
+      "action": "Rushes Mitch with terrifying force but is thrown against a brick wall, sustaining a cut and bleeding.",
+      "assessment": "Indicates physical strength and aggression but poor tactical judgment and vulnerability to counterattack.",
+      "rating": 0,
+      "chunk": 74
+    },
+    {
+      "trait": "competence",
+      "action": "Claims self-defense and references letters in the drawer where Mitch's pistol was, pointing out Mitch left prints on them.",
+      "assessment": "Shows some level of intelligence and awareness, using evidence to support his claim and attempting to control the narrative.",
+      "rating": 2,
+      "chunk": 74
+    },
+    {
+      "trait": "competence",
+      "action": "Goes berserk, leaping at Mitch with massive arms swinging, relying on size and strength.",
+      "assessment": "Relies heavily on brute force and intimidation rather than skill or strategy, which may be effective but lacks finesse and control.",
+      "rating": 0,
+      "chunk": 74
+    },
+    {
+      "trait": "competence",
+      "action": "Leaps at her, covering ground quickly with his long stride, swinging his massive arms.",
+      "assessment": "This shows physical capability and aggression, indicating some level of combat skill and confidence in his strength.",
+      "rating": 2,
+      "chunk": 75
+    },
+    {
+      "trait": "competence",
+      "action": "Misses multiple punches, some wild and comical, others close but ineffective.",
+      "assessment": "Repeatedly missing his target despite his power suggests poor precision and control, undermining his effectiveness in combat.",
+      "rating": -2,
+      "chunk": 75
+    },
+    {
+      "trait": "competence",
+      "action": "Throws an ashtray at her but it flies over her head.",
+      "assessment": "This indicates poor aim and desperation, reflecting a lack of skill or composure under pressure.",
+      "rating": -2,
+      "chunk": 75
+    },
+    {
+      "trait": "competence",
+      "action": "Stops fighting and makes a great effort to pull himself together after becoming wild and bloodied.",
+      "assessment": "Shows some self-awareness and ability to regain composure, which is a positive indicator of mental control and competence.",
+      "rating": 1,
+      "chunk": 75
+    },
+    {
+      "trait": "competence",
+      "action": "Rushes at her again, blocks her moves, punches grazing her hair but ultimately missing.",
+      "assessment": "Demonstrates persistence and some tactical blocking ability, but failure to land effective hits shows limited success in execution.",
+      "rating": 0,
+      "chunk": 75
+    },
+    {
+      "trait": "competence",
+      "action": "Grabs a lamp, yanks out the cord, and wields it like a club.",
+      "assessment": "Shows resourcefulness in using available objects as weapons, indicating adaptability and situational awareness.",
+      "rating": 1,
+      "chunk": 75
+    },
+    {
+      "trait": "warmth",
+      "action": "Attempts to fight using a lamp as a weapon, misses multiple times, and ends up unconscious after being attacked.",
+      "assessment": "Slim's aggressive behavior and use of a weapon in a fight suggest a confrontational and potentially hostile attitude rather than warmth.",
+      "rating": -2,
+      "chunk": 76
+    },
+    {
+      "trait": "warmth",
+      "action": "After being knocked unconscious, he does not retaliate or escalate further.",
+      "assessment": "His lack of further aggression after being incapacitated could indicate restraint, but given the context, it is more a result of being physically unable rather than a warm or tolerant choice.",
+      "rating": -1,
+      "chunk": 76
+    },
+    {
+      "trait": "warmth",
+      "action": "No indication of concern or remorse for the violence or the situation.",
+      "assessment": "The excerpt shows no signs of Slim expressing care, friendliness, or sincerity, which are key components of warmth.",
+      "rating": -3,
+      "chunk": 76
+    },
+    {
+      "trait": "competence",
+      "action": "Wields a lamp cord as a weapon and attempts to strike his opponent multiple times.",
+      "assessment": "Using an improvised weapon shows some resourcefulness, but missing all three strikes and injuring his own hand indicates poor execution and lack of precision.",
+      "rating": -1,
+      "chunk": 76
+    },
+    {
+      "trait": "competence",
+      "action": "After being hit, he roars with rage and lunges headfirst at his opponent with great speed.",
+      "assessment": "Charging headfirst in anger suggests impulsiveness and poor tactical judgment, undermining his combat effectiveness.",
+      "rating": -2,
+      "chunk": 76
+    },
+    {
+      "trait": "competence",
+      "action": "Is hurled into a wall, hits his head hard, shudders, and drops unconscious without any further resistance.",
+      "assessment": "Being incapacitated so quickly and completely reflects a significant lack of physical resilience or defensive skill in this encounter.",
+      "rating": -3,
+      "chunk": 76
+    },
+    {
+      "trait": "competence",
+      "action": "Misses hitting Mitch intentionally and turns away with tears in her eyes.",
+      "assessment": "This shows emotional turmoil and hesitation, indicating a lack of decisiveness and confidence in a critical moment, which detracts from her competence.",
+      "rating": -2,
+      "chunk": 77
+    },
+    {
+      "trait": "competence",
+      "action": "Retrieves her cell phone, turns off the blocker, and calls Ginny despite the danger.",
+      "assessment": "This demonstrates presence of mind and resourcefulness under stress, reflecting a competent and strategic approach to seeking help.",
+      "rating": 2,
+      "chunk": 77
+    },
+    {
+      "trait": "competence",
+      "action": "Acknowledges she beat Mitch but refuses to kill him, stating 'I'm not a killer! I'm not him!'",
+      "assessment": "While this shows moral conviction and self-awareness, it also reveals internal conflict and hesitation that may impair her ability to act decisively in life-threatening situations, slightly reducing perceived competence.",
+      "rating": 0,
+      "chunk": 77
+    },
+    {
+      "trait": "competence",
+      "action": "Senses the incoming attack with the lamp and slightly turns her head so the blow does not land fully on her skull.",
+      "assessment": "This quick reflex and situational awareness under extreme duress indicate physical and mental alertness, a positive indicator of competence.",
+      "rating": 2,
+      "chunk": 77
+    },
+    {
+      "trait": "competence",
+      "action": "Does not move after being struck and lies on the floor while Mitch stands over her.",
+      "assessment": "This passivity in a dangerous moment could be interpreted as shock or resignation, which may reflect a temporary lapse in active self-defense, slightly detracting from competence.",
+      "rating": -1,
+      "chunk": 77
+    },
+    {
+      "trait": "warmth",
+      "action": "Fights back against Mitch to protect herself and her children from abuse.",
+      "assessment": "Slim's action to defend herself and presumably her children from an abusive attack shows courage and a protective instinct, which can be seen as an expression of care and responsibility, indicating a degree of warmth toward her family.",
+      "rating": 2,
+      "chunk": 78
+    },
+    {
+      "trait": "competence",
+      "action": "Grabs Mitch's foot as he attempts to kick her, pulling him off balance and causing him to crash down.",
+      "assessment": "This action demonstrates Slim's quick reflexes, situational awareness, and physical skill in a high-pressure moment.",
+      "rating": 3,
+      "chunk": 78
+    },
+    {
+      "trait": "competence",
+      "action": "Executes a perfectly timed and powerful uppercut that incapacitates Mitch instantly.",
+      "assessment": "This shows Slim's advanced fighting ability, precision, and confidence in her physical capabilities, indicating a high level of competence.",
+      "rating": 3,
+      "chunk": 78
+    },
+    {
+      "trait": "competence",
+      "action": "Maintains composure and readiness after being attacked, with alert facial expression and proper fighting stance.",
+      "assessment": "Her calm and prepared demeanor under threat reflects mental discipline and confidence, reinforcing her competence.",
+      "rating": 2,
+      "chunk": 78
+    },
+    {
+      "trait": "warmth",
+      "action": "Calls Ginny for help after finding Mitch not breathing and communicates the situation calmly.",
+      "assessment": "Slim's immediate action to seek help and communicate clearly shows responsibility and concern for others' safety, indicating a degree of warmth.",
+      "rating": 2,
+      "chunk": 79
+    },
+    {
+      "trait": "warmth",
+      "action": "Puts the cell-phone blocker into the duffle and disposes of both the phone and duffle by dropping them into the water.",
+      "assessment": "This action suggests a strategic or protective motive, but it also involves secrecy and possibly deception, which complicates the warmth assessment; it may indicate distrust or a need to protect others, but lacks openness.",
+      "rating": 0,
+      "chunk": 79
+    },
+    {
+      "trait": "warmth",
+      "action": "Lowers her head when the cop arrives and sees the blood on her scalp.",
+      "assessment": "This nonverbal behavior may indicate vulnerability or shame, showing a human and sincere emotional response, which can be seen as a sign of warmth.",
+      "rating": 1,
+      "chunk": 79
+    },
+    {
+      "trait": "competence",
+      "action": "Communicates clearly and calmly with Ginny over the phone during a crisis, providing critical information about the victim's condition.",
+      "assessment": "This shows Slim's ability to stay composed and convey important details under pressure, indicating a competent and level-headed approach.",
+      "rating": 2,
+      "chunk": 79
+    },
+    {
+      "trait": "competence",
+      "action": "Puts the cell-phone blocker into the duffle bag and carries it to the rear of the building before discarding it into the water.",
+      "assessment": "This action demonstrates foresight and tactical thinking to prevent tracking or interception, reflecting skill and intelligence in handling sensitive situations.",
+      "rating": 3,
+      "chunk": 79
+    },
+    {
+      "trait": "competence",
+      "action": "Nods silently when Ginny says the cops are on their way, showing understanding without unnecessary verbal confirmation.",
+      "assessment": "This suggests Slim's ability to process information efficiently and respond appropriately without wasting time, a subtle indicator of competence.",
+      "rating": 1,
+      "chunk": 79
+    },
+    {
+      "trait": "competence",
+      "action": "Drops the cell phone and duffle bag into the water to sink them.",
+      "assessment": "This deliberate disposal of evidence indicates strategic thinking and awareness of consequences, reinforcing Slim's capability in managing risky situations.",
+      "rating": 3,
+      "chunk": 79
+    },
+    {
+      "trait": "competence",
+      "action": "Lowers her head when the cops arrive and sees the blood on her scalp.",
+      "assessment": "While this may show emotional burden or resignation, it also reflects an understanding of the gravity of the situation; however, it does not strongly indicate competence or incompetence.",
+      "rating": 0,
+      "chunk": 79
+    },
+    {
+      "trait": "warmth",
+      "action": "Waits patiently as Joe hugs Gracie and lingers in the hug while she waits.",
+      "assessment": "Slim shows patience and restraint, allowing Joe a moment with Gracie, which suggests respect and trust.",
+      "rating": 2,
+      "chunk": 80
+    },
+    {
+      "trait": "warmth",
+      "action": "Kisses Joe at the airport in a way that is affectionate but appropriate for the setting.",
+      "assessment": "The kiss indicates a warm, sincere connection with Joe, showing affection and a friendly, genuine nature.",
+      "rating": 2,
+      "chunk": 80
+    },
+    {
+      "trait": "warmth",
+      "action": "Tells Jupiter, 'This time be nice to her,' referring to Gracie.",
+      "assessment": "This shows Slim’s protective and caring attitude toward Gracie, indicating warmth and concern for her well-being.",
+      "rating": 3,
+      "chunk": 80
+    },
+    {
+      "trait": "warmth",
+      "action": "Engages in a light, somewhat playful exchange with Jupiter about being a grandfather.",
+      "assessment": "Slim’s playful tone and openness to family bonding reflect friendliness and sincerity.",
+      "rating": 2,
+      "chunk": 80
+    },
+    {
+      "trait": "warmth",
+      "action": "Shares a meal with Joe, Jupiter, Gracie, and Ginny at the restaurant.",
+      "assessment": "Participating in a communal meal suggests sociability and a warm, inclusive attitude.",
+      "rating": 2,
+      "chunk": 80
+    },
+    {
+      "trait": "competence",
+      "action": "Waits patiently for Joe to pick up Gracie and lingers in a subtle, controlled interaction with him.",
+      "assessment": "Slim demonstrates emotional control and social awareness by waiting calmly and responding with a measured kiss, indicating confidence and social skill in a potentially awkward situation.",
+      "rating": 2,
+      "chunk": 80
+    },
+    {
+      "trait": "competence",
+      "action": "Tells Jupiter to 'be nice' to Gracie and maintains a firm stance when Jupiter questions her.",
+      "assessment": "Slim shows assertiveness and clear communication, setting boundaries effectively, which reflects competence in managing interpersonal dynamics.",
+      "rating": 2,
+      "chunk": 80
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in a casual, friendly meal with family and friends, responding to Ginny's question about returning to work with no immediate commitment.",
+      "assessment": "Slim appears relaxed and socially adept, but her non-committal response to returning to work may suggest some hesitation or lack of decisiveness about her professional direction.",
+      "rating": 0,
+      "chunk": 80
     }
   ]
 }

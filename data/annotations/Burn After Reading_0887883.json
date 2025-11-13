@@ -1,654 +1,1236 @@
 {
   "Osbourne Cox": [
     {
-      "Action": "Greets Palmer, Peck, and Olson politely despite surprise.",
-      "Warmth": 1,
-      "Chunk": 1
+      "trait": "warmth",
+      "action": "Greets Palmer and the two men, Peck and Olson, politely and with some familiarity ('Peck, yes, hiya. Olson, by reputation. Hi, Osbourne Cox.')",
+      "assessment": "Osbourne's greeting shows a courteous and somewhat friendly demeanor, indicating a baseline level of social warmth and respect.",
+      "rating": 1,
+      "chunk": 1
     },
     {
-      "Action": "Appears defensive and confused when informed of being taken off the Balkans desk.",
-      "Warmth": 0,
-      "Chunk": 1
+      "trait": "warmth",
+      "action": "Responds with surprise and confusion when informed he is being removed from his position ('You're----what? Why?')",
+      "assessment": "His reaction is more self-focused and defensive rather than showing openness or understanding, suggesting limited tolerance or warmth in this moment.",
+      "rating": -1,
+      "chunk": 1
     },
     {
-      "Action": "Greets colleagues including those well known by reputation with confidence and recognition.",
-      "Competence": 1,
-      "Chunk": 1
+      "trait": "competence",
+      "action": "Osbourne is surprised and confused when informed he is being removed from the Balkans desk and from Sigint entirely.",
+      "assessment": "His surprise and lack of immediate understanding suggest a possible disconnect from his current standing or performance, indicating a potential lapse in situational awareness or professional adaptability.",
+      "rating": -1,
+      "chunk": 1
     },
     {
-      "Action": "Appears surprised and confused when told he is being taken off his assignment and removed from operations, suggesting unpreparedness or being out of the loop.",
-      "Competence": -1,
-      "Chunk": 1
+      "trait": "competence",
+      "action": "Osbourne greets Palmer and the two men, Peck and Olson, with polite familiarity and some confidence.",
+      "assessment": "This shows that Osbourne is socially comfortable and maintains professional relationships, which can be a sign of confidence and competence in navigating workplace dynamics.",
+      "rating": 1,
+      "chunk": 1
     },
     {
-      "Action": "Admits to having a drinking problem when confronted honestly.",
-      "Warmth": 1,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Responds angrily and defensively to being reassigned and accused of having a drinking problem, using profanity and personal attacks.",
+      "assessment": "Osbourne's aggressive and confrontational response, including insulting a colleague's religion and refusing to accept feedback, indicates low tolerance and poor interpersonal warmth.",
+      "rating": -3,
+      "chunk": 2
     },
     {
-      "Action": "Uses aggressive and hostile language toward colleagues, including insults.",
-      "Warmth": -1,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Admits quietly to having a drinking problem when confronted.",
+      "assessment": "Although reluctant and defensive, Osbourne does acknowledge the issue, showing a moment of sincerity and self-awareness.",
+      "rating": 1,
+      "chunk": 2
     },
     {
-      "Action": "Expresses frustration and a sense of betrayal but does not seek constructive dialogue.",
-      "Warmth": -1,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Expresses feelings of being unfairly treated and perceives the situation as a 'crucifixion' and 'political'.",
+      "assessment": "While this shows emotional vulnerability, his framing is accusatory and lacks openness to dialogue, reflecting low warmth.",
+      "rating": -1,
+      "chunk": 2
     },
     {
-      "Action": "Rejects offered transition and support in a defensive and angry manner.",
-      "Warmth": -1,
-      "Chunk": 2
+      "trait": "competence",
+      "action": "Insists he is a great analyst despite being moved out of Sigint and confronted about poor performance.",
+      "assessment": "This shows confidence in his professional skills, but also possible denial or lack of self-awareness about his declining competence.",
+      "rating": 0,
+      "chunk": 2
     },
     {
-      "Action": "Insists he is a great analyst and denies problems with his performance.",
-      "Competence": 1,
-      "Chunk": 2
+      "trait": "competence",
+      "action": "Responds with anger and accusations when confronted about his drinking problem and job reassignment.",
+      "assessment": "His emotional outburst and inability to calmly address criticism suggest poor emotional regulation and unprofessional behavior, undermining his competence.",
+      "rating": -2,
+      "chunk": 2
     },
     {
-      "Action": "Reacting angrily and unprofessionally to being reassigned and confronted with his drinking problem.",
-      "Competence": -1,
-      "Chunk": 2
+      "trait": "competence",
+      "action": "Refuses to accept the reassignment quietly and storms out, calling the situation a 'crucifixion' and 'political'.",
+      "assessment": "This reaction indicates a lack of adaptability and poor conflict management skills, which negatively impact his perceived competence.",
+      "rating": -2,
+      "chunk": 2
     },
     {
-      "Action": "Refuses to accept feedback or reflect on his situation calmly.",
-      "Competence": -1,
-      "Chunk": 2
+      "trait": "competence",
+      "action": "Acknowledges having a drinking problem when confronted.",
+      "assessment": "This admission shows some level of self-awareness, which is a positive indicator of competence, though it is overshadowed by his defensive behavior.",
+      "rating": 1,
+      "chunk": 2
     },
     {
-      "Action": "Accuses colleagues defensively and storms out in frustration.",
-      "Competence": -1,
-      "Chunk": 2
+      "trait": "warmth",
+      "action": "Osbourne continues making himself a drink and seems distracted when Katie enters and talks about the cheeses and guests coming over.",
+      "assessment": "Osbourne appears disengaged and somewhat dismissive of Katie's concerns and social plans, indicating a lack of attentiveness and warmth in this interaction.",
+      "rating": -1,
+      "chunk": 3
     },
     {
-      "Action": "Continues making himself a drink despite Katie's efforts to engage him, ignoring her practical requests.",
-      "Warmth": -1,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "Osbourne tries to bring up 'bigger news' and insists 'we have to talk' despite Katie's reluctance.",
+      "assessment": "This shows some attempt at communication and sincerity, suggesting he wants to address important matters, which is a positive sign of warmth.",
+      "rating": 1,
+      "chunk": 3
     },
     {
-      "Action": "Attempts to bring up 'bigger news' to Katie, suggesting he wants to communicate something important.",
-      "Warmth": 0,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "Osbourne fails to pick up the cheeses or respond helpfully to Katie's request, blaming not getting the message.",
+      "assessment": "This indicates a lack of responsibility and consideration for Katie's efforts, reflecting negatively on his warmth.",
+      "rating": -2,
+      "chunk": 3
     },
     {
-      "Action": "Fails to pick up the cheeses despite knowing guests are coming, showing inattentiveness to others' needs.",
-      "Warmth": -1,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Osbourne is distracted and fails to pick up the cheeses because he did not receive or process the message from Katie.",
+      "assessment": "This indicates a lack of attention to detail and poor communication management, reflecting negatively on his organizational competence.",
+      "rating": -2,
+      "chunk": 3
     },
     {
-      "Action": "Fails to pick up cheeses because he did not get the message; appears distracted and unaware of important household tasks.",
-      "Competence": -1,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Osbourne attempts to share 'bigger news' despite the ongoing mundane issue of missing groceries.",
+      "assessment": "This suggests he is somewhat preoccupied with his own concerns and possibly overestimates the importance of his news relative to immediate practical matters, showing a lack of situational awareness.",
+      "rating": -1,
+      "chunk": 3
     },
     {
-      "Action": "Attempts to convey important news confidently despite distractions.",
-      "Competence": 0,
-      "Chunk": 3
+      "trait": "competence",
+      "action": "Osbourne continues making himself a drink calmly despite the tension and interruption.",
+      "assessment": "This shows a degree of composure and confidence in his personal space, indicating some self-assuredness.",
+      "rating": 1,
+      "chunk": 3
     },
     {
-      "Action": "Shows poor situational awareness, e.g., confusion over messages and priorities.",
-      "Competence": -1,
-      "Chunk": 3
+      "trait": "warmth",
+      "action": "Corrects Harry's medical terminology in a somewhat pedantic manner during the cocktail party.",
+      "assessment": "Osbourne's correction comes off as condescending rather than friendly or supportive, which may alienate others and reduce perceptions of warmth.",
+      "rating": -2,
+      "chunk": 4
     },
     {
-      "Action": "Engages in a somewhat pedantic correction of Harry's medical terminology, leading to cold reaction from Harry.",
-      "Warmth": -1,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "Engages in small talk at the cocktail party and offers to show Harry his gun.",
+      "assessment": "While attempting to engage, Osbourne's tone seems sarcastic or dismissive, which undermines genuine friendliness and sincerity.",
+      "rating": -1,
+      "chunk": 4
     },
     {
-      "Action": "Participates in small talk at cocktail party, attempts to engage others about cheese and shows some social participation.",
-      "Warmth": 0,
-      "Chunk": 4
+      "trait": "warmth",
+      "action": "Participates in a social gathering with his wife and neighbors.",
+      "assessment": "His presence at a social event indicates some willingness to be sociable and tolerant, though his interactions lack warmth.",
+      "rating": 1,
+      "chunk": 4
     },
     {
-      "Action": "Makes a sarcastic remark suggesting Harry should tell his psychiatrist about not firing his gun.",
-      "Warmth": -1,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Corrects Harry's misuse of medical terms (lactose reflux vs. acid reflux) confidently during a social interaction.",
+      "assessment": "This shows Osbourne's attention to detail and confidence in his knowledge, indicating a degree of intellectual competence and assertiveness.",
+      "rating": 2,
+      "chunk": 4
     },
     {
-      "Action": "Engages in sarcastic or dismissive remarks responding to others, showing some wit but little substantive contribution.",
-      "Competence": 0,
-      "Chunk": 5
+      "trait": "competence",
+      "action": "Engages in a somewhat confrontational exchange at a cocktail party, correcting another guest and not backing down.",
+      "assessment": "While this shows confidence, it also suggests a lack of social tact and emotional intelligence, which can undermine perceived competence in social or professional settings.",
+      "rating": -1,
+      "chunk": 4
     },
     {
-      "Action": "Tells Katie he tried to inform her he quit, showing some effort at communication.",
-      "Warmth": 1,
-      "Chunk": 6
+      "trait": "competence",
+      "action": "Offers to show Harry his 'great big gun' in a somewhat sarcastic manner.",
+      "assessment": "This indicates a tendency toward bravado or posturing rather than measured professionalism, which may detract from his competence.",
+      "rating": -1,
+      "chunk": 4
     },
     {
-      "Action": "Quits job without securing benefits, expressing disillusionment but not directly involving others.",
-      "Warmth": 0,
-      "Chunk": 6
+      "trait": "warmth",
+      "action": "Makes a sarcastic remark to Harry about telling his psychiatrist that he has never discharged his weapon.",
+      "assessment": "This sarcastic comment suggests a lack of empathy and friendliness, indicating a somewhat biting or dismissive attitude rather than warmth.",
+      "rating": -2,
+      "chunk": 5
     },
     {
-      "Action": "Responds to Katie's frustration somewhat passively, does not engage with warmth or reassurance.",
-      "Warmth": -1,
-      "Chunk": 6
+      "trait": "competence",
+      "action": "Makes a sarcastic remark to Harry about telling his psychiatrist that he has never discharged his weapon in twenty years of service.",
+      "assessment": "This shows Osbourne's quick wit and confidence in social interactions, indicating a certain level of verbal skill and mental sharpness.",
+      "rating": 1,
+      "chunk": 5
     },
     {
-      "Action": "Sits quietly next to his silent father and tucks a blanket over his knees, attempts to discuss his career change gently and acknowledges family difficulty with change.",
-      "Warmth": 1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Engages in casual banter with others about their jobs and personal lives.",
+      "assessment": "While this shows social awareness, it does not strongly indicate professional or practical competence; it suggests moderate interpersonal skills.",
+      "rating": 0,
+      "chunk": 5
     },
     {
-      "Action": "Tries to comfort his father by rationalizing government service changes, shows concern for Katie's feelings about his decision.",
-      "Warmth": 1,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Quits his job and tries to inform his wife Katie about it, though somewhat indirectly and late in the day.",
+      "assessment": "Osbourne attempts to communicate his decision to his wife, indicating some level of openness, but the delay and indirectness reduce the sincerity and trustworthiness of the gesture.",
+      "rating": 0,
+      "chunk": 6
     },
     {
-      "Action": "Shows insecurity or uncertain humor when Katie laughs at his memoir idea.",
-      "Warmth": 0,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Expresses frustration about his workplace and the bureaucracy, showing a sense of personal struggle.",
+      "assessment": "While this reveals his internal dissatisfaction, it does not directly reflect warmth; it may indicate a degree of intolerance or bitterness rather than friendliness or good-naturedness.",
+      "rating": -1,
+      "chunk": 6
     },
     {
-      "Action": "Expresses clear intent to write a memoir, showing some direction and self-awareness.",
-      "Competence": 1,
-      "Chunk": 7
+      "trait": "warmth",
+      "action": "Engages in a tense conversation with his wife Katie, who is clearly upset about his quitting.",
+      "assessment": "The interaction lacks warmth and friendliness, as Osbourne is somewhat withdrawn and uncommunicative, which may undermine trust and sincerity in their relationship.",
+      "rating": -2,
+      "chunk": 6
     },
     {
-      "Action": "Leaves his job at the Agency and struggles to convince his father of his decision, showing lack of confidence and difficulty adapting.",
-      "Competence": -1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Quits his job abruptly without securing a pension or severance.",
+      "assessment": "This action suggests a lack of foresight and practical planning, indicating a potential weakness in managing his career and financial stability.",
+      "rating": -2,
+      "chunk": 6
     },
     {
-      "Action": "Attempts to soothe his father and accept change, demonstrating emotional intelligence and effort at reassurance.",
-      "Competence": 1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Expresses frustration with bureaucracy and claims independent thought is resisted.",
+      "assessment": "While this shows some awareness of systemic issues, it also suggests a possible inability to navigate or adapt effectively within complex organizations, reflecting limited practical competence.",
+      "rating": -1,
+      "chunk": 6
     },
     {
-      "Action": "Fails to anticipate or manage the negative reaction from Katie (laughter) when mentioning consulting and writing, indicating poor social awareness.",
-      "Competence": -1,
-      "Chunk": 7
+      "trait": "competence",
+      "action": "Plans to do consulting after quitting his job.",
+      "assessment": "This indicates some confidence in his professional skills and an intention to leverage his expertise independently, which is a positive indicator of competence.",
+      "rating": 1,
+      "chunk": 6
     },
     {
-      "Action": "Tries to stay positive about life changes, encourages new beginnings, shows concern for his father by tapping his knee and pushing him in a wheelchair.",
-      "Warmth": 1,
-      "Chunk": 8
+      "trait": "competence",
+      "action": "Communicates his decision to quit only after the fact and somewhat indirectly.",
+      "assessment": "This shows poor communication and possibly avoidance of confrontation, which undermines his perceived competence and leadership.",
+      "rating": -1,
+      "chunk": 6
     },
     {
-      "Action": "Expresses hope for self-improvement, plans to go into training and stop drinking.",
-      "Competence": 1,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Sits next to his silent, stern father on the yacht and tucks in the plaid blanket over his knees.",
+      "assessment": "This small gesture shows attentiveness and care toward his father, indicating a considerate and gentle side.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Seems emotionally vulnerable and sniffles while talking to the old man, showing some fragility.",
-      "Competence": 0,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Attempts to explain and justify his resignation from government service to his father, expressing hope for understanding.",
+      "assessment": "Osbourne shows a desire for connection and approval from his father, revealing sincerity and a wish to maintain familial bonds despite difficulties.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Physically assists the old man by pushing him in a wheelchair, showing responsibility and capability in caregiving.",
-      "Competence": 1,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Tells his father that change is hard but reassures him that 'we'll be okay' and that 'life is change. This is good.'",
+      "assessment": "This reflects an optimistic and comforting attitude, suggesting he tries to be supportive and hopeful for his family.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Appears unable to prevent his wife from fearing his decline and possible divorce, indicating a lack of control over personal and familial matters.",
-      "Competence": -1,
-      "Chunk": 8
+      "trait": "warmth",
+      "action": "Katie bursts into laughter when Osbourne says he wants to write a memoir.",
+      "assessment": "While this is Katie's reaction, Osbourne's choice to share this personal ambition openly shows some openness and willingness to be vulnerable, which can be a sign of warmth.",
+      "rating": 1,
+      "chunk": 7
     },
     {
-      "Action": "Attempts to express sincere reflections on his past ideals and commitment, referencing personal heroes and principles.",
-      "Warmth": 1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Plans to do consulting and write a memoir after leaving his government job.",
+      "assessment": "This shows some initiative and ambition to reinvent himself, indicating a degree of self-awareness and intellectual engagement, which are positive competence indicators.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Appears detached and glassy-eyed, motionless for a long period, indicating emotional withdrawal and lack of direct engagement.",
-      "Warmth": -1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Engages in a serious, reflective conversation with his father about his career change and the state of government service.",
+      "assessment": "This demonstrates emotional intelligence and the ability to articulate complex feelings and rationalizations, suggesting thoughtful competence.",
+      "rating": 2,
+      "chunk": 7
     },
     {
-      "Action": "Appears splayed in a bathrobe and pajamas, motionless and staring at the ceiling, struggling to maintain coherent thoughts during a recorded statement.",
-      "Competence": -1,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Repeatedly reassures himself and his father that the change is good and that they will be okay.",
+      "assessment": "This may indicate a need for self-reassurance and possible insecurity, which could undermine confidence and decisiveness, slightly detracting from competence.",
+      "rating": -1,
+      "chunk": 7
     },
     {
-      "Action": "Attempts to articulate profound ideas referencing George Kennan and his motivations for government service but falters and trails off.",
-      "Competence": 0,
-      "Chunk": 9
+      "trait": "competence",
+      "action": "Katie bursts into laughter when he mentions writing a memoir.",
+      "assessment": "While this is an external reaction, it suggests that Osbourne's plans may be perceived as unrealistic or lacking credibility, indirectly reflecting on his competence.",
+      "rating": -1,
+      "chunk": 7
     },
     {
-      "Action": "Answers phone courteously, attempts to redirect the call to the appropriate person despite being hurried and out of breath.",
-      "Warmth": 1,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Taps the old man on the knee and rises to help him, pushing him in a wheelchair down the pier away from the boat.",
+      "assessment": "This action shows a considerate and caring side, indicating attentiveness and a gentle approach toward a vulnerable person.",
+      "rating": 2,
+      "chunk": 8
     },
     {
-      "Action": "Sits quietly watching a daytime game show, exhibiting a mild chuckle indicating some engagement or lightness.",
-      "Warmth": 1,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Sniffles and acknowledges the cold while with the old man.",
+      "assessment": "Displaying vulnerability and sharing a moment of discomfort suggests some emotional openness and sincerity.",
+      "rating": 1,
+      "chunk": 8
     },
     {
-      "Action": "Paces pensively and stops to stare off quietly, showing internal reflection or stress but no overt engagement with others.",
-      "Warmth": 0,
-      "Chunk": 10
+      "trait": "warmth",
+      "action": "Expresses hope for a new beginning and encourages laying off alcohol, referencing his own experience.",
+      "assessment": "This shows a degree of self-awareness and a hopeful, positive attitude toward change, which can be seen as supportive and sincere.",
+      "rating": 1,
+      "chunk": 8
     },
     {
-      "Action": "Responds to phone message with heavy breathing and somewhat confused instructions, indicating difficulty handling a simple task efficiently.",
-      "Competence": -1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Expresses intention to go into training and lay off alcohol to start a new beginning.",
+      "assessment": "This shows some self-awareness and willingness to improve, indicating a moderate level of personal competence and motivation to regain control.",
+      "rating": 1,
+      "chunk": 8
     },
     {
-      "Action": "Sits hunched and watches a daytime game show with only mild interest or laughter, showing disengagement and lack of proactive behavior.",
-      "Competence": -1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Sniffles and appears emotionally vulnerable while interacting with the old man.",
+      "assessment": "This emotional display suggests a moment of weakness or distraction, which may undermine his usual confidence and capability.",
+      "rating": -1,
+      "chunk": 8
     },
     {
-      "Action": "Paces with a microcassette recorder, hesitates, looks off pensively, showing uncertainty and lack of decisiveness.",
-      "Competence": -1,
-      "Chunk": 10
+      "trait": "competence",
+      "action": "Taps the old man on the knee and decides to head back, showing care and responsibility.",
+      "assessment": "This action reflects attentiveness and a sense of responsibility, indicating competent interpersonal behavior in a caregiving context.",
+      "rating": 1,
+      "chunk": 8
     },
     {
-      "Action": "Conscientiously pours back the overage of rum to keep a precise measurement in his drink.",
-      "Warmth": 0,
-      "Chunk": 11
+      "trait": "competence",
+      "action": "Is described indirectly through others as a man who might take advantage of his wife and is struggling to pull himself together.",
+      "assessment": "This external perspective implies that Osbourne is currently not in a stable or competent state, possibly lacking control over his personal and professional life.",
+      "rating": -2,
+      "chunk": 8
     },
     {
-      "Action": "Answers the phone groggily and unsure who is calling.",
-      "Competence": -1,
-      "Chunk": 27
+      "trait": "warmth",
+      "action": "Records a personal message reflecting on youthful idealism and commitment to principles that inspired his government service.",
+      "assessment": "This introspective moment reveals a sincere and reflective side of Osbourne, showing his attachment to ideals and a sense of purpose, which can be seen as a positive indicator of warmth.",
+      "rating": 2,
+      "chunk": 9
     },
     {
-      "Action": "Responds explosively and angrily to a caller trying to help by returning sensitive documents, using profanity and showing impatience.",
-      "Warmth": -1,
-      "Chunk": 28
+      "trait": "warmth",
+      "action": "Lies motionless in a bathrobe, staring at the ceiling, seemingly disengaged and withdrawn.",
+      "assessment": "His physical withdrawal and lack of interaction suggest emotional detachment and possible self-absorption, which are negative indicators of warmth.",
+      "rating": -2,
+      "chunk": 9
     },
     {
-      "Action": "Becomes explosive and angry on the phone, unable to stay calm or assess the situation intelligently.",
-      "Competence": -1,
-      "Chunk": 28
+      "trait": "competence",
+      "action": "Splays on an easy chair in bathrobe and pyjamas, staring motionless at the ceiling with arms outflung.",
+      "assessment": "This posture and inactivity suggest passivity, lack of motivation, and disengagement, which are negative indicators of competence.",
+      "rating": -2,
+      "chunk": 9
     },
     {
-      "Action": "Shows confusion and inability to recognize or assess the seriousness of the situation calmly when asked about sensitive documents.",
-      "Competence": -1,
-      "Chunk": 28
+      "trait": "competence",
+      "action": "Attempts to record a reflective monologue on a microcassette about his past ideals and principles but trails off and struggles to articulate his thoughts.",
+      "assessment": "This indicates difficulty in coherent self-expression and possibly a lack of mental clarity or confidence, reflecting poorly on his competence.",
+      "rating": -1,
+      "chunk": 9
     },
     {
-      "Action": "Corrects Chad’s pronunciation sharply and accurately on the word 'rapport,' showing attention to detail and knowledge.",
-      "Competence": 1,
-      "Chunk": 28
+      "trait": "competence",
+      "action": "Rises and wanders around the room glassy-eyed after failing to complete his thoughts.",
+      "assessment": "This aimless behavior and lack of focus further suggest diminished cognitive engagement and low competence.",
+      "rating": -2,
+      "chunk": 9
     },
     {
-      "Action": "Responds aggressively and distrustfully to Chad's call about the found item, using harsh language and warnings.",
-      "Warmth": -1,
-      "Chunk": 29
+      "trait": "warmth",
+      "action": "Answers the phone with a somewhat curt and distracted manner, instructing the caller to leave a message and redirecting calls without much engagement.",
+      "assessment": "Osbourne's interaction on the phone is functional but lacks warmth or friendliness; he seems preoccupied and not particularly welcoming or sincere.",
+      "rating": -1,
+      "chunk": 10
     },
     {
-      "Action": "Tries to assert control over a confusing situation, showing concern about unknown people contacting him.",
-      "Warmth": 0,
-      "Chunk": 29
+      "trait": "warmth",
+      "action": "Sits alone in his robe watching a daytime game show, responding with only a mild chuckle to the studio audience's roaring laughter.",
+      "assessment": "His mild, subdued reaction to humor suggests a reserved or detached demeanor rather than an openly warm or friendly nature.",
+      "rating": -1,
+      "chunk": 10
     },
     {
-      "Action": "Correctly identifies Chad's lack of understanding and challenges him with precise terminology ('rapport' vs 'ra-por').",
-      "Competence": 1,
-      "Chunk": 29
+      "trait": "warmth",
+      "action": "Paces with a microcassette recorder, pauses thoughtfully, and stares off for a long beat.",
+      "assessment": "This introspective behavior indicates a withdrawn or inward-focused state, which may reflect emotional distance or lack of social engagement, thus not evidencing warmth.",
+      "rating": -1,
+      "chunk": 10
     },
     {
-      "Action": "Reacting emotionally and aggressively to the situation, losing composure and escalating conflict.",
-      "Competence": -1,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Hurries down a steep basement stairway, navigating a low ceiling while answering a ringing phone quickly.",
+      "assessment": "This shows a basic level of physical coordination and responsiveness, indicating functional competence in handling immediate tasks.",
+      "rating": 1,
+      "chunk": 10
     },
     {
-      "Action": "Issues firm warnings to the intruders about their behavior, attempts to assert control over the situation.",
-      "Competence": 1,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Answers the phone with a recorded message and manages the call by redirecting it appropriately.",
+      "assessment": "Demonstrates some organizational skill and presence of mind in managing communications, suggesting moderate competence in routine professional behavior.",
+      "rating": 1,
+      "chunk": 10
     },
     {
-      "Action": "Fails to effectively manage the phone confrontation, allowing the callers to hang up and control the flow of communication.",
-      "Competence": -1,
-      "Chunk": 29
+      "trait": "competence",
+      "action": "Sits hunched in a robe watching a daytime game show, responding with only a mild chuckle to audience laughter.",
+      "assessment": "This behavior suggests disengagement and lack of focus or motivation, which may reflect a decline in professional confidence or competence.",
+      "rating": -1,
+      "chunk": 10
     },
     {
-      "Action": "Discusses loss of his memoir with apparent frustration but shares the situation openly with Katie.",
-      "Warmth": 1,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Paces with a microcassette recorder, hesitates, and stares off for a long beat before acting.",
+      "assessment": "This hesitation and apparent distraction indicate indecisiveness and lack of confidence, undermining his competence in handling tasks decisively.",
+      "rating": -2,
+      "chunk": 10
     },
     {
-      "Action": "Refers dismissively to the people who took his memoir as 'some clowns', showing irritation and lack of tolerance.",
-      "Warmth": -1,
-      "Chunk": 30
+      "trait": "warmth",
+      "action": "Conscientiously pours the overage of rum back into the bottle, murmuring 'Single...'",
+      "assessment": "This action shows a degree of conscientiousness and self-control, suggesting a respect for moderation and perhaps consideration for others who might drink from the bottle later. It indicates a subtle attentiveness and sincerity in his behavior.",
+      "rating": 1,
+      "chunk": 11
     },
     {
-      "Action": "Is confused and unable to explain how his memoir was stolen; shows lack of control over personal information.",
-      "Competence": -1,
-      "Chunk": 30
+      "trait": "warmth",
+      "action": "Leaves a note for Katie on the counter with a plate of used lime wedges as a paperweight.",
+      "assessment": "Leaving a note to inform his wife of his whereabouts is a responsible and considerate act, showing a basic level of trustworthiness and communication. However, the note is brief and somewhat impersonal, and the use of used lime wedges as a paperweight could be seen as careless or indifferent.",
+      "rating": 0,
+      "chunk": 11
     },
     {
-      "Action": "Attempts to inform Katie about the situation, showing some awareness of the problem.",
-      "Competence": 0,
-      "Chunk": 30
+      "trait": "competence",
+      "action": "Conscientiously pours a shot of rum to the exact hatch mark, then carefully pours the overage back into the bottle before mixing it into his drink.",
+      "assessment": "This action demonstrates attention to detail and a methodical approach, indicating a degree of precision and self-discipline in a mundane task.",
+      "rating": 1,
+      "chunk": 11
     },
     {
-      "Action": "Quits job but feels cornered and vulnerable; no direct warmth shown in this excerpt.",
-      "Warmth": 0,
-      "Chunk": 37
+      "trait": "competence",
+      "action": "Pauses for a long beat while preparing his drink, seemingly lost in thought.",
+      "assessment": "This hesitation may suggest distraction or preoccupation, which could indicate a momentary lapse in focus or decisiveness.",
+      "rating": -1,
+      "chunk": 11
     },
     {
-      "Action": "Firmly confronts the blackmailer, clearly states legal consequences, attempts to assert control over the situation.",
-      "Warmth": 0,
-      "Chunk": 38
+      "trait": "competence",
+      "action": "Expresses discomfort and unease about the sensitive information found on the CD.",
+      "assessment": "This reaction shows some awareness of the seriousness of the situation, indicating a basic level of understanding and caution, but it also suggests a lack of proactive or confident handling of the issue.",
+      "rating": 0,
+      "chunk": 21
     },
     {
-      "Action": "Physically assaults Chad by punching him in the nose during negotiation.",
-      "Warmth": -1,
-      "Chunk": 38
+      "trait": "competence",
+      "action": "Is identified by Chad as a 'secret guy' in the intelligence community, implying some level of importance or insider status.",
+      "assessment": "Being recognized as a notable figure in intelligence suggests Osbourne Cox holds a position of some competence or expertise within that field.",
+      "rating": 1,
+      "chunk": 26
     },
     {
-      "Action": "Uses aggressive language and insults repeatedly toward Chad.",
-      "Warmth": -1,
-      "Chunk": 38
+      "trait": "competence",
+      "action": "Responds groggily to a phone call late at night, unsure who is calling.",
+      "assessment": "This suggests a lack of alertness and situational awareness, indicating a momentary lapse in competence.",
+      "rating": -1,
+      "chunk": 27
     },
     {
-      "Action": "Clearly knows the legal implications and threats related to blackmail and unauthorized dissemination of classified material; confidently warns Chad of severe consequences.",
-      "Competence": 1,
-      "Chunk": 38
+      "trait": "warmth",
+      "action": "Responds explosively and with profanity to Chad's attempt to return his sensitive documents, calling him a 'fucking moron'.",
+      "assessment": "Osbourne's aggressive and hostile reaction to a stranger trying to help suggests low tolerance and poor interpersonal warmth in this interaction.",
+      "rating": -2,
+      "chunk": 28
     },
     {
-      "Action": "Physically assaults Chad impulsively by punching him in the nose instead of maintaining control of the situation or negotiating calmly.",
-      "Competence": -1,
-      "Chunk": 38
+      "trait": "warmth",
+      "action": "Asks repeatedly and with confusion about the identity of the caller and the documents mentioned.",
+      "assessment": "His confusion and repeated questioning show some concern and engagement, but lack of trust and openness toward the caller.",
+      "rating": -1,
+      "chunk": 28
     },
     {
-      "Action": "Demands the return of classified material assertively, showing awareness of what he wants and the stakes involved.",
-      "Competence": 1,
-      "Chunk": 38
+      "trait": "competence",
+      "action": "Responds with confusion and aggression when contacted unexpectedly about sensitive documents.",
+      "assessment": "This reaction suggests a lack of composure and control in a potentially serious situation, indicating lower emotional intelligence and situational awareness.",
+      "rating": -2,
+      "chunk": 28
     },
     {
-      "Action": "Escalates the conflict aggressively by shouting insults and taunting after Chad leaves instead of de-escalating or handling the situation strategically.",
-      "Competence": -1,
-      "Chunk": 38
+      "trait": "competence",
+      "action": "Demonstrates detailed knowledge of intelligence reports by correcting Chad's pronunciation and terminology.",
+      "assessment": "This indicates a strong familiarity with his professional work and subject matter expertise, reflecting intellectual competence.",
+      "rating": 2,
+      "chunk": 28
     },
     {
-      "Action": "Leans across the seat and yells aggressively 'I know who you are, fucker!'",
-      "Warmth": -1,
-      "Chunk": 39
+      "trait": "competence",
+      "action": "Fails to immediately recognize the caller or understand the nature of the threat to his documents.",
+      "assessment": "This delay in situational understanding points to inattentiveness or distraction, which undermines his ability to respond effectively to security risks.",
+      "rating": -1,
+      "chunk": 28
     },
     {
-      "Action": "Shouts angrily after being hit, calling others 'fucking morons'",
-      "Warmth": -1,
-      "Chunk": 39
+      "trait": "warmth",
+      "action": "Responds aggressively and with profanity to Chad and Linda's attempt to return the found item and their suggestion of a reward.",
+      "assessment": "Osbourne's hostile and confrontational behavior, including use of insults and threats, indicates low tolerance and lack of friendliness in this interaction.",
+      "rating": -3,
+      "chunk": 29
     },
     {
-      "Action": "Thanks Hal politely after receiving surprising information despite evident frustration.",
-      "Warmth": 1,
-      "Chunk": 46
+      "trait": "warmth",
+      "action": "Insists firmly on not engaging with Chad and Linda's demands and warns them emphatically.",
+      "assessment": "While his firmness could be seen as standing his ground, the aggressive tone and lack of sincere communication reduce perceptions of warmth.",
+      "rating": -2,
+      "chunk": 29
     },
     {
-      "Action": "Repeatedly questions and expresses incredulity in a harsh tone ('Why the FUCK would they go to the Russians?!').",
-      "Warmth": -1,
-      "Chunk": 46
+      "trait": "competence",
+      "action": "Immediately recognizes that Chad is in over his head and confronts him aggressively about mishandling sensitive information.",
+      "assessment": "This shows Osbourne's awareness and understanding of the gravity of the situation, indicating a level of intelligence and vigilance.",
+      "rating": 2,
+      "chunk": 29
     },
     {
-      "Action": "Questions Hal carefully to confirm information about the Russians, showing awareness and suspicion.",
-      "Competence": 1,
-      "Chunk": 46
+      "trait": "competence",
+      "action": "Loses composure quickly, using profanities and escalating the confrontation without a clear plan.",
+      "assessment": "His inability to manage his emotions or de-escalate the situation suggests a lack of emotional intelligence and strategic thinking, which undermines his competence.",
+      "rating": -2,
+      "chunk": 29
     },
     {
-      "Action": "Struggles to compose himself, visibly incredulous and upset about the situation.",
-      "Competence": 0,
-      "Chunk": 46
+      "trait": "competence",
+      "action": "Attempts to warn Chad and Linda emphatically about the seriousness of their actions.",
+      "assessment": "This indicates confidence and a sense of authority, reflecting some degree of competence in standing his ground.",
+      "rating": 1,
+      "chunk": 29
     },
     {
-      "Action": "Does not take immediate action upon hearing serious information, merely stares incredulously.",
-      "Competence": -1,
-      "Chunk": 46
+      "trait": "competence",
+      "action": "Fails to effectively communicate or negotiate with Chad and Linda, resulting in them dismissing his warnings and hanging up.",
+      "assessment": "This failure to assert control or influence the situation negatively impacts the perception of his competence.",
+      "rating": -1,
+      "chunk": 29
     },
     {
-      "Action": "Softens demeanor and extends hand to process server, engages politely.",
-      "Warmth": 1,
-      "Chunk": 47
+      "trait": "warmth",
+      "action": "Sits on the edge of his bed in the dark room, shaking his head and explaining to Katie about his stolen memoir.",
+      "assessment": "Osbourne shares his distress and confusion with Katie, indicating some level of openness and trust toward her.",
+      "rating": 1,
+      "chunk": 30
     },
     {
-      "Action": "Stares stupidly at the envelope, shows vulnerability without hostility.",
-      "Warmth": 1,
-      "Chunk": 47
+      "trait": "competence",
+      "action": "Sits on the edge of his bed in the dark room, shaking his head, expressing confusion about how his memoir was stolen.",
+      "assessment": "This action and statement suggest a lack of situational awareness and control over his personal affairs, indicating a momentary lapse in competence.",
+      "rating": -1,
+      "chunk": 30
     },
     {
-      "Action": "Uses sharp language and frustration when confronted with locked door and rain.",
-      "Warmth": -1,
-      "Chunk": 47
+      "trait": "competence",
+      "action": "Clearly identifies that his memoir has been stolen and is concerned about it.",
+      "assessment": "Recognizing the theft and its potential consequences shows some level of awareness and understanding of the situation, reflecting moderate competence.",
+      "rating": 1,
+      "chunk": 30
     },
     {
-      "Action": "Extends hand confidently to receive the served legal documents and identifies himself clearly.",
-      "Competence": 1,
-      "Chunk": 47
+      "trait": "competence",
+      "action": "Sitting in his car, consulting his watch, and looking around with irritation.",
+      "assessment": "This behavior shows some awareness of time and environment, but the irritation suggests possible frustration or impatience, which may undermine calm, competent decision-making.",
+      "rating": 0,
+      "chunk": 37
     },
     {
-      "Action": "Stares stupidly at the envelope after being served, indicating confusion or lack of preparedness.",
-      "Competence": -1,
-      "Chunk": 47
+      "trait": "competence",
+      "action": "Allowing Chad to approach and enter his car without apparent suspicion or caution.",
+      "assessment": "This could indicate a lack of vigilance or poor judgment in a potentially sensitive situation, reflecting negatively on his situational awareness and competence.",
+      "rating": -1,
+      "chunk": 37
     },
     {
-      "Action": "Arrives at his dark house, unable to unlock the door, expresses frustration and confusion.",
-      "Competence": -1,
-      "Chunk": 47
+      "trait": "warmth",
+      "action": "Confronts Chad about the blackmail and federal crimes involved, clearly stating the legal consequences.",
+      "assessment": "Osbourne is assertive and direct in addressing wrongdoing, but his tone is confrontational rather than conciliatory or understanding.",
+      "rating": -1,
+      "chunk": 38
     },
     {
-      "Action": "Is recognized by others as significant enough to warrant surveillance and investigation.",
-      "Competence": 1,
-      "Chunk": 48
+      "trait": "warmth",
+      "action": "Physically punches Chad in the nose during the confrontation.",
+      "assessment": "Resorting to physical violence indicates aggression and lack of restraint, which detracts from warmth and suggests hostility.",
+      "rating": -3,
+      "chunk": 38
     },
     {
-      "Action": "No direct action by Osbourne in this excerpt to assess competence.",
-      "Competence": 0,
-      "Chunk": 48
+      "trait": "warmth",
+      "action": "Yells insults at Chad after the altercation, including 'I know who you are, fucker!'",
+      "assessment": "Using hostile language and insults shows a lack of tolerance and friendliness, further reducing perceived warmth.",
+      "rating": -3,
+      "chunk": 38
     },
     {
-      "Action": "Has a secure office setup with a computer containing presumably sensitive information.",
-      "Competence": 1,
-      "Chunk": 50
+      "trait": "competence",
+      "action": "Confronts Chad directly about the blackmail and clearly states the legal consequences of his actions.",
+      "assessment": "This shows Osbourne's awareness of the legal framework and his attempt to assert control over the situation through knowledge and intimidation, indicating a degree of intelligence and confidence.",
+      "rating": 2,
+      "chunk": 38
     },
     {
-      "Action": "Fails to secure his back door and back window, which are easily breached by Chad.",
-      "Competence": -1,
-      "Chunk": 50
+      "trait": "competence",
+      "action": "Physically punches Chad in the nose when provoked.",
+      "assessment": "This impulsive physical reaction suggests a lack of self-control and poor judgment, undermining his ability to handle the situation skillfully or strategically.",
+      "rating": -2,
+      "chunk": 38
     },
     {
-      "Action": "Is able to lose a tail while jogging, showing awareness and situational skill.",
-      "Competence": 1,
-      "Chunk": 50
+      "trait": "competence",
+      "action": "Demands the return of the floppy or CD immediately after the punch.",
+      "assessment": "While assertive, this demand following a physical altercation may escalate the conflict rather than resolve it, indicating a somewhat reckless approach rather than a calculated one.",
+      "rating": -1,
+      "chunk": 38
     },
     {
-      "Action": "No direct action or statement by Osbourne Cox observed in the excerpt; the scene centers around Harry and Chad.",
-      "Competence": 0,
-      "Chunk": 52
+      "trait": "competence",
+      "action": "Leans across the seat to shout threats after Chad leaves the car.",
+      "assessment": "This behavior reflects a lack of composure and professionalism, suggesting Osbourne is reactive and emotionally driven rather than strategically competent.",
+      "rating": -2,
+      "chunk": 38
     },
     {
-      "Action": "Was a CIA analyst with computer files valuable enough to be sought after by Russian intelligence.",
-      "Competence": 1,
-      "Chunk": 54
+      "trait": "warmth",
+      "action": "Leans out of his car window and yells aggressively at Chad, 'I know who you are, fucker!'",
+      "assessment": "This aggressive and hostile outburst reflects a lack of tolerance and friendliness, indicating low warmth.",
+      "rating": -2,
+      "chunk": 39
     },
     {
-      "Action": "His personal relationships possibly compromised security leading to leak of files.",
-      "Competence": -1,
-      "Chunk": 54
+      "trait": "warmth",
+      "action": "Reacts to being rammed by Linda's car with anger, shouting 'Holy fucking—you fucking morons!'",
+      "assessment": "His reaction is angry and insulting rather than calm or forgiving, showing low patience and poor interpersonal warmth.",
+      "rating": -2,
+      "chunk": 39
     },
     {
-      "Action": "Not present during a violent incident involving associates at his home.",
-      "Competence": -1,
-      "Chunk": 54
+      "trait": "competence",
+      "action": "Osbourne aggressively confronts Chad by leaning across the seat and yelling at him, showing assertiveness and confidence.",
+      "assessment": "This action demonstrates Osbourne's willingness to take charge and confront problems head-on, indicating a degree of confidence and assertiveness, which are components of competence.",
+      "rating": 1,
+      "chunk": 39
     },
     {
-      "Action": "Follows along with exercise on TV, displaying self-motivation and effort despite cramped and cluttered environment.",
-      "Warmth": 1,
-      "Chunk": 56
+      "trait": "competence",
+      "action": "Osbourne recoils from the impact when Linda rams his car but quickly recovers to verbally berate them.",
+      "assessment": "While Osbourne shows some resilience by immediately reacting verbally, his failure to avoid the collision or take evasive action suggests limited situational awareness or physical competence in this moment.",
+      "rating": -1,
+      "chunk": 39
     },
     {
-      "Action": "Repeatedly says 'I'm back... fuckers...' showing antagonistic and hostile attitude toward others.",
-      "Warmth": -1,
-      "Chunk": 56
+      "trait": "competence",
+      "action": "Osbourne's inability to prevent being rammed by Linda's car despite being aware of the aggressive driving.",
+      "assessment": "This indicates a lack of practical driving skill or quick decision-making under pressure, reflecting negatively on his competence.",
+      "rating": -2,
+      "chunk": 39
     },
     {
-      "Action": "Follows a difficult exercise routine in cramped quarters, showing physical effort and determination.",
-      "Competence": 1,
-      "Chunk": 56
+      "trait": "warmth",
+      "action": "Remains silent and unresponsive when Katie confronts him angrily about the damaged car.",
+      "assessment": "Osbourne's silence and lack of engagement in this moment suggest emotional distance and a lack of warmth toward Katie's concerns.",
+      "rating": -2,
+      "chunk": 43
     },
     {
-      "Action": "Repeats confident statements about being 'back' and 'better' indicating self-assuredness.",
-      "Competence": 1,
-      "Chunk": 56
+      "trait": "warmth",
+      "action": "Sits passively in his robe, recording on a microcassette recorder rather than addressing the conflict.",
+      "assessment": "This behavior indicates detachment and avoidance rather than openness or sincerity, which are components of warmth.",
+      "rating": -2,
+      "chunk": 43
     },
     {
-      "Action": "Engages in a basic activity (exercise) but in a somewhat disorganized space (unpacked boxes), showing possible personal disarray.",
-      "Competence": 0,
-      "Chunk": 56
+      "trait": "competence",
+      "action": "Osbourne sits passively in his robe, lightly sweating, with a microcassette recorder under his hand, ignoring Katie's anger about the damaged car.",
+      "assessment": "This inaction and passive demeanor in the face of a clear problem (the damaged car and Katie's frustration) suggests a lack of responsibility and engagement, indicating low competence in managing personal or practical issues.",
+      "rating": -2,
+      "chunk": 43
     },
     {
-      "Action": "Responds to Katie's concern with anger and insults, refusing calm communication.",
-      "Warmth": -1,
-      "Chunk": 59
+      "trait": "warmth",
+      "action": "Expresses incredulity and frustration upon hearing that the Russians might be involved, asking Hal 'Why the FUCK would they go to the Russians?!'",
+      "assessment": "Osbourne's reaction is intense and somewhat aggressive, showing frustration but also a desire to understand the situation. However, the use of strong language and visible struggle to compose himself suggests low tolerance and limited warmth in this moment.",
+      "rating": -1,
+      "chunk": 46
     },
     {
-      "Action": "Shows intense focus and quickly chops carrots, producing slices in high volume.",
-      "Competence": 1,
-      "Chunk": 59
+      "trait": "warmth",
+      "action": "Thanks Hal after receiving information, saying 'I'm sorry. Thank you, Hal.'",
+      "assessment": "Despite his frustration, Osbourne shows politeness and gratitude, indicating some level of sincerity and respect toward Hal.",
+      "rating": 1,
+      "chunk": 46
     },
     {
-      "Action": "Stops chopping abruptly in confrontation, lashes out verbally, and leaves the scene in anger.",
-      "Competence": -1,
-      "Chunk": 59
+      "trait": "warmth",
+      "action": "Listens carefully and shows concern when Hal warns him that two men seem very interested in him.",
+      "assessment": "Osbourne's attentive listening and concern suggest he is engaged and somewhat trusting of Hal's advice, reflecting a moderate degree of warmth and openness.",
+      "rating": 1,
+      "chunk": 46
     },
     {
-      "Action": "No direct action or indication of competence present in the excerpt; behavior focuses on Harry's anger and confrontation with a car.",
-      "Competence": 0,
-      "Chunk": 60
+      "trait": "competence",
+      "action": "Sitting in a bar booth, staring incredulously and repeatedly questioning the possibility that the Russians are involved.",
+      "assessment": "Osbourne's incredulity and repeated questioning suggest difficulty in processing or accepting critical information, indicating a potential lack of situational awareness or adaptability.",
+      "rating": -1,
+      "chunk": 46
     },
     {
-      "Action": "Calls Harry to get his wife's number, politely tries to reach out despite tension.",
-      "Warmth": 0,
-      "Chunk": 62
+      "trait": "competence",
+      "action": "Struggles to compose himself after receiving unsettling intelligence and thanks his informant politely.",
+      "assessment": "Despite his emotional reaction, Osbourne manages to maintain some composure and expresses gratitude, showing a degree of social intelligence and self-control under stress.",
+      "rating": 1,
+      "chunk": 46
     },
     {
-      "Action": "Attempts to maintain a polite tone with his wife Sandy over the phone greeting.",
-      "Warmth": 1,
-      "Chunk": 62
+      "trait": "competence",
+      "action": "Responds with frustration and confusion about why the Russians would be involved.",
+      "assessment": "His inability to immediately understand or anticipate the involvement of the Russians suggests a gap in his analytical or strategic thinking.",
+      "rating": -1,
+      "chunk": 46
     },
     {
-      "Action": "Engages politely with Sandy, answering questions and maintaining a cordial tone during the call.",
-      "Warmth": 1,
-      "Chunk": 63
+      "trait": "competence",
+      "action": "Acknowledges the warning from Hal about two men showing suspicious interest in him.",
+      "assessment": "Osbourne's awareness of potential threats and his attention to Hal's warning indicate some level of vigilance and situational awareness.",
+      "rating": 1,
+      "chunk": 46
     },
     {
-      "Action": "After the call, expresses frustration by calling Sandy a 'Bitch'.",
-      "Warmth": -1,
-      "Chunk": 63
+      "trait": "warmth",
+      "action": "Extends a hand to the process server and introduces himself politely.",
+      "assessment": "Osbourne's gesture of extending his hand and introducing himself shows a basic level of politeness and openness, indicating some friendliness and sincerity.",
+      "rating": 1,
+      "chunk": 47
     },
     {
-      "Action": "Attempts to protect his manuscript from leaking and considers accelerating its publication to maintain impact.",
-      "Competence": 1,
-      "Chunk": 63
+      "trait": "warmth",
+      "action": "Stares stupidly at the envelope after being served legal papers.",
+      "assessment": "His stunned reaction suggests vulnerability and confusion rather than hostility, which may evoke sympathy but does not strongly indicate warmth.",
+      "rating": 0,
+      "chunk": 47
     },
     {
-      "Action": "Confuses the type of publishing arms his contact is involved with, showing lack of knowledge about publishing divisions.",
-      "Competence": -1,
-      "Chunk": 63
+      "trait": "warmth",
+      "action": "Runs through the rain to his front stoop and reacts with frustration when he finds his house dark and his key won't turn.",
+      "assessment": "His frustration is understandable but his language and behavior here show irritability and self-centeredness rather than tolerance or friendliness.",
+      "rating": -1,
+      "chunk": 47
     },
     {
-      "Action": "Expresses frustration and confusion over bank account issues in a heated, confrontational phone call.",
-      "Warmth": -1,
-      "Chunk": 65
+      "trait": "competence",
+      "action": "Extends his hand confidently to receive the legal envelope from the process server and identifies himself clearly.",
+      "assessment": "This action shows a degree of social confidence and awareness, indicating Osbourne can handle formal or unexpected interactions with composure.",
+      "rating": 1,
+      "chunk": 47
     },
     {
-      "Action": "Carefully reviews the notices from the mail multiple times and attempts to understand the situation with his bank check.",
-      "Competence": 1,
-      "Chunk": 65
+      "trait": "competence",
+      "action": "Stares stupidly at the envelope after being served legal papers.",
+      "assessment": "His stunned reaction suggests a lack of preparedness or emotional control when confronted with serious or unexpected news, indicating a momentary lapse in competence.",
+      "rating": -1,
+      "chunk": 47
     },
     {
-      "Action": "Displays confusion and frustration about banking details, including not knowing his savings account number and blaming others, showing a lack of financial management.",
-      "Competence": -1,
-      "Chunk": 65
+      "trait": "competence",
+      "action": "Arrives home to find his house dark and belongings on the stoop in the rain, tries to use his key but it doesn't turn.",
+      "assessment": "His immediate frustration and inability to access his own home suggests a lack of foresight or control over his personal circumstances, reflecting negatively on his competence in managing his life situation.",
+      "rating": -2,
+      "chunk": 47
     },
     {
-      "Action": "Implied emotional breakdown indicated by sobbing and exertion sounds inside the house.",
-      "Competence": -1,
-      "Chunk": 66
+      "trait": "competence",
+      "action": "Osbourne Cox is identified as a person of interest by Linda and Chad, prompting them to plan a covert approach to his neighborhood with attention to details like removing laundry marks and avoiding carrying ID for deniability.",
+      "assessment": "While Osbourne Cox himself does not act in this excerpt, the fact that others treat him as a significant figure with a need for careful handling suggests he has a reputation that commands respect or caution, indirectly indicating competence or importance.",
+      "rating": 1,
+      "chunk": 48
     },
     {
-      "Action": "Barks aggressively into the phone, uses profanity, and dismisses concerns about the patient.",
-      "Warmth": -1,
-      "Chunk": 69
+      "trait": "competence",
+      "action": "No direct action or statement by Osbourne Cox is present in this excerpt; the scene focuses on Chad and Harry's movements within Cox's townhouse.",
+      "assessment": "This excerpt does not provide any observable behavior, action, or statement from Osbourne Cox to assess his competence.",
+      "rating": 0,
+      "chunk": 51
     },
     {
-      "Action": "Barks into phone aggressively, slams phone down, demonstrates frustration but takes action to handle situation.",
-      "Competence": 0,
-      "Chunk": 69
+      "trait": "competence",
+      "action": "No direct action by Osbourne Cox in this excerpt; the scene focuses on Harry's actions in Cox's townhouse.",
+      "assessment": "Since Osbourne Cox does not act or speak in this passage, no direct inference about his competence can be drawn here.",
+      "rating": 0,
+      "chunk": 52
     },
     {
-      "Action": "Yanks open the toolbox and pulls out a hatchet decisively.",
-      "Competence": 1,
-      "Chunk": 70
+      "trait": "warmth",
+      "action": "Is implicated in a complicated personal situation involving his wife and another man, which has led to a violent incident at his house.",
+      "assessment": "The excerpt does not show Osbourne directly acting warmly; rather, it highlights a messy personal situation that suggests strained relationships and possible trust issues. There is no evidence of good-natured or friendly behavior here.",
+      "rating": -1,
+      "chunk": 54
     },
     {
-      "Action": "Strides grimly down the dock in a bathrobe, hatchet in hand, showing focus and purpose.",
-      "Competence": 1,
-      "Chunk": 70
+      "trait": "competence",
+      "action": "Osbourne Cox is identified as an ex-analyst whose computer files have been compromised and are now in the hands of foreign intelligence (Kolyma-2, Russian Embassy).",
+      "assessment": "Being an analyst at the CIA suggests a baseline level of competence and intelligence; however, the fact that his files were leaked and compromised indicates a significant lapse in operational security or personal judgment.",
+      "rating": -2,
+      "chunk": 54
     },
     {
-      "Action": "Arrives at his house in a car, still in robe and pyjamas, and attempts to gain entry by bashing the door knob with a hatchet, causing hardware to fall off but finally pushing the door open.",
-      "Competence": 0,
-      "Chunk": 71
+      "trait": "competence",
+      "action": "Osbourne Cox is apparently unaware or uninvolved in the complicated personal and professional entanglements involving his wife and a Treasury agent, which have led to a shooting incident at his house.",
+      "assessment": "This suggests a lack of situational awareness and control over his personal environment, which negatively impacts his overall competence, especially given the serious consequences.",
+      "rating": -2,
+      "chunk": 54
     },
     {
-      "Action": "Carefully packs personal belongings including scarves and jewelry, shows signs of frustration but no aggressive outburst.",
-      "Warmth": 0,
-      "Chunk": 74
+      "trait": "warmth",
+      "action": "Follows along with an exercise video alone in his cramped boat cabin, repeating to himself 'I'm bigger... I'm back... I'm better... I'm back... fuckers... I'm back...'",
+      "assessment": "Osbourne's self-motivating behavior shows determination but is self-focused and lacks social warmth or connection to others.",
+      "rating": 0,
+      "chunk": 56
     },
     {
-      "Action": "Flings a brooch across the room after hurting his thumb, showing irritation and some carelessness with personal property.",
-      "Warmth": -1,
-      "Chunk": 74
+      "trait": "competence",
+      "action": "Follows along with an exercise video in cramped quarters, panting but continuing.",
+      "assessment": "This shows some level of discipline and physical effort, indicating a willingness to maintain fitness and personal routine despite less-than-ideal conditions.",
+      "rating": 1,
+      "chunk": 56
     },
     {
-      "Action": "Carefully packing valuables and drinking with composure, handling tasks deliberately.",
-      "Competence": 1,
-      "Chunk": 74
+      "trait": "competence",
+      "action": "Repeats to himself, 'I'm bigger... I'm back... I'm better... I'm back... fuckers... I'm back...'",
+      "assessment": "This self-affirmation suggests a degree of confidence and mental preparation, which can be a positive indicator of competence, though it may also hint at insecurity.",
+      "rating": 1,
+      "chunk": 56
     },
     {
-      "Action": "Reacting with frustration and carelessness by angrily flinging a brooch across the room.",
-      "Competence": -1,
-      "Chunk": 74
+      "trait": "warmth",
+      "action": "Responds to Katie's concern about his distraction with anger and calls her a 'very negative person,' then abruptly leaves the room and slams the door.",
+      "assessment": "This interaction shows Osbourne (here named Harry in the excerpt, but presumably the same character) as irritable, confrontational, and lacking patience or empathy toward Katie's attempt to engage him. His harsh words and abrupt exit indicate low warmth, as he is neither tolerant nor friendly in this moment.",
+      "rating": -2,
+      "chunk": 59
     },
     {
-      "Action": "Confronts Ted Treffon aggressively with a gun, accuses him harshly of being a moron and part of a moronic league, and ultimately shoots him.",
-      "Warmth": -1,
-      "Chunk": 76
+      "trait": "competence",
+      "action": "Harry chops carrots very quickly and with intense focus, producing slices in high volume.",
+      "assessment": "This action demonstrates a degree of manual dexterity and concentration, suggesting some capability in performing a task efficiently.",
+      "rating": 1,
+      "chunk": 59
     },
     {
-      "Action": "Shoots at Ted Treffon impulsively without clear threat or strategy.",
-      "Competence": -1,
-      "Chunk": 76
+      "trait": "competence",
+      "action": "Harry abruptly stops chopping and lashes out verbally at Katie, showing visible anger and frustration.",
+      "assessment": "This reaction indicates poor emotional control and impulsiveness, which undermines his ability to handle interpersonal situations competently.",
+      "rating": -2,
+      "chunk": 59
     },
     {
-      "Action": "Advances slowly with gun trained, attempting to control situation.",
-      "Competence": 0,
-      "Chunk": 76
+      "trait": "competence",
+      "action": "Harry ignores Katie's attempts to engage him calmly and instead escalates the conflict.",
+      "assessment": "This behavior reflects a lack of social tact and emotional intelligence, detracting from his overall competence in communication.",
+      "rating": -2,
+      "chunk": 59
     },
     {
-      "Action": "Unable to prevent Ted from disarming and overpowering him despite having a gun.",
-      "Competence": -1,
-      "Chunk": 76
+      "trait": "competence",
+      "action": "Harry abruptly leaves the room and slams the front door after the confrontation.",
+      "assessment": "This action suggests avoidance rather than constructive problem-solving, indicating a deficiency in managing stressful situations effectively.",
+      "rating": -2,
+      "chunk": 59
     },
     {
-      "Action": "Gets to his feet quickly after being knocked down.",
-      "Competence": 1,
-      "Chunk": 76
+      "trait": "warmth",
+      "action": "Calls his wife Sandy and asks her to come home because their baby needs her.",
+      "assessment": "This shows a caring and sincere concern for his family, indicating warmth and emotional connection.",
+      "rating": 2,
+      "chunk": 60
     },
     {
-      "Action": "Emerges from house robe flapping, pursuing Ted with a hatchet calling him 'Intruder' and violently attacks him.",
-      "Warmth": -1,
-      "Chunk": 77
+      "trait": "warmth",
+      "action": "Expresses misery and longing during the phone call with Sandy.",
+      "assessment": "His vulnerability and openness in expressing his feelings suggest sincerity and emotional warmth.",
+      "rating": 2,
+      "chunk": 60
     },
     {
-      "Action": "Pursues alleged intruder aggressively with a hatchet, showing physical initiative and decisiveness.",
-      "Competence": 1,
-      "Chunk": 77
+      "trait": "warmth",
+      "action": "Aggressively confronts and t-bones a car parked across the street, shouting profanities.",
+      "assessment": "This aggressive and hostile behavior reflects low tolerance and unfriendliness, indicating a lack of warmth.",
+      "rating": -3,
+      "chunk": 60
     },
     {
-      "Action": "Attacks Ted repeatedly without apparent hesitation or questioning the situation.",
-      "Competence": 0,
-      "Chunk": 77
+      "trait": "competence",
+      "action": "Harry (Osbourne Cox) notices a suspicious car across the street and takes immediate action by confronting the driver and then ramming the car with his own vehicle to prevent escape.",
+      "assessment": "This action shows quick situational awareness and decisiveness, indicating a certain level of competence in handling unexpected threats confidently and assertively.",
+      "rating": 2,
+      "chunk": 60
     },
     {
-      "Action": "Is attacked and shot by a gym guy after attacking him, ends up in a coma with no brain function",
-      "Competence": -1,
-      "Chunk": 78
+      "trait": "warmth",
+      "action": "Calls Harry to ask for his wife's number, speaking politely but awkwardly.",
+      "assessment": "Osbourne attempts to communicate in a civil manner, showing some effort to maintain social connection despite the tension, indicating a minimal level of warmth.",
+      "rating": 1,
+      "chunk": 62
+    },
+    {
+      "trait": "warmth",
+      "action": "Persistently tries to get Sandy's number from Harry despite Harry's hostility.",
+      "assessment": "This persistence could be seen as intrusive or insensitive, showing a lack of respect for Harry's feelings and boundaries, which lowers perceived warmth.",
+      "rating": -1,
+      "chunk": 62
+    },
+    {
+      "trait": "warmth",
+      "action": "Speaks to Sandy on the phone with a hesitant and somewhat awkward greeting.",
+      "assessment": "The hesitant and polite greeting suggests a desire to maintain civility and possibly reconciliation, reflecting some sincerity and friendliness.",
+      "rating": 2,
+      "chunk": 62
+    },
+    {
+      "trait": "competence",
+      "action": "Calls Harry to ask for his wife's number, despite the awkwardness and tension.",
+      "assessment": "This shows Osbourne's persistence and willingness to engage directly, indicating some social confidence and initiative, though the interaction is somewhat clumsy.",
+      "rating": 1,
+      "chunk": 62
+    },
+    {
+      "trait": "competence",
+      "action": "Paces in his boat cabin, unshaven and in a robe, while making phone calls.",
+      "assessment": "This suggests a lack of self-discipline and personal organization, which may undermine his professional competence.",
+      "rating": -1,
+      "chunk": 62
+    },
+    {
+      "trait": "warmth",
+      "action": "Engages in a somewhat polite phone conversation with Sandy about his manuscript and publishing concerns.",
+      "assessment": "Osbourne maintains a civil and somewhat courteous tone during the call, showing a basic level of respect and openness to discuss his work.",
+      "rating": 1,
+      "chunk": 63
+    },
+    {
+      "trait": "warmth",
+      "action": "After ending the call, Osbourne yanks a rubber band off a bundle of mail and mutters 'Bitch.'",
+      "assessment": "This reaction reveals impatience, irritability, and a lack of tolerance or kindness toward the person he just spoke with, indicating low warmth.",
+      "rating": -2,
+      "chunk": 63
+    },
+    {
+      "trait": "competence",
+      "action": "Attempts to discuss publishing his memoir with Sandy, showing awareness of the publishing process and concern about protecting his work from leaking prematurely.",
+      "assessment": "This indicates some level of professional awareness and initiative in managing his career and intellectual property, reflecting moderate competence.",
+      "rating": 1,
+      "chunk": 63
+    },
+    {
+      "trait": "competence",
+      "action": "Misunderstands that Sandy works only with children's literature and fails to clarify or redirect effectively.",
+      "assessment": "This suggests a lack of preparation or knowledge about the publishing contacts he is approaching, indicating a gap in his professional competence.",
+      "rating": -1,
+      "chunk": 63
+    },
+    {
+      "trait": "competence",
+      "action": "Ends the call abruptly and expresses frustration by calling Sandy a 'bitch' after the conversation.",
+      "assessment": "This reaction shows poor emotional control and unprofessional behavior, undermining his ability to handle professional interactions competently.",
+      "rating": -2,
+      "chunk": 63
+    },
+    {
+      "trait": "warmth",
+      "action": "Expresses frustration loudly and aggressively over returned check and bank account issues.",
+      "assessment": "Osbourne's reaction is marked by anger and profanity, showing little patience or tolerance, which suggests low warmth in this moment.",
+      "rating": -2,
+      "chunk": 65
+    },
+    {
+      "trait": "warmth",
+      "action": "Attempts to clarify the bank situation by calling and demanding answers.",
+      "assessment": "While his approach is confrontational, it shows a degree of responsibility and concern for his affairs, but lacks friendliness or sincerity toward others involved.",
+      "rating": -1,
+      "chunk": 65
+    },
+    {
+      "trait": "competence",
+      "action": "Squints at a notice, repeatedly says 'What the fuck?' and shuffles through mail in apparent confusion.",
+      "assessment": "This behavior suggests Osbourne is confused and possibly overwhelmed by the information he is receiving, indicating a momentary lapse in his ability to process or manage the situation effectively.",
+      "rating": -1,
+      "chunk": 65
+    },
+    {
+      "trait": "competence",
+      "action": "Paces with a drink in hand, staring at mail, showing signs of agitation.",
+      "assessment": "Pacing and drinking while fixating on troubling mail suggests emotional distress and lack of calm problem-solving, which detracts from his competence in handling stressful situations.",
+      "rating": -2,
+      "chunk": 65
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in a phone call demanding answers about a returned check and access to bank accounts, but repeatedly shows frustration and confusion about account details.",
+      "assessment": "While he takes initiative to call and seek answers, his inability to recall important account information and his aggressive tone imply poor preparation and lack of control, undermining his competence.",
+      "rating": -2,
+      "chunk": 65
+    },
+    {
+      "trait": "competence",
+      "action": "No direct actions or statements by Osbourne Cox are present in the provided excerpt.",
+      "assessment": "The excerpt does not provide any observable behavior, statements, or internal thoughts from Osbourne Cox to assess his competence.",
+      "rating": 0,
+      "chunk": 66
+    },
+    {
+      "trait": "warmth",
+      "action": "Barks into the phone aggressively, dismissing the other party's concerns and slamming down the phone.",
+      "assessment": "Osbourne's aggressive and dismissive behavior on the phone suggests impatience and a lack of tolerance or friendliness in this interaction.",
+      "rating": -2,
+      "chunk": 69
+    },
+    {
+      "trait": "competence",
+      "action": "Barks into the phone aggressively, demanding new keys and dismissing concerns about a patient.",
+      "assessment": "This action shows Osbourne's confidence and assertiveness in handling a situation, suggesting he is used to taking charge and expects control, which can be a sign of competence in managing his affairs.",
+      "rating": 1,
+      "chunk": 69
+    },
+    {
+      "trait": "competence",
+      "action": "Slams down the phone after a terse conversation.",
+      "assessment": "This indicates impatience and possible impulsiveness, which may undermine effective communication and problem-solving, reflecting a slight lack of emotional control that can detract from competence.",
+      "rating": -1,
+      "chunk": 69
+    },
+    {
+      "trait": "warmth",
+      "action": "Yanks open a toolbox and pulls out a hatchet.",
+      "assessment": "This action is abrupt and aggressive, showing little consideration for others and no warmth.",
+      "rating": -2,
+      "chunk": 70
+    },
+    {
+      "trait": "warmth",
+      "action": "Strides grimly down the dock in a bathrobe, hatchet in hand.",
+      "assessment": "His grim demeanor and carrying a weapon in a casual setting suggest intimidation rather than friendliness or sincerity.",
+      "rating": -3,
+      "chunk": 70
+    },
+    {
+      "trait": "competence",
+      "action": "Yanks open the toolbox and pulls out a hatchet.",
+      "assessment": "This action shows decisiveness and readiness to take action, indicating a certain level of practical competence and confidence in handling tools or situations requiring physical intervention.",
+      "rating": 2,
+      "chunk": 70
+    },
+    {
+      "trait": "competence",
+      "action": "Strides grimly down the dock in his bathrobe, hatchet in hand.",
+      "assessment": "His grim stride and purposeful carrying of a hatchet suggest determination and a no-nonsense attitude, reflecting mental focus and a degree of situational awareness.",
+      "rating": 1,
+      "chunk": 70
+    },
+    {
+      "trait": "competence",
+      "action": "Arrives at his townhouse in a crumple-backed car, still in robe and pyjamas, carrying a hatchet.",
+      "assessment": "This suggests a lack of preparation and professionalism, indicating a somewhat disorganized or careless approach to his personal affairs.",
+      "rating": -1,
+      "chunk": 71
+    },
+    {
+      "trait": "competence",
+      "action": "Attempts to gain entry to his own house by bashing the door knob with the blunt end of a hatchet, causing hardware to fall off and the knob to wobble.",
+      "assessment": "This shows a crude, forceful method rather than a skillful or intelligent solution, reflecting poor problem-solving and a lack of finesse.",
+      "rating": -2,
+      "chunk": 71
+    },
+    {
+      "trait": "competence",
+      "action": "Switches from using the sharp end of the hatchet to the blunt end after a few tries.",
+      "assessment": "This indicates some adaptability and quick decision-making, though within a limited and ineffective approach.",
+      "rating": 0,
+      "chunk": 71
+    },
+    {
+      "trait": "competence",
+      "action": "Successfully pushes the door open after damaging the knob with the hatchet.",
+      "assessment": "While the goal is achieved, the method is destructive and inefficient, suggesting competence in persistence but not in skillful execution.",
+      "rating": 0,
+      "chunk": 71
+    },
+    {
+      "trait": "warmth",
+      "action": "Yanks his hand back in pain and flings a brooch across the room in frustration.",
+      "assessment": "This action shows irritability and a lack of patience or gentleness, indicating low warmth.",
+      "rating": -2,
+      "chunk": 74
+    },
+    {
+      "trait": "warmth",
+      "action": "Carefully sets down his drink and waits after hearing a knock at the door.",
+      "assessment": "This shows a moment of cautiousness and restraint rather than hostility, suggesting a neutral to slightly positive social awareness.",
+      "rating": 0,
+      "chunk": 74
+    },
+    {
+      "trait": "competence",
+      "action": "Carefully packing liquor bottles and jewelry into a box while sipping a drink, despite injuring his thumb and reacting with frustration.",
+      "assessment": "This shows some level of methodical behavior and focus on the task at hand, indicating basic organizational skills, though his frustration and throwing a brooch suggest poor emotional control.",
+      "rating": 0,
+      "chunk": 74
+    },
+    {
+      "trait": "competence",
+      "action": "Pauses and listens carefully after hearing a knock at the door, setting down his drink before responding.",
+      "assessment": "This indicates cautiousness and situational awareness, reflecting a degree of prudence and control in an uncertain situation.",
+      "rating": 1,
+      "chunk": 74
+    },
+    {
+      "trait": "warmth",
+      "action": "Moves cautiously through his house with a handgun ready, drink in hand, checking empty rooms and proceeding to the basement where someone is at his desk.",
+      "assessment": "Osbourne's behavior here is marked by suspicion and guardedness rather than openness or friendliness. His readiness to confront an intruder with a gun suggests a lack of trust and warmth toward others, even in his own home.",
+      "rating": -2,
+      "chunk": 75
+    },
+    {
+      "trait": "competence",
+      "action": "Steps quietly to the closet and pulls a small cedar chest off a high shelf.",
+      "assessment": "This action shows a degree of carefulness and deliberate movement, suggesting some level of situational awareness and control.",
+      "rating": 1,
+      "chunk": 75
+    },
+    {
+      "trait": "competence",
+      "action": "Rounds the corner from entryway to living room with a handgun at the ready, drink in the other hand, moving cautiously.",
+      "assessment": "Holding a gun ready while also carrying a drink indicates a lack of full focus and seriousness in a potentially dangerous situation, which undermines his competence.",
+      "rating": -1,
+      "chunk": 75
+    },
+    {
+      "trait": "competence",
+      "action": "Advances cautiously through empty rooms, checking the kitchen and proceeding to the basement door.",
+      "assessment": "Shows some tactical awareness and caution, indicating moderate competence in handling a suspicious or threatening environment.",
+      "rating": 1,
+      "chunk": 75
+    },
+    {
+      "trait": "competence",
+      "action": "Descends basement stairs slowly with gun and drink in either hand, gun up, ice cubes clinking.",
+      "assessment": "Carrying a drink while armed in a tense situation suggests poor judgment and lack of professionalism, detracting from his competence.",
+      "rating": -2,
+      "chunk": 75
+    },
+    {
+      "trait": "competence",
+      "action": "Fails to notice someone standing behind his desk at the computer as he descends the basement stairs.",
+      "assessment": "This oversight indicates a significant lapse in situational awareness and vigilance, reflecting poorly on his competence.",
+      "rating": -2,
+      "chunk": 75
+    },
+    {
+      "trait": "warmth",
+      "action": "Confronts Ted Treffon aggressively, accusing him of being part of a 'league of morons' and ultimately shoots him twice.",
+      "assessment": "Osbourne's behavior here is hostile, distrustful, and violent, showing a lack of tolerance, friendliness, or sincerity. This aggressive confrontation strongly indicates low warmth.",
+      "rating": -3,
+      "chunk": 76
+    },
+    {
+      "trait": "competence",
+      "action": "Advances slowly with gun trained on Ted, maintaining composure and focus during confrontation.",
+      "assessment": "This shows a degree of tactical awareness and control in a tense situation, indicating some competence in handling threats.",
+      "rating": 2,
+      "chunk": 76
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in a verbal exchange attempting to assert dominance and intimidate Ted before shooting.",
+      "assessment": "While the verbal confrontation shows confidence, it also suggests impulsiveness and emotional involvement that may undermine strategic thinking.",
+      "rating": 0,
+      "chunk": 76
+    },
+    {
+      "trait": "competence",
+      "action": "Shoots Ted in the upper chest during the confrontation.",
+      "assessment": "Successfully firing a shot under pressure indicates a level of skill and decisiveness.",
+      "rating": 2,
+      "chunk": 76
+    },
+    {
+      "trait": "competence",
+      "action": "Is knocked over and momentarily incapacitated when Ted charges after being shot.",
+      "assessment": "Being physically overpowered despite having a gun suggests a lack of preparedness for close combat and a vulnerability in physical competence.",
+      "rating": -1,
+      "chunk": 76
+    },
+    {
+      "trait": "competence",
+      "action": "Recovers quickly after being knocked down and calls out to stop the intruder.",
+      "assessment": "Demonstrates resilience and presence of mind to respond promptly after a setback, reflecting moderate competence.",
+      "rating": 1,
+      "chunk": 76
+    },
+    {
+      "trait": "warmth",
+      "action": "Emerges from his house in a robe, pursuing Ted with a hatchet and repeatedly whacking him while shouting 'Intruder!'",
+      "assessment": "Osbourne's aggressive and violent reaction toward Ted, mistaking him for an intruder and attacking him without apparent restraint, suggests a lack of tolerance, friendliness, and trustworthiness in this moment.",
+      "rating": -3,
+      "chunk": 77
+    },
+    {
+      "trait": "competence",
+      "action": "Emerges from his house in a robe, pursuing Ted with a hatchet and repeatedly whacking him down.",
+      "assessment": "This action shows a certain decisiveness and physical assertiveness in confronting an intruder, indicating some level of capability and confidence in handling a threat.",
+      "rating": 1,
+      "chunk": 77
+    },
+    {
+      "trait": "competence",
+      "action": "Chases and attacks Ted aggressively in broad daylight on the street.",
+      "assessment": "While the aggression and willingness to confront an intruder is positive, the choice of weapon (hatchet) and the manner of attack may suggest impulsiveness rather than strategic skill, limiting the competence displayed.",
+      "rating": 0,
+      "chunk": 77
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in a physical altercation in broad daylight, resulting in being shot and falling into a coma with no brain function.",
+      "assessment": "This action suggests a severe lack of situational awareness and poor judgment, leading to catastrophic personal consequences. It indicates a significant failure in competence, especially in self-preservation and professional conduct.",
+      "rating": -3,
+      "chunk": 78
     }
   ]
 }
