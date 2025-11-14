@@ -1,0 +1,802 @@
+{
+  "Porter": [
+    {
+      "trait": "warmth",
+      "action": "Pauses alongside a panhandler and takes out $1 or $2 to give him.",
+      "assessment": "Giving money to a panhandler shows a degree of generosity and concern for others, indicating some warmth.",
+      "rating": 2,
+      "chunk": 1
+    },
+    {
+      "trait": "warmth",
+      "action": "After giving some money, takes one last dollar from the panhandler's hat before continuing on.",
+      "assessment": "Taking money from a panhandler after giving some is an act of exploitation and shows a lack of sincerity and trustworthiness, indicating low warmth.",
+      "rating": -3,
+      "chunk": 1
+    },
+    {
+      "trait": "warmth",
+      "action": "Takes two pennies from the tray of change left at the register after paying for his coffee and pie.",
+      "assessment": "Taking only two pennies from a tray of pennies suggests a minimal, possibly petty act that lacks generosity or warmth.",
+      "rating": -1,
+      "chunk": 2
+    },
+    {
+      "trait": "warmth",
+      "action": "Sharp rebuke to Edward Johnson after almost knocking him down: 'Watch it.'",
+      "assessment": "The sharp tone and lack of apology or friendliness indicate a brusque, unfriendly demeanor, showing low warmth.",
+      "rating": -2,
+      "chunk": 2
+    },
+    {
+      "trait": "warmth",
+      "action": "Steals Edward Johnson's wallet after bumping into him.",
+      "assessment": "Stealing from another person is a clear indicator of untrustworthiness and lack of good nature, strongly negative for warmth.",
+      "rating": -3,
+      "chunk": 2
+    },
+    {
+      "trait": "competence",
+      "action": "Parker deftly slides Edward Johnson's wallet into his pocket after bumping into him.",
+      "assessment": "This action demonstrates Parker's skill and confidence in pickpocketing, indicating a high level of competence in stealth and quick hand movements.",
+      "rating": 3,
+      "chunk": 2
+    },
+    {
+      "trait": "competence",
+      "action": "Parker studies and dismisses faces in a crowded financial district before selecting a target.",
+      "assessment": "This shows observational skills and strategic thinking, reflecting competence in situational awareness and planning.",
+      "rating": 2,
+      "chunk": 2
+    },
+    {
+      "trait": "competence",
+      "action": "Parker refuses a coffee refill and handles the cigarette transaction smoothly.",
+      "assessment": "While this shows some social confidence and self-control, it is a minor indicator of competence and more about attitude.",
+      "rating": 1,
+      "chunk": 2
+    },
+    {
+      "trait": "competence",
+      "action": "Parker stops to take two pennies from the tray at the register.",
+      "assessment": "This small action suggests attention to detail and a practical mindset, but it is a minor competence indicator.",
+      "rating": 1,
+      "chunk": 2
+    },
+    {
+      "trait": "competence",
+      "action": "Parker sharply tells Edward Johnson to 'Watch it' after bumping into him.",
+      "assessment": "This shows confidence and assertiveness, but it risks drawing attention, which could be a slight tactical oversight.",
+      "rating": 0,
+      "chunk": 2
+    },
+    {
+      "trait": "competence",
+      "action": "Carefully prepares his appearance in the men's room by washing his face, smoothing his hair, putting on a tie, and attempting to remove a stain from his shirt.",
+      "assessment": "This shows Porter’s attention to detail and understanding of the importance of appearance in achieving his goals, indicating a level of skill and forethought.",
+      "rating": 2,
+      "chunk": 3
+    },
+    {
+      "trait": "competence",
+      "action": "Memorizes the social security number from the wallet and studies the driver's license carefully, even running it under water and drying it to make it look authentic.",
+      "assessment": "This demonstrates Porter’s methodical and intelligent approach to assuming a false identity, reflecting careful planning and skill.",
+      "rating": 3,
+      "chunk": 3
+    },
+    {
+      "trait": "competence",
+      "action": "Confronts the barman who challenges him, and when the barman grabs a nightstick, Porter confidently slaps down money on the bar, causing the barman to back off.",
+      "assessment": "Porter’s confident and calm handling of a potentially dangerous confrontation shows social and situational competence.",
+      "rating": 2,
+      "chunk": 3
+    },
+    {
+      "trait": "competence",
+      "action": "Uses a beat-up but plausible fake ID and VISA card to successfully interact with a bank teller without raising suspicion.",
+      "assessment": "This indicates Porter’s skill in deception and his ability to maintain composure under scrutiny, reflecting competence in executing his plan.",
+      "rating": 2,
+      "chunk": 3
+    },
+    {
+      "trait": "competence",
+      "action": "Observes the security cameras, vault door, Flexiglas wall height, and the guard half-dozing by the door, and thinks about it for a second.",
+      "assessment": "This shows Porter’s situational awareness and ability to quickly assess security measures, indicating a competent and thoughtful approach to the environment.",
+      "rating": 2,
+      "chunk": 4
+    },
+    {
+      "trait": "competence",
+      "action": "Answers the teller’s request for the last four digits of his social security number without hesitation.",
+      "assessment": "Responding promptly and confidently to a security check suggests Porter is prepared and knowledgeable, reflecting competence in handling potentially stressful interactions.",
+      "rating": 2,
+      "chunk": 4
+    },
+    {
+      "trait": "competence",
+      "action": "Wears four wedding rings for the first time.",
+      "assessment": "This detail is ambiguous in terms of competence; it may indicate confidence or a deliberate choice, but does not directly reflect skill or intelligence.",
+      "rating": 0,
+      "chunk": 4
+    },
+    {
+      "trait": "competence",
+      "action": "Selects and purchases a new suit, looking sharp but not obvious, and pays by credit card.",
+      "assessment": "This shows Porter’s ability to blend in and maintain a low profile while upgrading his appearance, demonstrating social awareness and planning.",
+      "rating": 1,
+      "chunk": 4
+    },
+    {
+      "trait": "competence",
+      "action": "Disposes of old clothes and shoes in a trash barrel after changing into the new suit.",
+      "assessment": "This action indicates foresight and an understanding of leaving no trace, which is a competent behavior in maintaining anonymity.",
+      "rating": 2,
+      "chunk": 4
+    },
+    {
+      "trait": "competence",
+      "action": "Swipes a credit card through a magnetic strip reader and carries out multiple transactions including buying and pawning items.",
+      "assessment": "Porter’s ability to manage multiple transactions involving stolen or borrowed items suggests resourcefulness and practical competence in handling logistics.",
+      "rating": 2,
+      "chunk": 4
+    },
+    {
+      "trait": "competence",
+      "action": "Parker picks up the first revolver, feels the weight, checks the action, slaps the cylinder open and shut, then rejects it as 'No good.'",
+      "assessment": "This shows Parker's knowledgeable and skillful handling of firearms, indicating familiarity and discernment in evaluating weapons.",
+      "rating": 2,
+      "chunk": 5
+    },
+    {
+      "trait": "competence",
+      "action": "Parker tries the second revolver and likes it, commenting 'Guy definitely knows his guns.'",
+      "assessment": "This suggests Parker's ability to assess quality and value in firearms confidently, reflecting competence in his area of expertise.",
+      "rating": 2,
+      "chunk": 5
+    },
+    {
+      "trait": "competence",
+      "action": "Parker negotiates the price down to $500 for the Magnum and closes the deal smoothly.",
+      "assessment": "This indicates skillful negotiation and confidence in transactions, a sign of practical competence.",
+      "rating": 2,
+      "chunk": 5
+    },
+    {
+      "trait": "competence",
+      "action": "At the steakhouse, Parker pays with a canceled credit card but uses a look to intimidate the waiter into retrying the card.",
+      "assessment": "This shows social savvy and confidence in manipulating situations to his advantage, reflecting interpersonal competence.",
+      "rating": 1,
+      "chunk": 5
+    },
+    {
+      "trait": "competence",
+      "action": "Parker calmly wipes his mouth, stands, and strolls out of the restaurant after the card incident.",
+      "assessment": "His composed and unhurried demeanor suggests self-assurance and control, reinforcing his competent persona.",
+      "rating": 1,
+      "chunk": 5
+    },
+    {
+      "trait": "competence",
+      "action": "Parker watches the building across the street from a shadowed entrance, observing a girl who looks drunk entering her apartment.",
+      "assessment": "This surveillance behavior implies patience, caution, and situational awareness, traits associated with competence in observation and planning.",
+      "rating": 2,
+      "chunk": 5
+    },
+    {
+      "trait": "warmth",
+      "action": "No direct actions or statements by Porter are present in this excerpt; the scene focuses on Parker and Lynn's interaction.",
+      "assessment": "Porter is not present or active in this scene, so no indicators of warmth can be inferred here.",
+      "rating": 0,
+      "chunk": 6
+    },
+    {
+      "trait": "competence",
+      "action": "Parker quickly searches the apartment for anyone else after entering.",
+      "assessment": "This shows situational awareness and a methodical approach to securing the environment, indicating competent tactical behavior.",
+      "rating": 2,
+      "chunk": 6
+    },
+    {
+      "trait": "competence",
+      "action": "Parker shoves the gun in his belt and commands Lynn to get up and make coffee.",
+      "assessment": "This demonstrates confidence and control over the situation, suggesting a calm and authoritative demeanor.",
+      "rating": 2,
+      "chunk": 6
+    },
+    {
+      "trait": "competence",
+      "action": "Parker notices needle track marks on Lynn's arm and uses this observation to question her.",
+      "assessment": "This indicates perceptiveness and the ability to gather useful information through observation, a sign of intelligence and skill.",
+      "rating": 2,
+      "chunk": 6
+    },
+    {
+      "trait": "competence",
+      "action": "Parker calmly ducks under a thrown coffee pot, avoiding injury.",
+      "assessment": "This quick reflex and physical agility reflect good situational awareness and physical competence.",
+      "rating": 2,
+      "chunk": 6
+    },
+    {
+      "trait": "competence",
+      "action": "Parker is caught off guard by Lynn's knife attack, sustaining a glancing blow to the head.",
+      "assessment": "While he blocks the first strike, being hit on the head suggests a momentary lapse in defense or underestimation of the threat.",
+      "rating": -1,
+      "chunk": 6
+    },
+    {
+      "trait": "warmth",
+      "action": "No direct actions or statements from Porter are present in this excerpt; his presence is implied but not active.",
+      "assessment": "Porter does not appear or act in this scene, so no warmth indicators can be inferred here.",
+      "rating": 0,
+      "chunk": 7
+    },
+    {
+      "trait": "competence",
+      "action": "Ties Lynn up after a struggle and controls her effectively despite her resistance.",
+      "assessment": "This action shows physical capability and control in a tense situation, indicating a level of skill and confidence.",
+      "rating": 2,
+      "chunk": 7
+    },
+    {
+      "trait": "competence",
+      "action": "Uses a photograph as leverage to manipulate Lynn emotionally.",
+      "assessment": "This demonstrates strategic thinking and psychological insight, reflecting intelligence and tactical competence.",
+      "rating": 3,
+      "chunk": 7
+    },
+    {
+      "trait": "competence",
+      "action": "Leans against the wall, replacing anger with a more measured demeanor after releasing Lynn.",
+      "assessment": "This suggests emotional regulation and situational awareness, traits associated with competent behavior.",
+      "rating": 2,
+      "chunk": 7
+    },
+    {
+      "trait": "competence",
+      "action": "Engages Lynn in questioning about Val and the syndicate, seeking information methodically.",
+      "assessment": "This indicates a purposeful and strategic approach to gathering intelligence, showing competence in planning and interrogation.",
+      "rating": 2,
+      "chunk": 7
+    },
+    {
+      "trait": "competence",
+      "action": "Pulls away the bookshelf and knocks once before entering Lynn's apartment.",
+      "assessment": "This shows a cautious and deliberate approach, indicating situational awareness and respect for procedure.",
+      "rating": 2,
+      "chunk": 9
+    },
+    {
+      "trait": "competence",
+      "action": "Recognizes Lynn is dead immediately upon seeing her and carefully wipes her eyes shut.",
+      "assessment": "Demonstrates emotional control and presence of mind in a distressing situation, reflecting mental resilience and composure.",
+      "rating": 2,
+      "chunk": 9
+    },
+    {
+      "trait": "competence",
+      "action": "Removes his wedding ring and pins it to the wall with the syringe from Lynn's arm.",
+      "assessment": "This symbolic act shows emotional depth but also a moment of vulnerability; it does not directly reflect competence but suggests a thoughtful, deliberate nature.",
+      "rating": 0,
+      "chunk": 9
+    },
+    {
+      "trait": "competence",
+      "action": "Lies down beside Lynn's body and stares at the ceiling, reflecting on the past.",
+      "assessment": "This indicates a moment of emotional overwhelm and possible distraction, which could be seen as a temporary lapse in focus or professional detachment.",
+      "rating": -1,
+      "chunk": 9
+    },
+    {
+      "trait": "competence",
+      "action": "Hangs up the phone and contemplates a job offer from Val, showing awareness of the syndicate's dynamics.",
+      "assessment": "Shows strategic thinking and awareness of the criminal underworld's politics, indicating intelligence and situational understanding.",
+      "rating": 2,
+      "chunk": 9
+    },
+    {
+      "trait": "competence",
+      "action": "Engages in a brief exchange with Lynn about Val and the job offer, showing internal conflict.",
+      "assessment": "This reveals some hesitation and emotional distraction, which may undermine decisiveness and confidence in critical moments.",
+      "rating": -1,
+      "chunk": 9
+    },
+    {
+      "trait": "warmth",
+      "action": "Swerves the Chevy directly into the sedan's path, causing a brutal head-on crash.",
+      "assessment": "This aggressive and violent action shows a lack of concern for others' safety and wellbeing, indicating low warmth.",
+      "rating": -3,
+      "chunk": 11
+    },
+    {
+      "trait": "warmth",
+      "action": "Cuts the courier's handcuff chain to free him.",
+      "assessment": "Freeing someone from restraints could be seen as helpful, but given the violent context and Porter’s apparent criminal intent, this act lacks benevolence or sincerity.",
+      "rating": -1,
+      "chunk": 11
+    },
+    {
+      "trait": "warmth",
+      "action": "Gives Val a look after Val violently assaults the bodyguard.",
+      "assessment": "Porter's nonverbal communication suggests disapproval of excessive violence, which may indicate some restraint or tolerance, a mild positive indicator of warmth.",
+      "rating": 1,
+      "chunk": 11
+    },
+    {
+      "trait": "warmth",
+      "action": "Takes his share of the money without protest.",
+      "assessment": "Taking money as part of a criminal payoff is self-interested and does not demonstrate generosity or sincerity.",
+      "rating": -2,
+      "chunk": 11
+    },
+    {
+      "trait": "competence",
+      "action": "Swerves the Chevy directly into the sedan's path, causing a brutal head-on crash.",
+      "assessment": "This shows decisive and aggressive driving, indicating confidence and tactical boldness in initiating the collision to achieve their objective.",
+      "rating": 2,
+      "chunk": 11
+    },
+    {
+      "trait": "competence",
+      "action": "Climbs out of the crashed Chevy immediately and uses bolt cutters to free the courier's handcuff chain.",
+      "assessment": "Demonstrates preparedness (carrying bolt cutters), quick thinking, and practical skill in a high-pressure situation.",
+      "rating": 3,
+      "chunk": 11
+    },
+    {
+      "trait": "competence",
+      "action": "Gets into the driver's seat and quickly reverses hard to pull alongside Val after the confrontation.",
+      "assessment": "Shows situational awareness, control of the vehicle under stress, and coordination with team members.",
+      "rating": 2,
+      "chunk": 11
+    },
+    {
+      "trait": "competence",
+      "action": "Gives Val a look when Val is excessively violent with the bodyguard.",
+      "assessment": "Indicates some level of leadership or at least an awareness of appropriate force, suggesting emotional control and judgment.",
+      "rating": 1,
+      "chunk": 11
+    },
+    {
+      "trait": "competence",
+      "action": "Smokes a cigarette calmly after the heist while Lynn counts the take.",
+      "assessment": "This calm demeanor post-action suggests confidence and composure under pressure.",
+      "rating": 1,
+      "chunk": 11
+    },
+    {
+      "trait": "competence",
+      "action": "Accepts a smaller share of the take without protest.",
+      "assessment": "Could indicate either practical acceptance or lack of assertiveness; this is ambiguous but may suggest a lack of confidence in negotiating or asserting value.",
+      "rating": 0,
+      "chunk": 11
+    },
+    {
+      "trait": "warmth",
+      "action": "No direct actions or statements by Porter are present in this excerpt; the focus is on Parker, Val, and Lynn.",
+      "assessment": "Porter is not featured in this scene, so no indicators of warmth can be inferred from this excerpt.",
+      "rating": 0,
+      "chunk": 12
+    },
+    {
+      "trait": "competence",
+      "action": "Keeps his hand on the revolver in his belt and watches Val carefully, showing alertness and readiness.",
+      "assessment": "This indicates Porter is cautious and prepared, demonstrating situational awareness and a degree of confidence.",
+      "rating": 2,
+      "chunk": 12
+    },
+    {
+      "trait": "competence",
+      "action": "Is caught by surprise when Lynn points a gun at his back and shoots him multiple times.",
+      "assessment": "Being taken by surprise and shot suggests a significant lapse in Porter’s vigilance or ability to anticipate threats, indicating a notable failure in competence.",
+      "rating": -3,
+      "chunk": 12
+    },
+    {
+      "trait": "competence",
+      "action": "After being shot, manages to look up and engage with Val despite severe injury.",
+      "assessment": "This shows resilience and mental toughness, reflecting some level of competence in handling extreme adversity.",
+      "rating": 1,
+      "chunk": 12
+    },
+    {
+      "trait": "competence",
+      "action": "No direct actions or statements from Porter are present in the excerpt; the scene focuses on Parker's interaction with the Punk Messenger.",
+      "assessment": "Since Porter does not appear or act in this excerpt, no direct indicators of his competence can be inferred here.",
+      "rating": 0,
+      "chunk": 13
+    },
+    {
+      "trait": "competence",
+      "action": "Interrogates the Punk Messenger by inflicting pain (clearing the nose ring out) to extract information about Val Resnick.",
+      "assessment": "This action shows Porter is willing to use intimidation and physical tactics effectively to gain critical information, indicating a level of skill and confidence in interrogation.",
+      "rating": 2,
+      "chunk": 14
+    },
+    {
+      "trait": "competence",
+      "action": "Follows up on the lead by going to South End Taxi to find Arthur Stegman.",
+      "assessment": "Porter demonstrates persistence and methodical investigation skills by pursuing the lead directly, showing practical competence in tracking targets.",
+      "rating": 2,
+      "chunk": 14
+    },
+    {
+      "trait": "competence",
+      "action": "Confronts the radioman at South End Taxi and presses him for information despite the radioman's evasiveness.",
+      "assessment": "Porter shows assertiveness and confidence in dealing with uncooperative individuals, suggesting competent interpersonal and investigative skills.",
+      "rating": 2,
+      "chunk": 14
+    },
+    {
+      "trait": "competence",
+      "action": "Pocketing a few $20 bills from the Punk Messenger's wallet.",
+      "assessment": "This action could indicate opportunism or practical thinking, but it might also suggest a lack of professionalism or discipline, which could detract from overall competence.",
+      "rating": -1,
+      "chunk": 14
+    },
+    {
+      "trait": "competence",
+      "action": "Porter is not directly shown acting or speaking in this excerpt; the scene focuses on Parker and others.",
+      "assessment": "No direct evidence of Porter's competence can be inferred from this excerpt, as Porter does not appear or act here.",
+      "rating": 0,
+      "chunk": 15
+    },
+    {
+      "trait": "competence",
+      "action": "Porter does not appear directly in this excerpt, but Parker (likely Porter) confronts Stegman aggressively and confidently about a failed delivery and the whereabouts of Val Resnick.",
+      "assessment": "Parker's direct and intimidating approach suggests a level of confidence and assertiveness, which are components of competence in a high-stakes environment.",
+      "rating": 2,
+      "chunk": 16
+    },
+    {
+      "trait": "competence",
+      "action": "Parker maintains composure and uses intimidation effectively when Stegman is hesitant and evasive.",
+      "assessment": "This indicates skill in psychological pressure and interrogation, showing mental sharpness and control.",
+      "rating": 2,
+      "chunk": 16
+    },
+    {
+      "trait": "competence",
+      "action": "Parker does not reveal much about his own plans or vulnerabilities during the exchange.",
+      "assessment": "This discretion and control over information flow is a sign of strategic thinking and competence.",
+      "rating": 2,
+      "chunk": 16
+    },
+    {
+      "trait": "competence",
+      "action": "Parker fails to obtain clear information about Val Resnick's whereabouts from Stegman.",
+      "assessment": "While Parker is confident, his inability to extract the needed information here may indicate a limitation in his interrogation effectiveness or intelligence gathering.",
+      "rating": -1,
+      "chunk": 16
+    },
+    {
+      "trait": "warmth",
+      "action": "Parker says to Rosie, 'I wouldn't give you up...' when discussing the risk of being caught and questioned about the hotel location.",
+      "assessment": "This statement shows loyalty and protectiveness toward Rosie, indicating trustworthiness and a sincere bond.",
+      "rating": 2,
+      "chunk": 26
+    },
+    {
+      "trait": "competence",
+      "action": "Porter does not appear in this excerpt; the focus is on Parker and Rosie.",
+      "assessment": "No direct information about Porter's competence can be inferred from this passage, as he is not involved in the dialogue or actions.",
+      "rating": 0,
+      "chunk": 26
+    },
+    {
+      "trait": "competence",
+      "action": "The doorman yawns, leans back against the wall, and checks his watch while on duty.",
+      "assessment": "This behavior suggests a lack of vigilance and attentiveness, indicating low situational awareness and poor professional discipline.",
+      "rating": -2,
+      "chunk": 28
+    },
+    {
+      "trait": "competence",
+      "action": "Steps out to the street but Parker is nowhere to be seen.",
+      "assessment": "This implies that Porter may have been outmaneuvered or caught off guard, reflecting a lapse in his ability to monitor or control his environment effectively.",
+      "rating": -1,
+      "chunk": 28
+    },
+    {
+      "trait": "warmth",
+      "action": "Parker (Porter) confronts Val Resnick aggressively, holding him at gunpoint and demanding repayment of a large debt.",
+      "assessment": "This action shows intimidation and a lack of empathy or friendliness, indicating low warmth.",
+      "rating": -3,
+      "chunk": 29
+    },
+    {
+      "trait": "warmth",
+      "action": "Parker notices Pearl's provocative attire and accessories but does not comment or judge her, instead focusing on the situation.",
+      "assessment": "This could suggest a degree of tolerance or at least restraint, avoiding unnecessary judgment or conflict.",
+      "rating": 1,
+      "chunk": 29
+    },
+    {
+      "trait": "warmth",
+      "action": "Parker tells Pearl to keep quiet so she can walk out safely.",
+      "assessment": "This shows some concern for Pearl's wellbeing and a desire to avoid unnecessary harm, indicating a small measure of care.",
+      "rating": 2,
+      "chunk": 29
+    },
+    {
+      "trait": "competence",
+      "action": "Parker (likely Porter) surprises Val Resnick by appearing unexpectedly in his room, armed with both Val's 9mm and his own Magnum, demonstrating control of the situation.",
+      "assessment": "This action shows tactical awareness, preparedness, and the ability to intimidate effectively, indicating a high level of competence.",
+      "rating": 3,
+      "chunk": 29
+    },
+    {
+      "trait": "competence",
+      "action": "Parker notices and registers the presence of Pearl's black leather corset, handcuffs, and cat-o-nine tails on the dresser, using this information to assess the situation.",
+      "assessment": "This shows observational skills and situational awareness, which are important components of competence.",
+      "rating": 2,
+      "chunk": 29
+    },
+    {
+      "trait": "competence",
+      "action": "Parker calmly instructs Pearl to keep quiet and implies that cooperation will ensure her safety.",
+      "assessment": "This demonstrates confidence and control in a tense situation, reflecting competent interpersonal and negotiation skills.",
+      "rating": 2,
+      "chunk": 29
+    },
+    {
+      "trait": "warmth",
+      "action": "Parker sets the barrel of the gun against Val's forehead, pins him back against the wall, and threatens to kill him over money.",
+      "assessment": "This action is aggressive, threatening, and violent, showing a lack of warmth and empathy toward Val.",
+      "rating": -3,
+      "chunk": 30
+    },
+    {
+      "trait": "warmth",
+      "action": "Parker waves Pearl off as she viciously beats Val with handcuffs.",
+      "assessment": "By allowing Pearl to violently assault Val without intervening, Parker demonstrates tolerance for cruelty and a lack of protective warmth.",
+      "rating": -3,
+      "chunk": 30
+    },
+    {
+      "trait": "warmth",
+      "action": "Parker agrees to meet Val at the payphone the next day to settle the money issue.",
+      "assessment": "This shows a minimal level of trust and willingness to resolve conflict through communication rather than immediate violence, indicating a slight positive indicator of warmth.",
+      "rating": 1,
+      "chunk": 30
+    },
+    {
+      "trait": "competence",
+      "action": "Parker (Porter) sets the barrel of the gun against Val's forehead and pins him back against the wall, controlling the situation with physical dominance.",
+      "assessment": "This action demonstrates Porter's ability to assert control and intimidate effectively, showing confidence and tactical awareness in a high-pressure situation.",
+      "rating": 2,
+      "chunk": 30
+    },
+    {
+      "trait": "competence",
+      "action": "Parker cocks back the hammer of the gun, ready to shoot Val to enforce compliance.",
+      "assessment": "This shows Porter's readiness to escalate the situation decisively, indicating a willingness to use force to achieve objectives, reflecting decisiveness and resolve.",
+      "rating": 2,
+      "chunk": 30
+    },
+    {
+      "trait": "competence",
+      "action": "Parker lowers the pistol and steps back, allowing Pearl to take over the physical punishment of Val.",
+      "assessment": "This could indicate strategic delegation or a momentary lapse in direct control; while it shows some flexibility, it might also suggest a slight relinquishing of direct authority.",
+      "rating": 0,
+      "chunk": 30
+    },
+    {
+      "trait": "competence",
+      "action": "Parker waves Pearl off after she finishes beating Val and calmly sets the terms for Val to meet at the payphone with the money.",
+      "assessment": "This shows Porter’s ability to maintain focus on the objective and manage the situation calmly after a violent outburst, reflecting composure and control.",
+      "rating": 2,
+      "chunk": 30
+    },
+    {
+      "trait": "competence",
+      "action": "Parker questions Val about the origin of a photo, showing attention to detail and gathering intelligence.",
+      "assessment": "This indicates Porter's awareness and investigative mindset, using available information to further his goals, demonstrating intelligence and thoroughness.",
+      "rating": 2,
+      "chunk": 30
+    },
+    {
+      "trait": "warmth",
+      "action": "No direct action or presence in the excerpt; Porter is absent from the scene involving violence and intimidation.",
+      "assessment": "Porter’s absence in a violent and hostile situation neither adds nor detracts from his warmth; no evidence to assess warmth here.",
+      "rating": 0,
+      "chunk": 36
+    },
+    {
+      "trait": "competence",
+      "action": "No direct actions or statements from Porter are present in the excerpt.",
+      "assessment": "Porter is not mentioned or active in this section, so no indicators of competence can be inferred.",
+      "rating": 0,
+      "chunk": 36
+    },
+    {
+      "trait": "warmth",
+      "action": "Licks Parker's hand after he is injured, showing a comforting gesture.",
+      "assessment": "Porter's action of licking Parker's hand can be interpreted as a nurturing or comforting behavior, indicating a degree of warmth and care.",
+      "rating": 2,
+      "chunk": 39
+    },
+    {
+      "trait": "warmth",
+      "action": "Does not intervene or offer help when Parker refuses medical attention and is in pain.",
+      "assessment": "Porter does not challenge Parker's refusal of medical help or insist on better care, which may suggest a lack of assertiveness or concern in ensuring Parker's well-being.",
+      "rating": -1,
+      "chunk": 39
+    },
+    {
+      "trait": "competence",
+      "action": "Does not intervene or assist when Parker is injured and treated by Rosie, remaining in the background without offering help or guidance.",
+      "assessment": "Porter's omission to act in a situation involving injury suggests a lack of initiative or confidence in handling medical or crisis situations, indicating lower competence in interpersonal or emergency contexts.",
+      "rating": -1,
+      "chunk": 39
+    },
+    {
+      "trait": "competence",
+      "action": "Remains silent and non-responsive to Rosie's sarcasm and attempts at conversation, focusing instead on preparing to leave with his weapon and jacket.",
+      "assessment": "This behavior shows a focused, no-nonsense attitude and emotional control, which can be interpreted as competent in maintaining composure and prioritizing tasks under pressure.",
+      "rating": 1,
+      "chunk": 39
+    },
+    {
+      "trait": "competence",
+      "action": "Waits patiently for Rosie to speak but does not press her when she hesitates, then exits when no information is forthcoming.",
+      "assessment": "This indicates a measured and patient approach, showing social awareness and restraint, which are aspects of competence in interpersonal interactions.",
+      "rating": 1,
+      "chunk": 39
+    },
+    {
+      "trait": "competence",
+      "action": "No direct actions or statements by Porter are present in the excerpt; he is notably absent from the scene where Parker confronts Val and Rosie.",
+      "assessment": "Porter's omission from this critical confrontation suggests either a lack of involvement or a deliberate choice to stay out of direct conflict, which could indicate either prudence or passivity. Without further context, this non-action is neutral but noteworthy.",
+      "rating": 0,
+      "chunk": 41
+    },
+    {
+      "trait": "competence",
+      "action": "Parker calmly handles a tense situation by disarming Leary with a Magnum taken from a newspaper and entrusting it to him.",
+      "assessment": "This action shows Parker's (Porter's) ability to think quickly and maintain control in a potentially dangerous scenario, indicating situational awareness and confidence.",
+      "rating": 2,
+      "chunk": 43
+    },
+    {
+      "trait": "competence",
+      "action": "Parker sits down and casually leafs through a magazine while waiting for Gray to return with Mr. Carter.",
+      "assessment": "This behavior suggests composure and patience, reflecting confidence and an ability to remain calm under uncertain circumstances.",
+      "rating": 1,
+      "chunk": 43
+    },
+    {
+      "trait": "competence",
+      "action": "Parker allows himself to be frisked by Gray without resistance, cooperating fully.",
+      "assessment": "This shows practical intelligence and an understanding of when to comply to avoid unnecessary conflict, demonstrating social competence and strategic thinking.",
+      "rating": 2,
+      "chunk": 43
+    },
+    {
+      "trait": "competence",
+      "action": "Porter does not appear directly in this excerpt; the main actions involve Parker and Carter, with no explicit mention of Porter’s behavior or decisions.",
+      "assessment": "There is no information about Porter’s actions, statements, or internal behavior in this excerpt to assess his competence.",
+      "rating": 0,
+      "chunk": 46
+    },
+    {
+      "trait": "warmth",
+      "action": "Places a badge in Val's hand and gently closes it, wiping his hands clean afterward.",
+      "assessment": "This action shows a respectful and considerate handling of Val's belongings, suggesting a degree of care and sincerity.",
+      "rating": 2,
+      "chunk": 48
+    },
+    {
+      "trait": "warmth",
+      "action": "Does not intervene or offer comfort when Rosie is bruised, vulnerable, and seeking emotional support from Parker instead.",
+      "assessment": "Porter's omission to provide comfort or check on Rosie in her vulnerable state indicates a lack of warmth or attentiveness to others' emotional needs.",
+      "rating": -2,
+      "chunk": 48
+    },
+    {
+      "trait": "warmth",
+      "action": "Reaches down and gently touches Rosie's cheek, calling her 'Good girl.'",
+      "assessment": "The gentle touch suggests a moment of tenderness and care, indicating some warmth. However, the phrase 'Good girl' can be interpreted as patronizing, which may undermine the sincerity of the gesture.",
+      "rating": 1,
+      "chunk": 49
+    },
+    {
+      "trait": "warmth",
+      "action": "Asks Rosie if she would drive him somewhere if he gets his money back, and accepts her hesitant agreement.",
+      "assessment": "Porter shows a willingness to include Rosie in his plans and respects her decision, which reflects a degree of trust and friendliness.",
+      "rating": 2,
+      "chunk": 49
+    },
+    {
+      "trait": "warmth",
+      "action": "Closes his eyes when Rosie expresses affection and vulnerability.",
+      "assessment": "Porter's non-response to Rosie's emotional openness suggests emotional distance or discomfort, indicating a lack of warmth or difficulty in expressing it.",
+      "rating": -1,
+      "chunk": 49
+    },
+    {
+      "trait": "warmth",
+      "action": "No direct actions, statements, or internal behaviors of Porter are present in the excerpt; Porter is not mentioned or involved in the scene.",
+      "assessment": "Since Porter does not appear or act in this excerpt, no inference about his warmth can be made here.",
+      "rating": 0,
+      "chunk": 50
+    },
+    {
+      "trait": "competence",
+      "action": "No direct actions or statements by Porter are present in the excerpt; he is not mentioned or involved in the scene.",
+      "assessment": "Porter’s competence cannot be assessed from this excerpt due to lack of any observable behavior, action, or statement.",
+      "rating": 0,
+      "chunk": 50
+    },
+    {
+      "trait": "competence",
+      "action": "No direct actions or statements from Porter are present in the excerpt; the scene focuses on Parker, Stegman, Radioman, and the Chows.",
+      "assessment": "Porter is not featured in this excerpt, so no assessment of his competence can be made based on this text.",
+      "rating": 0,
+      "chunk": 53
+    },
+    {
+      "trait": "competence",
+      "action": "Shoots a man quickly and decisively in a confined space without hesitation.",
+      "assessment": "This action demonstrates Porter's decisiveness, marksmanship, and ability to maintain composure under pressure, indicating high competence in a dangerous situation.",
+      "rating": 3,
+      "chunk": 55
+    },
+    {
+      "trait": "competence",
+      "action": "Commands the businessman to hide his gun and act less conspicuous.",
+      "assessment": "Porter shows situational awareness and tactical thinking by advising the businessman to avoid drawing attention, reflecting skill and intelligence.",
+      "rating": 2,
+      "chunk": 55
+    },
+    {
+      "trait": "competence",
+      "action": "Disposes of weapons discreetly after the shooting.",
+      "assessment": "This indicates Porter’s understanding of operational security and careful planning, reinforcing his competence.",
+      "rating": 2,
+      "chunk": 55
+    },
+    {
+      "trait": "competence",
+      "action": "Exits the scene calmly and alone after the shooting.",
+      "assessment": "Porter’s calm exit suggests confidence and control over the situation, further supporting his competence.",
+      "rating": 2,
+      "chunk": 55
+    },
+    {
+      "trait": "competence",
+      "action": "Pulls out a heavy black cord from a second backpack and sets a fuse to burn while driving with one hand.",
+      "assessment": "This action shows Porter's ability to multitask under pressure, demonstrating skill and calmness in a high-stress situation.",
+      "rating": 2,
+      "chunk": 59
+    },
+    {
+      "trait": "competence",
+      "action": "Lets go of the wheel with one hand to open the door and reveal a dead Stegman while driving.",
+      "assessment": "This indicates a high level of confidence and control over the vehicle, as well as situational awareness, though it also carries risk.",
+      "rating": 2,
+      "chunk": 59
+    },
+    {
+      "trait": "competence",
+      "action": "Crashes the Buick through the barrier and off the rooftop, resulting in a fiery crash.",
+      "assessment": "While the crash may have been intentional or forced, the inability to avoid the crash could suggest a lack of control or a failure to escape, reflecting negatively on competence.",
+      "rating": -1,
+      "chunk": 59
+    },
+    {
+      "trait": "warmth",
+      "action": "No direct actions or statements by Porter are present in the excerpt; the scene focuses on Parker, Phil, and Rosie.",
+      "assessment": "Porter is absent from this excerpt, so no indicators of warmth can be inferred here.",
+      "rating": 0,
+      "chunk": 60
+    },
+    {
+      "trait": "competence",
+      "action": "Starts down a row of cars instead of getting in his own car.",
+      "assessment": "This action may suggest hesitation or a lack of decisiveness, indicating a momentary lapse in situational awareness or planning.",
+      "rating": -1,
+      "chunk": 60
+    }
+  ]
+}
