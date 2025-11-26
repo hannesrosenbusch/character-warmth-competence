@@ -118,6 +118,18 @@ print(bf_competence)
 # main effects ----------------------------------------------------------------
 my_priors <- c(prior(normal(0, 1), class = "b"))
 
+#lm null
+
+lm_null <- brm(
+  formula = imdb_rating_decimal ~ 1,
+  data = df,
+  family = gaussian(),   # numeric outcome
+  chains = 4,
+  iter = 4000,
+  cores = 4,
+  seed = 123
+)
+
 # # single pred warmth
 lm_warmth <- brm(
   formula = imdb_rating_decimal ~ average_rating_warmth,
