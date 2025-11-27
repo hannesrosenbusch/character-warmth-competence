@@ -5,61 +5,17 @@ library(tidyr)
 library(bridgesampling)
 library(BayesFactor)
 library(tidyverse)
+library(patchwork)
 
+# HELPER FUNCTIONS --------------------------------------------------------
 
-# read data
-df <- read.csv("data/data.csv")
-
-
-# explore vars ------------------------------------------------------------
-
-# histograms
-summary(df$average_rating_warmth)
-summary(df$average_rating_competence)
-
-# summary n
-summary(df$n_warmth)
-summary(df$n_competence)
-
-# show max/min name_post_annotations
-df_temp <- df[df$n_warmth > 20, ]
-max_warmth <- df_temp[which.max(df_temp$average_rating_warmth), "name_post_annotation"]
-min_warmth <- df_temp[which.min(df_temp$average_rating_warmth), "name_post_annotation"]
-
-#same for competence trait
-df_temp <- df[df$n_competence > 20, ]
-max_competence <- df_temp[which.max(df_temp$average_rating_competence), "name_post_annotation"]
-min_competence <- df_temp[which.min(df_temp$average_rating_competence), "name_post_annotation"]
-df_temp[which.min(df_temp$average_rating_competence), "movie_name"]
-
-# correlations
-cor.test(df$imdb_rating_decimal, df$average_rating_competence)
-cor.test(df$imdb_rating_decimal, df$average_rating_warmth)
-cor.test(df$average_rating_warmth, df$average_rating_competence)
-
-# standardize --------------------------------------------------
-
-#standardize dv s
-df$imdb_rating_decimal <- scale(df$imdb_rating_decimal)[,1]
-
-#standardize iv s
-df$average_rating_warmth <- scale(df$average_rating_warmth)[,1]
-df$average_rating_competence <- scale(df$average_rating_competence)[,1]
-
-genre_cols <- c("Romance", "Crime", "Drama", "Thriller", "Comedy", "Action", "Adventure", "Sci.Fi", "Mystery", "Horror", "Fantasy", "Biography")
-
-
-# avg warmth comp of genres --------------------------------------------------
-
-# Pivot genres
-df_plot <- df %>%
-  pivot_longer(
-    cols = all_of(genre_cols),
-    names_to = "genre",
-    values_to = "is_genre"
-  ) %>%
-  filter(is_genre == 1)
-
+to_apa_scientific <- function(x, digits = 3) {
+  s <- format(x, scientific = TRUE, digits = digits)
+  parts <- strsplit(s, "e")[[1]]
+  coeff <- parts[1]
+  exp <- as.integer(parts[2])
+  paste0(coeff, " × 10^", exp)
+}
 
 plot_trait_by_genre <- function(df, trait_col, trait_name) {
   # Calculate mean per genre for ordering
@@ -79,44 +35,217 @@ plot_trait_by_genre <- function(df, trait_col, trait_name) {
   
   # Violin plot
   ggplot(df, aes(x = factor(genre, levels = genre_order$genre), y = .data[[trait_col]])) +
-    geom_violin(trim = FALSE, alpha = 0.5, fill = "skyblue") +
+    geom_violin(trim = FALSE, alpha = 0.5, fill = "lightgray") +
     geom_point(data = df_summary, aes(y = mean_rating), color = "black", size = 1) +
     geom_errorbar(data = df_summary,
                   aes(y = NULL, ymin = mean_rating - se_rating, ymax = mean_rating + se_rating),
                   width = 0.2, color = "black") +
     coord_flip() +
     theme_minimal() +
+    theme(text = element_text(size = 14)) +
     labs(
-      title = paste("Average", trait_name, "by Genre"),
       x = "",
       y = paste(trait_name, "Rating")
     )
 }
 
-plot_trait_by_genre(df_plot, "average_rating_competence", "Competence")
-plot_trait_by_genre(df_plot, "average_rating_warmth", "Warmth")
+descriptives_plot <- function(data, var1, var2, var3) {
+  
+  # Map old column names to pretty labels for densities
+  old_names <- c(var1, var2, var3)
+  new_names <- c("Warmth", "Competence", "IMDb Rating")
+  name_map <- setNames(new_names, old_names)  # old -> new
+  
+  # Long format for density plotting
+  df_long <- data %>%
+    select(all_of(old_names)) %>%
+    rename_with(~ name_map[.x], .cols = everything()) %>%
+    pivot_longer(cols = everything(),
+                 names_to = "variable",
+                 values_to = "value")
+  
+  # Set factor levels for legend order: Warmth, IMDb Rating, Competence
+  df_long$variable <- factor(df_long$variable,
+                             levels = c("IMDb Rating", "Warmth","Competence"))
+  
+  # Assign linetypes
+  lt_map <- c(
+    "Warmth" = "solid",
+    "Competence" = "dashed",
+    "IMDb Rating" = "dotted"
+  )
+  
+  # Density plot with legend inside
+  p_density <- ggplot(df_long, aes(x = value, linetype = variable)) +
+    geom_density(color = "black", fill = NA, size = 0.8) +
+    scale_linetype_manual(values = lt_map) +
+    theme_bw() +
+    labs(x = NULL, y = NULL) +
+    theme(
+      legend.title = element_blank(),
+      plot.title = element_blank(),
+      axis.title = element_blank(),
+      legend.position = c(0.8, 0.8),       # inside plot
+      legend.background = element_rect(fill = "white", color = "black")
+    )
+  
+  # Barplot of genres
+  genre_cols <- c("Drama", "Thriller", "Comedy", "Action", "Crime",
+                  "Romance", "Adventure", "Sci.Fi", "Mystery",
+                  "Horror", "Fantasy", "Biography")
+  
+  genre_counts <- data %>%
+    select(all_of(genre_cols)) %>%
+    summarise(across(everything(), sum, na.rm = TRUE)) %>%
+    pivot_longer(cols = everything(), names_to = "Genre", values_to = "Count")
+  
+  p_genre <- ggplot(genre_counts, aes(x = reorder(Genre, -Count), y = Count)) +
+    geom_bar(stat = "identity", color = "black", fill = "white") +
+    theme_bw() +
+    labs(x = NULL, y = NULL) +
+    theme(
+      text = element_text(size = 14),
+      axis.text.x = element_text(angle = 45, hjust = 1),
+      plot.title = element_blank()
+    )
+  
+  # Combine plots
+  p_density + p_genre + patchwork::plot_layout(widths = c(1, 1))
+}
 
-# Bayesian ANOVA for Warmth
-bf_warmth <- lmBF(
-  formula = average_rating_warmth ~ Drama + Thriller + Comedy + Action + Crime + Romance + Adventure + Sci.Fi + Mystery + Horror + Fantasy + Biography,
-  data = df[!is.na(df$average_rating_warmth), ],
-  whichModels = "all",
-  progress = FALSE
-)
-print(bf_warmth)
+get_coef_mean <- function(fit, coef_name) {
+  
+  draws_list = as_draws(fit)
+  # Check if coefficient exists
+  if (!coef_name %in% names(draws_list[[1]])) {
+    stop(paste("Coefficient", coef_name, "not found in draws"))
+  }
+  
+  # Combine all chains
+  all_draws <- unlist(lapply(draws_list, function(chain) chain[[coef_name]]))
+  
+  # Compute mean
+  mean(all_draws)
+}
 
-# Bayesian ANOVA for competence
-bf_competence <- lmBF(
-  formula = average_rating_competence ~ Drama + Thriller + Comedy + Action + Crime + Romance + Adventure + Sci.Fi + Mystery + Horror + Fantasy + Biography,
-  data = df[!is.na(df$average_rating_competence), ],
-  whichModels = "all",
-  progress = FALSE
-)
-print(bf_competence)
+# read data ---------------------------------------------------------------
 
+df <- read.csv("data/data.csv")
+my_priors <- c(prior(normal(0, 1), class = "b"))
+set.seed(42)
+
+# explore vars ------------------------------------------------------------
+
+# histograms
+summary(df$average_rating_warmth)
+sd(df$average_rating_warmth, na.rm = T)
+summary(df$average_rating_competence)
+sd(df$average_rating_competence, na.rm = T)
+summary(df$imdb_rating_decimal)
+needed_later = sd(df$imdb_rating_decimal, na.rm = T)
+
+# summary n
+mean(df$n_warmth, na.rm = T)
+mean(df$n_competence, na.rm = T)
+
+# show max/min name_post_annotations
+df_temp <- df[df$n_warmth > 20, ]
+max_warmth <- df_temp[which.max(df_temp$average_rating_warmth), "name_post_annotation"]
+min_warmth <- df_temp[which.min(df_temp$average_rating_warmth), "name_post_annotation"]
+
+#same for competence trait
+df_temp <- df[df$n_competence > 20, ]
+max_competence <- df_temp[which.max(df_temp$average_rating_competence), "name_post_annotation"]
+min_competence <- df_temp[which.min(df_temp$average_rating_competence), "name_post_annotation"]
+df_temp[which.min(df_temp$average_rating_competence), "movie_name"]
+
+# correlations
+cor.test(df$imdb_rating_decimal, df$average_rating_competence)
+cor.test(df$imdb_rating_decimal, df$average_rating_warmth)
+cor.test(df$average_rating_warmth, df$average_rating_competence)
+
+png("figures/descriptives_plot.png", width = 10, height = 5, units = "in", res = 300)
+descriptives_plot(df, 
+                  var1 = "average_rating_warmth",
+                  var2 = "average_rating_competence",
+                  var3 = "imdb_rating_decimal")
+dev.off()
+
+# standardize --------------------------------------------------
+
+#standardize dv s
+df$imdb_rating_decimal <- scale(df$imdb_rating_decimal)[,1]
+
+#standardize iv s
+df$average_rating_warmth_unscaled <- df$average_rating_warmth
+df$average_rating_competence_unscaled <- df$average_rating_competence
+df$average_rating_warmth <- scale(df$average_rating_warmth)[,1]
+df$average_rating_competence <- scale(df$average_rating_competence)[,1]
+
+genre_cols <- c("Romance", "Crime", "Drama", "Thriller", "Comedy", "Action", "Adventure", "Sci.Fi", "Mystery", "Horror", "Fantasy", "Biography")
+
+
+# avg warmth comp of genres --------------------------------------------------
+
+# Pivot genres
+df_plot <- df %>%
+  pivot_longer(
+    cols = all_of(genre_cols),
+    names_to = "genre",
+    values_to = "is_genre"
+  ) %>%
+  filter(is_genre == 1)
+
+a = plot_trait_by_genre(df_plot, "average_rating_warmth_unscaled", "Warmth")
+b = plot_trait_by_genre(df_plot, "average_rating_competence_unscaled", "Competence")
+png("figures/genre_traits.png", width = 10, height = 6, units = "in", res = 300)
+a + b
+dev.off()
+
+# compare traits across genres --------------------------------------------
+
+#warmth
+null_warmth <- brm(average_rating_warmth ~ 1,
+                    data = df[!is.na(df$average_rating_warmth), ],  
+                    family = gaussian(),   # numeric outcome
+                    chains = 4,
+                    iter = 4000,
+                    cores = 4,
+                    seed = 42)
+
+warmth_across_genres <- brm(average_rating_warmth ~ Drama + Thriller + Comedy + Action + Crime + Romance + Adventure + Sci.Fi + Mystery + Horror + Fantasy + Biography,
+                                data = df[!is.na(df$average_rating_warmth), ],  
+                                family = gaussian(),   # numeric outcome
+                                chains = 4,
+                                iter = 4000,
+                                cores = 4,
+                                prior = my_priors,
+                                seed = 42)
+bf1 = bayes_factor(warmth_across_genres, null_warmth)
+to_apa_scientific(bf1)
+
+#competence
+null_competence <- brm(average_rating_competence ~ 1,
+  data = df[!is.na(df$average_rating_competence), ],  
+  family = gaussian(),   # numeric outcome
+  chains = 4,
+  iter = 4000,
+  cores = 4,
+  seed = 42)
+
+competence_across_genres <- brm(average_rating_competence ~ Drama + Thriller + Comedy + Action + Crime + Romance + Adventure + Sci.Fi + Mystery + Horror + Fantasy + Biography,
+  data = df[!is.na(df$average_rating_competence), ],  
+  family = gaussian(),   # numeric outcome
+  chains = 4,
+  iter = 4000,
+  cores = 4,
+  prior = my_priors,
+  seed = 42)
+
+bf2 = bayes_factor(competence_across_genres, null_competence)
+to_apa_scientific(bf2)
 
 # main effects ----------------------------------------------------------------
-my_priors <- c(prior(normal(0, 1), class = "b"))
 
 #lm null
 
@@ -127,7 +256,7 @@ lm_null <- brm(
   chains = 4,
   iter = 4000,
   cores = 4,
-  seed = 123
+  seed = 42
 )
 
 # # single pred warmth
@@ -139,10 +268,16 @@ lm_warmth <- brm(
   chains = 4,
   iter = 4000,
   cores = 4,
-  seed = 123
+  seed = 42
 )
+
+bf3 = bayes_factor(lm_warmth, lm_null)
+to_apa_scientific(bf3)
 print(lm_warmth)
-bayes_factor(lm_warmth, lm_null)
+#extract coeff
+# compute unstandardized effect size
+needed_later *get_coef_mean(lm_warmth, "b_average_rating_warmth")
+
 
 # #competence
 lm_competence <- brm(
@@ -153,9 +288,13 @@ lm_competence <- brm(
   chains = 4,
   iter = 4000,
   cores = 4,
-  seed = 123)
+  seed = 42)
+
+bf4 = bayes_factor(lm_competence, lm_null)
+to_apa_scientific(bf4)
 print(lm_competence)
-bayes_factor(lm_competence, lm_null)
+#compute unstandardized effect size
+needed_later * get_coef_mean(lm_competence, "b_average_rating_competence")
 
 
 # PREP MULTIPLE MEMBERSHIP -----------------------------------------------------
@@ -165,6 +304,9 @@ library(dplyr)
 library(purrr)
 
 set.seed(42)
+
+#check how many movies have more than 3 genres
+mean(rowSums(df[!is.na(df$average_rating_warmth),  genre_cols]) > 3)
 
 movies_limited <- df %>%
   rowwise() %>%
@@ -194,19 +336,20 @@ movies_final <- movies_limited %>%
 # ---- Fit multiple membership model WARMTH----
 
 
-mm_fit_null <- brm(
+mm_null_warmth <- brm(
   imdb_rating_decimal ~ average_rating_warmth +
     (1 | mm(g1, g2, weights = cbind(w1, w2))),
   data = movies_final,
   family = gaussian(),
   chains = 4,
   cores = 4,
+  seed = 42,
   iter = 4000,
   save_pars = save_pars(all = TRUE)
 )
 
 
-mm_fit <- brm(
+mm_warmth <- brm(
   imdb_rating_decimal ~ average_rating_warmth +
     (1 + average_rating_warmth | mm(g1, g2, weights = cbind(w1, w2))),
   data = movies_final,
@@ -214,70 +357,77 @@ mm_fit <- brm(
   chains = 4,
   cores = 4,
   iter = 4000,
+  prior = my_priors,
+  seed = 42,
+  control = list(adapt_delta = 0.9),
   save_pars = save_pars(all = TRUE)
 )
 
-bayes_factor(mm_fit, mm_fit_null)
+bf5 = bayes_factor(mm_warmth, mm_null_warmth)
+bf5
 
-# Get posterior draws
-posterior <- as_draws_df(mm_fit)
-
-# Extract the population-level slope
-beta_warmth <- posterior %>% select(b_average_rating_warmth)
-
-# Extract random effects (genre-specific slope deviations)
-ranef_df <- ranef(mm_fit)$mm  # list of arrays: intercepts and slopes
-
-
-# Example: get slope mean + 95% CI for each genre
-# extract the slope deviations matrix
-slope_mat <- ranef_df[, , "average_rating_warmth"]
-
-# create data frame
-genre_slopes <- tibble(
-  genre = rownames(slope_mat),
-  slope_mean = slope_mat[, "Estimate"] + fixef(mm_fit)["average_rating_warmth", "Estimate"],
-  slope_lower = slope_mat[, "Q2.5"] + fixef(mm_fit)["average_rating_warmth", "Estimate"],
-  slope_upper = slope_mat[, "Q97.5"] + fixef(mm_fit)["average_rating_warmth", "Estimate"]
-)
-
-ggplot(genre_slopes, aes(x = reorder(genre, slope_mean), y = slope_mean)) +
-  geom_point(size = 3, color = "steelblue") +
-  geom_errorbar(aes(ymin = slope_lower, ymax = slope_upper), width = 0.2, color = "steelblue") +
-  coord_flip() +
-  labs(
-    x = "Genre",
-    y = "Slope of Warmth on IMDb Rating",
-  ) +
-  theme_minimal(base_size = 14)
+# # Get posterior draws
+# posterior <- as_draws_df(mm_fit)
+# 
+# # Extract the population-level slope
+# beta_warmth <- posterior %>% select(b_average_rating_warmth)
+# 
+# # Extract random effects (genre-specific slope deviations)
+# ranef_df <- ranef(mm_fit)$mm  # list of arrays: intercepts and slopes
+# 
+# 
+# # Example: get slope mean + 95% CI for each genre
+# # extract the slope deviations matrix
+# slope_mat <- ranef_df[, , "average_rating_warmth"]
+# 
+# # create data frame
+# genre_slopes <- tibble(
+#   genre = rownames(slope_mat),
+#   slope_mean = slope_mat[, "Estimate"] + fixef(mm_fit)["average_rating_warmth", "Estimate"],
+#   slope_lower = slope_mat[, "Q2.5"] + fixef(mm_fit)["average_rating_warmth", "Estimate"],
+#   slope_upper = slope_mat[, "Q97.5"] + fixef(mm_fit)["average_rating_warmth", "Estimate"]
+# )
+# 
+# ggplot(genre_slopes, aes(x = reorder(genre, slope_mean), y = slope_mean)) +
+#   geom_point(size = 3, color = "steelblue") +
+#   geom_errorbar(aes(ymin = slope_lower, ymax = slope_upper), width = 0.2, color = "steelblue") +
+#   coord_flip() +
+#   labs(
+#     x = "Genre",
+#     y = "Slope of Warmth on IMDb Rating",
+#   ) +
+#   theme_minimal(base_size = 14)
 
 # ---- Fit multiple membership model Competence----
 
-mm_fit_null_comp <- brm(
+mm_null_comp <- brm(
   imdb_rating_decimal ~ average_rating_competence +
     (1 | mm(g1, g2, weights = cbind(w1, w2))),
   data = movies_final,
   family = gaussian(),
   chains = 4,
   cores = 4,
+  seed = 42,
   iter = 4000,
   save_pars = save_pars(all = TRUE)
 )
 
 
-mm_fit_comp <- brm(
+mm_competence <- brm(
   imdb_rating_decimal ~ average_rating_competence +
     (1 + average_rating_competence | mm(g1, g2, weights = cbind(w1, w2))),
   data = movies_final,
   family = gaussian(),
   chains = 4,
   cores = 4,
+  prior = my_priors,
+  seed = 42,
   iter = 4000,
   save_pars = save_pars(all = TRUE)
 )
 
-bayes_factor(mm_fit_comp, mm_fit_null_comp)
-
+bf6 = bayes_factor(mm_competence, mm_null_comp)
+bf6
 
 
 #plot simple correlation
@@ -370,3 +520,17 @@ ggplot(competence_df, aes(x = genre, y = corr)) +
   coord_flip() +
   ylim(c(-0.5, 0.5))
 
+#check Rhat and ESS of every model. save in c() and print
+model_list = list(
+  lm_warmth,
+  lm_competence,
+  mm_warmth,
+  mm_competence
+)
+
+for(m in model_list){
+  vals = rhat(m)
+  if(any(vals[!is.na(vals)]>1.01)){
+    print(paste("Warning: Rhat > 1.01 in model", deparse(substitute(m))))
+  }
+}

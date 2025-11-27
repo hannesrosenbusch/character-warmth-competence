@@ -26,6 +26,35 @@ my_priors <- c(
   prior(normal(0, 1), class = "b")  # prior for coefficients
 )
 
+
+# effect of gender on trait -----------------------------------------------
+
+lm_comp <- brm(
+  formula = average_rating_competence ~  gender,
+  data = df,
+  family = gaussian(),   # numeric outcome
+  prior = my_priors,
+  chains = 4,
+  iter = 4000,
+  cores = 4,
+  seed = 42)
+
+print(lm_comp)
+
+lm_war <- brm(
+  formula = average_rating_warmth ~  gender,
+  data = df,
+  family = gaussian(),   # numeric outcome
+  prior = my_priors,
+  chains = 4,
+  iter = 4000,
+  cores = 4,
+  seed = 42)
+
+print(lm_war)
+
+# effect of gender*trait on imdb ------------------------------------------
+
 #base model
 lm_competence <- brm(
   formula = imdb_rating_decimal ~ average_rating_competence + gender,
@@ -48,7 +77,7 @@ lm_competence_interaction <- brm(
   chains = 4,
   iter = 4000,
   cores = 4,
-  seed = 123)
+  seed = 42)
 print(lm_competence_interaction)
 bayes_factor(lm_competence_interaction, lm_competence)
 
@@ -65,7 +94,7 @@ lm_warmth = brm(
   chains = 4,
   iter = 4000,
   cores = 4,
-  seed = 123)
+  seed = 42)
 print(lm_warmth)
 
 lm_warmth_interaction = brm(
@@ -76,7 +105,7 @@ lm_warmth_interaction = brm(
   chains = 4,
   iter = 4000,
   cores = 4,
-  seed = 123)
+  seed = 42)
 bayes_factor(lm_warmth_interaction, lm_warmth)
 
 plot(conditional_effects(lm_competence_interaction), points = TRUE)
