@@ -55,7 +55,21 @@ print(lm_war)
 
 # effect of gender*trait on imdb ------------------------------------------
 
-#base model
+#gender base
+lm_gender <- brm(
+  formula = imdb_rating_decimal ~ gender,
+  data = df,
+  family = gaussian(),   # numeric outcome
+  prior = my_priors,
+  chains = 4,
+  iter = 4000,
+  cores = 4,
+  seed = 42)
+print(lm_gender)
+
+0.36 * 0.947  # interpret effect size in original scale
+
+#competence
 lm_competence <- brm(
   formula = imdb_rating_decimal ~ average_rating_competence + gender,
   data = df,
@@ -64,7 +78,7 @@ lm_competence <- brm(
   chains = 4,
   iter = 4000,
   cores = 4,
-  seed = 123)
+  seed = 42)
 
 print(lm_competence)
 
@@ -110,3 +124,28 @@ bayes_factor(lm_warmth_interaction, lm_warmth)
 
 plot(conditional_effects(lm_competence_interaction), points = TRUE)
 
+
+# trait interaction -------------------------------------------------------
+
+lm_trait_interaction = brm(
+  formula = imdb_rating_decimal ~ average_rating_competence * average_rating_warmth,
+  data = df,
+  family = gaussian(),   # numeric outcome
+  prior = my_priors,
+  chains = 4,
+  iter = 4000,
+  cores = 4,
+  seed = 42)
+print(lm_trait_interaction)
+
+lm_trait_mains = brm(
+  formula = imdb_rating_decimal ~ average_rating_competence + average_rating_warmth,
+  data = df,
+  family = gaussian(),   # numeric outcome
+  prior = my_priors,
+  chains = 4,
+  iter = 4000,
+  cores = 4,
+  seed = 42)
+
+bayes_factor(lm_trait_interaction, lm_trait_mains)

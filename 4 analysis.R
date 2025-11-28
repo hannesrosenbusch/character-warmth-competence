@@ -51,45 +51,69 @@ plot_trait_by_genre <- function(df, trait_col, trait_name) {
 
 descriptives_plot <- function(data, var1, var2, var3) {
   
-  # Map old column names to pretty labels for densities
+  # Map old column names to pretty labels
   old_names <- c(var1, var2, var3)
   new_names <- c("Warmth", "Competence", "IMDb Rating")
-  name_map <- setNames(new_names, old_names)  # old -> new
+  name_map <- setNames(new_names, old_names)
   
-  # Long format for density plotting
+  # Long format for violin/jitter
   df_long <- data %>%
-    select(all_of(old_names)) %>%
-    rename_with(~ name_map[.x], .cols = everything()) %>%
-    pivot_longer(cols = everything(),
+    select(name_post_annotation, n_warmth, n_competence, all_of(old_names)) %>%
+    rename_with(~ name_map[.x], .cols = all_of(old_names)) %>%
+    pivot_longer(cols = all_of(new_names),
                  names_to = "variable",
                  values_to = "value")
   
-  # Set factor levels for legend order: Warmth, IMDb Rating, Competence
   df_long$variable <- factor(df_long$variable,
-                             levels = c("IMDb Rating", "Warmth","Competence"))
+                             levels = c("IMDb Rating", "Warmth", "Competence"))
   
-  # Assign linetypes
-  lt_map <- c(
-    "Warmth" = "solid",
-    "Competence" = "dashed",
-    "IMDb Rating" = "dotted"
-  )
+
+  df_filtered <- df_long %>%
+    mutate(
+      restriction_ok =
+        case_when(
+          variable == "Warmth" ~ n_warmth > 20,
+          variable == "Competence" ~ n_competence > 20,
+          variable == "IMDb Rating" ~ TRUE,  # or add restriction if needed
+          TRUE ~ TRUE
+        )
+    ) %>%
+    filter(restriction_ok)
   
-  # Density plot with legend inside
-  p_density <- ggplot(df_long, aes(x = value, linetype = variable)) +
-    geom_density(color = "black", fill = NA, size = 0.8) +
-    scale_linetype_manual(values = lt_map) +
+  # compute min/max labels *only among restricted rows*
+  label_df <- df_filtered %>%
+    group_by(variable) %>%
+    summarise(
+      min_value = min(value, na.rm = TRUE),
+      max_value = max(value, na.rm = TRUE),
+      min_name = name_post_annotation[which.min(value)],
+      max_name = name_post_annotation[which.max(value)]
+    ) %>%
+    pivot_longer(cols = c(min_value, max_value, min_name, max_name),
+                 names_to = c("type", ".value"),
+                 names_pattern = "(min|max)_(.*)") %>%
+    rename(value = value, name = name)
+  
+
+  p_violin <- ggplot(df_long, aes(x = variable, y = value)) +
+    geom_violin(fill = "white", color = "black") +
+    geom_jitter(width = 0.2, alpha = 0.1, size = 1) +
+    geom_text(
+      data = label_df,
+      aes(label = name, y = value),
+      vjust = -0.3,
+      size = 3,
+      fontface = "bold"
+    ) +
     theme_bw() +
     labs(x = NULL, y = NULL) +
     theme(
-      legend.title = element_blank(),
-      plot.title = element_blank(),
-      axis.title = element_blank(),
-      legend.position = c(0.8, 0.8),       # inside plot
-      legend.background = element_rect(fill = "white", color = "black")
-    )
+      text = element_text(size = 14),
+      legend.position = "none",
+      axis.title = element_blank()
+    ) +
+    scale_y_continuous(breaks = seq(-2.5, 10, by = 2.5))
   
-  # Barplot of genres
   genre_cols <- c("Drama", "Thriller", "Comedy", "Action", "Crime",
                   "Romance", "Adventure", "Sci.Fi", "Mystery",
                   "Horror", "Fantasy", "Biography")
@@ -97,7 +121,9 @@ descriptives_plot <- function(data, var1, var2, var3) {
   genre_counts <- data %>%
     select(all_of(genre_cols)) %>%
     summarise(across(everything(), sum, na.rm = TRUE)) %>%
-    pivot_longer(cols = everything(), names_to = "Genre", values_to = "Count")
+    pivot_longer(cols = everything(),
+                 names_to = "Genre",
+                 values_to = "Count")
   
   p_genre <- ggplot(genre_counts, aes(x = reorder(Genre, -Count), y = Count)) +
     geom_bar(stat = "identity", color = "black", fill = "white") +
@@ -105,13 +131,13 @@ descriptives_plot <- function(data, var1, var2, var3) {
     labs(x = NULL, y = NULL) +
     theme(
       text = element_text(size = 14),
-      axis.text.x = element_text(angle = 45, hjust = 1),
-      plot.title = element_blank()
+      axis.text.x = element_text(angle = 45, hjust = 1)
     )
   
-  # Combine plots
-  p_density + p_genre + patchwork::plot_layout(widths = c(1, 1))
+  # Combine the two plots
+  p_violin + p_genre + patchwork::plot_layout(widths = c(1, 1))
 }
+
 
 get_coef_mean <- function(fit, coef_name) {
   
@@ -147,17 +173,6 @@ needed_later = sd(df$imdb_rating_decimal, na.rm = T)
 # summary n
 mean(df$n_warmth, na.rm = T)
 mean(df$n_competence, na.rm = T)
-
-# show max/min name_post_annotations
-df_temp <- df[df$n_warmth > 20, ]
-max_warmth <- df_temp[which.max(df_temp$average_rating_warmth), "name_post_annotation"]
-min_warmth <- df_temp[which.min(df_temp$average_rating_warmth), "name_post_annotation"]
-
-#same for competence trait
-df_temp <- df[df$n_competence > 20, ]
-max_competence <- df_temp[which.max(df_temp$average_rating_competence), "name_post_annotation"]
-min_competence <- df_temp[which.min(df_temp$average_rating_competence), "name_post_annotation"]
-df_temp[which.min(df_temp$average_rating_competence), "movie_name"]
 
 # correlations
 cor.test(df$imdb_rating_decimal, df$average_rating_competence)
