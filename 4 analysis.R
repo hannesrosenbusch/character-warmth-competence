@@ -179,6 +179,9 @@ cor.test(df$imdb_rating_decimal, df$average_rating_competence)
 cor.test(df$imdb_rating_decimal, df$average_rating_warmth)
 cor.test(df$average_rating_warmth, df$average_rating_competence)
 
+#count number of times that multiple people were chosen as protagonist
+sum(grepl("and", df$name_post_annotation))
+
 png("figures/descriptives_plot.png", width = 10, height = 5, units = "in", res = 300)
 descriptives_plot(df, 
                   var1 = "average_rating_warmth",
